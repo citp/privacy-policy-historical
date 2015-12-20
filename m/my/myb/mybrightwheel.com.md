@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mybrightwheel.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621093852id_/http%3A//www.mybrightwheel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrightwheel.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220031539id_/http%3A//www.mybrightwheel.com/privacy) for the most accurate reproduction.*
 
-# privacy | brightwheel
+# privacy - brightwheel
 
 Effective date: February 1, 2015
 
-We at Brightwheel know you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  **By using** **or accessing** **the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+We at brightwheel know you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  **By using** **or accessing** **the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-Remember that your use of Brightwheel’s Services is at all times subject to the [Terms of Use](http://www.brightwheel.co/terms), which incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](http://www.brightwheel.co/terms).
+Remember that your use of brightwheel’s Services is at all times subject to the [Terms of Use](http://www.brightwheel.co/terms), which incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](http://www.brightwheel.co/terms).
 
 **What does this Privacy Policy cover** **?**
 
@@ -14,11 +14,11 @@ This Privacy Policy covers our treatment of personally identifiable information 
 
 As noted in the [Terms of Use](http://www.brightwheel.co/terms "Terms"), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at info@brightwheel.com.
 
-**Will** **Brightwheel** **ever change this Privacy Policy** **?**
+**Will b** **rightwheel** **ever change this Privacy Policy** **?**
 
 We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will do our best to alert you to changes by placing a notice on www.brightwheel.co, by sending you an email, and/or by some other means. Please note that if we aren’t able to send a notification or if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), you are still responsible for reading and understanding the changes.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
 
-**What Information** **does** **Brightwheel** **Collect** **?**
+**What Information** **does b** **rightwheel** **Collect** **?**
 
 _Information You Provide to Us:_
 
@@ -38,7 +38,7 @@ _Information Collected From Other Websites and Do Not Track Policy_
 
 Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services.  Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.  Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites.  Our Services do not support Do Not Track requests at this time, which means that we may collect information about your online activity both while you are using the Services and after you leave our Services.
 
-**Will** **Brightwheel** **Share Any of the Personal Information it Receives** **?**
+**Will b** **rightwheel** **Share Any of the Personal Information it Receives** **?**
 
 We do not rent or sell your Personal Information in personally identifiable form to anyone, provided that certain Personal Information may be transferred in connection with business transfers, as described below. We may share your Personal Information with third parties as described in this section:
 
