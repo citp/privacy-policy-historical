@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castup.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205243id_/http%3A//www.castup.tv/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castup.tv privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220192811id_/http%3A//www.castup.tv/policy) for the most accurate reproduction.*
 
 # Castup.tv - The largest streaming platform for live streaming , live broadcasting and more...
 
