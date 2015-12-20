@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobida.in privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621225446id_/http%3A//mobida.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobida.in privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220112400id_/http%3A//mobida.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobida.In -Find your Pin Code
 
