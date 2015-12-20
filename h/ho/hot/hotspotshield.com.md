@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotspotshield.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621023801id_/http%3A//www.hotspotshield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotshield.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220214853id_/http%3A//www.hotspotshield.com/privacy) for the most accurate reproduction.*
 
-# AnchorFree Hotspot Shield Software Privacy Notice
+# Privacy Notice: Hotspot Shield Software By AnchorFree
 
 ## Protecting the web for your security, privacy and anonymity!
 
@@ -18,7 +18,7 @@ Welcome, and thank you for your interest in AnchorFree, Inc and AnchorFree GmbH 
 
 This Notice generally describes the information that we gather from you on the Service, the ways in which we use and disclose this information, and the steps we take to protect this information. By using the Service, you consent to the privacy practices described in this Notice.
 
-This Notice is incorporated into and is subject to the AnchorFree [Terms of Use](https://web.archive.org/web/20150621023801id_/http%3A//www.hotspotshield.com/terms). Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.
+This Notice is incorporated into and is subject to the AnchorFree [Terms of Use](https://web.archive.org/web/20151220214853id_/http%3A//www.hotspotshield.com/terms). Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.
 
 Our Commitment to User Privacy:
 
