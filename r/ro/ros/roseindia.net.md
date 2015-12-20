@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423113925id_/http%3A//www.roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220113528id_/http%3A//www.roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
 
 # RoseIndia.net Privacy Policy
 
