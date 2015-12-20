@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaldesire.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510115022id_/http%3A//www.digitaldesire.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldesire.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220072842id_/http%3A//www.digitaldesire.com/pages/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Digital Desire
 
 We do not, and will not, distribute, rent or sell any personally identifiable information to third parties without your express consent, other than as necessary to process your credit card payment; unless requested via a subpoena, court order, or local, state, federal or international law enforcement request. 
 
