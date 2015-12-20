@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the sproutonline.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007190346id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutonline.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220035807id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Sprout Online Services Privacy Policy | Sprout
+# Privacy Policy | Sprout
 
-Sprout, an entity of Children’s Network, LLC (“Sprout”), is the first multi-platform service (on-air, on-demand, and online) devoted to preschool children and their parents (references to “parents” also means “legal guardians”), 24 hours a day, 7 days a week. Sprout is available online at www.SproutOnline.com (“SproutOnline.com” or “Website”) and through applications (“Apps”) (collectively the “Online Services”) Sprout makes available on mobile devices or other platforms, providing parents and their children the opportunity to engage in shared moments of learning and laughing together. Our fun, educational, and interactive Online Services offer programming schedules, original preschooler age-appropriate games, and user-friendly tools that let parents and their children interact with their favorite Sprout characters. The Online Services also offer content and activities designed for parents to help them learn and be inspired. This Privacy Policy applies to the Online Services, and does not apply to other Sprout products or services. The Online Services are directed to, and intended for, residents of the United States. We are committed to respecting and protecting the privacy of users of this Website, including complying with the Children's Online Privacy Protection Act of 1998 (“COPPA”) when applicable, as discussed in more detail below. 
+## **Sprout Online Services Privacy Policy**
+
+Sprout, an entity of Children’s Network, LLC (“Sprout”), is the first multi-platform service (on-air, on-demand, and online) devoted to preschool children and their parents (references to “parents” also means “legal guardians”), 24 hours a day, 7 days a week. Sprout is available online at [www.SproutOnline.com](http://www.sproutonline.com/) (“SproutOnline.com” or “Website”) and through applications (“Apps”) (collectively the “Online Services”) Sprout makes available on mobile devices or other platforms, providing parents and their children the opportunity to engage in shared moments of learning and laughing together. Our fun, educational, and interactive Online Services offer programming schedules, original preschooler age-appropriate games, and user-friendly tools that let parents and their children interact with their favorite Sprout characters. The Online Services also offer content and activities designed for parents to help them learn and be inspired. This Privacy Policy applies to the Online Services, and does not apply to other Sprout products or services. The Online Services are directed to, and intended for, residents of the United States. We are committed to respecting and protecting the privacy of users of this Website, including complying with the Children's Online Privacy Protection Act of 1998 (“COPPA”) when applicable, as discussed in more detail below. 
+
+**Children’s Privacy  **
 
 Sprout does not condition a child’s participation in any Online Service on the disclosure of more information than is reasonably necessary to participate in the activity.
 
@@ -10,7 +14,7 @@ Neither Sprout nor the service providers who provide support for the internal op
 
 In the event that you believe we have inadvertently collected personal information from your child, you can review such personal information collected from your child through the Online Services, have such information deleted, and refuse to allow further collection or use of such information. Parents can agree to the collection of personal information from their child and the use of such information without agreeing to the disclosure of such information to third parties. Parents generally have a right to opt out of having personal information collected from their child disclosed to third parties. In the event that you believe we have collected personal information from your child, please contact us at the email address provided below and a Sprout representative will guide you through the necessary procedures. 
 
-Collection and Use of Information
+**Collection and Use of Information**
 
 We or our service providers who provide support for the internal operations of our Online Services may collect personal contact and other information about you, your family, or your friends that you voluntarily provide on the Online Services. We use this information for various purposes, including to enhance your experience with the Online Services, and to provide you with the services or products you requested. Areas of the Online Services that require a user to complete a registration process before using those areas are solely directed to parents that are at least 18 years of age. To register, parents must enter their birth date to confirm that they are at least 18 years old. Parents must also create a unique account name and password and provide personal information including the parent’s full name, parent’s email address, and parent’s home address.
 
@@ -24,55 +28,54 @@ Users of the Online Services, including non-registered users, may also be given 
 
 Some of the Online Services allow parents to post information about the Online Service to a third-party social media service, such as Facebook or Twitter. Sprout does not receive any information about you from the social media service, nor does Sprout provide any information about you to the social media service. If you choose to use these features, your actions are governed by the privacy policy of the social media service. Please review each provider’s governing policies before using their service.
 
-Sprout also makes certain video programming available to authenticated consumers through the Online Services. In order to access full episodes of Sprout shows through our Online Services, you may be required to provide the username and password associated with your video service provider account.  This information is used by your video service provider to authenticate your credentials and verify your eligibility to access this content. Sprout does not receive any information about you beyond that which is necessary to ensure your access to the appropriate content. 
+Sprout also makes certain video programming available to authenticated consumers through the Online Services. In order to access full episodes of Sprout shows through our Online Services, you may be required to provide the username and password associated with your video service provider account.  This information is used by your video service provider to authenticate your credentials and verify your eligibility to access this content. Sprout does not receive any information about you beyond that which is necessary to ensure your access to the appropriate content.
 
-## _Electronic Materials_
+ _ **Electronic Materials  
+**_ Sprout may provide registered users with the opportunity to send electronic materials created or posted on the Online Services (such as electronic postcards featuring links, artwork, or digital works) or a link to materials on the Online Services to friends and family electronically. In order to send these materials, Sprout may request that you enter your first name, child’s first name and age, and/or first name and email address of the intended recipient of the electronic materials. Recipient email addresses are used only to send the electronic materials to complete your request, and are deleted after your request is fulfilled. 
 
-Sprout may provide registered users with the opportunity to send electronic materials created or posted on the Online Services (such as electronic postcards featuring links, artwork, or digital works) or a link to materials on the Online Services to friends and family electronically. In order to send these materials, Sprout may request that you enter your first name, child’s first name and age, and/or first name and email address of the intended recipient of the electronic materials. Recipient email addresses are used only to send the electronic materials to complete your request, and are deleted after your request is fulfilled. 
+  
+_**Newsletters and Sprout Announcements  
+**_ Sprout may use the registered user’s email address or postal mail address to provide the registered users with newsletters, birthday messages, and other special announcements from Sprout. Registered users can choose to cancel their receipt of these features by visiting the “My Account” page, or through the “unsubscribe” link at the end of each email sent to users.
 
-## _Newsletters and Sprout Announcements_
+  
+__**Contests and Sweepstakes  
+**__ Sprout may offer registered users the opportunity to enter contests and sweepstakes on the Online Services. We may request that a registered user provide his/her child’s first name, age, hometown, home state, and the registered user’s email address. The information collected will be used to conduct the contest or sweepstakes, to notify the winner, and, such winner’s child’s first name, age, hometown, and home state may be announced on SproutOnline.com or other Sprout website and in Sprout television programming or promotional materials. Sprout may also offer contests and sweepstakes sponsored by third parties. In the event that Sprout will share personal information about a registered user with a third-party sponsor of a contest or sweepstakes, Sprout will provide notice in the entry process that entry information may be shared. Use and disclosure of such entry information with third-party sponsors is governed by the privacy policies of those third parties, and is not the responsibility of Sprout. 
 
-Sprout may use the registered user’s email address or postal mail address to provide the registered users with newsletters, birthday messages, and other special announcements from Sprout. Registered users can choose to cancel their receipt of these features by visiting the “My Account” page, or through the “unsubscribe” link at the end of each email sent to users. 
+  
+__**Apps and In-App Purchases  
+**__ Sprout offers a number of fun and educational Apps that are available for both Apple iOS- and Android-based devices. Some of these Apps also include in-app purchase features. When you download or purchase an app, or make an in-app purchase, you do so through a third-party online store which is governed by its own privacy policy and terms of use. To prevent unauthorized in-app purchases, parents can restrict or disable this feature by changing the settings on their mobile device or their account settings for the third-party online store. Parents should not share their account passwords with their children. 
 
-_Contests and Sweepstakes_
+  
+_**Cookies and Other Technologies  
+**_ Sprout or our service providers may place, view, and/or use “cookies” or other technologies to collect information for various reasons on behalf of Sprout, including to enhance users’ experience with the Online Services and to provide certain functions on the Online Services. A cookie is a small text file that is placed on your computer that collects information about your use of this Website, such as the pages visited, the date and the time of a visit, etc. Any information collected by the cookies or other technologies used by Sprout cannot be used to identify you, nor will such information be associated with personal information. [Sprout makes reasonable efforts to limit its designated service providers’ use of cookies or other technologies in the same manner as set forth in this paragraph.] Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, it is possible that some parts of this Website, such as the game areas, will not function properly if you disable cookies.
 
-Sprout may offer registered users the opportunity to enter contests and sweepstakes on the Online Services. We may request that a registered user provide his/her child’s first name, age, hometown, home state, and the registered user’s email address. The information collected will be used to conduct the contest or sweepstakes, to notify the winner, and, such winner’s child’s first name, age, hometown, and home state may be announced on SproutOnline.com or other Sprout website and in Sprout television programming or promotional materials. Sprout may also offer contests and sweepstakes sponsored by third parties. In the event that Sprout will share personal information about a registered user with a third-party sponsor of a contest or sweepstakes, Sprout will provide notice in the entry process that entry information may be shared. Use and disclosure of such entry information with third-party sponsors is governed by the privacy policies of those third parties, and is not the responsibility of Sprout. 
+In serving the advertisements that you see on this Website, Sprout or our service provider may place or recognize a unique cookie on your computer. Information about your visits to this Website is used to serve the advertisements. For more information about DoubleClick, a Google company, who assists Sprout with display of advertisements on this Website, including its use of cookies, as well as its instructions on how to “opt out” of its use of cookies, please [click here](http://www.google.com/privacy/ads/).
 
-_Apps and In-App Purchases_
-
-Sprout offers a number of fun and educational Apps that are available for both Apple iOS- and Android-based devices. Some of these Apps also include in-app purchase features. When you download or purchase an app, or make an in-app purchase, you do so through a third-party online store which is governed by its own privacy policy and terms of use. To prevent unauthorized in-app purchases, parents can restrict or disable this feature by changing the settings on their mobile device or their account settings for the third-party online store. Parents should not share their account passwords with their children.   
-
-## _Cookies and Other Technologies_
-
-Sprout or our service providers may place, view, and/or use “cookies” or other technologies to collect information for various reasons on behalf of Sprout, including to enhance users’ experience with the Online Services and to provide certain functions on the Online Services. A cookie is a small text file that is placed on your computer that collects information about your use of this Website, such as the pages visited, the date and the time of a visit, etc. Any information collected by the cookies or other technologies used by Sprout cannot be used to identify you, nor will such information be associated with personal information. [Sprout makes reasonable efforts to limit its designated service providers’ use of cookies or other technologies in the same manner as set forth in this paragraph.] Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, it is possible that some parts of this Website, such as the game areas, will not function properly if you disable cookies.
-
-In serving the advertisements that you see on this Website, Sprout or our service provider may place or recognize a unique cookie on your computer. Information about your visits to this Website is used to serve the advertisements. For more information about DoubleClick, a Google company, who assists Sprout with display of advertisements on this Website, including its use of cookies, as well as its instructions on how to “opt out” of its use of cookies, please [click here](http://www.google.com/privacy/ads/).
-
-## Disclosure of Information
+ **Disclosure of Information**
 
 Sprout may disclose your personal information and other information that we collect about and from you to third parties if we believe in good faith that such disclosure is reasonably necessary to: (a) respond to judicial process or to the extent permitted by law; (b) take precautions against liability; (c) protect the security or integrity of this Website, including to enforce the terms of use of this Website, or (d) protect the safety of others. Sprout may also disclose this information to third parties if you permit us to do so. Sprout may also disclose this information to provide you with the services or products requested by you, including allowing a purchaser of a Sprout division, or Sprout as a whole, to use your personal information to continue to serve you. For registered users, Sprout may also share your personal information with carefully selected third parties interested in serving you, and you may instruct us at any time not to share this information with such third parties by visiting the “My Account” page. Use and disclosure of your information by the third parties is governed by the privacy policies of those third parties, and is not the responsibility of Sprout.
 
 We may use or disclose on the Online Services, in Sprout’s television programming, or Sprout promotional materials the contents of any material that you submit, post, upload, or otherwise make available on the Online Services (such as your photos posted to the public galleries). In addition, Sprout may disclose information to its service providers who have agreed to not use or disclose the information for any other purpose and whose role is to provide support for the internal operations of the Online Services (e.g., to conduct contests and sweepstakes or to provide email newsletters). Sprout may share non-personal, aggregate information about our users with third parties, such as advertisers, content providers, and business partners. 
 
-## Security
+ **Security**
 
 Our Online Services have established and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected through the Online Services. However, please note that no system can be guaranteed to be 100% secure.
 
-## Links to Third Party Sites
+ **Links to Third Party Sites**
 
 Sprout may use “bumper” pages or similar notifications in the Online Services to clarify when users are linking to an advertiser’s or other third party’s site. These other sites are governed by their own privacy policies, which may be substantially different from ours. Visitors to other sites or services should review the privacy policies and information collection practices of those sites or services. Use and disclosure of information by third parties is governed by the privacy policies of those third parties, and is not the responsibility of Sprout. 
 
-## Questions, Comments, & Concerns?
+ **Questions, Comments, & Concerns?**
 
 Parents, if you have any questions, comments or concerns regarding this Privacy Policy, please contact us at:
 
-Sprout  
+ **Sprout**  
 PO Box 288  
 Fort Washington, Pa 19034  
 [info@SproutOnline.com](mailto:info@sproutonline.com)
 
-## Changes to Privacy Policy
+ **Changes to Privacy Policy**
 
 This Privacy Policy is subject to change. Please review this Privacy Policy so you will always know what information is collected and how it is used. Changes to this Privacy Policy will be effective upon posting. 
 
-Last Updated: July 1, 2013.     
+_Last Updated: July 1, 2013._
