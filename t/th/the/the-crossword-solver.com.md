@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the the-crossword-solver.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407123314id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-crossword-solver.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220051547id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.*
 
 # Crossword Solver" - Privacy Policy
+
+By using The Crossword Solver you agree to our use of cookies. The site uses cookies to deliver its services, to personalise ads and to analyse traffic. Information about your use of this site is shared with Google. [LEARN MORE](https://web.archive.org/privacy)
 
 **Crossword Solver** respect your privacy. We don't ask you to register with the site so don't keep any personal information.
 
