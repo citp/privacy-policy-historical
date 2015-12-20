@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsearchresults.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221133015id_/http%3A//www.media.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsearchresults.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220064128id_/http%3A//www.media.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
