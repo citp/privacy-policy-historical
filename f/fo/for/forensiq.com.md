@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617001042id_/http%3A//forensiq.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220164113id_/http%3A//forensiq.com//privacy-policy) for the most accurate reproduction.*
 
 # Forensiq Privacy Policy | Forensiq
 
@@ -76,6 +76,14 @@ We take commercially reasonable security measures to protect the information in 
 ### Children’s Privacy
 
 We intend our services to only be used by adults. We do not collect any personally identifiable information via our services. If we discover that a child under the age of 13 has supplied personally identifiable information to us via our services without his/her parent’s consent, we will use reasonable attempts to ensure that this information is deleted from our system.
+
+### U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
+
+Forensiq, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Forensiq, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forensiq, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
+
+### Dispute Resolution
+
+Forensiq LLC participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request). Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English.
 
 ### Changes to This Privacy Policy
 
