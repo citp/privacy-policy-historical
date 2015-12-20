@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rboptions.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119235652id_/http%3A//www.rboptions.com/content.php%3Fid%3D1068) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rboptions.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220091120id_/http%3A//www.rboptions.com/content.php%3Fid%3D1068) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
