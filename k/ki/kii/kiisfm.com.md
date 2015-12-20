@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kiisfm.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627201300id_/http%3A//www.kiisfm.com/cc-common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiisfm.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220214119id_/http%3A//www.kiisfm.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | KIIS FM
 
-[Versión en Español](https://web.archive.org/web/20150630222818id_/http://www.kiisfm.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](https://web.archive.org/web/20151220214119id_/http%3A//articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
