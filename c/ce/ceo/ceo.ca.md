@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceo.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629115605id_/http%3A//ceo.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo.ca privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220081952id_/http%3A//ceo.ca/privacy-policy) for the most accurate reproduction.*
 
 # CEO.CA Privacy Policy | CEO.CA
 
