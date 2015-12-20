@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413025702id_/http%3A//www.vtac.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220055404id_/http%3A//www.vtac.edu.au/privacy) for the most accurate reproduction.*
 
-# delta.vtac.edu.au - VTAC Website Privacy Statement
-
-  * [](http://www.vtac.edu.au/privacy.html?tmpl=component&print=1&page= "Print")
-
-
+# VTAC: Victorian Tertiary Admissions Centre
 
 The Victorian Tertiary Admissions Centre (VTAC) values the privacy of every individual's personal information and we are committed to handling your personal information consistent with our obligations under the _Australian Privacy Principles (March 2014)_.
 
@@ -42,7 +38,7 @@ Email: [privacy@vtac.edu.au](mailto:privacy@vtac.edu.au)
 
 ## What is information collected for? 
 
-Information is collected by us for the primary purposes of: 
+Information is collected by us for the primary purposes of:
 
   * calculating the ATAR (Australian Tertiary Admission Rank) for Year 12 VCE and International Baccalaureate (IB) students
   * processing and assessing applications for admission to tertiary courses on behalf of VTAC’s participating institutions. This includes providing institutions with information to support one or more of the following so that selection authorities may advise you accordingly of your success or otherwise: 
@@ -123,11 +119,7 @@ The personal information that is required to lodge a VTAC course application inc
 
 
 
-For some courses, you may be requested to complete a 
-
-### VTAC Personal Statement
-
-to support your application. This can include the following information: 
+For some courses, you may be requested to complete a VTAC Personal Statement to support your application. This can include the following information: 
 
   * motivation for undertaking courses on your preference list
   * work and community experience
@@ -180,7 +172,7 @@ If you are submitting a scholarship application, you may be requested to provide
 
 You may be asked to provide the personal details of another person (for example Centrelink or tax documents for your parent or guardian). By providing this information you are agreeing that you have provided it with the consent of that person, and that they know about this Privacy Policy and where to find it. 
 
-## How we use your information
+## **How we use your information**
 
 VTAC only uses your personal information for the purpose for which it was provided to us, other directly related purposes or purposes for which you otherwise consent, and as otherwise required or permitted by law.
 
@@ -196,44 +188,52 @@ Such purposes include:
   * to identify you when you log into VTAC’s online services or otherwise contact VTAC
   * responding to your enquiries
   * assessing your eligibility for courses
-  * to meet reporting requirements of the Department of Industry, Innovation, Climate Change, Science, Research and Tertiary Education (DIICCSRTE), or its successor 
+  * to meet reporting requirements of the Department of Industry, Innovation, Climate Change, Science, Research and Tertiary Education (DIICCSRTE), or its successor
   * for benchmarking, analyses, quality assurance and planning purposes
+  * assessing eligibility for the allocation of special consideration through access and equity programs
+  * assessing eligibility for the allocation of scholarships 
 
 
 
-## How we disclose your information
+### **SEAS and scholarships applications**
+
+VTAC only uses your health information in accordance with the Health Information Privacy Act 1998 and _Australian Privacy Principles (March 2014)_ _._  The information collected as part of the SEAS and scholarships applications is used for the purpose for which it was provided to us or purposes for which you otherwise consent, and as otherwise required or permitted by law.
+
+##  **How we disclose your information**
 
 Information collected as part of registration is held by VTAC and used to identify you for assistance with VTAC services or disclosed as part of a subsequent VTAC service.
 
-All information collected as part of the course application, VTAC personal statement, Special Tertiary Admissions Test and _Australian Law Schools Entrance Test_ , and SEAS application will be distributed to the institutions to which you have applied for courses or have expressly given permission to access and you have paid the VTAC processing fee(s) for that service.
+All information collected as part of the course application, VTAC personal statement, Special Tertiary Admissions Test and _Australian Law Schools Entrance Test_ , Scholarships and SEAS applications will be distributed to the institutions to which you have applied for courses or have expressly given permission to access and you have paid the VTAC processing fee(s) for that service.
+
+All information collected as part of the SEAS application will be distributed to the institutions to which you have applied for courses to for consideration under their stated access and equity schemes. 
 
 All information collected as part of the Scholarship application will be distributed to the institutions to which you have applied for scholarship(s).
 
 Your information may be disclosed to other third parties as follows:
 
   * Institutions where you have studied or where VTAC reasonably believes you have studied for the purpose of confirming your results.
-  * VTAC cooperative off-shore entities such as the International Baccalaureate in Wales, Cambridge International Examinations and the New Zealand Qualifications Authority (NZQA), if necessary for the purpose of confirming your enrolment and obtaining your results. These recipients may not provide the level of data protection provided by the APP. Whilst we request these recipients protect your personal information, we cannot be accountable for how these recipients handle your personal information. Your registration as a VTAC user constitutes your consent to disclosure to those overseas recipients. 
-  * Agencies involved in the release of tertiary education results both in Australia and overseas for the purpose of confirming your results, if necessary. 
+  * VTAC cooperative off-shore entities such as the International Baccalaureate in Wales, Cambridge International Examinations and the New Zealand Qualifications Authority (NZQA), if necessary for the purpose of confirming your enrolment and obtaining your results. These recipients may not provide the level of data protection provided by the APP. While we request these recipients protect your personal information, we cannot be accountable for how these recipients handle your personal information. Your registration as a VTAC user constitutes your consent to disclosure to those overseas recipients.
+  * Agencies involved in the release of tertiary education results both in Australia and overseas for the purpose of confirming your results, if necessary.
   * Government departments such as the Victorian Curriculum and Assessment Authority or its interstate equivalent, Victorian Electoral Commission, the Department of Education and Early Childhood Development or its successor;
   * Agencies and organisations involved in quality assurance, planning and research for tertiary education such as federal and state government, TEQSA, interstate tertiary admissions centres and Universities Australia.
-  * Contracted service providers which VTAC uses to perform services on its behalf (such as mailing houses, logistics and IT service providers). 
+  * Contracted service providers which VTAC uses to perform services on its behalf (such as mailing houses, logistics and IT service providers).
   * Legal advisers or other professional advisers and consultants engaged by VTAC.
-  * Your ATAR may be disclosed to the Victorian Curriculum and Assessment Authority (VCAA) if required for the purpose of awarding the Australian Student Prize.
+  * Your ATAR may be disclosed to the Victorian Curriculum and Assessment Authority (VCAA) if required for the purpose of awarding the Australian Student Prize. 
+  * State or federal law enforcement authorities where required or authorised by law. 
 
 
 
-Additionally VTAC will also distribute the following information to your secondary school, via VTAC CourseLink (web based course information and counselling program), for the purpose of counselling and record keeping: 
+Additionally VTAC will also distribute the following information to your secondary school, via VTAC CourseLink (web based course information and counselling program), for the purpose of counselling and record keeping:
 
   * whether or not you have registered with VTAC
   * whether or not you have applied for courses through VTAC
-  * your course preferences and payment indicators if you apply 
-  * whether or not you have lodged a SEAS application
+  * your course preferences and payment indicators if you apply
   * your ATAR
-  * your offer(s) 
+  * your offer(s)
 
 
 
-You can write to VTAC at any time to have your details removed from the school file, however this may affect your schools’ ability to provide counselling advice to you. 
+You can write to VTAC at any time to have your details removed from the school file, however this may affect your schools’ ability to provide counselling advice to you.
 
 ## Security of your information
 
@@ -274,6 +274,10 @@ You have a right to access your personal information held by us. There are circu
 
 If we refuse to give you access, we will give you written notice of the reasons for refusal and the mechanisms available to you to complain about the refusal
 
+### Access to personal information by authorised nominees
+
+Applicants who designate an authorised nominee should be aware that the authorised nominee will have some access to personal information collected but will not have access to other personal information. For fuller details of what an authorised nominee can and cannot access see [Authorised nominee: definition, rights and responsibilities](http://www.vtac.edu.au/applying/courses/changes/authorised-nominee.html).
+
 ## What to do if you have a complaint concerning privacy
 
 If you wish to make an enquiry or formal complaint about a possible breach of this Privacy Policy you can contact our Privacy Officer.
@@ -287,10 +291,22 @@ Telephone: +61 1300 364 133
 Email: [privacy@vtac.edu.au](mailto:privacy@vtac.edu.au)  
 Fax: +61 3 9686 6054
 
-Normal office hours are Monday to Friday between 9.00 am and 5.00pm Melbourne time. Formal complaints about a breach of this Privacy Policy or the APP must be made in writing to the Privacy Officer. VTAC reserves the right to request any supporting evidence and/or information to substantiate the complaint/breach. 
+Normal office hours are Monday to Friday between 9.00 am and 5.00pm Melbourne time. Formal complaints about a breach of this Privacy Policy or the APP must be made in writing to the Privacy Officer. VTAC reserves the right to request any supporting evidence and/or information to substantiate the complaint/breach.
 
 The VTAC Privacy Officer will investigate the issue and determine the steps we will undertake to resolve your complaint. We will contact you if we require any additional information from you and will notify you in writing of the determination in relation to your complaint.
 
 If you are not satisfied with our determination, you can refer the complaint to the Australian Privacy Commissioner via [www.oaic.gov.au](http://www.oaic.gov.au/)
 
 [ ](http://www.vtac.edu.au/privacy/#_ftnref1) While current and previous Year 12 results are stored on a national database, this information will only be accessed by VTAC or any other tertiary admission centre if you initiate an application for courses through that centre. 
+
+## Google Analytics and "Cookies"
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+### Demographic and interest reporting 
+
+VTAC has implemented Demographics and Interest Reporting from the Google Analytics Advertising Features. VTAC will use this data to improve and expand information and services through a better understanding of visitors to our website and how they use our website. Visitors can opt out of Google’s interest-based ads or edit the interests and demographics associated with their Google Account by changing [Ad settings](https://www.google.com/settings/ads). 
+
+Visitors can also block tracking by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/), available for all common browsers. 
+
+This feature does not affect this Privacy Policy as it applies to applicants.
