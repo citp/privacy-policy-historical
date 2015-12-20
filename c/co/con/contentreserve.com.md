@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621232508id_/http%3A//company.overdrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220173736id_/http%3A//company.overdrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OverDrive - Global distributor of digital eBooks, audiobooks, music & video for library, school & retail
 
