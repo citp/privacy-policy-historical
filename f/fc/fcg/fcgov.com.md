@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130651id_/http%3A//www.fcgov.com/legal.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220151850id_/http%3A//www.fcgov.com/legal.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # Legal notices, disclaimer, accessibility statement: City of Fort Collins
 
