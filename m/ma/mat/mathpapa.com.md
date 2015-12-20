@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mathpapa.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622181837id_/http%3A//www.mathpapa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathpapa.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220223147id_/http%3A//www.mathpapa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MathPapa
 
 Privacy Policy for www.mathpapa.com 
+
+This is the privacy policy for www.mathpapa.com. The privacy policy for MathPapa's mobile applications is at <http://www.mathpapa.com/privacy-app/>.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@mathpapa.com. 
 
@@ -10,6 +12,12 @@ At www.mathpapa.com, the privacy of our visitors is of extreme importance to us.
 
 **Log Files**  
 Like many other Web sites, www.mathpapa.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, text inputs, and clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+**Analytics**  
+We perform analytics for internal use to improve our design and features. We do this ourselves and through third party providers, including [Google Analytics](https://www.google.com/analytics/) and [Mixpanel](https://www.mixpanel.com/). 
+
+**Aggregate Statistics**  
+We may share aggregate statistics derived from log files and analytics. 
 
 **Cookies and Web Beacons**  
 www.mathpapa.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
