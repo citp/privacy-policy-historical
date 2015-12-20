@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeameme.org privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510114557id_/http%3A//makeameme.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeameme.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220061547id_/http%3A//makeameme.org/privacypolicy) for the most accurate reproduction.*
 
 # Make a Meme | Meme Generator for a Quick Meme
 
