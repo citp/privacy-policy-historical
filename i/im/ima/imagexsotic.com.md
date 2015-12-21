@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618020924id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221081111id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
 
-# imagexsotic.com HD Images In And Privacy Policy
+# Privacy Policy at imagexsotic.com
 
 It is our intention at  **imagexsotic.com**  to manage your personal information in an open and transparent way.
 
-**imagexsotic.com**  is committed to ensuring that your privacy is protected. If we collect your personal information through our websites or web services, it will only be used in accordance with this privacy policy.
+ **imagexsotic.com**  is committed to ensuring that your privacy is protected. If we collect your personal information through our websites or web services, it will only be used in accordance with this privacy policy.
 
-**imagexsotic.com**  may change this policy from time to time. You should check whenever you return to our websites. The last date of change is set out at the end of this policy.
+ **imagexsotic.com**  may change this policy from time to time. You should check whenever you return to our websites. The last date of change is set out at the end of this policy.
 
-**What kind of personal information do we collect?**
+ **What kind of personal information do we collect?**
 
-**Website visitors**  – If you are just browsing, we are not collecting your personal information. We might collect information using ‘cookies’, but that information by itself does not personally identify you. More about ‘cookies’ below.
+ **Website visitors**  – If you are just browsing, we are not collecting your personal information. We might collect information using ‘cookies’, but that information by itself does not personally identify you. More about ‘cookies’ below.
 
 The only personal information collected on this website is gathered on our “contact us” forms. We may collect the following information:
 
@@ -21,7 +21,7 @@ The only personal information collected on this website is gathered on our “co
 
 
 
-**What we do with the information we gather**
+ **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -32,11 +32,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Security**
+ **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, ** ** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+ **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.
 
@@ -46,7 +46,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**The DoubleClick cookie**
+ **The DoubleClick cookie**
 
 The DoubleClick cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. We use AdSense, so there is a good chance you will gain a Google cookie from our website.  When you visit a website like ours and either view or click on an ad, a cookie may be dropped on that your browser. Other advertisers and social network plugins use a similar process.
 
@@ -54,11 +54,11 @@ A DoubleClick cookie helps web applications tailor operations to your needs, lik
 
 You can opt out of using DoubleClick cookies for interest-based advertising by visiting www.google.com/ads/preferences/. For non-AdSense ads, you can opt out by visiting www.aboutads.info, or go directly to the advertiser’s website and check their settings.
 
-**Links to other websites**
+ **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**
+ **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
