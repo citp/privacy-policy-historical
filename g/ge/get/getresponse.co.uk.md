@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622154344id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221101816id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - email marketing - GetResponse
 
@@ -45,7 +45,7 @@ Subscribers data processing may be outsourced as regards email address and other
 
 Further passing of the job of data processing may take place only within the limits, and for the purpose of proper provision, of the Service.
 
-As for the countries from outside of the European Economic Area, GetResponse shall cooperate with only such entities that have joined the U.S.-EU Safe Harbor program. 
+As for the countries from outside of the European Economic Area, GetResponse shall cooperate only with entities from countries which ensure an adequate level of personal data protection. 
 
 GetResponse declares that it provides security measures protecting the databases as defined in Articles 36– 39 of the Act, and meets the technical and organizational requirements specified in the provisions of Article 39a of the Act. 
 
