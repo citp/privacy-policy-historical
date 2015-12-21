@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011904id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinthegrid.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221203232id_/http%3A//lifeinthegrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Life in the Grid
 
@@ -68,6 +68,5 @@ This policy was last modified on 03-01-2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://lifeinthegrid.com
-
+http://lifeinthegrid.com  
 cory@lifeinthegrid.com
