@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicstream.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614233538id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicstream.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221084426id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # page title
 
@@ -26,6 +26,8 @@ http://epicstream.com uses cookies to store information about visitors' preferen
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
 
+  * Playwire
+  * Taboola
   * Google
 
 
