@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621060527id_/http%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221092304id_/http%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
 
 # Privacy Policy
 
