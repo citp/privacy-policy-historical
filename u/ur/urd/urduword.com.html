@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the urduword.com privacy policy that was archived on 2015-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150409021712id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urduword.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221115955id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
+<html><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amiri&amp;subset=latin,arabic"><head>
 
 <meta name="description" content="Searchable English-Urdu and Urdu-English dictionary with beginner's lessons.">
 <meta name="keywords" content="urdu, urdu dictionary, urdu lessons, urdu translation, translate urdu, english to urdu dictionary, urdu to english dictionary, english urdu dictionary">
@@ -9,64 +9,100 @@
 
 <title>UrduWord.com - Privacy Policy</title>
 
-<link rel="stylesheet" title="Default" href="/css/urduword.sv3.css" media="all">
+<link rel="stylesheet" title="Default" href="/css/urduword.sv4.css" media="all">
 <link rel="stylesheet" type="text/css" href="/css/redmond/jquery-ui-1.8.14.custom.css" media="all">
 <!--<link rel="stylesheet" type="text/css" href="/css/liveUpdater.css" media="all">-->
 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" rel="stylesheet" type="text/css">
+    
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.urduword.com/external/rss2.xml">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.form.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery-ui-1.8.15.custom.min.js"></script>
-<script type="text/javascript" src="/js/urduword.global.sv3.js"></script>
-<script type="text/javascript" src="/js/keyboard.sv3.js"></script>
-<script type="text/javascript" src="/js/urduword.visualkeyboard.sv3.js"></script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=urduword&amp;async=1"></script>
-
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    var loadedUrduWordGlobalsAndJQUI = false;
+    var loadedJQForm = false;
+    // initializations from async functions
+    function onLoadUrduWordGlobalJs(){
+        loadedUrduWordGlobalsAndJQUI = true;
+        $(document).ready(function(event){
+            showNav('English');      					  // show correct navigation bar based on search language
+        });
+        onLoadUrduWordGlobalsAndJQForm();
+    }
+    function onLoadVisualKeyboardJs(){
+        $(document).ready(function(event){
+            initializeVisualKeyboard('#keyboard_placeholder');    // visual keyboard
+        });
+    }
+    function onLoadJQForm(){
+        loadedJQForm = true;
+        onLoadUrduWordGlobalsAndJQForm();
+    }
+    function onLoadUrduWordGlobalsAndJQForm(){
+        if (loadedUrduWordGlobalsAndJQUI && loadedJQForm){
+            $(document).ready(function(event){
+                    initializeFormDialog('#modal_dialog');                // create a modal dialog for forms
+                    convertFormToAjax('form.popupform', '#modal_dialog'); // redirect popupforms to the modal dialog
+                    $("a.popuplink").attr('href',function(index,attr){ return "javascript:showContributionFormFromFile('" + attr + "')" }); // redirect popuplinks to the modal dialog        
+                    preprocessDynamicElements(); // update dynamic elements throughout the document
+             });
+        }
+    }
+    // turn off autocomplete 
+    function autocomplete(var1,var2, var3){ /* do nothing */ }
+</script>
+    
 <script>
-$(document).ready(function(event){
-        initializeVisualKeyboard('#keyboard_placeholder');    // visual keyboard
-		initializeFormDialog('#modal_dialog');                // create a modal dialog for forms
-        addthis.init();                                       // load the AddThis widget
-        convertFormToAjax('form.popupform', '#modal_dialog'); // redirect popupforms to the modal dialog
-		$("a.popuplink").attr('href',function(index,attr){ return "javascript:showContributionFormFromFile('" + attr + "')" }); // redirect popuplinks to the modal dialog
-        
-        preprocessDynamicElements(); // update dynamic elements throughout the document
- });
-// turn off autocomplete 
-function autocomplete(var1,var2, var3){ /* do nothing */ }
+var jQl={q:[],dq:[],gs:[],ready:function(a){"function"==typeof a&&jQl.q.push(a);return jQl},getScript:function(a,c){jQl.gs.push([a,c])},unq:function(){for(var a=0;a<jQl.q.length;a++)jQl.q[a]();jQl.q=[]},ungs:function(){for(var a=0;a<jQl.gs.length;a++)jQuery.getScript(jQl.gs[a][0],jQl.gs[a][1]);jQl.gs=[]},bId:null,boot:function(a){"undefined"==typeof window.jQuery.fn?jQl.bId||(jQl.bId=setInterval(function(){jQl.boot(a)},25)):(jQl.bId&&clearInterval(jQl.bId),jQl.bId=0,jQl.unqjQdep(),jQl.ungs(),jQuery(jQl.unq()), "function"==typeof a&&a())},booted:function(){return 0===jQl.bId},loadjQ:function(a,c){setTimeout(function(){var b=document.createElement("script");b.src=a;document.getElementsByTagName("head")[0].appendChild(b)},1);jQl.boot(c)},loadjQdep:function(a){jQl.loadxhr(a,jQl.qdep)},qdep:function(a){a&&("undefined"!==typeof window.jQuery.fn&&!jQl.dq.length?jQl.rs(a):jQl.dq.push(a))},unqjQdep:function(){if("undefined"==typeof window.jQuery.fn)setTimeout(jQl.unqjQdep,50);else{for(var a=0;a<jQl.dq.length;a++)jQl.rs(jQl.dq[a]); jQl.dq=[]}},rs:function(a){var c=document.createElement("script");document.getElementsByTagName("head")[0].appendChild(c);c.text=a},loadxhr:function(a,c){var b;b=jQl.getxo();b.onreadystatechange=function(){4!=b.readyState||200!=b.status||c(b.responseText,a)};try{b.open("GET",a,!0),b.send("")}catch(d){}},getxo:function(){var a=!1;try{a=new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.5.0","MSXML2.XMLHTTP.4.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],d=0;d<b.length;++d){try{a= new ActiveXObject(b[d])}catch(e){continue}break}}finally{return a}}};if("undefined"==typeof window.jQuery){var $=jQl.ready,jQuery=$;$.getScript=jQl.getScript};
+//jQl.loadjQ('/js/jquery/jquery-1.6.2.min.js')
 </script>
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8672405-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+<script type="text/javascript" src="/js/jquery/jquery-1.6.2.min.js"></script>
+<script async="" type="text/javascript" src="/js/jquery/jquery.form.js" onload="onLoadJQForm()"></script>
+<script async="" type="text/javascript" src="/js/jquery/jquery-ui-1.8.15.custom.min.js"></script>
+<script async="" type="text/javascript" src="/js/urduword.global.sv4.js" onload="onLoadUrduWordGlobalJs()"></script>
+<script async="" type="text/javascript" src="/js/keyboard.sv4.js"></script>
+<script async="" type="text/javascript" src="/js/urduword.visualkeyboard.sv4.js" onload="onLoadVisualKeyboardJs()"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.urduword.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://www.urduword.com/search.php?English={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+    
 </head>
 
 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8672405-1', 'auto');
+  ga('send', 'pageview');
+</script>
+    
 	<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" class="uw_top_background">   <tbody><tr><td>
 	<table border="0" width="990" class="uw_top" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr>
 			<td nowrap="">
 			<a href="/" class="uw_siteheading"><b>UrduWord.com</b></a><br><a href="/" class="uw_sitesubheading">English-Urdu Dictionary</a><br><a href="/" class="uw_sitesubheading"> and Lessons</a></td>  
 			<td align="right" nowrap="" class="noprint">
-			<script type="text/javascript"><!--
-			google_ad_client = "pub-4278910616456211";
-			/* UrduWord.com Leaderboard */
-			google_ad_slot = "8223483707";
-			google_ad_width = 728;
-			google_ad_height = 90;
-			//-->
-			</script>
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>
+				
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- UrduWord.com Leaderboard -->
+				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-4278910616456211" data-ad-slot="8223483707"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+				
 		</td>
 		<td align="right" nowrap="" width="10">&nbsp;</td>
 		</tr>
@@ -76,7 +112,6 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 			<tbody><tr>
 			<td nowrap=""><a href="/search.php" class="inactiveTab">Search Dictionary</a></td>
 			<td nowrap=""><a href="/search.php?English=A" class="inactiveTab">Browse Dictionary</a></td>
-			<td nowrap=""><a href="/wotd.php" class="inactiveTab">Word of the Day</a></td>
 			<td nowrap=""><a href="/lessons.php" class="inactiveTab">Lessons</a></td>
 			<td nowrap=""><a href="/contribute.php" class="inactiveTab">Contribute</a></td>
 			<td width="100%">&nbsp;
@@ -97,13 +132,8 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 				Roman Urdu to English</a>&nbsp;      
 				</td><td valign="bottom" class="uw_sharewidget" nowrap="">      
 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a class="addthis_button_preferred_3"></a>
-<a class="addthis_button_preferred_4"></a>
-<a class="addthis_button_compact"></a>
-</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=urduword" async="async"></script>
+<div class="addthis_sharing_toolbox"></div>
 <!-- AddThis Button END -->
 </td>      
 			</tr>      
@@ -113,7 +143,7 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 			<form action="/search.php" method="get"></form>      
 			<tbody><tr id="topnavEnglishRow">      
 				<td class="topnavEnglish" align="center">      
-				<table><tbody><tr><td>Translate English word:</td>      
+				<table><tbody><tr><td>Translate English word:&nbsp; </td>      
 				<td>      
 					<input autocomplete="off" type="text" name="English" size="15" value="" class="globalsearchtextbox" id="GlobalSearchEnglishText">      
 					<div id="GlobalSearchEnglishText-popup" class="autocomplete"><span>Type some letters to get suggestions</span></div>      
@@ -127,9 +157,9 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 			</tr>      
 			      
 			<form action="/search.php" method="get"></form>      
-			<tr id="topnavRomanRow" style="display: none;">      
+			<tr id="topnavRomanRow" style="display:none">      
 				<td class="topnavRoman" align="center">      
-				<table><tbody><tr><td>Translate Roman Urdu:</td>      
+				<table><tbody><tr><td>Translate Roman Urdu:&nbsp; </td>      
 				<td><input type="text" name="Roman" size="15" value="" class="globalsearchtextbox" id="GlobalSearchRomanText"></td>      
 				<td><input type="submit" value="Translate to English" class="globalsearchbutton"></td>      
 				</tr></tbody></table>      
@@ -137,9 +167,9 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 			</tr>      
 			      
 			<form action="/search.php" method="get"></form>      
-			<tr id="topnavNaskhRow" style="display: none;">      
+			<tr id="topnavNaskhRow" style="display:none">      
 				<td class="topnavNaskh" align="center">      
-				<table><tbody><tr><td>Translate Urdu script:</td>      
+				<table><tbody><tr><td>Translate Urdu script:&nbsp; </td>      
 				<td><input type="text" name="Naskh" size="15" value="" class="urdutext_edit globalsearchtextbox" id="GlobalSearchNaskhText"></td>      
 				<td><input type="submit" value="Translate to English" class="globalsearchbutton"></td>      
 				</tr></tbody></table>      
@@ -148,10 +178,6 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 			      
 			</tbody></table>      
 			      
-			<script language="javascript" type="text/javascript">      
-			showNav('English');      
-			</script>      
-      
 			</td>      
 	</tr></tbody></table> </td>      
 			</tr>      
@@ -159,7 +185,7 @@ function autocomplete(var1,var2, var3){ /* do nothing */ }
 <!-- Page Title -->      
 <table border="0" width="990" cellspacing="0" cellpadding="0" align="center">      
   <tbody><tr>      
-    <td width="100%" class="uw_pagetitle">Privacy Policy</td>      
+    <td width="100%" class="uw_pagetitle"><h1>Privacy Policy</h1></td>      
     <td nowrap="" class="uw_pagetitleright"> &nbsp;</td>      
   </tr>      
 </tbody></table>      
@@ -235,16 +261,13 @@ our Web site to notify you of these changes.</p><table width="0"><tbody><tr><td>
         <td width="160" nowrap="" rowspan="1" class="adrightbar noprint" valign="top">      
    
    <table cellspacing="0" cellpadding="0" class="tableframe" width="100%"><tbody><tr><td align="center">      
-<script type="text/javascript"><!--
-google_ad_client = "pub-4278910616456211";
-/* UrduWord.com Skyscraper */
-google_ad_slot = "7943237182";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+
+		<!-- UrduWord.com Skyscraper -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-4278910616456211" data-ad-slot="7943237182"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+
         </td></tr></tbody></table><br>&nbsp;</td>      
       </tr>      
     </tbody></table>      
@@ -259,13 +282,12 @@ google_ad_height = 600;
 <br>      
       
 <a href="/about.php">About Us</a> | <a href="/website_tools.php">Install On Your Website</a> |      
-<a href="/advertise.php">Advertise</a> |      
 <a href="/contact.php">Contact Us</a> | <a href="/privacy.php">Privacy Policy</a>      
 |      
 <a href="/subscribe" rel="alternate" type="application/rss+xml"><img src="/images/icons/feed-icon16x16.png" alt="" style="border:0"> Subscribe in RSS Reader</a> &nbsp;<p>UrduWord.com is an online      
 English-to-Urdu      
 and Urdu-to-English dictionary with lessons.<br>      
-UrduWord.com 2000-2011.<br>      
+UrduWord.com 2000-2016.<br>      
 &nbsp;</p>      
     </td>      
   </tr>      
@@ -274,6 +296,17 @@ UrduWord.com 2000-2011.<br>
 
 <div id="loading_window" class="loading" style="display: none;"><div align="center"><br><br><br><img src="/images/icons/ajax-loader.gif"><br>Loading…<br><br><br></div></div>
 <div id="keyboard_placeholder"></div>
-
+    
+<script>
+      var cb = function() {
+        var l = document.createElement('link'); l.rel = 'stylesheet';
+        l.href = 'https://fonts.googleapis.com/css?family=Amiri&subset=latin,arabic';
+        var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(cb);
+      else window.addEventListener('load', cb);
+</script>
 
 <div class="ui-dialog ui-widget ui-widget-content ui-corner-all drop-shadow ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-modal_dialog" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-modal_dialog">Modal Dialog</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="modal_dialog" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div></div></body></html>
