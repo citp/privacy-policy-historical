@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourairports.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507170951id_/http%3A//ourairports.com/about.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourairports.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221133957id_/http%3A//ourairports.com/about.html%23privacy) for the most accurate reproduction.*
 
 # About OurAirports @ OurAirports
 
