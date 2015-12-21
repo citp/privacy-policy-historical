@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iu1.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621190818id_/http%3A//iu1.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iu1.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221195317id_/http%3A//www.iu1.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Intermediate Unit 1
+# Privacy Policy—Intermediate Unit 1
 
 Your privacy is of the utmost importance to us as you use the IU1 website.
 
