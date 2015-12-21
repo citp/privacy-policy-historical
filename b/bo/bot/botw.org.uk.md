@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botw.org.uk privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026091949id_/http%3A//botw.org/helpcenter/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botw.org.uk privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222002644id_/http%3A//botw.org/helpcenter/privacy.aspx) for the most accurate reproduction.*
 
 # Best of the Web - Privacy Policy
 
