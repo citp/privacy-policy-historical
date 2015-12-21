@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627140905id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221091533id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Customer Support | Tocris Bioscience
 
@@ -112,4 +112,4 @@ Alternatively, please [contact us](http://www.tocris.com/contact.php "Support fo
 
 View all [Customer Support](http://www.tocris.com/customerSupport.php "Answers to the most common questions that customer support are asked") common questions.
 
-Tocris, R&D Systems and Boston Biochem are Bio-Techne brands. To find out more please visit our [news page](http://www.tocris.com/news/pr-01-07-14.php).
+Tocris is a Bio-Techne brand. To find out more please visit our [news page](http://www.tocris.com/news/pr-01-07-14.php).
