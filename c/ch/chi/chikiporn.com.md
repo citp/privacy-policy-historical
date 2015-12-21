@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chikiporn.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101171224id_/http%3A//chickiporn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikiporn.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221024303id_/http%3A//chickiporn.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
