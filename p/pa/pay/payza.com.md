@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526175800id_/https%3A//www.payza.com/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221175109id_/https%3A//www.payza.com/online-privacy) for the most accurate reproduction.*
 
 # Payza | Send Money, Receive Payment, Money Transfer, Shop & Sell Online
 
 This privacy policy applies to [www.Payza.com](https://www.payza.com/) , owned and operated by MH Pillars Ltd. Henceforward “Payza” ,“we”, “us” or “our” refers collectively to Payza.com, MH Pillars Ltd., its officers, directors, agents, subsidiaries, joint ventures, employees and suppliers. This policy describes how Payza collects and uses the personal information you (the person or entity using this service) provide on our web site, www.payza.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
-
-Payza has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only the information that is collected through our website, [www.payza.com](https://www.payza.com/) and its sub-domains. It does not cover information that may be collected through any mobile applications, through offline data collection or through downloadable software. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request 
 
 ### Collection and Use of Personal Information
 
