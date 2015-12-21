@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610020623id_/http%3A//lowkickmma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221085627id_/http%3A//www.lowkickmma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LowKick MMA
 
