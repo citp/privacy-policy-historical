@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webcompanion.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614053316id_/http%3A//www.webcompanion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcompanion.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221135503id_/http%3A//webcompanion.com/privacy) for the most accurate reproduction.*
 
 # Ad-Aware Web Companion
-
-## Privacy Policy \- Lavasoft
 
 Lavasoft Ltd is a leading actor within the IT security field and makes every effort to protect the privacy of the users of the Lavasoft web sites (the "Lavasoft Sites"). The overall purpose with this privacy policy (the "Privacy Policy") is to advise you ("You") of what type of personal information that Lavasoft collects about You as a result of Your use of the Lavasoft Sites, if any, and describe the limited purposes for which Lavasoft uses, processes and shares such collected information.
 
@@ -149,6 +147,6 @@ This Privacy Policy will be updated by Lavasoft on a regular basis. We therefore
 
 ##### Contact Information
 
-If You have any questions about this Privacy Policy , don't hesitate to [contact us](http://www.lavasoft.com/mylavasoft/company/contact).
+If You have any questions about this Privacy Policy , don't hesitate to [contact us](https://web.archive.org/contact).
 
 Last updated: September 03, 2014.
