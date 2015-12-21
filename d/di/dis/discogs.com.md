@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629205218id_/http%3A//www.discogs.com/help/doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221034222id_/http%3A//www.discogs.com/help/doc/privacy-policy) for the most accurate reproduction.*
 
 # Discogs Help - Privacy Policy
 
@@ -70,4 +70,4 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 You can contact us via our [support request form](https://www.discogs.com/support/new).
 
-This document is also available in these languages: [](https://web.archive.org/help/doc/privacy-policy?locale=en_GB), [Français](https://web.archive.org/help/doc/privacy-policy?locale=fr). 
+This document is also available in these languages: [](https://web.archive.org/help/doc/privacy-policy?locale=en_GB), [Français](https://web.archive.org/help/doc/privacy-policy?locale=fr), [Español](https://web.archive.org/help/doc/privacy-policy?locale=es), [日本語](https://web.archive.org/help/doc/privacy-policy?locale=ja). 
