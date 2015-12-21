@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529051239id_/http%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221075143id_/http%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trupanion
-
-##  Privacy Policy 
 
 Trupanion understands the importance of your privacy and security, especially when making purchases online.
 
@@ -15,8 +13,6 @@ Trupanion understands the importance of your privacy and security, especially wh
 Trupanion understands the importance of your privacy and security, especially when making purchases online. Trupanion has been a [Better Business Bureau Accredited](https://www.bbb.org/western-washington/business-reviews/insurance-companies/trupanion-in-seattle-wa-22429232) company since December 2002, and has a **BBB Rating of A+ (2014)**. (The highest rating BBB offers.) 
 
 **Verisign Secure Site Program**
-
-[ABOUT SSL CERTIFICATES](http://www.symantec.com/verisign/ssl-certificates)
 
 Trupanion’s website also undergoes daily website security tests through **Verisign Secure Site Program** , an identity and authentication security service. We want to make sure that your information is protected and that you are given the reassurance that you can safely purchase through our website.
 
