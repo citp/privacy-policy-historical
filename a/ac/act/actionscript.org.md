@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionscript.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503093602id_/http%3A//www.actionscript.org/resources/pages/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionscript.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221095635id_/http%3A//actionscript.org/resources/pages/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
