@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195447id_/http%3A//www.indiacom.com/yellowpage/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221133042id_/http%3A//www.indiacom.com/yellowpage/privacypolicy.asp) for the most accurate reproduction.*
 
-# Indiaccom
+# Privacy Policy - Indiacom.com
 
 This website is owned and run by Indiacom Limited. In this privacy policy, we will refer to Indiacom Limited using the terms 'Indiacom', 'us', 'we' and 'our'. If you use our online services, or any of our other services to find businesses or any other information, we will call you a 'user' in this policy. 
 
