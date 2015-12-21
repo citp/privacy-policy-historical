@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samcart.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327001712id_/https%3A//blog.samcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samcart.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221050522id_/http%3A//blog.samcart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SamCart Blog
+# Privacy Policy - SamCart Blog
 
 What information do we collect?
 
