@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drdavidwilliams.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623005042id_/http%3A//www.drdavidwilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdavidwilliams.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221133957id_/http%3A//www.drdavidwilliams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,8 +16,8 @@ Healthy Directions, LLC
 
 Attn: Customer Service 
 
-95 Old Shoals Rd 
+P.O. Box 3314 
 
-Arden NC 28704 
+Lancaster PA 17604 
 
 Still have questions? Click here to [Contact Us](https://web.archive.org/contact-us "Contact Us"). 
