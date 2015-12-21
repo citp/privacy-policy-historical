@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcgazette.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170722id_/http%3A//dcgazette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcgazette.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221050807id_/http%3A//dcgazette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ Dc Gazette
 
@@ -73,3 +73,5 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](http://dcgazette.com/contact-us/) by email.
+
+[](http://dcgazette.com/contact-us/)
