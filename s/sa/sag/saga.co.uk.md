@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619062612id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221121543id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
-### This is the standard data protection privacy policy for the Saga Group (which includes the Saga, and Allied Healthcare and Nestor Primecare groups of companies).
+### This is the standard data protection privacy policy for the Saga Group.
 
 When it comes to your privacy we never compromise. We will always be clear about why we need the details we ask for, and ensure your personal information is kept as secure as possible. How we do this is explained below.
 
-**Last updated: June 2015**
+**Last updated: December 2015**
 
   * Introduction
   * How we use the information you provide us
@@ -36,9 +36,9 @@ When it comes to your privacy we never compromise. We will always be clear about
 
 ### 
 
-Saga plc., together with its subsidiaries, being the various groups of companies that Saga plc. ultimately owns including the Saga Leisure group, the Allied Healthcare ("Allied") group and the Nestor Healthcare ("Nestor") group.
+Saga plc., together with its subsidiaries, being the various groups of companies that Saga plc. ultimately owns including the Saga Leisure group, Acromas Insurance Co Ltd and Destinology.
 
-Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Allied Healthcare, Nestor, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
+Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Saga Healthre, Saga Freedom, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
 
 Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data."   
 **  
@@ -46,8 +46,6 @@ Saga ("we","us") are committed to protecting your privacy. We comply with the pr
 
 ### How we use your information   
 
-
-## 
 
 We use the information we receive from you, together with information we have obtained from our dealings with you (including in relation to goods and/or services we provide to you and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you. Examples of how we may personalise information include using your information in generating an insurance quote for you, working out which departure airports are near to you, or when we will be delivering certain products in your area.
 
@@ -59,10 +57,12 @@ Any new information you provide us may be used to update an existing record we h
 
 To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score.
 
-We will make checks on the full and open registers of the electoral role and public data provided to us by credit reference agencies and other third parties in order to assess financial and insurance risks including premium payment rates at quote and renewal, to assist with credit applications and to assist with identity checks in order to prevent money laundering.  
+In order to assess financial and insurance risk, we will make full and open checks on the electoral role registers and public data provided to us by credit reference bureaus and other third parties. This is also to assess your premium at quote and renewal, for credit applications and to assist with identity checks in order to prevent money laundering.  
 
 
 Third parties may deliver some of our products to you, or provide all or part of the service requested by you. In these instances, while the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
+
+Information may also be shared with any Company that Saga has a legal interest in such as Saga Investment Services and Saga Law.
 
 If you apply for the Saga Credit Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
@@ -90,9 +90,11 @@ If you have more than one address or email address please make sure to notify an
 
 As required by the Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information you have given to us.
 
-If we provide information to a third party (either a provider of a product or service, or an external data processing agency such as a mailing house) we will exercise the strictest control over the third party contractually, requiring it and any of its agents and/or suppliers to:
+If we provide information to a third party (either a provider of a product or service, or an external data processing agency such as a mailing house) or a company Saga has a legal interest in, such as our joint ventures Saga Law or Saga Investment Services , we will exercise the strictest control over them contractually, requiring it and any of its agents and/or suppliers to:
 
   * maintain the security and confidentiality of the information and restrict access to those of its own employees 
+
+
   * use the data for the agreed purpose only and prevent it being used for any other purpose by any other party 
   * refrain from communicating with you other than concerning the product in question 
   * return the data to us at the conclusion of any contract term, and destroy or delete any copies made of all or any part of the information unless copies are needed to be kept to comply with regulations 
@@ -118,7 +120,7 @@ Before you provide any data to us we will endeavour to make it clear why we need
 
 A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
-Please note that we provide products and services including holidays outside the European Economic Area (EAA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the EAA. From time to time Saga may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance.
+Please note that we provide products and services including holidays outside the European Economic Area (EEA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the EEA. From time to time Saga may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance.
 
 It is worth noting, however, that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
 
@@ -130,20 +132,13 @@ Subsequent to your purchase of a product or service, we may enter into an arrang
 
 From offers and promotions to sound and video, the aim of this site is to be interesting, helpful and informative. We’re keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best-known technique is by using what are known as 'cookies'.
 
-**What are cookies?** Cookies are small data files that a website will put on your device, which in turn sends information back to the website. They cannot affect your device, but they do collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. These are known as ‘session’ cookies, which expire as soon as you leave the site.
-
-Other cookies can tell us if you come back. These are ‘persistent cookies’, which expire after a period of time unless you delete them from your device. We use them to help customise the site – to do things such as display relevant information based on your visit.
-
-Some cookies enable sites to work, while others help us learn about what people are browsing for.   
-
+**What are cookies?** Cookies are small data files that a website will put on your device. Some of these sends information back to the website. They cannot affect your device, but they can collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. These are known as ‘session’ cookies, which expire as soon as you leave the site. Other cookies can tell us if you come back. These are ‘persistent cookies’, which expire 3 years after your last visit unless you delete them from your device. We use them to customise the site – to do things such as display relevant information during your visit. Some cookies enable sites to work, while others help us learn about what people are browsing for.
 
 **Back to top   **
 
 ### How we use cookies 
 
-We use cookies to ensure you get the most from your visit. They improve your experience of the site because certain features work best with cookies. Feedback and information from the cookies can also help make the site better. By visiting this site, you agree to our use of cookies and other technologies.
-
-Rest assured that the cookies we use do not store personal details, such as payment card numbers. Here are the main types of cookies and what they do:
+We use cookies to ensure you get the most from your visit. They improve your experience of the site because certain features work best with cookies. Feedback and information from the cookies can also help make the site better. By visiting this site, you agree to our use of cookies and other technologies. Rest assured that the cookies we use do not store personal details, such as payment card numbers. Here are the main types of cookies and what they do: 
 
 **1.  Strictly necessary **  
 **In brief** These cookies enable you to get the information or service you’ve asked for. They’re essential – without them, some services may not work.
@@ -161,9 +156,10 @@ Rest assured that the cookies we use do not store personal details, such as paym
 **For example** If you ask for services based on your location, we sometimes store a cookie so that next time you visit you won’t have to tell us again.
 
 **4\. Targeting or advertising cookies**  
-**In brief** These cookies collect anonymous information about your browsing habits which are then used to make advertising relevant to you. They remember if you have visited a website and share this information with advertisers.
+**In brief** These cookies collect information about your browsing habits which are then used to supply you with targeted and personalised on and offline advertising and marketing. They remember if you have visited a website and share this information with advertisers. They enable us to ensure that the content we provide on our site, is aligned to your browsing habits. For example to remind you of products and services that you have shown an interest in. 
 
-**For example  **These may be used by third parties to serve advertisements on our behalf across the internet based on your interaction with Saga's website through cookies, quizzes and other technologies. This information may be used by us and our third parties to analyse and track data, as well as to deliver advertising, marketing and content that is based on your interests. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
+**For example** These may be used anonymously by third parties to serve advertisements on our behalf across the internet based on your interaction with Saga's website through cookies, quizzes and other technologies. This information may be used by us and our third parties to analyse and track data, as well as to deliver advertising, marketing and content that is based on your interests, including which adverts or content to limit you seeing/ receiving as your browsing history suggests you have no interest in them. These services are provided on Saga's websites or by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.  
+
 
 Back to top  
 
@@ -490,11 +486,13 @@ These are only for the built in browsers on phones and tablets. Please refer to 
 
 As previously mentioned, we do not sell, trade or rent your information, and will never disclose information about you (including information obtained from our dealings with you) to third parties, except:
 
-a) to fulfil your specific orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you go on a holiday with us, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
+a) where we have a legal interest in a company, such as Saga Investment Services and Saga Law.
 
-b) where third parties administer part or all of the product or service;
+b) to fulfil your specific orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you go on a holiday with us, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
 
-c) for underwriting, pricing, insurance rating analysis and testing purposes, and to maintain management information for business analysis.
+c) where third parties administer part or all of the product or service;
+
+d) for underwriting, pricing, insurance rating analysis and testing purposes, and to maintain management information for business analysis.
 
 We may of course be obliged at law to pass on your information to the police or any other statutory or regulatory authority and in some cases, exemptions may apply under the Data Protection Act 1998, whereby we can legitimately release personal data e.g. to prevent or detect crime or in connection with legal proceedings.
 
