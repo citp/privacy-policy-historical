@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vidspot.net privacy policy that was archived on 2015-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617001200id_/http%3A//vidspot.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vidspot.net privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221151001id_/http%3A//vidspot.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -17,7 +17,8 @@
 <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://cdn.vidspot.net/jquery.cookie.js"></script>
 <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://cdn.vidspot.net/js/postscribe.min.js"></script>
 <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://cdn.vidspot.net/js/head.load.min.js"></script>
-<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://vidspot.net/s/xfs.min.js?v=6"></script>
+<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://vidspot.net/s/xfs_n.min.js?v=6"></script>
+<script src="http://vidspot.net/s/show_ads.js"></script>
 
 <meta http-equiv="Content-Type" content="text-html; charset=UTF-8">
 <meta name="description" content="vidspot.net - Free file upload service">
@@ -210,7 +211,7 @@ Any personal information received will only be used to fill your order. We will 
 
 					<td><a href="http://vidspot.net/?op=payments">Become a Premium User</a></td>
 					<td><a href="/privacy.html">Privacy Policy</a></td>
-					<td></td>
+				<!--	<td><a href="http://channelb.com/" target="_blank">ChannelB</a></td> -->
 				  </tr>
 				  <tr>
 					<td><a href="/refund.html">Refund Policy</a></td>
@@ -241,7 +242,7 @@ Any personal information received will only be used to fill your order. We will 
 <script>
 function PageAjaxLoad(event0)
 {
-  if ($(this).attr("href").match(/(logout|login|support|payments)/)) { return true; }
+  if ($(this).attr("href").match(/(logout|login|support|payments|channelb)/)) { return true; }
 
   event=event0||window.event;
   if (event.ctrlKey || event.shiftKey || (event.button != 0) ) { return true;} // если нажата Ctrl или Shift, то загружать в отдельном окне
