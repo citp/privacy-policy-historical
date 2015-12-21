@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leafly.ca privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621055343id_/https%3A//www.leafly.ca/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leafly.ca privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221183255id_/http%3A//www.leafly.ca/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Leafly
 
@@ -12,10 +12,10 @@ Welcome to Leafly.com (the "Site"), provided by Leafly Holdings, Inc., and its a
 
 When you create an account and use our Service, we collect the following types of information from you:
 
-  * **1.** Name;
-  * **2.** Contact information such as your email address and phone number;
-  * **3.** Demographics information such as your gender and location;
-  * **4.** Any other information, such as reviews, content, and bio, you provide us.
+  1. Name;
+  2. Contact information such as your email address and phone number;
+  3. Demographics information such as your gender and location;
+  4. Any other information, such as reviews, content, and bio, you provide us.
 
 
 
@@ -57,11 +57,11 @@ We may also use your information to verify your geographic location. We may use 
 
 We may share your information as follows:
 
-  * **1.** We may share your personal information with your consent or at your direction.
-  * **2.** We may also share your information with others who perform services on our behalf (for example, with Twilio if you make a call using the Service).
-  * **3.** We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.
-  * **4.** We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Leafly and our Services; or any rights, property, or personal safety of Leafly or others.
-  * **5.** In the event that Leafly is or may be acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of or in connection with the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.
+  1. We may share your personal information with your consent or at your direction.
+  2. We may also share your information with others who perform services on our behalf (for example, with Twilio if you make a call using the Service).
+  3. We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.
+  4. We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Leafly and our Services; or any rights, property, or personal safety of Leafly or others.
+  5. In the event that Leafly is or may be acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of or in connection with the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.
 
 
 
