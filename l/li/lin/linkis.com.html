@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the linkis.com privacy policy that was archived on 2015-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516025031id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkis.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221182610id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -20,13 +20,12 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-
 <title>Privacy - Linkis.com</title><meta name="title" content="Privacy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
 <meta name="description" content="Privacy - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/js/prod/secondary.css?716" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
+<link href="/js/prod/secondary.css?892" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
     /*<![CDATA[*/
-var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Flinkis.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=5713b94d6447a3798cdc23ee41cd7000&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
+var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Flinkis.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=6d546b5f0201b74819f8b3c9f93ee0fa&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
 </script>
 <script>
     var LNG = {};
@@ -66,7 +65,7 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
 
     function hihit(id) {
         if (id) {
-            var url = "http://stat.notlurking.com/log.php?id=" + id + "&r=" + Math.round(100000 * Math.random());
+            var url = "http://stat.linkis.com/log.php?id=" + id + "&r=" + Math.round(100000 * Math.random());
             var im = new Image();
             im.src = url;
         }
@@ -84,13 +83,27 @@ function redirectPage(url)
 {
     location.href = url;
 }
+function restoreUserAvatar(img, uid)
+{
+    img.onerror = null;
+    img.setAttribute('data-orig-image', img.src);
+    img.src = '/index/restore-avatar/uid/' + uid;
+
+}
 function lnEvent(action, label, category)
 {
     
+    if($.isArray(action)) {
+        var hash   = lnEventGenerateHash((action[0][0] || '') + (action[0][1] || '') + (action[0][2] || ''));
+            action = JSON.stringify(action);
+    } else {
+        var hash = lnEventGenerateHash((action || '') + (label || '') + (category || ''));
+    }
+
     var path = ['', 'index', 'ln-event'].join('/');
     var e = function(str){ return str ? encodeURIComponent(str) : ''; };
     var theme = window.LinkData ? LinkData.curTheme : 0;
-    var linkId = window.LinkData ? LinkData.id : 0;
+    var linkId = LnProf.page == 'index/show' && window.LinkData ? LinkData.id : 0;
     var profId = LnProf.profId ? LnProf.profId : 0;
     (new Image()).src = path +
         '?c=' + e(category) +
@@ -98,7 +111,41 @@ function lnEvent(action, label, category)
         '&l=' + e(label) +
         '&t=' + e(theme) +
         '&li=' + e(linkId) +
-        '&id=' + e(profId);
+        '&id=' + e(profId) +
+        '&h='  + hash +
+        '&r=' + Math.random();
+}
+
+function lnEventGenerateHash(str) {
+    var hash = '';
+    var length = str.length;
+    var step = (length < 5) ? 2 : Math.floor(length / 5);
+
+    var codeSumFunction = function(codeSum) {
+        var num = 0;
+        for(var j = 0; j < codeSum.toString().length; j++) {
+            num += parseInt(codeSum.toString().substr(j, 1), 10);
+        }
+
+        return num;
+    };
+
+    var codeSum = 0;
+    for(var i = 0; i < length; i++) {
+        var char = str.substr(i, 1);
+
+        if(i % step == 0 && char != ' ') {
+            var num = codeSumFunction(codeSum);
+            hash += num + '' + char;
+            codeSum = 0;
+        } else {
+            codeSum += str.charCodeAt(i);
+        }
+    }
+
+    if(codeSum) hash += codeSumFunction(codeSum);
+
+    return hash;
 }
 
 </script>
@@ -123,6 +170,8 @@ window.NL_APP_DATA = {
     addThisSrc: 'http://s7.addthis.com/js/300/addthis_widget.js#async=1&pubid=',
     addThisId: 'ra-513082ca32a826c6',
     referrer_link: '',
+    referrer_name: '',
+    referrer_type: 0,
     cookie_domain: '.linkis.com',
 	sessCookieName: 'LNSID',
     popupsHtml: {}
@@ -148,7 +197,7 @@ var LnProf = {
         if (!LnProf.enabled)
             return;
         var uri = location.pathname + location.search + location.hash;
-        var src = LnProf.path.join('/') + 'type=start&page=' + LnProf.page + '&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme;
+        var src = LnProf.path.join('/') + 'type=start&page=' + LnProf.page + '&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme + '&ref=' + NL_APP_DATA.referrer_link;
         document.write('<' + 'script type="text/javascript" src="' + src + '"><' + '/script>');
     },
     prodLoad: function(minifyVersion)
@@ -236,7 +285,7 @@ var LnProf = {
 LnProf.start();
 window.onerror = LnProf.onError;
 
-</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;page=index/privacy&amp;time=1580481951819&amp;uri=%2Fweb%2F20150516025031id_%2Fhttp%253A%2F%2Flinkis.com%2Fprivacy&amp;theme=0"></script>
+</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;page=index/privacy&amp;time=1580481952202&amp;uri=%2Fweb%2F20151221182610id_%2Fhttp%253A%2F%2Flinkis.com%2Fprivacy&amp;theme=0&amp;ref="></script>
 <script type="text/javascript">
     /*
      * use Ga array lika goole gaq array
@@ -276,84 +325,114 @@ window.onerror = LnProf.onError;
 
 <!-- twitter disabled notification -->
 
-
 <div class="other-pages-holder">
     
-<div class="header">
-    <div class="went-wrong-popup  js-went-wrong-popup top-arrow" style="top: 8%; left: 45.3%; display: none;">
-    <a class="close-x" href="#"></a>
+    <div class="header">
+
+<div class="went-wrong-popup  js-went-wrong-popup top-arrow" style="top: 8%; left: 45.3%; display: none;">
+    <a class="close-x" href="javascript:void(0);"></a>
     <div class="popup-pad">
-        <strong>What went wrong?</strong>
+        <strong>Before you're gone...</strong>
 		<span class="feedback-please">
-			Please take a minute to let us know why you have turned off Linkis Twitter Automation. Your answer will help us to improve our core features.
+            Please mark a possible reason of your decision. That would help us make Linkis better.
 		</span>
             <ul class="answer-variants">
-                <li>
+                                <li>
                     <label>
                         <input class="hidden-input" type="checkbox">
                         <span class="fake-checkbox"></span>
-                        <span class="variant">Im' not intersted in features Linkis offers</span>
+                        <span class="variant" data-answer-type="1">I get complaints on Linkis from my followers</span>
                     </label>
                 </li>
-                <li>
+                                <li>
                     <label>
-                        <span class="fake-checkbox"></span>
                         <input class="hidden-input" type="checkbox">
-                        <span class="variant">It affects my links in a negative way</span>
+                        <span class="fake-checkbox"></span>
+                        <span class="variant" data-answer-type="2">Linkis fails​ to load pages I share on Twitter</span>
                     </label>
                 </li>
-                <li>
+                                <li>
                     <label>
-                        <span class="fake-checkbox"></span>
                         <input class="hidden-input" type="checkbox">
-                        <span class="variant">I don't even know what it is</span>
+                        <span class="fake-checkbox"></span>
+                        <span class="variant" data-answer-type="3">I don't want my content to be customized by apps</span>
                     </label>
                 </li>
-                <li>
+                                <li>
                     <label>
-                        <span class="fake-checkbox"></span>
                         <input class="hidden-input" type="checkbox">
-                        <span class="variant">You're nothing but annoying app!</span>
+                        <span class="fake-checkbox"></span>
+                        <span class="variant" data-answer-type="4">I don't like how Linkis pages look</span>
                     </label>
                 </li>
-            </ul>
+                                <li>
+                    <label>
+                        <input class="hidden-input" type="checkbox">
+                        <span class="fake-checkbox"></span>
+                        <span class="variant" data-answer-type="5">Other (please, comment)</span>
+                    </label>
+                </li>
+                            </ul>
             <textarea class="self-answer" placeholder="Add your comment (optional)"></textarea>
             <button class="send-answer js-send-feedback">Send</button>
     </div>
 </div>
 <div class="overlay-blind" style="display: none"></div>
-    <div class="header-insider">
-        <a class="logo" href="/">Linkis</a>
 
-        <div class="user-menu user-menu2">
+<div class="header-insider">
+    <a class="logo" href="/">Linkis</a>
 
-        	
-                <a href="/about" class=" ">About</a><a href="/faq" class=" ">Faq</a><a href="/plugin" class=" ">Plugin</a><a href="/bookmarklet" class=" ">Bookmarklet</a><a href="http://blog.linkis.com" class=" ">Blog</a><a href="#" class="twitter-login js-btn-signin-tw ">Log in</a>
-                    </div>
-    </div>
-
+    <div class="user-menu user-menu2">
+        
+        
+            <a href="/about" class=" ">About</a><a href="/faq" class=" ">Faq</a><a href="/plugin" class=" ">Plugin</a><a href="/bookmarklet" class=" ">Bookmarklet</a><a href="http://blog.linkis.com" class=" ">Blog</a><a href="#" class="twitter-login js-btn-signin-tw ">Log in</a>
+            </div>
 </div>
+
+    </div>
     <div class="centerer">
         <div class="centerer-insider">
             <div class="static-holder">
-	
-<h3>Privacy Policy</h3>
+	<h3>Privacy Policy</h3>
 
-<p>Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.</p>
+<p>Linkis provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this Website.</p>
+<p>By using our Website you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. Processing means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.</p>
 
-<h3>We respect your privacy.</h3>
+<h3>Information Collection and Use</h3>
+<p>Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Website, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.</p>
 
-<p>Visiting or using our web-site is completely safe.
-Any personal information you provide to us will not be released, sold or rented.</p>
+<h3>Information Collected Upon Registration</h3>
+<p>If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Twitter account. While registering your account, we automatically fetch your username, bio and profile photo from Twitter to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with. </p>
 
-<p>We collect personally identifiable information, granted by Facebook or Twitter, when you voluntarily sign in to our website. This information is only used to create your personal account and authorize you.
-Your personally identifiable information is kept secure.
-This website may use cookies and tracking technology to recognize you each time you visit it. Cookies themselves do not contain any personal information so it can't be collected and spreader this way.</p>
+<h3>Use of Contact Information</h3>
+<p>We don’t share your contact and personal information with third parties. We may use it to provide you with information about our products and services, including but not limited to our Service.</p>
 
-<h3>Remember the risks whenever you use the Internet</h3>
+<h3>Log Data</h3>
+<p>When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.</p>
 
-<p>We are not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to other services and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through our service have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.</p>
+<h3>Cookies</h3>
+<p>Like many websites, we also use cookie technology to collect additional Website usage data and to improve the Website and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Linkis may use both session cookies and persistent cookies to better understand how you interact with the Website and our Service, to monitor aggregate usage by our users and web traffic routing on the Website, and to improve the Website and our services. A session cookie enables certain features of the Website and our service and is deleted from your computer when you disconnect from or leave the Website. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.</p>
+
+<h3>Information Sharing and Disclosure</h3>
+
+<h4>Service Providers</h4>
+<p>We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.</p>
+
+<h4>Compliance with Laws and Law Enforcement</h4>
+<p>Linkis cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Linkis or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.</p>
+
+<h3>Security</h3>
+<p>Linkis is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Website in the most expedient time possible and without unreasonable delay, consistent with (a) the legitimate needs of law enforcement or (b) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+
+<h3>Links to Other Websites</h3>
+<p>Our Website contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other Websites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+
+<h3>Our Policy Towards Children</h3>
+<p>The Website is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.</p>
+
+<h3>Changes to this Policy</h3>
+<p>This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website.</p>
+
 </div>
         </div>
     </div>
@@ -365,7 +444,7 @@ While we do our best to protect your personal information, we cannot guarantee t
     window.steal = { loaded:["prod/production.css"] };
     </script>
 
-    <script src="/js/steal/steal.production.js?prod/production.js&amp;676"></script>
+    <script src="/js/steal/steal.production.js?prod/production.js&amp;787"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
