@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projecteve.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330150944id_/http%3A//www.projecteve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecteve.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221175102id_/http%3A//www.projecteve.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,6 +38,10 @@ Like most web-based services, The Website automatically receives and records inf
 4\. THIRD PARTY ADVERTISERS
 
 We use third-party advertising companies to serve ads when you visit our The Website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp> . Such third-party companies may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Certain third-party companies, such as Google, may also use these cookies to serve ads to you based on your visit to The Website and other sites on the Internet. We do not provide your Personal Information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience that they were trying to reach. We reserve the right to add or remove third-party ad networks and ad servers in our discretion. We may not at all times list such updated ad network or ad server partners in this Privacy Policy.
+
+Project Eve is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+Project Eve LLC not responsible for the actions of our advertisers, sponsors or blog commenters. If you purchase a product through a link from this website, you must take action with that company to resolve any issues, not this website.
 
 5\. INFORMATION RECEIVED FROM THIRD-PARTY SOURCES
 
