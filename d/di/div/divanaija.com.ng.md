@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the divanaija.com.ng privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608175024id_/http%3A//www.divanaija.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divanaija.com.ng privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221164326id_/http%3A//www.divanaija.com.ng/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**[Diva Naija](http://www.divanaija.com.ng/pdp-accuses-apc-bringing-ebola-lagos/) Privacy Policy for all user of this Webpage**
+**Diva Naija Privacy Policy for all user of this Webpage**
 
 Updated: 21st November, 2014
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, [contact](http://www.divanaija.com.ng/contact/ "contact"), or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 [We Use cookies, check out our Cookie Policy Pages ](http://www.divanaija.com.ng/cookie-policy/)
 
@@ -16,7 +16,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **When do we collect information?**
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
+We collect information from you when you register on our site, [subscribe](http://www.divanaija.com.ng/subscribe/ "subscribe") to a newsletter, fill out a form or enter information on our site.
 
 **How do we use your information?**
 
@@ -42,7 +42,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 We use cookies to:  
 • Understand and save user’s preferences for future visits.  
 • Keep track of advertisements.  
-• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third [party](http://www.divanaija.com.ng/we-party-too-much-in-nigeria/) services that track this information on our behalf.
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -120,8 +120,8 @@ We also agree to the individual redress principle, which requires that individua
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 divanaija.com.ng  
-[Lagos](http://www.divanaija.com.ng/akinwunmi-ambode-wins-apc-governorship-primary-lagos/)  
-[Nigeria](http://www.divanaija.com.ng/nationwide-ban-okada-goodluck-jonathan/)  
+Lagos  
+Nigeria  
 No 16 Ademofe Ayodele Street, Lagos  
 Lagos  
-info @ divanaija.com.ng or divanaijang @ [gmail](http://www.divanaija.com.ng/www-gmail-com-gmail-registration-gmail-signup-account/).com
+info @ divanaija.com.ng or divanaijang @ gmail.com
