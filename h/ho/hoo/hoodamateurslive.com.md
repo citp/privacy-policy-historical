@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoodamateurslive.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413111904id_/http%3A//www.hoodamateurslive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamateurslive.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221222856id_/http%3A//www.hoodamateurslive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # HoodAmateursLive - Privacy Policy
 
