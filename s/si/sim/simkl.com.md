@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simkl.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626021915id_/https%3A//simkl.com/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simkl.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221152249id_/https%3A//simkl.com/about/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Simkl
+# Політика Конфіденційності - Simkl
 
 Last modified: December 31, 2012 
 
