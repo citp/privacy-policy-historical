@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052950id_/http%3A//bbg.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221085315id_/http%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Brooklyn Botanic Garden
 
@@ -8,27 +8,17 @@ Because we gather certain types of information about our users, we feel you shou
 
 ### Information BBG Gathers and Tracks
 
-#### Brooklyn Botanic Garden Online Garden Shop
+#### BBG eNews
 
-The BBG online shop secure server software uses industry-standard Secure Socket Layer (SSL) encryption technology, which is among the best software available to safeguard online transactions. As it travels over the Internet, your personal information, including credit card number, name, and address, is encoded by SSL so that all transactions are secure. If you prefer, you may also place your order by phone at 718-622-0963.
-
-When you order a product from the Garden Shop online, we need to know your name, billing and shipping addresses, telephone number, email address, and credit card information to process your order. Your credit card information will be used only as needed to process your transaction. So that we can track your order, we will retain your order information for our records. BBG does not sell, rent, or otherwise exploit in any way the customer information collected in this process. 
+Brooklyn Botanic Garden offers a free electronic newsletter to users. BBG gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. The information collected here is used solely for the purpose of the newsletter. BBG does not sell, rent, or otherwise exploit in any way the email addresses of eNews subscribers and recipients. 
 
 #### Brooklyn Botanic Garden Online Membership Purchases and Donations
 
-BBG processes online membership purchases, membership renewals, and donations using technology provided by Blackbaud, Inc. The latest encryption technologies are employed, and Blackbaud will not disclose, sell, trade, rent, or otherwise reveal your personal information to any entity other than BBG. Blackbaud is committed to protecting your privacy. To view their privacy policy, use the following link: [ Blackbaud, Inc. Privacy Policy](https://dnbweb1.blackbaud.com/OPXREPHIL/Privacy.asp?cguid=D65E2578%2DC29C%2D4BCC%2D8165%2D34647316E105&sid=000CA753%2D36EC%2D45CB%2D82FD%2D13CE43221B25). 
+Brooklyn Botanic Garden processes online membership purchases, membership renewals, and donations using technology provided by Blackbaud, Inc. The latest encryption technologies are employed, and Blackbaud will not disclose, sell, trade, rent, or otherwise reveal your personal information to any entity other than BBG.
 
-Brooklyn Botanic Garden occasionally shares its mailing addresses with like-minded nonprofit organizations. BBG does not share phone numbers, fax numbers, or email addresses. In accordance with standard practices in the nonprofit world, any list that BBG shares with other organizations is done on a one-time basis only. In other words, an organization to which we provide your address for a mailing will have the use of it only for that mailing and will not be authorized to keep your address, nor provide it to third parties unless you subsequently establish contact with that organization. The same organization might, at BBG's discretion, share portions of our list at a future time but would not have access to your name or address during any point in between.
+BBG occasionally shares its mailing addresses with like-minded nonprofit organizations. BBG does not share phone numbers, fax numbers, or email addresses. In accordance with standard practices in the nonprofit world, any list that BBG shares with other organizations is done on a one-time basis only. In other words, an organization to which we provide your address for a mailing will have the use of it only for that mailing and will not be authorized to keep your address, nor provide it to third parties unless you subsequently establish contact with that organization. The same organization might, at BBG's discretion, share portions of our list at a future time but would not have access to your name or address during any point in between.
 
 If you do not want your information shared, there are several ways to let us know. All BBG membership forms—for both renewals and first-time members—state, "If you do not want us to share your address, check here" and have a checkbox. Simply check the box and your information will never be shared. You may also email [membership@bbg.org](mailto:membership@bbg.org) or call the Membership Department at 718-623-7210 to place yourself on the "no-share" list.
-
-#### Cookies
-
-A cookie is a small piece of information that a server can place in a browser to later identify the browser. The primary purpose of a cookie is to save you time. When used with an online shopping system, a cookie allows the server to identify the user and keep track of what has been ordered. This is the only instance in which BBG uses cookies. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you and can only be read by a Web server in the domain that issued the cookie to you. A cookie is simply a line of text in a file. 
-
-#### BBG eNews
-
-We offer a free electronic newsletter to users. BBG gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. The information collected here is used solely for the purpose of the newsletter. BBG does not sell, rent, or otherwise exploit in any way the email addresses of eNews subscribers and recipients. 
 
 #### BBG Membership Emails
 
@@ -57,3 +47,5 @@ Please note that BBG may revise its privacy policy at any time. Such revisions m
 ### Contact BBG
 
 If you have any further questions or concerns about BBG's privacy policies and use of personal information, please send them to the [Website Manager](mailto:webmaster@bbg.org). 
+
+_Image, top of page:_
