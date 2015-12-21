@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicexchange.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525054454id_/http%3A//www.medicexchange.com/page/privacy-policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicexchange.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221093743id_/http%3A//www.medicexchange.com/page/privacy-policy-2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
