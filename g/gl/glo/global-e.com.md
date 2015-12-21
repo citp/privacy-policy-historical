@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-e.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622091235id_/http%3A//www.global-e.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-e.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221040707id_/http%3A//www.global-e.com/privacy-policy) for the most accurate reproduction.*
 
 # Global-e | Global eCommerce | Making eCommerce Glocal
 
