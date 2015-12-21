@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zoofashions.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623184709id_/http%3A//www.zoofashions.com/pages/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoofashions.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221211050id_/http%3A//www.zoofashions.com/pages/site-privacy) for the most accurate reproduction.*
 
-# Privacy Policy – ZOO Fashions
+# Privacy Policy – ZOOFASHIONS.COM
 
-ZOOFashions.com respects your concerns about privacy and follows strict procedures to protect customer information and ensure that your personal information is handled in a responsible manner. We do not disclose information you provide to third parties.
+ZOOFASHIONS.COM respects your concerns about privacy and follows strict procedures to protect customer information and ensure that your personal information is handled in a responsible manner. We do not disclose information you provide to third parties.
 
 ### What information do we collect?
 
@@ -58,15 +58,14 @@ By using our site, you consent to our websites privacy policy.
 ### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.  
-This policy was last modified on 28th March 2011
+This policy was last modified on 26th October 2015
 
 ### Where and how to ask questions
 
-If you require further information about our Privacy Policy, please go to the Contact Us section of the web site and send an email. If you wish to talk to a ZOOFashions.com customer care representative please call +44 (0)20 8514 1595 or write to:
+If you require further information about our Privacy Policy, please go to the Contact Us section of the web site and send an email. If you wish to talk to a ZOOFASHIONS.COM customer care representative please call +44 (0)20 8514 1595 or write to:
 
-ZOOFashions.com,  
+ZOOFASHIONS.COM  
 222-224 High Road,  
 Ilford,  
-Essex,  
-IG1 1QF,  
+Essex IG1 1QF,  
 United Kingdom
