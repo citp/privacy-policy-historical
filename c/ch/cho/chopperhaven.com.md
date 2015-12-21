@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chopperhaven.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417180111id_/http%3A//www.chopperhaven.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chopperhaven.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221044213id_/http%3A//www.chopperhaven.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ChopperHaven.com
 
