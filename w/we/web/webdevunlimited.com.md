@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webdevunlimited.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175833id_/http%3A//www.webdevunlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdevunlimited.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221105522id_/http%3A//www.webdevunlimited.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • {WebDevUnlimited;}
+# Privacy Policy • {WebDevUnlimited}
 
 At Web Dev Unlimited, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the type of personal information which is received and collected by the website and how it is used. We have a strict no spam policy and do not send you any emails, unless you subscribe to receive email updates.
 
