@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209204500id_/https%3A//www.21publish.com/shop/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221014433id_/https%3A//www.21publish.com/shop/privacy) for the most accurate reproduction.*
 
 # 21Publish - Content Management and Multi-User Blogs
 
