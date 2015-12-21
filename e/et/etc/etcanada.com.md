@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etcanada.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100714id_/http%3A//www.shawmedia.ca/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcanada.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221113750id_/http%3A//www.shawmedia.ca/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Shaw Media
 
