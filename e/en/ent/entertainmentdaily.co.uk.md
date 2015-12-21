@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentdaily.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613015920id_/http%3A//www.entertainmentdaily.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentdaily.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221154657id_/http%3A//www.entertainmentdaily.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Entertainment Daily
 
@@ -63,4 +63,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-Entertainmentdaily.co.uk is owned and operated by digitalbox Limited, 15 Gay Street Bath, BA1 2PH. digitalbox Limited is registered under the Data Protection Act 1998 under registration number Z9842529 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003.
+Entertainmentdaily.co.uk is owned and operated by digitalbox Limited, 30 Monmouth Street Bath, BA1 2AN. digitalbox Limited is registered under the Data Protection Act 1998 under registration number Z9842529 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003.
