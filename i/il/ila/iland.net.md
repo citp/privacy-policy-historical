@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iland.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622220027id_/http%3A//iland.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iland.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221174920id_/http%3A//www.iland.net/about/privacy.php) for the most accurate reproduction.*
 
 # I-Land -- Why Choose I-Land
 
