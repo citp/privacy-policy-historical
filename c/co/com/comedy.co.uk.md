@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedy.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042803id_/http%3A//www.comedy.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedy.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221180847id_/http%3A//www.comedy.co.uk/info/privacy) for the most accurate reproduction.*
 
 # British Comedy Guide - Help and Info - Privacy Policy
 
