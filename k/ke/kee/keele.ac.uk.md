@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keele.ac.uk privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223043723id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keele.ac.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221040553id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - Keele University
 
@@ -56,13 +56,19 @@ We use the information provided to help us improve our site and identify the mos
 
 Cookies last between one month and one year.
 
-For more information on Google analytics we recommend you visit the [Google analytics website](http://www.google.com/analytics/features/index.html).  
+For more information on Google analytics we recommend you visit the [Google analytics website](http://www.google.com/analytics/features/index.html).
+
+We use [Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en) to better understand who is visiting the Keele University website and develop new content around our user' interests. You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customise Google Display Network ads using the [Ads Settings](https://www.google.co.uk/settings/ads). In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics.  
   
 Skype | 
 
 We use Skype 'call buttons' on the site to enable you to contact members of the University.
 
 For more details read the [Skype Privacy pages](https://support.skype.com/en-gb/category/PRIVACY__SECURITY/)  
+  
+SocialSignIn | 
+
+We use SocialSignIn to monitor Keele Social networks. We use a cookie on the Keele website to monitor socially generated website traffic. [SocialSignIn](http://socialsignin.co.uk/).  
   
 YouTube | 
 
