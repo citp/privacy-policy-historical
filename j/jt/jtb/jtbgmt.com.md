@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172405id_/http%3A//www.jtbgmt.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221234723id_/http%3A//www.jtbgmt.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Leading Japan Tours and Travel Management | JTBGMT
 
