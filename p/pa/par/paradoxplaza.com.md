@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315125930id_/https%3A//www.paradoxplaza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221031302id_/https%3A//www.paradoxplaza.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Paradox Interactive - Paradox Interactive
 
-**Paradox Interactive AB**  
-**Privacy and Cookies Policy**
+**Paradoxplaza.com**
 
-Paradox Interactive AB, and its subsidiaries and affiliates (“Paradox Interactive,” “we” or “us”) respect your privacy and are committed to complying fully with Swedish laws and regulations regarding online privacy protection, and any information you provide to Paradox Interactive via www.paradoxplaza.com and its subsidiary sites (collectively, the “Site”), including via the use of a Paradox account or Forum account (each, an “Account”), or via the use of any of our computer games (the “Game” or “Games”), will be treated in accordance with those laws and regulations and as set forth herein this privacy and cookies policy (the “Privacy and Cookies Policy”). Visitors to the Site from outside Sweden are advised that this Privacy and Cookies Policy is intended to meet the laws and requirements of Sweden, which may not be the same as the laws and regulations of your home country.
+  
+**PRIVACY AND COOKIES POLICY**
+
+Paradox Interactive AB, and its subsidiaries and affiliates (“Paradox Interactive,” “we” or “us”) respect your privacy and are committed to complying fully with Swedish laws and regulations regarding online privacy protection, and any information you provide to Paradox Interactive via [www.paradoxplaza.com](http://www.paradoxplaza.com/) and its subsidiary sites (collectively, the “Site”), including via the use of a Paradox account or Forum account (each, an “Account”), or via the use of any of our interactive software games (the “Game” or “Games”), will be treated in accordance with those laws and regulations and as set forth herein this privacy and cookies policy (the “Privacy and Cookies Policy”). Visitors to the Site from outside Sweden are advised that this Privacy and Cookies Policy is intended to meet the laws and requirements of Sweden, which may not be the same as the laws and regulations of your home country.
 
 We are providing you with this Privacy and Cookies Policy in order to inform you of our policies with respect to information collected from visitors to the Site or to any Game. Your use of the Site or Game, or your creation of an Account, constitutes your acceptance of this Privacy and Cookies Policy and your consent to the practices it describes. IF YOU DO NOT AGREE WITH THIS PRIVACY AND COOKIES POLICY, PLEASE DO NOT USE THE SITE, GAME OR ACCOUNT.
 
@@ -50,7 +52,7 @@ Paradox Interactive may use Personally Identifiable Information collected throug
 
 Paradox Interactive uses the anonymous information collected automatically by our servers primarily to help us administer and improve our Site and Game. We may also use aggregated anonymous information to provide information about our Site to advertisers, potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
 
-Due to tax regulations, Paradox Interactive usually stores any collected information (Personally Identifiable Information and anonymous information) for a period of five (5) years.
+Paradox Interactive will not store Personally Identifiable Information longer than necessary for the purpose of the collection. Due to tax regulations however, Paradox Interactive usually stores any collected information (Personally Identifiable Information and anonymous information) for a period of five (5) years.
 
 **5\. Disclosure of Information**
 
@@ -62,7 +64,7 @@ Paradox Interactive maintains physical, electronic, and procedural safeguards to
 
 **7\. Children's Privacy**
 
-You must be at least 13 years of age to create any Account on the Site, and if you are between 13 and 16 years of age, you must get your parents’ or guardians’ consent prior to creating such Account. Paradox Interactive does not knowingly collect information from children under 13. If you are a parent or guardian of a child under 13 whom you believe has created an account on the Site, you may contact us at www.paradoxplaza.com/support or [support@paradoxplaza.com](mailto:support@paradoxplaza.com). You can also find our full contact details at <https://www.paradoxplaza.com/about-us/contact>.
+You must be at least 13 years of age to create any Account on the Site, and if you are between 13 and 18 years of age, you must get your parents’ or legal guardians’ consent prior to creating such Account. Paradox Interactive does not knowingly collect information from children under 13. If you are a parent or guardian of a child under 13 whom you believe has created an account on the Site, you may contact us at www.paradoxplaza.com/support or [support@paradoxplaza.com](mailto:support@paradoxplaza.com) and we will remove that account. You can also find our full contact details at <https://www.paradoxplaza.com/about-us/contact>.
 
 **8\. External Links**
 
@@ -84,4 +86,6 @@ Paradox Interactive shall have the right, at its sole discretion, to modify, add
 
 If you have questions about this Privacy and Cookies Policy, the information practices of Paradox Interactive or your dealings with Paradox Interactive, please contact us at [www.paradoxplaza.com/support](http://www.paradoxplaza.com/support).
 
-Last Modified: December 1, 2014
+Paradox Interactive AB
+
+_Date last modified: March 12, 2015_
