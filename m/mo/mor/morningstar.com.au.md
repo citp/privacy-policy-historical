@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.com.au privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622175727id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com.au privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221111453id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.*
 
 # Privacy - Morningstar.com.au
 
