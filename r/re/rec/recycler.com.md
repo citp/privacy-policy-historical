@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recycler.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111456id_/http%3A//www.recycler.com/Policy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycler.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221160816id_/http%3A//www.recycler.com/Policy/Privacy) for the most accurate reproduction.*
 
 # recycler.com - Privacy Policy
 
@@ -23,7 +23,7 @@ We collect both aggregate and user-specific information on what pages consumers 
 
 Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address but not the e-mail address, when you visit our site. Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site.
 
-To help make our site more responsive to the needs of our visitors, we may utilize a standard feature of browser software called a "cookie". The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. A cookie can't read data off your hard drive. Our advertisers or content partners may also assign their own cookies to your browser, a process that we cannot control. We use cookies to help us tailor our site to your needs, and to deliver a better, more personalized service.
+To help make our site more responsive to the needs of our visitors, we may utilize a standard feature of browser software called a "cookie". The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. A cookie can't read data off your hard drive. Our advertisers or content partners may also assign their own cookies to your browser, a process that we cannot control. We use cookies to help us tailor our site to your needs, and to deliver a better, more personalized service. Moreover, we leverage 3rd party data collection services. To opt out of interest based ads on recycler.com and across the web, click [here](http://www.networkadvertising.org/choices/). 
 
 **Log Information**
 
@@ -37,7 +37,7 @@ To help make our site more responsive to the needs of our visitors, we may utili
 
 **We present information to our advertisers to help them understand our audience and confirm the value of advertising on our websites.**
 
-**This information is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, we may share information on visitors to our site with organizations marketing products and services that we believe may be of interest to you. This list can include your e-mail address and other specific information (such as your address, phone number personal interests, etc.) you may have provided us while online.**
+**This information is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, we may share information on visitors to our site with organizations marketing products and services that we believe may be of interest to you. This list can include your e-mail address and other specific information (such as your address, phone number, personal interests, etc.) you may have provided us while online.**
 
 ****Special Attention To Children****
 
