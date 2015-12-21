@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ananzi.co.za privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623051307id_/http%3A//www.ananzi.co.za/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananzi.co.za privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222005030id_/http%3A//www.ananzi.co.za/Privacy_Policy) for the most accurate reproduction.*
 
 # Ananzi's Privacy Policy
 
@@ -16,10 +16,11 @@ By using this site, you signify your assent to Ananzi's Privacy Policy. If you d
 6\. Links to Other Sites  
 7\. Security  
 8\. E-mail  
-9\. Under-13 users
+9\. Under-13 users  
+10\. 3rd Parties 
 
   
-What personally identifiable information does Ananzi collect from me?
+**What personally identifiable information does Ananzi collect from me?**
 
 Ananzi collects information in several ways. Some personal information -- such as a name and e-mail address -- is gathered when you register for various services, and more detailed information is collected when we conduct demographic research.
 
@@ -32,7 +33,7 @@ Please be aware that Ananzi advertisers or websites that have links on our site 
 Back to the top
 
   
-How does Ananzi use my information?
+**How does Ananzi use my information?**
 
 Our primary goal in collecting personal information is to provide our users with a better online experience, including interactive communications, online shopping and other services. By knowing a little about you, Ananzi and its partners are able to deliver more relevant advertisements and content, and hence better service to you.
 
@@ -43,7 +44,7 @@ Ananzi conducts research on our users' demographics, interests and behaviour bas
 Back to the top
 
   
-With whom does Ananzi share my information?
+**With whom does Ananzi share my information?**
 
 As a general rule, Ananzi will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below:
 
@@ -62,7 +63,7 @@ As a general rule, Ananzi will not disclose any of your personally identifiable 
 Back to the top
 
   
-What are cookies and how does Ananzi use them?
+**What are cookies and how does Ananzi use them?**
 
 Cookies are pieces of information a website transfers to a user's hard drive for record-keeping purposes. Cookies make surfing the web easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most major websites.
 
@@ -73,14 +74,14 @@ Most browsers are initially set up to accept cookies. You can reset your browser
 Back to the top
 
   
-Use of IP Address
+**Use of IP Address**
 
 Ananzi also logs IP addresses, or the location of your computer on the Internet. An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Ananzi collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When users request pages from the Ananzi network, our servers log the users' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our policies or Terms of use Agreement, or to protect our service, site, customers or others.
 
 Back to the top
 
   
-Links to Other Sites
+**Links to Other Sites**
 
 Users should be aware that when you are on Ananzi, you could be directed to other sites that are beyond our control. There are links to other sites from Ananzi pages that take you outside our service, e.g. clicking on a banner advertisement. These other sites may send their own cookies to users, collect data or solicit personal information. Ananzi does not control the privacy policies of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks.
 
@@ -89,25 +90,29 @@ Please keep in mind that whenever you give out personal information online -- fo
 Back to the top
 
   
-Security
+**Security**
 
 The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Ananzi cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 Back to the top
 
   
-E-mail
+**E-mail**
 
 Using the e-mail addresses provided when you register for various services, Ananzi may periodically send promotional e-mail to its users about services offered by Ananzi and its advertisers. Reference should be made to the policies pertaining to the use of Ananzi Mail, our free e-mail facility.
 
 Back to the top
 
   
-Policies for Individuals Under 13 years of Age
+**Policies for Individuals Under 13 years of Age**
 
 Ananzi encourages parents, teachers and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted at Ananzi by guests under 13 years of age without the consent of their parent, teacher or guardian.
 
 Back to the top
 
   
+**3rd Parties**
+
+Your Facebook and Google Plus account information is only used for login services. We do not obtain any personal information using your Facebook or Google Plus login. Learn more about Googles privacy policy: <http://www.google.com/intl/en/policies/privacy/partners/>
+
 By continuing to use Ananzi, you agree to abide by the terms of this policy.
