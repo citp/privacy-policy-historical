@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juicyceleb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630044124id_/http%3A//juicyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicyceleb.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221072132id_/http%3A//juicyceleb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|Juicy Celeb – Celebrity Gossip, Rumors & Entertainment News
+# Privacy Policy - Juicy Celeb – Celebrity Gossip, Rumors & Entertainment News
 
 This policy describes how and why Online Business Services S.A. collects non-personally identifiable data from users and website visitors to http://WWW.JUICYCELEB.COM, and how that data will be used. Online Business Services S.A. is committed to respecting the privacy of non-personal identifiable data gathered.
 
