@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accc.gov.au privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620233322id_/http%3A//www.accc.gov.au/about-us/using-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accc.gov.au privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221222928id_/https%3A//www.accc.gov.au/about-us/using-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy | ACCC
 
@@ -52,9 +52,13 @@ Cookies are either persistent or session based. Persistent cookies are stored on
 
 Our site uses both kinds of cookies to provide a rich and session based experience. The cookies are used to enable us to track users’ browsing patterns in order to provide statistical information to improve the usability of the site.
 
+Our website uses Google Analytics which transmits website traffic data to servers offshore. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use this data to help us make the website better by understanding how our website is used.
+
 If you do provide us with your personal information and you wish to limit the use and disclosure of personal information, we recommend you expressly state those limitations when contacting us.
 
 If you provide personal information in the course of a public review process, for example you make a submission which may be placed on an ACCC website and you do not wish for your personal information to be disclosed, you should expressly state this and we can take steps to redact your personal information before placing your submission on the website.
+
+To assist other regulators of the Australian Consumer Law (ACL) we share some de-identified data with them. Any information you provide confidentially is excluded.
 
 If you do not wish to provide the ACCC with your personal information, you may contact us anonymously, or by using a pseudonym. By remaining anonymous, or by using a pseudonym, we may be limited in our ability to respond to or make further enquiries regarding your complaint, submission or enquiry with us.
 
