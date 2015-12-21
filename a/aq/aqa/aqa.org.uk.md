@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622071510id_/http%3A//www.aqa.org.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221094451id_/http%3A//www.aqa.org.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # AQA | About us | Privacy policy
 
@@ -32,7 +32,7 @@ The AQA is Registered with the Information Commissioner's Office (Registration N
 
 If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'. You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA will share this information with you within 40 days. You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you.
 
-You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to Dr A Bird, Chief Operating Officer, AQA, Devas Street, Manchester, M15 6EX.
+You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to David Shaw, Chief Information Officer, Stag Hill House, Guildford, Surrey, GU2 7XJ.
 
 ## 6\. Payment
 
