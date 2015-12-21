@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theantijunecleaver.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010428id_/http%3A//theantijunecleaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theantijunecleaver.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221130755id_/http%3A//theantijunecleaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Anti June Cleaver
+# Privacy Policy - The Anti-June Cleaver
 
 **What information do we collect?**
 
