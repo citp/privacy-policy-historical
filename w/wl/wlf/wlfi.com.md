@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622021224id_/http%3A//wlfi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221095757id_/http%3A//wlfi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wlfi.com
 
@@ -32,4 +32,4 @@ If you have any questions about this Privacy Policy, our privacy practices, or y
 
 7513
 
-WLFI.com provides commenting to allow for constructive discussion on the stories we cover. In order to comment here, you acknowledge you have read and agreed to our Terms of Service. Commenters who violate these terms, including use of vulgar language or racial slurs, will be banned. Please be respectful of the opinions of others and keep the conversation on topic and civil. If you see an inappropriate comment, please flag it for our moderators to review.
+WLFI.com provides commenting to allow for constructive discussion on the stories we cover. In order to comment here, you acknowledge you have read and agreed to our Terms of Service. Commenters who violate these terms, including use of vulgar language, off topic, or racial slurs, will be banned. Please be respectful of the opinions of others and keep the conversation on topic and civil. If you see an inappropriate comment, please flag it for our moderators to review.
