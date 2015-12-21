@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citynetmagazine.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402052946id_/http%3A//www.citynetmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citynetmagazine.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221132936id_/http%3A//www.citynetmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Citynet Magazine
 
 By contacting CitynetMagazine.com, you agree that your name and identifiable information will not be used in any form of spam emailing that goes out to millions of people. We are not spammers and sometimes people spam in our name. Rest assured that the junk mail you may receive that appears as though it came from CitynetMagazine.com is not.
 
