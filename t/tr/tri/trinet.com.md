@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trinet.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070758id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinet.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221135947id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | TriNet
 
 ## **Introduction** \- www.trinet.com
 
-This privacy policy applies to the website [www.trinet.com](http://www.trinet.com/) and to TriNet services websites at: [https://sso.trinet.com](http://sso.trinet.com/), [www.hrpassport.com](http://www.hrpassport.com/), [https://soiportal.soi.com](https://soiportal.soi.com/); [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/>. These websites are owned and operated by TriNet Group, Inc. and its subsidiaries (“TriNet”). This privacy policy describes how TriNet collects and uses the personal information you provide on our websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to the website [www.trinet.com](http://www.trinet.com/) and to TriNet services websites at: [www.trinetambrose.com](http://www.trinetambrose.com/), [www.trinetpassport.com](http://www.trinetpassport.com/), [www.trinetsoi.com](http://www.trinetsoi.com/), [www.trinetlifesciences.com](http://www.trinetlifesciences.com/), and [www.trinetaccord.com](http://www.trinetaccord.com/). These websites are owned and operated by TriNet Group, Inc. and its subsidiaries (“TriNet”). This privacy policy describes how TriNet collects and uses the personal information you provide on our websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 TriNet delivers HR outsourcing services that allow companies to do what they do best. Thousands of employers have turned to TriNet for human resources, benefits, payroll, workers' compensation and strategic human capital services. As their trusted HR advisor, TriNet helps these employers contain HR costs, minimize employer-related risk and relieve the administrative burden of HR. In order for TriNet to provide this vast array of services to its customers and their worksite employees, TriNet must collect certain personal information regarding the employees of its customers.
 
@@ -14,9 +14,9 @@ This policy does not apply to any information that you may provide directly to t
 
 [](https://privacy.truste.com/privacy-seal/TriNet-Human-Resources/validation?rid=4954cdcf-8567-482b-9df0-864a3684213e "Validate TRUSTe privacy certification")
 
-TriNet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and the related practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the websites [www.trinet.com](http://www.trinet.com/), [https://sso.trinet.com](https://sso.trinet.com/), [www.hrpassport.com](https://www.hrpassport.com/), [https://soiportal.soi.com](https://soiportal.soi.com/), [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/> and mobile apps connected to these websites. 
+TriNet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and the related practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the websites [www.trinet.com](http://www.trinet.com/), [www.trinetambrose.com](http://www.trinetambrose.com/), [www.trinetpassport.com](http://www.trinetpassport.com/), [www.trinetsoi.com](http://www.trinetsoi.com/), [www.trinetlifesciences.com](http://www.trinetlifesciences.com/), and [www.trinetaccord.com](http://www.trinetaccord.com/) and mobile apps connected to these websites. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at  [employees@trinet.com](mailto:employees@trinet.com "Contact us to find out more info on payroll services & other human resources services we offer").  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact the appropriate [customer support office](https://web.archive.org/company/contact_us/default.htm#horizontalTab2). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ##  **Information We Collect**
 
@@ -44,7 +44,7 @@ If you send us proposals or personal correspondence, such as emails or letters, 
 
 We use personally identifiable information about you to improve our marketing and promotional efforts, statistically analyze site usage, improve our content product offerings, customize our sites' content, layout and services, and provide our services (if applicable).
 
-We may use the email address, mailing address, and phone number we collect from you to respond to your inquiries and, to the extent permitted by applicable law, to contact you regarding administrative notices, new product offerings and communications relevant to your use of our sites. In some cases, we may use your personally identifiable information to inform you of new services, promotions and other matters targeted to your interests. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us at [employees@trinet.com](mailto:employees@trinet.com "Contact us to find out more info on payroll services & other human resources services we offer").
+We may use the email address, mailing address, and phone number we collect from you to respond to your inquiries and, to the extent permitted by applicable law, to contact you regarding administrative notices, new product offerings and communications relevant to your use of our sites. In some cases, we may use your personally identifiable information to inform you of new services, promotions and other matters targeted to your interests. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting the appropriate [customer support office](https://web.archive.org/company/contact_us/default.htm#horizontalTab2).
 
 We use information in the file we maintain specific to you, and other information we obtain from your current and past activities on our sites, to resolve disputes and troubleshoot problems. At times, we may look across multiple users to identify problems or resolve disputes and we may evaluate information about you to look for users using multiple User IDs or aliases.
 
@@ -56,7 +56,7 @@ TriNet’s websites are intended for adults. We do not knowingly collect persona
 
 If you are a customer (also referred to as a worksite employer) or worksite employee serviced by TriNet, you are a registered user and we may collect and maintain personally identifiable information including, but not limited to, name, address, phone number, social security number, taxpayer identification number, age, marital status, occupation, salary, benefits, dependent information, etc. through TriNet service websites or other means disclosed to you. This information will be used to provide our professional employer and other HR-related services, which may include sharing such information with your worksite employer to the extent permitted by applicable law.
 
-Once you receive a username and password, you can review and change the information you submitted during registration. If your registration information changes, you must promptly update, change or delete your registration information by logging into your information page or by emailing us at [employees@trinet.com](mailto:employees@trinet.com "Contact us to find out more info on payroll services & other human resources services we offer"). We will respond to your inquiries about your personal information within 30 days. We will retain in our files information you have requested be removed in some circumstances, such as to resolve disputes, troubleshoot problems and enforce any applicable agreements. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
+Once you receive a username and password, you can review and change the information you submitted during registration. If your registration information changes, you must promptly update, change or delete your registration information by logging into your information page or by contacting the appropriate [customer support office](https://web.archive.org/company/contact_us/default.htm#horizontalTab2). We will respond to your inquiries about your personal information within 30 days. We will retain in our files information you have requested be removed in some circumstances, such as to resolve disputes, troubleshoot problems and enforce any applicable agreements. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
 ## **Disclosure of Information**
 
@@ -88,38 +88,38 @@ We use industry standard methods, such as firewalls and Secure Socket Layers (SS
 
 ##  **Referrals**
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. You must have the consent of your friend to provide us with this information. We will automatically send your friend a one-time email inviting him or her to visit the website. This email will identify that you asked for it to be sent. TriNet may store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [employees@trinet.com](mailto:employees@trinet.com "Contact us to find out more info on payroll services & other human resources services we offer") to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. You must have the consent of your friend to provide us with this information. We will automatically send your friend a one-time email inviting him or her to visit the website. This email will identify that you asked for it to be sent. TriNet may store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact the appropriate [customer support office](https://web.archive.org/company/contact_us/default.htm#horizontalTab2) to request that we remove this information from our database.
 
 ##  **Social Media Widgets**
 
 Our website includes social media features, such as the Facebook button, and widgets, such as the ShareThis button, or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-##  Changes in this Privacy Policy
+##  **Changes in this Privacy Policy**
 
-We reserve the right to change this policy at any time without prior notice to users of this site. This Privacy Policy was last updated on July 22, 2014. Please check here regularly to learn of any changes to this policy. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We reserve the right to change this policy at any time without prior notice to users of this site. This Privacy Policy was last updated on September 22, 2015. Please check here regularly to learn of any changes to this policy. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## Copyright Notification
+## **Copyright Notification**
 
-TriNet.com, HR Passport® and TriNet’s other service websites are the property of TriNet. • ©2014, All rights reserved. 
+TriNet.com and TriNet’s other service websites are the property of TriNet. ©2015, All rights reserved. 
 
-## Trademark Information
+## **Trademark Information**
 
-The TriNet logo and design, Ambitions Realized®, HR Passport® are registered trademarks of TriNet. All other trademarks, trade names, service marks and logos appearing on the TriNet website and TriNet’s service websites belong to their respective companies.
+The TriNet logo and design and Ambitions Realized® are registered trademarks of TriNet. All other trademarks, trade names, service marks and logos appearing on the TriNet website and TriNet’s service websites belong to their respective companies.
 
-## Website Administrator
+## **Website Administrator**
 
 Send comments to TriNet.com [Website Support](mailto:siteforms@trinet.com). 
 
-## Contact Information
+## **Contact Information**
 
 TriNet  
 1100 San Leandro Boulevard  
 Suite 400  
 San Leandro, CA 94577, USA  
 Attention: General Counsel  
-[employees@trinet.com](mailto:employees@trinet.com) or [legal@trinet.com](mailto:legal@trinet.com)
+Email the appropriate [customer support office](https://web.archive.org/company/contact_us/default.htm#horizontalTab2) or [legal@trinet.com](mailto:legal@trinet.com)
 
-**This Privacy Policy applies only to Personal Information transferred to TriNet Group Inc., and its subsidiaries ("TriNet") from locations in the European Union ("EU"), Switzerland, Canada and other locations outside of the United States. In addition, all other personal information transferred to TriNet is subject to TriNet's "Privacy Policy and Terms of Use" posted on[www.trinet.com](http://www.trinet.com/), [www.hrpassport.com](http://www.hrpassport.com/), [https://soiportal.soi.com](https://soiportal.soi.com/), [www.hrdatasystems.com](http://www.hrdatasystems.com/), and <https://access.accordhr.com/login/>. To the extent TriNet’s Terms of Use and Privacy Policy is also applicable to your personal information and there is any conflict between the terms of this International Privacy Policy and TriNet’s Terms of Use and Privacy Policy, the terms of this International Policy will govern.**
+**This Privacy Policy applies only to Personal Information transferred to TriNet Group Inc., and its subsidiaries ("TriNet") from locations in the European Union ("EU"), Switzerland, Canada and other locations outside of the United States. In addition, all other personal information transferred to TriNet is subject to TriNet's "Privacy Policy and Terms of Use" posted on[www.trinet.com](http://www.trinet.com/),[ www.trinetambrose.com](http://www.trinetambrose.com/), [www.trinetpassport.com](http://www.trinetpassport.com/), [www.trinetsoi.com](http://www.trinetsoi.com/), [www.trinetlifesciences.com](http://www.trinetlifesciences.com/) and [www.trinetaccord.com](http://www.trinetaccord.com/). To the extent TriNet’s Terms of Use and Privacy Policy is also applicable to your personal information and there is any conflict between the terms of this International Privacy Policy and TriNet’s Terms of Use and Privacy Policy, the terms of this International Policy will govern.**
 
 ## **Introduction**
 
@@ -127,7 +127,7 @@ TriNet delivers HR outsourcing services that allow companies to do what they do 
 
 Protecting customer and employee privacy is important to TriNet. TriNet adheres to the Safe Harbor Agreements concerning the transfer of personal data from locations in the European Union (EU) and Switzerland to the United States and adheres to Canada’s Personal Information Protection and Electronic Documents Act ("PIPEDA") and the applicable provincial privacy legislation.
 
-TriNet complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TriNet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (“Principles”). To learn more about the Safe Harbor program, and to view TriNet’s certification, please visit <http://www.export.gov/safeharbor/>.
+TriNet complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TriNet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (“Principles”). To learn more about the Safe Harbor program, and to view TriNet’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 This Privacy Policy applies to all Personal Information received by TriNet from outside of the United States whether in electronic, paper or verbal format. All such information is transmitted to the United States and is maintained in San Leandro, California; Reno, Nevada; Bradenton, Florida; Oklahoma City, Oklahoma; Fort Mill, South Carolina; and New York City, New York, which may have privacy and data protection laws that differ from those in the country in which an employee resides. As a result, Personal Information may be subject to access requests from U.S. government agencies, courts and law enforcement officials in accordance with U.S. laws.
 
@@ -155,7 +155,7 @@ Personal Information includes, but is not limited to: name, employer, title, pos
 
 ##  **Amendments**
 
-This Privacy Policy was last updated on July 22, 2014, and may be amended from time to time by the posting of a revised policy on this website. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+This Privacy Policy was last updated on September 22, 2014, and may be amended from time to time by the posting of a revised policy on this website. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ##  **Privacy Complaints by Residents Outside of the United States**
 
@@ -166,7 +166,7 @@ TriNet
 Suite 400  
 San Leandro, CA 94577, USA  
 Attention: General Counsel  
-[employees@trinet.com](mailto:employees@trinet.com) or [legal@trinet.com](mailto:legal@trinet.com)
+Email the appropriate [customer support office](https://web.archive.org/company/contact_us/default.htm#horizontalTab2) or [legal@trinet.com](mailto:legal@trinet.com)
 
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -174,7 +174,7 @@ If you are a Canadian resident and are not able to resolve your concern by conta
 
 See more at: <http://www.trinet.com/company/terms.htm#sthash.onprBGcA.dpuf>
 
-In addition to the applicable privacy policy, the following terms of use apply to your use of [www.trinet.com](http://www.trinet.com/) and to TriNet’s service websites: [www.hrpassport.com](http://www.hrpassport.com/); [https://soiportal.soi.com](https://soiportal.soi.com/); [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/>. These websites are owned and operated by TriNet Group, Inc., and it subsidiaries (“TriNet”). The content of the websites is protected by U.S. and international copyright laws, federal and states trademark laws and other intellectual property laws and conventions. Nothing contained in these websites will be construed as granting any license or right to use the protected materials, without the express written consent of TriNet. By accessing or otherwise using the websites, you are indicating your acceptance of, and agreement to abide by, these terms of use, the applicable privacy policies and all applicable international federal, state and local laws and regulations. 
+In addition to the applicable privacy policy, the following terms of use apply to your use of [www.trinet.com](http://www.trinet.com/) and to TriNet’s service websites:[www.trinetambrose.com](http://www.trinetambrose.com/), [www.trinetpassport.com](http://www.trinetpassport.com/), [www.trinetsoi.com](http://www.trinetsoi.com/), [www.trinetlifesciences.com](http://www.trinetlifesciences.com/), and [www.trinetaccord.com](https://access.accordhr.com/login/). These websites are owned and operated by TriNet Group, Inc., and it subsidiaries (“TriNet”). The content of the websites is protected by U.S. and international copyright laws, federal and states trademark laws and other intellectual property laws and conventions. Nothing contained in these websites will be construed as granting any license or right to use the protected materials, without the express written consent of TriNet. By accessing or otherwise using the websites, you are indicating your acceptance of, and agreement to abide by, these terms of use, the applicable privacy policies and all applicable international federal, state and local laws and regulations.
 
 ##  **Use of Service Websites**
 
@@ -182,7 +182,7 @@ TriNet’s service websites are licensed to you subject to the terms and conditi
 
 ## **As Is**
 
-Your licensed usage of TriNet’s service websites is on an “As Is” basis and TriNet disclaims any and all warranties, express or implied, to the full extent permitted by law. For example, TriNet does not warrant that its online services or content will be uninterrupted or error-free, available at all times, or in any and all geographic areas, or will meet any particular criteria of performance or quality. TriNet cannot be held liable for any indirect, punitive, incidental, consequential, or other special damages arising out of your use of TriNet’s service websites or online services. 
+Your licensed usage of TriNet’s service websites is on an “As Is” basis and TriNet disclaims any and all warranties, express or implied, to the full extent permitted by law. For example, TriNet does not warrant that its online services or content will be uninterrupted or error-free, available at all times, or in any and all geographic areas, or will meet any particular criteria of performance or quality. TriNet cannot be held liable for any indirect, punitive, incidental, consequential, or other special damages arising out of your use of TriNet’s service websites or online services.
 
 ## **Control of Your Login Password—for Customers and Worksite Employees Only**
 
@@ -190,7 +190,7 @@ Except as specifically permitted by this section, you may not disclose your pass
 
 ## **Minors**
 
-TriNet websites are not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the websites, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must be properly employed as a worksite employee or have the permission of a parent or legal guardian in order to use the websites, provide any personal information or receive our email distributions. 
+TriNet websites are not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the websites, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must be properly employed as a worksite employee or have the permission of a parent or legal guardian in order to use the websites, provide any personal information or receive our email distributions.
 
 ## **TriNet Benefit Plans Disclaimer**
 
@@ -204,7 +204,7 @@ Insurance coverage exclusions and limitations apply. In the event there is a con
 
 ## **Changes and Applicable Law**
 
-The information on TriNet’s websites may have general applicability to TriNet customers and worksite employees and is not deemed to amend, alter or supersede specific contracts or agreements. TriNet reserves the right to change the terms of use and privacy policies contained herein at any time and such charges will become effective after TriNet posts the changes on this website. Any dispute regarding the terms of use will be resolved by arbitration conducted in the city of the TriNet office closest to your most recent work location. The arbitration will be in accordance with the rules and processes of either the American Arbitration Association or Judicial Arbitration and Mediation Services, Inc., and, for state law, the law of Delaware will apply.       
+The information on TriNet’s websites may have general applicability to TriNet customers and worksite employees and is not deemed to amend, alter or supersede specific contracts or agreements. TriNet reserves the right to change the terms of use and privacy policies contained herein at any time and such charges will become effective after TriNet posts the changes on this website. Any dispute regarding the terms of use will be resolved by arbitration conducted in the city of the TriNet office closest to your most recent work location. The arbitration will be in accordance with the rules and processes of either the American Arbitration Association or Judicial Arbitration and Mediation Services, Inc., and, for state law, the law of Delaware will apply.
 
 ## **Legal Disclaimer**
 
