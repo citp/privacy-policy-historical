@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfamilysurvival.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182417id_/http%3A//myfamilysurvival.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfamilysurvival.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221115119id_/http%3A//myfamilysurvival.net/privacy) for the most accurate reproduction.*
 
 # Privacy My Family Survival
 
