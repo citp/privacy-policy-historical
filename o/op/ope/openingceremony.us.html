@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the openingceremony.us privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629115234id_/http%3A//www.openingceremony.us/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openingceremony.us privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221072828id_/http%3A//www.openingceremony.us/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,13 +8,15 @@
     </title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+	<meta name="description" content="Explore the Official Site of Opening Ceremony: a global fashion and lifestyle curator. From concept to high-end luxury, shop clothing and accessories from emerging designers.">
     <meta name="viewport" content="width=device-width,initial-scale=1.0;">
     <meta name="google-site-verification" content="21iX4BEOraR-7Yx7xh4uh8qwJTLwOwXDzh7_OB1GsfA">
     <link rel="stylesheet" href="/style_old.css" type="text/css">
     <link rel="stylesheet" href="/style.css" type="text/css">
     <link rel="stylesheet" href="/css/boxy.css" type="text/css">
     <link rel="stylesheet" href="/css/checkout.css" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" src="//use.typekit.net/azs7fsp.js"></script>
+    <script type="text/javascript" async="" src="https://loader.wisepops.com/default/index/get-loader?user_id=20197"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" src="//use.typekit.net/azs7fsp.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     
@@ -60,9 +62,52 @@
 	
 		  //_gaq.push(['_trackPageview']);
 		  ga('send', 'pageview');
-				
+	
+	
+	if ($.cookie('CartID')==null || $.cookie('CartID').val().length>50){
+		$.get('/ajax.asp',{mode:'createcartid'},function(ret){
+			$.cookie('CartID',ret)
+		})
+	}
+
+    //<![CDATA[
+    (function() {
+      function riskifiedBeaconLoad() {
+        var store_domain = 'openingceremony.us';
+        var session_id = $.cookie('CartID');
+        var url = ('https:' == document.location.protocol ? 'https://' : 'http://')
+          + "beacon.riskified.com?shop=" + store_domain + "&sid=" + session_id;
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = url;
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+      }
+      if (window.attachEvent)
+        window.attachEvent('onload', riskifiedBeaconLoad)
+      else
+        window.addEventListener('load', riskifiedBeaconLoad, false);
+    })();
+    //]]>
+		
 	</script>
 
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '169138876768114');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=169138876768114&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 </head>
 <body>
     <div class="container">
@@ -80,8 +125,7 @@
                     <div class="tote"><a href="/cart.asp"><span id="totesp">TOTE</span><img class="toteIcon" src="/images/ocx/images/homepage/toteBag_new.png" alt="TOTE"></a></div>
                 </div>
             </div>
-            <!--<div id="logo"><a href="/"><img width="126" height="126" src="/images/logo_front2.jpg" alt="" /></a></div>-->
-            <div id="logo"><a href="/"><img width="126" height="126" src="/images/logo_0615.gif" alt=""></a></div>                                  
+            <div id="logo"><a href="/"><img width="126" height="126" src="/images/logo_front2.jpg" alt=""></a></div>
             <div class="row">
                 <div id="nav">
                     <ul class="mainNav">
@@ -90,10 +134,11 @@
                             <ul class="shop_subNav">
                                 <li class="li2  lisub"><a href="/products.asp?menuid=2">WOMEN</a></li>
                                 <li class="li1  lisub"><a href="/products.asp?menuid=1">MEN</a></li>
-                                <li class="lisale  lisub"><a href="/sale.asp" style="color:red;">SALE</a></li>
-                                <li class="li207  lisub"><a href="/entry.asp?pid=11289">EDITORIAL</a></li>
-                                <li class="li545  lisub"><a href="/products.asp?menuid=2&amp;catid=545">GIFTS</a></li>
+                                <li class="li207  lisub"><a href="/entry.asp?pid=12669">EDITORIAL</a></li>
+                                <!--<li class="li545  lisub"><a href="/products.asp?menuid=2&catid=545">GIFTS</a></li>-->
+                                <li class="li545  lisub"><a href="/entry.asp?pid=12616">GIFTS</a></li>
                                 <li class="lidesigners  lisub"><a href="/entry.asp?cat=designers">DESIGNERS</a></li>
+                                <li class="lisale  lisub"><a href="/sale.asp">SALE</a></li>
                             </ul>
                         </li>
                         <li class="liblog ">
@@ -218,7 +263,7 @@ E-mail: <a style="font-family: Merriweather, serif; font-size: 12px; line-height
 			<div id="foot_header" class="text-center"><h2>OPENINGCEREMONY.US</h2></div>
 		</div>
 	</div>
-    <div id="debug2" style="margin: 0 0 0 -500px"><a href="http://magiclamp.net">ecommerce website design</a> &amp; <a href="http://magiclamp.net">ecommerce web development</a></div>
+    
     <div id="footer">
         <div class="row">
             <div class="foot_inner">
@@ -274,6 +319,35 @@ E-mail: <a style="font-family: Merriweather, serif; font-size: 12px; line-height
     </div>
 </div>
 
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+  function riskifiedBeaconLoad() {
+    var store_domain = 'openingceremony.us';
+    var session_id = $.cookie('CartID');
+    var url = ('https:' == document.location.protocol ? 'https://' : 'http://')
+      + "beacon.riskified.com?shop=" + store_domain + "&sid=" + session_id;
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  }
+  if (window.attachEvent)
+    window.attachEvent('onload', riskifiedBeaconLoad)
+  else
+    window.addEventListener('load', riskifiedBeaconLoad, false);
+})();
+//]]>
+</script>
+
+    <script type="text/javascript">
+		(function() {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;
+		s.src = document.location.protocol + '//loader.wisepops.com/default/index/get-loader?user_id=20197';
+		var s2 = document.getElementsByTagName('script')[0];s2.parentNode.insertBefore(s, s2);})();
+    </script> 
 
 
 
