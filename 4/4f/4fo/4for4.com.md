@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4for4.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103643id_/http%3A//www.4for4.com/fantasy-football/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4for4.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221110022id_/http%3A//www.4for4.com/fantasy-football/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Fantasy Football
 
