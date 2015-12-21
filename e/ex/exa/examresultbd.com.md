@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examresultbd.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194039id_/http%3A//examresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresultbd.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221205853id_/http%3A//examresultbd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy! | Examresultbd
 
@@ -30,6 +30,4 @@ This Privacy Policy governs the manner in which Bangladesh Jobs and Result colle
 **Log Files**  
 Like many other Web sites, [examresultbd.com](http://examresultbd.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Feel Free to Ask...........
-
-Comments
+[fbcomments] 
