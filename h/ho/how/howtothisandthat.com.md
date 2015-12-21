@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523132201id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221180509id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - How To... This and That
 
