@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622095128id_/http%3A//www.diabetesselfmanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221103622id_/http%3A//www.diabetesselfmanagement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Diabetes Self-Management
 
@@ -66,7 +66,7 @@ If the email address you provide to us is a wireless email address, you may not 
 
 4\. **Right to Opt-Out:**
 
-You have the right to “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to: (1) receive promotional or marketing material from us in the future, or (2) have your Personal Information disclosed to or shared with third parties in the future. You may also make these requests by clicking here. (If you use more than one email address, please fill out the form separately for each address. You will need to re-enter the other required information as well.) You may also opt-out of our promotional emails by clicking on an opt-out link within the email you receive. 
+You have the right to “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to: (1) receive promotional or marketing material from us in the future, or (2) have your Personal Information disclosed to or shared with third parties in the future. You may opt-out of our emails by clicking on an opt-out link within the email you receive. 
 
 However, please understand that your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us (e.g., your magazine subscription, the status of your orders, or our responses to questions or inquiries you pose to us), and (b) shall not preclude us, including our employees, contractors, agents, and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly. 
 
