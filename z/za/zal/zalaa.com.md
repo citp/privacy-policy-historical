@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalaa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195641id_/http%3A//www.zalaa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalaa.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221134402id_/http%3A//www.zalaa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Zalaa - Easy way to share your files
 
