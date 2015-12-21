@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623150012id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221183812id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProtoShare
 
@@ -50,6 +50,10 @@ Site9 will amend this policy from time to time. Please note that any modificatio
 
 Site9 is committed to resolving our customers' privacy concerns. Individuals should work directly with their assigned Account Manager to address concerns arising from Site9's use of private information. If unable to address the issue via the assigned account team, individuals should contact Site9 directly via e-mail at [privacy@site9.com](mailto:privacy@site9.com) stating the suspected misuse of information.
 
+##### US-EU Safe Harbor Framework
+
+Site9, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Site9, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Site9, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>
+
 ##### Questions or Suggestions
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at the email address above.
@@ -57,7 +61,7 @@ If you have questions or concerns about our collection, use, or disclosure of yo
 If you have any question or concerns about what has been stated in this Privacy Policy please feel free to contact us:
 
 Site9, Inc.  
-610 SW Alder, Suite 515  
+610 SW Alder, Suite 400  
 Portland, OR 97205  
 P: 503.248.4440  
 E: info@site9.com 
