@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theseojobs.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515102352id_/http%3A//www.theseojobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theseojobs.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221125610id_/http%3A//www.theseojobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
