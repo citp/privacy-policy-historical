@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogmyway.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224150750id_/http%3A//essayboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmyway.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221114853id_/http%3A//essayboard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EssayBoard
+# Privacy Policy « EssayBoard
 
 _*** Definition: When in the text is spoken of   “_ ** _We_** _”  and “ **Us** “, it means the webmaster and the owner of the website and internet domain name. This excludes “Trusted partners”( see text below )._
 
