@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504183302id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221123616id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_**Favorite List Accounts without profile names will be deleted. Please click on the Account button below to add a name to your profile.**_
-
-[**Click Here**](http://sweetiessweeps.com/2009/09/sweeties-sweepstakes-coding-system.html) **for Title Abbreviations Explanation** , [Click Here](http://sweetiessweeps.com/2010/09/sweepstakes-star-rating-chart.html) **to understand our Sweepstakes Ratings**. 
 
 **Privacy Policy for Sweeties Sweeps  
 **
 
-These policies are valid from June 24, 2008 and were updated July 1, 2013.
+These policies are valid from June 24, 2008 and were updated December 5, 2015. Last updated on December 5, 2015.
 
 **Commitment to Online Security**
 
@@ -17,7 +13,15 @@ Personal information submitted to Sweeties Sweeps is only accessible only the ow
 
 **Referral, Affiliate and Tracking Links Policies**
 
-Sweeties Sweeps never uses our own referral links in our posts, on Twitter, on Facebook, or Google Plus to compete in sweepstakes with our visitors and readers. We do allow our readers to submit sweepstakes and use their own referral links to get extra entries. We do use affiliate links and tracking links in some of our posts and ads. Affiliate links help us generate income to keep Sweeties Sweeps running. Tracking links may be provided by companies who run sweepstakes to let them know how many people are entering their sweepstakes through Sweeties Sweeps.
+Sweeties Sweeps never uses our own referral links in our posts, on Twitter, on Facebook, or Google Plus to compete in sweepstakes with our visitors and readers. We do not allow our readers to submit giveaways, contests or sweepstakes and use their own referral links to get extra entries. We do use affiliate links and tracking links in some of our posts and ads. Affiliate links help us generate income to keep Sweeties Sweeps running. Tracking links may be provided by companies who run sweepstakes to let them know how many people are entering their sweepstakes that they find on Sweeties Sweeps.
+
+_**About Sweepstakes Referral Links**_
+
+_**From a Reader:** Out of curiosity, when a contest says share to get extra entries; with you posting the contests, do you get extra entries for everyone who enters through your links?_
+
+Sweeties Sweeps never uses personal referral links in the sweepstakes we post and we do not get extra entries into the sweepstakes we post.  We do, however, sometimes put tracking links in the sweeps we post so the companies who run the sweepstakes can see the traffic coming from Sweeties Sweeps. Tracking links never help us win a contest or sweepstakes.
+
+You can read about our Ad and Affiliate Policies [here](http://sweetiessweeps.com/about/product-review-and-ad-policies)
 
 **Personal Information Collected at** **Sweeties Sweeps**
 
@@ -35,6 +39,8 @@ This blog is hosted by Rack Space on a dedicated server.
 
 In general, you are responsible for the information you submit in the form of a comment on a post on this blog. Your comments can be read by anyone and your profile can be viewed by anyone. You are allowed to post as an Anonymous reader as a way to help protect your privacy.
 
+Read about our Ad and Affiliate Policies [here](http://sweetiessweeps.com/about/product-review-and-ad-policies)
+
 **Materials Submitted to Sweeties Sweeps**
 
 All photos, written correspondence and any other materials submitted to Sweeties Sweeps become the sole and exclusive property of Sweeties Sweeps and cannot be returned at any time. By submitting Materials, you agree that Sweeties Sweeps may, but is not obligated to, use the Materials in connection with the site, in any way, in any medium, worldwide, in perpetuity. Further, you warrant all Materials are 100% original and do not violate the right of privacy or publicity of, or constitute a defamation against, any person or entity; that the Materials will not infringe upon or violate the copyright or common law rights or any other rights of any person or entity; that there are and will be no encumbrances, liens, conditions or restrictions whatsoever upon or affecting such Materials; and that you and the person depicted in the Materials are at least 18 years of age or you are a parent or guardian granting permission for use. You agree to indemnify Sweeties Sweeps for all damages and expenses (including reasonable attorney’s fees) arising out of any breach or failure of the warranties made herein.
@@ -45,7 +51,7 @@ If your personal information changes please submit the changes to Sweeties Sweep
 
 **Computer Tracking and Cookies**
 
-Our site is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public but again, the statistics contain no personal information and cannot be used to gather such information. Our website also recognizes the online site where a visitor clicked one of our banners or buttons to follow through and visit our site, but we cannot identify the visitor or the visitor’s address. Site information is used to confirm promotion of Sweeties Sweeps giveaways, newsletter, or other projects, and may be used to advise participants of the numbers of visitors who come to our site from their sites. No personal information is collected.
+Our site is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public but again, the statistics contain no personal information and cannot be used to gather such information. Our website also recognizes the online site where a visitor clicked one of our banners or buttons to follow through and visit our site, but we cannot identify the visitor or the visitor’s address. Site information is used to confirm promotion of Sweeties Sweeps giveaways, newsletter, or other projects, and may be used to advise participants of the numbers of visitors who come to our site from their sites. No personal information is collected. The only cookies our site uses will be to store login information through WordPress.
 
 **Third Party Ads**
 
