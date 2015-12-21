@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wagerweb.ag privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415010308id_/http%3A//www.wagerweb.ag/casino/privacy-policy-rules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerweb.ag privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221083922id_/http%3A//wagerweb.ag/casino/privacy-policy-rules) for the most accurate reproduction.*
 
-# Privacy Policy Rules
+# Online Sportsbook | Casino Betting | NFL Odds | Racebook Gambling
 
 **General Provisions**
 
