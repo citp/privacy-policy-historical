@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the phys.org privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526180238id_/http%3A//phys.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phys.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221171614id_/http%3A//phys.org/help/privacy) for the most accurate reproduction.*
 
 # Phys.org : FAQ | Contact Us | Suggest a story idea
-
-  * [Home](http://phys.org/)
-  * [Help](http://phys.org/help/)
-
-
 
 Your privacy on the Internet is of the utmost importance to us. At Phys.org, we want to make your experience online satisfying and safe. 
 
