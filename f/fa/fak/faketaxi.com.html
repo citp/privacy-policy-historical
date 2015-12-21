@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the faketaxi.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607154330id_/http%3A//faketaxi.com/tour/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faketaxi.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221154135id_/http%3A//www.faketaxi.com/tour/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta name="keywords" content="Amateur, reality, taxi, public, European, British, amateurs, sex tape, voyeur, pov, creampie, teen, English, British, hardcore, deep throat, anal, creampie, secret, homemade, MILF, blonde, brunette, redhead, wife, big dick, orgasm, dominant, pickup, student, real, girlfriend, Sutton council, Car park, Sutton porn. Sutton council porn, Car park porn, Taxi porn">
@@ -47,6 +47,44 @@ $(function() {
 });
 </script>
 <script>
+function getUrlParamterValue(parameter) {
+    var currLocation = window.location.search,
+        parArr = currLocation.split("?")[1].split("&");
+
+    for (var i = 0; i < parArr.length; i++) {
+        var parr = parArr[i].split("=");
+
+        if (parr[0] === parameter) {
+            return decodeURIComponent(parr[1]);
+        }
+    }
+
+    return false;
+}
+
+$(function () {
+    var i=0,domain=document.domain,p=domain.split('.'),s='_gd'+(new Date()).getTime();
+    while(i<(p.length-1) && document.cookie.indexOf(s+'='+s)==-1){
+        domain = p.slice(-1-(++i)).join('.');
+        document.cookie = s+"="+s+";domain="+domain+";";
+    }
+
+    if (!!window.location.search && location.hostname.match(domain)) {
+        var ec_exotracker = getUrlParamterValue('exotracker');
+
+        // Exoclick
+        if (ec_exotracker) {
+			var cookieName = 'ec_exotracker';
+			var cookieValue = ec_exotracker;
+			var myDate = new Date();
+			myDate.setTime(myDate.getTime()+(7*24*60*60*1000));
+			document.cookie = cookieName +"=" + cookieValue + ";expires=" + myDate 
+							  + ";domain=" + ".".concat(domain) + ";path=/";
+        }
+    }
+});
+</script>
+<script>
 var win_width = 1021; // window width in pixels
 var win_height = 544; // window height in pixels
 var win_resize = 0; // allow popup window to be resizes, to disallow change to 0
@@ -65,7 +103,7 @@ function offerGo(offerurl){
 	pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
 }
 </script><script>
-var default_URL = "http://dev.faketaxi.com/bigzpup.php"; // this is the URL you want to go on the popup unless a goto url is sent
+var default_URL = "http://www.fakehub.com/faketaxi/popup"; // this is the URL you want to go on the popup unless a goto url is sent
 
 var cookie_name = "sitepu"; // this can be any alphanumeric string (no spaces or special characters)
 
