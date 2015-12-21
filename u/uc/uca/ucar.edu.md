@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629015409id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221182115id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UCAR - University Corporation for Atmospheric Research
-
-**Privacy Policy**
 
 Within this Site you may access a number of UCAR-sponsored sites and services.  Some of these sites and services are governed by their own privacy policies.  In the absence of a referenced privacy policy, this General Privacy Policy shall apply. Your use of this web site signifies your agreement to this privacy policy.
 
@@ -18,7 +16,7 @@ If you do provide personal information when signing up for a service or completi
 
 **5.   Signing Up For Services.** In some instances, UCAR may request information through an enrollment process for a Web service, Web site analysis, survey, or event registration. To enroll or participate, you may voluntarily supply personal information. UCAR shall use the information, and may share the information with event planners, as described in the enrollment process or Section 3 of this Policy. Contact the Web site operator to correct any information you submit.
 
-**6.   Security. **UCAR maintains all personal data with technical, administrative, and physical safeguards intended to protect against loss, unauthorized access, destruction, misuse, modification, and improper use. No computer system or information can be completely protected against every possible hazard, but UCAR provides reasonable and appropriate controls to protect personal information against foreseeable hazards.
+**6.   Security. **UCAR maintains all personal data with technical, administrative, and physical safety measures intended to protect against loss, unauthorized access, destruction, misuse, modification, and improper use. No computer system or information can be completely protected against every possible hazard, but UCAR provides reasonable and appropriate controls to protect personal information against foreseeable hazards.
 
 **7.   Public Forums.** UCAR maintains a number of public e-mail lists and forums for use by interested individuals. Some are open for subscription and use; others are moderated where a list or forum moderator may limit subscription and posting access. In each case, users can subscribe and unsubscribe from these areas at any time. Contact the Web site operator to correct any information you submit.
 
