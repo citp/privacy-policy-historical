@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the schwab-global.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611111431id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schwab-global.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221120256id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><!--WAMCHECK:91006:a833e223-36e0-494d-a8b4-481357f9d6fa:GOOD:END--><title>Privacy &amp; Security</title>
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><!--WAMCHECK:91015:c54333f0-cf07-4488-aa96-a41d1843262b:GOOD:END--><title>Privacy &amp; Security</title>
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta content="" name="keywords">
@@ -38,24 +38,32 @@
 
 <link rel="alternate" hreflang="en-hk" href="http://www.schwab.com.hk">
 
-<link rel="alternate" hreflang="x-default" href="http://international.schwab.com"><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/xpxe4op6q0.js"></script><script type="text/javascript" src="/public/asset?cmsid=JQUERY-171-INCLUDE"></script>
-<!-- BEGIN: Marin Software Tracking Script (Landing Page) -->
+<link rel="alternate" hreflang="x-default" href="http://international.schwab.com"><script type="text/javascript" src="/public/asset?cmsid=JQUERY-171-INCLUDE"></script>
+<!-- BEGIN: Marin Software Tracking Script -->
 <script type="text/javascript">
-var _mTrack = _mTrack || [];
-_mTrack.push(['trackPage']);
+    var _mTrack = window._mTrack || [];
+    
+    function marinClick(typeId)
+    {
+              window._mTrack = [];
+              _mTrack.push(['addTrans', {
+                           items : [
+                                         {
+                                                convType : typeId
+                                         }
+                                  ]
+              }]);   
+              _mTrack.push(['processOrders']);
+              (function() {
+                     var mClientId = 'xpxe4op6q0';
+                     var mProto = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                     var mHost = 'tracker.marinsm.com';
+                     var mt = document.createElement('script'); mt.type = 'text/javascript'; mt.async = true; mt.src = mProto + mHost + '/tracker/async/' + mClientId + '.js';
+                     var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBefore(mt, fscr);
+              })();
+       }
 
-(function() {
-var mClientId = 'xpxe4op6q0';
-var mProto = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-var mHost = 'tracker.marinsm.com';
-
-var mt = document.createElement('script'); mt.type = 'text/javascript'; mt.async = true; mt.src = mProto + mHost + '/tracker/async/' + mClientId + '.js';
-var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBefore(mt, fscr);
-})();
 </script>
-<noscript>
-<img width="1" height="1" src="https://tracker.marinsm.com/tp?act=1&cid=xpxe4op6q0&script=no" />
-</noscript>
 <!-- END: Copyright Marin Software --><script type="text/javascript" src="http://international.schwab.com/public/file?cmsid=P-6729219&amp;filename=respond.js"></script>
 <script type="text/javascript" src="http://international.schwab.com/public/file?cmsid=P-6825953&amp;filename=html5shiv.js"></script>
 </head><body><div><script type="text/javascript">
@@ -68,6 +76,12 @@ if(window.location.hostname.indexOf('client-test1.schwab.com') != -1) {
   proactiveChatHost= "cempa-pp.dev.schwab.com";
   reactiveChatHost= "chat-pp.dev.schwab.com";
 }
+var re = new RegExp("lang=[^;]+", "i");
+if (document.cookie.match(re)) {
+  if(document.cookie.match(re)[0].split("=")[1] == "zh-TW") {
+    var waLanguage = "zh-TW";
+  } 
+}
 
 
 
@@ -76,8 +90,23 @@ if(window.location.hostname.indexOf('client-test1.schwab.com') != -1) {
 var waCategoryName= "prospects";
 var waPageName= "/public/international/nn/legal_compliance/privacy_and_security.html";
 var waUseDefaultPageName = true;
+var waSuccessEventId = "event13";
+var waLeadType; 
+if (waPageName.indexOf("international") > -1)
+{
+waLeadType = "PublicContactUsIntlmail";
+}
+if (waPageName.indexOf("hk") > -1)
+{
+waLeadType = "PublicContactUsIntlHKmail";
+}
+if (waPageName.indexOf("uk") > -1)
+{
+waLeadType = "PublicContactUsIntlUKmail";
+}
 </script>
 <script type="text/javascript" src="/system/asset?cmsid=MISC-TAG-HEADER"></script></div><table><tbody></tbody></table>
+<asset_ref asset_id="P-8097374" xmlns=""></asset_ref>
 <script type="text/javascript">function openPopup(url,width,height,name,left,top,properties){if(isValidUrl(url))window.open(url,((name&&name!="")?name:"popup"),((width&&width!="")?"width="+width+",":"")+((height&&height!="")?"height="+height+",":"")+((properties&&properties!="")?properties:"status=yes,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes")+((left&&left!="")?",left="+left:"")+((top&&top!="")?",top="+top:""))}function menuLink(menu){var link=menu.options[menu.selectedIndex], url=link.getAttribute("value"),target=link.getAttribute("target");if(link.getAttribute("popup")=="true"){openPopup(url,link.getAttribute("popupwidth"),link.getAttribute("popupheight"),target)}else if(isValidUrl(url)){if(url.indexOf("javascript:")!=-1){eval(url.substr(url.indexOf(":")+1))}else if(target&&target!=""){if(target=="_top")window.top.location.href=url;else if(target.substr(0,1)!="_")window.parent.frames[target].location.href=url;else window.location.href=url}else{window.location.href=url}}menu.selectedIndex=0}function isValidUrl(url){return!(typeof(url)=="undefined"||url==null||url==""||url.toLowerCase()=="none"||url.toLowerCase()=="null"||url=="-1")}</script>
   
   <div class="wrapper level-three"><script type="text/javascript">
@@ -366,7 +395,7 @@ function validateSearchQuery(myElement)
 					<a href="https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?kc=y&amp;di=y" class="btn-cta btn-grn login mobile-visible">Login</a>
 				</li>
 				<li class="nav-item-cta">
-					<a href="/public/international/nn/contact_us.html" class="btn-cta btn-blu contact-us mobile-visible">Contact Us</a>
+					<a href="/public/international/nn/email_us.html" class="btn-cta btn-blu contact-us mobile-visible">Contact Us</a>
 				</li>
 			</ul></div><script type="text/javascript">
 var disclaimFormLink; var disclaimFormTitle;
@@ -495,7 +524,7 @@ function loadOverlayJS(link, option, overlayContUrl, headerText, height, width) 
     }
 }
 </script>
-</div><div class="separator"></div></header><div class="mainwrap clearfix"><div class="page-content clearfix"><div class="breadcrumb"><nav navtype="bnav" selectlevels="3" startlevel="3"></nav></div><h2>Privacy &amp; Security</h2><h4>A commitment to your privacy</h4><p>Rev. July 2014</p><h3>FACTS</h3><h4>WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?</h4><table border="0" cellpadding="0" cellspacing="0" class="info" style="width:100%;">
+</div><div class="separator"></div></header><div class="mainwrap clearfix"><div class="page-content clearfix"><div class="breadcrumb"><nav navtype="bnav" selectlevels="3" startlevel="3"></nav></div><h2>Privacy &amp; Security</h2><h4>A commitment to your privacy</h4><p>Rev. July 2015</p><h3>FACTS</h3><h4>WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?</h4><table border="0" cellpadding="0" cellspacing="0" class="info" style="width:100%;">
   <tbody><tr class="odd">
     <td class="first" width="20%"><b>Why?</b></td>
     <td class="last" width="80%">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
@@ -646,9 +675,7 @@ To learn more about our online privacy practices (e.g. "tracking"), please go to
   </tr>
   <tr class="odd">
     <td class="first" width="100%"><span lang="EN"><p>©
-2014 Charles Schwab&nbsp;&amp;
- Co., Inc. All rights reserved. Member SIPC. Charles Schwab&nbsp;&amp;
- Co., Inc. and optionsXpress, Inc. (Member SIPC) are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation.CS21127-02 REG60835-04 (07/14) 00111845 </p></span></td>
+2015 The Charles Schwab Corporation. All rights reserved. CC001457 REG60835FM-05 (07/15)</p></span></td>
   </tr>
 </tbody></table></div></div><div id="footer" class="contentwrap"><hr><p><b>Not all products, services, or investments are available in all countries. Nothing on this website is an offer to sell or a solicitation of an offer to buy securities, products or service, by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation.</b><br>
 <br>
