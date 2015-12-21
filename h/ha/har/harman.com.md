@@ -1,97 +1,118 @@
-> *The following text is extracted and transformed from the harman.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620021435id_/http%3A//www.harman.com/EN-US/SiteMap/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harman.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221012327id_/http%3A//www.harman.com/privacy-policy) for the most accurate reproduction.*
 
-# Harman International - Privacy Policy
+# Privacy Policy | Harman
 
-**Read:[Privacy Policy](http://www.harman.com/EN-US/SiteMap/Pages/PrivacyPolicy.aspx#privacy) | [US-EU Safe Harbor Data Privacy Statement](http://www.harman.com/EN-US/SiteMap/Pages/PrivacyPolicy.aspx#data)**
+### 
 
-**Privacy Policy**
+**PRIVACY POLICY**
 
-**Your Privacy Matters to Us!**  
+**Who We Are:  **
+
+This web site is operated by or on behalf of Harman International Industries, Incorporated ("referred to as "Harman", "we", "our" and "us"). Harman's registered address is:
+
+Harman International Industries, Incorporated 
+
+400 Atlantic Street, 15th Floor
+
+Stamford, CT 06901, USA
+
++1.203.328.3500
+
+**Introduction:**
+
+Harman provides you this privacy policy to explain to you how Harman collects, uses and protects your personal information when you visit Harman's web sites and when you use Harman's products. Harman respects your privacy and is committed to securing your personal information. This privacy policy was last updated on November 18, 2011. By using this website, you consent to our privacy policy and acknowledge that it is subject to our Terms of Use.
+
+**Collecting and Using Your Personal Information:**
+
+We collect the personal information that you provide to us, as well as information automatically collected when you interact with this website, such as cookies and analytics tracking pixels, which help us evaluate the performance of our website and provide you with a better user experience.
+
+Harman may use your personal information that you provide to us in the process of establishing an account on our website in the following ways:
+
+  1. Obtain your name for purposes of communicating with you and identifying you as a user of the web site.
+  2. Verify your age as older than 13.
+  3. Verify your age as older than 18 or that you have obtained your parent’s or guardian’s permission to use the web site.
+  4. Send you a catalogue.
+  5. Send you communications upon your request.
+  6. Allow you to participate in a promotion or other web site feature.
+  7. Customize and/or personalize your communications and shopping experience with Harman.
+  8. Better respond to your customer concerns and complaints.
+  9. Keep you informed of Harman’s upcoming product releases unless you otherwise opt out of such messages.
 
 
-We believe you should know:
 
-1\. What information this site gathers about you.
+Harman may use your personal information that you provide to us in the process of making a purchase in the following ways:
 
-2\. What this site does with the information it tracks.
+  1. Confirm your use of a valid credit card (or other authorized methods of payment).
+  2. Process your payment via a credit card (or other authorized methods of payment).
+  3. Send you the products that you purchased.
 
-3\. With whom this site shares the information it gathers.
 
-We respect your right to privacy and do not share, sell or otherwise distribute this information to any company or person other than those directly associated with Harman International Industries, Incorporated or where required by law including but not limited to sweepstakes rules. As part of the entry process, we give you the opportunity to decline to receive communications including those from our company.
 
-The data we collect is used in the aggregate to give us demographic information about the entire audience registering products. We use this to understand that audience and to improve our offerings to you, our customers. The personal information you provide - name, address, etc., is only used to supply you with information of importance to you _unless otherwise required by law._
+We may also disclose your personal information to our affiliates, third party service providers or distributors in order to fulfill your product orders.
 
-**Security**  
-We have made a substantial investment in server, database, backup and firewall technologies to protect the information provided to us. All data resides in a tightly controlled, highly secure area, and is not stored on, or accessible via, the Internet. These investments mean that your information is safe.
+Harman also gathers non-descriptive, non-personal information about how many visitors use our website. Harman does not collect any personal information about you in this instance but Harman may collect information that a user has visited the website for statistical analysis of the public’s use of our website.
 
-**Links to Third Party Sites**  
-HARMAN PROVIDES LINKS TO YOU AS A CONVENIENCE ONLY, AND THE INCLUSION OF ANY LINK DOES NOT IMPLY ENDORSEMENT BY HARMAN OF THE SITE. LINKED SITES ARE NOT UNDER THE CONTROL OF HARMAN AND HARMAN IS NOT RESPONSIBLE FOR THE CONTENTS OF ANY LINKED SITE OR ANY LINK CONTAINED IN A LINKED SITE.
+**Unsubscribing, Removing or Modifying Your Information:**
 
-**US-EU Safe Harbor Privacy Statement**
+Harman appreciates that you may change your mind about our use of your personal information in the future. Harman offers several ways you can inform us about your privacy preferences:
 
-Harman International Industries, Incorporated and our wholly-owned subsidiaries are strongly committed to protecting the privacy of those who entrust us with their personal information. Our employees, and all those who do business with us, trust and expect that we will protect their personal information in accordance with the promises we make. In furtherance of our commitment, the following Harman entities have certified to the Safe Harbor Agreement between the United States and the European Union (“EU”), with respect to personal data processed as part of our human resources, research and development, customer service and account management activities:
+  1. All email messages and newsletters will provide a description on how you can ask us to stop sending you messages and newsletters.
+  2. At any time, you can send us an email at the address provided below.
+  3. At any time, you can call our customer service number and request that you would like to change your marketing preferences.
+  4. To modify or delete entirely the information you have provided during registration, please login and update your profile.
 
-• Harman International Industries, Incorporated  
-• Crown Audio, Inc.  
-• Harman Becker Automotive Systems, Inc.  
-• Harman Consumer Group, Inc.  
-• Harman Financial Group LLC  
-• JBL Incorporated  
-• Margi Systems, Inc.  
-• QNX Software Systems, Inc.
 
-Accordingly, Harman International Industries, Incorporated adheres to the Safe Harbor privacy principles and frequently asked questions, as agreed to by the U.S. Department of Commerce and the European Commission.
 
-**Scope**
+Please note that if you have unsubscribed from our communications to you, due to our internal processing requirements, you may receive communications already in production. If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.
 
-This Safe Harbor Statement sets forth the principles under which Harman manages the processing of personal data that we receive from our affiliates, subsidiaries and agents in the EU in support of our human resources, research and development, customer service and account management activities. The categories of personal data covered by this Statement include personal data relating to current and former Harman employees, prospective employees, temporary workers, contract workers, consultants, consumers, business partners, and individuals who report adverse events or product complaints. 
+Harman is strongly committed to protecting the privacy of those who entrust us with their personal information. Our employees, and all those who do business with us, trust and expect that we will protect their personal information in accordance with the promises we make. In furtherance of our commitment, we comply with the U.S.-European Union Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
-**Definitions**
+**Cookies:**
 
-The following terms are used throughout this document and are defined as follows:
+Harman may use cookies to improve your experience with our website. Harman may use cookies to improve Harman's understanding of your likes and dislikes about our website, what you like and do not like on our website, customize the website to your prior uses and to generally improve all customer needs and interests. A cookie is a small removable data file that is stored by your web browser on your computer. You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. You may also delete cookies from your computer.
 
-_“Agent”_ means any third party that processes personal data under the instructions of, and solely for, Harman or to which Harman discloses personal data for use on our behalf. 
+**Disclosure and Sharing Your Personal Information:**
 
-_“Harman”_ means Harman International Industries, Incorporated, including our wholly-owned subsidiaries. 
+Harman does not rent, sell or disclose your personal information or contact information to third parties for the third party's own purposes. Harman may share your information with Harman's affiliates under the same control of Harman as permitted under this privacy policy. In the event Harman is reorganized or transferred to a third party, your personal information may be transferred to the successor of Harman for the purposes and subject to the terms of this privacy policy. Harman (or, for consumers outside the United States, our distributor) may provide your credit card (or other authorized payment method) information to Harman’s bank or credit card or other authorized payment processor solely for purposes of processing your payment. Harman may also share your information with delivery services or international distributors to ship products to you. On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
-_“Personal data”_ means any information or set of information in any form that (i) is transferred from the EU to the US, (ii) is recorded in any form, (iii) is about or relates to an identified or identifiable natural person, and (iv) can be linked to that natural person. Personal data does not include anonymized data or data that is reported in the aggregate.
+**Protecting Your Information:**
 
-_“Sensitive personal data”_ means personal data that reveals race, ethnic origin, political opinion, religious or philosophical beliefs, trade union membership, any data that concerns health or sex life, or information relating to the commission of a criminal offense.
+Harman engages the use of numerous technological security measures to preserve the security of your information, including without limitation, encryption technologies and authentication tools. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have a need to access your personal information for purposes of managing our website and providing you information as you have requested. All orders are placed through a secure server. Please be aware that no electronic data transmission over the internet can be 100% secure.
 
-**Privacy Principles**
+**Transferring Your Information Overseas:**
 
-**Notice** : Harman notifies individuals about the types of personal data we collect about them, the purposes for which we collect such data, the types of third parties to which we disclose such data, and how to contact the organization with any inquiries or complaints. Notice will be provided in clear and conspicuous language at the time of collection, or as soon as practicable thereafter, and before Harman uses or discloses the information for a purpose other than that for which it was originally collected. 
+If you are located outside of the United States, Harman may transfer your information to Harman’s affiliates under the same control as Harman, to other service providers or distributors outside of your country or territory. Harman manages its website from the United States. Harman acknowledges that the data protection laws and other laws of the United States may not be as comprehensive as those of your country or territory and Harman will take steps to ensure that your privacy rights are respected. Harman agrees to take the following actions on your behalf: have specific security measures in place to adequately protect your information, Harman will require its United States-based affiliates to sign a contract guaranteeing the safeguard of your personal information and set forth the specific requirements the United States-based affiliate must maintain and monitor ongoing compliance with the defined security measures.
 
-**Choice** : In the event personal data is to be used for a new purpose incompatible with the purposes for which the data was originally collected or subsequently authorized or transferred to a third party exercising independent control over the data, individuals are given, where practicable and appropriate, an opportunity to decline to have their data so used or transferred. In the event that the data used for a new purpose or transferred to the control of a third party is sensitive personal data, the individual’s explicit consent will be obtained prior to the use or transfer of the data.
+**Children's Privacy:**
 
-**Onward Transfers** : Harman will only transfer personal data to an Agent where the Agent has given assurances that they provide at least the same level of privacy protection as is required by these privacy principles. Where Harman has knowledge that an Agent is using or sharing personal data in a way that is contrary to these principles, Harman will take reasonable steps to prevent or stop such processing. Harman will only transfer personal data to a non-agent third party where individuals have been provided notice and have given their consent.
+We respect the privacy of children. Our website is not designed to attract an audience younger than 13. We do not knowingly collect personal information from children under 13. Please contact us using the contact details below if you believe we may have collected information from your child, and we will work to delete it.
 
-**Security** : Harman takes reasonable and appropriate administrative, technical and physical precautions to protect the confidentiality, integrity and availability of personal data, whether in electronic or tangible, hard copy form.
+**Your California Privacy Rights:**
 
-**Access** : Individuals have reasonable access to their personal data and may request corrections, deletions, or additions, as appropriate, and except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where the rights of persons other than the individual would be violated.
+Under California laws, California residents can request information from Harman whether Harman has disclosed a person’s personal information to any third parties for the third parties' direct marketing purposes. Harman will not sell or share your personal information with non-Harman companies for their direct marketing purposes without your consent. California residents desiring to request further information about our compliance with these laws or have questions or concerns about our privacy practices and policies are welcome to contact us using the contact information below.
 
-**Data Integrity** : Harman limits the collection, usage, and retention of information to that which is germane for the intended purposes for which it was collected, and takes reasonable steps to ensure that all data is reliable, accurate, complete and current.
+**Obtaining a Copy of or Updating Your Personal Information:**
 
-**Enforcement** : Harman has put in place mechanisms to verify ongoing compliance to these privacy principles. We conduct an annual self-assessment of our practices with respect to personal data to verify that representations we make about our personal data privacy practices are true and that related privacy policies have been implemented as represented. Any employee that violates these privacy principles will be subject to disciplinary procedures. 
+You can write Harman at any time to obtain the personal information Harman possesses about you or modify any personal information Harman retains that is incorrect. Please let us know what information you would like to receive from us or what information is incorrect and we will respond to you. Your request should include your name and proof of your identity.
 
-**Dispute Resolution** : In case of disputes, individuals are able to seek resolution of their questions or complaints regarding use and disclosure of their personal data in accordance with the principles contained in this policy. If you feel that Harman is not abiding by this policy or is not in compliance with the Safe Harbor principles, you should first contact Harman at the contact information provided below. Harman has agreed to cooperate with the European Data Protection Authorities for the purpose of handling any unresolved complaints.
+**Questions and Feedback:**
 
-**Limitation on Scope of Principles**
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-Harman adheres to these privacy principles except, as required or allowed by law, to meet legal, governmental, law enforcement or national security obligations, or to protect the health or safety of an individual.
+**Notice and Contact Information:**
 
-**How to Contact Us**
+For questions or concerns, please email us or contact us at: webadmin@harman.com
 
-Please contact us with any questions concerning this Privacy Statement or any of our privacy practices at:
+IN WRITING:
 
-Harman International Industries, Inc.  
-400 Atlantic Street, Suite 1500  
-Stamford, Connecticut 06901
+Harman International Industries, Incorporated
 
-Attn: [David Dankenbrink](mailto:david.dankenbrink@harman.com) OR [Davida Lara](mailto:davida.lara@harman.com)
+400 Atlantic Street, 15th Floor
 
-**Changes to this Privacy Statement**
+Stamford, CT 06901, USA
 
-This privacy statement may be amended consistent with the requirements of the Safe Harbor. When we do update the privacy statement, we will also revise the “Last Updated” date at the bottom of this document. Any material changes to this privacy statement will also be posted on this site.
++1.203.328.3500
 
-Adopted: March 23, 2009
+**Terms of Use:**
+
+Please also visit our terms of use section that explains other terms governing the use of our websites.
