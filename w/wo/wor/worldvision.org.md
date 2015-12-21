@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629034940id_/http%3A//www.worldvision.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvision.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221123858id_/http%3A//www.worldvision.org/privacy-policy) for the most accurate reproduction.*
 
 # World Vision U.S. Web Privacy Policy | World Vision
 
@@ -6,7 +6,7 @@
 
 We respect your privacy and do not rent, sell, or exchange our mailing lists. We may disclose some personal information to select third parties in order to more effectively target our donor communications.
 
-##  What does this mean?
+## What does this mean?
 
 We value your trust and assure you that we will always strive to be responsible in our management, truthful in our advertising, and cost-effective in our fundraising.
 
@@ -28,7 +28,7 @@ Those who choose to register through various “guestbook”-type features on ou
 
 Our online surveys may ask visitors for contact information (such as their email address) as well as a variety of demographic and practical questions. We may use contact data from our surveys to send the user information about World Vision. The user’s contact information may also be used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the “opt out” and “modifying your information” sections below.
 
-##  Opt out
+## Opt out
 
 Most points on our site provide users the opportunity to opt-out of receiving communications from us at the point where we request contact information about the visitor. There are, however, a few places where users do not have the opportunity to opt-out of receiving communications. Should you wish to opt-out, please [contact us](https://web.archive.org/contact-us "Contact Us | World Vision") or call 1-888-511-6548 and we will unsubscribe you from receiving further communications from us.
 
@@ -36,7 +36,7 @@ Users may also opt-out at any time by contacting us following the methods provid
 
 This site contains links to other sites. World Vision United States is not responsible for the privacy practices or the content of such Web sites.
 
-##  Modifying your information
+## Modifying your information
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service; or for changing or modifying information previously provided.
 
@@ -48,12 +48,12 @@ This site gives users the following options for removing their information from 
 
 When contacting us to change your status, be sure to include any information that would help us identify you on our lists, such as complete contact information (name, postal address, telephone number, and email address), any World Vision account number(s), or information about venues in which you gave us your contact information online (guestbook, survey, etc.)
 
-##  Changes to this policy
+## Changes to this policy
 
 We reserve the right to make changes to this privacy policy without advance notice. Notice of these changes to this policy will be posted to the homepage for this website for a period of three days.
 
 Changes to this policy were last made on December 3, 2013.
 
-##  Contacting the website
+## Contacting the website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/contact-us "Contact Us | World Vision").
