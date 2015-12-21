@@ -1,87 +1,470 @@
-<!--The following is the downloaded HTML source of the keele.ac.uk privacy policy that was archived on 2013-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223043723id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keele.ac.uk privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221040553id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<!DOCTYPE html><html lang="en-GB"><head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 
+
+
 <!--
     VERSION: 1.0
 	AUTHOR:  Leigh Howells
 	EMAIL:   leigh.howells@headscape.co.uk
 	WEBSITE: http://www.headscape.co.uk
 Development: Chris Beard c.d.beard@keele.ac.uk
- --><!-- end doctype inc -->
+ -->
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-XVP2"></script><script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Keele University",
+  "url" : "http://www.keele.ac.uk",
+  "logo": "http://www.keele.ac.uk/media/keeleuniversity/styleassets/images/logo.png",
+  "sameAs" : [ "http://www.facebook.com/KeeleUniversity",
+    "http://twitter.com/KeeleUniversity",
+    "http://www.youtube.com/user/KeeleUniversity",
+    "http://www.linkedin.com/edu/school?id=12600",
+    "http://instagram.com/keeleuniversity"] 
+}
+</script>
+<!-- end doctype inc -->
 
 <link rel="shortcut icon" href="/media/keeleuniversity/styleassets/images/favicon.ico" type="image/x-icon">
 
-<!-- navigation object : jQuery include --><!-- start Code --><!-- Grab Google CDN jQuery. fall back to local if necessary -->  
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-XVP2"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script>!window.jQuery && document.write('<script src="/jq/jQuery/jquery.min.js"><\/script>')</script><script src="/jq/jQuery/jquery.min.js"></script>  
+<!-- navigation object : jQuery include --><!-- start Code --><!-- works for pushy but breaks non-responsive pages - normal view as scale is zoomed in --> <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<!-- this loads normally, then lets kresp take over --> <meta name="viewport" content="width=device-width">
 
-<!-- Grab CDN jQuery Tools with NO jquery. fall back to local if necessary -->  
-<script src="http://cdn.jquerytools.org/1.2.7/all/jquery.tools.min.js"></script>
-<script>!window.jQuery && document.write('<script src="/jq/jQueryTools/jquery.tools.min.js"><\/script>')</script><!-- end Code --><!-- start Code --><script type="text/javascript" src="/jq/cb_leftNav/leftNav.js"></script>
-<link rel="stylesheet" type="text/css" href="/jq/cb_leftNav/left_nav_generic.css"><!-- end Code --><!-- start Code --><script src="/media/keeleuniversity/styleassets/scripts/jquery.lightbox-0.5.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-$(function() {
-	$('.box a').lightBox();
-});
-//]]>
-</script><!-- end Code --><!-- start Code --><!-- START MEGA MENU CODE INCLUDES -->
+
+
+<!-- end Code -->
+<!-- start Code --><!-- Grab Google CDN jQuery. fall back to local if necessary. Loading in the head so we don't lose Jquery within content blocks. Put all global JS + jQuery in the pre close body tag nav object. CB.  --> <!-- CB. JUNE 2015 golive. Note that jQuery 2.x and above doesn't support IE8 therefore changing 2.1.4 to 1.11.3. We need to support IE8 still according to international stats in Google Analytics, particularly China -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>!window.jQuery && document.write('<script src="/jq/jQuery/jquery.min.js"><\/script>')</script><script src="/jq/jQuery/jquery.min.js"></script>
+
+<!-- Grab CDN jQuery Tools with NO jquery. fall back to local if necessary -->  <!-- removed May 2015 as no KNOWN dependancies -->
+<!-- <script src="http://cdn.jquerytools.org/1.2.7/all/jquery.tools.min.js"></script> -->
+<!-- <script>!window.jQuery && document.write('<script src="/jq/jQueryTools/jquery.tools.min.js"><\/script>')</script> --><!-- end Code -->
+<!-- start Code --><script type="text/javascript" src="/jq/cb_leftNav/leftNav.js"></script>
+<link rel="stylesheet" type="text/css" href="/jq/cb_leftNav/left_nav_generic.css"><!-- end Code -->
+<!-- start Code --><!-- START MEGA MENU CODE INCLUDES -->
 <!-- code import -->
 <link rel="stylesheet" type="text/css" href="/jq/cb_mm/css/cb_mm.css">
 <script src="/jq/cb_mm/js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script src="/jq/cb_mm/js/cb_mm-min.js" type="text/javascript"></script>
+<!-- END MEGA MENU CODE INCLUDES --><!-- end Code -->
+<!-- start Code --><script type="text/javascript" src="/media/keeleuniversity/styleassets/scripts/jquery.innerfade.js"></script> <!-- end Code -->
+<!-- start Code --><script src="/jq/breakpoints-master/breakpoints.js"></script>
 
-<script type="text/javascript">
-//<![CDATA[
-
+<script>
+// note use of splitting script tag in order to stop it closing the tag down
+//use jQuery to load the CSS and JS at the end of the body
 $(document).ready(function() {
 
-          $("ul.topNav li .ddContainer").css({'opacity':'0'});
-          $("ul.topNav li").hoverIntent( megaHoverOver, megaHoverOut);
+
+		if (window.location.hostname == "webstage.keele.ac.uk" || window.location.hostname == "cms.keele.ac.uk" || window.location.hostname == "search.keele.ac.uk" || document.URL.indexOf("cb-ietest") != -1 || document.URL.indexOf("/pressreleases/") != -1 || document.URL.indexOf("/clearing/") != -1 || document.URL.indexOf("/hbetas/kpage/") != -1 || document.URL.indexOf("/smartminds/") != -1 || document.URL.indexOf("/smartbtec/") != -1 || document.URL.indexOf("/clear2015/") != -1 || document.URL.indexOf("/privacy/") != -1 || document.URL.indexOf("/mobile-app/") != -1 || document.URL.indexOf("/contactus/") != -1 || document.URL.indexOf("/keelecard/") != -1 || document.URL.indexOf("/artskeele/") != -1 || document.URL.indexOf("/18-reasons/") != -1  || document.URL.indexOf("/events-welcome/") != -1 || document.URL.indexOf("/offerholders/") != -1 ) {
+
+				// append mobile scripts
+				$('body').append('<link rel="stylesheet" type="text/css" href="/jq/kresp/kresp.css"><script type="text/javascript" src="/jq/kresp/kresp.js"></sc' + 'ript>');
+
+				// show ugt tab on webstage and cms. release to live again by removing this line start
+				if ('#ugt13') {
+					$('#ugt13').css('display', 'inline');
+					$('.kiswidgt').remove();
+				};
+				// end line show tab on webstage and cms
+
+
+				// // add stagedev class for development work
+				// $('html').addClass('stagedev');
+				// // end add stagedev regardless
+
+		};// first if funciton
+
+
+
+
+		if (window.location.hostname == "webstage.keele.ac.uk" || window.location.hostname == "cms.keele.ac.uk") {
+				// add stagedev class for development work
+				$('html').addClass('stagedev');
+				// end add stagedev regardless	
+		}; // end add stagedev to webstage and cms.keele
+
+
+
+// ////////////////////////////////////////////////////////
+// // LIVE SITE ONLY FOR HIDING UGT COURSE CMA CHANGES. DELETE THIS BLOCK ONCE COMPLETE
+// 		if (window.location.hostname == "www.keele.ac.uk") {
+// 				// start hiding items only on webstage
+// 				if ('#keymodeofstudy') {
+// 					$('#keymodeofstudy').css('display', 'none');
+// 				};
+// 				if ('#keydurationofstudy') {
+// 					$('#keydurationofstudy').css('display', 'none');
+// 				};
+// 		}; // end add stagedev to webstage and cms.keele
+// // END LIVE SITE HIDING
+// ////////////////////////////////////////////////////////
+
+
+
+		if (window.location.hostname == "www.keele.ac.uk" ) {
+				$('html').addClass('liveKeele');
+		}; // end livekeele tag
+
+
+
+
+		if (window.location.hostname == "webstage.keele.ac.uk" || window.location.hostname == "cms.keele.ac.uk" || window.location.hostname == "search.keele.ac.uk") {
+				// start banner toggle styles
+				$('.banner_instance, #footer').on('click', function(e) {
+					e.preventDefault();
+					/* Act on the event */
+					$('html').toggleClass('stagedev');
+				}); // banner instance toggle styles
+		};// second if funciton
+
+
+
+
+		// if (window.location.hostname == "webstage.keele.ac.uk" || window.location.hostname == "cms.keele.ac.uk" ) {
+		// 		// append justice speed scripts
+		// 		$('body').append('<script type="text/javascript" src="/jq/justice/justice.mapped.min.js"></sc' + 'ript>');
+		// 		// amd run justice
+		// 		Justice.init();
+		// };// end webstage only if funciton
+
+		////
+		// start .liveKeele class to keep old School styles alive
+
+		// end .liveKeele class to keep old School styles alive
+		////	
+
+}); //document ready
+</script><!-- end Code -->
+<!-- start Code --><script>
+$(document).ready(function() {	
+       $('.dropCnt').toggle();
+       $('.fbexpTog').on('click', function(e) {
+	       e.preventDefault();
+	       /* Act on the event */
+	       $(this).parent().find('.dropCnt').toggle();
+               // alert('notification');
+	});
 });
-
-        function megaHoverOver(){ 
-	  $(this).find(".ddContainer").stop().fadeTo('normal', 1, function() {
-// css will do this		  $(this).show(); 
-	  });
-	}
-
-	function megaHoverOut(){ 
-	  $(this).find(".ddContainer").stop().fadeTo('slow', 0, function() {
-// css will do this		  $(this).hide(); 
-	  });
-	}
-//]]>
-</script> 
-<!-- END MEGA MENU INCLUDES --><!-- end Code --><!-- start Code --><link rel="stylesheet" type="text/css" href="/jq/css/custom-theme/jquery-ui-1.8.custom.css">
-<!-- end Code --><!-- start Code --><script type="text/javascript" src="/jq/toggleElements/jquery.toggleElements.pack.js"></script>
-<link rel="stylesheet" type="text/css" href="/jq/toggleElements/toggleElements.css"> 
-
-<script type="text/javascript" src="/jq/toggleElements/cbtoggleElementsReady.js"></script><!-- end Code --><!-- start Code --><script type="text/javascript">
-//Chris Beard PDF tracking
-$(document).ready(function(){
-    $("a[href$='.pdf']").click(function(){
-        var url = $(this).attr("href");
-        _gaq.push(['_trackEvent', 'Downloads', 'click', url]);
-    });
-$("a[href$='.doc']").click(function(){
-        var url = $(this).attr("href");
-        _gaq.push(['_trackEvent', 'Downloads', 'click', url]);
-    });
-$("a[href$='.docx']").click(function(){
-        var url = $(this).attr("href");
-        _gaq.push(['_trackEvent', 'Downloads', 'click', url]);
-    });
+</script><!-- end Code -->
+<!-- start Code --><script>
+$(document).ready(function() {
+    if ($('.land_hero')) {
+        var maxHeight = 0;
+        $('.land_hero')
+            .each(function() {
+                maxHeight = Math.max(maxHeight, $(this).height());
+            })
+            .height(maxHeight);
+    };
 });
+</script><!-- end Code -->
+<!-- start Code --><!-- If this is successful then take it out of here and add it to the main SASS file. CB 2014 -->
 
-</script><!-- end Code --><!-- start Code --><script type="text/javascript">
-$(document).ready(function(){
-    $("#imgBlockMid > img").width(745);
-    $(".overlayCurve > img").width(90).height(90);
-});
-</script><!-- end Code --><!-- start Code --><script type="text/javascript" src="/jq/toc/jquery.tableofcontents.min.js"></script><!-- end Code --><!-- start Code --><script type="text/javascript" src="/jq/cb_toggle/cbtoggle.js"></script><!-- end Code --><!-- start Code --><!-- Google Tag Manager -->
+
+
+<!-- <link href='https://fonts.googleapis.com/css?family=Muli:400,400italic' rel='stylesheet' type='text/css'> -->
+
+
+
+
+<!-- font override for sandbox -->
+<!-- 
+<style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, /* strong, */tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+font-family: 'Muli', sans-serif !important;
+}
+</style>
+
+ --><!-- This is the hack for the yet to be fully released Google Muli Bold. This is rolled using fontsquirrel. TTF courtesy of Vernon  Adams https://code.google.com/p/in-progress-fonts/source/browse/Muli/BOLD/Muli-Bold.ttf?r=c8c6166a0f50ef6467dfd8bf27c4deb808166c7d -->
+
+
+
+<!-- <link rel="stylesheet" type="text/css" href="http://www.keele.ac.uk/jq/fonts/googlefont.css" /> -->
+
+
+
+
+<!-- 
+
+<style>
+b, strong {
+	font-family: 'mulibold', sans-serif !important;
+}
+</style>
+
+ --><!-- end Code -->
+<!-- start Code --><link rel="stylesheet" href="/jq/font-awesome/css/font-awesome.min.css"><!-- end Code -->
+<!-- start Code --><style>
+/* Put this in the global CSS once it's checked and running or include it as a separate CSS request. */
+
+/* Vanilla (see below for Keele tweaks */
+/*! Pushy - v0.9.2 - 2014-9-13
+* Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
+* https://github.com/christophery/pushy/
+* by Christopher Yee */
+
+/* Menu Appearance */
+
+.pushy{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    top: 0;
+    z-index: 9999;
+    background: #333332;
+    font-size: 0.9em;
+    font-weight: bold;
+    -webkit-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
+    -moz-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
+    box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
+    overflow: auto;
+    -webkit-overflow-scrolling: touch; /* enables momentum scrolling in iOS overflow elements */
+}
+
+.pushy a{
+    display: block;
+    color: #b3b3b1;
+    padding: 15px 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    text-decoration: none;
+}
+
+.pushy a:hover{
+    background: #00b4ff;
+    color: #FFF;
+}
+
+/* Menu Movement */
+
+.pushy-left{
+    -webkit-transform: translate3d(-200px,0,0);
+    -moz-transform: translate3d(-200px,0,0);
+    -ms-transform: translate3d(-200px,0,0);
+    -o-transform: translate3d(-200px,0,0);
+    transform: translate3d(-200px,0,0);
+}
+
+.pushy-open{
+    -webkit-transform: translate3d(0,0,0);
+    -moz-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    -o-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+.container-push, .push-push{
+    -webkit-transform: translate3d(200px,0,0);
+    -moz-transform: translate3d(200px,0,0);
+    -ms-transform: translate3d(200px,0,0);
+    -o-transform: translate3d(200px,0,0);
+    transform: translate3d(200px,0,0);
+}
+
+/* Menu Transitions */
+
+.pushy, #container, .push{
+    -webkit-transition: -webkit-transform .2s cubic-bezier(.16, .68, .43, .99);
+    -moz-transition: -moz-transform .2s cubic-bezier(.16, .68, .43, .99);
+    -o-transition: -o-transform .2s cubic-bezier(.16, .68, .43, .99);
+    transition: transform .2s cubic-bezier(.16, .68, .43, .99);
+}
+
+/* Site Overlay */
+
+.site-overlay{
+    display: none;
+}
+
+.pushy-active .site-overlay{
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9998;
+    background-color: rgba(0,0,0,0.5);
+    -webkit-animation: fade 500ms; 
+    -moz-animation: fade 500ms; 
+    -o-animation: fade 500ms;
+    animation: fade 500ms;
+}
+
+@keyframes fade{
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-moz-keyframes fade{
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-webkit-keyframes fade{
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-o-keyframes fade{
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Example Media Query */
+
+@media screen and (max-width: 768px){
+    .pushy{
+        font-size: 1.0em;
+    }
+}
+
+
+/* Keele Tweaks */
+/* NOTE that I've added
+html, body{
+    overflow-x: hidden;
+    height: 100%;
+}
+into kresp.css so it only triggers on small screens. This stops the resizing of the main content when the menu flys out
+*/
+
+
+#container {
+    padding:0px;
+}
+
+.pushy a:hover{
+/*    background: #00b4ff; */
+    background:#272449;
+    color: #FFF;
+}
+
+.pushy a {
+    font-size:14px;
+   color:white;
+text-align: left;
+}
+.pushy a:visited {
+	color:#e0e0e0;
+}
+
+
+
+
+.resp-header {
+overflow:auto;
+background-color:#000;
+height:60px;
+}
+.resp-menu-text {
+display:none;
+}
+
+.resp-burger {
+  background-color: white;
+  padding: 12px;
+  border-radius: 2px;
+  border-color: #272449;
+  color: black;
+}
+.resp-standard-icon {
+    color:white;
+}
+.logo-brand {
+    float:left;
+    padding: 15px 2px;
+}
+
+.resp-icon-list {
+    float:right;
+padding-right:10px;
+padding-right: 1rem;
+}
+
+.resp-icon-list div {
+    float:left;
+    width:10px;
+    height:40px;
+    padding:20px 10px;
+}
+
+.resp-menu-text-findus, .resp-menu-text-search, .resp-menu-text-contactus {
+    display:none;
+}
+
+
+
+
+.menu-btn {
+        /* note that the display is set in kresp.css */
+        background:black;
+        color:white;
+        /* padding: 15px 30px; */
+        padding: 10px 10px 10px 7px;  /*padding also set on cbpushy_close */
+        font-size:14px;
+        float:left;
+        /* width:100%; */ /* this is now a button so removing full width */
+        margin-bottom:10px;
+        text-align: left;
+}
+
+
+
+
+.pushy .fa {
+color:white !important;
+padding-right: 2px;
+}
+
+.pushy-open ul {
+       margin-bottom: 50px;
+       overflow-x: hidden;
+       overflow-y: scroll;
+}
+
+/* Added a class to the close button so I can force the style */
+.cbpushy_close {
+  color: #b3b3b1;
+  padding: 15px 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
+  border-top: 1px solid rgba(255, 255, 255, .1);
+  text-decoration: none;
+  width: 100% !important;
+}
+
+</style><!-- end Code -->
+<!-- start Code --><script>
+	$(document).ready(function() {
+	////
+	// This is getting messy so we need to launch soon
+	// Look at #nested #navigation.sticky in sass for styles
+	$(window).scroll(function() {
+	if ($(this).scrollTop() > 120){  
+	    	$('#navigation').addClass("sticky");
+	  		}
+	  		else{
+	    	$('#navigation').removeClass("sticky");
+	  		}
+		});
+	//
+	////	
+	});
+</script><!-- end Code -->
+<!-- start Code --><meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@keeleuniversity">
+<meta name="twitter:title" content="Keele University">
+<meta name="twitter:description" content="#1 for Student Satisfaction (NSS). Seven subjects in Top 10 (Guardian). Largest UK campus. Many, many squirrels. ">
+<meta name="twitter:image" content="http://www.keele.ac.uk/media/keeleuniversity/styleassets/images/central-campus-and-forest-of-light-banner.jpg"><!-- end Code -->
+<!-- start Code --><!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-XVP2"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -89,19 +472,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-XVP2');</script>
-<!-- End Google Tag Manager --><!-- end Code --><!-- start Code --><!-- Innerfade -->
-<script type="text/javascript" src="/media/keeleuniversity/styleassets/scripts/jquery.innerfade.js"></script> 
-<!-- End Innerfade --><!-- end Code --><!-- start Code --><script type="text/javascript">
- $(document).ready(function() {
- 	 $('h1,h2,h3,h4,h5,h6').each(function() {
-         if ($(this).text() == "") {
-                   //Do Something
-                   $(this).remove();
-         }
-});
- });
+<!-- End Google Tag Manager --><!-- end Code -->
 
- </script><!-- end Code -->
 <script src="/media/keeleuniversity/styleassets/scripts/jquery.lightbox-0.5.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(function() {
@@ -118,10 +490,56 @@ $(function() {
 
 <link href="/media/keeleuniversity/styleassets/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
 
-<!--[if lt IE 8]><link href="/media/keeleuniversity/styleassets/css/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!-- navigation object : Global Conditional Statements Include --><!--[if lt IE 8]><link href="/media/keeleuniversity/styleassets/css/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 <!--[if IE 6]><link href="/media/keeleuniversity/styleassets/css/ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 <!--[if IE 8]><link href="/media/keeleuniversity/styleassets/css/ie8.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-<!--[if IE 9]><link href="/media/keeleuniversity/styleassets/css/ie9.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if gt IE 8]><link href="/media/keeleuniversity/styleassets/css/ie9.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!-- MS have dropped conditional support for 10+ so here's a hack. CB 2014. -->
+
+<style>
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+   /* IE10+ specific styles go here */  
+
+#imgBlockRight {
+position:absolute !important;
+margin-left:505px !important;
+}
+.land_hero, .panelHenry {
+	box-shadow:0px 0px 4px 0px #00293d !important;
+	color:red !important;
+}
+span.banner_NoRightHandFade, span.landingOverlay {
+	bottom: -1px !important;
+	height: 175px !important;
+}
+
+ul.topNav {
+/* This now breaks the golive 2015 so commenting out */
+/* left: 134px !important; */
+}
+
+ul.topNav > li > a {
+
+padding-left: 19px !important;
+padding-right: 18px !important;
+}
+
+}
+</style>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Keele University",
+  "url" : "http://www.keele.ac.uk",
+  "logo": "http://www.keele.ac.uk/media/keeleuniversity/styleassets/images/logo.png",
+  "sameAs" : [ "http://www.facebook.com/KeeleUniversity",
+    "http://twitter.com/KeeleUniversity",
+    "http://www.youtube.com/user/KeeleUniversity",
+    "http://www.linkedin.com/edu/school?id=12600",
+    "http://instagram.com/keeleuniversity"] 
+}
+</script>
+
 
 <meta name="DC.Title" content="Privacy and Cookies, Keele University"> 
 <meta name="DC.Creator" content="Keele University">
@@ -137,7 +555,8 @@ $(function() {
 <!-- Author metatag -->
 <!-- Description metatag -->
 <!-- Subject metatag -->
-<!-- keywords metatag -->
+<!-- keywords metatag --><meta name="keywords" content="Privacy and Cookies, Access to Information, Submission forms and surveys, Email, How we use Cookies, What are cookies?, How does Keele University use cookies?, Social Media third party cookies, How to control and delete cookies">
+
 <!-- description metatag -->
 <!-- Siteimprove hook --><meta name="PageID" section="12593">
 
@@ -145,49 +564,135 @@ $(function() {
 
 <title>Privacy and Cookies - Keele University</title>
 
-<!-- navigation object : Google Analytics Include --><!-- start Code --><script type="text/javascript">
+<!-- navigation object : Google Analytics Include --><!-- start Code --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4221199-1']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
+  ga('create', 'UA-4221199-1', 'auto');
+  ga('send', 'pageview');
+</script>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<script>	
+$(document).ready(function() {
+//// Chris Beard. Mega Menu link Event Tracking factory:
 
+		// Main Mega Menu
+
+		$('#navigation a').on('click', function() {
+				var text = $(this).text();
+				var href = $(this).attr("href");
+		ga('send', 'event', 'Mega-Menu', 'click', text + ": " + href );
+		});
+
+		// Pushy side nav
+
+		$('.pushy a').on('click', function() {
+				var text = $(this).text();
+				var href = $(this).attr("href");
+		ga('send', 'event', 'Mobile-Side-Nav', 'click', text + ": " + href );
+		});
+
+		// kfoot side nav
+
+		$('.kfoot a').on('click', function() {
+				var text = $(this).text();
+				var href = $(this).attr("href");
+		ga('send', 'event', 'Footer', 'click', text + ": " + href );
+		});
+		
+});
 </script><!-- end Code -->
+<!-- start Code --><script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/186765.js?r="+Math.random()*1e16+"&m=1189&a=186765"+(iatDev?"&d=1":"")))</script><script async="" defer="" src="//j.flxpxl.com/186765.js?r=949323788136864.4&amp;m=1189&amp;a=186765"></script><!-- end Code -->
+
 
 <!-- RSS -->
 <!-- navigation object : RSS Child Element --><link href="http://www.keele.ac.uk/rss/news/index.xml" title="Press Releases (RSS 2.0)" type="application/rss+xml" rel="alternate">
 <!-- End RSS -->
 
-<script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/ce9fa59a-42bf-4009-9ffa-7b140ffb785a.js"></script></head>
+</head>
 
 <body class="tMidImage landing twoCols">
 <!-- navigation object : Global Accessibility Bar --><!-- start Code -->
-<a id="d.en.81777"></a>
+<a id="d.en.111723"></a>
 <div id="skip"><a href="#midCol">Skip to Main Content</a></div>
 
-<script type="text/javascript">
-  $(document).ready(function() {
-    // add a click handler to all links 
-    // that point to same-page targets (href="#...")		
-    $("a[href^='#']").click(function() {
-      // get the href attribute of the internal link
-      // then strip the first character off it (#)
-      // leaving the corresponding id attribute
-      $("#"+$(this).attr("href").slice(1)+"")
-        // give that id focus (for browsers that didn't already do so)
-        .focus();
-        // add a highlight effect to that id (comment out if not using)	This requires jquery-ui		
-        //.effect("highlight", {}, 3000);
-    });
-  });
-</script>
 <!-- end Code -->
+<!-- start Code -->
+<a id="d.en.134032"></a>
+        <!--[if lt IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+<!-- end Code -->
+<!-- start Code -->
+<a id="d.en.133958"></a>
+<!-- Pushy Menu -->
+        <nav class="pushy pushy-left">
+            <ul>
+                <li><i class="fa fa-times menu-btn cbpushy_close"> close</i></li>
+
+                <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+                <li><a href="/aboutus/">About us</a></li>
+                <li><a href="/studyatkeele/">Study at Keele</a></li>
+                <li><a href="/faculties/">Faculties</a></li>
+                <li><a href="/research/">Research</a></li>
+                <li><a href="/newsevents/">News</a></li>
+                <li><a href="/business/">Business</a></li>
+                <li><a href="/alumni/">Alumni</a></li>
+                <!-- <li><a href="https://www.surveymonkey.com/r/RY9QZMN" target="_blank">Website Feedback</a></li> -->
+                <!-- <li><a href="/welcome">Welcome Week</a></li> -->
+            </ul>
+            <ul>
+                <li><a href="/contactus"><i class="fa fa-envelope-o"></i> Contact Us</a></li>
+                <li><a href="/visiting"><i class="fa fa-user"></i> Visit Us</a></li>
+                <li><a href="/findus"><i class="fa fa-map-marker fa-lg"></i> Find Us</a></li>
+            </ul>
+            <ul>
+                <li><a href="http://students.keele.ac.uk"><i class="fa fa-lock fa-lg"></i> Students</a></li>
+                <li><a href="http://staff.keele.ac.uk"><i class="fa fa-lock fa-lg"></i> Staff</a></li>
+                <li><a href="/mobile-app"><i class="fa fa-mobile fa-lg"></i> Mobile App</a></li>
+                <li><a href="/privacy"><i class="fa fa-cog"></i> Privacy &amp; Cookies</a></li>
+            </ul>
+        </nav>
+
+        <!-- Site Overlay -->
+        <div class="site-overlay"></div>
+
+        <!-- Site Content -->
+        <div id="container">
+            <!-- Menu Button -->
+
+            <div class="resp-header" style="display:none;">
+                <div class="menu-btn" style="display:none;"><i class="fa fa-bars fa-lg resp-burger"></i> <span class="resp-menu-text">Menu</span></div>
+
+                                <div class="logo-brand"><a href="/"><img src="/media/keeleuniversity/styleassets/images/klogo-mb-sm.png" alt="Keele University" title="Keele University"></a></div>
+
+				<div class="resp-icon-list">
+					
+                    <div>
+                        <a href="/contactus">  
+                            <i class="fa fa-envelope fa-lg resp-standard-icon"></i> <span class="resp-menu-text-contactus">Contact Us</span>
+                        </a>
+                    </div>
+
+                    <div>
+				  		<a href="/findus">  
+				  			<i class="fa fa-map-marker fa-lg resp-standard-icon"></i> <span class="resp-menu-text-findus">Find Us</span>
+				  		</a>
+					</div>
+
+				    <div>
+						<a href="https://search.keele.ac.uk/s/search.html?query=&amp;collection=website-meta&amp;form=simple">
+							<i class="fa fa-search fa-lg resp-standard-icon"></i> <span class="resp-menu-text-search">Search</span>
+				  		</a>
+					</div>
+				</div>
+
+
+            </div> <!-- mb-header -->
+<!-- end Code -->
+
 <div id="top"></div>
     <div id="pageSurround">
       
@@ -195,10 +700,10 @@ $(function() {
             <div id="search">
                 <!-- navigation object : Search Box Code --><!-- start Code -->
 <a id="d.en.90419"></a>
-<link rel="stylesheet" media="screen" href="http://search.keele.ac.uk/search/search.css" type="text/css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://search.keele.ac.uk/search/js/jquery/jquery.tmpl.min.js"></script>
-<script type="text/javascript" src="http://search.keele.ac.uk/search/js/jquery.funnelback-completion.js"></script>
+<link rel="stylesheet" media="screen" href="https://search.keele.ac.uk/search/search.css" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://search.keele.ac.uk/search/js/jquery/jquery.tmpl.min.js"></script>
+<script type="text/javascript" src="/jq/funnelback/cb-modified-jquery.funnelback-completion.js"></script>
 
 <script type="text/javascript">
                 // Query completion setup.
@@ -206,7 +711,7 @@ $(function() {
                     jQuery("#query").fbcompletion({
                         'enabled'    : 'enabled',
                         'collection' : 'website-meta',
-                        'program'    : 'http://search.keele.ac.uk/search/padre-qs.cgi',
+                        'program'    : 'https://search.keele.ac.uk/search/padre-qs.cgi',
                         'format'     : 'simple',
                         'alpha'      : '.5',
                         'show'       : '10',
@@ -218,31 +723,17 @@ $(function() {
                 });
 </script>
 
-<script type="text/javascript">
-$(function(){
-$("#query").live("blur", function(){
-	var default_value = $(this).attr("rel");
-	if ($(this).val() == ""){
-		$(this).val(default_value);
-	}
-}).live("focus", function(){
-	var default_value = $(this).attr("rel");
-	if ($(this).val() == default_value){
-		$(this).val("");
-	}
-});});
-</script>
-
 <div role="search">
 
-<form action="http://search.keele.ac.uk/s/search.html" method="GET">
-  <input type="text" name="query" id="query" size="30" style="width:175px !important; height:16px !important;" placeholder="search site" value="search site" rel="search site" title="Text input: Search">
+<form action="https://search.keele.ac.uk/s/search.html" method="GET" accept-charset="ISO-8859-1">
+  <input type="text" name="query" id="query" onclick="if(this.value=='search site'){this.value=''}" onblur="if(this.value==''){this.value='search site'}" size="30" style="width:175px !important; height:16px !important;" placeholder="search site" value="search site" rel="search site" title="Text input: Search">
   <input type="hidden" name="collection" value="website-meta">
   <input type="hidden" name="form" value="simple">
-<button type="submit" class="btn" id="search-query-submit" value="Go">GO</button></form>
+<button type="submit" class="btn" id="search-query-submit" value="Go"><i class="fa fa-search"></i><span style="display:none;">GO</span></button></form>
 
 </div>
 <!-- end Code -->
+
              </div>
            
           <a href="/" class="homeLink"><img src="/media/keeleuniversity/styleassets/images/logo.png" alt="Keele University" title="Keele University"></a> 
@@ -250,365 +741,458 @@ $("#query").live("blur", function(){
 <!-- navigation object : Site Tools --><!-- start Code -->
 <a id="d.en.13413"></a>
 <ul class="siteTools">
-<li class="first"><a onclick="_gaq.push(['_trackEvent', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_CurrentStaff']);" href="http://staff.keele.ac.uk">staff</a></li>
+<li class="first"><a onclick="ga('send', 'event', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_CurrentStaff');" href="http://staff.keele.ac.uk">staff</a></li>
 
-<li><a onclick="_gaq.push(['_trackEvent', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_CurrentStudents']);" href="http://students.keele.ac.uk">students</a></li>
+<li><a onclick="ga('send', 'event', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_CurrentStudent');" href="http://students.keele.ac.uk">students</a></li>
 
-<li><a onclick="_gaq.push(['_trackEvent', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_AtoZ']);" href="/a-z">a-z</a></li>
+<li><a onclick="ga('send', 'event', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_AtoZ');" href="/a-z">a-z</a></li>
 
-<li><a onclick="_gaq.push(['_trackEvent', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_StaffDirectory']);" href="/telephones">staff directory</a></li>
+<li><a onclick="ga('send', 'event', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_StaffDirectory');" href="/telephones">staff directory</a></li>
 
-<li class="last" style="padding-left:0px;"><a onclick="_gaq.push(['_trackEvent', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_PrivacyAndCookies']);" href="/privacy/">Privacy &amp; Cookies</a></li>
+<li style="padding-left:0px;"><a onclick="ga('send', 'event', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_PrivacyAndCookies');" href="/privacy/">privacy &amp; cookies</a></li>
 
+<li class="last" style=""><a onclick="ga('send', 'event', 'Global_SiteTools', 'SiteTool_ClickEvent', 'SiteTool_SocialMedia');" href="/social-media">social media</a></li>
 </ul>
 <!-- end Code -->
+
 
            
 <!--start navigation Mega Menu -->
 
-<!-- navigation object : Mega Menu --><!-- start Code --><!-- START MEGA MENU code import -->
-<script type="text/javascript">
-$(document).ready(function() {
-          $("ul.topNav li .ddContainer").css({'opacity':'0'});
-          $("ul.topNav li").hoverIntent( megaHoverOver, megaHoverOut);
-});
-        function megaHoverOver(){ 
-    $(this).find(".ddContainer").stop().fadeTo('normal', 1, function() {
-// css will do this     $(this).show(); 
-    });
-  }
-  function megaHoverOut(){ 
-    $(this).find(".ddContainer").stop().fadeTo('slow', 0, function() {
-// css will do this     $(this).hide(); 
-    });
-  }
-</script> 
+<!-- navigation object : Mega Menu --><!-- start Code --><!-- START MEGA MENU structure -->
 <div id="navigation" role="navigation">
-<ul class="topNav">
-            <li class="first">&nbsp;</li>
-            <li class="noLine"><a href="/">Home</a></li>
-<li>
-<a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_topNav']);" href="/aboutus/" class="tn_aboutus">About us</a>
+    <ul class="topNav">
+        <li class="first">&nbsp;</li>
+        <li class="noLine">
+            <a href="/">Home</a>
+        </li>
+        <li>
+            <a href="/aboutus/" class="tn_aboutus">About us</a>
+            <div class="aboutus ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul>
+                        <li><a href="/contactus/">Contact Keele University</a>
+                        </li>
+                        <li><a href="/findus/">How to Find Us</a>
+                        </li>
+                        <li><a href="/vco/">Vice Chancellor's Office</a>
+                        </li>
+                        <li><a href="/admin">Central Services</a>
+                        </li>
+                        <li><a href="/aboutus/ourcampus/">Our Campus</a>
+                        </li>
+                        <li><a href="/greenkeele">Green Keele</a>
+                        </li>
+                        <li><a href="/social-media/">Social Media</a>
+                        </li>
+                        <li><a href="/aboutus/aboutthearea/">About the Area</a>
+                        </li>
+                        <li><a href="/keydates/">Key Dates</a>
+                        </li>
+                        <li><a href="/aboutus/ourhistory/">Our History</a>
+                        </li>
+                        <li><a href="/aboutus/ourstructure/">Our Structure</a>
+                        </li>
+                        <li><a href="/offa">Office for Fair Access</a>
+                        </li>
+                        <li><a href="/arboretum/">Arboretum</a>
+                        </li>
+                        <li><a href="/aboutus/factsandfigures/">Facts and Figures</a>
+                        </li>
+                        <li><a href="/strategicplan/">Strategic Plan</a>
+                        </li>
+                        <li><a href="/policyzone/">Policy Zone</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="/studyatkeele/" class="tn_studyatkeele">Study at Keele</a>
+            <div class="studyatkeele ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/studyatkeele/undergraduatestudy/">Undergraduate</a>
+                        </li>
+                        <li><a href="/ugcourses">Course List</a>
+                        </li>
+                        <li><a href="/visiting">Open Days</a>
+                        </li>
+                        <li><a href="/foundationcourses/">Foundation Courses</a>
+                        </li>
+                        <li><a href="/ugprospectus">Prospectus</a>
+                        </li>
+                        <li><a href="/accommodation" title="Undergraduate accommodation">Accommodation</a>
+                        </li>
+                        <li><a href="/studentfunding/tuitionfees/ukeustudents-undergraduatetuitionfees/" title="Undergraduate Tuition Fees">Tuition Fees</a>
+                        </li>
+                        <li><a href="/studentfunding">Funding</a>
+                        </li>
+                        <li><a href="/student-services-directory/">Student Support</a></li>
 
-<div class="aboutus ddContainer">
+                    </ul>
+                  
 
-<div class="ddCol">
-     <ul>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Contact Us']);" href="/contactus/">Contact Us</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_How to Find Us']);" href="/aboutus/howtofindus/">How to Find Us</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_VCOffice']);" href="/vco/">Vice Chancellor's Office</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_CharterYear']);" href="/admin">Central Services</a></li>
 
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Our Campus']);" href="/aboutus/ourcampus/">Our Campus</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Green Keele']);" href="/greenkeele">Green Keele</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Social Media']);" href="/socnet/">Social Media</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_About the area']);" href="/aboutus/aboutthearea/">About the Area</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Student Charter']);" href="/studentcharter/">Student Charter</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Key Dates']);" href="/keydates/">Key Dates</a></li>
-        <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Our History']);" href="/aboutus/ourhistory/">Our History</a></li>
-<!--  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Our Mission']);" href="/aboutus/ourmission/">Our Mission</a></li> -->
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Our Structure']);" href="/aboutus/ourstructure/">Our Structure</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_OFFA']);" href="/offa">OFFA</a></li>
-        <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Arboretum']);" href="/arboretum/">Arboretum</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Facts and Figures']);" href="/aboutus/factsandfigures/">Facts and Figures</a></li>
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_Strategic Plan']);" href="/strategicplan/">Strategic Plan</a></li>
-        <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_AboutUs_PolicyZone']);" href="/policyzone/">Policy Zone</a></li>
-     </ul>
-</div>
 
-</div>
 
+
+                </div>
+
+
+                <div class="ddCol">
+                    
+                    <ul>
+                        <li><a class="mmhead" href="/studyatkeele/postgraduatetaught/">Postgraduate Taught</a>
+                        </li>
+                        <li><a href="/pgtcourses/">Course list</a>
+                        </li>
+                        <li><a href="/virtual-open-days/">Postgraduate Virtual Open Days</a>
+                        </li>
+                        <li><a href="/pgtprospectus/">Order a Postgraduate Prospectus</a>
+                        </li>
+                        <li><a href="/accommodation" title="Postgraduate accommodation">Accommodation</a></li>
+                        <li><a href="/studentfunding/tuitionfees/ukeustudents-postgraduatetaughttuitionfees/" title="Postgraduate Taught Tuition Fees">Tuition Fees</a></li>
+                        <li><a href="/studentfunding">Funding</a></li>
+                    </ul>
+                    
+
+
+                    <ul>
+                        <li><a class="mmhead" href="/pgresearch/">Postgraduate Research</a>
+                        </li>
+                        <li><a href="/researchsubjects/">Research Areas</a>
+                        </li>
+                        <li><a href="/pgresearch/entryrequirements">Entry Requirements</a></li>
+                        <li><a href="/studyatkeele/accommodation/postgraduatestudents" title="Postgraduate Research accommodation">Accommodation</a>
+                        </li>
+                        <li><a href="/pgresearch/feesandfinance/">Fees and funding</a>
+                        </li>
+                    </ul>  
+                </div>
+
+
+
+
+
+
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/international/">International Students</a>
+                        </li>
+                        <li><a href="/international/thinkingofapplying/courses/">Course list</a>
+                        </li>
+                        <li><a href="/accommodation" title="International accommodation">Accommodation</a></li>
+                        <li><a href="/studentfunding/tuitionfees/internationalstudents-undergraduateandpostgraduatetuitionfees/" title="International Tuition Fees">Tuition Fees</a></li>
+                        <li><a href="/studentfunding">Funding</a></li>
+
+                        <li><a href="/foundationcourses">International foundation programmes</a>
+                        </li>
+                        <li><a href="http://www.keeleisc.com/international-year-one" target="_blank">International Year 1</a>
+                        </li>
+                        <li><a href="http://www.keeleisc.com/pre-masters" target="_blank">Pre-masters</a>
+                        </li>
+                        <li><a href="/studyabroad">Study abroad</a></li>
+                        <li><a href="/international/contactus">Contact the International Team</a></li>
+
+
+
+
+                    </ul>
+                </div>
+
+
+
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/visiting/">Open Days</a>
+                        </li>
+                        <br>
+
+<li><a href="/visiting/offerholderdaysforapplicants/" class="mmhead">Offer Holder Days for Applicants</a>
 </li>
-<li>
-<a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_topNav']);" href="/studyatkeele/" class="tn_studyatkeele">Study at Keele</a>
-<div class="studyatkeele ddContainer">
-
-<div class="ddCol">
-     <ul>
-      <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Undergraduate Study']);" class="mmhead" href="/studyatkeele/undergraduatestudy/">Undergraduate Study</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Undergraduate Course List']);" href="/ugcourses/">Undergraduate Course List</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Undergraduate Foundation Courses']);" href="/foundationcourses">Foundation Courses</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Order an Undergraduate Prospectus']);" href="/ugprospectus/">Order an Undergraduate Prospectus</a></li>
-     </ul>
-     <ul>
-        <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Postgraduate Study']);" class="mmhead" href="/studyatkeele/postgraduatetaught/">Postgraduate Taught Study</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Postgraduate Courses']);" href="/pgtcourses/">Postgraduate Courses</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Order a Postgraduate Prospectus']);" href="/pgtprospectus/">Order a Postgraduate Prospectus</a></li>
-     </ul>
-
-     <ul>
- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Postgraduate Research']);" class="mmhead" href="/pgresearch/">Postgraduate Research</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Research Areas']);" href="/researchsubjects/">Research Areas</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Studentships']);" href="/pgresearch/choosingaresearchdegree/studentships/">Studentships</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_ProfDoctorates']);" href="/pgresearch/choosingaresearchdegree/professionaldoctorates/">Professional Doctorates</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Order a Research Prospectus']);" href="/pgrprospectus/">Order a Research Prospectus</a></li>
-     </ul>
-
-</div>
-
-<div class="ddCol">
-
-     <ul>
-      <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_International']);" class="mmhead" href="/international/">International Students</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_International_Courses']);" href="/international/thinkingofapplying/">Courses</a></li>
-
-   
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_International_AIFY']);" href="/aify">Accelerated International Foundation Year</a></li>
-
-    
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_International_ISC_Year1']);" href="http://www.keeleisc.com/international-year-one" target="_blank">International Year 1</a></li>
-
-    
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_International_ISC_Premasters']);" href="http://www.keeleisc.com/pre-masters" target="_blank">Pre-masters</a></li>
-
-
-
-
- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_KeeleLink']);" class="mmhead" href="/outreach/">Information for Schools and Colleges</a></li>
-
 <br>
+                        <li><a class="mmhead" href="/visiting/independentvisits/">Independent Visits</a>
+                        </li>
+                        <br>
+                        <li><a class="mmhead" href="/virtual-open-days/">Virtual Open Days</a>
+                        </li>
 
-<!-- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_ShortCourses']);" class="mmhead" href="/businessenterprise/forbusinesses/professionaldevelopmenttraining/">Short Courses and Professional Development</a></li> 
 
-<br /> -->
 
- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_OpenDaysVisitDays']);" class="mmhead" href="/visiting/">Open Days and Visit Days</a></li>
+                    </ul>
+                </div>
 
-<br>
 
- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_Scholarships']);" class="mmhead" href="/scholarships/">Keele Scholarships</a></li>
 
-<br>
 
-<li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_DKC']);" class="mmhead" href="/distinctive">Distinctive Keele Curriculum (DKC)</a></li>
 
-<br>
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/cpd">Continuing professional development</a>
+                        </li>
+                        <li><a class="mmhead" href="/kilas">Keele Institute of Liberal Arts and Sciences (KILAS)</a>
+                        </li>
+                        <li><a class="mmhead" href="/studentfunding/bursariesscholarships/">Bursaries and Scholarships</a>        </li>
+                        <li><a class="mmhead" href="/distinctive">Distinctive Keele Curriculum (DKC)</a>
+                        </li>
+                        <!-- <li><a class="mmhead" href="/scholarships">Keele Scholarships</a>
+                        </li> --> <!-- <br /> -->
+                        <li><a class="mmhead" href="/outreach">Information for Schools and Colleges</a>
+                        </li>
+                    </ul>
+                </div>
 
-<li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_StudyAtKeele_StudentPlacements']);" class="mmhead" href="/studyatkeele/studentplacements/">Student Placements</a></li>
-     </ul>
 
+            
+
+
+
+
+
+
+
+
+
+            </div>
+        </li>
+        <li>
+            <a href="/faculties/" class="tn_faculties">Faculties</a>
+            <div class="faculties ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/health/">Faculty of Health</a>
+                        </li>
+                        <li><a href="/healthandrehabilitation/">Health and Rehabilitation</a>
+                        </li>
+                        <li><a href="/medicine/">Medicine</a>
+                        </li>
+                        <li><a href="/nursingandmidwifery/">Nursing and Midwifery</a>
+                        </li>
+                        <li><a href="/pharmacy/">Pharmacy</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/hss/">Faculty of Humanities and Social Science</a>
+                        </li>
+                        <li><a href="/americanstudies/">American Studies</a>
+                        </li>
+                        <li><a href="/sspp/">Criminology</a>
+                        </li>
+                        <li><a href="/sspp/">Education</a>
+                        </li>
+                        <li><a href="/english/">English</a>
+                        </li>
+                        <li><a href="/filmstudies">Film Studies</a>
+                        </li>
+                        <li><a href="/history/">History</a>
+                        </li>
+                        <li><a href="/hums/">Humanities</a>
+                        </li>
+                        <li><a href="/kms/">Keele Management School</a>
+                        </li>
+                        <li><a href="/llu/">Language Learning Unit</a>
+                        </li>
+                        <li><a href="/law/">Law</a>
+                        </li>
+                        <li><a href="/mcc/">Media, Communications and Culture</a>
+                        </li>
+                        <li><a href="/music/">Music and Music Technology</a>
+                        </li>
+                        <li><a href="/spire/">Politics, International Relations and Philosophy</a>
+                        </li>
+                        <li><a href="/sspp/">Social Science and Public Policy</a>
+                        </li>
+                        <li><a href="/sspp/">Social Work</a>
+                        </li>
+                        <li><a href="/sspp/">Sociology</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/natsci/">Faculty of Natural Sciences</a>
+                        </li>
+                        <li><a href="/chemistry/">Chemistry</a>
+                        </li>
+                        <li><a href="/scm/">Computing and Mathematics</a>
+                        </li>
+                        <li><a href="/forensic/">Forensic Science</a>
+                        </li>
+                        <!-- <li><a href="/foundationcourses">Foundation Courses</a>
+                        </li> -->
+                        <li><a href="/gge/">Geography, Geology and the Environment</a>
+                        </li>
+                        <li><a href="/lifesci/">Life Sciences</a>
+                        </li>
+                        <li><a href="/physics/">Physics and Astrophysics</a>
+                        </li>
+                        <li><a href="/spgs/">Physical and Geographical Sciences</a>
+                        </li>
+                        <li><a href="/psychology/">Psychology</a>
+                        </li>
+                        <li><a href="/psychology/counselling/">Counselling</a>
+                        </li>
+                    </ul>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+        </li>
+        <li><a href="/research/" class="tn_research">Research</a>
+            <div class="research ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul>
+                        <li><a href="/research/">Our Research</a>
+                        </li>
+                        <li><a href="/research/ourimpact/">Our Impact</a>
+                        </li>
+                        <li><a href="/researchsupport/">Research Support</a>
+                        </li>
+                        <li><a href="/research/researchnews/">Research News</a>
+                        </li>
+                        <li><a href="/research/researchdirectory/">Research Directory</a>
+                        </li>
+                        
+                        <li><a href="/pgresearch/">Postgraduate Research</a>
+                        </li>
+
+                        <li><a href="/research/currentpgrstudents/">Current PGR Students</a>
+                        </li>
+                        <li><a href="/pgresearch/">Prospective Students</a>
+                        </li>
+
+
+                    </ul>
+                </div>
+                <div class="ddCol">
+                    <ul>
+                        <li><a class="mmhead" href="/research/org/">Research Institutes and Offices</a>
+                        </li>
+                        <li><a href="/humssr/">Humanities and Social Sciences Research</a>
+                        </li>
+                        <li><a href="/nsr/">Natural Sciences Research</a>
+                        </li>
+                        <li><a href="/istm/">Science and Technology in Medicine</a>
+                        </li>
+                        <li><a href="/pchs/">Primary Care and Health Sciences</a>
+                        </li>
+                    </ul>
+                </div>
+                <div style="clear:both;"></div>
+                <!-- <div class="ddFooter">more...</div> -->
+            </div>
+        </li>
+        <li><a href="/newsevents/">News</a>
+            <div class="newsevents ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul>
+                        <li><a href="/pressreleases/">Press Releases</a>
+                        </li>
+                        <li><a href="/artskeele/">Arts Keele</a>
+                        </li>
+                        <li><a href="/whatson/">What's On</a>
+                        </li>
+                        <li><a href="/week/">The Week at Keele</a>
+                        </li>
+
+                        <li><a href="/newsevents/publications/">Publications</a>
+                        </li>
+                        <li><a href="/newsevents/contacts/">Press Office Contacts</a>
+                        </li>
+                        <li><a href="/aboutus/">About the University</a>
+                        </li>
+                        <li><a href="/expertise/">Expertise Directory</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li><a href="/business-support-services/" class="tn_businessenterprise">Business</a>
+            <div class="busent ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul>
+                        <li><a href="/business-support-services/">Working With Us</a>
+                        </li>
+                        <li><a href="/business-support-services/professionaldevelopment/">Professional Development</a>
+                        </li>
+                        <li><a href="/business-support-services/studentplacements/">Student Placements</a>
+                        </li>
+                        <li><a href="http://www.kusip.co.uk/">Keele University Science and Innovation Park</a>
+                        </li>
+                        <li><a href="http://www.keele-conference.com/">Keele Conferences and Events</a>
+                        </li>
+
+                        
+                        <li><a href="/internships">Keele Internships</a>
+                        </li>
+                        <li><a href="/business/newsandevents/">News and Events</a>
+                        </li>
+                        <li><a href="/business/contactus/">Contact Business Services</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li><a href="/alumni/" class="tn_alumni">Alumni</a>
+            <div class="alumni ddContainer" style="opacity: 0;">
+                <div class="ddCol">
+                    <ul><li><a href="/alumni/keepingintouch/">Keeping in Touch</a>
+                        </li>
+                        <li><a href="/alumni/newsfromkeele/">News from Keele</a>
+                        </li>
+                        <li><a href="/alumni/reunionsandevents/">Reunions and Events</a>
+                        </li>
+                        <li><a href="/alumni/discountsbenefitsforalumni/">Discounts and Benefit for Alumni</a>
+                        </li>
+                        <li><a href="/alumni/keeleintheworld/">Keele in the World</a>
+                        </li>
+                        <li><a href="/alumni/keeliteofthemonth/">Keelite of the Month</a>
+                        </li>
+                        <li><a href="/alumni/friendsofkeele/">Friends of Keele</a>
+                        </li>
+                        <li><a href="/alumni/keelesheritage/">Keele's Heritage</a>
+                        </li>
+                        <li><a href="/alumni/notablekeelites/">Notable Keelites</a>
+                        </li>
+                        <li><a href="/alumni/thekeelesociety/">The Keele Society</a>
+                        </li>
+                        <li><a href="/alumni/whoswho/">Who's Who: Alumni Team</a>
+                        </li>
+                        <li><a href="/alumni/contact/">Contact The Alumni Office</a>
+                        </li>                        
+                        <li><a href="/alumni/thekeeleoralhistoryproject/">The Keele Oral History Project</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="ddCol">
+                    <ul>
+                        <li><a href="/supportkeele/">Support Keele</a>
+                        </li>
+                        <li><a href="/keelekeyfund/">The Keele Key Fund</a>
+                        </li>
+                        <li><a href="/supportkeele/fundraisingprojects/">Fundraising Projects</a>
+                        </li>
+                        <li><a href="/supportkeele/makeadonation/">Make a donation</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </li>
+
+
+<!-- <li><a href="https://www.surveymonkey.com/r/RY9QZMN" class="mmclear" style="" target="_blank">Website Feedback</a></li> -->
+<!-- <li><a href="/clearing" class="mmclear" style="">Clearing vacancies</a></li> -->
+<!-- <li><a href="/welcome" class="mmclear" style="">Welcome Week</a></li> -->
+
+        <li class="last">&nbsp;</li>
+    </ul>
 </div>
-</div>
+<!-- END MEGA MENU structure --><!-- end Code -->
 
-</li>
-<li>
-<a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_topNav']);" href="/faculties/" class="tn_faculties">Faculties</a>
-<div class="faculties ddContainer">
-<div class="ddCol">
-     <ul>     
-      <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_HealthFac']);" class="mmhead" href="/health/">Faculty of Health</a></li>
- 
-           <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Health and Rehabilitation']);" href="/healthandrehabilitation/">Health and Rehabilitation</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Medicine']);" href="/health/schoolofmedicine/">Medicine</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Nursing and Midwifery']);" href="/nursingandmidwifery/">Nursing and Midwifery</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Pharmacy']);" href="/pharmacy/">Pharmacy</a></li>
-
-     </ul>
-</div>
-
-<div class="ddCol">
-
-     <ul>
-      <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_HumssFac']);" class="mmhead" href="/hss/">Faculty of Humanities and Social Science</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_American Studies']);" href="/americanstudies/">American Studies</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Criminology']);" href="/criminology/">Criminology</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Education']);" href="/education/">Education</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_English']);" href="/english/">English</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Film Studies']);" href="/filmstudies">Film Studies</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Gerontology']);" href="/pppp/gerontology/">Gerontology</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Health Policy']);" href="/healthpolicy/">Health Policy</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_History']);" href="/history/">History</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Humanities']);" href="/hums/">Humanities</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Keele Management School']);" href="/kms/">Keele Management School</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Language Learning Unit']);" href="/llu/">Language Learning Unit</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Law']);" href="/law/">Law</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Media, Communications and Culture']);" href="/mcc/">Media, Communications and Culture</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Music and Music Technology']);" href="/music/">Music and Music Technology</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Politics, International Relations and Philosophy']);" href="/spire/">Politics, International Relations and Philosophy</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Public Policy and Professional Practice']);" href="/pppp/">Public Policy and Professional Practice</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Social Work']);" href="/socialwork/">Social Work</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Sociology']);" href="/sociology/">Sociology</a></li>
-     </ul>
-</div>
-
-<div class="ddCol">
-     <ul>
-      <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_NatSciFac']);" class="mmhead" href="/natsci/">Faculty of Natural Sciences</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Chemistry']);" href="/chemistry/">Chemistry</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Mathematics and Computer Science']);" href="/scm/">Computing and Mathematics</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Forensic Science']);" href="/forensic/">Forensic Science</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Geography, Geology and the Environment']);" href="/gge/">Geography, Geology and the Environment</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Life Sciences']);" href="/lifesci/">Life Sciences</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Physics and Astrophysics']);" href="/physics/">Physics and Astrophysics</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Physical and Geographical Sciences']);" href="/spgs/">Physical and Geographical Sciences</a></li>
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Faculties_Psychology']);" href="/psychology/">Psychology</a></li>
-     </ul>
-</div>
-<div style="clear:both;"></div>
-<!-- <div class="ddFooter">more...</div> -->
-
-</div>
-</li>
-<li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_topNav']);" href="/research/" class="tn_research">Research</a>
-<div class="research ddContainer">
-
-<div class="ddCol">
-     <ul>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Our Research']);" href="/research/ourresearch/">Our Research</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Our Impact']);" href="/research/ourimpact/">Our Impact</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Research Support']);" href="/researchsupport/">Research Support</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Awards and Grants']);" href="/research/awardsandgrants/">Awards and Grants</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Research News']);" href="/research/researchnews/">Research News</a></li>
-
-
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Research Degrees']);" href="/research/researchdegrees/">Research Degrees</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Graduate School']);" href="/gradschool/">Graduate School</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Research Directory']);" href="/research/ourresearch/researchdirectory/">Research Directory</a></li>
-
-     </ul>
-</div>
-
-<div class="ddCol">
-          <ul>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Research_Institutes_header']);" class="mmhead" href="/research/researchinstitutes/">Research Institutes</a></li>
-
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Institute for the Humanities']);" href="/rihums/">Humanities</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Institute for the Social Sciences']);" href="/risocsci/">Social Sciences</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Institute for the Environment, Physical Sciences and Applied Mathematics-EPSAM']);" href="/epsam/">Environment, Physical Sciences and Applied Mathematics (EPSAM)</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Institute for Science and Technology in Medicine']);" href="/istm/">Science and Technology in Medicine</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Research_Institute for Primary Care and Health Sciences']);" href="/pchs/">Primary Care and Health Sciences</a></li>
-          </ul>
-</div>
-
-<div style="clear:both;"></div>
-<!-- <div class="ddFooter">more...</div> -->
-</div>
-</li>
-
-<li><a href="/newsevents/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_topNav']);">News</a>
-<div class="newsevents ddContainer" style="opacity: 0;">
-
-<div class="ddCol">
-          <ul>
-               <li><a href="/pressreleases/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_Press Releases']);">Press Releases</a></li>
-               <li><a href="/artskeele/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_ArtsKeele']);">Arts Keele</a></li>
-               <li><a href="/newsevents/whatson/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_WhatsOn']);">What's On</a></li>
-               <li><a href="/news/week" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_The Week at Keele']);">The Week at Keele</a></li>
-               <li><a href="/keele-times/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_Keele Times']);">Keele Times</a></li>
-               <li><a href="/newsevents/publications/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_Publications']);">Publications</a></li>
-               <li><a href="/newsevents/contacts/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_Press Contacts']);">Press Office Contacts</a></li>
-               <li><a href="/aboutus/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_About the University']);">About the University</a></li>
-               <li><a href="/expertise/" onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_News_Expertise Directory']);">Expertise Directory</a></li>
-          </ul>
-</div>
-
-</div>
-
-</li>
-
-
-<li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_topNav']);" href="/business/" class="tn_businessenterprise">Business</a>
-<div class="busent ddContainer">
-
-<div class="ddCol">
-     <ul> 
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Business Support Services']);" href="/business-support-services/">Business Support Services</a></li>
-
-     <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Professional Development']);" href="/business-support-services/professionaldevelopment/">Professional Development</a></li>
-
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Student Placements']);" href="/business-support-services/studentplacements/">Student Placements</a></li>
-
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Science Park Ext']);" href="http://www.kusbp.com/">Keele University Science and Business Park</a></li>
-
-          <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Keele Conferences and Events Ext']);" href="http://www.keele-conference.com/">Keele Conferences and Events</a></li>
-        
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Student Enterprise']);" href="/studententerprise/">Student Enterprise</a></li>
-        
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Staff Enterprise']);" href="/business/staffenterprise/">Staff Enterprise</a></li>
-
- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Graduate Internships']);" href="/internships">Graduate Internships</a></li>
-        
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_News and Events']);" href="/business/newsevents/">News and Events</a></li>
-  
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_BusEnt_Contact']);" href="/business/contactus/">Business Contacts</a></li>
-
-
-     </ul>
-</div>
-
-</div>
-</li>
-
-
-
-
-<li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_topNav']);" href="/alumni/" class="tn_alumni">Alumni</a>
-<div class="alumni ddContainer">
-
-<div class="ddCol">
-          <ul>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_The Keele Society']);" href="/alumni/thekeelesociety/">The Keele Society</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_News from Keele']);" href="/alumni/newsfromkeele/">News from Keele</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_What happened to']);" href="/alumni/whathappenedto/">What happened to...</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Put in touch']);" href="/alumni/putintouch/">Put in touch</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Directory of Alumni']);" href="/alumni/directoryofalumni/">Directory of Alumni</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Reunions and events']);" href="/alumni/reunionsandevents/">Reunions and events</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Information and visits']);" href="/alumni/informationandvisits/">Information and visits</a></li>
-             <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_International Alumni']);" href="/alumni/keeleintheworld/">Keele in the World</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Support Keele']);" href="/supportkeele/">Support Keele</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_KeelesHeritage']);" href="/alumni/keelesheritage/">Keele's Heritage</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Keelite of the month']);" href="/alumni/keeliteofthemonth/">Keelite of the month</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_The Keele Oral History Project']);" href="/alumni/thekeeleoralhistoryproject/">The Keele Oral History Project</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_WhosWho']);" href="/alumni/whoswho/">Who's Who</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Contact The Alumni Office']);" href="/alumni/contact/">Contact The Alumni Office</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_Alumni_Friends of Keele']);" href="/alumni/friendsofkeele/">Friends of Keele</a></li>
-          </ul>
-</div>
-
-<div class="ddCol">
-          <ul>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_Support Keele homepage']);" href="/supportkeele/">Support Keele</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_The Keele Key Fund']);" href="/keelekeyfund/">The Keele Key Fund</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_Strategic Fundraising Projects']);" href="/supportkeele/strategicfundraisingprojects/">Strategic Fundraising Projects</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_Donation Categories']);" href="/supportkeele/donationcategories/">Donation Categories</a></li>
- <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_Make an on-line donation']);" href="/onlinedonation/">Make an on-line donation</a></li>             
-  <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_Making a donation']);" href="/donations/">Make a regular donation</a></li>
-               <li><a onclick="_gaq.push(['_trackEvent', 'GlobalMMenu', 'MMenu_ClickEvent', 'MM_SupportKeele_Legacies']);" href="/legacy/">Legacies</a></li>
-          </ul>
-</div>
-
-</div>
-
-
-</li>
-
-
-<li class="last">&nbsp;</li>
-           </ul>
-</div>
-
-<!-- end MM code import --><!-- end Code -->
 
       <!-- end navigation Mega Menu -->    
 <!-- end Header div -->   
@@ -618,39 +1202,25 @@ $(document).ready(function() {
      <div id="fadeCorner">  
        <div id="imgBlock" class="clearfix"> 
              
-          <div id="imgBlockLeft">
-            
-<!-- navigation object : Top Banner Tools 2.0 --><!-- start Code -->
-<a id="d.en.93382"></a>
-<ul class="blockLinks">
-<!--	<li><a href="/fullcourselisting/">Full Course Listing</a></li> -->
-	<li><a onclick="_gaq.push(['_trackEvent', 'TopBanner Tools', 'TopBanner_ClickEvent', 'TopBanner_CourseFinder']);" href="http://search.keele.ac.uk/s/search.html?query=&amp;collection=coursefinder">Course Finder</a></li>
-	<li><a href="/faculties/">Faculties and Schools</a></li>
-	<li><a href="/contactus/">Contact us</a></li>
-</ul>
-<!-- end Code -->
-              
-              <h2>&nbsp;</h2>  
-                
-         </div><!--imgBlockLeft-->
+
          
          <div id="imgBlockMid">
 
             <!-- navigation object : Banner Content --><!-- start Top Banner -->
 <div class="banner_instance">
-           	<img src="/media/keeleuniversity/styleassets/images/landing1.jpg" alt="landing img" style="width : 738px; 
-            height : 175px; 
+           	<img src="/media/keeleuniversity/styleassets/images/central-campus-and-forest-of-light-banner.jpg" alt="landing img" style="width : 1013px; 
+            height : 238px; 
             " class="">
 
 
 		<span class="landingOverlay">&nbsp;</span>
-             
+             <!-- 
               		<div id="imgBlockRight"><h2><p><strong>Why</strong> Keele?</p></h2>
                     		<h3>Grounds for Greatness</h3>
-                    		<p>“Once you’ve been here for even just a week, you’ll never want to leave!”</p>
-                    		<h4 class="playVideo"><p><a href="http://www.keele.ac.uk/feature/vids/movingboxes">Keele University Videos</a></p></h4>
+                    		<p>&ldquo;Once you&rsquo;ve been here for even just a week, you&rsquo;ll never want to leave!&rdquo;</p>
+                    		<h4 class="playVideo"><p><a href="http://www.keele.ac.uk/videowall">Keele University Video Wall</a></p></h4>
                  	</div>  
-
+ -->
 </div>
 <!-- end Top Banner -->  
              
@@ -662,13 +1232,15 @@ $(document).ready(function() {
  	 <div id="contentPage">
      
            <div id="leftCol"> 
-                    <h3>Explore this Section</h3>
-                    <!-- navigation object : Left Navigation --><ul class="subNav"><li><a href="/terms/">Terms and Conditions</a></li><li><a href="/accessibility/">Accessibility</a></li><li><a href="/copyright/">Copyright</a></li><li><span class="currentbranch0">Privacy and Cookies</span></li><li><a href="/feedback/">Feedback</a></li></ul>
+                    <!-- navigation object : Left Navigation --><a class="mobTog" style="">Explore this Section <i class="fa fa-chevron-down"></i></a>
+
+<h3 class="full_h3">Explore this Section</h3>
+<ul class="subNav"><li><a href="/terms/">Terms and Conditions</a></li><li><a href="/accessibility/">Accessibility</a></li><li><a href="/copyright/">Copyright</a></li><li><span class="currentbranch0">Privacy and Cookies</span></li><li><a href="/feedback/">Feedback</a></li></ul>
            </div><!--leftcol-->
 
            <div id="midCol" role="main">
            
-           <!-- navigation object : Breadcrumb --><ul class="breadCrumbs"><li class="first"><a href="/">Home</a>&nbsp;&gt;&nbsp;</li><li><a href="/terms/">Terms and Conditions</a>&nbsp;&gt;&nbsp;</li><li><a href="/privacy/">Privacy and Cookies</a></li></ul>
+           <!-- navigation object : Breadcrumb --><ul class="breadCrumbs"><a href="/"><i class="fa fa-home"></i> </a> / <a href="/terms/">Terms and Conditions</a>&nbsp;<span class="divider">/</span>&nbsp;<li><a href="/privacy/">Privacy and Cookies</a></li></ul>
           <!-- start Page Content -->
 <a id="d.en.54269"></a>
 <h3>Privacy and Cookies</h3>
@@ -677,7 +1249,7 @@ $(document).ready(function() {
 
 <h4 class="togglefallback">Access to Information</h4>
 
-<p><span class="Apple-style-span" style="font-size: 12px; font-weight: normal;">Keele University web servers automatically log each visit that they receive. This data contains some information about you; The Internet address of the computer you are using, the type of browser and operating system you are using and the Internet address of the web site from which you came from. It also contains some connection information such as the page or service you are requesting and the date and time of the request.</span></p>
+<p>Keele University web servers automatically log each visit that they receive. This data contains some information about you; The Internet address of the computer you are using, the type of browser and operating system you are using and the Internet address of the web site from which you came from. It also contains some connection information such as the page or service you are requesting and the date and time of the request.</p>
 <p>This information is used for the sole purpose of statistical information gathering and demographics relating to the University web sites, and enables us to determine general visitor patterns and pathways within our pages. This statistical data is then fed back into future design and usability modifications made to the University web pages.</p>
 </div><div class="toggler-c toggler-c-closed" title="Submission forms and surveys"> 
 
@@ -728,6 +1300,7 @@ $(document).ready(function() {
 <p>We use the information provided to help us improve our site and identify the most popular pages.</p>
 <p>Cookies last between one month and one year.</p>
 <p>For more information on Google analytics we recommend you visit the <a href="http://www.google.com/analytics/features/index.html">Google analytics website</a>.</p>
+<p><span><span>We use&nbsp;</span><a href="https://support.google.com/analytics/answer/2799357?hl=en" target="_blank">Google Analytics Demographics and Interest Reporting</a><span>&nbsp;</span><span>to better understand who is visiting the Keele University website and develop new content around our user' interests.&nbsp;</span><span>You can&nbsp;</span><a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">opt-out</a><span>&nbsp;of Google Analytics for Display Advertising and customise Google Display Network ads using the&nbsp;<a href="https://www.google.co.uk/settings/ads" target="_blank">Ads Settings</a>. In addition, you can use the&nbsp;</span><a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">Google Analytics Opt-Out Browser Add-on</a><span>&nbsp;to disable tracking by Google Analytics.</span></span></p>
 </td>
 </tr>
 <tr>
@@ -735,6 +1308,12 @@ $(document).ready(function() {
 <td>
 <p>We use Skype 'call buttons' on the site to enable you to contact members of the University.</p>
 <p>For more details read the <a href="https://support.skype.com/en-gb/category/PRIVACY__SECURITY/">Skype Privacy pages</a></p>
+</td>
+</tr>
+<tr>
+<td>SocialSignIn</td>
+<td>
+<p>We use SocialSignIn to monitor Keele Social networks. We use a cookie on the Keele website to monitor socially generated website traffic. <a href="http://socialsignin.co.uk/">SocialSignIn</a>.</p>
 </td>
 </tr>
 <tr>
@@ -784,80 +1363,179 @@ $(document).ready(function() {
      
         <div id="footer" role="contentinfo">
         
-                <div id="copyright">
-<!-- navigation object : Footer SOCNET --><a href="/socnet" onclick="_gaq.push(['_trackEvent', 'GlobalFooter', 'Footer', 'Footer_socnet']);"><img src="/media/keeleuniversity/styleassets/images/socneticons/cms_socnet_sm.png" alt="Social Networking icon panel" style="" class=""></a>
-                  
-                   <strong>© Keele University</strong>
-                  <!-- navigation object : Footer Left Logo --><a href="/fairtrade"><img src="/docs/cb/ftlogotxt.png" height="62" width="166" alt="Fairtrade Logo" style="padding-top:2px;"></a>
-                </div>
-             
-                <div id="footInfo">
-                    
-                    <!--<p><strong>Lorem ipsum dolor</strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                    Sed ipsum mi, tincidunt id, vehicula sit amet, luctus sit amet, mi. 
-                    Integer ultrices aliquet risus. Ut pellentesque tincidunt libero.  </p>-->
-                    <!-- navigation object : Footer Links --><!-- start Page Content -->
-<a id="d.en.185"></a>
+  
+          
+<!-- navigation object : kfooter Include 2015 --><!-- start Code -->
+<a id="d.en.132419"></a>
+<div class="kfoot">
+    <section id="footer-col1" class="footer-col">
+ 
+        <h2 class="fkfameg">Using our site</h2>
+        <ul class="footul">
+            <li><a href="/privacy"><i class="fa fa-cog fa-lg"></i> Privacy and cookies</a></li>
+            <li><a href="/accessibility">Accessibility</a></li>
+            <li><a href="/foi">Freedom of information</a></li>
+            <li><a href="/terms">Terms and Conditions</a></li>
+            <li><a href="/feedback">Feedback</a></li>
+            <li><a href="/dpa">Data Protection</a></li>
+            <li><a href="/foi">Freedom of Information</a></li>
+            <li><a href="/paa/governance/charityregistration">Charity Registration</a></li>
+            
+        </ul>
 
-<h6>online facilities:</h6>
-<ul>
-<li><a href="https://diary.keele.ac.uk/egroupware/login.php">Diary</a></li>
-<!-- <li><a href="https://forums.keele.ac.uk">Forums</a></li> -->
-<li><a href="/policyzone">Policy Zone</a></li>
-<li><a href="http://webmail.keele.ac.uk">Webmail</a></li>
-<li><a href="/wireless">Wireless</a></li>
-</ul>
-<div id="footright">
-<ul>
-<li><a href="#top">top of page</a></li>
-</ul>
-<h6><a href="/dpa/">Data Protection</a></h6>
-<h6><a href="/foi/">FOI</a></h6>
-<h6><a href="/paa/governance/charityregistration/">Charity Registration</a></h6>
-<h6><a href="/terms/" title="Feedback, Terms and Conditions">Feedback | Terms and Conditions</a></h6>
+        <h2 class="kfbmeg">Students and Staff</h2>
+        <ul class="footul">
+            <li><a href="http://students.keele.ac.uk"> Student Keele Learning Environment (KLE)</a></li>
+            <li><a href="http://staff.keele.ac.uk"><i class="fa fa-lock fa-lg"></i> Staff Keele Learning Environment (KLE)</a></li>
+            <li><a href="/mobile-app"><i class="fa fa-mobile fa-lg"></i> Mobile App</a></li>
+            <li><a href="http://www.ask-sam.ac.uk"><i class="fa fa-question-circle fa-lg"></i> Ask Sam</a></li>
+            <li><a href="/policyzone/">Policy Zone</a></li>
+        </ul>        
+
+
+
+    </section>
+    <section id="footer-col2" class="footer-col">
+        <h2 class="kfcmeg">Study at Keele</h2>
+        <ul class="footul">
+            <li><a href="/foundationcourses">Foundation Courses</a></li>
+            <li><a href="/studyatkeele/undergraduatestudy">Undergraduate Study</a></li>
+            <li><a href="/studyatkeele/postgraduatetaught">Postgraduate Taught Study</a></li>
+            <li><a href="/pgresearch">Postgraduate Research</a></li>
+            <li><a href="/studyatkeele/cpd">Continuing Professional Development</a></li>
+            <li><a href="/international">International Students</a></li>
+            
+        </ul>
+    </section>
+    <section id="footer-col3" class="footer-col">
+        <h2 class="kfomeg">Quick links</h2>
+        <ul class="footul">
+            <!-- <li><a href="/payments" onclick="ga('send', 'event', 'Global Footer', 'footer-col3', 'Online payments');">Online payments</a></li> -->
+            <li><a href="/studyatkeele/accommodation" title="Accommodation homepage">Accommodation</a></li>
+            <li><a href="/artskeele">Arts Keele</a></li>
+            <li><a href="/admin">Central Services</a></li> 
+            <li><a href="http://www.keele-conference.com">Conferences and Events</a></li>
+            <li><a href="/foodanddrink">Food and Drink</a></li> 
+            <li><a href="/vacancies">Job Vacancies</a></li> 
+            <li><a href="/library">Libraries</a></li> 
+            <li><a href="/visiting"><i class="fa fa-user fa-lg"></i> Open Days and Offer Holder Days</a></li>
+            <li><a href="/studyatkeele/orderaprospectus">Order a prospectus</a></li>
+            <li><a href="/outreach/">Schools and Colleges Outreach</a></li>
+            <li><a href="/llu/"> Language Learning Unit</a></li>
+            <li><a href="/sport">Sport:Keele</a></li>
+            <li><a href="/studentfunding">Student Financial Support</a></li> 
+            <li><a href="/studentservices">Student Support</a></li>
+            <li><a href="/sukpa">Students' Union and Postgraduate Association</a></li>
+            <li><a href="/supportkeele/">Support Keele University</a></li>
+            <li><a href="/greenkeele/"> Sustainability at Keele</a></li>
+        </ul> <!-- .footul -->
+    </section>
+    <section id="footer-col4" class="footer-col">
+        <h2>How to find us</h2>
+        <a class="kfootMap" href="/aboutus/howtofindus"><img src="/media/keeleuniversity/homepageassets/map/UK-Keele.png" alt="Keele Marker on UK Map" style="width : 100px; height : 166px;" class="shake"></a>
+        <div class="kfootaddress">
+            <p>Keele University <br>
+            Staffordshire, UK <br>
+            ST5 5BG</p>
+        </div>
+        <p class="ktel"><i class="fa fa-phone fa-lg"></i><span>Tel: </span><a href="tel:+4401782732000">+44 (0)1782 732000</a></p>
+        <p class="email"><i class="fa fa-envelope-o fa-lg"></i><span>Email: </span><a href="/contactus">Contact us</a></p>
+        <p class="location"><i class="fa fa-map-marker fa-lg"></i><span>Campus Map: </span><a href="/aboutus/howtofindus">Campus map</a></p>
+        <p class="location"><i class="fa fa-map-marker fa-lg"></i><span>Find Us: </span><a href="/aboutus/howtofindus">Find us</a></p>
+
+
+            <div class="kfootsoc">
+                <div class="kfootsocIns"><a href="http://www.twitter.com/KeeleUniversity" class=""><i class="fa fa-twitter-square fa-2x"></i><span>Twitter</span></a></div>
+                <div class="kfootsocIns"><a href="https://www.facebook.com/KeeleUniversity" class=""><i class="fa fa-facebook-square fa-2x"></i><span>Facebook</span></a></div>
+                <div class="kfootsocIns"><a href="http://www.youtube.com/user/KeeleUniversity" class=""><i class="fa fa-youtube-square fa-2x"></i><span>YouTube</span></a></div>
+                <div class="kfootsocIns"><a href="https://www.linkedin.com/edu/school?id=12600" class=""><i class="fa fa-linkedin-square fa-2x"></i><span>LinkedIn</span></a></div>
+                <div class="kfootsocIns"><a href="http://www.instagram.com/keeleuniversity" class=""><i class="fa fa-instagram fa-2x"></i><span>Instagram</span></a></div>
+            </div>
+
+<div class="affil-kfoot">
+<a href="/foodanddrink/socialethical/"><span>Fairtrade</span><img src="/media/keeleuniversity/styleassets/images/FairTrade.png" alt="Fairtrade logo"></a>
+
+
+<a href="/athenaswan/"><span>Athena Swan</span><img src="/media/keeleuniversity/styleassets/images/AthenaSwan.png" alt="Athena Swan logo"></a>
 </div>
-<!-- end Page Content -->
-                </div> 
-           
 
-<!-- navigation object : Save and Share widget --><!-- start Code -->
-<a id="d.en.19131"></a>
-<!-- AddThis Button BEGIN -->
-<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=hallsnet"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=hallsnet"></script>
-<!-- AddThis Button END -->
+    </section>
+    <div class="clear"></div>
+</div>
 <!-- end Code -->
+	          
 
-
-                <div id="address">
-                        <!-- navigation object : Footer Address --><!-- start Code -->
-<a id="d.en.186"></a>
-                                 
-                        <div id="postal" class="vcard">
-                         <div class="org">Keele University</div>
-                         <div class="adr">
-                          <div class="street-address">Keele</div>
-                          <span class="locality">Staffordshire</span>
-                          <span class="postal-code">ST5 5BG</span>
-                         </div>
-                         <div class="tel">+44 (0)1782 732000</div>
-                        </div>
-<!-- end Code -->
-                </div>          
+          
       </div><!--footer-->
 
    </div><!--fadeCorner-->
    
  </div><!--content-->
 
-<!-- navigation object : Pre body tag --><!-- start Code --><!-- mouseflow --><script type="text/javascript">
-   var _mfq = _mfq || [];
-   (function() {
-       var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
-       mf.src = "//cdn.mouseflow.com/projects/ce9fa59a-42bf-4009-9ffa-7b140ffb785a.js";
-       document.getElementsByTagName("head")[0].appendChild(mf);
-   })();
-</script><!-- end mouseflow --><!-- end Code -->
+<!-- navigation object : Pre body tag --><!-- start Code -->        </div> <!-- closing div for pushy Site Content -->
+<script src="/jq/cb_pushy/js/pushy.min.js"></script><!-- end Code -->
+<!-- start Code --><script src="/media/keeleuniversity/styleassets/scripts/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+$(function() {
+	$('.box a').lightBox();
+});
+//]]>
+</script><!-- end Code -->
+<!-- start Code --><link rel="stylesheet" type="text/css" href="/jq/css/custom-theme/jquery-ui-1.8.custom.css"><!-- end Code -->
+<!-- start Code --><script type="text/javascript" src="/jq/toggleElements/jquery.toggleElements.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/jq/toggleElements/toggleElements.css"> 
+
+<script type="text/javascript" src="/jq/toggleElements/cbtoggleElementsReady.js"></script><!-- end Code -->
+<!-- start Code --><!-- track downloads with GA -->
+<script type="text/javascript" src="/jq/cbTrackDownloads/cbTrackDownloads.js"></script><!-- end Code -->
+<!-- start Code --><script type="text/javascript">
+$(document).ready(function(){
+    $(".banner_instance > img").width(745);
+    $(".banner_instance > img").height(175);
+    $(".overlayCurve > img").width(90).height(90);
+    $(".curvedImage > img").width(90).height(90);
+});
+</script><!-- end Code -->
+<!-- start Code --><script type="text/javascript" src="/jq/toc/jquery.tableofcontents.min.js"></script><!-- end Code -->
+<!-- start Code --><script type="text/javascript" src="/jq/cb_toggle/cbtoggle.js"></script><!-- end Code -->
+<!-- start Code --><link rel="stylesheet" type="text/css" href="/jq/animatecss/animate.min.css"><!-- end Code -->
+<!-- start Code --><script type="text/javascript" src="/jq/cb_featureLinks/cb_featureLinks-min.js"></script><!-- end Code -->
+<!-- start Code --><!-- CB April 2015. Commenting out modernizr for now as it's not proved useful in production just yet. Re-enable it to view browser capabilities when testing again. -->
+<!-- <script src="http://www.keele.ac.uk/jq/modernizr/modernizr.min.js" type="text/javascript"></script> --><!-- end Code -->
+<!-- start Code --><script src="/jq/jquery.shorten-master/src/jquery.shorten.js"></script><!-- end Code -->
+<!-- start Code --><script>
+// CB. 2015. iFrame detector. Primarily for KLE.
+$(document).ready(function() {
+		var isInIFrame = (window.location != window.parent.location);
+		if(isInIFrame==true){
+		    // iframe
+ $("#header").css("display", "none");
+ $("#imgBlock").css("display", "none");
+ $("#footer").css("display", "none");	
+ $('body').css('background-image', 'none');
+
+	
+}
+		else {
+		    // no iframe
+		// console.log('page is not iframed');
+		}
+});
+</script><!-- end Code -->
+<!-- start Code --><script>
+$(document).ready(function() {
+		
+	var teasertext = $('#midCol h3:first').text();
+	// console.log(teasertext);
+	$("meta[name='twitter:description']").attr('content', teasertext);
+
+});
+</script><!-- end Code -->
 
 
+<div class="modify-t4-tag">
+<a class="t4Edit-page" href="https://cms.keele.ac.uk/terminalfour/SiteManager?ctfn=content&amp;fnno=30&amp;sid=12593">modify</a>
+</div>
 
-</body></html>
+<link rel="stylesheet" type="text/css" href="/jq/kresp/kresp.css"><script type="text/javascript" src="/jq/kresp/kresp.js"></script></body></html>
