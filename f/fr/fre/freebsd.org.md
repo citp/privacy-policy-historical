@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebsd.org privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601041338id_/http%3A//www.freebsd.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebsd.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221235048id_/http%3A//www.freebsd.org/privacy.html) for the most accurate reproduction.*
 
 # FreeBSD's Privacy Policy
 
