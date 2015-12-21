@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
 
 # About Us | AllAboutCareers
 
@@ -9,14 +9,14 @@
 
 
   * [What can I do?](http://www.allaboutcareers.com/careers) _(1)_
-  * [Career Test](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) _(2)_
+  * [Career Test](http://www.allaboutcareers.com/career-test) _(2)_
   * [Jobs](http://www.allaboutcareers.com/jobs) _(3)_
   * [Employers](http://www.allaboutcareers.com/careers/graduate-employers) _(4)_
   * [Advice](http://www.allaboutcareers.com/careers-advice) _(5)_
   * [News](http://www.allaboutcareers.com/features) _(6)_
-  * [More](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) _(7)_
+  * [More](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) _(7)_
   * [Login](http://www.allaboutcareers.com/login) _(8)_
-  * [Search](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/)
+  * [Search](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/)
   * [Facebook](http://facebook.com/allaboutcareers) [Twitter](http://twitter.com/allaboutcareers) _(9)_
     *     * [Follow](http://twitter.com/allaboutcareers)
   * Get the latest jobs, the best advice and the freshest news. [Sign up](http://www.allaboutcareers.com/register) _(0)_
@@ -87,21 +87,142 @@ When asked to do a presentation during a job interview at an advertising agency,
     *       * T 0203 651 4919
       * M 0781 858 9383
 
-  * Olivia Piepe communications 
+  * Billy Sexton project management 
 
-### Olivia Piepe communications
+### Billy Sexton project management
 
-The communicator, the branding maestro, the West End musicals aficionado.
+The planner, the solutions guy, the East London enthusiast.
 
-#### Worst ever dining experience?
+#### Biggest secret?
 
-After hearing microwave ‘pings’ at a pricey Caribbean restaurant, asking who was cooking the food and being told “Oh, the chef’s not here today.”
+Once I was at a market and there was a person offering free food samples. The sign said ‘Please Take One’ but I took two instead. Mental.
 
-    * E olivia/piepe//allaboutgroup/org
+    * E billy/sexton//allaboutgroup/org
     *       * T 0203 651 4919
-      * M 0786 730 2400
 
 
+
+  * Charlie Mead Account Management 
+
+### Charlie MeadAccount Management
+
+The sports enthusiast, the OCD boy, the charmer.
+
+#### What do you love most in the world?
+
+Sweets. My dentist tells me off but I will always have a packet of sweets in my bag - from Haribo to Fruit Gums, even Pic 'n' Mix on special occasions, I just love sweets.
+
+    * E charlie/mead//allaboutgroup/org
+    *       * T 0203 651 4919
+
+  * Ed Dean Account Management 
+
+### Ed DeanAccount Management
+
+The risk taker, the festival goer, the napper.
+
+#### What are your pet hates?
+
+Loud eaters and slow walkers.
+
+    * E ed/dean//allaboutgroup/org
+    *       * T 0203 651 4919
+
+  * Mike Stocks Business Development 
+
+### Mike StocksBusiness Development
+
+The conversationalist, the wanderer, the culture vulture.
+
+#### A crazy travel experience?
+
+Most of it! Although working in a bar on the coast of Colombia was a bit mental. Lots of rum, lots of sweat and a whole heap of debauchery.
+
+    * E mike/stocks//allaboutgroup/org
+    *       * T 0203 651 4919
+
+  * Rayer Van-Ristell Business Development 
+
+### Rayer Van-RistellBusiness Development
+
+The entrepreneur, the socialite, the Clark Kent lookalike.
+
+#### Best childhood memory?
+
+I cashed a car at the tender age of three. Jumped into the front seat, pulled it in reverse and knocked the door off a brand new Mercedes Benz. Needless to say my Dad wasn’t very happy… Though perhaps slightly proud!
+
+    * E rayer/van-ristell//allaboutgroup/org
+    *       * T 0203 651 4919
+
+
+
+  * Ronan Curran Business Development 
+
+### Ronan Curran Business Development
+
+The smooth operator, the international chatterbox, the baller.
+
+#### Hidden talent?
+
+My name translated from Irish to English (pronounced Roe-nawn) means little seal, and ironically I can balance a football on my forehead for a very long time, akin to a seal. 
+
+    * E ronan/curran//allaboutgroup/org
+    *       * T 0203 651 4919
+      * M 0783 325 4783
+
+  * Laura Edgington Marketing 
+
+### Laura EdgingtonMarketing
+
+The social media suave, the small one, the lover of seafood.
+
+#### Hidden talent?
+
+I can remember a ridiculous amount of quotes from Bridesmaids. #HelpMeImPoor
+
+    * E laura/edgington//allaboutgroup/org
+    *       * T 0203 651 4919
+
+  * Alex Harris Marketing 
+
+### Alex HarrisMarketing
+
+The Google pro, the diplomat, the identical twin.
+
+#### What's an interesting fact about yourself?
+
+I have an identical twin who sometimes comes into work for me when I’m not feeling it. Please don’t tell my manag – ah, rats!
+
+    * E alex/harris//allaboutgroup/org
+    *       * T 0203 651 4919
+
+  * Yeva Agayan Marketing 
+
+### Yeva AgayanMarketing
+
+The search engine sav, the negotiator, the LSE lover.
+
+#### What’s the toughest task at work?
+
+Coming up with something witty for my profile.
+
+    * E yeva/agayan//allaboutgroup/org
+    *       * T 0203 651 4919
+
+
+
+  * Georgia Leefe communications 
+
+### Georgia Leefecommunications
+
+The rhetorician, the pug lover, the wearer of purple.
+
+#### Biggest necessity?
+
+Singing in the shower first thing every morning. It releases endorphins. Nina, Ella and Dolly are my girls.
+
+    * E georgia/leefe//allaboutgroup/org
+    *       * T 0203 651 4919
 
   * Emma Finamore editorial 
 
@@ -118,66 +239,37 @@ Mmmm. Delicious.
     * E emma/finamore//allaboutgroup/org
     *       * T 0203 651 4919
 
-  * Billy Sexton editorial 
+  * Jack ‘Jay’ Collinseditorial 
 
-### Billy Sexton editorial
+### Jack ‘Jay’ Collinseditorial
 
-The scribe, the devoted, the baby of the office.
-
-#### Biggest secret?
-
-Once I was at a market and there was a person offering free food samples. The sign said ‘Please Take One’ but I took two instead. Mental.
-
-    * E billy/sexton//allaboutgroup/org
-    *       * T 0203 651 4919
-      * M 0781 858 9373
-
-  * Georgia Leefe editorial 
-
-### Georgia Leefeeditorial
-
-The rhetorician, the pug lover, the wearer of purple.
-
-#### Biggest necessity?
-
-Singing in the shower first thing every morning. It releases endorphins. Nina, Ella and Dolly are my girls.
-
-    * E georgia/leefe//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Ronan Curran Business Development 
-
-### Ronan Curran Business Development
-
-The smooth operator, the international chatterbox, the baller.
-
-#### Hidden talent?
-
-My name translated from Irish to English (pronounced Roe-nawn) means little seal, and ironically I can balance a football on my forehead for a very long time, akin to a seal. 
-
-    * E ronan/curran//allaboutgroup/org
-    *       * T 0203 651 4919
-      * M 0783 325 4783
-
-
-
-  * Brendan Vella Design 
-
-### Brendan Vella Design
-
-The scribbler, the creator, le geek c’est chic.
+The poet, the jack-of-all-trades, the DJ.
 
 #### Guilty pleasure?
 
-Eating entire packets of things that are either meant to be shared or eaten in more than one sitting. This month it's coconut macaroons. Last month, malt loaves. Admittedly, I don't feel guilty about doing this, but I’m often told I should be.
+I’m absolutely obsessed with darts. Whether it’s playing, watching or just reading about it on the internet, I just can’t seem to get enough of the idea of throwing sharp metal mini-javelins at a board on a wall.
 
-    * E brendan/vella//allaboutgroup/org
+    * E jay/collins//allaboutgroup/org
     *       * T 0203 651 4919
-      * M 0755 381 5891
 
-  * Adam Zapasnik PHP Development 
+  * Josh Krohn Design 
 
-### Adam Zapasnik PHP Development
+### Josh Krohn Design
+
+The maker, the mumbler, the all-day grazer.
+
+#### Hidden talent?
+
+The ability to fall asleep anywhere, anytime, any position, in ten minutes or less. Trains, queues, gigs… Sitting, standing… you name it.
+
+    * E josh/krohn//allaboutgroup/org
+    *       * T 0203 651 4919
+
+
+
+  * Adam Zapasnik Back-End Development 
+
+### Adam Zapasnik Back-End Development
 
 The problem solver, the chuckler, the eating machine.
 
@@ -188,38 +280,12 @@ A mountain of chicken and mashed potato. A cheeky nap. And then another mountain
     * E adam/zapasnik//allaboutgroup/org
     *       * T 0203 651 4919
 
-  * Emma Fleming account management 
-
-### Emma Fleming account management
-
-The huckleberry, the Post-it note girl, the Twitter fiend #EmFlem
-
-#### What’s something you probably shouldn’t admit?
-
-I’m from Essex.
-
-    * E emma/fleming//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Ezgi Bulbul account management 
-
-### Ezgi Bulbul account management
-
-The youngster, the obsessive sneezer, the Turkish delight.
-
-#### How do people react when they first meet you?
-
-Usually people would ask how to say my name approximately 739 times, then ask me to spell it out, then followed by “Ohh Egg-zee!” But also most people seem quite mind-boggled by my luscious eyebrows. Just to clarify, its Ezgi and yes, I did grow my eyebrows all by myself.
-
-    * E ezgi/bulbul//allaboutgroup/org
-    *       * T 0203 651 4919
-
 
 
 
 ## Privacy policy
 
-This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/)].
+This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/)].
 
 All About Careers Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -268,7 +334,7 @@ Your profile on any of the All About Careers Ltd group of websites will only be 
 
 For all users under the age of 18 the default setting is private.
 
-People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20150526222356id_/http%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
+People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
 
 Any personal information you choose to share on the site is at your own risk. Minors aged 13–17 should seek advice and permission from their parents or guardians before sharing personal information.
 
