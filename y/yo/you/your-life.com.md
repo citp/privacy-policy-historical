@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609041313id_/http%3A//www.your-life.com/en/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221120323id_/http%3A//www.your-life.com/en/privacy-statement.php) for the most accurate reproduction.*
 
 # WCD - Privacy Statement
 
