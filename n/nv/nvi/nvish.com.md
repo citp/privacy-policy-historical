@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515050702id_/http%3A//www.nvish.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221145807id_/http%3A//www.nvish.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: NVISH
 
@@ -31,12 +31,22 @@ We collect your personal information, only if you provide it voluntarily. The ty
 
 If you have any questions about this privacy statement, NVISH's information practices, or your dealings with NVISH, you can Contact Us at:
 
-**NVISH Solutions (P) Limited**  
-DLF Info City  
-First Floor, Tower E  
-Chandigarh Technology Park  
-Chandigarh 160101  
+#### India - Chandigarh
+
+**NVISH Solutions Private Limited**   
+B-206A, Second floor, Elante Offices, Industrial Area,   
+Phase 1, Chandigarh - 160002  
+Phone: +91 (172) 433 - 7700  
 Email: [info@nvish.com](mailto:info@nvish.com)
+
+#### India - Mohali
+
+**Netparticipate Solutions LLP**  
+A-40, Phase VIII,   
+Mohali - 160071   
+Phone: +91 (172) 400 - 8501 Email: [info@nvish.com](mailto:info@nvish.com)
+
+#### USA
 
 **NVISH Solutions Inc.**  
 39899 Balentine Drive, Suite 200,  
