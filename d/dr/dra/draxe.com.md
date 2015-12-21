@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030544id_/http%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221152600id_/http%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DrAxe.com
+# Privacy Policy - Dr. Axe
 
 **Privacy Policy for** draxe.com
 
-_Effective Date: January 1, 2013_
+ _Effective Date: January 1, 2015_
 
 At DrAxe.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties.
 
