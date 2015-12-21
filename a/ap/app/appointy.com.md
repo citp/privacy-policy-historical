@@ -1,65 +1,80 @@
-> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224235917id_/http%3A//www.appointy.com/newweb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221111456id_/http%3A//www.appointy.com/privacyPolicy) for the most accurate reproduction.*
 
 # Appointy :: Privacy Policy
 
-Appointy Software, Inc. owns and provides various websites, services, and software that facilitate online scheduling of appointments (collectively, the “Services”). Appointy Software, Inc. respects your privacy and values your trust. In this Privacy Policy, we may refer to Appointy Software, Inc. as “Appointy,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes. “Consumer” shall refer to an end consumer using the Services to schedule or modify an appointment, provide feedback or submit a review, or utilize any other aspect of the Services. “You” shall refer to both Consumers and Business Users. The following Privacy Policy outlines how Appointy will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE.   
+Appointy Software, Inc. owns and provides various websites, services, and software that facilitate online scheduling of appointments (collectively, the “Services”). Appointy Software, Inc. respects your privacy and values your trust. In this Privacy Policy, we may refer to Appointy Software, Inc. as “Appointy,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes. “Consumer” shall refer to an end consumer using the Services to schedule or modify an appointment, provide feedback or submit a review, or utilize any other aspect of the Services. “You” shall refer to both Consumers and Business Users. The following Privacy Policy outlines how Appointy will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE. 
+
 Appointy reserves the right, at its sole discretion, to change, modify, update, add, or remove portions of this Privacy Policy at any time, with or without notice to you. Please check this Privacy Policy periodically for changes. For Business Users, this Privacy Policy will be available in the “My Account” section of the Appointy website. Your continued use of the Services after the posting of any changes to the Privacy Policy will signify your acceptance of those changes. 
 
-  
-_Personally Identifiable Information (“PII”)   _   
+  1. ### Personally identifiable information (“pii”) 
+
 PII is any piece of information which can be traced back to a specific individual user and thus potentially be used to uniquely identify, contact, or locate that specific individual. Examples of PII include names, telephone numbers, social security numbers, credit card numbers and other unique identifiers. In no event will Appointy sell or transfer PII to third parties, or otherwise provide third parties with access thereto, except as specifically provided in this Privacy Policy and/or in our applicable Terms of Use. 
 
-  
-_Consumers_.  If a Consumer chooses to use the Service, the Consumer may elect to provide information including, but not limited to, that Consumer’s name, telephone number, and email address (collectively “Consumer Information”), that may be Personally Identifiable Information. We may also collect credit card information from Consumers in circumstances where a Business User has decided that it requires such information to be collected from Consumers scheduling appointments with it through the Services. We may also collect user submitted information including but not limited to ratings & reviews of businesses and service providers with whom the submitting Consumer has interacted through the Services, and any responses or other postings by a Business User. 
+  2. ### Consumers
 
-  
-_Business Users_.When a Business User registers to use the Services, we may ask that Business User to provide business information including the business name, type of business, email address, telephone number, and street address (“Business Information”). We may also ask Business Users to provide a valid credit card number and billing address so that we can process any payments for use of the Services by such Business User, pursuant to the Business User Terms of Use. Business Users, as registered users of the Services, may modify their account information at any time by accessing the “My Account” section of their Appointy account when such Business User is logged into the Services.   
-You should be aware that if you upload, post, and/or distribute to the Services material, including but not limited to, Personally Identifiable Information, questions, feedback, reviews, data, comments, ratings, suggestions, information, text, data, software, sounds, photographs, podcasts, audio, audiovisual, video, images, graphics, messages and other content or materials of any nature (“User Submitted Materials”), those materials and the substantive information contained in them may be accessible by third parties. The activities of third parties are beyond the control of Appointy. Please do not post any information that you expect to keep private on the Appointy website or in other areas of the Services.   
-In the event that Appointy discovers that personal information has been or is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+If a Consumer chooses to use the Service, the Consumer may elect to provide information including, but not limited to, that Consumer’s name, telephone number, and email address (collectively “Consumer Information”), that may be Personally Identifiable Information. We may also collect credit card information from Consumers in circumstances where a Business User has decided that it requires such information to be collected from Consumers scheduling appointments with it through the Services. We may also collect user submitted information including but not limited to ratings & reviews of businesses and service providers with whom the submitting Consumer has interacted through the Services, and any responses or other postings by a Business User. 
 
-  
-_Use of Personally Identifiable Information._   We do not intentionally provide PII to third parties except where you provide PII when scheduling an appointment through the Services, when registering to use the Services as a Business User, or to indicate interest in services advertised by one of the businesses bookable through the Services. In any of the above situations, we may provide that information to the appropriate Consumer, Business User or advertiser so that they may attempt to schedule an appointment or provide you with information regarding the advertised products or services about which you inquired.   
-If a Consumer provides any Consumer Information or User Submitted Materials to the Services that are relevant to a Business User with whom that Consumer schedules an appointment or otherwise transacts through the Services, Appointy reserves the right to provide such Business User with the relevant Consumer Information and/or User Submitted Materials for purposes of managing the appointment and/or transaction with such Consumer, whether or not such information is Personally Identifiable Information.   
-Appointy reserves the right, pursuant to the Business User Terms of Use, to provide relevant Business Information to third parties in order to maximize the exposure of Appointy businesses online and the number of appointments scheduled through the Services.  
-We may use PII and any other information provided by a Business User or a Consumer through the Services for internal purposes, such as sales, human resources, marketing, and administration. We may share this information with third parties who provide us with administrative services. If we share any of the information collected from you with such a third party, their use of that information will be governed by their privacy policy.   
-If you or any other user of the Services sends an email or provides an email address to Appointy for any reason, we reserve the right to retain that email address to use to send future notifications in accordance with this Privacy Policy and the applicable Appointy Terms of Use.   
+  3. ### Business users
+
+When a Business User registers to use the Services, we may ask that Business User to provide business information including the business name, type of business, email address, telephone number, and street address (“Business Information”). We may also ask Business Users to provide a valid credit card number and billing address so that we can process any payments for use of the Services by such Business User, pursuant to the Business User Terms of Use. Business Users, as registered users of the Services, may modify their account information at any time by accessing the “My Account” section of their Appointy account when such Business User is logged into the Services. 
+
+You should be aware that if you upload, post, and/or distribute to the Services material, including but not limited to, Personally Identifiable Information, questions, feedback, reviews, data, comments, ratings, suggestions, information, text, data, software, sounds, photographs, podcasts, audio, audiovisual, video, images, graphics, messages and other content or materials of any nature (“User Submitted Materials”), those materials and the substantive information contained in them may be accessible by third parties. The activities of third parties are beyond the control of Appointy. Please do not post any information that you expect to keep private on the Appointy website or in other areas of the Services. 
+
+In the event that Appointy discovers that personal information has been or is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+
+  4. ### Use of personally identifiable information
+
+We do not intentionally provide PII to third parties except where you provide PII when scheduling an appointment through the Services, when registering to use the Services as a Business User, or to indicate interest in services advertised by one of the businesses bookable through the Services. In any of the above situations, we may provide that information to the appropriate Consumer, Business User or advertiser so that they may attempt to schedule an appointment or provide you with information regarding the advertised products or services about which you inquired. 
+
+If a Consumer provides any Consumer Information or User Submitted Materials to the Services that are relevant to a Business User with whom that Consumer schedules an appointment or otherwise transacts through the Services, Appointy reserves the right to provide such Business User with the relevant Consumer Information and/or User Submitted Materials for purposes of managing the appointment and/or transaction with such Consumer, whether or not such information is Personally Identifiable Information. 
+
+Appointy reserves the right, pursuant to the Business User Terms of Use, to provide relevant Business Information to third parties in order to maximize the exposure of Appointy businesses online and the number of appointments scheduled through the Services. 
+
+We may use PII and any other information provided by a Business User or a Consumer through the Services for internal purposes, such as sales, human resources, marketing, and administration. We may share this information with third parties who provide us with administrative services. If we share any of the information collected from you with such a third party, their use of that information will be governed by their privacy policy. 
+
+If you or any other user of the Services sends an email or provides an email address to Appointy for any reason, we reserve the right to retain that email address to use to send future notifications in accordance with this Privacy Policy and the applicable Appointy Terms of Use. 
+
 Information and User Submitted Materials provided by a Business User on its profile or elsewhere on the Services will be accessible by Consumers. Information and User Submitted Materials provided by a Consumer, including any personally identifiable information provided when such Consumer schedules an appointment through the Services, will be made available to the Business User with whom the Consumer is scheduling an appointment. 
 
-  
-_Non-Personally Identifiable Information_     
+  5. ### Non-personally identifiable information 
+
 Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual. Examples of non-personally identifiable information include, but are not limited to, the type of internet browser you are using, the type of computer operating system you are using, your IP address, the time and date of your use of the Services, and whether or not you clicked on hypertext links within the Services. We may collect non-personally identifiable information while you use the Services. 
 
-  
-_Use of Non-Personally Identifiable Information_     
-We may use the non-personally identifiable information to generate user statistics that we may provide to prospective advertisers or partners. If we provide any such information to others, we will provide such information in the aggregate only and will not include any personally identifiable information about any individual users. We may also use the non-personally identifiable information to generate statistics that we may provide to you and to other businesses using the Services, including, for example, the number of appointments in a certain time period. We also may provide non-personally identifiable information to contractors so that they can perform services for us.
+  6. ### Use of non-personally identifiable information
 
-  
-_Cookies_   
-Cookies are small text files that are placed on your computer’s hard drive to identify your computer to our servers. If your browser is configured to accept cookies, we will use cookies to recognize your computer when you visit the Services so that we can provide you with a more personalized and streamlined experience and improve the quality of the Services. If you wish, you can configure your browser to block cookies. In order to accept and manage appointments, reservations, or bookings made by Consumers through the Services, however, you must have cookies enabled.  
+We may use the non-personally identifiable information to generate user statistics that we may provide to prospective advertisers or partners. If we provide any such information to others, we will provide such information in the aggregate only and will not include any personally identifiable information about any individual users. We may also use the non-personally identifiable information to generate statistics that we may provide to you and to other businesses using the Services, including, for example, the number of appointments in a certain time period. We also may provide non-personally identifiable information to contractors so that they can perform services for us. 
+
+  7. ### Cookies
+
+Cookies are small text files that are placed on your computer’s hard drive to identify your computer to our servers. If your browser is configured to accept cookies, we will use cookies to recognize your computer when you visit the Services so that we can provide you with a more personalized and streamlined experience and improve the quality of the Services. If you wish, you can configure your browser to block cookies. In order to accept and manage appointments, reservations, or bookings made by Consumers through the Services, however, you must have cookies enabled. 
+
 Advertisements of third-party advertisers may be displayed on the Services. If you choose to click on a third-party advertisement or link, we may provide non-personally identifiable information to the owning advertiser, advertising network and/or web publisher. Also, any such advertiser, advertising network or web publisher may use cookies or other technologies to collect information when you are visiting their web sites. The information advertisers or other third parties collect is governed by their individual privacy policies. Appointy does not take responsibility nor can guarantee the content of such third-party privacy policies. 
 
-  
-_Notifications_   
-We may use such information to send you email messages and other notifications relating to the Services and your use of the Services. We reserve the right to notify you through e-mail, facsimiles, text or voice messages, or notices posted on the Appointy websites, as determined by Appointy in our discretion. By using the Services, you consent to receiving such notifications.   
+  8. ### Notifications
+
+We may use such information to send you email messages and other notifications relating to the Services and your use of the Services. We reserve the right to notify you through e-mail, facsimiles, text or voice messages, or notices posted on the Appointy websites, as determined by Appointy in our discretion. By using the Services, you consent to receiving such notifications. 
+
 Business Users may opt-out of receiving notifications regarding appointments through the Services by logging into their Appointy account and changing the notification settings; opting-out of such notifications, however, will limit the effectiveness of the Services. Notwithstanding the foregoing, neither Business Users nor Consumers may opt-out of receiving notifications relating to support of the Services or other notices as required by law. If we have provided any third party with your personal information, you will have to contact the third-party directly with any opt-out request. 
 
-  
-_Schedule and Appointment Information_   
-Appointy will not share a Business User schedule with anyone, except to the extent necessary to allow Consumers to browse and schedule appointments. We will not share a Consumer’s personal schedule information with anyone except the Business User with whom such Consumer schedules an appointment. Each Business User will be able to access and view only the schedule for that business, and only information relating to appointments for that business.
+  9. ### Schedule and appointment information
 
-  
-_Other Sharing of Information_   
-We may release information when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.appointy.com/newweb/Terms-of-use.html](https://web.archive.org/web/20141224235917id_/http%3A//www.appointy.com/newweb/Terms-of-use.html)).     
+Appointy will not share a Business User schedule with anyone, except to the extent necessary to allow Consumers to browse and schedule appointments. We will not share a Consumer’s personal schedule information with anyone except the Business User with whom such Consumer schedules an appointment. Each Business User will be able to access and view only the schedule for that business, and only information relating to appointments for that business. 
+
+  10. ### Other sharing of information 
+
+We may release information when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [Terms of use](http://www.appointy.com/newweb/Terms-of-use.html)). 
+
 In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership. 
 
-  
-_Child Protection_   
+  11. ### Child protection
+
 We do not offer services to, or target, persons under the age of 13. In compliance with the Children's Online Privacy Protection Act, we will purge any information we receive from people we believe to be children under 13 from our database and cancel the corresponding accounts. 
 
-  
-_Security_   
-We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure, but we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. We cannot ensure the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure of such information. You acknowledge that you provide your personal information at your own risk.  
-Please direct any questions that you may have regarding our Privacy Statement at any time to [ support@appointy.com](mailto:support@appointy.com). 
+  12. ### Security
 
-  
+We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure, but we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. We cannot ensure the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure of such information. You acknowledge that you provide your personal information at your own risk. 
+
+Please direct any questions that you may have regarding our Privacy Statement at any time to [contact@appointy.com](mailto:contact@appointy.com). 
+
+
 
