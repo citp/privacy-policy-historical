@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fattail.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307044423id_/http%3A//adserver.fattail.com/abn/public/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fattail.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221152437id_/http%3A//adserver.fattail.com/abn/public/privacy_policy.html) for the most accurate reproduction.*
 
 # FatTail: We make it easy for online publishers to price, plan, and sell premium guaranteed inventory. We get you from Quote to Cash Quicker!
 
