@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compassionuk.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316085656id_/http%3A//www.compassionuk.org/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassionuk.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221033621id_/http%3A//www.compassionuk.org/cookies-privacy) for the most accurate reproduction.*
 
-# Compassion UK | Christian Child Sponsorship
+# Cookies & Privacy | Christian Child Sponsorship
 
 ### Information Collected Through The Compassion UK website
 
@@ -18,11 +18,15 @@ We will not sell, distribute or lease your personal information to third parties
 
 Cookies are small text files that are placed on your computer by websites that you visit.
 
-To learn more about cookies, you can visit [www.aboutcookies.org](https://web.archive.org/web/20150316085656id_/http%3A//www.compassionuk.org/www.aboutcookies.org). You will also find details on how to block and delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+To learn more about cookies, you can visit [www.aboutcookies.org](http://www.compassionuk.org/www.aboutcookies.org). You will also find details on how to block and delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
 ### The Cookies We Use:
 
-Google Analytics – These cookies collect information about how visitors use a website and help us to continually improve our blog. For instance, which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous.
+**Log-in to myCompassion** – We place a cookie on your computer when you log-in to myCompassion, to save you logging in in future.  This cookie is removed when you log out of myCompassion.
+
+**Suppress the cookie notice** – the first time you load the Compassion UK homepage, you will see a notice at top of the page about cookies.  We place a cookie on your computer when you press X, so that you don’t see this notice in future.
+
+**Google Analytics** – These cookies collect information about how visitors use a website and help us to continually improve our blog. For instance, which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous.
 
 This data helps us to understand:
 
@@ -33,7 +37,7 @@ This data helps us to understand:
 
 
 
-You can find out more about Google’s cookies on their privacy policy: http://www.google.com/intl/en/policies/privacy/. You can also install the Google Analytics Opt-out tools in your browser: https://tools.google.com/dlpage/gaoptout
+You can find out more about Google’s cookies on their privacy policy: <http://www.google.com/intl/en/policies/privacy/> You can also install the Google Analytics Opt-out tools in your browser: <https://tools.google.com/dlpage/gaoptou>t
 
 By using our website, you agree that we can place these types of cookies on your device.
 
@@ -43,4 +47,4 @@ If we decide to change our privacy policy, we will post those changes on the thi
 
 ### External Links
 
-Compassion UK is not responsible for the availability or content of external sites that may be linked to, from the site. If you find a broken link or if you have any questions or concerns about a link, please [contact us](http://www.compassionuk.org/help-contact-us).
+Compassion UK is not responsible for the availability or content of external sites that may be linked to, from the site. If you find a broken link or if you have any questions or concerns about a link, please [contact us](http://www.compassionuk.org/contact).
