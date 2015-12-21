@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gammerson.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511053516id_/http%3A//gammerson.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gammerson.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221213510id_/http%3A//www.gammerson.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,8 @@
 
 ###  _**Privacy Policy for www.gammerson.com**_
 
-If you require any more information or have any questions about our privacy policy, please feel free to contactus by email at himalayasaxena@gmail.com.  
+If you require any more information or have any questions about our privacy policy, please feel free to contactus by email at himalayasaxena@gmail.com.
+
 At ****www.gammerson.com**** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **www.gammerson.com** ****and how it is used.  
 __**Log Files**__
 
@@ -31,5 +32,4 @@ __**DoubleClick DART Cookie**__
 >  You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **www.gammerson.com** ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 >  If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-  
-
+**We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.**
