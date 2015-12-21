@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobsandresults.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613013129id_/http%3A//www.jobsandresults.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsandresults.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221121640id_/http%3A//www.jobsandresults.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - JobsandResults.com
+
+## Privacy Policy
 
 At JobsandResults.com we respects the privacy of it’s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it’s users JobsandResults.com offers a vast repository of Online Sites and variety of community services. You may read ‘[About Us](http://www.jobsandresults.com/about-us/)‘ to know more about [JobsandResults.com](http://www.jobsandresults.com/with-referenceto-jobsandresults-com/). The information about the user as collected by JobsandResults.com is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
