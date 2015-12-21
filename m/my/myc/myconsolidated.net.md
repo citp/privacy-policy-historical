@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myconsolidated.net privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206003428id_/http%3A//www.myconsolidated.net/files/consolidated/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myconsolidated.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221031552id_/http%3A//mycci.net/files/consolidated/privacy_policy.html) for the most accurate reproduction.*
 
 # Consolidated.net - Privacy Policy
 
