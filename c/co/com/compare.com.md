@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614013240id_/http%3A//www.compare.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221155839id_/http%3A//www.compare.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
-# comparenow.com Privacy Policy
+# Compare.com Privacy Policy
 
 As a valued visitor and user of our site, your happiness with our service and trust in our ability to provide that service to you is very important to us. For that reason, we take our security seriously and we respect your right to privacy. Below you’ll find details about our policy regarding your privacy on our site. To explain it briefly, we don’t sell or release your personal information to anyone.  The information with which you provide us will only be given to insurance partners using that information to provide you with an accurate quote for car insurance coverage or to law enforcement agencies seeking that information legally. In short, when you enter your information into our site to receive quotes from trusted auto insurance providers, that’s exactly what you’ll get. We won’t bother you with pesky sales calls or fill your inbox with spam emails. 
 
