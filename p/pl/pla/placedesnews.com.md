@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placedesnews.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619033904id_/http%3A//www.placedesnews.com/index.php%3Fmodule%3DcSite%26action%3Dprivacy%26c_id%3D196) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placedesnews.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221040506id_/http%3A//www.placedesnews.com/index.php%3Fmodule%3DcSite%26action%3Dprivacy%26c_id%3D196) for the most accurate reproduction.*
 
 # Place des News
 
@@ -32,4 +32,4 @@ The "Your News Corner" website maintains appropriate safeguards to ensure the se
 
 The "Your News Corner" website may use such personally identifiable information in the aggregate (non-identifiable) form to make our Web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us : [HERE](https://web.archive.org/web/20150619033904id_/http%3A//www.placedesnews.com/index.php?module=cSite&action=contacts&c_id=196)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us : [HERE](https://web.archive.org/web/20151221040506id_/http%3A//www.placedesnews.com/index.php?module=cSite&action=contacts&c_id=196)
