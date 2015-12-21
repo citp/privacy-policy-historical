@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013712id_/http%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebmafia.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221084019id_/http%3A//celebmafia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CelebMafia
+# Privacy & Cookies Policy - CelebMafia
 
 CelebMafia, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “celebmafia.com” at [http://celebmafia.com](http://celebmafia.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at celebmafia08[at]gmail.com with any questions.
 
@@ -26,7 +26,7 @@ Companies that place ads on the celebmafia.com Web site — including, but not l
 
 ## Cookie Notification and Disabling
 
-Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the celebmafia.com Web site may not function properly if your browser is set to reject cookies.
+You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](http://aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
 ## Personally Identifiable Information
 
