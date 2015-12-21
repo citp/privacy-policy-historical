@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalsdepot.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101920id_/http%3A//www.metalsdepot.com/privacy_policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalsdepot.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221151753id_/http%3A//www.metalsdepot.com/privacypolicy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ Our Commitment To Data Security
 
 Strong precautions are taken to protect the information of the users of our Site. When users submit sensitive information via the Site, that Information is protected both online and off-line.
 
-We take credit card information security seriously and use a variety of technical solutions to make shopping safe at our Site. Furthermore, your information is encrypted and is protected utilizing the industry standard Secure Sockets Layer (SSL) encryption software, secured by VERISIGN®. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+We take credit card information security seriously and use a variety of technical solutions to make shopping safe at our Site. Furthermore, your information is encrypted and is protected utilizing the industry standard Secure Sockets Layer (SSL) encryption software, secured by VERISIGN�. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
 While we use SSL encryption to protect sensitive information online, we also protect user- information off-line. All of the information of our Site's users, including the sensitive information mentioned above, is maintained in a restricted section in our offices. Only those of our employees who need the information to perform a specific job (for example, our account or customer service representatives) are granted access to personally identifiable information. Furthermore, our employees are very aware and fully trained regarding the protection and privacy of your sensitive information.
 
