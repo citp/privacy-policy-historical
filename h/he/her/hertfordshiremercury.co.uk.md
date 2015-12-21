@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217062417id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221012605id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Hertfordshire Mercury | Privacy Policy
 
