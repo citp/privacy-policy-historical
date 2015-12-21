@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxonxxx.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428103402id_/http%3A//xxxonxxx.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxonxxx.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221020657id_/http%3A//xxxonxxx.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Free XXX Videos & Sex Movies - Porn Videos, XXX Blogs
 
