@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildasign.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506164047id_/http%3A//www.buildasign.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildasign.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221214251id_/http%3A//www.buildasign.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - BuildASign
 
