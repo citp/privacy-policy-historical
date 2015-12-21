@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bestfriends.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621170053id_/http%3A//bestfriends.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfriends.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221034931id_/http%3A//bestfriends.org/Privacy-Policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Best Friends Animal Society
-
-Overview
+# Privacy Policy | Best Friends Animal Society
 
 Your privacy is important to Best Friends Animal Society ("Best Friends"). We have developed this website privacy policy ("Privacy Policy") that covers how we collect, use, disclose, transfer and store your information. Please take a moment to familiarize yourself with our practices relating to privacy.
 
-Best Friends is committed to protecting your privacy. This Privacy Policy applies to the Best Friends family of websites, including, but not limited to [www.bestfriends.org](http://www.bestfriends.org/ "www.bestfriends.org"), [www.utahpets.org](http://www.utahpets.org/ "www.utahpets.org"), [www.strutyourmutt.org](http://www.strutyourmutt.org/ "www.strutyourmutt.org"), [www.nkla.org](http://www.nkla.org/ "www.nkla.org"), and [bfla.bestfriends.org](http://bfla.bestfriends.org/) (collectively "Websites") and governs data collection and usage. By using the Best Friends Websites, you consent to the data practices described in this Privacy Policy.
+Best Friends is committed to protecting your privacy. This Privacy Policy applies to the Best Friends family of websites, including, but not limited to [bestfriends.org](http://bestfriends.org/), [utah.bestfriends.org](http://utah.bestfriends.org/), [nkut.org](http://nkut.org/), [ny.bestfriends.org](http://ny.bestfriends.org/), [strutyourmutt.org](http://www.strutyourmutt.org/), [nkla.org](http://nkla.org/), and [la.bestfriends.org](http://la.bestfriends.org/) (collectively "Websites") and governs data collection and usage. By using the Best Friends Websites, you consent to the data practices described in this Privacy Policy.
 
 Please read this Privacy Policy in its entirety to understand how Best Friends will handle the privacy of personal information that you provide through the Websites or through the use of the online Best Friends Web portals. Unless otherwise specified, this Privacy Policy does not describe how Best Friends may handle your personal information in offline situations, which may be affected by additional privacy policies of Best Friends not inconsistent with this Privacy Policy.
 
@@ -20,7 +18,7 @@ Best Friends also has developed Terms of Use describing your responsibilities wh
 
 We will alert you to changes in this website Privacy Policy by sending you an email at the last email address that you provided us, and/or by prominently posting notice of such amendment on the Websites covered by this Privacy Policy. Please note that, at all times, you are responsible for updating your personal information to provide us with your current email address. In the event that the last email address that you have provided to us is not valid, or for any other reason is not capable of delivering to you the notice described above, our sending of the email containing the notice of amendment will nonetheless constitute effective notice.
 
-What information does Best Friends collect?
+**What information does Best Friends collect?**
 
 In several areas of the Websites, Best Friends collects personally identifiable information, such as your name, home address, email address, and telephone number.
 
@@ -28,13 +26,13 @@ Best Friends also collects anonymous demographic information, which is not uniqu
 
 We may collect information about your interaction with the Websites. For example, we may use website analytic tools on the Websites to retrieve information from your browser, such as the site you came from, the search engine(s) and the keywords you used to find the Websites, and the pages you view within the Websites. We will also use technologies, such as cookies and Web beacons (both described below), to collect information about the pages you view, the links you click on and other actions you take on the Websites. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
 
-Does Best Friends collect information about children?
+**Does Best Friends collect information about children?**
 
 The Websites are directed at a general audience and Best Friends does not knowingly collect or store personally identifiable information about children under the age of 13.
 
 Any of our sites that are directed at children under the age of 13 comply with the standards of the Children's Online Privacy Protection Act (COPPA), which are in addition to this Privacy Policy.
 
-Is my personal information secure?
+**Is my personal information secure?**
 
 We provide Website visitors with a secure experience when making a donation or purchasing merchandise through our Websites. When personal information is transmitted by Best Friends to other websites, it is protected through the use of industry-standard security technology, such as the Secure Socket Layer (SSL) protocol. To further enhance security, stored donation and order information is also encrypted to prevent unauthorized access to the data.
 
@@ -42,7 +40,7 @@ Although we use industry-standard safeguards to secure the privacy of your perso
 
 In addition, on certain Website pages we offer visitors the opportunity to provide comments or other user-generated content on blogs and articles. Any information that you disclose when posting a message to these areas, along with the screen name or ID used, becomes public. We are not responsible for any personally identifiable information that you choose to disclose in the public areas of our Websites.
 
-How does Best Friends use my personal information?
+**How does Best Friends use my personal information?**
 
 Except as expressly set forth in this Privacy Policy we will not willfully disclose your personally identifiable information to any third party without first receiving your permission.
 
@@ -66,11 +64,11 @@ We may share aggregated demographic information with our funders, such as grant-
 
 Best Friends may release personal information if we believe that the law or legal process served on Best Friends requires it, to protect and defend the rights or property of Best Friends, or in an emergency, to protect the personal safety of an identifiable visitor or the public.
 
-What about becoming a registered user or subscriber?
+**What about becoming a registered user or subscriber?**
 
 In order to access certain areas on our Websites, you must first complete certain steps to become either a registered user or a subscriber. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as your name, ZIP code and email address. This information is used to help us understand who uses our Websites, to operate and improve our Websites, and to deliver the services or carry out the transactions you have requested.
 
-How does Best Friends use cookies?
+**How does Best Friends use cookies?**
 
 The Best Friends website uses "cookies" to ensure the integrity of the registration process and to help you personalize your online experience. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
 
@@ -80,14 +78,14 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 To protect our visitors, cookies do not save payment or credit card information. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Best Friends services or Websites you visit.
 
-How does Best Friends use Web beacons?
+**How does Best Friends use Web beacons?**
 
 Best Friends Web pages may contain electronic images known as Web beacons (sometimes called single-pixel GIFs), which may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver services. We may include Web beacons in promotional email messages or our newsletters in order to determine whether messages have been opened and acted upon.
 
 Best Friends may also employ Web beacons from third parties to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information.
 
-How can I comment on the Best Friends Privacy Policy?
+**How can I comment on the Best Friends Privacy Policy?**
 
 Best Friends welcomes your comments regarding this Website Privacy Policy. If you believe that Best Friends has not adhered to this policy, please contact Best Friends at [privacy@bestfriends.org](mailto:privacy@bestfriends.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
- _[Revised: 2/12/2014]_
+_[Revised: 2/12/2014]_
