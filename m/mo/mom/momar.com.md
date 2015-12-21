@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momar.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623035543id_/http%3A//www.momar.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momar.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221162300id_/http%3A//momar.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Momar
 
