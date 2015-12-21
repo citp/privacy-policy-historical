@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoppingwish.in privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619145457id_/http%3A//scandid.in/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppingwish.in privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221054112id_/http%3A//scandid.in/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Scandid - a fast and free barcode scanner based price comparison app for India</title>
@@ -184,7 +184,7 @@ $(document).ready(function(){
 						var url = '/home/facebookLogin';
 					   //$(location).attr('href',url+"?cUrl="+encUrl);
 					   // $(location) is not working in IE, so using normal javascript
-					   window.location = url+"?cUrl="+encUrl;
+					   window.location = url+"?cUrl="+encUrl+"&auto=1";
 					}
 				}
 			});
@@ -216,11 +216,11 @@ $(document).ready(function(){
         var form_data = "p="+pId+"&pt="+title+"&at="+inStock+"&user_action="+user_action;
         if(pId)
         {
-            var rUrl = url+"?p="+pId+"&pt="+title+"&at="+inStock+"&user_action="+user_action+"&cUrl="+currentUrl;
+            var rUrl = url+"?p="+pId+"&pt="+title+"&at="+inStock+"&user_action="+user_action+"&cUrl="+currentUrl+"&auto=0";
         }
         else
         {
-            var rUrl = url+"?cUrl="+currentUrl;
+            var rUrl = url+"?cUrl="+currentUrl+"&auto=0";
         }
         FB.getLoginStatus(function(response) {
             if (response.status === 'connected') {
@@ -353,45 +353,36 @@ $(document).ready(function(){
 					href = href.replace('//', '/');
 				}
                 if(item.type == "book")
-                {/*
-                    if(elCountB ==1 )
-                    {
-                       $( "<li class='auto_separator heading_text'></li>" )
-        				.data( "item.autocomplete", item )
-        				.append( "Books" )
-        				.appendTo( ul );
-                        elCountB ++ ;
-                    }*/
+                {
                     if(item.label != "No result found.")
                     {
         	        	return $( "<li></li>" )
         					.data( "item.autocomplete", item )
-        					.append( "<a href='"+href+"'><span class='autocomplete-imagea-span'><img class='auto_image' style='padding:2px;float:left;max-width:45px;max-height:45px;' alt='"+ item.label +"' src='"+ item.img +"'/></span><span class='autolabel'>" + item.label +"</span><span class='autocomp_sublabel'>From Rs. "+ item.finalPrice + " | " + item.numTotalStores + (item.numTotalStores > 1 ? " Sellers": " Seller") + (item.numInstockStores > 0 ? " | In Stock": " | Out of Stock") + (item.numCoupons > 0 ? " | " + item.numCoupons + " money saving coupons" : "") + "</span></a>" )
+        					.append( "<a href='"+href+"'><span class='autocomplete-imagea-span'><img class='auto_image' style='padding:2px;max-width:45px;max-height:45px;' alt='' src='"+ item.img +"'/></span><span class='autolabel'>" + item.label +"</span><span class='autocomp_sublabel'>From Rs. "+ item.finalPrice + " | " + item.numTotalStores + (item.numTotalStores > 1 ? " Sellers": " Seller") + (item.numInstockStores > 0 ? " | In Stock": " | Out of Stock") + (item.numCoupons > 0 ? " | " + item.numCoupons + " money saving coupons" : "") + "</span></a>" )
         					.appendTo( ul );
                     }
                 }
                 else if(item.type == "phrase")
-                {
+                {//new RegExp("[^"+rep+"]*", "gi"),
+                    var rep = $.trim(this.term);
+                    var regx = new RegExp(rep, "gi")
+                    var t = String(item.label).replace(regx,"<span class='fontBold'>$&</span>");                    
+                    
+                    var arr = item.label.split("in");
+                    var remainingStr = arr[1];
+                    var t = String(t).replace(remainingStr,"<span style='color:blue;'>$&</span>");    
                     return $( "<li></li>" )
     				.data( "item.autocomplete", item )
-    				.append( "<a > <img style='margin: 0px 10px 0px 3px;' src='http://cdn.scandid.in/images/autocomplete-lens.png'/>" + item.label +"</a>" )
+    				.append( "<a > <img style='margin: 0px 10px 0px 3px;' src='http://cdn.scandid.in/images/autocomplete-lens.png'/>" + t +"</a>" )
     				.appendTo( ul );
                 }
                 else
-                {/*
-                    if(elCountP ==1 )
-                    {
-                        $( "<li class='auto_separator heading_text'></li>" )
-        				.data( "item.autocomplete", item )
-        				.append( "Products" )
-        				.appendTo( ul );
-                        elCountP ++ ;
-                    }*/
+                {
                     if(item.label != "No result found.")
-                    {
+                    {                        
         	        	return $( "<li></li>" )
         					.data( "item.autocomplete", item )
-        					.append( "<a href='"+href+"'><span class='autocomplete-imagea-span'><img class='auto_image' style='padding:2px;float:left;max-width:45px;max-height:45px;' alt='"+ item.label +"' src='"+ item.img +"'/></span><span class='autolabel'>" + item.label +"</span><span class='autocomp_sublabel'>From Rs. "+ item.finalPrice + " | " + item.numTotalStores + (item.numTotalStores > 1 ? " Sellers": " Seller") + (item.numInstockStores > 0 ? " | In Stock": " | Out of Stock") + (item.numCoupons > 0 ? " | " + item.numCoupons + " money saving coupons" : "") + "</span></a>" )
+        					.append( "<a href='"+href+"'><span class='autocomplete-imagea-span'><img class='auto_image' style='padding:2px;max-width:45px;max-height:45px;' alt='' src='"+ item.img +"'/></span><span class='autolabel'>" + item.label +"</span><span class='autocomp_sublabel'>From Rs. "+ item.finalPrice + " | " + item.numTotalStores + (item.numTotalStores > 1 ? " Sellers": " Seller") + (item.numInstockStores > 0 ? " | In Stock": " | Out of Stock") + (item.numCoupons > 0 ? " | " + item.numCoupons + " money saving coupons" : "") + "</span></a>" )
         					.appendTo( ul );
                     }
                     else
@@ -429,7 +420,27 @@ $(document).ready(function(){
             $(".search-btn-bg").click(function(){
                 $("#search_frm").submit();
             });
+            var swGlobalCookieName = "SWGlobal";
             $("#search_frm").submit(function(){
+                /* search track user cookie - SHRIKAR 27-01-15*/
+                /*
+                    var date = new Date();
+					date.setTime(date.getTime()+(30*24*60*60*1000));
+					var expires = "; expires="+date.toGMTString();
+                    var data = getCookie(swGlobalCookieName)?getCookie(swGlobalCookieName):0;
+                    // if "swpromo" already set
+                    var trackid = $('#sw_trackid').val();
+                    if(data.toLowerCase().indexOf("searchusertrack=") >= 0)
+                    {
+                        var searchusertrack = getCookieParamVal(swGlobalCookieName,'searchusertrack');
+                        data = data.replace("searchusertrack="+searchusertrack,"searchusertrack="+trackid);
+                    }
+                    else
+                    {
+                        data = data+"|searchusertrack="+trackid;
+                    }
+                    document.cookie = swGlobalCookieName+"="+data+expires+"; domain="+baseDomain+"; path=/";*/
+                /*END */
                 var $search_q = $("#product_key").val();
                 if($.trim($search_q) != ""){
                     return true;
@@ -1339,7 +1350,7 @@ function sendAskQuestion()
                 				<div class="four">
                     <div>
     					<a href="http://ad.apps.fm/MyujgQqAjVExzWAa9eCCU15KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYfRcOs90VTYQk2iZvcgAwuewWimSnmJgPQXAz4HHvjp-Pl0S7jOUG2M3_Y25xwob0i" target="_blank" class="displayinlineblock"><span class="scandid-googleplay"></span></a>
-                        <a href="https://itunes.apple.com/us/app/price-comparison-shopping/id773536950?mt=8" target="_blank" class="displayinlineblock marL15"><span class="scandid-appstore"></span></a>
+                        <a href="https://itunes.apple.com/in/app/price-comparison-shopping/id773536950?mt=8" target="_blank" class="displayinlineblock marL15"><span class="scandid-appstore"></span></a>
                     </div>
 					<a href="javascript:void(0)" onclick="closePopup()"><span class="scandid-bullet-button">Continue to Scandid on the web</span></a>
 				</div>
