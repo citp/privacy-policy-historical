@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestreviews.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617220059id_/http%3A//bestreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestreviews.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221084452id_/http%3A//bestreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ We take our users' privacy very seriously. If you have any questions regarding o
 
 BestReviews is wholly owned and operated by BestReviews Inc.
 
-By using BestReviews content, you accept our Terms and Conditions which includes this Privacy Policy. If you do not want to be bound by BestReviews’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using BestReviews’ content.
+By using BestReviews content, you accept our Terms and Conditions which includes this Privacy Policy. If you do not want to be bound by BestReviews’ Privacy Policy, or Terms and Conditions, your only remedy is to stop using BestReviews’ content.
 
 Information Sharing
 
