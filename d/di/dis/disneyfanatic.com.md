@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disneyfanatic.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625031645id_/http%3A//www.disneyfanatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyfanatic.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221151115id_/http%3A//www.disneyfanatic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – DisneyFanatic.com
 
 **Privacy Policy**
 
@@ -10,7 +10,7 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie, Google Analytics Advertising Reporting Features and Google Analytics Remarketing Data Collection for Advertising Features.. enables Google to serve ads to our users based on their visits to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](https://support.google.com/ads/answer/2662922?hl=en)
 
 **What do we use your information for?**
 
