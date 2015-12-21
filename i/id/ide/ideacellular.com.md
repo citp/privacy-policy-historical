@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526182612id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221180613id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.*
 
 # Idea Cellular – Cell Phone Services |3G, Prepaid, Postpaid & Wireless Internet
 
@@ -15,9 +15,7 @@ a. The information we collect about you will depend on the IDEA products and ser
 
 
 
-b. We also collect information about how you use our products and services, such as: Call data records, tracking website usage information and other information that you may provide to us from time to time for the services that you receive from IDEA. . We may use cookies and other techniques, such as web beacons, to collect information about how you use our websites, and web-related products and services. This allows us to customise our website for you so that it is relevant to your interests and needs. 
-
-From our business partners and third parties, if required for business. 
+b. We collect information about how you use our products and services, and during this process we collect information such as: Your Call data records, your traffic data such as the phone numbers that you call and send messages to (and the phone numbers that you receive calls and messages from) and the date, time, duration and cost of your communications including your phone location at the time these communications are made. We collect your spend, your device details, your phone usage (including voice, messaging, web/ WAP use, application use), your purchasing habits, your location, your searching and browsing history (including the date, time and duration of your internet session) and your preferences (i.e. tracking our website usage information and other information that you may provide to us from time to time for the services that you receive from IDEA. We may use cookies and other techniques, such as web beacons, to collect information about how you use our websites, and web-related products and services. This allows us to customize our website for you so that it is relevant to your interests and needs. If required for business and to provide better services to you, we may acquire your information from our business partners and third parties (during our business association with them), while you are availing their service through us. If you give us information about another person (who is an IDEA Subscriber or otherwise), perhaps when they receive a service you are paying for or a service you have recommended, we expect you to be responsible for ensuring that they know we are keeping records about them and we are processing their personal information in accordance with this privacy policy.
 
 ### Use of Personal Information:
 
@@ -48,6 +46,7 @@ a. Your personal information may be used & analysed for various lawful purposes 
   * Understand how our different customers use our network, products and services so we can develop more interesting and relevant products and services for our customers, as well as personalise the products and services we offer you;
   * Carry out research and statistical analysis and monitor customer use of our network, products and services on an anonymous or personalised basis;
   * Ensure adherence to legal regulatory & business requirements for prevention and detection of frauds and crimes.
+  * While launching new services and products (promotional offers) for the benefit of our subscribers, we may also share your information pertaining to your usage (including voice, messaging, web/ WAP use, application use, data usage), to your acquaintance/s who is/are an IDEA Subscriber/s (or otherwise) within the realm of the Privacy Policy.
 
 
 
