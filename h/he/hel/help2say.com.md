@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the help2say.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117063337id_/http%3A//www.help2say.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help2say.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221070141id_/http%3A//languagelearningbase.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Help2Say
+# Privacy policy - Language Learning Base
 
-Respecting users privacy is an important core principle of this Q&A forum. Information on this page details how this forum protects your privacy, and what type of information is collected. 
+Respecting users privacy is an important core principle of languagelearningbase.com. Information on this page details how our site protects your privacy, and what type of information is collected.
 
 ### Site Visitors
 
@@ -23,3 +23,5 @@ Forum software relies on the internet cookie technology to keep track of user se
 ### Policy Changes
 
 These policies may be adjusted to improve protection of user's privacy. Whenever such changes occur, users will be notified via the internal messaging system. 
+
+...
