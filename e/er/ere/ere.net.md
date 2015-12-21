@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515153826id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221105310id_/http%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ERE.net
+# Privacy Policy | ERE Media
 
 **ERE MEDIA, INC. PRIVACY POLICY**
 
