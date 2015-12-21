@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technogiants.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622104418id_/http%3A//technogiants.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technogiants.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221233730id_/http%3A//technogiants.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
