@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodtv.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073402id_/http%3A//www.shawmedia.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtv.ca privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221113750id_/http%3A//www.shawmedia.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Shaw Media
 
@@ -6,7 +6,7 @@
 
 #### Introduction
 
-Shaw Media Inc. (“Shaw Media”) and its affiliates and subsidiaries (collectively, the “Shaw Media Companies”) are committed to controlling the collection, use and disclosure of personal information provided by the customers and employees of each Shaw Media Company and have adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information.
+Shaw Media Inc. (“Shaw Media”) and its subsidiaries (collectively, the “Shaw Media Companies”) are committed to controlling the collection, use and disclosure of personal information provided by the customers and employees of each Shaw Media Company and have adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information.
 
 #### Application
 
@@ -26,13 +26,18 @@ The following defined terms are used throughout this Privacy Policy:
 ---|---  
   
   
-(b) | corresponds with a Shaw Media Company;  
+(b) | 
+
+corresponds with a Shaw Media Company;  
+  
+(c) | 
+
+uses a website owned by a Shaw Media Company;  
+  
+(d) | uses a mobile application owned by a Shaw Media Company; or  
   
   
-(c) | uses a website owned by a Shaw Media Company; or  
-  
-  
-(d) | enters a contest sponsored by a Shaw Media Company.  
+(d) | enters a contest sponsored by or administered by a Shaw Media Company.  
   
 **employee** – means an employee, former employee or pensioner of a Shaw Media Company and, for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of Shaw Media.
 
@@ -95,10 +100,11 @@ _**Each Shaw Media Company will identify the purpose for which personal informat
   | (a) | administering payroll and employee benefit programs;  
   | (b) | conducting performance evaluations and discipline;  
   | (c) | effecting employee training;  
-  | (d) | conducting internal reviews, investigations and complaint resolution processes;  
-  | (e) | participating in union negotiations and labour arbitrations;  
-  | (f) | facilitating transactional due diligence reviews; and  
-  | (g) | complying with legal and regulatory obligations.  
+  | (d)     | providing references regarding current or former employees in response to requests from prospective employers;  
+  | (e) | conducting internal reviews, investigations and complaint resolution processes;  
+  | (f) | participating in union negotiations and labour arbitrations;  
+  | (g) | facilitating transactional due diligence reviews; and  
+  | (h) | complying with legal and regulatory obligations.  
   
   
 2.8 | The purposes for which the personal information of customers is collected may include, but is not limited to:  
@@ -109,15 +115,16 @@ _**Each Shaw Media Company will identify the purpose for which personal informat
   | (c) | establishing and maintaining commercial relations;  
   | (d) | developing, marketing or providing products and services;  
   | (e) | recommending particular products and services;  
-  | (f) | conducting market research and surveys;  
-  | (g) | managing and developing business opportunities;  
-  | (h) | conducting investigations and complaint resolution processes;  
-  | (i) | administering contests or other promotions;  
-  | (j) | facilitating transactional due diligence reviews; and  
-  | (k) | complying with legal and regulatory obligations.  
+  | (f)     | providing information to you about developments and new products;  
+  | (g) | conducting market research and surveys;  
+  | (h) | managing and developing business opportunities;  
+  | (i) | conducting investigations and complaint resolution processes;  
+  | (j) | administering contests or other promotions;  
+  | (k) | facilitating transactional due diligence reviews; and  
+  | (l) | complying with legal and regulatory obligations.  
   
   
-2.9 | Anonymous or “non-personal” information gathered by a Shaw Media Company through its web site may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by a Shaw Media Company to analyze its markets and to develop or enhance service offerings.  
+2.9 | Anonymous or “non-personal” information gathered by a Shaw Media Company through its web sites and mobile applications may be used for technical, research and analytical purposes, including to improve our websites and mobile applications. Information collected through surveys, existing files and public archives may be used by a Shaw Media Company to analyze its markets and to develop or enhance service offerings.  
   
 #### Principle 3 – Consent
 
@@ -156,7 +163,7 @@ _**Except where required or permitted by law, the knowledge and consent of the i
 3.7 | Generally, the use of products and services by a customer, or the acceptance of employment or benefits by an employee, constitutes implied consent for the Shaw Media Companies to collect, use and disclose personal information for all identified purposes.  
   
   
-3.8 | An individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. The Shaw Media Companies will inform individuals of the implications of withdrawing consent. Customers and employees may contact the relevant Shaw Media Company for more information regarding the implications of withdrawing consent.  
+3.8 | An individual may withdraw consent at any time, subject to legal or contractual restrictions and upon providing Shaw Media reasonable notice. If you wish to withdraw your consent to certain collection, use or disclosure of personal information, please contact Shaw Media at [privacy@shaw.ca](mailto:privacy@shaw.ca). Please note that if you refuse or withdraw your consent, we may not be able to provide you with a particular product or service. We will explain the impact on you at the time, to help you with your decision.   
   
 #### Principle 4 – Limiting Collection
 
@@ -169,7 +176,13 @@ _**The Shaw Media Companies shall limit the collection of personal information t
 4.2 | The requirement that personal information be collected by fair and lawful means is intended to prevent a Shaw Media Company from collecting information by misleading or deceiving individuals about the purpose for which information is being collected. Consent to the collection of personal information must not be obtained through deception.  
   
   
-4.3 | The Shaw Media Companies use a browser feature called a "cookie" to collect information anonymously and track user patterns on Shaw Media websites. A cookie is a small text file that is placed on your hard disk by a website. "Cookies" contain a unique identification number that identifies your browser, but not you, to our computers each time you visit one of our websites. Cookies tell us which pages of our websites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites.  
+4.3 | **Use of Cookies:** The Shaw Media Companies use a browser feature called a "cookie" to collect information anonymously and track user patterns on Shaw Media websites and mobile applications. A cookie is a small text file that is placed on your hard disk or mobile device by a website. "Cookies" contain a unique identification number that identifies your browser or mobile device, but not you personally, to our computers each time you visit one of our websites. Cookies tell us which pages of our websites and mobile applications are visited and by how many devices. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser or mobile device to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites and mobile applications.  
+  |   
+4.4     | 
+
+**Third Party Cookies and Advertisements:** The Shaw Media Companies follow industry privacy standards for online advertising. Some of the advertisements you see on the Shaw Media Companies' websites and mobile applications are delivered by third party advertisers, Internet advertising companies that work on Shaw's behalf or advertising networks. These third parties may place and access cookies on your browser and use these cookies or other technology to help deliver ads that are tailored to your interests and to track their performance. This is commonly known as "online behavioural" or "interest-based" advertising. In addition to helping advertisers reach the right people for their products and services, online behavioural advertising helps support our websites so that you enjoy free content. 
+
+You can opt-out of several third party ad servers' and networks' cookies simultaneously by using a tool created by the Digital Advertising Alliance of Canada located at <http://youradchoices.ca/> or a tool created by the Network Advertising Initiative located at <http://www.networkadvertising.org/managing/opt_out.asp>. You can also access these websites to learn more about online behavioural advertising and how to control cookies from being placed on your device. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.   
   
 #### Principle 5 – Limiting Use, Disclosure and Retention
 
@@ -196,7 +209,7 @@ _**Personal information shall not be used or disclosed for purposes other than t
 5.3 | A Shaw Media Company may disclose the personal information of its customers:  
   
   
-  | (a) | to third parties who are acting on our behalf as our agents, suppliers or service providers;  
+  | (a) | to third parties who are acting on our behalf as our agents, suppliers or service providers who are subject to confidentiality requirements;  
   | (b) | to other Shaw Media Companies;  
   | (c) | to internal or external legal counsel and auditors;  
   | (d) | to the management personnel of each Shaw Media Company;  
@@ -211,7 +224,7 @@ _**Personal information shall not be used or disclosed for purposes other than t
 5.4 | Except as required or permitted by law, when disclosure is made to a party other than a Shaw Media Company or a third party provider of personal information processing services, the consent of the individual shall be obtained and reasonable steps shall be taken to ensure that any such third party has personal information privacy procedures and policies in place that are at least comparable to those implemented by the Shaw Media Companies. Such third party service providers are provided only with such information as is necessary in the circumstances. Personal information provided to third parties may be used only for the purpose stipulated and is subject to strict terms of confidentiality.  
   
   
-5.5 | In the event that a third party service provider is located in the United States or another foreign country, customer and employee personal information may be processed and stored in the United States or such other foreign country. In such circumstances, the governments, courts or law enforcement or regulatory agencies of that country may be able to obtain access to your personal information through the laws of the foreign country (for example, the USA Patriot Act in the United States). Whenever the Shaw Media Companies engage a third party service provider, we confirm that its privacy and security standards adhere to this Privacy Policy and applicable privacy legislation.  
+5.5 | In the event that a third party service provider is located in the United States or another foreign country, customer and employee personal information may be processed and stored in the United States or such other foreign country. In such circumstances, the governments, courts or law enforcement or regulatory agencies of that country may be able to obtain access to your personal information through the laws of the foreign country (for example, the USA Patriot Act in the United States). Whenever the Shaw Media Companies engage a third party service provider, we confirm that its privacy and security standards adhere to this Privacy Policy and applicable Canadian privacy legislation.  
   
   
 5.6 | Unless authorized by the customer, the Shaw Media Companies will not sell, lease or trade the personal information of their employees or customers to third parties.  
@@ -308,4 +321,4 @@ Any changes to our Privacy Policy and information handling practices will be ack
 
 Any changes to our Privacy Policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we feel it is appropriate to do so. You may determine when this Privacy Policy was last updated by referring to the date found at the bottom of this Privacy Policy.
 
- _Last revised Thursday, November 25, 2010._
+ _Last revised Monday, February 2, 2015._
