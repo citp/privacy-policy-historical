@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ghfgroup.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527193224id_/http%3A//www.ghfinancials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghfgroup.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221063300id_/http%3A//ghfinancials.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Website: Privacy policy
+# Privacy Policy
 
-G. H. Financials (G. H. Financials Limited, G. H. Financials, LLC, and G. H. Financials (Hong Kong) Ltd (“we”, “us” or “our”)) are committed to protecting and respecting your privacy.
+G. H. Financials (G. H. Financials Limited, G. H. Financials, LLC, and G. H. Financials (Hong Kong) Ltd (“we”, “us” or “our”)) are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms & Conditions](https://web.archive.org/terms-use/ "Terms of Use") of Use and [Cookie Policy](https://web.archive.org/cookie-policy/ "Cookie Policy") together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
+This policy (together with our [Terms & Conditions](http://www.ghfinancials.com/terms-use/ "Terms of Use") of Use and [Cookie Policy](http://www.ghfinancials.com/cookie-policy/ "Cookie Policy") together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is G. H. Financials Ltd of 4th Floor, 29 Ludgate Hill, London, EC4M 7JR (registration number 02775278).
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is G. H. Financials Ltd of 4th Floor, 29 Ludgate Hill, London, EC4M 7JR (registration number 02775278).
 
-This Privacy Policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
+This Privacy Policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
 
 ### Information we may collect from you
 
@@ -36,7 +36,7 @@ We may obtain information about your general internet usage by using a cookie fi
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.
 
-Please see our separate [Cookie Policy](https://web.archive.org/cookie-policy/ "Cookie Policy") which details our use of cookies on www.ghfinancials.com.
+Please see our separate [Cookie Policy](http://www.ghfinancials.com/cookie-policy/ "Cookie Policy") which details our use of cookies on www.ghfinancials.com.
 
 ### Where we store your personal data
 
@@ -72,9 +72,9 @@ We may disclose your personal information to third parties:
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at enquries@ghfinancials.com.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at enquries@ghfinancials.com.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 ### Access to information
 
