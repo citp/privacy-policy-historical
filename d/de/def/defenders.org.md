@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621131737id_/http%3A//www.defenders.org/defenders-wildlife-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221104323id_/http%3A//www.defenders.org/defenders-wildlife-privacy-policy) for the most accurate reproduction.*
 
 # Defenders of Wildlife Privacy Policy | Defenders of Wildlife
 
@@ -39,7 +39,7 @@ Thank you email explaining what you have registered for
   
 In addition to the single email you will automatically receive above, Defenders of Wildlife may send you additional emails IF you choose to receive further emails from them.
 
-**Defenders of Wildlife will not give, sell or share your email address with other organizations except as specifically required to carry out the given action you requested. For example, if you send a message through our systems to your** **U.S.** **Senators, your message will be sent to them from your email address. For a full description of our privacy policy and the protection of your personal information, please see Privacy Policy below. (Note: Defenders of Wildlife works with our sister organization, Defenders of Wildlife Action Fund ([www.defendersactionfund.org](http://www.defendersactionfund.org/)). Both organizations may contact you in a manner consistent with that described above and below in this privacy policy.)**
+**Defenders of Wildlife will not give, sell or share your email address with other organizations except as specifically required to carry out the given action you requested. For example, if you send a message through our systems to your** **U.S.** **Senators, your message will be sent to them from your email address. For a full description of our privacy policy and the protection of your personal information, please see Privacy Policy below. Defenders of Wildlife  may contact you in a manner consistent with that described above and below in this privacy policy.**
 
 **PRIVACY POLICY**  
 We at Defenders of Wildlife (Defenders) want this website to be a safe and private place for users. Defenders will do its part by not requiring you to register or provide any information at all to use most of the basic features of this and our other websites. We also provide opportunities for greater personalization of content and offerings to enhance your experience if you choose. In turn, you can do your part by reading this policy, making your own informed decisions, and taking the precautions outlined below.
@@ -55,7 +55,7 @@ There are certain actions and areas of the site that will require you to provide
 
 This privacy policy does not apply when you use this website as a portal to click through to other websites including certain shopping websites affiliated with Defenders of Wildlife. For example, Defenders of Wildlife merchandise is sold through an affiliated website with its own privacy policy. Please review the new site’s privacy policy to determine the treatment and collection of your information if you leave this site.
 
-We will update this privacy policy as we deem necessary, so please be sure to reread it from time to time. By submitting your personal information to us, you are agreeing that Defenders of Wildlife and [Defenders of Wildlife Action Fund](http://www.defendersactionfund.org/about_us/index.html) may use the information in accordance with this privacy policy.
+We will update this privacy policy as we deem necessary, so please be sure to reread it from time to time. By submitting your personal information to us, you are agreeing that Defenders of Wildlife may use the information in accordance with this privacy policy.
 
 If you have questions regarding this privacy policy, please contact us by sending an email to [myprivacy@defenders.org](mailto:myprivacy@defenders.org) or through the address at the end of this privacy policy below.
 
@@ -70,9 +70,9 @@ In order to utilize certain features of our site or receive information from Def
 
 
 
-Defenders of Wildlife works with our sister organization, Defenders of Wildlife Action Fund ([www.defendersactionfund.org](http://www.defendersactionfund.org/)). Both organizations may contact you in a manner consistent with that described above and below in this privacy policy.
+Defenders of Wildlife may contact you in a manner consistent with that described above and below in this privacy policy.
 
-Many of our websites are jointly operated by Defenders of Wildlife and our sister organization, Defenders of Wildlife Action Fund. These sites include: Defenders Wildlife Action Center ([http://action.defenders.org](http://action.defenders.org/)), and Defenders sentinel sites such as [www.saveesa.org](http://www.saveesa.org/), [www.savearcticrefuge.org](http://www.savearcticrefuge.org/), and [www.wolfcampaign.org](http://www.wolfcampaign.org/). Your privacy will be protected on these sites in accordance with this privacy policy as they are on websites operated solely by Defenders of Wildlife. websites jointly operated by Defenders of Wildlife and Defenders of Wildlife Action Fund will be clearly noted—typically in the footer.
+Many websites are operated by Defenders of Wildlife including Defenders Wildlife Action Center ([http://action.defenders.org](http://action.defenders.org/)), and Defenders sentinel sites such as [www.savearcticrefuge.org](http://www.savearcticrefuge.org/). Your privacy will be protected on these sites in accordance with this privacy policy as they are on websites operated solely by Defenders of Wildlife. 
 
 You should be aware that we use third-party vendors to provide services on this site and in our business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our database, sending e-mail messages to activists, facilitating our fundraising activities and campaigns, or processing credit card transactions) on our behalf.
 
@@ -106,7 +106,7 @@ Defenders only will use Remember Me persistent cookies on your computer if you o
 
 See "Your Help is Needed" section below for more information on protecting your information.
 
-**Defenders of Wildlife and Defenders of Wildlife Action Fund share cookies across our sites.** In other words, if you navigate between sites owned and operated by Defenders of Wildlife and Defenders of Wildlife Action Fund during one session, session cookies will be used as described above. Likewise, if you choose to opt-in to Remember Me persistent cookies on this site or any other site owned and operated by Defenders of Wildlife, these cookies will make the same features and functionality available on sites owned and operated by Defenders of Wildlife Action Fund. The converse is also true. If you opt-in to Remember Me cookies via a Defenders of Wildlife Action Fund site, the uses above will persist on Defenders of Wildlife sites.
+If you choose to opt-in to Remember Me persistent cookies on this site or any other site owned and operated by Defenders of Wildlife, these cookies will make the same features and functionality available on other sites owned and operated by Defenders of Wildlife.
 
 **Disabling Cookies:** Persistent cookies leave a record on your computer that you have visited our sites. However, you have the ability to remove cookies from your computer. Your Internet browser's "Help" section will give you information on how to delete cookies. In addition, there are many websites that provide browser- and operating system-specific information on how to delete cookies. When thinking about whether you want to delete cookies, you should be aware that some sites require cookies to function properly. After you delete cookies, you may have to re-register with some sites or you may notice difficulty in browsing some sites.
 
@@ -133,17 +133,18 @@ Although Defenders does its best to protect your privacy on this and our other w
 
 
 
-**How to Unsubscribe or Contact Defenders of Wildlife About Your Information** :  
-If you do not want to receive any email from us in the future, visit your personal subscription management page to deactivate your account at [http://action.defenders.org/rememberme](http://action.defenders.org/site/PageServer?pagename=rememberme) . Note that your donation and action history will remain in Defenders’ databases, but we will not send you email. _You also may change your email address or other contact information through this page. You also may unsubscribe via the unsubscribe link that we include in every email._
+**How to Unsubscribe or Contact Defenders of Wildlife About Your Information:**
 
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, you can contact:
-
-You can send an email to: [myprivacy@defenders.org](mailto:myprivacy@defenders.org)
+If you have any questions about this Privacy Policy, would like to stop receiving email from us in the future or need to update your email or other contact information, you can send an email to: [myprivacy@defenders.org](mailto:myprivacy@defenders.org). Note that your donation and action history will remain in Defenders’ databases, but we will not send you email if you request to be unsubscribed. You also may unsubscribe via the unsubscribe link that we include in every email.
 
 You also can contact us via mail at:
 
-Online Communications  
-Defenders of Wildlife  
-National Headquarters  
-1130 17th Street, NW  
+Donor Services
+
+Defenders of Wildlife
+
+National Headquarters
+
+1130 17th Street, NW
+
 Washington, DC 20036
