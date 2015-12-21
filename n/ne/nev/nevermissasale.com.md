@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nevermissasale.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623005533id_/http%3A//nevermissasale.com/privacyterms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevermissasale.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221064801id_/http%3A//nevermissasale.com/privacyterms.html) for the most accurate reproduction.*
 
 # NEVER MISS A SALE Privacy Policy and Terms of Service
 
@@ -102,3 +102,5 @@ Violation of any of these agreements will result in the termination of your NEVE
     6. A statement that the information in the notification is accurate, and, under the pains and penalties of perjury, that you are authorized to act on behalf of the copyright owner.
 
 
+
+* * *
