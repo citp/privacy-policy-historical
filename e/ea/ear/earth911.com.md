@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811213204id_/http%3A//www.earth911.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221090619id_/http%3A//www.earth911.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Earth911.com
-
-## Privacy Policy
+# Privacy Policy - Earth911.com
 
 We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
@@ -13,7 +11,7 @@ Earth911 Inc. (“Earth911”) offers services, features, content, applications 
 When you use the Services, Earth911 automatically receives and records information on our server logs from your browser or mobile platform, including but not limited to your location, IP address, cookie information, and the page you requested. We treat this data as non-Personal Information, except where we are required to do otherwise under applicable law. Earth911’s purpose in collecting non-personally identifying information is to better understand how Earth911’s visitors use its Services. Earth911 only uses this data in aggregate form. We may provide aggregate information to our partners about how our customers, collectively, use our site, so that our partners may also understand how often people use their services and our Service.
 
 **Gathering of Personally-Identifying Information**  
-Our servers automatically record information (“Log Data”) created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
+Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
 
 **Aggregated Statistics**  
 Earth911 may collect statistics about the behavior of visitors to its website. For instance, Earth911 may monitor the most popular search items or the most widely read articles. Earth911 may display this information publicly or provide it to others. However, Earth911 does not disclose personally-identifying information other than as described below.
@@ -34,7 +32,7 @@ In the unlikely event that Earth911 goes out of business, enters bankruptcy or a
 Ads appearing on the Services may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Earth911 and its service providers and does not cover the use of cookies by any advertisers. For information about how to opt out of receiving behavioral advertisements from our advertising partners, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Comments**  
-Your open and honest comments are encouraged on Earth911′s website. Earth911 asks that you please be respectful: any comments using hate-speech or profanity will be deleted. Users who repeatedly spam the website will be banned. Also, solicitations of any kind will be removed. Comments may be removed at the sole discretion of Earth911′s Administrators. Comments and other content submitted to us becomes our property.
+Your open and honest comments are encouraged on Earth911's website. Earth911 asks that you please be respectful: any comments using hate-speech or profanity will be deleted. Users who repeatedly spam the website will be banned. Also, solicitations of any kind will be removed. Comments may be removed at the sole discretion of Earth911's Administrators. Comments and other content submitted to us becomes our property.
 
 **Privacy Policy Changes**  
 Although most changes are likely to be minor, Earth911 may change its Privacy Policy from time to time, and in Earth911’s sole discretion. Earth911 encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such changes.
