@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616125143id_/http%3A//www.belleproperty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221050948id_/http%3A//www.belleproperty.com/privacy) for the most accurate reproduction.*
 
-# Privacy in Belle Property Australasia | belleproperty.com.au
+# Privacy
 
 At Belle Property your privacy is important to us and as such we ensure that we handle your information in accordance with the National Privacy Principles as set out in the 2000 Privacy Act.
 
