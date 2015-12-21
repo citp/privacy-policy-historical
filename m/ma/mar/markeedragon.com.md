@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701074123id_/http%3A//www.markeedragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221153517id_/http%3A//markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Markee Dragon
+# Markee Dragon Game Codes,Markee Dragon News,Dragon Media Entertainment LLC -Privacy Policy | Markee Dragon News
 
 Protecting your private information is our priority. This Statement of Privacy applies to all the the Markee Dragon sites including the forums, our store and governs data collection and usage. The MDN website is a News ,Forums and information site. By using the MDN website, you consent to the data practices described in this statement.
 
