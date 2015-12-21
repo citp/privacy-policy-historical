@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the companywiki.in privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622024222id_/http%3A//www.companywiki.in/wiki-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the companywiki.in privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221084151id_/http%3A//www.companywiki.in/wiki-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
  <title>Privacy-Policy | Companywiki</title>
@@ -7,7 +7,7 @@
 <base href="http://www.companywiki.in/">
 
 <meta charset="UTF-8">
-<meta name="generator" content="Query time: 0.0015 s (1 Queries) // Parse time: 0.0612 s // Total time: 0.0627 s // Source: cache">
+<meta name="generator" content="Query time: 0.0004 s (1 Queries) // Parse time: 0.0859 s // Total time: 0.0863 s // Source: cache">
 <meta name="rating" content="mature">
 <meta name="author" content="companywiki.in">
 <meta name="robots" content="all,index,follow">
@@ -20,30 +20,30 @@
 <meta property="og:image" content="http://www.companywiki.in/assets/template/company-wiki/images/logo-2.png">
 <meta property="og:description" content="description goes here">
 <meta property="og:site_name" content="companywiki">
-<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 <!--<link rel="apple-touch-icon" sizes="76x76" href="assets/template/company-wiki/images/touch-icon-iphone.png">
 <link rel="apple-touch-icon" sizes="120x120" href="assets/template/company-wiki/images/touch-icon-iphone-retina.png">
 <link rel="apple-touch-icon" sizes="152x152" href="assets/template/company-wiki/images/touch-icon-ipad-retina.png">-->
 
-<link href="assets/template/company-wiki/css/style.css?v=1.30" type="text/css" rel="stylesheet">
-<link href="assets/template/company-wiki/css/media.css?v=1.30" type="text/css" rel="stylesheet">
+<link href="assets/template/company-wiki/css/style.css?v=3.02" type="text/css" rel="stylesheet">
+<link href="assets/template/company-wiki/css/media.css?v=3.02" type="text/css" rel="stylesheet">
 <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 <link rel="icon" type="image/x-icon" href="/assets/icons/modx_favicon.png">
-<link href="assets/template/company-wiki/jquery/jquery-ui-1.11.0/jquery-ui.css?v1.0" type="text/css" rel="stylesheet">
+<link href="assets/template/company-wiki/jquery/jquery-ui-1.11.0/jquery-ui.css?v=3.02" type="text/css" rel="stylesheet">
 
 <!--boostrap -->
 <!--boostrap -->
 <link href="assets/template/company-wiki/css/ui.totop.css" rel="stylesheet">
-<link href="assets/template/company-wiki/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/template/company-wiki/css/bootstrap.min.css?v=3.02" rel="stylesheet">
 <link href="assets/template/company-wiki/css/bootstrap-theme.min.css" rel="stylesheet">
 
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="assets/template/company-wiki/js/jquery.min.js" type="text/javascript"></script> 
 <script src="assets/template/company-wiki/jquery/jquery-ui-1.11.0/jquery-ui.js" type="text/javascript"></script>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js?v=3.02"></script>
 <script src="assets/template/company-wiki/js/ga.js" async="" type="text/javascript"></script>
 <script src="assets/template/company-wiki/js/modernizr.js"></script>
 <!--[if lt IE 9]>
@@ -116,10 +116,12 @@ $(function() {
 		},
 		minLength: 2,
 		focus: function( event, ui ) {
-			$( "#topSearchInput" ).val( ui.item.label );
-				return false;
+			//$("#topSearchInput").val(ui.item.label);
+			return false;
 		},
 		select: function(event,ui) {
+
+			$("#topSearchInput").val(ui.item.label);
 			var searchType = $('#topSearchSelect').val();
 
 			var delimeter = '/';
@@ -194,8 +196,8 @@ $(window).load(function() {
                                  <li><a href="about-site"><span class="wikicon glyphicon glyphicon-globe"></span>About Site</a> </li>
                                 </ul>
                            	</li>
-							<li><a href="report-type"><span class="wikicon glyphicon glyphicon-file"></span>Reports</a></li>
-							<li><a href="subscription"><span class="wikicon glyphicon glyphicon glyphicon-usd"></span>Pricing</a></li>
+							<!--<li><a href="report-type"><span class="wikicon glyphicon glyphicon-file"></span>Reports</a></li>-->
+							<!--<li><a href="subscription"><span class="wikicon glyphicon glyphicon glyphicon-usd"></span>Pricing</a></li>-->
 							<li><a href="knowledge"><span class="wikicon glyphicon glyphicon glyphicon-random"></span>Knowledge</a></li>
 							<li><a href="contact-us"><span class="wikicon glyphicon glyphicon-phone-alt"></span>Contact Us</a>
 							</li>
@@ -210,11 +212,11 @@ $(window).load(function() {
 	<div class="topRight clearfix">
 		<div class="s-Icon">
 			<ul class="clearfix">
-				<li title="Cart" id="crt">
+				<!--<li title="Cart" id="crt">
 					
-					<span class="carticon3" onclick="div_show()"> </span> 
-					<span class="cartNum" onclick="div_show()"> 0 </span>
-				</li>
+					<span class="carticon3" onclick ="div_show()"> </span> 
+					<span class="cartNum" onclick ="div_show()"> 0 </span>
+				</li>-->
 				<li title="Facebook">
 					<a href="https://www.facebook.com/CompanyWiki.in" target="_blank">
 						<span class="fb"></span>
@@ -259,6 +261,66 @@ $(window).load(function() {
 <div class="mainWidth clearfix">
 <div class="leftLogo"><a href="http://www.companywiki.in/" title="http://www.companywiki.in/"><img alt="Company Wiki" src="assets/template/company-wiki/images/small-logo.png" title="Company Wiki"> </a></div>
 <!-- !OnChangeScript -->
+
+<script type="text/javascript">
+(function($) {
+	$.fn.clearSearch = function(options) {
+		var settings = $.extend({
+			'clearClass' : 'clear_input',
+			'divClass' : this.clearClass + '_div',
+			'focusAfterClear' : true,
+			'linkText' : '&times;'
+		}, options);
+		return this.each(function() {
+			var $this = $(this), btn;
+			if (!$this.parent().hasClass(settings.divClass)) {
+				$this.wrap($this.html());
+				$this.after('<a style="position: absolute; font-size : 33px; text-decoration:none; cursor: pointer;" class="' + settings.clearClass + '">' + settings.linkText + '</a>');
+			}
+			btn = $this.next();
+
+			function clearField() {
+				$this.val('').change();
+				triggerBtn();
+				if (settings.focusAfterClear) {
+					$this.focus();
+				}
+				if (typeof (settings.callback) === "function") {
+					settings.callback();
+				}
+			}
+
+			function triggerBtn() {
+				if (hasText()) {
+					btn.show();
+				} else {
+					btn.hide();
+				}
+				update();
+			}
+
+			function hasText() {
+				return $this.val().replace(/^\s+|\s+$/g, '').length > 0;
+			}
+
+			function update() {
+				var width = $this.outerWidth(), height = $this.outerHeight();
+				btn.css({
+					//top : height / 2 - btn.height() / 2,
+					top : -5,
+					//left : width - height / 2 - btn.height() / 2
+					left : 530
+				});
+			}
+
+			btn.on('click', clearField);
+			$this.on('keyup keydown change focus', triggerBtn);
+			triggerBtn();
+		});
+	};
+})(jQuery);
+</script>
+
 <div class="header_search_drop_down">
 	<div class="main-rightSearch clearfix">
 		<form action="search-result/" method="post" class="form">
@@ -266,14 +328,23 @@ $(window).load(function() {
 				<select name="searchlist" id="topSearchSelect" class="top_search_select">
 					<option value="Company">Company</option><option value="Cin">Cin</option><option value="Director">Director</option><option value="Din">Din</option>
 				</select>
-				<input id="topSearchInput" type="text" name="SearchValue" value="" placeholder="ENTER COMPANY / CIN / DIN / DIRECTOR NAME">
+				<input id="topSearchInput" class="clearable" type="text" name="SearchValue" value="" placeholder="ENTER COMPANY / CIN / DIN / DIRECTOR NAME">
 			</div>
 			<div class="inner_searchBox"></div>
 			<input type="hidden" name="start" value="search">
 			<input class="rightSearchbtn" type="submit" value="Search">
 		</form>
 	</div>
-</div></div>
+</div>
+
+
+<script type="text/javascript">
+$(function() {
+	// init plugin (with callback)
+	$('.clearable').clearSearch({ callback: function() { console.log("cleared"); } } );
+});
+</script>
+</div>
 </div>
 </header>
 
@@ -343,7 +414,7 @@ $(document).ready(function() {
 		<div class="footerNavi clearfix">
 			<a href="http://www.companywiki.in/">Home</a>
 			<a href="wiki-policy">Privacy Policy</a>
-			<a href="shipping-and-delivery-policy">Shipping &amp; Refunds</a>
+			<!--<a href="shipping-and-delivery-policy">Shipping & Refunds</a>-->
 			<a href="wiki-disclaimer">Disclaimer</a>
 			<a href="terms-and-conditions">Terms &amp; Conditions</a>
 			<a href="contact-us">Contact Us </a>
