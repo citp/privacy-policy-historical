@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildvisit.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618220405id_/http%3A//buildvisit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildvisit.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221052844id_/http%3A//buildvisit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of BuildVisit
 
@@ -35,9 +35,17 @@ We implement a variety of security measures when a user places an order enters, 
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers. 
 
-**Do we use 'cookies'?**
+### Cookies
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too. 
+
+**What are cookies?**
+
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another. 
+
+**How do we use cookies?**
+
+A number of our pages use cookies to: 
 
   * Help remember and process the items in the shopping cart.
   * Understand and save user's preferences for future visits.
@@ -45,8 +53,9 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
+**Google**
 
 **If users disable cookies in their browser:**
 
@@ -64,13 +73,16 @@ However, non-personally identifiable visitor information may be provided to othe
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-**Google**
+  
+**Google Adsense**
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+**Google Analytics**
 
- **COPPA (Children Online Privacy Protection Act)**
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of domainsigma.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. We may use the 3rd-party audience data (such as age, gender, and interests) by Google Analytics, to analyze and provide a much better service through our website.
+
+**COPPA (Children Online Privacy Protection Act)**
 
 When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
