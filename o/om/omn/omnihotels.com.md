@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the omnihotels.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614060802id_/http%3A//www.omnihotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnihotels.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221181516id_/http%3A//www.omnihotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Omni Hotels & Resorts | Privacy Policy
 
-This Statement was last updated on 02/02/2015
+This Statement was last updated on 11/23/2015
 
 Omni Hotels & Resorts® respects the privacy of all our guests, and we are committed to protecting it. To best serve you throughout this Web site, you may be asked to provide a variety of information, such as name, mailing address, telephone number, email address, credit card information, etc. This information will allow us to provide a personalized experience for each visitor to our Web site.
 
@@ -10,7 +10,7 @@ This Web site does not collect, save or store any personal information from visi
 
 In order to become a member of the Select Guest® and DISCOVERY guest loyalty program, you must first complete an enrollment form. During enrollment, new members are required to provide certain contact information. We use this information to create a member profile of your previous and future stays at Omni Hotels and GHA member brands hotels and resorts and other information for which you’ve expressed an interest. The member may provide unique identifiers (such as username and password), among other information. Such information enables us to provide a more personalized experience for our members on our Web site, as well as to direct relevant communications to them. Omni Hotels may inform you by email of our available services, products, specials and sweepstakes. You may opt in or out of receiving these materials at any time.
 
-Agents or contractors of Omni Hotels & Resorts and affiliates who have access to your personal information are required to keep the information confidential and not to use it for any other purpose than to carry out the services they are performing for Omni Hotels. Omni Hotels & Resorts and affiliates will not sell or distribute any of your personal information to any outside organization for marketing or solicitation without your permission.
+Agents, contractors or marketing partners of Omni Hotels & Resorts and affiliates who have access to your personal information are required to keep the information confidential and not to use it for any other purpose than to carry out the services they are performing for Omni Hotels. Omni Hotels & Resorts and affiliates will not sell or distribute any of your personal information to any outside organization for marketing or solicitation without your permission.
 
 **SECURITY OF PERSONAL INFORMATION**  
 Omni Hotels & Resorts is committed to the security of the data collected on this Web site, and treat all information you provide us as confidential. We use secure socket layer (SSL) encryption technology to secure the privacy of credit card information, name, address, email and other information you provide us. To better serve you when you are using this site, we also use “cookies” to help us recognize your preferences and selections.
