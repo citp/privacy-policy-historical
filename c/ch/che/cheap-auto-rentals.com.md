@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheap-auto-rentals.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621210107id_/http%3A//www.cheap-auto-rentals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheap-auto-rentals.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221022240id_/http%3A//www.cheap-auto-rentals.com/privacy.php) for the most accurate reproduction.*
 
 # cheap-auto-rentals.com - Privacy Policy
 
