@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122182045id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221082545id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
@@ -132,8 +132,8 @@ In the United States:
 
 Attn: Privacy Officer  
 GuySpy  
-176 E Jewett Blvd, Suite 185  
-White Salmon, WA 98672-0050  
+1685 H Street, Suite 1071  
+Blaine, WA 98230  
 Email: [Privacy Officer](mailto:privacy@guyspy.com)
 
 Alternatively, you may send us an email at [privacy@guyspy.com](mailto:privacy@guyspy.com) with the words “California Privacy Rights” in the subject line.  
@@ -147,12 +147,12 @@ If you have questions about this Policy, please contact us at [privacy@guyspy.co
 
 Attn: Privacy Officer  
 GuySpy  
-176 E Jewett Blvd, Suite 185  
-White Salmon, WA 98672-0050  
+1685 H Street, Suite 1071  
+Blaine, WA 98230  
 Email: [Privacy Officer](mailto:privacy@guyspy.com)
 
   * **LAST REVISION DATE**
 
 
 
-This Policy was last revised on, and effective as of, September 3, 2013.
+This Policy was last revised on, and effective as of, May 13, 2015.
