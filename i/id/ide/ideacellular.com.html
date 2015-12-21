@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ideacellular.com privacy policy that was archived on 2015-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526182612id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideacellular.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221180613id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
@@ -23,7 +23,33 @@ top.location = self.location;
 <meta http-equiv="X-Frame-Options" content="deny">
 
  <script type="text/javascript">
+ var mobNumberPre='';
+//alert("mobNumberPre---"+mobNumberPre);
+ var mobNumberPost='';
+//alert("mobNumberPost---"+mobNumberPost);
+ var mobNumberNonIdea='';
+ var mobNumberCorp=''; 
+ var LOB_value="";
+ var circlefromProfile="";
+
+ 
+ if(mobNumberPre==null || mobNumberPre=="null"){
+	System.out.println("mobNumberPre---"+mobNumberPre);
+ 	mobNumberPre="";
+ }
+ if(mobNumberPost==null || mobNumberPost=="null"){
+    System.out.println("mobNumberPre---"+mobNumberPre);
+ 	mobNumberPost="";
+ }
+ if(mobNumberNonIdea==null || mobNumberNonIdea=="null"){
+ 	mobNumberNonIdea="";
+ }
+ if(mobNumberCorp==null || mobNumberCorp=="null"){
+ 	mobNumberCorp="";
+ } 
+ //alert("mobNumberPre"+mobNumberPre+" mobNumberPost"+mobNumberPost);
  var cirId = '';
+//alert("cirId--"+cirId);
  </script>
 <script>
 var selctedPlanType='';
@@ -44,6 +70,8 @@ var selctedPlanType='';
 <script type="text/javascript" src="/ISC/scripts/jquery.glide.js"></script>
 <script type="text/javascript" src="/ISC/scripts/global.js"></script>
 <script type="text/javascript" src="/ISC/scripts/idea-wcm-scripts.js"></script>
+<script type="text/javascript" src="/ISC/scripts/IdeaWcmCircleMappings.js"></script>
+<script type="text/javascript" src="/ISC/scripts/IdeaWcmValidations.js"></script>
 
 
 <!-- Google Tag Manager -->
@@ -86,27 +114,99 @@ catch (e) { }
       document.createElement('footer');
    </script>
 <![endif]-->
+<script>
 
+
+
+
+function callSessionCheck(destination){
+    var x=document.getElementById("redirectUrlForm");
+if(x!=null){
+x.parentNode.removeChild(x);
+//alert("removed");
+}
+var x=document.getElementById("redirectUrlDiv");
+//alert(mrp+" "+talktime+" "+validity+" "+cirId+""+mobNumberPre);
+
+var createForm=document.createElement('form');
+createForm.setAttribute("action",destination);
+createForm.setAttribute("id","redirectUrlForm");
+createForm.setAttribute("method","post");
+if(destination=="https://care.ideacellular.com/wps/portal/account/account-login"){
+    createForm.setAttribute("target","_blank");
+}
+x.appendChild(createForm);
+
+if(destination=="https://care.ideacellular.com/wps/portal/account/online-recharge"){
+var field1=document.createElement('input');
+field1.setAttribute("id","mobileNumber");
+field1.setAttribute("name","mobileNumber");
+field1.setAttribute("type","hidden");
+field1.setAttribute("value",mobNumberPre);
+createForm.appendChild(field1);
+}else if(destination=="https://care.ideacellular.com/wps/portal/account/express-paybill"){
+var field1=document.createElement('input');
+field1.setAttribute("id","mobileNumber");
+field1.setAttribute("name","mobileNumber");
+field1.setAttribute("type","hidden");
+field1.setAttribute("value",mobNumberPost);
+createForm.appendChild(field1);
+}else{ // when destination is anything else than online recharge or express bill pay... like recharge now or my account
+if(mobNumberPre==""){
+var field1=document.createElement('input');
+field1.setAttribute("id","mobileNumber");
+field1.setAttribute("name","mobileNumber");
+field1.setAttribute("type","hidden");
+field1.setAttribute("value",mobNumberPost);
+createForm.appendChild(field1);
+/*
+var field2=document.createElement('input');
+field2.setAttribute("id","lob");
+field2.setAttribute("name","lob");
+field2.setAttribute("type","hidden");
+field2.setAttribute("value","Post");
+createForm.appendChild(field2); */
+}else{
+var field1=document.createElement('input');
+field1.setAttribute("id","mobileNumber");
+field1.setAttribute("name","mobileNumber");
+field1.setAttribute("type","hidden");
+field1.setAttribute("value",mobNumberPre);
+createForm.appendChild(field1);
+/*
+var field2=document.createElement('input');
+field2.setAttribute("id","lob");
+field2.setAttribute("name","lob");
+field2.setAttribute("type","hidden");
+field2.setAttribute("value","Pre");
+createForm.appendChild(field2); */
+}
+}
+
+x=document.getElementById("redirectUrlForm");
+x.submit();
+}
+</script>
        <header>
         <div id="ideaLogo" class="fltlft" style="z-index: 9990;"> <a onclick="generateHomePageURL()" href="#"> <img src="/ISC/images/ideaLogo.jpg" width="76" height="46" alt="Idea"> </a> </div>
 
 <div id="abGroupLogo" class="fltrt" style="z-index: 9980;"><a href="#" onclick="callPopup('the Aditya Birla Group\'s website','http://www.adityabirla.com/home')"><img id="adityaGroup" src="/ISC/images/abGroupLogo.jpg" width="85" height="42" alt="Aditya Birla Group"></a>
 
     </div>
-
-        <div id="headerLink" class="fltrt" style="z-index: 9970;">
+<div id="redirectUrlDiv" style="z-index: 9970;"></div>
+        <div id="headerLink" class="fltrt" style="z-index: 9960;">
           <ul>
-            <li><a href="https://care.ideacellular.com/wps/portal/account/online-recharge" target="_blank">Online Recharge</a></li>
-            <li><a href="https://care.ideacellular.com/wps/portal/account/express-paybill" target="_blank">Express Bill Pay</a></li>
-            <li><a href="https://care.ideacellular.com/wps/portal/account/account-login" target="_blank">My Account</a></li>
+            <li><a href="javascript:callSessionCheck('https://care.ideacellular.com/wps/portal/account/online-recharge');">Online Recharge</a></li>
+            <li><a href="javascript:callSessionCheck('https://care.ideacellular.com/wps/portal/account/express-paybill');">Express Bill Pay</a></li>
+            <li><a href="javascript:callSessionCheck('https://care.ideacellular.com/wps/portal/account/account-login');">My Account</a></li>
             <li><a href="/customer-care/overview">Customer Care</a></li>
           </ul>
         </div>
       </header>
-      <div class="clearfloat" style="z-index: 9960;"></div>
-      <div id="mainMenuSocialIcon" style="z-index: 9950;"> 
+      <div class="clearfloat" style="z-index: 9950;"></div>
+      <div id="mainMenuSocialIcon" style="z-index: 9940;"> 
         <!-- B. Main menu -->
-        <div id="mainMenu" class="fltlft" style="z-index: 9940;">
+        <div id="mainMenu" class="fltlft" style="z-index: 9930;">
           <ul class="mainNav">
             <li class="home"><a onclick="javascript:generateHomePageURL()" class="icon-home" href="#">-</a></li>
             
@@ -116,28 +216,28 @@ catch (e) { }
               
               <!-- Full Drop Down Contents  Starts Here-->
               
-              <div class="fulldrop" style="z-index: 9930;">
-                <div class="column" style="z-index: 9920;"> <img src="/ISC/images/widgets/Mega_Menu/Postpaid.jpg" width="131" height="81">
+              <div class="fulldrop" style="z-index: 9920;">
+                <div class="column" style="z-index: 9910;"> <img src="/ISC/images/widgets/Mega_Menu/Postpaid.jpg" width="131" height="81">
                   <h3><a href="/customer/postpaid/overview">Postpaid</a></h3>
                   <ul>
                     <li><a href="/customer/postpaid/overview">Plans</a></li>
-                    <li><a href="/switch-to-idea?ServiceType=post" target="_blank">MNP</a></li>
+                    <li><a href="/switch-to-idea?ServiceType=post" target="_blank">NMNP</a></li>
                     <li><a target="" title="" href="javascript:checkCircle('PostAct')">Activations</a></li>
-                    <li><a href="https://care.ideacellular.com/wps/portal/account/express-paybill">Bill pay</a></li>
-                    <li class="highlight"><a href="/customer/postpaid/take-a-new-postpaid-connection">Take a New Connection</a></li>
+                    <li><a target="" title="" href="javascript:callSessionCheck('https://care.ideacellular.com/wps/portal/account/express-paybill');">Bill pay</a></li>
+                    <li class="bold"><a href="/postpaid/take-a-new-connection">Take a New Connection</a></li>
                   </ul>
                 </div>
-                <div class="column" style="z-index: 9910;"> <img src="/ISC/images/widgets/Mega_Menu/Prepaid.jpg" width="131" height="81">
+                <div class="column" style="z-index: 9900;"> <img src="/ISC/images/widgets/Mega_Menu/Prepaid.jpg" width="131" height="81">
                   <h3> <a href="/customer/prepaid/overview">Prepaid</a></h3>
                   <ul>
                     <li><a href="/customer/prepaid/overview">Plans</a></li>
-                    <li><a href="/switch-to-idea?ServiceType=pre" target="_blank">MNP</a></li>
+                    <li><a href="/switch-to-idea?ServiceType=pre" target="_blank">NMNP</a></li>
                     <li><a target="" title="" href="javascript:checkCircle('PreAct')">Activations</a></li>
-                    <li><a href="https://care.ideacellular.com/wps/portal/account/online-recharge">Online  Recharge</a></li>
-                    <li class="highlight"><a href="/customer/prepaid/take-a-new-prepaid-connection">Take a New Connection</a></li>
+                    <li><a target="" title="" href="javascript:callSessionCheck('https://care.ideacellular.com/wps/portal/account/online-recharge');">Online  Recharge</a></li>
+                    <li class="bold"><a href="/prepaid/take-a-new-connection">Take a New Connection</a></li>
                   </ul>
                 </div>
-                <div class="column" style="z-index: 9900;"> <img src="/ISC/images/widgets/Mega_Menu/VAS.jpg" width="131" height="81">
+                <div class="column" style="z-index: 9890;"> <img src="/ISC/images/widgets/Mega_Menu/VAS.jpg" width="131" height="81">
                   <h3><a href="/customer/value-added-services/overview">Value Added Services</a></h3>
                   <ul>
                     <li id="ideaMall"><a href="http://www.ideamall.in/" target="_blank">Idea App Mall</a></li>
@@ -150,7 +250,7 @@ catch (e) { }
                     
                   </ul>
                 </div>
-                <div class="column" style="z-index: 9890;"> <img src="/ISC/images/widgets/Mega_Menu/Wireless_Internet.jpg" width="131" height="81">
+                <div class="column" style="z-index: 9880;"> <img src="/ISC/images/widgets/Mega_Menu/Wireless_Internet.jpg" width="131" height="81">
                   <h3><a href="/mobile-internet/overview">Mobile Internet</a></h3>
                   <ul>
                     <li><a href="/mobile-internet/overview">2G</a></li>
@@ -160,7 +260,7 @@ catch (e) { }
 	 	    <li><a href="/mobile-internet/3g/usage-calculator">3G Usage Calculator</a></li>
                   </ul>
                 </div>
-                <div class="column" style="z-index: 9880;"> <img src="/ISC/images/widgets/Mega_Menu/Roaming.jpg" width="131" height="81">
+                <div class="column" style="z-index: 9870;"> <img src="/ISC/images/widgets/Mega_Menu/Roaming.jpg" width="131" height="81">
                   <h3><a href="/travel-and-roaming-services/overview">Roaming</a></h3>
                   <ul>
                   
@@ -168,7 +268,7 @@ catch (e) { }
                    <li><a href="/travel-and-roaming-services/domestic-roaming">Domestic Roaming</a></li>
                   </ul>
                 </div>
-                <div class="column" style="z-index: 9870;"> <img src="/ISC/images/widgets/Mega_Menu/Support.jpg" width="131" height="81">
+                <div class="column" style="z-index: 9860;"> <img src="/ISC/images/widgets/Mega_Menu/Support.jpg" width="131" height="81">
                   <h3><a href="/customer-care/overview">Support</a></h3>
                   <ul>
                      <li><a href="/customer-care/need-help/idea-office-locations">Office Locations</a></li>
@@ -204,17 +304,19 @@ catch (e) { }
             
           </ul>
         </div>
-        <div id="twitterAlert" style="display: none; padding: 10px; z-index: 9860;">
+        <div id="twitterAlert" style="display: none; padding: 10px; z-index: 9850;">
     You will be taken to Idea's Twitter page. For your comments please click 'Feedback' or else click 'Ok'
   </div>
         <!-- E. Main menu--> 
       </div>
+
+
   
- <div class="clearfloat" style="z-index: 9850;"></div>
-    <div id="pageContainer" style="z-index: 9840;">
+ <div class="clearfloat" style="z-index: 9840;"></div>
+    <div id="pageContainer" style="z-index: 9830;">
    <h1>Privacy Policy</h1>
 	<!-- InstanceBeginEditable name="middleContent" -->
-    <div id="privacyPolicy" style="z-index: 9830;">
+    <div id="privacyPolicy" style="z-index: 9820;">
       <h2>Introduction</h2>
     IDEA Cellular Limited (IDEA) is committed to protecting the privacy of personal information of our customers which has been provided to us in order to access our services. Our Privacy Policy is designed and developed to ensure the privacy and security of your sensitive personal information provided to us. For the purpose of this policy, sensitive personal data or information has been considered as a part of personal information. This Privacy Policy describes the personal information which we may collect and provides our approach towards handling or dealing with the same. The policy is designed to make you understand:
   
@@ -238,8 +340,7 @@ We may collect your personal information as required under laws and regulations 
             <li>Your contact with us, such as: a note or recording of a call you make to one of our contact centres, an email or letter you send to us and other records of any contact you have with us.</li>
             <li>Your account information, such as: dates of payment owed and received; top-up information; the subscription services you use; and any other information to do with your account.</li>
           </ul>
-          <p>b. We also collect information about how you use our products and services, such as: Call data records, tracking website usage information and other information that you may provide to us from time to time for the services that you receive from IDEA. . We may use cookies and other techniques, such as web beacons, to collect information about how you use our websites, and web-related products and services. This allows us to customise our website for you so that it is relevant to your interests and needs. </p>
-          <p>From our business partners and third parties, if required for business. </p>
+          <p>b. We collect information about how you use our products and services, and during this process we collect information such as: Your Call data records, your traffic data such as the phone numbers that you call and send messages to (and the phone numbers that you receive calls and messages from) and the date, time, duration and cost of your communications including your phone location at the time these communications are made. We collect your spend, your device details, your phone usage (including voice, messaging, web/ WAP use, application use), your purchasing habits, your location, your searching and browsing history (including the date, time and duration of your internet session) and your preferences (i.e. tracking our website usage information and other information that you may provide to us from time to time for the services that you receive from IDEA. We may use cookies and other techniques, such as web beacons, to collect information about how you use our websites, and web-related products and services. This allows us to customize our website for you so that it is relevant to your interests and needs. If required for business and to provide better services to you, we may acquire your information from our business partners and third parties (during our business association with them), while you are availing their service through us. If you give us information about another person (who is an IDEA Subscriber or otherwise), perhaps when they receive a service you are paying for or a service you have recommended, we expect you to be responsible for ensuring that they know we are keeping records about them and we are processing their personal information in accordance with this privacy policy.</p>
           <h3>Use of Personal Information:</h3>
           <p>IDEA will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services to you on behalf of IDEA, unless required to do so by law. Further, IDEA may use this information to contact you regarding matters relevant to the underlying service provided and/or the information collected</p>
           <p>Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including, without limitation, fulfilling your order, providing customer service, tracking email invitations you send, and otherwise supporting your use of the Site</p>
@@ -264,6 +365,7 @@ We may transfer personally identifiable information as an asset in connection wi
     <li>Understand how our different customers use our network, products and services so we can develop more interesting and relevant products and services for our customers, as well as personalise the products and services we offer you;</li>
     <li>Carry out research and statistical analysis and monitor customer use of our network, products and services on an anonymous or personalised basis;</li>
     <li>Ensure adherence to legal regulatory &amp; business requirements for prevention and detection of frauds and crimes.</li>
+    <li>While launching new services and products (promotional offers) for the benefit of our subscribers, we may also share your information pertaining to your usage (including voice, messaging, web/ WAP use, application use, data usage), to your acquaintance/s who is/are an IDEA Subscriber/s (or otherwise) within the realm of the Privacy Policy.</li>
 </ul>
 <p>b. We will store your information for as long as we have to by law and as per directions of the regulatory &amp; law enforcement Authorities. If there is no legal requirement, we will only store your information for as long as we need it for providing services to you.</p>
 <h3>How We Protect Your Information </h3>
@@ -307,10 +409,10 @@ We may transfer personally identifiable information as an asset in connection wi
             </li>
        </ol>
   </div>
-<div class="clearfloat" style="z-index: 9820;"></div>
+<div class="clearfloat" style="z-index: 9810;"></div>
     	
     </div>
-    <div class="clearfloat" style="z-index: 9810;"></div>
+    <div class="clearfloat" style="z-index: 9800;"></div>
 <footer>
   <script type="text/javascript"> 
 function footercircleSession(circle)
@@ -360,10 +462,10 @@ else
 		}
 }
 </script>
-<div class="clearfloat" style="z-index: 9800;"></div>
-  <div class="fltlft" id="fotCircle" style="z-index: 9790;">
-   	<div id="fotCircleTitle" style="z-index: 9780;">Please select circle</div>
-    <div class="fotCircleList" style="z-index: 9770;">
+<div class="clearfloat" style="z-index: 9790;"></div>
+  <div class="fltlft" id="fotCircle" style="z-index: 9780;">
+   	<div id="fotCircleTitle" style="z-index: 9770;">Please select circle</div>
+    <div class="fotCircleList" style="z-index: 9760;">
     <ul>
         
     	<li><a target="" title="" href="javascript:footercircleSession('andhra-pradesh')"> Andhra Pradesh</a></li>
@@ -373,7 +475,7 @@ else
 		<li><a target="_self" title="" href="javascript:footercircleSession('gujarat')"> Gujarat</a></li>
 		</ul>
 </div>
-<div class="fotCircleList" style="z-index: 9760;">
+<div class="fotCircleList" style="z-index: 9750;">
     <ul>
     
     	<li><a target="_self" title="" href="javascript:footercircleSession('haryana')"> Haryana</a></li>
@@ -383,7 +485,7 @@ else
 		<li><a target="_self" title="" href="javascript:footercircleSession('kerala')"> Kerala</a></li>
 </ul>
 </div>
-<div class="fotCircleList" style="z-index: 9750;">
+<div class="fotCircleList" style="z-index: 9740;">
     <ul>
     
     	<li><a target="_self" title="" href="javascript:footercircleSession('kolkata')"> Kolkata</a></li>
@@ -393,7 +495,7 @@ else
 		<li><a target="_self" title="" href="javascript:footercircleSession('nesa')"> NESA</a></li>
 </ul>
 </div>
-<div class="fotCircleList" style="z-index: 9740;">
+<div class="fotCircleList" style="z-index: 9730;">
     <ul>
     
     	<li><a target="_self" title="" href="javascript:footercircleSession('orissa')"> Orissa</a></li>
@@ -403,7 +505,7 @@ else
 		<li><a target="_self" title="" href="javascript:footercircleSession('uttar-pradesh-east')"> Uttar Pradesh East</a></li>
 </ul>
 </div>
-<div class="fotCircleList" style="z-index: 9730;">
+<div class="fotCircleList" style="z-index: 9720;">
     <ul>
    
     	<li><a target="_self" title="" href="javascript:footercircleSession('uttar-pradesh-west')"> Uttar Pradesh West</a></li>
@@ -411,9 +513,9 @@ else
     </ul>
     </div>
 </div>
-<div class="clearfloat" style="z-index: 9720;"></div>
-<div id="footerNav" class="fltlft" style="z-index: 9710;">
-<div style="z-index: 9700;">
+<div class="clearfloat" style="z-index: 9710;"></div>
+<div id="footerNav" class="fltlft" style="z-index: 9700;">
+<div style="z-index: 9690;">
     <ul>
     <li><a href="/aboutus/overview">About Us</a></li>
     <li><a href="/media-centre/overview">Media</a></li>
@@ -426,20 +528,21 @@ else
 <li><a href="/sitemap">Site Map</a></li>
 </ul>
 </div>
-<div class="clearBoth" style="z-index: 9690;"></div>
+<div class="clearBoth" style="z-index: 9680;"></div>
 </div>
-<div id="fotNote" class="fltlft" style="z-index: 9680;">
+<div id="fotNote" class="fltlft" style="z-index: 9670;">
      	<ul>
         	<li>Before an online recharge, kindly visit the Online tariff section for a detailed description.</li>
             <li>Dear Subscribers, kindly do not respond to missed calls from unknown international numbers or calls about winning prizes or lottery.</li>
-<li>Deactivation of Data Service: You can deactivate data services from your data default plan by sending an SMS “STOP” to 1925, or dial 1925 and then press 0.</li>
+<li>Deactivation of Data Service: You can deactivate data services from your data default plan by sending an SMS “STOP” to 1925, or dial 1925 and then press 2.</li>
 <li>Reactivation of Data Service: You can reactivate data services if you have deactivated the data services earlier, by sending an SMS “START” to 1925, or dial 1925 and then press 1.</li>
             <li>Deactivation of Value Added Service (VAS): To cancel a VAS subscription, SMS "STOP" to 155223 (toll free) and select the service you wish to deactivate OR Dial 155223 (toll free) and select the service you wish to deactivate.</li>
 <li>Idea Money is an initiative from Idea Mobile Commerce Services Ltd. (IMCSL).</li>
+<li>*Swachh Bharat Cess.</li>
         </ul>
      </div>
-<div class="clearBoth" style="z-index: 9670;"></div>
-<div class="copyRights" style="z-index: 9660;">
+<div class="clearBoth" style="z-index: 9660;"></div>
+<div class="copyRights" style="z-index: 9650;">
     <ul>
     <li> © 2015 Idea Cellular Ltd. </li>
     <li> Best View 1024*768 + IE8 +</li>
