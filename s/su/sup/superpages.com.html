@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superpages.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623203453id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superpages.com privacy policy that was archived on 2015-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221162837id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -18,7 +18,7 @@
 <script src="//tags.tiqcdn.com/utag/dexmedia/superpages/prod/utag.js" type="text/javascript" async=""></script><script language="JavaScript" type="text/javascript" src="http://yellowpages.superpages.com/common/js/jquery.min.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://yellowpages.superpages.com/common/js/jquery-migrate.min.js"></script><script language="JavaScript" type="text/javascript" src="http://yellowpages.superpages.com/common/js/jquery.spac.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://yellowpages.superpages.com/common/js/jquery.cookie.js"></script>
-<script language="JavaScript" src="/js/spflyouts.1.0.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://yellowpages.superpages.com/common/js/spflyouts.1.0.js" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript" src="http://www.superpages.com/js/hfunc.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://www.superpages.com/js/jquery.truncate-2.3.js"></script>
 <link media="screen, projection" type="text/css" href="http://www.superpages.com/css/theme.css" rel="stylesheet">
@@ -51,6 +51,7 @@ body
         	<!--headerbeg-->
 
 
+<script src="//tags.tiqcdn.com/utag/dexmedia/superpages/prod/utag.sync.js"> </script>
 <script type="text/javascript">
 var utag_data = {}
 </script>
@@ -87,7 +88,7 @@ function encode(str) {
 if (locn == null) {
     var locn = "";
 }
-if (locn == "") { locn = "San Francisco CA"; }
+if (locn == "") { locn = ""; }
 var maplocn = encode(locn);
 if (T != "" || S != "") {
 L_encoded = T.replace(' ', '+')+'+'+S;
@@ -148,7 +149,7 @@ function filterInput(f){
                         <li class="divider"></li>
                         <li class=" ot_header_weather"><a href="http://www.superpages.com/cities/weatherforecast.html"><span>Weather</span></a></li>
                         <li class="divider"></li>
-                        <li><script language="JavaScript" type="text/javascript">document.write('<a class="ot_header_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&L='+maplocn+'" rel="nofollow">');</script><a class="ot_header_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&amp;L=San+Francisco+CA" rel="nofollow"><span>Maps</span></a></li>
+                        <li><script language="JavaScript" type="text/javascript">document.write('<a class="ot_header_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&L='+maplocn+'" rel="nofollow">');</script><a class="ot_header_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&amp;L=" rel="nofollow"><span>Maps</span></a></li>
                         <li class="divider"></li>
                         <li class=" ot_header_cars"><a href="http://cars.superpages.com/#sptab" rel="nofollow"><span>Cars</span></a></li>
                      </ul>
@@ -163,15 +164,17 @@ function filterInput(f){
                   <input type="hidden" name="SCS" value="" class="hidden">
                   <input type="hidden" name="channelId" value="" class="hidden">
                   <input type="hidden" name="sessionId" value="" class="hidden">
-                  <input type="text" id="what" class="form-control search-box sfield_OF" name="C" autocomplete="off" placeholder="Enter business name or type of business">
+                  <input type="text" id="what" class="form-control search-box sfield_OF" name="C" autocomplete="off" placeholder="Find local businesses e.g. hotels, Dallas TX">
                   <button class="btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
                   </form>
                                    
                	<ul id="spSignin" class="nav navbar-nav navbar-right">
                   <li><a href="#" class="sep borders">&nbsp;</a></li>
-                  <li class="fbsigni center1"><a id="spSigninRegistration1" href="javascript:void(0)" rel="nofollow" title="Sign in">Join</a></li>
+                  <li class="fbsigni center1"><a id="spSigninRegistration1" href="#" onclick="spRedirectJoinIn();" rel="nofollow" title="Sign in">Join</a></li>
                   <li class="sep">•</li>
-                  <li class="fbsigni center"><a class="borders" id="spSigninRegistration" href="javascript:void(0)" rel="nofollow" title="Sign in">Sign In</a></li>
+                  <li class="fbsigni center"><a class="borders" id="spSigninRegistration" href="#" onclick="spRedirectSignIn();" rel="nofollow" title="Sign in">Sign In</a></li>
+                   <li class="fbsigni center1"><a class="facebookSignIn" onclick="closeFlyouts(); spFacebook.facebookPopup();" href="javascript:void(0)" rel="nofollow" title="Sign in with facebook"></a></li>
+                  <li><a href="#" class="sep borders">&nbsp;</a></li>
                </ul>
                	              
          </div>
@@ -924,14 +927,13 @@ related to This Website?</h3>
                   <li class="title">DIRECTORY</li>
                   <li><a class="ot_footer_add_business" title="Free business listing" href="http://claimlisting.superpages.com/spportal/quickbpflow.do?&amp;tsrc=SP&amp;campaignId=SP_FT_AddEditaBusiness">Free Advertising</a></li>
                   <li><a class="ot_footer_delivery" title="Delivery Opt-Out" href="http://www.yellowpagesoptout.com/">Delivery Opt-Out</a></li>
-                  <li><script language="JavaScript" type="text/javascript">document.write('<a class="ot_footer_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&L='+maplocn+'" rel="nofollow">');</script><a class="ot_footer_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&amp;L=San+Francisco+CA" rel="nofollow">Maps &amp; Directions</a></li>
+                  <li><script language="JavaScript" type="text/javascript">document.write('<a class="ot_footer_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&L='+maplocn+'" rel="nofollow">');</script><a class="ot_footer_maps" href="http://mapserver.superpages.com/mapbasedsearch/?spheader=true&amp;L=" rel="nofollow">Maps &amp; Directions</a></li>
                   <li><a class="ot_state_directory" title="State Directory" href="http://www.superpages.com/us/">State Directory</a></li>
                   <li><a class="ot_footer_whitepages" title="White Pages" href="http://people.superpages.com">White Pages</a></li>               
                </ul>
                <ul class="col-sm-4 col-xs-4">
                   <li class="title">FEATURES</li>
                   <li><a class="ot_footer_cityguides" title="City Guides" href="http://www.superpages.com/cities/">City Guides</a></li>
-                  <li><a class="ot_footer_everycarlisted" title="Every Car Listed" href="http://www.everycarlisted.com/">Every Car Listed</a></li>
                   <li><a class="ot_footer_featuredbiz" title="Featured Businesses" href="http://www.superpages.com/bp/">Featured Businesses</a></li>
                   <li><a class="ot_footer_popular_categories" title="Popular Categories" href="http://www.superpages.com/yellowpages/">Popular Categories</a></li>
                   <li><a class="ot_footer_enlightenme" title="Enlighten Me" href="http://www.enlightenme.com">Enlighten Me</a></li>
@@ -949,7 +951,7 @@ related to This Website?</h3>
 				</ul>
             </div>
    			<div id="free-listing">
-      			<h4>Claim your Free Listing</h4>
+      			<div>Claim your Free Listing</div>
       			<p>Claim your free business listing on Superpages. The more information you provide about your business, the easier it will be for your customers to find you online.</p>
       			<a class="btn btn-default btn-lg" href="http://claimlisting.superpages.com/spportal/quickbpflow.do?tsrc=SP&amp;campaignId=SP_header">Get your Free Listing</a>
    			</div>	
@@ -1023,7 +1025,7 @@ if (s) {
 	if (!s.pageName) {
 		s.pageName = document.title;
 	}
-	s.server = "sp21"
+	s.server = "sp24"
 	if (!s.channel) {
 		s.channel = "About Us";
 	}
