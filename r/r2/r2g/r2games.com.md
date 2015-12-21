@@ -1,35 +1,72 @@
-> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628233510id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221175207id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
 
-# Play Free Online Games, MMORPG, Browser Games - R2Games
+# R2Games-home
 
-We take the privacy of our customers very seriously and as you will read, you are protected by our commitment to the following: 
+**R2Games Privacy Policy - Effective Date**
 
-  1. We will never sell or transfer your personal information to any other third party company.
-  2. We collect the following information: 
-    * User ID : To identify yourself and access your account.
-    * Password : To protect your account.
-    * Country : Some of our games are not available in countries where other publishers own the distribution rights. Therefore, we require country information to allow access to our games. We provide country information to our advertising partners.
-    * Valid email address : We collect your email information only if you are 13 or older, or we have received the permission of the parent or legal guardian. You can use your email to retrieve your User ID if you have forgotten it. Based on your email selections, we will email you information about our games such as updates and new games. You will never receive emails from us with offerings on behalf of other companies.
-    * Character Name : Used in-game to name your character.
-    * IP Address : Each and every time you log on, your IP address will be collected in order to protect you in case someone other than you is using your account. We provide IP Addresses to our advertising partners.
-    * Cookies : We store cookies on your PC to keep track of your account. Cookies are not shared with other companies.
-  3. When a child under 13 years of age signs up we do not collect their email address without the permission of their parent or legal guardian. We will also not collect the other items listed above. If a child under 13 years of age wants to post information on our website or chat with other players, we will require that they do not disclose any personal information such as their real name, address, phone number, and any other information that could be used to contact the child.
-  4. Once you've clicked on an advertisement and have left our website, our Privacy Policy no longer applies, and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site.
+The effective date of this Privacy Policy (the "Policy") is _July 31st, 2015_.
+
+ **1\. Introduction**
+
+R2Game Co., Limited, also referred to as "R2Games," "we," or "us," takes necessary precautions when collecting, storing, using, and sharing any personal data including, but not limited to, your name, address, telephone number, email, and birth date (the "Personal Information"). The purpose of the Policy is to inform you what information we collect and store, how we use that information, our cooperation with third parties concerning the use and sharing of your Personal Information, and our measures regarding security and privacy.
+
+By accessing our products and services (the "Services") and/or creating an account, you consent to our collecting, storing, using, and sharing of your information as outlined in the Policy. If you do not agree to the Policy and our [Terms of Service](http://www.r2games.com/public/2015/06/23/terms-of-use.html), you should discontinue your use of the Services. We encourage all of our players to read the Policy and understand the information presented.
+
+ **2.  Information Collection**
+
+*User Provided Information  
 
 
+You will need to give us certain basic Personal Information, including but not limited to your name, email address, and birth date, in order to create an account with us. However, you should exercise caution when adding more details to your profile on the Services such as pictures, signatures, or any other Personal Information as this information is public and available for other players to view.
 
-When purchasing game items or subscriptions to our games, you will have the choice to pay by Paypal, Moneybookers, mobile phone, bill to your home phone, or any other e-commerce available today or in the future. We will collect the required information for each payment method, however. This information will be kept confidential and is only shared under industry standard security methodologies to the billing partners. The billing partners have no right to use your information other than completing the billing process you have initiated. 
+Accessing the Services will allow you to post or share your Personal Information. We recommend that all of our players exercise caution when posting, sharing, messaging, or communicating with other players as Personal Information may be disseminated outside of the Services. R2Games is not responsible for any Personal Information appearing on any third party websites as a result of your voluntary posting, sharing, messaging, or communicating on the Services.
 
-We ask that you educate your child to never give out their email, name, address, phone, or pager information without parental consent. Tell them to always notify a parent or guardian when they feel threatened or are asked for any personal information. The parent should then contact us immediately. 
+*Automatically Collected Information
 
-For complaints or to remove your child's information, we can be reached via mail at : 
+Our servers automatically collect specific non-personal information ("Log File Information") whenever you visit the Services. Log File Information includes, but is not limited to, internet protocol addresses, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time of a certain activity. Log File Information is collected by us for analysis purposes only. We use this information to better tailor the Services to your interests, to provide you more efficient customer support, and to enhance the overall user experience. R2Games uses cookies to better track certain Log File Information. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Services may not function properly if the ability to accept cookies is disabled.
 
-You can send us email at: support@r2games.com 
+*Third Party Platforms
 
-If we materially change our privacy policy, we will notify you when you sign on or send you an email if we have it on record. We will offer you the choice to agree to our new privacy policy. We will delete your account should you refuse to agree to the new privacy policy. 
+You may choose to access the Services through the platform of a third party (the "Third Party" or "Third Parties") such as Facebook. In doing so, you are agreeing to let R2Games access your Personal Information in accordance with the relevant Third Party's Privacy Policy. In cases where the Third Party has protection filters to assign you a random email address, you may opt into this feature to protect your privacy.
 
-You can change your information with the exception of your User ID anytime by visiting www.R2Games.com, signing on, and then choosing the 'My Account' link on the upper right side of the website. 
+When working with the Third Party, we will collect certain Log File Information (which we will make available to you) such as your purchase history. This information is for our records and we only use this information for the purpose of analyzing and improving the Services in accordance with applicable law. We do not collect any information associated with your payments through Third Party payment platforms. You should consult the Privacy Policy of the Third Party payment platform for any privacy issues in connection with such transactions.
 
-In the event that we sell a portion or our entire Company, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy. 
+*Mobile Devices and Push Notifications
 
-We will disclose personal information when we believe in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena, or will help to enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites. 
+R2Games may employ Push notifications on mobile devices to inform you about news, events, promotions, and updates. Depending on the circumstances, these can be customized or removed from your device through "settings" or "options" section. Through your device, R2Games is able to collect mobile information such as location data and unique device identifier (UID), and we may collect information ("Mobile Information") like country, device type, operating system, phone number, game operational data, and any other information you choose to share with us.
+
+ **3.  What We Do With Your Personal Information**
+
+R2Games uses your Personal Information to operate, for the improvement of the Services, and to assist you. We assign every player a User ID that contains no Personal Information, which is shared with the Third Party relevant to the Services.
+
+We use your Personal Information, and Log File Information related to you, in a variety of ways including, but not limited to, customer service, account management, enforcement of our Terms of Service, marketing, promotions, and site improvement. We may also use your Personal Information to prevent cheating, crime, or fraud. We may also need to pass your Personal Information to fraud prevention agencies and other organizations involved in crime and fraud prevention and as otherwise required by applicable law. Additionally, in the event of a merger, acquisition, reorganization, bankruptcy of R2Games, or other similar events, customer information may be transferred to R2Games' successor or assignee, if permitted by and done in accordance with applicable law. 
+
+ **4.  Information Sharing With Third Parties**
+
+We partner with Third Parties to obtain marketing feedback, process payments, analyze metrics, and improve our systems. We will not share your Personal Information with Third Parties unless express consent is given by you. The purpose of our sharing your information with Third Parties is to provide a better service to you and we take necessary measures to protect your identity when dealing with Third Parties.
+
+R2Games is not liable for losses or damages resulting from or associated with the Privacy Policy of any Third Party. We ask all of our players to carefully read the relevant Third Party's Privacy Policy to stay informed and protected.
+
+ **5.  Security of Your Personal Information**
+
+We are committed to safeguarding your Personal Information. It is important that you change your password regularly, make it difficult to guess, and do not write it down or give it to anyone. R2Games maintains reasonable technical and physical safeguards to protect your Personal Information against loss, unauthorized access or alteration, misuse, and all other unlawful forms of processing of the information in our possession. However, we are not responsible for any loss or damage due to unauthorized access to communications or data transmitted through the Services by other parties.
+
+If you require account deletion, **** please email [privacy@r2games.com](mailto:support@r2games.com) with the subject “I hereby request deletion of my account information”.
+
+ **6.  Privacy of Children**
+
+Our products are designed for a mature audience and you must be at least 13 years old to access and use the Services. R2Games does not knowingly collect or store information from children under the age of 13. If we learn that we have inadvertently collected the Personal Information of a child under 13, or if you become aware that a child under 13 has provided Personal Information to us, we will take steps to delete the information as soon as possible.
+
+ **7.  Modifications and options**
+
+ **R2Games reserves the right to update the Policy without notice.** We ask all of our players to check the Policy periodically for any changes. If you do not agree to the Policy and our [Terms of Service](http://www.r2games.com/public/2015/06/23/terms-of-use.html), you should discontinue your use of the Services.
+
+ **8.  Contact Us**
+
+The Policy and your use of the Services shall be governed by and construed and take effect in accordance with the laws of Hong Kong. With respect to any questions, disputes, suits, action or proceedings arising out of or in connection with the Policy, you irrevocably submit to the exclusive jurisdiction of the courts of Hong Kong. If you have any questions about the Policy, or the practices mentioned within, please send an email to **privacy@r2games.com** ****.
+
+Room 1210A, Silvercorp Tower 2
+
+No.30 Canton Road, Tsim Sha Tsui
+
+Kowloon, Hong Kong
