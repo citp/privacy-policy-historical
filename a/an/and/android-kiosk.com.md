@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the android-kiosk.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622061630id_/http%3A//www.android-kiosk.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android-kiosk.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221020034id_/http%3A//www.android-kiosk.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - Kiosk Browser Software for AndroidKiosk Browser Software for Android
 
@@ -73,3 +73,5 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 **Contacting Us**
 
 Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via email at [info@android-kiosk.com](mailto:info@android-kiosk.com)
+
+This site uses cookies by continuing you give us permission to use cookies[Policy](http://www.android-kiosk.com/privacy-and-cookie-policy)
