@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clozette.co.id privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233916id_/http%3A//id.clozette.co/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clozette.co.id privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221041517id_/http%3A//www.clozette.co.id/info/privacy) for the most accurate reproduction.*
 
 # Clozette Indonesia | Your Personal Online Closet and a Fashion Social Network
 
