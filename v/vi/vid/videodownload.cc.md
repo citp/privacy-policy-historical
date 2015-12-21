@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videodownload.cc privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429052615id_/http%3A//www.videodownload.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videodownload.cc privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221231552id_/http%3A//www.videodownload.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - VideoDownload
 
