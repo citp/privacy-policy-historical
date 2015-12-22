@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citizensbank.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062934id_/https%3A//www.citizensbank.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbank.ca privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222194755id_/http%3A//citizensbank.ca/Privacy) for the most accurate reproduction.*
 
-# Citizens Bank of Canada
+# Privacy | Citizens Bank of Canada
 
 Privacy and information security are at the top of the list when it comes to the concerns of Canadians.
 
