@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moejackson.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621142010id_/http%3A//moejackson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moejackson.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222202529id_/http%3A//moejackson.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MoeJackson
+# Privacy Policy – MoeJackson
 
 **MoeJackson.com Privacy Policy**  
 This statement covers the site MoeJackson.com. Please read this statement carefully before proceeding to access MoeJackson.com. Your use of MoeJackson.com indicates your agreement to abide by the Terms in effect. The Website is owned and operated by Butter Media LLC. If you have any questions or suggestions regarding our privacy policy, [please contact us](mailto:contact@moejackson.com).
