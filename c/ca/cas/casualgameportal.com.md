@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualgameportal.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022208id_/http%3A//www.casualgameportal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualgameportal.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222222451id_/http%3A//www.casualgameportal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Notice | CasualGamePortal.com
 
