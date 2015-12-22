@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the suncoastparts.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607225346id_/http%3A//www.suncoastparts.com/category/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastparts.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222133111id_/http%3A//www.suncoastparts.com/PRPO.html) for the most accurate reproduction.*
 
-# Privacy Policy: Suncoast Porsche Parts & Accessories
-
-  
-
+# Suncoast Porsche Parts & Accessories: Privacy Policy
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
 
