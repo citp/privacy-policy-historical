@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627235150id_/http%3A//www.wolterskluwer.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222062027id_/http%3A//wolterskluwer.com/privacy-cookies.html) for the most accurate reproduction.*
 
-# Wolters Kluwer | Privacy & Cookies
+# Privacy & Cookies
 
 **Privacy and Cookie Policy**  
-
-
 Welcome to this Corporate Website. This site is owned by Wolters Kluwer nv. This Privacy and Cookies Policy (the “Policy”) is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Policy before using or submitting information to this site. This site is governed by applicable Dutch laws.
 
 **Your Consent**  
@@ -20,38 +18,35 @@ As you navigate through a Web site, certain information can be passively collect
 **IP Addresses**  
 This site uses Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non- personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site.
 
-**Cookies**   
-The website of Wolters Kluwer uses “cookies”. A cookie is a small text file that’s stored on your computer, tablet, or phone when you visit a website that helps the site remember information about you and your preferences. 
+**Cookies**     
+The website of Wolters Kluwer uses “cookies”. A cookie is a small text file that’s stored on your computer, tablet, or phone when you visit a website that helps the site remember information about you and your preferences.
 
 Some cookies are deleted when you close down your browser.  These are known as session cookies.  Others remain on your device until they expire or you delete them from your cache.  These are known as persistent cookies and enable us to remember things about you as a returning visitor. 
 
-The cookies we use allow us to recognize and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. Our cookies also enable us to tailor the content you view according to preferences you set. 
+The cookies we use allow us to recognize and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. Our cookies also enable us to tailor the content you view according to preferences you set.
 
-We use Session Cookies for the following purposes:  
-
+We use Session Cookies for the following purposes:
 
   * To allow you to carry information across pages of our website and avoid having to re-enter information.
-  * Within registration to allow you to access stored information. 
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website.  
-       
+  * Within registration to allow you to access stored information.
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website.  
 
 
 
 We use Persistent Cookies for the following purposes:
 
-  * To help us recognize you as a unique visitor (just a number) when you return to our website and to allow us to tailor content to match your preferred interests. 
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website. 
-  * To internally identify you by account name, email address, customer ID, and location (geographic and computer ID/IP address). 
+  * To help us recognize you as a unique visitor (just a number) when you return to our website and to allow us to tailor content to match your preferred interests.
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website.
+  * To internally identify you by account name, email address, customer ID, and location (geographic and computer ID/IP address).
   * To tailor content to your preferences.
 
 
 
-Third parties serve cookies via this website. These Third Party Cookies are used for the following purposes:  
-
+Third parties serve cookies via this website. These Third Party Cookies are used for the following purposes:
 
   * To serve content on our site and track whether this content is clicked on by users. 
   * To control how often you are shown particular content. 
-  * To count the number of anonymous users of our site. For website usage analysis. 
+  * To count the number of anonymous users of our site. For website usage analysis.
 
 
 
@@ -66,7 +61,7 @@ Except as otherwise stated, we may use your information to improve the content o
 If you subscribe to our e-mail alerts, we collect your e-mail address. This address will only be used for keeping you informed as indicated. If you wish to unsubscribe from our e-mail alert list, you can do so at any moment as indicated in every e-mail you receive or by contacting us through [info@wolterskluwer.com](mailto:info@wolterskluwer.com).
 
 **Access and Correction**  
-To keep your personally identifiable information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct personally identifiable 
+To keep your personally identifiable information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct personally identifiable
 
 information in our possession that you have previously submitted via this site.
 
@@ -77,5 +72,4 @@ We take reasonable steps to protect your personally identifiable information as 
 This site may contain links or references to other web sites. Please be aware that we do not control other web sites and that, in any case, this Policy does not apply to those web sites. We encourage you to read the privacy and cookie policy of every web site you visit.
 
 **Changes**  
-Wolters Kluwer may revise this Policy. You agree to be bound by any such revisions and should therefore periodically visit this page to determine the current terms to which you are bound. This Policy has been amended for the last time in June 2012.  
-
+Wolters Kluwer may revise this Policy. You agree to be bound by any such revisions and should therefore periodically visit this page to determine the current terms to which you are bound. This Policy has been amended for the last time in June 2012.
