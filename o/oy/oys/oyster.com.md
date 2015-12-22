@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the oyster.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613044700id_/http%3A//www.oyster.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyster.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222105431id_/http%3A//www.oyster.com/about/privacy) for the most accurate reproduction.*
 
-# Oyster Privacy Policy | Oyster.com -- Hotel Reviews and Photos
+# Oyster Privacy Policy | Oyster.com Hotel Reviews and Photos | Oyster.com
+
+[ Back to About](https://web.archive.org/about/)
+
+## Oyster Privacy Policy
 
 Effective on February 26, 2014
 
 This privacy statement describes how Oyster.com (operated by Smarter Travel Media, LLC, and referred to herein as “STM” or “Oyster”, as either term applies to the Oyster.com Web site) collects and uses the personal information you provide on our Web site: www.oyster.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-## Cookies and Other Web Technologies
+### Cookies and Other Web Technologies
 
 A cookie is a small piece of data that a web server places on a user's computer. Oyster employs the use of cookies and web beacons to ensure that you do not see the same ad repeatedly, to track marketing promotions, to estimate and report audience size and traffic, and to customize and personalize your experience at Oyster.com.
 
@@ -18,7 +22,7 @@ Most web browsers provide users the ability to limit the use of cookies and web 
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of STM. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-## Security
+### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
@@ -28,7 +32,7 @@ We will retain your information for as long as your account is active or as need
 
 If you have any questions about security on our Web site, you can contact us by completing [this form](https://web.archive.org/about/contact/).
 
-## Site Registration, Email Subscriptions, Email Communications and Newsletters
+### Site Registration, Email Subscriptions, Email Communications and Newsletters
 
 Oyster's registration form may require users to provide basic contact and demographic information. We use or may use your contact information (such as your email address) from the registration form to send you newsletters and occasional information about our services and partners, inform you if you are the potential winner of a contest or promotion, personalize your experience with Oyster, or investigate cases of suspected fraud or abuse. You may opt-out of receiving future communications by clicking on the unsubscribe link in an email from Oyster. In order to customize your experience with our email newsletters, we receive a confirmation when you open email from Oyster if your computer supports such capabilities. Clicking on a link in an Oyster newsletter is also tracked on a per user basis to allow us to present content which closely matches your interests. Demographic and profile data (such as state, zip code, age, or gender) is used to customize your experience at our site or in our email newsletters, showing you content and advertising that best suits your needs. This information is shared with advertisers and other third parties on an aggregate or anonymized basis only. Personal information about individual users is never shared with advertisers.
 
@@ -40,7 +44,7 @@ To better serve you, we may also store information you present to us via email o
 
 In order to better communicate with registered users about their registration status, Oyster may acquire information about users from third-party sources, including but not limited to a user’s mailing address. The information collected will be shared with third parties on an aggregate basis only, if at all.
 
-## Display of Advertising/Your Choices
+### Display of Advertising/Your Choices
 
 _Data collected to serve you with relevant advertising_
 
@@ -56,7 +60,7 @@ Please note that we do not have access to or control over cookies or other techn
 
 Like other companies operating online, Oyster participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.bluekai.com/consumers.php#optout) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
 
-## What information we collect from you
+### What information we collect from you
 
 **Automatic Information.** We automatically collect some information about your computer when you visit Oyster. For example, we will collect your IP address, and information relating to your Web browser software and referring Web site. We also may collect information about your online activity, such as trips viewed. One of our goals in collecting this information is to help customize your user experience. We do not use this information to identify you.
 
@@ -64,13 +68,13 @@ Like other companies operating online, Oyster participates in cookie-based excha
 
  **Information Collected Through Web Analytics.** Oyster uses a Web analytics company to track and generate reports on visitor use of our site. We use the Web analytics company to analyze visitor activity so that we may better understand how visitors make use of Oyster, and so that we may better tailor content to meet our visitors' needs. This data may include anonymized, individual visitor click behavior. No personally identifiable information is obtained or shared with the Web analytics company. Although our Web analytics company logs the information coming from Oyster on our behalf, we control how that data may and may not be used.
 
-## How we use this information
+### How we use this information
 
 Oyster uses information we collect for the following general purposes: to measure interest in and improve our products, services, and Web site; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our [Terms of Use](https://web.archive.org/about/terms/); and as otherwise described to you at the point of collection.
 
 If you chose to receive communications from Oyster about special promotions when registering as an Oyster member, we may use your email address to send you communications about surveys, contests, sweepstakes, promotions, flight specials, deals or other travel news and opportunities on Oyster and its marketing partners. If you choose to receive our Newsletters, you may receive communications such as "Top Travel Deals" and periodic announcements about changes to our features at your email address. You can discontinue your subscription to Oyster promotional email services at any time by clicking on the unsubscribe link in the email received.
 
-## With whom we share this information
+### With whom we share this information
 
 Oyster may share the information it collects with the following entities:
 
@@ -96,13 +100,13 @@ Other than as set out above, you will be notified when information about you wil
 
 
 
-## Sweepstakes, Online Surveys, and Order Forms
+### Sweepstakes, Online Surveys, and Order Forms
 
 Oyster occasionally runs sweepstakes, hosts online surveys, or uses order forms on our Web site in which we ask for contact and demographic information. Participation in sweepstakes and surveys and usage of order forms is completely voluntary and the user therefore has a choice whether or not to disclose this information. We use or may use your contact information (such as your email address) from your sweepstakes entry, survey registration, or order form to inform you if you are the potential winner of a contest or promotion, personalize your experience with Oyster, send you newsletters (should you opt-in for these newsletters) and occasional information about our services or partners, or investigate cases of suspected fraud. You may opt-out of receiving future communications by clicking on the unsubscribe link in an email from Oyster.
 
 Demographic and profile data (such as zip code, age, or gender) may be used to customize your experience at our site, showing you content and advertising that may best suit your needs. This information is shared with advertisers and other third parties on an aggregate basis only. In the event that Oyster partners with a third party to run a sweepstakes, Oyster may share demographic and profile data with such third party only as indicated in the official sweepstakes rules.
 
-## Additional Policy Information
+### Additional Policy Information
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
@@ -116,7 +120,7 @@ We may update this privacy statement to reflect changes to our information pract
 
  _Children Under 13 Years Old_ STM and its affiliated sites do not knowingly collect, maintain or use personal information from our Web sites about children under age 13. Children under the age of 13 may not participate in any online activities on Oyster.com.
 
-## Business Changes and Contact Information
+### Business Changes and Contact Information
 
 As part of operations, Oyster may sell, transfer or merge particular businesses and/or other assets to a third party. As part of such a transaction, personal information users have provided to Oyster may be given to a third party. Oyster attempts to comply with all legislative and judicial orders. These orders will take precedence over the details stated in the policy above. If you have any questions about this Privacy Policy or your dealings with Oyster, please contact us at the address below:
 
