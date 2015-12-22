@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funchoke.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174313id_/http%3A//funchoke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funchoke.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222165746id_/http%3A//funchoke.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | FunChoke
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at admin at FunChoke
 
@@ -20,7 +20,7 @@ FunChoke does use cookies to store information about visitors preferences, recor
 
 • Google’s use of the DART cookie enables it to serve ads to our users based on their visit to FunChoke and other sites on the Internet.
 
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://google.com/privacy_ads.html>
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are one of the worlds largest Ad Exchanges.
 
