@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kudani.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153027id_/http%3A//www.kudani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kudani.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222103025id_/http%3A//www.kudani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kudani – Content Marketing For Professionals
 
