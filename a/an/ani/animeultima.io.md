@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeultima.io privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430072325id_/http%3A//www.animeultima.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeultima.io privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222161854id_/http%3A//www.animeultima.io/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AnimeUltima
 
