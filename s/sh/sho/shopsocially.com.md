@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsocially.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512170040id_/http%3A//shopsocially.com/platform/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsocially.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222190844id_/http%3A//shopsocially.com/platform/privacy-policy) for the most accurate reproduction.*
 
 # ShopSocially - Privacy Policy
 
@@ -70,7 +70,7 @@ Our Service contains links to other websites. The fact that we link to a website
 
 The Service is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [privacy@shopsocially.com.](mailto:privacy@shopsocially.com) We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
-**Last updated:**  Jan 15, 2013
+**Last updated:**  April 1, 2015
 
 ShopSocially (Velocita, Inc.)  
-339 N Bernardo Ave, Suite 200, Mountain View, CA, 94043
+5201 Great America Parkway, Suite 351, Santa Clara, CA 95054
