@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fanbase.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150541id_/http%3A//www.fanbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbase.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222122158id_/http%3A//www.fanbase.com/privacy) for the most accurate reproduction.*
 
-# Fanbase Privacy Policy
+# Privacy Policy – Fanbase
 
-## Fanbase Media, Inc. Privacy Policy
-
- **Last Revised: April 30, 2014**
+**Last Revised: April 30, 2014**
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Fanbase Media, Inc. and its subsidiaries and affiliated companies (“ **Fanbase** “). This Privacy Policy applies to information we collect when you use our website and other online products and services that link to this Privacy Policy (collectively, the “ **Services** “) or when you otherwise interact with us.
 
