@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airstream.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623083304id_/http%3A//www.airstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airstream.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222193929id_/http%3A//www.airstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Travel Trailers, Touring Coaches | Airstream
 
