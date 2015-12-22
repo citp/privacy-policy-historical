@@ -1,49 +1,59 @@
-> *The following text is extracted and transformed from the simplehuman.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921233929id_/http%3A//www.simplehuman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplehuman.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222213141id_/http%3A//www.simplehuman.com/privacy-policy) for the most accurate reproduction.*
 
-# simplehuman: privacy policy
+# simplehuman | privacy policy
 
-**SIMPLEHUMAN.COM’S PRIVACY POLICY**
+**PRIVACY POLICY**
 
-**Privacy Information**
+Simplehuman ("simplehuman") maintains: (1) simplehuman.com website ("Site") and (2) software that may be downloaded to your smartphone or tablet to access services (“Mobile Apps”), the Site and the Mobile Apps collectively referred to as “Services” herein. At simplehuman, we are committed to protecting the privacy and security of your personal information. To learn more, please read this privacy policy that follows ("Privacy Policy").
 
-**INFORMATION GATHERED BY SIMPLEHUMAN.COM.**
+This Privacy Policy describes the types of personal information we may collect, how we may use this information and when (under certain circumstances) we may disclose this information. This Privacy Policy also details the steps we have taken to secure your personal information. By using our Services, you accept the practices described in this Privacy Policy. 
 
-This is Simplehuman.com’s (“Simplehuman.com”) online privacy policy (“Policy”). This policy applies only to activities Simplehuman.com engages in on its website and does not apply to Simplehuman.com activities that are "offline" or unrelated to the website. Simplehuman.com collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. The anonymous data collected by the Simplehuman.com website can include information such as the type of browser you are using, and the length of the visit to the website. 
+**INFORMATION COLLECTION**
 
-You may also be asked to provide personally identifiable information on the Simplehuman.com website, which may include your name, address, telephone number, credit card number, and e-mail address. This information can be gathered when feedback or e-mails are sent to Simplehuman.com, when you register for services, or make purchases via the website. In all such cases you have the option of providing us with personally identifiable information. If personally identifiable information is provided in connection with an order, that information will be gathered by Yahoo! and then sent to Simplehuman.com by Yahoo! in order to fulfill your order. 
+simplehuman will not collect any personal information about you except when specifically and knowingly provided by you. Examples of such information are name, shipping and billing addresses, phone number, email address, credit card information, photos, IP addresses, and customer preferences data. Examples of ways in which we may collect such information from you include the following, but not limited to:
 
-**COOKIES.**
+  1. Registration and Ordering. Before using certain parts of the Services or ordering products, you must complete a registration form. When registering, you will be prompted to provide certain personal information, including but not limited to your name, shipping and billing addresses, phone number, email address, and credit card number. In addition, you may also be asked to provide your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Services, and for internal marketing purposes. If we encounter a problem when processing your order, we will use the personal information to contact you.
+  2. Email Addresses. Some areas of the Services allow you to enter your email address for purposes including, but not limited to: special promotions on the Services or opening a simplehuman account.
+  3. Google Analytics. simplehuman has implemented Google Analytics features based on Display Advertising, such as [Google Analytics Demographics](https://support.google.com/analytics/answer/2799357?hl=en). You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. simplehuman will use the data provided by Google Analytics Demographics to develop the Services and content around our users' interests. 
+  4. Cookies. Like most other websites, simplehuman uses cookie technology throughout the Services. A cookie is a small removable data file that is stored by your web browser on your computer. Cookies are used to provide customers with tighter security, customized content, tracking of orders and shopping cart items. simplehuman, or a third party, may use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as Facebook) to collect information from your activities on the Services as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences. Unfortunately, customers who turn off cookies in their browser settings will not be able to shop from the Services. However, customers who have disabled cookies can still place orders over the telephone by contacting our Customer Support number at 877-988-7770.
+  5. Mobile Apps. Simplehuman's Mobile Apps will connect to simplehuman's server and may collect information about, but not limited to, your simplehuman product information and settings, your photos uploaded for calibrating products, purchase history, and your IP address.
 
-Cookies are small bits of data cached in a user’s browser. Simplehuman.com utilizes cookies to determine whether or not you have visited the home page in the past. However, no other user information is gathered. 
 
-**THIRD-PARTY WEB BEACONS.**
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
+**COLLECTED INFORMATION**
 
-**USE AND DISCLOSURE OF INFORMATION.**
+We do not sell or rent information about our customers, and all information provided to simplehuman remains absolutely confidential, except that:
 
-Except as otherwise stated below, we do not sell, trade or rent your personally identifiable information collected on the site to others. The information collected by our site is used to process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our site. We will disclose your personally identifiable information to third parties for order tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our site, perform statistical and data analyses, deliver your order and deliver promotional emails to you from us. For example, we must release your credit card number to confirm payment; and release your mailing address information to the delivery service to deliver products that you ordered. Moreover, Simplehuman.com uses Yahoo! to process and accept orders and payments. Please review Yahoo!’s policy if you have questions or concerns regarding Yahoo!’s privacy policy. 
+  1. We may share aggregate or summary information regarding our customers with partners, advertisers or other third parties. This data will never identify you personally.
+  2. We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company or web host) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+  3. We will use your personal information to communicate with you about your orders and deliveries, and we may send you a confirmation email when you register/place an order with us. Also, if you submit your email address to register for special promotions on Site or to open a simplehuman account, we use it to deliver the information to you.
+  4. We may be required to disclose such information in response to subpoenas, court orders, requests from law-enforcement officials, or if we are otherwise required to disclose such information by law.
+  5. We may publicly disclose the name, city and state of the winner of any online sweepstakes.
 
-Simplehuman.com may use non-personal "aggregated data" to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties to enhance your experience on our website. Additionally, if you provide Simplehuman.com with content for publishing or feedback, we may publish your user name or other identifying data with your permission. 
 
-Simplehuman.com may also disclose personally identifiable information in order to respond to a subpoena, court order or other such request. Simplehuman.com may also provide such personally identifiable information in response to a law enforcement agency's request or as otherwise required by law. Your personally identifiable information may be provided to a party if Simplehuman.com files for bankruptcy, or there is a transfer of the assets or ownership of Simplehuman.com in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions. 
 
-**OTHER WEBSITES.**
+**PROTECTING YOUR INFORMATION**
 
-Simplehuman.com is not responsible for the privacy policies of websites to which it links. If you provide any information to such third parties different rules regarding the collection and use of your personal information may apply. We strongly suggest you review such third party's privacy policies before providing any data to them. We are not responsible for the policies or practices of third parties. Please be aware that our sites may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those Web sites linked to our site is not covered by this Policy. These other sites may send their own cookies or clear GIFs to users, collect data or solicit personally identifiable information. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they collect. 
+Shopping on the Site is easy, secure and worry-free. We have taken several measures to guarantee that your order and your credit card information are safe and secure. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology that works with Microsoft Internet Explorer (version 3.0 and above), Netscape Navigator (versions 2.0 and above), and AOL (AOL 3.0 and above), and the Site's security has been tested and and verified by McAfee Secure Sign.
 
-**SECURITY.**
+SSL is considered the industry standard and is among the leading software available to encrypt online transactions. Your personal information, including your name, credit card number and address, is encrypted so that it cannot be read as it is transmitted over the Internet. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, any information you transmit to us is sent at your own risk.
 
-Simplehuman.com takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, Simplehuman.com cannot guarantee the security of any information that is disclosed online. 
+**CHILDREN'S PRIVACY**
 
-**CHILDREN.**
+We do not intentionally collect personally identifiable information from children under the age of thirteen (13). If we become aware that we have collected personally identifiable information from a user of the Services who is under the age of thirteen, we will remove that child's personal information from our files.
 
-Simplehuman.com does not knowingly collect personal information from children under the age of 13. Children are not permitted to use the Simplehuman.com website or services, and Simplehuman.com requests that children under the age of 13 not submit any personal information to the website. Since information regarding children under the age of 13 is not collected, Simplehuman.com does not knowingly distribute personal information regarding children under the age of 13. 
+**OPT OUT / CORRECTIONS**
 
-**CORRECTIONS AND UPDATES.**
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to simplehuman's Customer Support department at [customer.support@simplehuman.com](mailto:customer.support@simplehuman.com). Please clearly label the subject line "Opt Out / Corrections," and do not email your credit card number or other sensitive information.
 
-If you wish to modify or update any information Simplehuman.com has received, please contact [support@simplehuman.com](mailto:support@simplehuman.com). 
+**POLICY CHANGES**
 
-**MODIFICATIONS OF THE PRIVACY POLICY.**
+We may change our Privacy Policy from time-to-time. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy.
 
-Simplehuman.com reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. Simplehuman.com encourages you to frequently review the privacy policy for any modifications. 
+**QUESTIONS AND FEEDBACK**
+
+We welcome your questions, comments and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at [customer.support@simplehuman.com](mailto:customer.support@simplehuman.com).
+
+**TERMS AND CONDITIONS**
+
+Please also visit our [Terms of Use](https://web.archive.org/terms-of-use/) section that explains other terms and conditions governing the Services.
