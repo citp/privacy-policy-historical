@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622064208id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222050309id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MormonBoyz MormonBoyz
+# Privacy Policy - Mormon Boyz Mormon Boyz
 
 Your privacy is important to us here at MormonBoyz. To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
