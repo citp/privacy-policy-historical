@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the streetinsider.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627161310id_/http%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streetinsider.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222195139id_/http%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head prefix="og:http://ogp.me/ns#">
 <title>StreetInsider.com</title>
@@ -29,8 +29,8 @@ $jq = jQuery.noConflict();
 <script type="text/javascript" src="js/stock_tooltips.js?v=4"></script>
 
 <script language="javascript" type="text/javascript" src="js/formcheck.js"></script>
-<script language="javascript" type="text/javascript" src="js/root.js?rev=11"></script>
-<link href="css/root.css?rev=23" rel="stylesheet" type="text/css" title="mainstyles">
+<script language="javascript" type="text/javascript" src="js/root.js?rev=12"></script>
+<link href="css/root.css?rev=26" rel="stylesheet" type="text/css" title="mainstyles">
 
 <!-- Mimic Internet Explorer 7 -->
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -77,7 +77,9 @@ window.fbAsyncInit = function() {
 		channelUrl : '//www.streetinsider.com/fbchannel.php', // Channel File
 		status     : true, // check login status
 		cookie     : true, // enable cookies to allow the server to access the session
-		xfbml      : true  // parse XFBML
+		xfbml      : true,  // parse XFBML
+		oauth      : true,
+		version    : 'v2.5'
 	});
 
 	// Additional initialization code here
@@ -86,6 +88,12 @@ window.fbAsyncInit = function() {
 			if ( window.fbLoginCallback ) {
 				window.fbLoginCallback.call(window, response);
 			}
+		}
+	});
+
+	FB.Event.subscribe('edge.create', function(e) {
+		if ( window.onFbLike ) {
+			window.onFbLike();
 		}
 	});
 };
@@ -206,14 +214,7 @@ registerDefaultInput('google_search_header');
 <div id="nav"> 
 
 <div class="mini_ad">
-<!-- Random number generator to be placed in page header -->
-<script language="javascript" type="text/javascript">var ord = Math.random() * 10000000000000000</script>
-
-<!-- begin ad tag (tile=15) -->
-<script language="JavaScript" type="text/javascript">;
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=3046382029783163.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.streetinsider/qtsearch;kw=;kval=qtsearch;tile=15;sz=88x31;ord=123456789?" width="88" height="31" border="0" alt=""></a></noscript>
-<!-- End ad tag --></div>
+</div>
 
 
 <ul class="loggedout">
@@ -350,7 +351,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 					<li class="main_li hide-sm nav_pnl" onmouseover="SIJS.toggleMenu(this, true);" onmouseout="SIJS.toggleMenu(this, false);">
 		<a href=" http://www.streetinsider.com/premium_newsletters.php">Premium Letters</a>
 		<ul class="nav_submenu" style="white-space:nowrap">
-									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/Newsletter/Streetinsider.com+Pulse+Picks/2.html">*NEW Pulse Picks</a></li>
+									<li class="MarginBottomNeg15 sub_li premiumtab"><a class="" href="http://www.streetinsider.com/signup_email.php?single=coming_soon_dividend_insider_elite_get_first_copy_free">COMING SOON: Dividend Insider Elite</a></li>
+									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/Newsletter/Streetinsider.com+Pulse+Picks/2.html">Pulse Picks</a></li>
 									<li class="MarginBottomNeg15 sub_li"><a class="" href="http://www.streetinsider.com/Newsletter/StreetInsider.com+Ratings+Insider+Elite/1.html">Ratings Insider Elite</a></li>
 					</ul>
 	</li>
@@ -365,9 +367,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <div id="quick_links">
 <ul>
 <li class="quick_links_title">QUICK LINKS :</li>
-<li class="quick_links_first"><a href="http://www.streetinsider.com/rating_history.php?q=aapl">AAPL Price Targets Rising</a></li>
-<li><a href="http://www.streetinsider.com/Insiders+Blog/Blackstones+Byron+Wien+Releases+Top+Ten+Surprises+for+2015/10133834.html">Byron Wien Top 10 Surprises for 2015</a></li>
-<li><a href="http://www.streetinsider.com/Analyst+Comments/Cowen+Lists+Top+10+Potential+Biotech+Surprises+Of+2015%3B+Is+an+Old+Fashioned+Scandal+in+the+Cards%3F+%28GILD%29+%28BIIB%29+%28AEGR%29+%28more...%29/10112978.html"><b>SI Premium Gift</b></a></li>
+<li class="quick_links_first"><a href="http://www.streetinsider.com/entities/Goldman+Sachs+Conviction+Buy+List">Goldman Sachs Conviction Buy List</a></li>
+<li><a href="https://www.streetinsider.com/gift.php"><b>Give the Gift of SI Premium this Holiday Season!</b></a></li>
 <li style="padding-left: 6px;">
 	<a href="http://twitter.com/Street_Insider" data-width="241" class="twitter-follow-button">Follow @Street_Insider</a>
 	<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
@@ -399,11 +400,11 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <!--START Ad Space -->
 
 <div class="top_headlines">
-	<span>Highlighted Articles</span>
+	<span>Most Read Stories</span>
     <ul>
-		<li><a href="Analyst+Comments/Jefferies+Starts+Apple+%28AAPL%29+at+Hold%2C+%24110+Price+Target/9869585.html">Jefferies Starts Apple (AAPL) at Hold, $110 Price Target</a></li>
-		<li><a href="Insiders+Blog/Ratings+Not+So+Sweet+for+CNBC+After+Money+Honey+Leaves/9871617.html">Ratings Not So Sweet for CNBC After Money Honey Leaves</a></li>
-		<li><a href="Analyst+Comments/BofAMerrill+Lynch+Upgrades+Alcoa+%28AA%29+to+Buy+on+Cash+Flow+Recovery/9869469.html">BofA/Merrill Lynch Upgrades Alcoa (AA) to Buy on Cash Flow Recovery</a></li>
+		<li><a href="Analyst+Comments/Chipotle+Mexican+Grills+%28CMG%29+Ongoing+Food+Safety+Issues+Too+Much+for+JPMorgan%3B+Stock+Downgraded+to+Neutral/11171765.html">Chipotle Mexican Grill's (CMG) Ongoing Food Safety Issues 'Too Much' for JPMorgan; Stock Downgraded to Neutral</a></li>
+		<li><a href="Hot+M+and+A/Stryker+%28SYK%29+Said+Planning+Acquisition+of+Smith+%26+Nephew+%28SNN%29+-+Source/11166193.html">Stryker (SYK) Said Planning Acquisition of Smith &amp; Nephew (SNN) - Source</a></li>
+		<li><a href="Short+Sales/KaloBios+Pharma+%28KBIO%29+Trading+Halt+Remains+in+Effect+Despite+CEO+Firing+Update/11169559.html">KaloBios Pharma (KBIO) Trading Halt Remains in Effect Despite CEO Firing Update</a></li>
 	    </ul>
 </div>
 
@@ -520,11 +521,8 @@ StreetInsider.com<br></div>
 <div id="ad_space">
 <img src="/images/ad_sipremium.gif" alt="" width="240" height="90" onclick="location.href = 'premium_content.php'; return false">
 <div class="ad">
-<script type="text/javascript">adsonar_placementId=1409188;adsonar_pid=1147770;adsonar_ps=-1;adsonar_zw=728;adsonar_zh=90;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
-<br>
 <script src="http://cdn.investingchannel.com/ic_beacon.js" type="text/javascript"></script>
 <script type="text/javascript"> icBeacon('streetinsider'); </script>
-<br>
 </div>
 </div>
 
@@ -586,6 +584,8 @@ _qacct="p-10HO819ww3FLg";quantserve();</script>
 <script type="text/javascript">
 document.write('<img width="0" height="0" src="t.p' + 'hp?self=%2Fprivacy.php&qs=" />');
 </script><img width="0" height="0" src="t.php?self=%2Fprivacy.php&amp;qs=">
+
+
 
 
 
