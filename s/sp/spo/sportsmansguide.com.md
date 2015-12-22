@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622160313id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222094524id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
 # Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
 
