@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kubota.com privacy policy that was archived on 2015-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617002736id_/http%3A//kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kubota.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222162451id_/http%3A//www.kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Kubota Tractor USA - KTC Policy</title>
@@ -17,7 +17,7 @@
 </script>
     
     
-</head>
+<script type="text/javascript" src="https://rtsys.rtrk.com/rct_lct/js/rlrct1.js"></script></head>
 <body topmargin="0" style="margin-top:0px;">
 	
 
@@ -79,6 +79,7 @@
 	$('#USeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#RSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#SVLSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
+	$('#SSVSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#TLB2Series').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#DMSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#DMCSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
@@ -104,6 +105,8 @@
 	function(){$(this).poshytip('hide')});
 	*/
 
+	$('#buildSSVSeries').hover(	function(){$('#SSVHidden').css('display','block')},	function(){$('#SSVHidden').css('display','none')});
+	
 	$('#searchTerm').focus(function() {
 	$(this).val("");
 	});
@@ -516,7 +519,7 @@
 									</div>
 								</div>
 								<div id="mConstructionEquipment">
-									<div id="KXSeries" onclick="window.location='/product/KXSeries.aspx'" style="position:absolute;width:182px;height:258px;top:2px;left:2px;border:0px solid red;cursor:pointer;">
+									<div id="KXSeries" onclick="window.location='/product/KXSeries.aspx'" style="position:absolute;width:318px;height:129px;top:2px;left:2px;border:0px solid red;cursor:pointer;">
 										<div id="learnKXSeries" class="buttonOff" onclick="window.location='/product/KXSeries.aspx'">
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
@@ -525,7 +528,7 @@
 										</div>
 									</div>
 
-									<div id="USeries" onclick="window.location='/product/USeries.aspx'" style="position:absolute;width:180px;height:258px;top:2px;left:185px;border:0px solid red;cursor:pointer;">
+									<div id="USeries" onclick="window.location='/product/USeries.aspx'" style="position:absolute;width:318px;height:129px;top:134px;left:2px;border:0px solid red;cursor:pointer;">
 										<div id="learnUSeries" class="buttonOff" onclick="window.location='/product/USeries.aspx'">
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
@@ -534,7 +537,7 @@
 										</div>
 									</div>
 
-									<div id="SVLSeries" onclick="window.location='/product/SVLSeries.aspx'" style="position:absolute;width:185px;height:258px;top:2px;left:368px;border:0px solid red;cursor:pointer;">
+									<div id="SVLSeries" onclick="window.location='/product/SVLSeries.aspx'" style="position:absolute;width:313px;height:129px;top:2px;left:322px;border:0px solid red;cursor:pointer;">
 										<div id="learnSVLSeries" class="buttonOff" onclick="window.location='/product/SVLSeries.aspx'">
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
@@ -543,7 +546,20 @@
 										</div>
 									</div>
 
-									<div id="RSeries" onclick="window.location='/product/RSeries.aspx'" style="position:absolute;width:185px;height:258px;top:2px;left:556px;border:0px solid red;cursor:pointer;">
+									<div id="SSVSeries" onclick="window.location='/product/SSVSeries.aspx'" style="position:absolute;width:313px;height:129px;top:134px;left:322px;border:0px solid red;cursor:pointer;">
+										<div id="learnSSVSeries" class="buttonOff" onclick="window.location='/product/SSVSeries.aspx'">
+											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
+										</div>
+										<div id="buildSSVSeries" class="buttonOff">
+											
+											<a href="#"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgoverx"></a>
+										</div>
+										<div id="SSVHidden" style="display:none;position:absolute;bottom:39px;left:40px; width:115px; height:30px;line-height:30px;border:1px solid #777;border-radius:5px;background-color:#fff;">
+											&nbsp;&nbsp;Coming Soon...
+										</div>
+									</div>
+
+									<div id="RSeries" onclick="window.location='/product/RSeries.aspx'" style="position:absolute;width:318px;height:129px;top:2px;left:639px;border:0px solid red;cursor:pointer;">
 										<div id="learnRSeries" class="buttonOff" onclick="window.location='/product/RSeries.aspx'">
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
@@ -551,8 +567,7 @@
 											<a href="/configurator/productselector.aspx?pgId=4"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
 										</div>
 									</div>
-
-									<div id="TLB2Series" onclick="window.location='/product/TLBSeries.aspx'" style="position:absolute;width:213px;height:258px;top:2px;left:744px;border:0px solid red;cursor:pointer;">
+									<div id="TLB2Series" onclick="window.location='/product/TLBSeries.aspx'" style="position:absolute;width:318px;height:129px;top:134px;left:639px;border:0px solid red;cursor:pointer;">
 										<div id="learnTLB2Series" class="buttonOff" onclick="window.location='/product/TLBSeries.aspx'">
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
@@ -664,17 +679,18 @@
 							<hr>
 						</li>
 						<li class="financeMenu" id="financeOptions">Featured Offers
-							<ul class="subFinanceDropdown">
+							<ul class="subFinanceDropdown">								
 								<li class="financeSubMenu">
-									<a href="/product/HayTools/HayToolsOffer.aspx">Hay Tools</a>
+									<a href="/product/BX70/BXSeriesOffer.aspx">BX Series</a>
 								</li>
 								<li class="financeSubMenu">
-									<a href="/product/LSeries/LSeriesOffer.aspx">Standard L Series</a>
+									<a href="/product/HayTools/PreSeasonHayOffer.aspx">Pre-Season Hay Days</a>
 								</li>
-								<li class="financeSubMenu" style="padding-bottom:7px;">
-									<a href="/product/MX4800/MXSeriesOffer.aspx">MX4800/MX5200</a>
+								<li class="financeSubMenu">
+									<a href="/product/Z700/Z700Offer.aspx">Z700 Series</a>
 									<hr>
 								</li>
+								
 							</ul>
 						</li>
 						<li class="financeMenu"><a href="/FinancingPreApproval/default.aspx" target="_blank">Apply For Financing</a>
@@ -734,7 +750,7 @@
 				<ul class="moreDropdown">
 					<li class="productMenu">
 						<div id="moreMenuWrapper">
-							<div id="moreHolder" style="box-sizing:content-box">
+							<div id="moreHolder" style="box-sizing:content-box;">
 								<div class="moreSubmenu" style="position:absolute;top:25px; left:0;text-align:left;">
 									<div class="moreSubmenuHeader">SUPPORT</div>
 									<a href="/contactus/RequestBrochuresForm.aspx" class="moreLink topBrochure cboxElement" frel="headerBrochure">Brochure</a><br>
@@ -792,7 +808,30 @@
 		
 </div>
 <form method="post" action="KTCPrivacy.aspx" id="form1" style="margin-top:0;">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjk1MjE1NDE3D2QWAgIHD2QWBAIDD2QWAmYPFgIeCWlubmVyaHRtbAVVDQo8ZGl2PjxpbWcgc3JjPSIvcG9saWN5L2ltYWdlcy9Qcml2YWN5UG9saWN5X2hlYWRlci5qcGciIGFsdD0iIiB3aWR0aD0iOTYwIiAvPjwvZGl2PmQCBQ9kFgJmDxYCHwAFvwcgDQo8ZGl2Pkt1Ym90YSBUcmFjdG9yIENvcnBvcmF0aW9uIHJlc3BlY3RzIHRoZSBvbmxpbmUgcHJpdmFjeSBvZiBhbGwgaW5kaXZpZHVhbHMgd2hvIHZpc2l0IG91ciB3ZWJzaXRlLiBUaGUgS3Vib3RhIFRyYWN0b3IgQ29ycG9yYXRpb24gd2Vic2l0ZSBoYXMgYSBndWVzdCByZWdpc3RyeSwgYW5kIG1heSBmcm9tIHRpbWUgdG8gdGltZSBpbmNsdWRlIHN1cnZleXMgb3Igb3RoZXIgZmVlZGJhY2sgZm9ybXMgd2hpY2ggcmVxdWVzdCBjZXJ0YWluIHBlcnNvbmFsIGlkZW50aXR5IGluZm9ybWF0aW9uLiBUaGUgcGVyc29uYWwgaWRlbnRpdHkgaW5mb3JtYXRpb24gY29sbGVjdGVkIG1heSBiZSB1c2VkIHRvIHByb3ZpZGUgaW5mb3JtYXRpb24gdG8gc2l0ZSByZWdpc3RyYW50cyByZWdhcmRpbmcgb3VyIHByb2R1Y3RzLCBjb21wYW55IG9yIHByb21vdGlvbmFsIG9mZmVycy4gVGhpcyBwZXJzb25hbCBpZGVudGl0eSBpbmZvcm1hdGlvbiBtYXkgYmUgdHJhbnNtaXR0ZWQgdG8gb3VyIGRlYWxlcnMgb3Igb3RoZXIgYnVzaW5lc3MgcGFydG5lcnMuIFdlIHdpbGwgbm90IGdpdmUsIHJlbnQgb3Igc2VsbCBwZXJzb25hbCBpZGVudGl0eSBpbmZvcm1hdGlvbiB0byBhbnkgb3RoZXIgb3V0c2lkZSBjb21wYW55IGZvciB1c2UgaW4gbWFya2V0aW5nIG9yIHNvbGljaXRhdGlvbi4gV2Ugd2lsbCBleGVyY2lzZSByZWFzb25hYmxlIGVmZm9ydHMgdG8gbWFpbnRhaW4gdGhlIGNvbmZpZGVudGlhbGl0eSBvZiB5b3VyIHBlcnNvbmFsIGlkZW50aXR5IGluZm9ybWF0aW9uLjwvZGl2Pg0KPHA+Q3VzdG9tZXJzIG9mIEt1Ym90YSBDcmVkaXQgQ29ycG9yYXRpb24gY2FuIGNsaWNrIDxhIGhyZWY9Ii9maW5hbmNlL0tDQ1BvbGljeS5hc3B4Ij5oZXJlPC9hPiB0byBzZWUgdGhlIENvbmZpZGVudGlhbGl0eSBQb2xpY3kgb2YgS0NDIHJlbGF0aW5nIHRvIHRoYXQgZmluYW5jaWFsIHJlbGF0aW9uc2hpcC48L3A+IGRkfD7CZoDuw76Jl/afk9SOgypof8g=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=6a2j3udhJfMKyfzmXiiKoZRdfB6xKdx0KV2QwtKomLXpxx9x0poAq19zuMPcdNdRZ8PQVDG_TjfCTJtchOFWphCILBU1&amp;t=634773866700000000" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=2P-vMImz2V8GUisOa47UJFpmnHoCUIfuE3QRIrzIHms5EqRE2fI5yiz6q4D73Dcx_JzD4sR1FZ6pGCFQ3EY4BiP2Js4ObFFYGJkxsjRjhh0frf33K8JyA-aLzd-KyxMakkS9GGRM9YLZkjYgDC6s5ktvz77Yhvhv6fUl2TU68IXlhv8L0&amp;t=6119e399" type="text/javascript"></script>
@@ -801,8 +840,14 @@
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
+
+<script src="/ScriptResource.axd?d=9eYeuSn5uCRtiasnQU9P_5iSbtLWGXqj3cE5afHIo5kW-jUhJ4K2MESLlrs5Ez1R-RA_Rx0jxqDknWIX0C9HYf4vhbt93hjqhsNOvZy3MlJjMJJtL1Z52a0E8EZmIefRN314hUGMvmZFH746wVNjPtrWBlPW1IL90G1kCH9s0ri7BcbuwIdmkTR1vRBCLXnlMm3uZQ2&amp;t=6119e399" type="text/javascript"></script>  
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
   
-		  
 			
 		<div style="margin:0 auto;width:960px;">
 			<div style="height:54px;background-color:#EAF3F5;">
@@ -922,6 +967,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         //pageTracker._setDomainName('kubota.com');
         pageTracker._trackPageview();
     </script>
+
+<script type="text/javascript"> rlrctTRKDOM="rtsys.rtrk.com"; (function() { var rct_load = document.createElement("script"); rct_load.type = "text/javascript"; rct_load.src = document.location.protocol+"//"+rlrctTRKDOM+"/rct_lct/js/rlrct1.js"; (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(rct_load); } )(); </script>
 
 		</div>
 		
