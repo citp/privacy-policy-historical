@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627114536id_/http%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222075324id_/https%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | British History Online
 
@@ -29,6 +29,7 @@ has_js, SESS<hash-id>, DRUPAL_UID
 
 | These cookies are set and used by our content management systems when you visit and/or login to BHO. It is not used by the IHR for any other purpose. We use Drupal 7 CMS ([http://drupal.org](http://drupal.org/)). has_js cookies indicates your browser is javascript enabled. SESS<hash-id> is the CMS session cookie and DRUPAL_UID is the user id when you are logged in set by the [Boost](https://www.drupal.org/project/boost) caching system.  
 Login management | ip_login_as_different_user | This cookie stores a flag indicating you have logged out of BHO, and prevents auto-re-login (if you are eligible via an Institutional subscription for IP address or Shibboleth sessions).  
+EU Cookie message | cookie-agreed | This cookie stores your preference to hide the cookie information message.  
 Google Analytics | _ga, _gat | These cookies are set by the [Google Ananlytics](http://www.google.com/analytics/) [Universal Analytics](https://support.google.com/analytics/answer/2790010?hl=en-GB) script, which we use for site usage metrics. We also use [Google Custom Dimensions and Metrics](https://developers.google.com/analytics/devguides/platform/customdimsmets) to track types of user accounts and institutional account usage (for [COUNTER](http://www.projectcounter.org/index.html) stats reporting purposes). You can block this using the [Do Not Track settings](http://en.wikipedia.org/wiki/Do_Not_Track) in your browser.   
 Shibboleth | _shibsession_<hash-id> | If you access BHO Premium content via the [UK Access Management Federation](http://www.ukfederation.org.uk/content/Documents/PrivacyAndCookiesPolicy), shibboleth session cookies are used.  
   
@@ -87,7 +88,7 @@ Log files allow us to record visitors' use of the site. We analyse log file info
 
 You can change your registration information at any time. To do this, you should [sign in](http://www.british-history.ac.uk/user) and edit your account.
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by completing our [feedback form](http://www.british-history.ac.uk/content/contact-us).
+If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by completing our [feedback form](http://www.british-history.ac.uk/contact-us).
 
 ## External links
 
@@ -102,5 +103,6 @@ If this privacy policy changes in any way, we will place an updated version on t
 _**Policy last updated:**_
 
   * _2014-12-05  – Policy text copied from BHO version 4.x and updated for BHO version 5.x_
+  * _2015-08-17 –  Added EU Cookie pop-up message and 'cookie-agreed' cookie information to the table._
 
 
