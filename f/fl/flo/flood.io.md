@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flood.io privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911235218id_/https%3A//flood.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flood.io privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222105239id_/https%3A//flood.io/privacy) for the most accurate reproduction.*
 
 # Privacy | Flood IO
 
