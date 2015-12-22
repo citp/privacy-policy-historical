@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523165448id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222122446id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Paid Surveys at Home
 
@@ -41,9 +41,9 @@ Notice to Canada Residents
 By choosing to provide your email address to Paid Surveys at Home, you agree and consent to be contacted by or on behalf of Paid Surveys at Home at the physical address and email or phone number you provide, regardless of your status on any Do-Not-Mail or Do-Not-Call List.
 
 Contacting "Paid Surveys at Home"  
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us at: Paid Surveys at Home, 1200 S. Brand Blvd. #112, Glendale, CA 91204, USA. Phone: +1-949-743-3217.
 
 Policy Changes  
 "Paid Surveys at Home" reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on July 30, 2014. 
+This Privacy Policy was last revised on July 14, 2015. 
