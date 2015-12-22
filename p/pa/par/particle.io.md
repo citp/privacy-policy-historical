@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the particle.io privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520041513id_/http%3A//www.particle.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the particle.io privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222171421id_/https%3A//www.particle.io/privacy) for the most accurate reproduction.*
 
-# Particle (formerly Spark) | Build your connected product
+# Particle (formerly Spark) | Build your Internet of Things
 
 This privacy policy covers Particle’s collection and treatment of information and data collected when you visit Particle’s Websites or use Particle Services.
 
 #### Section 1. Definitions
 
-1.1 “Particle” means the entity Spark Labs, Inc. dba Particle
+1.1 “Particle” means the entity Particle Industries, Inc.
 
 1.2 “Services” means the any and all services and hosted software applications provided by Particle, including but not limited to, the Particle API, the Particle Cloud, Particle’s web IDE, Particle’s Project Share Website, Particle’s website and any other software services offered by Particle.
 
@@ -32,7 +32,7 @@ This privacy policy covers Particle’s collection and treatment of information 
 
 2.2.1 When You create an account with Particle, You provide us with data that includes an email address and password. Particle may also give you the option to voluntarily share other data with us that is connected to your account. If any of these details change, You may update your account at any time and modify, correct or delete your account details.
 
-2.2.2 If you are using Particle to connect a Product to the Particle Cloud, You will be required to identify a network and corresponding network password. This information exists only locally, and Particle does not have access to it. When You connect a Product, a specific Product ID will be sent to the Particle Cloud, after which Particle will be able to match a specific Core ID to Your account details.
+2.2.2 If you are using Particle to connect a Product to the Particle Cloud, You will be required to identify a network and corresponding network password. This information exists only locally, and Particle does not have access to it. When You connect a Product, a specific Product ID will be sent to the Particle Cloud, after which Particle will be able to match a specific device ID to Your account details.
 
 2.2.3 You may choose to contribute and interact on Particle Websites including the Project Share Site and forum Website. You will have the opportunity to choose what information (other than Your user name which is not optional) you would like to make public. You may choose whether to display or give out your contact details and other personally identifiable information on the Websites.
 
