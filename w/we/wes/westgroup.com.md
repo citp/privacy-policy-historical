@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623091150id_/http%3A//legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222221052id_/http%3A//legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal Solutions
 
@@ -105,7 +105,7 @@ We may use services hosted by third parties to assist in providing our services 
 
 Back to Top
 
-HOW DOES THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+### HOW DOES THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
 
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures.**
 
@@ -113,7 +113,7 @@ Also, please note that we may store and process your personal information in sys
 
 Back to Top
 
-WHO HAS ACCESS TO THE PERSONAL INFORMATION? 
+### WHO HAS ACCESS TO THE PERSONAL INFORMATION? 
 
 We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
 
@@ -132,7 +132,7 @@ Your access to some of our services and content may be password protected, such 
 
 Back to Top
 
-HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
+### HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
 
 You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
 
@@ -142,7 +142,7 @@ If you have any additional questions or concerns related to this statement and/o
 
 PUBLIC RECORDS PRIVACY STATEMENT
 
-Please review the [Privacy and Public Records Policy Statement](http://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records) to learn about the kinds of public records Thomson Reuters gathers and makes available via certain of its restricted sites. If you have further questions, please send an email message to [westlaw.privacypolicy@thomsonreuters.com](mailto:westlaw.privacypolicy@thomsonreuters.com).
+Please review the [Privacy and Public Records Policy Statement](https://web.archive.org/about/legal-notices/privacy/records) to learn about the kinds of public records Thomson Reuters gathers and makes available via certain of its restricted sites. If you have further questions, please send an email message to [westlaw.privacypolicy@thomsonreuters.com](mailto:westlaw.privacypolicy@thomsonreuters.com).
 
 PRIVACY STATEMENT CHANGES
 
