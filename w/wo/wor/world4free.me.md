@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the world4free.me privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506035500id_/http%3A//www.world4free.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world4free.me privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222164931id_/http%3A//www.world4free.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - World4free
+# Privacy Policy - World4free.me
 
 Privacy Policy for www.world4free.me
 
