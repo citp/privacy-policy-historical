@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usingenglish.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629052253id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usingenglish.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222214423id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><!-- #BeginTemplate "/Templates/general.dwt.php" --><!-- DW6 --><head>
 	<meta charset="iso-8859-1">
@@ -13,14 +13,32 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+	
+<meta property="og:locale" content="en_GB">
+<meta property="og:title" content="UsingEnglish.com">
+<meta property="og:description" content="Resources to learn the English language for ESL, EFL, ESOL, and EAP students and teachers. Browse our Glossary of Terms, join our busy forums, download our free language software, read our articles and teacher handouts, and find useful links and information on English here.">
+<meta property="og:url" content="http://www.usingenglish.com/about/privacy/">
+<meta property="og:image" content="http://static.usingenglish.com/images/uelogo-200x200.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="UsingEnglish.com">
+<meta property="fb:admins" content="560911431">
+<meta property="fb:app_id" content="128517540511574">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.usingenglish.com/about/privacy/">
+<meta name="twitter:title" content="UsingEnglish.com">
+<meta name="twitter:description" content="English language resources for students and teachers including reference materials, articles and teacher handouts, busy online discussion forums and more.">
+<meta name="twitter:site" content="@UsingEnglish">
+<meta name="twitter:image" content="http://static.usingenglish.com/images/uelogo-profile-200x200.png">
+
+<!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
 
-<link rel="stylesheet" type="text/css" media="print" href="//static.usingenglish.com/css/print.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/min/?g=css">
+<link rel="stylesheet" type="text/css" href="//static.usingenglish.com/minify/?g=css" media="screen">
+<link rel="stylesheet" type="text/css" href="//static.usingenglish.com/css/print.css" media="print">
 
 
 	<!-- Start: GPT Async -->
@@ -39,45 +57,63 @@
 var gptAds = [];
 
 googletag.cmd.push(function() {
-	var TopLeaderboardMapping = googletag.sizeMapping().
-		addSize([0, 0], [320, 50]). 
-		addSize([500, 200], [468,60]).
-		addSize([758, 200], [728, 90]).
-		addSize([992, 200], [[970, 90], [728, 90]]).
-		build();
-	
-	var InContentBannerMapping = googletag.sizeMapping().
-		addSize([0, 0], [320, 50]).
-		addSize([500, 200], [[468, 60], [320, 50]]).
-		build();
+	var TopLeaderboardMapping = googletag.sizeMapping()
+		.addSize([0, 0], [320, 50])
+		.addSize([320, 200], [[320, 50], [300, 50]])
+		.addSize([750, 200], [[728, 90],[468,60]])
+		.addSize([980, 200], [[970, 90],[728, 90]])
+		.build();
 
-	gptAds.push(googletag.defineSlot('/1100912/Multi_Width_Header', [[320, 50], [468,60], [728, 90], [970, 90]],'header-leaderboard-ad').
-		addService(googletag.pubads()).
-		//setCollapseEmptyDiv(false).
-		defineSizeMapping(TopLeaderboardMapping));
-	
-	gptAds.push(googletag.defineSlot('/1100912/Multi_Width_Footer', [[320, 50], [468,60], [728, 90], [970, 90]],'footer-leaderboard-ad').
-		addService(googletag.pubads()).
-		//setCollapseEmptyDiv(true).
-		defineSizeMapping(TopLeaderboardMapping));
-				
-	gptAds.push(googletag.defineSlot('/1100912/In_Content_Banner_468x60', [[468, 60], [320, 50]],'div-gpt-ad-1409579676448-0').
-		addService(googletag.pubads()).
-		//setCollapseEmptyDiv(true).
-		defineSizeMapping(InContentBannerMapping));
+	gptAds.push(googletag.defineSlot('/1100912/Multi_Width_Header', [970, 90],'header-leaderboard-ad')
+		.addService(googletag.pubads())
+		.defineSizeMapping(TopLeaderboardMapping)
+		);
 
-	googletag.defineSlot('/1100912/Criteo_Right_Double_MPU', [[300, 600], [300, 250]], 'div-gpt-ad-1414174334865-0').
-		addService(googletag.pubads());
-		//setCollapseEmptyDiv(true);
+	var InContentBannerMapping = googletag.sizeMapping()
+		.addSize([0, 0], [320, 50])
+		.addSize([500, 200], [[468, 60],[320, 50]])
+		.addSize([750, 200], [[728, 90],[468, 60]])
+		.build();
+
+	gptAds.push(googletag.defineSlot('/1100912/In_Content_Banner_468x60', [728, 90],'div-gpt-ad-1409579676448-0')
+		.addService(googletag.pubads())
+		.defineSizeMapping(InContentBannerMapping)
+	);
+
+    googletag.defineSlot('/1100912/ResultsBanner', [336, 280], 'ResultsBannerAd')
+    	.addService(googletag.pubads());
+
+	var RHSMapping = googletag.sizeMapping()
+		.addSize([0, 0], [0, 0])
+		.addSize([670, 200], [160, 600])
+		.addSize([992, 200], [[300, 600],[336, 280],[300,250],[160, 600]])
+		.build();
+
+	gptAds.push(googletag.defineSlot('/1100912/Criteo_Right_Double_MPU', [300, 600], 'div-gpt-ad-1414174334865-0')
+		.defineSizeMapping(RHSMapping)
+		.addService(googletag.pubads())
+	);
 	
-	googletag.defineSlot('/1100912/Right_Promo_300x250', [300,250],'div-gpt-ad-1347957651206-0').
-		addService(googletag.pubads());
+	var BottomLeaderboardMapping = googletag.sizeMapping()
+		.addSize([0, 0], [320, 50])
+		.addSize([320, 200], [[320, 50],[300, 50]])
+		.addSize([750, 200], [[728, 90],[468,60]])
+		.addSize([980, 200], [[970, 90],[728, 90]])
+		.build();
+
+	gptAds.push(googletag.defineSlot('/1100912/Multi_Width_Footer', [970, 90],'footer-leaderboard-ad')
+		.addService(googletag.pubads())
+		.defineSizeMapping(BottomLeaderboardMapping)
+	);
 	
+	googletag.defineSlot('/1100912/Right_Promo_300x250', [300,250],'div-gpt-ad-1347957651206-0')
+		.addService(googletag.pubads());
 		
+	
 	googletag.pubads().setTargeting('Section', 'general');
 	googletag.pubads().setTargeting('MemberType', 'Unregistered');
 
-	googletag.pubads().collapseEmptyDivs(true,true); 
+	googletag.pubads().collapseEmptyDivs(); 
     googletag.pubads().setCentering(true);
     googletag.enableServices();
 });
@@ -95,9 +131,15 @@ window.addEventListener("resize", function(){
 
 </script>
 
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9175689426939339",
+    enable_page_level_ads: true
+  });
+</script>
 <link href="https://plus.google.com/106734814870740230624" rel="publisher">
 <link rel="alternate" type="application/rss+xml" title="What's New at UsingEnglish.com" href="http://feeds.feedburner.com/UsingEnglishWhatsNew">
-
 	
 	<!-- #BeginEditable "meta_JS" --><!-- #EndEditable -->
 	
@@ -130,11 +172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="navwrap">
 		<div class="container">
 			<div id="header-top">
-				<div id="logo">
-					<a href="/" title="UsingEnglish.com - Learn English (ESL) ">
-						<img src="//static.usingenglish.com/images/uelogo-trans-300x45.png" alt="UsingEnglish.com - English Language Learning (ESL)" width="300" height="45">
-					</a>
-				</div>
+				<a id="logo" href="/" title="UsingEnglish.com - Learn English (ESL) "></a>
 				<div id="toplinks" class="toplinks"><ul class="nouser">
 				<li><a href="/forum/register.php" rel="nofollow">Sign Up</a></li>
 				<li><a href="/members/login.php" rel="nofollow">Log In</a></li>				
@@ -506,7 +544,7 @@ Cookies are pieces of information which include a unique   reference code that a
                 </tr>
                 <tr>
                   <td>Digital Control</td>
-                  <td align="left" nowrap="nowrap" valign="top"><a href="http://www.digital-control.biz/de.html" target="_blank">www.digital-control.biz/de.html</a></td>
+                  <td align="left" nowrap="nowrap" valign="top"><a href="http://www.digital-control.biz/" target="_blank">www.digital-control.biz/</a></td>
                 </tr>
                 <tr>
                   <td>DoubleClick</td>
@@ -623,7 +661,7 @@ Cookies are pieces of information which include a unique   reference code that a
                 </tr>
                 <tr>
                   <td>HotChalk, Inc.</td>
-                  <td align="left" nowrap="nowrap" valign="top"><a href="http://www.hotchalk.com/network-info/" target="_blank">www.hotchalk.com/network-info/</a></td>
+                  <td align="left" nowrap="nowrap" valign="top"><a href="http://www.hotchalk.com/education-network/" target="_blank">www.hotchalk.com/education-network/</a></td>
                 </tr>
                 <tr>
                   <td>i-to-i TEFL</td>
@@ -684,19 +722,9 @@ Cookies are pieces of information which include a unique   reference code that a
 			<!-- Column 1 end -->
 		</div>
 		<div class="aside">
-				<div class="sidebar reg">
-		<h2>Share</h2>
-		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<div class="addthis_sharing_toolbox"></div>
-	</div>
-	<div class="sidebar reg">
-	<h2>Search</h2>
-	<gcse:searchbox-only></gcse:searchbox-only>
-</div>
-<div class="lf-ghost" style="height:274px;display:block"><div id="fixedsidebar" style="position: static; top: auto; width: 1366px; margin-top: 0px;">
-	<div class="sidebar rhsad">
+				<div class="sidebar rhsad">
 		<!-- Criteo_Right_Double_MPU -->
-		<div id="div-gpt-ad-1414174334865-0" style="width:300px;">
+		<div id="div-gpt-ad-1414174334865-0">
 			<script type="text/javascript">
 				googletag.cmd.push(function() {
 					googletag.display('div-gpt-ad-1414174334865-0');
@@ -704,9 +732,9 @@ Cookies are pieces of information which include a unique   reference code that a
 			</script>
 		</div>
 	</div>
-	<div class="sidebar rhsad">
+		<div class="sidebar rhsad">
 		<!-- Right_Promo_300x250 -->
-		<div id="div-gpt-ad-1347957651206-0" style="width:300px; height:250px;">
+		<div id="div-gpt-ad-1347957651206-0">
 			<script type="text/javascript">
 				googletag.cmd.push(function() {
 					googletag.display('div-gpt-ad-1347957651206-0');
@@ -714,27 +742,66 @@ Cookies are pieces of information which include a unique   reference code that a
 			</script>
 		</div>
 	</div>
-		<div class="sidebar facebook">
-		<fb:like-box href="https://www.facebook.com/usingenglish" colorscheme="light" show_faces="true" header="true" stream="false" show_border="true"></fb:like-box>
-	</div>
 	<div id="last"></div>
-</div></div>		</div>
-	</div>
-	<div id="footer-leaderboard">
-		<!-- Multi_Width_Footer -->
-		<div id="footer-leaderboard-ad">
-			<script type="text/javascript">
-				googletag.cmd.push(function() { googletag.display('footer-leaderboard-ad'); });
-			</script>
 		</div>
 	</div>
-	<div id="footer">
+	<div id="footer-leaderboard" class="clearfix">
+	<!-- Multi_Width_Footer -->
+	<div id="footer-leaderboard-ad">
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('footer-leaderboard-ad'); });
+		</script>
+	</div>
+</div>
+<div id="pageEnd">
+	<div class="row">
+		<div class="col-sm-4">
+			<p>English Reference</p>
+			<ul>
+			<li><a href="//www.usingenglish.com/reference/idioms/">Idioms</a></li>
+			<li><a href="//www.usingenglish.com/reference/phrasal-verbs/">Phrasal Verbs</a></li>
+			<li><a href="//www.usingenglish.com/reference/irregular-verbs/">Irregular Verb List</a></li>
+			<li><a href="//www.usingenglish.com/glossary/">Grammar Glossary</a></li>
+			<li><a href="//www.usingenglish.com/reference/dictionary/">English Dictionaries</a></li>
+			<li><a href="//www.usingenglish.com/download/">Downloads</a></li>
+			</ul>
+		</div>
+		<div class="col-sm-4">
+			<p>Language Articles</p>
+			<ul>
+				<li><a href="//www.usingenglish.com/articles/">Language Articles</a>
+				<ul><li><a href="/articles/grammar/" class="article_title">English Grammar Usage Articles &amp; Notes</a></li><li><a href="/articles/examinations/" class="article_title">English Language Examinations</a></li><li><a href="/articles/general/" class="article_title">General Articles</a></li><li><a href="/articles/learning-english/" class="article_title">Learning English</a></li><li><a href="/articles/punctuation/" class="article_title">Punctuation</a></li><li><a href="/articles/spelling/" class="article_title">Spelling</a></li><li><a href="/articles/teaching-english/" class="article_title">Teaching English</a></li><li><a href="/articles/teaching-esp/" class="article_title">Teaching English for Specific Purposes</a></li><li><a href="/articles/teaching-english-asia/" class="article_title">Teaching English in Asia</a></li></ul>				</li>
+				<li><a href="//www.usingenglish.com/profiles/tdol/">The Editor's Blog</a></li>
+				<li><a href="//www.usingenglish.com/speaking-out/">Speaking Out</a></li>
+			</ul>
+		</div>
+		<div class="col-sm-4">
+			<p>Tests &amp; Quizzes</p>
+			<ul>
+			<li><a href="//www.usingenglish.com/testing/">Language Tests</a></li>
+			<li><a href="//www.usingenglish.com/quizzes/">Quizzes</a></li>
+			<li><a href="//www.usingenglish.com/comprehension/">Reading Comprehension</a></li>
+			<li><a href="//www.usingenglish.com/poll/">Language Polls</a></li>
+			<li><a href="//www.usingenglish.com/resources/exam-tips.php">Exam Tips</a></li>
+			</ul>
+			<p>Teachers</p>
+			<ul>
+			<li><a href="//www.usingenglish.com/handouts/">Handouts &amp; Printables</a></li>
+			<li><a href="//www.usingenglish.com/teachers/lesson-plans/">Lesson Plans</a></li>
+			<li><a href="//www.usingenglish.com/teachers/training/">Teacher Training</a></li>
+			<li><a href="//www.usingenglish.com/e-books/">e-Books</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div id="footer">
 	<div id="footer_top">
-	   	<div class="center clear">
-			<a href="http://feeds.feedburner.com/UsingEnglishWhatsNew"><img src="//static.usingenglish.com/images/icons_36x36/feeds_36x36.png" width="36" height="36" alt="Get the UsingEnglish.com Feed"></a>&nbsp;&nbsp;&nbsp;
-			<a href="http://twitter.com/UsingEnglish"><img src="//static.usingenglish.com/images/icons_36x36/twitter_36x36.png" width="36" height="36" alt="Follow UsingEnglish.com on Twitter @UsingEnglish"></a>&nbsp;&nbsp;&nbsp;
-			<a href="http://www.facebook.com/UsingEnglish" rel="me"><img src="//static.usingenglish.com/images/icons_36x36/facebook_36x36.png" width="36" height="36" alt="Like UsingEnglish.com on Facebook"></a>&nbsp;&nbsp;&nbsp;
-			<a href="https://plus.google.com/106734814870740230624/"><img src="//static.usingenglish.com/images/icons_36x36/GooglePlus-36x36.png" width="36" height="36" alt="Follow UsingEnglish.com on Google+"></a>
+	   	<div class="center clear social-follow">
+		<a class="sm-rss" href="http://feeds.feedburner.com/UsingEnglishWhatsNew" rel="external" target="_blank">RSS Feed</a> 
+		<a class="sm-goo" href="https://plus.google.com/+UsingEnglish" rel="publisher" target="_blank">Google+</a> 
+		<a class="sm-fac" href="https://www.facebook.com/UsingEnglish" target="_blank">Facebook</a> 
+		<a class="sm-twi" href="https://twitter.com/UsingEnglish" target="_blank">Twitter</a> 
 		</div>
 	</div>
 	<div id="footer_bottom">
@@ -746,54 +813,28 @@ Cookies are pieces of information which include a unique   reference code that a
 				<li><a href="/sitemap.html">Site Map</a></li>
 				<li><a href="/profiles/">Staff &amp; Contributors</a></li>
 				<li><a href="/about/">About Us</a></li>
-				<li><a href="/about/link-to-us/">Link to Us</a></li>
-				<li><a href="/about/advertising/">Advertising</a>
-				</li>
-			</ul>
-			<ul class="footlist">
 				<li><a href="/about/terms/">Terms of Use</a></li>
 				<li><a href="/about/privacy/">Privacy &amp; Cookies</a></li>
+				
+			</ul>
+			<ul class="footlist">
 				<li><a href="/about/copyright/">Copyright © 2002 - 2015 UsingEnglish.com</a>. All rights reserved.</li>
 			</ul>
 			<ul class="footlist">
-				<li>Generated in 0.002 seconds</li>
+				<li>Generated in 0.001 seconds</li>
 			</ul>
 		</div>
-		<a href="//www.usingenglish.com/blackhole/" rel="nofollow" style="border:0;"><img src="//www.usingenglish.com/images/spacer.gif" width="1" height="1"></a>
 	</div>
 </div>
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="//static.usingenglish.com/minify/?g=js"></script>
+
 <script>
-  window.jQuery || document.write('<script src="/static/lib/html5boilerplate/js/vendor/jquery-1.11.1.min.js"><\/script>');
-</script><script src="/static/lib/html5boilerplate/js/vendor/jquery-1.11.1.min.js"></script>
-
-<style>
-#cookie-bar .cb-enable {float: none;}
-</style>
-<script>
-$(document).ready(function(){
-	$.cookieBar({
-		message:'Cookies help us deliver our services. By using our services, you agree to our use of cookies.',
-		autoEnable: true,
-		policyButton: false,
-		acceptOnContinue: true,
-		bottom: true,
-		policyText: 'Privacy Policy',
-		policyURL: '/about/privacy/',
-	});
-});
-</script>
-
-
-
-<script src="/static/lib/jquery.lockfixed.min.js"></script>
-<script>
-	if (matchMedia('only screen and (min-width: 768px)').matches) {
-		$.lockfixed("#fixedsidebar",{offset: {top: 0, bottom: 350}});
-	}
-</script>
-<!-- #BeginEditable "foot_JS" --><!-- #EndEditable -->
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Cookies help us deliver our services. By using our services, you agree to our use of cookies.',
+      'OK, I understand', 'Learn more', '//www.usingenglish.com/about/privacy/');
+  });
+</script><!-- #BeginEditable "foot_JS" --><!-- #EndEditable -->
 
 <!-- #EndTemplate -->
 </body></html>
