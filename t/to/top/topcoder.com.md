@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075249id_/http%3A//www.topcoder.com/community/how-it-works/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222224348id_/https%3A//www.topcoder.com/community/how-it-works/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – topcoder
 
-[](https://privacy.truste.com/privacy-seal/Appirio-Inc/validation?rid=8f5bcc44-bbcc-4021-8104-1c889c1a5710 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=877aeb46-5977-46c9-82ba-97c9d4c750f7 "TRUSTe Privacy Certification")
 
-This privacy statement covers the Web site www.topcoder.com (“Site”) owned and operated by Appirio Inc. This privacy statement describes how Appirio Inc. collects and uses the personal information you provide on our web site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Appirio Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.topcoder.com](https://www.topcoder.com/). If you have questions or concerns regarding this statement, you should first contact security@appirio.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Appirio Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Appirio Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Appirio Inc’s certification, please visit <http://www.export.gov/safeharbor/>
+This privacy statement covers the Web site www.topcoder.com (“Site”) owned and operated by Appirio Inc. (“TopCoder”, “Appirio”). This privacy statement describes how Appirio Inc. collects and uses the personal information you provide on our web site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The TRUSTe program covers only information that is collected through this Web site, [www.topcoder.com](https://www.topcoder.com/). If you have questions or concerns regarding this statement, you should first contact security@appirio.com. In order to view relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+
+Appirio Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at http://www.truste.com/consumers/watchdog_complaint.php, fax at 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. 
+
+If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
+
+Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Appirio processes data should be addressed to that customer or partner. 
+
+Appirio Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Appirio Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Appirio Inc’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Privacy Policy Updates
 
@@ -18,17 +26,19 @@ You can generally visit our Site without revealing any personally identifiable i
 
 Technologies such as: cookies, beacons, tags and scripts are used by Appirio and our partners, affiliates, or analytics or service providers like Bizo, Google, KISSmetrics and Marketo. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
+We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+
 ### Log Files
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
 
 ### LSOs
 
-We use HTML 5 local storage objects (LSOs) to store content information and preferences [or – other uses]. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information. 
+We use HTML 5 local storage objects (LSOs) to store content information and preferences [or – other uses]. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). (Or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served advertising. You will continue to receive generic ads. We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
 ### Social Media Widgets
 
@@ -37,6 +47,10 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 ### Single Sign-On
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+### Testimonials
+
+We post testimonials on our web site which contain personally identifiable information such as the customer’s name. We do obtain the customer’s consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personally identifiable information that is being displayed on our website under public pages please send your request to security@appirio.com. 
 
 ### Blogs, Forums and Chatrooms
 
@@ -75,4 +89,4 @@ San Francisco, CA 94102
 Tel: (415) 663-4433  
 Toll Free: (888) 680-SaaS (7227)Lo
 
-_Effective Date November, 2014_
+_Effective Date December 10, 2015_
