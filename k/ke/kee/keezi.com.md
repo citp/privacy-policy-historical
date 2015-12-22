@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keezi.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623142145id_/http%3A//keezi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keezi.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222083406id_/http%3A//keezi.com/privacy-policy) for the most accurate reproduction.*
 
 # Keezi - Privacy Policy
 
