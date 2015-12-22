@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adahead.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111030416id_/http%3A//www.moniker.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adahead.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222055316id_/http%3A//www.moniker.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moniker
 
 ## Moniker Privacy Policy 
 
-December 17, 2010
+September 09, 2015
 
   
 Moniker Online Services, LLC (together with its subsidiaries, "Moniker") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. As a user of this website and its subpages (collectively, the "Site") or the services ("Services") provided by Moniker, this Privacy Policy is intended to describe for you:
@@ -17,7 +17,7 @@ Moniker Online Services, LLC (together with its subsidiaries, "Moniker") is comm
 
 
 
-We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us by email at support@moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, 1800 SW 1st Avenue, Suite 440, Portland, OR 97201
+We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us by email at getsupport@moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, Moniker Online Services, LLC 1245 S Powerline Rd, # 293 Pompano Beach, FL  33069 
 
 **Information Collection**
 
@@ -81,13 +81,13 @@ Communications From This Website. Unless you have opted out of these features, w
 
 Personal Information. Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
 
-_Service providers:_ We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with your request for Services on our Site. These service providers may include credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
+Service providers:We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with your request for Services on our Site. These service providers may include credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
 
-_Business partners:_ When you express interest in promotions offered through our Site or our Services, we may share your personal information, alone or in combination with non-personal information, with the relevant business partners or affiliates to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your personal information address and other information to that business so that they may contact you.
+Business partners: When you express interest in promotions offered through our Site or our Services, we may share your personal information, alone or in combination with non-personal information, with the relevant business partners or affiliates to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your personal information address and other information to that business so that they may contact you.
 
-_Third parties for business reasons:  _In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. If a change in ownership occurs that will result in your personal information being used in a manner different from that stated in the then-existing privacy policy, notification will be provided consistent with the terms of this Privacy Policy.
+Third parties for business reasons: In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. If a change in ownership occurs that will result in your personal information being used in a manner different from that stated in the then-existing privacy policy, notification will be provided consistent with the terms of this Privacy Policy.
 
-_Third parties for legal process:_  In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us in our sole discretion. In addition, we may disclose your information when we believe it is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site terms of use or other agreements or policies.
+Third parties for legal process: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us in our sole discretion. In addition, we may disclose your information when we believe it is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site terms of use or other agreements or policies.
 
 Special Notice to California Residents. Moniker will not share any personal information about you with other companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law. California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at support@Moniker.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
 
@@ -101,15 +101,15 @@ Links. This Site contains links to other websites, including through advertiseme
 
 We give our users the opportunity to "opt-out"of having their information used for purposes not directly related to our Site at the point where we ask for the information. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by any of the following means:
 
-Send an email to: support@Moniker.com.
+Send an email to: getsupport@Moniker.com.
 
-Send a written request to: Moniker Online Services, LLC, Attn: Opt-Out, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.
+Send a written request to: Moniker Online Services, LLC Attn: Opt-Out, Moniker Online Services, LLC 1245 S Powerline Rd, # 293 Pompano Beach, FL  33069 
 
 Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly.
 
 **Updating Your Information**
 
-If you have questions or want to update your personal information, please contact by email at: support@Moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.
+If you have questions or want to update your personal information, please contact by email at: getsupport@Moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, Moniker Online Services, LLC 1245 S Powerline Rd, # 293 Pompano Beach, FL  33069 .
 
 **Information Retention & Security**
 
@@ -125,9 +125,15 @@ This Privacy Policy is intended to cover collection of information on our Site f
 
 This Privacy Policy may be updated from time to time to reflect changes in our practices and Services. We reserve the right to modify it at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will also prominently post notice of the changes on our Site and/or we may notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address or you have opted-out of such communication). Your continued use of our Site or Services after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise.
 
+**Web Analytics Service - Inspectlet**
+
+This website uses „inspectlet", a web analytics service provided by Inspectlet. Inspectlet uses “cookies”, which are text files placed on your computer, to help the website analyze how users use this site. For this purpose, no personal data will be collected or used.
+
+You can disagree anytimes by following the inctructions under <http://www.inspectlet.com/optout>.
+
 **General Contact:**  
 Moniker Online Services, LLC  
 Attn: Privacy  
-1800 SW 1st Avenue, Suite 440  
-Portland, OR 97201  
-support@Moniker.com
+1245 S Powerline Rd, # 293   
+Pompano Beach, FL  33069   
+getsupport@moniker.com
