@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623101154id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222090543id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Organized Home
 
@@ -11,9 +11,10 @@ In an effort to support privacy policy disclosures on the Internet, Threadneedle
 This information pertains to the following sites, all of which are wholly owned by Threadneedle Press:
 
   * [OrganizedHome.Com](http://organizedhome.com/)
-  * [OrganizedScrapbooks.Com](http://organizedscrapbooks.com/)
+  * [HolidayGrandPlan.Com](http://holidaygrandplan.com/)
   * [OrganizedChristmas.Com](http://christmas.organizedhome.com/)
   * [ChristmasPlanner.Com](http://christmasplanner.com/)
+  * [101 Days to Christmas](http://101daystochristmas.com/)
 
 
 
