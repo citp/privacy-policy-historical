@@ -1,29 +1,112 @@
-> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523043630id_/http%3A//www.stepout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222220644id_/http%3A//www.stepout.com/privacy) for the most accurate reproduction.*
 
-# We take privacy very seriously on StepOut.com
+# Stepout - Meet New People
 
-Let's take a minute to give you the run-down on what we do - and what we never ever ever do - with all personal information that you enter and we store. By using the site / application, you're accepting the practices described in this privacy policy, so take a minute to read this page before using StepOut or submitting any of your personal information.
+The Website is owned by Massive Media Match NV, a company registered in Ghent, Belgium with company number 0537.240.636.
 
-We might change things up in this policy from time to time, but since it's your privacy we're talking about here, we promise that any changes will be posted and they'll only apply to activities and information on a going forward, not retroactive, basis.
+This Privacy Statement was created in order to demonstrate our firm commitment to your right to privacy and data protection. Stepout processes your personal data with every reasonable safeguard for your protection and in conformity with this Privacy Statement and with the strict rules of Belgian and European data protection legislation.
 
-Bottom line: The personally identifiable information that we collect - names, screen names, email addresses, etc. - which you voluntarily submit is only used to fulfill your specific request. We will never use it in any other manner, like adding you to our mailing list for example, unless you explicitly say it's OK. Capiche?
+This Privacy Statement is a part of Stepout’s [Terms & Conditions](https://web.archive.org/about/terms) and should be read carefully. It specifies your rights and explains how you can exercise them. Any use of the Website implies the acceptance of the entire Privacy Statement.
 
-One last note before we dive in to the nitty gritty, the privacy practices set forth in this privacy policy are for this site / application only. So, if you link to other web sites or applications from StepOut, be sure to review the privacy policies posted on those sites.
+* #### Types of personal data we collect
 
-All right, seriously, last note - this one's important -- If you have any questions about this policy, your privacy in general, or wish to report anyone or thing that violators of this policy, contact us. Seriously, do it. We're huge advocates of your privacy.
+Public information added by you:
 
-##### Cookie/Tracking Technology
+  * Information in your profile, photos ...
+  * Messages sent to other users.
 
-The site / application may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of users of the site / application, and understanding how the site / application is being used. Cookies can also help customize the site / application for visitors like you. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
-##### Distribution of Information
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.
+Private information added by you:
 
-##### Minors
+  * Administrative data such as your username and password.
+  * Your settings.
 
-StepOut is a site / application only for those 18 years of age and up. No minors (under the age of 18) are permitted to use this site. We ask that no minors submit any personal information to us.
 
-##### Commitment to Data Security
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors, who have agreed to keep information secure and confidential, have access to this information. All emails and newsletters from this site allow you to opt-out of further mailings. StepOut uses industry standard practices to safeguard the confidentiality of your personal identifiable information. StepOut treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet.
+History and logs:
+
+  * Time, date and URL of all Stepout pages visited by you.
+  * The searches you perform on the website.
+  * Technical information regarding your Internet browser and computer.
+
+
+
+During your registration (and afterwards), you can provide us with information about your name, e-mail address, gender, date of birth, location and some optional details about yourself. With the exception of gender and birthday, your Stepout profile details can be edited at any given moment.
+
+If you choose to give additional information about yourself, you explicitly give us permission to use that information as described in this Privacy Statement.
+
+* #### What do we do with your personal data?
+
+We use your personal data to:
+
+  * Publish the information intended to be made public by you, under the conditions specified in your settings.
+  * Allow you to correctly use the Website in accordance with your settings.
+  * Perform general customer administration.
+  * Send you communications about the Website, as well as our other products and services.
+  * Provide you with advertisements tailored to your profile.
+  * Investigate fraud and infringements of our [Code of Conduct](https://web.archive.org/about/codeofconduct).
+  * Generate anonymous statistics about the (users of the) Website, to improve the Website or convey statistical information to third parties.
+  * Register and display your profile on other social websites owned by Massive Media Match NV or its sister, daughter or parent companies.
+
+
+
+You may want us to send you e-mails with notifications about new messages or for other purposes related to the use of the Website. You can opt in or out from these messages in your "Settings".
+
+By registering on the Website, you acknowledge and agree that the profile data and other information that you provide, including sensitive personal data, may be accessed from countries outside Belgium. Please note that countries outside Europe may have lower standards of data protection than Belgium.
+
+* #### How your personal data is shared with third parties
+
+Third parties can access all information intended to be made public by you, under the conditions specified in your privacy settings.
+
+We hate spam as much as you do. Your e-mail address is never shared by us with any third party.
+
+Statistical or anonymous information about our users can be disclosed for marketing and promotional purposes. In these situations, we never disclose information that could be used to personally identify you.
+
+We never share any of your other personal data with any third party, unless you give your explicit permission. We may, however, provide access to your personal data in case of illegal use, when we receive orders from legal authorities or to protect our rights.
+
+* #### Cookies and web bugs
+
+The Website uses cookies to identify you as a user of the Website, to remember your preferred language and to facilitate navigation on the Website. You can disable cookies in your Internet browser, although some parts of the Website will no longer function correctly if you do so.
+
+* #### Storage term and location
+
+Stepout applies the following storage terms:
+
+  * Information added by you: stored during a period of 6 months after you delete this information, or delete your account. (Note: you can delete your account at any time. If you do not log in on your account during a period of 6 months, your account can be deleted automatically.)
+  * History and logs: stored during a period of 6 months after the history item or log event was created.
+  * Cookies: cookies used on the Website have a maximum lifetime of 100 days.
+
+
+
+Your personal data may be stored in a country outside the EU.
+
+* #### Security measures
+
+The security measures put in place on Stepout prevent the loss, misuse, and alteration of the information under our control. Stepout uses industry standard efforts to safeguard the confidentiality of your personal information. While "perfect security" does not exist on the Internet, our technical experts at Stepout work hard to ensure your online safety.
+
+* #### Your rights
+
+You can get access to your personal data free of charge (and correct it, or have it corrected, where relevant). Please promptly update your information if it changes.
+
+You can object to the use of your personal data for direct marketing purposes.
+
+* #### Control of your password
+
+You may not disclose your password to any third parties or share it with any third parties. Keeping your password safe is your responsibility.
+
+If your password has been revealed or stolen, immediately change your password via Settings. Please inform us of any privacy breach or abuse of login data by sending an e-mail to [abuse-en@stepout.com](mailto:abuse-en@stepout.com). 
+
+We strongly recommend that you periodically change your password. Choosing a safe password will reduce the risk of unauthorized access to your account.
+
+* #### Importing your contacts
+
+In some countries Stepout offers members an easy import tool to invite your mail contacts to register on Stepout. If you decide to import your contacts, you confirm that they have given you their consent to do so and you accept that an automatic e-mail invitation and reminder will be sent on your behalf to the contacts you have selected. Stepout stores the contact details of your friends only for the purpose of automatically connecting them with you after their registration.
+
+Stepout does not sell e-mail addresses or use them to send any other communication besides invitations. Your contacts can click the unsubscribe link in the invitation mails to prevent receiving further invitations from Stepout.
+
+* #### Changes to this Privacy Statement
+
+We reserve the right to modify this Privacy Statement at any time. Any changes to this Privacy Statement will be posted on this Website so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it.
+
+Modified versions will take effect in thirty (30) days after being published on the Website.
