@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504145440id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222120245id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of AllUsefulInfo.com
 
 Here at _[www.allusefulinfo.com](http://allusefulinfo.com/ "All Useful Info")_ , privacy of visitors are extremely important. That’s why we are publishing this Privacy Policy page to make all the visitors know about the important terms about our privacy. This Privacy Policy page provides you the type of information we collect or receive at _www.allusefulinfo.com_ and how these information are used.
 
@@ -36,3 +36,16 @@ Other Technologies (such as cookies, JavaScript or Web Beacons) may also be used
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **All Useful Info’s  **privacy policy does not apply to, and we cannot control the activities of such other advertisers or websites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+### Commenting Policy
+
+Your comments to our site should be relevant to the content and should not contain bad or adult links. We have full rights to delete and edit any comment we find bad or vulgar without the permission of commenter. There are many reasons we delete or edit comments:
+
+  * Comments are made for promoting things on our site
+  * Comments contain links to low quality or adult sites
+  * Comments are not related to the content
+  * And others like these..
+
+
+
+So, we’ve full rights to delete any comment we won’t find worth publishing.
