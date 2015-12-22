@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acxiom.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629084525id_/http%3A//www.acxiom.com/about-acxiom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acxiom.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222230511id_/http%3A//www.acxiom.com/about-acxiom/privacy) for the most accurate reproduction.*
 
 # Privacy - Acxiom
 
@@ -18,6 +18,6 @@ As a consumer, you have choices that govern how Acxiom will handle personal info
 
 
 
-Acxiom has produced an information booklet, “Protecting Your Privacy in the Information Age” to help consumers understand, in general some of the ways businesses, charities, Internet sites and other organizations collect and use information about you and the choices you have about these uses. To review this booklet, [click here](http://d3u9yejw7h244g.cloudfront.net/wp-content/uploads/2014/03/Protecting-Privacy.pdf "Protecting Privacy Booklet").
+Acxiom has produced an information booklet, “Protecting Your Privacy in the Information Age” to help consumers understand, in general some of the ways businesses, charities, Internet sites and other organizations collect and use information about you and the choices you have about these uses. To review this booklet, [click here](http://d21532kvzc3714.cloudfront.net/wp-content/uploads/2014/03/Protecting-Privacy.pdf "Protecting Privacy Booklet").
 
 Listed to the left are all of Acxiom’s privacy policies and other privacy related materials.
