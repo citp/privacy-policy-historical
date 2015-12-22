@@ -1,147 +1,95 @@
-> *The following text is extracted and transformed from the nextpowerup.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318051431id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextpowerup.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222072954id_/http%3A//www.nextpowerup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NextPowerUp
 
-## About Us
+We respect your privacy and are committed to protect the privacy and confidentiality of personal data we collect when you use our website. This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
 
-This is a privacy policy for NextPowerUp. Our homepage on the Web is located at [ http://www.nextpowerup.com](http://www.techpowerup.com/). The full text of our privacy policy is available on the Web at [ http://www.nextpowerup.com/privacy.php](http://www.techpowerup.com/legal.php) Users may go to [ http://www.nextpowerup.com/privacy.php](http://www.techpowerup.com/privacy.php) for information on how to opt-in or opt-out of use of their information. 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
 
-We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [ admin@nextpowerup.com](mailto:admin@techpowerup.com).
+## 1\. SCOPE OF THIS PRIVACY POLICY
 
-## Dispute Resolution and Privacy Seals
+This Privacy Policy applies to all information (including, personal information) collected through the Website. For purposes of this Privacy Policy, the term "visitor" includes visitors to the Website, whether you upload information to the Website, download it, or are merely visiting the Website; the term "personal information" means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Website, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. You can choose not to provide certain information when using the Website but then you might not be able to take advantage of many of its features.
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
+## 2\. WHAT INFORMATION DO WE COLLECT?
 
-  * **NextPowerUp Feedback** : Contact the administration of this website.
+### Active Collection of Information
 
+Personal information may be collected in a number of ways when you visit the Website. We may collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, user name, and telephone number when you register, set up an account or contact us by e-mail.
 
+### Passive Collection of Information
 
-## Additional Information
+When you visit the Website, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer's Internet Protocol ("IP") address, access times, browser type and language, and referring Web site addresses. We may also collect information about your usage and activity on the Site.
 
-This policy is valid until 1 Jan, 2020 at 12:00:00 CET. 
+### Online Mediums Reminder
 
-## Data Collection
+Chat rooms, forums, blogs and/or news groups ("Online Mediums") may be available. Any information that you disclose in the Online Mediums becomes public information. Please exercise caution when deciding to disclose any personal identifiable information. We reserve the right to remove or edit any posting that we find is vulgar or inappropriate.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately.
+### Web Visit
 
-* * *
+You may visit our Websites in any of the following ways:
 
-### Group "Anonymous Users"
-
-We collect the following information:
-
-  * HTTP protocol elements
-  * Search terms
-  * Navigation and click-stream data
-  * HTTP cookies
-  * State management mechanisms
+  * by using your browser to navigate to our Website
+  * by viewing an advertisement displayed on a third party website that is served content by our web server
+  * by viewing an email that is served content by our or a third party web server
 
 
 
-This data will be used for the following purposes:
+When you visit our Website, our server logs your IP address (unique network addresses), the time and duration of your visit, and the time and duration of the pages on our website you view. If you arrive at our website by clicking a paid advertisement (including a paid search engine result) or a link in an email, then we will capture information that tracks your visit from that link. If you arrive at our Website by clicking a non-paid source, such as link in a non-paid search engine result or an unsponsored link on another website, we may capture information that tracks your visit from that source, to the extent we are able to do so. We may also capture information about your computer system, such as your browser type and operating system.
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+We will likely place a cookie on your hard drive during the web visit. A cookie is a unique alphanumeric identifier that we use to help us identify the number of unique visitors to our Website, whether or not those visitors are repeat visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website. If you do not wish cookies to be placed on your computer, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
 
+A web beacon, also known as a web bug, is a small graphic (usually 1 pixel x 1 pixel), that might be embedded in a web advertisement, email, or page on our web site, but is invisible to you. When you view a page on our web site, an email or an advertisement your web browser will request the web beacon from a web server, which in turn will set a cookie in your web browser containing a unique identifier. This unique identifier will be linked to log information that is used to track your movements on our web site in order to determine the effectiveness of content and advertising campaigns.
 
+We do not collect personal information about you as part of a web visit, but web visit information may be tied to other information (including personal information) we collect from you via chat, web forms, and the other means we describe in this Privacy Policy.
 
-This data will be used by ourselves and our agents.
+Our advertising agencies may also use web beacons and cookies to track your activity on our website originating from the advertisement. However, we will not provide your personal information to our advertising agencies. Our advertising agencies maintain their own privacy policies, and you should also review those.
 
-The following explanation is provided for why this data is collected:
+## Links to other websites
 
-> Data collected from all Web users: access logs, and search strings (if entered).
+We may provide links to third-party websites for your convenience and information. The privacy practices of those sites may differ from our practices and are not controlled by us and covered by this Privacy Policy. We do not make any representations about third-party websites. We encourage you to review their privacy policies before submitting your personal data.
 
-* * *
+## Children's Online Privacy Protection
 
-### Group "Registered Users"
+Our services are not designed for or directed to children under the age of 13, and we will not intentionally collect or maintain information about anyone under the age of 13.
 
-We collect the following information:
+## 3\. WHAT DO WE USE THIS INFORMATION FOR?
 
-  * HTTP protocol elements
-  * Search terms
-  * Navigation and click-stream data
-  * HTTP cookies
-  * State management mechanisms
-  * Nickname
-  * Computer information
+Contact and other Personal Information. We use visitor information to send information about our site to visitors and to get in touch with them when necessary. We also use the information we collect to improve the content of the Website. We may use your information to communicate with you, provide access to secure areas of the Website, recommend merchandise and services that might be of interest to you, to personalize your visit to our Website, and to enable us to review develop and continually improve the information we provide online. We also use this information to prevent or detect fraud or abuses of our Website and to enable third parties to carry out technical, logistical or other functions on our behalf.
 
+We use web visit information to measure interest in and develop our web pages and marketing plans, customize the content you view on your web visits based on your activity on past visits, and administer our Website.
 
+We use the visitor's IP address to help diagnose problems with our servers, and to administer our Websites.  
+We use cookies to help us recognize visitors as unique visitors (just a number) when they return to our websites. For example, if there are 1,000 visits to our website on a certain day, we can use cookies to discover how many of those visits were made via the same browser (same visitor). We may also use the cookie to discover whether a certain visitor has visited our site more than once, and the source for each visit. We also use cookies to: allow us to tailor content or advertisements to match your preferred interest; avoid showing visitors the same advertisements repeatedly; compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our Website (we cannot identify visitors personally in this way); count the number of anonymous users of our sites.  
+We use web beacons to count the number of times that our advertisements and web-based email content are viewed. We combine web beacon information with cookies to track activity on our website originating from advertisements and web-based email content.
 
-At the user's option, we may also collect the following data:
+Information provided to us via telephone calls, chat, email, web forms and other communications. We use this information to correspond with you.
 
-  * Birth year, month, and day
-  * Time Zone
-  * Content
+## 4\. DISCLOSURE OF PERSONAL INFORMATION
 
+Personal information we gather is for internal use only and will not authorize the release of this information to anyone outside (except to third party service providers who perform functions on our behalf but in such event personal information will only be shared to the extent reasonably necessary to perform their functions and they will not be authorized to use it for any other function), unless you have consented to such disclosure.
 
+Should you breach our Website Terms of Use, or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. In particular, we may release the information we collect to third parties when we believe it is appropriate to comply with the law, to enforce our legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct.
 
-This data will be used for the following purposes:
+## 5\. YOUR CHOICES ABOUT RECEIVING E-MAIL and OPTING OUT OF COMMUNICATIONS
 
-  * Research and development.
-  * One-time tailoring.
+We give you an opportunity to opt-in and opt-out of receiving communications from us or opting-out of personal data being disclosed to third parties for a purpose incompatible with the purpose for which it was originally collected (except for meeting applicable legal requirements or permitting third party service providers who perform functions on our behalf as described in Section 4 of this Privacy Policy), including your opting out of receiving future marketing mailings.
 
+We will not use your contact information to correspond with you about our services if you ask us not to. Please send your request to admin@nextpowerup.com. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
 
+## 6\. SECURITY OF YOUR INFORMATION
 
-This data will be used by ourselves and our agents.
+We use various security measures to protect your personal information (including, preventing the loss, misuse, unauthorized access, disclosure, alteration and destruction of your personal information). We store information you provide to us on a computer system located in a controlled facility with a limited access.
 
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
+If you use a password on the Website, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please notify us immediately.
 
-* * *
+## 7\. RIGHT TO ACCESS YOUR PERSONAL INFORMATION
 
-## Cookies
+If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please contact us at admin@nextpowerup.com and we will take steps to correct or delete the information, or restrict its use, as appropriate.
 
-Cookies are a nextnology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+## 8\. INQUIRIES OR COMPLAINTS
 
-Our site makes use of cookies. Cookies are used for the following purposes:
+If you have a question or complaint about this Privacy Policy or our information collection practices, please contact us at admin@nextpowerup.com.
 
-  * Site administration 
-  * Completing the user's current activity 
-  * User targeting 
-  * Research and development
+## 9\. CHANGES
 
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is:
-    
-    
-        CP="CAO DSP CURa ADMa DEVa TAIa OUR BUS IND COM NAV INT DEM CNT STA PRE"
-    
-
-The following table explains the meaning of each field in the compact policy.
-
-**Field** | **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`CAO` |  Access is available to contact and other information.   
-`DSP` |  The policy contains at least one dispute-resolution mechanism.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-`DEM` |  Demographic and socioeconomic data is collected.   
-`CNT` |  Content data is collected.   
-`STA` |  State-management data is collected   
-`PRE` |  Preference information is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+We may change this Privacy Policy from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on April 20, 2015.
