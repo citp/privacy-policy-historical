@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postchronicle.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607105951id_/http%3A//postchronicle.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postchronicle.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222225613id_/http%3A//postchronicle.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Post Chronicle - Privacy Policy
 
