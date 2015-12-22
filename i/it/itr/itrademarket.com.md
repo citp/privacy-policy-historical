@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622220408id_/http%3A//www.itrademarket.com/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222124812id_/http%3A//www.itrademarket.com/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Itrademarket.com
 
-**WHAT IS A COOKIE?**  
+**Third party service providers**  
+You may notice that some services available through our website are "Powered by" or "Provided by" other third party content or technology service providers. We contract with these third party providers to help us provide you with better value and service. To fully access and use such services, you may sometimes be required to register for them or to otherwise provide certain information and data. In order to provide you with the services in question, such information and data may have to be made available to the third party provider, who may then process or update such information and data and transmit them back to us. We are highly selective in choosing these third party providers, and they are allowed to use your information and data only for the purpose of and in connection with providing the services which we have contracted with them to provide. 
+
+**Important Notice** Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy.
+
+↑ Back to top ↑
+
+ **WHAT IS A COOKIE?**  
 A "cookie" is a small piece of information that a website can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a website. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. Itrademarket is one of many sites that use cookies. 
 
 **Why does Itrademarket use cookies?**  
@@ -20,13 +27,6 @@ If you have setup your browser to warn you every time a cookie is set, you can s
 **What if I do not accept your cookies?**   
 Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all.  
 
-
-↑ Back to top ↑
-
- **Third party service providers**  
-You may notice that some services available through our website are "Powered by" or "Provided by" other third party content or technology service providers. We contract with these third party providers to help us provide you with better value and service. To fully access and use such services, you may sometimes be required to register for them or to otherwise provide certain information and data. In order to provide you with the services in question, such information and data may have to be made available to the third party provider, who may then process or update such information and data and transmit them back to us. We are highly selective in choosing these third party providers, and they are allowed to use your information and data only for the purpose of and in connection with providing the services which we have contracted with them to provide. 
-
-**Important Notice** Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy.
 
 ↑ Back to top ↑
 
