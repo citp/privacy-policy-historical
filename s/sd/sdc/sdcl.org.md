@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234647id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222210735id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
 
 # Web and Privacy Policies
 
@@ -39,7 +39,7 @@ You can review any personal information we collect about you. You may recommend 
 
 #### Cookies
 
-#####   
+#####    
 What Is A Cookie?
 
 A cookie is a small data file which may include an anonymous unique identifier that is sent to your browser from a Web site's computers and may either be used only during your session (a "session" cookie) or may be stored on your computer's hard drive (a "persistent" cookie). Cookies can contain data about user movement during the visit to the Web site. If your browser software is set to allow cookies, a Web site can send its own cookie to you.
