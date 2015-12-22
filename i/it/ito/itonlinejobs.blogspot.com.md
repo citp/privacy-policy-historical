@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itonlinejobs.blogspot.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609200429id_/http%3A//www.newrole.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itonlinejobs.blogspot.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222100232id_/http%3A//www.indempnews.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ~ Indian Employment News - Govt Jobs 2015
 
 A privacy policy is a legal notice on a website describing how personal information is collected and used by the owners of the website.
 
