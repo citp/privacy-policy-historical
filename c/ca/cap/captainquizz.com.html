@@ -1,0 +1,366 @@
+<!--The following is the downloaded HTML source of the captainquizz.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222094409id_/http%3A//www.captainquizz.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Captain Quizz Privacy Policy</title>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+<link href="http://www.captainquizz.com/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="shortcut icon" href="http://captainquizz.s3.amazonaws.com/img/cp.ico">
+<style>
+body {background-color: #f5f6f7;font-family: 'Roboto', sans-serif;}
+.wrapper {max-width: 980px;margin: 0 auto;clear: both;position: relative;}
+#sidebar {width: 300px;position: absolute;right: 0;top: 0;text-align:center;}
+#main {margin:10px;background-color: #fff;-webkit-box-shadow: 0 1px 8px rgba(0,0,0,.2);-moz-box-shadow: 0 1px 8px rgba(0,0,0,.2);box-shadow: 0 1px 8px rgba(0,0,0,.2);padding: 20px;}
+h1 {margin-top: 0;}
+#header .details {color: #888;margin-bottom:20px;}
+#intro .cover {width:60%;float:left;}
+#intro .cover>img {width:100%;}
+#intro .description {margin-left: 62%;font-size: 18px;color: #888;line-height: 24px;}
+#start {margin:20px 0;width: 60%;}
+.Share {overflow: hidden;display:none;position: absolute;bottom: 10px;left:0;right:0;background: white;margin: 10px;padding: 10px;z-index: 15;box-shadow: 0 2px 6px rgba(0,0,0,0.8);}
+.Share .title {display:none;color:#444;font-size:18px;margin-bottom: 10px;}
+.Share .btn {color:white;width: 49.5%;float: left;}
+.btn.facebook {background-color: #3b5998;margin-right:1%;color:white;}
+.Share .twitter {background-color: #1dadeb;}
+.Share.final {padding: 10px 20px;border: 1px solid #ddd;border-top: 0;background: #eee;margin-bottom:30px;}
+.Share.final .title {display:block;}
+#comments {padding-top:30px;}
+#timeline {width: 100%;height: 50px;overflow: hidden;position: absolute;top: 0;left: 0;z-index: 2;}
+#timeline .steps {width: 1500px;}
+#timeline .steps .step {width: 30px;line-height: 30px;text-align: center;float: left;margin: 10px;color: #888;font-weight: bold;}
+#timeline .steps .step.done {background: rgba(74,163,252,1);border-radius: 15px;color: white;}
+#questions .question .cover {position: relative;}
+#questions .question .cover .text {position: absolute;bottom: 0;left: 0;background-color: rgba(74,163,252,.9);color: #fff;padding: 9px 20px;font-size: 22px;}
+#questions .question .cover>img {width:100%;}
+.navbar {border-radius:0;}
+.navbar.navbar-custom {background-color: #fff;-webkit-box-shadow: 0 1px 8px rgba(0,0,0,.2);-moz-box-shadow: 0 1px 8px rgba(0,0,0,.2);box-shadow: 0 1px 8px rgba(0,0,0,.2);}
+.navbar-brand {padding:2px 20px;}
+.navbar-brand>img {width:180px;margin-top:7px}
+.navbar-right {padding: 8px 0;}
+.glyphicon-plus-sign {top: 2px;}
+.answers {overflow: hidden;}
+.answer.text {border: 1px solid #888;border-top: 0;padding: 8px 20px;font-size: 16px;cursor: pointer;}
+.answer:hover, .answer.selected {background-color: rgba(74,163,252,1);color:#fff;}
+.answer.illustrated {border: 1px solid #888;font-size: 16px;cursor: pointer;width: 24%;padding: 1.5%;margin-right: 1%;margin-top: 10px;float: left;text-align: center;}
+.answer.illustrated>img {width:100%;margin-bottom: 10px;}
+#results .result {border: 1px solid #ddd;position: relative;}
+#results .result .cover {position:relative;}
+#results .result .cover>img {width:100%;}
+#results .result .cover .text {font-size: 16px;color: #888;line-height: 20px;padding: 10px;position: absolute;bottom: 0;background: white;z-index: 15;margin: 10px;box-shadow: 0 2px 6px rgba(0,0,0,0.8);}
+#results .result .cover .text>h3 {color: #4797e7;margin: 0 0 10px 0;}
+#loading {text-align:center;color:#4AA3FC;font-size:18px;padding-top: 100px;}
+#loading>img {display: block;margin: 10px auto;}
+#questions, .question, #results, #loading, #intro {-webkit-transition: all 0.3s linear; /* For Safari 3.1 to 6.0 */transition: all 0.3s linear;position: relative;}
+.invisible {opacity:0;}
+.alternating-thumbnails-a {padding:20px 0 0 0 !important;}
+#blackBG {background:rgba(0,0,0,0.8);display:none;position: fixed;top: 0;left: 0;bottom: 0;right: 0;z-index: 9050;}
+.blackBG_small {position: absolute;display:none;top: 0;left: 0;right: 0;bottom: 0;background: rgba(0,0,0,0.5);z-index: 10;}
+#LikePopup {position:fixed;z-index: 9051;top:10%;background-color: #ffffff;box-shadow: 0 2px 6px rgba(0,0,0,0.3);display:none;text-align: center;margin: auto;left: 0;right: 0;width: 500px;padding: 20px;}
+#LikePopup .title {position:absolute;font-size:16px;color:#3b5998;font-weight:bold;margin-right:35px;}
+#LikePopup .fb-like-box {margin-top:20px;}
+#LikePopup .subtitle {padding-top:20px;}
+#LikePopup .text {padding: 20px;}
+#LikePopup .footer {margin-top: 20px;}
+#LikePopup .footer>span {display: block;margin-bottom: 10px;}
+.btn {display: inline-block;text-shadow: 0 -1px 0 rgba(0,0,0,.5);margin-bottom: 0;border-radius:4px;border: 1px solid;text-align: center;vertical-align: middle;font-weight: bold;line-height: 1.43;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;white-space: nowrap;cursor: pointer;}
+.btn-lg{padding:10px 0}
+.btn.btn-grey {border-color: #c4c4c4;background: white;color: #565a5c;}
+.btn.btn-big {padding: 9px 25px;font-size:18px;}
+.btn.btn-pink {border-color: #ff5a5f;border-bottom-color: #e00007;background-color: #ff5a5f;color: #fff;}
+.btn.btn-pink:hover,.btn.btn-pink:focus{border-color:#ff7e82;border-bottom-color:#fa0008;background-color:#ff7e82;}
+#filter {overflow:hidden;background-color:#fff;-webkit-box-shadow: 0 0 10px rgba(0,0,0,.2);-moz-box-shadow: 0 0 10px rgba(0,0,0,.2);box-shadow: 0 0 10px rgba(0,0,0,.2);}
+#filter>div {float: left;height: 40px;width: 50%;font-size:16px;text-align: center;}
+#filter>div.active {padding:10px;box-shadow: 0 0px 10px rgba(0,0,0,.2);border-bottom: 1px solid #ddd;}
+#filter>div.passive {padding:8px;border-bottom: 1px solid #ddd;color: #888;}
+#filter>.top.active {border-right: 1px solid #ddd;}
+#filter>.top.passive {border-left: 2px solid #ddd;box-shadow: -4px 0px 10px rgba(0,0,0,.2);cursor:pointer}
+#filter>.last.active {border-left: 1px solid #ddd;}
+#filter>.last.passive {border-right:0;box-shadow: 4px 0px 10px rgba(0,0,0,.2);cursor:pointer}
+#quizzList {position:relative;list-style-type: none;padding: 0;margin-top: 10px;}
+#quizzList .quizz {overflow: hidden;background:#fff;border: 1px solid;border-color: #e5e6e9 #dfe0e4 #d0d1d5;-webkit-border-radius: 3px;padding:0;margin:0;margin-bottom:10px}
+#quizzList .quizz .cover {float:left;width:200px;}
+#quizzList .quizz .cover img {width:100%;}
+#quizzList .quizz .infos {margin-left:200px;padding:10px;height: 150px;position: relative;}
+#quizzList .quizz .infos .title {font-size: 20px;margin-top: -5px;}
+#quizzList .quizz .infos .description {font-size: 14px;margin: 10px 0;color: #555;}
+#quizzList .quizz .infos .time {color: #999;position: absolute;bottom: 0;background: #fff;left: 0;right: 0;padding:12px 10px}
+#quizzList .quizz .cover .innertitle{display:none;position: absolute;bottom: 0;left: 0;background-color: rgba(74,163,252,.9);color: #fff;padding: 9px 20px;font-size: 22px;}
+@media (min-width:768px) and (max-width:900px) {.answer.illustrated {width: 32.3%;}}
+@media screen and (max-width:768px){
+	body {background-color:#e9eaed}
+	#filter {-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;}
+	#main {margin:0}
+	.navbar.navbar-custom {margin-bottom: 0;border-bottom: 1px solid #ddd;}
+	#quizzList {padding:5px;margin:0}
+	#quizzList .quizz {padding:7px}
+	#quizzList .quizz .cover {float:none;width: 100%;position: relative}
+	#quizzList .quizz .infos {margin:0;padding-bottom: 0;height:auto}
+	#quizzList .quizz .infos .time {padding-top:5px}
+	#quizzList .quizz .infos .title {display:none}
+	#quizzList .quizz .cover .innertitle{display:block}
+	#quizzList .quizz .infos .description {margin:0}
+	#quizzList .quizz .infos .time {position:relative;padding:0}
+	.Share .btn>span {display:none;}
+	#questions .question .cover {margin:0 -20px;}
+	#questions .question .cover .text {left:10px;right:10px;}
+	#sidebar {width: 100%;position: relative;padding: 0 20px 20px 20px;}
+	#intro .cover {width: inherit;float: none;margin: 0 -20px;}
+	#intro .description {margin: 20px 0 0 0;}#start {width: 100%;}
+	#results .result .cover .text {position: relative;margin:0;box-shadow:none;font-size:16px;}
+	#results .result .cover .text>h3 {font-size: 22px;}
+	#LikePopup {width:95%;}
+}
+@media screen and (max-width:600px){.answer.illustrated {width: 32.3%;}}
+@media screen and (max-width:340px){.navbar-brand>img {width:150px;margin-top:11px}}
+@media screen and (max-width:320px){.navbar-brand>img {width:120px;margin-top:15px;}#newsletter>.subscribe{display:none}#quizzList .quizz .cover .innertitle {font-size:20px}}
+@media screen and (max-width:280px){.navbar-brand>img {width:90px;margin-top:16px}#quizzList .quizz .cover .innertitle {font-size:18px}}
+.navbar-nav>li {float: left;line-height: 52px;padding: 0 15px;margin: -1px 0;border-right: 1px solid #ddd;font-weight:300;color: #555;cursor: pointer;font-size: 16px;}
+.navbar-undermenu {display:none;position: absolute;top: 52px;left:-1px;background: white;z-index: 10;border: 1px solid #ddd;}
+.navbar-undermenu>ul {padding-left: 0;list-style: none;min-width: 120px;}
+.navbar-undermenu>ul>a>li {padding: 7px 15px;line-height: 20px;color:#555}
+.navbar-undermenu>ul>a>li:hover {background-color: #ff5a5f;color:white}
+.navbar-undermenu>ul>a:hover {text-decoration:none}
+#loadMoreQuizz {text-align:center}
+#megabanner {margin-right:320px;position: relative;background-color: #fff;-webkit-box-shadow: 0 4px 10px rgba(0,0,0,.2);-moz-box-shadow: 0 4px 10px rgba(0,0,0,.2);box-shadow: 0 4px 10px rgba(0,0,0,.2);margin-bottom:0;overflow: hidden;}
+#megabanner>.promotion {width: 100%;height: 300px;margin-top: -50px;position: relative;}
+#megabanner>.promotion>a>.item {width: 100%;position: absolute;height: 300px;left:0;}
+#megabanner>.promotion>a>.item>.cover {width:100%;}
+#megabanner>.promotion>a>.item>.cover>img {width:100%;}
+#megabanner>.promotion>a>.item>.title {position: absolute;bottom: 0;z-index: 1;width:100%;background-color: rgba(74,163,252,.8);color: white;padding: 10px;padding-bottom: 35px;font-size:20px;}
+.carousel-indicators {bottom: 0 !important;}
+#legal {margin-top: 20px;font-size: 13px;padding: 20px;background-color: #fff;-webkit-box-shadow: 0 4px 10px rgba(0,0,0,.2);-moz-box-shadow: 0 4px 10px rgba(0,0,0,.2);box-shadow: 0 4px 10px rgba(0,0,0,.2);}
+#legal>.copyright {margin-top:10px}
+#newsletter {background:#fff;margin:10px 0;padding:15px;-webkit-box-shadow: 0px 0 20px rgba(59,89,152,0.5);-moz-box-shadow: 0px 0 20px rgba(59,89,152,0.5);box-shadow: 0px 0 20px rgba(59,89,152,0.5);text-align:center}
+#newsletter>.facebook {margin-top:-10px;overflow:hidden;}
+#newsletter>.facebook>.fb-like-box {margin-left:-9px !important}
+#newsletter>.subscribe>.input-block {overflow:hidden;padding-top:10px;}
+#newsletter>.subscribe>.input-block>input{width:55%;float:left;border:1px solid #bbb;border-right:0;padding:5px 10px;font-size: 16px;-webkit-box-shadow: inset 0 1px 1px 0 rgba(195,195,195,.5);}
+#newsletter>.subscribe>.subtitle {font-size:10px;color:#FE2E2E;}
+#submitEmail{width:45%;float:left;background-color: #5dab30;border: 1px solid #2fab40;border-radius: 2px;border-top-left-radius: 0;border-bottom-left-radius: 0;text-shadow: 1px 1px 1px rgba(0,0,0,.2);cursor: pointer;text-align: center;line-height: 32px;color: #fff;font-size: 16px;}
+#submitEmail:hover{text-shadow: 0px 0px 10px rgba(255,255,255,.8);border-color: #bbb;}
+#newsletter>.subscribe>.confirm {font-size:16px;text-shadow: 1px 1px 1px rgba(0,0,0,.2);padding:10px 0;}
+#newsletter>.subscribe>.confirm>.glyphicon.glyphicon-ok {background-color: #5dab30;border: 1px solid #2fab40;width: 34px;color: #fff;line-height: 32px;text-align: center;border-radius: 17px;margin-right:10px;}
+h3 {color:#337ab7}
+</style>
+</head>
+<body>
+
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+	FB.init({
+	appId      : '793330124041563',
+	cookie     : false,
+	xfbml      : true,
+	version    : 'v2.3'
+	});
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<nav class="navbar navbar-custom" role="navigation">
+  <div class="wrapper">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="http://www.captainquizz.com/">
+					<img src="http://captainquizz.s3.amazonaws.com/img/logo4.png?v4">
+		      </a>
+	  <div class="navbar-right visible-xs" style="float:right;padding:15px 10px 0 0">
+		<div class="fb-like" data-href="https://www.facebook.com/pages/Captain-Quizz-US/1585674845011458" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+	  </div>
+    </div>
+  </div>
+</nav>
+<div class="wrapper">
+
+	<style>
+	#resultPics>img{width:50%;padding:0.5%}
+	@media screen and (max-width:600px){#resultPics>img{width:100%}}
+	#privacyintro {margin:0 10px 30px 10px;background-color:#fff;-webkit-box-shadow:0 1px 8px rgba(0,0,0,.2);-moz-box-shadow:0 1px 8px rgba(0,0,0,.2);box-shadow:0 1px 8px rgba(0,0,0,.2);padding:20px}
+	#privacyintro>.text {font-size:16px;color:#444}
+	#privacyintro ul {margin:20px 0}
+	.sumup{text-align:center;font-size:18px;font-weight:bold}
+	#deleteApp img {width:100%}
+	#deleteApp .title{font-size: 16px;margin:10px 0;font-weight:bold}
+	</style>
+	<div id="privacyintro">
+		<div class="text">
+			We value your privacy and we want to make things as transparent as possible. You will find our policy detailed below, be here are our fundamental basic rules:
+			<ul>
+				<li>We do <b>NOT</b> save or store any of your private data (posts, private photos, likes, friends list, email, etc.).</li>
+				<li>We do <b>NOT</b> sell or transfer any of your private data.</li>
+				<li>On some quizzes, a picture is generated containing information such as Facebook public profile pictures and public names. We <b>ONLY</b> save on our servers this final result picture. This is to allow you to share it on social media.</li>
+				<li>You can access all the pictures you generated by clicking the button below.</li>
+			</ul>
+		</div>
+		<div id="accessMyPicture">
+			<div class="btn btn-success btn-lg" style="display:block"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Access ALL my information now</div>
+		</div>
+		<div id="resultPics"></div>
+		<div id="deleteMyPicture" style="display:none">
+			<div class="btn btn-danger btn-lg" style="display:block"><span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span> Delete ALL those pictures now</div>
+		</div>
+		<div id="loader" style="text-align:center;display:none">
+			<img src="http://captainquizz.s3.amazonaws.com/img/ajax-loader.gif">
+		</div>
+		<div id="deleteApp" style="display:none">
+			<div class="title">First, go on Facebook.com, and click on the white arrow in the upper right corner. Then select Settings.</div>
+			<img src="http://captainquizz.s3.amazonaws.com/img/delapp1.jpg">
+			<div class="title">On the left column, click on Apps. Find the CaptainQuizz application and hover it with your mouse. You should see a grey arrow on its right. Click on it to delete our application. You will still be able to reconnect to our application later if you want.</div>
+			<img src="http://captainquizz.s3.amazonaws.com/img/delapp2.jpg">
+		</div>
+	</div>
+	<script>
+	var userid;
+	
+	function getFBprofile() {
+		FB.login(function(response){
+			if (response.authResponse) {
+				proceedToDeletion();
+			}
+		});
+	}
+
+	$("#deleteMyPicture>.btn").click(function() {
+		proceedToDeletion();
+	});
+	$("#accessMyPicture>.btn").click(function() {
+		getPictures();
+	});
+	
+	function getPictures() {
+		$("#accessMyPicture").hide();
+		$("#loader").show();
+		FB.getLoginStatus(function(response) {
+			if (response.status === 'connected') {
+					FB.api('/me', function(response) {
+						userid = response.id;
+						$.ajax({
+							type: "POST",
+							url: 'http://www.captainquizz.com/awspicsmanagement.php',
+							data: {fbid:userid,state:"get"},
+							success: function(json) {
+								var data = JSON.parse(json);
+								$("#loader").hide();
+								if (data.length > 0) {
+									$("#resultPics").append('<div class="alert alert-info sumup">This is the ONLY data we have associated with your Facebook profile:</div>');
+									$.each(data, function(index,value) {
+										$("#resultPics").append('<img src="http://captainquizz.s3.amazonaws.com/'+value+'">');
+									});
+									$("#deleteMyPicture").show();
+								} else {
+									$("#resultPics").append('<div class="alert alert-success sumup">We do NOT have any data associated with your Facebook profile. You can still prevent our app from accessing your profile in the future. See below for explanation.</div>');
+									$("#deleteApp").show();
+								}
+							}
+						});
+					});
+			} else {
+				$("#loader").hide();
+				$("#accessMyPicture").show();
+				return getFBprofile();
+			}
+		});
+	}
+	
+	function proceedToDeletion() {
+		$("#resultPics").empty();
+		$("#deleteMyPicture").hide();
+		$("#loader").show();
+		$('html, body').animate({scrollTop: $("#loader").offset().top}, 500);
+		FB.api('/me', function(response) {
+			$.ajax({
+				type: "POST",
+				url: 'http://www.captainquizz.com/awspicsmanagement.php',
+				data: {fbid:userid,state:"delete"},
+				success: function() {
+					$("#loader").hide();
+					$("#resultPics").append('<div class="alert alert-success sumup">All the pictures you generated on www.captainquizz.com have been successfully deleted.<br/>To prevent our app from accessing your Facebook profile in the future, follow the steps below.</div>');
+					$("#deleteApp").show();
+				}
+			});
+		});
+	}
+	
+	function ScrollToVeryTop() {
+		$('html, body').animate({scrollTop: '0px'},500);
+	}
+	</script>
+	
+	<div id="main">		
+	<div>
+
+	<h3>GENERAL</h3>
+	<p>Iguazu Limited Ltd. (referenced below as "Iguazu" or "We") is committed to protecting your privacy. This Privacy Policy explains our information-gathering and dissemination practices for our service. This Privacy Policy is part of our End-User License Agreement ("EULA"). By using our website www.captainquizz.com (referenced below as “WebSite”), you acknowledge that you have reviewed both our EULA and this Privacy Policy and agree to be bound by their terms and conditions.</p>
+
+	<h3>DATA AND PERSONAL INFORMATION WE RECEIVE AND/OR COLLECT</h3>
+	
+	<h4>1.General information</h4>
+	<p>Data We receive when you do quizzes published on our WebSite using Facebook login:</p>
+	<p>We may receive personally-identifying information that is unique to such users (such as their name, profile picture, gender, birthday, internet protocol (IP) address, facebook friends list, facebook images, email, location, facebook posts or any other data as delineated at the message presented to you at the time of login with Facebook).</p>
+	
+	<h4>2.Other information</h4>
+	
+	<p>In addition, We receive and/or collect other types of data and information about users via our services, as follows:</p>
+	<ul>
+		<li>We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference, referring site and any other information automatically sent to Iguazu by the user's browser.</li>
+		<li>We receive data about you whenever you use or interact with Iguazu, such as how and when you view, use or otherwise interact with content and materials in our WebSite. For example, we may infer data from your replies and answers to the quizzes in this WebSite or the results thereof.</li>
+		<li>Sometimes we receive data from our partners, publishers, commercial customers and other third parties that helps us (or them) deliver ads, understand our users' online activities, provide with insight into what our users are interested in, maximize the effectiveness of ads, and generally make our services better.</li>
+	</ul>
+	
+	<h3>DATA AND PERSONAL INFORMATION WE STORE OR DO NOT STORE</h3>
+	
+	<p>We store pictures generated at the end of quizzes using Facebook login. These picture contain information such as Facebook public profile pictures and public names. These pictures are stored to allow you to share them on social media.</p>
+	<p><b>We do not store any other private data (posts, private photos, likes, friends list, email, etc.).</b></p>
+	<p>We store pictures generated at the end of the quizz and non-personally-identifying information  for as long as it is necessary to provide products and services to you, but some information may remain in backup copies and logs for longer periods. However, you acknowledge and agree that We may continue to use any non-personally-identifying information in accordance with this Privacy Policy (e.g., for the purpose of analysis, statistics and the like) also after the termination of your membership to this WebSite and\or use of our services, for any reason whatsoever.</p>
+	<p>We take our security responsibilities seriously and We employ the most appropriate physical and technical measures to keep your data safe.</p>
+	
+	<h3>HOW TO DELETE, ACCESS OR MODIFY THE DATA WE STORED ON YOU</h3>
+	
+	<p>If you wish to download and/or delete the data We stored on you, please click the green button below.</p>
+	<div style="padding-bottom:10px">
+		<a class="btn btn-lg btn-info btn-block" href="javascript:void(0);" onclick="ScrollToVeryTop();">Download and/or delete all my information</a>
+	</div>
+	<p>If the green button above doesn’t work or if you wish to modify the data We stored on you, you can still contact us via e-mail at <a href="mailto:xavier@iguazu.fr">xavier@iguazu.fr</a> providing us with your Facebook ID.</p>
+	
+	<h3>HOW WE USE YOUR INFORMATION</h3>
+	
+	<p>We use the information and data We receive and/or collect to operate and enhance our services and features. For example, when you login with Facebook for some quizzes, it allows us to provide you with a more relevant result at the end of the given quizz and it allows us to generate a personalized picture.</p>
+	<p>We may use the information and data We receive and/or collect about you in order to measure and understand the effectiveness of our content and offer you tailored content.</p>
+	
+	<h3>SHARING OF INFORMATION</h3>
+	
+	<h4>1.Compliance with Laws and Law Enforcement</h4>
+	<p>Iguazu may identify a user to third parties and/or share your information if required to do so by law, or in the good-faith belief that disclosing such information is necessary to comply with any law, regulation or other governmental authority, or respond to any court order, subpoena, search warrant or equivalent, or where in our reasonable belief an action is needed in order to protect the safety or security of any personal or property. Iguazu also reserves the right to disclose any information in case it believes, in good faith, that such disclosure is appropriate or necessary in order to enforce our EULA, take precautions against liabilities, investigate and defend itself against any third party claims or allegations, assist government enforcement agencies, protect the security or integrity of the WebSite and our servers and protect the rights and property, of Iguazu, its users and\or others.</p>
+	
+	<h4>2.Non-Personal Aggregate Information</h4>
+	<p>Iguazu may publish or share with third parties aggregate information for the purpose of analysis and statistics. Such disclosure is done anonymously and is non-personally identifiable. For example, we may share information publicly to show trends about the general use of our services.</p>
+	
+	<h4>3.Cookies</h4>
+	<p>A cookie is a string of information that can be stored on your computer (if your web browser is set to permit storage of cookies). We may use such cookies to help us learn about how you use this WebSite and enhance your online experience.</p>
+	
+	<h4>4.Reorganization or Insolvency</h4>
+	<p>Iguazu may also transfer Information to a successor entity upon a merger, consolidation, change of control or other corporate reorganization in which Iguazu participates, or to a purchaser of all or substantially all of Iguazu's shares or assets to which the WebSite relates. In the event of a bankruptcy, insolvency or equivalents, Iguazu may not be able to control how your Information is handled, shared or used.</p>
+	
+	<h3>OTHER WEBSITES AND SERVICES</h3>
+	<p>We are not responsible for the practices employed by any websites or services linked to or from Iguazu, including the information or content contained within them. Please be aware that if you choose to use a link to go from Iguazu to any third party's website or service, such third party's own rules and privacy policy (and not our Privacy Policy) will apply and govern your activities and any information you disclose while interacting with such third parties. Therefore, We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your Personal Information, and you acknowledge and agree that We are not responsible for any wrongful use or disclosure made by such third parties, and that We do not have control over such third-parties. If you are using a third-party's website or service and you allow them to access your Personal Information and user content you do so at your own risk.</p>
+	
+	<h3>PRIVACY POLICY UPDATES</h3>
+	<p>Iguazu reserves the right to update this Privacy Policy from time to time, with or without notice. If so, Iguazu will post its updated Privacy Policy on its WebSite. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of our services will be subject to the then-current privacy policy. If any modification is unacceptable to you, you may cease using our services. If you do not cease using our services, you will be deemed to have accepted those modifications.</p>
+	
+	<h3>Q&amp;A </h3>
+	<p>If you have any questions or queries about this Privacy Policy or our Services in general, please do not hesitate to contact us at: <a href="mailto:xavier@iguazu.fr">xavier@iguazu.fr</a>.</p>
+	
+	</div>
+</div>
+
+
+</div></body></html>
