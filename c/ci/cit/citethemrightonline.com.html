@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citethemrightonline.com privacy policy that was archived on 2015-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150425060456id_/http%3A//www.citethemrightonline.com/Privacy-and-cookie-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citethemrightonline.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222014311id_/http%3A//www.citethemrightonline.com/Privacy-and-cookie-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -18,13 +18,15 @@
 
     <!--[if IE 8]><link href="/Content/CSS/btn-ie8.css" rel="Stylesheet" /><![endif]-->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-        var ROOT = '/Content';
-        var imagesRoot = '/Content/images/';
+    	var ROOT = '/Content';
+    	var imagesRoot = '/Content/images/';
     </script>
     <script src="/Content/VideoJs/video.js" type="text/javascript"></script>
     <script type="text/javascript">
-        _V_.options.flash.swf = ROOT + '/VideoJs/video-js.swf';
-        _V_.options.techOrder = ["flash", "html5"];
+    	_V_.options.flash.swf = ROOT + '/VideoJs/video-js.swf';
+    	_V_.options.techOrder = ["flash", "html5"];
+
+      
     </script>
     <!--[if gt IE 8]>
     <style type="text/css">
@@ -59,7 +61,8 @@
                 <div class="searchtextboxM">
                 
                     <input class="search-query" id="keywords" name="keywords" onblur="OnBlurSearchTextbox(this)" onfocus="OnFocusSearchTextbox(this)" type="text" value="Search">
-                    <div id="btnSearch" class="Search_btn SearchIconIE7" title="Search"></div>
+                    <button type="submit" id="btnSearch" class="Search_btn SearchIconIE7" title="Search"></button> 
+										
                 </div>
             </div>
 </form>       
@@ -109,8 +112,9 @@
                 
                 </li>
                 <li><form action="/Search" class="form-search pull-right" method="get" novalidate="novalidate">                    <div class="searchtextbox">
-                        <input class="search-query search-width" id="keywords" name="keywords" onblur="OnBlurSearchTextbox(this)" onfocus="OnFocusSearchTextbox(this)" type="text" value="Search">
-                        <div id="btnSearch" class="Search_btn SearchIconIE7" title="Search"></div>
+                        <input class="search-query search-width" id="searchKeywords" name="keywords" onblur="OnBlurSearchTextbox(this)" onfocus="OnFocusSearchTextbox(this)" type="text" value="Search">
+                        
+												<button type="submit" class="Search_btn SearchIconIE7" title="Search" value="" id="btnSearchHome"> </button>
                     </div>    
 </form></li>
             </ul>
@@ -537,287 +541,298 @@
     <script src="/Content/JS/jquery.bxslider.min.js" type="text/javascript"></script>
     <script src="/Content/audiojs/audio.js" type="text/javascript"></script>
         <script type="text/javascript">
-            audiojs.events.ready(function () {
-                var as = audiojs.createAll();
-                $('.rewind').addClass('rwfwhide');
-                $('.forward').addClass('rwfwhide');
-                if ($(window).width() <= 320) {
-                    $('.audiojs').css('width', '270px');
-                    $('.play-pause').css('width', '25px');
-                    $('.play').css('background-position', '-2px -1px');
-                    $('.scrubber').css('width', '100px');
-                } else if ($(window).width() <= 480) {
-                    $('.audiojs').css('width', '400px');
-                    $('.scrubber').css('width', '230px');
-                }
-                $(window).resize(function () {
-                    if ($(window).width() <= 320) {
-                        $('.audiojs').css('width', '270px');
-                        $('.play-pause').css('width', '25px');
-                        $('.play').css('background-position', '-2px -1px');
-                        $('.scrubber').css('width', '100px');
-                    } else if ($(window).width() <= 480) {
-                        $('.audiojs').css('width', '400px');
-                        $('.scrubber').css('width', '230px');
-                    }
-                });
-            });
+        	audiojs.events.ready(function () {
+        		var as = audiojs.createAll();
+        		$('.rewind').addClass('rwfwhide');
+        		$('.forward').addClass('rwfwhide');
+        		if ($(window).width() <= 320) {
+        			$('.audiojs').css('width', '270px');
+        			$('.play-pause').css('width', '25px');
+        			$('.play').css('background-position', '-2px -1px');
+        			$('.scrubber').css('width', '100px');
+        		} else if ($(window).width() <= 480) {
+        			$('.audiojs').css('width', '400px');
+        			$('.scrubber').css('width', '230px');
+        		}
+        		$(window).resize(function () {
+        			if ($(window).width() <= 320) {
+        				$('.audiojs').css('width', '270px');
+        				$('.play-pause').css('width', '25px');
+        				$('.play').css('background-position', '-2px -1px');
+        				$('.scrubber').css('width', '100px');
+        			} else if ($(window).width() <= 480) {
+        				$('.audiojs').css('width', '400px');
+        				$('.scrubber').css('width', '230px');
+        			}
+        		});
+        	});
         </script>    
     <script type="text/javascript">
-        $(document).ready(function () {
+    	$(document).ready(function () {
 
-            $('[id^="tab"]').tabs().addClass('ui-tabs-vertical ui-helper-clearfix');
-            $('[id^="tab"] li').removeClass("ui-corner-top").addClass("ui-corner-left");
-            $('.bxslider').bxSlider({
-                auto: false
-            });
+    		$('[id^="tab"]').tabs().addClass('ui-tabs-vertical ui-helper-clearfix');
+    		$('[id^="tab"] li').removeClass("ui-corner-top").addClass("ui-corner-left");
+    		$('.bxslider').bxSlider({
+    			auto: false
+    		});
 
-            $("#liSubscribe").click(function () {
-                $('#myModal').modal('toggle');
-                $('#myModal').css('border', '0px');
-            });
-            $("#liSubscribe_browser").click(function () {
-                $('#myModal').modal('toggle');
-                $('#myModal').css('border', '0px');
-            });
-            var prevExample = function () {
-                var ndx = $('.referenceExample .Example').filter(".Example:visible").index(".Example");
+    		$("#liSubscribe").click(function () {
+    			$('#myModal').modal('toggle');
+    			$('#myModal').css('border', '0px');
+    		});
+    		$("#liSubscribe_browser").click(function () {
+    			$('#myModal').modal('toggle');
+    			$('#myModal').css('border', '0px');
+    		});
+    		var prevExample = function () {
+    			var ndx = $('.referenceExample .Example').filter(".Example:visible").index(".Example");
 
-                $('.referenceExample .Example').hide();
-                $(".referenceExample .Example").eq(ndx - 1).show();
+    			$('.referenceExample .Example').hide();
+    			$(".referenceExample .Example").eq(ndx - 1).show();
 
-                resetExampleState();
-            }
+    			resetExampleState();
+    		}
 
-            var nextExample = function () {
-                var ndx = $('.referenceExample .Example').filter(":visible").index(".Example");
+    		var nextExample = function () {
+    			var ndx = $('.referenceExample .Example').filter(":visible").index(".Example");
 
-                $('.referenceExample .Example').hide();
-                $(".referenceExample .Example").eq(ndx + 1).show();
+    			$('.referenceExample .Example').hide();
+    			$(".referenceExample .Example").eq(ndx + 1).show();
 
-                resetExampleState();
-            }
-
-
-            var resetExampleState = function () {
-
-                var currdividx = $('.referenceExample .Example').filter(":visible").index(".Example");
-
-                if (currdividx + 1 == totaldivs) {
-                    $('#next').unbind('click');
-                    $('#next').addClass('exampleBtnDisabled');
-                }
-                else {
-                    $('#next').unbind('click');
-                    $('#next').click(nextExample);
-                    $('#next').removeClass('exampleBtnDisabled');
-                }
-
-                if (currdividx == 0) {
-                    $('#prev').unbind('click');
-                    $('#prev').addClass('exampleBtnDisabled');
-                }
-                else {
-                    $('#prev').unbind('click');
-                    $('#prev').click(prevExample);
-                    $('#prev').removeClass('exampleBtnDisabled');
-                }
-            }
+    			resetExampleState();
+    		}
 
 
-            $(".referenceExample").prepend('<div class="prevNext">More<br>examples<a href="javascript:void(0);" id="prev"><img src="/Content/Images/back.png" alt="back" title="back"></a><a href="javascript:void(0);" id="next"><img src="/Content/Images/next.png" alt="next" title="next"></a></div>');
+    		var resetExampleState = function () {
+
+    			var currdividx = $('.referenceExample .Example').filter(":visible").index(".Example");
+
+    			if (currdividx + 1 == totaldivs) {
+    				$('#next').unbind('click');
+    				$('#next').addClass('exampleBtnDisabled');
+    			}
+    			else {
+    				$('#next').unbind('click');
+    				$('#next').click(nextExample);
+    				$('#next').removeClass('exampleBtnDisabled');
+    			}
+
+    			if (currdividx == 0) {
+    				$('#prev').unbind('click');
+    				$('#prev').addClass('exampleBtnDisabled');
+    			}
+    			else {
+    				$('#prev').unbind('click');
+    				$('#prev').click(prevExample);
+    				$('#prev').removeClass('exampleBtnDisabled');
+    			}
+    		}
 
 
-            $('.citation').before('<div class="intext-citation">In-text</br>citation</div>')
-            $('.citation').after('<div class="clearfix clearfloat"></div>')
-            $('.reference').before('<div class="refList">Reference</br>list</div>')
-            $('.reference').after('<div class="clearfix clearfloat"></div>');
-
-            var totaldivs = $('.referenceExample .Example').length;
-            $('.referenceExample .Example').hide();
-            $(".referenceExample .Example").eq(0).show();
-            resetExampleState();
-
-            //you try 
-            $('#btnSendMail').click(function () {
-
-                var _emailTo = $('#youTryEmail').val();
-                var _emailMessage = $('#youTryMessage').html();
-                _emailMessage = _emailMessage.replace(/\'/g, "&#39;");
-                var _emailSubject = $('#youTrySubject').val();
-                _emailSubject = _emailSubject.replace(/\'/g, "&#39;");
-
-                if ($.trim(_emailTo).length == 0) {
-                    alert("Email is mandatory field");
-                    return false;
-                }
-
-                if (!validateEmail(_emailTo)) {
-
-                    alert("Invalid email address");
-                    return;
-                }
-
-                if ($.trim(_emailSubject).length == 0) {
-                    alert("Subject is mandatory field");
-                    return false;
-                }
-
-                if ($.trim(_emailMessage).length == 0) {
-                    alert("Message is mandatory field");
-                    return false;
-                }
-                $.ajax({
-                    type: "POST",
-                    url: '/Send-Email',
-                    data: "{'emailTo':'" + _emailTo + "','emailMessage':'" + _emailMessage + "','emailSubject':'" + _emailSubject + "'}",
-                    contentType: "application/json; charset=utf-8",
-                    dataType: "html",
-                    success: function (data) {
-                        if (data == "true") {
-                            alert('Email sent successfully.');
-
-                        } else {
-                            alert('Your message could not be sent. Please try again or email us at citethemright@palgrave.com for support.');
-                        }
-                        $('#youTryPopup').modal('toggle');
-                    },
-                    error: function (data) {
-                        alert('Your message could not be sent. Please try again or email us at citethemright@palgrave.com for support.');
-                    }
-                });
-
-            });
-            //end you try
-
-            /*
-            $(".mainnav").children("li").children("a").next("ul").hide();
-            $(".mainnav").children("li").children("ul").children("li").children("a").next("ul").hide();
-
-            $(".mainnav").children("li").children("a").bind("click", function (event) {
-            $(".mainnav").children("li").children("a").next("ul").css("left", "-10000px");
-            //$(this).next("ul").css("left", "-10px").show();
-            $(this).next("ul").hide().css("left", "-10px").fadeIn(200);
-
-            $(".adminnav").css("visibility", "hidden");
-
-            event.stopPropagation();
-            });
-
-            $(".mainnav").children("li").children("ul").children("li").children("a").bind("click", function (event) {
-            $(".mainnav").children("li").children("ul").children("li").children("a").next("ul").css("left", "-10000px");
-            $(this).next("ul").children("li").children("ul").css("left", "-25px");
-            //$(this).next("ul").css("left", "-25px").show();
-            $(this).next("ul").hide().css("left", "-25px").fadeIn(200);
-
-            $(".adminnav").css("visibility", "hidden");
-
-            event.stopPropagation();
-            });
-            */
-            /* $("body").bind("click", function () {
-            $(".mainnav").children("li").children("ul").children("li").children("a").next("ul").css("left", "-10000px");
-            $(".mainnav").children("li").children("a").next("ul").css("left", "-10000px");
-
-            $(".adminnav").css("visibility", "visible");
-            });*/
-
-            $("#btnSearchHome").click(function (event) {               
-                var SearchText = $("#keywords.search-query.search-width.valid.watermarkText").val();
-                if (SearchText == "" || SearchText == "Enter a search keyword." || SearchText == "Search") {                    
-                    $("#keywords").val("Enter a search keyword.");
-                    isWatermark = true;
-                    return false;
-                }
-                else {                    
-                    $.ajax({
-                        cache: false,
-                        type: "GET",
-                        url: '/Search',  
-                        data: { keywords: SearchText },
-                        contentType: "application/json; charset=utf-8",
-                        dataType: "Html",
-                        success: function (data) {
-                            $('.container').replaceWith(data);
-                        },
-                        error: function (data) {
-                            alert('No record found, please try again!');
-                        }
-                    });
-                }
-            });
+    		$(".referenceExample").prepend('<div class="prevNext">More<br>examples<a href="javascript:void(0);" id="prev"><img src="/Content/Images/back.png" alt="back" title="back"></a><a href="javascript:void(0);" id="next"><img src="/Content/Images/next.png" alt="next" title="next"></a></div>');
 
 
-            $("#btnSearch").click(function (event) {                
-                if ($("#keywords").val() == "" || $("#keywords").val() == "Enter a search keyword." || $("#keywords").val() == "Search") {                   
-                    $("#keywords").val("Enter a search keyword.");
-                    isWatermark = true;
-                    return false;
-                }
-                else {                   
-                    $.ajax({
-                        cache: false,
-                        type: "GET",
-                        url: '/Search',  //area="" added by tanvi to avoid redirection problem in case of institution admin
-                        data: { keywords: $("#keywords").val() },
-                        contentType: "application/json; charset=utf-8",
-                        dataType: "Html",
-                        success: function (data) {
-                            $('.container').replaceWith(data);
-                        },
-                        error: function (data) {
-                            alert('No record found, please try again!');
-                        }
-                    });
-                }
-            });
+    		$('.citation').before('<div class="intext-citation">In-text</br>citation</div>')
+    		$('.citation').after('<div class="clearfix clearfloat"></div>')
+    		$('.reference').before('<div class="refList">Reference</br>list</div>')
+    		$('.reference').after('<div class="clearfix clearfloat"></div>');
 
-            $("#btnHomeSearch").click(function (event) {
-                if ($("#homekeywords").val() == "" || $("#homekeywords").val() == "Enter a search keyword." || $("#homekeywords").val() == "Search by source type e.g. book, journal article, web page") {
-                    $("#homekeywords").val("Enter a search keyword.");
-                    isHomeWatermark = true;
-                    return false;
-                }
-                else {
-                    $.ajax({
-                        cache: false,
-                        type: "GET",
-                        url: '/Search',         //area="" added by tanvi to avoid redirection problem in case of institution admin
-                        data: { keywords: $("#homekeywords").val() },
-                        contentType: "application/json; charset=utf-8",
-                        dataType: "Html",
-                        success: function (data) {
-                            $('.container').replaceWith(data);
-                        },
-                        error: function (data) {
-                            alert('No record found, please try again!');
-                        }
-                    });
-                }
-            });
+    		var totaldivs = $('.referenceExample .Example').length;
+    		$('.referenceExample .Example').hide();
+    		$(".referenceExample .Example").eq(0).show();
+    		resetExampleState();
 
-            var isWatermark = false;
-            var isHomeWatermark = false;
+    		//you try 
+    		$('#btnSendMail').click(function () {
 
-            $("#keywords").click(function () {
-                if (isWatermark) {
-                    $("#keywords").val('');
-                    isWatermark = false;
-                }
-            });
+    			var _emailTo = $('#youTryEmail').val();
+    			var _emailMessage = $('#youTryMessage').html();
+    			_emailMessage = _emailMessage.replace(/\'/g, "&#39;");
+    			var _emailSubject = $('#youTrySubject').val();
+    			_emailSubject = _emailSubject.replace(/\'/g, "&#39;");
 
-            $("#homekeywords").click(function () {
-                if (isHomeWatermark) {
-                    $("#homekeywords").val('');
-                    isHomeWatermark = false;
-                }
-            });
+    			if ($.trim(_emailTo).length == 0) {
+    				alert("Email is mandatory field");
+    				return false;
+    			}
+
+    			if (!validateEmail(_emailTo)) {
+
+    				alert("Invalid email address");
+    				return;
+    			}
+
+    			if ($.trim(_emailSubject).length == 0) {
+    				alert("Subject is mandatory field");
+    				return false;
+    			}
+
+    			if ($.trim(_emailMessage).length == 0) {
+    				alert("Message is mandatory field");
+    				return false;
+    			}
+    			$.ajax({
+    				type: "POST",
+    				url: '/Send-Email',
+    				data: "{'emailTo':'" + _emailTo + "','emailMessage':'" + _emailMessage + "','emailSubject':'" + _emailSubject + "'}",
+    				contentType: "application/json; charset=utf-8",
+    				dataType: "html",
+    				success: function (data) {
+    					if (data == "true") {
+    						alert('Email sent successfully.');
+
+    					} else {
+    						alert('Your message could not be sent. Please try again or email us at citethemright@palgrave.com for support.');
+    					}
+    					$('#youTryPopup').modal('toggle');
+    				},
+    				error: function (data) {
+    					alert('Your message could not be sent. Please try again or email us at citethemright@palgrave.com for support.');
+    				}
+    			});
+
+    		});
+    		//end you try
+
+    		/*
+    		$(".mainnav").children("li").children("a").next("ul").hide();
+    		$(".mainnav").children("li").children("ul").children("li").children("a").next("ul").hide();
+
+    		$(".mainnav").children("li").children("a").bind("click", function (event) {
+    		$(".mainnav").children("li").children("a").next("ul").css("left", "-10000px");
+    		//$(this).next("ul").css("left", "-10px").show();
+    		$(this).next("ul").hide().css("left", "-10px").fadeIn(200);
+
+    		$(".adminnav").css("visibility", "hidden");
+
+    		event.stopPropagation();
+    		});
+
+    		$(".mainnav").children("li").children("ul").children("li").children("a").bind("click", function (event) {
+    		$(".mainnav").children("li").children("ul").children("li").children("a").next("ul").css("left", "-10000px");
+    		$(this).next("ul").children("li").children("ul").css("left", "-25px");
+    		//$(this).next("ul").css("left", "-25px").show();
+    		$(this).next("ul").hide().css("left", "-25px").fadeIn(200);
+
+    		$(".adminnav").css("visibility", "hidden");
+
+    		event.stopPropagation();
+    		});
+    		*/
+    		/* $("body").bind("click", function () {
+    		$(".mainnav").children("li").children("ul").children("li").children("a").next("ul").css("left", "-10000px");
+    		$(".mainnav").children("li").children("a").next("ul").css("left", "-10000px");
+
+    		$(".adminnav").css("visibility", "visible");
+    		});*/
 
 
-        });
+    		$("#btnSearchHome").click(function (event) {
+    			var SearchText = $("#searchKeywords").val();
+    			if (SearchText == "" || SearchText == "Enter a search keyword." || SearchText == "Search") {
+    				$("#searchKeywords").val("Enter a search keyword.");
+    				isWatermark = true;
+    				return false;
+    			}
+    			else {
+    				return true;
+    				/*          $.ajax({
+    				   					cache: false,
+    				   					type: "GET",
+    				   					url: '/Search',
+    				   					data: { keywords: SearchText },
+    				   					contentType: "application/json; charset=utf-8",
+    				   					dataType: "Html",
+    				   					success: function (data) {
+    				   						$('.container').replaceWith(data);
+    				   					},
+    				   					error: function (data) {
+    				   						alert('No record found, please try again!');
+    				   					}
+    				   				});				*/
+    			}
+    		});
 
-        //alert($('a[title=\"TestBooks\"]'));
-        //$('a[title=\"TestBooks\"]').trigger('activate-node');
+
+    		$("#btnSearch").click(function (event) {
+    			if ($("#keywords").val() == "" || $("#keywords").val() == "Enter a search keyword." || $("#keywords").val() == "Search") {
+    				$("#keywords").val("Enter a search keyword.");
+    				isWatermark = true;
+    				return false;
+    			}
+    			else {
+					return true;
+    			/*	$.ajax({
+    					cache: false,
+    					type: "GET",
+    					url: '/Search',  //area="" added by tanvi to avoid redirection problem in case of institution admin
+    					data: { keywords: $("#keywords").val() },
+    					contentType: "application/json; charset=utf-8",
+    					dataType: "Html",
+    					success: function (data) {
+    						$('.container').replaceWith(data);
+    					},
+    					error: function (data) {
+    						alert('No record found, please try again!');
+    					}
+    				});	 */
+    			}		
+    		});
+
+    		$("#btnHomeSearch").click(function (event) {
+    			if ($("#homekeywords").val() == "" || $("#homekeywords").val() == "Enter a search keyword." || $("#homekeywords").val() == "Search by source type e.g. book, journal article, web page") {
+    				$("#homekeywords").val("Enter a search keyword.");
+    				isHomeWatermark = true;
+    				return false;
+    			}
+    			else {
+    				return true;
+  			 /*	$.ajax({
+    					cache: false,
+    					type: "GET",
+    					url: '/Search',         //area="" added by tanvi to avoid redirection problem in case of institution admin
+    					data: { keywords: $("#homekeywords").val() },
+    					contentType: "application/json; charset=utf-8",
+    					dataType: "Html",
+    					success: function (data) {
+    						$('.container').replaceWith(data);
+    					},
+    					error: function (data) {
+    						alert('No record found, please try again!');
+    					}
+    				}); */
+    			}
+    		});
+
+    		var isWatermark = false;
+    		var isHomeWatermark = false;
+
+    		$("#keywords").click(function () {
+    			if (isWatermark) {
+    				$("#keywords").val('');
+    				isWatermark = false;
+    			}
+    		});
+
+    		$("#searchKeywords").click(function () {
+    			if (isWatermark) {
+    				$("#searchKeywords").val('');
+    				isWatermark = false;
+    			}
+    		});
+
+    		$("#homekeywords").click(function () {
+    			if (isHomeWatermark) {
+    				$("#homekeywords").val('');
+    				isHomeWatermark = false;
+    			}
+    		});
+
+
+    	});
+
+    	//alert($('a[title=\"TestBooks\"]'));
+    	//$('a[title=\"TestBooks\"]').trigger('activate-node');
        
     </script>
     
@@ -859,15 +874,15 @@
     <!-- Do not uncomment the below code.-->
     
     <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-318569-19']);
-        _gaq.push(['_trackPageview']);
+    	var _gaq = _gaq || [];
+    	_gaq.push(['_setAccount', 'UA-318569-19']);
+    	_gaq.push(['_trackPageview']);
 
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+    	(function () {
+    		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    	})();
     </script>
     
 
