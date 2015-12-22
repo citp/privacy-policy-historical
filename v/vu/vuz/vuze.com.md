@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.*
 
 # Vuze - Privacy
 
@@ -15,17 +15,17 @@ This Privacy Notice is incorporated into and is subject to the Vuze Platform Ter
 
 ### TABLE OF CONTENTS
 
-  1. [The Information Vuze Collects](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#1)
-  2. [The Way Vuze Uses Information](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#2)
-  3. [When Vuze Discloses Information](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#3)
-  4. [Your Choices](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#4)
-  5. [Data Security](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#5)
-  6. [Children's Privacy](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#6)
-  7. [International Visitors](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#7)
-  8. [In the Event of Merger or Sale](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#8)
-  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#9)
-  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#10)
-  11. [Vuze Contact Information](https://web.archive.org/web/20150621063434id_/http%3A//www.vuze.com/corp/privacy.php#11)
+  1. [The Information Vuze Collects](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#1)
+  2. [The Way Vuze Uses Information](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#2)
+  3. [When Vuze Discloses Information](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#3)
+  4. [Your Choices](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#4)
+  5. [Data Security](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#5)
+  6. [Children's Privacy](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#6)
+  7. [International Visitors](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#7)
+  8. [In the Event of Merger or Sale](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#8)
+  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#9)
+  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#10)
+  11. [Vuze Contact Information](https://web.archive.org/web/20151222171908id_/http%3A//www.vuze.com/corp/privacy.php#11)
 
   
 
@@ -108,8 +108,8 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 Privacy Notice effective as of December 13, 2006.
 
-Privacy Notice last modified on July 10, 2008.
+Privacy Notice last modified on June 24, 2015.
 
 ### 11\. Vuze Contact Information:
 
-Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry) or by mail at: 11260 Donner Pass Rd, Ste C1-313, Truckee, California, 96161. We will respond to your inquiry as promptly as possible.
+Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry) or by mail at: 774 Mays Blvd., #10-568, Incline Village, NV 89451. We will respond to your inquiry as promptly as possible.
