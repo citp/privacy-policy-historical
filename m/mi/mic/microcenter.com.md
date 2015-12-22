@@ -1,44 +1,8 @@
-> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231032650id_/http%3A//www.microcenter.com/site/customer-support/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222193500id_/http%3A//www.microcenter.com/site/customer-support/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Micro Center
 
-  * [](https://www.microcenter.com/InsiderAcct/members/account.aspx)Insider **Account:**
-  *     * [Sign in](https://www.microcenter.com/InsiderAcct/Login.aspx?RedirectUrl=http://www.microcenter.com/site/customer-support/privacy_policy.aspx)
-    * [Create Account](https://www.microcenter.com/InsiderAcct/Registration.aspx)
-
-
-  * My **Store:**
-  * **Micro Center Web Store**
-  *     * Store Info
-    * Change
-  *     * Micro Center Web Store
-    *     * You are currently browsing the products available on our web store. If you would like to choose a store location, please do so below.   
-
-
-
-
-  * [](http://cart.microcenter.com/cart.aspx)
-
-
-  * Search
-  * 
-
-
-  * Products
-  * Brand Showcase
-
-
-
-[18 MINUTE IN-STORE PICKUP](https://web.archive.org/site/customer-support/pickup.aspx)
-
-This page discloses the privacy policy of Micro Electronics, Inc., Micro Center® and Micro Center Online®. We are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. By using this site or making purchases at our stores, you consent to this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/site/customer-support/security.aspx) for online purchases.
-
-  * Micro Electronics, Inc. operates retail stores and web sites under the names of Micro Center® and Micro Center Online®. Micro Electronics, Inc. is the parent company of these companies, and as such, when you provide information to any of these entities, this information may be combined or shared between current or future Micro Electronics, Inc. entities and subsidiaries.
-  * This site is restricted to users from the United States and those not governed by privacy policies of the European Union. Users from the European Union are advised not to disclose personal information on this site.
-
-
-
-  * ## How is personally identifiable information collected?
+## How is personally identifiable information collected?
 
 Customer information is collected during sales transactions primarily for customers in our stores through our in-store checkout process and other in-store contacts such as sweepstakes or contest entry forms. Information is collected through online checkout process and for customers who register at our online Preference Center. To opt-out of any communications from Micro Center or other companies, refer to the subscribe/unsubscribe sections below.
 
@@ -60,39 +24,49 @@ Our web server collects the addresses of the web sites visitors came from before
 
 At your option, if you delete our cookies, you will limit our ability to personalize the site for your next visit. However, deleting a cookie will not prevent you from visiting our site and making purchases.
 
+You can visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) to opt out of third-party cookies.
+
 ## Who are the third party entities with whom we may share your personally identifiable information?
 
 **Third party service providers:**  
 Micro Center® retail stores and Micro Center Online® may provide your name, address and email address to reputable organizations that help us to fulfill services to you on our behalf. For example, we may use such third party service providers to authorize credit card transactions, ship packages, schedule and perform product installations, administer service programs, help us maintain records and analyze sales data, augment and improve the accuracy of our customer database, and distribute postal and email communications to you with our offers or important information on our behalf. None of these third party service providers are authorized to use your information for any purpose other than to provide the above stated services for which they contract with us to perform.
+
+**Links to Third Party Sites:**  
+Micro Center Online® contains certain links and ads to third party websites, such as our vendors’ websites and links to other websites intended to facilitate our customers’ shopping experience. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk.
 
 **Other Partner Companies**   
 We are respectful of your preferences concerning the amount and source of mail you receive and that it is of interest to you. With this in mind, we may occasionally share your name, postal mailing address and purchase category information on a limited basis with a few trusted companies we believe would offer products or services you would value as a purchaser of consumer electronics and similar types of products. **We never share email addresses or telephone numbers with any of these third-party companies**. If you would prefer we not share your address information with outside partner companies, you may so indicate as noted in the unsubscribe section below.
 
 ##  How do I unsubscribe from Micro Center sharing my information with other companies?
 
-    * **Web**  
+  * **Web**  
 It's easy. Just access our [Print Advertising Preference Center](https://email.microcentermedia.com/p/Microcenter/microcenter_SubscriptionCenter_PRINT) to express your preferences.  
 
-    * **Letter**  
+  * **Letter**  
 Write to us and let us know what you would like to receive or not receive. You can send your letter to: **Communications Department** 4119 Leap Road Hilliard, Ohio 43026 **Note:** Please be sure to include your full name, address and phone number and tell us you want us to no longer provide your name and address information to other companies. This will allow us to correctly identify you in our systems and process your request.
-    * **Email**  
+  * **Email**  
 Email us at [csrs@microcenterorder.com](mailto:csrs@microcenterorder.com) Note: Please be sure to include your full name, address and phone number and tell us you want us to no longer provide your name and address information to other companies. This will allow us to correctly identify you in our systems and process your request. 
+
+
 
 ## How do I subscribe to / unsubscribe from Micro Center® and Micro Center Online® emails or postal mailings?
 
 There are various methods for letting us know if you would or would not like to receive Micro Center® and Micro Center Online® postal or email promotions. (Please note that if you opt out of our email marketing communications, you may still receive business-related communications such as order and shipping confirmations, product recall information or other administrative communications.)
 
-    * **Web**  
-Go to our website (www.microcenter.com) and click on the "[Email Newsletters](https://email.microcentermedia.com/p/Microcenter/microcenter_SubscriptionCenter)" link. This will take you to our Email Preference Center where you can sign up to receive our various marketing promotions or request to no longer receive specified marketing promotions. All promotional emails we send you also contain a link allowing you to opt out of these specific emails in the future. Click on the relevant link and follow the simple instructions.  
+  * **Web**  
+Go to our website (www.microcenter.com) and click on the "[Email Newsletters](https://email.microcentermedia.com/q/Microcenter/microcenter_Subscription)" link. This will take you to our Email Preference Center where you can sign up to receive our various marketing promotions or request to no longer receive specified marketing promotions. All promotional emails we send you also contain a link allowing you to opt out of these specific emails in the future. Click on the relevant link and follow the simple instructions.  
 
-    * **Letter**  
+  * **Letter**  
 **Communications Department** 4119 Leap Road Hilliard, Ohio 43026 Note: Please be sure to include your full name, address and phone number and tell us you want us to no longer provide your name and address information to other companies. This will allow us to correctly identify you in our systems and process your request.
-    * **Email**  
+  * **Email**  
 Email us at [csrs@microcenterorder.com](mailto:csrs@microcenterorder.com)  
 **Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically which type of marketing communication you wish to receive or stop receiving. This will allow us to correctly identify you in our systems and process your request.
-    * **In-Store**  
-While visiting our retail stores, you may request to subscribe to or unsubscribe from our postal mailing lists. Please note; in order to adhere to legal guidelines involving unsubscribing from eMail, we cannot record your eMail preferences in store; this can only be accomplished through one of the other methods described above. If you opted out of receiving our postal or email marketing communications, please allow us a reasonable period of time to honor your request, as some promotions may already be in process. For email subscriptions, please allow up to a maximum of 10 business days for us to make the requested changes. Removal from our print advertising list may take up to 4 - 5 weeks, depending on the mailing cycle updating process. Of course, you always have the option to re-subscribe to our mailing lists. Simply, go to our website (www.microcenter.com) and click on the [Email Newsletters](https://email.microcentermedia.com/p/Microcenter/microcenter_SubscriptionCenter) link.
-  * ## How do we protect the security of your Micro Center Online® order information?
+  * **In-Store**  
+While visiting our retail stores, you may request to subscribe to or unsubscribe from our postal mailing lists. Please note; in order to adhere to legal guidelines involving unsubscribing from eMail, we cannot record your eMail preferences in store; this can only be accomplished through one of the other methods described above. If you opted out of receiving our postal or email marketing communications, please allow us a reasonable period of time to honor your request, as some promotions may already be in process. For email subscriptions, please allow up to a maximum of 10 business days for us to make the requested changes. Removal from our print advertising list may take up to 4 - 5 weeks, depending on the mailing cycle updating process. Of course, you always have the option to re-subscribe to our mailing lists. Simply, go to our website (www.microcenter.com) and click on the [Email Newsletters](https://email.microcentermedia.com/q/Microcenter/microcenter_Subscription) link.
+
+
+
+## How do we protect the security of your Micro Center Online® order information?
 
 Micro Electronics, Inc. and Micro Center Online® are concerned about your privacy and the security of your important personal information. We always use industry standard encryption technologies when transferring and receiving any data that you exchange with our site. We employ the same industry-standard Secure Sockets Layer (SSL) technology that is used by major banks and stock brokerage firms to conduct business via the Internet. This encryption procedure "scrambles" the information you send us and makes online transactions extremely safe.
 
@@ -122,9 +96,9 @@ In addition, as we develop our business, we may buy or sell assets or business o
 
 Authentic Sites like microcenter.com use a VeriSign Secure Server Digital ID to offer proof of identity, to enable secure communications and to encrypt translations with site visitors through their web browser connections. The only way to be sure of a web site's authenticity is to view the site's Digital ID. Viewing a site's ID assures that you are not being "spoofed" (i.e. the site is real and not an imposter) since it contains:
 
-    * The name of the company which owns the web site (e.g. Micro Electronics, Inc.) 
-    * The site's registered Internet address (e.g. www.microcenter.com)  
+  * The name of the company which owns the web site (e.g. Micro Electronics, Inc.) 
+  * The site's registered Internet address (e.g. www.microcenter.com)  
 
-    * The name of the Secure Server Certification Authority under which VeriSign issued the Digital ID (RSA Data Security or VeriSign)
+  * The name of the Secure Server Certification Authority under which VeriSign issued the Digital ID (RSA Data Security or VeriSign)
 
 
