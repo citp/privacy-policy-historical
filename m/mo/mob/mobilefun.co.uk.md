@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827104834id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222204125id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Mobile Fun Blog
-
-## [Security and Privacy](http://www.mobilefun.co.uk/blog/information/security-and-privacy/)
 
 **We pledge to provide you with a safe, hassle-free online shopping experience!**
 
@@ -40,9 +38,7 @@ The information collected in this way can be used to identify you unless you mod
 
 ##  Information You Provide To Us
 
-The following applies to any information you provide to us, for example during any registration or ordering process.
+The following applies to any information you provide to us, for example during any registration or ordering process.  
+You authorise us to use, store or otherwise process any personal information which relates to and identifies you, including but not limited to your name, email address, telephone number and address, to the extent reasonably necessary to fulfill your order, market/communicate products and services and deal with any enquiries relating to the same whether by us, our partners, successors (including the purchaser of the whole or part of our business), associates or sub-contractors (together our ‘Partner Companies’). If you would like to request or review any part of your personal information held by Mobile Fun then click [submit a request form](http://www.mobilefun.co.uk/blog/information/terms-and-conditions/request-for-subject-access-request-form/).
 
-  * You authorise us to use, store or otherwise process any personal information which relates to and identifies you, including but not limited to your name, email address, telephone number and address, to the extent reasonably necessary to fulfill your order, market/communicate products and services and deal with any enquiries relating to the same whether by us, our partners, successors (including the purchaser of the whole or part of our business), associates or sub-contractors (together our ‘Partner Companies’). If you would like to request or review any part of your personal information held by Mobile Fun then click [submit a request form](http://www.mobilefun.co.uk/blog/information/terms-and-conditions/request-for-subject-access-request-form/).
-  * If you obtain or choose to buy products through our website or give us personal information then we may collect information about your buying behaviour and if you send us personal correspondance such as emails or letters then we may collect this information into a file specific to you. All such information collected by us shall be referred to in these terms and conditions as ‘Personal Information’
-
-
+If you obtain or choose to buy products through our website or give us personal information then we may collect information about your buying behaviour and if you send us personal correspondance such as emails or letters then we may collect this information into a file specific to you. All such information collected by us shall be referred to in these terms and conditions as ‘Personal Information’ 
