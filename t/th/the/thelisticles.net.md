@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelisticles.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626092438id_/http%3A//thelisticles.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelisticles.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222232105id_/http%3A//thelisticles.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Listicles
 
@@ -15,7 +15,7 @@ thelisticles.net does use cookies to store information about visitors preference
 **DoubleClick DART Cookie**  
 • Google, as a third party vendor, uses cookies to serve ads on thelisticles.net.  
 • Google’s use of the DART cookie enables it to serve ads to our users based on their visit to thelisticles.net and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://google.com/privacy_ads.html>
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Google Adsense  
