@@ -1,77 +1,112 @@
-> *The following text is extracted and transformed from the stepout.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090502id_/http%3A//www.stepout.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepout.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222220644id_/http%3A//www.stepout.com/privacy) for the most accurate reproduction.*
 
-# Stepout - Find out who likes you nearby
+# Stepout - Meet New People
 
-### [ Back](https://web.archive.org/)
+The Website is owned by Massive Media Match NV, a company registered in Ghent, Belgium with company number 0537.240.636.
 
-The Website is owned by Massive Media Match NV, a company registered in Ghent, Belgium with company number 0537.240.636. Stepout endeavors to process your personal data with every reasonable safeguard for your protection, in conformity with this Privacy Policy and in compliance with the strict rules of Belgian and European data protection legislation. This Privacy Policy is a part of Stepout’s [Terms & Conditions](https://web.archive.org/about/terms) and should be read carefully. It specifies your rights and explains how you can exercise them. Any use of the Website requires the acceptance of the entire Privacy Policy. The term ‘Website’ also includes any mobile application that gives you access to the Website. 
+This Privacy Statement was created in order to demonstrate our firm commitment to your right to privacy and data protection. Stepout processes your personal data with every reasonable safeguard for your protection and in conformity with this Privacy Statement and with the strict rules of Belgian and European data protection legislation.
 
-## Types of personal data we collect
+This Privacy Statement is a part of Stepout’s [Terms & Conditions](https://web.archive.org/about/terms) and should be read carefully. It specifies your rights and explains how you can exercise them. Any use of the Website implies the acceptance of the entire Privacy Statement.
 
-Public information provided or uploaded by you for display on the Website, including: 
+* #### Types of personal data we collect
 
-  * Information in your profile, photos...
+Public information added by you:
+
+  * Information in your profile, photos ...
   * Messages sent to other users.
 
 
 
-Private information provided or uploaded by you not for public display, including: 
+Private information added by you:
 
   * Administrative data such as your username and password.
   * Your settings.
 
 
 
-History and logs: 
+History and logs:
 
   * Time, date and URL of all Stepout pages visited by you.
-  * The searches you perform on the Website.
-  * Technical information regarding your device, such as device ID or IP address.
+  * The searches you perform on the website.
+  * Technical information regarding your Internet browser and computer.
 
 
 
-In order to register, you will be asked to sign in using your Facebook login. If you do so, you authorise us to access certain Facebook account information, including information about your Facebook friends who might be common Facebook friends with other Stepout users. By allowing us to access your Facebook account, you understand that we will obtain and share your name and a profile picture, as well as the name and profile picture of your Facebook friends who are common Facebook friends with other Stepout users in your network or geolocation. When you access or use our Website using Facebook or any other third party site, you allow us to access or collect information made available by Facebook or such other third party site in accordance with its privacy policy. This information may be available from your profile or account with such site or from cookies placed on your device by the third party platform. We may collect and store personal information about other people that is available to us through your Facebook login, namely the name and picture of certain of your Facebook friends as follows: we will only share this information with other users of Stepout or of other websites also owned by us (such as www.twoo.com) who are already friends with your Facebook friend and who already have access to such information. If you choose to give additional information about yourself (whether for public display or private use), you explicitly give us permission to use that information as described in this Privacy Policy. 
+During your registration (and afterwards), you can provide us with information about your name, e-mail address, gender, date of birth, location and some optional details about yourself. With the exception of gender and birthday, your Stepout profile details can be edited at any given moment.
 
-## What do we do with your personal data?
+If you choose to give additional information about yourself, you explicitly give us permission to use that information as described in this Privacy Statement.
 
-We use your personal data to: 
+* #### What do we do with your personal data?
 
-  * Publish the information intended to be made public by you.
+We use your personal data to:
+
+  * Publish the information intended to be made public by you, under the conditions specified in your settings.
   * Allow you to correctly use the Website in accordance with your settings.
-  * Perform general customer administration, research or analysis.
-  * Send you communications about the Website, as well as our other products and services offered by Stepout, www.twoo.com or other websites operated by us.
-  * Provide you with advertisements tailored to your profile, perform ad tracking and Website or mobile Application analysis.
-  * Investigate fraud and infringements of our Terms of Use.
-  * Generate anonymous statistics about the users of the Website, to improve the Website or convey statistical information to third parties and for internal business uses.
-  * Perform other actions disclosed to you when the information was collected.
+  * Perform general customer administration.
+  * Send you communications about the Website, as well as our other products and services.
+  * Provide you with advertisements tailored to your profile.
+  * Investigate fraud and infringements of our [Code of Conduct](https://web.archive.org/about/codeofconduct).
+  * Generate anonymous statistics about the (users of the) Website, to improve the Website or convey statistical information to third parties.
+  * Register and display your profile on other social websites owned by Massive Media Match NV or its sister, daughter or parent companies.
 
 
 
-By registering on the Website, you acknowledge and agree that all information that you provide, including sensitive personal data, may be accessed from countries outside Belgium. Please note that countries outside Europe may have lower standards of data protection than Belgium. 
+You may want us to send you e-mails with notifications about new messages or for other purposes related to the use of the Website. You can opt in or out from these messages in your "Settings".
 
-## How your personal data is shared with third parties
+By registering on the Website, you acknowledge and agree that the profile data and other information that you provide, including sensitive personal data, may be accessed from countries outside Belgium. Please note that countries outside Europe may have lower standards of data protection than Belgium.
 
-Third parties can access all information intended to be made public by you. We hate spam as much as you do. Your e-mail address is never shared by us with any third party without your explicit permission. Statistical or anonymous information about our users can be disclosed for research, analytical, marketing and promotional purposes. In these situations, we never disclose information that could be used to personally identify you. We may provide access to your personal data in case of illegal use, when we receive orders from law enforcement or other legal authorities, to protect our rights or to defend ourselves, or as otherwise required by law. We may use a third party vendor to perform certain business functions on our behalf who will be obligated to use your personal information only to perform services for us. These vendors will be obligated to keep such information confidential and only to perform services for us. Also, if you access the Website from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings. 
+* #### How your personal data is shared with third parties
 
-## Storage term and location
+Third parties can access all information intended to be made public by you, under the conditions specified in your privacy settings.
 
-We apply the following storage terms: 
+We hate spam as much as you do. Your e-mail address is never shared by us with any third party.
 
-  * Information uploaded by you: stored during a period of 6 months after you delete this information, or delete your account. (Note: you can delete your account at any time. If you do not log in to your account during a period of 6 months, your account can be deleted automatically.)
+Statistical or anonymous information about our users can be disclosed for marketing and promotional purposes. In these situations, we never disclose information that could be used to personally identify you.
+
+We never share any of your other personal data with any third party, unless you give your explicit permission. We may, however, provide access to your personal data in case of illegal use, when we receive orders from legal authorities or to protect our rights.
+
+* #### Cookies and web bugs
+
+The Website uses cookies to identify you as a user of the Website, to remember your preferred language and to facilitate navigation on the Website. You can disable cookies in your Internet browser, although some parts of the Website will no longer function correctly if you do so.
+
+* #### Storage term and location
+
+Stepout applies the following storage terms:
+
+  * Information added by you: stored during a period of 6 months after you delete this information, or delete your account. (Note: you can delete your account at any time. If you do not log in on your account during a period of 6 months, your account can be deleted automatically.)
   * History and logs: stored during a period of 6 months after the history item or log event was created.
+  * Cookies: cookies used on the Website have a maximum lifetime of 100 days.
 
 
 
-Your personal data may be stored in a country outside the EU. 
+Your personal data may be stored in a country outside the EU.
 
-## Security measures
+* #### Security measures
 
-We use industry standard efforts to safeguard the confidentiality of your personal information. While 'perfect security' does not exist on the Internet, we endeavor to ensure your online safety. 
+The security measures put in place on Stepout prevent the loss, misuse, and alteration of the information under our control. Stepout uses industry standard efforts to safeguard the confidentiality of your personal information. While "perfect security" does not exist on the Internet, our technical experts at Stepout work hard to ensure your online safety.
 
-## Your rights
+* #### Your rights
 
-You can get access to your personal data free of charge and correct it, or have it corrected, where relevant. In many cases you can change your data yourself. Please promptly update your information if it changes. 
+You can get access to your personal data free of charge (and correct it, or have it corrected, where relevant). Please promptly update your information if it changes.
 
-## Changes to this Privacy Policy
+You can object to the use of your personal data for direct marketing purposes.
 
-We reserve the right to modify this Privacy Policy at any time. Any changes to this Privacy Policy will be posted on this Website so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Modified versions will take effect thirty (30) days after being published on the Website. 
+* #### Control of your password
+
+You may not disclose your password to any third parties or share it with any third parties. Keeping your password safe is your responsibility.
+
+If your password has been revealed or stolen, immediately change your password via Settings. Please inform us of any privacy breach or abuse of login data by sending an e-mail to [abuse-en@stepout.com](mailto:abuse-en@stepout.com). 
+
+We strongly recommend that you periodically change your password. Choosing a safe password will reduce the risk of unauthorized access to your account.
+
+* #### Importing your contacts
+
+In some countries Stepout offers members an easy import tool to invite your mail contacts to register on Stepout. If you decide to import your contacts, you confirm that they have given you their consent to do so and you accept that an automatic e-mail invitation and reminder will be sent on your behalf to the contacts you have selected. Stepout stores the contact details of your friends only for the purpose of automatically connecting them with you after their registration.
+
+Stepout does not sell e-mail addresses or use them to send any other communication besides invitations. Your contacts can click the unsubscribe link in the invitation mails to prevent receiving further invitations from Stepout.
+
+* #### Changes to this Privacy Statement
+
+We reserve the right to modify this Privacy Statement at any time. Any changes to this Privacy Statement will be posted on this Website so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it.
+
+Modified versions will take effect in thirty (30) days after being published on the Website.
