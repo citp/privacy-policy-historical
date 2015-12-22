@@ -1,12 +1,36 @@
-<!--The following is the downloaded HTML source of the rocketlawyer.com privacy policy that was archived on 2015-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419161255id_/https%3A//www.rocketlawyer.com/privacy.rl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rocketlawyer.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222214246id_/https%3A//www.rocketlawyer.com/privacy.rl) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:rl="http://www.rl.com/rh"><head>
-    
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-4X44"></script><script>
+var console = window.console || {},
+    consoleMessages = [],
+    emptyFn = function(){};
+function intercept(method){
+    var original = console[method] || emptyFn;
+    console[method] = function(){
+        // do sneaky stuff
+        var message = Array.prototype.slice.apply(arguments).join(' ');
+        consoleMessages.push(message);
+        if (original.apply){
+            // Do this for normal browsers
+            original.apply(console, arguments)
+        }else{
+            // Do this for IE
+            original(message)
+        }
+    }
+}
+if (console) {
+    var methods = ['log', 'warn', 'error'];
+    for (var i = 0; i < methods.length; i++)
+        intercept(methods[i]);
+}
+</script>
+
 
 
         
-
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-language" content="en-us">
@@ -17,13 +41,13 @@
 
 
         
-
 <title>Rocket Lawyer Privacy Policy</title>
-<link rel="icon" href="/favicon_rocketlawyer.png" type="image/png">
-<link rel="shortcut icon" href="/favicon_rocketlawyer.png" type="image/png">
+
+    <link rel="icon" href="/favicon_rocketlawyer.png" type="image/png">
+	<link rel="shortcut icon" href="/favicon_rocketlawyer.png" type="image/png">
 
 <link id="rlOpenSans" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:italic,300,400,600,700,700italic">
-<link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/css/rlStylesHeaderFooter.css?v=1429138151651">
+<link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/releases/1446674731786/css/rlStylesHeaderFooter.css">
 <link rel="stylesheet" type="text/css" href="/refresh_assets/Styleguide/assets/css/icon-font.css?v=1429138151651">
 <style>
   .shareModal .title .close {
@@ -33,7 +57,7 @@
 
 
     <link rel="stylesheet" type="text/css" id="main-style-sheet" href="https://www.rocketlawyer.net/refresh_assets/css/style.css?v=1429138151651">
-    <link rel="stylesheet" type="text/css" href="/refresh_assets/fonts/rlApp/rlIcons.css?v=1429138151651">
+    <link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/releases/1445987267613/fonts/rlApp/rlIcons.css">
 
 
 
@@ -64,7 +88,7 @@
 <![endif]-->
 
 <!--[if lte IE 8]>
-    <script src="/refresh_assets/angular/lib/json3.min.js?v=1429138151651"></script>
+    <script src="/refresh_assets/js/lib/angular/json3.min.js?v=1430254209001"></script>
     <script>
         document.createElement('ng-include');
         document.createElement('ng-pluralize');
@@ -80,7 +104,9 @@
     </script>
 <![endif]-->
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-4X44"></script><script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/js/headerCombo.min.js?v=1429138151651"></script>
+<script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/releases/1449705798735/js/headerCombo.min.js"></script>
+
+
 
 
     <script src="//cdn.optimizely.com/js/29364081.js"></script>
@@ -132,13 +158,28 @@
         
     
 </script>
+<script>
+    function getParam(name) {
+		if( window.location.href.indexOf('?') == -1){ return false}
+
+        var i,x,y,locationURL=window.location.href.split('?')[1].split("&");
+        for (i=0;i<locationURL.length;i++){
+          x=locationURL[i].substr(0,locationURL[i].indexOf("="));
+          y=locationURL[i].substr(locationURL[i].indexOf("=")+1);
+          x=x.replace(/^\s+|\s+$/g,"");
+          if (x==name){
+            return unescape(y);
+            }
+          }
+
+	}
+</script>
 
 
-
-  	<link rel="stylesheet" href="https://www.rocketlawyer.net/refresh_assets/css/legal-business-forms.css?v=1429138151651">
-    <link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/css/lib/foundation.min.css?v=1429138151651">
+  	<link rel="stylesheet" href="https://www.rocketlawyer.net/refresh_assets/css/legal-business-forms.css?v=1438797541272">
+    <link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/css/lib/foundation.min.css?v=1438797541272">
     <!--[if lte IE 8]>
-  	<link rel="stylesheet" href="/refresh_assets/css/foundation-ie8.css?v=1429138151651" />
+  	<link rel="stylesheet" href="/refresh_assets/css/foundation-ie8.css?v=1438797541272" />
   	<![endif]-->
   </head>
   <body class="rlResponsivePageBody">
@@ -147,7 +188,7 @@
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-4X44');</script>
 <!-- [-] End Google Tag Manager -->
 <div id="fb-root"></div>
-<div id="HeaderApp" class="rlHeader" ng-controller="NavCtrl" ng-class="{rlHeaderShowingFullNav: !nonav}">
+<div id="HeaderApp" class="rlHeader rlClearfix" ng-controller="NavCtrl" ng-class="{rlHeaderShowingFullNav: !nonav}">
     <script type="text/javascript">
     	document.createElement('str-avatar-username');
         var bmMembership = '';
@@ -188,7 +229,21 @@
 
     <div class="rlHeaderMenuResponsiveHiding" ng-click="toggleFullNavMenu(false);"></div>
 
-    <div class="rlHeaderOverall" ng-show="!isLoggedIn || anon" ng-cloak="">
+    <!-- Navigation Refresh -->
+
+      
+																					
+<script>
+    $(document).ready(function(){
+        $('#HeaderApp').scope().$apply(function(scope){
+            scope.newNav = false;
+        });
+    });
+</script>
+
+<!-- End Navigation Refresh Exp -->
+
+<div class="rlHeaderOverall" ng-show="!isLoggedIn || anon" ng-cloak="">
     <div class="rlHeaderTop rlContainer">
         <a href="/" class="rlHeaderLogo rlImageAccessible">Rocket Lawyer</a>
         <div class="rlHeaderTopRightStuff">
@@ -370,7 +425,7 @@
     </div>
 </div>
 
-    <div class="rlHeaderOverall rlHeaderLoggedIn" ng-show="isLoggedIn &amp;&amp; !lawyer &amp;&amp; !anon &amp;&amp; !showSapHeader" ng-cloak="">
+    <div class="rlHeaderOverall rlHeaderLoggedIn" ng-show="isLoggedIn &amp;&amp; !lawyer &amp;&amp; !anon &amp;&amp; !(auxState &amp;&amp; auxState.user.aux)" ng-cloak="">
         <div class="rlHeaderTopBackgroundLI"></div>
         <div class="rlHeaderTopLI rlContainer">
             <div class="rlHeaderTopLeftLogosEtc">
@@ -490,12 +545,13 @@
             </div>
         </div>
     </div>
-    <div class="rlAppNav" ng-show="isLoggedIn &amp;&amp; !lawyer &amp;&amp; !anon &amp;&amp; showSapHeader" ng-cloak="">
+    <div class="rlAppNav rlClearfix" ng-show="isLoggedIn &amp;&amp; !anon &amp;&amp; (auxState &amp;&amp; auxState.user.aux)" ng-cloak="">
         <div class="rlAppNav">
             <div class="iconNav rlClearfix">
-                <a href="/app.rl#/" class="rlLogo" ng-click="navClick('circler')">
+                <a ng-href="/app.rl{{auxState.user.home}}" class="rlLogo" ng-click="navClick('circler')">
                     <i class="rl-icon rl_circle-r-logo"></i>
                 </a>
+                <a ng-href="/app.rl{{auxState.user.home}}" class="rlName" ng-click="navClick('circler')"></a>
                 <div class="userAccount animate-link-red rlClearfix" onclick="void(0)">
                     <p class="accountName" ng-cloak="">
                         {{firstName}} {{lastName}}
@@ -503,11 +559,20 @@
                     <div class="accountImage" ng-style="{'background-image': 'url(\'/classic-site/avatar?_=' + {{randomVal}} + '\')'}">
                     </div>
                     <div class="dropMenu accountMenu rlClearfix">
-                        <a href="/app.rl#/account-settings" class="menuLink" ng-click="navClick('accountsettings')" ng-class="{selected: $window.location.hash.indexOf('account') > -1}">
-                            <i class="fa fa-cog"></i> Account Details
+                        <div class="accountSelection" ng-show="auxState.user.accounts.admins.length + auxState.user.accounts.owners.length > 1">
+                            <p>Use Rocketlawyer as:</p>
+                            <a class="accountSelect" ng-repeat="account in auxState.user.accounts.owners" ng-click="switchAccount(account)" ng-class="{selected: account.accountId == auxState.user.current.accountId}">
+                                {{account.info.first_name}} {{account.info.last_name}}
+                            </a>
+                            <a class="accountSelect" ng-repeat="account in auxState.user.accounts.admins" ng-click="switchAccount(account)" ng-class="{selected: account.accountId == auxState.user.current.accountId}">
+                                {{account.info.name}}
+                            </a>
+                        </div>
+                        <a class="menuLink" ng-show="auxState.user.current.role == 'OWNER' || !auxState.user.current" ng-class="{selected: $window.location.hash.indexOf('avatar_account') > -1}" ng-click="navClick('accountsettings')" ng-href="{{(auxState.user.info.is_lawyer) ? '/app.rl#/profile-details' : '/app.rl#/account-settings'}}">
+                            <i class="rl-icon rl_settings"></i> Account Settings
                         </a>
-                        <a href="/secure/registration/logout.aspx" class="menuLink" ng-click="navClick('avatar_signout')">
-                            <i class="fa fa-sign-out"></i> Sign out
+                        <a class="menuLink" ng-click="logOut()">
+                            <i class="rl-icon rl_signout"></i> Sign out
                         </a>
                     </div>
                 </div>
@@ -528,237 +593,273 @@
             </div>
         </div>
     </div>
+	<div class="clear"></div>
+	<!---Start Bread Crumb-->
+	<div ng-hide="noBreadCrumb">
+        <div class="rlAppBreadCrumb" ng-show="isLoggedIn &amp;&amp; !anon &amp;&amp; (auxState &amp;&amp; auxState.user.aux)" ng-cloak="">
+            <div class="rlBCBanner rlClearfix">
+                <ul class="rlbreadcrumb desktopOnly">
+                    <li>
+                        <a class="exploreIcon activityImg back" ng-mouseenter="hover=true" ng-mouseleave="hover=false" ng-if="auxState.lastRoute!='/explore' &amp;&amp; auxState.lastRoute!='/search'" href="/app.rl{{auxState.lastRoute}}">
+                            <span class="activities" ng-hide="hover"></span>
+                            <span class="hoveractivities" ng-show="hover"></span>
+                    		<span class="backTo">Back to Activities</span>
+                		</a>
+                        <a class="exploreIcon exploreImg back" ng-mouseenter="exhover=true" ng-mouseleave="exhover=false" ng-if="auxState.lastRoute=='/explore'" ng-href="/app.rl/explore">
+                            <span class="explore" ng-hide="exhover"></span>
+                            <span class="hoverexplore" ng-show="exhover"></span>
+                            <span class="backTo">Back to Explore</span>
+                        </a>
+                        <a class="exploreIcon searchImg back" ng-mouseenter="sehover=true" ng-mouseleave="sehover=false" ng-if="auxState.lastRoute=='/search'" ng-href="/app.rl/search">
+                            <span class="search" ng-hide="sehover"></span>
+                            <span class="hoversearch" ng-show="sehover"></span>
+                            <span class="backTo">Back to Search</span>
+                        </a>
+                    </li>
+                    <li ng-if="auxState.history.length>4"><a class="divider" style="width:0"></a></li>
+                    <li ng-if="auxState.history.length>4"><a class="divider" style="width:0"></a></li>
+                    
+                    <li ng-repeat="breadCrumb in auxState.history">
+                         <a class="exploreIcon" ng-href="{{breadCrumb.url}}" ng-click="breadCrumbClick($index)">
+                            <span class="breadCrumbTitle">{{breadCrumb.title}}</span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="rlbreadcrumb mobileOnly">
+                    <li>
+                        <a class="exploreIcon activityImg back" ng-mouseenter="hover=true" ng-mouseleave="hover=false" ng-if="auxState.lastRoute!='/explore' &amp;&amp; auxState.lastRoute!='/search'" href="/app.rl{{auxState.lastRoute}}">
+                            <span class="activities" ng-hide="hover"></span>
+                            <span class="hoveractivities" ng-show="hover"></span>
+                		</a>
+                        <a class="exploreIcon exploreImg back" ng-mouseenter="exhover=true" ng-mouseleave="exhover=false" ng-if="auxState.lastRoute=='/explore'" ng-href="/app.rl/explore">
+                            <span class="explore" ng-hide="exhover"></span>
+                            <span class="hoverexplore" ng-show="exhover"></span>
+                        </a>
+                        <a class="exploreIcon searchImg back" ng-mouseenter="sehover=true" ng-mouseleave="sehover=false" ng-if="auxState.lastRoute=='/search'" ng-href="/app.rl/search">
+                            <span class="search" ng-hide="sehover"></span>
+                            <span class="hoversearch" ng-show="sehover"></span>
+                        </a>
+                    </li>
+                    <li ng-repeat="breadCrumb in auxState.history" ng-if="$index >auxState.history.length-3">
+                         <a class="exploreIcon" ng-href="{{breadCrumb.url}}" ng-click="breadCrumbClick($index)">
+                            <span class="breadCrumbTitle">{{breadCrumb.title}}</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+	</div>
+ 	<!---End Bread Crumb-->
     <div class="rlHeaderSpecialFixedSpacer"></div>
 
     <share-modal sub-type="subType" logged-in="isLoggedIn" anon="anon" paywallurl="/account-details.rl#/membership"></share-modal>
 </div>
-
-<script>
-    function logUserOut(){
-        $.get( "/identity/v1/auth/logout", function( data ) {
-            window.location = '/';
-        });
-    }
-    $(function(){
-        if(isLawyer){
-            angular.bootstrap(document.getElementById('WLOHeader'), ['HeaderApp']); // Start up the header app
-        }
-
-        //Internet Explorer
-        var ieVersion;
-        if (navigator.appName == "Microsoft Internet Explorer") {
-            //Set IE as true
-            ie = true;
-            //Create a user agent var
-            var ua = navigator.userAgent;
-            //Write a new regEx to find the version number
-            var re = new RegExp("MSIE ([0-9]{1,}[.0-9]{0,})");
-            //If the regEx through the userAgent is not null
-            if (re.exec(ua) != null) {
-                //Set the IE version
-                ieVersion = parseInt(RegExp.$1);
-            }
-        }
-        else {
-            ie = false;
-        }
-        if(ieVersion < 10 && isLawyer){
-            document.getElementById("ie-butter-message").style.display = "block";
-        }
-    });
-</script>
-<link rel="stylesheet" href="https://www.rocketlawyer.net/refresh_assets/css/wlo-header.css?v=1429138151651">
-
-<div id="pushobj" class="clearfix">
-    <div id="WLOHeader" class="codrops-top clearfix">
-        <div ng-show="isLoggedIn &amp;&amp; lawyer" ng-cloak="">
-            <a onclick="toggleMenu()" class="w-nav-button wlo-head-item wlo-first-item" style="cursor:pointer;"><img height="30" width="30" src="https://www.rocketlawyer.net/refresh_assets/img/wlo-header/img-menu-icon.png"></a>
-            <span><a class="rlHeaderLogo-wlo rlImageAccessible no-back-hover" style="" href="/">Rocket Lawyer</a></span>
-            <span class="right" style="height: 50px;">
-                <ul class="dropdown clearfix">
-                    <li class="wlo-hover">
-                        <a id="wlo-dash-icon" class="w-nav-button wlo-head-item right-links" href="/secure/wlo/dashboard.aspx"><img height="30" width="30" src="https://www.rocketlawyer.net/refresh_assets/img/wlo-header/img-dashboard-icon.png"></a>
-                    </li>
-                    <li style="border-right: 1px solid #700;">
-                        <a id="wlo-task-icon" class="w-nav-button wlo-head-item" href="/taskboard.rl"><img height="30" width="30" src="https://www.rocketlawyer.net/refresh_assets/img/wlo-header/img-taskboard-icon.png"></a>
-                    </li>
-                    <li class="wlo-last-item">
-                        <a class="w-clearfix w-inline-block div-lawyer-greeting right-links">
-                            <str-avatar-username content="WLOavatarAndHelloUsername"></str-avatar-username>
-                            <!-- <span>
-                                <img class="wloProfileImage" ng-src="{{strAvatarUrl}}" height="30" width="30"/> Hello, {{username}}
-                            </span>-->
-                        </a>
-                        <ul class="sub_menu">
-                            <li style="background-color: #ccc;color:#fff;"><img height="20" width="20" src="https://www.rocketlawyer.net/refresh_assets/img/wlo-header/icon-menu-account2.png"> My Account</li>
-                            <li><a href="/lawyer-edit.rl">Edit Profile</a></li>
-                            <li><a href="/lawyer-profile.rl?id={{globalId}}">View Profile</a></li>
-                            <li><a href="/secure/account/edit-profile.aspx">Account Details</a></li>
-                            <li><a href="/secure/registration/logout.aspx">Sign Out</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </span>
-        </div>
-    </div>
-<style>
-</style>
-
 <script type="text/javascript">
     angular.bootstrap(document.getElementById('HeaderApp'), ['HeaderApp']); // Start up the header app
 </script>
 
-        <rl:variable name="contentTop" type="HTML Block" required="true" min="1" max="1"></rl:variable>
-    <rl:variable name="contentBottom" type="HTML Block" required="true" min="1" max="1"></rl:variable>
-<div class="main landing">
-    <div class="container">
-
-
-       <link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/css/lib/foundation.min.css">
-
-<style type="text/css">
-  .sidebar-mobile {
-    display:none;
-  }
-  .sidebar-left {
-    background: #f1efe9;
-    border-radius: 10px;
-    padding: 26px;
-    overflow: auto;
-    height: auto;
-    margin-bottom: 20px;
-  }
-  .sidebar-left h2 {
-    font-size: 14px;
-    line-height: 1.6px;
-    margin-bottom: 20px;
-    font-weight: 600;
-  }
-  .sidebar-left ul {
-    list-style: none;
-    padding: 10px 0;
-  }
-  .sidebar-left ul li a {
-    line-height: 25px;
-  }
-@media only screen and ( max-width: 640px ) {
-  .sidebar-desktop {
-    display: none;;
-  }
-  .sidebar-mobile {
-    display: block;
-  }
-  p {
-    font-size: 12px;
-    line-height: 1.6
-  }
-  .landing h1 {
-    font-size: 30px;
-  }
-  h2 {
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 27px;
-    margin-bottom: 11px;
-    padding-top: 12px;
-  }
-  .container {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-  
-}
-</style>
-<div class="row">
-  <div class="small-12 medium-4 large-4 columns">
-    <div class="sidebar-desktop">
-    <div class="sidebar-left">
-      <h2>Table of Contents</h2>
-      <ul>
-      <li><a href="/privacy.rl#collection">Collection of your Personal Information</a></li>
-        <li><a href="/privacy.rl#Useof">Use of your Personal Information</a></li>
-        <li><a href="/privacy.rl#attorneys">Communications with Attorneys</a></li>
-        <li><a href="/privacy.rl#cookies">Use of Cookies</a></li>
-        <li><a href="/privacy.rl#Security">Security of your Personal Information</a></li>
-        <li><a href="/privacy.rl#under13">Children Under Thirteen</a></li>
-        <li><a href="/privacy.rl#changes">Changes to this Privacy Policy</a></li>
-        <li><a href="/privacy.rl#Contact">Contact Information</a></li>
-      </ul>
-      <h2>Learn More</h2>
-      <p><a href="/terms-and-conditions.rl"><strong>Terms of Service</strong></a></p>
-    </div>
-    </div>
-  </div>
-  <div class="small-12 medium-8 large-8 columns pad-top">
-    <a name="backtop"></a>
-    <div class="right-column-first"> <h1>Privacy Policy</h1>
-    <p><span style="font-style: italic;">Last Updated: 3/4/2015</span></p>
-    <p>Protecting your private information is our priority. This Privacy Policy governs data collection and usage of the products, services, software, platform and websites (collectively, "Services") provided by Rocket Lawyer Incorporated and any of our affiliates (collectively, “Rocket Lawyer”). By using the Services, you consent to the data practices described in this policy as well as our <a href="/terms-and-conditions.rl">Terms of Service</a>.  If you do not agree to any part of this Privacy Policy, then you should stop accessing the Services. &nbsp;</p></div>
-
-<div class="sidebar-mobile">
-    <a name="backtop"></a>
-    <div class="sidebar-left">
-      <h2>Table of Contents</h2>
-      <ul>
-      <li><a href="/privacy.rl#collection">Collection of your Personal Information</a></li>
-        <li><a href="/privacy.rl#Useof">Use of your Personal Information</a></li>
-        <li><a href="/privacy.rl#attorneys">Communications with Attorneys</a></li>
-        <li><a href="/privacy.rl#cookies">Use of Cookies</a></li>
-        <li><a href="/privacy.rl#Security">Security of your Personal Information</a></li>
-        <li><a href="/privacy.rl#under13">Children Under Thirteen</a></li>
-        <li><a href="/privacy.rl#changes">Changes to this Privacy Policy</a></li>
-        <li><a href="/privacy.rl#Contact">Contact Information</a></li>
-      </ul>
-      <h2>Learn More</h2>
-      <p><a href="/terms-and-conditions.rl"><strong>Terms of Service</strong></a></p>
-    </div>
-    </div>
-
-    <p><a name="collection"></a></p>
     
-    <h2>Collection of your Personal Information</h2>
-    <p>Rocket Lawyer may collect personally identifiable information, such as your e-mail address, name, physical address or telephone number. If you purchase our Services, we will collect and store your billing and credit card information. Rocket Lawyer may also collect anonymous demographic information, which is not unique to you, such as your Postal Code, age, gender, preferences, interests and favorites. Rocket Lawyer will not delete customer information for paying members. However, Rocket Lawyer reserves the right to delete customer information for members with a free account status at any time.</p>
-    <p>Information about your computer hardware and software also may be automatically collected by Rocket Lawyer. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Rocket Lawyer for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Services.</p>
-    <p>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Services, this information may be collected and used by others. &nbsp;Rocket Lawyer encourages you to review the privacy statements of websites you choose to link to from our website so that you can understand how those websites collect, use and share your information. Rocket Lawyer is not responsible for the privacy statements or other content on websites outside of the websites we operate.</p>
-    <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> <a name="Useof"></a></p>
-    <h2>Use of your Personal Information</h2>
-    <p>Rocket Lawyer collects and uses your personal information to operate our websites and deliver the Services you have requested. &nbsp;Rocket Lawyer may also use your personally identifiable information to inform you of other products or services available from Rocket Lawyer and its affiliates. Rocket Lawyer may also contact you to participate in surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
-    <p>Rocket Lawyer does not sell, rent or lease its customer lists to third parties. Rocket Lawyer may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party without your express consent. In addition, Rocket Lawyer may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Rocket Lawyer may share your information with third parties who perform tasks required to complete a purchase transaction. All such third parties are prohibited from using your personal information except to provide these Services, and they are obligated to maintain the confidentiality of your information.</p>
-    <p>Rocket Lawyer keeps track of the pages our customers visit within our websites in order to determine what Services are the most popular. This data is used to deliver customized content and advertising within the websites we operate to users whose behavior indicates that they are interested in a particular subject area. &nbsp;Rocket Lawyer uses tracking pixels to collect information that helps us provide our Service to you. Please note that any "do not track" signals sent by your web browser or other mechanism have no effect on the collection of personally identifiable information by Rocket Lawyer. In addition, other parties who perform data analytics for Rocket Lawyer, such as Google Analytics, may collect personally identifiable information about your online activities when you use our Services. Third party affiliates of Rocket Lawyer may have different policies with respect to "do not track" signals and Rocket Lawyer makes no representations with respect to such policies.</p><p>Rocket Lawyer may disclose personal information when we are required to or we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this Privacy Policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users’ rights, property or safety; to protect our users from fraudulent, abusive, or unlawful use of the Services; or if we believe that an emergency involving the danger of death or serious physical injury to any person requires or justifies disclosure of personal information.</p><div>Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of Rocket Lawyer’s business assets. In such an event, we will attempt to notify you before your personal information is transferred, but you may not have the right to opt out of any such transfer.</div>
 
-    <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> 
-      <a name="attorneys"></a></p>
-      <h2>Communications with Attorneys</h2>
-      <p>In order to ensure delivery of Services and for quality assurance purposes, Rocket Lawyer will have access to communications with attorneys which are transmitted through the Services (such as the <a href="/ask-a-lawyer.rl">Ask a Lawyer service</a>).  As a result, if you choose to communicate with an attorney through the Services, please note that any such communications between you and a participating attorney may not necessarily be treated as confidential information by the attorney or protected by the attorney-client privilege doctrine.  For additional information, please read the section in our Terms of Service entitled <a href="/terms-and-conditions.rl#Interactions">Interactions with Attorneys on Rocket Lawyer</a>.</p>
-      <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> 
-        <a name="cookies"></a></p>
-        <h2>Use of Cookies</h2>
-        <p>Our website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
-        <p>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you register an account with Rocket Lawyer, a cookie helps us recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to our website, the information you previously provided can be retrieved, so you can easily use the features that you customized.</p>
-        <p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Services.</p>
-        <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> <a name="Security"></a></p>
-        <h2>Security of your Personal Information</h2>
-        <p>You are responsible for safeguarding and preventing unauthorized access to the user information and password that you use to access our Services. You agree not to disclose your password to any third party and you are responsible for any activity using your account, whether or not you authorized that activity. Please immediately notify Rocket Lawyer of any unauthorized use of your account.</p>
-        <p>Rocket Lawyer secures your personal information from unauthorized access, use or disclosure. In addition, Rocket Lawyer secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
-        <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> <a name="under13"></a></p>
-        <h2>Children Under Thirteen</h2>
-        <p>Our Services are not intended for use by children under the age of 13, and such use is prohibited by our <a href="/terms-and-conditions.rl">Terms of Service</a>. We do not knowingly collect personally identifiable information from children under 13. If you become aware that a child has provided us with Personal Information, please contact us as set forth in this Privacy Policy.</p>
-        <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> <a name="changes"></a></p>
-        <h2>Changes to this Privacy Policy</h2>
-        <p>Rocket Lawyer may change the provisions of this Privacy Policy at any time, and will always post the most up-to-date version on our website.</p>
-        <p><a href="/privacy.rl#backtop">Back to Table of Contents</a> <a name="Contact"></a></p>
-        <h2>Contact Information</h2>
-        <p>Rocket Lawyer welcomes your comments regarding this Privacy Policy. Please <a href="/contact-us.rl">Contact Us</a>.</p>
-        <p>For more information, please review our <a href="/terms-and-conditions.rl">Terms of Service</a> and <a href="/faq.rl">FAQ section</a>.</p>
-        <p><a href="/privacy.rl#backtop">Back to Table of Contents</a></p>
-      </div>
-    </div>
-        
+  <div class="main landing">
+    <div class="container">
+        <link rel="stylesheet" type="text/css" href="https://www.rocketlawyer.net/refresh_assets/css/lib/foundation.min.css?v=1438797541272">
+            <style type="text/css">
+      .sidebar-mobile {
+        display:none;
+      }
+      .sidebar-left {
+        background: #f1efe9;
+        border-radius: 10px;
+        padding: 26px;
+        overflow: auto;
+        height: auto;
+        margin-bottom: 20px;
+      }
+      .sidebar-left h2 {
+        font-size: 14px;
+        line-height: 1.6px;
+        margin-bottom: 10px;
+        font-weight: 600;
+      }
+      .sidebar-left ul {
+       list-style: none !important;
+       margin-left: 20px;
+       padding: 10px 0;
+      }
+      .sidebar-left ul li a {
+        line-height: 25px;
+      }
+      ol.legal-benefites-terms-of-service ol {
+        list-style-type: lower-alpha;
+      }
+      ol.legal-benefites-terms-of-service ol li {
+        margin-bottom: 15px;
+      }
+      .indent {
+        margin-left: 10%;
+      }
+            
+    @media only screen and ( max-width: 640px ) {
+      .sidebar-desktop {
+        display: none;;
+      }
+      .sidebar-mobile {
+        display: block;
+      }
+      p {
+        font-size: 12px;
+        line-height: 1.6
+      }
+      .landing h1 {
+        font-size: 30px;
+      }
+      h2 {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 27px;
+        margin-bottom: 11px;
+        padding-top: 12px;
+      }
+      .container {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      
+    }
+    </style>
+            <div class="row">
+                <div class="small-12 medium-4 large-4 columns">
+                    <div class="sidebar-desktop">
+                        <div class="sidebar-left">
+                            <h2>General Terms</h2>
+                            <ul style="list-style: none">
+                                <li>
+                                    <a href="/terms-and-conditions.rl">Terms of Service</a>
+                                </li>
+                                <li>Privacy Policy</li>
+                            </ul>
+                            <h2>Additional Terms</h2>
+                            <ul style="list-style: none">
+                                <li>
+                                    <a href="/legal-benefits-terms-of-service.rl">Legal Benefits Terms of Service</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="small-12 medium-8 large-8 columns pad-top">
+                    <a name="backtop"></a>
+                    <div class="right-column-first">
+                    
+                    <h1>Privacy Policy</h1>
+                    <p>
+                        <span style="font-style: italic;">Last Updated: 11/11/2015</span>
+                    </p>
+                    <p>Protecting your private information is our priority. This Privacy Policy governs data collection and usage of the products, services, software, platform and websites (collectively, "Services") provided by Rocket Lawyer Incorporated and any of our affiliates (collectively, "Rocket Lawyer"). By using the Services, you consent to the data practices described in this policy as well as our 
+                        <a href="/terms-and-conditions.rl">Terms of Service</a>.  If you do not agree to any part of this Privacy Policy, then you should stop accessing the Services. &nbsp;
+                    </p>
+                </div>
+                <div class="sidebar-mobile">
+                    <a name="backtop"></a>
+                    <div class="sidebar-left">
+                        <h2>General Terms</h2>
+                        <ul style="list-style: none">
+                            <li>
+                                <a href="/terms-and-conditions.rl">Terms of Service</a>
+                            </li>
+                            <li>Privacy Policy</li>
+                        </ul>
+                        <h2>Additional Terms</h2>
+                        <ul style="list-style: none">
+                            <li>
+                                <a href="/legal-benefits-terms-of-service.rl">Legal Benefits Terms of Service</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <p>
+                    <a name="collection"></a>
+                </p>
+                <h2>Collection of your Personal Information</h2>
+                <p>Rocket Lawyer may collect personally identifiable information, such as your e-mail address, name, physical address or telephone number. If you purchase our Services, we will collect and store your billing and credit card information. Rocket Lawyer may also collect anonymous demographic information, which is not unique to you, such as your Postal Code, age, gender, preferences, interests and favorites. Rocket Lawyer will not delete customer information for paying members. However, Rocket Lawyer reserves the right to delete customer information for members with a free account status at any time.</p>
+                <p>Information about your computer hardware and software also may be automatically collected by Rocket Lawyer. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Rocket Lawyer for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Services.</p>
+                <p>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Services, this information may be collected and used by others. &nbsp;Rocket Lawyer encourages you to review the privacy statements of websites you choose to link to from our website so that you can understand how those websites collect, use and share your information. Rocket Lawyer is not responsible for the privacy statements or other content on websites outside of the websites we operate.</p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="Useof"></a>
+                </p>
+                <h2>Use of your Personal Information</h2>
+                <p>Rocket Lawyer collects and uses your personal information to operate our websites and deliver the Services you have requested. Rocket Lawyer may also use your personally identifiable information to inform you of other products or services available from Rocket Lawyer and its affiliates. Rocket Lawyer may also contact you to participate in surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
+
+				<p>Rocket Lawyer does not sell, rent or lease its customer lists to third parties. Rocket Lawyer may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party without your express consent. In addition, Rocket Lawyer may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Rocket Lawyer may share your information with third parties who perform tasks required to complete a purchase transaction. All such third parties are prohibited from using your personal information except to provide these Services, and they are obligated to maintain the confidentiality of your information.</p>
+
+				<p>Rocket Lawyer keeps track of the pages our customers visit within our websites in order to determine what Services are the most popular. This data is used to deliver customized content and advertising within the websites we operate to users whose behavior indicates that they are interested in a particular subject area. Rocket Lawyer uses tracking pixels to collect information that helps us provide our Service to you. Please note that any "do not track" signals sent by your web browser or other mechanism have no effect on the collection of personally identifiable information by Rocket Lawyer. In addition, other parties who perform data analytics for Rocket Lawyer, such as Google Analytics, may collect personally identifiable information about your online activities when you use our Services. Third party affiliates of Rocket Lawyer may have different policies with respect to "do not track" signals and Rocket Lawyer makes no representations with respect to such policies.</p>
+
+				<p>Rocket Lawyer uses tracking to create remarketing audiences of users based on user behavior/their visits to our website. Rocket Lawyer may also target these users with custom ads based on affinities/interests, geographic and demographic signals. Rocket Lawyer only shares browser-level data through third party vendor tracking such as Google Analytics. Users can opt out of these advertising features by visiting Google or resources like the NAI consumer opt-out page. Rocket Lawyer may use email addresses to target users with custom ads through 3rd party advertising platforms. Rocket Lawyer shares customer information with third parties to perform services (advertising) on our behalf. </p>
+
+				<p>Rocket Lawyer may disclose personal information when we are required to or we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this Privacy Policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; to protect our users from fraudulent, abusive, or unlawful use of the Services; or if we believe that an emergency involving the danger of death or serious physical injury to any person requires or justifies disclosure of personal information.</p>
+
+				<p>Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of Rocket Lawyer's business assets. In such an event, we will attempt to notify you before your personal information is transferred, but you may not have the right to opt out of any such transfer. </p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="attorneys"></a>
+                </p>
+                <h2>Communications with Attorneys</h2>
+                <p>In order to ensure delivery of Services and for quality assurance purposes, Rocket Lawyer will have access to communications with attorneys which are transmitted through the Services (such as the 
+                    <a href="/ask-a-lawyer.rl">Ask a Lawyer service</a>).  As a result, if you choose to communicate with an attorney through the Services, please note that any such communications between you and a participating attorney may not necessarily be treated as confidential information by the attorney or protected by the attorney-client privilege doctrine.  For additional information, please read the section in our Terms of Service entitled 
+                    <a href="/terms-and-conditions.rl#Interactions">Interactions with Attorneys on Rocket Lawyer</a>.
+                </p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="cookies"></a>
+                </p>
+                <h2>Use of Cookies</h2>
+                <p>Our website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+                <p>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you register an account with Rocket Lawyer, a cookie helps us recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to our website, the information you previously provided can be retrieved, so you can easily use the features that you customized.</p>
+                <p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Services.</p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="Security"></a>
+                </p>
+                <h2>Security of your Personal Information</h2>
+                <p>You are responsible for safeguarding and preventing unauthorized access to the user information and password that you use to access our Services. You agree not to disclose your password to any third party and you are responsible for any activity using your account, whether or not you authorized that activity. Please immediately notify Rocket Lawyer of any unauthorized use of your account.</p>
+                <p>Rocket Lawyer secures your personal information from unauthorized access, use or disclosure. In addition, Rocket Lawyer secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="under13"></a>
+                </p>
+                <h2>Children Under Thirteen</h2>
+                <p>Our Services are not intended for use by children under the age of 13, and such use is prohibited by our 
+                    <a href="/terms-and-conditions.rl">Terms of Service</a>. We do not knowingly collect personally identifiable information from children under 13. If you become aware that a child has provided us with Personal Information, please contact us as set forth in this Privacy Policy.
+                </p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="changes"></a>
+                </p>
+                <h2>Changes to this Privacy Policy</h2>
+                <p>Rocket Lawyer may change the provisions of this Privacy Policy at any time, and will always post the most up-to-date version on our website.</p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                    <a name="Contact"></a>
+                </p>
+                <h2>Contact Information</h2>
+                <p>Rocket Lawyer welcomes your comments regarding this Privacy Policy. Please 
+                    <a href="/contact-us.rl">Contact Us</a>.
+                </p>
+                <p>For more information, please review our 
+                    <a href="/terms-and-conditions.rl">Terms of Service</a> and 
+                    <a href="/faq.rl">FAQ section</a>.
+                </p>
+                <p>
+                    <a href="/privacy.rl#backtop">Back to Top</a>
+                </p>
+            </div>
+        </div>
         <hr>
-         <em></em>
-   
     </div>
-  </div>
+</div>
+
     
 
 
@@ -782,10 +883,10 @@
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/legal-documents-forms.rl">Legal documents &amp; forms</a></li>
-                    <li><a href="/all-centers.rl">Legal centers</a></li>
+                    <li><a href="/legal-help-center.rl">Legal help center</a></li>
                     <li><a href="/ask-a-lawyer.rl">Ask a lawyer</a></li>
-                    <li><a href="/how-it-works.rl">How It Works</a></li>
-                    <li><a href="/workplace-legal-benefits.rl">For Workplace</a></li>
+                    <li><a href="/how-it-works.rl">How it works</a></li>
+                    <li><a href="/workplace-legal-benefits.rl">For workplace</a></li>
                                         <li><a href="/plans-pricing.rl">Pricing</a></li>
                                         <li><a href="/sitemap.rl">Sitemap</a></li>
                     <h4>RocketLawyer UK <a href="http://www.rocketlawyer.co.uk"><div class="rlFooterFlagUK"> </div></a></h4>
@@ -797,7 +898,7 @@
                     <li><a href="/find-a-lawyer.rl">Lawyer directory</a></li>
                     <li><a href="/article/free-legal-help.rl">Legal help articles</a></li>
                     <li><a href="/legal-dictionary.rl">Legal dictionary</a></li>
-                    <li><a href="https://www.rocketlawyer.com/blog/" target="_blank">Everyday Law Blog</a></li>
+                    <li><a href="https://www.rocketlawyer.com/blog/" target="_blank">Everyday law blog</a></li>
                 </ul>
                 <h4>For Attorneys</h4>
                 <ul>
@@ -829,10 +930,16 @@
                 </p>
                            </div>
         </div>
-        <p class="copyright">Copyright 2015 Rocket Lawyer Incorporated. Rocket Lawyer provides information and software only. Rocket Lawyer is not a "lawyer referral service" and does not provide legal advice or participate in any legal representation. Rocket Lawyer is not a law firm or a substitute for an attorney or law firm. Use of Rocket Lawyer is subject to our <a href="/terms-and-conditions.rl">Terms of Service</a> and <a href="/privacy.rl">Privacy Policy</a>.</p>
-       <p class="security-logos">
+        <p class="copyright">
+      Copyright 2015 Rocket Lawyer Incorporated. Rocket Lawyer provides information and software only. 
+            Rocket Lawyer is not a "lawyer referral service" and does not provide legal advice or participate 
+            in any legal representation. Rocket Lawyer is not a law firm or a substitute for an attorney or law 
+            firm. Use of Rocket Lawyer is subject to our <a href="/terms-and-conditions.rl">Terms of Service</a> 
+            and <a href="/privacy.rl">Privacy Policy</a>.
+        </p>
+        <p class="security-logos">
                                                                                     </p><div class="aboutSsl">
-                <script language="JavaScript" src="https://www.rocketlawyer.net/refresh_assets/js/getnortonsealimaget.js?v=1429138151651"></script>
+                <script language="JavaScript" src="https://www.rocketlawyer.net/refresh_assets/js/getnortonsealimaget.js?v=1438797541272"></script>
            </div>
         <p></p>
     </div>
@@ -843,7 +950,7 @@
 
 
 
-    </div>   
+       
 <div id="menu">
     <nav>
             <ul id="Menu">
@@ -945,10 +1052,9 @@
 
 </style>
 
-        <script src="https://www.rocketlawyer.net/refresh_assets/js/jquery.multilevelpushmenu.js">
-        </script>
-        <script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/js/wlo-header.js?v=1429138151651">
-        </script>
+        <!--<script src="/refresh_assets/js/jquery.multilevelpushmenu.js"></script>-->
+        <script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/releases/1444173768034/js/wlo-header.js"></script>
+
         <script>
 
             $(function(){
@@ -1008,7 +1114,7 @@
             </span>
             <br>
             <span style="color: #000000; font-size: 14px; float: left; margin-top: 20px;">
-                Or <a style="color: #990000;" href="http://www.rocketlawyer.com/contact-us.rl?subject=membership_changes">contact us</a> and one of our representatives will get back to you in one business day.
+                Or <a style="color: #990000;" href="/contact-us.rl?subject=membership_changes">contact us</a> and one of our representatives will get back to you in one business day.
             </span>
             <div class="clear"></div>
         </div>
@@ -1016,7 +1122,7 @@
 </div>
 
 <!-- New combined version! -ELW -->
-<script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/js/footerCombo.min.js?v=1429138151651"></script>
+<script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/js/footerCombo.min.js?v=1438797541272"></script>
 
 <script type="text/javascript">
     $(function() {
@@ -1040,7 +1146,7 @@
 </script>
 
     <!-- 3rd Party tracking JS -->
-<script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/js/3rdPartyGlobal.js?v=1429138151651"> </script>
+<script type="text/javascript" src="https://www.rocketlawyer.net/refresh_assets/js/3rdPartyGlobal.js?v=1438797541272"> </script>
 
 
    
