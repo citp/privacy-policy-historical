@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peterlang.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627142550id_/http%3A//www.peterlang.com/index.cfm%3Fcid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterlang.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222082731id_/http%3A//www.peterlang.com/index.cfm%3Fcid%3D82) for the most accurate reproduction.*
 
-# Datenschutz - Peter Lang Verlagsgruppe
+# Privacy Policy - Peter Lang Verlagsgruppe
 
 Your details are registered, processed and utilised in accordance with the Swiss Federal Act of 19 June 1992 on Data Protection (Bundesgesetz vom 19. Juni 1992 über den Datenschutz, DSG), the wording of which can be found at [http://www.admin.ch/ch/e/rs/c235_1](http://www.admin.ch/index.html?lang=de).
 
@@ -41,7 +41,7 @@ We value your trust. As such, we are more than willing to answer any questions y
 Peter Lang AG  
 Moosstrasse 1  
 CH- 2542 Pieterlen  
-Tel.  +41 32 376 17 17  
-Fax  +41 32 376 17 27  
+Tel.  +41 (0)32 376 17 17  
+Fax  +41 (0)32 376 17 27  
 E-Mail: [info@peterlang.com](mailto:info@peterlang.com)  
 Although we carefully check external links to other websites, we accept no liability for their content. If you have any questions regarding such links, please contact the institutions/companies directly.
