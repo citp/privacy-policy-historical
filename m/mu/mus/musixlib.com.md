@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musixlib.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426072838id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musixlib.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222020903id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.*
 
 # MusixLib - Albums And More
 
@@ -48,4 +48,4 @@ While we use cookies in other parts of our Web site,
 cookies received with banner ads are collected by our ad company,  
 and we do not have access to this information. 
 
-8\. Your rights: You are entitled to access and correct your data by requesting to do so via the Contact us section, or by sending an email letter to the following email: privacy@musixlib.com 
+8\. Your rights: You are entitled to access and correct your data by requesting to do so via the Contact us section, or by sending an email letter to the following email: support@musixlib.com 
