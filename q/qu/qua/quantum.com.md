@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622213949id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223005422id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Quantum Privacy Policy
 
 ## Quantum takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 [Last Version November 2013](https://iq.quantum.com/exLink.asp?26021766OB48G65I56280152)   
-Current Version January 2015
+Current Version December 2015 
 
   * [EU Privacy Policy](https://iq.quantum.com/exLink.asp?16512870OY84W57I46408898)
   * [EU Safe Harbor Policy](https://iq.quantum.com/exLink.asp?16501958OX28T81I46403797)
@@ -14,12 +14,15 @@ Current Version January 2015
 
 ### What This Privacy Policy Covers
 
-  * This Privacy Policy applies with respect to information Quantum Corporation collects from Web sites on which a direct hyperlink to this "Privacy Policy" is posted. It describes the way we handle information learned about you from your visit to our Web sites.
-  * This Privacy Policy applies to the practices of companies that Quantum owns and or controls, and the people that Quantum employs and manages.
-  * Quantum participates in the U.S.-EU Safe Harbor Framework developed by the U.S. Department of Commerce and the European Union as well as the U.S.-Swiss Safe Harbor Framework developed by the U.S. Department of Commerce and Switzerland. To view our certification, visit the [U.S. Department of Commerce’s Safe Harbor Web site.](http://www.export.gov/safeharbor/)
-  * Other Web sites (including those we link to) not owned or operated by or for Quantum may have different data processing practices for which we do not vouch or assume responsibility.
+This Privacy Policy applies with respect to information Quantum Corporation collects from Web sites on which a direct hyperlink to this "Privacy Policy" is posted. It describes the way we handle information learned about you from your visit to our Web sites.
 
+This Privacy Policy applies to the practices of companies that Quantum owns and or controls, and the people that Quantum employs and manages.
 
+Other Web sites (including those we link to) not owned or operated by or for Quantum may have different data processing practices for which we do not vouch or assume responsibility.
+
+##### Important Note:
+
+On October 6th, 2015, the European Court of Justice (CJEU) invalidated the U.S.-EU Safe Harbor framework. For 15 years Safe Harbor has been the method by which many U.S. companies, including our own, imported data from Europe to the U.S. in compliance with EU privacy standards. While Safe Harbor in the EU no longer exists, Quantum continues to adhere to its privacy principles. These privacy principles are important in and of themselves, and demonstrate Quantum's commitment to collecting, using, and storing data in a way that recognizes the fundamental right of privacy. Quantum is currently investigating which alternative privacy protection scheme will generally govern its data imports and will update this website once that decision is made. 
 
 ### Who This Privacy Policy Covers
 
@@ -28,7 +31,7 @@ Current Version January 2015
 
 
 
-If you have any questions, comments, or requests regarding privacy, please email the [Quantum Webteam](mailto:webteam@quantum.com).
+If you have any questions, comments, or requests regarding privacy, please email the [Quantum Webteam](mailto:webteam@quantum.com). 
 
 ### Collection of Information
 
@@ -76,17 +79,17 @@ Quantum uses personal information of its employees, contractors, and job applica
 
 ##### Update your Quantum communication preferences
 
-You can choose which Quantum Corporation correspondence you want to receive. Please use this link to [update your communication preferences](http://landing.quantum.com/unsubscribepage.html).
+You can choose which Quantum Corporation correspondence you want to receive. Please use this link to [update your communication preferences](http://landing.quantum.com/Subscription-Center_Subscription-Center.html). 
 
-### **Cookies and other tracking methods**
+###  **Cookies and other tracking methods**
 
 When you view our Web sites or advertisements, we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our Web sites, to help you navigate a Web site as easily as possible. Cookies may uniquely identify your browser or your account, but they do not necessarily identify you personally. Cookies can also be used to help store personal information, for example where you ask us to “remember” you or keep you logged in. Cookies can help us to better understand how users use our Web sites, which in turn helps us focus our resources on features that are more popular with our users. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies. If your browser permits, you can refuse a cookie when your browser alerts you to its presence or generally refuse all cookies by turning them off in your browser, but some parts of our Web sites, including the portion that is targeted for our registered customers, may not work properly in that case. You can delete cookies from your browser; however, that means that any settings or preferences managed by those cookies will also be deleted and you may need to recreate them. Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
 To learn more about cookies and other automatic data collection tools, please visit <http://www.allaboutcookies.org/>
 
-Quantum also employs a software technology known as Web Beacons that help us better manage content on our site by informing us what content is effective, and what kinds of offers our customers like to see. The type of information we collect includes the pages visited, navigation patterns, etc. When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails that may use web beacons by going here: <http://forms.quantum.com/unsubscribe.aspx>
+Quantum also employs a software technology known as Web Beacons that help us better manage content on our site by informing us what content is effective, and what kinds of offers our customers like to see. The type of information we collect includes the pages visited, navigation patterns, etc. When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails that may use web beacons by going here: <http://landing.quantum.com/Subscription-Center_Subscription-Center.html>
 
-Quantum has engaged one or more affiliated and unaffiliated third party service providers to track and analyze usage and volume statistical information from visitors to the Web site. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third party cookies to track the effectiveness of Quantum.com and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our site are Google Analytics (http://www.google.com/intl/en/policies/privacy), Treehouse (<http://www.treehousei.com/privacy-policy.html>), and Crazyegg. (<http://www.crazyegg.com/privacy>)
+Quantum has engaged one or more affiliated and unaffiliated third party service providers to track and analyze usage and volume statistical information from visitors to the Web site. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third party cookies to track the effectiveness of Quantum.com and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our site are Google Analytics (http://www.google.com/intl/en/policies/privacy), Treehouse ( <http://www.treehousei.com/privacy-policy.html>), and Crazyegg. ( <http://www.crazyegg.com/privacy>) 
 
 Examples of this information we track may include, but are not limited to:
 
@@ -110,7 +113,7 @@ Some technology enables advertising to be temporarily uploaded onto your mobile 
 
 Our ad partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
 
-You may opt out of the use of your information by ad partners by using the [Network Advertising Initiative tool](http://www.networkadvertising.org/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool to renew your opt out choice. There are other things you can do to protect your privacy online. For example, you can anonymize your web browser for increased privacy.
+You may opt out of the use of your information by ad partners by using the [Network Advertising Initiative tool](http://www.networkadvertising.org/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool to renew your opt out choice. There are other things you can do to protect your privacy online. For example, you can anonymize your web browser for increased privacy. 
 
 [Get more information about online advertising from the National Advertising Initiative](http://www.networkadvertising.org/understanding-online-advertising)
 
@@ -124,17 +127,17 @@ Participants in the leading Internet standards-setting organization that is addr
 
 The Quantum Web sites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Quantum web site. Quantum does not control those sites or their privacy practices, which may differ from Quantum’s. We do not endorse or make any representations about third party websites. The personal data you choose to give to unrelated third parties is not covered by our Privacy Policy.
 
-### **Security**
+###  **Security**
 
 We are committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, we have in place physical, electronic and managerial procedures to safeguard the information we collect. If appropriate, we use authentication tools among other methods to protect your web-based personal information. Of course, there is no such thing as "perfect security" on the Internet. E-mails you send us are not necessarily secure when they are transmitted to us. If your communication is sensitive or includes highly confidential information, you may want to provide it by post or via the telephone instead. When appropriate, we restrict the number of employees internally who can access such data and instruct such employees that the data is to be used only in adherence with the principles set forth in this Privacy Policy and our internal policies.
 
-### **Choice/Opt-Out**
+###  **Choice/Opt-Out**
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you want to opt-out of receiving communications such as e-mail newsletters, white papers or promotional communications, you may do so by selecting the "opt-out" or "unsubscribe" link in each email that you receive from us, by returning to the Web site where you originally submitted your information, if applicable, and following the opt-out instructions therein, by using the online form entitled "[Opt Out](http://landing.quantum.com/unsubscribepage.html)"
+If you want to opt-out of receiving communications such as e-mail newsletters, white papers or promotional communications, you may do so by selecting the "opt-out" or "unsubscribe" link in each email that you receive from us, by returning to the Web site where you originally submitted your information, if applicable, and following the opt-out instructions therein, by using the online form entitled " [Opt Out](http://landing.quantum.com/Subscription-Center_Subscription-Center.html)" 
 
-### **Changes in this Privacy Statement**
+###  **Changes in this Privacy Statement**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -154,4 +157,4 @@ Tel (local): (949) 856-7800
 Fax: (949) 856-7799   
 [webteam@quantum.com](mailto:webteam@quantum.com)
 
-Privacy Policy updated April. 2015
+Privacy Policy updated December 2015
