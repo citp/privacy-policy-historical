@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebook-studio.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630082909id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebook-studio.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222043931id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
 
 # Data Policy
 
@@ -138,9 +138,9 @@ We may access, preserve and share your information in response to a legal reques
 
 ###  How our global services operate 
 
-Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=rAQH_xizg&s=1). 
+Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=cAQEb_fEe&s=1). 
 
-As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=8AQHhFssL&s=1). 
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=_AQEaZwCc&s=1). 
 
 Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
 
