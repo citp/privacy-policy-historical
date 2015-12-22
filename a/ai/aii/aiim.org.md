@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226162902id_/http%3A//www.aiim.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222031535id_/http%3A//www.aiim.org/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ This privacy statement discloses the privacy practices for aiim.org and other AI
 
 7\. How you can correct any inaccuracies in the information. 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Customer Services, email at [membership@aiim.org](mailto:membership@aiim.org?subject=AIIM%27s%20Privacy%20Policy) or by phone at 301-587-8202. 
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Customer Services, email at [aiim@aiim.org](mailto:aiim@aiim.org?subject=AIIM%27s%20Privacy%20Policy) or by phone at 301-587-8202. 
 
 **Information Collection and Use**  
 AIIM International is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. AIIM International collects information from our users at several different points on our website. 
@@ -66,12 +66,12 @@ If you have any questions about the security at our website, you can send an ema
 We also send the user site and service announcement updates. Registered users of the website and Members of AIIM International are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
 **Correction/Updating Personal Information:**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the update information page or by emailing our Customer Support at [membership@aiim.org](mailto:membership@aiim.org). 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the update information page or by emailing our Customer Support at [aiim@aiim.org](mailto:aiim@aiim.org). 
 
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, an order form may have an 'opt-out' mechanism so users who buy a product from us, but don't want to be notified of changes, promotions or be sent any additional correspondence, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [optout@aiim.org](mailto:optout@aiim.org). 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [aiim@aiim.org](mailto:aiim@aiim.org). 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
