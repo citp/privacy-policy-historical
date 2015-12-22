@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623030314id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222035547id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,4 +66,6 @@ e-mail: support@eglobalcentral.eu
 
 To close an account, please visit our online support centre and submit a ticket. Your user account will be closed and all information removed from our server within 48 hours.
 
-To opt-out of our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
+To opt-out from our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
+
+To opt-out from our advertising or promotion inforomation, you can unsubscribe [here](http://www.eglobalcentral.eu/unsubscribe.php).
