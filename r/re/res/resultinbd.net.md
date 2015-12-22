@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultinbd.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623053055id_/http%3A//resultinbd.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultinbd.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222162346id_/http%3A//resultinbd.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | resultinbd.net
 
@@ -35,5 +35,7 @@ When you visit a page of **Resultinbd** which contains such features, your brows
 Using **ResultinBD.Net** will assume that you accept the privacy policy of this site. When we use any third party for any affiliated service, the third party privacy policy also applicable to you by using this site.
 
 If you have any question or concerns, feel free to contact us at resultinbd@gmail.com
+
+Sponsored Links
 
 ### Comments
