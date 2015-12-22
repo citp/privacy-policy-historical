@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
 
 # TechSmith | Screencast.com, online video sharing, Privacy Policy
 
-**Effective Date: May 18, 2015**
+**Effective Date: July 09, 2015**
 
 TechSmith Corporation (“TechSmith”) values your privacy and TechSmith desires to ensure your experience with TechSmith and its subsidiaries and related companies (collectively “TechSmith”, “we,” “our” or “us”) and all our websites and all our related subdomains (the “Sites”) and all our products, mobile applications, software, blogs, forums, channels and sharing and quizzing services (collectively with the Sites, the “Services”) are as satisfying and safe as possible. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information TechSmith collects on our Sites and/or Services, how TechSmith uses it and your options regarding information TechSmith may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into TechSmith’s Terms of Use and End user License Agreements associated with its Sites and/or Services. In addition, by accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a minor child and you who have expressly consented to handling of the minor’s personal information as described in this Policy; or (c) that you are a school or a school district which has contracted with TechSmith to collect Personal Information of your students for the educational context authorized by your school or your school district. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your acceptance and agreement to this Policy and any updates.
 
@@ -42,7 +42,7 @@ We may use a variety of methods, including "cookies" to collect information.
 
 #### What is a cookie? 
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/www.allaboutcookies.org).
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/www.allaboutcookies.org).
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
@@ -82,7 +82,7 @@ You may opt out of the DoubleClick cookie by visiting the [Google advertising op
 
 Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and Restrictions.
 
-You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/www.networkadvertising.org/choices/) or [www.aboutads.info/choices/](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/www.aboutads.info/choices/).
+You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/www.networkadvertising.org/choices/) or [www.aboutads.info/choices/](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/www.aboutads.info/choices/).
 
 ## 2\. How We Use Information
 
@@ -164,7 +164,7 @@ If you want to remove yourself from individual communications, including marketi
 
 ### Account Deletion
 
-If you submit Personal Information, you may delete your account with us at any time. If you delete your account, your Personal Information and any and all other account related information including, but not limited to, user profile data, purchasing history, sharing data and any other data, credits, or content specifically associated with your account are also permanently deleted. Deletion of your data may take up to 30 days from accessible systems and up to 90 days from backup systems. If you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
+If you submit Personal Information, you may delete your account with us at any time. If you delete your account, your Personal Information and any and all other account related information including, but not limited to, user profile data, sharing data and any other data, credits specifically associated with your account are also permanently deleted. If you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
 
 ## 7\. Security
 
@@ -192,7 +192,7 @@ TechSmith's content, including forums contests, products, services, newsletters 
 
 Some of TechSmith’s products and services (e.g. TechSmith’s Snagit® for Windows® and Mac®, Camtasia Studio®, Camtasia® for Mac®, the TechSmith Relay® Self-Hosted applications, to name a few) interface or integrate with third party storing, sharing, and access sites and services such as Microsoft’s OneDrive® site and services, and others. If you choose to store, share, or access files, content or information which may include personally identifiable information (collectively “content”) you create using TechSmith’s products and services through these services, you should review the privacy policy of that service. For example, if you desire to store, share or access your content created with TechSmith’s Snagit® application through the Snagit® Microsoft’s OneDrive® site and services integrated feature, you should review TechSmith’s Privacy Policy, and you should also review Microsoft’s [OneDrive Privacy Statement](http://www.microsoft.com/privacystatement/en-us/windowsservices/default.aspx), in particular, Microsoft’s Privacy Statement sections titled [OneDrive](http://www.microsoft.com/privacystatement/en-us/windowsservices/default.aspx) and [Where Information is Stored and Processed](http://www.microsoft.com/privacystatement/en-us/core/default.aspx?PrintView=true) as your content will be collected, processed and/or stored by TechSmith and/or the third party provider, in this case Microsoft, in the United States and/or other countries. By directly using TechSmith product’s integration with the Microsoft’s OneDrive® site and services, you expressly consent to your content being shared with both TechSmith and Microsoft and such data will be subject to TechSmith’s Privacy Policy and [Microsoft OneDrive Privacy Statement](http://www.microsoft.com/privacystatement/en-us/windowsservices/default.aspx), and available for use with your TechSmith and Microsoft accounts.
 
-[Learn More ›](https://www.techsmith.com/third-party-services.html)
+[Learn More ›](http://www.techsmith.com/redirect.asp?target=thirdpartyservices&ver=1.*.*&lang=enu&os=na&product=screencast)
 
 ## 12\. California Privacy Rights
 
@@ -212,7 +212,7 @@ Third parties that have content embedded on TechSmith’s Sites and/or Services 
 
 ### Notice for Minors
 
-TechSmith offers interactive Sites and/or Services which allow you to post content to share publicly or with friends. At any time you can delete or remove content you have posted using the deletion or removal options within our Sites and/or Services. If you have questions about how to remove content in a specific Site and/or Service or if you would like additional assistance with deletion, you can contact our TechSmith Support team directly at support@techsmith.com. Although we offer deletion capability for our Sites and/or Services, you should be aware that the removal of content may not ensure complete or comprehensive removal of that content or information posted through the Sites and/or Services.
+TechSmith offers interactive Sites and/or Services which allow you to post content to share publicly or with friends. If you have questions about how to remove content in a specific Site and/or Service or if you would like additional assistance with deletion, you can contact our TechSmith Support team directly at support@techsmith.com. Although we offer deletion capability for our Sites and/or Services, you should be aware that the removal of content may not ensure complete or comprehensive removal of that content or information posted through the Sites and/or Services.
 
 ## 13\. Changes and Updates to This Policy
 
