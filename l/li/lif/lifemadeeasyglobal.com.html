@@ -1,0 +1,1386 @@
+<!--The following is the downloaded HTML source of the lifemadeeasyglobal.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222105358id_/https%3A//www.lifemadeeasyglobal.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head><meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<script src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){ 
+$("#register_submit").click(function(){
+/*var user_type = $("#user_type").val();
+if(user_type==''){
+$("#errorBox").html("Please Select Registration Type");
+$("#user_type").focus();
+return false;
+}
+else {
+$("#errorBox").html("");
+}
+*/
+var user_mobileno = $("#user_mobileno").val();
+if(user_mobileno==''){
+$("#errorBox1").html("Please Enter Valid Mobile Number");
+$("#user_mobileno").focus();
+return false;
+}
+else {
+$("#errorBox1").html("");
+}
+var user_firstname = $("#user_firstname").val();
+if(user_firstname==''){
+$("#errorBox2").html("Please Enter Full Name");
+$("#user_firstname").focus();
+return false;
+}
+else {
+$("#errorBox2").html("");
+}
+var user_city = $("#user_city").val();
+if(user_city==''){
+$("#errorBox5").html("Please Select City");
+$("#user_city").focus();
+return false;
+}
+else {
+$("#errorBox5").html("");
+}
+var user_area = $("#user_area").val();
+if(user_area==''){
+$("#errorBox3").html("Please Select Area");
+$("#user_area").focus();
+return false;
+}
+else {
+$("#errorBox3").html("");
+}
+var user_pincode = $("#user_pincode").val();
+if(user_pincode==''){
+document.getElementById(user_pincode).focus();
+return false;
+}
+var user_coming = $("#user_coming").val();
+var other_reason = $("#other_reason").val();
+if(user_coming == 'Marketing Team'){
+if(other_reason == ""){
+alert("Please enter executive mobile number");
+$("#other_reason").focus();
+return false;
+}
+}
+if(!document.getElementById("terms").checked){
+$("#errorBox4").html("Please Accept Terms And Conditions");
+$("#terms").focus();
+return false;
+}
+else {
+$("#errorBox4").html("");
+}
+// Returns successful data submission message when the entered information is stored in database.
+var dataString = '&user_mobileno='+ user_mobileno + '&user_firstname='+ user_firstname + '&user_city='+ user_city + '&user_area='+ user_area + '&user_pincode='+ user_pincode+ '&user_coming='+ user_coming+ '&other_reason='+ other_reason;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX; ">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_registration_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+     if(result=='suc')    {
+              $("#user_mobileno").val('');
+              $("#user_firstname").val('');
+              $("#user_area").val('');
+			  $("#user_pincode").val('');
+			  $("#user_coming").val('');
+			  $("#processing").hide();
+			  $("#cs-signup-form-section-favorites-526017").hide();
+			  $("#login-from-526017").show();
+			  $("#signup-now-favorites-526017").show();
+			  $("#accout-already-favorites-526017").hide();
+			  $("#Sucess").html("Password will sent your registerd mobile");
+       
+      }
+     else {
+		 $("#processing").hide();
+	  alert("Mobile Already Exist");
+      }
+  }
+               });
+return false;
+});
+});
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){ 
+  
+$("#user_login").click(function(){
+var user_mobile = $("#user_mobile").val();
+if(user_mobile==''){
+//alert( "Please Select User Type!");
+$("#errorMobile").html("Please Enter Mobile Number");
+$("#user_mobile").focus();
+return false;
+}
+else {
+$("#errorMobile").html("");
+}
+var user_password = $("#user_password").val();
+if(user_password==''){
+$("#errorPassword").html("Please Enter Password");
+$("#user_password").focus();
+return false;
+}
+else {
+$("#user_password").html("");
+}
+
+var dataString = 'user_mobile='+ user_mobile + '&user_password='+ user_password;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_login_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+     if(result=='user') {
+	  location.reload(true);
+      // window.location="#";
+        }
+		else if(result=='admin') {
+       window.location="adminpanel/index.php";
+        }
+	else {
+		 $("#processing").hide();
+		 $("#user_password").val('');
+	  alert('The Mobile or password you entered is incorrect.');
+      }
+  }
+               });
+return false;
+
+});
+});
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){ 
+$("#updateuser").click(function(){
+var user_password = $("#user_password").val();
+if(user_password==''){
+alert( "Please Enter New Password");
+$("#user_password").focus();
+return false;
+}
+var user_repassword = $("#user_repassword").val();
+if(user_repassword==''){
+alert( "Please Enter Repeat Password");
+$("#user_repassword").focus();
+return false;
+}
+if(user_password != user_repassword){
+alert("Password Not Matched");
+return false;
+}
+var dataString = '&user_password='+ user_password;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_updateprofile_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+    
+			  $("#user_password").val('');
+			  $("#user_repassword").val('');
+			  $("#processing").hide();
+			  alert("Successfully Updated Password");
+        }
+		  });
+return false;
+});
+});
+</script>
+<script type="text/javascript">
+ $(document).ready(function(){ 
+$("#updateinfo").click(function(){
+var user_area = $("#user_area").val();
+var user_pincode = $("#user_pincode").val();
+var dataString = 'user_area='+ user_area + '&user_pincode='+ user_pincode;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "update_userinfo_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+    
+			  $("#processing").hide();
+			  alert("Successfully Updated Profile");
+        }
+		  });
+return false;
+});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+ $("#forgotpass_submit").click(function(){
+var user_mobil123 = $("#user_mobil123").val();
+if(user_mobil123==''){
+//alert( "Please Select User Type!");
+$("#error12").html("Please Enter Mobile Number");
+$("#user_mobil123").focus();
+return false;
+}
+else {
+$("#error12").html("");
+}
+
+
+var dataString = 'user_mobil123='+ user_mobil123;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_RecoverPassword_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+     if(result=='Sucess') {
+       $("#Success").show();
+         $("#success1").hide();
+	   $("#processing").hide();
+        }
+		
+     else {
+		  alert('The Mobile Not a Registered Mobile');
+		  $("#processing").hide();
+      }
+  }
+               });
+return false;
+
+});
+});
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="description" content="Life made easy global">
+<meta name="keywords" content="girls hostels in hyderabad,ladies hostel in hyderabad,paying guest in hyderabad,pg accomodation in hyderabad,hostel in hyderabad,boys hostels in hyderabad,mens hostel in hyderabad,womens hostel in hyderabad,ac hostels in hyderabad,cheap hotels in hyderabad,service apartments in hyderabad,youth hostel hyderabad,designer suits,designer suits for women,rent">
+<meta name="author" content="Life made easy global">
+<title>Life Made Easy Global</title>
+<link rel="shortcut icon" href="images/favicon.ico">
+<link href="https://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<style type="text/css">
+body, .main-section p {
+	font: 14px;
+	color: #818181;
+}
+body, * {
+	font-family: Roboto, 'pf_beausans_proregular', Arial, sans-serif !important;
+	color: #000;
+}
+header .logo {
+	margin: 0px 0px!important
+}
+.nav li a, .navigation ul li, .navigation>ul>li>a {
+	font: 14px !important;
+}
+h1 {
+	font: 500 24px !important
+}
+h2 {
+	font: 500 18px !important
+}
+h3 {
+	font: 500 16px !important
+}
+h4 {
+	font: 500 16px !important
+}
+h5 {
+	font: 500 14px !important
+}
+h6 {
+	font: 500 14px !important
+}
+.main-section h1, .main-section h1 a {
+	color: #303030!important
+}
+.main-section h2, .main-section h2 a {
+	color: #E57B18!important;
+}
+.main-section h3, .main-section h3 a {
+	color: #303030!important
+}
+.main-section h4, .main-section h4 a {
+	color: #303030!important
+}
+.main-section h5, .main-section h5 a {
+	color: #303030!important
+}
+.main-section h6, .main-section h6 a {
+	color: #303030!important
+}
+.widget .widget-section-title h2 {
+	font: 500 15px !important
+}
+.cs-section-title h2 {
+	font-size: 18px!important
+}
+.top-bar, #lang_sel ul ul {
+	background-color: #fff
+}
+#lang_sel ul ul:before {
+	border-bottom-color: #fff
+}
+.top-bar p {
+	color: #fff!important
+}
+.top-bar a, .top-bar i {
+	color: #fff!important
+}
+.logo-section, .main-head {
+background: !important
+}
+.main-navbar, #main-header .btn-style1, .wrapper:before {
+	background: #fff!important
+}
+.navigation ul>li>a {
+	color: #444!important
+}
+.sub-dropdown {
+	background-color: #fff!important
+}
+.navigation>ul ul li>a {
+	color: #444!important
+}
+.navigation>ul ul li:hover>a {
+	color: #074d87;
+	color: #074d87!important
+}
+.navigation>ul>li:hover>a {
+	color: #074d87!important
+}
+.navigation>ul>li.parentIcon:hover>a:before {
+	background-color: #074d87!important
+}
+.cs-user, .cs-user-login {
+	border-color: #074d87!important
+}
+{
+box-shadow:0 4px 0 #fff inset!important
+}
+.header_2 .nav>li:hover>a, .header_2 .nav>li.current-menu-ancestor>a {
+}
+</style>
+<style type="text/css">
+html {
+	overflow-x: hidden;
+}
+footer#footer-sec, footer.group:before {
+	background-color: #fff!important
+}
+#footer-sec {
+	background: url(wp-content/uploads/xfooter-bg.jpg.pagespeed.ic.RliMJvTdv0.jpg) #434343 no-repeat bottom center!important
+}
+.footer-content {
+	background-color: #434343!important
+}
+#copyright p {
+	color: 666666 !important
+}
+footer a, footer .widget-form ul li input[type="submit"], footer.group .tagcloud a, footer.group .widget ul li a {
+	color: #333!important
+}
+footer#footer-sec .widget h2, footer#footer-sec .widget h5, footer.group h2, footer#footer-sec h3, footer#footer-sec h4, footer#footer-sec h5, footer#footer-sec h6 {
+	color: #406FF6 !important
+}
+#newslatter-sec, #newslatter-sec span, footer#footer-sec .widget ul li, footer#footer-sec .widget p, footer#footer-sec .widget_calendar tr td, footer.group, footer#footer-sec p, footer .widget_latest_post .post-options li, footer#footer-sec .widget i, .widget-form ul li i {
+	color: #333!important
+}
+</style>
+<style type="text/css">
+.cs-color, .woocommerce ul.products li.product a.add_to_cart_button, .woocommerce-page ul.products li.product a.add_to_cart_button, .woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .select-category ul li a, ul.check-box label, aside .widget ul li:hover>a, .dr_filtertabs .nav-tabs>li.active>a, .dr_filtertabs .nav-tabs>li.active>a i, .read-more, .panel-group.default .panel-title a, .panel-group.simple .panel-title a, .pagination ul li a.active, .cs-filter-menu li a:hover, .cs-filter-menu li a.active, .grid-filter li.active a, .dr_shortoption .cs-organizer .organizer-name h6 a, .cs_assigment_tabs ul li:hover a, .cs_assigment_tabs ul li.active a, .realestate-gallery .dr_pricesection span, .post-thumb .thumb-options li a, .opening-hours ul li span i, .cs-tabs .nav-tabs>li.active>a, .cs-price .inner-sec, .cs-filter-menu li.active a, .go-home, .shortcode-nav ul>li:hover>a:after, .shortcode-nav ul>li:hover>a i, .date-time time small, .thumblist li a.comment-reply-link, .registor-log a i, .become-agent, .cs-directory .dr_pricesection span, .listNav .ln-letters a, .cs_directory_categories ul li:hover>a, .directory-section:hover h2 a, .widget ul li a:hover, .recentblog_post a:hover, .cs-blog:hover h2 a, .cs-team h2:hover a, .directory-section:hover h5 a, .cat-inner:hover a, .organizer-name:hover a, .relevant-search ul li:hover a, .cs-grid-view article:hover h5 a, .element-breadcrumb .breadcrumbs ul li a:hover, .cs-post-sharebtn article:hover h5 a, .cs-about-author h5 a:hover, #comment .auther:hover a, .pagination ul li a:hover, .saved-ads h3 a:hover, .ads-in:hover h4 a, .directory-package td a:hover, .dr_postoption li a:hover, .team-grid .text span, .agentdetail-info:hover h2 a, .cs-login-sec .cs-user-menu li a:hover, .twitter-section .text a, .sg-footer a:hover, .loc-info:hover h2 a, .main-navbar .cs-login-sec ul li .cs-user, .woocommerce ul.products li.product:hover h3, .cs-services figure i, .grid_two_listing .cs-location-address i, .list-attachment-wrap .cs_attachments:hover .cs-download i {
+	color: #1052F0 !important
+}
+.cs-bg-color, .cs-bgcolor, .woocommerce #content input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce-page #content input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .breadcrumb ul li:first-child:after, .social-media ul li a:hover, .irs-bar, .irs-slider.to:before, .irs-slider.from:before, .cs-post-sharebtn a.post-np:hover, .widget_text a.read_more, .dr_filtertabs .nav-tabs>li.active>a:before, .cs-tags ul li a:hover, .cs-attachments li:hover figure, .dropcap-one::first-letter, .cs-update-avatar, span.backtotop a, .cs-search form label input[type="submit"], .ui-widget-header, .gmapzoomplus:hover, .gmapzoomminus:hover, .gmaplock:hover, .gmapunlock:hover, .gmapcurrentloc:hover, .ui-slider-handle strong, .directory-advanced-search-content .SumoSelect>.optWrapper>.options>li:hover, .directory-advanced-search-content .SumoSelect>.optWrapper>.options>li.selected, .cs-form-element li input[type="button"], .cs-form-element .SumoSelect:hover>.CaptionCont>label, .icon-input a, .cs_profile_tabs ul.cs-user-menu li.active, .fileUpload, .faq-form .dr_custmbtn, .widget_tag_cloud a, .directory-advanced-search-content ul li .ui-state-default:before, .directory-advanced-search-content ul li .ui-widget-content .ui-state-default:before, .directory-advanced-search-content ul li .ui-widget-header .ui-state-default:before, .dr-filters ul li .ui-widget-header .ui-state-default:before, .more-photo, .right-info span.category-list, .directory-advanced-search-content form ul li .form-submit, .tablev2 thead, .cs-blogslide .owl-prev:hover, .cs-blogslide .owl-next:hover, .user-signup form input[type="submit"], .page-not-found .cs-search-area input.btn, .cs-blog-crousel .post-options li time, .register-page input[type="button"], .filter-nav ul li.our-agents a, #scroll-nav li, .main-filter.slide-loader .filter-nav:before, .donate-btn, .password_protected input[type="submit"], .password_protected .protected-icon a, .cs_directory_categories ul>li:hover>span, .cs-paid-ad, .page-no-search .cs-search-area input.btn, .listNav .ln-letters a.ln-selected, .woocommerce-page.woocommerce ul.products li.product a.button.add_to_cart_button, .woocommerce ul.products li.product a.button.add_to_cart_button, .cs-search-v2 .directory-advanced-search-content .dir-search-fields, .cs-search-v2 .directory-advanced-search-content, .service-btn, .widget_newsletter input[type="submit"], .cs-mailchimp input[type="submit"], .streetView:hover, .mapView:hover, .directory-gallery ul li figure i:hover, .cs_gallery .modal-body button.close, .list-attachment-wrap .cs_attachments:hover .cs-attachment-list {
+	background-color: #E84C3D !important
+}
+.cs_counter.modren .cs-numcount, .woocommerce ul.products li.product a.add_to_cart_button, .woocommerce-page ul.products li.product a.add_to_cart_button, .woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .read-more, .cs-filter-menu li a:hover, .cs-filter-menu li a.active, .cs_assigment_tabs ul li:hover a, .cs_assigment_tabs ul li.active a, .post-thumb .thumb-options li a, .cs-filter-menu li.active a, .go-home, .thumblist li a.comment-reply-link {
+	border-color: #074d87!important
+}
+.events-minimal:hover, .widget.event-calendar .eventsCalendar-list-wrap, .cs-tabs.vertical .nav-tabs .active a:before {
+	border-left-color: #074d87!important
+}
+.cs-tabs .nav-tabs>.active>a:before {
+	border-top-color: #074d87!important
+}
+</style>
+<title>Life made Easy Global</title>
+<style type="text/css">
+img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}
+</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="wp-content/plugins/revslider/rs-plugin/css/settings9cbc.css?ver=4.6.93" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;-ms-transition:all .2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;-ms-transition:all .2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel="stylesheet" id="jquery.slider-min_css-css" href="wp-content/plugins/wp-directory/assets/css/flexslider5b31.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap_css-css" href="wp-content/themes/directory-theme/assets/css/Abootstrap.css.css" type="text/css" media="all">
+<link rel="stylesheet" id="style_css-css" href="wp-content/themes/directory-theme/style5b31.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="responsive_css-css" href="wp-content/themes/directory-theme/assets/css/Aresponsive.css.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-theme_css-css" href="wp-content/themes/directory-theme/assets/css/Abootstrap-theme.css.css" type="text/css" media="all">
+<link rel="stylesheet" id="prettyPhoto_css-css" href="wp-content/themes/directory-theme/assets/css/prettyphoto5b31.css" type="text/css" media="all">
+<link rel="stylesheet" id="iconmoon_css-css" href="wp-content/themes/directory-theme/include/assets/icon/css/A.iconmoon.css%2cqver%3d4.3.1.pagespeed.cf.pf7bfc6ER-.css" type="text/css" media="all">
+<script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min.js%2cqver%3d1.2.1.pagespeed.jm.mhpNjdU8Wl.js" async=""></script>
+<script type="text/javascript" src="wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js%2cqver%3d4.6.93.pagespeed.jm.mvYKZ9H5oh.js"></script>
+<!-- <script type='text/javascript' src='wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min9cbc.js?ver=4.6.93'></script> -->
+<style type="text/css">
+.recentcomments a{display:inline!important;padding:0!important;margin:0!important}
+</style>
+
+ <link rel="stylesheet" id="directory_sumoselect_css-css" href="wp-content/plugins/wp-directory/assets/css/A.sumoselect.css%2cqver%3d4.3.1.pagespeed.cf.hPKvSC5R_O.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-styles-css" href="wp-content/plugins/wp-directory/assets/css/jquery-ui5b31.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="owl.carousel_css-css" href="wp-content/themes/directory-theme/assets/css/owl.carousel5b31.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="flexslider_css-css" href="wp-content/themes/directory-theme/assets/css/flexslider5b31.css?ver=4.3.1" type="text/css" media="all">
+<script type="text/javascript" src="wp-content/plugins/wp-directory/assets/scripts/directory_functions.js%2cqver%3d4.3.1.pagespeed.jm.YSediccF63.js"></script> 
+<script src="wp-content/plugins/wp-directory/assets%2c_scripts%2c_bootstrap_min.js%2cqver%3d%3d4.3.1%2bdirectory-login%2c_cs-social-login%2c_media%2c_js%2c_cs-connect.js%2cqver%3d%3d4.3.1%2bassets%2c_scripts%2c_jquery.flexslider-min.js"></script><script>eval(mod_pagespeed_Pfn58z24oM);</script> 
+ 
+<script type="text/javascript" src="wp-content/plugins/wp-directory/assets/scripts/datatable.js%2cqver%3d4.3.1.pagespeed.jm.2eVZ5m1k3u.js"></script> 
+<script src="wp-content%2c_themes%2c_directory-theme%2c_assets%2c_scripts%2c_functions.js%2cqver%3d%3d4.3.1%2bwp-content%2c_plugins%2c_wp-directory%2c_assets%2c_scripts%2c_jquery.sumoselect.min.js%2cqver%3d%3d4.3.1%2bwp-includes%2c_js%2c_jquer"></script><script>eval(mod_pagespeed_CBqX5tzsrV);</script> 
+ 
+<script src="wp-content/themes%2c_directory-theme%2c_assets%2c_scripts%2c_owl_carousel_min.js%2cqver%3d%3d4.3.1%2bplugins%2c_wp-directory%2c_assets%2c_scripts%2c_jquery.prettyphoto.js%2cqver%3d%3d4.3.1.pagespeed.jc.VNMRLxiKI4.6d.dela"></script><script>eval(mod_pagespeed_WCraWwC270);</script> 
+<script>eval(mod_pagespeed_8xVqEi2_4l);</script> 
+<script type="text/javascript" src="wp-content/themes/directory-theme/assets/scripts/jquery.flexslider-min.js%2cqver%3d4.3.1.pagespeed.jm.S_lfnZfEnk.js"></script>
+
+<style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head><body class="home page page-id-367 page-template-default">
+<!-- Wrapper -->
+<div class="wrapper header-relative wrapper_full_width">
+<!-- Header --> 
+<style>
+.main-section p {
+    font: 17px 'PT Sans', sans-serif;
+    color: #818181;
+}
+</style>
+<!-- Header 1 Start -->
+ <style>
+/*rentalform*/
+@media (max-width: 991px) and (min-width: 768px) {
+.cs-form-element.column-input .radio-box1 li {
+	width: 44% !important;
+}
+}
+
+@media screen and (max-width: 480px) and (min-width: 100px) {
+.cs-form-element li input {
+	width: 6% !important;
+}
+}
+</style>
+<!-- Custom Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700" rel="stylesheet" type="text/css">
+<header id="main-header" class="header_1 top-bar-off">
+  <!-- Top Strip -->
+  <!-- Main Header -->
+  
+  <div class="main-navbar">
+    <div class="container">
+      <aside class="left-side">
+        <div class="logo"> <a href="index.php"> <img src="wp-content/uploads/Logo.jpg" style="width:232px;margin-top: -4px; " alt="Life made easy Global" title=""> </a> </div>
+      </aside>
+      <aside class="right-side">
+        <nav class="navigation"> <a class="cs-click-menu"><i class="icon-list8"></i></a>
+          <ul><a class="cs-close-btn"><i class="icon-times-circle"></i></a>
+            <li id="menu-item-1487" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu current-menu-item dropdown sub-menu current_page_item dropdown sub-menu menu-item-home dropdown sub-menu current-menu-ancestor dropdown sub-menu current-menu-parent dropdown sub-menu menu-item-has-children"><a href="index.php">HOME</a> 
+              
+              <!--End Sub Menu --> 
+            </li>
+            <li id="menu-item-829" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children"><a href="about.php">ABOUT</a> </li>
+            <li id="menu-item-3170" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php">PROPERTIES</a>
+              <ul class="sub-dropdown">
+                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php?type=Rent"> To-Let</a>
+                  <ul class="sub-dropdown">
+                    <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Resedential&amp;ptype=Rent">Residential</a></li>
+                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Commercial&amp;ptype=Rent">Commercial</a></li>
+                  </ul>
+                  <!--End Sub Menu --> 
+                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php?type=Lease">LEASE</a>
+                  <ul class="sub-dropdown">
+                    <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Resedential&amp;ptype=Lease">Residential</a></li>
+                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Commercial&amp;ptype=Lease">Commercial</a></li>
+                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Agriculture&amp;ptype=Lease">Agriculture</a></li>
+                  </ul>
+                  <!--End Sub Menu --> 
+                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php?type=sale"> SALE</a>
+                  <ul class="sub-dropdown">
+                    <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Resedential&amp;ptype=sale">Residential</a></li>
+                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Commercial&amp;ptype=sale">Commercial</a></li>
+                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Agriculture&amp;ptype=sale">Agriculture</a></li>
+                  </ul>
+                  <!--End Sub Menu -->
+				  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="propertymanagement_list.php"> Property Management</a>
+                  <ul class="sub-dropdown">
+				  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon"><a href="propertymanagement_list.php?type=Rent">Tolet</a>
+					<ul class="sub-dropdown">
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Resedential&amp;ptype=Rent">Residential</a></li>
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Commercial&amp;ptype=Rent">Commercial</a></li>
+					</ul>
+					<!--End Sub Menu -->
+					<span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon"><a href="propertymanagement_list.php?subtype=sale">Sale</a>
+					<ul class="sub-dropdown">
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Resedential&amp;ptype=sale">Residential</a></li>
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Commercial&amp;ptype=sale">Commercial</a></li>
+					</ul>
+					<!--End Sub Menu -->
+					<span class="responsive-btn"><i class="icon-plus8"></i></span>
+					<span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+					
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon"><a href="propertymanagement_list.php?type=Lease">Lease</a>
+					<ul class="sub-dropdown">
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Resedential&amp;ptype=Lease">Residential</a></li>
+					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Commercial&amp;ptype=Lease">Commercial</a></li>
+					</ul>
+					<!--End Sub Menu -->
+					<span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+					
+                    
+                  </ul>
+                  <!--End Sub Menu --><span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="agents_list.php"> Agents</a> </li>
+              </ul>
+              <!--End Sub Menu --> 
+            <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+            <li id="menu-item-3170" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+            <a href="#">CATEGORIES</a>
+            <ul class="sub-dropdown">
+              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+              <a href="sale_list.php?category=Sale">SALE</a>
+              <ul class="sub-dropdown">
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon">
+                <a href="sale_list.php?saletype=New">NEW</a>
+                <ul class="sub-dropdown">
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Animals&amp;salenew=New"> Animals </a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Books&amp;salenew=New">Books</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerAccessories&amp;salenew=New">Computer Accessories</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerPeripherals&amp;salenew=New">Computer Peripherals</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=HealthcareAppliances&amp;salenew=New">Healthcare Appliances</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=KitchenAppliances&amp;salenew=New">Kitchen Appliances</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Laptops&amp;salenew=New">Laptops</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Mobile&amp;salenew=New">Mobile</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=MobileAccessories&amp;salenew=New">Mobile Accessories</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=PersonalCareAppliances&amp;salenew=New">Personal Care Appliances</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Shops&amp;salenew=New">Shops</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Tablet&amp;salenew=New">Tablets</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=TabletAccessories&amp;salenew=New">Tablet Accessories</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Televisions&amp;salenew=New">Televisions</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Vehicle&amp;salenew=New"> Vehicles </a></li>
+                  
+                </ul>
+                <!--End Sub Menu --> <!--End Sub Menu -->
+                
+                <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon">
+                <a href="sale_list.php?saletype=Old">OLD</a>
+                <ul class="sub-dropdown">
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Animals&amp;salenew=Old"> Animals </a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Books&amp;salenew=Old">Books</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerAccessories&amp;salenew=Old">Computer Accessories</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerPeripherals&amp;salenew=Old">Computer Peripherals</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=HealthcareAppliances&amp;salenew=Old">Healthcare Appliances</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=KitchenAppliances&amp;salenew=Old">Kitchen Appliances</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Laptops&amp;salenew=Old">Laptops</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Mobile&amp;salenew=Old">Mobiles</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=MobileAccessories&amp;salenew=Old">Mobile Accessories</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=PersonalCareAppliances&amp;salenew=Old">Personal Care Appliances</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Shops&amp;salenew=Old">Shops</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Tablet&amp;salenew=Old">Tablet</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=TabletAccessories&amp;salenew=Old">Tablet Accessories</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Televisions&amp;salenew=Old">Televisions</a></li>
+                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Vehicle&amp;salenew=Old"> Vehicles </a></li>
+                  
+                </ul>
+                <!--End Sub Menu --> <!--End Sub Menu -->
+                <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              </ul>
+              <!--End Sub Menu --> 
+              <span class="responsive-btn"><i class="icon-plus8"></i></span>
+              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+              <a href="rental_list.php">For Hire</a>
+              <ul class="sub-dropdown">
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Air Coolers">AIR COOLERS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Blazers">BLAZERS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Bridal Wears">BRIDAL WEAR</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Cameras">CAMERAS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Chairs">CHAIRS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Computers">COMPUTERS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Costumes">COSTUMES</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Cylinders">CYLINDERS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Dead Body Freezer Box">DEAD BODY FREEZER BOX</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Furniture">FURNITURE</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Generators">GENERATORS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Hydraulic Cranes">HYDRAULIC CRANES</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Laptops">LAPTOPS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Mobiles">MOBILES</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Mortuary Freezers">MORTUARY FREEZERS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Projectors">PROJECTORS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Sherwanis">SHERWANIS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Sound Systems">SOUND SYSTEMS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Suits">SUITS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Tabs">TABS</a> </li>
+                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Vehicles">VEHICLES</a> </li>
+                
+                <!--End Sub Menu -->
+                
+              </ul>
+              <!--End Sub Menu --> 
+              <span class="responsive-btn"><i class="icon-plus8"></i></span>
+              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom  "><a href="hostels_list.php">HOSTELS</a> <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom  "><a href="hotels_list.php">HOTELS</a> <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+			  <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="restarant_list.php">FOOD &amp; BEVERAGES</a>
+                <ul class="sub-dropdown">
+				<li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Restaurant">RESTAURANT</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Coffee and Tea">COFFEE &amp; TEA</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Dessert">DESSERT</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="restarant_list.php?restauranttype=IceCream">ICECREAM</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Bakery">BAKERIES</a></li>
+                 </ul>
+              <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="jobs_list.php">Jobs</a>
+                <ul class="sub-dropdown">
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="jobs_list.php?jobtype=Full Time">FULL TIME</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="jobs_list.php?jobtype=Part Time">PART TIME</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="jobs_list.php">FREELANCER</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="candidate_list.php">JOB SEEKERS</a></li>
+                </ul>
+              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="education_list.php">Education &amp; Training</a>
+                <ul class="sub-dropdown">
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="education_list.php?edutype=PlaySchool">PLAY SCHOOLS</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="education_list.php?edutype=Schools">SCHOOLS</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="education_list.php?edutype=Collages">COLLEGES</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="education_list.php?edutype=Institutes">TRAINING INSTITUTES</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="education_list.php?edutype=Consultancies">CONSULTANCIES</a></li>
+                </ul>
+              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="healthcare_list.php">Health Care</a>
+                <ul class="sub-dropdown">
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="healthcare_list.php?healthtype=Doctor">DOCTORS</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="healthcare_list.php?healthtype=Hospital">HOSPITALS</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="healthcare_list.php?healthtype=Clinic">CLINICS</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="healthcare_list.php?healthtype=NursingHome">NURSING HOMES</a></li>
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="healthcare_list.php?healthtype=Lab">LABS</a></li>
+                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="healthcare_list.php?healthtype=Bloodbank">BLOOD BANKS</a></li>
+                </ul>
+              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+            </ul>
+            <!--End Sub Menu -->
+            <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+            
+            <!--<li id="menu-item-1573" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children"><a href="jobs_list.php">JOBS</a>
+                <ul class="sub-dropdown">
+                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="jobs_list.php">JOBSEEKER</a></li>
+                 <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="candidate_list.php">EMPLOYER</a></li>
+                   
+                </ul>
+              
+              </li>--> <!--End Sub Menu -->
+                    <li id="menu-item-2648" class="menu-item dropdown mega-menu cs-mega-menu menu-item-type-post_type dropdown mega-menu cs-mega-menu menu-item-object-page dropdown mega-menu cs-mega-menu menu-item-has-children parentIcon"><a href="services_list.php">SERVICES</a>
+              <ul class="mega-grid" style="display: block;">
+                <li id="menu-item-2626" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+                  <ul class="sub-dropdown" style="display: block;">
+                    <li id="menu-item-2623" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Ambulance">Ambulance Service
+                                            ()</a></li>
+					   <li id="menu-item-2623" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Architect">Architect
+                                            ()</a></li>
+                    <li id="menu-item-2611" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Artist"> Artist
+                                            ()</a></li>
+                    <li id="menu-item-2625" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Astrology">Astrologer
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Automobile">Automobile
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Battery"> Battery Sale &amp; Service
+                                            ()</a></li>
+                    <li id="menu-item-2622" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Beauty">Beauty / Spa
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=BedWorks"> Bed Works
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=BookBinding"> Book Binding Works
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Borewell">Bore Well Mechanic
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Brassband"> Brass Band
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Contractor"> Building Contractor
+                                            ()</a></li>
+                    <li id="menu-item-2621" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MaterialSupplier">Building Material Supplier
+                                            ()</a></li>
+                    <li id="menu-item-2614" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Tickets"> Bus / Train / Air Ticket
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Cable">Cable / DTH
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=CarDecorator"> Car Decorators
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Carmechanic">Car / Bike Mechanic
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Carpenter"> Carpenters
+                                            ()</a></li>
+					  <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Carpetclean"> Carpet Cleaning
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Catering"> Catering
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Cartridge">Cartridge Refilling
+                                            ()</a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Childcare"> Child Care
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Computerservice">Computer Services
+                                            ()</a></li>
+                  </ul>
+                  <!--End Sub Menu --> 
+                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+				  
+                <li id="menu-item-2627" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+                  <ul class="sub-dropdown" style="display: block;">
+				  
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Cookmaster">Cook / Cooking Master
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Contentwriter">Content Writers
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=CourierService">Courier services
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=CurryPoint">Curry Point
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Dance"> Dance &amp; Music
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Decorators"> Decorators
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=digitalSound"> digital Sound
+                                            () </a></li>
+					   <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Ditective"> Ditective
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=DriverSupplier">Driver Supplier
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=DrivingSchool"> Driving School
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Electrician"> Electricians
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=EventManagement"> Event Management
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FashionDesigner"> Fashion Designer
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Fabrication"> Fabrication
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FitnessCenter">Fitness Centers
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FlourMill">Flour Mill
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FlowerSupplier">Flower Supplier
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FunctionHalls">Function Halls
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Furniture"> Furniture
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Gardening"> Gardener
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=GasStoveRepair">Gas Stove Repair
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Grasary">Grocery Supplier
+                                            () </a></li>
+                   <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=HouseMade"> Home Maids
+                                            ()</a></li>
+                  </ul>
+                  <!--End Sub Menu --> 
+                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-2629" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+                  <ul class="sub-dropdown" style="display: block;">
+				   
+					  <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=HomeNurse"> Home Nurse
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=HomeTutions">Home Tuition
+                                            () </a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=IceCreamSupplier">Ice cream Supplier
+                                            ()</a></li>
+                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=InteriorDesign"> Interior Design
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=InternetProvider">Internet Provider
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Insurance">Insurance
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=KeyMaker">Key Maker
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=LaundryCleaner">Laundry / Dry Cleaner
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Loan">Loan
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Magician"> Magician / Entertainer
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=marraiageBureau"> Marriage Burea
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MasquitoScreens"> Mosquito Screen
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MehindiDesigner"> Mehindi Designer
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MilkVendors"> Milk Vendors
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MineralWaterSuppliers"> Mineral Water Suppliers
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=NewsPaperAgent">News Paper Agents
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=OldAgeHome"> Old Age Home
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Painter">Painters
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PaintingDesigner">Painting Designer
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PanPassport"> Pan / Passport Services
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PackersMovers"> Packers &amp; Movers
+                                            () </a></li>
+                   <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PestControl">Pest Control
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PhotoGrapher"> Photographer
+                                            () </a></li>
+                  </ul>
+                  <!--End Sub Menu --> 
+                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+                <li id="menu-item-2629" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
+                  <ul class="sub-dropdown" style="display: block;">
+				   
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Plumber"> Plumber
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PrintingPress">Printing Press
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=ProvisionStore"> Provision Store
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Purohithudu">Purohithudu
+                                            () </a></li>
+                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=EstateAgent">Realestate Agent
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=RiceVendor">Rice Vendors
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=ServiceCenter">Service Center
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=SewingMachanic"> Sewing Machine Mechanic
+                                            () </a></li>
+					   <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Shops"> Shops
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=SofaRepairs">Sofa Repair
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=SportsInstitute">Sports Institutions
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Tailor">Tailor
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=TattoArtist">Tattoo Artist
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=TentHouse"> Tent House
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=ToursTravels"> Tours &amp; Travels
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Towing"> Towing
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=TvAcRefrigerator">TV / AC / Refrigerator
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=VegitableSeller"> Vegitable Seller
+                                            ()</a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=WaterSupplier">Water Supplier
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=WaterManagemant">Water Management
+                                            () </a></li>
+                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=YogaTeacher"> Yoga Teacher
+                                            () </a></li>
+                  </ul>
+                  <!--End Sub Menu --> 
+                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+              </ul>
+              <!--End Sub Menu --> 
+              <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
+            <!--<li id="menu-item-3448" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu menu-item-has-children"><a href="career.php">CAREERS</a>
+ </li>
+ <li id="menu-item-3448" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu menu-item-has-children"><a href="contact.php">CONTACT</a>
+             
+              </li> -->
+          </ul>
+        </nav>
+        <div class="btn-sec">
+                    <a data-toggle="modal" data-target="#cs_ad_post_modal" class="hd-btn cs-bgcolor"><i class="icon-plus3"></i>Post an Ad</a>
+                    
+          
+          <div aria-hidden="true" role="dialog" tabindex="-1" id="cs_ad_post_modal" class="modal fade add-to-favborites-modal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <div class="cs-login-favorites  afterlogin"> 
+                    <script>jQuery(document).ready(function(){jQuery('#ControlForm_526017 input').keydown(function(e){if(e.keyCode==13){ }});jQuery("#cs-signup-form-section-favorites-526017").hide();jQuery("#accout-already-favorites-526017").hide();jQuery("#forgot-password-526017").hide();jQuery("#signup-now-favorites-526017").click(function(){jQuery("#login-from-526017").hide();jQuery("#signup-now-favorites-526017").hide();jQuery("#cs-signup-form-section-favorites-526017").show();jQuery("#forgot-password-526017").hide();jQuery("#accout-already-favorites-526017").show();jQuery("#forgot-password-favorites-526017").show();});jQuery("#accout-already-favorites-526017").click(function(){jQuery("#login-from-526017").show();jQuery("#signup-now-favorites-526017").show();jQuery("#cs-signup-form-section-favorites-526017").hide();jQuery("#forgot-password-526017").hide();jQuery("#accout-already-favorites-526017").hide();});jQuery("#forgot-password-favorites-526017").click(function(){jQuery("#forgot-password-526017").show();jQuery("#login-from-526017").hide();jQuery("#signup-now-favorites-526017").hide();jQuery("#accout-already-favorites-526017").show();jQuery("#cs-signup-form-section-favorites-526017").hide();jQuery("#forgot-password-favorites-526017").hide();});});</script>
+                    <section class="sg-header ">
+                      <button data-dismiss="modal" class="close" type="button"> <span aria-hidden="true"><i class="icon-times"></i></span><span class="sr-only">Close</span> </button>
+                      <div class="header-element login-from login-form-id-526017" id="login-from-526017">
+                        <h6>User Sign in</h6>
+                        <form class="wp-user-form webkit" id="ControlForm_526017">
+                          <fieldset>
+                            <span class="status status-message" id="Sucess" style="color:blue"></span> <span id="errorMobile" style="color:#FF0000"></span>
+                            <p class="sg-email"> <span class="iconuser"></span>
+                              <input type="text" name="user_login" id="user_mobile" placeholder="Mobile" maxlength="10" onkeypress="return isNumber(event)">
+                            </p>
+                            <span id="errorPassword" style="color:#FF0000"></span>
+                            <p class="sg-password"> <span class="iconepassword"></span>
+                              <input type="password" name="user_password" id="user_password" placeholder="Password">
+                            </p>
+                            <p> <i class="icon-angle-right"></i>
+                              <input type="submit" name="user-submit" id="user_login" class="cs-bgcolor" value="Sign in">
+                            </p>
+                            <span id="processing"></span>
+                          </fieldset>
+                        </form>
+                      </div>
+                      <div class="user-sign-up" id="cs-signup-form-section-favorites-526017" style="display:none">
+                        <h6>User Sign Up</h6>
+                        <form class="wp-user-form" id="wp_signup_form_526017">
+                          <fieldset>
+                            
+                            <span id="errorBox1" style="color:#FF0000"></span>
+                            <p class="sg-password"> <span class="iconemail"></span>
+                              <input type="text" name="user_mobileno" id="user_mobileno" maxlength="10" tabindex="12" onkeypress="return isNumber(event)" placeholder="Mobile No" required="">
+                            </p>
+                            <span id="errorBox2" style="color:#FF0000"></span>
+                            <p class="sg-password"> <span class="iconuser"></span>
+                              <input type="text" name="user_firstname" id="user_firstname" tabindex="12" placeholder="Full name" required="">
+                            </p>
+                            <span id="errorBox5" style="color:#FF0000"></span>
+                            <p class="sg-password">
+                              <select name="user_city" id="user_city" onchange="loadarea(this.value)" required="">
+                                <option value="">City</option>
+                                                              </select>
+                            </p>
+                            <span id="errorBox3" style="color:#FF0000"></span>
+                            <p class="sg-password" id="divarea">
+                              <select name="user_area" id="user_area" required="">
+                                <option value="">Area/location</option>
+                                
+                              </select>
+                            </p>
+                            <p class="sg-password" id="divpincode">
+                              <select name="user_pincode" id="user_pincode" required="">
+                                <option value="">Pincode</option>
+                              </select>
+                            </p>
+							<p class="sg-password">
+						<select name="user_coming" id="user_coming" required="">
+                                <option value="">How did you get here</option>
+<option value="Classified AD">Classified AD</option> 
+                                <option value="E-mail">E-mail</option>
+                    <option value="Friend/Family Members">Friend/Family Members</option>
+                    <option value="Health Club Poster">Health Club Poster</option> 
+                     <option value="Internet Advertising">Internet Advertising</option>
+					 <option value="Marketing Team">Marketing Team</option>
+                    <option value="Newspaper/Magazine">Newspaper/Magazine</option>
+                    <option value="Radio Advertisement">Radio Advertisement</option>
+                    <option value="Tradeshows">Road shows</option>
+                    <option value="Search Engine Google">Search Engine Google</option> 
+                     <option value="Search Engine Msn">Search Engine Msn</option>
+                    <option value="Search Engine Yahoo">Search Engine Yahoo</option>
+                  <option value="Television Advertisement">Television Advertisement</option>
+                                 <option value="Other">Other</option> 
+                              </select>
+                           <!--   <input type="text" name="user_get" id="user_get" tabindex="12" placeholder="How did you get here" required> -->
+ 
+
+                            </p>
+
+<p class="other_reason1" style="display: none;">
+<input id="other_reason" name="other_reason" type="text" maxlength="10" onkeypress="return isNumber(event)" placeholder="Representative Mobile Number" style="display: none;">
+</p>
+ <span id="errorBox4" style="color:#FF0000"></span>
+                            <p class="sg-password">
+                              <input type="checkbox" id="terms" value="yes" style="width: 11%;" checked="" required="">
+                              <label>I agree Terms and Conditions</label>
+                            </p>
+                            <p> <i class="icon-angle-right"></i>
+                              <input type="submit" name="user-submit" id="register_submit" class="cs-bgcolor" value="Sign Up">
+                            </p>
+                            <span id="processing"></span>
+                          </fieldset>
+                        </form>
+                      </div>
+                      <div class="header-element forget-password forget-password-526017" id="forgot-password-526017" style="display: none;">
+                     <div id="success1"> <p>Lost Your Password? Please Enter Your Registered Mobile Number. You Will Receive Password To Mobile Number.</p><h6>Enter Your Registered Mobile Number</h6></div>
+					   <div class="woocommerce-message" id="Success" style="display: none"><h6 style="color:red">password sent to your mobile number sign in again.</h6><h6></h6></div>
+                        <form class="wp-user-form webkit" id="wp_forgot_526017">
+                          <fieldset>
+                            <span class="status status-message" id="Sucess" style="color:blue"></span> <span id="errorMobile" style="color:#FF0000"></span>
+                            <p class="sg-email"> <span class="iconuser"></span>
+                              <input type="text" name="user_mobileno" id="user_mobil123" placeholder="Mobile" maxlength="10" onkeypress="return isNumber(event)">
+                            </p>                           
+                            <p> <i class="icon-angle-right"></i>
+                              <input type="submit" name="user-forgot" id="forgotpass_submit" class="cs-bgcolor" value="Submit">
+                            </p>
+                            <span id="processing"></span>
+							
+                          </fieldset>
+                        </form>
+                      </div>
+					 
+                      <!-- End of social_login_ui div --> 
+                    </section>
+                    <aside class="sg-footer"><p id="forgot-password-favorites-526017" class="left-side"><a>Forgot Password?</a></p>
+                      <p id="signup-now-favorites-526017" class="right-side"><a>New User</a></p>
+                      <p id="accout-already-favorites-526017" class="right-side" style="display: none;"><a>Sign In </a></p>
+                    </aside>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+<style>
+#wp_signup_form_526017 input[type="text"],#wp_signup_form_526017 select { 
+height:34px !important;
+width:100% !important;
+}#wp_forgot_526017 input[type="text"],#wp_forgot_526017 select { 
+height:34px !important;
+width:100% !important;
+}
+</style>
+  <script type="text/javascript">
+        $(function(){
+            //initially hide the textbox
+            $("#other_reason").hide();
+$(".other_reason1").hide();
+
+            $('#user_coming').change(function() {
+              if($(this).find('option:selected').val() == "Marketing Team"){
+$(".other_reason1").show();
+                $("#other_reason").show();
+              }else{
+$(".other_reason1").show();
+                $("#other_reason").hide();
+              }
+            });
+            $("#other_reason").keyup(function(ev){
+                  var othersOption = $('#i_n_r_reason').find('option:selected');
+                  if(othersOption.val() == "Marketing Team"){
+                    ev.preventDefault();
+                    //change the selected drop down text
+                    $(othersOption).html($("#other_reason").val()); 
+
+
+                  } 
+            });
+        });
+    </script>
+
+
+
+
+
+
+
+
+          
+          </div> 
+          <div class="cs-login-sec">
+            <ul>
+              <li><a title="Login" data-toggle="modal" data-target="#cs_ad_post_modal" class="cs-user"><i class="icon-user2"></i></a></li>
+            </ul>
+          </div>
+       
+      </aside>
+    </div>
+  </div>
+  <script type="text/javascript">
+       function isNumber(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+}
+    
+    </script> 
+	
+	<script type="text/javascript">
+ function loadarea(city){
+ 	
+  if (window.XMLHttpRequest)
+    {// code for IE7+, Firefox, Chrome, Opera, Safari
+      xmlhttp=new XMLHttpRequest();
+    }
+   else
+    {// code for IE6, IE5
+      xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+ xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+  document.getElementById("divarea").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","getareaajax.php?city="+city,true);
+xmlhttp.send(); 
+}
+ </script>
+  <script type="text/javascript">
+ function loadpincode(pincode){
+  if (window.XMLHttpRequest)
+    {// code for IE7+, Firefox, Chrome, Opera, Safari
+      xmlhttp=new XMLHttpRequest();
+    }
+   else
+    {// code for IE6, IE5
+      xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+ xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+  document.getElementById("divpincode").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","getpincodeajax.php?pincode="+pincode,true);
+xmlhttp.send(); 
+}
+ </script> 
+</header>  <div class="clear"></div>
+  <!-- Breadcrumb SecTion -->
+  <div class="breadcrumb-sec " style="background: url(wp-content/uploads/Sub-header.jpg) center top  #e9e9e9; min-height:203px!important;    "> 
+    <!-- Container -->
+    <div class="absolute-sec">
+      <div class="container">
+        <div class="cs-table">
+          <div class="cs-tablerow"> 
+            <!-- PageInfo -->
+            <div class="pageinfo page-title-align-left">
+              <h1 style="color:#ffffff !important">Privacy Policy</h1>
+            </div>
+            <!-- BreadCrumb -->
+            <div class="breadcrumb">
+              <style scoped="">
+.breadcrumb ul li a,.breadcrumb ul li.active,.breadcrumb ul li:first-child:after{color:#fff!important}
+</style>
+              <div class="breadcrumbs">
+                <ul>
+                  <li><a href="#">Home</a></li>
+                  <li class="active">Privacy Policy</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  <!-- Main Content Section -->
+  <main id="main-content"> 
+    <!-- Main Section -->
+    <div class="main-section">
+      <div class="container">
+        <div class="row">
+          <aside class="page-sidebar">
+            <div class="widget element-size-100 cs_ads_banner">
+              
+              <div class="cs_banner_section"><a id="cs_banner_clicks516659823" href="#" target="_blank"> 
+<img src="images/iphone.png">
+</a></div>
+            </div>
+          </aside>
+          <div class="page-content"> <!-- Page Section -->
+            <div class="page-section " style="margin-top: 0px;padding-bottom: 10px;margin-bottom: 30px;border-top: 0px #e0e0e0 solid;border-bottom: 0px #e0e0e0 solid;"> 
+              <!-- Container Start -->
+              <div class="container">
+                <div class="row">
+                  <div class="section-fullwidth">
+                    <div class="element-size-100">
+                      <div class="cs-heading-style">
+                        <div class="heading-description" style="color: !important; text-align: left; font-style:normal;">
+                          <div class="col-md-12 ">
+                            <div class="cs-tabs nav-position-top " id="cstabs2622">
+                               
+                              <div class="tab-content">
+                              
+                              
+                          
+                             
+                                <div class="tab-pane fade  active in" id="cs-tab-safety-advice7608">
+                                  <div class="col-md-12">
+                                    <div class="panel-group simple " id="faq-8666532">
+                                      <div class="cs-section-title">
+                                        <h2>Privacy Policy</h2>
+                                      </div>
+                                      <div class="panel panel-default">
+                                      
+                                          <div class="panel-body">
+                                          
+                                      
+                                       
+<p> We are committed to protect the privacy of all users and customers who visit or conduct business through our website or app and in line with the same this notice detailing our online information is provided.</p>
+ <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Collection of Personal information: </h3>
+<p> Personal information is collected from you to assist us render a higher degree of customer service. Flexibility is thus given to you for easy navigation through our products, and enabling easier access to our services. Personal information collected here is never used for any purpose other than the purposes listed here and hence does not infringe upon any personal rights therein. </p>
+ <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Information Collected:</h3>
+<p>The information we gather does not identify individual users but is used to analyze trends, for effective administration of our site. This is also to keep track of user movements within our site, and also to pool demographic statistics on our user base. Information is never used for any kind of marketing. </p>
+ <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Technologies and Cookies: </h3>
+
+<p> Our app/website uses cookies, web technologies and softwares to aid our understanding of the most popular components of our website, to identify visitor navigational patterns and time spent on the website. The statics so obtained by studying traffic patterns on our sites facilitate and strengthen our understanding of our customer base and helps us serve them better. These also enable us improve your usage experience by providing better convenience to you on each of your visit and use. </p>
+ <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Alterations to this Privacy Policy: </h3>
+ <p>Business and customer surveys are an essential part of our operations. All our customers are encouraged to actively participate in our surveys since they provide us with valuable information which helps improve the delivery of our products and services. All user and customer responses are used only for the purposes of evaluating the quality of our services. </p>
+<p>Alterations or changes may be made to this privacy policy depending on our periodical reviews as best deemed fit. </p>
+ 
+                                          </div>
+                                      
+                                      </div>
+                                    
+                                 
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <div class="clear"></div>
+  <!-- Footer -->
+  <div>
+<footer id="footer-sec">
+  <div class="container">
+    <div class="row">
+      <aside class="widget col-md-3 widget_text">
+        <div class="widget-section-title" id="footer1">
+          <h1> Contact Us</h1>
+        </div>
+        <ul>
+          <li><i class="icon-map-marker"></i>
+            <p>VGC ONLINE SERVICES PVT.LTD. </p>
+          </li>
+          <li><i class="icon-phone6"></i>
+            <p> 040-6990 8990 </p>
+          </li>
+          <li><i class="icon-mobile4"></i>
+            <p> +91 80 19 60 5555</p>
+          </li>
+          <li> <i class="icon-envelope4"></i>
+            <p><a href="mailto:info@lifemadeeasyglobal.com">info@lifemadeeasyglobal.com</a></p>
+          </li>
+        </ul>
+      </aside>
+      <aside class="widget col-md-3 recentblog_post">
+        <div class="widget-section-title" id="footer1">
+          <h1> Our Services</h1>
+        </div>
+        <ul>
+          <li class="cat-item cat-item-43"><a href="property_list.php">Property</a> </li>
+          <li class="cat-item cat-item-12"><a href="hostels_list.php">Hostels</a> </li>
+          <li class="cat-item cat-item-43"><a href="sale_list.php">For Sale</a> </li>
+          <li class="cat-item cat-item-43"><a href="rental_list.php">For Hire</a> </li>
+          <li class="cat-item cat-item-10"><a href="jobs_list.php">Jobs</a> </li>
+        </ul>
+      </aside>
+      <aside class="widget col-md-3 recentblog_post">
+        <div class="widget-section-title" id="footer1">
+          <h1> Information </h1>
+        </div>
+        <ul>
+          <li class="cat-item cat-item-12"><a href="about.php">About Company</a> </li>
+          <li class="cat-item cat-item-328"><a href="agents.php">Our Agents</a> </li>
+          <li class="cat-item cat-item-43"><a href="comingsoon.php">Franchises</a> </li>
+          <!-- <li class="cat-item cat-item-10"><a href="servicess_list.php">All Services</a> </li> -->
+          <li class="cat-item cat-item-43"><a href="career.php">Careers</a> </li>
+          <li class="cat-item cat-item-43"><a href="privacy.php">Privacy Policy</a> </li>
+        </ul>
+      </aside>
+      <aside class="widget col-md-3 widget_reviews">
+        <div class="widget-section-title" id="footer1">
+          <h1> Recent Events</h1>
+        </div>
+        <ul>
+          <li>
+            <div class="infotext" itemprop="reviewRating">
+              <h6><a href="http://vhelp.org.in/" target="_blank">Child care Founds...</a></h6>
+              <div class="cs-rating"><span class="rating-box"></span></div>
+              <ul>
+                <li><span class="post">on</span> November 21, 2015.</li>
+                <li><span class="post_by">Posted by</span><a class="admin" href="#">Admin</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </aside>
+    </div>
+  </div>
+</footer>
+
+
+<style>
+.cs-rating span{  width:152% }
+#footer1 h1
+{color: #406FF6 !important;font-size:16px;
+}
+#icoon
+{ color:#fff;
+}
+.social-media li a{
+color:#cccccc;}
+</style>
+
+<!-- Bottom Section -->
+<div class="footer-content">
+  <div id="copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <nav class="footer-nav">
+            <ul>
+              <li id="menu-item-2106" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu current-menu-item dropdown sub-menu page_item dropdown sub-menu page-item-367 dropdown sub-menu current_page_item"><a href="index.php">Home</a></li>
+              <li id="menu-item-2107" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="property_list.php">Property</a></li>
+              <li id="menu-item-2107" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="hostels_list.php">Hostels</a></li>
+              <li id="menu-item-2108" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="jobs_list.php">Jobs</a></li>
+              <li id="menu-item-2109" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="services_list.php">Services</a></li>
+              <li id="menu-item-2110" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="contact.php">Contact Us</a></li>
+            </ul>
+          </nav>
+          <p>© 2014-15 LifeMadeEasyGlobal.com All rights reserved.</p>
+        </div>
+        <div class="col-md-6">
+          <div class="social-media">
+            <ul>
+              <li> <a href="https://www.facebook.com/lifemadeeasyglobal/" title="" data-original-title="Facebook" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-facebook7 " id="icoon"></i> </a></li>
+              <li> <a title="" href="https://twitter.com/Venkymama_com" data-original-title="Twitter" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-twitter2 " id="icoon"></i> </a></li>
+             <!-- <li> <a   title="" id="icoon"  data-original-title="Google Plus" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-skype " id="icoon"></i> </a></li> -->
+              <li> <a href="http://in.linkedin.com/in/lifemadeeasyglobal" title="" data-original-title="Linkedin" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-linkedin4 " id="icoon"></i> </a></li>
+            </ul>
+          </div>
+        </div>
+        <a href="#" id="backtop"><i class="icon-angle-up" id="icoon"></i></a> </div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<!-- Wrapper End --> 
+
+</body></html>
