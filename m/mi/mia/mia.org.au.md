@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mia.org.au privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621190126id_/http%3A//www.mia.org.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mia.org.au privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222041640id_/http%3A//www.mia.org.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Migration Institute of Australia
 
@@ -31,7 +31,7 @@ This site gives users the following options for removing their information from 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact :
 
 [Migration Institute of Australia](http://www.mia.org.au/)  
-PO Box Q102, QVB NSW 1230, Australia Level 1, 75 King St, SYDNEY 2000  
+PO Box Q102, QVB NSW 1230, Australia  
 Telephone: 02 9249 9000  
 Fax:   
 Email: [info@mia.org.au](mailto:info@mia.org.au)
