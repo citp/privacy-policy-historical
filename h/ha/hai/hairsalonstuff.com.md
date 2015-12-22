@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsalonstuff.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622085402id_/http%3A//www.hairsalonstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsalonstuff.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222120152id_/http%3A//www.hairsalonstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HairSalonStuff
 
