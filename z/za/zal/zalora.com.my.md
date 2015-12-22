@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142928id_/http%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222101459id_/http%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -7,7 +7,7 @@
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information, which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.  
 We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.  
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.  
-If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at customer@zalora.com.my.
+If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at customer@my.zalora.com.
 
   
 
@@ -40,7 +40,7 @@ The personal information we collect from you will be used in some or all of the 
 
 We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
 
-When you register as a user on ZALORA website, we will also use your personal information to send you marketing and/or promotional materials from time to time. If relevant, we will allow our sister companies to send relevant marketing materials to you. You can unsubscribe from marketing information at any time by using the unsubscribe function within the electronic marketing material.
+When you register as a user on ZALORA website, we will also use your personal information to send you marketing and/or promotional materials from time to time.You can unsubscribe from marketing information at any time by using the unsubscribe function within the electronic marketing material.
 
 Payments that you make through the Site will be processed by our agent Zalora Limited. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
 
@@ -73,11 +73,11 @@ ZALORA uses 128 - bit SSL (secure sockets layer) encryption technology when proc
 
 ### Disclosure of Personal Information
 
-We will not share your information with any other organisations other than related companies, sister companies and those third parties directly related to the delivery of the products you have purchased from ZALORA website. In exceptional circumstances ZALORA may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. ZALORA is committed to complying with the PDPA (Personal Data Privacy Act 2010) and the National Privacy principles. 
+We will not share your information with any other organisations other than those third parties directly related to the delivery of the products you have purchased from ZALORA website. In exceptional circumstances ZALORA may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. ZALORA is committed to complying with the PDPA (Personal Data Privacy Act 2010) and the National Privacy principles. 
 
-We may however use your contact information to send newsletters from us and from our related companies.
+We may however use your contact information to send newsletters from us
 
-### If you believe that your privacy has been breached by ZALORA please contact us at customer@zalora.com.my and we will resolve the issue.
+### If you believe that your privacy has been breached by ZALORA please contact us at customer@my.zalora.com and we will resolve the issue.
 
   
 
@@ -112,7 +112,7 @@ ZALORA reserves the right to modify and change the Privacy Statement at any time
 
 ### Complaints about breaches of privacy
 
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at customer@zalora.com.my.
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at customer@my.zalora.com.
 
   
 
