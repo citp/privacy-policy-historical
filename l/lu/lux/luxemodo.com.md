@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the luxemodo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625204448id_/http%3A//luxemodo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxemodo.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222191725id_/http%3A//luxemodo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Luxemodo
+# Privacy - Luxemodo
+
+  
+Privacy Policy – www.luxemodo.com  
+
 
 Privacy Policy for www.luxemodo.com 
 
