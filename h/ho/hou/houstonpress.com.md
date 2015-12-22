@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410041729id_/http%3A//www.houstonpress.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222165819id_/http%3A//www.houstonpress.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Houston Privacy Policy
+# Privacy Policy | Houston News and Events | Houston Press
 
 ### Houston Press, LP
 
@@ -86,8 +86,8 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@houstonpress.com](mailto:community@houstonpress.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@houstonpress.com](mailto:privacyadministrator@houstonpress.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
