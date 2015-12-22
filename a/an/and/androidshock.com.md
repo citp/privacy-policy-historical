@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidshock.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618054357id_/http%3A//www.androidshock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidshock.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222025719id_/http%3A//www.androidshock.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AndroidShock
+# Privacy Policy - Android Shock
 
 At AndroidShock, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you surf our site, why we collect it, and how we use it to improve your experience. Our Privacy Policy describes how we treat personal information.
 
