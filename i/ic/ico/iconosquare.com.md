@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconosquare.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195045id_/http%3A//iconosquare.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconosquare.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222022352id_/http%3A//iconosquare.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Iconosquare | Privacy Policy
 
@@ -8,7 +8,7 @@ The Terms of Use Iconosquare Site are incorporated herein by reference. By using
 
 Capitalized terms hereunder shall be defined under the Terms of Use Iconosquare Site.
 
-## 2\. COLLECTION OF INFORMATION AND USE BY STATIGRAM
+## 2\. COLLECTION OF INFORMATION AND USE BY ICONOSQUARE
 
 ### 2.1 Collection of information
 
@@ -60,9 +60,9 @@ Iconosquare uses its best efforts to ensure the confidentiality of your personal
 
 Iconosquare uses secure technology according to industry standards to protect the Content and the User/Organizer’s privacy. All Iconosquare personnel have a duty to respect the confidentiality of the Users/Organizer. A confidentiality obligation is included in each employment contract of Iconosquare employees with access to personal data.
 
-**HOWEVER, STATIGRAM ASSUMES NO LIABILITY FOR UNAUTHORIZED ACCESS TO ANY CONTENT. THE INTERNET IS NOT A SECURE MEDIUM, AND RESPECT FOR PRIVACY CANNOT BE GUARANTEED WHEN INFORMATION IS TRANSMITTED. E-MAIL ADDRESSES ON THE INTERNET AND ON WEB SITES ARE EXPOSED TO INTERCEPTION, INFRINGEMENT AND UNAUTHORIZED ACCESS. INFORMATION SENT OR RECEIVED ON THE INTERNET IS NOT GENERALLY SECURE, AND STATIGRAM CANNOT AND DOES NOT MAKE ANY DECLARATION, GUARANTEE OR PROMISE CONCERNING THIRD-PARTY INTERCEPTION OF THE USER’S/ORGANIZER’S PERSONAL, FINANCIAL OR OTHER INFORMATION. STATIGRAM SHALL NOT BE HELD LIABLE FOR DAMAGES WHICH THE USER/ORGANIZER MAY SUFFER AFTER TRANSMITTING ANY INFORMATION FROM OR TO THE SITE OR IN ASSOCIATION WITH IT. ANY INFORMATION TRANSMITTED VIA THE SITE IS SENT AT THE USER’S/ORGANIZER’S OWN RISK.**
+**HOWEVER, ICONOSQUARE ASSUMES NO LIABILITY FOR UNAUTHORIZED ACCESS TO ANY CONTENT. THE INTERNET IS NOT A SECURE MEDIUM, AND RESPECT FOR PRIVACY CANNOT BE GUARANTEED WHEN INFORMATION IS TRANSMITTED. E-MAIL ADDRESSES ON THE INTERNET AND ON WEB SITES ARE EXPOSED TO INTERCEPTION, INFRINGEMENT AND UNAUTHORIZED ACCESS. INFORMATION SENT OR RECEIVED ON THE INTERNET IS NOT GENERALLY SECURE, AND ICONOSQUARE CANNOT AND DOES NOT MAKE ANY DECLARATION, GUARANTEE OR PROMISE CONCERNING THIRD-PARTY INTERCEPTION OF THE USER’S/ORGANIZER’S PERSONAL, FINANCIAL OR OTHER INFORMATION. ICONOSQUARE SHALL NOT BE HELD LIABLE FOR DAMAGES WHICH THE USER/ORGANIZER MAY SUFFER AFTER TRANSMITTING ANY INFORMATION FROM OR TO THE SITE OR IN ASSOCIATION WITH IT. ANY INFORMATION TRANSMITTED VIA THE SITE IS SENT AT THE USER’S/ORGANIZER’S OWN RISK.**
 
-As set forth in the Terms of Use Iconosquare Site, your Login Details are confidential and you are not to disclose this Login Details to others; **YOU MAY NOT HOLD STATIGRAM LIABLE FOR THE DISCLOSURE OF YOUR LOGIN DETAILS OR ANY CONSEQUENCE OF THIS DISCLOSURE, IF YOU DISCLOSE YOUR LOGIN DETAILS TO ANY THIRD PARTY**.
+As set forth in the Terms of Use Iconosquare Site, your Login Details are confidential and you are not to disclose this Login Details to others; **YOU MAY NOT HOLD ICONOSQUARE LIABLE FOR THE DISCLOSURE OF YOUR LOGIN DETAILS OR ANY CONSEQUENCE OF THIS DISCLOSURE, IF YOU DISCLOSE YOUR LOGIN DETAILS TO ANY THIRD PARTY**.
 
 ## 7\. MODIFICATION OF THE PRIVACY POLICY
 
