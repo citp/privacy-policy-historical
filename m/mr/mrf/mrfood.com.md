@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624072752id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222040616id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | mrfood.com
+# Privacy Policy | MrFood.com
 
 **Privacy Policy / Your California Privacy Rights**  
-Revised and posted as of March 25, 2015
+Revised and posted as of November 9, 2015
 
 Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -104,6 +104,8 @@ We may use third party ad networks or ad serving companies to serve advertisemen
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+Company allows firms including [Google](http://www.google.com/), [LiveRamp](http://www.liveramp.com/), [Datonics](http://www.datonics.com/), and [Magnetic](http://www.magnetic.com/) to monitor Company web sites and newsletters for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities. These firms may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Company users.  Users may go to each firm’s site/URL for information on what is being tracked. Users may go to each firm’s site for information on how to opt-in or opt-out of use of their information and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third-party tracking.
 
 **Marketing Partners**  
 We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.
