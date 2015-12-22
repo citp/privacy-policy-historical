@@ -1,29 +1,35 @@
-> *The following text is extracted and transformed from the sticksup.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209032736id_/http%3A//sticksup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sticksup.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222131133id_/http%3A//sticksup.com/page/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sticks up
 
-At sticksup.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sticksup.com and how it is used.
+[Sticksup.com](http://sticksup.com/) is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
 
-**Log Files**
+## Cookies, Web Beacons, Flash Cookies and Web Logs
 
-Like many other Web sites, sticksup.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+When you log into the site, we set a persistent cookie, which will allow us to recognize you as an existing registered user and avoid the need to log into the site again. You may clear these cookies in your browser after a session in which you have logged in.
 
-**Cookies and Web Beacons**
+Our web pages may also contain an electronic file called a web beacon that allows us to count users who have visited that page or to access certain cookies.
 
-sticksup.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+The Flash content on this site may contain Flash cookies put in place by the developers. These are used to store game save data and serve third party ads. We are not responsible for the use of these Flash cookies and do not share data with them.
 
-**DoubleClick DART Cookie**
+We use Google Analytics to automatically record information that your browser sends whenever you visit a website. This data is stored in files called web logs. These web logs may include information such as your Internet Protocol address, browser type, browser language, the site you came from, the next site you visit and cookies that may uniquely identify your browser.
 
-1). Google, as a third party vendor, uses cookies to serve ads on sticksup.com.
+None of the data collected through web beacons, cookies, Flash cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies, web beacons and web logs with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior.
 
-2). Google's use of the DART cookie enables it to serve ads to users based on their visit to sticksup.com and other sites on the Internet.
+### Other Site Information We Track
 
-3). Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html.
+This Site uses passive tracking technologies to log information such as IP address, browser type, pages visited, and Site usage (for example: what pages are accessed, how often, referring/exit pages and URLs). We may also employ "cookies" or similar technologies such as web beacons, match scripts, or pixel tags that provide additional functionality to the Site and help us analyze Site usage more accurately. You can set your browser to reject cookies, but if you do, some features on our Site will not function normally.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on sticksup.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+## Links and Third Parties
 
-sticksup.com has no access to or control over these cookies that are used by third-party advertisers.
+From time to time we may include at the Site or on Mobile Applications links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. sticksup.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We sometimes work with third parties to add features, advertisements, or offers to our Site or Mobile Applications. These third parties may place cookies on your browser when you visit certain pages, or collect cookies that they have previously placed, along with the URL of the page you visited. We may have to pass these providers a non-personally identifiable user number specific to your Mobile Application to properly credit your account. Additionally, both the Site and Mobile Applications may utilize third party tracking services to anonymously analyze your usage activity, which will be used to improve your Site or Mobile Application experience. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third parties' use of data.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+## Questions and Complaints
+
+If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us at [complaints@sticksup.com](mailto:complaints@sticksup.com).
+
+By using this site, you signify your assent to the [sticksup.com](http://sticksup.com/) Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
