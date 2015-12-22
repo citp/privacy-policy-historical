@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120429id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222225604id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | Football - 1000 Goals
 
@@ -18,27 +18,25 @@ This site contains links to other sites. 1000goals.com is not responsible for th
 
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/sanvicente-wants-qualification-ticket-for-venezuela)
+[ ](http://www.1000goals.com/news/wenger-believes-title-talk-is-too-early-for-arsenal)
 
-Venezuela might be set for a difficult Copa America clash against Brazil this weekend, but La Vinotinto won't be giving up easily as they are keen on getting a ticket into the next round. That ambition was being highlighted by Venezuela head coach, Noel Sanvicente who stated to the media that his side must get…
+Arsenal's manager, Arsene Wenger was in a joyful mood as his team grabbed an important 2-1 victory over their title rival, Manchester City on Monday. Although acknowledging that it's a massive result for his team, Wenger believes that it's still not time yet for his team to be crowned as Premier League winner. Wenger understand…
 
-[ ](http://www.1000goals.com/news/colombia-treating-peru-clash-as-a-final)
+[ ](http://www.1000goals.com/news/klopp-not-pleased-with-liverpool-reaction-against-watford)
 
-Colombia are setting up to play their final group game in Copa America against Peru and Jose Pekerman's side are treating that tie as it was a final. That situation was being shouted by Colombia's shot stopper, David Ospina who stated that it will be an important battle and a tough one as well, since Peru…
+Liverpool still struggling to pick up consistent results in their English Premier League campaign as this past weekend, Jurgen Klopp's men suffered 3-0 defeat from Watford. Klopp admitted that it was a very disappointing result for his side, but the German tactician was more disappointed upon seeing his players' poor reaction during that match. The…
 
-[ ](http://www.1000goals.com/news/tabarez-praised-paraguays-toughness)
+[ ](http://www.1000goals.com/news/bayern-extend-lead-at-top-of-bundesliga-ahead-of-winter-break)
 
-Uruguay head coach, Oscar Tabarez was quite pleased with the draw his side picked up against Paraguay as the tactician believes that Ramon Diaz's men were a tough opposition. Speaking in a news conference, Tabarez admitted that Paraguay proved they are a difficult team to beat, so in the end that 1-1 draw was quite…
+Bundesliga giant, Bayern Munich looking more comfortable at the top of German Bundesliga standings following this weekend's results. Pep Guardiola's men grabbed a 1-0 victory over Hannover with Thomas Muller scoring the all important winning goal from the penalty spot. That victory gave Bayern an eight point lead at the top of standings as their…
 
-[ ](http://www.1000goals.com/news/brazil-hoping-neymar-can-still-play-in-copa-america)
+[ ](http://www.1000goals.com/news/bayern-confirmed-ancelotti-as-new-head-coach-for-next-season)
 
-Brazil are gearing up for their final Copa America group game against Venezuela this weekend and ahead of that tie, Selecao head coach, Dunga shared his hope of having his talisman, Neymar back on action. The Barcelona star received hefty punishment for his petulant reaction in Brazil's 1-0 defeat to Colombia with the tournament's disciplinary panel…
+The rumors that have been swirling around in recent days came into reality this weekend as Bayern Munich officially announced Carlo Ancelotti as their future head coach, starting from next season. This decision arrived soon after Pep Guardiola confirmed that he won't be extending his stay at Allianz Arena and will be leaving Bayern next…
 
-[ ](http://www.1000goals.com/news/play-exciting-fantasy-league-with-fan-picks)
+[ ](http://www.1000goals.com/news/hiddink-officially-appointed-as-chelsea-interim-boss)
 
-Playing fantasy league in any sports have been such popular thing for fans this days, triggering many sites to provide exciting gaming platform such as what Fan Picks is currently offering. This website is giving out a way for fans to enjoy playing fantasy game while earning real money reward for their persistent hard work.…
-
-[](https://www.facebook.com/1000footballgoals)
+Following earlier reports, former Dutch head coach, Guus Hiddink has officially been confirmed as temporary boss for Premier League side Chelsea. The Blues have recently sacked Jose Mourinho and after grabbing a home win in their latest league fixture against Sunderland, Chelsea announced that Hiddink will take over until next summer. It's not the first…
 
 [](http://www.johnnybet.com/)
 
@@ -46,8 +44,7 @@ Playing fantasy league in any sports have been such popular thing for fans this 
 
 ### Football Scores & Highlights
 
-[ ](http://serv.markets.com/promoRedirect?key=ej0xNDI0MTk5OSZsPTE0MjQxNzgxJnA9MjUxNjg%3D)
+**Must watch football:**  
 
-[](https://www.instaforex.com/forex_promo/100_lfc_bonus?x=JOWF)
 
 ### Latest Football Highlights
