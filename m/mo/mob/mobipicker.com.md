@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobipicker.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623134731id_/http%3A//www.mobipicker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobipicker.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222112937id_/http%3A//www.mobipicker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobiPicker
 
-This Privacy Policy governs the manner in which MobiPicker collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mobipicker.com](https://web.archive.org/web/20150623134731id_/http://www.mobipicker.com/privacy-policy/www.mobipicker.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by MobiPicker.  
+This Privacy Policy governs the manner in which MobiPicker collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mobipicker.com](https://web.archive.org/web/20151222112937id_/http%3A//www.mobipicker.com/www.mobipicker.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by MobiPicker.  
 ****
 
 **Personal identification information**
@@ -21,10 +21,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 MobiPicker may collect and use Users personal information for the following purposes:
 
-  *  _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _– To improve our Site_ We may use feedback you provide to improve our products and services.
-  *  _– To send periodic emails_ We may use the email address to respond to their inquiries, questions, and/or other requests.
+  *  _  To improve customer service – _Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  *  _  To personalize user experience – _We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _  To improve our Site – _We may use feedback you provide to improve our products and services.
+  *  _  To send periodic emails – _We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
 
@@ -60,10 +60,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.mobipicker.com/contact-us/ "Contact Us") at:
 
-> MobiPicker  
+> Plot No. – 2  
+>  3rd Cross Street  
 >  Selaiyur, Chennai-73  
 >  TN, India  
->  Ph. – +91-8149473599  
 >  Email – contact@mobipicker.com
 
 This document was last updated on May 16, 2015.
