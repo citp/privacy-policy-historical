@@ -1,115 +1,128 @@
-> *The following text is extracted and transformed from the citydeals.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115084009id_/http%3A//privacy-policy.truste.com/verified-policy/www.citydeals.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citydeals.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222170448id_/http%3A//www.citydeals.com/index.php/customer-service/%23Privacy) for the most accurate reproduction.*
 
-# Privacy Policy for www.citydeals.com
+# Customer Service
 
-Effective on March 15, 2010 
+  * Terms That Apply to All Deals
+  * Shipping & Delivery
+  * Privacy & Security
+  * Return Policy
+  * Ordering
+  * Availability & Pricing
+  * Account Information
 
-This privacy statement describes how CityDeals Marketing collects and uses the personal information you provide on our Web site: [www.citydeals.com ](http://www.citydeals.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-CityDeals Marketing is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [customerservice@citydeals.com ](mailto:customerservice@citydeals.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-## Collection and Use of Personal Information
-
-We collect the following personal information from you
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Financial Information such as bank or brokerage account numbers, types of investments
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
+This site is powered by Super Saver Media. The Super Saver Media offices are located in Bluffdale, UT. Any references to “we”, “our”, or “us” in these terms are referring to Super Saver Media and the company that owns this website. [contact us](https://web.archive.org/index.php/contacts/index/).
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-We use this information to
+  
+**Terms That Apply to All Deals**
+     The following terms apply to all deals on the site unless otherwise specified in the Fine Print or prohibited by law: 
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Administer contests and sweepstakes you entered, and notify you if you won
-  * Improve our Web site and marketing efforts
+  * Not valid with other offers, discounts, or promotions 
+  * Not valid for cash back 
+  * May not be used to purchase gift cards or gift certificates 
+  * Not valid for tax or gratuity 
+  * Vouchers have a promotional value and paid value. The paid value is the amount a customer pays for the voucher. The promotional value is the amount of the discount (the full value of the voucher minus the amount paid for it). The promotional value expires on the expiration date listed on the voucher. The paid value never expires.
 
 
+  
 
-**Choice/Opt-Out**
+**Shipping & Delivery**
+    Some offers are subject to shipment contracts with third party carriers. We will do everything possible on our end to make sure items are properly shipped; however, we are not responsible if a voucher is lost, stolen, destroyed, or used without your permission once the shipment has been turned over to third party carriers. Although we strive to be as accurate as possible with shipping and delivery times they are only estimates and we are not liable for any shipping delays. 
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [customerservice@citydeals.com ](mailto:customerservice@citydeals.com).
+We are not responsible for damaged product received through a third party carrier (UPS, FedEx, or USPS), which is out of our control. We are not responsible for shipments undeliverable as a result of incorrect address information supplied to us. We will attempt to contact the customer to resolve the error. 
 
-**Information Obtained from Third Parties**
+Shipments that total more than $299.00 will be shipped via Express or Priority shipping methods and will require a signature upon delivery. 
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+Please [contact us](https://web.archive.org/index.php/contacts/index/) immediately if there is a shipping error due to a mistake we made. You can rest assured we will take care of it. In the event the wrong product is shipped to you, we will gladly replace it with the correct items when the incorrect products have been returned to us via a trackable method. Return postage for incorrect orders can be provided by contacting customer service.
 
-## Information Sharing
+      
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+**Privacy & Security**
+      
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+     This privacy policy sets out how we use and protects any information that you give us when you use this website. We are committed to ensuring that your privacy is protected. We may change this policy from time to time by updating this page. 
 
-We may also disclose your personal information
+We may collect the following information: 
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if CityDeals Marketing is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+  * Name and job title 
+  * Contact information including email address 
+  * Demographic information such as postcode, preferences and interests 
+  * Other information relevant to customer surveys and offers 
 
+  
+We require this information for the following reasons: 
 
+  * To understand your needs and provide you with a better service. 
+  * Internal record keeping. 
+  * To improve our products and services. 
+  * To periodically send promotional emails about new products, special offers, or other information which we think you may find interesting. 
+  * To contact you for market research purposes (through email, phone, fax, or mail). 
+  * To customize the website according to your interests. 
 
-_PayPal_
+  
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-## Cookies and Other Tracking Technologies
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-_Web beacons_
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at the contact links provided on this website. 
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+You may request details of personal information which we hold about you under the Data Protection Act 1998 for a fee of $10. If you would like a copy of the information held on you please write to Super Saver Media 14441 S 980 W Ste 200 Bluffdale, UT 84065. 
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to us at the above address. We will promptly correct any information found to be incorrect.
 
-_Links to Other Web Sites_
+**  
+Return Policy**
+  
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of CityDeals Marketing. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+    
 
-## Security
+We want to make sure you have a great experience using every voucher you purchase from us. If you ever have a poor experience using a voucher purchased on this site, please let us know immediately. 
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [customerservice@citydeals.com ](mailto:customerservice@citydeals.com)
+If you change your mind about a deal you purchase on this site, you may [contact us](http://www.vpdealz.net/index.php/contacts/index/) within 7 days of your purchase to return any unredeemed voucher for a full refund, unless the voucher is for an event that has already past. 
 
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+In addition, if a business refuses to honor your voucher in accordance with the terms outlined on the deal, you may return the voucher to us for a refund within 7 days and a store credit thereafter, as long as the voucher isn’t expired and hasn’t been redeemed.
 
-## Additional Policy Information
+      
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+**Ordering**
+  
 
-**Correcting and Updating Your Personal Information**
+    
 
-To review and update your personal information to ensure it is accurate, contact us at [customerservice@citydeals.com ](mailto:customerservice@citydeals.com).
+We use a secure server for your privacy and security. Online payment may be made using Visa, MasterCard, and Discover credit and debit cards. Credit cards are processed and money is collected by Super Saver Media. When you are ready to check out you will be taken to a secure section of this site. You will be asked to fill out information, including, but not limited to: your name, your billing address, your phone number, your email, your card type, card number, card CVV code, and card expiration date.
 
-**Notification of Privacy Statement Changes**
+      
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+**Availability & Pricing**
+  
 
-You can contact us about this privacy statement by writing or email us at the address below:
+    
 
-CityDeals Marketing 
+Due to the nature of our products and the relationships with our merchants, pricing and product availability can and will change frequently. 
 
-4431 W. 8200 S. 
+We will occasionally offer promotional for extra discounts. These promotions are only valid under the exact terms they were offered. We are unable to back date or extend any sales, specials, discounts, or promotional codes for orders that have already been placed.
 
-West Jordan, UT, United States 84088
+      
 
-Phone: 1-800-970-8824 
+**Account Information**
+  
+
+    
+
+If you have an account with us, you will be able view your account information and order history in your account. You can view and update your account information anytime by clicking on the “My Account“ link at the top of the homepage.
+
+Subscribe to our deals! 
+
+Save up to 90% on CityDeals.com 
+
+Save on restaurants, fun, spas, hotels and more! We'll never rent, sell, or share your email. 
