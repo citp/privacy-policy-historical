@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplebeautifullife.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231155035id_/http%3A//simplebeautifullife.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplebeautifullife.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222061912id_/http%3A//simplebeautifullife.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Simple Beautiful Life
 
 This Privacy Policy governs the manner in which Simple Beautiful Life collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://simplebeautifullife.net/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Simple Beautiful Life.
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Simple Beautiful Life may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_
+  * _– To personalize user experience_
 
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-  * _\- To improve our Site_
+  * _– To improve our Site_
 
 We may use feedback you provide to improve our products and services.
 
-  * _\- To run a promotion, contest, survey or other Site feature_
+  * _– To run a promotion, contest, survey or other Site feature_
 
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
