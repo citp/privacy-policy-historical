@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myapne.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611091026id_/http%3A//myapne.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapne.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222125025id_/http%3A//myapne.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Apne TV
+# Privacy Policy of Myapne.com
 
-We are committed to ensure that privacy of a user is never compromised at Apne.tv. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at _ **contact@myapne.com**_ for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
+We are committed to ensure that privacy of a user is never compromised at Apne.tv. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at **contact@myapne.com** for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
 
 **Data Collection**
 
