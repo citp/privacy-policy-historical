@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alcotox.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504041533id_/http%3A//www.alcotox.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcotox.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222210329id_/http%3A//www.alcotox.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alcotox
-
-[ ](http://twitter.com/share?url=http://www.alcotox.com/about-us/privacy-policy/&text=Privacy%20Policy "Click here if you like this article.")
 
 ## What is this Privacy Policy for?
 
