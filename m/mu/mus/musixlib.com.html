@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2015-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150426072838id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222020903id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>MusixLib -  Albums And More</title>
@@ -9,7 +9,7 @@ MusixLib is a music network that gives you easy and unlimited access to music, f
 You can find all your favorites artists and albums.
 MusixLib give you better YouTube music experience.
  The extension - Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.">
-		<meta name="keywords" content="MusixLib,musixlib,youtube album, youtube music,music youtube album,music youtube ,music  album,music, album, extension, youtube extension, chrome youtube, chrome youtube extension">
+		<meta name="keywords" content="MusixLib,musix lib,youtube album, youtube music,music youtube album,music youtube ,music  album,music, album, extension, youtube extension, chrome youtube, chrome youtube extension">
 		<meta name="author" content="MusixLib">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<!-- for Google -->
@@ -18,16 +18,16 @@ MusixLib is a music network that gives you easy and unlimited access to music, f
 You can find all your favorites artists and albums.
 MusixLib give you better YouTube music experience.
  The extension - Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.">
-		<meta name="keywords" content="MusixLib,musixlib,youtube album, youtube music,music youtube album,music youtube ,music  album,music, album, extension, youtube extension, chrome youtube, chrome youtube extension">
+		<meta name="keywords" content="MusixLib,musix lib,youtube album, youtube music,music youtube album,music youtube ,music  album,music, album, extension, youtube extension, chrome youtube, chrome youtube extension">
 		<link rel="Shortcut Icon" href="favicon.ico">
 		<meta name="author" content="MusixLib">
 		<meta name="copyright" content="MusixLib">
-		<meta name="application-name" content=" Albums And More">
+		<meta name="application-name" content="MusixLib -  Albums And More">
 
 		<!-- for Facebook -->
-		<meta property="og:title" content=" Albums And More" id="fb_title_id">
+		<meta property="og:title" content="MusixLib -  Albums And More" id="fb_title_id">
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="http://www.musixlib.com/images/logo_128_3.png">
+		<meta property="og:image" content="http://www.musixlib.com/images/logo_fb_share.jpg">
 		<meta property="og:url" content="http://www.musixlib.com/privacy.php?lnk=share">
 		<meta property="og:description" content="Play albums from your favorites artists and improve YouTube music experience
 MusixLib is a music network that gives you easy and unlimited access to music, for free.
@@ -38,13 +38,13 @@ MusixLib give you better YouTube music experience.
 
 		<!-- for Twitter -->
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:title" content=" Albums And More">
+		<meta name="twitter:title" content="MusixLib -  Albums And More">
 		<meta name="twitter:description" content="Play albums from your favorites artists and improve YouTube music experience
 MusixLib is a music network that gives you easy and unlimited access to music, for free.
 You can find all your favorites artists and albums.
 MusixLib give you better YouTube music experience.
  The extension - Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.">
-		<meta name="twitter:image" content="http://www.musixlib.com/images/logo_128_3.png">
+		<meta name="twitter:image" content="http://www.musixlib.com/images/logo_fb_share.jpg">
 
 		<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ifhnjalcekbmmeknpgnkpghldbbhanen">
 
@@ -55,7 +55,8 @@ MusixLib give you better YouTube music experience.
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
 <script src="js/jquery.cookie.js"></script>
- <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+<script src="js/offers.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
 
 <link rel="stylesheet" type="text/css" href="slick/slick.css">
 <script type="text/javascript" src="slick/slick.min.js"></script>
@@ -72,7 +73,7 @@ MusixLib give you better YouTube music experience.
 
 var baseDataUrl = "http://data.musixlib.com/data.php";
 var apiKey ="2f9054ca214be48156d3e58faeb73d29";
-var ytKey ="AIzaSyAT-W9_-P46d0zMPtJI_tUGcOppXZ6QSoc";
+var ytKey ="AIzaSyDxluU4s2R4naL5b0qdCf7gJ5u7mxCLUS0";
 var _plObj = null;
 var albumsList = new Array();
 var artistsList = new Array();
@@ -133,6 +134,8 @@ function isArray(what) {
     return Object.prototype.toString.call(what) === '[object Array]';
 
 }
+
+//querystring
 function getURLParameter(name) {
 	  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
 	}
@@ -719,7 +722,30 @@ function canShareMsg()
 }
 function showMsgUser()
 {
-	if($.cookie('firstlogin')   == undefined && canShareMsg())
+	//ext_fs = extension fource share
+	if((getURLParameter( "ext_fs" )   != null && $.cookie('ext_fs')   == undefined) || $.cookie('n_ext_fs')   != undefined)
+	{
+		//need to show
+		$.cookie('n_ext_fs', "1", { expires: 1 , path: '/' });
+		setTimeout(function(){
+			var now = new Date();
+		var startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+		var timestamp = startOfDay / 1000;
+			$.cookie('ext_fs', timestamp+"", { expires: 1 , path: '/' });
+		
+		$.removeCookie('n_ext_fs', { path: '/' });
+		swal({   title: "Share with friens?",   text: "Share MusixLib with friends and let them enjoy from playing albums they like!",   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, share the joy!",   cancelButtonText: "No, share later",   closeOnConfirm: true,   closeOnCancel: false ,allowOutsideClick:true}, function(isConfirm){
+	   if (isConfirm) {
+	   		_mz_ShareAlbum("http://www.musixlib.com");
+	   } else {
+
+		swal("Cancelled", "Maybe next time... enjoy :)", "error");   } }); 
+		}, 13000);
+
+		
+
+
+	}else if($.cookie('firstlogin')   == undefined && canShareMsg())
 	{
 		var now = new Date();
 		var startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -783,10 +809,6 @@ function fInstall()
   	 showMsgUser();
  	 updateLoginView();
 
-	if($(document).width() < 800)
-	{
-		$('.footerAds').hide();
-	}
 	 $('body').delegate('.ad', 'click', function(){
 
 	});
@@ -833,7 +855,7 @@ function fInstall()
 		{
 			return;
 		}
-		var u = "http://itunes.apple.com/search?term=" + request.term + "&media=music&entity=musicArtist&limit=5";
+		var u = "http://itunes.apple.com/search?term=" + request.term + "&media=music&entity=musicArtist&limit=5&attribute=artistTerm";
 			$.ajax({
 				url: u,
 				dataType: "jsonp",
@@ -1051,6 +1073,7 @@ function loginStatusUpdated()
 		{
 		//	$.cookie('userId', response.id,{ expires: 365 });
             	$.cookie('userId', response.id,{ expires: 365, path: '/',domain: 'musixlib.com' });
+            	$.cookie('userId', response.id,{ expires: 365, path: '/'});
 
 			$.cookie('msg', "Login successfully");
 			location.reload();
@@ -1096,7 +1119,7 @@ function loginStatusUpdated()
             <div class="foot-search">
             
                 <form class="form-wrapper cf" action="search.php">
-                    <input id="selectedInput" type="text" placeholder="Search artists" required="">
+                    <input id="selectedInput" name="name" type="text" placeholder="Search artists" required="">
                     <button type="submit">Go</button>
                 </form>
 
@@ -1193,7 +1216,7 @@ musixlib may use information<br>(whether personal identifying information or not
 ·         We may use an outside ad company to display ads on our site.<br> These ads may contain cookies.<br> While we use cookies in other parts of our Web site,<br> cookies received with banner ads are collected by our ad company,<br> and we do not have access to this information. 
 <br><br>
 8. Your rights:
-You are entitled to access and correct your data by requesting to do so via the Contact us section, or by sending an email letter to the following email: privacy@musixlib.com
+You are entitled to access and correct your data by requesting to do so via the Contact us section, or by sending an email letter to the following email: support@musixlib.com
 <div class="clear"></div>
 
 
