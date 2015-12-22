@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topandbest.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107161055id_/http%3A//www.listsandyou.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topandbest.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222124748id_/http%3A//www.listsandyou.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy
 
-**Privacy Policy** \- Thanks for visiting **_Listsandyou.com_**  . By veiwing this blog, you agree with the practices described in this privacy policy. We do not use or collect any kind of information of users but our third party advertising partners use cookies to serve ads.
+**Privacy Policy** \- Thanks for visiting **_Listsandyou.com_**  . By viewing this blog, you agree with the practices described in this privacy policy. We do not use or collect any kind of information of users but our third party advertising partners use cookies to serve ads.
 
 **Third Party Cookies and Web Beacons-**   Although we don't use cookies but our advertising partners use cookies to serve content related ads or interest based ads and we don't have any control on third party advertising partners but don't worry because we use only safe advertising partners such as Google, Infolinks etc who don't share your personal information.
 
