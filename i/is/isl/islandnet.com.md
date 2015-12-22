@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624031509id_/http%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222103354id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Please consider switching to our new and improved hosting service: [**Islandhosting.com**](https://islandhosting.com/)
 
 The policies outlined below deal only with the use of customer and related information. You might also want to view our [**Terms of Service**](https://web.archive.org/view-article/5-terms-of-service).
 
