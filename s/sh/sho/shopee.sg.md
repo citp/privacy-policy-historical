@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopee.sg privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531022307id_/http%3A//shopee.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopee.sg privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222015900id_/http%3A//shopee.sg/legaldoc/privacy) for the most accurate reproduction.*
 
 # Shopee: Buy and sell on mobile
 
-**Privacy Policy**
+Privacy Policy
 
 **1\. INTRODUCTION**
 
@@ -12,7 +12,7 @@
 
 1.3 By using the Services, registering for an account with us, visiting our website, or accessing the Services, you acknowledge and agree that you accept the practices, requirements, and/or policies outlined in this Privacy Policy, and you hereby consent to us collecting, using, disclosing and/or processing your personal data as described herein. IF YOU DO NOT CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA AS DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE OUR SERVICES OR ACCESS OUR WEBSITE. If we change our Privacy Policy, we will post those changes or the amended Privacy Policy on our website. We reserve the right to amend this Privacy Policy at any time. 
 
-**2.** **WHEN WILL SHOPEE COLLECT PERSONAL DATA?**
+**2.**   **WHEN WILL SHOPEE COLLECT PERSONAL DATA?**
 
 2.1 We will/may collect personal data about you: 
 
@@ -148,7 +148,7 @@ From time-to-time, we may request information from Users via surveys. Participat
 
 **11\. SHARING OF INFORMATION FROM THE SERVICES**
 
-**** Our Services enable Users to share personal information with each other, in almost all occasions without Shopee’s involvement, to complete transactions. In a typical transaction, Users may have access to each other’s name, user ID, email address and other contact and postage information. Our Terms of Service require that Users in possession of another User’s personal data (the “Receiving Party”) must (i) comply with all applicable Privacy Laws; (ii) allow the other User (the “Disclosing Party”) to remove him/herself from the Receiving Party’s database; and (iii) allow the Disclosing Party to review what information have been collected about them by the Receiving Party. 
+****Our Services enable Users to share personal information with each other, in almost all occasions without Shopee’s involvement, to complete transactions. In a typical transaction, Users may have access to each other’s name, user ID, email address and other contact and postage information. Our Terms of Service require that Users in possession of another User’s personal data (the “Receiving Party”) must (i) comply with all applicable Privacy Laws; (ii) allow the other User (the “Disclosing Party”) to remove him/herself from the Receiving Party’s database; and (iii) allow the Disclosing Party to review what information have been collected about them by the Receiving Party.
 
 **12\. HOW DOES SHOPEE PROTECT CUSTOMER INFORMATION?**
 
@@ -196,7 +196,7 @@ Your personal data and/or information may be transferred to, stored or processed
 
 **18\. HOW CAN YOU OPT-OUT, REMOVE, REQUEST ACCESS TO OR MODIFY INFORMATION YOU HAVE PROVIDED TO US?**
 
-18.1 __Opting Out and Withdrawing Consent__
+18.1 _  _Opting Out and Withdrawing Consent__
 
 18.1.1 To modify your email subscriptions, please let us know by sending an email to our Personal Data Protection Officer at the address listed below. Please note that due to email production schedules, you may still receive emails that are already in production. 
 
@@ -206,7 +206,7 @@ Your personal data and/or information may be transferred to, stored or processed
 
 18.1.4 However, your withdrawal of consent could result in certain legal consequences arising from such withdrawal. In this regard, depending on the extent of your withdrawal of consent for us to process your personal data, it may mean that we will not be able to continue providing the Services to you, we may need to terminate your existing relationship and/or the contract you have with us, etc., as the case may be, which we will inform you of. 
 
-18.2 __Requesting Access and/or Correction of Personal Data__
+18.2  _ _Requesting Access and/or Correction of Personal Data__
 
 18.2.1 If you have an account with us, you may personally access and/or correct your personal data currently in our possession or control through the Account Settings page on the Site. If you do not have an account with us, you may request to access and/or correct your personal data currently in our possession or control by submitting a written request to us. We will need enough information from you in order to ascertain your identity as well as the nature of your request so as to be able to deal with your request. Hence, please submit your written request by sending an email to our Personal Data Protection Officer at the email address listed below in Section 19.2. 
 
@@ -226,15 +226,15 @@ Your personal data and/or information may be transferred to, stored or processed
 
 **19\. QUESTIONS, CONCERNS OR COMPLAINTS? CONTACT US**
 
-19.1 If you have any questions or concerns about our privacy practices or your dealings with the Services, please do not hesitate to contact: [support@shopee.sg](mailto:support@shopee.sg). 
+19.1 If you have any questions or concerns about our privacy practices or your dealings with the Services, please do not hesitate to contact:[support@shopee.sg](mailto:support@shopee.sg). 
 
 19.2 If you have any complaint or grievance regarding how we are handling your personal data or about how we are complying with Privacy Laws, we welcome you to contact us with your complaint or grievance. 
 
 Please contact us through email with your complaint or grievance: 
 
-E-mail: [dpo@shopeemobile.com](mailto:dpo@shopeemobile.com) and Attention it to the "Personal Data Protection Officer". 
+E-mail: [dpo@shopeemobile.com](mailto:dpo@shopeemobile.com) and Attention it to the "Personal Data Protection Officer". 
 
-Please send all legal notices to [legal@shopeemobile.com](mailto:legal@shopeemobile.com) and Attention it to the “General Counsel”. 
+Please send all legal notices to [legal@shopeemobile.com](mailto:legal@shopeemobile.com) and Attention it to the “General Counsel”. 
 
 19.3 Where it is an email or a letter through which you are submitting a complaint, your indication at the subject header that it is a Privacy Law complaint would assist us in attending to your complaint speedily by passing it on to the relevant staff in our organisation to handle. For example, you could insert the subject header as “Privacy Complaint”. 
 
