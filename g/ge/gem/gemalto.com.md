@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gemalto.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521170737id_/http%3A//www.gemalto.com/companyinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemalto.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222194321id_/http%3A//www.gemalto.com/companyinfo/privacy-policy) for the most accurate reproduction.*
 
 # Gemalto's Privacy Policy
 
-Effective date: 30 June, 2014
+​​Effective date: 30 June, 2014
 
 ## Introduction
 
@@ -28,11 +28,17 @@ Note that by using our On-Line Service you are consenting to our use of the info
   1. **Technical information we obtain when you use our On-Line Service**. As you may know, when you access a website or use a mobile application there is some information that is automatically recorded. Our On-Line Service is not different. These are the type of technical information we are recording: 
     1. When you visit, access or use our On-Line Service our servers automatically collect and retain information based on that usage. Website log data may contain your Internal Protocol address, the address of the webpage you visited, your browser type and settings, thE date and time of your access, how you used the On-Line Service and other web tracking features (below we are providing you with a detailed explanation on the other web tracking features we use).
     2. We may also collect information about the device (PC, MAC, mobile phone, tablet, etc.) you are using to connect to the On-Line Service. Such information may include the type of device, the operating system you are using, device settings, and unique device identifiers. The collection of this information depends on the device you are using and its settings. To learn about the information your device makes available you should check the policies of your device manufacturer or software provider.
-  2. **Information you voluntarily provide.** When you click on the link “Subscribe to Our Newsletters” we give you the option to subscribe to our Newsletters, press releases and the Review magazine. If you decide to subscribe you voluntarily provide us with certain identifying information such as your name (first and last), address, company name and e-mail address, as well as any areas of interest. 
+  2. ****
 
-Likewise if you decide to contact us using the “Get in touch with us” form, you voluntarily provide us with certain identifying information such as your name (first and last), your country, and e-mail address.
+**Information you voluntarily provide.** When you click on the link "Subscribe to Our Newsletters" we give you the option to subscribe to our Newsletters, press releases and the Review magazine. If you decide to subscribe you voluntarily provide us with certain identifying information such as your name (first and last), address, company name and e-mail address, as well as any areas of interest. 
 
-  3. **Web tracking features we use.**
+Likewise if you decide to contact us using the "Get in touch with us" form, you voluntarily provide us with certain identifying information such as your name (first and last), your country, and e-mail address.
+
+Also, note that when you are registering to our Newsletters, complete the form "Get in touch with us" you are providing us with identifying information that we will be using to also send you marketing communications about the Gemalto group, our products and services, events to which we will be participating and invitation to some events.
+
+​In light of the above, in order to be able to receive our newsletter, benefit from "Get in touch with us" and receive marketing communications from Gemalto, you need a valid email address. The email address that you give to us will to that effect be checked, in order to certify both that you are actually the owner of this address and that the owner of this address authorizes receipt of the newsletter, information related to "Get in touch with us", marketing communications (double opt-in process). Upon your registration for our newsletter, "Get in touch with us" we will save your IP address and the time and date of your registration. This serves for our part as a safeguard, should a third party attempt to misuse your email address and to subscribe to the newsletter, or "Get in touch with us" without your knowledge.
+
+  3.  **Web tracking features we use.**
     1. **Cookie data.** We put in place a specific [Cookie Policy](https://web.archive.org/companyinfo/cookie-policy) that you can view from the link. The Cookie Policy will describe what is a cookie and why we use cookies. Please note, unless you choose to voluntarily identify yourself to us via our On-Line Service, cookies will not directly indentify you. As you read in the Cookie Policy you have the possibility to refuse cookies by configuring your browser to do so; if you do you may not be able to use some of the features of our On-Line Service and may not be able to access certain parts of our On-Line Service. To be more specific this is an explanation (this not an advice or recommendation of any kind) of the pros and cons of disabling cookies. 
 
 Pros of disabling cookies 
@@ -67,8 +73,8 @@ For purchase products through our On-Line Service we use the service of a third 
 
 ## 4\. What choice do you have about sharing your information?
 
-  1. **You may request to be removed** from marketing communications by visiting this page: [http://www.gemalto.com/companyinfo/optout.html](https://web.archive.org/companyinfo/optout) and requesting that you be unsubscribed from future communications. A link to this page would also be found at the bottom of our e-mails pushing the information to you. 
-  2. **You may update or change your registration information** via [http://www.gemalto.com/companyinfo/subscription.html](https://web.archive.org/companyinfo/subscription).
+  1. **You may request to be removed** from marketing communications by visiting this page: [http://www.gemalto.com/companyinfo/optout](https://web.archive.org/companyinfo/optout) and requesting that you be unsubscribed from future communications. A link to this page would also be found at the bottom of our e-mails pushing the information to you. 
+  2. **You may update or change your registration information** via [http://www.gemalto.com/companyinfo/subscription](https://web.archive.org/companyinfo/subscription)
   3. **Since the platform where you information is processed** is located in France please note this benefit: all candidates having access rights may obtain, modify or delete information about themselves (article 38 of the French law n° 78-17 of the 6th January 1978 on Data Processing, Data Files and Individual Liberties).
 
 
@@ -141,7 +147,7 @@ In the event that we go through a business transition, such as a merger, acquisi
 
 ## 10\. Changes to this policy 
 
-We reserve the right to amend or update this privacy policy at any time. You can always review the most current version of this privacy policy at any time at: [www.gemalto.com/companyinfo/privacy_policy.html](https://web.archive.org/companyinfo/privacy-policy). Pay attention to the effective date of the privacy policy appearing at the top of it since it indicates the privacy policy applicable. If we decide to modify the privacy policy, we will post an announcement on the On-Line Service. We could also send you an e-mail prior to the change becoming effective. Once the change is effective please understand that your continued use of the On-Line Service demonstrates your agreement to the changes to the privacy policy. If you do not want to be bound by the changes to the privacy policy you have to cease using the On-Line Service.
+We reserve the right to amend or update this privacy policy at any time. You can always review the most current version of this privacy policy at any time at: [www.gemalto.com/companyinfo/privac​y-policy​](https://web.archive.org/companyinfo/privacy-policy). Pay attention to the effective date of the privacy policy appearing at the top of it since it indicates the privacy policy applicable. If we decide to modify the privacy policy, we will post an announcement on the On-Line Service. We could also send you an e-mail prior to the change becoming effective. Once the change is effective please understand that your continued use of the On-Line Service demonstrates your agreement to the changes to the privacy policy. If you do not want to be bound by the changes to the privacy policy you have to cease using the On-Line Service.
 
 ## 11\. Do not track for resident of the state of California (U.S.A)
 
