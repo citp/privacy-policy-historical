@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418025600id_/http%3A//indianrailwayemployee.com/d6ire/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222073505id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Railway Employee
 
-[](http://indianrailwayemployee.com/d6ire/print/1042 "Display a printer-friendly version of this page.")
+[](http://indianrailwayemployee.com/print/1042 "Display a printer-friendly version of this page.")
 
 _Privacy Policy for indianrailwayemployee.com_
 
@@ -27,10 +27,10 @@ indianrailwayemployee.com has no access to or control over these cookies that ar
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. indianrailwayemployee.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-  * [](https://web.archive.org/d6ire/print/1042 "Display a printer-friendly version of this page.")
+  * [](https://web.archive.org/print/1042 "Display a printer-friendly version of this page.")
 
 
 
-To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20150418025600id_/http%3A//indianrailwayemployee.com/d6ire/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
+To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20151222073505id_/http%3A//indianrailwayemployee.com/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
 
 Custom Search 
