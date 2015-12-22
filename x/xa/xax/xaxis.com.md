@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061555id_/http%3A//www.xaxis.com/static/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222085022id_/https%3A//www.xaxis.com/static/view/privacy-policy) for the most accurate reproduction.*
 
 # Xaxis Privacy Policy
 
@@ -18,7 +18,7 @@ For information on how we collect and use information that is collected directly
 
 **Xaxis’s Services**
 
-Xaxis provides a range of services to its clients, including advertisers and publishers.  Xaxis’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; paid search placement; search engine optimization; and audience segmentation and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.  For purposes of this privacy policy, Xaxis’s Services do not include the services of the Light Reaction performance marketing unit.  For information on how Light Reaction collects and uses information through its services (as opposed to the collection and use of information through the Services or on this website), please [click here](http://lightreaction.com/PrivacyPolicyUS.pdf).
+Xaxis provides a range of services to its clients, including advertisers and publishers.  Xaxis’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; paid search placement; search engine optimization; and audience segmentation and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.  For purposes of this privacy policy, Xaxis’s Services do not include the services of the Light Reaction performance marketing unit.  For information on how Light Reaction collects and uses information through its services (as opposed to the collection and use of information through the Services or on this website), please [click here](http://lightreaction.com/en/policy_us/).
 
 **Types of Information We Collect through Our Services**
 
