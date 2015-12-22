@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504060124id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222074610id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Latest in Bollywood, Movie Review, tv news & Celebrity hot photos
 
