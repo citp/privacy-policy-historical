@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080127id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222091140id_/http%3A//alberta.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
-# backpage.com
+# Alberta classifieds for apts, jobs, and items for sale - backpage.com
 
 **Privacy Policy  
-Last Revised: _January 9, 2014_**
+Last Revised: _June 1, 2015_**
 
 backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
@@ -13,7 +13,7 @@ Each time you access, use, post, submit a post or reply, or browse the Site, you
 
 **Collection and Use of Personal Information**
 
-We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number,billing and shipping information, order history, and other non-public information about you.
+We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number, telephone numbers, billing and shipping information, order history, and other non-public information about you.
 
 We may use the information we collect to: 
 
@@ -24,27 +24,29 @@ We may use the information we collect to:
   *      Process and respond to your inquires; 
   *      Improve the Site; 
   *      Administer, monitor and control use of the Site, including posts, replies, and account information; and 
-  *      Enforce the [Terms of Use](https://web.archive.org/en-us/online/TermsOfUse) (collectively, the “Activities”).
+  *      Enforce the [Terms of Use](https://web.archive.org/en-ca/online/TermsOfUse) (collectively, the “Activities”).
 
 
 
-You authorize the Site to transmit email to you to respond to your communications and administer Activities.
+You authorize the Site to transmit email to you to respond to your communications and administer Activities. If you choose to receive mobile notifications, you authorize and agree that the Site may send text messages to your mobile phone, and you will be responsible for any message or data charges that may apply..
 
  **Disclosure of Personal Information to Third Parties**
 
 We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you. 
 
-**Disclosure in Special Circumstances**
+**Disclosure in Other Circumstances**
 
-We may disclose also your name, email address, or other information about you, including personal information, if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger.  We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
+We may also disclose your name, email address, telephone numbers, or other information about you, including personal information if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger.  We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
 
 Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public.
 
 **Collection of Non-Personal Information Using Cookies**
 
-We automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Sites.  Non-personal information includes without limitation your Internet Protocol (“IP”) address, cookie information (as described below), the pages you request, type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site, and the content you accessed. 
+We and certain service providers operating on our behalf collect information about your activity on our Site using tracking technologies such as cookies. This tracking data is used for many purposes, including, for example, to (i) deliver relevant content based on your preferences, usage patterns and location; (ii) monitor and evaluate the use and operation of our Site; and (iii) analyze traffic on our Site and on the sites of third parties. 
 
-“Cookies” are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
+Non-personal information collected includes, without limitation, your Internet Protocol (“IP”) address, the pages you request, the type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome or Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site and the content you accessed. We may also collect your geolocation information when you visit our Site, including location information either provided by a mobile device interacting with our Site, or associated with your IP address, where we are permitted by law to process this information. 
+
+Advertisers and third parties also may collect information about your activity on our Site and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see on third-party sites and applications, but does not identify you personally. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers. You may also choose to control targeted advertising you receive within applications by using your mobile device settings (for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads). We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
 
 **Communication from the Site/Opt-Out**
 
@@ -54,26 +56,16 @@ From time to time, we may send you information with announcements and updates ab
 
 If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at [support@backpage.com](mailto:support@backpage.com). You may also have your personal profile data deleted from our database by sending us an email to [support@backpage.com](mailto:support@backpage.com). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
 
-**Notice of Privacy Rights of California Residents**
+ **Contact Us:**
 
-If you are a California resident and have provided personal information to the Site, you are entitled by law to request certain information regarding any disclosure by the Site to third parties of personal information for their direct marketing purposes.  To make such a request, send an email to [support@backpage.com](mailto:support@backpage.com), specifying that you seek your “California Customer Choice Privacy Notice.”  Please allow thirty (30) days for a response.  The Site is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address. 
+Email: [Contact us](http://posting.www.backpage.com/classifieds/Contact)   
+Telephone: +44 1929290057
 
-We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at [support@backpage.com](mailto:support@backpage.com) or mailing your request to:
-
-backpage.com LLC  
-PO Box 192307   
-Dallas, TX 75219 USA
-
-International - not for correspondence  
-Classified Solutions Ltd.  
-The East Stable Thrales End Farm  
-Harpenden, United Kingdom, AL5 3NS
-
-Payment Solutions BV.  
-Strawinskylaan 601, 1077XX,  
-Amsterdam, Netherlands 
-
-When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
+Postal Address:   
+International Correspondence:   
+Payment Solutions BV.   
+Zuidplein 116, Tower H, Level 14,   
+1077XV, Amsterdam, Netherlands 
 
 **Children**
 
