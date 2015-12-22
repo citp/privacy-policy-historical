@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505073313id_/http%3A//www.seotoolset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222172305id_/http%3A//www.seotoolset.com/privacy) for the most accurate reproduction.*
 
 # SEOToolSet Privacy Statement
 
@@ -10,7 +10,7 @@ By visiting SEOToolSet.com, you are accepting the practices described throughout
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on the SEOToolSet® website and subdomains. On some pages, you can use online forms to order products, make requests, and register to receive materials. The types of personal information collected at these pages may include:
+This notice applies to all information collected or submitted on the SEOToolSet™ website and subdomains. On some pages, you can use online forms to order products, make requests, and register to receive materials. The types of personal information collected at these pages may include:
 
   * Name
   * Address
