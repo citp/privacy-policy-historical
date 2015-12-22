@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615011117id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222092833id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
 
-# Lushome
+# Lushome | Interior Design and Decor
 
 **Privacy Policy** **Statement No 51411**
 
@@ -10,14 +10,14 @@ Every purchase from our site using your credit or debit card number we process u
 
 Our privacy policy covers lushome.com
 
-Organization Name: | lushome  
+Organization Name:| lushome  
 ---|---  
-Country: | Canada  
-Controller: | lushome  
+Country:| Canada  
+Controller:| lushome  
 Web Sites(s):  
 | www.lushome.com  
   
-**  
+ **  
 **  
 Providing Visitors with Anonymous Access  
 **  
@@ -33,7 +33,7 @@ When you do so, other visitors may collect your data.
 
 Our Web sites do not include links to third party Web service providers.
 
-**  
+ **  
 Automatic Collection of Information**
 
 We automatically log personal data by means such as programming or we link information  
@@ -57,7 +57,7 @@ individuals. We do so for the following purposes:
 
 
 
-**  
+ **  
 Data Collection and Purpose Specification**
 
 We collect the personal data that you may volunteer while using our services.
@@ -69,7 +69,7 @@ We do not collect or use personal data for any purpose other than that indicated
 
 If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose.
 
-**  
+ **  
 Children’s Privacy**
 
 We do not knowingly collect personal data from children.
@@ -85,12 +85,12 @@ We do not provide information about our personal data practices in relation to c
 our home page, or at those sites on our Web site where we collect personal data.  
 
 
-**  
+ **  
 Disclosure and Visitor Choice**
 
 We do not disclose your personal data to our subsidiaries or other organisations.
 
-**  
+ **  
 Confidentiality / Security**
 
 We do not give visitors to our Web site the option of using a secure transmission method  
@@ -113,7 +113,7 @@ our visitors’ personal data.
 We ensure that your personal data will not be disclosed to State institutions and authorities  
 except if required by law or other regulation.
 
-**  
+ **  
 Access to the personal data we may hold about you**
 
 You can ask us, by:
@@ -154,7 +154,7 @@ but will give reasons for our refusal.
 
 We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
 
-**  
+ **  
 Privacy Compliance**
 
 There are no national laws or self-regulatory schemes applicable to our web site or organisation.
@@ -169,21 +169,21 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 
 Self Assessment procedure
 
-Name or designation of the privacy policy person or service | support  
+Name or designation of the privacy policy person or service| support  
 ---|---  
-URL | www.lushome.com  
-Address |   
-Country | Canada  
+URL| www.lushome.com  
+Address|   
+Country| Canada  
   
-**Privacy Support**
+ **Privacy Support**
 
 If you have an enquiry or concern about our privacy policy, please contact:
 
 Address :Canada
 
-Email address : | support@lushome.com  
+Email address :| support@lushome.com  
 ---|---  
-URL : | www.lushome.com  
+URL :| www.lushome.com  
   
 We do not recommend another means by which visitors’ concerns may be addressed.
 
