@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amazingindiablog.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622204343id_/http%3A//amazingindiablog.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingindiablog.in privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222031543id_/http%3A//amazingindiablog.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy must be read carefully before proceeding
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Amazing India Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the<http://amazingindiablog.in/> website (“Site”).
+This Privacy Policy governs the manner in which Amazing India Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://amazingindiablog.in/> website (“Site”).
 
 ### Personal identification information
 
@@ -60,3 +60,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on May 25, 2015
+
+Last Updated :Monday, August 3, 2015
