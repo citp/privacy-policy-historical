@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the xsellco.com privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614022059id_/http%3A//www.xsellco.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xsellco.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222162056id_/http%3A//www.xsellco.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>XSellco privacy policy | XSellco</title>				<meta name="msvalidate.01" content="8F53DE8B105AA4C618BC196C662E2826">
-		<script async="" charset="utf-8" src="//v2.zopim.com/?1fxoQBmwmLsSElOyzeHq1UyyGmgkOA9p" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KTWMNJ"></script><script src="//cdn.optimizely.com/js/1336770651.js"></script>
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KTWMNJ"></script><script src="//cdn.optimizely.com/js/1336770651.js"></script>
 		<link rel="alternate" href="http://www.xsellco.es" hreflang="es">
 		<link rel="alternate" href="http://www.xsellco.fr" hreflang="fr">
 		<link rel="alternate" href="http://www.xsellco.it" hreflang="it">
@@ -15,6 +15,7 @@
 <meta property="og:type" content="website">
 <meta name="description" content="XSellco privacy policy">
 <meta property="fb:app_id" content="552111084854901">
+		
 		
 		<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
 <!--<script type="text/javascript" src="/js/anon/modernizr.custom.js"></script>-->
@@ -28,121 +29,42 @@
 	worky.base_url = "/";
 		worky.use_minified_scripts = true;
 	//worky.google_api_key = "";
-	worky.csrf_token = "ptA2D0h18Ww05xky9B6JPAtt6zGgfBK0qMbfw1AVA6Aj1FQmfDDQhYy63kdpVp8NZ4GHCSMZdW94699KDxQ6w0HffhQW5aC1WRzrD3GjG32DKvWkSVdmGf4x9mK8JTpj";
+	worky.csrf_token = "NCXz1SZ8xTqbh0wbJMQT7pcKbfswJRHxczyPT2QtqMF72h4gG2hcmxfnzv59hJ9dTQPaPNhFkq3WNP3Hsa6adHJAtWZxBxKJssPXpqZ4rKZn085R9ZzWsYdm5kHkZHXj";
 	// ]]>
 </script>
 
-<script type="text/javascript" src="//www.google.com/jsapi"></script><script type="text/javascript" src="/js/lib.js?=v2"></script><script type="text/javascript" src="/js/app.js?=v2"></script>
-<script type="text/javascript">
-	new WOW().init();
-	$(function () {
-		$('[data-toggle="tooltip"]').tooltip();
-		$('[data-toggle="popover"]').popover();
-		var cookie = getCookie('acceptCookies');
-		if (cookie === null) {
-			//alert(111);
-			$('.cookie-policy').removeClass('hide');
-		}
-		$('#acceptCookies').on('click', function () {
-			setCookie('acceptCookies', true, 365);
-			$('.cookie-policy').addClass('hide');
-		});
-		$('.js-menu').click(function () {
-			$('.menu ul').toggleClass('active')
-		});
+<script type="text/javascript" src="//www.google.com/jsapi"></script><script type="text/javascript" src="/js/lib.js?=v2.9"></script><script type="text/javascript" src="/js/app.js?=v2.9"></script>
 
-		$('.js-dashboard-login').click(function () {
-			window.location = "https://dashboard.xsellco.com";
-		});
-		$('.js-dashboard-register').click(function () {
-			window.location = "https://dashboard.xsellco.com/register";
-		});
-		$('.js-currency button').click(function () {
-			var cur = $(this).data('currency');
-			setCurrencyButton(cur);
-		});
-		function setPrice(cur, symbol) {
-			$('.js-pricing .price').each(function () {
-				var pricing = JSON.parse($(this).find('.value').attr('data-price'));
-				$(this).find('.value').html(symbol + pricing[cur].toFixed(0));
-			});
-			$('.js-additional-ticket').each(function () {
-				var pricing = JSON.parse($(this).attr('data-price'));
-				var txt = "Additional tickets can be purchased for " + symbol + pricing[cur].toFixed(0) + " for 2500 Tickets";
-				$(this).attr('data-content', txt);
-			});
-		}
-		function setCurrencyButton(cur) {
-			var btn = $('.js-currency button[data-currency="' + cur + '"]');
-			var symbol = btn.data('currencysymbol');
-			setPrice(cur, symbol);
-			$('.js-currency button').removeClass('active');
-			btn.addClass('active');
-			$('.js-currency').data('location', cur);
-		}
-		var loc = $('.js-currency').data('location');
-		if (loc) {
-			setCurrencyButton(loc);
-		} else {
-			setCurrencyButton('eur');
-		}
-	});
-	function setCookie(c_name, value, exdays) {
-		var exdate = new Date();
-		exdate.setDate(exdate.getDate() + exdays);
-		var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
-		document.cookie = c_name + "=" + c_value;
-	}
-	function getCookie(c_name) {
-		var c_value = document.cookie;
-		var c_start = c_value.indexOf(" " + c_name + "=");
-		if (c_start == -1)
-		{
-			c_start = c_value.indexOf(c_name + "=");
-		}
-		if (c_start == -1)
-		{
-			c_value = null;
-		}
-		else
-		{
-			c_start = c_value.indexOf("=", c_start) + 1;
-			var c_end = c_value.indexOf(";", c_start);
-			if (c_end == -1)
-			{
-				c_end = c_value.length;
-			}
-			c_value = unescape(c_value.substring(c_start, c_end));
-		}
-		return c_value;
-	};
-//	var win = $(window);
-//	var win_height_padded = win.height() * 1.1;
-//	var isTouch = false;
-//	win.on('scroll', revealOnScroll);
-//	function revealOnScroll() {
-//		var scrolled = win.scrollTop();
-//		$(".animate-on-scroll:not(.animated)").each(function () {
-//			var $this = $(this),
-//					offsetTop = $this.offset().top;
-//
-//			if (scrolled + win_height_padded > offsetTop) {
-//				if ($this.data('timeout')) {
-//					window.setTimeout(function () {
-//						$this.addClass('animated ' + $this.data('animation'));
-//					}, parseInt($this.data('timeout'), 10));
-//				} else {
-//					$this.addClass('animated');
-//				}
-//			}
-//		});
-//	}
+
+
+<script type="text/javascript">
+   adroll_adv_id = "X5RJ72QX7FDRLH3UV7ZTXP";
+   adroll_pix_id = "6WG5ORAVLBDQPJOV24RKLT";
+   (function () {
+       var _onload = function(){
+           if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+           if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+           var scr = document.createElement("script");
+           var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+           scr.setAttribute('async', 'true');
+           scr.type = "text/javascript";
+           scr.src = host + "/j/roundtrip.js";
+           ((document.getElementsByTagName('head') || [null])[0] ||
+               document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+       };
+       if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+       else {window.attachEvent('onload', _onload)}
+   }());
 </script>
 
 
-	<link rel="stylesheet" href="/css/lib/animate.css?v=2.0.1">
-	<link rel="stylesheet" href="/css/anon.v2.min.css?v=2.0.4">
-	</head>
+	<link rel="stylesheet" href="/css/anon.v2.min.css?v=2.7">
+
+<script type="text/javascript" src="http://mialbj6.com/js/28745.js">
+</script>
+<noscript>
+<img src="http://mialbj6.com/images/track/28745.png?trk_user=28745&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;" />
+</noscript>	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body itemscope="" itemtype="http://schema.org/WebPage">
 		<!-- Google Tag Manager -->
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KTWMNJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -216,19 +138,25 @@
 				<small>CRM</small>
 			</a>
 		</li>
-				<li class="menu-item-blog">
+		<li class="menu-item-high5 ">
+			<a href="/high5">
+				<span>High5</span>
+				<small>Feedback</small>
+			</a>
+		</li>
+												<li class="menu-item-blog">
 			<a href="//www.xsellco.com/blog">
 				<span>Blog</span>
 				<small>latest updates</small>
 			</a>
 		</li>
 		<li class="menu-item-about ">
-			<a href="/about">
-				<span>About us</span>
-				<small>Our Mission</small>
+			<a href="/partners">
+				<span>Partners</span>
+				<small>We trust</small>
 			</a>
 		</li>
-		<li class="menu-item-dashboard">
+				<li class="menu-item-dashboard">
 			<a href="https://dashboard.xsellco.com/login">
 				<span>Login</span>
 				<small>Dashboard</small>
@@ -238,7 +166,7 @@
 </div>				</div>
 			</div>
 		</header>
-						<section class="hero-main logo_row_container">
+						<section class="hero hero-main logo_row_container">
 		<div class="container">
 <h1 class="innerheading text-center">Privacy policy</h1>
 </div>		</section>
@@ -275,120 +203,62 @@
 
 
 		<div class="notranslate">
-		<section class="footer footer_container">
+		<section class="footer text-center footer_darker">
+	<div class="text-center text-lg text-uppercase">
+		<b>
+			<a href="/support">Find help</a>,
+			<a href="/contact">contact us</a>
+									or call us on <a href="tel:+19176882333">
+				+1 917-688-2333			</a>
+		</b>
+	</div>
+</section>
+<section class="footer footer_container">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
-				<h4><a href="/support">Support</a></h4>
-				<ul class="list-unstyled">
-					<li><a href="/support/category/general">General Tips</a></li>
-					<li>
-						<a href="/support/category/fusion">Fusion Help</a>
-						<ul class="list-unstyled">
-							<li><a href="/support/category/configuration-fusion">Fusion Configuration</a></li>
-							<li><a href="/support/category/tips-fusion">Fusion Tips</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="/support/category/repricer">Repricer Help</a>
-						<ul class="list-unstyled">
-							<li><a href="/support/category/repricer/configuration">Repricer Configuration</a></li>
-							<li><a href="/support/category/repricer/tips-repricer">Repricer Tips</a></li>
-						</ul>
-					</li>
-					<li><a href="/contact">Ask a question</a></li>
-				</ul>
+			<div class="col-md-3">
+				<h4>Dublin</h4>
+				<a itemprop="telephone" href="tel:+35316760777">+353 1 676 0777</a>
+				<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">21 Clanwilliam Square
+						<br>Grand Canal Quay</span>
+					<br><span itemprop="addressLocality">Dublin 2</span>
+					<br><span itemprop="addressCountry">Ireland</span>
+				</p>
 			</div>
-			<div class="col-md-4">
-				<h4><a href="/about">About Us</a></h4>
-				<ul class="list-unstyled">
-					<li><a href="/fusion">XSellco Fusion</a></li>
-					<li><a href="/repricer">XSellco Price Manager</a></li>
-					<li><a href="/partners">Partners</a></li>
-					<li><a href="/testimonials">Testimonials</a></li>
-					<li><a href="/about">About Us</a></li>
-					<li><a href="/blog">Blog</a></li>
-					<li><a href="/support">Support</a></li>
-					<li><a href="/contact">Contact</a></li>
-				</ul>
+			<div class="col-md-3">
+				<h4>London</h4>
+				<a itemprop="telephone" href="tel:+442033224848">+44 20 3322 4848</a>
+				<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">3 Devonshire Street</span>
+					<br><span itemprop="addressLocality">Marylebone
+						<br>London</span>
+					<br><span itemprop="postalCode">W1W 5DT</span>
+					<br><span itemprop="addressCountry">United Kingdom</span>
+				</p>
 			</div>
-			<div class="col-md-4">
-				<h4><a href="/contact">Contact</a></h4>
-				<div role="tabpanel">
-					<!-- Nav tabs -->
-					<ul class="nav nav-tabs nav-tabs-vertical" role="tablist">
-						<li role="presentation" class="active">
-							<a href="#contact-dublin" aria-controls="contact-dublin" role="tab" data-toggle="tab">
-								Dublin							</a>
-						</li>
-						<li role="presentation">
-							<a href="#contact-london" aria-controls="contact-london" role="tab" data-toggle="tab">
-								London							</a>
-						</li>
-						<li role="presentation">
-							<a href="#contact-frankfurt" aria-controls="contact-frankfurt" role="tab" data-toggle="tab">
-								Frankfurt							</a>
-						</li>
-						<li role="presentation">
-							<a href="#contact-nyc" aria-controls="contact-nyc" role="tab" data-toggle="tab">
-								NYC							</a>
-						</li>
-					</ul>
-
-					<!-- Tab panes -->
-					<div class="tab-content">
-						<div role="tabpanel" class="tab-pane active" id="contact-dublin">
-							<a itemprop="telephone" href="tel:+35316760777">+353 1 676 0777</a>
-							<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-								<span itemprop="streetAddress">21 Clanwilliam Square
-									<br>Grand Canal Quay</span>
-								<br><span itemprop="addressLocality">Dublin 2</span>
-								<br><span itemprop="addressCountry">Ireland</span>
-							</p>
-						</div>
-						<div role="tabpanel" class="tab-pane" id="contact-london">
-							<a itemprop="telephone" href="tel:+442033224848">+44 20 3322 4848</a>
-							<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-								<span itemprop="streetAddress">3 Devonshire Street</span>
-								<br><span itemprop="addressLocality">Marylebone
-									<br>London</span>
-								<br><span itemprop="postalCode">W1W 5DT</span>
-								<br><span itemprop="addressCountry">United Kingdom</span>
-							</p>
-						</div>
-						<div role="tabpanel" class="tab-pane" id="contact-frankfurt">
-							<a itemprop="telephone" href="tel:+4969643508474">+49-69643508474</a>
-							<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-								<span itemprop="streetAddress">Lyoner Straße 14</span>
-								<br><span itemprop="postalCode">60528</span> <span itemprop="addressLocality">Frankfurt</span>
-								<br><span itemprop="addressCountry">Germany</span>
-							</p>
-						</div>
-						<div role="tabpanel" class="tab-pane" id="contact-nyc">
-							<a itemprop="telephone" href="tel:+19176882333">+1 917-688-2333</a>
-							<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-								<span itemprop="streetAddress">280 Madison Avenue
-									<br>#912 - 9th Floor</span>
-								<br><span itemprop="addressLocality">New York</span>
-								<br><span itemprop="addressRegion">NY</span> <span itemprop="postalCode">10016</span>
-								<br><span itemprop="addressCountry">USA</span>
-							</p>
-						</div>
-
-					</div>
-
-				</div>
-
+			<div class="col-md-3">
+				<h4>Frankfurt</h4>
+				<a itemprop="telephone" href="tel:+4969643508474">+49-69643508474</a>
+				<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">Lyoner Straße 14</span>
+					<br><span itemprop="postalCode">60528</span> <span itemprop="addressLocality">Frankfurt</span>
+					<br><span itemprop="addressCountry">Germany</span>
+				</p>
+			</div>
+			<div class="col-md-3">
+				<h4>NYC</h4>
+				<a itemprop="telephone" href="tel:+19176882333">+1 917-688-2333</a>
+				<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">280 Madison Avenue
+						<br>#912 - 9th Floor</span>
+					<br><span itemprop="addressLocality">New York</span>
+					<br><span itemprop="addressRegion">NY</span> <span itemprop="postalCode">10016</span>
+					<br><span itemprop="addressCountry">USA</span>
+				</p>
 			</div>
 		</div>
-
-
-
-
-
-
-
-		<hr>
+				<hr>
 		<div class="row">
 			<div class="col-md-6">
 				<div class="get-social">
@@ -404,16 +274,42 @@
 					<a href="http://www.linkedin.com/company/xsellco">
 						<i class="fa fa-linkedin-square"></i>
 					</a>
+					<a onclick="ga('send', 'event', 'App_Downloads', 'Clicked', 'IOS');" href="/app?download=ios" class="app-button">
+						<img src="/images/app/btn-apple.png" alt="Download from App Store" style="vertical-align: top" height="38">
+					</a>
+					<a onclick="ga('send', 'event', 'App_Downloads', 'Clicked', 'Android');" href="/app?download=android" class="app-button">
+						<img src="/images/app/btn-google.png" alt="Download from Google Play" style="vertical-align: top" height="38">
+					</a>
 				</div>
+				<small>
+					© 2015 XSellco Software Limited.				</small>
 			</div>
 			<div class="col-md-6">
-				<div class="copyright-container pull-right">
-					© 2015 XSellco Limited.				</div>
+				<div class="clearfix">
+					<ul class="list-inline pull-right">
+						<li><a href="/fusion">XSellco Fusion</a></li>
+						<li><a href="/repricer">XSellco Price Manager</a></li>
+						<li><a href="/high5">XSellco High5</a></li>
+						<li><a href="/partners">Partners</a></li>
+						<li><a href="/testimonials">Testimonials</a></li>
+					</ul>
+				</div>
+				<div class="clearfix">
+					<ul class="list-inline pull-right">
+						<li><a href="/app">Download the app</a></li>
+						<li><a href="/careers">Careers</a></li>
+						<li><a href="/blog">Blog</a></li>
+						<li><a href="/support">Help &amp; Support</a></li>
+						<li><a href="/about">About us</a></li>
+						<li><a href="/contact">Contact us</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 		</div>
+
 		<a href="#" class="scrollup"><i class="fa fa-angle-double-up"></i></a>
 
 
@@ -424,52 +320,7 @@
 				</div>
 			</div>
 		</div>
-
-		<script type="text/javascript">
-
-			$(document).ready(function () {
-				$(document).scroll(function () {
-					if ($(this).scrollTop() > 166) {
-						$('.scrollup').fadeIn();
-					} else {
-						$('.scrollup').fadeOut();
-					}
-				});
-
-				$('.scrollup').click(function () {
-					$("html, body").animate({scrollTop: 0}, 500);
-					return false;
-				});
-//				$('#toggle-chat').click(function (e) {
-//					e.preventDefault();
-//					$zopim.livechat.window.show();
-//				})
-			});
-		</script>
-
-		<!--Start of Zopim Live Chat Script-->
-		<script type="text/javascript">
-			window.$zopim || (function (d, s) {
-				var z = $zopim = function (c) {
-					z._.push(c)
-				}, $ = z.s =
-						d.createElement(s), e = d.getElementsByTagName(s)[0];
-				z.set = function (o) {
-					z.set.
-							_.push(o)
-				};
-				z._ = [];
-				z.set._ = [];
-				$.async = !0;
-				$.setAttribute('charset', 'utf-8');
-				$.src = '//v2.zopim.com/?1fxoQBmwmLsSElOyzeHq1UyyGmgkOA9p';
-				z.t = +new Date;
-				$.
-						type = 'text/javascript';
-				e.parentNode.insertBefore($, e)
-			})(document, 'script');
-		</script>
-		<!--End of Zopim Live Chat Script-->
-	
+		<!-- XSellco widget 6c67993 --><script>(window._xsq||function(x,s){window._xsq=[];var c,b,a=document.createElement("iframe");a.src="javascript:false";a.title="";a.role="presentation";(a.frameElement||a).style.cssText="display: none";document.body.appendChild(a);try{b=a.contentWindow.document}catch(f){c=document.domain,a.src="javascript:var d=document.open();d.domain='"+c+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){var a=this.createElement("script");c&&(this.domain=c);a.id="js-iframe-async";a.src="https://"+x+s;this.body.appendChild(a)};b.write('<body onload="document._l();">');b.close();return _xsq})("widgets.xsellco.com","/js/widgets.js").push(["load","6c67993",document.scripts[document.scripts.length-1]]);</script><iframe src="javascript:false" title="" style="display: none;"></iframe><!-- End XSellco widget 6c67993 -->
+			
 
 </body></html>
