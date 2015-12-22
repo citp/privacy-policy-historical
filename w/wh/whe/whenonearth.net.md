@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whenonearth.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001222id_/http%3A//whenonearth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whenonearth.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222035502id_/http%3A//whenonearth.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | When On Earth - For People Who Love Travel
+# Privacy Policy | When On Earth - For People Who Love Travel
 
 **Information we get from your use of our services.  **We may collect information about the services that you use and how you use them, including, but not limited to when you visit different parts of our site or applications and what selections you make on the services. We may also automatically collect certain technical information such as: 
 
