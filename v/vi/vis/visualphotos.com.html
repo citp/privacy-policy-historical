@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visualphotos.com privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614235342id_/http%3A//www.visualphotos.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visualphotos.com privacy policy that was archived on 2015-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222222559id_/http%3A//www.visualphotos.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
@@ -37,7 +37,7 @@
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css">
 
 <script type="text/javascript" src="catalog/view/javascript/search.js"></script>    
-    
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
         <!-- fire plugin onDocumentReady -->
 <!--
@@ -45,6 +45,7 @@
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/visualphotos/stylesheet/carouvisual.css" media="all"/>
 -->
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">   
+
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
     
                <script>
@@ -67,6 +68,8 @@
   ga('send', 'pageview');
 
 </script><script>
+
+
 $(function() {
     $("a[href=#menuExpand]").click(function(e) {
         $("#menumain").toggleClass("menumain_height");
@@ -74,7 +77,24 @@ $(function() {
         
         e.preventDefault();
     });
+
+    $('#search_white_search').on('keyup keypress', function(e) {
+      if (typeof searchadvance == 'function') { 
+       var code = e.keyCode || e.which;
+       if (code == 13) { 
+        e.preventDefault();
+        searchadvance();
+        return false;
+      }
+    }
+     
+    });
+
 });
+
+
+
+
 </script>
 <style>
 .list_carousel li {
@@ -85,6 +105,7 @@ $(function() {
 .text_image {
     background-color: #ffffff;
     margin-top: 5px;
+    text-align: center;
 }
 .image_car {
     height: 113px;
@@ -124,11 +145,13 @@ $(function() {
       </div>
         <div>
           <span>
-                     <a href="http://www.visualphotos.com/index.php?route=account/login">sign in</a>  | <a href="http://www.visualphotos.com/index.php?route=account/register">register</a> |                     </span>&nbsp;&nbsp;
+                     <a href="https://www.visualphotos.com/index.php?route=account/login">sign in</a>  | <a href="https://www.visualphotos.com/index.php?route=account/register">register</a> |                     </span>&nbsp;&nbsp;
           <a href="#"><img src="catalog/view/theme/visualphotos/image/ipintarest.png" height="20px"></a>
           <a href="#"><img src="catalog/view/theme/visualphotos/image/itwitter.png" height="22px"></a>
           <a href="https://www.facebook.com/pages/visualphotos/340982409318333" target="_blank"><img src="catalog/view/theme/visualphotos/image/ifacebook.png" height="22px"></a>
-          <a href="#"><img src="catalog/view/theme/visualphotos/image/igoogle.png" height="22px"></a>
+          <!--
+<a href="#"><img src="catalog/view/theme/visualphotos/image/igoogle.png" height="22px"/></a>
+-->
         </div>
     </div>
     <div id="menumain" class="header">
@@ -146,15 +169,15 @@ $(function() {
 -->
       <div class="menu">
           <ul>
-              <li><a href="#" class="noimg"><img src="catalog/view/theme/visualphotos/image/home.png" style="margin-top: 6px;"></a></li>
+              <li><a href="/" class="noimg"><img src="catalog/view/theme/visualphotos/image/home.png" style="margin-top: 6px;"></a></li>
               <!--
 <li></li>
 -->
-              <li><a href="http://www.visualphotos.com/index.php?route=checkout/cartvisual">Shopping Cart</a></li>
-              <li><a href="http://www.visualphotos.com/index.php?route=account/lightbox">Lightboxes</a></li>
-              <li><a href="http://www.visualphotos.com/index.php?route=account/download">View history/Downloads</a></li>
-              <li><a href="http://www.visualphotos.com/index.php?route=product/subscription">Subscription</a></li>
-          </ul>
+              <li><a href="https://www.visualphotos.com/index.php?route=checkout/cartvisual">Shopping Cart</a></li>
+              <li><a href="https://www.visualphotos.com/index.php?route=account/lightbox">Lightboxes</a></li>
+              <li><a href="https://www.visualphotos.com/index.php?route=account/download">View history/Downloads</a></li>
+              <li><a href="https://www.visualphotos.com/index.php?route=account/buysuscription">Subscription</a></li>
+                        </ul>
       </div>
     </div>
               <div id="header_search">
@@ -162,7 +185,7 @@ $(function() {
           <a href="http://www.visualphotos.com/index.php?route=common/home"><img src="catalog/view/theme/visualphotos/image/visual_small.png" title="Visualphotos" alt="Visualphotos"></a><div class="text_logo text_logo_gray">Stock Photos | Royalty Free | Royalty Free Photos</div>
         </div>
         <div id="side_search">
-        <form id="search_white_search" action="/index.php?route=product/search">
+        <form id="search_white_search" action="/">
                 <div id="search_icon_search"></div>
                 <input type="text" placeholder="Enter keywords here" name="search" id="txtSearchMain_search" value="">
                 <input type="hidden" name="route" value="product/search">
@@ -211,7 +234,7 @@ $(function() {
 
 <div style="margin-bottom: 15px;">Please be aware that the site may contain links to other sites that do not subscribe to our Privacy Policy. We are not responsible for the privacy practices of other sites and we encourage our users to be aware when they leave our site. Please look for the privacy statements of every website that asks for your personal information.</div>
       </div>
-        <div style="text-align: right"><a href="http://www.visualphotos.com/index.php?route=account/register" class="btn_continue_link btnGray">Continue</a></div>
+        <div style="text-align: right"><a href="http://www.visualphotos.com/index.php?route=common/home" class="btn_continue_link btnGray">Continue</a></div>
   </div>
 </div>
 <div id="footer">
@@ -219,19 +242,19 @@ $(function() {
         <div id="menubottom">
             <div>
                 <ul>
-                                            <li><a href="http://www.visualphotos.com/index.php?route=information/information&amp;information_id=4">About us</a></li>
-                                            <li><a href="http://www.visualphotos.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
-                                            <li><a href="http://www.visualphotos.com/index.php?route=information/information&amp;information_id=5">Legal</a></li>
-                                            <li><a href="http://www.visualphotos.com/index.php?route=information/information&amp;information_id=7">Help</a></li>
-                                            <li><a href="http://www.visualphotos.com/index.php?route=information/information&amp;information_id=8">FAQ</a></li>
+                                            <li><a href="about-us">About us</a></li>
+                                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                                            <li><a href="legal">Legal</a></li>
+                                            <li><a href="help">Help</a></li>
+                                            <li><a href="faq">FAQ</a></li>
                                         
-                    <li><a href="http://www.visualphotos.com/index.php?route=information/contact">Contact Us</a></li>
+                    <li><a href="contact/">Contact Us</a></li>
                     <!--
 <li><a href=""></a></li>
 -->
                     <li><a href="collections/">Collections</a></li>
                     <li><a href="photographers/">Photographers</a></li>
-                    <li><a href="http://www.visualphotos.com/index.php?route=product/site_navigation">Site navigation</a></li>
+                    <li><a href="navigation/">Site navigation</a></li>
                 </ul>
 
             </div>
@@ -245,7 +268,9 @@ $(function() {
             <a href="#"><img src="catalog/view/theme/visualphotos/image/ipintarest.png" height="20px"></a>
           <a href="#"><img src="catalog/view/theme/visualphotos/image/itwitter.png" height="22px"></a>
           <a href="https://www.facebook.com/pages/visualphotos/340982409318333" target="_blank"><img src="catalog/view/theme/visualphotos/image/ifacebook.png" height="22px"></a>
-          <a href="#"><img src="catalog/view/theme/visualphotos/image/igoogle.png" height="22px"></a><br>
+          <!--
+<a href="#"><img src="catalog/view/theme/visualphotos/image/igoogle.png" height="22px"/></a>
+--><br>
             <span> Copyright © 2015  Visualphotos. All rights reserved.</span><br>
             <img src="catalog/view/theme/visualphotos/image/visual_small.png" style="width: 150px;">
         </div>    
@@ -255,36 +280,83 @@ $(function() {
 
 
 <script>
+var slider="";
+var slider_similar="";
+var slider_artist="";
+var slider_rqsimilar="";
+var slider_rqartist="";
+
+
+$( window ).load(function() {
+  // Run code
+  
+});
+
+
 $(document).ready(function() {
-    $('.bxslider').bxSlider({
+
+    slider=$('.bxslider').bxSlider({
           controls: true,
           pager: false,
-          auto: true,
+          auto: false,
+          speed: 200,
+          minSlides: 2,
+          maxSlides: 9,
+          slideWidth: 170,
+          slideMargin: 10
+    });
+    slider_similar=$('.bxslider_similar').bxSlider({
+          controls: true,
+          pager: false,
+          auto: false,
+          speed: 200,
+          minSlides: 2,
+          maxSlides: 9,
+          slideWidth: 170,
+          slideMargin: 10
+    });
+    slider_artist=$('.bxslider_artist').bxSlider({
+          controls: true,
+          pager: false,
+          auto: false,
+          speed: 200,
           minSlides: 2,
           maxSlides: 9,
           slideWidth: 170,
           slideMargin: 10
     });
 
-    $('.bxslider1').bxSlider({
+    slider_rqsimilar=$('.bxslider_rqsimilar').bxSlider({
           controls: true,
           pager: false,
-          auto: true,
+          auto: false,
+          speed: 200,
           minSlides: 2,
           maxSlides: 9,
           slideWidth: 170,
           slideMargin: 10
     });
 
-    $('.bxslider2').bxSlider({
+    slider_rqartist=$('.bxslider_rqartist').bxSlider({
           controls: true,
           pager: false,
-          auto: true,
+          auto: false,
+          speed: 200,
           minSlides: 2,
           maxSlides: 9,
           slideWidth: 170,
           slideMargin: 10
+    });    
+   
+    $('.bxslider_images').bxSlider({
+          controls: true,
+          pager: false,
+          auto: false,
+          speed: 200,
+          adaptiveHeight: true,         
+          
     });
+    
 });
    
 $( "#filters" ).click(function() {
@@ -306,6 +378,33 @@ $( "#filters" ).click(function() {
     }  
 }); 
 
+
+
+$('#gallery').mouseenter(function() {         
+        slider.startAuto();
+     }).mouseleave(function() {       
+        slider.stopAuto();
+    });
+$('#gallery_similar').mouseenter(function() {         
+        slider_similar.startAuto();
+     }).mouseleave(function() {       
+        slider_similar.stopAuto();
+    });
+$('#gallery_artist').mouseenter(function() {         
+        slider_artist.startAuto();
+     }).mouseleave(function() {       
+        slider_artist.stopAuto();
+    });
+$('#galleryrq_similar').mouseenter(function() {         
+        slider_rqsimilar.startAuto();
+     }).mouseleave(function() {       
+        slider_rqsimilar.stopAuto();
+    });
+$('#galleryrq_artist').mouseenter(function() {         
+        slider_rqartist.startAuto();
+     }).mouseleave(function() {       
+        slider_rqartist.stopAuto();
+    });
 </script>
 
 </body></html>
