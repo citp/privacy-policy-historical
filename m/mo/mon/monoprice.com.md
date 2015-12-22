@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2015-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150310002720id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222044126id_/http%3A//www.monoprice.com/help%3Fpn%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,9 +9,9 @@
 
 [](https://privacy.truste.com/privacy-seal/Monoprice,-Inc-/validation?rid=c89405bd-e664-4211-8a4f-1451b16def55 "TRUSTe online privacy certification")
 
-This privacy statement covers the site http://http://www.monoprice.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Monoprice, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and user of your personal information.The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+This privacy statement covers the site http://www.monoprice.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Monoprice, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and user of your personal information.The TRUSTe program covers only information that is collected through this Web site [www.monoprice.com](http://www.monoprice.com/), and does not cover information that may be collected through software downloaded from the site. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through it's leading privacy Trustmark and innovative trust solutions. If you have questions or concerns regarding this statement, you should first contact Monoprice.com Webmaster, at privacy@monoprice.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe using [ TRUSTe's Feedback and Resolution system ](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with Monoprice.com to resolve your concerns. 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through it's leading privacy Trustmark and innovative trust solutions. If you have questions or concerns regarding this statement, you should first contact Monoprice.com Webmaster, at [privacy@monoprice.com](mailto:privacy@monoprice.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe using [ TRUSTe's Feedback and Resolution system ](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with Monoprice.com to resolve your concerns. 
 
 By displaying the TRUSTe trustmark, our website, Monoprice.com has agreed to inform you on:  
 
@@ -42,7 +42,7 @@ You can e-mail us or reach us by telephone at 877-271-2592.
 
 ### Information Collection and Use
 
-At Monoprice.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any identifiable personal information to any third party, unless we are legally required to do so. 
+At Monoprice.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any identifiable personal information to any third party, unless we are legally required to do so and unless otherwise described in this privacy policy. 
 
 ### Order
 
@@ -50,7 +50,7 @@ Most of the information collected in the order process will be used to process o
 
 ### Invite A Friend
 
-If you feel that the services of monoprice.com would be useful for a third party you know (e.g. your friends or family members etc), you may use our referral service. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Monoprice.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you feel that the services of monoprice.com would be useful for a third party you know (e.g. your friends or family members etc), you may use our referral service. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Monoprice.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [privacy@monoprice.com](mailto:privacy@monoprice.com) to request that we remove this information from our database. 
 
 ### Registration
 
@@ -60,56 +60,69 @@ Monoprice.com doesn't have a separate registration form to fill out, however you
 
 If you wish to subscribe our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
 
-### Cookies
+### Tracking Technologies
 
-We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The Monoprice.com shopping cart cannot function without cookies enabled, as the necessary information to process your order is retained within the cookie. If you disable cookies, Monoprice.com will be unable to accept your online order. We will not share any personally identifiable information provided by this cookie with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance. 
+Technologies such as: cookies, beacons, tags and scripts are used by Monoprice, Inc. and our partners Google, Yahoo, Bing, Oracle, Criteo, and Steelhouse, affiliates, or analytics or service providers Google and Microsoft. These technologies are used in analyzing trends, administering the site, tracking users movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Some of our business partners use cookies on our site. We have no access to or control over such cookies used by our business partners. This privacy statement covers the use of cookies by Monoprice.com only and does not cover the use of cookies by any business partners. 
+We use cookies for our shopping cart, to remember users cart id and coupons applied. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.  
+Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
 ### Log Files
 
-We use Internet Protocol (IP) addresses, browser type, and, time of day, to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  
+We do not link this automatically collected data to other information we collect about you. 
+
+### Behavioral Targeting / Re-Targeting
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### Sharing
 
-We may employ third party companies to perform various functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes. 
+We may employ third party companies to perform various functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-  * Authorize.Net Corporation   
-915 South 500 East Suite 200  
-American Fork, UT 84003  
-1-801-492-6450  
-www.authorize.net  
+  * First Data Corporation   
+5565 Glenridge Connector NE, Suite 2000  
+Atlanta, GA 30342  
+1-404-890-2000  
+[www.firstdata.com](http://www.firstdata.com/)  
 
   * PayPal  
 P.O. Box 45950  
 Omaha, NE 68145-0950  
 1-402-935-7733  
-www.paypal.com  
+[www.paypal.com](http://www.paypal.com/)  
 
   * US Postal Service Headquarters  
 475 L'Enfant Plaza, SW  
 Washington DC  
 1-800-ASK-USPS  
-www.usps.com 
-  * California Overnight  
-3401 E. Harbour Drive  
-Phoenix, AZ 85034  
-1-800-334-5000  
-www.calover.com 
+[www.usps.com](http://www.usps.com/)  
+
+  * Golden State Overnight  
+7901 Stoneridge Drive Suite 400  
+Pleasanton, CA 94588  
+1-800-322-5555  
+[www.gso.com](http://www.gso.com/)  
+
   * UPS Corporate Headquarters  
 55 Glenlake Parkway, NE  
 Atlanta , GA 30328  
 United States  
 1-800-PICK-UPS  
-www.ups.com 
+[www.ups.com](http://www.ups.com/)  
+
 
 
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
+If Monoprice, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
 ### Product Reviews
 
-The product reviews section of the Monoprice.com website is for the purpose of our users to share their experiences with our products. The product reviews' section is moderated to ensure accurate and positive testimonials. Published testimonials are genuine and are not edited or altered by Monoprice.com. Monoprice.com reserves the right to post or remove any testimonial at its discretion. 
+The product reviews section of the Monoprice.com website is for the purpose of our users to share their experiences with our products. The product reviews' section is moderated to ensure accurate and positive testimonials. Published testimonials are genuine and are not edited or altered by Monoprice.com. Monoprice.com reserves the right to post or remove any testimonial at its discretion. If you wish to update or delete your testimonial, you can contact us at [privacy@monoprice.com](mailto:privacy@monoprice.com). 
 
 ### Blog
 
@@ -125,11 +138,13 @@ This website contains links to other sites. Please be aware that Monoprice.com i
 
 ### Social Media Widgets
 
-Our Website include Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Website includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ### Security
 
 We employ the latest 128-bit encryption technology in all areas of the site, which requires you to provide your personal or account information, including online ordering, and order status. Your name, your personal information and especially your credit card number are safely stored in our proprietary systems behind our firewall. Once you type your personal information, it is sent instantly, encrypted, directly to our order processing system which is on a server separate from our internet server. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full Secure Socket Layer (SSL) support. 
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@monoprice.com](mailto:privacy@monoprice.com). 
 
 ### Special Offers
 
@@ -143,7 +158,15 @@ If your personal information changes, or if you no longer desire or service, cus
 
 ### Choice/Opt-out
 
-Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling <%=PhoneNumber(2,0)%> or simply send us an email at privacy@monoprice.com with your email address. 
+Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling 877-271-2592 or simply send us an email at [privacy@monoprice.com](emailto:privacy@monoprice.com) with your email address. 
+
+### Safe Harbor
+
+As a subsidiary of Blucora, Inc., we abide by the US-European Union Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union member countries and Switzerland. Our privacy practices with respect to personal data collected from individuals residing in European Union member countries and Switzerland are self-certified to the relevant Safe Harbor Program. For more information about the Safe Harbor Programs, please go to <http://www.export.gov/safeharbor/> . 
+
+If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to [privacy@blucora.com](mailto:privacy@blucora.com). 
+
+For unresolved privacy complaints, we have elected to use the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Program. If you feel we have not addressed your complaint, you can find information about how to file a complaint at <http://go.adr.org/safeharbor> and at [http://www.icdr.org](http://www.icdr.org/). 
 
 ### Notification of Changes
 
@@ -231,8 +254,8 @@ We use SteelHouse marketing tools. Please see their privacy policy below:
 
 We partner with SteelHouse to deliver offers that are relevant to your interests based on what you've viewed on our site. SteelHouse's cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. 
 
-If you have opted out of receiving communications from Monoprice.com, you will still be able to view news of policy changes at www.monoprice.com. Otherwise, you may e-mail us at [support@Monoprice.com](mailto:support@monoprice.com) or call us (877)271-2592 to ask our customer service department about changes and updates.
+If you have opted out of receiving communications from Monoprice.com, you will still be able to view news of policy changes at www.monoprice.com. Otherwise, you may e-mail us at [support@monoprice.com](mailto:support@monoprice.com) or call us 877-271-2592 to ask our customer service department about changes and updates. 
 
 Last Update  
-The Privacy Policy contained herein became officially effective October 3, 2013. 
+This is the official Privacy Policy as of October 29, 2015. 
   *[ASP]: Aplication Service Provider
