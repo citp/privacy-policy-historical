@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052253id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222214423id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statemant - UsingEnglish.com
 
@@ -126,7 +126,7 @@ DC Storm | [www.dc-storm.com](http://www.dc-storm.com/ "www.dc-storm.com")
 Bluestreak | [www.bluestreak.com](http://www.bluestreak.com/ "www.bluestreak.com")  
 Broadband Enterprises/Vindico | [www.bbe.com](http://www.bbe.com/ "www.bbe.com")  
 Cossette | [www.cossette.com](http://www.cossette.com/ "www.cossette.com")  
-Digital Control | [www.digital-control.biz/de.html](http://www.digital-control.biz/de.html)  
+Digital Control | [www.digital-control.biz/](http://www.digital-control.biz/)  
 DoubleClick | [www.doubleclick.com](http://www.doubleclick.com/ "www.doubleclick.com")  
 ebookers SA | [www.ebookers.com](http://www.ebookers.com/ "www.ebookers.com")  
 e-planning | [www.e-planning.net](http://www.e-planning.net/ "www.e-planning.net")  
@@ -158,7 +158,7 @@ In addition to Adsense, this Site sells advertising slots to other third-party a
 Third Party Advertising Vendor | Address  
 ---|---  
 Commission Junction | [www.cj.com](http://www.cj.com/)  
-HotChalk, Inc. | [www.hotchalk.com/network-info/](http://www.hotchalk.com/network-info/)  
+HotChalk, Inc. | [www.hotchalk.com/education-network/](http://www.hotchalk.com/education-network/)  
 i-to-i TEFL | [www.i-to-i.com](http://www.i-to-i.com/)  
 AdMotion | [www.onlinetefl.com](http://www.onlinetefl.com/)  
 Whitesmoke | [www.whitesmoke.com](http://www.whitesmoke.com/)  
