@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomoffun.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621041449id_/http%3A//www.roomoffun.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomoffun.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222025807id_/http%3A//www.roomoffun.com/page/privacy.html) for the most accurate reproduction.*
 
 # We Are Just Having FUN! - The Room Of FUN!
 
