@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523124602id_/http%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222095840id_/http%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Shoptiques
 
 This privacy statement and policy applies to the online electronic commerce services of:
 
 Shoptiques, Inc.  
-270 Bowery Street  
-2nd Floor  
-New York, NY 10012
+40 West 25 Street  
+8th Floor  
+New York, NY 10010
 
 Shoptiques is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers with the level of satisfaction they deserve.
 
