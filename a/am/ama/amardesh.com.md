@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amardesh.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503180350id_/http%3A//www.amardesh.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amardesh.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222183908id_/http%3A//www.amardesh.com/privacypolicy.php) for the most accurate reproduction.*
 
 # - Bangladesh - Amar Desh Online | আমারদেশ অনলাইন
 
