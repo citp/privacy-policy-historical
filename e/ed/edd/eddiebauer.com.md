@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613023953id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222210255id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
 
 # Privacy And Security | Company Information | Eddie Bauer
 
@@ -42,7 +42,7 @@ For more information, including privacy policies, regarding such companies pleas
 
 #### What are "cookies" and how does Eddie Bauer use them?
 
-A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site; provide advertisements that are tailored to your interests; or, customize Web page content. Your information is stored in a safe and secure database. 
+A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site; provide advertisements that are tailored to your interests; or, customize Web page content. 
 
 We do not use cookies to store any of your personal or financial information on your computer. 
 
