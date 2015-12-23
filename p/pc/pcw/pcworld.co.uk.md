@@ -1,117 +1,116 @@
-> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601083655id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223053713id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | PC World
 
   * [Home](http://www.pcworld.co.uk/gbuk/index.html)
-  * [Laptops](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops-703-c.html)
-    * [Laptops](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops-703-c.html)
-    * [MacBook](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops/apple-laptops/703_7009_70009_xx_xx/xx-criteria.html)
-    * [Laptop Accessories](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptop-bags-netbook-cases-705-c.html)
-    * [Mobile broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
+  * [Laptops](http://www.pcworld.co.uk/gbuk/computing/laptops-703-c.html)
+    * [Laptops](http://www.pcworld.co.uk/gbuk/computing/laptops-703-c.html)
+    * [MacBook](http://www.pcworld.co.uk/gbuk/apple-computing/laptops/laptops/703_7006_70006_267_xx/xx-criteria.html)
+    * [Laptop accessories](http://www.pcworld.co.uk/gbuk/computing-accessories/computer-accessories-1071-c.html)
+    * [Mobile broadband](http://www.pcworld.co.uk/gbuk/phones-broadband-and-sat-nav/broadband-1134-c.html)
     * Brand shops
+    * [As advertised on TV](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_70006_xx_xx/-tv_deals-/xx-criteria.html)
     * Learn more about
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.pcworld.co.uk/gbuk/knowhow-computing-369-commercial.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-laptops)
-  * [Desktops](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/desktop-pcs-706-c.html)
-    * [Desktop PCs](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/desktop-pcs-706-c.html)
-    * [Monitors & projectors](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/monitor-projectors-708-c.html)
-    * Brand shops
+    * [Buying for business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-laptops)
+  * [Desktops](http://www.pcworld.co.uk/gbuk/computing/desktop-pcs-1093-c.html)
+    * [Desktop PCs](http://www.pcworld.co.uk/gbuk/computing/desktop-pcs-1093-c.html)
+    * [PC monitors](http://www.pcworld.co.uk/gbuk/computing/pc-monitors/pc-monitors/1075_8226_71275_xx_xx/xx-criteria.html)
+    * [Projectors](http://www.pcworld.co.uk/gbuk/computing/projectors-1094-c.html)
     * Learn more about
+    * Brand shops
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.pcworld.co.uk/gbuk/knowhow-computing-369-commercial.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-desktops)
-  * [iPad, Tablets & Mobile](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders-889-c.html)
-    * [iPad](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders-889-c.html)
-    * [Tablets](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders-889-c.html)
-    * [eReaders](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders-889-c.html)
-    * [Mobile Phones](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/mobile-phones-7564-m.html)
-    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/pay-as-you-go-mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
+    * [Buying for business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-desktops)
+  * [iPad, Tablets & Mobile](http://www.pcworld.co.uk/gbuk/computing/tablets-and-ereaders-889-c.html)
+    * [iPad](http://www.pcworld.co.uk/gbuk/ipads/tablets-and-ereaders/tablets/889_7550_70700_xx_ba00010673-bv00308594/xx-criteria.html)
+    * [Tablets](http://www.pcworld.co.uk/gbuk/computing/tablets-and-ereaders-889-c.html)
     * [Smart Tech](http://www.pcworld.co.uk/gbuk/smart-tech/smart-tech-1072-c.html)
+    * [Mobile Phones](http://www.pcworld.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories-801-c.html)
+    * [Broadband](http://www.pcworld.co.uk/gbuk/phones-broadband-and-sat-nav/broadband-1134-c.html)
+    * [eReaders](http://www.pcworld.co.uk/gbuk/computing/tablets-and-ereaders-889-c.html)
     * Brand shops
     * Learn more about
+    * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.pcworld.co.uk/gbuk/knowhow-computing-369-commercial.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-ipad-tablets)
-  * [Software](http://www.pcworld.co.uk/gbuk/software-gaming-books/software-740-c.html)
-    * [Antivirus & security](http://www.pcworld.co.uk/gbuk/software-gaming-books/software-740-c.html)
-    * [Business & home office](http://www.pcworld.co.uk/gbuk/software-gaming-books/software-740-c.html)
-    * [Games](http://www.pcworld.co.uk/gbuk/software-gaming-books/gaming-742-c.html)
-    * [Creativity](http://www.pcworld.co.uk/gbuk/software-gaming-books/software-740-c.html)
-    * [ Education & reference](http://www.pcworld.co.uk/gbuk/software-gaming-books/software-740-c.html)
-    * Brand shops
+    * [Buying for business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-ipad-tablets)
+  * [Software](http://www.pcworld.co.uk/gbuk/computing-accessories/software-1115-c.html)
+    * [Software](http://www.pcworld.co.uk/gbuk/computing-accessories/software-1115-c.html)
+    * Games
+    * Brand shop
     * Learn more about
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.pcworld.co.uk/gbuk/care-plans-gaming-147-commercial.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-software)
-  * [Printing](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners-709-c.html)
-    * [Printers](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners-709-c.html)
-    * [Scanners](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners/scanners/709_7368_70457_xx_xx/xx-criteria.html)
-    * [Office Supplies](http://www.pcworld.co.uk/gbuk/office-supplies/office-supplies-756-c.html)
-    * [Ink, Toner & Paper](http://www.pcworld.co.uk/gbuk/printers-ink/ink-toner-711-c.html)
+    * [Buying for business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-software)
+  * [Printing](http://www.pcworld.co.uk/gbuk/computing-accessories/printers-scanners-and-ink-1096-c.html)
+    * [Printers](http://www.pcworld.co.uk/gbuk/computing-accessories/printers-scanners-and-ink-1096-c.html)
+    * [Scanners](http://www.pcworld.co.uk/gbuk/computing-accessories/printers-scanners-and-ink-1096-c.html)
+    * [Ink & Toner](http://www.pcworld.co.uk/gbuk/computing-accessories/printers-scanners-and-ink/ink-and-toner-cartridges-8325-m.html)
+    * [Office supplies](http://www.pcworld.co.uk/gbuk/computing-accessories/office-supplies-1076-c.html)
+    * [Paper](http://www.pcworld.co.uk/gbuk/computing-accessories/office-supplies-1076-c.html)
     * Learn more about
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.pcworld.co.uk/gbuk/care-plans-printers-scanners-140-commercial.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-printers)
-  * [Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories-78-u.html)
-    * [iPad & Tablet Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/apple-accessories/apple-accessories/805_7310_70371_xx_xx/xx-criteria.html)
-    * [Smart Tech](http://www.pcworld.co.uk/gbuk/smart-tech/smart-tech-1072-c.html)
-    * [PC Gaming Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/pc-gaming-accessories-731-c.html)
-    * [Webcams & Speakers](http://www.pcworld.co.uk/gbuk/pc-accessories/webcams-728-c.html)
-    * [Laptop Accessories](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptop-bags-netbook-cases-705-c.html)
-    * [Cables and Power Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/cables-and-power-accessories-735-c.html)
-    * [Keyboards & Mice](http://www.pcworld.co.uk/gbuk/pc-accessories/mice-729-c.html)
-    * [Music & Video Transfer](http://www.pcworld.co.uk/gbuk/pc-accessories/music-and-video-transfer-739-c.html)
-    * [Dictation](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/audio/dictation/747_7174_70228_xx_xx/xx-criteria.html)
-    * [Mobile Phone Accessories](http://www.pcworld.co.uk/gbuk/mobile-phone-accessories/801_7565_70719_xx_xx/xx-criteria.html)
-    * Brand shops
+    * [Buying for business](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-printers)
+  * [Accessories](http://www.pcworld.co.uk/gbuk/computing-accessories-78-u.html)
+    * [iPad & tablet accessories](http://www.pcworld.co.uk/gbuk/computing-accessories/computer-accessories/tablet-accessories-8208-m.html)
+    * [Smart Tech](http://www.pcworld.co.uk/gbuk/smart-tech-104-u.html)
+    * [PC Gaming](http://www.pcworld.co.uk/gbuk/pc-gaming-accessories-620-commercial.html)
+    * [Webcams](http://www.pcworld.co.uk/gbuk/computing-accessories/computer-accessories/webcams/1071_8510_71561_xx_xx/xx-criteria.html)
+    * [PC speakers](http://www.pcworld.co.uk/gbuk/computing-accessories/computer-accessories/pc-speakers/1071_8645_71735_xx_xx/xx-criteria.html)
+    * [Laptop accessories](http://www.pcworld.co.uk/gbuk/computing-accessories/computer-accessories-1071-c.html)
+    * [Mice and keyboards](http://www.pcworld.co.uk/gbuk/computing-accessories/computer-accessories/mice-and-keyboards-8585-m.html)
+    * [Dictation](http://www.pcworld.co.uk/gbuk/computing-accessories/office-supplies/dictaphones/1076_8368_71417_xx_xx/xx-criteria.html)
+    * [Mobile phone accessories](http://www.pcworld.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories-801-c.html)
+    * Brand shop
+    * Learn more about
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-accessories)
-  * [Network & Storage](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
-    * [Networking](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
-    * [External Hard Drives](http://www.pcworld.co.uk/gbuk/data-storage/hard-drives-720-c.html)
-    * [Internal Hard Drives](http://www.pcworld.co.uk/gbuk/components-upgrades/internal-hard-drives-715-c.html)
-    * [USB flash drives](http://www.pcworld.co.uk/gbuk/data-storage/portable-usb-memory-sticks/portable-usb-memory-sticks/721_7069_70076_xx_xx/xx-criteria.html)
+    * [Buying for business](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-accessories)
+  * [Network & Storage](http://www.pcworld.co.uk/gbuk/computing-accessories-78-u.html)
+    * [Networking](http://www.pcworld.co.uk/gbuk/computing-accessories/networking-1133-c.html)
+    * [External hard drives](http://www.pcworld.co.uk/gbuk/computer-accessories/data-storage/data-storage/1114_8505_71595_xx_xx/xx-criteria.html)
+    * [Internal hard drives](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades/internal-data-storage/1113_8425_71475_xx_xx/xx-criteria.html)
+    * [USB flash drives](http://www.pcworld.co.uk/gbuk/computing-accessories/data-storage/usb-flash-drives/1114_8506_71615_xx_xx/xx-criteria.html)
     * [Smart Tech](http://www.pcworld.co.uk/gbuk/smart-tech/smart-tech-1072-c.html)
-    * [ Blu-ray & DVD Drives](http://www.pcworld.co.uk/gbuk/components-upgrades/cd-dvd-blu-ray-drives-714-c.html)
-    * [Blank media](http://www.pcworld.co.uk/gbuk/data-storage/cds-dvds-blu-ray-discs-725-c.html)
-    * [Cloud storage](http://www.pcworld.co.uk/gbuk/knowhow-cloud-1315-commercial.html)
-    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
+    * [CD DVD and Blu-ray drives](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades/cd-dvd-and-blu-ray-drives/1113_8405_71455_xx_xx/xx-criteria.html)
+    * [Blank media](http://www.pcworld.co.uk/gbuk/computing-accessories/data-storage/cd-dvd-blu-ray-discs/1114_8508_71557_xx_xx/xx-criteria.html)
+    * [Mobile broadband](http://www.pcworld.co.uk/gbuk/phones-broadband-and-sat-nav/broadband-1134-c.html)
     * Brand shops
     * Learn more about
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-network-storage)
-  * [Upgrades](http://www.pcworld.co.uk/gbuk/components-upgrades-75-u.html)
-    * [Graphic & Sound Cards](http://www.pcworld.co.uk/gbuk/components-upgrades/graphics-cards-716-c.html)
-    * [Motherboards & Processors](http://www.pcworld.co.uk/gbuk/components-upgrades/processors-motherboards/processors/719_7061_70066_xx_xx/xx-criteria.html)
-    * [Cases, Power & Cables](http://www.pcworld.co.uk/gbuk/components-upgrades/other-components-718-c.html)
-    * [Hard Drives & Storage](http://www.pcworld.co.uk/gbuk/components-upgrades/internal-hard-drives-715-c.html)
-    * [Memory](http://www.pcworld.co.uk/gbuk/components-upgrades/memory-713-c.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-upgrades)
+    * [Buying for business](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-network-storage)
+  * [Upgrades](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades-1113-c.html)
+    * [Components and upgrades](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades-1113-c.html)
+    * [Internal hard drives](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades/internal-data-storage/1113_8425_71475_xx_xx/xx-criteria.html)
+    * [Raspberry Pi](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades/raspberry-pi/1113_8845_71915_xx_xx/xx-criteria.html)
+    * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
+    * [Buying for business](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-upgrades)
   * [TV, Audio & Photo](http://www.pcworld.co.uk/gbuk/tv-dvd-audio-80-u.html)
     * [Televisions](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/televisions-743-c.html)
-    * [Blu-ray, DVD & Home Cinema](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/dvd-blu-ray-home-cinema-745-c.html)
-    * [Digital Set-top Boxes](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/digital-tv-services-806-c.html)
-    * [Gaming](http://www.pcworld.co.uk/gbuk/software-gaming-books/gaming-742-c.html)
-    * [Audio](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/audio-747-c.html)
-    * [Digital Cameras](http://www.pcworld.co.uk/gbuk/cameras-camcorders/digital-cameras-748-c.html)
-    * [Photography Accessories](http://www.pcworld.co.uk/gbuk/cameras-camcorders/accessories-751-c.html)
-    * [Sat Nav](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/sat-nav-900-c.html)
+    * [DVD, Blu-ray and home cinema](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/dvd-blu-ray-and-home-cinema-745-c.html)
+    * [Digital & Smart TV](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/digital-and-smart-tv-806-c.html)
+    * [Sat nav](http://www.pcworld.co.uk/gbuk/phones-broadband-and-sat-nav/sat-nav-900-c.html)
+    * [Gaming](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/gaming-1116-c.html)
+    * [Audio & headphones](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/audio-and-headphones-747-c.html)
+    * [Cameras & Camcorders](http://www.pcworld.co.uk/gbuk/cameras-camcorders-81-u.html)
+    * [Photography accessories](http://www.pcworld.co.uk/gbuk/cameras-camcorders/photography-accessories-751-c.html)
     * Brand shops
     * Learn more about
     * [Clearance](http://www.pcworld.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-tv-audio-satnav)
+    * [Buying for business](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-tv-audio-satnav)
 
 
 
   * [](http://www.pcworld.co.uk/gbuk/index.html "Home")
-  * [ Laptops](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops-703-c.html)
-  * [ Desktops](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/desktop-pcs-706-c.html)
-  * [ iPad, Tablets & Mobile](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders-889-c.html)
-  * [ Software](http://www.pcworld.co.uk/gbuk/software-gaming-books/software-740-c.html)
-  * [ Printing](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners-709-c.html)
-  * [ Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories-78-u.html)
-  * [ Network & Storage](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
-  * [ Upgrades](http://www.pcworld.co.uk/gbuk/components-upgrades-75-u.html)
+  * [ Laptops](http://www.pcworld.co.uk/gbuk/computing/laptops-703-c.html)
+  * [ Desktops](http://www.pcworld.co.uk/gbuk/computing/desktop-pcs-1093-c.html)
+  * [ iPad, Tablets & Mobile](http://www.pcworld.co.uk/gbuk/computing/tablets-and-ereaders-889-c.html)
+  * [ Software](http://www.pcworld.co.uk/gbuk/computing-accessories/software-1115-c.html)
+  * [ Printing](http://www.pcworld.co.uk/gbuk/computing-accessories/printers-scanners-and-ink-1096-c.html)
+  * [ Accessories](http://www.pcworld.co.uk/gbuk/computing-accessories-78-u.html)
+  * [ Network & Storage](http://www.pcworld.co.uk/gbuk/computing-accessories-78-u.html)
+  * [ Upgrades](http://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades-1113-c.html)
   * [ TV, Audio & Photo](http://www.pcworld.co.uk/gbuk/tv-dvd-audio-80-u.html)
 
 
@@ -435,6 +434,8 @@ Then click the link to opt-out. This will drop a cookie that will stop the track
 
 Is shopping online with PC World safe?
 
+**Payment information you send us is SSL-encrypted, so outside parties can’t intercept, retrieve or use it**
+
 At PC World, we care about security and make every effort to ensure our transaction process is safe and that your personal information is secure. 
 
 We can assure you that every order you make on our website is safe. We use strict security precautions to make our website safe, including the use of a Secure Socket Layer (SSL) server. Any information you enter while you're using the secure server is encrypted before being transmitted, so it is virtually impossible for an outside party to access or intercept your information. 
@@ -467,7 +468,7 @@ Last updated: 07.06.2012
 
 Who we are
 
-In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as PC World, Currys and Knowhow, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
+In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as PC World, Currys and Knowhow, company number 504877, registered office: 1 Portal Way, London, W3 6RS.
 
 What information we collect and how
 
@@ -508,10 +509,10 @@ We will then suppress your data from all direct marketing, although we will stil
 Subject Access Request   
 Legal Services  
 DSG Retail Limited  
-Maylands Avenue  
-Hemel Hempstead  
-Hertfordshire  
-HP2 7TG
+1 Portal Way  
+North Acton  
+London  
+W3 6RS
 
 Other Websites
 
