@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletag.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001329id_/http%3A//www.styletag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletag.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223151227id_/http%3A//www.styletag.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Styletag
 
