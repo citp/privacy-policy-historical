@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624191413id_/https%3A//www.cshl.edu/About-Us/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223221751id_/http%3A//www.cshl.edu/About-Us/Privacy-Policy.html) for the most accurate reproduction.*
 
-# CSHLPrivacy Policy | About Us
+# CSHL Privacy Policy | About Us
 
 CSHL is a research and educational institution. The Laboratory has research programs focusing on cancer, neurobiology and plant genetics and a broad educational mission, including the recently established Watson School of Biological Sciences. We invite you to explore our Website.
 
