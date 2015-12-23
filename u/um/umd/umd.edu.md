@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152658id_/http%3A//www.it.umd.edu/security/Nethics/Policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223201717id_/http%3A//www.it.umd.edu/security/Nethics/Policy/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Policy - Division of Information Technology - University of Maryland | Division of IT
 
