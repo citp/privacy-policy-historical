@@ -1,23 +1,47 @@
-> *The following text is extracted and transformed from the kagi.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064028id_/http%3A//faq.kagi.com/cgi-bin/WebObjects/ViewFAQs.woa/wa/specificFAQ%3FFAQ%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kagi.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223093018id_/http%3A//shop.kagi.com/help/47) for the most accurate reproduction.*
 
-# Privacy
+# Kagi Marketplace: Index
 
-Kagi is committed to protecting your privacy. We use the information we collect about you to process orders and to improve our ability to serve your needs. This privacy policy applies only to Kagi and not product suppliers outside of Kagi who are associated with the purchase transaction. Please read on for more details.
+### What is the Kagi Privacy Policy?
 
-What information does Kagi collect and how is it used?
+This privacy policy describes the information Kagi collects and what is done with it. Should you have any further privacy questions not covered by this policy, please email [help@kagi.com](mailto:help@kagi.com), please put "Privacy Policy Question" in the subject line. 
 
-Kagi collects and stores customer information only when you purchase from us. We store the information you personally provide. If you do not provide it we cannot store it. Our order forms are customized by each product supplier and their forms can ask for information other than name, postal address and email. Except for credit card details, whatever information you supply on the order forms is passed through to the product supplier who requested the information.  
-When you place an order we may also collect information on how you communicated with us. We do this primarily so that we have alternate ways of communicating with you should the information you provided be inadequate. Information on how you communicated with us can include: your Internet address, the language you selected for viewing the order form, your browser type, the currency in which you viewed the prices, whether you used a secure or insecure web page, the return email address shown in your email messages, the return address on envelopes, the fax number on faxes, the phone number from which you are calling and any other information that might help us to contact you that might be included with your payment.
+Please note that this privacy policy applies to Kagi only. This privacy policy does not cover information collected by non-Kagi web sites accessible from the Kagi web site, nor by any third parties associated with Kagi, including the product suppliers.
 
-Except for credit card details, all the information we collect from you is forwarded to the appropriate product supplier so that you can receive your product, support for it, and any additional information that might be related to your purchase.
+### The Information Kagi Collects
 
-Will Kagi disclose information it collects to those not involved with the purchase transaction?
+Kagi primarily collects, uses and stores your information when you visit a Kagi web site, purchase products from Kagi or when you communicate with Kagi (email, web, phone, fax, postal letter, etc.). Every order form asks for personally identifiable information such as your name, contact information, and payment information. In addition, our order forms can be customized by each of our participating product suppliers, so you may be asked to provide additional information other than that which Kagi normally collects. 
 
-Since our beginnings in 1994 Kagi has never sold, rented or traded personal information to others not associated with a purchase transaction, however we reserve the right to do so. If Kagi does decide to do this we will email you and give you 30 days to inform us if you wish for your information to remain private. At this time we do not contemplate doing this and thus we have no system for you to tell us to never release your information.  
-There can be people outside of Kagi who are associated with the purchase transaction. They can fulfil a variety of tasks such as technical support, product shipping, etc. We have no direct control over their use of the information we relay to them to complete the purchase transaction and can make no assurances as to their use of your personal information. We do stop doing business with those who are associated with the purchase transaction if they abuse the information we relay to them.
+When you interact with Kagi, information on how you communicated with Kagi is collected. The information is primarily used to understand you as a potential customer and so that Kagi may have alternate ways of communicating with you should the information you provide be inadequate. Information on how you communicated with Kagi may include: the Internet address of the computer you used, the language you selected when viewing the order form, the browser type, the security level used to view a web page, the currency in which you viewed prices, the return email address shown in your email messages, the return address on postal envelopes, the return fax number on faxes, the phone number used when calling, and any other information that may be gathered from your communication.
 
-Kagi does aggregate statistics about the data we collect and share it with others in order to improve our service. This aggregated data will not include information that identifies you personally.
+Also, when you allow it, Kagi uses web browser "Cookies." Cookies generally allow Kagi to identify you as someone who has previously visited the Kagi web site. The use of Cookies is now common practice for most commercial web sites, such as Kagi. 
 
-Kagi privacy policy changes
+### How Kagi uses the information
 
-Any changes to the Kagi privacy policy will be posted here. This policy is dated 24 August 1999.
+The information is primarily used to: determine whether to accept your purchase information; enable our product suppliers to deliver goods, services or information; provide notices regarding goods or services that you may purchase; and improve our business.
+
+### Information sharing
+
+Access to financial payment information such as credit card, debit card information or, bank account information is restricted to Kagi employees and external service providers on a need to know basis. Product suppliers are never provided the financial account number nor the expiration date nor the card identification value (CID or CVV2) for credit or debit cards. Product suppliers may be given the payment type (Visa, Mastercard, Cash, Check,...), account holder name and address, and any responses provided by your financial institution concerning the validity of the information you have provided to Kagi. From time to time Kagi may use external service providers who need to know all your financial payment information to help verify the information provided or to help Kagi make business decisions. Each person or entity that needs to know all your financial payment information has a contractual obligation, with Kagi, to maintain the privacy of that financial payment information.
+
+To ensure that you receive your purchased product(s), all other information collected by Kagi and any additional communications that might be related to your purchase, may be passed to the appropriate product suppliers. Additionally, all other information may be shared with external service providers to help verify the information provided or to help Kagi make business decisions. Such third party partners and product suppliers may use the information to maintain various databases related to your purchase, fulfill purchases, provide technical support, or provide you with information about Kagi, the product, or the product supplier.
+
+Kagi may transfer the information to a successor entity upon a merger, consolidation or other corporate reorganization in which Kagi participates or to a purchaser of all or substantially all of Kagi's assets.
+
+Kagi aggregates statistics about the information that is collected and may share the aggregated statistics with third parties in order to improve and market our services. Aggregated statistics do not uniquely identify you.
+
+Kagi will disclose all information of any type if Kagi believes that Kagi is required to do so by law, regulation or other government authority, or to prevent harm to yourself or others.
+
+### Information protection
+
+Kagi employs both procedural and technological measures, consistent with the demands of customer service, to protect your information. Such measures are, within reason, designed to protect all the information from loss, unauthorized access, disclosure, alteration or destruction.
+
+### Information updates
+
+You may contact Kagi at [help@kagi.com](mailto:help@kagi.com) to update any of your information.
+
+### Kagi privacy policy changes
+
+Kagi reserves the right to change this privacy policy, at will, without notice, and will post any revisions at [http://shop.kagi.com](http://shop.kagi.com/) on the Kagi web site. Kagi encourages you to review this privacy policy on a regular basis for any changes. Your use of the Kagi web site will be subject to the then-current privacy policy.
+
+This privacy policy, dated 31 Aug 2011, replaces the previous policy, dated 12 Oct 2010. Certain links and grammatical errors were corrected.
