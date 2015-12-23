@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the cuckolds.co.uk privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214031017id_/http%3A//www.cuckolds.co.uk/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuckolds.co.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223111437id_/http%3A//www.cuckolds.co.uk/forums/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Cuckolds.co.uk
+# Privacy Policy - Cuckolds Social Network
+
+Cuckolds Social Network uses cookies. You must be over the age of 18 years to use this site. Read the [Privacy Policy](http://www.cuckolds.co.uk/forums/privacypolicy/) for more info. To remove this message, please click the button to the right:    I am over 18 & I accept the use of cookies
 
   
 
 
-This website is for over 18 year olds only. If you are not 18 years or older then [click here](https://www.google.co.uk/)
-
-We need to put cookies on your computer. If you want to know more about what the cookies will be used for see our cookie & privacy notice [here](http://www.cuckolds.co.uk/forums/privacypolicy/). By using the site you accept that we will put cookies on your computer.
-
-**We have over 122,000 Hotwives, Bulls & Cucks waiting to meet you today! **
+.....  
+Whether you are experienced in the Cuckold lifestyle or intrigued and want to learn more about it, this site is for you.  
+.  
+Membership is FREE for a limited time only  
+.  
+Here's the Kicker - **Join TODAY** & **we will give you 50,000 chatcoins** to spend in video chat to get you started flirting with our members
 
  
 
@@ -25,7 +28,5 @@ Log files are maintained and analysed of all requests for files on this website'
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
   1.  
-  2. [Privacy Policy](http://www.cuckolds.co.uk/forums/privacypolicy/)
-  3. [Site Usage Terms And Conditions -----](http://www.cuckolds.co.uk/forums/index.php?app=forums&module=extras&section=boardrules) · 
 
 
