@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061836id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223114920id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies — Site links — Plan International
+# Privacy and Cookies | Plan International
 
 The Plan Ltd Website, found at plan-international.org, including all information and materials contained on it, is managed by Plan Ltd, Dukes Court, Block A, Duke Street, Woking, Surrey GU21 5BH, UK ("Plan Ltd").
 
-To contact us, please go to [plan-international.org/contact](http://plan-international.org/about-plan/contact-us "Contact us") or call us at +44 (0) 1483 755155.
+To contact us, please visit our [contact page](https://plan-international.org/contact-us) or call us at +44 (0) 1483 755155.
 
 ### Consent
 
-Plan Ltd is committed to ensuring the privacy of all our users. This Privacy Policy governs all pages on the domain plan-international.org. It does not apply to pages hosted by other organisations, including the websites of Plan fundraising offices or third party sites. The Plan Ltd Website (the “Website”) may be linked to the websites of such other parties, but those other sites may have their own privacy policies which apply to them.
+Plan Ltd is committed to ensuring the privacy of all our users. This Privacy Policy governs all pages on the domain plan-international.org. It does not apply to pages hosted by other organisations, including the websites of Plan International fundraising offices or third party sites. The Plan Ltd Website (the “Website”) may be linked to the websites of such other parties, but those other sites may have their own privacy policies which apply to them.
 
 By using the Website, you consent to the terms of this Privacy Policy. Plan Ltd may change the terms of this Privacy Policy from time to time and, if such changes are made, we may place notices on the Website so that you can be aware of them. Your continued use of the Website will be on the terms of this Privacy Policy as amended from time to time.
 
@@ -24,7 +24,7 @@ Your personal information will be retained by Plan Ltd and its service providers
 
 ### Sharing of your personal information
 
-The information you provide will not be sold or rented. If we have your permission, we may share your personal information with Plan fundraising offices. They may contact you inter alia to invite you to support their activities or to subscribe to their newsletters. (Plan's fundraising offices are listed at: [plan-international.org/fundraising](http://plan-international.org/where-we-work/fundraising-countries "Fundraising countries")) Otherwise, we shall only share your personal information if we are required to disclose it by law.
+The information you provide will not be sold or rented. If we have your permission, we may share your personal information with Plan International fundraising offices. They may contact you inter alia to invite you to support their activities or to subscribe to their newsletters. (Plan's fundraising offices are listed at: plan-international.org/fundraising) Otherwise, we shall only share your personal information if we are required to disclose it by law.
 
 The disclosure of your personal information discussed above may involve transfer of that information outside of the UK and European Union. Countries outside the European Union, such as the United States, may not have data privacy laws as strong as those in force in the European Union.
 
@@ -34,13 +34,13 @@ A cookie is a text-only piece of information that a website transfers to your co
 
 Plan Ltd uses cookies and collects IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
 
-Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. To prevent the download of cookies, or otherwise control how cookies are used on your computer, please read the help information supplied with your Internet browser software or go to: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. To prevent the download of cookies, or otherwise control how cookies are used on your computer, please read the help information supplied with your Internet browser software or go to: www.allaboutcookies.org
 
 ### Our use of cookies
 
 The Website uses Google Analytics to help analyse how users use the site. This analytical tool uses 'cookies', which are text files placed on your computer, to collect standard internet log information and visitor behaviour information in an anonymous form.
 
-The information generated by the cookie about your use of the Website (including your IP address) is transmitted to Google. This information is then used to evaluate visitors' use of the Website and to compile statistical reports on website activity for Plan.
+The information generated by the cookie about your use of the Website (including your IP address) is transmitted to Google. This information is then used to evaluate visitors' use of the Website and to compile statistical reports on website activity for Plan International.
 
 Plan Ltd will not (and will not allow any third party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to our site. We will not associate any data gathered from this site with any personally identifying information from any source as part of our use of the Google statistical analytics tool.
 
@@ -60,7 +60,7 @@ To remove existing cookies if you are using Firefox: Open the browser; Click on 
 
 ### Addresses submitted through 'Contact us'
 
-Please note that the addresses of those using the 'Contact us' facility are only retained for the purposes of reply or to be forwarded to the appropriate Plan office for action. E-mail addresses are not otherwise retained. E-mail addresses are not passed to any third party.
+Please note that the addresses of those using the 'Contact us' facility are only retained for the purposes of reply or to be forwarded to the appropriate Plan International office for action. E-mail addresses are not otherwise retained. E-mail addresses are not passed to any third party.
 
 ### Opting out of receiving messages from Plan Ltd
 
@@ -68,7 +68,7 @@ Any e-mail we send you will enable you to opt out of receiving further e-mail fr
 
 ### Your rights under the Data Protection Act
 
-The collection and use of personal information on this site is in accordance with the Data Protection Act of 1998 (UK). The DPA applies to all data held within the European Economic Area. More information can be found at the [Information Commissioner's Office](http://www.ico.gov.uk/).
+The collection and use of personal information on this site is in accordance with the Data Protection Act of 1998 (UK). The DPA applies to all data held within the European Economic Area. More information can be found at the Information Commissioner's Office.
 
 ### Access to your personal information
 
@@ -76,4 +76,4 @@ You may have rights of access to personal information that we hold about you, to
 
 Plan Ltd, Dukes Court, Block A, Duke Street, Woking, Surrey GU21 5BH, UK
 
-Or please e-mail us at [info@plan-international.org](mailto:info@plan-international.org)
+Or e-mail us at info@plan-international.org 
