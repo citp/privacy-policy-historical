@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mainlinemenswear.co.uk privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625031547id_/http%3A//www.mainlinemenswear.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainlinemenswear.co.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223193841id_/http%3A//www.mainlinemenswear.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
 
-# Mainline Menswear Ltd. > Our Privacy Statement
+# Mainline Menswear Ltd > Our Privacy Statement
 
 PRIVACY POLICY
 
@@ -9,7 +9,7 @@ This policy (together with our terms and conditions ([click here to view our Ter
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Mainline Menswear Limited of Bakers Court, Hopper Hill Road, Scarborough, YO11 3YS and our registration number is Z1849137. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Mainline Menswear Limited of Unit 1, Orchard Court, Dunslow Road, SCARBOROUGH, YO11 3UT and our registration number is Z1849137. 
 
 **INFORMATION WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:  
@@ -72,8 +72,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 You can also contact us by telephone **01723 624264** (during working hours as detailed [here](http://www.mainlinemenswear.co.uk/contact.php) ) or by post at:
 
 Mainline Menswear Ltd  
-Bakers Court  
-Hopper Hill Road  
-Scarborough  
-North Yorkshire  
-YO11 3YS 
+Unit 1, Orchard Court  
+Dunslow Road  
+SCARBOROUGH  
+YO11 3UT 
