@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the mynews13.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183116id_/http%3A//brighthouse.com/central-florida/policies/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynews13.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223080708id_/http%3A//brighthouse.com/central-florida/policies/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Services Privacy Policy
 
+  
 Updated May 2014
 
 Bright House Networks is committed to respecting and protecting your privacy. This Privacy Policy applies to your use of our publicly available websites, mobile sites, applications, and/or other services provided by Bright House Networks that link to this Privacy Policy (“Online Services”). You should also see our [Online Services User Agreement](http://brighthouse.com/policies/policies/online-services-user-agreement.html) (“User Agreement”) for other information concerning your use of our Online Services. We encourage you to read this Policy and call us with any questions. By using our Online Services, you accept both this Policy and the User Agreement.
