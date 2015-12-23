@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the gooroo.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051537id_/https%3A//gooroo.io/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooroo.io privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223210536id_/https%3A//gooroo.io/pages/privacy) for the most accurate reproduction.*
 
-# Gooroo Privacy Policy | Gooroo
+# Gooroo privacy policy | Gooroo
+
+We know that your privacy is important, particularly when it comes to information around your career aspirations, and whether or not you are looking at other jobs. Our commitment to you, is to maintain the confidentiality of your identity (your name and identifying details) until you are ready to show them to a prospective employer.
+
+As we further develop our product, you will be able to display an anonymous bio, which will allow prospective employers to approach you about opportunities they have available. You will control this access, and also have control of the amount of communication you get about potential jobs.
+
+Where you ask us to, we will pass on your information to our partners, so that they can contact you about a potential job or learning opportunity. We won't do this without your explicit permission.
+
+Keep reading below to read our full Privacy Policy.
 
 ## Introduction
 
-We at MSGooroo Pty Ltd ("Gooroo", "MSGooroo", "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Application, Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the ways outlined below.
+We at MSGooroo Pty Ltd ("Gooroo", "MSGooroo", "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. By visiting or using the Application, Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the ways outlined below.
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Data") that we gather when you are accessing or using our Application, Website or Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 ## Types of data collected
 
-Gooroo collects various types of Personal Data as explained in this document. We may use this Personal Data to personalize and improve the Services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for the Services, to analyze how users utilize the Application, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Data with third parties (described in this document). We collect the following types of information:
+Gooroo collects various types of Personal Data as explained in this document. We may use this Personal Data to personalize and improve the Services, to allow our users to set up a user account and bio, to contact users, to fulfill your requests for the Services, to analyze how users utilize the Application, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Data with third parties (described in this document). We collect the following types of information:
 
 ### Information you provide
 
@@ -18,9 +26,9 @@ We collect, store, and utilize any data you knowingly provide to us. For example
 
 ### Information collected automatically
 
-Whenever you interact with our Application, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Application’s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.
+Whenever you interact with our Application, we automatically receive and record information on our server logs from your browser including your IP address, â€œcookieâ€ information, and the page you requested. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or deviceâ€™s acceptance of cookies, but this may prevent you from taking advantage of some of our Applicationâ€™s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.
 
-When you visit the Application, whether as a Gooroo customer or a non-registered user just browsing, our servers automatically record Usage Data that your browser sends whenever you visit a website. We use this information to monitor and analyze use of the Application and the Services and for the Application’s technical administration, to increase our Application’s functionality and user-friendliness, and to better tailor it to our Users’ needs.
+When you visit the Application, whether as a Gooroo customer or a non-registered user just browsing, our servers automatically record Usage Data that your browser sends whenever you visit a website. We use this information to monitor and analyze use of the Application and the Services and for the Applicationâ€™s technical administration, to increase our Applicationâ€™s functionality and user-friendliness, and to better tailor it to our Usersâ€™ needs.
 
 ### Information collected from 3rd parties
 
@@ -34,7 +42,7 @@ The User assumes responsibility for the Personal Data of third parties published
 
 ## How we use your personal data
 
-Data concerning the User is collected to allow the Application to provide its services. We neither rent nor sell your Personal Data in personally identifiable form to anyone. Where we transfer information to persons outside Australia we believe that the recipients of such information are subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are similar in all material respects to the National Privacy Principles outlined in the Privacy Act.
+Data concerning the User is collected to allow the Application to provide its services. We neither rent nor sell your Personal Data in personally identifiable form to anyone. Where we transfer information to persons outside Australia we believe that the recipients of such information are subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are similar in all material respects to the [National Privacy Principles](http://www.oaic.gov.au/privacy/privacy-act/national-privacy-principles) outlined in the Privacy Act.
 
 We share Personal Data in personally identifiable form with third parties only as described below:
 
@@ -52,7 +60,7 @@ You may directly contact Advertisers to request access to any Personal Data that
 
 ### Employers and recruiters
 
-We offer tailored people-search functionality along with communication tools as part of our Gooroo Employer services. These services allow subscribers - generally, enterprises and professional organisations - to export limited information from Users’ public profiles, such as name, headline, current company, current title, and general location, in order to effectively manage candidate sourcing. You may limit or prevent this service from exporting your profile information by configuring your public profile visibility settings to restrict access to these fields. We do not provide email or other contact information to recruiters and employers. However, if you post that information as part of your profile it will be available to others.
+We offer tailored people-search functionality along with communication tools as part of our Gooroo Employer services. These services allow subscribers - generally, enterprises and professional organisations - to export limited information from Usersâ€™ public profiles, such as name, headline, current company, current title, and general location, in order to effectively manage candidate sourcing. You may limit or prevent this service from exporting your profile information by configuring your public profile visibility settings to restrict access to these fields. We do not provide email or other contact information to recruiters and employers. However, if you post that information as part of your profile it will be available to others.
 
 ### Business transfers
 
@@ -64,7 +72,7 @@ We reserve the right to access, read, preserve, and disclose any information tha
 
 ### With your consent
 
-Except as set forth above, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information. 
+Except as set forth above, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information.
 
 ## Additional information
 
@@ -82,7 +90,7 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 ## Definitions and legal references
 
-**Personal Data (or Data):** Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+Personal Data (or Data): Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
 
 **Usage Data:** Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
@@ -102,6 +110,6 @@ This privacy policy is solely about this Application.
 
 ## Questions or concerns?
 
-For any questions or concerns regarding this policy, please [contact us](mailto:hi@gooroo.io). 
+For any questions or concerns regarding this policy, please [contact us](mailto:hi@gooroo.io).
 
-For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website. 
+For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website.
