@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcplus.ca privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324004744id_/https%3A//www.pcplus.ca/loyaltyPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplus.ca privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223215137id_/https%3A//www.pcplus.ca/loyaltyPrivacy.jsp) for the most accurate reproduction.*
 
 # PC Plus
 
@@ -153,6 +153,8 @@ In order to communicate with you, which includes:
 
 Unless you tell us otherwise or consent is required by law, we may contact you by any means for which you have provided contact information. 
 
+If you no longer wish to receive commercial electronic messages from us please follow the unsubscribe directions provided in every commercial electronic message we send, or you can send an email to customerservice@loblaws.ca for assistance.
+
 **Market Research**
 
 In order to understand current and future consumer interests, which includes: 
@@ -242,4 +244,4 @@ If you have a product, service, program, or are participating in a promotion, co
 
 At Loblaw Companies Limited, we understand the responsibility that comes along with collecting, using and sharing Personal Information. In adopting and adhering to this policy, we assure you that the Personal Information we collect will be used in an appropriate and responsible manner.
 
-Last Updated: September 4, 2014
+Last Updated: June 27, 2015
