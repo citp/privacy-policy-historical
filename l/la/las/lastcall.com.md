@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429102726id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223222823id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
 
 # Security & Privacy at Neiman Marcus Last Call
 
@@ -10,7 +10,7 @@ This website ("website") is operated by The Neiman Marcus Group, Inc., which inc
 
 Personal information provided on the website and online credit card transactions are transmitted through a secure server using Secure Socket Layering (SSL) encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
 
-You may purchase online merchandise by calling toll-free 1.800.888.4757—24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
+You may purchase online merchandise by calling toll-free [1.800.888.4757](tel:18008884757)—24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
 
 We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
@@ -44,7 +44,7 @@ Our mobile applications will not transmit geo-location information about you to 
 
 Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
 
-The Information We Collect was last updated December 5, 2014. 
+The Information We Collect was last updated December 5, 2014.
 
 #### How We Use the Information We Collect
 
@@ -71,7 +71,7 @@ Business Transitions: We may transfer or share a copy of personal information ab
 
 Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public. 
 
-Last Call partners with advertising companies to place our advertising on publisher websites on the Internet. These advertising companies collect anonymous information about your visits to our web site. This technology involves the use of third party cookies which allow them to develop personalized advertising so that it directly relates to offers that may be of interest to you. To choose to opt-out of this service we have with our third-party advertising partner, [click here](http://www.networkadvertising.org/choices/#completed). We may also use Neiman Marcus cookies to provide similar enhanced online marketing to you based on your interests and preferences. To opt out of these enhanced online marketing ads, please [click here](http://dtmc.lastcall.com/adinfo/adchoices_fpc.html?cid=2426&cname=Last%20Call&cmagic=c65d7b&clogo=lastcall.png).*
+Last Call partners with advertising companies to place our advertising on publisher websites on the Internet. These advertising companies collect anonymous information about your visits to our website. This technology involves the use of third party cookies which allow them to develop personalized advertising so that it directly relates to offers that may be of interest to you. To choose to opt out of this service we have with our third-party advertising partner, [click here](http://www.networkadvertising.org/choices/#completed). We may also use Neiman Marcus cookies to provide similar enhanced online marketing to you based on your interests and preferences. To opt out of these enhanced online marketing ads, please [click here](http://dtmc.lastcall.com/adinfo/adchoices_fpc.html?cid=2426&cname=Last%20Call&cmagic=c65d7b&clogo=lastcall.png).
 
 #### Your Choices Regarding Use of the Information We Collect
 
@@ -80,7 +80,7 @@ We provide you with a number of choices regarding our handling of your nonpublic
 Direct Mail or Telephone Marketing: If you shop at the Neiman Marcus or Bergdorf Goodman stores and wish to be removed from the list of customers that receive direct mail or telemarketing calls, please either: 
 
   * Write to: Neiman Marcus Customer Care at P.O. Box 650589, Dallas, Texas, 75265-0589
-  * or call toll-free 1.800-456-5488
+  * or call toll-free [1.800.456.5488](tel:18004565488)
 
 
 
@@ -102,13 +102,13 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 #### Cookies, Web Beacons, and How We Use Them
 
-A "cookie" is a small data file stored by your Web browser on your computer or mobile device [hard drive]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer or a mobile device to a website.
+A "cookie" is a small data file stored by your web browser on your computer or mobile device [hard drive]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer or a mobile device to a website.
 
-We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the website as well as to identify the pages you click on during your visit to our site and the name of the website you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies. We may also use web beacons, and other technologies, to help track whether our communications are reaching you, to measure their effectiveness, or to collect certain non-personal information about your computer, device, or browser in order to allow us to better design future communications to you.
+We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the website as well as to identify the pages you click on during your visit to our site and the name of the website you visited immediately before clicking to LastCall.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies. We may also use web beacons, and other technologies, to help track whether our communications are reaching you, to measure their effectiveness, or to collect certain non-personal information about your computer, device, or browser in order to allow us to better design future communications to you.
 
 We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services, or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. 
 
-This Cookies, Web Beacons, and How We Use Them was last updated on March 7, 2013. 
+Cookies, Web Beacons, and How We Use Them was last updated on March 7, 2013.
 
 #### Children's Privacy
 
@@ -118,13 +118,13 @@ Children under the age of 13 should always ask their parents or guardians for pe
 
 #### Links to Other Sites
 
-While visiting NeimanMarcus.com, you may link to websites operated by our business partners or other third parties. This does not mean that we endorse these websites. We do not make any representations or warranties about any website you may access through this website. They are independent from us, and we have no control over, or responsibility for, their information or activities.
+While visiting LastCall.com, you may link to websites operated by our business partners or other third parties. This does not mean that we endorse these websites. We do not make any representations or warranties about any website you may access through this website. They are independent from us, and we have no control over, or responsibility for, their information or activities.
 
 In addition, our privacy practices may differ from those of these other sites. If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Neiman Marcus Privacy Policy. Make sure you understand any website's privacy policies before providing personal information.
 
 #### Online Account Registration
 
-To make online shopping faster and easier, you may register with NeimanMarcus.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information.
+To make online shopping faster and easier, you may register with LastCall.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information.
 
 If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
 
@@ -144,7 +144,7 @@ By using this website, you accept the policies set forth in this Privacy Policy.
 
 We'll be happy to provide additional information or answer any questions. Please: 
 
-**Call toll-free** 1.800.456.5488
+**Call toll-free** [1.800.456.5488](tel:18004565488)
 
 **Write:**
 
