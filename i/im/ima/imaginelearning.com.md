@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginelearning.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505221101id_/http%3A//ildc.cdn.imaginelearning.com/company/Imagine_Learning_Privacy_Policy_1.28.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginelearning.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223030805id_/http%3A//ildc.cdn.imaginelearning.com/company/Imagine_Learning_Privacy_Policy_1.28.pdf) for the most accurate reproduction.*
 
 # Imagine Learning
 
