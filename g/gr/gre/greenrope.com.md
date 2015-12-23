@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429065549id_/http%3A//www.greenrope.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223092212id_/http%3A//www.greenrope.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by GreenRope
 
@@ -38,11 +38,12 @@ GreenRope® complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss S
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, GreenRope® commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact GreenRope® at:
 
-GreenRope     
-Attn:KeithRichmond                                                                                                                                                                                                                  249 South Highway 101, Suite 525                                                                                                                                                                                   Solana Beach, CA 92075 USA
+GreenRope  
+Attn:KeithRichmond  
+249 South Highway 101, Suite 525  
+Solana Beach, CA 92075 USA
 
-GreenRope® has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by GreenRope®, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.  
- 
+GreenRope® has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by GreenRope®, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 **9\. Cookies, IP Addresses and URLs**
 
