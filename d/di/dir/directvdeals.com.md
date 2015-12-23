@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614051021id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223043633id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DIRECTVDeals.com Privacy Policy
 
@@ -57,7 +57,7 @@ Also, Directvdeals.com may sell or purchase assets during the normal course of o
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident, you may request information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us in writing at 1091 521 Corporate Center Drive, Indian Land, SC 29707.
+If you are a California resident, you may request information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us in writing at 1101 Red Ventures Dr, Fort Mill, SC 29707.
 
 **LINKS TO OTHER WEBSITES**
 
