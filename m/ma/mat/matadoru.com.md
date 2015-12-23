@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matadoru.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624173101id_/http%3A//matadoru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matadoru.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224001437id_/http%3A//matadoru.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MatadorU
+# Privacy Policy | MatadorU
 
 [mf-content] **Matador Ventures, LLC**
 
