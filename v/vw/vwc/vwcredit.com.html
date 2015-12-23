@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the vwcredit.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630005936id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vwcredit.com privacy policy that was archived on 2015-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223221347id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-    <script type="text/javascript" src="/content/dam/vwcom/codeInjections/test/s_code.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>  
+	<link rel="alternate" href="http://www.vw.com/es/privacy" hreflang="es"><script type="text/javascript" src="/content/dam/vwcom/codeInjections/test/s_code.js"></script>
 
     <script type="text/javascript">
         var isMobile = false;
@@ -26,20 +26,58 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="google-site-verification" content="oItZfGhbj6mJmPgZgC40-JWZYEAdHGyvp4KcvrSvVjw">
 <meta name="google-site-verification" content="h8ujd-a-uZtQaET1Hh__mcQXNJHXBe1QLRNNqy_Xk0Y">
+<meta name="format-detection" content="telephone=no">
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
-    <!-- mobileRedirectConfig is obsolete. Wiping out this file until better housekeeping can be done, when we remove all references --><link rel="stylesheet" href="/etc/clientlibs/vwcom.min.css?_s=WkOkebA" type="text/css">
+    <!-- mobileRedirectConfig is obsolete. Wiping out this file until better housekeeping can be done, when we remove all references --><link rel="stylesheet" href="/etc/clientlibs/vwcom.min.css?_s=PFPLO7k" type="text/css">
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js?_s=MM8P5Ko"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js?_s=m36Lyno"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js?_s=pvCDaqr"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js?_s=9pAHnQk"></script>
-<script type="text/javascript" src="/etc/clientlibs/vwcom.min.js?_s=R5eIIJT"></script>
-<!--[if lte IE 9]>
+<script type="text/javascript" src="/etc/clientlibs/vwcom.min.js?_s=Dt8NpPO"></script>
+<link rel="stylesheet" href="/etc/clientlibs/vwBase.min.css?_s=SK7RYZw" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/vwBase.min.js?_s=EwyKGa/"></script>
+<link rel="stylesheet" href="/etc/clientlibs/pages/vwContentPage.min.css?_s=uVnXKCH" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/pages/vwContentPage.min.js?_s=QRHFGDq"></script>
+<script src="/etc/clientlibs/vwcom/js/app/router.js"></script>
+    <script>
+    $(document).ready(function(){
+        var browser = VW.utilities.isIE();
+        var tag = $('html');
+        var classToAdd = '';
+
+        switch(browser){
+            case 8:
+                classToAdd ='ie8';
+                break;
+            case 9:
+                classToAdd ='ie9';
+                break;
+            case 10:
+                classToAdd ='ie10';
+                break;
+            case 11:
+                classToAdd ='ie11';
+                break;
+
+            default:
+                if (navigator.userAgent.indexOf('Windows NT 6.1') > 0 ) {
+                    classToAdd = 'windowsSeven';
+                }
+                break;
+        }
+
+        if (classToAdd) tag.addClass(classToAdd);
+    });
+</script>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--><!--[if lte IE 9]>
 <link rel="stylesheet" href="/etc/clientlibs/iefixes.min.css" type="text/css"/>
 <script type="text/javascript" src="/etc/clientlibs/iefixes.min.js"></script>
 <![endif]-->
 
-<!-- FIXME: there is probably a better way to do this but works for now -->
 <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/etc/designs/vwcom/apple-touch-icon-114x114-precomposed.png">
@@ -50,6 +88,22 @@
         _.extend(VW.legal.config, {
             
 			});
+
+        VW.config.zebraList = [];
+        
+        
+
+        // default values if not authored 
+        VW.config.zebraList = (_.isEmpty(VW.config.zebraList)) ? ['.installedPackagesWrapper', 
+                                                                  '.accessoriesWrapper', 
+                                                                  '.specsWrapper,.dynamicFullSpecs,.warrantyWrapper',
+                                                                  '.carefreeMaintenanceWrapper',
+                                                                  '.awardsWrapper',
+                                                                  '.letsMeetWrapper',
+                                                                  '.carProfileCarWrapper,.rowOfButtonsWrapper']
+                                                               : VW.config.zebraList;
+
+        VW.radio('vpp:zebralize').broadcast(VW.config.zebraList);
     </script>
 
 	<script type="text/javascript" src="//s.btstatic.com/tag.js">
@@ -59,7 +113,14 @@
   <iframe src="//s.thebrighttag.com/iframe?c=2GdXbS4" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </noscript>
 <!-- SMK -->
-    </head>
+    <script language="Javascript" type="text/javascript">
+	ActivEngageConfig = { location: "http://www.vw.com"};
+	</script>  
+		
+    <script type="text/javascript" src="https://go.activengage.com/1.js" defer="��"></script>
+
+</head>
+
 <body class="vwContentPage auxPage privacyPolicy not-mobile">
 
   <div class="parbase pageViewEvent"></div>
@@ -69,12 +130,12 @@
 <div class="parbase navigation navigationMenu"><div id="superTint"></div>
 <div id="tint"></div>
 <div id="primaryNav">
-
 	<!-- Start secondary/hidden nav -->
 	<div id="hiddenNav">
 		<div id="scrollableNav">
-
-			<a class="liveChat" href="https://go.activengage.com/s/sites/static/chat?d=www.vw.com&amp;r=" target="_blank">Live Chat</a>
+			<div class="ActivEngageChatButtonWrapper">
+				<div id="ActivEngageChatButton" style="visibililty:hidden;">&nbsp;</div>
+			</div>
 
 			<ul>
 
@@ -129,15 +190,9 @@
 							</a>
 						</li>
 					<li>
-							<a href="/certified-pre-owned/" class="certified-pre-owned">
+							<a href="/certified-pre-owned" class="certified-pre-owned">
 								<div class="icon"></div>
 								<span class="text">Certified Pre-Owned</span>
-							</a>
-						</li>
-					<li>
-							<a href="/social-news/" class="social-news">
-								<div class="icon"></div>
-								<span class="text">Social &amp; News</span>
 							</a>
 						</li>
 					<li>
@@ -173,31 +228,31 @@
     	<a id="logo" href="/">Volkswagen of America</a>
     	<ul>
 			<li class="absorbable" data-absorb-class="models">
-					<a href="/models/" class="models">
+					<a href="/models/" class="models" target="_self">
 						<span class="icon"></span>
 						<span class="text">Models</span>
 					</a>
 				</li>
 			<li class="absorbable" data-absorb-class="find-a-match">
-					<a href="/find-match/" class="find-a-match">
+					<a href="/find-match/" class="find-a-match" target="_self">
 						<span class="icon"></span>
 						<span class="text">Find a Match</span>
 					</a>
 				</li>
 			<li class="absorbable" data-absorb-class="build-your-own">
-					<a href="/builder/" class="build-your-own">
+					<a href="/builder/" class="build-your-own" target="_self">
 						<span class="icon"></span>
 						<span class="text">Build<br> Your Own</span>
 					</a>
 				</li>
 			<li class="absorbable" data-absorb-class="find-a-dealer">
-					<a href="/find-a-dealer/" class="find-a-dealer">
+					<a href="/find-a-dealer/" class="find-a-dealer" target="_self">
 						<span class="icon"></span>
 						<span class="text">Find A Dealer</span>
 					</a>
 				</li>
 			<li class="absorbable" data-absorb-class="owners">
-					<a href="/owners/" class="owners">
+					<a href="/owners/" class="owners" target="_blank">
 						<span class="icon"></span>
 						<span class="text">Owners</span>
 					</a>
@@ -238,7 +293,8 @@
             
 <div class="parbase vwContentMasthead globalContentMasthead"><div class="parbase vwCta cta"><div class="zebra ">
 
-  </div></div>
+  <div class="hide" data-authored-form-values="[]"></div>
+</div></div>
 <div class="vwContentHeader">
 			<div class="container">
 				<div class="row">
@@ -291,7 +347,8 @@
             
             
             
-<div class="parsys contentParsys"><div class="parbase textArea section"><div class="zebra  alternate  padded-top  padded-bottom ">
+<div class="parsys contentParsys"><div class="parbase textArea section"><div class="hide" data-authored-form-values="[]"></div>
+<div class="zebra  alternate  padded-top  padded-bottom ">
 
   <div class="container">
       <div class="row">
@@ -299,23 +356,37 @@
   <p>It is our sincere hope at Volkswagen of America, Inc. (“Volkswagen”) that what is now a purely digital relationship will evolve into a more personal one. Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our information practices across all of Volkswagen’s websites and digital properties, including mobile versions of our site and mobile applications (each a “Volkswagen Property” and collectively, the “Volkswagen Properties”). Your use of any Volkswagen Property constitutes your agreement to the terms of this Privacy Policy.</p>
 <h3>The Information We Collect</h3>
 <p>When you visit the Volkswagen Properties, we may collect certain personally identifiable information you choose to disclose to us, such as your name, postal address, telephone number, date of birth, and email address. We may also collect user generated content you choose to publish on the Volkswagen Properties.</p>
+<p>&nbsp;</p>
 <p>You may use your Facebook account credentials to sign in to certain Volkswagen Properties. If you connect using your Facebook credentials, you authorize us to collect your authentication information, such as your username, access credentials, and other information that may be available on or through your Facebook account, including your name, country, email address, and date of birth.</p>
+<p>&nbsp;</p>
 <p>The Volkswagen Properties also may passively collect non-personal and aggregated information that is automatically sent to us by your web browser or device, including your Internet Service Provider and IP address, the date and time you access the Volkswagen Property, the pages you have accessed while visiting the Volkswagen Property, and the Internet address from which you accessed the Volkswagen Property.</p>
+<p>&nbsp;</p>
 <p>We may receive information from third party sources, such as authorized Volkswagen dealerships, and incorporate it with your personal information.</p>
 <h3>How We Use and Share Information</h3>
 <p>We may use your personal information in a number of ways, such as to send promotional emails to you, to enter you into contests and sweepstakes, to participate in our online communities, to conduct surveys and market research, to provide product materials and updates on new products and services, to respond to queries, and to provide order status and order tracking information to you. We may use your personal information for marketing research and marketing purposes, which may include sharing it with Volkswagen authorized dealerships, for customer service purposes, with outside research companies, or with service providers that provide marketing, research, or other services for us, including service providers that may be located outside of the United States. If you choose to save information, such as a vehicle configuration, on the Volkswagen Properties, we may contact you to follow up on your interest in our cars.<b></b></p>
+<p>&nbsp;</p>
 <p>We may share your personal information (a) within the Volkswagen family of companies, which includes parents, corporate affiliates, subsidiaries, business units and other companies that share common ownership, including Volkswagen AG, (b) with other corporate partners, agencies and vendors working with Volkswagen, and (c) with your vehicle’s satellite radio and/or wireless service provider, if applicable, in order to enable those service providers to contact you with important information about your vehicle’s satellite or wireless services and for their own marketing purposes. In addition, we may share your personal information to comply with law or legal requirements, enforce or apply our Terms of Use and other agreements, or protect our rights, property, or safety of our users, or others. We do not share your personal information with unaffiliated third parties for their marketing purposes, unless you consent to such sharing.</p>
+<p>&nbsp;</p>
 <p>Personal information received from Volkswagen authorized dealerships may, in some cases, be used and shared in these ways.</p>
+<p>&nbsp;</p>
 <p>If we or some or all of our assets are acquired by another company, including through a sale in connection with bankruptcy, that company will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Policy.</p>
+<p>&nbsp;</p>
 <p>We may share non-personal and aggregate information with our advertising agencies and other third-party affiliates to customize the design of the Volkswagen Properties.</p>
-<h3><a name="ad-choices"></a>Online Advertising</h3>
-<p>To provide you with a more relevant and interesting experience, Volkswagen may work with third party companies to display ads or customize the content of the Volkswagen Properties. These companies may use cookies (a small text file), pixels, tags, or similar technologies that are placed in browsers to gather information about your visits to a Volkswagen Property, as well as your visits elsewhere on the Internet. These companies use this information to provide you with more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance (“DAA”). The DAA offers a choice mechanism with respect to certain types of data collection and use. We adhere to the DAA’s Self-Regulatory Principles for Online Behavioral Advertising. Visit <a target="_blank" href="http://www.aboutads.info/">www.aboutads.info</a> to exercise choice with respect to participants of the DAA. If you change computers, devices, or browsers, use multiple computers, devices, or browsers, or delete your cookies, you may need to repeat this process for each computer, device, or browser.</p>
+<h3 data-route="section/online-advertising/">Online Advertising</h3>
+<p>To provide you with a more relevant and interesting experience, Volkswagen may work with third party companies to display ads or customize the content of the Volkswagen Properties. These companies may use cookies (a small text file), pixels, tags, or similar technologies that are placed in browsers to gather information about your visits to a Volkswagen Property, as well as your visits elsewhere on the Internet. These companies use this information to provide you with more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance (“DAA”). The DAA offers a choice mechanism with respect to certain types of data collection and use. We adhere to the DAA’s Self-Regulatory Principles for Online Behavioral Advertising. Visit <a href="http://www.aboutads.info/" target="_blank">www.aboutads.info</a> to exercise choice with respect to participants of the DAA. If you change computers, devices, or browsers, use multiple computers, devices, or browsers, or delete your cookies, you may need to repeat this process for each computer, device, or browser.</p>
+<p>&nbsp;</p>
 <p>To opt-out of receiving promotional email messages from us, please click on the “Unsubscribe” link contained at the bottom of each email.</p>
 <h3>Our Commitment to Children's Privacy<br>
 </h3>
 <p>Volkswagen does not knowingly collect personal information from visitors under the age of 13. The Volkswagen Properties are general audience websites or digital properties directed at general audiences. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information.</p>
 <h3>External Links</h3>
-<p>The Volkswagen Properties may contain links to other websites, including social networks, advertisers, individual dealer’s websites, and websites belonging to other third parties. Some of these sites may share a similar “look and feel” to the Volkswagen Properties. Such sites may include social media sites, including Facebook and Twitter, websites affiliated with Volkswagen Financial Services, and other third party sites including individual dealer websites. Please be aware that we are not responsible for the privacy practices of other websites. We encourage you to read the privacy policies provided by other websites before you provide personal information to them.</p>
+<p>The Volkswagen Properties may contain links to other websites, including social networks, advertisers, individual dealer’s websites, and websites belonging to other third parties. Some of these sites may share a similar “look and feel” to the Volkswagen Properties. Such sites may include social media sites, including Facebook and Twitter, websites affiliated with Volkswagen Credit, and other third party sites including individual dealer websites. Please be aware that we are not responsible for the privacy practices of other websites. We encourage you to read the privacy policies provided by other websites before you provide personal information to them.&nbsp;For your convenience, we have provided the Volkswagen Credit Privacy Notice below.</p>
+<h3><b>Volkswagen Credit Privacy Notice</b></h3>
+<p>As a potential future Volkswagen Credit customer, we want you to know how Volkswagen Credit may share your personal information. The following links will direct you to their Privacy Notice, which explains how and with whom Volkswagen Credit may share your information, and the ways in which you can limit this sharing once you become a Volkswagen Credit customer.</p>
+<p>&nbsp;</p>
+<p>If you are a California resident, <u><a href="/content/dam/vwcom/PDFs/VW_CA.pdf" target="_blank">click here</a></u>&nbsp;to view or print the Privacy Notice.</p>
+<p>&nbsp;</p>
+<p>If you are a resident of any other state, <u><a href="/content/dam/vwcom/PDFs/VW_Opt-Out.pdf" target="_blank">click here</a></u>&nbsp;to view or print the Privacy Notice.</p>
 <h3>Changes to this Privacy Policy</h3>
 <p>We may update this Privacy Policy. We will notify you of any material changes to our Privacy Policy by updating this page. We encourage you periodically to check this site to learn about the information we collect, use, and share. Your continued use of any of the Volkswagen Properties affirms your agreement to such changes.</p>
 <h3>Your California Privacy Rights</h3>
@@ -344,6 +415,34 @@ Auburn Hills, MI 48326</p>
 </div>
  
 
+<div class="formReferenceWrapper">
+
+
+
+            
+            
+            
+<div class="parbase formReference"><div class="zebra ">
+
+  <div class="formContainer formTitle">
+    <div class="container">
+        <h3></h3>
+        <div class="intro"></div>
+    </div>
+</div>
+
+</div></div>
+
+
+
+            
+            
+        
+
+
+</div>
+ 
+
 <div class="footerWrapper">
 
 
@@ -354,11 +453,11 @@ Auburn Hills, MI 48326</p>
 <div class="bootstrapFooter parbase globalFooter vwFooter"><div class="container clearfix">
 
 	<p>© 2015 Volkswagen of America, Inc.</p><ul class="nav">
-  		<li><a href="/content/vwcom/en/owners-recalls.html">Recalls</a></li>
-      <li><a href="http://www.vw.com/privacy/#ad-choices.html">Internet-Based Ads</a></li>
-      <li><a href="/privacy/">Privacy</a></li>
-      <li><a href="/terms/">Terms</a></li>
-      </ul>
+  	<li><a href="/owners-recalls/">Recalls</a></li>
+		<li><a href="/privacy/section/online-advertising/">Internet-Based Ads</a></li>
+		<li><a href="/privacy/">Privacy</a></li>
+		<li><a href="/terms/">Terms</a></li>
+		</ul>
   </div>
 
 <script>
@@ -395,6 +494,13 @@ Auburn Hills, MI 48326</p>
     // For VPP, the footer will be based off the exterior color of the car and will change on click of prev/next
     // For all other pages, the default styling should be fine
 
+  });
+</script><script>
+  $(function() {
+      
+          VW.data.modelTrimLookup = {"Beetle":{"S":{"modelCodeKeys":["2016$5C12R6$P1V$2015-07-05"],"msrp":19795,"year":"2016"},"SE":{"modelCodeKeys":["2016$5C13R1$2015-06-28"],"msrp":21350,"year":"2016"},"SEL":{"modelCodeKeys":["2016$5C13R6$P1D$2015-06-28"],"msrp":25975,"year":"2016"},"R-Line SE (Order Only)":{"modelCodeKeys":["2016$5C14N2$2015-06-28"],"msrp":25995,"year":"2016"},"R-Line SEL (Order Only)":{"modelCodeKeys":["2016$5C14N2$P2T$P2U$2015-06-28"],"msrp":32245,"year":"2016"}},"Beetle Convertible":{"S":{"modelCodeKeys":["2016$5C73R6$2015-06-28"],"msrp":25490,"year":"2016"},"SE":{"modelCodeKeys":["2016$5C73R6$P2W$2015-06-28"],"msrp":28070,"year":"2016"},"R-Line S (Order Only)":{"modelCodeKeys":["2016$5C74N2$2015-07-05"],"msrp":29790,"year":"2016"},"SEL":{"modelCodeKeys":["2016$5C73R6$P1P$2015-06-28"],"msrp":30500,"year":"2016"},"R-Line SE (Order Only)":{"modelCodeKeys":["2016$5C74N2$P2X$2015-07-05"],"msrp":31570,"year":"2016"},"R-Line SEL (Order Only)":{"modelCodeKeys":["2016$5C74N2$P01$P71$2015-07-05"],"msrp":35745,"year":"2016"}},"CC":{"Sport":{"modelCodeKeys":["2016$3584L6$2015-05-24"],"msrp":34475,"year":"2016"},"R-Line":{"modelCodeKeys":["2016$3584L2$W72$2015-05-24"],"msrp":34655,"year":"2016"},"R-Line Executive (Order Only)":{"modelCodeKeys":["2016$3584L6$WT9$2015-05-24"],"msrp":37820,"year":"2016"},"R-Line Executive w/ Carbon (Order Only)":{"modelCodeKeys":["2016$3584L6$PTU$2015-05-24"],"msrp":37820,"year":"2016"}},"e-Golf":{"SE":{"modelCodeKeys":["2016$BE11B1$2015-05-24"],"msrp":28995,"year":"2016"},"SEL Premium":{"modelCodeKeys":["2016$BE13B1$2015-05-24"],"msrp":35595,"year":"2016"}},"Eos":{"Komfort":{"modelCodeKeys":["2016$1F84W3$2015-05-24"],"msrp":31995,"year":"2016"}},"Golf":{"TSI\u0026reg; (Order Only)":{"modelCodeKeys":["2016$AU12N1$P32$2015-06-28"],"msrp":18495,"year":"2016"},"S (Order Only)":{"modelCodeKeys":["2016$AU12N1$2015-06-28"],"msrp":19575,"year":"2016"},"S":{"modelCodeKeys":["2016$AU12N1$W10$2015-06-28"],"msrp":20175,"year":"2016"},"S with Sunroof":{"modelCodeKeys":["2016$AU12N3$W00$W10$2015-06-28"],"msrp":22625,"year":"2016"},"SE":{"modelCodeKeys":["2016$AU12N3$P01$W10$2015-06-28"],"msrp":25225,"year":"2016"},"SEL (Order Only)":{"modelCodeKeys":["2016$AU12N3$P02$2015-06-28"],"msrp":27425,"year":"2016"}},"Golf GTI":{"S (Order Only)":{"modelCodeKeys":["2016$AU19S2$2015-06-28"],"msrp":24995,"year":"2016"},"S":{"modelCodeKeys":["2016$AU19S2$W10$2015-06-28"],"msrp":25595,"year":"2016"},"S w/ Performance Package (Order Only)":{"modelCodeKeys":["2016$AU19X2$2015-06-28"],"msrp":26490,"year":"2016"},"S w/ Performance Package":{"modelCodeKeys":["2016$AU19X2$W10$2015-06-28"],"msrp":27090,"year":"2016"},"SE (Order Only)":{"modelCodeKeys":["2016$AU19S2$P05$2015-06-28"],"msrp":28025,"year":"2016"},"SE":{"modelCodeKeys":["2016$AU19S2$P05$W10$2015-06-28"],"msrp":28625,"year":"2016"},"SE w/ Performance Package (Order Only)":{"modelCodeKeys":["2016$AU19X2$P05$2015-06-28"],"msrp":29520,"year":"2016"},"SE w/ Performance Package":{"modelCodeKeys":["2016$AU19X2$P05$W10$2015-06-28"],"msrp":30120,"year":"2016"},"Autobahn (Order Only)":{"modelCodeKeys":["2016$AU19S2$P06$2015-06-28"],"msrp":30135,"year":"2016"},"Autobahn w/ Performance Package":{"modelCodeKeys":["2016$AU19X2$P06$2015-06-28"],"msrp":31630,"year":"2016"}},"Golf R":{"Golf R":{"modelCodeKeys":["2016$5G1RS6$2015-05-24"],"msrp":35650,"year":"2016"},"Golf R with DCC\u0026reg; and Navigation":{"modelCodeKeys":["2016$5G1RS6$POC$2015-05-24"],"msrp":37895,"year":"2016"}},"Golf SportWagen":{"S":{"modelCodeKeys":["2016$BX52N1$2015-06-28"],"msrp":21625,"year":"2016"},"SE":{"modelCodeKeys":["2016$BX52N3$W00$2015-06-28"],"msrp":27025,"year":"2016"},"SEL":{"modelCodeKeys":["2016$BX52N3$P00$W00$2015-06-28"],"msrp":29385,"year":"2016"}},"Jetta":{"S":{"modelCodeKeys":["2016$163VF1$2015-09-27"],"msrp":17680,"year":"2016"},"S w/ Technology":{"modelCodeKeys":["2016$163VF1$POM$2015-09-27"],"msrp":18675,"year":"2016"},"SE":{"modelCodeKeys":["2016$163WF1$2015-09-27"],"msrp":18995,"year":"2016"},"1.8T Sport":{"modelCodeKeys":["2016$163WR1$E15$PMC$WUP$2015-08-02"],"msrp":20895,"year":"2016"},"SE w/ Connectivity":{"modelCodeKeys":["2016$163WF6$WOC$2015-06-28"],"msrp":22325,"year":"2016"},"SEL":{"modelCodeKeys":["2016$163XR6$POT$2015-06-28"],"msrp":24645,"year":"2016"},"GLI SE":{"modelCodeKeys":["2016$1639N2$EL2$WUE$2015-07-05"],"msrp":26920,"year":"2016"},"SEL Premium (Order Only)":{"modelCodeKeys":["2016$163XR6$POQ$POT$WOD$2015-06-28"],"msrp":27325,"year":"2016"},"GLI SEL (Order Only)":{"modelCodeKeys":["2016$1639N2$EL2$POJ$WUE$2015-07-05"],"msrp":29280,"year":"2016"},"Hybrid SEL Premium":{"modelCodeKeys":["2016$1632Z7$POP$WUF$2015-06-28"],"msrp":31120,"year":"2016"}},"Passat":{"S":{"modelCodeKeys":["2016$A332R6$P70$2015-11-08"],"msrp":22440,"year":"2016"},"SE":{"modelCodeKeys":["2016$A333R6$2015-11-08"],"msrp":26280,"year":"2016"},"SE w/ Technology":{"modelCodeKeys":["2016$A333R6$P01$2015-11-08"],"msrp":28410,"year":"2016"},"SEL":{"modelCodeKeys":["2016$A334R6$2015-11-08"],"msrp":30495,"year":"2016"},"SEL Premium":{"modelCodeKeys":["2016$A334R6$P02$2015-11-08"],"msrp":34270,"year":"2016"},"V6 SEL Premium":{"modelCodeKeys":["2016$A334T6$2015-11-08"],"msrp":36835,"year":"2016"}},"Tiguan":{"S":{"modelCodeKeys":["2016$5N21V1$2015-05-24"],"msrp":24890,"year":"2016"},"S with 4MOTION\u0026reg;":{"modelCodeKeys":["2016$5N21V3$2015-05-24"],"msrp":26865,"year":"2016"},"R-Line":{"modelCodeKeys":["2016$5N21V1$P22$2015-05-24"],"msrp":28700,"year":"2016"},"R-Line w/ 4MOTION\u0026reg;":{"modelCodeKeys":["2016$5N21V3$P22$2015-05-24"],"msrp":30675,"year":"2016"},"SE":{"modelCodeKeys":["2016$5N21V1$WG7$2015-05-24"],"msrp":31390,"year":"2016"},"SE with 4MOTION\u0026reg;":{"modelCodeKeys":["2016$5N21V3$WG7$2015-05-24"],"msrp":33365,"year":"2016"},"SEL":{"modelCodeKeys":["2016$5N21V1$P74$WG7$2015-05-24"],"msrp":34445,"year":"2016"},"SEL with 4MOTION\u0026reg;":{"modelCodeKeys":["2016$5N21V3$P74$WG7$2015-05-24"],"msrp":36420,"year":"2016"}},"Touareg":{"V6 Sport (Order Only)":{"modelCodeKeys":["2016$7P6208$2015-05-24"],"msrp":42705,"year":"2016"},"V6 Sport w/ Technology":{"modelCodeKeys":["2016$7P6208$P42$WY9$2015-08-23"],"msrp":49705,"year":"2016"},"V6 Lux":{"modelCodeKeys":["2016$7P6208$P88$WY4$2015-05-24"],"msrp":53950,"year":"2016"},"V6 Executive":{"modelCodeKeys":["2016$7P6208$P96$WY4$2015-05-24"],"msrp":60185,"year":"2016"}}}
+          VW.radio('globalData:dropDownReady').broadcast();
+      
   });
 </script></div>
 
