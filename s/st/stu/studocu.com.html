@@ -1,1522 +1,234 @@
-<!--The following is the downloaded HTML source of the studocu.com privacy policy that was archived on 2015-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150206073137id_/http%3A//www.studocu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studocu.com privacy policy that was archived on 2015-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223220305id_/http%3A//www.studocu.com/en/privacy-policy/8) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns#">
+    <!-- who's the man -->
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcBU1ZWABABUFhQAAcFVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="On StuDocu you find all the study guides, past exams and lecture notes you need to pass your exams with better grades">
+    <meta name="keywords" content="exam, old exams, summaries, lecture notes, reports, solutions, books, second hand, university, college">
+    <meta name="msapplication-config" content="none">
+    <meta name="csrf-token" content="L5MdgCxX1SXkH0xSJPaW7iBcror191NrDzVHPPSe">
 
-<!-- META
-================================================== -->
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Free Summaries, Old Exams, Lecture Notes &amp; Solutions">
-<meta name="keywords" content="exam, old exams, summaries, lecture notes, reports, solutions, books, second hand, university, college">
-<meta name="google-site-verification" content="3PQLILURuCgCigjHZLZgG7whI2_I4p85rMWFN3iI1u4">
+            
+    <link rel="shortcut icon" href="//cdn.studocu.com/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="//cdn.studocu.com/img/apple/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//cdn.studocu.com/img/apple/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//cdn.studocu.com/img/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//cdn.studocu.com/img/apple/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="//cdn.studocu.com/img/apple/apple-touch-icon-180x180.png">
 
-<title>StuDocu.com | Free summaries, past exams, lecture notes and solutions.</title>
-
-<link href="http://www.studocu.com/images/sd_logo_square.png" rel="image_src">
-
-<!-- Apple touch icons
-================================================== -->
-<link rel="apple-touch-icon" href="/images/apple/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/images/apple/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/images/apple/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/images/apple/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/images/apple/apple-touch-icon-180x180.png">
-
-<!-- Microsoft browser configuration
-================================================== -->
-<meta name="msapplication-config" content="none">
-<!-- ESSENTIAL STYLES
-================================================== -->
-<!-- Bootstrap Latest compiled and minified CSS -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-<!-- StudeerSnel -->
-<link rel="stylesheet" type="text/css" href="http://www.studocu.com/styles/studeersnel.css?update=1420798744">
-	<!-- StuDocu logo's -->
-	<link rel="stylesheet" type="text/css" href="http://www.studocu.com/styles/studocu.css">
+            <link rel="alternate" hreflang="de" href="http://www.studocu.com/de/privacy-policy/8">
+<link rel="og:locale:alternate" content="de">
+<link rel="alternate" hreflang="en" href="http://www.studocu.com/en/privacy-policy/8">
+<link rel="og:locale:alternate" content="en">
+<link rel="alternate" hreflang="en-au" href="http://www.studocu.com/en-au/privacy-policy/8">
+<link rel="og:locale:alternate" content="en-au">
+<link rel="alternate" hreflang="es" href="http://www.studocu.com/es/privacy-policy/8">
+<link rel="og:locale:alternate" content="es">
+<link rel="alternate" hreflang="nl" href="http://www.studeersnel.nl/nl/privacy-policy/8">
+<link rel="og:locale:alternate" content="nl">
+<link rel="alternate" hreflang="nl-be" href="http://www.studocu.com/nl-be/privacy-policy/8">
+<link rel="og:locale:alternate" content="nl-be">
+<link rel="alternate" href="http://www.studocu.com/en/privacy-policy/8" hreflang="x-default">
+<meta property="og:title" content="Privacy Policy  - StuDocu">
+<meta property="og:image" content="http://www.studocu.com/img/facebook/FreeLectureNotes.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:description" content="Share free summaries, old exams, lecture notes, solutions and more!">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.studocu.com/en/privacy-policy/8">
+<meta property="og:site_name" content="StuDocu.com">
+<link rel="image_src" type="image/jpeg" href="http://www.studocu.com/img/facebook/FreeLectureNotes.jpg">
     
-<!-- FONTS
-================================================== -->
-<link href="http://fonts.googleapis.com/css?family=Damion" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//cdn.studocu.com/build/css/studocu/sass-6474f5c363.css">
 
-<!-- JAVASCRIPT
-================================================== -->
-<!-- Jquery -->
-<!-- Jquery -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script><!-- Google Analytics -->
-<script src="http://www.studocu.com/script/google-analytics.js"></script>
+                
+    <script type="text/javascript">var mixpanel_token = "f3396a5cd53c3d14940d70e003eef161";</script>
+    <script src="//cdn.optimizely.com/js/2680080260.js"></script>
 
+                <script>var ga_tracking_id = "UA-6359196-12";</script>
+    <script src="//cdn.studocu.com/build/js/studocu/gamp-da7b2b1fa0.js"></script>
+
+    <title>Privacy Policy  - StuDocu</title>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '1612937968993502');
+        fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=1612937968993502&ev=PageView&noscript=1"
+                /></noscript>
+    <!-- End Facebook Pixel Code -->
 </head>
 <body>
-<div id="fb-root"></div>
 
 
-<div id="header-wrapper">
-	<!-- Mobile menu -->
-	<div class="header-right-mobile pull-right search-hide">
-		<button class="btn btn-default mobile-search-toggle"><i class="fa fa-search"></i></button>
-		<button class="btn btn-default" data-toggle="collapse" data-target="#header-sm-toggle"><i class="fa fa-bars"></i></button>
-	</div>
-	
-	<!-- Desktop menu -->
-	<div class="header-right search-hide">
-					<a href="/aanmelden" class="btn btn-success header-btn register"><span class="glyphicon glyphicon-edit"></span> Register</a>
-			<button class="btn btn-primary header-btn login"><span class="glyphicon glyphicon-log-in"></span> Log in</button>
-			</div>
-	
-	<div class="header-left search-hide">
-		<a href="/" class="header-logo"></a>
-	</div>
-	
-	<div id="search-back" class="search-show hidden-xs"><i class="fa fa-arrow-left"></i> <span class="hidden-xs">Back</span></div>
-	<div id="search-back" class="search-show search-close-mobile"><i class="fa fa-close"></i> <span class="hidden-xs">Back</span></div>
-	
-	<div class="search-spacer search-show"></div>
+<div id="wrapper-all">
 
-	<!-- Search -->
-	<div class="header-middle">
-		<div class="header-search">
-	
-			<div class="awesomebar-search hidden">
-				<div class="form-group has-feedback" id="scrollable-dropdown-menu-search">
-					<label class="sr-only" for="search_term"></label>
-					<input id="header-search" class="form-control search_bar typeahead" placeholder="Search for courses, books or documents" aria-controls="add_courses" type="search">
-					<span class="glyphicon glyphicon-search form-control-feedback"></span>
-				</div> 
-			</div>
-			
-			<div class="awesomebar-select ">
-				<input type="text" name="uni_typeahead" id="uni_typeahead" class="form-control typeahead uni-typeahead-search" placeholder="At which institution do you want to start searching?">
-				<input name="uni_id" id="uni_id" class="uni-id-search" type="hidden" value=""> 
-			</div>
-			
-		</div>
-	</div>
-
-	<div class="clearfix"></div>
-	
-	<!-- Mobile Dropdown menu -->
-	<div class="collapse navbar-collapse" id="header-sm-toggle">
-		<ul class="nav navbar-nav">
-							<li><a href="/aanmelden" class="signout">Register</a></li>
-				<li><a class="login">Log in</a></li>
-					</ul>
-	</div>
+        <!--.......HEADER.......--><div data-react-class="Header" class="react-placeholder-header" data-react-props="{&quot;user&quot;:{&quot;isLogeedIn&quot;:false},&quot;languages&quot;:{&quot;de&quot;:&quot;Deutsch&quot;,&quot;en&quot;:&quot;English&quot;,&quot;en-au&quot;:&quot;English (Australia)&quot;,&quot;es&quot;:&quot;Espa\u00f1ol&quot;,&quot;nl&quot;:&quot;Nederlands&quot;,&quot;nl-be&quot;:&quot;Nederlands (Belgi\u00eb)&quot;},&quot;currentLanguage&quot;:&quot;en&quot;,&quot;currentRoute&quot;:&quot;contentPage&quot;,&quot;unreadNotifications&quot;:null,&quot;institution&quot;:null,&quot;logoUrl&quot;:&quot;\/\/cdn.studocu.com\/img\/logo-studocu@2x.png&quot;}"></div>    <!--......./ HEADER.......-->
+    
+    <div id="wrapper-content">
+        <div class="container container-fix">
+    <h1>Privacy Policy</h1>
+    <hr>
+        <p><strong>Privacy Policy</strong></p>
+<p><br> StuDocu.com (StudeerSnel Holding B.V.) takes the privacy of its Users very seriously and will process and use information about you in a manner that is in conformity with current security standards.. StuDocu.com is committed to respecting the privacy of its Users and the confidentiality of your personal data, traffic data and communications content and conforms to the applicable Dutch legislation and regulations in relation thereto. This Privacy Policy is designed to in understanding how StuDocu.com uses and safeguards User-information.</p>
+<p>In the event that the words written in capitals are not defined in this Privacy Policy they are defined in article 1 of the <a href="../../../terms/7">Terms of Use&nbsp;</a></p>
+<p><strong>StuDocu.com&nbsp;<br></strong>StudeerSnel Holding B.V. is a company which offers an online Platform which gives users the possibility to exchange Study Material among themselves, hereafter "<strong>StuDocu.com</strong>". StuDocu.com has its registered offices at (1053BA) Amsterdam at Wenslauerstraat 16-2, 1053 BA Amsterdam&nbsp;and is registered under Company Registration Number 56829787.</p>
+<p>This Privacy Policy applies solely to personal information that is acquired on the Websites that fall under the corporate responsibility of StuDocu.com. StuDocu.com urges you to be careful when you enter any personal information online.. StuDocu.com neither accepts responsibility or liability for personal information disclosed to other users by yourself on our Website or Platform. Please be aware that whenever you voluntarily post public information on our Website or Platform that information may be accessed by the public.</p>
+<p><br> The Platform may contain hyperlinks which, if clicked, will navigate you to the websites of third parties. StuDocu.com has no control over the websites of third parties. It is possible that a different privacy policy applies to the use of these websites. This Privacy Statement only applies to personal data obtained by means of the Platform. StuDocu.com accepts no responsibility or liability for the (operation or contents of) third party websites.</p>
+<p>&nbsp;</p>
+<p><strong>Personal information<br> </strong>Personal data is information that directly identifies you and may be used to contact you online or offline. We collect personal data during your use of our Service, for example during your (profile)registration on StuDocu.com.This information may include your name, email address, phone number, mobile number, home address, gender birth date and credit card of bank account information. Some of the requested information during your Profile-registration is optional. You can always amend the information you have submitted in you Profile.We will only collect and transfer personal information to the extent reasonable necessary to fulfil your requests.</p>
+<p><strong>Non-personal information<br></strong>StuDocu.com is also able to collect non –personal identifiable information including IP Address, profile information, aggregate user data and browser type, from their Users. <br> <br> StDocu.com also collects Automatically Generated Information from all users.This information consists of your surfing behavior on the Platform, such as the web pages you visit, how long you stay on certain web pages, what you download and/or upload and the use you make of your Profile. <br> <br> We also use cookies to passively collect demographic information, personalize your experience on our Website and monitor advertisements and other activities. Cookies are small files downloaded to your computer to track movements within websites. Also, we use cookies to deliver content specific to your interest and for other purposes. We may link cookie information to personal information. You can disable cookies, however some areas of the Website will not function properly if you do so. </p>
+<p>This data is used to manage the Website and Platform, track usage, improve the Service and for security and monitoring purposes. We will only collect and transfer non-personal information to the extent reasonable necessary to fulfil your requests.</p>
+<p>&nbsp;</p>
+<p><strong>Use by StuDocu.com</strong><br> StuDocu.com offers a Platform which enables users to exchange Study Material among themselves. In order to ensure that the Study Material can indeed be offered and paid for on the Platform, StuDocu.com must use your personal data.&nbsp;<br> <br> StuDocu.com also wishes to keep you informed on the development of its Platform. In case of an upgrade, update or any other change to the Platform, StuDocu.com will let you know. This also applies to information regarding payments. It is not possible to opt out of these messages, as they are crucial for the performance of the service.&nbsp;<br> <br> Furthermore, by sending you the StuDocu.com newsletter, StuDocu.com will keep you informed of promotions it organizes. You will receive the StuDocu.comnewsletter on a regular basis. If you no longer wish to receive the StuDocu.com newsletter, you may unsubscribe by editing your personal settings&nbsp;within your profile. The possibility to unsubscribe is also included by a direct link in every individual StuDocu.com newsletter. If you unsubscribe, StuDocu.com advises you to regularly check the Platform or social media for new promotions.&nbsp;<br> <br> In the Terms of Use you grant StuDocu.com the right to publish and copy your personal data (such as your username and Profile picture) and Study Materials in order to promote the Platform. This means, inter alia, that StuDocu.com can use certain personal data for the promotion of the Platform, for instance by stating who is the most successful user, what Study Material has been downloaded the most or what Study Material or which users are new.&nbsp;<br> <br> <strong>Use by Third Parties</strong><br> Accept as otherwise described in this Privacy Policy , StuDocu.com will not disclose personal information to any third party unless we believe that disclosure is necessary:<br> 1) To conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by StuDocu.com, such as an infringement on Intellectual Property rights of others, whether or not a response is required by applicable law;<br> 2) To enforce the StuDocu.com agreements with you, to manage the website or to protect your rights;<br> 3) Tot protect the safety of members of the public and Users of the Service.<br> 4) StuDocu.com also uses Google Analytics, a web analysis service provided by Google Inc. ("Google"). Google Analytics uses 'cookies', which are text files placed on your computer as described in paragraph 3, to help the website analyse how you use the site. The information generated by the cookies about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. By using this Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above<br> 5) In the event of StuDocu.com's further growth and development, one or more parts of the assets of the company may be transferred to a third party or StuDocu.com may merge with a third party. In that case your personal data will also be transferred.</p>
+<p>Your information may be transferred to countries both in and outside the European Union. StuDocu.com cannot assure that countries outside the European Union have an adequate level of protection.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Protection<br></strong>StuDocu.com shall take suitable technical and organizational measures to protect your personal data. &nbsp;StuDocu.com shall not retain personal information longer than required in order to perform its Services or as required under relevant legislation. </p>
+<p><strong>Modification </strong><br> StuDocu.com reserves the right to modify the provisions in this privacy policy if necessary. We will inform you of these changes on the Website and the Platform. &nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Contact<br> </strong>You can always inspect and, if necessary, amend the personal data in your Profile. If you wish to receive an overview of all the personal data about you stored by StuDocu.com, you can send StuDocu.com a request for inspection. StuDocu.com shall send you an overview of stored personal data within four (4) weeks. Subsequently you can ask StuDocu.com to correct, supplement, delete or protect the collected personal data. StuDocu.com will inform you within four (4) weeks whether it will honor your request to correct supplement, delete or protect your personal data. The abovementioned requests can be sent to jacques@StuDocu.com.com.</p>
+<p>If you have any further questions regarding this privacy statement, please send an email to jacques@StuDocu.com.com.</p>
+<p>&nbsp;</p>
 </div>
+            </div>
 
-<!-- Search results -->
-<div class="search_results_container search-show">
-	<div id="search-filter">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<i class="fa fa-filter"></i> Course filter: <span class="uni-naam-filter"></span>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="show-uni-search" style="cursor:pointer">edit</a>
-			</div>
-		</div>
-	</div>
-	</div>
-	<div id="search-start">
-		Start typing to search.		<!--<p>Search for courses, books or documents.</p>-->
-	</div>
-	<div id="search-results-wrapper" class="container">
-		<div id="search-results-courses"></div>
-		<div id="search-results-books"></div>
-		<div id="search-results-documents"></div>
-	</div>			
-</div>
-
-<!-- Menu bar -->
-<div id="header_menu_wrapper" class="hidden-xs">
-	<div id="header_menu_container">	
-		<a href="/">Dashboard</a>
-				<a href="http://stratus.sc/player?auto_play=false&amp;download=false&amp;links=http%3A%2F%2Fsoundcloud.com%2Fstudysounds&amp;random=false&amp;popup=true" onclick="window.open(this.href, 'mywin','left=20,top=20,width=950,height=200,toolbar=0,resizable=0'); return false;">StudySounds</a>
-	</div>
-</div> 
-
-<!-- Alertbar -->
-<div id="alertbar" class="container-fluid">
-	<div class="row">
-		  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-		  <span id="alertbar-content">Something has gone wrong...</span>
-	</div>
-</div>
-<div id="content">
-	<div class="container">
-		<h1>Privacy Policy</h1><hr><strong>Introduction</strong><br><br>StuDocu.com is committed to protect &nbsp;the privacy of users and visitors of this website. The collected information &nbsp;about you will be treated carefully and protected. StuDocu.com strictly abides by all applicable laws and regulations, including the Data Protection Act (DPA). For questions or comments about our privacy and cookie policy, please feel free to contact StuDocu.com via the contact form.<br>&nbsp;<br><strong>Processed data</strong><br><br><strong>Information that you provide to us</strong>. To use our services you need to register an account for example. When you do this, we ask you for personal information such as your name, email address or telephone number. If you want to take full advantage of the features we offer, we may also ask you to create a publicly visible profile, which may include your name and photo.<br><strong>Information we receive based on your use of our services. </strong>We may collect information about the services that you use and how you use them. Think about which courses you have followed, and how many files you have downloaded.<br>&nbsp;<br><strong>What we do with the data stored</strong><br><br>We collect information to provide better services to all our users. By storing data about study, the year you’ve started at college start and linking it to your personal information, the site will be personalized and thus more user-friendly.<br>The stored data are not shared with third parties. We use the email addresses to share important information with our users. Emails may contain information about our partners.<br><strong>&nbsp;<br>Google Analytics</strong><br><br>StuDocu.com uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses "cookies" (small text files placed on your computer) to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google uses this information to track how you use the website, compiling reports on website activity to prepare to offer for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties if Google is legally required, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies in your browser to select the appropriate settings. However, we point out that in this case you may not be able to use all features of this website.<br>&nbsp;<br>By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.<br>&nbsp;<br><strong>Change of Privacy Policy</strong><br><br>It is not inconceivable that the privacy and cookie policy StuDocu.com is extended or amended in the near future. We advise you to regularly check this page to see if changes have been made. If these changes are very radical in nature, we will ensure that they are communicated in a clear and conspicuous manner.	</div>
-</div>	
-
-<div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2">
-                <div class="form-group">
-				<h4>Language</h4>
-            	<select id="language" class="form-control">
-                <option values="NL" style="background-image:url(/images/icons/flags/nl.png); background-repeat:no-repeat; background-size: 20px 12px; background-position: 1% 50%; padding-left:28px;"> NL</option><option values="EN" selected="selected" style="background-image:url(/images/icons/flags/en.png); background-repeat:no-repeat; background-size: 20px 12px; background-position: 1% 50%; padding-left:28px;"> EN</option><option values="ES" style="background-image:url(/images/icons/flags/es.png); background-repeat:no-repeat; background-size: 20px 12px; background-position: 1% 50%; padding-left:28px;"> ES</option><option values="DE" style="background-image:url(/images/icons/flags/de.png); background-repeat:no-repeat; background-size: 20px 12px; background-position: 1% 50%; padding-left:28px;"> DE</option><option values="FR" style="background-image:url(/images/icons/flags/fr.png); background-repeat:no-repeat; background-size: 20px 12px; background-position: 1% 50%; padding-left:28px;"> FR</option><option values="CN" style="background-image:url(/images/icons/flags/cn.png); background-repeat:no-repeat; background-size: 20px 12px; background-position: 1% 50%; padding-left:28px;"> CN</option>                </select>
+        <!--....... FOOTER......   <div class="footer-col-message  hidden-xs">-->
+    <footer class="footer-dark" id="footer">
+        <div class="container">
+            <div class="row-fluid">
+                <div class="clearfix">
+                    <div class="col-sm-2 ">
+                        <div class="footer-col-message"></div>
+                    </div>
+                    <ul class="col-sm-2 footer-link-list company-list">
+                        <li class="footer-title">Company</li><li><a href="http://www.studocu.com/en/about-us/4">About us</a></li><li><a href="http://www.studocu.com/en/advertise/5">Advertise</a></li><li><a href="http://www.studocu.com/en/jobs/6">Jobs</a></li>
+                    </ul>
+                    <ul class="col-sm-2 footer-link-list">
+                        <li class="footer-title">Legal</li><li><a href="http://www.studocu.com/en/privacy-policy/8">Privacy policy</a></li><li><a href="http://www.studocu.com/en/terms/7">Terms</a></li>
+                    </ul>
+                    <ul class="col-sm-2 footer-link-list">
+                        <li class="footer-title"> Contact &amp; Help</li><li><a href="javascript:void(0);" class="help" data-domain="StuDocu.com" title="help">F.A.Q. &amp; Help</a></li><li><a href="http://www.studocu.com/en/contact">Contact</a></li>
+                    </ul>
+                    <ul class="col-sm-2 footer-link-list">
+                        <li class="footer-title"> Social</li><li><a href="//www.facebook.com/studocu" target="_blank">Facebook</a></li><li><a href="//twitter.com/studocu" target="_blank">Twitter</a></li><li><a href="//instagram.com/studocu/" target="_blank">Instagram</a></li><li><a href="//google.com/+studocu" target="_blank">Google+</a></li><li><a href="//soundcloud.com/studysounds" target="_blank">Soundcloud</a></li>
+                    </ul>
                 </div>
-        
+                <div class="footer-lower">
+                    <div class="footer-message visible-xs-inline-block"></div>
+                    <p>Copyright © 2015 StudeerSnel B.V.</p>
+                </div>
             </div>
+        </div>
+    </footer>
+    <!--....... / FOOTER.......-->
 
-            <div class="col-md-3 col-md-offset-1">
-            	<h4>Company</h4>
-                <a href="/about">About us</a><br>
-                <a href="/advertise">Advertise</a><br>
-				<a href="/jobs">Jobs</a><br>
-                <a href="http://www.studocu.com" target="_blank">International website</a>
-                            </div>
-            <div class="col-md-3">
-            	<h4>Contact &amp; info</h4>
-                <a href="/faq.php">F.A.Q. &amp; Help</a><br>
-                <a href="/contact">Contact</a><br>
-				<a href="/privacy">Privacy policy</a><br>
-				<a href="/terms">Terms of service</a><br>
-                <a href="/universities">All universities</a><br>
-            </div>
-            <div class="col-md-3">
-            	<h4>Social</h4>
-                <i class="fa fa-fw fa-facebook"></i> <a href="https://www.facebook.com/StuDocu" target="_blank">Facebook</a><br>
-				<i class="fa fa-fw fa-twitter"></i> <a href="https://twitter.com/StuDocu" target="_blank">Twitter</a><br>
-				<i class="fa fa-fw fa-google-plus"></i> <a href="https://google.com/+StuDocu" target="_blank">Google+</a><br>
-				<i class="fa fa-fw fa-soundcloud"></i> <a href="https://soundcloud.com/studysounds" target="_blank">Soundcloud</a><br>
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-md-12 signature">
-            	<img class="footer_amsterdam" src="/images/amsterdam_logo.png" width="8" height="28" alt=""> 
-            	Lovingly crafted in Amsterdam
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-md-12 copyright">Copyright © 2015 StudeerSnel B.V.</div>
-        </div>
-    </div>   
+    <!--....... CUSTOMER SUPPORT ......-->
+    <div id="support-wrapper" class="hidden-xs">
+        <a href="javascript:void(0)" id="support-button" class="help" title="help" data-domain="StuDocu.com">
+            <i class="fa fa-question-circle"></i>Help
+        </a>
+    </div>
+    <!--.......  / CUSTOMER SUPPORT ......-->
+
 </div>
 
-<!-- NON-ESSENTIAL STYLES
-================================================== -->
-<!-- Font Awesome -->
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<!-- Favicon -->
-<link rel="shortcut icon" href="http://www.studocu.com/favicon.ico" type="image/x-icon">
 
-<!-- JAVASCRIPT
-================================================== -->
-<!-- Bootstrap Latest compiled and minified JavaScript -->
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<!-- BootBox -->
-<script type="text/javascript" src="http://www.studocu.com/script/bootbox_v4.js"></script>
-<!-- Mustache -->
-<script src="/script/mustache/mustache.js"></script>
-<!-- Typeahead -->
-<script src="/script/typeahead/typeahead.bundle.min.js"></script>
-<!-- Header js, included in all pages -->
-<script>
-/**
-* Get user courses 
-*/
-function userCourses(userId) {
-	$.post( "/ajax/user_courses.php", { user_id:userId })
-	.done(function(json) {
-		data = jQuery.parseJSON(json)
-		if (data.result) {
-			$.get('/templates/search_courses.html', function(template) {
-				// append data with Mustache
-				$('.user-courses').html(Mustache.render($(template).filter('#myCoursesTpl').html(), data.data));
-			});
-		} else {
-		$('.user-courses').html($('.no-courses').html());
-		}
-	});
-}
 
-function show_alert(msg) {
-	$("#alertbar-content").html(msg);
-	$("#alertbar").slideDown();
-}
 
-/**
-* Header dimension resizing
-*/
-window.onresize = function(event) {
-	resizeHeader();
-}
-
-function resizeHeader() {
-	var logoWidth = 191;
-	var containerWidth = 1170;
-	
-	headerWidth = $('#header-wrapper').width() -10;
-	leftWidth = $('.header-left').width();
-	leftReqWidth = logoWidth;
-	rightWidth = $('.header-right').width();
-	middleWidth = $('.header-middle').width();
-	
-	reqWidth = leftWidth + rightWidth; // Required width
-	remWidth = 	headerWidth - reqWidth - containerWidth; // Width remainder
-	
-	setLeft = leftWidth + remWidth;
-	
-	if(remWidth > 0) {
-		if(leftWidth < rightWidth) {
-			if(setLeft > rightWidth) {
-				setLeft = rightWidth;
-			}
-			$('.header-left').css({'width': + setLeft + 'px'});
-		}
-	} else {
-		if(setLeft < leftReqWidth) {
-			setLeft = leftReqWidth;
-		}
-		$('.header-left').css({'width': + setLeft + 'px'});
-	}
-	
-	setMiddle = headerWidth - ($('.header-left').width() + rightWidth);
-	$('.header-middle').css({'width': + setMiddle + 'px'});
-}
-
-
-/**
-* Bloodhound
-*/
-
-// constructs the suggestion engine
-// search for courses
-var courses = new Bloodhound({
-  datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['naam', 'code']),
-  queryTokenizer: Bloodhound.tokenizers.whitespace,
-  remote:
-  {
-	url: "/ajax/search_courses.php",
-
-	replace: function(url, query) {
-		return url + "#" + query;
-	},
-	ajax : {
-		beforeSend: function(jqXhr, settings){
-		   jqXhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-		   settings.type = 'POST';
-		   settings.hasContent = true;
-		   settings.data = $.param({LikeStr: $(':focus').val(), uni_id: $(".uni-id-search").val()});
-		},
-		type: "POST"
-	},
-	rateLimitWait: 450
-},
-  limit: Number.MAX_VALUE
-});
-
-//search for books
-var books = new Bloodhound({
-  datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['title', 'author']),
-  queryTokenizer: Bloodhound.tokenizers.whitespace,
-
-  remote:
-	{
-		url: "/ajax/search_books.php",
-		
-		replace: function(url, query) {
-			return url + "#" + query;
-		},
-		ajax : {
-			beforeSend: function(jqXhr, settings){
-				jqXhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-				settings.type = 'POST';
-				settings.hasContent = true;
-				settings.data = $.param({LikeStr: $(':focus').val()});
-			},
-			type: "POST"
-		},
-		rateLimitWait: 450
-	},
-  limit: Number.MAX_VALUE
-});
-
-//search for documents
-var docs = new Bloodhound({
-  datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['document_naam', 'document_file', 'document_vak']),
-  queryTokenizer: Bloodhound.tokenizers.whitespace,
-
-  remote:
-	{
-		url: "/ajax/search_documents.php",
-		
-		replace: function(url, query) {
-			return url + "#" + query;
-		},
-		ajax : {
-			beforeSend: function(jqXhr, settings){
-				jqXhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-				settings.type = 'POST';
-				settings.hasContent = true;
-				settings.data = $.param({LikeStr: $(':focus').val(), uni_id: $(".uni-id-search").val()});
-			},
-			type: "POST"
-		},
-		rateLimitWait: 450
-	},
-  limit: Number.MAX_VALUE
-});
-
-//search for universities
-var unis = new Bloodhound({
-	datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['naam']),
-	queryTokenizer: Bloodhound.tokenizers.whitespace,
-	remote:
-	{
-		url: "/ajax/search_unis.php",
-		
-		replace: function(url, query) {
-			return url + "#" + query;
-		},
-		ajax : {
-			beforeSend: function(jqXhr, settings){
-				jqXhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-				settings.type = 'POST';
-				settings.hasContent = true;
-				settings.data = $.param({LikeStr: $(':focus').val()});
-			},
-			type: "POST"
-		}
-	},
-	limit: Number.MAX_VALUE
-});
-
-//search for studies
-var studies = new Bloodhound({
-	datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['naam']),
-	queryTokenizer: Bloodhound.tokenizers.whitespace,
-	remote:
-	{
-		url: "/ajax/search_studies.php",
-		
-		replace: function(url, query) {
-			return url + "#" + query;
-		},
-		ajax : {
-			beforeSend: function(jqXhr, settings){
-				jqXhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-				settings.type = 'POST';
-				settings.hasContent = true;
-				settings.data = $.param({LikeStr: $(':focus').val(), uni_id: $(".uni-id").val()});
-			},
-			type: "POST"
-		}
-	},  	  
-	limit: Number.MAX_VALUE
-});
-
-// Course searchfor uploading
-var uploads = new Bloodhound({
-  datumTokenizer: Bloodhound.tokenizers.obj.whitespace(['naam', 'code']),
-  queryTokenizer: Bloodhound.tokenizers.whitespace,
-  remote:
-  {
-	url: "/ajax/search_courses.php",
-
-	replace: function(url, query) {
-		return url + "#" + query;
-	},
-	ajax : {
-		beforeSend: function(jqXhr, settings){
-		   jqXhr.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
-		   settings.type = 'POST';
-		   settings.hasContent = true;
-		   settings.data = $.param({LikeStr: $("#upload-search").val(), uni_id: $(".uni-id").val()});
-		},
-		type: "POST"
-	}
-},
-  limit: Number.MAX_VALUE
-});
-
-/**
-* Render function for search results json
-*/
-function pushResults(data,type,results) {
-	$('#search-start').hide();
-	
-	// why on earth dont we have search results?! Well at least let the user know
-	if (results == 0) {
-		data.noResult = {title : "No results"};
-	}
-
-	// Get template
-	$.get('/templates/search_' + type.toLowerCase() + '.html?update=1421232275', function(template) {
-		// append data with Mustache
-		$('#search-results-' + type.toLowerCase()).html(Mustache.render($(template).filter('#search' + type + 'Tpl').html(), data));
-	});
-}
-
-//initialize the search engines
-courses.initialize();
-books.initialize();
-docs.initialize();
-unis.initialize();
-studies.initialize();
-uploads.initialize();
-
-function initialize_study_typeahead() {
-	studies.clearRemoteCache(); //clear the cache for the courses, we need to re-search by ajax
-	$('input[id="study_typeahead"]').typeahead( {
-		  hint: true,
-		  highlight: true,
-		  minLength: 1,
-		} , {
-		  //create the COURSE search
-		  //display in the search bar the name of the course
-		  displayKey: 'naam',
-		  source: function (query, cb) { 
-			  // Get the data from the Bloodhound engine and process it.
-			  studies.get(query, function (suggestions) {
-				// push all our results, the ajax script is making sure we only fetch the neccecary
-				cb(suggestions[1]);
-			  })
-			},
-	      templates: {
-		 	empty : '<span class="tt-no-suggestion">No studies found</span>' 
-	  	  }
-	})
-	.on('typeahead:selected', function(obj, datum, name) { 
-		//get the selected id
-		var study_id = datum.id;
-		if (study_id != 0) {
-			$("#study_id").val(study_id); //update hidden input with the id
-		}
-	});
-}
-
-
-function initialize_book_typeahead() {
-	books.clearRemoteCache(); //clear the cache for the courses, we need to re-search by ajax
-	$('input[id="book_typeahead"]').typeahead( {
-		  hint: true,
-		  highlight: true,
-		  minLength: 1,
-		} , {
-		  //create the COURSE search
-		  //display in the search bar the name of the course
-		  displayKey: 'title',
-		  source: function (query, cb) { 
-			  // Get the data from the Bloodhound engine and process it.
-			  books.get(query, function (suggestions) {
-				// push all our results, the ajax script is making sure we only fetch the neccecary
-				cb(suggestions[0].data.books);
-				var dropdown = $(".book-add").find(".tt-dropdown-menu");
-				console.log(dropdown);
-				if (dropdown.find(".tt-add-course").length == 0) {
-					dropdown.append('<span class="tt-add-course help-block add-book" style="margin-left:10px; cursor:pointer"><span class="glyphicon glyphicon-question-sign"></span> '+suggestions[0].data.addCourse+'</span>');
-				}
-			  })
-			},
-	      templates: {
-		 	empty : '<span class="tt-no-suggestion">No books found</span>' ,
-			suggestion: function (context) {
-		        return Mustache.render('<p>{{title}} <br /><span class="text-muted"><small>{{author}}</small></span></p>', context);
-		    }
-	  	  }
-	})
-	.on('typeahead:selected', function(obj, datum, name) { 
-		//get the selected id
-		var book_id = datum.id;
-		var book_name = datum.title;
-		var book_author = datum.author;
-		var book_isbn = datum.isbn;
-		//are we on the upload page? then we need to fetch the course_id and do other stuff!
-		if ($(this).data("n")) {
-			var n = $(this).data("n");
-			$("#isbn_book_typeahead" + n).val(book_isbn);
-		} else {
-			var course_id = $("#course_id_book_typeahead").val();
-			if (book_id != 0) {
-				var message = 'Are you sure you want to add "%s" to this course?';
-				bootbox.dialog({
-					message: message.replace("%s", book_name),
-					title: "Add",
-					buttons: {
-						main: {
-							label: "No", 
-							className: "btn-primary",
-						},
-						succes: {
-							label: "Yes",
-							className: "btn-success",
-							callback: function ()
-							{
-								$('input[id="book_typeahead"]').typeahead('val', '');
-								$.post("/ajax/book_course_suggestion.php", {book_id: book_id, course_id:course_id}, function(data) {
-									//return 1 = already a connection
-									//return 2 = already submitted by this user_id
-									//return 3 = succes!
-									if (data.result == 1) {
-										bootbox.dialog({
-											message: "This book is already connected to this course.",
-											title: "Thanks",
-											buttons: {
-												main: {
-													label: "Ok",
-													className: "btn-primary",
-												}
-											}
-											});
-									}
-									else if (data.result == 2) {
-										bootbox.dialog({
-											message: "You already connected this book and course yourself.",
-											title: "Thanks",
-											buttons: {
-												main: {
-													label: "Ok",
-													className: "btn-primary",
-												}
-											}
-											});
-									}
-									else if (data.result == 3) {
-										bootbox.dialog({
-											message: "Thank you for your contribution!",
-											title: "Thanks",
-											buttons: {
-												main: {
-													label: "Ok",
-													className: "btn-primary",
-												}
-											}
-										});
-										var htmlAppend = '<tr class="document-list item-show">'+
-															'<td width="20">'+
-															'<div class="list-icon-book list-icon-small">'+
-																'<i class="fa fa-fw fa-book"></i>'+
-															'</div>'+
-															'</td>'+
-															'<td>'+
-																'<a href="'+data.href+'">'+book_name+'</a><br>'+
-																'<span class="filename">'+book_author+'</span>'+
-															'</td>'+
-														'</tr>';
-										$(".book-add").before(htmlAppend);
-									}
-								}, "json");
-							}
-						},
-
-					}
-				})
-				
-			} else {
-				addbook();
-			}
-		}
-	});
-}
-
-function initialize_uni_typeahead()
-{
-	//create the type ahead for the university search
-	$('input[id="uni_typeahead"]').typeahead( {
-	  hint: true,
-	  highlight: true,
-	  minLength: 1,
-	} , {
-	  name: 'naam',
-	  displayKey: 'naam',
-	  //create the COURSE search
-	  source: function (query, cb) { 
-		  // Get the data from the Bloodhound engine and process it.
-		  unis.get(query, function (suggestions) {
-			// push all our results, the ajax script is making sure we only fetch the neccecary
-			cb(suggestions[1]);
-		  })
-		},
-	  templates: {
-		 empty : '<span class="tt-no-suggestion">No institutions found</span>' 
-	  }
-	})
-	.on('typeahead:selected', function(obj, datum, name) { 
-		//get the selected id
-		var uni_id = datum.id;
-		var header = false;
-		var nameLocation = 'uni-typeahead';
-		var idLocation = 'uni-id';
-		if ($(this).hasClass('uni-typeahead-search')) {
-			var header = true;
-			nameLocation += '-search';
-			idLocation += '-search';
-		}
-		var activation_req = datum.activation_req;
-		if (uni_id != 0) {
-			$('.'+idLocation).val(uni_id); //update hidden input with the id
-			$.post('/ajax/change_university.php', {uni_id:uni_id, header: header}, function (data) {
-				$(".uni-naam-filter").html(data);
-			});
-			if (header == false) {
-				
-				if ($("#studiediv").length != 0) {
-					$("#study_typeahead").val('');
-					$("#study_id").val(0);
-					studies.clearRemoteCache(); //clear the cache for the courses, we need to re-search by ajax
-				}
-
-				if (activation_req) {
-					$('div[id="studiediv"]').show();
-				}
-				else if ($("#studiediv").length != 0)
-				{
-					$('div[id="studiediv"]').hide();
-				}
-				//are we on the update page?
-				if ($('.upload-courses').length != 0) {
-					$(".upload-courses").html(''); //empty the current results
-					uploads.clearRemoteCache(); //clear the cache for the uploads, we need to re-search by ajax
-					//little hack to reinitiate the search and typahead
-					var myVal = $("#upload-search.typeahead").typeahead('val'); //store the current value of the search box
-					$("#upload-search.typeahead").typeahead('val', '').focus().typeahead('val', myVal); //empty the current searchv alue, set focus to the search text and restore the value and it will auto search again
-				}
-			}
-			else
-			{
-				//do we have a uni select in the header?
-				if ($(".awesomebar-search").hasClass("hidden") ) {
-					hideUniSearch();
-				}
-			}
-		}
-	})
-	.on("focus", function() {
-		var myVal = $(this).typeahead('val');
-		if (myVal != '') {
-			$(this).typeahead('val', '').focus().typeahead('val', myVal);
-		}
-	});
-}
-
-function hideUniSearch() {
-	$(".awesomebar-select").addClass("hidden");
-	$(".awesomebar-search").removeClass("hidden");
-	$("#search-filter").slideDown();
-	var myVal = $("#header-search").typeahead('val');
-	if(myVal != '') {
-		$("#header-search").typeahead('val', '').focus().typeahead('val', myVal);
-	} else {
-		$("#search-start").show();
-	}
-	$("#header-search").focus();
-}
-
-function showUniSearch() {
-	$(".uni-typeahead-search").val('');
-	$(".uni-id-search").val(0);
-	$(".awesomebar-select").removeClass("hidden");
-	$(".awesomebar-search").addClass("hidden");
-	$("#search-start").show();
-
-	
-	$("#search-filter").slideUp();
-
-
-	$(".uni-typeahead-search").focus();
-	$.post('/ajax/change_university.php', {uni_id:0, header: "true"});
-}
-
-function initialize_typeahead()
-{
-	initialize_uni_typeahead();
-	initialize_study_typeahead();
-	initialize_book_typeahead();
-}
-
-$(document).ready(function(e) {
-	// Close alertbar
-	$(".close").click(function() {
-		$("#alertbar").slideUp();
-	});
-	
-	$(".show-uni-search").click(function() {
-		showUniSearch();
-	});
-	
-	// Initialize bootstrap tooltips
-	$("[data-toggle='tooltip']").tooltip();
-	
-	// Add courses button, focus on header search field.
-	$('.add-courses').click(function() {
-		$('#header-search').focus();
-	});
-	
-	// Set header dimensions
-	resizeHeader();
-	
-	/**
-	* Follow course
-	*/
-	$('body').on('click', '.follow-course', function(event){
-		var follow = $(this).data('follow');
-		var courseId = $(this).data('id');
-		var button = $(this).find('.fa');
-		var listItem = $(this).parent('div');
-		
-		$.post('/ajax/follow_course.php', { follow:follow, course_id:courseId}, function(data) {
-			if (follow == 1) {
-				button.removeClass('fa-plus').addClass('fa-check');
-			} else {
-				listItem.slideUp();
-				
-				// Last item to be deleted
-				if($('.user-courses .search-item:visible').length == 1) {
-					$('.user-courses').html($('.no-courses').html());
-				}
-			}
-		});
-	});
-
-	/**
-	* Toggle search elements
-	*/
-	$('#header-wrapper').on('focus','#header-search',function(e) {
-		// Show search, hide other header elements
-		$('.search-show').show();
-		$('.search-hide, #content').hide();
-		$('.header-middle').addClass('search-full');
-	});
-	
-	$('#header-wrapper').on('click','#search-back',function(e){
-		$(".search_bar").val('');
-		$('.search-show').hide();
-		$('.search-hide, #content').show();
-		$('.header-middle').removeClass('search-full');
-		userCourses();
-	});
-	
-	/**
-	* Toggle mobile search elements
-	*/
-	$('.mobile-search-toggle, .add-courses').click(function(){
-		$(".header-left, .header-right-mobile").hide();				
-		$('.header-middle').show();
-		$("#header-search").focus();
-	});
-	$('.search-close-mobile').click(function(){
-		$('.header-middle').hide();
-	});
-	
-	
-
-	// Create the type ahead for the search
-	$('#upload-search.typeahead').typeahead({
-	  minLength: 1
-	},
-	{
-	  //create the COURSE search
-	  //display in the search bar the name of the course
-	  displayKey: 'naam',
-	  source: function (query, cb) { 
-		  // Get the data from the Bloodhound engine and process it.
-		  uploads.get(query, function (suggestions) {
-			// push all our results, the ajax script is making sure we only fetch the necessary
-			pushResultsUpload(suggestions[0]['data'],'Courses',suggestions[0]['recordsTotal']);
-		  })
-		},
-	});
-	
-	// Add course
-	$('.upload-courses').on('click', '.search-item', function(event) {
-		 var courseId = $(this).data('id');
-		 var courseName = $(this).data('name');
-		 var courseCode = $(this).data('code');
-		 var prevId = $(this).closest('.dropzone').attr('data-courseId');
-		 
-		 // Update ui
-		 $('.course_search').slideUp();
-		 $(this).closest('.panel').find('.panel-title').html(courseName + ' (' + courseCode + ')');
-		 $(this).closest('.panel').find('.upload-controls').slideDown();
-		 $(this).closest('.dropzone').attr('data-courseId', courseId);
-		 $(this).closest('.panel').find('.edit_course').show();
-		
-		 // Update course in DB table queue if applicable
-		 if (prevId != '' && prevId != 0) {
-			$.post('/ajax/upload_update_course.php', { prev_id:prevId, new_id:courseId}); 
-		 }
-	});
-
-	//create the type ahead for the search
-	$('#scrollable-dropdown-menu-search .typeahead').typeahead({
-	  hint: true,
-	  highlight: true,
-	  minLength: 1
-	},
-	{
-	  //create the COURSE search
-	  //display in the search bar the name of the course
-	  displayKey: 'naam',
-	  source: function (query, cb) { 
-		  // Get the data from the Bloodhound engine and process it.
-		  courses.get(query, function (suggestions) {
-			// push all our results, the ajax script is making sure we only fetch the neccecary
-			pushResults(suggestions[0]['data'],'Courses',suggestions[0]['recordsTotal']);
-		  })
-		},
-
-	},
-	{
-	  //create the BOOK search
-	  //display in the search bar the title of the book
-	  displayKey: 'title',
-	  source: function (query, cb) { 
-		  // Get the data from the Bloodhound engine and process it.
-		  books.get(query, function (suggestions) {
-			// push all our results, the ajax script is making sure we only fetch the neccecary
-			pushResults(suggestions[0]['data'],'Books',suggestions[0]['recordsTotal']);
-		  })
-		}
-	},
-	{
-	  //create the DOCUMENT search
-	  //display in the search bar the title of the book
-	  displayKey: 'beschrijving',
-	  source: function (query, cb) { 
-		  // Get the data from the Bloodhound engine and process it.
-		  docs.get(query, function (suggestions) {
-			// push all our results, the ajax script is making sure we only fetch the neccecary
-			pushResults(suggestions[0]['data'],'Documents',suggestions[0]['recordsTotal']);
-		  })
-		}
-	});
-	
-	
-	/**
-	* Script used for dropdown notifications in header
-	*/
-		initialize_typeahead();
-	
-	$("#language").change(function() {
-		var lan = $(this).val();
-		$.post('http://' + window.location.hostname + '/ajax/change_language.php',{lan:lan},
-			function(data){
-				location.reload();
-			}
-		);
-	});
-	
-	/**
-	* Open add courses modal
-	*/
-	$('body').on('click','.add-course',function(){
-		$.get('/modals/addCourse.php',function( data ) {
-			var html = data;
-	
-			bootbox.dialog({
-				message: html,
-				title: "Add course"
-			});
-		});
-	});
-
-	$('body').on('click','.add-book',function(){
-		var course_id = 0;
-		var upload = 0;
-		var n = 0;
-		//are we on the upload page and do we need to extract the course id from the dropdown itself?
-		if ($(this).parent().parent().parent().parent().data("course")) {
-			course_id = $(this).parent().parent().parent().parent().data("course");
-			n = $(this).parent().parent().parent().parent().data("n");
-			upload = 1;
-		}
-		addbook(course_id, upload, n);
-	});
-});
-
-/**
-* Open add book modal
-*/
-function addbook(course_id, upload, n){
-	upload = typeof upload !== 'undefined' ? upload : 0;
-	n = typeof n !== 'undefined' ? n : 0;
-	
-	$.post('/modals/addBook.php', {course_id: course_id, upload: upload, n: n, }, function( data ) {
-		var html = data;
-
-		var bootboxAddBook = bootbox.dialog({
-			message: html,
-			title: "Add book"
-		});
-	});
-}
-
-
-
-/**
-* Open add study modal
-*/
-function addstudy(){
-	$.get('/modals/report_studie.php', function( data ) {
-		var studie_html = data;
-
-		bootbox.dialog({
-		message: studie_html,
-		title: "Request study"
-		});
-	});
-}
-
-/**
-* Open add related book modal
-*/
-function addRelatedBook(course_id){
-	$.get('/modals/addRelatedBook.php', {course_id: course_id}, function( data ) {
-		var html = data;
-
-		var bootboxAddRelatedBook = bootbox.dialog({
-			message: html,
-			title: "Add book"
-		});
-	});
-}
-</script><!-- Login & Register -->
-<script>
-$(document).ready(function(){
-	
-	/* ==================================== LOGIN ==================================== */
-	// Check email function
-	function isValidEmailAddress(emailAddress) {
-		var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
-		return pattern.test(emailAddress);
-	};
-	
-	// Login submit
-	$(document).on('submit', '.login_form' ,function(e) {
-		e.preventDefault();
-		email = $('#login-email').val();
-		password = $('#login-password').val();
-		store = $('#login-store').val();
-		
-		// Reset possible previous errors
-		$('.login-email, .login-password').removeClass('has-error').children('span').addClass('hidden');
-		$('.login-error-container').hide()
-		
-		if(email == '' || password == '') {
-			if(email == '') { // Check if email field is empty
-				$('.login-email').addClass('has-error').children('span').removeClass('hidden');
-			}
-			if(password == '') { // Check if password field is empty
-				$('.login-password').addClass('has-error').children('span').removeClass('hidden');
-			}
-		} else {
-			if(isValidEmailAddress(email)) { // Validate email
-				$.post("/ajax/login.php", { username: email, password: password, remember_me: store })
-					.done(function( data ) {
-						data = jQuery.parseJSON(data);	
-									
-						if(data.auth == 'ok') {
-							// Login succesfull, reload page
-							location.reload();
-						} else { 
-							// Login failed, show error
-							if(data.auth == 'fail') {
-								error = 'The e-mail address or password you entered is incorrect. Please try again, or <a href="http://www.studocu.com/forgot">reset your password</a>.';								
-							} else if(data.auth == 'inactive') {
-								// Redirect to activation when account is inactive
-								error = 'This account has not yet been activated. <br />If you didn&#39;t receive your activation e-mail, please check your spam folder.';
-								var activation_link = '<a href="http://' + window.location.hostname + '/register.php?id=' + data.user_id + '&register=activatie">Click here to send another activation e-mail.</a><br /><br />';
-								$('.login-error-container').after(activation_link);
-							} else if(data.auth == 'deleted') {
-								error = 'This account has been deleted.';
-							} else if(data.auth == 'blocked') {
-								error = 'This account has been blocked due to possible abuse. Please contact jacques@StuDocu.com';
-							}
-							$('.login-error-container').html(error).hide().removeClass('hidden').slideDown();
-						}
-				}, "json");
-			} else {
-				// Invalid email
-				$('.login-email').addClass('has-error').children('span').removeClass('hidden');
-				$('.login-error-container').html('Invalid e-mail address').removeClass('hidden');
-			}			
-		}
-	});
-
-
-	// Register submit
-	$(document).on('submit', '.register_email' ,function(e) {									
-		e.preventDefault();
-		voornaam = $('#voornaam').val();
-		achternaam = $('#achternaam').val();
-		email = $('#email').val();
-		password = $('#password').val();
-		
-		// Reset possible previous errors
-		$('#email, #password').removeClass('has-error').children('span').addClass('hidden');
-		$('.register-error-container').hide();
-		$('.register-error-container').html('');
-		
-		var error;
-		
-		if(email == '' || password == '') {
-			if(email == '') { // Check if email field is empty
-				$('#email').addClass('has-error').children('span').removeClass('hidden');
-			}
-			if(password == '') { // Check if password field is empty
-				$('#password').addClass('has-error').children('span').removeClass('hidden');
-			}
-		} else {
-			if(password.length < 6) {
-				$('.register-error-container').html('Wachtwoord moet minimaal 6 karakters lang zijn');
-				$('.register-error-container').hide().removeClass('hidden').slideDown();
-			} else if(isValidEmailAddress(email)) { 
-				// Validate email			
-				$('#register_submit').prop('disabled', true); // Disable submit btn
-				
-				// Check for disposable email
-				$.post('/ajax/email.php',
-					{email:email},
-					function(data)
-					{
-						// Genuine address, continue
-						if(data == 'OK') {
-							$.post('/ajax/registreren.php',
-								{
-									email:email,
-									voornaam: voornaam,
-									achternaam: achternaam,
-									password: password
-								},
-								function(data) {
-									// Hide & Reset form
-									$('.register_email').slideUp();
-									$('#register_form').trigger("reset");
-									$('#register_submit').prop('disabled', false); // Re-enable submit
-									
-									// E-mail activation
-									data = jQuery.parseJSON(data);	
-									if(data.result) {
-										$.post('/ajax/activation_email.php', { user_id: data.id });
-											
-											// Show success dialog
-											bootbox.dialog({
-											message: '<div class="alert alert-success">Your account has been created. You will receive an e-mail to activate your account shortly.</div><br><center><span class="glyphicon glyphicon-warning-sign"></span> <strong>Your activation e-mail could be in your spam folder.</strong></center>',
-											title: "Account aangemaakt",
-											buttons: {
-												success: {
-													label: "Ok",
-													className: "btn-primary"
-												}
-											}
-										});
-										
-										// Send to Analytics
-										ga('send', 'event', { eventCategory: 'Register', eventAction: 'Email'});
-									} else {
-										// Show error dialog
-										bootbox.alert("Registration failed");	
-									}																												
-								}
-							);
-							
-						} else if(data == 'FAKE') {
-							$('#register_submit').prop('disabled', false); // Re-enable submit
-							if($('.register-error-container').html().length != 0)
-							{
-								$('.register-error-container').append('<br />');
-							}
-							$('.register-error-container').append('This e-mail adress is not allowed.');
-							$('.register-error-container').hide().removeClass('hidden').slideDown();
-						} else {
-							$('#register_submit').prop('disabled', false); // Re-enable submit
-							if($('.register-error-container').html().length != 0)
-							{
-								$('.register-error-container').append('<br />');
-							}
-							$('.register-error-container').append('This e-mail address has already been registered with us.<br /><a href="/forgot">Wachtwoood vergeten?</a>');
-							$('.register-error-container').hide().removeClass('hidden').slideDown();
-						}				
-					}
-				);
-			} else {
-				// Invalid email
-				$('#email').addClass('has-error').children('span').removeClass('hidden');
-				$('.register-error-container').html('Invalid e-mail address').removeClass('hidden');
-				$('.register-error-container').hide().removeClass('hidden').slideDown();
-			}			
-		}
-			
-	});
-	
-	// Login modal
-	$(document).on('click', '.login' ,function() {
-		$.get('/modals/login.php', function( data ) {
-			var login_html = data;
-
-			bootbox.dialog({
-			message: login_html,
-			title: "Log in"
-			}).find("div.modal-dialog").addClass("bootbox_login");
-		});
-	});
-});
-</script><!-- Facebook -->
-<script>
-var FB; // to avoid error "undeclared variable", until FB got initialized
-var myQueue = new Array();
-function queueAdd(f){
-
-  if (typeof FB === "undefined")
-    myQueue.push(f);
-  else
-    f();
-}
-
-function processQueue(){
-
-  var f;
-  while(f = myQueue.shift())
-    f();
-}
-
-//show bootbox when facebook like worked
-show_bootbox = function(){
-	$(".facebook_like").slideUp();
-	bootbox.dialog(
-	{
-		title: "Thanks for your Facebook like",
-		message: "Thanks for your like! You now have access to 1 premium document!", 
-		buttons:
-		{
-			succes:
-			{
-				label : "Ok",
-				className : "btn-success"
-			}
-		}
-	});
-}
-
-show_bootbox_wallpost = function(){
-	bootbox.dialog(
-	{message: "Thanks for your post! For every new user you bring in you will both get 2 weeks access to premium documents! ",
-	buttons: {
-		success: {
-		label : "Ok",
-		className : "btn-success"
-		}
-	}
-	, title: "Thank you for your Facebook post"});
-}
-
-//show bootbox when facebook like didnt work
-show_bootbox_error = function(){
-	bootbox.dialog(
-	{
-		title: "Facebook account already used.",
-		message: "The Facebook account you&#39;ve logged in with has already been used. Please log out on Facebook or choose another option.", 
-		buttons:
-		{
-			main:
-			{
-				label : "Ok",
-				className : "btn-primary"
-			}
-		}
-	});
-}
-
-
-
-//initialize facebook
-window.fbAsyncInit = function() {
-	FB.init({
-		  appId      : '504628762969867', // App ID
-		  channelUrl : '//www.studocu.com/script/facebook/channel.html', // Channel File
-		  status     : false, // check login status
-		  cookie     : true, // enable cookies to allow the server to access the session
-		  xfbml      : true, // parse XFBML,
-		  version    : 'v2.1'
-	});
-	
-	//initialize all the FB dependant functions
-	processQueue();
-};
-
-//quick check if you are logged in for a facebook like
-function facebook_check_logged_in()
-{
-	FB.getLoginStatus(function(response) {
-	  if (response.status === 'connected') {
-		// connected
-		   checkLike(response.authResponse.userID);
-	  } else if (response.status === 'not_authorized') {
-		// not_authorized
-		$("#loader").hide();
-		$("#fb_auth").show();
-	  } else {
-		// not_logged_in
-		$("#loader").hide();
-		$("#fb_auth").show();
-	  }
-	 });
-}
-
-
-//log out from facebook and show the like button
-//do NOT log out from our website!
-function facebook_logout() {
-	$("#fb_auth_out").hide();
-	$("#loader").show();
-	FB.getLoginStatus(function(response) {
-		if (response && response.status === 'connected') {
-			FB.logout(function(response) {
-				$("#loader").hide();
-				$("#fb_auth").show();
-			});
-		}
-		else
-		{
-			$("#loader").hide();
-			$("#fb_auth").show();
-		}
-	});
-}
-
-//log in to facebook and show the facebook like button
-function facebook_login() {
-	FB.login(function(response) {
-		if (response.authResponse) {
-			checkLike(response.authResponse.userID);
-			show_like_button();
-		} else {
-			// cancelled
-		}
-	});
-}
-
-//log in to facebook and show the facebook like button
-function facebook_login_profile_pic() {
-	FB.login(function(response) {
-		if (response.authResponse) {
-			// connected
-			$("#loader").show();
-			$("#fb-auth").hide();
-			FB.api('/me', function(response) {
-			 $.post('http://www.studocu.com/ajax/update_facebook.php', {uid:response.id}, function(data){
-				if(data == 1)
-				{
-					show_bootbox_error();
-					$("#loader").hide();
-					$("#fb_auth_out").show();
-				}
-				else
-				{
-					location.reload();
-				}
-				});
-			});
-		
-		} else {
-			// cancelled
-		}
-	});
-}
-
-function facebook_logout_profile_pic() {
-	$("#fb_auth_out").hide();
-	$("#loader").show();
-	FB.logout(function(response) {
-		$("#loader").hide();
-		$("#fb-auth").show();
-	});
-}	
-
-
-function post_user_wall()
-{
-
-	FB.ui(
-	  {
-	   method: 'feed',
-	   name: 'StuDocu.com',
-	   caption: '',
-	   link: 'http://www.studocu.com/invite/',
-	   picture: 'http://www.studocu.com/images/S.png',
-	   description: 'Free Summaries, Old Exams, Lecture Notes & Solutions'
-	  },
-	  function(response) {
-		if (response && response.post_id) 
-		{
-		  $.ajax({
-				type: "POST",
-				url: "http://www.studocu.com/ajax/facebook_referral.php"
-			})
-			.done(function() {
-				show_bootbox_wallpost();
-			})
-		  
-		}
-	  }
-	);
-	
-}
-
-//log in to facebook and our website
-function facebook_log_in_function()
-{
-	FB.login(function(response) 
-		{
-			if (response.status === 'connected') {
-			$(".fb_signin").parent().html($(".fb_signin").parent().html() + '<img class="loader" style="padding:7px;" src="http://www.studocu.com/images/ajax-loader.gif">');
-			$(".fb_signin").hide();
-			  FB.api('/me', function(user_data) 
-			  {
-				  
-				  $.ajax({
-					type: "POST",
-					url: "http://www.studocu.com/ajax/facebook_login.php",
-					data: { signed_request: response.authResponse.signedRequest, user_data: user_data }
-					})
-					.done(function(signin) 
-					{
-		
-						var signin_result = jQuery.parseJSON(signin);
-						
-						if(signin_result.auth == 'ok') 
-						{
-							if(signin_result.status >= 1) {
-								// Auth ok & account active, reload page
-								location.reload();
-							} else if(signin_result.status == 0) {
-								// Auth ok & account not active 
-
-								// Log new registration to GA
-								if(signin_result.action == 'registered' && signin_result.is_new == true) {
-									ga('send', 'event', { 
-										eventCategory: 'Register', 
-										eventAction: 'Facebook',
-										hitCallback: function() {
-											//Forward to activate
-											window.location.replace("/activate.php?method=facebook");
-										}
-									});
-								} else {
-									//Forward to activate
-									window.location.replace("/activate.php?method=facebook");
-								}
-							}
-							else
-							{
-								//something is wrong
-								facebook_log_out_function();
-								show_alert(signin_result.error);
-								$(".loader").hide();
-								$(".fb_signin").show();
-							}
-						} else if(signin_result.auth != 'ok') {
-							show_alert(signin_result.error);
-							$(".loader").hide();
-							$(".fb_signin").show();
-						}
-				});
-			  });
-			}
-		 }, {scope: 'email'})
-	
-}
-
-//log out to our website
-function logout_ajax_function()
-{
-	$.ajax({
-			type: "POST",
-			url: "http://www.studocu.com/ajax/logout.php"
-			})
-			.done(function( msg ) {
-									window.location = 'http://www.studocu.com' + window.location.pathname;
-					});
-}
-
-//log out to facebook
-function facebook_log_out_function()
-{
-	FB.getLoginStatus(function(response) {
-		if (response && response.status === 'connected') {
-			FB.logout(function(response) {
-				logout_ajax_function();
-			});
-		}
-		else
-		{
-			logout_ajax_function();
-		}
-	});
-}
-
-// Get friend list
-
-function friendlist_check_login()
-{
-	FB.getLoginStatus(function(response) 
-	{
-		if (response.status === 'connected') 
-		{
-			// Logged into your app and Facebook.
-			FB.api('/me/friends', function (response) 
-			{
-				var friendTotal = (Object.keys(response.data).length); // Total number of friends
-				
-				// Only show friends if total number of friends meets or exceeds minimum.
-				if(friendTotal >= $('#friendlist').data('min-friends')) {
-					var friendMarkup = '';
-					response.data.sort(function() { return 0.5 - Math.random() });
-					$.ajax({
-						type: "POST",
-						url: "http://www.studocu.com/ajax/facebook_users.php",
-						data: { 
-							user_data: response.data,
-							nodig: $('#friendlist').data('max-friends') // Number of friends shown
-						}
-					})
-					.done(function(json) {
-						var data = JSON.parse(json);
-						
-						$.each(data, function(e, v){
-							friendMarkup += '<img src="https://graph.facebook.com/' + v.id + '/picture?type=square" alt="'+ v.naam +' picture" data-toggle="tooltip" data-placement="top" title="' + v.naam + '" class="img-thumbnail" />';
-						});
-						
-						$("#friendlist").html(friendMarkup);
-						$('#friend_total').html(friendTotal);
-						$('[data-toggle="tooltip"]').tooltip();
-						
-						$(".friendlist_wrapper").slideDown();
-					});	 
-				}
-			});
-	
-		}
-	});
-}
-
-//add the login and logout functions to all the buttons
-$(document).ready(function(){
-	// Signout function
-	$('.signout').click(function(){
-		queueAdd(facebook_log_out_function);
-	});
-	
-	// Facebook signin function
-	$(document).on('click', '.fb_signin' ,function(){
-		queueAdd(facebook_log_in_function);
-	});
-	
-	if($("#friendlist").length != 0)
-	{
-		queueAdd(friendlist_check_login);
-	}
-});
-
-
-(function(d, s, id){
- var js, fjs = d.getElementsByTagName(s)[0];
- if (d.getElementById(id)) {return;}
- js = d.createElement(s); js.id = id;
- js.src = "//connect.facebook.net/en_US/sdk.js";
- fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
+    <script type="text/javascript">
+        var user_locale = "en";
+        var user_email = "";
+        var user_name = "";
+        var user_created_at = "";
+        var user_id = "";
+        var user_type = "Guest";
+        var user = {
+            is_authenticated: false,
+            institutionId: "undefined",
+            institutionName: "undefined",
+            languageGeocode : "en"
+        }
+    </script>
+<script type="text/javascript">
+    var isBlockActive = true;
+    var currentLocale = "en";
+    var baseUrl = "http://www.studocu.com";
+    var route_name = "contentPage";
+    var layout = "layout_website";
+    var loader_icon = '<i class="fa fa-refresh fa-spin"></i>';
+    var login_route = "http://www.studocu.com/en/login";
+    var user_institution_change_route = "http://www.studocu.com/en/user/institution/change";
+    var template_search_upload_course_route = "http://www.studocu.com/en/template/search/upload/course";
+    var template_search_header_course_route = "http://www.studocu.com/en/template/search/course";
+    var template_search_header_book_route = "http://www.studocu.com/en/template/search/book";
+    var template_search_header_document_route = "http://www.studocu.com/en/template/search/document";
+    var modal_submit_course_route = "http://www.studocu.com/en/modal/submit/course";
+    var modal_submit_book_route = "http://www.studocu.com/en/modal/submit/book";
+    var course_submit_route = "http://www.studocu.com/en/course/submit";
+    var book_submit_route = "http://www.studocu.com/en/book/add";
+    var course_book_submit_route = "http://www.studocu.com/en/course/book/submit";
+    var search_google_book_route = "http://www.studocu.com/en/search/google/book";
+    var course_follow_or_unfollow_route = "http://www.studocu.com/en/course/follow-or-unfollow";
+    var book_follow_or_unfollow_route = "http://www.studocu.com/en/book/follow-or-unfollow";
+    var add_book_title_message = "Add Book";
+    var add_course_title_message = "Add course";
+    var thanks_contribution_message = "Thanks for your contribution";
+    var thanks_message = "Thanks";
+    var add_message = "Add";
+    var no = "No";
+    var ok = "Ok";
+    var add_book_message = "Did we miss a book? Add it yourself!";
+    var connection_book_course_exist_message = "This connection between book and course already exists.";
+    var connection_book_course_self_exist_message = "You have already made this link between course and book";
+    var no_institution_found = "No universities found";
+    var modal_request_call_route = "http://www.studocu.com/en/modal/request/call";
+    var modal_request_info_route = "http://www.studocu.com/en/modal/request/information";
+    var request_information_route = "http://www.studocu.com/en/request/information";
+    var request_call_route = "http://www.studocu.com/en/request/call";
+    var modal_request_study_route = "http://www.studocu.com/en/modal/request/study";
+    var request_information_message = "Request information";
+    var request_contact_message = "Contact me";
+    var study_not_listed_message = "Is your study not listed?";
+    var no_course_results_message = "No course(s) found";
+    var no_subject_results_message = "No subjects found";
+    var no_books_found = "No books found";
+    var submit_book_to_course_message = "Are you sure you want to submit ':bookName' to this course?";
+    var study_submit_modal_value_message = "Study";
+    var request_study_modal_title_message = "Request study";
+    var request_study_route = "http://www.studocu.com/en/study/request";
+    var route_resend_activation_link = "http://www.studocu.com/en/account/resend";
+    var route_notifications = "http://www.studocu.com/notifications";
+    var lang_registration__email_is_mandatory = "Your e-mail address is required to sign up. Please allow this permission when you get redirected to Facebook permissions panel. Don't worry, we won't send you any spam and it's easy to update your e-mail preferences.";
+    var lang_facebook_permission_dialog_title = "Facebook email is required";
+    var lang_merge_two_existing_accounts = "You are about to merge two existing accounts with the same email addresses.";
+    var lang_merge_two_existing_accounts_title = "Merge Alert!";
+    var lang_ok_i_get_it = "Ok. I get it";
+    var notifications_loading = "Notifications Loading...";
+    var no_country_results_message = "No countries found";
+    var paid_form_forget_resource_specific = "Please don't forget to specify the amount of study resources for: ";
+    var paid_form_forget_resources = "Don't forget to add your study resources!";
+    var paid_form_forget_email = "Don't forget to enter a valid e-mail address.";
 </script>
+
+<script src="//cdn.studocu.com/build/js/shared/bower-3f555099c9.js"></script>
+<script src="//cdn.studocu.com/build/js/components-2b8d25f2c3.js"></script>
+<script src="//cdn.studocu.com/build/js/shared/all-a94e53fbd3.js"></script>
+<script src="//cdn.studocu.com/build/js/studocu/all-6eb5938fab.js"></script>
+<script src="//cdn.studocu.com/assets/js/lang/en/messages-1450800060.js"></script>
+    <script src="//cdn.studocu.com/js/studocu/mixpanel.js"></script>
+
+    
+    
+<div id="snackbar-container"></div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1646552888","applicationID":"14927622","transactionName":"YVBaZEpTW0MAVRcIC1gabUJRHVxeBVMbTxReRQ==","queueTime":0,"applicationTime":108,"atts":"TRdZEgJJSE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
 </body></html>
