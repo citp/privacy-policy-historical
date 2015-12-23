@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vw.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630005936id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vw.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223221347id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -39,7 +39,15 @@ Volkswagen does not knowingly collect personal information from visitors under t
 
 ### External Links
 
-The Volkswagen Properties may contain links to other websites, including social networks, advertisers, individual dealer’s websites, and websites belonging to other third parties. Some of these sites may share a similar “look and feel” to the Volkswagen Properties. Such sites may include social media sites, including Facebook and Twitter, websites affiliated with Volkswagen Financial Services, and other third party sites including individual dealer websites. Please be aware that we are not responsible for the privacy practices of other websites. We encourage you to read the privacy policies provided by other websites before you provide personal information to them.
+The Volkswagen Properties may contain links to other websites, including social networks, advertisers, individual dealer’s websites, and websites belonging to other third parties. Some of these sites may share a similar “look and feel” to the Volkswagen Properties. Such sites may include social media sites, including Facebook and Twitter, websites affiliated with Volkswagen Credit, and other third party sites including individual dealer websites. Please be aware that we are not responsible for the privacy practices of other websites. We encourage you to read the privacy policies provided by other websites before you provide personal information to them. For your convenience, we have provided the Volkswagen Credit Privacy Notice below.
+
+### **Volkswagen Credit Privacy Notice**
+
+As a potential future Volkswagen Credit customer, we want you to know how Volkswagen Credit may share your personal information. The following links will direct you to their Privacy Notice, which explains how and with whom Volkswagen Credit may share your information, and the ways in which you can limit this sharing once you become a Volkswagen Credit customer.
+
+If you are a California resident, _[click here](https://web.archive.org/content/dam/vwcom/PDFs/VW_CA.pdf)_  to view or print the Privacy Notice.
+
+If you are a resident of any other state, _[click here](https://web.archive.org/content/dam/vwcom/PDFs/VW_Opt-Out.pdf)_  to view or print the Privacy Notice.
 
 ### Changes to this Privacy Policy
 
