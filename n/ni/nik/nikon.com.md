@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627063755id_/http%3A//nikon.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223063958id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Nikon | Privacy Management
 
-NIKON CORPORATION (the " Company " ) recognizes that the proper management of personal information is very important. Accordingly, in line with the [Nikon Group Privacy Protection Policy](https://web.archive.org/web/20150627063755id_/http%3A//nikon.com/privacy/privacy_policy.htm), personal information will be handled in the following manner:
+NIKON CORPORATION (the " Company " ) recognizes that the proper management of personal information is very important. Accordingly, in line with the [Nikon Group Privacy Protection Policy](https://web.archive.org/web/20151223063958id_/http%3A//www.nikon.com/privacy/privacy_policy.htm), personal information will be handled in the following manner:
 
 ## 1\. Acquisition of Personal Information
 
@@ -20,7 +20,7 @@ Personal information acquired by the Company may be used in the following ways:
   * to verify participants in exhibitions and seminars and to correspond with them after the event
   * to develop and maintain smooth relations with business partners and related entities
   * as a reference in the recruitment of an individual where the personal information is provided by an inquirer or an applicant to the Company
-  * to send necessary documentation to shareholders including notification of the General Shareholders' Meeting, and to administer dividend payments or other actions as required by the Commercial Code
+  * to send necessary documentation to shareholders including notification of the General Shareholders' Meeting, and to administer dividend payments or other actions as required by the laws and regulations
   * as defined by Personal Data Protection Law and other applicable laws and regulations
 
 
@@ -41,7 +41,7 @@ Acquired personal information may be disclosed and offered to sub-contractors wi
 
   3. Personal Information Sharing 
 
-Acquired personal information may be shared and used within the Nikon Group ([Click here to see a list of the group companies' homepages](https://web.archive.org/web/20150627063755id_/http%3A//nikon.com/about/info/group/index.htm).) in order to attain the usage purposes described in Section 2, " Personal Information Use " . Personal information that may be shared within the group means: names, addresses, telephone numbers, mail addresses, purchase histories, repair histories, inquiry history and content, and request content. NIKON CORPORATION is responsible for protecting the personal information that is shared and used by the Group.  
+Acquired personal information may be shared and used within the Nikon Group ([Click here to see a list of the group companies' homepages](https://web.archive.org/web/20151223063958id_/http%3A//www.nikon.com/about/info/group/index.htm).) in order to attain the usage purposes described in Section 2, " Personal Information Use " . Personal information that may be shared within the group means: names, addresses, telephone numbers, mail addresses, purchase histories, repair histories, inquiry history and content, and request content. NIKON CORPORATION is responsible for protecting the personal information that is shared and used by the Group.  
 The Nikon Group will observe the Nikon Group Privacy Protection Policy and strictly control the security of personal information.
 
 
