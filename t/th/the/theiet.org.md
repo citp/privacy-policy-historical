@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614225036id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223164245id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
 
 # Privacy statement - The IET
 
@@ -35,7 +35,11 @@ The IET protects the privacy of your information using secure servers. The infor
 
 Your details will be made available, as appropriate, to those officers of the IET who are responsible for the services that you request. Services such as Local Network activities and advice on achieving qualifications are mostly delivered by volunteer members. Publications and membership subscriptions are examples of services mostly delivered by the staff in the main offices.
 
-If you are a member of the IET your information will be processed by the IET for its sole use and that of its associated organisations, including your Local Network, for the purpose of promoting, delivering and improving your experience of the IET and its product and services or such other purposes as are described in this Privacy Statement. If either now or in the future you are based outside the European Economic Area (the “EEA”), your information may be transferred outside the EEA (for example to your Local Network or IET Global Office) to enable you to benefit from the IET opportunities overseas or, where required, to enable the IET to meet any legal or other legitimate obligations in that country.
+If you are a member of the IET your information will be processed by the IET for its sole use and that of its associated organizations, including your Local Network, for the purpose of promoting, delivering and improving your experience of the IET and its product and services or such other purposes as are described in this Privacy Statement. If either now or in the future you are based outside the European Economic Area (the “EEA”), your information may be transferred outside the EEA (for example to your Local Network or IET Global Office) to enable you to benefit from the IET opportunities overseas or, where required, to enable the IET to meet any legal or other legitimate obligations in that country.
+
+Your personal information may be disclosed to reputable third-parties who will help us deliver our service to you.
+
+The IET requires all such third-parties to treat your personal information as confidential and to comply with all applicable UK Data Protection and Consumer Legislation in place at any given time.
 
 The information that you provide may be held and used by the IET for market analysis and production of internal reports, for marketing its products and services generally and (subject to any preference that you may indicate when submitting your details) for sending information to you about its activities, services and publications. Please see the section below if you would like to change your preferences.
 
@@ -89,4 +93,5 @@ If you suspect that your password or account information has been compromised, p
 
 The privacy of members and visitors is important to the IET. This policy will be kept under continual review, and changes may be made from time to time.
 
- **Updated: 25 July 2012**
+**Updated: 18 November 2015  
+**
