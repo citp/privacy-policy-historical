@@ -1,0 +1,22 @@
+> *The following text is extracted and transformed from the chowzter.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223090143id_/http%3A//www.foodiehub.tv/privacy) for the most accurate reproduction.*
+
+# PRIVACY POLICY | FoodieHub – Find The World’s Essential Eats
+
+  1. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at [www.foodiehub.tv](http://www.foodiehub.tv/) (“Site”), the App known as “FoodieHub”, and/or the services provided from the Site or the App (“Services”). You are deemed to accept the terms of this Privacy Policy on your first use of the Site or the App. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site or the App. The Site, the App, and all content in the Site and the App, are owned or controlled by Chowzter Limited, a company registered in England whose registered office is at 40 Clifton Street, London EC2A 4DX.
+
+  2. To provide the Site, the App and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with applicable data protection legislation.
+
+  3. From time to time, we may collect or ask you to provide some or all of the following: name, address, date of birth, gender, email addresses and/or mobile phone numbers, financial information such as credit/debit card numbers, IP addresses, web-browser details, operating system details, and/or your activities on the Site. This information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with, and to improve, the Services (and associated services. We and/or our trusted partners may contact you with offers that may interest you and/or to inform you of other products and services.
+
+  4. We will keep your personal information only for as long as is necessary. We may, from time to time, expand or reduce our business and this may involve the transfer of certain divisions or assets of our company to other parties. Data provided by Users will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use such data for the purposes for which it was supplied by you.
+
+  5. We may use “cookies” while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly. Cookies are also used to collect general usage and volume statistical information. We use local “shared objects”, also known as “Flash” cookies. To learn how to manage privacy and storage settings for Flash cookies, see [http://www.macromedia.com/support/documentation/en/flashplayer/help/sett...](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)).
+
+  6. Please note that we may use third party advertising services to display advertising on the Site and/or the App, to analyse demographics data of our visitors and to manage our advertising generally. This partner may use cookies and/or web beacons to collect information in order to provide personalised advertising. If you do not wish to have your information used for such purposes, you may opt-out by clicking [here](mailto:info@foodiehub.tv).
+
+  7. If you do not want us to retain or use your personal information, you may withdraw your consent (i.e. “opt out”), by contacting us at [info@foodiehub.tv](mailto:info@foodiehub.tv). If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at please contact us at [info@foodiehub.tv](mailto:info@foodiehub.tv).
+
+  8. We reserve the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Site and you are deemed to have accepted the terms of any such amended Privacy Policy on your first use of the Site or the App following such alterations.
+
+
+
