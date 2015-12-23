@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21grandcasino.net privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428074806id_/http%3A//www.21grandcasino.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21grandcasino.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223022110id_/http%3A//www.21grandcasino.net/privacy_policy.html) for the most accurate reproduction.*
 
 # CR NV Privacy Policy
 
