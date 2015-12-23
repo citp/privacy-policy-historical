@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogtipsntricks.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618045630id_/http%3A//www.blogtipsntricks.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtipsntricks.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223032916id_/http%3A//www.blogtipsntricks.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | BlogTipsNTricks: Blogger Widgets | Templates | Tips | Tricks
+# Privacy Policy | BlogTipsNTricks: Blogger Templates | Widgets | Tips | Tricks
 
 At www.blogtipsntricks.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.blogtipsntricks.com and how it is used. 
 
