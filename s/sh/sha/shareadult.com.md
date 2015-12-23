@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the shareadult.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408231345id_/http%3A//www.shareadult.com/tubetour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareadult.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223042932id_/http%3A//www.shareadult.com/amateurs/privacy.php) for the most accurate reproduction.*
 
-# ShareAdult
+# 
 
-## INTRODUCTION
+Complete our simple verification to gain instant access.
+
+[____Join Now](http://enter.shareadult.com/signup/signup.php?nats=MC4wLjIuMTU2LjAuMC4wLjAuMA&step=2) [__Members Login](http://members.shareadult.com/)
+
+Featuring real amateurs pics and vids!
+
+### PRIVACY
 
 We (Deluxe Productions Ltd) are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.
 
@@ -54,7 +60,7 @@ We are committed to protecting the rights and privacy of individuals in accordan
 
 All matters relating to the Site are governed by the laws of England and Wales and are subject to the exclusive jurisdiction of the English courts. Any information you provide will be transferred to the United Kingdom. By visiting our Site and submitting information, you authorize this transfer.
 
-## Notification of Changes
+Notification of Changes
 
 We reserve the right to modify this Privacy Policy at any time by posting such changes on our Site. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use our Site, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use our Site after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
 
@@ -62,4 +68,4 @@ We reserve the right to modify this Privacy Policy at any time by posting such c
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending a message. Please provide us with your password, username and account number so we can service you quicker.
 
-Contact us [here](http://www.18xgirls.com/support_requests.php) and one of our Customer Support people will be happy to reply to your request. A response will be forwarded to your Email address within a reasonable period.
+Contact us [here](http://wwww.supportdeluxe.com/) and one of our Customer Support people will be happy to reply to your request. A response will be forwarded to your Email address within a reasonable period.
