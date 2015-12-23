@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619173304id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223054208id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Istanto Blog – Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online. - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
 
