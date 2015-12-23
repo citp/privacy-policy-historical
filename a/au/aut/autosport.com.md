@@ -1,35 +1,31 @@
-> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224002206id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# - Privacy Policy | Haymarket Media Group
-
-##  Privacy Notice 
-
-**HAYMARKET PRIVACY POLICY**
+# Haymarket Media Group Privacy Policy - Haymarket
 
 **1 INTRODUCTION**
 
 [Haymarket Media Group Limited (“Haymarket”], “Us”, “We”, “Our”) registered in England and Wales under company number 00267189 is the data controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). We respect your privacy and we are committed to protecting your personal information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information.
 
-Please read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/TermsAndConditions.aspx) and our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx).
+Please read in conjunction with our [Terms and Conditions](http://haymarket.com/terms-and-conditions) and our [Cookie Policy](http://haymarket.com/CookiePolicy.aspx).
 
 This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a minute to read and understand the Policy.
 
 By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will post those changes on our website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
-In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the bottom of this document. 
+In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the bottom of this document.
 
 **2 WHAT INFORMATION DO WE COLLECT?**
 
-All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please write to us at: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com?subject=Privacy%20Policy). When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
+All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please write to us at: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com?subject=Privacy%20Policy). When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
 
 **2.1 Information you voluntarily provide to us**
 
 We collect and maintain Information that you voluntarily submit to us during your use of our website or services. For example:
 
-  * when you register on our website or for a service, you may provide us with certain Information including your name, email address, screen name, password and demographic information;
-  * where our website contains a social networking function, you may create and add to your profile by providing Information about your interests;
-  * if you sign up to receive a newsletter, a magazine, enter a contest or participate in social networking activities, you may provide us with contact information (e.g., email, telephone and/or or physical address); and
-  * you may provide us with Information in the course of email, customer support interactions and surveys.
+  * When you register on our website or for a service, you may provide us with certain Information including your name, email address, screen name, password and demographic information
+  * Where our website contains a social networking function, you may create and add to your profile by providing Information about your interests
+  * If you sign up to receive a newsletter, a magazine, enter a contest or participate in social networking activities, you may provide us with contact information (e.g., email, telephone and/or or physical address)
+  * You may provide us with Information in the course of email, customer support interactions and surveys.
 
 
 
@@ -37,7 +33,7 @@ Different websites operated by us may ask for different pieces of Information. Y
 
 **2.2 Information we collect through your use of our Website**
 
-As you use our website, Information may also be passively collected by us through our use of cookies, pixels, beacons, log files and other technologies. This Information allows us to deliver more helpful information, services, tools and advertisements. Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for more information.
+As you use our website, Information may also be passively collected by us through our use of cookies, pixels, beacons, log files and other technologies. This Information allows us to deliver more helpful information, services, tools and advertisements. Please see our [Cookie Policy](http://haymarket.com/CookiePolicy.aspx) for more information.
 
 **2.3 Information we receive from third parties**
 
@@ -51,14 +47,14 @@ We will use your Information in the ways described below and as described at the
 
 In general, we use your Information as necessary or appropriate for our business purposes including to:
 
-  * administer your account where you have opened an account with us;
-  * register you and provide you access to the website or services requested by you;
-  * respond to inquiries or requests that you direct to us;
-  * fulfil your requests for products or services;
-  * send communications and administrative emails about the website or our services;
-  * personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services;
-  * running competitions:
-  * other purposes related to any of the above
+  * Administer your account where you have opened an account with us
+  * Register you and provide you access to the website or services requested by you
+  * Respond to inquiries or requests that you direct to us
+  * Fulfil your requests for products or services
+  * Send communications and administrative emails about the website or our services
+  * Personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services
+  * Running competitions
+  * Other purposes related to any of the above
 
 
 
@@ -70,16 +66,16 @@ Where you have provided us with the appropriate consents, or where the Act entit
 
 We believe that advertising is more interesting to you when it is relevant. Accordingly, where you have consented for us to do so we may customise the advertisements that you see based upon:
 
-  * the Information you voluntarily provide to us;
-  * geographic location information, which we may determine through your IP address, from your mobile device, or other ways;
-  * data we receive from third parties; or
-  * your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for further information.
+  * The Information you voluntarily provide to us
+  * Geographic location information, which we may determine through your IP address, from your mobile device, or other ways
+  * Data we receive from third parties
+  * Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our [Cookie Policy](http://haymarket.com/CookiePolicy.aspx) for further information.
 
 
 
-Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for further information.
+Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Please see our [Cookie Policy](http://haymarket.com/CookiePolicy.aspx) for further information.
 
-You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for more details of how to delete cookies.
+You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](http://haymarket.com/CookiePolicy.aspx) for more details of how to delete cookies.
 
 After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
 
@@ -127,12 +123,12 @@ The Telephone Preference Service (TPS), the Corporate Telephone Preference Servi
 
 **6.3 Contacting Us**
 
-If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you [click here](http://pages.haymarket.com/optout/contact_details).
+If your information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you [click here](http://pages.haymarket.com/optout).
 
 Please note that:
 
-  * even if you delete Information, we may retain your Information in conformance with our data retention policy; and
-  * we are not responsible for updating or removing your Information contained in the lists or databases of third parties who have been provided with Information as permitted by this Policy.
+  * Even if you delete Information, we may retain your Information in conformance with our data retention policy; and
+  * We are not responsible for updating or removing your Information contained in the lists or databases of third parties who have been provided with Information as permitted by this Policy.
 
 
 
@@ -154,24 +150,42 @@ We follow appropriate security procedures in the storage and disclosure of your 
 
 10.2 We do not control how your personal information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the information they may be sharing. If you do not want your networking sites to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Haymarket is not responsible for how these third party sites may use information collected from or about you.
 
-**11 HOW TO CONTACT US**
+**11 ANTI-SPAM POLICY**
+
+Haymarket Media Group (Haymarket) provides exciting and thought-provoking content in our emails and aims to tailor them to the specific needs & interests of our brand audiences. We hope you enjoy receiving and reading them.
+
+Haymarket has zero tolerance concerning the sending of unsolicited/bulk commercial email - “spam”. In respect of this policy, please also refer to our full [T&C’s](http://www.haymarket.com/terms-and-conditions) and [Cookie Policy](http://www.haymarket.com/cookies-policy).
+
+11.1 Automated Spam Filtering: We automatically scan all incoming electronic messages and filter out those that appear to be spam.  As no system can be 100% accurate in detecting genuine emails from spam, authentic messages may occasionally be filtered. If you believe this may have happened, please contact the recipient by another means.
+
+11.2 Unwanted messages from Haymarket: Any recipient of email communication from us may request, at any time, to unsubscribe.  In the unlikely event you are in receipt of email communication from Haymarket which could be considered as spam, we encourage you to report it to us by forwarding a copy to us at: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com)
+
+We will fully investigate any reports of abuse.
+
+**12 HOW TO CONTACT US**
 
 If you have any questions regarding privacy or this Policy, you may contact us as follows:
 
 Data Protection Officer Haymarket Media Group Ltd Teddington Studios Teddington Middlesex TW11 9BE
 
-Email us: [datacontroller@haymarket.com ](mailto:datacontroller@haymarket.com?subject=Privacy%20Policy)
+Email us: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com?subject=DataControllerEmail)
 
-**LIST OF THE HAYMARKET GROUP OF COMPANIES – REGISTERED IN ENGLAND AND WALES**
+**13\. LIST OF THE HAYMARKET GROUP OF COMPANIES – REGISTERED IN ENGLAND AND WALES**
 
-Haymarket Media Group Ltd – company number 00267189 
+Haymarket Media Group Ltd – company number 00267189
 
-Haymarket Exhibitions Ltd – company number 2457048 
+Haymarket Exhibitions Ltd – company number 2457048
 
-Thenhurst Agricultural Ltd – company number 1301566 
+Thenhurst Agricultural Ltd – company number 1301566
 
-Haymarket Group Ltd – company number 2809261 
+Haymarket Group Ltd – company number 2809261
 
-Haymarket Publishing Services – company number 0813651 
+Haymarket Publishing Services – company number 0813651
 
 Haymarket Network Ltd – company number 0834207
+
+**_Changes to this Policy_**
+
+We may amend/update this policy by publishing a new version on this website at any time.
+
+_Updated 17 th August 2015._
