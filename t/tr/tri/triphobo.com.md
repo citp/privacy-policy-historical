@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626035520id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223022121id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
 
-# TripHobo.Com - Privacy Policy
+# Privacy Policy: TripHobo
 
 Protecting your privacy is very important to us, thus we have developed this Privacy Policy to protect your personal information and keep it confidential.
 
