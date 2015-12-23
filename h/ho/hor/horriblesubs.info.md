@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613064835id_/http%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223025603id_/http%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » HorribleSubs
 
@@ -20,7 +20,7 @@ How we use collected information
 
 HorribleSubs may collect and use Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
 – To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
