@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408034907id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223122555id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessOnLine
 
