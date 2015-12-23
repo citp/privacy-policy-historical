@@ -1,49 +1,53 @@
-> *The following text is extracted and transformed from the makeupera.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001110id_/http%3A//www.makeupera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupera.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223101852id_/http%3A//www.makeupera.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Make Up Era
+# PRIVACY POLICY - MakeupEra
 
-The Privacy Policy of Makeupera looks after the way it functions in which, Makeupera collect, scrutinizes, maintains and finally discloses information about the user of [http://www.makeupera.com](http://www.makeupera.com/) website. The following privacy policy is applied to the website and to the services offered by Makeupera.
+This privacy policy is aimed to set out as to how Makeupera uses and protects the information that you give Makeupera when you use this website.
 
-### PERSONAL IDENTIFICATION INFORMATION
+  Makeupera is committed to ensure that your privacy is always protected. While using this site if at any stage you are asked to provide any information for your identification, it is to be understood that it is being done so in accordance with the privacy statement.
 
-   
-We might gather personal identification information from the user through different ways only if any user visits our website and subscribe to the newsletter, or fill out forms and other activities like giveaways, services and more features and resources that are available on our web site. The user may be asked to give his details like his name, phone number, email address, and other such information where needed. The users have the privilege to visit our site anonymously if they want. The users can refuse to provide personality identification information; but it would exclude him from participating in certain activities related to the site.
+  Makeupera may change this policy from time to time by updating this page. No prior notification will be given. You should check this page time and again to ensure that you are happy with the changes and are aware of them. This policy is effective from 2014.
 
-### NON PERSONAL IDENTIFICATION
+### KIND OF INFORMATION THAT WE COLLECT
 
-   
-When users interact with our website, we collect the basic non personal identification information about that user. It includes the type of device you are using, the browser name and some other technical information about the user, such as the medium of connection to the site; the ISP (Internet Service Provider).
+We may collect the following information:
 
-### HOW WE USE THE IDENTIFICATION INFORMATION
+  1.)name and job title
 
-   
-Makeupera collect personal as well as non personal identification information about the user for the following purposes:
+  2.)Location and address
 
-  * The information gathered is used to understand the users experience; how she uses the services and the resources provided by our site.
-  * The feedback provided by the users is used by us to improve the site, the products and the services we offer from time to time.
-  * The email addresses of the Users are used to respond to the queries and questions of the users, if the user requests so.
-  * Nevertheless, the information collected from the users is also used to run promotions, giveaways and contests. This is only done to those users, who have agrees to receive information on certain topics that they found interesting.
+  3.)contact information including email address
 
+  4.)preferences and interests
 
+  5.)other information relevant to customer surveys and/or offers 
 
-### PROTECTING USER’S INFORMATION
+### What we do with the information we gather
 
-   
-In Makeupera, we opt for proper data collection and focus on the storage, security measures and other processing practices to protect the information from unauthorized access disclosure and destruction of the user’s personal information such as username, password, information about the transaction and more.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-### CHANGES TO THIS PRIVACY POLICY
+  1.)Internal record keeping.
 
-   
-Makeupera is authorized to make changes and to update this privacy policy, whenever we want, without any prior notification. However, if it is done so, the revised date of update would be mentioned at the bottom of the page. Users of this page are requested to check the page frequently for any changes and stay informed.
+  2.)We may use the information to improve our products and services.
+
+  3.)We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+
+  5.)From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ### YOUR ACCEPTANCE TO THE TERMS
 
-   
-By using this site, you show interest in accepting to the policy. If you are not, then please avoid using this site.
+By using this site, you show interest in accepting to the policy. 
 
 ### CONTACTING US
 
-   
 For any questions or queries about this Privacy Policy, or about the practices of the site, please feel free to contact us at: [http://www.makeupera.com](http://www.makeupera.com/).
 
 _________________________________________________________________
