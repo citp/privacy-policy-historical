@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtoggle.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524141013id_/http%3A//techtoggle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtoggle.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223225341id_/http%3A//techtoggle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechToggle
 
