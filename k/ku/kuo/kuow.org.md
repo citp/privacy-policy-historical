@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuow.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621151839id_/http%3A//kuow.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuow.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223054458id_/http%3A//kuow.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KUOW News and Information
 
