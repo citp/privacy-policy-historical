@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629023512id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223023057id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
 
 # Animal Jam - Animal Jam Online Privacy Policy
 
 Animal Jam Online Privacy Policy  
-Last Updated: Dec. 3, 2014 
+Last Updated: Oct. 14, 2015 
 
-This Privacy Policy applies to WildWorks Inc.’s (“WildWorks”, “us”, “we”) sites and apps, including, without limitation, animaljam.com, AJ Jump, and Animal Jam Mobile (collectively “Animal Jam”), and describes how we collect, store and use information when you use Animal Jam.
+This Privacy Policy applies to WildWorks Inc.’s (“WildWorks”, “us”, “we”) sites and apps, including, without limitation, animaljam.com, AJ Jump, and Animal Jam - Play Wild! (collectively “Animal Jam”), and describes how we collect, store and use information when you use Animal Jam.
 
 By using Animal Jam, you, and your parent/guardian (for themselves and on your behalf) agree to be bound by the TOS and our Privacy Policy. If you do not understand and agree to the TOS or Privacy Policy, please do not use Animal Jam.
 
@@ -41,7 +41,7 @@ You can review your child's Personal Information by contacting us or using the P
 
 **We use Information as otherwise disclosed or permitted by law.** For example, we will use Information about children as we describe in parental consent requests.
 
-**We may share Information.** We will share Information if we're required to by law, or if we have to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share Information when we are investigating potential fraud. We will also share Personal Information and Anonymous Information with vendors who help us run our site. In some features, we may allow children to share monitored communications such as photos, videos, and interactions with other players. These features are only available to accounts with verified parental consent. Some interactions, including Safe Chat, also require paid membership in addition to verified parental consent.
+**We may share Information.** We will share Information if we're required to by law, or if we have to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share Information when we are investigating potential fraud. We will also share Personal Information and Anonymous Information with vendors who help us run our site. In some features, we may allow children to share monitored communications and interactions with other players. These features are only available to accounts with verified parental consent. 
 
 **We will share information with third parties who perform services on our behalf.** For example, we share Personal Information and Anonymous Information with vendors who help us send emails and operate our sites. We also share Personal Information and Financial Information with vendors to complete payments.
 
@@ -49,38 +49,39 @@ You can find a list of third-party operators who collect persistent identifiers 
 
 ## Third Party Service Providers
 
-  * A4games
+  * Ad2Games
+  * Adnexus
   * Amazon Game Circle
-  * Admob
   * Bing Ads
-  * Chartboost
   * Commission Junction
-  * ComScore
+  * CPM Star
   * Doubleclick
   * Facebook
 
 
-  * Fiksu
   * Google Analytics
   * Google Adwords
   * Google Tag Manager
-  * Millennial Media
   * Matomy Media
-  * MoPub
+  * Millennial Media
+  * MSN/Microsoft
   * New Relic
-  * Nielsen
-
-
   * Right Media
-  * SiteScout
+
+
+  * Rocket Fuel
   * Secco Squared 
-  * Tapjoy
+  * Shareasale
+  * SiteScout
   * Unity
-  * Upsight
   * Venatus Media
-  * Zen Desk
+  * *Zendesk
 
 
+
+All third party providers are used on animaljam.com.
+
+*Used on animaljam.com and Animal Jam - Play Wild!
 
 Please contact us below with questions about the privacy policies, collection and use practices of these third parties:
 
