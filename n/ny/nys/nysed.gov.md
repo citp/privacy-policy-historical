@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New York State Education Department
 
 ## **Privacy of your online information on NYSED.gov**
 
-[NYSED Internet Privacy Policy](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy#PRIVACY) | [Online Information Practices](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy#ONLINE) | [General Information about Internet Privacy](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy#GENERAL) | [Cookies and Clear GIFs](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy#COOKIES) | [General Information About Children's Online Privacy](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy#CHILD) | [NYSED Contact Information](https://web.archive.org/web/20150315010726id_/http%3A//www.nysed.gov/privacy-policy#CONTACT)
+[NYSED Internet Privacy Policy](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#PRIVACY) | [Online Information Practices](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#ONLINE) | [General Information about Internet Privacy](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#GENERAL) | [Cookies and Clear GIFs](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#COOKIES) | [General Information About Children's Online Privacy](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#CHILD) | [NYSED Contact Information](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#CONTACT)
 
 ## Internet Privacy and Security Policy
 
@@ -201,17 +201,16 @@ A clear GIF is... |
 
 The NYSED does not solicit information from children under the age of thirteen. If the NYSED receives information submitted by children under the age of thirteen, those communications are accorded the same protections as if the information had been submitted offline.
 
-The Children's Online Privacy Protection Act of 1998 (COPPA) imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the NYSED Website, the NYSED practices are consistent with its mandates. If you would like more information about COPPA, please visit the Federal Trade Commission's official COPPA page at:
-
-<http://www.ftc.gov/bcp/conline/edcams/coppa/>
+The Children's Online Privacy Protection Act of 1998 (COPPA) imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the NYSED Website, the NYSED practices are consistent with its mandates. If you would like more information about COPPA, please visit the Federal Trade Commission's official COPPA page at: <http://www.ftc.gov/bcp/conline/edcams/coppa/>
 
 ### NYSED CONTACT INFORMATION
 
-If you have questions about the NYSED Website privacy statement or this Website, please contact the NYSED by e-mailing the Information Security Officer at [infosec@mail.nysed.gov](mailto:infosec@mail.nysed.gov)
+If you have questions about the NYSED Website privacy statement or this Website, please contact the NYSED by e-mailing the Information Security Officer at [infosec@nysed.gov](mailto:infosec@nysed.gov)
 
 You can also write to the NYSED at:
 
-> Benny Thottam  
->  Chief Information Officer  
->  State Education Department - Room 675 EBA  
->  Washington Avenue, Albany, New York 12234
+> Edward Skinner  
+>  Chief Information Security Officer  
+>  State Education Department - Room 280 EBA  
+>  Washington Avenue, Albany, New York 12234  
+> [infosec@nysed.gov](mailto:infosec@nysed.gov)
