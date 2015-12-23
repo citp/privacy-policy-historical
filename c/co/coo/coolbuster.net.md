@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428205422id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223123044id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
