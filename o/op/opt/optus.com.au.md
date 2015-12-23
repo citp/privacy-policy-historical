@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the optus.com.au privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504210623id_/https%3A//www.optus.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optus.com.au privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223161324id_/https%3A//www.optus.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy- Optus
 
 This is important information we need to share with you, so we recommend taking the time to read through the details so you can get up to speed. It's actually pretty interesting stuff!
 
-Our Privacy Policy is all about personal information – all the things we know about you. Because your information is so important to us, we'll always be honest and transparent about how we handle it.
+Our Privacy Policy is all about personal information - all the things we know about you. Because your information is so important to us, we'll always be honest and transparent about how we handle it.
 
 If you are an Australian customer, the Policy explains how we collect your personal information, what we do with it, and, most importantly, how it's protected.
 
@@ -82,7 +82,7 @@ We aggregate and process personal information to generate new insights about our
 
 When we talk about sensitive information, we mean details about your race, ethnicity, politics, religious or philosophical beliefs, sexual preferences, health, genetics or criminal record.
 
-Generally speaking, we don't need sensitive information about you – it's just none of our business.
+Generally speaking, we don't need sensitive information about you - it's just none of our business.
 
 There may be times when you choose to tell us about your health, and we might collect biometric information for use with new technologies like voice or fingerprint recognition. This could happen as technology changes and evolves over time.
 
@@ -96,7 +96,7 @@ We also work with a number of other companies, and in certain circumstances may 
 
 **The Optus Group**
 
-Different companies within the Optus Group provide different services. The Optus Group includes our parent company SingTel, SingTel Optus Pty Ltd and their subsidiaries.
+Different companies within the Optus Group provide different services. The Optus Group includes our parent company Singtel, Singtel Optus Pty Ltd and their subsidiaries.
 
 **Parties we work with**
 
@@ -138,7 +138,7 @@ Everyone hates being bombarded with ads for things they don't need or have any i
 
 **Advertising Optus products**
 
-Optus advertises by mail, phone, email, text, and online via the internet and in apps. 
+Optus advertises by mail, phone, email, text, and online via the internet and in apps.
 
 **Advertising other products**
 
@@ -160,13 +160,13 @@ We might ask you for information about yourself and things like your employment 
 
 We'll always tell you before we seek a credit report, and we won't get one if you're under 18.
 
-The credit report provided by a credit reporting agency may include information like your employment history, previous credit checks, any problems you've had paying bills and whether those issues were resolved.  Optus uses this information to assess whether we're entering into an arrangement that is sensible for both you and us.
+The credit report provided by a credit reporting agency may include information like your employment history, previous credit checks, any problems you've had paying bills and whether those issues were resolved. Optus uses this information to assess whether we're entering into an arrangement that is sensible for both you and us.
 
-After you become a customer, we store the crucial bits of information from the credit report and  our own credit assessment. We may continue to use this information to manage credit, and to make sure we're offering and providing the right services to you.
+After you become a customer, we store the crucial bits of information from the credit report and our own credit assessment. We may continue to use this information to manage credit, and to make sure we're offering and providing the right services to you.
 
 Optus doesn't use credit related information to generate marketing lists. Sometimes, we might ask a credit reporting agency to do that for us. You can ask the credit reporting agency not to use your information for these purposes by getting in touch with them directly.
 
-Optus works with customer service partners inside and outside Australia on credit related matters. Where necessary, we give our partners access to the credit information they need to help manage credit and your services. 
+Optus works with customer service partners inside and outside Australia on credit related matters. Where necessary, we give our partners access to the credit information they need to help manage credit and your services.
 
 You can get access to credit related information we hold about you, ask us to correct it, or make a complaint, as described elsewhere in this policy. If we agree that our records need to be corrected, and we've previously disclosed that information to a credit reporting agency or other person, we'll tell them about the correction too.
 
@@ -214,7 +214,7 @@ We recognise that your personal information is important to you, so please let u
 
 You can get in touch with us by:
 
-Phone:  [13 39 37](tel:+1800229933) or  
+Phone: [13 39 37](tel:+1800229933) or  
 Mail: Optus, PO Box 306 Salisbury South SA 5106
 
 You can find out more about our complaint process and complaint handling policy at [www.optus.com.au/contactus](http://www.optus.com.au/contactus). If you make a complaint about privacy, we will acknowledge receipt of your complaint, and try to investigate and respond to you within 30 days. If you are unhappy with the outcome, you can lodge a complaint with the [Telecommunications Industry Ombudsman](http://www.tio.com.au/).
