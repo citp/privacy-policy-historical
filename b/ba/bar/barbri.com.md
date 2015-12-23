@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624092514id_/http%3A//www.barbri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223165742id_/http%3A//www.barbri.com/privacy-policy) for the most accurate reproduction.*
 
 # Barbri Privacy Policy - Review the Privacy Policy of Barbri Websites
 
 THE INFORMATION ABOUT YOU COLLECTED ON THIS WEB SITE IS SUBJECT TO THIS PRIVACY POLICY. BY DISCLOSING THE INFORMATION TO US, YOU AGREE TO THE TERMS OF THE POLICY.
 
-BARBRI recognizes the importance of protecting the privacy of our customers and visitors to our website while permitting us to conduct legitimate business by providing services and information of interest to our customers and visitors. Our privacy policy is stated below.
+The BARBRI Group websites uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
+
+We recognize how important your online privacy is to you, so we offer the following option for controlling the targeted ads you receive and how we use your data:
+
+You can opt-out of receiving targeted ads served by us or other advertising companies using the NAI opt out tool [here](http://www.networkadvertising.org/choices/), which will allows you to opt out of seeing targeted ads from us and from other NAI approved member companies.
+
+Please note that when using the ad industry opt-out tool described above:
+
+If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you. If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
 
 Collection and Storage of Information
 
