@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526184526id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223225019id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – About Spreecast
 
@@ -9,8 +9,8 @@ This Privacy Policy applies to all of the products, services and websites offere
 If you have any questions about this Privacy Policy, please feel free to contact us at [support@spreecast.com](mailto:support@spreecast.com).
 
 Spreecast  
-171 Second Street, 6th Floor  
-San Francisco, CA 94105  
+582 Market Street, Suite 2002  
+San Francisco, CA 94104  
 (415)369-9314
 
 **Information we collect and how we use it**  
