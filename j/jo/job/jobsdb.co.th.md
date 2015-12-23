@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173032id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223070235id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Thailand
 
@@ -24,8 +24,10 @@ In this Privacy Statement, the following terms shall have the respective meaning
 
 “ **Advertiser(s)** ” means user who places a job advertisement or promotes any job related activities via the Site.   
 “ **jobsDB** ” means Jobs DB Inc.   
+“ **jobsDB Group** ” means Jobs DB Hong Kong Limited, Jobs DB Singapore Pte Ltd, Jobs DB Philippines Inc, Jobs DB Recruitment (Thailand) Limited and PT Jobs DB Indonesia.   
 “ **jobsDB Thailand** ” means Jobs DB Recruitment (Thailand) Limited.   
 “ **Job Seeker(s)** ” means users seeking employment.   
+“ **Register User(s)** ” means Users who register on the Site to obtain services offered by jobsDB. Unless the context provides otherwise, references in this Privacy Statement to “users” or “you” include references to generic users and Registered Users.   
 “ **Site** ” means any website, job portal or mobile application owned and operated by jobsDB and its affiliates/subsidiaries. 
 
 **Purpose of Collection and Use of Personal Data**
@@ -111,8 +113,9 @@ where the information and/or data is disclosed and/or transferred to any agents,
   
 (c) | 
 
-where permitted under the “ **[Terms and Conditions](http://th.jobsdb.com/en-th/pages/terms/terms-conditions)** ”;  
-  
+where permitted under the “ **[Terms and Conditions](http://th.jobsdb.com/en-th/pages/terms/terms-conditions)** ” including the “ **[Talent Search Terms and Conditions](http://th.jobsdb.com/en-th/pages/terms/talent-search-offer-terms)** ” (see the Profiles Section below);
+
+;  
 (d) | 
 
 where jobsDB Thailand needs to protect and defend its rights and property;  
@@ -129,7 +132,41 @@ where jobsDB Thailand deems necessary in order to deliver the products and servi
 
 where jobsDB Thailand deems necessary in order to maintain and improve the services on the Site.  
   
-Personal data collected via the Site may be transferred, stored and processed in any country in which jobsDB Thailand or its affiliates operate. By using the Site, Users are deemed to have agreed to, consented to and authorized jobsDB Thailand to disclose and/or transfer their personal information and data under the circumstances stated above, as well as to any transfer of information (including the Information) outside of the Users’ country.
+Personal data collected via the Site may be transferred, stored and processed in any country in which jobsDB Thailand or any member of the jobsDB Group operates. By using the Site, Users are deemed to have agreed to, consented to and authorized jobsDB Thailand to disclose and/or transfer their personal information and data under the circumstances stated above, as well as to any transfer of information (including the Information) outside of the Users’ country.
+
+  
+**jobsDB Profile**
+
+jobsDB provides all Registered Users with the option of creating a personal jobsDB Profile (“ **jobsDB Profile** ”). A jobsDB Profile can include a resume, employment and educational history, contact details, salary expectations, and preferred job classifications and locations. Advertisers who are approved by jobsDB are able to search jobsDB’s Profile database to find and contact relevant candidates. jobsDB provides Registered Users with a number of privacy options in relation to the access granted by jobsDB to Advertisers in respect of their jobsDB Profiles and Registered Users can elect how much of their jobsDB profile they wish to share (if any) with Advertisers based on the following privacy settings:
+
+  * **STANDARD**
+
+If you set your jobsDB Profile to standard, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database, and if an Advertiser wishes to purchase access to your jobsDB Profile, your full jobsDB Profile including your resume and contact details will be emailed immediately to the relevant Advertiser. Advertisers may also elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function).
+
+  * **LIMITED**
+
+If you set your jobsDB Profile to limited, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database and Advertisers may elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function). However, due to your privacy setting, Advertisers cannot purchase access to your jobsDB profile.
+
+  * **HIDDEN**
+
+If you set your jobsDB Profile to hidden, your Profile, is completely hidden (thereby preventing Advertisers from viewing your jobsDB Profile). Your jobsDB Profile will be stored in the ‘Profile’ area of the Site and you may alter the privacy settings at any time. Advertisers cannot purchase your profile or send you job opportunities.
+
+Advertisers who use the invitations to apply for jobs function will only receive access to your contact information if you respond directly to the job invitation sent to you.
+
+Where your profile has been bought by an Advertiser, you have replied to a job invitation sent by an Advertiser or you have applied for jobs directly on the Site using your profile, that Advertiser will have access to your up-to-date profile, including your contact details (as updated by you from time to time) for a period of one year after that Advertiser’s advertising package with jobsDB expires (maximum of 24 months) (a “ **Participating Advertiser** ”). If however during the period that an Participating Advertiser has access to your updated profile, you subsequently change you profile setting to Hidden, Advertisers will no longer be able to see your profile, however, Participating Advertisers will retain the ability to access your profile (including your name), but will no longer be able to see your email address, contact phone number and work history.
+
+All information provided when creating a jobsDB Profile (including your name, resume, email address, telephone numbers, employment and educational history) may be used by jobsDB for the purpose of improving placement opportunities for you or for tailoring specific products to you.
+
+Where you create a jobsDB Profile on jobs DB Thailand Site and select a privacy setting of Standard or Limited, you consent to your profile being viewed and/or accessed by Advertisers using the websites of any member of the jobsDB Group, which may result in the transfer of your personal data from Thailand to the other countries in which the other members of the jobsDB Group operate.
+
+Registered Users can modify their jobsDB Profile, their resume or modify the privacy options in relation to their jobsDB Profile at any time, by going to the Profile area of the Site.
+
+You may also elect to clear your jobsDB Profile altogether. Cleared jobsDB Profiles may still however be stored by jobsDB in testing or backup systems for a period of time. jobsDB reserves the right to disable or clear a jobsDB Profile at any time at its sole discretion.
+
+Advertisers that place job ads on jobsDB, and that purchase jobsDB Profiles are asked by jobsDB to comply with all relevant laws and obligations relating to the use and disclosure of personal information. The use of your information (personal or otherwise) by these Advertisers is not within the control of jobsDB and we cannot accept responsibility for the conduct of these companies.
+
+
+
 
   
 **Subscription of Newsletters/Promotional Materials/Marketing Materials  **
