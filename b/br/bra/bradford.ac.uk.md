@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054604id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223095921id_/http%3A//www.brad.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - University of Bradford
 
@@ -8,7 +8,7 @@ This privacy policy sets out how University of Bradford uses and protects any in
 
 University of Bradford is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement and the Data Protection Act.
 
-University of Bradford may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25 May 2012 to comply with the EU Cookie Law which comes into effect on 26 May 2012. See the [Information Commissioners Office website](https://ico.org.uk/for-organisations/guide-to-pecr/cookies/ "Information Commisioner's website.") for full details (external link).
+University of Bradford may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25 May 2012 to comply with the EU Cookie Law which comes into effect on 26 May 2012. See the [Information Commissioners Office website](https://ico.org.uk/media/for-organisations/documents/1545/cookies_guidance.pdf "Information Commisioner's website.") for full details (pdf).
 
 ## What we collect
 
