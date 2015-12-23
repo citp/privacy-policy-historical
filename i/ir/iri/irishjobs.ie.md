@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201030id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223230720id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
 
 # IrishJobs.ie for jobs in Ireland. Search IrishJobs.ie for jobs in Ireland, Dublin, Cork and Galway.
 
@@ -12,9 +12,9 @@ By using the Website and/or the IrishJobs.ie Service, you permit the collection 
 
 ## About our privacy policy
 
-Our website IRISHJOBS.IE which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (the “Website" ) and the services provided on the Website (for a more complete description of the services see our Terms and Conditions ) (the "IrishJobs.ie Service ") are operated by IrishJobs.ie , South Block The Malthouse, Grand Canal Quay, Dublin 2, Ireland (" we ", "us " and "our "). The Website and the IrishJobs.ie Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information.
+Our website IRISHJOBS.IE which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (the “Website" ) and the services provided on the Website (for a more complete description of the services see our Terms of Use) (the "IrishJobs.ie Service ") are operated by IrishJobs.ie , South Block The Malthouse, Grand Canal Quay, Dublin 2, Ireland (" we ", "us " and "our "). The Website and the IrishJobs.ie Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information.
 
-This policy, our Terms and Conditions and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the IrishJobs.ie Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This policy, our Terms of Use and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the IrishJobs.ie Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 ## Site security
 
@@ -34,6 +34,7 @@ We may collect and process the following data about you:
   * information that you submit in response to surveys or polls;
   * details of applications for employment positions that you make using the Website;
   * details of resumes or curricula vitae which you make available on the Website for third parties to browse in connection with employment, consultant or contractor positions;
+  * details of company reviews, salary surveys, recruitment process feedback and other User Content which you make available on the Website;
   * details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;
   * proof of identity that we request from you before we disclose personal information to you that we hold (in order to establish that we are disclosing the personal data to you and not to someone pretending to be you); and
   * personal details that you submit to us, such as your name, address, telephone number, email address, gender and date of birth.
@@ -50,6 +51,7 @@ We use information held about you in the following ways:
   * if you choose to be a registered user of the Website, we will display details of the personal information about you that you submit to the Website for registered Customers of the Website, so that Customers are able to evaluate whether you are a suitable candidate for a vacant position (whether or not a Job Specification); you will be able to control the type of personal information about you which will be displayed in this way through your user account;
   * to ensure that content from the Website is presented in the most effective manner for you and for your computer;
   * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+  * to ensure we present the most relevant job and employer opportunities and to you to use anonymized data for statistical purposes and make such analysis available to third parties;
   * to allow you to participate in interactive features of our service, when you choose to do so; and
   * to notify you about changes to our service.
 
@@ -86,6 +88,8 @@ If you provide personal information to us you understand and agree that we may d
 We will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing at the time that we notify you.
 
 We do not disclose personal information about you to third parties (including advertisers or marketing companies), but we may provide them with aggregate anonymised information about the Website's users. For example, we may inform them that 500 men aged under 30 have registered as users of the Website, or we might inform third parties regarding the number of unique users who visit a particular Job Specification on the Website, the demographic breakdown of our registered users of the Website or the activities that visitors to the Website engage in while on the Website. We may also use such aggregate anonymised information to help Customers improve their Job Specifications.
+
+We reserve the right to disclose the identity of an account holder, if we are ordered to do so by a court of competent jurisdiction, law enforcement, regulatory or administrative authorities or where there is a statutory obligation to do so.
 
 We may provide your personal data to third parties for purposes that you agree to elsewhere in this Privacy Policy where those third parties based outside of Ireland or outside the European Economic Area (which may not provide the same protection for such information as offered in the Ireland), and you consent to a transfer of your personal information to third parties identified in this Privacy Policy for purposes identified in this Privacy Policy.
 
