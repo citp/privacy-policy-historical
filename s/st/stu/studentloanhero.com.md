@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studentloanhero.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315155310id_/https%3A//studentloanhero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloanhero.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223231001id_/http%3A//studentloanhero.com/privacy-policy) for the most accurate reproduction.*
 
-# Student Loan Hero - Privacy Policy | Student Loan Calculator, Pay off student loans | Student Loan Hero
+# Student Loan Hero - Privacy Policy | Refinance and Consolidate Your Student Loans | Student Loan Hero
 
 ### STUDENT LOAN HERO, INC. PRIVACY POLICY
 
-Thanks for using http://www.studentloanhero.com (the “Site”). At Student Loan Hero, Inc. (“SLH”), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy.
+Thanks for using http://studentloanhero.com (the “Site”). At Student Loan Hero, Inc. (“SLH”), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy.
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you by email. We also encourage you to check back, from to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy.
 
