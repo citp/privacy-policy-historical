@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybidmonster.com.ng privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410060637id_/http%3A//www.shopandmall.com.ng/main-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybidmonster.com.ng privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223122739id_/http%3A//www.shopandmall.com.ng/main-privacy) for the most accurate reproduction.*
 
 # Privacy | shopandmall.com.ng
 
