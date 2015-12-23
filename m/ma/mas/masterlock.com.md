@@ -1,74 +1,104 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622035624id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223040416id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master Lock
 
-Welcome to the Master Lock Internet site (this "Site"), of Master Lock Company LLC ("Master Lock Company"). Master Lock Company wants you to know what information we learn about you when you visit this Site, what we do with that information and any other information you voluntarily provide us through this Site or by other means and how you can view or change the information we have. This privacy policy describes our information collection and use practices on this Site. It does not apply to information you might provide on another site operated by us, or one of our partners or affiliates, nor does it apply to information you may provide to us through other forums, including offline or through electronic mail.
+### This Privacy Policy applies to the sites and apps where it appears.
 
-## Information Collected At This Site
+This Policy describes how we treat personal information on the websites where it is located. It also applies to our mobile sites and apps. By using these sites and apps, you agree to the terms of this privacy policy.
 
-There are 2 types of information that we can learn about you as you browse and use this site. Each type of information can be used in a different way.
+### We collect information from and about you.
 
-  1. Internet-related Information — generic statistical and demographic information that we gather passively from visitors to the Site.
-  2. Personal Information that you provide when registering, ordering online, entering a promotion or making contact with us.
+**We collect contact information.** We might collect your name and street address if you create an account or register on our site. We might also collect your phone number or email address.
 
+**We collect payment information.** We collect your credit card number if you make a purchase.
 
+**We collect demographic information.** We may collect information like your gender and age. We may also collect your zip code. We might collect this when you engage with our websites or contact us.
 
-#### Internet-Related Information Gathered Passively
+**We collect information you submit or post.** We collect reviews and comments that you post on our site. We also collect information when you contact us.
 
-We collect Internet-related Information from visitors to our Site, including the referring URL, your IP address, which browser you used to come to the Site, the country, state or province, the pages of our Site that you viewed during your visit and any search terms entered on our Site, for the purposes of system administration, to gather broad demographic information, and to monitor the level of activity on our Site. We track customers' traffic patterns throughout their online sessions, including which pages or specific URLs a customer views while using the Site. We use your Internet-related Information to diagnose problems with our servers and software and to administer our Site. We may share aggregated statistics about pages viewed on our Site, demographic information and sales and other shopping information with third parties to enrich your visitor experience.
+**We collect other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect certain device IDs and your GPS location. We might look at how often you use the app and where you downloaded it. We collect this information using the tracking tools described below. To control those tools, please read the "choices" section below.
 
-#### Actively Collected Personal Information You Provide
+### We collect information in different ways.
 
-If you provide information about yourself by registering on a page, ordering product, filling out a survey, entering a promotion (including contests, sweepstakes, offers and rebates) or otherwise voluntarily telling us about yourself or your activities, we will collect and use that Personal Information to respond to your request, and for other business purposes, including identifying consumer preferences and improving our products and services and the content of this Site. We may also contact you by email, regular mail, fax, text message, or telephone from time to time with information about our new products and services, special offers, upcoming events and changes to this Site. If you do not wish to be contacted by all or any of these methods, you may let us know by sending an email message to us at [masterlock@mlock.com](mailto:masterlock@mlock.com). Please be sure to give us your exact name and address, and your detailed request so we can respond appropriately.
+**We collect information directly from you.** If you register on our site or sign up for our emails we collect information from you. We also collect information if you contact us or enter a promotion.
 
-## How To Access Or Modify Your Personal Information
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons to collect information from you. We may also use tracking pixels. We collect information about users over time when you use this website. We might also collect information from our mobile apps like device identifiers. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](https://web.archive.org/about-our-ads).
 
-You have the right to access and modify your Personal Information. You can access and change your Personal Information by contacting us at [masterlock@mlock.com](mailto:masterlock@mlock.com). Your Profile will be updated.
+**We get information about you from third parties.** Our business partners may give us information about you. Social media platforms may also give us information about you.
 
-## Sharing Information
+**We combine information.** We may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
 
-If you provide us with your consent, we may share your Personal Information with our affiliates and business partners with whom we have joint marketing arrangements. We may also give you the opportunity, at the time that you provide us with your contact information, to have your information shared with other third parties or posted on this site for reasons we will describe at the time we make the request. If you do not want us to share your Personal Information with our marketing affiliates and business partners, then please let us know by contacting us at [masterlock@mlock.com](mailto:masterlock@mlock.com).
+### We use information as disclosed and described here.
 
-We employ other companies to perform certain functions on our behalf, such as fulfilling orders, delivering packages, and services related to the design, maintenance and improvement of this Site and our database and related systems. These companies have access to your information. We have arranged with Verisign and GeoTrust to process your credit card information. They use SSL encryption of your credit card information. You may access the [www.verisign.com](http://www.verisign.com/) and [www.geotrust.com](http://www.geotrust.com/) sites and privacy policies to read more about the security measures they employ. Regardless of whether you have provided us with consent, we will share your information with those companies that perform certain functions on our behalf under contract to us, and as may be necessary to comply with applicable laws, police investigations, or in legal proceedings where disclosure of such information is relevant and permitted by law. Master Lock Company will also assign, sell, license, or otherwise transfer to a third party your name, address, e-mail address, member name and any other Personal Information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the Master Lock service, or the assets, business or stock of Master Lock Company LLC.
+**We use information to respond to your requests or questions.** We might use your information to respond to your customer feedback. We may use your information to notify you about changes to your account.
 
-## Links To Other Websites
+**We use information to improve our services.** We may use your information to make our websites and apps better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.
 
-On this Site, we may provide as a convenience to you links to other websites, including sites operated by us, our partners, associates, or independent third parties. These links are provided as a convenience to you. Each website has its own privacy practices, as described in that site's privacy policy. Those practices may be different than the practices described herein, and we urge you to read each website's privacy policy carefully before you use or submit information to that site. Additionally, to the extent that you follow a link to a website operated by an independent third party, please be aware that we exercise no authority or control over that third party, and cannot and are not responsible for any information that you may submit at that site.
+**We use information for security purposes.** We may use your information to protect our company and our customers. We also use information to protect our websites and apps.
 
-## Where Do We Store And How Do We Secure Your Personal Information
+**We use information for marketing purposes.** We might provide you with information about new products and special offers. We might also use your information to serve you ads about our products and services. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. To learn about your choices for these communications, read the "choices" section below.
 
-Your Personal Information will be kept in a database held on servers kept in a physically and technologically secure environments located in Austin, Texas and Chicago, Illinois, U.S.A., accessed only by authorized personnel or contractors who are bound to keep your information confidential. All transmissions of your credit card information are encrypted. We have in place procedures for training our employees about their obligations under this Privacy Policy, disciplining them for failure to follow this Policy. We also have in place internal procedures to confirm general company compliance with this Policy.
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms. We may also use push notifications on our mobile apps. We may send you push notifications to request permission to turn on your device's Bluetooth function, or for other reasons as we may notify you from time to time.
 
-Although we will use all reasonable efforts to safeguard the confidentiality of any Personal Information collected, we will not be liable for disclosure of Personal Information obtained due to errors in transmission or the unauthorized acts of third parties.
+**We use information as otherwise permitted by law or as we may notify you.**
 
-Master Lock Company is located in the United States, and by providing information to Master Lock Company, you are transferring your personal data to the United States, and you consent to that transfer and to the processing of your data in the United States. If you are visiting from another country, your country's laws governing data collection and use may differ from those in the United States, which may not provide the same level of protections as those in your own country.
+### We may share information with third parties.
 
-## Important Note To Kids
+**We will share information within the Master Lock family of brands.**
 
-We do not wish to obtain personal information from children who are using our Site unsupervised. Before providing us your name, address, e-mail address or any other personal information, be sure to ask your parents or guardian for permission.
+**We will share information with third parties who perform services on our behalf.** We share information with vendors who operate our sites or provide analytics. We also share information with companies that send emails for us or run a promotion.
 
-## User Name And Password
+**We may share your information with our business partners.** We will share information with third parties to jointly promote a product or service. These partners may send you information about events and products by mail or email.
 
-You are responsible for maintaining the confidentiality of your user name and password. You shall be responsible for all uses of your membership, whether or not authorized by you. You agree to immediately notify Master Lock Company of any unauthorized use of your user name or password.
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** We will share information to respond to a court order or subpoena. We may share information if a government agency or investigatory body requests it. We might share information if we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion. Or we may share your information if you are the winner of a sweepstakes or other contest with anyone who requests a winner's list.
 
-## Cookies
+**We may share information with a successor to all or part of our business.** If part of our business is sold we may include user information as part of that transaction.
 
-When you visit this Site, we leave a "Cookie" in the memory of your Web browser. The Site will only function properly if Cookies are enabled. This Site may use persistent Cookies to authenticate you as a user and display content that is relevant and specific to you. Cookies are very small files that store information about your visit to and use of this Site. Most major commercial Internet sites use them and they make your Internet-surfing more useful and less time-consuming for you because they store information that is reusable each time you visit this Site, such as birthday and other preferences you have chosen to share with us. Cookies cannot access and read the files on your hard drive and cannot be used as a virus. They do allow us to provide information and products that are more meaningful to you without asking you the same questions every time you visit us. You may get Cookies from our advertisers. We cannot pre-screen these Cookies since they come directly to you from other sites. We hope you will want the better service that Cookies allow, but if you prefer, you can set your browser to refuse Cookies. However by doing that, you will not be able to access some portions of our Site. [Learn more about how to enable and disable Cookies](https://support.microsoft.com/en-us/kb/260971).
+**We may share information for other reasons we may describe to you from time to time.**
 
-**We reserve the right to change or update this policy at any time by posting a notice that we are changing our privacy policy or by sending an e-mail message to previously registered visitors.**
+### You have certain choices about how we use your information.
 
-## What To Do If You Have Questions Or Concerns About Your Information, Or If You Need To Contact Us
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. You may also adjust your settings in one of our Preference Centers on certain of our sites. If you object to our use of your information for direct marketing purposes, please email us at [masterlock@mlock.com](mailto:masterlock@mlock.com). Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
-If you need information or have any questions or concerns about this Privacy Policy or our use of your Personal Information, or wish to review all of your Personal Information, you may contact our Director of E-Commerce Solutions & Data via e-mail at [masterlock@mlock.com](mailto:masterlock@mlock.com), or via mail at  Master Lock Company LLC, World Headquarters, 137 W Forest Hill Avenue, PO Box 927, Oak Creek, WI 53154 [Phone: 800-464-2088](tel:8004642088) .
+**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, and to read our **Do Not Track** policy, please click [here](https://web.archive.org/about-our-ads).
 
-**This policy is effective as of March 15, 2014.**
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.
 
-[Terms of Use](https://web.archive.org/legal-statement)
+### Your California privacy rights.
 
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [masterlock@mlock.com](mailto:masterlock@mlock.com), or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a "Shine the Light" inquiry.
+
+### These sites and apps are not intended for children.
+
+Our sites where this policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at [masterlock@mlock.com](mailto:masterlock@mlock.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, you can learn more about how to protect children's privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+### We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+### We store information both in and outside of the United States.
+
+Information we maintain may be stored both in and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+### We may link to sites or apps or have third party services on our platforms we don't control.
+
+If you click on a link to a third party site, you will be taken to a website we do not control. This policy does not apply to the privacy practices of that website. Read the privacy policies of other websites carefully. We are not responsible for these third party sites.
+
+### Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy, please email us at [masterlock@mlock.com](mailto:masterlock@mlock.com).
+
+You can also write to us or call at:  
 Master Lock Company LLC  
 World Headquarters  
-137 W Forest Hill Avenue  
-PO Box 927  
-Oak Creek, WI 53154 [Phone: 800-464-2088](tel:8004642088)
+Attn: Customer Care  
+137 W. Forest Hill Avenue  
+Oak Creek, WI 53154  
+Phone: 1-800-464-2088  
+
+
+### We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
 © 2015 Master Lock Company LLC. All rights reserved.
