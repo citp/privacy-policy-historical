@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narcity.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217050747id_/http%3A//www.narcity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narcity.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223015129id_/http%3A//www.narcity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Narcity
+# Narcity - Privacy Policy
 
 This Privacy Policy was last modified on September 21, 2013.
 
