@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623083448id_/http%3A//www.pcrecruiter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223231623id_/http%3A//www.pcrecruiter.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PCRecruiter
 
@@ -6,13 +6,13 @@
 
 Effective Date: June 1, 2015
 
-Main Sequence Technology (Main Sequence), an Ohio corporation, provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information. This Web Site Privacy Statement discloses the privacy practices for [www.pcrecruiter.net](http://www.pcrecruiter.net/) and [www.pcrecruiter.net](http://www.pcrecruiter.net/).
+Main Sequence Technology (Main Sequence), an Ohio corporation, provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information. This Web Site Privacy Statement discloses the privacy practices for [www.pcrecruiter.net](https://www.pcrecruiter.net/) and [www.pcrecruiter.net](https://www.pcrecruiter.net/).
 
-[www.pcrecruiter.net](http://www.pcrecruiter.net/) is the corporate website of Main Sequence, a provider of online technology used by recruitment and hiring teams to post jobs, process applicants, and conduct operations worldwide. Direct hiring organizations and various third-party entities are Main Sequence’s customers. The website is used for sales and service of the company’s solutions.
+[www.pcrecruiter.net](https://www.pcrecruiter.net/) is the corporate website of Main Sequence, a provider of online technology used by recruitment and hiring teams to post jobs, process applicants, and conduct operations worldwide. Direct hiring organizations and various third-party entities are Main Sequence’s customers. The website is used for sales and service of the company’s solutions.
 
-[www.pcrecruiter.net](http://www.pcrecruiter.net/) is the root URL used for the hosted accounts of Main Sequence customers. This privacy statement for [www.pcrecruiter.net](http://www.pcrecruiter.net/) also applies to certain personal data that Main Sequence processes in the United States from the European Union relating to the Safe Harbor program. For more information about Safe Harbor, please visit <http://www.export.gov/safeharbor/>. The website is used by our customers and third parties to facilitate hiring transactions.
+[www.pcrecruiter.net](https://www.pcrecruiter.net/) is the root URL used for the hosted accounts of Main Sequence customers. This privacy statement for [www.pcrecruiter.net](https://www.pcrecruiter.net/) also applies to certain personal data that Main Sequence processes in the United States from the European Union relating to the Safe Harbor program. For more information about Safe Harbor, please visit <http://www.export.gov/safeharbor/>. The website is used by our customers and third parties to facilitate hiring transactions.
 
-#### Privacy Information for [www.pcrecruiter.net](http://www.pcrecruiter.net/)
+#### Privacy Information for [www.pcrecruiter.net](https://www.pcrecruiter.net/)
 
 We do not collect any personally identifiable information without user knowledge. Personally identifiable information is collected using forms. Personally identifiable information is optional for use of the website.
 
@@ -32,13 +32,13 @@ The website and it’s associated databases are subject to reasonable security m
 
 If you wish to change or update personally identifiable information, or if you are interested in removing information from Main Sequence database(s), please send email to: [webmaster@mainsequence.net](mailto:webmaster@mainsequence.net) or send your request via US mail to the address listed below.
 
-Currently, Main Sequence does not share or sell any sales related information acquired through the [www.pcrecruiter.net](http://www.pcrecruiter.net/) website with any third parties.
+Currently, Main Sequence does not share or sell any sales related information acquired through the [www.pcrecruiter.net](https://www.pcrecruiter.net/) website with any third parties.
 
 In the event there is a change in Main Sequence’s corporate structure, including without limitation, merger, consolidation, sale, liquidation or transfer of substantial assets, Main Sequence may, in its sole and absolute discretion, transfer, sell or assign information collected, including without limitation aggregated information and personally identifiable information, to one or more affiliated or unaffiliated third parties.
 
-This privacy statement will reflect any future changes made to privacy practices relating to [www.pcrecruiter.net](http://www.pcrecruiter.net/)
+This privacy statement will reflect any future changes made to privacy practices relating to [www.pcrecruiter.net](https://www.pcrecruiter.net/)
 
-#### Privacy Information for [www.pcrecruiter.net](http://www.pcrecruiter.net/)
+#### Privacy Information for [www.pcrecruiter.net](https://www.pcrecruiter.net/)
 
 This Safe Harbor Privacy Statement (the Statement) sets forth the privacy principles followed by Main Sequence in connection with the transfer and protection of “personal information” received from the European Union (EU).
 
@@ -48,7 +48,7 @@ Main Sequence has certified that our privacy practices comply with the Safe Harb
 
 **ALL INFORMATION ENTERED INTO PCRECRUITER.NET IS THE SOLE PROPERTY OF THE MAIN SEQUENCE CUSTOMER ACCOUNT OWNER.**
 
-**Main Sequence does not control or monitor the collection, use or disclosure of information collected from Public Users by Account Owners. Main Sequence expressly disclaims any and all liability related to any collection, disclosure or use of such information relating to Public Users. In addition, we encourage all site visitors to seek out and read the privacy policies of account owners and all sites visited on the Internet. Main Sequence is in the solutions hosting business and may host databases for account owners at website addresses other than[www.pcrecruiter.net](http://www.pcrecruiter.net/). **
+**Main Sequence does not control or monitor the collection, use or disclosure of information collected from Public Users by Account Owners. Main Sequence expressly disclaims any and all liability related to any collection, disclosure or use of such information relating to Public Users. In addition, we encourage all site visitors to seek out and read the privacy policies of account owners and all sites visited on the Internet. Main Sequence is in the solutions hosting business and may host databases for account owners at website addresses other than[www.pcrecruiter.net](https://www.pcrecruiter.net/). **
 
 The “Safe Harbor” program was jointly established in June 2000 by the United States Department of Commerce and the European Commission, as a method for transferring personal information from the European Union (EU), to companies in the United States. The program is a voluntary self-certification process for companies operating in the United States. Companies that certify represent that they are upholding privacy standards for personal information received from the EU that have been jointly accepted by the EU Commission and the US Department of Commerce.
 
