@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undergroundshirts.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506074436id_/http%3A//undergroundshirts.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundshirts.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223213925id_/http%3A//undergroundshirts.com/privacy_policy) for the most accurate reproduction.*
 
 # None
 
-## Introduction
+INTRODUCTION
 
 A-1 Screenprinting, LLC (d/b/a “Underground Printing”) (“Company” or “We”) respects your privacy and is committed to protecting it through this policy.
 
@@ -25,11 +25,11 @@ It does not apply to information collected by:
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you may not use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-## Children Under the Age of 13
+CHILDREN UNDER THE AGE OF 13
 
 Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
 
-## Information We Collect About You and How We Collect It
+INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
 We collect several types of information from and about users of our Website, including information:
 
@@ -47,7 +47,7 @@ We collect this information:
 
 
 
-## Information You Provide to Us
+INFORMATION YOU PROVIDE TO US
 
 The information we collect on or through our Website may include:
 
@@ -61,7 +61,7 @@ The information we collect on or through our Website may include:
 
 You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk.
 
-## Intellectual Property Rights
+INTELLECTUAL PROPERTY RIGHTS
 
 Underground Printing is committed to the appropriate and legal use of the intellectual property of others, and we require our users to behave similarly. Unless otherwise noted, all materials, including images, illustrations, designs, icons, photographs and written and other materials that appear on the Website (collectively the "Contents") are copyrights, trademarks, trade dress and/or other intellectual properties owned, controlled or licensed by us.
 
@@ -73,7 +73,7 @@ Additionally, we have the sole discretion to reject any order that it considers 
 
 You agree to not use our Website or Service to create any material that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable, or that infringes on any patent, trademark, trade secret, copyright or other proprietary rights of any third party.
 
-## Usage Details, IP Addresses, Cookies, and Other Technologies
+USAGE DETAILS, IP ADDRESSES, COOKIES, AND OTHER TECHNOLOGIES
 
 As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
 
@@ -101,11 +101,11 @@ The technologies we use for this automatic data collection may include:
 
 We do not collect personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-## Third-party Advertiser Use of Cookies and Other Tracking Technologies
+THIRD-PARTY ADVERTISER USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES
 
 Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly.
 
-## How We Use Your Information
+HOW WE USE YOUR INFORMATION
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
@@ -124,7 +124,7 @@ We may also use your information to contact you about our own and third-parties'
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-## Disclosure of Your Information
+DISCLOSURE OF YOUR INFORMATION
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
@@ -148,7 +148,7 @@ We may also disclose your personal information:
 
 
 
-## Choices About How We Use and Disclose Your Information
+CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
@@ -159,7 +159,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 
 
-## Accessing and Correcting Your Information
+ACCESSING AND CORRECTING YOUR INFORMATION
 
 You can review and change your personal information by logging into the Website and visiting your account profile page.
 
@@ -167,11 +167,11 @@ You may also send us an e-mail at privacypolicy@undergroundshirts.com to request
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use.
 
-## Your California Privacy Rights
+YOUR CALIFORNIA PRIVACY RIGHTS
 
 California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacypolicy@undergroundshirts.com.
 
-## Data Security
+DATA SECURITY
 
 We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted.
 
@@ -179,11 +179,11 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
-## Changes to Our Privacy Policy
+CHANGES TO OUR PRIVACY POLICY
 
 It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you [by e-mail to the e-mail address specified in your account and through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-## Contact Information
+CONTACT INFORMATION
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
