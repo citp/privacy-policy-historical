@@ -1,83 +1,99 @@
-> *The following text is extracted and transformed from the antarcade.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015230018id_/http%3A//www.antarcade.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antarcade.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223025233id_/http%3A//antarcade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Antarcade | Privacy Policy
 
-### Privacy Statement
+ANTARCADE PRIVACY POLICY
 
-Privacy Statement Index
+This Privacy Policy ("Policy") explains what information Antarcade (referred to herein as "Antarcade", "Company", "we", “us”, or “our”) collect from individuals who visit the Antarcade.com website (the "Site") and/or participate in the resources offered by Antarcade ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
 
-1\. Introduction
+**Changes to this Privacy Policy**
 
-  * 3\. Sharing of Information
-  * 4\. Security 
-  * 5\. Links 
-  * 6\. Changes 
-  * 7\. Legal Disclaimer 
-  * 8\. Glossary of Terms 
-  * 
+If we decide to change our privacy practices, we will post those changes to this Policy or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
+We reserve the right to update or modify this Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on the Site’s home page.
 
-We Really Care About Your Privacy  
-Ant Arcade created this section of the web site, dedicated to explaining the way we operate our business. It also explains what you, as our visitor, will experience when visiting our site and outlines your privacy rights.
+This Policy applies only to information collected through the Site, but not to information collected or obtained from other sources.
 
-Questions regarding this statement should be directed to Customer Service by email, 
+We collect two kinds of information through the Site. The first kind is information that can identify you as a specific individual - such as your name and email address (“Personally Identifiable Information” or "PII"). We only collect PII when you have contacted us directly (See "Collection of Personally Identifiable Information" below). The second kind of information is the kind of non-personally identifiable information ("NPII") collected and stored automatically by many websites. It includes, for example, information about your Internet service provider, operating system, type of browser, geographic location, and pages viewed on the Site. Although this information is related to you, it is not associated with your PII and cannot be linked to you personally.
 
-Information you provide us via the following: 
+If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
 
-Order Form  
-Ant Arcade requires your name, billing address, phone number, email address, shipping address and credit card information to process an order. We also use this information if the need arises, to contact you about your order. Firstly, we will try to contact you by email and only if that fails, or if time is critical, will we try to contact you by phone. We process your orders ourselves, in house so your details remain with us. 
+In addition, the Site and games within the Site may display advertisements from third parties before and/or during gameplay. All advertisements from the Site and games within the Site shall collectively be known as “Third Party Content”. Your dealings with Third Party Content, including, but not limited to, your interaction with its advertisements and promotions, purchase of its goods, or any other type of involvement, are solely between you and the third party. Therefore we do not endorse the advertisements, products or other materials of the Third Party Content. If you interact with the Third Party Content, their terms and conditions and privacy policies apply to your rights and obligations with respect to such interaction. Accordingly, such third parties may collect PII or NPII about you.
 
-When we have to share this information, it will only be necessary information with third parties for the processing of your order. For example, the financial institution that issued your credit card and the parcel service that delivers your order. Any sharing of personal information will only occur with service providers (banks, credit card verifiers, etc.) in processing orders. 
+**Collection of Personally Identifiable Information**
 
-Ant Arcade does not give shoppers the Paypal option for payments. Be aware that Paypal requires you to enter your personal and financial information on the Paypal website. For information provided on the Paypal web site, refer to Paypal’s Privacy Policy.
+PII is collected by Antarcade only when you provide it to us via the "Contact Us" page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
 
-‘Contact Us’ Emails  
-Contact us by email via the Contact Us form. For a suggestion or problem, you will be prompted for your name and email address. We will only use that information to send you a quick reply. As all service related emails are related to our service and are not promotional, there is no opt-out or unsubscribe option. For example, on registering, sending a new user their name and password.
+If you do not want us to collect your PII as described above or to use and share your PII as described further below in this Policy, you should NOT provide it to us through the Site feature described above. By providing us with your PII using this feature, you are authorizing our use and sharing of your PII as described in this Policy and any subsequent revisions to this Policy that we may publish on the Site.
 
-Contest Entry Form  
-Entry to our contests requires your name, mailing address and email address. Also we need you to maintain a subscription to our free email newsletter. The contest rules state that you give us permission, should you be a winner, to publish your name, city, state and country on our web site. Winners will be notified by email. Prize redemption instructions will be sent by post to the address given on your entry form. Your personal information will not be used for any other purpose and you will not receive any additional mailings. Please be advised that contests will only take place occasionally.
+**Updating Your Personally Identifiable Information.**
 
-Information We Automatically Collect 
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at info@antarcade.com or by going to our Contact Us page.
 
-Shopper ID  
-On your first visit to our store, we assign you a unique Shopper ID and attempt to store that onto your computer in the form of a cookie. This is used to keep track of your shopping bag during your visit and between visits. Cookies used by antarcade.com are not tied to personally identifiable information. If you are uncomfortable with the idea of being assigned a Shopper ID, we recommend disabling cookie support in your browser (please see your browser documentation for specific procedures). You may still place an order by phone, fax or postal mail. Disabling cookie support will disable the shopping bag feature of our site.
+We will retain your information for as long as needed to provide you services. If you wish that we no longer use your information to provide you services, contact us at info@antarcade.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-IP Address  
-IP addresses are recorded as a means of monitoring the level of activity on our site, but we do not link this to your Shopper ID. When clicking a link from an affiliate’s web site to gain entry to our web site, we will try to store the affiliate’s ID as a cookie. We do this so the affiliate web site receives credit for any order you might place. Your personal information will not be shared with any of our affiliates.
+**Social Media (Features) and Widgets:**
 
-AntArcade.com uses industry standard SSL encryption when accepting your credit card information during our online checkout process. 
+The Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Site. These features may collect your IP address, which page you are visiting on the Site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are hosted by a third party. Your interactions with these Features are governed by the privacy policy of the third party company providing it.
 
-We may include links to other sites. Although we choose these sites, based on their integrity, we cannot be responsible for the site’s privacy policies and content. We will let you know when a link goes to another site.
+**Children's Privacy**
 
-Order information  
-Changes to your order can be made by contact us via email [sales@AntArcade.com](mailto:sales@AntArcade.com) or phone  02 9664 8142 (Within Australia) or 0011 612 9964 8142 (International Calls) and we will be happy to assist you. A confirmation email will be sent from antarcade.com after receiving any changes/updates to 
+We do not knowingly collect PII from anyone under 13 years of age. We cannot and will not independently verify that all of our Users are at least 13 years old, but we will remove from our files any PII of anyone we discover to be under 13 years old.
 
-your order. 
+**Use and Sharing of Personally Identifiable Information**
 
-Contest entry  
-Remove your registration from our contest by sending us an email with your email address. A confirmation of your request will be sent to the email address and your contest entry will be deleted. To make any other changes to your contest entry, please contact us via email or phone and we will happy to assist you. For any of the above issues contact us via email.
+We reserve the right to use PII: (1) for the specific purpose for which such information was provided as stated above; and (2) as otherwise stated in this Policy.
 
-Account Information   
-Ant Arcade account holders can access and change account information; shipping/billing addresses, password, email, subscriptions, credit card (if you choose to store it) and open orders. Click the My Account tab on top of every page and log-in providing your email and password.
+We do not share, sell or trade any of your PII with any third parties other than described herein. We may share your PII with our parent company and its principals, employees, consultants, officers, directors, members, agents, subsidiaries, or affiliates (collectively "Related Companies"). Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your PII.
 
-Changes in Privacy Statement/Information  
-If we are going to use your personal information for a purpose other than that which is stated, we will notify you via email. You will have a choice as to whether or not we use your information. If we make any additional changes in our privacy practices affecting user information, we will post an obvious notice on our web site notifying users of the change. We will also email users, who have chosen to receive communications from us.
+We and our Related Companies may provide access to your PII when legally required to do so, to comply with a court order, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of other users or the public.
 
-Cookies  
-Cookies are pieces of information that a web site stores in your computer. Temporary cookies only last as long as your browser is running. Persistent cookies are stored on your hard disk (they take up very little space). Sites often use cookies to identify repeat visitors.
+We and/or our Related Companies may also disclose your PII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist in distributing e-mails; (c) provide fraud prevention; (d) provide customer service by phone; and/or (e) provide other services designed to assist us in maximizing our business potential and maintaining our Site. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
 
-IP Address  
-When you connect to the internet, your computer has a unique internet ID, an IP address. By connecting with a dial-up service, a different IP address is issued each time at login. Others might have a permanently assigned IP address, called a static IP address. It is difficult or impossible for a web site to collect personal information about you (i.e. your name, email address, etc.) from your IP address alone, though a static IP address makes this easier.
+In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your PII will likely be among the assets transferred. You will be notified by a prominent notice on the Antarcade home page of any such change in ownership or control of your PII.
 
-Shopper ID  
-Shoppers are assigned an ID when they visit an online store with a shopping bag system. Each store will assign a different ID. Many stores use a cookie to save a Shopper ID for re-use on a return visit. 
+**Non-Personally Identifiable Information**
 
-SSL Encryption  
-SSL Encryption is the means in which information is transmitted across the Internet. It is scrambled so it's indecipherable by anyone intercepting the data prior to reaching its destination. Most reputable online stores use SSL encryption when requesting credit card information and sensitive data from their shoppers. SSL encryption web sites are identified by a symbol displayed in the web browser. Refer to browser documentation for the symbol and its location.
+As with many websites, when you visit the Site, it automatically gathers certain NPII based on your computer information and stores it in log files. This type of technical and statistical information is used to customize your experience at the Site, to help us improve the quality of the Site, to help diagnose problems with the Site server for Site administration purposes and to make your visits easy, convenient and fun.
 
-Ant Arcade  
-PO Box 522  
-Randwick NSW 2031  
+You can opt out of the use of your NPII from being used by Network Advertising Initiative (“NAI”) members. The NAI opt-out tool was developed in conjunction with NAI members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by NAI members. If you opt-out of the use of your NPII from being used by NAI members, you will continue to receive ads, however, it will prevent NAI members from delivering ads tailored to your preferences and usage patterns. If you opt out of Interest-Based Advertising (as defined [here](http://www.networkadvertising.org/understanding-online-advertising/what-is-it)) by one or more NAI member company, that choice will be stored in “opt-out cookies.” If you ever delete opt-out cookies from your browser (such as by clearing all cookies), buy a new computer, or change web browsers, you'll need to renew your opt-out choices. NAI member companies need to be able to read an "opt-out" cookie on your browser to know not to collect and use data for interest-based advertising purposes. For more information or to opt-out click <http://www.networkadvertising.org/choices/>.
 
+**Cookies**
 
-Back to top
+The Site uses "cookies" and similar means to collect aggregate Internet traffic statistics and to enhance your experience at the Site. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. The Site uses cookies to recognize your preferences, temporarily store session information. This helps to display your customized content and advertising on your later visits to the Site. If you do not want the Site to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. If you choose to decline cookies, however, you may not be able to fully experience the interactive features of the Site and it may affect your ability to use some of the products and/or services at the Site. We do not tie any PII to the cookies that we set.
+
+**Third Party Cookies**
+
+The use of cookies by our third party advertisers as well as third party ad servers is not covered by our privacy policy (as explained in the NPII section above). We do not have access or control over these cookies. These third parties use session ID cookies to gather anonymous information.
+
+**Web Beacons**
+
+The Site may contain electronic images known as "web beacons" which are also sometimes called single-pixel gifs. Web beacons may be used to assist in delivering cookies, allow us to count Users who have visited the Site pages and to deliver services via the Site. We may also include web beacons in email messages in order to determine whether such messages have been opened and acted upon. If any partner advertises on the Site, we may work with them to place web beacons on their website to allow Antarcade to collect statistics on how often clicking on those advertisements on the Site results in a purchase or other action on such partner's website. Antarcade may also employ web beacons from third party partners in order to help compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of the Site. Antarcade will never allow web beacons on the Site to be used by third parties (other than Related Companies) to collect or access your PII. We do not tie web beacons to any PII you submit while on our Site.
+
+**Use and Sharing of Non-Personally Identifiable Information (NPII)**
+
+We do not share, sell or trade any of your NPII with any third parties other than described herein. We may share your NPII with our Related Companies. Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your NPII.
+
+We and our Related Companies may provide access to your NPII to third parties when legally required to do so, to comply with a court order, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site and/or to limit our legal liability and protect our rights.
+
+We and/or our Related Companies may also disclose your NPII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist with direct marketing and data collection; (c) provide data storage and analysis; (d) provide fraud prevention; and/or (e) provide other services designed to assist us in maximizing our business potential and maintaining our Site. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
+
+In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your NPII will likely be among the assets transferred. You will be notified by a prominent notice on the Antarcade home page of any such change in ownership or control of your NPII.
+
+**Security**
+
+We have implemented technical, administrative and physical security measures to protect Information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to our authorized employees and personnel of the Related Companies. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
+
+**Links from the Site**
+
+The Site provides links to the websites of many third parties. If you click through to any of these third party web sites, our Policy will not apply to your use of, and activities on, those third party sites. We encourage you to read the legal notices posted on these sites, including but not limited to their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to Antarcade.
+
+**Your California Privacy Rights**
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to privacy@antarcade.com. Please allow 30 days for a response.
+
+**QUESTIONS AND CONCERNS**
+
+If you have any questions or concerns about this Policy or its implementation, please email us at privacy@antarcade.com. For general questions about Antarcade, please email us at support@antarcade.com.
+
+Updated: May 6, 2015
