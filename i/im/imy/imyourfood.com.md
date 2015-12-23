@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imyourfood.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531042704id_/http%3A//imyourfood.com/%3Fpage_id%3D1129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imyourfood.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223050945id_/http%3A//imyourfood.com/%3Fpage_id%3D1129) for the most accurate reproduction.*
 
 # Privacy-Policy
 
