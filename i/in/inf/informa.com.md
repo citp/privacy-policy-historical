@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195008id_/http%3A//www.informa.com/Generic-content/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223045154id_/http%3A//www.informa.com/Generic-content/Privacy-Policy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
-**Informa Plc Privacy Policy Statement**
+  * [Terms & Conditions](https://web.archive.org/generic-content/terms-conditions/)
+  * [Privacy Policy](https://web.archive.org/generic-content/privacy-policy/)
+  * [Accessibility](https://web.archive.org/generic-content/accessibility/)
 
-This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL www.informa.com and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Group plc ("our", "we" or "us") on behalf of Informa plc (registered in the UK).
+
+
+**Informa PLC Privacy Policy Statement**
+
+This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL [www.informa.com](https://web.archive.org/ "Informa.com") and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Group plc ("our", "we" or "us") on behalf of Informa PLC (registered in the UK).
 
 **What Information Do We Collect?**
 
@@ -24,19 +30,19 @@ The information collected from this Website could be stored for as long as is re
 
 **Users' Right to Opt-out**
 
-If you do not want to continue to receive the alerter e-mail communications from us please let us know by sending an e-mail to [corporateoptout@informa.com](mailto:corporateoptout@informa.com).
+If you do not want to continue to receive the alerter e-mail communications from us please let us know by sending an e-mail to [corporateoptout@informa.com](mailto:corporateoptout@informa.com "Corporate Opt-out").
 
 **Period of Grace**
 
 Should you request that we amend or suppress records containing your Personal Data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
-**Use of Cookies and Logfiles**
+**Use of Cookies and Log files**
 
 A cookie is a small text file written to an individual's hard drive that contains the user ID. The cookies do not contain any personal information about Users and in themselves only record those areas of the Website that have been visited by the computer in question, and for how long.
 
 The use of cookies is now widespread by websites in order to track traffic flows. From time to time we may use cookies to enable us to offer certain time-saving features to our Users. These may be used to administer the Website, track Users' movements and actions, and gather broad demographic information for aggregate use. The information gathered would then be used to improve the Website and the User experience.
 
-You can find out more about the use of cookies and how you can remove them by going to the Interactive Advertising Bureau website http://allaboutcookies.org or http://www.cookiecentral.com. You should note that if a User sets up his browser to reject the cookie, he or she may still use the Website although functionality will be impaired.
+You can find out more about the use of cookies and how you can remove them by going to the Interactive Advertising Bureau website [http://allaboutcookies.org](http://allaboutcookies.org/ "All About Cookies") or [http://www.cookiecentral.com](http://www.cookiecentral.com/ "Cookie Central"). You should note that if a User sets up his browser to reject the cookie, he or she may still use the Website although functionality will be impaired.
 
 **Hyperlinks**
 
@@ -44,15 +50,14 @@ This Website contains links to other websites, including without limitation thos
 
 **Changes/Updates to Privacy Policy**
 
-In order to keep up with changing legislation and best practice, we may revise this Privacy Policy at any time without notice so please check back periodically so that you are aware of any changes. This Privacy Policy should be read in conjunction with and is subject to our Terms ([Click here to view the Terms & Conditions](https://web.archive.org/Generic-content/Terms--conditions/ "Terms & conditions")).
+In order to keep up with changing legislation and best practice, we may revise this Privacy Policy at any time without notice so please check back periodically so that you are aware of any changes. This Privacy Policy should be read in conjunction with and is subject to our Terms ([Click here to view the Terms & Conditions](https://web.archive.org/generic-content/terms-conditions/ "Terms & conditions")).
 
 **Contact Us**
 
-If you have any questions about this privacy pledge or feel that your privacy has been compromised, please contact us at [corporateoptout@informa.com](mailto:corporateoptout@informa.com) or alternatively:
+If you have any questions about this privacy pledge or feel that your privacy has been compromised, please contact us at [corporateoptout@informa.com](mailto:corporateoptout@informa.com "Corporate Opt-out") or alternatively:
 
 Global Web Specialist  
-Informa Group Plc,  
-Informa House,  
-30-32 Mortimer Street,  
-London W1W 7RE,  
+Informa Group PLC,  
+5 Howick Place   
+London SW1P 1WG,  
 UK
