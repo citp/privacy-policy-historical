@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042517id_/http%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223095802id_/http%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aha!
 
@@ -74,7 +74,7 @@ The Service (including the Aha! Labs Inc. Websites) offers publicly-accessible b
 
 ## Customer Testimonials/Comments/Reviews
 
-From time to time, we post customer testimonials on the Aha! Labs Inc. Websites which may contain personal information. We obtain the customers; consent to post their names along with their testimonials.
+From time to time, we post customer testimonials on the Aha! Labs Inc. Websites which may contain personal information. We obtain the customers consent to post their names along with their testimonials.
 
 ## Protection of Information
 
