@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatrightpro.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212052id_/http%3A//www.eatrightpro.org/resource/leadership/board-of-directors/academy-policies/academy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatrightpro.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223235334id_/http%3A//www.eatrightpro.org/resources/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Statement covers all websites of the Academy of Nutrition and Diete
 
 By accessing and using the websites you consent to the terms of this privacy policy. The Academy of Nutrition and Dietetics is committed to maintaining the confidence and trust of our members and other customers and users of the websites. The Academy maintains the following privacy policy to inform you of the Academy's collection, use and distribution of the personal information you provide online. The Academy may update or modify this privacy policy at any time, which update shall become effective upon posting of the new privacy policy on the websites. Please check this page periodically for updates to our privacy policy. Please direct any questions, comments or concerns to [webstrategy@eatright.org](mailto:webstrategy@eatright.org).
 
-## What information does the Academy collect and how is it used?
+### What information does the Academy collect and how is it used?
 
 ### NON-PII
 
