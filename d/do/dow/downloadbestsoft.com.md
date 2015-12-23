@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317080357id_/http%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223220012id_/http%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
 
-# FossHub
+# FossHub - Privacy Policy
 
-  1. [Home](https://web.archive.org/)
-  2. Privacy Policy
-
-
-
-Dear visitor, please read our Privacy Policy
+### Dear visitor, please read our Privacy Policy
 
 To help you make decisions about the information you provide anywhere on this site, this notice has been provided to outline our practices. You should know that we respect your privacy, and we will never sell your information to anyone. Also, we hate spam as much as you do, so you will only ever get email from us that you have asked for and we have personally approved for distribution to the list.
 
@@ -36,7 +31,7 @@ We also use DoubleClick DART cookie from Google. What is the DoubleClick DART co
 "Google, as a third party vendor, uses cookies to serve ads on your site.   
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet."
 
-"We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. " 
+"We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. "
 
 Besides Google Adsense we also use Google Analytics which may collect data. We can't say what kind of data is being collected, for more information look for their privacy policy or terms of agreement. Since most websites on the Internet runs Google services, there is nothing to worry about.
 
@@ -44,6 +39,6 @@ If you can read this privacy policy available for www.FossHub.com, it means that
 
 We encourage all visitors ( users ) to read our PRIVACY POLICY and also our TERMS OF USE ( also know as Terms of Agreement ). By simply accessing this website you agree and you accept all of our terms and conditions and also our privacy policy that can be changed any time without any notification since we do not keep, store or manage any email address databases.
 
-**Updated last time on 22 October 2013**
+**Updated last time on 28 Ju;y 2015**
 
 Visit this page frequently to check with our Privacy Policy
