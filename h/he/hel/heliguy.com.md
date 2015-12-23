@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heliguy.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050525id_/http%3A//www.heliguy.com/pg/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heliguy.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223064235id_/http%3A//www.heliguy.com/pg/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
