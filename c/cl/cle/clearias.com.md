@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409005533id_/http%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223032959id_/http%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ClearIAS.com
 
 We at www.clearias.com are committed to protect the privacy of our visitors and handle all information with great responsibility. We believe it is important for you to understand what information we collect from you, how it is used and who will have access to that information. Please note that this privacy policy applies to all products from Clear IAS, including our website www.clearias.com, www.cleariasexam.com and our mobile app ‘Clear IAS’, unless specified separately.
 
