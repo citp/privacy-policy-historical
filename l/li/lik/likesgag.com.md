@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the likesgag.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408090116id_/http%3A//www.likesgag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likesgag.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223232346id_/http%3A//www.likesgag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The LikesGag
+# Privacy Policy - LikesGag
 
 You privacy is very important to us, accordingly, we have developed this policy in order for you to understand how we collect, use, communicate, disclose and make use of your personal information. Our privacy policies vary according to user preferences and specific tools on likesgag may have their specific policies that is valid only for that tool. For a better explanation we have split our privacy policy to the following categories:
 
