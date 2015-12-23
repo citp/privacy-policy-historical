@@ -1,79 +1,81 @@
-> *The following text is extracted and transformed from the basictalk.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928125028id_/https%3A//www.basictalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basictalk.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223230014id_/http%3A//www.basictalk.com/privacy-policy%3Frefer_id%3DBTPPP0312130001W1) for the most accurate reproduction.*
 
 # BasicTalk | Privacy Policy
 
-**EFFECTIVE DATE:** JUNE 3, 2014
+BasicTalk™ is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our customers who use services and products from BasicTalk ("Customers") and from visitors to our Web sites and from potential customers who have communicated, made contact, or interacted with BasicTalk ("Visitors"), both in connection with online and offline services and products offered by BasicTalk.
 
-Welcome to Www.basictalk.com. This site is controlled and operated by Www.basictalk.com. We recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
+**Collection of Information**
 
-  
+BasicTalk shall collect personally identifiable information, including but not limited to name, physical address, email address, telephone number, credit card information, and other personal information (collectively, "PII"), from Customers when initiating service and in connection with the provision or marketing of products and services. BasicTalk may collect PII from Visitors in connection with any visit to our Web sites, any communication about our services and products, or other transactions or interactions with BasicTalk.
 
+BasicTalk may also collect non-personally identifiable information from Customers and Visitors regarding usage of our services or our Web site ("Non-PII"). Non-PII may include Web site pages viewed, time spent using certain services, demographic data, cookies, and other information which does not specifically identify any one individual.
 
-## INFORMATION COLLECTION
+"Cookies" are pieces of information that may be placed on your computer by a Web site for the purpose of facilitating and enhancing your communication and interaction with that Web site. Many Web sites use cookies for these purposes. We may use cookies to customize your visit to our Web sites and for other purposes to make your visit more convenient or to enable us to enhance our service.
 
-**Information You Provide**
+In addition to our cookies, we and our vendors and contractors may also use clear gifs, Web beacons, and third party cookies to improve the performance of our Web sites, provide certain features such as advertising, or to anonymously track usage of our Web sites and the online activity of users. In addition, we may use such devices in our HTML-based emails to track the usage of such emails in much the same manner as usage of our Web sites is tracked.
 
-Www.basictalk.com collects information from you when you choose to share it with us to use our Site, create an online account with us, request information from us, sign up for newsletters or our email list, post a review, make a purchase, participate in a survey or promotion, or otherwise contact or interact with us. The information we collect may include your name, address, email address, telephone number, birthday, gender, chat transcripts, purchase information and other information you provide to us via this website. We may combine the information you provide to us with information (1) from and about you that we automatically collect when you use this or other first party sites, (2) from third parties, or (3) from other online and offline sources.
+You may stop or restrict the placement of cookies on your computer, including third party cookies, or flush them from your browser by adjusting your Web browser preferences, in which case you may still use our Web site, but it may interfere with some of its functionality.
 
-**Information Automatically Collected**
+**Anti-Spyware Policy**
 
-We may use cookies, web beacons, pixel tags, log files, local shared objects (Flash cookies), and other technologies to collect certain information about visitors to, and users of, our Site, to deliver online advertisements that we think would be more relevant to your interests, and to monitor interactions with our emails and online advertisements. For example, through these means, we may automatically collect your browser type, operating system, Internet Protocol (“IP”) address, software version, and the domain name from which you accessed the Site. If you access our Site from your mobile device, we may collect geolocation data, unique user ID, cell phone model, operating system and carrier. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing or using the Site, the number of times you return to the Site, other click-stream or site usage data, emails or ads that you open, forward or click-through to our Site. Collecting this information, and linking it with your personally-identifiable information, helps us to best tailor our website and enhance your online experience by saving your preferences while you are visiting a particular site, and to help identify site features, advertisements, and offers that may be of particular interest to you.
+BasicTalk believes that Spyware is a threat to consumer privacy and a consumer's experience online. Therefore, we forbid any BasicTalk employee, agent, partner, affiliate, or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of BasicTalk. Spyware refers to any executable software application that is installed on a user's personal computer and covertly gathers and transmits PII through the user's Internet connection without the knowledge or consent of the user. Cookies and Web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any BasicTalk employee, agent, partner, or affiliate on BasicTalk's behalf will not be tolerated and will be considered grounds for dismissal, contract termination, and/or loss of payment.
 
-We also may use third party advertisements placed by ad networks to support our site. Some of these advertisers and ad networks may use technology such as cookies and web beacons/pixel tags when they advertise on our site, which will also send these advertisers and ad networks information including your IP address, your ISP, the browser you used to visit our site, and whether you have Flash installed. Some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you. These advertisers and ad networks use the information described above to provide you relevant advertisements based on your online behavior, search activities on our site and on other third party sites, demographic information and/or general location, so that the advertising you see on our site more closely reflects your interests and needs. For example, if you search for a product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past.
+**Use of Information**
 
-You are free to set your browser to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the “Tools” or “Help” tabs in your browser (or your mobile device privacy settings) to learn how to change your cookie and other tracking preferences. Note that our systems do not recognize Do Not Track headers from browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain service providers, please click [here](http://www.aboutads.info/choices/). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+BasicTalk will use PII to (1) market products and services to Customers and Visitors that BasicTalk believes may be of interest to them, (2) provide services and products requested by Customers and Visitors and (3) enable its vendors, partners to provide and assist BasicTalk in the provision of such services and products to BasicTalk, Customers, or Visitors or to participate in joint marketing offers with BasicTalk. In our contracts with vendors, contractors and partners, we require them to protect PII and to limit their use of such information to the purposes for which it is provided. They may not use this information for their own independent marketing purposes. If you purchase products and services offered jointly by BasicTalk and one of our partners, PII may be received and shared by both BasicTalk and our partner. Each company's privacy policy may apply. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from BasicTalk. BasicTalk only works with partners whom we believe maintain high standards with respect to privacy and consumer rights.
 
-**Information Collected From Other Sources**
+BasicTalk may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [Terms of Service](https://www.basictalk.com/tos), as required by courts or administrative agencies or in connection with a sale, merger, or reorganization of BasicTalk's business.
 
-We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, email address, unique device identifiers, and publicly-observed data, such as from online activity, social media and shopping behavior. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products.
+**CPNI**
 
-**INFORMATION USE**
+In the course of providing services to you, we collect and maintain certain customer proprietary network information ("CPNI"). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name, and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI. Accordingly, we do not sell, trade, or share your CPNI, including your calling records outside of BasicTalk or with anyone not authorized to offer our products or services, or to perform functions on our behalf except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas and court orders, without your prior knowledge or consent. We can also use CPNI to investigate fraud and to prevent violation of our Terms of Service and unlawful use of our network and services.
 
-Www.basictalk.com may use the information we collect from and about you for any of the following purposes:
+**Security**
 
-  * To fulfill orders, provide service and communicate with customers;
-  * To research and develop new products or services;
-  * To respond to your inquiries;
-  * To provide you and other users with customized Site content, targeted offers, and advertising on the Site, on other sites, or via email;
-  * To contact you when necessary;
-  * To review the usage and operations of our Site and improve our content, products and services;
-  * To address problems with the Site or our business;
-  * To promote the Site;
-  * To manage our telecommunications networks;
-  * To protect the security or integrity of the Site and our business;
-  * As described to you at the point of data collection; and
-  * To use and disclose your credit/debit card information only to process payments and prevent fraud.
+BasicTalk has invested and deployed a wide variety of technology and security features to make reasonable efforts to ensure the privacy of information on its network. In addition, BasicTalk has implemented operations guidelines to ensure Customer and Visitor privacy is safeguarded throughout its organization. BasicTalk will continue to revise policies and implement additional security features as new technologies become available. However, no system or service can give a 100% guaranty of security, especially a service that relies upon the public Internet. Therefore, you acknowledge the risk that third parties may gain unauthorized access to your information when using or accessing our services and our network.
 
+**Communications**
 
+BasicTalk will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using BasicTalk services except as required to ensure proper operation of services or as otherwise authorized by law, or with your prior consent. Your call(s) may be monitored or recorded for quality assurance or training purposes.
 
-**INFORMATION DISCLOSURE**
+You should be aware that any PII which you voluntarily include and transmit through publicly accessible forums (i.e., such as chat rooms, blogs, instant messages, listservs) may be viewed and used by anyone with access to such forums. BasicTalk is unable to control such uses of your PII, and by using such services, you assume the risk that the PII provided by you may be viewed and used by third parties.
 
-Www.basictalk.com may disclose the personal information we collect from and about you as follows: (1) the service provider that operates this Site and its affiliated companies; (2) to other service providers , if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our select partners that we believe may have offers of interest to you; (6) to promote the Site and our business to third parties; and (7) as described to you at the point of collection. Www.basictalk.com may also share aggregate or anonymous non-personal information with third parties.
+**Account Information**
 
-Also, Www.basictalk.com may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Statement.
+Subject to certain security requirements, BasicTalk will do its best to honor requests from Customers for their own account information, including name, address, company, or billing information. The Customer is responsible for ensuring that the information on file with BasicTalk is current and accurate.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+**Children's Privacy Policy**
 
-If you are a California resident, you may request information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us in writing at 1000 Louis Rose Place, Charlotte NC 28262.
+BasicTalk does not sell products or services for purchase by children. BasicTalk does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to BasicTalk, [report this to us](https://support.basictalk.com/app/ask).
 
-**LINKS TO OTHER WEBSITES**
+**BasicTalk Spam Policy**
 
-The Site may have links to third-party websites or applications, which may have privacy policies that differ from our own. We are not responsible for the practices of such sites or applications.
+BasicTalk has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing BasicTalk privileges including but not limited to loss of a customer's account. If you receive spam and want to report it to BasicTalk, please forward the email you have received to [spam-police@basictalk.com](mailto:spam-police@basictalk.com)
 
-**CHILDREN’S INFORMATION**
+**Third Party Web Sites and Services**
 
-This site is intended for general audiences and Www.basictalk.com does not knowingly collect any personal information from children under the age of 13.
+Our service may contain links to other Web sites and services not maintained by BasicTalk. In addition, other Web sites and services may also reference or link to BasicTalk. We encourage you to be aware when you leave our service, or surf the Internet, and to read the privacy statements of each and every Web site and service that you visit. We do not endorse, screen, or approve, and are not responsible for the privacy practices or the content of, such other Web sites and services.
 
-**OUR COMMITMENT TO DATA SECURITY**
+BasicTalk does not assume, and expressly disclaims, any liability for third parties that have been provided with information as permitted by this Privacy Policy or who have collected information as permitted by this Privacy Policy (such as advertisers using third party cookies).
 
-We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+**Opt-out Policy**
 
-**IF YOU HAVE QUESTIONS**
+If you do not want your PII used by BasicTalk for any direct marketing purposes, then you may opt-out of such disclosures by sending an email via [https://support.basictalk.com/app/ask](https://support.basictalk.com/app/ask).
 
-If you have any questions about this Privacy Statement or the practices described herein, you may contact us at 704-971-2300.
+However, we are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. Since BasicTalk must use a Customer's PII in order to provide them with BasicTalk services, Customers cannot opt-out of all uses of their PII unless they cancel their service.
 
-**REVISIONS TO THIS STATEMENT**
+**Changes to Policy**
 
-Www.basictalk.com reserves the right to revise this Privacy Statement at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time by posting such changes here. You should review this policy regularly for changes, and can easily see if changes have been made by checking the Effective Date below. However, if at any time in the future we plan to use PII in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use following the posting of any changes to this policy means you accept such changes.
 
-For further BasicTalk Privacy Policy information, please see [here](https://www.basictalk.com/basictalk-privacy-policy/).
+**Terms of Service**
+
+For Customers, this Privacy Policy is subject to the BasicTalk Terms of Service or other agreements between you and BasicTalk. If you are a Customer, please refer to the Terms of Service or such other agreements regarding certain rights and limitations with respect to your use of BasicTalk's services.
+
+**United States of America**
+
+Our service is maintained in the United States of America. By using our services, you authorize the export of PII to the USA and its storage and use by BasicTalk or its vendors, contractors and partners, anywhere in the world, as specified in this policy.
+
+**Effective Date**
+
+This Privacy Policy was last updated on April 18, 2013.
