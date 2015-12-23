@@ -1,33 +1,107 @@
-> *The following text is extracted and transformed from the thehealthyhomeeconomist.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602064004id_/http%3A//www.thehealthyhomeeconomist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyhomeeconomist.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223222707id_/http%3A//www.thehealthyhomeeconomist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — The Healthy Home Economist
+# Privacy Policy | The Healthy Home Economist
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at [thehealthyhomeeconomist@gmail.com](mailto:thehealthyhomeeconomist@gmail.com).
+This Privacy Policy discloses the privacy practices for the www.thehealthyhomeeconomist.com and www.thehealthyhomeeconomistguide.com sites and various related services (together referred to as the “sites”). AustUS Media, LLC, the provider of the site (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site.
 
-At TheHealthyHomeEconomist.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by TheHealthyHomeEconomist.com and how it is used.
+You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of the terms and conditions contained within this Privacy Policy and the Terms of Use. If you do not agree to these terms, please do not access or use this site.
 
-### Log Files
+We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions, or deletions shall be effective immediately upon notice thereof, which may be given by any means including, but not limited to, issuing an E-mail to the E-mail address listed by registered users and posting the revised Policy on this page. You acknowledge and agree that it is your responsibility to maintain a valid E-mail address as a registered user, review this site and this Policy periodically, and to be aware of any modifications. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy.
 
-Like many other Web sites,TheHealthyHomeEconomist.com  makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+1.
 
-### Cookies and Web Beacons
+**Types of Information Collected**
 
-TheHealthyHomeEconomist.com does not use cookies.
+In order to better provide you with our numerous services, we collect two types of information about our users: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
 
-### DoubleClick DART Cookie
+**In compliance with the U.S. Children’s Online Privacy Protection Act (COPPA), our products are not directed to users under 13 years of age unless accessed under the careful supervision and consent of a parent or legal guardian. Any use by someone under this age is strictly prohibited and will be terminated immediately upon discovery. Further, any personally identifiable information provided by someone under 13 or that identifies someone under this age, will be deleted immediately upon discovery if in violation of this restriction.**
 
-  * Google, as a third party vendor, uses cookies to serve ads on TheHealthyHomeEconomist.com.
-  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to TheHealthyHomeEconomist.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this site, such as registering for a membership, ordering a product or service, submitting content and/or posting content in discussion forums or other public areas, entering a contest or sweepstakes, filling out a survey, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to elect to engage in these activities; however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), E-mail address, and telephone and facsimile numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
+Non-Personally Identifiable Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site’s Uniform Resource Locator (“URL”) that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol (“IP”) address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet.
 
+2.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: **Google Adsense, Amazon.**
+**Collection Methods and Use of Information**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on The Healthy Home Economist send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You may be asked to provide certain Personally Identifiable Information to us when you register for our newsletter. We may also collect information from you at other points on our site that state that such information is being collected.
 
-The Healthy Home Economist has no access to or control over these cookies that are used by third-party advertisers.
+In addition, we may also collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. Our third party ad servers, if we choose, will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our site.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://thehealthyhomeeconomist.blogspot.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We also reserve the right to use your Personally Identifiable Information to enhance the operation of our site, improve our marketing and promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site’s content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems, and enforce our agreements with you, including our Site Terms of Use, and this Privacy Policy.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+3.
+
+**Release of Information**
+
+We do not sell, trade, or rent your Personally Identifiable Information to others. We do provide some of our services through contractual arrangements with affiliates, services providers, partners, and other third parties. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver our services.
+
+We will encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control.
+
+Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+
+We may also provide Non-Personally Identifiable Information about our customers’ sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
+
+4.
+
+**Updating and Correcting Information**
+
+We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:
+
+sarah@thehealthyhomeeconomist.com
+
+Please include your name, address, and/or E-mail address when you contact us.
+
+We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information due to backups. To unsubscribe from our newsletter, please follow the link in your email to unsubscribe through our mailing service.
+
+5.
+
+**User Choices on Collection and Use of Information**
+
+We may, from time to time, send you E-mail regarding our products and services or shipment updates. Newsletters are sent via MailChimp, a third party service. If you do not want to receive such mailings, simply tell us when you initially give us your personal information. Or, at any time you can easily edit your MailChimp preferences by following the link in the newsletter.
+
+You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our site may not work properly in your case.
+
+6.
+
+**Security of Information**
+
+At our site you can be assured that your Personally Identifiable Information is secure, consistent with current industry standards. Your Personally Identifiable Information resides on a secure server that only selected AustUS Media, LLC personnel and contractors have access to via password.
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
+
+7.
+
+**Cookies**
+
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you to us. The cookies make your use of the site easier, make the site run more smoothly, and help us to maintain a secure site. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly in that case.
+
+8.
+
+**Privacy Policies of Third Party Sites**
+
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
+
+9.
+
+**Miscellaneous Privacy Issues**
+
+You must be at least 13 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 13 years of age.
+
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, E-mail address, etc.) in the discussion forums or other public areas on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Policy does not apply to such information. Any comments made on the site which can be publically viewed are made with the understanding that they are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any public submissions. Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you’re online.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
+
+AustUS Media, LLC
+
+Attn: Privacy Compliance Office
+
+P.O. Box 483
+
+Lutz, FL 33548
+
+You may also contact us by E-mail at [sarah@thehealthyhomeeconomist.com](mailto:%22sarah@thehealthyhomeeconomist.com%22).
+
+Subscribe for Updates
+
+Subscribe today and gain access to my exclusive & FREE weekly newsletter packed with the latest health news, Real Food recipes, video how-to's, special discounts and much more!
