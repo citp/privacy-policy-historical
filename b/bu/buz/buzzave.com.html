@@ -1,86 +1,109 @@
-<!--The following is the downloaded HTML source of the buzzave.com privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619083945id_/http%3A//www.buzzave.com/privacy-policy/%23comment-395) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzzave.com privacy policy that was archived on 2015-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223044802id_/http%3A//www.buzzave.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="no-js"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=311591805718819&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="http://cdn.taboola.com/libtrc/buzzave/loader.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAAAUVRbGwQFU1ZWBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta property="fb:app_id" content="311591805718819">
-<title>BuzzAve | Privacy Policy</title>
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://www.buzzave.com/xmlrpc.php">
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({article:'auto'});
-  !function (e, f, u) {
-    e.async = 1;
-    e.src = u;
-    f.parentNode.insertBefore(e, f);
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  'http://cdn.taboola.com/libtrc/buzzave/loader.js');
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="BuzzAve » Feed" href="http://www.buzzave.com/feed/">
+<!DOCTYPE html><html class="js" lang="en-US"><head itemscope="" itemtype="http://schema.org/WebSite">
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAAAUVRbGwQFU1ZWBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+	<![endif]-->
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="http://static.buzzave.com/wp-content/themes/sociallyviral/images/apple-touch-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta itemprop="name" content="BuzzAve">
+    <meta itemprop="url" content="http://www.buzzave.com">
+        <meta itemprop="creator accountablePerson" content=" ">
+    	<link rel="pingback" href="http://www.buzzave.com/xmlrpc.php">
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=311591805718819&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="http://cdn.taboola.com/libtrc/buzzave/loader.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.11/ouibounce.js"></script>
+	<script type="text/javascript">
+	  window._taboola = window._taboola || [];
+	  _taboola.push({article:'auto'});
+	  !function (e, f, u) {
+	    e.async = 1;
+	    e.src = u;
+	    f.parentNode.insertBefore(e, f);
+	  }(document.createElement('script'),
+	  document.getElementsByTagName('script')[0],
+	  'http://cdn.taboola.com/libtrc/buzzave/loader.js');
+	</script>
+	<title>Privacy Policy | BuzzAve</title>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script><link rel="alternate" type="application/rss+xml" title="BuzzAve » Feed" href="http://www.buzzave.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="BuzzAve » Comments Feed" href="http://www.buzzave.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="BuzzAve » Privacy Policy Comments Feed" href="http://www.buzzave.com/privacy-policy/feed/">
-<link rel="stylesheet" id="magazino_style-css" href="http://static.buzzave.com/wp-content/themes/magazino/style.css?ver=4.2.2" type="text/css" media="all">
-<script type="text/javascript" src="http://static.buzzave.com/wp-content/themes/magazino/library/js/modernizr-2.6.2.min.js?ver=2.6.2"></script>
-<script type="text/javascript" src="http://static.buzzave.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.buzzave.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.buzzave.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="stylesheet-css" href="http://static.buzzave.com/wp-content/themes/buzzave/style.css?ver=4.3.1" type="text/css" media="all">
+<style id="stylesheet-inline-css" type="text/css">
+
+		body, .sidebar.c-4-12, #commentform textarea, input#author, input#email, input#url {background-color:#f0ede9; }
+		body {background-image: url(http://static.buzzave.com/wp-content/themes/sociallyviral/images/nobg.png );}
+        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover { background: #33bcf2; }
+		.single_post a, .widget .textwidget a, #logo a, .pnavigation2 a, .sidebar.c-4-12 a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .title a:hover, .comm, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, span.author-posts a:hover { color:#33bcf2; }	
+			nav a#pull, .mts-subscribe input[type='submit'], #move-to-top:hover, #navigation ul .current-menu-item a, .pagination a, #tabber ul.tabs li a.selected, .tagcloud a:hover, #navigation ul .sfHover a, .primary-navigation, #navigation ul ul, .single_post .thecategory, .single-prev-next a:hover, #commentform input#submit:hover, .contactform #submit:hover, .latestPost .latestPost-review-wrapper, .latestPost .review-type-circle.latestPost-review-wrapper, .post-label, .widget .review-total-only, #wpmm-megamenu .review-total-only { background-color:#33bcf2; color: #fff!important; }
+        a:hover, .copyrights a:hover, .latestPost .title a:hover, span.author-posts a, .single_post .post-info a:hover { color: #f47555; }
+        #searchform .fa-search, .currenttext, .pagination a:hover, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, .single-prev-next a , #commentform input#submit, .contactform #submit, .tagcloud a { background: #f47555; color: #fff; }
+        input#author:hover, input#email:hover, input#url:hover, #comment:hover, .contact-form input:hover, .contact-form textarea:hover { border-color: #f47555; }
+		
+		
+		
+		.bypostauthor {padding: 3%!important; background: #FAFAFA; width: 94%!important;}
+		.bypostauthor:after { content: "Author"; position: absolute; right: -1px; top: -1px; padding: 1px 10px; background: #818181; color: #FFF; }
+		
+		
+			
+</style>
+<script type="text/javascript" src="http://static.buzzave.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://static.buzzave.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://static.buzzave.com/wp-content/themes/magazino/library/js/jquery.cycle2.min.js?ver=20130202"></script>
-<script type="text/javascript" src="http://static.buzzave.com/wp-content/themes/magazino/library/js/jquery.cycle2.tile.min.js?ver=20121120"></script>
-<script type="text/javascript" src="http://static.buzzave.com/wp-content/themes/magazino/library/js/jquery.cycle2.scrollVert.min.js?ver=20121120"></script>
-<script type="text/javascript" src="http://static.buzzave.com/wp-content/themes/magazino/library/js/scripts.js?ver=1.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"both"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://static.buzzave.com/wp-content/themes/sociallyviral/js/customscript.js?ver=4.3.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.buzzave.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://static.buzzave.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.2">
+<!--Theme by MyThemeShop.com-->
 <link rel="canonical" href="http://www.buzzave.com/privacy-policy/">
 <link rel="shortlink" href="http://www.buzzave.com/?p=290">
-		<style>
-			a, a:visited,
-			#site-title a,
-			nav[role=navigation] .menu ul li a:hover,
-			nav[role=navigation] .menu ul li.current-menu-item a, 
-			.nav ul li.current_page_item a, 
-			nav[role=navigation] .menu ul li.current_page_item a,
-			#sidebar .widget-title,
-			.slides .slide-title,
-			.commentlist .vcard cite.fn a,
-			.commentlist .comment-meta a:hover,
-			.post_content ul li:before,
-			.post_content ol li:before,
-			.colortxt,
-			.commentlist .bypostauthor > article > footer > .vcard cite.fn,
-			.cycle-pager span.cycle-pager-active { 
-				color: #9dbb41;
-			}
-			
-			#container,
-			#sidebar {
-				border-top: 2px solid #9dbb41;
-			}
-			
-			#search-box-wrap,
-			#social-media a,
-			#search-icon,
-			.go-button a,
-			.go-button a:visited,
-			.grnbar,
-			.pagination a:hover,
-			.pagination .current,
-			#respond #submit {
-				background-color: #9dbb41;
-			}
-			
-			.post_content pre { 
-				border-left-color: #9dbb41;
-			}
-		</style>
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<link href="//fonts.googleapis.com/css?family=Roboto:500|Roboto:normal&amp;subset=latin" rel="stylesheet" type="text/css">
+<style type="text/css">
+#logo a { font-family: 'Roboto'; font-weight: 500; font-size: 44px; color: #33bcf2; }
+.primary-navigation li, .primary-navigation li a { font-family: 'Roboto'; font-weight: normal; font-size: 18px; color: #ffffff;text-transform: uppercase; }
+.latestPost .title, .latestPost .title a { font-family: 'Roboto'; font-weight: normal; font-size: 24px; color: #555555;line-height: 36px; }
+.single-title { font-family: 'Roboto'; font-weight: normal; font-size: 38px; color: #555555;line-height: 53px; }
+body { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #707070; }
+.widget .widget-title { font-family: 'Roboto'; font-weight: 500; font-size: 18px; color: #555555;text-transform: uppercase; }
+#sidebars .widget { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #707070; }
+.footer-widgets { font-family: 'Roboto'; font-weight: normal; font-size: 14px; color: #707070; }
+h1 { font-family: 'Roboto'; font-weight: normal; font-size: 38px; color: #555555; }
+h2 { font-family: 'Roboto'; font-weight: normal; font-size: 34px; color: #555555; }
+h3 { font-family: 'Roboto'; font-weight: normal; font-size: 30px; color: #555555; }
+h4 { font-family: 'Roboto'; font-weight: normal; font-size: 28px; color: #555555; }
+h5 { font-family: 'Roboto'; font-weight: normal; font-size: 24px; color: #555555; }
+h6 { font-family: 'Roboto'; font-weight: normal; font-size: 20px; color: #555555; }
+</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 </head>
-
-<body class="page page-id-290 page-template-default single-author">
-
+<body id="blog" class="page page-id-290 page-template-default main" itemscope="" itemtype="http://schema.org/WebPage">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -100,72 +123,54 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=311591805718819&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="container">
-    <div id="search-box-wrap">
-        <div id="search-box">
-           <div id="close-x">x</div>
-           <form role="search" method="get" id="searchform" class="searchform" action="http://www.buzzave.com/">
-				<div>
-					<label class="screen-reader-text" for="s">Search for:</label>
-					<input type="text" value="" name="s" id="s">
-					<input type="submit" id="searchsubmit" value="Search">
-				</div>
-			</form>        </div>
-    </div>
-
-	<header id="branding" role="banner">
-      <div id="inner-header" class="clearfix">
-		<div id="site-heading">
-        				<div id="site-title"><a href="http://www.buzzave.com/" title="BuzzAve" rel="home">BuzzAve</a></div>
-            		</div>
-        
-        <div id="social-media" class="clearfix">
-        
-        	            <a href="https://www.facebook.com/pages/BuzzAvecom/942365995791974" class="social-fb" title="https://www.facebook.com/pages/BuzzAvecom/942365995791974">Facebook</a>
-                        
-            			
-                        
-                        
-                        
-			            
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-            <div id="search-icon"></div>
-            
-        </div>
-        
-      </div>
-
-		<nav id="access" class="clearfix" role="navigation">
-			<h1 class="assistive-text section-heading">Main menu</h1>
-			<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-			<div class="menu"><ul id="menu-custommenu" class="menu"><li id="menu-item-515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-515"><a href="http://www.buzzave.com/">Home</a></li>
-<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-290 current_page_item menu-item-516"><a href="http://www.buzzave.com/privacy-policy/">Privacy Policy</a></li>
-</ul></div>					</nav><!-- #access -->
-
-	</header><!-- #branding -->
-
-    <div id="content" class="clearfix">
-        
-        <div id="main" class="clearfix" role="main">
-
-				
+}(document, 'script', 'facebook-jssdk'));</script>   
+	<div class="main-container">
+		<header class="main-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																					  <h2 id="logo" class="text-logo" itemprop="headline">
+										<a href="http://www.buzzave.com">BuzzAve</a>
+									</h2><!-- END #logo -->
+																		</div>
 					
-<article id="post-290" class="post-290 page type-page status-publish hentry">
-	<header class="entry-header">
-		<h1 class="entry-title">Privacy Policy</h1>
-	</header><!-- .entry-header -->
-    
-	
-	<div class="entry-content post_content">
-		<p><b>Privacy Policy for www.buzzave.com</b></p>
+											<div class="header-search"><form method="get" id="searchform" class="search-form" action="http://www.buzzave.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="What are you looking for?">
+		<input id="search-image" class="sbutton" type="submit" value="">
+		<i class="fa fa-search"></i>
+	</fieldset>
+</form></div>
+					
+											<div class="header-social">
+					        					            					                <a href="https://www.facebook.com/BuzzAvecom-942365995791974/" class="header-facebook" style="background: #375593" target="_blank"><span class="fa fa-facebook"></span></a>
+					            					        					            					                <a href="https://twitter.com/buzzave" class="header-twitter" style="background: #0eb6f6" target="_blank"><span class="fa fa-twitter"></span></a>
+					            					        					            					                <a href="#" class="header-google-plus" style="background: #dd4b39" target="_blank"><span class="fa fa-google-plus"></span></a>
+					            					        					            					                <a href="#" class="header-youtube-play" style="background: #e32c26" target="_blank"><span class="fa fa-youtube-play"></span></a>
+					            					        					    </div>
+					
+																		<div class="primary-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+													<nav id="navigation" class="clearfix">
+								<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+			        						        				<ul id="menu-custommenu" class="menu clearfix"><li id="menu-item-515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://www.buzzave.com/">Home</a></li>
+<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-290 current_page_item"><a href="http://www.buzzave.com/privacy-policy/">Privacy Policy</a></li>
+</ul>			        						        		</nav>
+			        	</div>
+						<div class="clear" id="catcher"></div>
+			        
+				</div><!--#header-->
+			</div><!--.container-->        
+		</header>	<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><div typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="http://www.buzzave.com">Home</a></div><div><i class="fa fa-angle-double-right"></i></div><div><span>Privacy Policy</span></div></div>
+<div id="page" class="single">
+	<article class="article">
+		<div id="content_box">
+							<div id="post-290" class="g post post-290 page type-page status-publish hentry">
+					<div class="single_page">
+						<header>
+							<h1 class="title entry-title">Privacy Policy</h1>
+						</header>
+						<div class="post-content box mark-links entry-content">
+							<p><b>Privacy Policy for www.buzzave.com</b></p>
 <p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at email@buzzave.com.</p>
 <p>At www.buzzave.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.buzzave.com and how it is used.</p>
 <p><b>Log Files</b><br>
@@ -183,40 +188,131 @@ Amazon</p>
 <p>www.buzzave.com has no access to or control over these cookies that are used by third-party advertisers.</p>
 <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.buzzave.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
 <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
-			</div><!-- .entry-content -->
-	</article><!-- #post-290 -->
-
-					
-				
-        </div> <!-- end #main -->
-
-        		<div class="clearfix"></div>
-		<div id="sidebar" class="widget-area clearfix" role="complementary">
-
-			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.buzzave.com/">
-				<div>
-					<label class="screen-reader-text" for="s">Search for:</label>
-					<input type="text" value="" name="s" id="s">
-					<input type="submit" id="searchsubmit" value="Search">
+													</div><!--.post-content box mark-links-->
+					</div>
 				</div>
-			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<div class="widget-title">Recent Posts</div>		<ul>
+				<!-- You can start editing here. -->
+	<div id="comments">
+		<h4 class="total-comments">3 Responses</h4>
+			<ol class="commentlist">
+				<div class="navigation">
+					<div class="alignleft"></div>
+					<div class="alignright"></div>
+				</div>
+					<li class="comment even thread-even depth-1" id="li-comment-294">
+		<div id="comment-294" itemscope="" itemtype="http://schema.org/UserComments">
+			<div class="comment-author vcard">
+								<span class="fn"><span><a href="http://mgid.com" rel="external nofollow" class="url">Brett Rothenberg</a></span></span> 
+									<span class="ago">11 months ago</span>
+								<span class="comment-meta">
+									</span>
+			</div>
+						<div class="commentmetadata">
+                <div class="commenttext" itemprop="commentText">
+				    <p>Hello,</p>
+<p>Who can i contact regarding media buying/traffic?</p>
+                </div>
+				<div class="reply">
+					<a rel="nofollow" class="comment-reply-link" href="http://www.buzzave.com/privacy-policy/?replytocom=294#respond" onclick="return addComment.moveForm( &quot;comment-294&quot;, &quot;294&quot;, &quot;respond&quot;, &quot;290&quot; )" aria-label="Reply to Brett Rothenberg">Reply</a>				</div>
+			</div>
+		</div>
+	</li>
+<!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-325">
+		<div id="comment-325" itemscope="" itemtype="http://schema.org/UserComments">
+			<div class="comment-author vcard">
+								<span class="fn"><span><a href="http://GumGum-NewRevenueOpportunity" rel="external nofollow" class="url">Josh Fishman</a></span></span> 
+									<span class="ago">11 months ago</span>
+								<span class="comment-meta">
+									</span>
+			</div>
+						<div class="commentmetadata">
+                <div class="commenttext" itemprop="commentText">
+				    <p>Hello,</p>
+<p>Hope that all is well! By way of introduction, I manage publisher relations at GumGum, here in Santa Monica, California. We help publishers add incremental revenue opportunities to their sites.</p>
+<p>We introduced In-Image ads to publishers and currently lead the industry in these ads. In addition, we offer “In-Screen” ads to publishers. I wanted to provide you with a live demo of each of these ad units below.</p>
+<p><a href="http://demo.gumgum.com/static/skinnymom_milk/#ggad=SuilUqAlzLL5unJBvm2JQnrm-mEoksm__6sUj7E2LWpAEKTbgBoEQITbK5ZpALVKKyjWZDdOQWlCwr2dperCFA" rel="nofollow">http://demo.gumgum.com/static/skinnymom_milk/#ggad=SuilUqAlzLL5unJBvm2JQnrm-mEoksm__6sUj7E2LWpAEKTbgBoEQITbK5ZpALVKKyjWZDdOQWlCwr2dperCFA</a></p>
+<p><a href="http://demo.gumgum.com/static/sweetcharli/#ggad=uoiOzR1hkA8" rel="nofollow">http://demo.gumgum.com/static/sweetcharli/#ggad=uoiOzR1hkA8</a></p>
+<p>This would be a great way to kick off the new year with added daily revenue. Do you have some time to discuss this opportunity?</p>
+<p>Thanks!<br>
+Josh</p>
+                </div>
+				<div class="reply">
+					<a rel="nofollow" class="comment-reply-link" href="http://www.buzzave.com/privacy-policy/?replytocom=325#respond" onclick="return addComment.moveForm( &quot;comment-325&quot;, &quot;325&quot;, &quot;respond&quot;, &quot;290&quot; )" aria-label="Reply to Josh Fishman">Reply</a>				</div>
+			</div>
+		</div>
+	</li>
+<!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-395">
+		<div id="comment-395" itemscope="" itemtype="http://schema.org/UserComments">
+			<div class="comment-author vcard">
+								<span class="fn"><span><a href="http://www.NTENT.com" rel="external nofollow" class="url">Chris Kotecki</a></span></span> 
+									<span class="ago">9 months ago</span>
+								<span class="comment-meta">
+									</span>
+			</div>
+						<div class="commentmetadata">
+                <div class="commenttext" itemprop="commentText">
+				    <p>Hello,</p>
+<p>I hope all is well. I am reaching out to speak with someone about providing you with additional traffic sources in order to help you monetize the content on your site.</p>
+<p>Please get back to me at your earliest convenience so that we can set up a quick call.</p>
+<p>Best,<br>
+Chris</p>
+                </div>
+				<div class="reply">
+					<a rel="nofollow" class="comment-reply-link" href="http://www.buzzave.com/privacy-policy/?replytocom=395#respond" onclick="return addComment.moveForm( &quot;comment-395&quot;, &quot;395&quot;, &quot;respond&quot;, &quot;290&quot; )" aria-label="Reply to Chris Kotecki">Reply</a>				</div>
+			</div>
+		</div>
+	</li>
+<!-- #comment-## -->
+				<div class="navigation">
+					<div class="alignleft"></div>
+					<div class="alignright"></div>
+				</div>
+			</ol>
+		</div>
+
+	<div id="commentsAdd">
+		<div id="respond" class="box m-t-6">
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title"></h3><h4><span>Add Comment</span></h4> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel reply</a></small>
+									<form action="http://www.buzzave.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										<p class="comment-form-author"><input id="author" name="author" type="text" placeholder="Name*" value="" size="30"></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" placeholder="Email*" value="" size="30"></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" placeholder="Website" value="" size="30"></p>
+												<p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Comment Text*"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Add Comment"> <input type="hidden" name="comment_post_ID" value="290" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c0206bbcd0"></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="126"></p>					</form>
+							</div><!-- #respond -->
+					</div>
+	</div>
+					</div>
+	</article>
+		<aside class="sidebar c-4-12" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+		<div id="sidebars" class="g">
+			<div class="sidebar">
+							<ul class="sidebar_list">
+							<div id="recent-posts-2" class="widget-home">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.buzzave.com/2015/10/27/watch-the-older-generation-react/">Watch The Older Generation React To A Sugar Daddy Arrangement Site</a>
+						</li>
+					<li>
+				<a href="http://www.buzzave.com/2015/10/27/steve-martin-edie-brickell-wont-go-back/">Steve Martin &amp; Edie Brickell – Won’t Go Back</a>
+						</li>
+					<li>
+				<a href="http://www.buzzave.com/2015/07/20/all-time-craziest-ways-to-pay-off-debt/">All Time Craziest Ways To Pay Off Debt</a>
+						</li>
 					<li>
 				<a href="http://www.buzzave.com/2015/06/09/5-easiest-ways-to-get-rich/">5 Easy Ways To Get Rich</a>
 						</li>
 					<li>
 				<a href="http://www.buzzave.com/2015/04/25/kylie-jenner-challenge-fails/">Kylie Jenner Challenge Fails</a>
 						</li>
-					<li>
-				<a href="http://www.buzzave.com/2015/04/25/7-passions-you-should-pursue-as-your-career/">7 Passions You Should Pursue As Your Career</a>
-						</li>
-					<li>
-				<a href="http://www.buzzave.com/2015/04/05/making-love-on-screen-apparently-these-actors-werent-acting/">Apparently These Actors Weren’t Acting…</a>
-						</li>
-					<li>
-				<a href="http://www.buzzave.com/2015/04/05/shocking-movie-bans/">Shocking Movie Bans</a>
-						</li>
 				</ul>
-		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><div class="widget-title">Recent Comments</div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">tutonka</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-649">7 Films With The Longest On-Screen Nudity</a></li><li class="recentcomments"><span class="comment-author-link">Narcisilus J. Floondoon III</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-643">7 Films With The Longest On-Screen Nudity</a></li><li class="recentcomments"><span class="comment-author-link">Bobby boy</span> on <a href="http://www.buzzave.com/2014/10/12/14-common-foods-that-cause-cancer/#comment-641">14 Common Foods That Cause Cancer</a></li><li class="recentcomments"><span class="comment-author-link">fightkat</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-626">7 Films With The Longest On-Screen Nudity</a></li><li class="recentcomments"><span class="comment-author-link">sensitivedan</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-615">7 Films With The Longest On-Screen Nudity</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><div class="widget-title">Archives</div>		<ul>
+		</div><div id="recent-comments-2" class="widget-home"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">tutonka</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-649">7 Films With The Longest On-Screen Nudity</a></li><li class="recentcomments"><span class="comment-author-link">Narcisilus J. Floondoon III</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-643">7 Films With The Longest On-Screen Nudity</a></li><li class="recentcomments"><span class="comment-author-link">Bobby boy</span> on <a href="http://www.buzzave.com/2014/10/12/14-common-foods-that-cause-cancer/#comment-641">14 Common Foods That Cause Cancer</a></li><li class="recentcomments"><span class="comment-author-link">fightkat</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-626">7 Films With The Longest On-Screen Nudity</a></li><li class="recentcomments"><span class="comment-author-link">sensitivedan</span> on <a href="http://www.buzzave.com/2014/11/15/7-films-with-the-longest-on-screen-nudity/#comment-615">7 Films With The Longest On-Screen Nudity</a></li></ul></div><div id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href="http://www.buzzave.com/2015/10/">October 2015</a></li>
+	<li><a href="http://www.buzzave.com/2015/07/">July 2015</a></li>
 	<li><a href="http://www.buzzave.com/2015/06/">June 2015</a></li>
 	<li><a href="http://www.buzzave.com/2015/04/">April 2015</a></li>
 	<li><a href="http://www.buzzave.com/2015/01/">January 2015</a></li>
@@ -224,7 +320,7 @@ Amazon</p>
 	<li><a href="http://www.buzzave.com/2014/11/">November 2014</a></li>
 	<li><a href="http://www.buzzave.com/2014/10/">October 2014</a></li>
 		</ul>
-</aside><aside id="categories-2" class="widget widget_categories"><div class="widget-title">Categories</div>		<ul>
+</div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
 	<li class="cat-item cat-item-5"><a href="http://www.buzzave.com/category/best-of-everything/">Best Of Everything</a>
 </li>
 	<li class="cat-item cat-item-6"><a href="http://www.buzzave.com/category/finance/">Finance</a>
@@ -238,46 +334,78 @@ Amazon</p>
 	<li class="cat-item cat-item-9"><a href="http://www.buzzave.com/category/video/">Video</a>
 </li>
 		</ul>
-</aside><aside id="meta-2" class="widget widget_meta"><div class="widget-title">Meta</div>			<ul>
+</div><div id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
 						<li><a href="http://www.buzzave.com/wp-login.php">Log in</a></li>
 			<li><a href="http://www.buzzave.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
 			<li><a href="http://www.buzzave.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
 <li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
-</aside>		</div><!-- #sidebar .widget-area -->
+</div>				</ul>
+			</div>
+		</div><!--sidebars-->
+	</aside>
+	</div><!--#page-->
+</div><!--.main-container-->
+<footer class="footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+    <div class="container">
+                <div class="copyrights">
+            <!--start copyrights-->
+<div class="row" id="copyright-note">
+    <div class="copyright"><a href="http://www.buzzave.com/" title="News that's right up your alley." rel="nofollow">BuzzAve</a> Copyright © 2015. </div>
+    <a href="#blog" class="toplink" rel="nofollow"><i class="fa fa-angle-up"></i></a>
+    <div class="top">
+        <div class="footer-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+            <nav id="navigation" class="clearfix">
+                                    <ul class="menu clearfix">
+                        <li class="page_item page-item-290 current_page_item"><a href="http://www.buzzave.com/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-499"><a href="http://www.buzzave.com/paycheck-to-paycheck/">Stop Living Paycheck To Paycheck</a></li>
+                    </ul>
+                            </nav>
+        </div>  
+    </div>
+</div>
+<!--end copyrights-->
+        </div> 
+    </div><!--.container-->
+</footer><!--footer-->
+<div id="ouibounce-modal" class="underlay" style="display:none;">
+        <div class="modal" style="background:#fff;border:1px solid #999;width:1017px;height:500px;margin:10% auto 0;padding: 15px 0 0;">
+            <h1>Don't miss these trending stories!</h1>
+            <div id="contentad57500"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=1215e187-725a-47cc-b281-58636e158ed3&amp;d=YnV6emF2ZS5jb20%3D&amp;wid=57500&amp;cb=1580465049783"></script></div>
+            <script type="text/javascript">
+                (function(d) {
+                    var params =
+                    {
+                        id: "1215e187-725a-47cc-b281-58636e158ed3",
+                        d:  "YnV6emF2ZS5jb20=",
+                        wid: "57500",
+                        cb: (new Date()).getTime()
+                    };
 
-    </div> <!-- end #content -->
-        
-
-	<footer id="colophon" role="contentinfo">
-		<div id="site-generator">
-
-			© BuzzAve                        
-		</div>
-	</footer><!-- #colophon -->
-</div><!-- #container -->
-
-
-<!-- Google mobile ad unit -->
-<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:none;width:320px;height:50px" data-ad-client="ca-pub-4830825304075095" data-ad-channel="GoogleAnchorAd"></ins>
-<script>
-
-(adsbygoogle = window.adsbygoogle || []).push({
-params: { google_reactive_ad_format: 1 }
-});
-</script>
-
+                    var qs=[];
+                    for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+                    var s = d.createElement('script');s.type='text/javascript';s.async=true;
+                    var p = 'https:' == document.location.protocol ? 'https' : 'http';
+                    s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+                    d.getElementById("contentad57500").appendChild(s);
+                })(document);
+            </script>
+        </div>
+    </div>
 <script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({flush: true});
+    var modal = ouibounce(document.getElementById('ouibounce-modal'), { sensitivity: 40, sitewide: true });
+    jQuery('#ouibounce-modal').click(function() {jQuery('#ouibounce-modal').hide();});
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"12084f6671","applicationID":"7577422","transactionName":"bwcAY0RXDRAEUxZaDlZNI1RCXwwNSkADVAQ=","queueTime":0,"applicationTime":75,"atts":"Q0ADFQxNHh4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript" src="http://static.buzzave.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.5"></script>
+<link rel="stylesheet" id="fontawesome-css" href="http://static.buzzave.com/wp-content/themes/sociallyviral/css/font-awesome.min.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="http://static.buzzave.com/wp-content/themes/sociallyviral/css/responsive.css?ver=4.3.1" type="text/css" media="all">
+<script type="text/javascript" src="http://static.buzzave.com/wp-includes/js/comment-reply.min.js?ver=4.3.1"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"12084f6671","applicationID":"7577422","transactionName":"bwcAY0RXDRAEUxZaDlZNN0VfGQoNAVUaHRFQEg==","queueTime":0,"applicationTime":2,"atts":"Q0ADFQxNHh4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using apc
-Database Caching 6/8 queries in 0.003 seconds using apc
-Object Caching 536/544 objects using apc
+Database Caching 3/9 queries in 0.018 seconds using apc
+Object Caching 709/724 objects using apc
 Content Delivery Network via Amazon Web Services: CloudFront: static.buzzave.com
 
- Served from: www.buzzave.com @ 2015-06-19 04:39:45 by W3 Total Cache --></body></html>
+ Served from: www.buzzave.com @ 2015-12-22 23:27:32 by W3 Total Cache --></body></html>
