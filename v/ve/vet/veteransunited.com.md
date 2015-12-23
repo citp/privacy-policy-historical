@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152748id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223145325id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Veterans United Home Loans
 
@@ -18,7 +18,7 @@ We collect two types of information through this site: Personal and Non-Personal
 
       1. #### **Personal Information**
 
-        1. We collect some Personal Information including your name, address, phone number, and email address that you submit to us when you inquire about the loans we provide. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. 
+        1. We collect some Personal Information including your name, address, phone number, and email address that you submit to us when you inquire about the loans we provide. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. [Click here to download a PDF copy of this Privacy Notice.](https://web.archive.org/assets/pdf/veterans-united-home-loans-privacy-notice.pdf)
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
@@ -36,9 +36,9 @@ All financial companies need to share customers' personal information to run the
 For our everyday business purposes - such as to process your transactions, maintain your account(s), responds to court orders and legal investigations, or report to credit bureaus  | Yes | No  
 For our marketing purposes - to offer our products and services to you | Yes | No  
 For joint marketing with other financial companies | No | We Don't Share  
-For our affiliates' everyday business purposes - information about your transactions and experiences | No | We Don't Share  
+For our affiliates' everyday business purposes - information about your transactions and experiences | Yes | No  
 For our affiliates' everyday business purposes - information about your creditworthiness | No | We Don't Share  
-For our affiliates to market to you | No | We Don't Share  
+For our affiliates to market to you | Yes | No  
 For nonaffiliates to market to you | No | We Don't Share  
         2. ##### **How does Veterans United Home Loans collect my personal information?**
 
@@ -67,7 +67,7 @@ State Laws and individual companies may give you additional rights to limit shar
 
           1. **Affiliates**
 
-Companies related by common ownership or control. They can be financial and nonfinancial companies. Veterans United Home Loans does not share personal information with our affiliates. 
+Companies related by common ownership or control. They can be financial and nonfinancial companies. Veterans United Home Loans may share personal information with our [affiliates](https://web.archive.org/affiliates/); including, but not limited to Veterans United Realty and Military United Insurance, LLC. 
 
           2. **Nonaffiliates**
 
@@ -159,11 +159,10 @@ Columbia, MO 65203
 
 Call 1-800-884-5560 to speak with a Home Loan Specialist.
 
-**Veterans United Home Loans (Last Updated: March 12, 2015)**
+**Veterans United Home Loans (Last Updated: July 25, 2015)**
 
 Speak with a Home Loan Specialist today 
 
 Representatives Available 24/7 to Better Serve Troops Overseas 
 
-A VA approved lender; Not endorsed or sponsored by the Dept. of Veterans Affairs or any government agency.   
-Not available in New York. 
+A VA approved lender; Not endorsed or sponsored by the Dept. of Veterans Affairs or any government agency. 
