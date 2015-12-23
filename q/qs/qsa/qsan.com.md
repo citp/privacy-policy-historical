@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsan.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625093013id_/http%3A//www.qsan.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsan.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223211645id_/http%3A//www.qsan.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Qsan Technology
 
