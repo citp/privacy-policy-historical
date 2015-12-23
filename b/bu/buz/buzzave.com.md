@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzave.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619083945id_/http%3A//www.buzzave.com/privacy-policy/%23comment-395) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzave.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223044802id_/http%3A//www.buzzave.com/privacy-policy) for the most accurate reproduction.*
 
-# BuzzAve | Privacy Policy
+# Privacy Policy | BuzzAve
 
 **Privacy Policy for www.buzzave.com**
 
