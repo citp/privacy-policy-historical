@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608160136id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223012837id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Student Doctor Network
+# Privacy Statement - Student Doctor NetworkStudent Doctor Network
 
 [](https://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97 "TRUSTe online privacy certification")
 
