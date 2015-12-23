@@ -1,67 +1,39 @@
-> *The following text is extracted and transformed from the capitalisminstitute.org privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803202138id_/http%3A//www.capitalisminstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalisminstitute.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223021838id_/http%3A//conservativetribune.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Conservative Tribune
 
-**What information do we collect?** We collect information from you when you subscribe to our newsletter.
+**Updated 7/7/2015**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Capitalism Institute. You may, however, visit our site anonymously.
+If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at [contactus@liftablemedia.com](mailto:contactus@liftablemedia.com).  
+At Liftable Media Inc, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by Liftable Media Inc and how it is used.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+### Log Files
 
-**What do we use your information for?**
+Like many other Web sites, Liftable Media Inc makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
+We will not disclose your individual identity or personal data to any party.  
+When we do present information to outside companies it will be in an aggregate fashion, that will prevent the company from identifying you or contacting you.  
+We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at [contactus@liftablemedia.com](mailto:contactus@liftablemedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Any of the information we collect from you may be used in one of the following ways:
+### Cookies and Web Beacons
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Liftable Media Inc does use cookies to store information about visitors preferences, record user-specific information on which pages the user accesses or visits, and customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-; To send periodic emails
+### DoubleClick DART Cookie
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+.:: Google, as a third party vendor, uses cookies to serve ads on Liftable Media Inc.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Do we use cookies?**
+### Third Party Advertisers
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Some of our advertising partners may use cookies and web beacons on our site.  
+These third-party ad servers or ad networks use technology to display the advertisements and links that appear on Liftable Media Inc. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+Liftable Media Inc has no access to or control over these cookies that are used by third-party advertisers.  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Liftable Media Inc’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-We use cookies to keep track of advertisements and .
+**Subscription to our Email List**
 
-**Do we disclose any information to outside parties?**
+After signing up to receive regular updates from Liftable Media Inc by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events available on Western Journalism (<http://www.westernjournalism.com/>), Liftable (<http://www.liftable.com/>), Thoughtful Women (<http://thoughtfulwomen.org/>), and Conservative Tribune (<http://conservativetribune.com/>), delivered on a daily or weekly basis. Additionally, users may receive other announcements from Liftable Media Inc. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. Liftable Media Inc respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and Liftable Media Inc. This policy is intended to explain how your personal information is collected and how it will be treated.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**shaunconnell@gmail.com**
-
-**shaunconnell@gmail.com**
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our websites privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on April 3, 2013
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http//capitalisminstitute.org/  
-3300b Lillian Cove  
-Conway, AR 72034  
-United States  
-shaunconnell@gmail.com  
-5012533474
+Users can choose to unsubscribe from any of Liftable Media Inc’s email lists at any time by following the unsubscribe procedures found at the bottom of each e-mail.
