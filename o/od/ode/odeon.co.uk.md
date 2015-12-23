@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odeon.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623134144id_/http%3A//www.odeon.co.uk/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odeon.co.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223045301id_/http%3A//www.odeon.co.uk/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
