@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misskl.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625045558id_/http%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misskl.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223105214id_/http%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Karmaloop.com
 
