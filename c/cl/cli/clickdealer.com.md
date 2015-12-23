@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the clickdealer.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327144013id_/http%3A//www.clickdealer.com/clickdealer/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdealer.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223042411id_/http%3A//www.clickdealer.com/clickdealer/index/privacypolicy) for the most accurate reproduction.*
 
-# Clickdealer
+# ClickDealer
+
+[](https://clickdealer.com/)
 
 ### Statement
 
@@ -80,7 +82,7 @@ by e–mail at [info@clickdealer.com](mailto:info@clickdealer.com)
   * ###### Phone
 
 You may call us   
-at +44 203 514 32 82
+at [+44 203 514 32 82](tel:+442035143282)
 
 
 
