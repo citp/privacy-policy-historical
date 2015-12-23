@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173900id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223194432id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
 
 # American Civil Liberties Union Privacy Statement | American Civil Liberties Union
 
