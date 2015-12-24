@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessdomain.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623062713id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessdomain.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224121313id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media Temple
 
@@ -41,6 +41,10 @@ This site uses the Lucky Orange analytics system to help improve usability and t
 ### **D. Exceptions and Limitations:**
 
 Notwithstanding the foregoing and in compliance with applicable laws, Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Media Temple may be required to disclose personally identifiable information. In addition, Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Media Temple; or (iii) to protect the rights or property of Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, Media Temple reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by Media Temple; and (iii) agrees to the obligations of this policy statement.
+
+### **E. Transfer of Data Abroad:**
+
+If you are visiting this site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this site and communicating electronically with us, you consent to such transfers. 
 
 #### **Contacting Us**
 
