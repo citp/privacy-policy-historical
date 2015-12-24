@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gainsight.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623145243id_/http%3A//www.gainsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainsight.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225000116id_/http%3A//www.gainsight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gainsight
-
-  * 
-
+# Privacy Policy - Customer Success Software | Gainsight
 
 Gainsight, Inc. respects individual privacy and values the confidence of its customers, business partners and others who may use our services. Not only do we strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which we do business, but we also aim to uphold the highest ethical standards in our business practices. This Safe Harbor Privacy Policy (the “Policy”) sets forth the privacy principles that Gainsight, Inc. follows with respect to transfers of personal information between the United States and member states of the European Union, Iceland, Liechtenstein and Norway (the European Economic Area).
 
@@ -17,7 +14,7 @@ This Safe Harbor Privacy Policy (the “Policy”) applies to all personal infor
 
 #### Definitions
 
-For purposes of this Policy, the following definitions shall apply: “Gainsight, Inc.” will refer to its application service described at ([www.gainsight.com](http://www.gainsight.com/)). “Personal information” means any information or set of information that identifies or could be used by Gainsight, Inc. or its agents to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. “Sensitive personal information” means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, Gainsight, Inc. will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+For purposes of this Policy, the following definitions shall apply: “Gainsight, Inc.” will refer to its application service described at ([www.gainsight.com](https://web.archive.org/web/20151225000116id_/http%3A//index.html)). “Personal information” means any information or set of information that identifies or could be used by Gainsight, Inc. or its agents to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. “Sensitive personal information” means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, Gainsight, Inc. will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
 
 #### Adherence to European Union Safe Harbor Privacy Principles
 
@@ -43,7 +40,7 @@ Gainsight, Inc. uses industry standard security measures to protect against the 
 
 #### UPDATING OR REMOVING USER INFORMATION
 
-You may, at any time, choose to correct or update the information you have submitted to Gainsight, Inc., by updating your account on our website ([www.gainsight.com](http://www.gainsight.com/)).  
+You may, at any time, choose to correct or update the information you have submitted to Gainsight, Inc., by updating your account on our website ([www.gainsight.com](https://web.archive.org/web/20151225000116id_/http%3A//index.html)).  
 If you cancel your account, your Personal Data and other information may be retained in our archive or backup records.
 
 #### Privacy Principles
@@ -84,5 +81,3 @@ Gainsight, Inc. has further committed to refer unresolved privacy complaints und
 #### Changes to this Safe Harbor Privacy Policy
 
 This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning material amendments or changes to this Policy.
-
-\- See more at: http://drupal.gainsight.com/privacy-policy#sthash.EzZSaxvt.dpuf
