@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindspay.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065442id_/http%3A//mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindspay.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224060206id_/http%3A//mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
 # MindsPay :: - Privacy Policy !
 
@@ -24,7 +24,7 @@ Any of the information we collect from you may be used in one of the following w
 
 • To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-• To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from MindsPay will come from MindsPay, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with All Inbox, LLC, MindsPay mailing partner. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+• To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from MindsPay will come from MindsPay, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 • To administer a contest, promotion, offer or other site feature
 
