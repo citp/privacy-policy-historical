@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623051417id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234744id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
 
 # Fanpop - Privacy Policy
 
-﻿
-
-﻿
-
-_Last Updated: August 2010_
+_Last Updated: August 2015_
 
 ## User Information
 
@@ -53,7 +49,7 @@ Controlling Your Personal Information
 
 You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via comments, messages, forums, postings, or in other areas of the Fanpop network, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Fanpop. Please do not post any personal information on the Fanpop site or in other areas that you expect to keep private. 
 
-As a registered Fanpop user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Fanpop will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Fanpop. Registered users who wish to close their account should contact admin@Fanpop.com. 
+As a registered Fanpop user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Fanpop will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Fanpop. Registered users who wish to close their account should [Contact Us](https://web.archive.org/contact)
 
 Links
 
@@ -85,4 +81,4 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 
 Contact Us
 
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact privacy@fanpop.com. 
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can [Contact Us](https://web.archive.org/contact)
