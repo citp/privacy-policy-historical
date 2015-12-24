@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esupermommy.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610112921id_/http%3A//www.esupermommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esupermommy.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224135929id_/http%3A//www.esupermommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Experience of a Super Mommy
+# Privacy Policy | Experience of a Super Mommy
 
 At www.esupermommy.com, I respect your privacy and I am committed to safeguarding your privacy while online at my site. The following discloses the information gathering and dissemination practices for this Web site.
 
