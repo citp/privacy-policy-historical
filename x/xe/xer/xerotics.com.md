@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xerotics.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402230214id_/http%3A//www.spankingonline.com/sol_ver_05/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xerotics.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224014421id_/http%3A//www.spankingonline.com/sol_ver_05/private.htm) for the most accurate reproduction.*
 
 # privacy
 
