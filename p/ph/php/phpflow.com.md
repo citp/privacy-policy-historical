@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpflow.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609044921id_/http%3A//phpflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpflow.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171409id_/http%3A//phpflow.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Php Flow
+# Privacy - Php Flow
 
 **Privacy**  
 Please read before using this Site  
@@ -20,12 +20,3 @@ phpflow.com will update this policy from time to time. It is your responsibility
 
 **Questions or Suggestions**  
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at phpflow@gmail.com
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Hi, This is Parvez Alam from India. I am software developer with 6 years’ experience in web development. I have submitted articles on PHP, Mysql, Magento,CSS, HTML, jQuery, web designing and social API. You can subscribe to my blog via [**RSS**](http://feeds.feedburner.com/PhpFlow)/[ **Twitter**](http://twitter.com/phpflow_blog)/[ **Google plus**](https://plus.google.com/+Phpflow/posts) and [**Facebook**](http://www.facebook.com/pages/phpflowcom/211083599002582). parvez1487(at)gmail(dot)com
