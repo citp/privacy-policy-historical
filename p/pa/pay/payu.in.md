@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payu.in privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324142410id_/https%3A//www.payu.in/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payu.in privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235511id_/https%3A//www.payubiz.in/privacyPolicy) for the most accurate reproduction.*
 
-# PayU
+# Privacy Policy - PayUbiz Payment Gateway
 
 This Privacy Policy covers our treatment of personally identifiable information collected from Sub-Merchants who use or may want to use our payment gateway services, as well as consumer information that we acquire in the course of our business. This Policy also covers the treatment of personally identifiable information that our back end technology providers / partners may share with it.
 
@@ -12,7 +12,7 @@ Currently, we collect personal information of our Sub-Merchants, through the Sub
 
 We also track information like the domain name from which you contact us, the pages you request, the products you buy, the referring site, and the time that you spend on the site. For everyone who visits our Sub-Merchant purchase page, we log IP addresses, the type of operating system that your computer uses, and the type of browser software used by you. From the IP address, we can determine the Internet Service Provider and the geographic location of your point of connectivity. This is done to protect ourselves and the sub-merchant from fraud risk.
 
-If you are our Sub-Merchant then the personal information you provide - name, address, etc.-allows us to inform you about updates, or changes to the service and to notify you of products and services of [PayU.in](https://www.payu.in/), its backend service providers and affiliates that we believe may be of interest to you.
+If you are our Sub-Merchant then the personal information you provide - name, address, etc.-allows us to inform you about updates, or changes to the service and to notify you of products and services of [PayUbiz.in](https://www.payubiz.in/), its backend service providers and affiliates that we believe may be of interest to you.
 
 We use reasonable precautions to keep the personal information disclosed to us secure and do not disclose this information to other individuals or organizations unless required by law. However we will exchange information with other companies and organizations for the sole purposes of fraud protection and risk reduction. However, in the case of abuse or breach of security, we are not responsible for any breach of security or for any actions of any third parties which receive the information illegally. We will not distribute customer information to be used in mailing lists, surveys, or any other purpose other than what is required to perform our services. However we will send personally identifiable information about you (Sub-Merchants) to other companies or people when:
 
