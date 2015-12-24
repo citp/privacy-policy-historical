@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135959id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224113257id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
 **Effective Date: April 1, 2015**
 
- **Last Updated: April __, 2015**
+ **Last Updated: September 28, 2015**
 
-This Privacy Policy describes how Consumers Unified, LLC (“we,” “us,” or “our”) collects, uses, and shares information collected through our [www.consumeraffairs.com](http://www.consumeraffairs.com/) web site or when you communicate with our employees (the “Services”). By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
+This Privacy Policy describes how Consumers Unified, LLC (“we,” “us,” or “our”) collects, uses, and shares information collected through our [www.consumeraffairs.com](https://www.consumeraffairs.com/) web site or when you communicate with our employees (the “Services”). By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
 We reserve the right to change this policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. If our information practices change at some time in the future, we will post the changes here. Please check this page periodically. By continuing to use this site, you consent to any changes that have been made to our policy.
 
 #### Information we receive about you:
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, your e-mail address if you communicate with us via e-mail, aggregate information on what pages you access or visit, and information you provide to us, such as survey information and/or information entered through site registrations. We may also receive and collection information you provide us if you otherwise contact us, fill in any forms, or submit any reviews through the Services.
+We collect only the domain name, but not the e-mail address of visitors to our Web page, your e-mail address if you communicate with us via e-mail, aggregate information on what pages you access or visit, and information you provide to us, such as survey information and/or information entered through site registrations. We may also receive and collect information you provide us if you otherwise contact us, fill in any forms, or submit any reviews through the Services.
 
 You may elect to log into our Services through a social networking site. By doing so, we may collect and store your user ID associated with a social media service account that you use to sign in to your account or connect or use with the Services. When you sign into your account with your social media service account information or otherwise connect to your social media service account with the Services, you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the social media interface, including without limitation any information that you have made public in connection with your social media account, information that the social media service shares with us, or information that is disclosed as being shared during the sign-in process.
 
@@ -51,7 +51,8 @@ We may use the information collected for the following purposes:
 We do not rent, sell, or share your information with third parties except as described in this Privacy Policy. We may share information we receive about you in the following ways:
 
   * We may share consumer complaints we receive from you with expert consultants, regulatory and law enforcement authorities and members of the news media. We may also share consumer complaints with attorneys at no cost to you. Consumer complaints shared with attorneys are not subject to this Privacy Policy. For example, consumer complaints you provide may be used in the course of prosecuting claims and therefore may become a part of an official court record and/or proceeding. 
-  * We may share consumer complaints we receive from you with companies about which the consumer is complaining who pay us to receive that information. To receive such information, companies must agree that they will use the information only in an attempt to resolve the complaint and/or improve their practices, not for marketing purposes. They must also agree not to use the information for litigation purposes. 
+  * We may share consumer complaints we receive from you with companies about which the consumer is complaining who pay us to receive that information. To receive such information, companies must agree that they will use the information only in an attempt to resolve the complaint and/or improve their practices. They must also agree not to use the information for litigation purposes. 
+  * We may also share Submissions (i.e., comments that you have posted on our web site) with companies with whom we have business relationship, who may use those Submissions (along with your first name, but not your e-mail address) for marketing purposes on their website or other outlets (such as social media platforms). 
   * We may also share consumer complaints with our affiliates or other entities with whom we have a business relationship. These entities may post consumer complaints on their respective websites. 
   * We may disclose your information if we have a good faith belief that we are required to disclose information we receive about you to comply with the law, such as in response to subpoenas, courts orders, legal process, or requests by government authorities, law enforcement authorities, courts, or regulators. We may also disclose information we collect to (a) protect the safety of any person, (b) address fraud, (c) investigate, prevent, or take action regarding other illegal activities, (d) address violations of our Terms of Use, (e) address security or technical issues, or (f) protect our rights and property. 
   * We may share information we receive about you with our service providers who process your personal information to provide services to us on our behalf. We prohibit our service providers from sharing the information about you that they collect or that we provide to them with anyone else, or using it for purposes not authorized by us. 
@@ -66,11 +67,11 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 This site implements Google Analytics features based on Display Advertising data, including Google Analytics Demographics and Interest Reporting. Using Google Ad Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We use data from Google’s Interest-based advertising or third party audience data (such as age, gender, and interests) to help improve the site and user experience. To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit <https://www.google.com/settings/ads>. Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored to your interests. 
 
-We do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. We also do not evaluate or endorse the products and services advertised. See the [FAQ](http://www.consumeraffairs.com/about/faq/) for more information.
+We do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. We also do not evaluate or endorse the products and services advertised. See the [FAQ](https://www.consumeraffairs.com/about/faq/) for more information.
 
 #### What we don’t do with the information we receive about you:
 
-We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes. We do make it available to companies who have paid us in order for them to contact consumers to respond to their comments or complaints. 
+We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes, although when we communicate with you we may include commercial or marketing messages in those communications. We do make e-mail addresses available to companies who have paid us in order for them to contact consumers to respond to their comments or complaints. 
 
 If you supply us with your postal address, but not your online address, you will only receive information and inquiries from us at your postal address. 
 
@@ -115,7 +116,7 @@ ConsumerAffairs.com
 Lake Tahoe, NV 89449-4470  
 1-866-773-0221
 
-We can be reached via e-mail through the [Contact Us](http://www.consumeraffairs.com/about/contact/) form on our Web site or at [info@consumeraffairs.com](mailto:info@consumeraffairs.com).
+We can be reached via e-mail through the [Contact Us](https://www.consumeraffairs.com/about/contact/) form on our Web site or at [info@consumeraffairs.com](mailto:info@consumeraffairs.com).
 
  
 
