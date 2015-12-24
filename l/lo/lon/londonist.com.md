@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629111857id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224104246id_/https%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookie Information and Privacy Policy | Londonist
 
@@ -10,9 +10,9 @@ Londonist Ltd is the sole owner of the information collected on the Londonist we
 
 ## Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-By setting a cookie on a Londonist Ltd Site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion areas. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Londonist Ltd products or services that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all Londonist Ltd services require that you accept cookies.
+By setting a cookie on a Londonist Ltd Site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion areas. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Londonist Ltd products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Londonist Ltd services require that you accept cookies.
 
 ## 3rd party Cookies
 
@@ -34,7 +34,7 @@ We want to hear your opinions and knowledge, so please leave a comment. Occasion
 
 ## Mailing Lists
 
-Londonist Ltd may launch a mailing list for some or all of the Londonist Ltd Sites, in order to provide subscribers with relevant information — breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid email address and potentially demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organisation.
+Londonist Ltd may launch a mailing list for some or all of the Londonist Ltd Sites, in order to provide subscribers with relevant information — breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and potentially demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organisation.
 
 Users who choose to sign up for a mailing list will receive regular emails from the site. Most of the time, these will be content from the site in question, but we may occasionally send out an email from a third party sponsor. This will be infrequent, and does not represent an endorsement by Londonist Ltd of any products advertised therein. It will clearly be marked as advertising: please check it out, as we hope you will feel that it is relevant to you. Since editorial independence is critical to us, you can be sure that we will never send out a sponsored email in the guise of a glowing product review. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
 
@@ -48,7 +48,7 @@ Like most standard Web site servers we use log files. This includes internet pro
 
 ## Business Transitions
 
-In the event Londonist Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+In the event Londonist Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
 ## Legal Disclaimer
 
@@ -64,22 +64,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 ## Complaints
 
-If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line ‘Complaint’.
-
-[ ](http://londonist.com/2015/06/london-without-limits-festival-launches-today.php)
-
-[ ](http://londonist.com/2015/06/cartoons-in-london-where-to-find-them.php)
-
-[ ](http://londonist.com/2015/06/a-cryptic-shop-sign-quiz-from-georgian-london.php)
-
-[ ](http://londonist.com/2015/06/campaigners-fight-for-orpington-priory-as-bromley-museum-moves.php)
-
-[ ](http://londonist.com/2015/06/londons-little-gardens-elmstead-woods-station.php)
-
-[ ](http://londonist.com/2015/06/franz-kafkas-the-trial-is-a-guilty-nightmare-review.php)
-
-[ ](http://londonist.com/2015/06/mog-tiger-and-pink-rabbit-come-to-life-at-the-jewish-museum-review.php)
-
-[ ](http://londonist.com/2015/06/got-a-sexy-postcode-then-ruddy-well-flaunt-it.php)
-
-[ ](http://londonist.com/2015/06/brixton-comes-together-for-i-am-your-neighbour.php)
+If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line 'Complaint'.
