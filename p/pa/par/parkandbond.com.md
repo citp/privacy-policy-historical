@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkandbond.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630173437id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkandbond.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003554id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
@@ -32,7 +32,7 @@ Click on one of the links below to jump directly to the listed section:
 
 ## Information We Collect
 
-We may obtain personal information about you from various sources, including this and other GILT websites, mobile applications, when you call or email us or communicate with us through social media, or when you participate in events or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties.
+We may obtain personal information about you from various sources, including this and other GILT websites, mobile applications, when you call or email us or communicate with us through social media or our or our partners' live chat functionalities, or when you participate in events or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties.
 
 The types of personal information we may obtain include:
 
@@ -121,11 +121,11 @@ You may opt out of the aggregation and analysis of data collected about you on o
 
 ### Targeted Advertising & Tracking
 
-You may exercise your choices with respect to how third-party ad networks with which we engage collect information about your web use by [clicking here](http://info.evidon.com/pub_info/3863). You can opt-out of receiving targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/).  
+You may exercise your choices with respect to how third-party ad networks with which we engage collect information about your web use by [clicking here](http://info.evidon.com/pub_info/3863). You can opt-out of receiving targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/). To exercise your choices with respect to targeted advertising and tracking on your mobile device, we recommend you explore your options to reset, limit or turn off your advertising ID on your particular device.  
 
 ### Geo-Location Information
 
-When you use a GILT application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+When you use a GILT application on your mobile device, you may choose not to share your precise geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
 
 ### Cookies
 
@@ -133,7 +133,7 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 ### Your California Privacy Rights
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that GILT has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to GILT, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [privacy@gilt.com](mailto:privacy@gilt.com), with the subject line "California Privacy" and your request in the body of your email.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. GILT permits California residents to opt out of having their information shared with third parties for direct marketing purposes. To opt out, please us at [privacy@gilt.com](mailto:privacy@gilt.com). 
 
 ## Access and Correction
 
@@ -174,4 +174,4 @@ Attn: Legal Department
 2 Park Avenue, 4th Floor  
 New York, New York 10016
 
-**Last Updated: April 2, 2015**
+**Last Updated: August 17, 2015**
