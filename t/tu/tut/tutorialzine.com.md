@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialzine.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162259id_/http%3A//tutorialzine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialzine.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234904id_/http%3A//tutorialzine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tutorialzine
 
