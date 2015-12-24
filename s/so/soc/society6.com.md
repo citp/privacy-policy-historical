@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the society6.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225441id_/http%3A//society6.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the society6.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225001147id_/https%3A//society6.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Society6
 
@@ -74,7 +74,7 @@ In compliance with the Safe Harbor Principles, Society6 commits to resolve compl
 
 The company complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Society6’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Society6 has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Society6, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20150616225441id_/http%3A//society6.com/help/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Society6 has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Society6, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20151225001147id_/https%3A//society6.com/help/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## California Privacy Rights
 
