@@ -1,42 +1,59 @@
-> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012025652id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224111051id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
 
 # Databazaar Privacy Policy
 
-Databazaar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Consumer WebWatch, a division of Consumer Reports, has named Databazaar as one of America’s 75 Praiseworthy e-commerce companies. **Databazaar.com supports the Consumer WebWatch guidelines to promote credible information practices on the Web.** The following discloses our information gathering and dissemination practices for this website: Databazaar.com. 
+**What information do we collect?**  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your : name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-We track your IP address to help diagnose problems with our server, for fraud protection and to administer our Website. We use your browser's cookie functions to maintain one shopping session on our website and to customize and enhance your shopping experience. 
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways: 
 
-Our website requires customers to give us their contact information (like their name, billing, shipping and email address and phone number) and financial information (like their credit card numbers). The customer's contact information is used to contact the customer when necessary for order related queries, to send orders (products and invoices) and for mailing order tracking information. Your contact information may also be used to inform you of changes and enhancements to our website and to make special offers on products from our site. **Users may opt-out of receiving future mailings by using the choice/opt-out section below.** Financial information that is collected is used only to bill the customer for products and services. 
+  * To personalize your experience - your information helps us to better respond to your individual needs.
+  * To improve our website - we continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To improve customer service - your information helps us to more effectively respond to your customer service requests and support needs.
+  * To process transactions - your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails - The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * If you decide to opt-in to our mailing list, you will receive emails that may include company news, discount coupons, promotions, updates, related product or service information, etc.
 
-Our customer information and email addresses remain in our possession on our servers and are maintained as private and proprietary information. In order to insure adequate performance on our ecommerce web site, we may use email broadcast servers from authorized service providers to provide a means of delivering emails. We are in effect renting time on the service provider’s high power email servers which have a high capacity interface to the internet. At all times Databazaar keeps control of the email list. This process is in compliance with the CAN-SPAM Act of 2003 and the California OPPA Act effective July 1, 2004. 
 
-**Customer information is never exchanged with or sold to any third party.**
 
-**Security**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-This website has extensive security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are located behind firewalls preventing unauthorized access to our customer or transaction information. The servers housing the website are also secure servers implementing a 128bit RSA level of security. 
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.   
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment Gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Choice/Opt-Out**
+**Do we use cookies?**  
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
-This website gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-1\. Email: [support@databazaar.com](mailto:support@databazaar.com)  
-2\. Call: 1-877-848-7357 ( 9am – 5pm EST )
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Correct/Update**
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-This website gives users the following options for changing and modifying information previously provided. 
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-1\. Email: [support@databazaar.com](mailto:support@databazaar.com)  
-2\. Call: 1-877-848-7357 ( 9am – 5pm EST ) 
+**Online Privacy Policy Only**  
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Contacting the Website**
+**Your Consent**  
+By using our site, you consent to our privacy policy.
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this Website, you can contact 
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page.
 
-Oney Seal  
-Databazaar.com  
-12070 Miramar Parkway  
-Miramar, FL 33025  
-oney@databazaar.com  
-954-843-0483 x105 
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below.   
+DBZ E-Venture LLC.  
+15321 South Dixie Highway, Suite 309  
+Miami, FL 33157  
+Email: support@databazaar.com 
