@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyradio.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625120124id_/http%3A//www.familyradio.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyradio.org privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224182901id_/http%3A//www.familyradio.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
