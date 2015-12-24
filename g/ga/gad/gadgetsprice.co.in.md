@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgetsprice.co.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623140418id_/https%3A//gadgetsprice.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsprice.co.in privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224141302id_/http%3A//gadgetsprice.co.in/privacy) for the most accurate reproduction.*
 
-# - ALL ABOUT GADGETS AND GIZMOS
+# - All About Gadgets And Gizmos
 
 ## **Privacy Policy for http://gadgetsprice.co.in/**
 
