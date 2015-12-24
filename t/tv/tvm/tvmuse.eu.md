@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvmuse.eu privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144739id_/http%3A//www.tvmuse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvmuse.eu privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235811id_/http%3A//www.tvmuse.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tv-Links - Watch free movies, tv shows, documentaries, cartoons, anime online
 
