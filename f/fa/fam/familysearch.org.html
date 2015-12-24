@@ -1,18 +1,15 @@
-<!--The following is the downloaded HTML source of the familysearch.org privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629223237id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familysearch.org privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224235142id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    
-    <link href="https://edge.fscdn.org/assets/docs/fs_logo_favicon.png" rel="icon" type="image/x-icon">
-    <title>Privacy Policy — FamilySearch.org</title>
-
+<!DOCTYPE html><html lang="en"><head>
     
     
 
 <meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="locale" content="en">
-<meta name="allLocales" content="">
+<meta name="allLocales" content="en">
+<meta name="msapplication-config" content="none">
 
 
   <meta name="description" content="Discover your family history. Explore the world’s largest collection of free family trees, genealogy records and resources.">
@@ -25,12 +22,48 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="apple-itunes-app" content="app-id=885982973">
 
+<!-- Hides an element on DOM render to prevent Flash of Unstyled Content -->
+<!-- Class "defer-show" hides element on page render. Set element to 'display:show' inside page's css -->
+<style>.defer-show{display:none}</style>
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-  window.appName = 'landing';
+  window.appName = 'home';
   window.targetEnv = 'prod';
   window.debugOn = false;
+
+  window.FS = window.FS || {};
+
+  /* Check query params for a single 'debug', or a 'debug=text1,text2' */
+  var match, patt = /(?:(?:\?|\&)+)(debug\b)(?:\=?)(?:(\w,?)*)/;
+
+  if (match = window.location.search.match(patt)) {
+    var debugFilter = match[0].split("=")[1];
+    FS.debugFilter = [];
+
+    if (debugFilter === 'false') {
+      FS.debugMode = false;
+    } else {
+      FS.debugMode = true;
+      if (debugFilter !== 'true') {
+        FS.debugFilter = debugFilter ? debugFilter.split(",") : [];
+      }
+    }
+  } else {
+    FS.debugMode = false;
+    FS.debugFilter = [];
+  }
 </script>
 
+    <title>Privacy Policy — FamilySearch.org</title>
+    
+    <link href="https://edge.fscdn.org/assets/docs/fs_logo_favicon_sq.png" rel="icon" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://edge.fscdn.org/assets/img/tree-touch-icon-40af841a79047e1b0b15c06f86e973c9.png">
+
+    
+
+
+    <!-- FontFaceObserver script: -->
+    
 
     
       
@@ -39,34 +72,54 @@
   
   
     
-      <link href="https://edge.fscdn.org/assets/css/header-footer/hf-95cfda2f659c4fe62dde556df446c29f.css" rel="stylesheet" media="all">
+      <link href="https://edge.fscdn.org/assets/css/header-footer/hf-26d7c5bdd0d36556ff491faec1edef3b.css" rel="stylesheet" media="all">
     
-      <link href="https://edge.fscdn.org/assets/css/header-footer/hf-responsive-fb19ffc7fc9dd3c1574773dfebde4e2f.css" rel="stylesheet" media="all">
+      <link href="https://edge.fscdn.org/assets/css/header-footer/hf-responsive-8148299830670e8509938657d87f4c34.css" rel="stylesheet" media="all">
     
       <link href="https://edge.fscdn.org/assets/css/bootstrap-4e2b1b162d1b0258fe9438059b650cb5.css" rel="stylesheet" media="screen">
     
-      <link href="https://edge.fscdn.org/assets/css/terms_privacy-c0524370e5798375a5b8162bf8e36e15.css" rel="stylesheet" media="screen">
+      <link href="https://edge.fscdn.org/assets/css/microsites/terms_privacy-c0524370e5798375a5b8162bf8e36e15.css" rel="stylesheet" media="screen">
     
   
+
 
   
     <script src="https://edge.fscdn.org/assets/js/jquery-1.8.2.min-cfa9051cc0b05eb519f1e16b2a6645d7.js"></script>
   
 
-
-  
-  <script src="https://edge.fscdn.org/assets/js/inject_0.5.2-34a5e9dae81403fd2abd05358f239360.js"></script>
-
-  
   
 
   
-  <script src="https://edge.fscdn.org/assets/js/base-0e3afc2dccd3b28510ba22e82c65faf2.js"></script>
+  
+    <script src="https://edge.fscdn.org/assets/js/inject_0.5.2-34a5e9dae81403fd2abd05358f239360.js"></script>
+  
 
-    
+  
+  
+
+  
+  <script src="https://edge.fscdn.org/assets/js/base-ba04e7631e8c6dbf22d376fa79921c76.js"></script>
+
+  
+  
+  
+  <script type="text/javascript">
+  FS.defaultEx({"userId":"-anon-","apps":{"shared-ui":{"stamp":"80ca41d2a052a73a66d035c8cfb53941","features":{"wwwRedirect":false,"templeLink":true,"showVolunteerExperiment":false,"accelleratorDropDownExperiment":false,"helpMenuExperiment":true,"myCasesExperiment":true,"chromeFrameExperiment":false,"mobileDrawerExperiment":false,"accelleratorDropDownTnTExperiment":true,"feedbackExperiment":true,"feedbackInHeaderExperiment":false,"salesForceExperiment":true,"bootstrap232":false,"bootstrap3":false,"jQuery191":false,"jQueryMigrate":false,"jQueryMigrateDebug":false,"appDynamicsEx":false,"parterProductsEx":false,"newHeaderFooterEx":true,"adminRoleEx":true,"dropdownNavEx":true,"mBoxAlwaysOnEx":true,"registerLinkEx":true,"injectFiveTwo":true,"newRelCalEndpointEx":true,"frMemoriesEx":true,"netPromoterEx":true,"adobeDTMStageEx":false,"globalAlertEx":false,"ThirdPartyPerfEx":true,"indexingNav":true,"showCookieConsent":true,"forceCookieConsent":false,"contextHelpMenu":true,"myIndexingSecondaryNavEx":false,"helperCAS":true,"cobranding":true,"appDynamicsCloudEx":false,"audioViewEx":true,"optIntoDiscoveryBanner":false,"optIntoDiscoveryModal":false,"hfCSSCombinedEx":false,"clickTaleEx":false,"boomrRum":false,"bootstrapCSSMin":false,"getHelpBubble":false,"optimizelyEx":false,"novemberBannerEx":false,"nobsheader":false,"fsStylesEx":false,"messagesInHeaderEx":true,"lowConfEx":true,"boomrActiveExpEx":false,"prefetchEx":false,"appStoreEx":true,"boomrExternalBeaconEx":true,"todoListInHeaderEx":false,"hfDepsConcatEx":false,"newLangPickerEx":false,"omnitureEx":true,"googleAnalyticsEx":true,"newHeaderAnalyticsEx":false,"injectV7Ex":false,"asyncFontsEx":false,"asyncRUMEx":true,"netPromoterForceOnEx":false,"targetParams":true,"boomrSpeedIndexEx":true,"treeFoundationEx":false,"deferredCSSEx":false,"purifyEx":false,"newMenuEx":false,"perfbarEx":false,"perfPreconnectEx":true,"sendContactMessageEx":false,"edgeBannerSupportEx":false,"newMemoriesEx":false,"bookletInNavEx":true,"taasEx":false,"openSourcePrefetchEx":false,"asyncInject":false,"asyncInjectEx":false,"translationWorkbenchEx":false,"translationWorkbenchBetaEx":false},"dirtyFeatures":[],"bucket":"33"},"landing":"a=landing,s=cc82e29aaaf5d3949f44a4aa26e7dfc0,v=01,b=74","home":{"stamp":"68a6ef0978f141bae1bc9c65f5f06723","features":{"mboxEndpointCountryTrumpEx":true,"mboxFirstLoadIpEx":true,"globalAlertEx":false,"lihpOptOutSurvey":false,"lihpAskConsultantEx":false,"lihpAskConsultantEx72Hrs":false,"lihpAskConsultantExClear":false,"lihpMPODBoxEx":true,"lihpGDDismissClear":false,"lihpGDGetStarted":false,"newReservationsCount":true,"namesCompleted":false,"lihpStats":false,"deepZoom":true,"FTTcarouselEx":true,"edgeBannerSupportEx":true,"optIntoLiHPBanner":true,"newMetricEx":true,"lihpLearnMoreEx":false,"forceShowLiHPBanner":false,"historyEndpointEx":false,"OptUsersIntoLiHP":false,"OptUsersIntoLiHPes":false,"OptUsersIntoLiHPpt":false,"OptUsersIntoLiHPzh":false,"campMboxIpCallEx":false,"openSourcePrefetchEx":true},"dirtyFeatures":["optIntoLiHPBanner"],"bucket":"17"},"volunteer":"a=volunteer,s=cd9cb68f737d758e64dc2003e9f13de4,v=000110,b=48","registration":"a=registration,s=37d39dd2a4d251000fa536c0e93e80a0,v=101110001011000,b=84","frontier-tree":"a=frontier-tree,s=263be458a988c94c5580277d1997a2da,v=001000100000010101010001111000100100011110,b=7","campaign":"a=campaign,s=296f4e3066991d8e9584fd6eb21e8c7c,v=0101011111110010110001111,b=9","photos":"a=photos,s=e039acbf91b123487282ee146aee5a99,v=00011101010001011101110011001101101111011010,b=13","search":"a=search,s=3ab868baee99a2c0e6635183f34ec5cd,v=1111111100111101111111110100000000000100101000001100000,b=62","indexing":"a=indexing,s=fb539cf7f0a639bf1a803ed3d90a8bcc,v=111001011000000110010000000001110010001111100100001111,b=12","ask":"a=ask,s=335150c1944d49a85d5dc612d2ac74a7,v=1100010010101100100,b=42","products-gallery-web":"a=products-gallery-web,s=642368b39490ed8ff4cc6f8fe57c8e52,v=0000001,b=34"}});
+  </script>
+
+  
+  
+  
+
+  
+
+
+  
+  
+
+
     <script type="text/javascript">
-      FS.defaultEx({"apps":{"shared-ui":{"stamp":"5674b858491b38972a4eebc7de8b6621","bucket":74,"features":{"wwwRedirect":false,"templeLink":true,"showVolunteerExperiment":false,"accelleratorDropDownExperiment":false,"helpMenuExperiment":true,"myCasesExperiment":true,"chromeFrameExperiment":false,"mobileDrawerExperiment":false,"accelleratorDropDownTnTExperiment":true,"feedbackExperiment":true,"feedbackInHeaderExperiment":false,"salesForceExperiment":true,"bootstrap232":false,"bootstrap3":false,"jQuery191":false,"jQueryMigrate":false,"jQueryMigrateDebug":false,"appDynamicsEx":false,"parterProductsEx":false,"newHeaderFooterEx":true,"adminRoleEx":true,"dropdownNavEx":true,"mBoxAlwaysOnEx":true,"registerLinkEx":true,"injectFiveTwo":true,"newRelCalEndpointEx":true,"frMemoriesEx":true,"netPromoterEx":true,"adobeDTMStageEx":false,"globalAlertEx":false,"ThirdPartyPerfEx":true,"indexingNav":true,"showCookieConsent":true,"forceCookieConsent":false,"contextHelpMenu":true,"myIndexingSecondaryNavEx":false,"helperCAS":true,"cobranding":true,"appDynamicsCloudEx":false,"audioViewEx":true,"optIntoDiscoveryBanner":false,"optIntoDiscoveryModal":false,"hfCSSCombinedEx":false,"clickTaleEx":false,"boomrRum":false,"bootstrapCSSMin":false,"getHelpBubble":false,"optimizelyEx":false,"novemberBannerEx":false,"nobsheader":false,"fsStylesEx":false,"messagesInHeaderEx":false,"lowConfEx":true,"boomrActiveExpEx":false,"prefetchEx":false,"appStoreEx":true,"boomrExternalBeaconEx":true,"todoListInHeaderEx":false,"hfDepsConcatEx":false,"newLangPickerEx":false,"omnitureEx":true,"googleAnalyticsEx":true,"newHeaderAnalyticsEx":false,"injectV7Ex":false,"asyncFontsEx":false,"asyncRUMEx":false,"netPromoterForceOnEx":false,"targetParams":true,"boomrSpeedIndexEx":false,"boomrPerfbarEx":false,"treeFoundationEx":false},"dirtyFeatures":[]},"landing":{"stamp":"cc82e29aaaf5d3949f44a4aa26e7dfc0","bucket":75,"features":{"Natalie":false,"nfsNowShutOff":true},"dirtyFeatures":[]}},"bucket":74,"userId":"-anon-"});
-      FS.appPath = "https://familysearch.org/privacy";
+      FS.appPath = "https://familysearch.org/home";
     </script>
 
     
@@ -82,6 +135,16 @@
 
   
   
+
+    
+    
+    <script type="text/javascript">
+      function targetPageParams() {
+        return {lang: 'en'};
+      }
+    </script>
+    
+
     
       <script src="//assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/satelliteLib-5883022ebeed9721e2c5a69de5972e51e91b0938.js"></script>
     
@@ -95,8 +158,7 @@
 
   </head>
 
-  <body id="pagekey__landing__privacy_policy" class="env-production">
-
+  <body id="pagekey__home__privacy_policy" class="env-production">
     
     
 
@@ -107,13 +169,31 @@
 
 
 
-<div class="browser-upgrade alert alert-error hide">
-  <p><strong>Attention</strong>: This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or <a href="/browser-upgrade" class="btn btn-water btn-small">install another browser</a>.</p>
+<div class="browser-upgrade global-banner banner-alert hide">
+  <p><strong>Attention</strong>: This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or <a href="/browser-upgrade">install another browser</a></p>
 </div>
 
 
 
 
+  <div class="edge-banner global-banner banner-warn global-alert hide">
+    <p>This site does not fully support Microsoft Edge yet.  For the best browsing experience, please use Chrome, Firefox, or Safari.</p>
+  </div>
+
+
+
+
+
+
+  
+  <div id="vanillaCCModal" class="hide">
+    <div id="cookieConsentModal" aria-hidden="true">
+      <p class="modal-title">Manage My Cookies</p>
+      <p>Like many trusted websites that you use, FamilySearch.org uses browser cookies. Cookies help you log in securely, enable important features, save your preferences, and ensure you are able to accomplish your goals on our site. They help us get to know you so we can provide relevant search results and research suggestions, deliver content tailored to your interests, and deliver a reliable website--just what you expect from us.</p>
+      <a class="btn btn-large btn-flat-blue cookie-consent-dismiss" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lihp_opt_dismiss&quot;}">Ok, Thanks</a>
+      <a class="cookie-consent-modal-link cookie-consent-dismiss" href="http://info.evidon.com/pub_info/2829?v=1" target="_blank">Yes, Review my Cookies</a>
+    </div>
+  </div>
 
 
 
@@ -124,11 +204,12 @@
       
         
 
-
-
 <header id="global-engage-header">
     <div class="global-util-nav-container clearfix">
       <ul class="unstyled utilities">
+
+
+        
 
         
 
@@ -138,11 +219,11 @@
         </li>
         
 
-          <li id="getHelpLink" class="help visible-desktop" data-control="ContextHelpNew">
-            <a href="javascript:;" class="utility-trigger header-icon nav-item" data-test="header-nav-help" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_ghelp&quot;}" data-i18n-bind="'Help'">
-            Get Help</a>
-
-        </li><li class="menu hidden-desktop mobile-menu-button">
+        <li id="getHelpLink" class="help visible-desktop" data-control="ContextHelpNew">
+          <a href="javascript:;" class="utility-trigger header-icon nav-item" data-test="header-nav-help" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_ghelp&quot;}" data-i18n-bind="'Help'">
+          Get Help</a>
+        </li>
+        <li class="menu hidden-desktop mobile-menu-button">
           <a href="javascript:;" class="header-icon utility-trigger" id="main-nav-trigger"></a>
         </li>
       </ul>
@@ -152,10 +233,10 @@
     <div class="global-pri-nav-container clearfix">
 
       
-        <h1 class="serif logo-container">
+        <h1 class="logo-container">
           <a href="/" data-test="header-logo" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_logo&quot;}">
             
-              <img src="https://edge.fscdn.org/assets/img/theme-engage/assets/images/tree-logotype-1x-94806fd4d3214ea1ab7ce7eac7310d2c.png">
+                <img alt="FamilySearch" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAAAsCAMAAADciOPGAAAAeFBMVEUAAACFuAeFuAe5t7CFuAeFuAi5t7CFuUCFuAeFuAeFuAeFuAeFuAeFuAeFuAeFuAeFuAeFuUCFuAeclXurp5eFuAedl36blHqblHqFuUCblHq5t7CblHq5t7CblHqblHqblHq5t7CFuUCFuUCFuAe5t7CblHqFuUB7/YDbAAAAJHRSTlMAQL9AgBC/QO8w31Agn2CPz79wvhCvO9eFflx77+pwnyDPn+8v8x+vAAADu0lEQVRYw+zVsQ6DMAxFUUtWkznCKlCgA1XM//9hnyCJytzlteJuyXSkyLGcSiVhbisJcwcvXci/RpruGTVS854CmdCLFLmEsGSlnm7NQSQAGUtiWjMhqSHvJdzUVEhqz+0lTmTxuHdo3pGTqk5EyPYFuQvqgDx0SoK8xZbQIuPWupDfIseIViBppxvIKGj8GaT13hsObBvnhBzcH0LYJ9Jm7yXkWhCWgFxHlIB8ug+syHfz5bbTRgyE4RljV/b6tFoaUlEgQbLy/o9Yz4zX2w0bghoi9b+ID9jjjzlBZsH+dHqqkK+/Sa8EmdQi+GclrXbafw/k8XR6AfghHpRRl0XwmfgoYj2m4ExuKKzBwVeFZctQjfQbRfvxDpBDaRpvhKSaeT5QSq4gq1QpmoarkAHRAHy07et7U3C6DvB14RYkPJ9IFyEz5aRBdCuqAOvNLUjdtmZIsxxHxM3ftUM6DLDSrw75/kB6X0FWpZEzywPQ6BN9akkIZZBXAlkkWMgjTqVY04k8GbGa1rvSpjR4p4jKD/IGQ/JidOu0nCGbziBdafLAELLYyaAvQzp6NRlgxSKKALZNM/CnpSuxNCWs4K3eYKVLkEpXISibPTliBMz8kLZMo+veYHDqkFoRFoRIjgrAh23EVhAR6V4CXWJibxo6T1KezZE9hcwXye/+HPIA8HB6fBA9CaRIQyBvBE4tFLdN4hOUvQ4JTiKcyU1VkxWnG9jJDtYFmNBKH9mARV5EylqClAswstVF1Mv3cNwvf77XkBCSjqpDmj7AGlIuJX4zACvRNUmECassBdF4nZWdIVESykhBudl0Pod8pHi/UK9sWuWkyaWpNwik2G9BJnKVk7koEKYri2b/Nshh3Xb6XHfIXt+k/c9tyEiJNfkzSLUFyVVh6oW0dFgz1CW5s4nmO40S7m5uuAYprfKRGLcgyRMA01XIASRK1VO2GTAt+7yt24vdSSLcIUOvEn8Z8idBHs9a60j1GGZItGQoUJzRAA+Bf8RZFJHezkneq+tGM3rkOg6aqxuTUgLpqHq1E3OS/xlxGkp7gSEjfkjKw2pHz1XT+5rtXRFhaY5z0+ALUjriefG9KIIZ5zlBk2y/ipISoixbDeBjvJ8uQCZLNlP+HNLEXjpl7DZY2VD1WeENjoGy/xuSbjN5NpchYU+FAxdkcEID1+VcS8E0X0xa5SmACKsMT5IPG4/4hHBR3ZUHuF2tn99DkpW3fxcLnuo4wp10fCHKN7hNWMr9HCkBvz3iKP9i/d8yiN+K+AedG7bQK59IagAAAABJRU5ErkJggg==">
             
           </a>
         </h1>
@@ -203,9 +284,11 @@
               
                 <li class="sub-menu-item"><a href="/tree/#view=ancestor">Person</a></li>
               
-                <li class="sub-menu-item"><a href="/tree/#view=search">Find</a></li>
+                <li class="sub-menu-item"><a href="/tree/#view=find">Find</a></li>
               
                 <li class="sub-menu-item"><a href="/tree/#view=favorites">Lists</a></li>
+              
+                <li class="sub-menu-item"><a href="/myfamily">Family Booklet</a></li>
               
             </ul>
           </div>
@@ -287,6 +370,7 @@
   <ul class="main-nav help-list unstyled clearfix">
     <li><a class="nav-item" href="/ask/help"><span>Contact Us</span></a></li>
     <li><a class="nav-item" href="/ask/">Help Center</a></li>
+    <li><a class="nav-item sCCustomLinkTracker" href="https://remote.familysearch.org/rc_en.html" target="_blank" data-config="{'type': 'o', 'name': 'Ask: Help Menu: FamilySearch Home Page: Remote Connect'}" data-control-init="SCCustomLinkTracker">Remote Connect</a></li>
   </ul>
 </section>
 <section class="family-search">
@@ -309,68 +393,73 @@
       <a class="nav-item" href="/site-map" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_site-map&quot;}" data-i18n-bind="'SiteMap'">Site Map</a>
      </li>
    
+    <li>
+      <a class="nav-item" href="/apps" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_apps&quot;}" data-i18n-bind="'appGalleryLong'">App Gallery</a>
+     </li>
+   
   </ul>
 </section>
 <section class="languages ignore-cjk">
   <header data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.lang-list a&quot;, &quot;changeText&quot;: false}" data-i18n-bind="'languages'">Languages</header>
-  <div class="language-picker-menu clearfix">
+  
+<div class="language-picker-menu clearfix">
 
-<ul class="lang-list main-nav">
-  
-    
-    <li>
-      <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
-    </li>
-  
-    
-    <li class="last">
-      <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
-    </li>
-  
-    
-    <li class="last">
-      <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
-    </li>
-  
-</ul>
+    <ul class="lang-list main-nav">
+        
+        
+        <li>
+            <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
+        </li>
+        
+        
+        <li class="last">
+            <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
+        </li>
+        
+        
+        <li class="last">
+            <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
+        </li>
+        
+    </ul>
 
-
-
+    
+    
 
 </div>
 
@@ -390,7 +479,7 @@
             <div class="desktop-nav visible-desktop">
             
             
-            <div class="account" data-control="ddPopover" data-config="{&quot;trigger&quot;: &quot;.utility-trigger&quot;, &quot;target&quot;: &quot;.utility-menu&quot; }">
+            <div class="account" data-control="ddPopover" data-config="{&quot;trigger&quot;: &quot;.hf-user-menu&quot;, &quot;target&quot;: &quot;.utility-menu&quot; }">
               
 
 
@@ -406,7 +495,7 @@
             </div>
             
 
-            <div class="main-nav-wrapper l10n-en">
+            <div class="main-nav-wrapper logged-out">
               <ul class="main-nav unstyled clearfix notification-badges">
               <li class="">
                 <a class="nav-item" href="/tree/" data-test="header-mainnav-tree" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_tree&quot;}" data-i18n-bind="'FamilyTree'">Family Tree</a>
@@ -418,9 +507,11 @@
                     
                     <li class="sub-menu-item"><a href="/tree/#view=ancestor" data-test="Person">Person</a></li>
                     
-                    <li class="sub-menu-item"><a href="/tree/#view=search" data-test="Find">Find</a></li>
+                    <li class="sub-menu-item"><a href="/tree/#view=find" data-test="Find">Find</a></li>
                     
                     <li class="sub-menu-item"><a href="/tree/#view=favorites" data-test="Lists">Lists</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/myfamily" data-test="Family-Booklet">Family Booklet</a></li>
                     
                   </ul>
                 </div>
@@ -460,9 +551,9 @@
                     
                     <li class="sub-menu-item"><a href="/catalog-search" data-test="Catalog">Catalog</a></li>
                     
-                    <li class="sub-menu-item books"><a href="http://books.familysearch.org" data-test="Books">Books</a></li>
+                    <li class="sub-menu-item books hide-ko hide-zh hide-ja"><a href="http://books.familysearch.org" data-test="Books">Books</a></li>
                     
-                    <li class="sub-menu-item hide-ko"><a href="/learn/wiki/en/Main_Page" data-test="Wiki">Wiki</a></li>
+                    <li class="sub-menu-item hide-ko hide-zh hide-ja"><a href="/learn/wiki/en/Main_Page" data-test="Wiki">Wiki</a></li>
                     
                   </ul>
                 </div>
@@ -498,110 +589,115 @@
 
 
 
+  <script>FS.Cookie.unsetCookie("fs-tf");</script>
+
 
       
 
-      <div data-ng-view="" class="app-landing">
-        
+      
+        <div data-ng-view="" class="app-home">
+          
 
 
 <div id="main" class="pt privacy">
-	<div class="row-fluid">
-		<div class="span8">
-			<h1>Privacy Policy</h1>
-			<p>The privacy of your personal information is important to The Church of Jesus Christ of Latter-day Saints and our affiliated legal entities (referred to in this policy collectively as “the Church,” “we,” “us,” and similar terms). This Privacy Policy is intended to be a general statement that describes how we collect, use, and process personal information you provide on our websites or Internet applications (referred to as “sites”). We strive to collect, use, and disclose personal information in a manner consistent with the laws of the countries in which we collect personal information. This Privacy Policy applies to this site, which is owned and operated by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints, the Corporation of the Presiding Bishop of The Church of Jesus Christ of Latter-day Saints, or FamilySearch International (as noted specifically on the first page of the website).</p>
-			<p>In selected jurisdictions, the Church-affiliated entities may adopt unique Privacy Policy provisions to reflect the requirements of applicable local laws. When a separate provision is deemed necessary, we will provide you with an additional notice.</p>
-			<p>You can visit most of our sites without providing any personal information. When personal information is requested, we adhere to the following privacy principles regarding how we collect, use, disclose, transfer, and store your information.</p>
-			<h2>Privacy Practices</h2>
-			<ol>
-				<li>
-					<p>Information Collection. When you create an LDS Account directly or through a FamilySearch site, register an account on one of our sites, add profile information, or take other similar actions, we may collect or obtain from you or your membership records (if applicable) information including, but not limited to, your name, address, e-mail address, phone number, photo, contact or profile preferences, and Church unit information.</p>
-					<p>We may also collect information your Internet device or web browser sends whenever you visit one of our sites, including an Internet Protocol address.</p>
-				</li>
-				<li>
-					<p>Use of Personal Information.We may use the personal information you provide to (a) allow us to contact you, (b) fulfill requests you make, (c) seek your voluntary feedback on website features or content, or (d) help fulfill our mission.</p>
-					<p>We may also use your personal information for internal purposes, including auditing, data analysis, system troubleshooting, and research.</p>
-					<p>In addition, we may use both the personal information you provided and the information your web browser sends (see section 10 below) in order to detect users who appear to be causing harm to our sites or in order to personalize users’ experiences on our sites.</p>
-					<p>If your information will be used for any purpose besides those outlined above, we will specifically inform you and obtain your consent, if legally required.</p>
-					<p>From time to time, we may also make you aware of options to opt out of using or opt in to use certain features.</p>
-				</li>
-				<li>
-					<p>Use of Church Membership Information. If you are a member of the Church, your general membership information (for example, name, address, and phone number) and other optional information you may choose to provide (for example, email address, photo, and so forth) may be shared with Church members in your ward or branch and stake or district for internal Church purposes with your prior consent if your consent is legally required. Some of your information may also be viewable on a limited and restricted basis on our Internet sites, including LDS.org. You may opt out of sharing information or limit the optional information you share by modifying your profile preferences on individual sites.</p>
-					<p>In addition, your membership information, including your personal contact information, may be shared with Church leadership for internal Church purposes.</p>
-				</li>
-				<li>
-					<p>Content Submissions. On some of our sites you may provide your own content and comments in selected areas. Some of your submissions are intended to be private and not viewable by others (for example, personal online notes, journaling, or similar features). However, other content submissions may be intended to be publically available and viewable by others (for example, written testimonials or online comments in selected areas of our sites).</p>
-					<p>In instances where your content submissions will be made publically available or shared with other third parties, we will ask for your express agreement either at the time you create a separate profile (for example,  mormon.org or familysearch.org) or at the time you upload content (for example, when you upload video clips or genealogy information). We recommend that you use caution when providing content intended to be viewed publically and that you avoid posting information that could cause harm or injury, or risk of harm or injury, to yourself or others.</p>
-					<p>All types of content submissions you provide will be stored either on our systems or the systems of our affiliates or third parties (as defined in section 7A below). While industry standards are used to safeguard your submissions from unauthorized access, disclosure, or modification (as defined in section 8 below), we cannot guarantee complete privacy and we may, in some instances, choose or be legally required to disclose such information to third parties as outlined in section 7 of this policy.</p>
-					<p>Though we are under no obligation to monitor your content submissions, we reserve the right to do so at our sole discretion. We also reserve the right to block or remove any content we deem inappropriate, obscene, lewd, lascivious, filthy, violent, harassing, defamatory, libelous, tortious, illegal, threatening, or otherwise objectionable, regardless of whether it was intended to be private or public. Since we do not review all content submitted through every feature on every site, we cannot guarantee that we will be able to take protective measures in the event you provide content disclosing information about a person who is a victim of harm or abuse or is at risk of becoming a victim of harm or abuse.</p>
-					<p>When we become aware of content that we consider to be offensive or that could compromise the privacy of your personal or confidential information or that of another person, we will make a good-faith effort to block or remove such content.</p>
-				</li>
-				<li>
-					<p>Retention. We retain collected personal information and submissions for a reasonable period of time to fulfill the collection purpose and then delete it from our records, with the exception of limited historical profile information, general genealogy records, and membership information retained as part of a permanent genealogical or Church historical record.</p>
-				</li>
-				<li>
-					<p>Access. We endeavor to maintain the accuracy of personal information and rely on you to ensure your personal information is complete and accurate. You may verify, correct, or remove your personal information through your website-specific registration, through your profile, or through your LDS Account, where applicable.</p>
-					<p>If you are a Church member, some of your personal information may be updated only by making changes to your Church membership record. Such changes must be made by contacting the clerk in your Church unit and requesting the change. If you experience problems with modifying or updating your personal information, you can contact us by sending an e-mail to DataPrivacyOfficer@ldschurch.org. Upon receiving your e-mail message, we will do our best to provide you with a response within 30 days. If we cannot honor your request within the 30-day period or cannot provide you access to the requested information, we will explain why.</p>
-				</li>
-				<li>
-					<p>Information Sharing and Disclosure. We regard your personal information as confidential and do not sell it to anyone. We do not share your personal information with other parties except in the following circumstances (or in other instances where we specifically inform you and obtain your prior consent):</p>
-					<ol class="upper-alpha">
-						<li><p>Third-Party Providers. We may provide personal information to third parties for their use in performing internal functions on our behalf (for example, payment processing, maintenance, security, data analysis, hosting, and so forth). In such instances, the providers will be contractually required to protect personal information from additional use (including for marketing purposes) or transfer in accordance with this Privacy Policy and industry standards.</p></li>
-						<li><p>Church Entities. We may transfer personal information to any Church-affiliated entity to accomplish Church purposes. For membership information transfers from the European Union, we rely on standard clause agreements between Church entities in compliance with European Union requirements. For online submissions of personal information, we deem an individual’s submission to be an affirmative act, indicating informed consent to the processing of the data as well as informed consent to allow the transborder data transfer to the United States of America, where applicable, for the purposes for which it was provided.</p></li>
-						<li><p>Legal Requirements. We may access and disclose your personal information, posts, journal entries, online chats, personal notes, content, or other submissions to any website if we have a good-faith belief that doing so is required by a subpoena or other judicial or administrative order or otherwise required by law. Additionally, we may disclose your personal information and other information where we, in good faith, deem it appropriate or necessary to prevent a violation of our other agreements; to take precautions against liability; to protect the rights, property, or safety of the site, of any individual, or of the general public; to maintain and protect the security and integrity of our services or infrastructure; to protect ourselves and our services from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; or to assist government law enforcement agencies.</p></li>
-					</ol>
-				</li>
-				<li>
-					<p>Protection of Information. We use technical and organizational measures to protect the personal information we receive against loss, misuse, and unauthorized alteration and to protect its confidentiality. We regularly review our security procedures and consider appropriate new security technology and methods. We also use current encryption technology to encrypt the transmission of data on our log-in pages. However, because we cannot guarantee the complete security of these encryption technologies, please use caution when submitting personal information online.</p>
-				</li>
-				<li>
-					<p>Third-Party Data. Where local law permits, you may submit personal information, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required. If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, e-mail notification, or the like.</p>
-				</li>
-				<li>
-					<p>Passive Data Collection: Tracking Technologies, Cookies, and Clear GIFs. When you visit any of our sites, our servers or filtering systems may collect information that your web browser sends any time you visit a website. This information may include but is not limited to your browser type, your operating system, your language preference, any referring web page you were visiting before you came to our site, the date and time of each visitor request, and information you search for on our sites.</p>
-					<p>We also use cookies and clear GIFs to collect information. A cookie is a small bit of data used to transfer information to either your computer’s hard drive or your web browser for record-keeping purposes. A cookie serves as a sort of label that allows our sites to recognize your web browser when you return to our sites.  A clear GIF (also known as a web beacon) is used in combination with cookies to help us understand how visitors interact with our sites. A clear GIF is typically a transparent graphic image placed on a website. The use of clear GIFs allows us to monitor your actions when you open a web page and makes it easier for us to follow and record the activities of recognized browsers. For example, using clear GIFs, we can track the path of page visits on a website and monitor aggregate usage and web traffic routing on our sites.</p>
-					<p>We collect this information to better understand how you use and interact with our sites in order to improve your experience. We may also share this information with our employees, contractors, service providers, and affiliated entities as defined in section 7.</p>
-					<p>You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit http://www.allaboutcookies.org. To opt out of being tracked by Google Analytics across all websites visit https://tools.google.com/dlpage/gaoptout.</p>
-				</li>
-				<li>
-					<p>Policy Compliance and Questions Regarding the Privacy of Personal Information. We have a data privacy officer who helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This officer also helps educate Church employees concerning compliance. Inquiries concerning this Privacy Policy or the security of personal information that we process may be sent through e-mail, fax, or mail to the following:</p>
-					<address>
-					E-mail: <a href="mailto:DataPrivacyOfficer@ldschurch.org">DataPrivacyOfficer@ldschurch.org</a><br>
-					Fax: 1-801-240-1187<br>
-					Address: Data Privacy Office<br>
-					50 E. North Temple St.<br>
-					Salt Lake City, UT 84150-0018
-					</address>
-				</li>
-				<li><p>Children's Privacy. We do not knowingly collect information from children under the age of 13 on most of our sites. Any of our sites that collect children’s information will do so only with the prior express and informed consent of the child’s parent or guardian in compliance with applicable law. We strongly recommend that minors under the age of 18 ask their parents for permission before sending any personal information to anyone over the Internet, and we encourage parents to teach their children about safe Internet use practices.</p></li>
-				<li><p>Third-Party Links. We are not responsible for the privacy practices or content of any third-party sites. For your own protection, you should review the policies of other sites to ensure they meet your personal privacy expectations.</p></li>
-				<li><p>Future Changes to Privacy Policy. We regularly review this Privacy Policy and may change, modify, add, or remove portions as needed. If we change this Privacy Policy in ways that affect how we use your personal information, we will notify you here or in a notice on our home page. We will also update the revision date at the bottom of the Privacy Policy. We encourage you to check this Privacy Policy from time to time to remain informed of any changes.</p></li>
-			</ol>
-				<p>Effective Date. This version of the Privacy Policy became effective on March 18, 2014.</p>
-		</div>
+  <div class="row-fluid">
+    <div class="span8">
+      <h1>Privacy Policy</h1>
+      <p>The privacy of your personal information is important to The Church of Jesus Christ of Latter-day Saints and our affiliated legal entities (referred to in this policy collectively as “the Church,” “we,” “us,” and similar terms). This Privacy Policy is intended to be a general statement that describes how we collect, use, and process personal information you provide on our websites or Internet applications (referred to as “sites”). We strive to collect, use, and disclose personal information in a manner consistent with the laws of the countries in which we collect personal information. This Privacy Policy applies to this site, which is owned and operated by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints, the Corporation of the Presiding Bishop of The Church of Jesus Christ of Latter-day Saints, or FamilySearch International (as noted specifically on the first page of the website).</p>
+      <p>In selected jurisdictions, the Church-affiliated entities may adopt unique Privacy Policy provisions to reflect the requirements of applicable local laws. When a separate provision is deemed necessary, we will provide you with an additional notice.</p>
+      <p>You can visit most of our sites without providing any personal information. When personal information is requested, we adhere to the following privacy principles regarding how we collect, use, disclose, transfer, and store your information.</p>
+      <h2>Privacy Practices</h2>
+      <ol>
+        <li>
+          <p>Information Collection. When you create an LDS Account directly or through a FamilySearch site, register an account on one of our sites, add profile information, or take other similar actions, we may collect or obtain from you or your membership records (if applicable) information including, but not limited to, your name, address, e-mail address, phone number, photo, contact or profile preferences, and Church unit information.</p>
+          <p>We may also collect information your Internet device or web browser sends whenever you visit one of our sites, including an Internet Protocol address.</p>
+        </li>
+        <li>
+          <p>Use of Personal Information.We may use the personal information you provide to (a) allow us to contact you, (b) fulfill requests you make, (c) seek your voluntary feedback on website features or content, or (d) help fulfill our mission.</p>
+          <p>We may also use your personal information for internal purposes, including auditing, data analysis, system troubleshooting, and research.</p>
+          <p>In addition, we may use both the personal information you provided and the information your web browser sends (see section 10 below) in order to detect users who appear to be causing harm to our sites or in order to personalize users’ experiences on our sites.</p>
+          <p>If your information will be used for any purpose besides those outlined above, we will specifically inform you and obtain your consent, if legally required.</p>
+          <p>From time to time, we may also make you aware of options to opt out of using or opt in to use certain features.</p>
+        </li>
+        <li>
+          <p>Use of Church Membership Information. If you are a member of the Church, your general membership information (for example, name, address, and phone number) and other optional information you may choose to provide (for example, email address, photo, and so forth) may be shared with Church members in your ward or branch and stake or district for internal Church purposes with your prior consent if your consent is legally required. Some of your information may also be viewable on a limited and restricted basis on our Internet sites, including LDS.org. You may opt out of sharing information or limit the optional information you share by modifying your profile preferences on individual sites.</p>
+          <p>In addition, your membership information, including your personal contact information, may be shared with Church leadership for internal Church purposes.</p>
+        </li>
+        <li>
+          <p>Content Submissions. On some of our sites you may provide your own content and comments in selected areas. Some of your submissions are intended to be private and not viewable by others (for example, personal online notes, journaling, or similar features). However, other content submissions may be intended to be publically available and viewable by others (for example, written testimonials or online comments in selected areas of our sites).</p>
+          <p>In instances where your content submissions will be made publically available or shared with other third parties, we will ask for your express agreement either at the time you create a separate profile (for example,  mormon.org or familysearch.org) or at the time you upload content (for example, when you upload video clips or genealogy information). We recommend that you use caution when providing content intended to be viewed publically and that you avoid posting information that could cause harm or injury, or risk of harm or injury, to yourself or others.</p>
+          <p>All types of content submissions you provide will be stored either on our systems or the systems of our affiliates or third parties (as defined in section 7A below). While industry standards are used to safeguard your submissions from unauthorized access, disclosure, or modification (as defined in section 8 below), we cannot guarantee complete privacy and we may, in some instances, choose or be legally required to disclose such information to third parties as outlined in section 7 of this policy.</p>
+          <p>Though we are under no obligation to monitor your content submissions, we reserve the right to do so at our sole discretion. We also reserve the right to block or remove any content we deem inappropriate, obscene, lewd, lascivious, filthy, violent, harassing, defamatory, libelous, tortious, illegal, threatening, or otherwise objectionable, regardless of whether it was intended to be private or public. Since we do not review all content submitted through every feature on every site, we cannot guarantee that we will be able to take protective measures in the event you provide content disclosing information about a person who is a victim of harm or abuse or is at risk of becoming a victim of harm or abuse.</p>
+          <p>When we become aware of content that we consider to be offensive or that could compromise the privacy of your personal or confidential information or that of another person, we will make a good-faith effort to block or remove such content.</p>
+        </li>
+        <li>
+          <p>Retention. We retain collected personal information and submissions for a reasonable period of time to fulfill the collection purpose and then delete it from our records, with the exception of limited historical profile information, general genealogy records, and membership information retained as part of a permanent genealogical or Church historical record.</p>
+        </li>
+        <li>
+          <p>Access. We endeavor to maintain the accuracy of personal information and rely on you to ensure your personal information is complete and accurate. You may verify, correct, or remove your personal information through your website-specific registration, through your profile, or through your LDS Account, where applicable.</p>
+          <p>If you are a Church member, some of your personal information may be updated only by making changes to your Church membership record. Such changes must be made by contacting the clerk in your Church unit and requesting the change. If you experience problems with modifying or updating your personal information, you can contact us by sending an e-mail to DataPrivacyOfficer@ldschurch.org. Upon receiving your e-mail message, we will do our best to provide you with a response within 30 days. If we cannot honor your request within the 30-day period or cannot provide you access to the requested information, we will explain why.</p>
+        </li>
+        <li>
+          <p>Information Sharing and Disclosure. We regard your personal information as confidential and do not sell it to anyone. We do not share your personal information with other parties except in the following circumstances (or in other instances where we specifically inform you and obtain your prior consent):</p>
+          <ol class="upper-alpha">
+            <li><p>Third-Party Providers. We may provide personal information to third parties for their use in performing internal functions on our behalf (for example, payment processing, maintenance, security, data analysis, hosting, and so forth). In such instances, the providers will be contractually required to protect personal information from additional use (including for marketing purposes) or transfer in accordance with this Privacy Policy and industry standards.</p></li>
+            <li><p>Church Entities. We may transfer personal information to any Church-affiliated entity to accomplish Church purposes. For membership information transfers from the European Union, we rely on standard clause agreements between Church entities in compliance with European Union requirements. For online submissions of personal information, we deem an individual’s submission to be an affirmative act, indicating informed consent to the processing of the data as well as informed consent to allow the transborder data transfer to the United States of America, where applicable, for the purposes for which it was provided.</p></li>
+            <li><p>Legal Requirements. We may access and disclose your personal information, posts, journal entries, online chats, personal notes, content, or other submissions to any website if we have a good-faith belief that doing so is required by a subpoena or other judicial or administrative order or otherwise required by law. Additionally, we may disclose your personal information and other information where we, in good faith, deem it appropriate or necessary to prevent a violation of our other agreements; to take precautions against liability; to protect the rights, property, or safety of the site, of any individual, or of the general public; to maintain and protect the security and integrity of our services or infrastructure; to protect ourselves and our services from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; or to assist government law enforcement agencies.</p></li>
+          </ol>
+        </li>
+        <li>
+          <p>Protection of Information. We use technical and organizational measures to protect the personal information we receive against loss, misuse, and unauthorized alteration and to protect its confidentiality. We regularly review our security procedures and consider appropriate new security technology and methods. We also use current encryption technology to encrypt the transmission of data on our log-in pages. However, because we cannot guarantee the complete security of these encryption technologies, please use caution when submitting personal information online.</p>
+        </li>
+        <li>
+          <p>Third-Party Data. Where local law permits, you may submit personal information, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required. If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, e-mail notification, or the like.</p>
+        </li>
+        <li>
+          <p>Passive Data Collection: Tracking Technologies, Cookies, and Clear GIFs. When you visit any of our sites, our servers or filtering systems may collect information that your web browser sends any time you visit a website. This information may include but is not limited to your browser type, your operating system, your language preference, any referring web page you were visiting before you came to our site, the date and time of each visitor request, and information you search for on our sites.</p>
+          <p>We also use cookies and clear GIFs to collect information. A cookie is a small bit of data used to transfer information to either your computer’s hard drive or your web browser for record-keeping purposes. A cookie serves as a sort of label that allows our sites to recognize your web browser when you return to our sites.  A clear GIF (also known as a web beacon) is used in combination with cookies to help us understand how visitors interact with our sites. A clear GIF is typically a transparent graphic image placed on a website. The use of clear GIFs allows us to monitor your actions when you open a web page and makes it easier for us to follow and record the activities of recognized browsers. For example, using clear GIFs, we can track the path of page visits on a website and monitor aggregate usage and web traffic routing on our sites.</p>
+          <p>We collect this information to better understand how you use and interact with our sites in order to improve your experience. We may also share this information with our employees, contractors, service providers, and affiliated entities as defined in section 7.</p>
+          <p>You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit http://www.allaboutcookies.org. To opt out of being tracked by Google Analytics across all websites visit https://tools.google.com/dlpage/gaoptout.</p>
+        </li>
+        <li>
+          <p>Policy Compliance and Questions Regarding the Privacy of Personal Information. We have a data privacy officer who helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This officer also helps educate Church employees concerning compliance. Inquiries concerning this Privacy Policy or the security of personal information that we process may be sent through e-mail, fax, or mail to the following:</p>
+          <address>
+          E-mail: <a href="mailto:DataPrivacyOfficer@ldschurch.org">DataPrivacyOfficer@ldschurch.org</a><br>
+          Fax: 1-801-240-1187<br>
+          Address: Data Privacy Office<br>
+          50 E. North Temple St.<br>
+          Salt Lake City, UT 84150-0018
+          </address>
+        </li>
+        <li><p>Children's Privacy. We do not knowingly collect information from children under the age of 13 on most of our sites. Any of our sites that collect children’s information will do so only with the prior express and informed consent of the child’s parent or guardian in compliance with applicable law. We strongly recommend that minors under the age of 18 ask their parents for permission before sending any personal information to anyone over the Internet, and we encourage parents to teach their children about safe Internet use practices.</p></li>
+        <li><p>Third-Party Links. We are not responsible for the privacy practices or content of any third-party sites. For your own protection, you should review the policies of other sites to ensure they meet your personal privacy expectations.</p></li>
+        <li><p>Future Changes to Privacy Policy. We regularly review this Privacy Policy and may change, modify, add, or remove portions as needed. If we change this Privacy Policy in ways that affect how we use your personal information, we will notify you here or in a notice on our home page. We will also update the revision date at the bottom of the Privacy Policy. We encourage you to check this Privacy Policy from time to time to remain informed of any changes.</p></li>
+      </ol>
+        <p>Effective Date. This version of the Privacy Policy became effective on March 18, 2014.</p>
+    </div>
 
-		<div class="span4">
-			<div id="nav-container">
-				<a href="/privacy">
-					<div id="nav-1" class="nav-tri">
-						Privacy Policy
-					</div>
-				</a>
-				<a href="/terms">
-					<div id="nav-2" class="nav-tri">
-						Terms of Use
-					</div>
-				</a>
-				<a href="/about">
-					<div id="nav-3" class="nav-tri">
-						About FamilySearch
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
+    <div class="span4">
+      <div id="nav-container">
+        <a href="/privacy">
+          <div id="nav-1" class="nav-tri">
+            Privacy Policy
+          </div>
+        </a>
+        <a href="/terms">
+          <div id="nav-2" class="nav-tri">
+            Terms of Use
+          </div>
+        </a>
+        <a href="/about">
+          <div id="nav-3" class="nav-tri">
+            About FamilySearch
+          </div>
+        </a>
       </div>
+    </div>
+  </div>
+</div>
+        </div>
+      
+
       <div id="push"></div>
     </div>
 
@@ -616,75 +712,78 @@
           <a href="/feedback" class="helpFeedbackLink" data-test="footer-Feedback" data-i18n-bind="'Feedback'">Feedback</a>
           
           <a href="/site-map" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_site-map&quot;}" data-test="footer-SiteMap" data-i18n-bind="'SiteMap'">Site Map</a> 
+          <a href="/apps" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_apps&quot;}" data-test="footer-appGalleryLong" data-i18n-bind="'appGalleryLong'">App Gallery</a> 
 
-        <a class="cookie-consent-link hide cookieModal" href="javascript:void(0)">Cookie Consent</a>
-
+        <a class="cookie-consent-link cookieModal" data-control="CookieConsentModal" href="javascript:void(0)">Cookie Consent</a>
+        
         <div class="language-picker-container ignore-cjk" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.language-picker-trigger&quot;, &quot;target&quot;: &quot;.language-picker-menu&quot;}">
           <a data-test="LanguagePicker" href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
-          <div class="language-picker-menu clearfix">
+          
+<div class="language-picker-menu clearfix">
 
-<ul class="lang-list main-nav">
-  
-    
-    <li>
-      <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
-    </li>
-  
-    
-    <li class="last">
-      <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
-    </li>
-  
-    
-    <li class="last">
-      <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
-    </li>
-  
-</ul>
+    <ul class="lang-list main-nav">
+        
+        
+        <li>
+            <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
+        </li>
+        
+        
+        <li class="last">
+            <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
+        </li>
+        
+        
+        <li class="last">
+            <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
+        </li>
+        
+    </ul>
 
-
-
+    
+    
 
 </div>
 
 
 
         </div><!-- /.language-picker-container -->
+        
       </nav>
 
       <div class="copyright_notice">
@@ -710,64 +809,65 @@
       <div class="language-picker-container ignore-cjk" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.language-picker-trigger&quot;, &quot;target&quot;: &quot;.language-picker-menu&quot;}">
         <a href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
         <div class="language-picker-menu clearfix">
-          <div class="language-picker-menu clearfix">
+          
+<div class="language-picker-menu clearfix">
 
-<ul class="lang-list main-nav">
-  
-    
-    <li>
-      <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
-    </li>
-  
-    
-    <li>
-      <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
-    </li>
-  
-    
-    <li class="last">
-      <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
-    </li>
-  
-    
-    <li class="last">
-      <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
-    </li>
-  
-</ul>
+    <ul class="lang-list main-nav">
+        
+        
+        <li>
+            <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
+        </li>
+        
+        
+        <li>
+            <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
+        </li>
+        
+        
+        <li class="last">
+            <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
+        </li>
+        
+        
+        <li class="last">
+            <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
+        </li>
+        
+    </ul>
 
-
-
+    
+    
 
 </div>
 
@@ -781,26 +881,60 @@
 
     
 
-    <script src="https://edge.fscdn.org/assets/js/components/qwery-f47a239aada0ac990af30f00a8a9d43f.js"></script>
-<script src="https://edge.fscdn.org/assets/js/components/superagent-2b6424a042256aa846ac2e69f5e1be50.js"></script>
-<script src="https://edge.fscdn.org/assets/js/components/adminRole-1f0281eaa8bff75c1adbf7abd84477a2.js"></script>
-<script src="https://edge.fscdn.org/assets/js/components/dropDownNavigation-fc6942ffaa2e9ea0d6f80d174af636bd.js"></script>
-<script src="https://edge.fscdn.org/assets/js/components/responsiveNavigation-4a7cb1e9947d496ecf836a737c5f548a.js"></script>
-<script src="https://edge.fscdn.org/assets/js/modules/NewSendMessage-f5f03830214fc9fd7cbf76f2f137afb4.js"></script>
+    
+
+  <script src="https://edge.fscdn.org/assets/js/components/qwery-f47a239aada0ac990af30f00a8a9d43f.js"></script>
+  <script src="https://edge.fscdn.org/assets/js/components/superagent-2b6424a042256aa846ac2e69f5e1be50.js"></script>
+  <script src="https://edge.fscdn.org/assets/js/components/adminRole-cbab48aeac3d150bd3b05dcdf5fed43a.js"></script>
+
+  
+    <script src="https://edge.fscdn.org/assets/js/components/dropDownNavigation-9cdba697488e4a01ec959a93b83fd60f.js"></script>
+    <script src="https://edge.fscdn.org/assets/js/components/responsiveNavigation-4a7cb1e9947d496ecf836a737c5f548a.js"></script>
+    <script src="https://edge.fscdn.org/assets/js/modules/NewSendMessage-4ae405869960dedc0f852691c59c076a.js"></script>
+  
 
 
 
-<script src="https://edge.fscdn.org/assets/js/theme-engage-d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
+
+
+
+
+
+
+  <script src="https://edge.fscdn.org/assets/js/theme-engage-d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
 
 <script>
-  if (!FS.Browser.isSupported()) {
+  if (!FS.Browser.isSupported() && !FS.Browser.embeddedMobile) {
     $('.browser-upgrade').show();
   }
+
+
+  if (FS.Browser.getMake() === "edge") {
+    $('.edge-banner').show();
+  }
+
+
 </script>
 
 
     
-  <script src="https://edge.fscdn.org/assets/js/clientManifest-295878d7cb95ba836e7386cac846cf2a.js"></script>
+  <script src="https://edge.fscdn.org/assets/js/clientManifest-888f919deb9792d15346ae5a721eba5b.js"></script>
+
+
+
+
+
+  <script type="text/javascript">
+  /*  Since we load some assets directly using script tags, disable amd.
+      See http://www.injectjs.com/docs/0.7.x/api/inject.disableamd.html
+  */
+  
+    Inject.disableGlobalAMD(true);
+  
+
+  </script>
 
 
 <script type="text/javascript">
@@ -824,14 +958,17 @@
     }
 
     
-      Inject.setCrossDomain({
-        relayFile: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.html",
-        relaySwf: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.swf"
-      });
+      
+          Inject.setCrossDomain({
+            relayFile: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.html",
+            relaySwf: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.swf"
+          });
+      
     
     Inject.setExpires(0);//Don't store files in localStorage
-    Inject.clearCache();//Have to clear because inject will cache no matter what the time is set to.  Since we name our files based on a hash, the expire time will only apply if the file hasn't changed names.
-
+    
+      Inject.clearCache();//Have to clear because inject will cache no matter what the time is set to.  Since we name our files based on a hash, the expire time will only apply if the file hasn't changed names.
+    
   
 
   
@@ -849,7 +986,7 @@
       } //for()
     } //if window(manifest)
 
-  console.log("Controls have been configured");
+  if(window.debugOn) console.log("Controls have been configured");
 
   $(document).ready(function() {
     // this used to be document.body....changed to allow <body> to be a control
@@ -859,14 +996,35 @@
 
 
     
+  
+  <script>
+    FS.prefetchConfig = {}
+    require.ensure(['Prefetch'], function (require) {
+      FS.Prefetch = require('Prefetch');
+      FS.Prefetch.init(FS.prefetchConfig);
+      FS.Prefetch.addContainers(['.main-nav-wrapper']);
+      FS.Prefetch.addExclusions(['/tree']);
+    });
+  </script>
+
+
+
+    
+    
+
+    
+    
+
+    
     
       
-        <script src="https://edge.fscdn.org/assets/js/terms_privacy-4ca4f5d3bf5a6c940edbd4b88c38a41a.js"></script>
+        <script src="https://edge.fscdn.org/assets/js/microsites/terms_privacy-4ca4f5d3bf5a6c940edbd4b88c38a41a.js"></script>
       
     
 
     
     
+      
 
 
 
@@ -875,9 +1033,12 @@
 
     
     <script>
-      s.pageName = "FamilySearch: Site Pages: Privacy Policy";
-      s.channel = "FamilySearch: Site Pages:";
-      s.prop35 = s.eVar35 = "";
+      s.pageName = "FamilySearch: Home: Privacy Policy";
+      s.channel = "FamilySearch: Home:";
+      s.prop35 = s.eVar35 = "en";
+
+      /* Track Gender and Age for Logged-In Users */
+      
       
       s.prop36 = ""; // Any search term
     </script>
@@ -913,7 +1074,7 @@
   
   
     <script>
-      _satellite.pageBottom();
+      if (_satellite && _satellite.pageBottom) _satellite.pageBottom();
     </script>
   
 
@@ -921,13 +1082,18 @@
   
   
 
+  
+  
 
   
   
 
 
 
+    
 
+    
+    
   
 
 </body></html>
