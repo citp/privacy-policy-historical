@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seeresult.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201020id_/http%3A//seeresult.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeresult.in privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224184818id_/http%3A//seeresult.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Exam Results
+# Privacy Policy - SeeResult.in
 
 This Privacy Policy governs the manner in which Seeresult.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.seeresult.in website (“Site”). This privacy policy applies to the Site and all products and services offered by seeresult.in.
 
@@ -53,12 +53,3 @@ Seeresult.in/contact-us
 http://www.Seeresult.in  
 If you have any objection with any content of the site, you can request for the removal by sending the email at arshkapoor2015@gmail.com  
 This document was last updated on November 21, 2014
-
-  
-
-
-Subscribe to get latest Job openings to your inbox
-
-Name
-
-Email *
