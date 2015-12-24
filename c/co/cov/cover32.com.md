@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cover32.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152259id_/http%3A//cover32.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cover32.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224145215id_/http%3A//cover32.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | cover32
+# Privacy Policy | Cover32
 
 This Privacy Policy governs the manner in which cover32 collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.cover32.com web site (“Site”). This privacy policy applies to the Site and all products and services offered by cover32.
 
