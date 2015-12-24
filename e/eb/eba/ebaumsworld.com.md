@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203943id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003625id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
 
 # Funny Videos, Funny Pictures, Flash Games, Jokes
 
@@ -98,6 +98,10 @@ The Service may use cookies for various purposes, such as to save you the need t
 
 Viumbe permits third party advertising companies to place advertisements on Viumbe Websites and manage their display. The advertisements originate from these advertising computer systems. In order to manage the advertisements, these companies post cookies on your computer and embed web beacons in the advertisements or in Viumbe Websites' pages. Web beacons are tiny graphics with unique identifiers, embedded in web pages and used to assist in collecting information about the sites usage. The collected information does not identify you, and is only intended to match the displayed advertisements to your personal interests. The use of cookies and web beacons by advertising companies is subject to their own privacy policies and not to this Privacy Policy. Such companies have no access to Viumbe's Websites' cookies and Viumbe has no access to their cookies. Should you wish to check the privacy policies of the companies that are managing the advertising scheme on Viumbe Websites, you may do so via their own websites. To opt out of Google's "interest-based ads" and to learn more about Google's collection of your personal information to serve ads in connection with Viumbe Websites, click [here](http://www.google.com/settings/ads/onweb/). To receive further information about the advertising companies that Viumbe works with, please contact us at: [contact@viumbe.com](mailto:contact@viumbe.com). 
 
+## Facebook Advertising
+
+[Facebook's privacy policy](https://m.facebook.com/ads/ad_choices)
+
 ## Information Security
 
 Viumbe implements systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. Therefore, although Viumbe takes great efforts to protect your privacy, Viumbe cannot guarantee and you cannot reasonably expect that the Service and the Service's databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse, or that your private communications on or through the Service will remain private. 
@@ -115,4 +119,4 @@ Viumbe, LLC
 1550 Bryant St., Suite 470  
 San Francisco, CA 94103.
 
-Last updated: May 2, 2013. 
+Last updated: September 29, 2015. 
