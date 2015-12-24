@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625230716id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224053438id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
 
+"Christmas Gift Points" is waiting for you!
+
+Hurry! Just complete the "Christmas Gift Survey"!  
+You will Get a Chance to Receive the "Christmas Gift Points"!
+
+  * Event period: 2015-12-21 ~ 2016-01-04
+  * Winner announcement: 2016-01-05
+
+[ Back to Home ](https://web.archive.org/home)
+
 ##  Privacy Policy Effective January 1, 2014
 
-The main business of Research Panel Asia, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
+The main business of dataSpring, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
 
 ### 1\. The definition of personal information
 
@@ -74,10 +84,10 @@ The law requires this disclosure:
 
 ### 9\. Contact with Personal Information
 
-This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for Research Panel Asia, Inc. for any inquires. 
+This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for dataSpring, Inc. for any inquires. 
 
   1. This firm's point of contact for inquires for personal information 
-    * a. Address: 8F First Place Bldg., Shinsen-cho 8-16, Shibuya, Tokyo, Japan
+    * a. Address: 7F KOSUGI Bldg., Shinjuku 1-28-11, Shinjuku-ku, Tokyo, Japan 160-0022 
     * b. Email Address: 
 
 
