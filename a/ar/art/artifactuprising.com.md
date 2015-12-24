@@ -1,83 +1,156 @@
-> *The following text is extracted and transformed from the artifactuprising.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623171320id_/https%3A//www.artifactuprising.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artifactuprising.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171220id_/http%3A//www.artifactuprising.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Privacy Policy
+Artifact Uprising LLC (“Artifact Uprising,” “we,” or “us”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through websites operated by us from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites and the Apps, the “Services”). By providing Personal Information to us, you acknowledge that you understand and agree to this Privacy Policy.
 
-* * *
+Personal Information
 
-Welcome to Artifact Uprising, the website and mobile service of Artifact Uprising, LLC (“Artifact Uprising,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+Personal Information We May Collect “Personal Information” is information that identifies you as an individual or relates to an identifiable person. We and our service providers may collect Personal Information including:
 
-#### 1\. HOW WE COLLECT AND USE INFORMATION
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service, http://www.artifactuprising.com/site/terms.
 
-We collect the following types of information about you:
 
-Information you provide us directly: We ask for certain information such as your username, first and last name, address, phone number and e-mail address when you register for a Artifact Uprising account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service.
+If you choose to apply for job openings through our Careers page, you also may submit information about your qualifications, including your resume.
 
-Information we may receive from third parties: We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Instagram, Facebook Connect, by “following,” “liking,” adding the Artifact Uprising application, linking your account to the Artifact Uprising Service, etc., that third party may pass certain information about your use of its service to Artifact Uprising. This information could include, but is not limited to, the user ID associated with your account (for example, your Instagram UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join Artifact Uprising. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Artifact Uprising Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. If you unlink your third party account, we will remove the information collected about you in connection with that service.
+We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information may be collected by the third party, and not by us, and will be subject to such third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, such third party’s collection, use, and disclosure of your Personal Information.
 
-Inviting a friend to use Artifact Uprising from the “Invite friends” feature: If we provide you with the ability to and you choose to use our invitation service to invite a third party to the Service through our “Invite friends” feature, you may directly choose a friend to invite through your mobile device’s native contact list – but we do not require that you import your contacts list to the Service, and we do not retain the information contained in your contacts list. You understand that by inviting a friend to Artifact Uprising through the “Invite friends” feature, you are directly sending a text or email from your personal accounts and that we are not storing your contact list. In addition, you understand and agree that normal carrier charges apply to communications sent from your phone. Since this invitation is coming directly from your email or phone, we do not have access to or control this communication.
+If you submit any Personal Information relating to other people to us or to our service providers, you represent that you have the authority to do so and to permit us to use such information in accordance with this Privacy Policy.
 
-Analytics information: We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+How We May Collect Personal Information
 
-Cookies information: When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Artifact Uprising help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+We and our service providers may collect Personal Information in a variety of ways, including:
 
-Log file information: Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+Through the Services: We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or make a purchase.
 
-Clear gifs/web beacons information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
+From Other Sources: We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles on that social media service (or another linked service).
 
-Device identifiers: When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Artifact Uprising. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+How We May Use Personal Information
 
-Commercial and marketing communications: We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails.
+We and our service providers may use Personal Information:
 
-Use of certain service type information we collect about you: We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the Artifact Uprising application on your mobile devices.
+  * To respond to your inquiries and fulfill your requests for products or services.
+  * To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies.
+  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+  * To send you marketing communications that we believe may be of interest to you.
+  * To personalize your experience on the Services by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * To facilitate social sharing functionality.
+  * To allow you to send messages to a friend through the Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-#### 2\. SHARING OF YOUR INFORMATION
 
-We will not rent or sell your information to third parties outside Artifact Uprising and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below: Who we may share your information with: We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
 
-Who you may choose to share your User Content with: Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+HOW WE MAY SHARE INFORMATION WE COLLECT
 
-What happens in the event of a change of control: We may buy or sell/divest/transfer Artifact Uprising (including any shares in the Artifact Uprising), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of Artifact Uprising.
+Your Personal Information may be disclosed:
 
-Instances where we are required to share your information: Artifact Uprising will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service [link] or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Artifact Uprising, our Users or others.
+  * To our affiliates, including VSCO (vsco.co), for the purposes described in this Privacy Policy.
+  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.
+  * To third-party sponsors of sweepstakes, contests and similar promotions.
+  * To identify you to anyone to whom you send messages through the Services.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-Sharing certain service type information we collect about you: We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
-#### 3\. HOW WE STORE AND PROTECT YOUR INFORMATION
 
-Storage and Processing: Your information collected through the Service may be stored and processed in the United States or any other country in which Artifact Uprising or its subsidiaries, affiliates or service providers maintain facilities. Artifact Uprising may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Artifact Uprising or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+We also may use and disclose Personal Information as we believe to be necessary or appropriate: (a) under applicable law, which may include laws outside your country of residence; (b) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (c) to enforce our terms and conditions; (d) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (e) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-Keeping your information safe: Artifact Uprising cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Artifact Uprising, at all times. However, Artifact Uprising cannot ensure or warrant the security of any information you transmit to Artifact Uprising or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Artifact Uprising Service, such as social networks. Artifact Uprising is not responsible for the functionality or security measures of any third party.
+OTHER Information
 
-Compromise of information: In the event that any information under our control is compromised as a result of a breach of security, Artifact Uprising will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+Other Information We May Collect
 
-#### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
+“Other Information” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
 
-You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at help@ArtifactUprising.com.
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-Opting out of collection of your information for Tracking / Advertising:  
-Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Artifact Uprising or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at help@ArtifactUprising.com.
 
-How long we keep your User Content:   
-Following termination or deactivation of your User account, Artifact Uprising may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
-#### 5\. CHILDREN’S PRIVACY
+How We May Collect Other Information
 
-Artifact Uprising does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at help@ArtifactUprising.com.
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-#### 6\. LINKS TO OTHER WEB SITES AND SERVICES
+Through your browser or device: Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and we do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to your User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
+Through your use of the App: When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
 
-#### 7\. HOW TO CONTACT US
+Using cookies: Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Services, as well as for online tracking purposes. We can recognize your computer to assist your use of the Services. We also gather statistical information about the usage of the Services in order to continually improve design and functionality, understand how the Services are used, and to assist us with resolving questions regarding the Services. We and our service providers may also use cookies to select which marketing emails are most likely to appeal to you based on your use of the Services, and may use cookies or other files to track your use of other websites. We do not respond to browser do-not-track signals at this time.
 
-If you have any questions about this Privacy Policy or the Service, please contact us at help@ArtifactUprising.com.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer and you may need to log in every time you visit the applicable Services.
 
-#### 8\. CHANGES TO OUR PRIVACY POLICY
+Google Analytics and Other Google Services: We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  This analytical tool uses cookies and similar technologies to help analyze how users use the Site.  You can learn about Google’s practices by going to www.google.com/policies/privacy/partners/. Google offers the ability to opt out from tracking through Google Analytics cookies; for more information, visit http://tools.google.com/dlpage/gaoptout.
 
-Artifact Uprising may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. 
+We use Google Display Network Impression Reporting to analyze users’ interactions with our ads. We also use Google services, including Google AdWords and Remarketing with Google Analytics, to advertise online, including for remarketing and interest-based advertising.  These services allow third-party vendors, including Google, to display our ads on third-party sites across the Internet.  We and our third-party vendors, including Google, use first-party cookies (such as Google Analytics cookies) and third-party cookies (such as Google advertising cookies) together to inform, optimize, and serve ads based on past visits to and activity on our Site and interactions with our ad impressions and ad services.  You can learn about Google’s practices and exercise additional opt-out choices offered by Google by visiting www.google.com/settings/ads.
 
-This Privacy Policy was last modified on September 23, 2013.
+Using pixel tags and other similar technologies: Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+
+IP Address: Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.
+
+From you: We may collect demographic details (such as state of residence, gender, and age), as well as information you provide to us concerning your preferred means of communication and important dates (such as birthdays, wedding dates, and anniversary dates).
+
+By aggregating information: Aggregated Personal Information does not personally identify you or any other user of the Services. (For example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code.)
+
+How We May Use and Disclose Other Information
+
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information. In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+THIRD PARTY SERVICES
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+security
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information that we maintain within our organization. We also seek to use third-party service providers capable of protecting the information they maintain or process for us. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
+
+CHOICES AND ACCESS
+
+Your choices regarding our use and disclosure of your Personal Information
+
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes.
+
+You may opt-out from:
+
+Receiving marketing-related emails from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe” link provided in each such communication. If you have any questions about reviewing or modifying your account information, you can contact us directly at help@artifactuprising.com.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+How you can access, change or suppress your Personal Information
+
+If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, you may contact us at help@artifactuprising.com. In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+RETENTION PERIOD
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+use of Services by MINORS
+
+The Services are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services.
+
+CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
+
+SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+UPDATES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. Please take a look at the “Last Modified” date at the bottom of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy. Any use of the term “including” or variations thereof in this Privacy Policy will be construed as if followed by the phrase “without limitation.”
+
+CONTACTING US
+
+If you have any questions about this Privacy Policy, please contact us by email at help@artifactuprising.com.
+
+Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
+
+This Agreement was last modified on August 10th, 2015
