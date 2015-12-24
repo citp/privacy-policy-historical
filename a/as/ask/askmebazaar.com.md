@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askmebazaar.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427191651id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmebazaar.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224232232id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Online Shopping India, Search and Buy Product Deals for Cheap Price. Open Shops Online for Free
+# Online Shopping India:Shop Clothing,Bags,Shoes,Watches Online in India
 
 This document is published in accordance with the provisions of Rule 4(1) of the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 which requires the publishing of a privacy policy for handling of or dealing in personal information including sensitive personal data or information. 
 
@@ -38,7 +38,7 @@ Your personal information may be used by us to:
 
 (iii)             process and deal with any complaints or enquiries made by or about you; and
 
-(iv)             investigate any suspected breach of the [Terms and Conditions ](https://web.archive.org/web/20150427191651id_/http%3A//www.askmebazaar.com/termsconditions.php) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.
+(iv)             investigate any suspected breach of the [Terms and Conditions ](https://web.archive.org/web/20151224232232id_/http%3A//www.askmebazaar.com/termsconditions.php) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.
 
 Where and only where requested/agreed by you, we will:
 
@@ -142,8 +142,8 @@ We reserve the right, in our sole discretion, to change, modify, add or delete p
 
 **13.               ****Contact details**
 
-Thank you for reading our Privacy Policy and thank you for choosing our Site as your reliable source of news and views on the internet.  If you have any questions about anything contained in the Privacy Policy, you can email us with any questions, queries or complaints at [[help@AskMeBazaar.com](mailto:help@askmebazaar.com)]. ****
+Thank you for reading our Privacy Policy and thank you for choosing our Site as your reliable source of news and views on the internet.  If you have any questions about anything contained in the Privacy Policy, you can email us with any questions, queries or complaints at [[http://support.askmebazaar.com](http://support.askmebazaar.com/)]. ****
 
 **14.               ****Disputes**
 
-Any disputes over inter alia collection, storage and handling of Personal Information will be governed by this Privacy Policy, Terms and Conditions and by the laws of India and courts of New Delhi shall have exclusive jurisdiction. For any communication under this Privacy Policy please contact Getit Stores on [help@askmebazaar.com](mailto:help@askmebazaar.com)
+Any disputes over inter alia collection, storage and handling of Personal Information will be governed by this Privacy Policy, Terms and Conditions and by the laws of India and courts of New Delhi shall have exclusive jurisdiction. For any communication under this Privacy Policy please contact Getit Stores on [http://support.askmebazaar.com](http://support.askmebazaar.com/)
