@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627201203id_/http%3A//www.t-mobile.com//company/website/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235615id_/http%3A//www.t-mobile.com/company/website/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Highlights
 
 ### T-Mobile Privacy Policy
 
-December 30, 2013   
+November 25, 2015   
 Please click here for Spanish version of the T-Mobile Privacy Policy   
-Please click here for the T-Mobile Privacy Policy Highlights
+[Please click here for the T-Mobile Privacy Policy Highlights](https://web.archive.org/company/website/privacypolicy.aspx#policyhighlights)
 
 This Privacy Policy ("Policy") describes how information about you is collected, used, and disclosed by T-Mobile USA, Inc. ("T-Mobile") and provides other important privacy information, describes when and how we may change this Policy, and tells you how to contact us with any questions or comments.
 
@@ -94,7 +94,7 @@ _Our Websites._ When accessing our websites, mobile websites and related applica
 
 _Other Websites._ When your device’s web browser utilizes our data services to access websites other than our own, we automatically capture information associated with your browsing activities, and measure and monitor network and Internet connection performance, throughput, latency, and similar network data.
 
-_Do Not Track Policy._ Some browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes and to opt out of our interest-based advertising on your device, as described below .
+_Do Not Track Policy._ Some browsers have incorporated "Do Not Track" features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to the browser DNT signals when you use our services and products or interact with our websites or online services. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes and to opt out of our interest-based advertising on your device, as described below.
 
   * **Voice Controlled Applications**
 
@@ -128,7 +128,7 @@ We use the information we collect for a variety of business purposes, such as:
 
 **Fraud Prevention**
 
-We may use Personal Information, including voice print recordings, account information (such as purchase patterns) and device information for investigations or prevention of fraud or network abuse.
+We may use Personal Information, including voice print recordings, account information (such as purchase patterns) and device information for investigations or prevention of fraud or network abuse. We provide fraud prevention services to banks or other third parties. As part of this service, we may verify your phone number to help those third parties prevent your personal information from being used for fraudulent purposes. We also may provide the information you report as spam to 7726 to a third party to prevent fraud or network abuse, and we may share such information with government agencies and others that work to combat spam and prevent fraudulent, deceptive, and unfair practices.
 
 **Information Collected from Cookies**
 
@@ -176,15 +176,18 @@ _Other Company Ads on Our Websites._ You may also see third-party advertisements
 
 _Our Ads on Other Websites._ We may ask third-parties to place advertisements about our products and services on other websites, mobile websites and in mobile applications and widgets. The use of cookies, web beacons, or similar technologies by such third-parties on other websites is subject to any applicable privacy policies that they may have, not this Policy.
 
-**Interest-Based Ads.** You may receive ads from us and our ad providers that are tailored to your interests. These interest-based ads are selected based on your use of our services and products as well as other information obtained by us and our ad providers. None of this information is Personal Information.
+**_Interest-Based Ads._** You may receive ads from us and our ad providers that are tailored to your interests. These interest-based ads are selected based on your use of our services and products as well as other information obtained by us and our ad providers. None of this information is Personal Information.
 
   * We do not provide your Personal Information to third-party advertisers without your consent.
   * Advertising may be tailored to the interests that advertisers have inferred from your browsing of our websites or other websites or applications with which the third-party partners to provide advertising.
-  * We may provide third-party advertisers with aggregated or anonymous, de-identified, demographic or similar data (unrelated to your browsing activities) that does not personally identify you. This data may be used by advertisers to help tailor their ads on our websites, and on other sites and applications.
-  * We, and our providers, may use an anonymous profile of your web-browsing and application use activity and interests. This profile does not contain information that identifies you personally, but may include a unique or encrypted identifier that enables your device to be matched to a profile of your browsing activity and anonymous characteristics about your interests.
-  * When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice.
+  * We may provide third-party advertisers with aggregated or de-identified location, demographic or similar data (unrelated to your browsing activities) that does not personally identify you. This data may be used by advertisers to help tailor their ads on our websites, and on other sites and applications.
+  * We, and our providers, may use a de-identified profile of your web-browsing and application use activity and interests. This profile does not contain information that identifies you personally, but may include a unique or encrypted identifier that enables your device to be matched to a profile of your browsing activity and de-identified characteristics about your interests.
+  * When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice. 
+
+For more information see [privacy resources/T-Mobile Ad Options for Your Device](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_AdOptions)
+
   *   
-**Choices about Advertising.**
+**Choices About Advertising.**
   *   
 
   * _On Your Mobile Device._ Where we offer interest-based ads, you can opt-out of certain interest-based advertising by clicking on the ad options link on or near the advertisement or by clicking [here](http://iba.t-mobile.com/tmo/).
@@ -215,11 +218,11 @@ We may disclose information to third-party vendors and partners who complete tra
 
 **Third-Party Carriers and Suppliers**
 
-If you are roaming on the network of another carrier, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service. Additionally, services and functionality offered through certain devices are sometimes provided in conjunction with entities other than T-Mobile. As a result, Personal Information from your devices may be uploaded and stored on their servers. For instance, BlackBerry® service is provided in conjunction with Research in Motion (RIM), and Personal Information from your device is stored on their BlackBerry Enterprise ServersTM. Their specific terms and conditions, terms of use, and privacy polices apply to those services.
+If you are roaming on the network of another carrier or WiFi service provider, your wireless telephone number, your location, the numbers you dial, and other information about your usage will be available to that carrier to facilitate that service. Additionally, services and functionality offered through certain devices are sometimes provided in conjunction with entities other than T-Mobile. As a result, Personal Information from your devices may be uploaded and stored on their servers. For instance, BlackBerry® service is provided in conjunction with Research in Motion (RIM), and Personal Information from your device is stored on their BlackBerry Enterprise ServersTM. Their specific terms and conditions, terms of use, and privacy polices apply to those services.
 
 **In a Business Transfer**
 
-We may sell, disclose, or transfer information about you as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third-parties as a business asset in the transaction.
+We may sell, disclose, or transfer information about you as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third-parties as a business asset in the transaction. We may also share information with banks for purposes of transferring loans in connection with your device financing.
 
 **For Legal Process & Protection**
 
@@ -230,6 +233,7 @@ We may disclose Personal Information, and other information about you, or your c
   * To protect our rights or interests, property or safety or that of others;
   * In connection with claims, disputes, or litigation – in court or elsewhere;
   * To protect users of our services and other carriers or providers from fraudulent, abusive, or unlawful use of, or subscription to, such services;
+  * When information is reported to the Spam Reporting Service, it may be shared with government agencies and others that work to combat spam and prevent fraudulent, deceptive, and unfair practices;
   * To facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government; or
   * In an emergency situation.
 
@@ -242,6 +246,8 @@ If you provide information to us in connection with a co-sponsored website, this
 **De-Identified Information**
 
 We may provide information that does not identify you personally to third-parties for marketing, advertising or other purposes.
+
+For more information about our INSIGHTS Program see [Privacy Resources/T-Mobile INSIGHTS](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_TmobileInsights)
 
 **Third-Party Applications for Your Devices**
 
@@ -274,7 +280,7 @@ If you are a T-Mobile customer and you manage your account online, you can manag
 
 You may also manage your preferences regarding marketing communications by contacting Customer Service by dialing 611 from your T-Mobile phone or 1-800-937-8997 from any phone, or, with respect to marketing e-mails, by following the "unsubscribe" instructions on any marketing e-mail we send you.
 
-See also [Privacy Resources/Marketing Choice](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_DoNotCallPolicy)
+See also [Privacy Resources/Marketing Choice](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_MarketingChoice)
 
 **Do Not Call Registry**
 
@@ -283,7 +289,7 @@ The FTC maintains a National Do Not Call Registry at <https://www.donotcall.gov/
   
 
 
-You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see [Privacy Resources/Protecting Your Privacy](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_Resources) .
+You play an important role in ensuring the security of Personal Information. We encourage you to use safeguards to protect your information and devices. For more information please see [Privacy Resources/Protecting Your Privacy](https://web.archive.org/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_ProtectingPrivacy).
 
   
 
