@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828093820id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004432id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Political Lore .com
-
-This is the web site of **Politicallore.com**.  
-**  
-** We can be reached via e-mail at [alex@politcallore.com](mailto:alex@politcallore.com)
+# Privacy Policy - Political Lore
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -16,7 +12,7 @@ With respect to cookies: We do not personally set any cookies… but our adverti
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://web.archive.org/web/20140828093820/http://www.google.com/privacy_ads.html).
 
 
 
