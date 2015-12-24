@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321040922id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171218id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PredictIt | Terms And Conditions
 
