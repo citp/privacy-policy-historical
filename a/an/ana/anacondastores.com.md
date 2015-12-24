@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anacondastores.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145150id_/http%3A//www.anacondastores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anacondastores.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224181910id_/http%3A//www.anacondastores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anaconda
 
@@ -196,8 +196,7 @@ Where we use or disclose your personal information for the purpose of direct mar
 
 SRG will only ever contact you if you have consented to this, and you can ask to be removed from our marketing lists at anytime by contacting us directly. 
 
-  
-If you do not wish to be contacted by SRG please e-mail us at privacy@srg.com.au. 
+If you do not wish to be contacted by SRG please e-mail us at [privacy@srg.com.au](mailto:privacy@srg.com.au). 
 
 ## Does SRG disclose your personal information to overseas recipients?
 
@@ -221,17 +220,18 @@ The personal information that we collect about you is stored on our database ser
 
 ## Website usage
 
-Our websites are professionally hosted and operate in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.   
+Our websites are professionally hosted and operate in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.
+
 We use secure payment platforms to process online orders. Customers can see their cards being debited in real time, all in an SSL secure environment.
 
-  
 We take website and credit card security extremely seriously, and always endeavour to provide a secure safe platform on which to conduct online transactions, all our websites use 2048 bit SSL with up to 256 bit encryption for capturing personal information and processing transactions. We do not store your credit card details
 
 To make sure you are accessing a secure server, check for the unbroken key or closed lock symbol located generally either at the bottom left or top right of your browser window. If it appears, then SSL is active. You can double check this by looking at the URL as well. If SSL is active, then the first characters of that line will read ‘https’ rather than just ‘http’. It is important for you to protect against unauthorised access to your password and to your computer.
 
 Ensure you logout when you have finished visiting our websites especially if you accessed them from a shared computer.
 
-Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by SRG to improve your experience on our website.   
+Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by SRG to improve your experience on our website.
+
 If you visit an area of the website where you are not required to log on, to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded.
 
 Any personal information that you submit to us using our website or in an e-mail will only be used in accordance with this privacy policy.
