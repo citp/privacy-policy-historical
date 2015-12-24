@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527122814id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224205946id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home
 
@@ -35,7 +35,7 @@ back to top
 
 We check the accuracy of the information that you provide on registration and during your continued use of the Service and remind you of your obligations to provide accurate information to us as set out in clause 4 of our respective [User Agreements](http://www.ratedpeople.com/c/legal-2). 
 
-As part of the process of verifying information provided by Trade Businesses we may carry out, either directly or via carefully selected and appropriately regulated third party data verification agencies, identity verification checks on you to verify the information you have provided to us. This may include cross-referencing the information you have provided with – by way of example – electoral roll data, passport data, DVLA data, credit file data etc, If you do not consent to such checks being carried out please do not register with us. 
+As part of the process of verifying information provided by Trade Businesses we may carry out, either directly or via carefully selected and appropriately regulated third party data verification agencies, identity verification checks on you to verify the information you have provided to us. This may include cross-referencing the information you have provided with – by way of example – electoral roll data, passport data, DVLA data, Trustmark data, credit file data etc, If you do not consent to such checks being carried out please do not register with us. 
 
 We may use the contact information you provide to contact you via email, fax, post or telephone regarding your registration, or any other matter that we consider relevant to your use of our Service. 
 
