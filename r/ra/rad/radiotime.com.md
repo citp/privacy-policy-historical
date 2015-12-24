@@ -1,147 +1,149 @@
-> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175727id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235203id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
 
 # TuneIn Radio Privacy
 
-This Privacy Policy was last updated on March 3, 2015.
+## Privacy Policy
 
-##  TUNEIN, INC. PRIVACY POLICY 
+Last Updated Date: **August 25, 2015**
 
-Welcome to TuneIn. This Privacy Policy is effective for TuneIn, Inc. (“TuneIn”, “we”, “us” and/or “our”) and is incorporated by reference into the TuneIn Terms of Service and End User License Agreement. 
+This Privacy Policy is incorporated by this reference into the TuneIn, Inc. End User License Agreement and Terms of Service located at <http://tunein.com/policies/> (“EULA”). The terms “ ** _TuneIn_** ,” “ ** _we_** ,” and “ ** _us_** ” include TuneIn, Inc. and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA. This Privacy Policy explains how TuneIn may: 
 
-The purpose of this Privacy Policy is to inform users of the TuneIn Service (as defined below) about the information that we collect through the TuneIn Service, how we use that information and the ways users can control how that information is used or shared. The entire policy can be found below. For information about users’ obligations and use of the TuneIn Service, please see our Terms of Service and End User License Agreement. 
+  * collect,
+  * use, and
+  * disclose
 
-We will continue to evaluate this Privacy Policy and update it accordingly when there is a change to our business practices, our users’ needs, and to comply with regulatory and legal requirements. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on the Site (as defined below) and/or the Applications (as defined below). 
 
-The "TuneIn Service" consists of: (a) our audio guide service offering end users access to a selection of indexed radio stations, podcasts, sports, news and other content (the “TuneIn Guide”), whether available through our website located at www.tunein.com (the “Site”) or through any software applications made available for mobile devices (“Guide Applications”); (b) our platform for content streaming that enables sharing of live and recorded audio content (“TuneIn OpenMic”), whether available through the Site or through any software applications made available for mobile devices (the “OpenMic Applications,” and collectively with the Guide Applications, the “Applications”); (c) all software (including the Software, as defined below), external players, buttons and widgets, data, text, images, sounds, video, graphics and photos made available by TuneIn through any of the foregoing (collectively referred to as the "Content"), and (d) any updates, new versions, new releases, additional features and functionality that TuneIn may offer in connection with the foregoing. 
 
-## The types of information we collect
+information we obtain through the Service. As used in this Privacy Policy, “ ** _Personal Information_** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as your name, address, email address, or phone number. We do not consider Personal Information to include information that has been aggregated and/or de-identified so that it does not allow a third party to easily identify a specific individual.
 
-When you interact with the TuneIn Service, we may collect Personal Information (as defined below) and other information from you as described below. 
+### THE SERVICE COLLECTS YOUR INFORMATION
 
-“Personal Information” means information that alone or when in connection with other information may be used to readily identify, contact, or locate you, such as: name, address, email address or phone number. We do not consider personally identifiable information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual. 
+We collect information, including Personal Information, when you: 
 
-## Information you give us 
+  * register an account on the Service; 
+  * log into the Service with social networking credentials;
+  * subscribe to the Service or our newsletter; and
+  * communicate with us. 
 
-To enable you to enjoy certain features of the TuneIn Service, we collect certain types of information, including Personal Information, during your interactions with the TuneIn Service. By using the TuneIn Service, you are authorizing us to gather, parse, and retain data related to the provision of the TuneIn Service. 
 
-For example, we collect information, including Personal Information, when you: 
 
-  * Register to use our TuneIn Service;
-  * Login with social networking credentials; 
-  * Participate in polls, contests, surveys or other features of the TuneIn Service, or respond to offers or advertisements on the TuneIn Service; 
-  * Communicate with us; and
-  * Sign up to receive email newsletters.
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
 
+Account Registration. If you register to use the Service, then you must provide us with certain Personal Information, such as your name and email address, in order to create an account and user profile. You also must provide us with certain demographic information, such as your date of birth and gender.
 
+Social Sign-On. We may collect Personal Information from a social media website when you use your social media credentials to log into the Service. For example, when you log in with your Facebook credentials, we may collect the Personal Information you have made publicly available on Facebook, such as your name and profile picture. We may also obtain other non-public information with your permission. Subscriptions. If you obtain a Subscription to the Service, then we will collect your payment information, such as your credit card number, so our service provider(s) can process your payments for the Service. If you subscribe to our newsletter, then we will collect certain Personal Information from you, such as your email address. 
 
-When you register to use the TuneIn Service, we ask you to provide certain information, which includes your name, email address, birth year, gender, zip or postal code and/or other geographic information, as well as a password for your account. By voluntarily providing us with Personal Information or other information, you are consenting to our use of it in accordance with this Privacy Policy. If you provide any Personal Information or other information, you acknowledge and agree that such Personal Information may be transferred from your current location to our offices and servers and the authorized third parties located in the United States thus making your Personal Information subject to US law. 
+Customer Support. We will collect any information, including Personal Information, which you provide to us through your communications with our customer-support team.
 
-## Following, Followers and other Public Information
+Information from Third Parties. We may collect information about you, including Personal Information, from third parties, such as other users who share information about you with us on the Service. For example, we may receive information about you, including Personal Information, when another user allows us to upload your contact information to the Service.
 
-The TuneIn Service is designed to help you discover, share and respond to content. Some of the information you provide us is information that is made public. This includes not only the stations, content or people you follow, your echoes, the content you echo or share, your followers, and the metadata provided, such as when you follow, and other information that results from your use of the TuneIn Service (collectively “Public Information”). 
+Using the Service. When you use the Service, we collect information about the stations, content and people that you follow (collectively, “ ** _Follow Lists_** ”), your echoes, any content or information that you Post on the Service and any other information resulting from your use of the Service that is publicly accessible by other Users (collectively, “ ** _Public Information_** ”). 
 
-The stations, content or people you follow will be public, but we give you settings to make your following lists more private if you want. However, if you registered for the TuneIn Service prior to May 7, 2014, your following lists will be private, but your following lists will be made public once you sign in to your account. You can change your settings to make your following lists private at any time by changing your profile settings. 
+Your Contacts. If you give us permission to import to the Service the contacts from any email account associated with your account, then we will collect information about your contacts. 
 
-When other people use the TuneIn Service, they may store and share information about you and others that they have, such as when they upload and manage their invites and contacts. 
+Location Information. We may obtain information about your physical location at regular intervals when you use the Service, such as by use of GPS and other geolocation features in the device(s) through which you access the Service, or by inference from other information we collect (for example, your IP address indicates the general geographic region from which you are connecting to the Internet). 
 
-## Finding you on the TuneIn Service
+Automatic Data Collection. When you use the Service, we automatically collect information about your usage activities. For example, this may include information about the stations, artists or channels you listen to, your views of other Users’ profiles, your searches for friends or stations and your other actions and interactions with other Users or content on the Service. 
 
-Your Public Information may be seen. For instance, your profile or screen name may be searchable by search engines just like with many common social media services. 
+Cookies and Related Technologies. When you visit the Service, we and our third party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential. 
 
-You may choose to upload your address book provided that you have the consent of the individuals whose information is included in your address book so that we can help you find other users you know. If you choose to upload your address book, you represent that you have the consent of the individuals whose information is included in your address book. Other users may do the same. We may later suggest people to follow based on your imported address book contacts, which you can delete at any time. We receive information about you from your friends and others, such as when they upload your contact information, tag or include a reference to you in an echo. 
+Third parties that advertise goods or services on the Service (collectively, “ ** _Advertisers_** ”) may also use cookies to track your use of the Service. We advise you to check the privacy policies of these Advertisers for information about their cookie usage and other privacy practices. Advertisers also may use cookies to track your online activities across websites over time to provide interest-based advertising. For more information on how to opt-out of this type of tracking, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-To make it easier for your friends to find you, we allow anyone to search by name or email or when a user connects through a social media account on TuneIn. Users may also find you by looking at following lists that other users have chosen to make public. 
+One of the third party services that we use to track your activity on the Service is Google Analytics. If you do not want Google Analytics to collect and use information about your use of the Service, then you can install an opt-out in your web browser (<https://tools.google.com/dlpage/gaoptout/>). You also may opt-out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings located at [www.google.com/settings/ads](http://www.google.com/settings/ads).
 
-## Automatic Data Collection
+By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
 
-_Listening and Usage Activity_ : The TuneIn service observes your listening and usage activity. We collect information about stations, favorites, artists, channels, conversations and tracks you have listened to or in which you have expressed an interest. We receive data about you whenever you use the TuneIn Service, such as the sites visited, when you look at another user's profile, echo, search for a friend or a station, click on, view, purchase or otherwise interact with content or materials available by TuneIn or through the TuneIn Service. 
+### HOW TUNEIN USES YOUR INFORMATION
 
-_Social connect information_ : When you choose to connect your social media account to your account profile, we collect Personal Information from that social media website. For example, when you connect your Facebook account, we may collect the Personal Information you have made publicly available in Facebook, such as your name, profile picture, cover photo, username, gender, friend networks, age range, locale, friend list, and any other information you have made public. We may also obtain other non-public information from the social network website with your permission. 
+We use information, including Personal Information, to: 
 
-_Information about your computer or device_ : We may also collect information about the computer, mobile or other devices you use to access or use the TuneIn Service. For example, our servers receive and record information about your computer, browser or device, including potentially your IP address, device ID, operating system, browser type, and other software or hardware information. If you access the TuneIn Service from a mobile or other device, unless you register, we may assign a unique device identifier for that device. 
+  * facilitate and improve our Service; and
+  * communicate with you.
 
-_Location-based information_ : We do not collect your zip code, postal code, city or country unless you choose to provide this information to us at registration. Your general geo-location may be collected at regular intervals if you use the TuneIn Service on your mobile device or through the Site. We collect this information to provide content and services that are customized for your geographic area. 
 
-_Tracking technology_ : We or our third party advertising partners use what are commonly called "cookies" or “tracking pixels”. A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. These cookies help us improve the TuneIn Service, provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. We may also be able to capture other data such as searches conducted and results, date, time, and connection speed. In all cases in which we use cookies, we will not collect Personal Information except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. Third parties, including advertisers and third-party advertising companies, whose products or services are accessible or advertised via the TuneIn Service may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices. Third parties on the TuneIn Service may also use cookies to track your online activities across websites over time to provide interest-based advertising. For more information on how to opt-out of such tracking, please visit www.aboutads.info/choices. 
 
-One of the third party services that we use to track activity related to the TuneIn Service, e.g. by placing cookies, is Google Analytics. We may use third-party vendors, including Google, who use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past activity on our websites and applications, including Google Analytics for Display Advertising. If you don't want any information to be collected and used by Google Analytics, you can install an opt-out in your web browser (https://tools.google.com/dlpage/gaoptout/) and/or opt out from Google Analytics for Display Advertising or the Google Display Network. You can do so by using Google’s Ads Settings (www.google.com/settings/ads). 
+We may use de-identified and aggregated information for any lawful purpose, including for marketing purposes.
 
-## Our use of the information we collect
+Internal and Service-Related Usage. We use information, including Personal Information, for internal and Service-related purposes, and may provide it to third parties to allow us to operate, provide, maintain and enhance the Service. 
 
-We use the information, including Personal Information, that we collect for the following purposes: 
+Facilitate and Improve the Service. We use information that we collect on the Service, including Personal Information, to facilitate, improve and enhance the Service. 
 
-  * To personalize and customize the advertising and the content you see.
-  * To improve and enhance the user experience. We use tracking information to determine how well each page, station and/or channel performs overall based on aggregate user demographics and traffic patterns to those pages, stations and channels. This helps us build a better service for you.
-  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in polls, contests, and boards.
-  * To send you information about topics or content that we think will be of interest to you based on your preferences, habits or geographic location.
-  * To send you information about the latest developments and features on our TuneIn Service.
-  * To provide technical support.
+Communications. We may send email to an email address you provide to us (i) for customer-service or technical-support purposes, or (ii) to send you (a) information about topics or content that we think may interest you, or (b) updates about the latest developments or features on the Service. We also may send push notifications and a newsletter to the email address you provide to us in the event that you subscribe to receive the newsletter.
 
+Advertising. We may use your information, including Personal Information, to facilitate the delivery of advertisements on the Service. Aggregate Data. We may de-identify and aggregate information collected through the Service and use it for any lawful purpose, including marketing purposes.
 
+### TUNEIN MAY DISCLOSE YOUR INFORMATION
 
-We may anonymize and aggregate data collected through the TuneIn Service and use it for any purpose. 
+We may share your information, including Personal Information:
 
-## How the information we collect is shared
+  * with our third party service providers;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; 
+  * in connection with a merger, sale or other transfer of our assets; and
+  * with your permission.
 
-We are not in the business of selling, renting or sharing Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your information, including Personal Information, with certain third parties without further notice to you, as set forth below: 
 
-  * With Your Permission. Information you allow us to share when you register with us, or through a subsequent affirmative election.
-  * Vendor and Service Providers. Information used when we hire or partner with third parties to provide business-related services on our behalf, such as mailing information, maintaining databases, processing payments, sweepstakes management and prize fulfillment, data processing, analytics, personalization and customization of advertising, customer/support services and other products or services that we choose to make available to our registered users. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
-  * Merger, Sale or Reorganization. We may share, transfer or sell your information in connection with a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider. We cannot control how such entities may use or disclose such information.
-  * Subsidiaries and Affiliates. We may share information with our subsidiaries and affiliates for purposes consistent with this Privacy Policy.
-  * Social Media Sites on Your Instructions. The TuneIn Service may allow you to share information, including Personal Information, with social networking websites, such as Facebook. We do not share your Personal Information with them unless you direct the TuneIn Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy setting on their websites.
-  * Law Enforcement and Other Legal Purposes. We may share your information if required to do so by law or in the good faith belief that such action is necessary in order to (i) comply with a legal obligation, (ii) protect or defend our legal rights or property as well as those of our business partners, employees, agents and contractors (including enforcement of our agreements); (iii) act in urgent circumstances to protect the personal safety of users or the public; (iv) protect against fraud or risk management purposes; or (v) protect against legal liability.
 
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
 
+Vendors and Service Providers. We may share any information we receive with vendors and service providers retained in connection with the provision of the Service. 
 
-When you register and create a profile through the TuneIn Service, other users of the TuneIn Service may be able to see your profile information, including your profile or screen name, profile photo and any content that you post to the TuneIn Service. We recommend that you guard your anonymity and sensitive information. We are not responsible for the privacy practices of the other users who will view and use the information you post. 
+Legal Obligations.  We may access, preserve, and disclose your Personal Information or other account information if we believe doing so is required or appropriate to (i) comply with law enforcement requests and legal process, such as a court order or subpoena; (ii) respond to your requests; or (iii) protect your, our or others’ rights, property, or safety.
 
-## Non-Identifiable or Aggregated Data
+Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy or liquidation where the business will not continue as a going concern, receivership, sale of TuneIn assets, or transition of the Service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of these events should be governed by the provisions of this Privacy Policy in effect at the time the applicable Personal Information was collected.
 
-We also receive and store certain non-personally identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. We may store such information itself or such information may be included in databases owned and maintained by our affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to the TuneIn Service, the number of visitors to each page of our Site, the domain names of our visitors' Internet service providers, and how our users use and interact with the TuneIn Service. Also, in an ongoing effort to better understand and serve the users of the TuneIn Service, we often conduct research on our customer demographics, interests and behavior based on the personal information and other information provided to us. This research may be compiled and analyzed on an aggregate basis. We may share this non-identifiable and aggregate data with our affiliates, agents and business partners, but this type of non-identifiable and aggregate information does not identify you personally. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners and to other third parties for other lawful purposes. 
+Consent. We may also disclose your Personal Information with your permission. We may seek your permission in various ways. For example, we may present you with an “opt-in” prompt when you register to use the Servce or access certain Content.
 
-The use and disclosure of this non-personally identifiable information is not subject to restrictions under this Privacy Policy. 
+Marketing. We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. If we receive your permission, nonaffiliated companies may use your Personal Information to send you offers or other information that you may find of interest.
 
-## Your Choices
+Social Networking and Other Websites. The Service may allow you to share information, including Personal Information, with social networking websites, such as Facebook. We do not share your Personal Information with them unless you direct the Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
 
-You can visit the Site without providing any personal information. If you choose not to provide any personal information, you may not be able to use certain features of our TuneIn Service. 
+Other Users. Your Public Information, which includes your Follow Lists, will be accessible by other Users. However, if you registered for the Service prior to May 7, 2014, then your Follow Lists will be private unless you change your profile settings to make them publicly accessible. Your profile information, such as any personal photographs, your username and any content that you post in your account, will also be accessible by other Users. We are not responsible for the privacy practices of other Users. Accordingly, we recommend that you carefully consider what you Post to the Service before doing so to guard your anonymity and sensitive information. 
 
-## Exclusions
+Search Engines. Your Public Information may also be accessible through search engines, such as Google or Yahoo, just like with many common social media services. 
 
-This Privacy Policy does not apply to any personal data collected by TuneIn other than Personal Information collected through the TuneIn Service. This Privacy Policy shall not apply to any unsolicited information you provide to us through the TuneIn Service or through any other means. This includes, but is not limited to, information posted to any public areas of the TuneIn Service, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution. 
+### SECURITY OF YOUR INFORMATION 
 
-## How we protect your information
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional access, use or disclosure.
 
-We have taken reasonable steps to protect the information you provide via the TuneIn Service from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way. We do not accept liability for unintentional disclosure. 
+### THIRD PARTY PRIVACY PRACTICES
 
-By using the TuneIn Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the TuneIn Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Site and/or Applications or sending an email to you. 
+This Privacy Policy applies only to the Service. The Service may contain links to Third Party Sites. The policies and procedures described in this Privacy Policy do not apply to Third Party Sites. The links from the Service to any Third Party Sites do not imply that we endorse or have reviewed Third Party Sites. 
 
-## Consent to processing
+### CHILDREN’S PRIVACY
 
-If you use the TuneIn Service outside of the United States, you fully understand and unambiguously consent to the transfer of your information, including Personal Information, to, and the collection and processing of such information in the United States and other countries or territories. The laws on holding such information in the United States may vary and be less stringent than laws of your state or country. 
+We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
-## Children
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at [support@tunein.com](mailto:support@tunein.com). If we learn that we have collected any Personal Information from children under 13, then we will promptly take steps to delete such information and terminate the child’s account.
 
-The TuneIn Service is not directed at children under the age of 13 and we do not knowingly collect Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through the TuneIn Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information through the TuneIn Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our TuneIn Service, please contact us, and we will endeavor to delete that information from our databases. 
+### INTERNATIONAL USERS
 
-## Links to Other Web Sites
+By using the Service, you will transfer data to the United States.
 
-This Privacy Policy applies only to the TuneIn Service. The TuneIn Service may contain links to other web sites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the TuneIn Service do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of California and the adjudication of any disputes arising in connection with TuneIn or the Service will be in accordance with the EULA located here <http://tunein.com/policies/>.
 
-## What are my privacy options and how can I change my settings?
+If you are visiting the Service from the European Union or other regions with laws governing data collection and use, then please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information to the Service, you consent to any transfer and processing in accordance with this Policy.
 
-_To modify your registration information:_ Once you have registered, you can change your registration information (including your email address and password). 
+### PRIVACY OPTIONS AND SETTINGS
 
-_To change your following list privacy setting:_ Once you have registered, you can change your profile information to make your following list more private. If you registered for the TuneIn Service prior to May 7, 2014, your following lists will be private, but your following lists will be made public once you sign in to your account. You can change your settings to make your following lists private at any time by changing your profile settings. 
+Account Information. Once you have registered for the Service, you may change your profile settings in your account on the Service. For example, you can change the email address and password associated with your account and you may choose to keep your Follow Lists private. 
 
-_Opt out:_ Each email communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our email mailing lists, please contact us as indicated below. Note however, that certain communications, such as push notifications, require you to change the settings on your device if at any time you wish not to receive any future communications. Note that on occasion we send service-related announcements, such as disruption notifications, and you may not be able to opt-out of these communications. 
+Follow Lists. Once you have registered for the Service, you may change your profile information at any time to make your Follow Lists private. If you registered for the Service prior to May 7, 2014, then your Follow Lists will be private until you sign in to your account, at which time they will be made public. 
 
-## English language version shall control
+Opt-out. Each email communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our email mailing lists, then please contact us as indicated below. Please note, however, that certain communications, such as push notifications, require you to change the settings on your device if you wish not to receive any future communications. In addition, on occasion we may send service-related announcements, such as disruption notifications, and you may not be able to opt-out of these communications.
 
-The English language version of this Privacy Policy is the version that governs your use of the TuneIn Service and in the event of any conflict between the English language version and a translated version, the English language version will control.
+### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
-## Contact us:
+We may revise this Privacy Policy, so please review it periodically.
 
-If you have any questions about this Privacy Policy, or the privacy practices of TuneIn, email support@tunein.com or write to us at TuneIn, Inc., 139 Townsend Street, 4th floor, San Francisco, CA 94107, Attention: Support. 
+Posting of Revised Privacy Policy. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically. New Uses of Personal Information. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy.
 
-To print out this Privacy Policy, you may visit www.tunein.com/policies/privacy/
+If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+
+Contact Information. If you have any questions, would like to share suggestions for improving the Privacy Policy or the Service, or otherwise would like to contact us, then please feel free to contact us per the information below. 
+
+TuneIn, Inc.  
+139 Townsend Street, 4th Floor  
+San Francisco, CA 94107  
+[support@tunein.com](mailto:support@tunein.com)  
+
