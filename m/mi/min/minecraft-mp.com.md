@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115503id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224050744id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Politique de Confidentialité
-
-[
-
-**Put your server at the top!** Subscriptions to "Premium Option" are open.
-
-](https://web.archive.org/servers/premium/)
 
 __Lire la Version Française
 
