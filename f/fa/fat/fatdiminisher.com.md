@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatdiminisher.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521190410id_/http%3A//www.fatdiminisher.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatdiminisher.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224145153id_/http%3A//fatdiminisher.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -51,7 +51,7 @@ Also, we may disclose personal information about Visitors or Subscribers, or inf
 
 **_Browser Level Information_ ** The Fat Diminisher , Inc. web servers may automatically collect information about a site user's IP address, browser type and the URL that you just came from (whether this URL is on the website or not) and which URL you next go to (whether this URL is on the website or not) by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used – in an aggregated, anonymous manner – in our internal analysis of traffic patterns within our website. This information is automatically logged by most websites. The Fat Diminisher , Inc. may also use a third party to collect information, including through the use of web beacons. 
 
-**_Notice of Compliance to California Residents: Your California Privacy Rights Under the California Online Privacy Protection Act and the California Business and Professions Code_ ** This privacy policy identifies the categories of personally identifiable information that our company collects through our web site or online service, about individual consumers who use or visit our company's commercial web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information. 
+**__ ** This privacy policy identifies the categories of personally identifiable information that our company collects through our web site or online service, about individual consumers who use or visit our company's commercial web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information. 
 
 Our company does not maintain a process for an individual consumer who uses or visits our commercial web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our web site or online service. 
 
@@ -74,8 +74,6 @@ The term "personally identifiable information" means individually identifiable i
   7. Information concerning a user that the web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy. 
 
 
-
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to **support@weight-destroyer.net** and please include the phrase "California Privacy Request" in the subject line, the domain name of the web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
 
 **_"Cookies" and How Our Company Uses Them_ ** A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
 
