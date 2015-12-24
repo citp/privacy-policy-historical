@@ -1,38 +1,8 @@
-> *The following text is extracted and transformed from the influenster.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062749id_/https%3A//www.influenster.com/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influenster.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003327id_/https%3A//www.influenster.com/terms%23privacy) for the most accurate reproduction.*
 
 # Influenster
 
-To get the best experience, please update your browser. 
-
-## Email Sent!
-
-We just sent you a confirmation mail !
-
-You are almost done! Please confirm your email address
-
-## Sign up to discover the new products you've been missing.
-
-  * **CREATE**
-
-AN ACCOUNT
-
-  * TO 
-  * **SHARE**
-
-YOUR OPINION
-
-  * AND 
-  * **MAKE**
-
-
-
-
-Heya, this Facebook account is not currently   
-connected with Influenster. If you have an Influenster account,   
-try logging in with your email address. 
-
-If you are new to Influenster,  
-would you like to make a new account by registering now? 
+[](https://web.archive.org/friend-flurry-2015)
 
 ## Terms Of Service
 
@@ -298,3 +268,169 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 ##### QUESTIONS OR CONCERNS
 
 If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: [support@influenster.zendesk.com](mailto:support@influenster.zendesk.com). We will make every effort to resolve your concerns.
+
+Email Sent!
+
+We just sent you a confirmation mail ! 
+
+You are almost done! Please confirm your email address
+
+Account not found
+
+Heya, this Facebook account is not currently   
+connected with Influenster. If you have an Influenster account,   
+try logging in with your email address. 
+
+If you are new to Influenster,  
+would you like to make a new account by registering now? 
+
+#### All Topics
+
+  * Beauty
+
+__ All Topics
+
+#### Beauty
+
+    * Bath & Body
+    * Beauty Tools
+    * Eye Makeup
+    * Facial Makeup
+    * Fragrance
+    * Hair Care
+    * Lip Products
+    * Nail
+    * Skin Care
+    * Styling Products
+    * Styling Tools
+
+  * Food & Beverages
+
+__ All Topics
+
+#### Food & Beverages
+
+    * Baking Supplies
+    * Bread & Bakery
+    * Breakfast
+    * Canned Goods
+    * Condiments & Sauces
+    * Dairy
+    * Frozen Food
+    * Grains & Pasta
+    * Meat & Deli
+    * Produce
+    * Ready-Made Meals
+    * Snacks
+    * Beverages
+    * Candy & Gum
+
+  * Health
+
+__ All Topics
+
+#### Health
+
+    * Children's Health
+    * First Aid
+    * Fitness
+    * Oral Care
+    * Personal Care
+    * Wellness
+
+  * Pets
+
+__ All Topics
+
+#### Pets
+
+    * Bird Supplies
+    * Fish Supplies
+    * Pet Supplies
+    * Cat Supplies
+    * Dog Supplies
+
+  * Family
+
+__ All Topics
+
+#### Family
+
+    * Baby Gear
+    * Diapering
+    * Nursery
+    * Toys & Games
+    * Feeding & Nursing
+
+  * Home
+
+__ All Topics
+
+#### Home
+
+    * Appliances
+    * Bath
+    * Cooking Tools
+    * Cookware
+    * Home Fragrances
+    * Home Improvement
+    * Home Storage
+    * Kitchen
+    * Kitchen Appliances
+    * Laundry Supplies
+    * Office Supplies
+    * Plastic & Paper Products
+    * Travel Products
+    * Decor
+    * Outdoors
+    * Cleaning Products
+
+  * Electronics
+
+__ All Topics
+
+#### Electronics
+
+    * Audio
+    * Computing
+    * Home Entertainment
+    * Networking
+    * Phones
+    * Photography & Video
+    * Storage
+    * Video Games & Consoles
+    * Wearables
+
+  * Arts & Entertainment
+
+__ All Topics
+
+#### Arts & Entertainment
+
+    * Entertainment
+
+  * Retailers & Services
+
+__ All Topics
+
+#### Retailers & Services
+
+    * Charity
+    * Food
+    * Shopping
+    * Utilities
+    * Sports & fitness
+    * Travel
+
+  * Fashion
+
+__ All Topics
+
+#### Fashion
+
+    * Accessories
+    * Clothing
+    * Shoes
+
+
+
