@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanceautoparts.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626190806id_/http%3A//shop.advanceautoparts.com/o/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanceautoparts.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224170955id_/http%3A//shop.advanceautoparts.com/o/privacypolicy) for the most accurate reproduction.*
 
 # Customer Privacy Policy - Advance Auto Parts
 
