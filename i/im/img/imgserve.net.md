@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgserve.net privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527030608id_/http%3A//imgserve.net/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgserve.net privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234841id_/http%3A//imgserve.net/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy - ImgServe.net | Earn Money Sharing Images
 
