@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512093636id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004150id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # eToro Social Trading Privacy Policy | eToro
 
@@ -40,20 +40,20 @@ We do not disclose or share Information about any of our users (whether active o
   * We do not share credit information, such as credit history, net worth, or other income information.
   
 
-  * eToro OpenBook
+  * eToro Social Trading Platform
   
 
 
 
-The eToro OpenBook is a real-time social trading platform, which integrates rich community and social characteristics into the trading platform. As part of the eToro traders’ network, traders who choose to be part of the community share their strategies and performance with the community. The personal information of the traders and the amount traded is never disclosed and all traders are required to agree to be part of the network and share their strategies and performance.
+New eToro is a real-time social trading platform, which integrates rich community and social characteristics into the trading platform. As part of the eToro traders’ network, traders who choose to be part of the community share their strategies and performance with the community. The personal information of the traders and the amount traded is never disclosed and all traders are required to agree to be part of the network and share their strategies and performance.
 
-If you are an existing “real account” trader by July 6, 2010 and after sending you several notification emails, we consider you as giving your permission to be part of the OpenBook community and set you as "opt-in" to the eToro OpenBook and we consider you as giving consent to this privacy policy and as accepting "passive sharing" of your trading activity (if you responded negatively to our emails you will not set as “opt-in”).
+If you are an existing “real account” trader by July 6, 2010 and after sending you several notification emails, we consider you as giving your permission to be part of the eToro community and set you as "opt-in" to the eToro social trading and we consider you as giving consent to this privacy policy and as accepting "passive sharing" of your trading activity (if you responded negatively to our emails you will not set as “opt-in”).
 
-If you are a new trader, who started trading with us in a “real account” after July 6, 2010, being part of the OpenBook community is an outcome of you actively opting-in.
+If you are a new trader, who started trading with us in a “real account” after July 6, 2010, being part of the eToro community is an outcome of you actively opting-in.
 
-Whether you are a trader by or after July 6, 2010, you can always opt-in and out the OpenBook community, very simply, at your discretion.
+Whether you are a trader by or after July 6, 2010, you can always opt-in and out the eToro community, very simply, at your discretion.
 
-The information that is shown on the eToro OpenBook is as following: username, full name (can be changed in the privacy settings), country, eToro Club type (gold, silver etc.), ranking, trading activity (open / close position, creating an order, earning profit), challenges activity (climbed to the Xth Position), social/community activities (following other user(s), writing comments, like / dislike), statistics [gain in % (but never amounts), winning rate in %, risk levels (low/medium/high) and instruments traded).
+The information that is shown on the eToro OpenBook is as following: username, full name (can be changed in the privacy settings), country, ranking, trading activity (open / close position, creating an order, earning profit), challenges activity (climbed to the Xth Position), social/community activities (following other user(s), writing comments, like / dislike), statistics [gain in % (but never amounts), winning rate in %, risk levels (low/medium/high) and instruments traded).
 
 Click [here](https://openbook.etoro.com/settings/ "OpenBook privacy settings") to change your privacy settings.
 
