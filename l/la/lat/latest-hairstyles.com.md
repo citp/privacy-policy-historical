@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409012238id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224032632id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Latest-Hairstyles.com
 
