@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muis.gov.sg privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625231827id_/http%3A//www.muis.gov.sg/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muis.gov.sg privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224080808id_/http%3A//www.muis.gov.sg/privacy-statement.html) for the most accurate reproduction.*
 
 # Muis: Majlis Ugama Islam Singapura
 
