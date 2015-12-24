@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybigcoinexchange.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607084618id_/http%3A//mybigcoinexchange.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybigcoinexchange.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224164422id_/http%3A//mybigcoinexchange.com/privacy.php) for the most accurate reproduction.*
 
-# privacy
+# My Big Coin Exchange - Trade MBC 247
 
 A. Overview
 
