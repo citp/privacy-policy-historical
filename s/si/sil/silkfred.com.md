@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426180223id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224224153id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
 
 # SilkFred - Unique fashion from the best independent brands
 
-### May 2012 1.1
+### May 2015
 
-**Silk Fred Limited** of 80-86 Old Street, London EC1V 9AZ (the Company) is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can at www.SilkFred.com and our associated web and mobile applications (the Website). 
+**Silk Fred Limited** of 91 Brick Lane, London, E1 6QL (the Company) is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can at www.SilkFred.com and our associated web and mobile applications (the Website). 
 
 Please read the following Privacy Policy (which forms part of the Terms for the Website) to understand how your personal information will be treated by us. 
 
