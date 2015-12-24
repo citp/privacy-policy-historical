@@ -1,11 +1,16 @@
-<!--The following is the downloaded HTML source of the predictit.org privacy policy that was archived on 2015-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321040922id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the predictit.org privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224171218id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta charset="utf-8">
     <title>PredictIt | Terms And Conditions</title>
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="msapplication-config" content="none">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+
     
      <link rel="stylesheet" href="/Content/themes/Bootstrap/less/bootstrap.min.css" type="text/css" media="all">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css">
@@ -13,21 +18,15 @@
     <link rel="stylesheet" href="/Content/themes/Bootstrap/less/glyphicons.css" type="text/css" media="all">
     <link rel="stylesheet" href="/Content/themes/Bootstrap/less/social.css" type="text/css" media="all">
     <meta name="description" content="PredictIt is an exciting new site that tests your knowledge of political and financial events by letting you make and trade predictions.  We’re a university-sponsored project set up to research the potential value of prediction markets in understanding the future.  Our job is to study the wisdom of the crowd, yours is to make your most educated prediction.">
-
-    <!--[if IE]>
-	 <link rel="stylesheet" href="~/Content/themes/Bootstrap/less/StyleIE.css" type="text/css" media="all" />
-    <![endif]-->
-    <link href="/bundles/css?v=xJVBe7L65ZoW3FXbCDziyPBLQKA13srWE0OXMf1lSbc1" rel="stylesheet">
+    
+    <link href="/bundles/css?v=xfYn1Rfc72ZkQUkj7jJWhf41ioRvx9auJIFL6RUunGM1" rel="stylesheet">
 
     
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WGVC48"></script><script src="/bundles/jquery?v=yMmPM1TxecYcoWtCWW3jYgH0fr9kiAasOfb-W5I001A1"></script>
 
-    <script src="/bundles/jqueryui?v=0Px-xGBow2KxjRqLt9iZBbVS6wjj3a756RGKq1e6fEc1"></script>
+    <script src="/bundles/jqueryui?v=mm3v2PpGUkDUriE6bzJuTlqb_tVjmWEGj4i4gSJ7ipU1"></script>
 
     
-
-
-
 
 <link rel="stylesheet" type="text/css" href="https://d36mpcpuzc4ztk.cloudfront.net/css/visitor.css"></head>
 <body>
@@ -35,10 +34,32 @@
 
 
 
+
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="banner-g">
         <div class="container">
+            <div id="user-info">
+                <div class="navbar-form navbar-right">
+<form action="/home/browse" id="searchForm" method="get" novalidate="novalidate"><div class="inner-addon left-addon">
+  	<a href="#" id="submitSearch" style="text-decoration: none; right: 14px; color: rgb(204, 204, 204); top: 6px;"> <i class="glyphicon glyphicon-search"></i></a>
+        <input class="form-control input-sm" data-val="true" data-val-length="The field Search must be a string with a maximum length of 150." data-val-length-max="150" data-val-regex="Please enter only letters, and numbers and no special characters" data-val-regex-pattern="^[0-9a-zA-Z .]+$" id="Search" name="Search" placeholder="Search Markets" type="text" value="">
+&nbsp;
+            
+    <input type="hidden" name="isSearch" value="true">
+</div>   
+</form>
+<script>
+    $('#submitSearch').click(function() {
+        $('#searchForm').submit();
+    });
+</script>
 
+
+
+
+
+                </div>
+            </div>
         </div>
     </div>
     <div class="banner-w"></div>
@@ -54,64 +75,86 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand active" href="/">
-                <img src="https://az620379.vo.msecnd.net/images/logo2small_b.png" alt="PredictIT Logo" id="main-logo"></a> 
+            <div id="sb-search" class="sb-search visible-xs form-height" style="float: right !important;">
+
+<form action="/Home/Browse" id="searchFormMobile" method="get">                    <input class="sb-search-input" placeholder="Search Markets" type="search" value="" name="search" id="search">
+                    <input class="sb-search-submit" type="submit" value="">
+                    <span class="sb-icon-search"><span class="glyphicon glyphicon-search"></span></span>
+</form>            </div>
+                <a class=" mobile-total-available navbar-brand active " href="/">
+                    <img src="https://az620379.vo.msecnd.net/images/logo2small_b.png" alt="PredictIT Logo" id="main-logo">
+                </a>
+
+
         </div>
 
         <div class="navbar-collapse collapse">
-            
-
             <ul class="nav navbar-nav navbar-right">
                 <li class="">
-                    <a href="/Home/Browse?marketGroupId=1001" data-hover="dropdown" data-delay="1000" data-close-others="true">MARKETS </a>
+                    <a href="/Browse/Featured" data-hover="dropdown" data-delay="1000" data-close-others="true">MARKETS </a>
                     <ul class="dropdown-menu hidden-xs">
                         <li>
-                            <a tabindex="-1" href="/Home/Browse?marketGroupId=1001">Featured </a>
+                            <a tabindex="-1" href="/Browse/Featured">Featured </a>
                         </li>
 
                             <li class="dropdown-submenu">
-                                <a tabindex="-1" href="/Home/Browse?catId=6" class="dropdown-toggle">U.S. Elections </a>
+                                <a tabindex="-1" href="/Browse/Category/6/US-Elections" class="dropdown-toggle">U.S. Elections </a>
                                 <ul class="dropdown-menu">
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=9" class="dropdown-toggle">2016 U.S. Election </a>
+                                            <a tabindex="-1" href="/Browse/Group/54/Congress" class="dropdown-toggle">Congress </a>
                                         </li>
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=47" class="dropdown-toggle">Local Elections </a>
+                                            <a tabindex="-1" href="/Browse/Group/62/Debates" class="dropdown-toggle">Debates </a>
                                         </li>
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=48" class="dropdown-toggle">2015 State Elections </a>
+                                            <a tabindex="-1" href="/Browse/Group/56/Polling" class="dropdown-toggle">Polling </a>
+                                        </li>
+                                        <li>
+                                            <a tabindex="-1" href="/Browse/Group/53/President" class="dropdown-toggle">President </a>
+                                        </li>
+                                        <li>
+                                            <a tabindex="-1" href="/Browse/Group/55/State_Local" class="dropdown-toggle">State &amp; Local </a>
                                         </li>
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
-                                <a tabindex="-1" href="/Home/Browse?catId=13" class="dropdown-toggle">U.S. Politics </a>
+                                <a tabindex="-1" href="/Browse/Category/13/US-Politics" class="dropdown-toggle">U.S. Politics </a>
                                 <ul class="dropdown-menu">
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=37" class="dropdown-toggle">White House </a>
+                                            <a tabindex="-1" href="/Browse/Group/38/Congress" class="dropdown-toggle">Congress </a>
                                         </li>
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=38" class="dropdown-toggle">U.S. Congress </a>
+                                            <a tabindex="-1" href="/Browse/Group/45/Other-Events" class="dropdown-toggle">Other Events </a>
                                         </li>
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=39" class="dropdown-toggle">Supreme Court </a>
+                                            <a tabindex="-1" href="/Browse/Group/39/Supreme-Court" class="dropdown-toggle">Supreme Court </a>
                                         </li>
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=45" class="dropdown-toggle">Other Events </a>
+                                            <a tabindex="-1" href="/Browse/Group/37/White-House" class="dropdown-toggle">White House </a>
                                         </li>
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
-                                <a tabindex="-1" href="/Home/Browse?catId=4" class="dropdown-toggle">World </a>
+                                <a tabindex="-1" href="/Browse/Category/4/World" class="dropdown-toggle">World </a>
                                 <ul class="dropdown-menu">
                                         <li>
-                                            <a tabindex="-1" href="/Home/Browse?marketGroupId=43" class="dropdown-toggle">World Politics </a>
+                                            <a tabindex="-1" href="/Browse/Group/50/Americas" class="dropdown-toggle">Americas </a>
+                                        </li>
+                                        <li>
+                                            <a tabindex="-1" href="/Browse/Group/51/Asia-Pacific" class="dropdown-toggle">Asia/Pacific </a>
+                                        </li>
+                                        <li>
+                                            <a tabindex="-1" href="/Browse/Group/52/Europe" class="dropdown-toggle">Europe </a>
+                                        </li>
+                                        <li>
+                                            <a tabindex="-1" href="/Browse/Group/49/Mideast_Africa" class="dropdown-toggle">Mideast &amp; Africa </a>
                                         </li>
                                 </ul>
                             </li>
                     </ul>
                 </li>
-       
-                <li><a href="/Account/HelpLogin?page=forum" data-hover="dropdown" data-delay="1000" data-close-others="true">FORUM </a></li>
+
+                <li><a href="http://analysis.predictit.org" data-hover="dropdown" data-delay="1000" data-close-others="true" target="_blank">Analysis </a></li>
 
                 <li>
                     <a href="/About/WhatIsPredictIT" data-hover="dropdown" data-delay="1000" data-close-others="true">ABOUT </a>
@@ -119,29 +162,25 @@
                         <li><a href="/About/WhatIsPredictIT">What is PredictIt? </a><span id="WhatIsPredictITTri"></span></li>
                         <li><a href="/About/HowItWorks">How It Works </a><span id="HowItWorksTri"></span></li>
                         <li><a href="https://predictit.freshdesk.com/support/solutions/5000087214">FAQ </a><span id="FaqTri"></span></li>
-                        <li><a href="http://blog.predictit.com/">Blog </a><span id="BlogTri"></span></li>
+                        <li><a href="http://blog.predictit.org/">Blog </a><span id="BlogTri"></span></li>
+                        <li><a href="/Account/HelpLogin?page=forum">Forum </a><span id="BlogTri"></span></li>
                         <li><a href="/About/Research">Research </a><span id="ResearchTri"></span></li>
                         <li><a href="/Account/HelpLogin?page=home">Support </a><span id="SupportTri"></span></li>
                         <li><a href="/About/Contact">Contact Us </a><span id="ContactTri"></span></li>
                     </ul>
                 </li>
-
-             
-
-   
-
                     <li class="">
                         <a href="#SignInModal" role="button" data-toggle="modal">
                             <span class="glyphicon glyphicon-user" aria-hidden="true"></span>Sign In
-                            
+
                         </a>
                     </li>
-    <li class="signUp">
-        <a href="#SignUpModal" role="button" data-toggle="modal">
-            <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>Sign Up
-            
-        </a>
-    </li>
+                    <li class="signUp">
+                        <a href="#SignUpModal" role="button" data-toggle="modal">
+                            <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>Sign Up
+
+                        </a>
+                    </li>
 
             </ul>
 
@@ -152,7 +191,8 @@
 </div>
 
 
-<form action="/Account/LogOff" id="logoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="rJjcXj4xGMKkt1zsMRfn2QEd_Pug1iNQ2WFOWUvQeg4K6i15LMFx8-wd15_6f3ViDPItjGWb7Fctlp_yqyRQmIGKnQ8TzCF7JQ9EbsENWeU1"></form>
+
+<form action="/Account/LogOff" id="logoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="kmR1e6x1fJr7Epj7of3_JVPCmcWD6UtJpP8TculFUPMq_U6qZ9ZPLBRjMEX_esqvu8fgzYOOQfbOdtW375YFuYEIDwMA1G1J-rb1j7fGUxc1"></form>
 <div class="modal fade log" id="SignInModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -170,10 +210,10 @@
                     <div id="showAll2">
 
                         <h3>Sign In using:</h3>
-<form action="/Account/LogIn" data-ajax="true" data-ajax-failure="failedLogIn" data-ajax-loading="#spinnnerGo" data-ajax-method="POST" data-ajax-success="successLogIn" id="loginForm" method="post" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="UJPz5_c6BQnJ2Z1iVki7WEeanAxVQAXmKOgCeng8JPdsmu6EKRm2eD06BOkiPcwYTVGmP3YwCj2iC7YVdMUeuMQ5OAWjqWKcMLaFaVnxu_Y1">                            <input type="hidden" id="ReturnUrl" name="ReturnUrl" value="/Home/PrivacyPolicy">
+<form action="/Account/LogIn" data-ajax="true" data-ajax-failure="failedLogIn" data-ajax-loading="#spinnnerGo" data-ajax-method="POST" data-ajax-success="successLogIn" id="loginForm" method="post" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="aktz1vvEoFaj-JUS8awhS0yvMVFh8lacD1ax2sVPA0Vl8GTrCZw8nQw5xsZjlS8PGT06hM_5IPiwtV0UhV6UmQBPzza_NyjnxqHfj9Wl2eo1">                            <input type="hidden" id="ReturnUrl" name="ReturnUrl" value="/Home/PrivacyPolicy">
                             <div class="login-social">
-                            <button type="button" class="btn  fbook-login btn-primary sendOauth">Facebook</button>
-              	            <button type="button" class="btn btn-primary twitter-login sendTwitterOauth">Twitter</button>
+                                <button type="button" class="btn  fbook-login btn-primary sendOauth">Facebook</button>
+                                <button type="button" class="btn btn-primary twitter-login sendTwitterOauth">Twitter</button>
                             </div>
                             <h4>Or</h4>
 
@@ -214,11 +254,11 @@
 
 
 
-                            <div class="submission">
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                                <button type="button" class="btn btn-default" id="switchToSignUp">Sign Up Instead</button>
-                            </div>
-</form>                        <br><br>            
+                                <div class="submission">
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                    <button type="button" class="btn btn-default" id="switchToSignUp">Sign Up Instead</button>
+                                </div>
+</form>                        <br><br>
                     </div>
                 </div>
             </div>
@@ -242,12 +282,12 @@
                     <div id="showAll">
                         <h3>Sign Up Using:</h3>
                         <div class="login-social">
-                        <button type="button" class="btn btn-primary fbook-login sendOauth">Connect with Facebook</button>
-                        <button type="button" class="btn btn-primary twitter-login sendTwitterOauth">Connect with Twitter</button>
+                            <button type="button" class="btn btn-primary fbook-login sendOauth">Connect with Facebook</button>
+                            <button type="button" class="btn btn-primary twitter-login sendTwitterOauth">Connect with Twitter</button>
                         </div>
-                        <h4>Or, create a new account </h4> 
+                        <h4>Or, create a new account </h4>
 
-<form action="/Account/SignUp" data-ajax="true" data-ajax-failure="failedSignUp" data-ajax-loading="#spinnnerGo" data-ajax-method="POST" data-ajax-success="successSignUp" id="signUpForm" method="post" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="DFNm990XaeGgn55Dz1bXR4Gjje37XHNX1-_QauUXCXau8txhGpcshkvrXqpVdegFI-0sopEqG7yD0u54RBqT4I7BszexlKiAWMIlOtDrZiE1"><link href="/Content/themes/Bootstrap/less/bootstrap-datetimepicker.min.css" rel="stylesheet">
+<form action="/Account/SignUp" data-ajax="true" data-ajax-failure="failedSignUp" data-ajax-loading="#spinnnerGo" data-ajax-method="POST" data-ajax-success="successSignUp" id="signUpForm" method="post" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="aQOGb24aH_NPWjpK1yEp-Yy4uZRxJIbMFNCJ3ZDnVe4sJLb_MBM8Ff1p2P3wuZqbkyVPjv4g8C2YW-u8Ai8HjyAYLXp4zN8rG07r1wOgNqY1"><link href="/Content/themes/Bootstrap/less/bootstrap-datetimepicker.min.css" rel="stylesheet">
 
 
 <div class="form-group">
@@ -282,7 +322,7 @@
 <div class="form-group">
     <label for="exampleInputPassword1">Choose Password</label>
     <div class="input-group" style="width: 100%">
-        <input class="form-control" data-val="true" data-val-regex="Password must be at least 6 characters, contain at least one lower case letter, one upper case letter, and at least one number" data-val-regex-pattern="^(?=^.{6,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" data-val-required="Password is required" id="Password" name="Password" type="password" value="">
+        <input class="form-control" data-val="true" data-val-regex="Password must be at least 6 characters, contain at least one lower case letter, one upper case letter, and at least one number" data-val-regex-pattern="^(?=^.{6,}$)(?=.*\d)(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" data-val-required="Password is required" id="Password" name="Password" type="password" value="">
         <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
     </div>
 </div>
@@ -300,19 +340,18 @@
     </div>
 
 
-    <div class="checkbox validation-error">
-        <label>
-            <input data-val="true" data-val-enforcetrue="You must agree in order to continue" data-val-required="The AgreeOther field is required." id="AgreeOther" name="AgreeOther" type="checkbox" value="true"><input name="AgreeOther" type="hidden" value="false"> I am at least 18 years of age and politically knowledgeable. I am registered to vote or have contributed time or money to political causes.   
-        </label>    
-        <br><span class="field-validation-valid" data-valmsg-for="AgreeOther" data-valmsg-replace="true"></span>
-    </div>
- 
+<div class="checkbox validation-error">
+    <label>
+        <input data-val="true" data-val-enforcetrue="You must agree in order to continue" data-val-required="The AgreeOther field is required." id="AgreeOther" name="AgreeOther" type="checkbox" value="true"><input name="AgreeOther" type="hidden" value="false"> I am at least 18 years of age and politically knowledgeable. I am registered to vote or have contributed time or money to political causes. I am not an employee of PredictIt or Aristotle.
+    </label>
+    <br><span class="field-validation-valid" data-valmsg-for="AgreeOther" data-valmsg-replace="true"></span>
+</div> 
                             <div class="submission" style="margin-top: 20px">
                                 <input type="submit" class="btn btn-primary" value="Create My Account">
                                 <a href="#" id="switchToSignIn" class="btn btn-default">Sign In Instead</a>
                             </div>
-</form>                         <br><br>
-               
+</form>                        <br><br>
+
                     </div>
                 </div>
             </div>
@@ -320,23 +359,19 @@
     </div>
 </div>
 
-
-<form action="/Account/ExternalLogin" id="OAuthForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="iKvh4DRjv2EH_M9iFzVhtPtBgLO351fF3RBXcdgGBnXblK17V0pMwlX5GSex4HTOGvfRqKqvcPXeis8PB7n27OpKTQEI4iwTJeodZN4Wuv41">    <input type="hidden" value="Facebook" id="provider" name="provider">
-</form><form action="/Account/ExternalLogin" id="OAuthGoogle" method="post"><input name="__RequestVerificationToken" type="hidden" value="JKZOOZQmfpS9FJQCknLe08ugzT6Sd1VIIGKq-qbng7YkmER9w7EcDHzekWZW-8Dfcvu8gDsO4pqa5XYebaKXZD9G7ESDwqoME78AblEyl5Q1">    <input type="hidden" value="Google" id="provider" name="provider">
-</form><form action="/Account/ExternalLogin" id="OAuthTwitter" method="post"><input name="__RequestVerificationToken" type="hidden" value="94dfcNSRPvoqCTavb3cJP3QknVT6u3nw6S8k6OZyiOzIoZmOmFSJAQbnvBwIjqFyzV9F4-7HQcyjPV6Q7fs1XpWkMXDiGFRREDJt1DGOVnI1">    <input type="hidden" value="Twitter" id="provider" name="provider">
+<form action="/Account/ExternalLogin" id="OAuthForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="DGvntyNwNvrJUjffHJpcivPZ-PIZw92MaCtXqjA8mj9OQFZb9sQfJtOw3nlohBzKjgywnMNIVyhknQJx8R9hEXOWLumH1uj2PODZddZhigk1">    <input type="hidden" value="Facebook" id="provider" name="provider">
+</form><form action="/Account/ExternalLogin" id="OAuthGoogle" method="post"><input name="__RequestVerificationToken" type="hidden" value="jKZiGnGfiKPDYBdseYnm7tHnIuO774SdHbZ5cNNhkFsKGTlD96JLZeYcSvgIT3B5ASE0m2OknnRP_wPG3k68tXD6QzkCAcgxtX5p6HfXV801">    <input type="hidden" value="Google" id="provider" name="provider">
+</form><form action="/Account/ExternalLogin" id="OAuthTwitter" method="post"><input name="__RequestVerificationToken" type="hidden" value="DqbU2S5DB-Tvo3A7NWhIPCrm2UrYaxHLiUcagfSjnk03rg3aOnPdHkfGvgt97_y8SwvzgKlkMTJGwHQo-RexiJk4GV5qo_yvtclEMlheTjI1">    <input type="hidden" value="Twitter" id="provider" name="provider">
 </form>
-
-     <script src="/bundles/Core?v=lJ1k1GRzCfUyNUKulRW0LiwBduycZxjumFNSOwkEhbE1"></script>
-
-
- 
-    
+<script src="/bundles/Core?v=BKMaZtIo87kG5wXzp19jzNH0HCpa-RoFgaj46Bp7mTs1"></script>
 
 
+<script src="/Scripts/classie.js"></script>
+<script src="/Scripts/uisearch1.js"></script>
 
-
-
-
+<script>
+    new UISearch(document.getElementById('sb-search'));
+</script>
 
 
     <div id="spinnnerGo" style="display: none">
@@ -357,25 +392,101 @@
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                             <div class="panel-body">
-<script type="text/javascript" src="/Scripts/jquery.easing.min.js"></script>
-<script type="text/javascript" src="/Scripts/jquery.easy-ticker.min.js"></script>
+
+
+
+
 
 <div class="panel-group" id="accordion23">
     <div class="nav main1">
-        <li><a href="/Home/Browse?marketGroupId=1001"><i class="glyphicon glyphicon-star"></i>&nbsp;Featured</a></li>
-        <li><a href="/Home/Browse?marketGroupId=1006"><i class="glyphicon glyphicon-plus"></i>&nbsp;New Arrivals</a></li>
-        <li><a href="/Home/Browse?marketGroupId=1005"><i class="glyphicon glyphicon-flash"></i>&nbsp;Trending</a></li>
-        <li><a href="/Home/Browse?marketGroupId=1003"><i class="glyphicon glyphicon-fire"></i>&nbsp;Most Predicted</a></li>        
-        <li><a href="/Home/Browse?marketGroupId=1004"><i class="glyphicon glyphicon-warning-sign"></i>&nbsp;Closing Soon</a></li>      
+        <li><a href="/Browse/Featured"><i class="glyphicon glyphicon-star"></i>&nbsp;Featured</a></li>
+        <li><a href="/Browse/NewArrivals"><i class="glyphicon glyphicon-plus"></i>&nbsp;New Arrivals</a></li>
+        <li><a href="/Browse/BiggestMovers"><i class="glyphicon glyphicon-sort"></i>&nbsp;Biggest Movers</a></li>
+        <li><a href="/Browse/Trending"><i class="glyphicon glyphicon-flash"></i>&nbsp;Trending</a></li>
+        <li><a href="/Browse/MostPredicted"><i class="glyphicon glyphicon-fire"></i>&nbsp;Most Predicted</a></li>
+        <li><a href="/Browse/ClosingSoon"><i class="glyphicon glyphicon-warning-sign"></i>&nbsp;Closing Soon</a></li>      
     </div>
 </div>
-<hr>
+<hr style="border-color:#DDD8D8;">
 <div class="panel-group" id="accordion23">
-    <div class="nav">
-        <li class="category">Categories</li>
-                <li><a href="/Home/Browse?catId=6">U.S. Elections</a></li>
-                <li><a href="/Home/Browse?catId=13">U.S. Politics</a></li>
-                <li><a href="/Home/Browse?catId=4">World</a></li>
+    <div class="nav nav-left-pad">
+        
+                <li role="presentation" class="dropdown">
+                    <ul class="nav nav-list">
+                        <li>
+                            <label class="tree-toggler nav-header"><a href="/Browse/Category/6/US-Elections">U.S. Elections</a></label>
+                            
+                                <ul class="nav nav-list tree closed ">
+                        
+
+                                    <li class="">
+                                        <a href="/Browse/Group/54/Congress" class="dropdown-toggle font-weight-500">Congress </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/62/Debates" class="dropdown-toggle font-weight-500">Debates </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/56/Polling" class="dropdown-toggle font-weight-500">Polling </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/53/President" class="dropdown-toggle font-weight-500">President </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/55/State_Local" class="dropdown-toggle font-weight-500">State &amp; Local </a>
+                                    </li>
+                                    </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li role="presentation" class="dropdown">
+                    <ul class="nav nav-list">
+                        <li>
+                            <label class="tree-toggler nav-header"><a href="/Browse/Category/13/US-Politics">U.S. Politics</a></label>
+                            
+                                <ul class="nav nav-list tree closed ">
+                        
+
+                                    <li class="">
+                                        <a href="/Browse/Group/38/Congress" class="dropdown-toggle font-weight-500">Congress </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/45/Other-Events" class="dropdown-toggle font-weight-500">Other Events </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/39/Supreme-Court" class="dropdown-toggle font-weight-500">Supreme Court </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/37/White-House" class="dropdown-toggle font-weight-500">White House </a>
+                                    </li>
+                                    </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li role="presentation" class="dropdown">
+                    <ul class="nav nav-list">
+                        <li>
+                            <label class="tree-toggler nav-header"><a href="/Browse/Category/4/World">World</a></label>
+                            
+                                <ul class="nav nav-list tree closed ">
+                        
+
+                                    <li class="">
+                                        <a href="/Browse/Group/50/Americas" class="dropdown-toggle font-weight-500">Americas </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/51/Asia-Pacific" class="dropdown-toggle font-weight-500">Asia/Pacific </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/52/Europe" class="dropdown-toggle font-weight-500">Europe </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/49/Mideast_Africa" class="dropdown-toggle font-weight-500">Mideast &amp; Africa </a>
+                                    </li>
+                                    </ul>
+                        </li>
+                    </ul>
+                </li>
+
     </div>
 </div>
 
@@ -392,25 +503,101 @@
 
             <div class="row">
                 <div class="col-md-2 hidden-xs hidden-sm">
-<script type="text/javascript" src="/Scripts/jquery.easing.min.js"></script>
-<script type="text/javascript" src="/Scripts/jquery.easy-ticker.min.js"></script>
+
+
+
+
 
 <div class="panel-group" id="accordion23">
     <div class="nav main1">
-        <li><a href="/Home/Browse?marketGroupId=1001"><i class="glyphicon glyphicon-star"></i>&nbsp;Featured</a></li>
-        <li><a href="/Home/Browse?marketGroupId=1006"><i class="glyphicon glyphicon-plus"></i>&nbsp;New Arrivals</a></li>
-        <li><a href="/Home/Browse?marketGroupId=1005"><i class="glyphicon glyphicon-flash"></i>&nbsp;Trending</a></li>
-        <li><a href="/Home/Browse?marketGroupId=1003"><i class="glyphicon glyphicon-fire"></i>&nbsp;Most Predicted</a></li>        
-        <li><a href="/Home/Browse?marketGroupId=1004"><i class="glyphicon glyphicon-warning-sign"></i>&nbsp;Closing Soon</a></li>      
+        <li><a href="/Browse/Featured"><i class="glyphicon glyphicon-star"></i>&nbsp;Featured</a></li>
+        <li><a href="/Browse/NewArrivals"><i class="glyphicon glyphicon-plus"></i>&nbsp;New Arrivals</a></li>
+        <li><a href="/Browse/BiggestMovers"><i class="glyphicon glyphicon-sort"></i>&nbsp;Biggest Movers</a></li>
+        <li><a href="/Browse/Trending"><i class="glyphicon glyphicon-flash"></i>&nbsp;Trending</a></li>
+        <li><a href="/Browse/MostPredicted"><i class="glyphicon glyphicon-fire"></i>&nbsp;Most Predicted</a></li>
+        <li><a href="/Browse/ClosingSoon"><i class="glyphicon glyphicon-warning-sign"></i>&nbsp;Closing Soon</a></li>      
     </div>
 </div>
-<hr>
+<hr style="border-color:#DDD8D8;">
 <div class="panel-group" id="accordion23">
-    <div class="nav">
-        <li class="category">Categories</li>
-                <li><a href="/Home/Browse?catId=6">U.S. Elections</a></li>
-                <li><a href="/Home/Browse?catId=13">U.S. Politics</a></li>
-                <li><a href="/Home/Browse?catId=4">World</a></li>
+    <div class="nav nav-left-pad">
+        
+                <li role="presentation" class="dropdown">
+                    <ul class="nav nav-list">
+                        <li>
+                            <label class="tree-toggler nav-header"><a href="/Browse/Category/6/US-Elections">U.S. Elections</a></label>
+                            
+                                <ul class="nav nav-list tree closed ">
+                        
+
+                                    <li class="">
+                                        <a href="/Browse/Group/54/Congress" class="dropdown-toggle font-weight-500">Congress </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/62/Debates" class="dropdown-toggle font-weight-500">Debates </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/56/Polling" class="dropdown-toggle font-weight-500">Polling </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/53/President" class="dropdown-toggle font-weight-500">President </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/55/State_Local" class="dropdown-toggle font-weight-500">State &amp; Local </a>
+                                    </li>
+                                    </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li role="presentation" class="dropdown">
+                    <ul class="nav nav-list">
+                        <li>
+                            <label class="tree-toggler nav-header"><a href="/Browse/Category/13/US-Politics">U.S. Politics</a></label>
+                            
+                                <ul class="nav nav-list tree closed ">
+                        
+
+                                    <li class="">
+                                        <a href="/Browse/Group/38/Congress" class="dropdown-toggle font-weight-500">Congress </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/45/Other-Events" class="dropdown-toggle font-weight-500">Other Events </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/39/Supreme-Court" class="dropdown-toggle font-weight-500">Supreme Court </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/37/White-House" class="dropdown-toggle font-weight-500">White House </a>
+                                    </li>
+                                    </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li role="presentation" class="dropdown">
+                    <ul class="nav nav-list">
+                        <li>
+                            <label class="tree-toggler nav-header"><a href="/Browse/Category/4/World">World</a></label>
+                            
+                                <ul class="nav nav-list tree closed ">
+                        
+
+                                    <li class="">
+                                        <a href="/Browse/Group/50/Americas" class="dropdown-toggle font-weight-500">Americas </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/51/Asia-Pacific" class="dropdown-toggle font-weight-500">Asia/Pacific </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/52/Europe" class="dropdown-toggle font-weight-500">Europe </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/Browse/Group/49/Mideast_Africa" class="dropdown-toggle font-weight-500">Mideast &amp; Africa </a>
+                                    </li>
+                                    </ul>
+                        </li>
+                    </ul>
+                </li>
+
     </div>
 </div>
 
@@ -421,6 +608,11 @@
 
                 </div>
                 <div class="col-md-10 dashboard">
+
+
+
+
+
 
     <div role="alert" class="alert alert-warning alert-dismissible fade in">
         <button aria-label="Close" data-dismiss="alert" class="close" type="button"><span aria-hidden="true">×</span></button>
@@ -505,8 +697,6 @@
 
 
 
-
-
 <div class="content">
     <div class="footer">
         <div class="container">
@@ -537,16 +727,21 @@
                 <div class="col-xs-6 col-sm-2">
                     <ul>
                         <li>
-                            <a href="http://">Markets</a>
+                            <a href="/Browse/Featured">Markets</a>
                             <ul>
-                                <li><a href="/Home/Browse?marketGroupId=1001">Featured</a></li>               
-                                    <li><a href="/Home/Browse?catId=6">U.S. Elections</a></li>
-                                    <li><a href="/Home/Browse?catId=13">U.S. Politics</a></li>
-                                    <li><a href="/Home/Browse?catId=4">World</a></li>
+                                <li><a href="/Browse/Featured">Featured</a></li>
+                                <li><a href="/Browse/NewArrivals">New Arrivals</a></li>
+                                <li><a href="/Browse/BiggestMovers">Biggest Movers</a></li>
+                                <li><a href="/Browse/Trending">Trending</a></li>
+                                <li><a href="/Browse/MostPredicted">Most Predicted</a></li>
+                                <li><a href="/Browse/ClosingSoon">Closing Soon</a></li>
+                                    <li><a href="/Browse/Category/6/US-Elections">U.S. Elections</a></li>
+                                    <li><a href="/Browse/Category/13/US-Politics">U.S. Politics</a></li>
+                                    <li><a href="/Browse/Category/4/World">World</a></li>
+                    
 
                             </ul>
                         </li>
-                        <li><a href="/Account/HelpLogin?page=forum">Forum</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-6 col-sm-2">
@@ -555,11 +750,13 @@
                             <a href="/About/WhatIsPredictIT">About</a>
                             <ul>
                                 <li><a href="/About/HowItWorks">How It Works</a></li>
-                                <li><a href="https://predictit.freshdesk.com/support/solutions/5000087214">FAQ</a></li>
-                                <li><a href="http://blog.predictit.com/">Blog</a></li>
+                                <li><a href="https://predictit.freshdesk.com/support/solutions/5000087214" target="_blank">FAQ</a></li>
+                                <li><a href="http://blog.predictit.org/" target="_blank">Blog</a></li>
+                                <li><a href="http://analysis.predictit.org/" target="_blank">Analysis </a></li>
+                                <li><a href="/Account/HelpLogin?page=forum" target="_blank">Forum</a></li>
                                 <li><a href="/About/Research">Research</a></li>
                                 <li><a href="/Account/HelpLogin?page=home">Support</a></li>
-                                <li><a href="/About/Contact">Contact Us</a></li>  
+                                <li><a href="/About/Contact">Contact Us</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -569,7 +766,7 @@
                         <a href="https://www.facebook.com/predictit"><div class="social-icon"><img src="https://az620379.vo.msecnd.net/images/facebookhp.png" title="Like us on Facebook" alt="Facebook"></div></a>
                         <a href="https://twitter.com/PredictIt_"><div class="social-icon"><img src="https://az620379.vo.msecnd.net/images/twitterhp.png" title="Follow us on Twitter" alt="Twitter"></div></a>
                         <a href="http://instagram.com/predict_it"><div class="social-icon"><img src="https://az620379.vo.msecnd.net/images/instagramhp.png" title="Follow us on Instagram" alt="Instagram"></div></a>
-                        <a href="http://blog.predictit.com/"><div class="social-icon"><img src="https://az620379.vo.msecnd.net/images/tumblrhp.png" title="Follow us on Tumblr" alt="Tumblr"></div></a>
+                        <a href="http://blog.predictit.org/"><div class="social-icon"><img src="https://az620379.vo.msecnd.net/images/tumblrhp.png" title="Follow us on Tumblr" alt="Tumblr"></div></a>
                         <br>
                         <a href="https://www.predictit.org/About/Contact"><button type="button" class="btn btn-primary">Contact Us</button></a>
                     </div>
@@ -593,7 +790,7 @@
 
 
 
-    <script src="/bundles/modernizr?v=srL-ci_1DlAb05fpeQXoXgE80MsYXaYCh9OXYoZceA01"></script>
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
 
     <script src="/bundles/jqueryval?v=d9G-LkZMC8ZNtaqHSShRgg7IrxsJRz-iUOk4rg1YQpI1"></script>
 
@@ -622,29 +819,27 @@
     </script>
 
 
-    <!-- Google Tag Manager -->
-<noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGVC48"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>
-    (function (w, d, s, l, i) {
-        w[l] = w[l] || []; w[l].push({
-            'gtm.start':
-            new Date().getTime(), event: 'gtm.js'
-        }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WGVC48');
-</script>
+    <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 
-
-
-
-
-
-
+<!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGVC48"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WGVC48');
+    </script>
 <!-- End Google Tag Manager -->
+
+
+
 
 
 
@@ -672,12 +867,15 @@
 
     <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
 <script type="text/javascript">
+  
+
     if ($(window).width() > 591) {
         FreshWidget.init("", { "queryString": "&widgetType=popup", "widgetType": "popup", "buttonType": "text", "buttonText": "Need Help?", "buttonColor": "white", "buttonBg": "#167297", "alignment": "2", "offset": "235px", "formHeight": "500px", "url": "https://predictit.freshdesk.com" });
     }
 </script>
 
-<script type="text/javascript">var fc_CSS = document.createElement('link'); fc_CSS.setAttribute('rel', 'stylesheet'); var isSecured = (window.location && window.location.protocol == 'https:'); fc_CSS.setAttribute('type', 'text/css'); fc_CSS.setAttribute('href', ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets1.chat.freshdesk.com') + '/css/visitor.css'); document.getElementsByTagName('head')[0].appendChild(fc_CSS); var fc_JS = document.createElement('script'); fc_JS.type = 'text/javascript'; fc_JS.src = ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets.chat.freshdesk.com') + '/js/visitor.js'; (document.body ? document.body : document.getElementsByTagName('head')[0]).appendChild(fc_JS); window.freshchat_setting = 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJwcmVkaWN0aXQuZnJlc2hkZXNrLmNvbSIsIndpZGdldF9leHRlcm5hbF9pZCI6bnVsbCwid2lkZ2V0X2lkIjoiZmJhZGU4ZDQtM2E5Yy00OGI5LTkwMTItODdjMjFiMGE2ZmJjIiwic2hvd19vbl9wb3J0YWwiOmZhbHNlLCJwb3J0YWxfbG9naW5fcmVxdWlyZWQiOmZhbHNlLCJpZCI6NTAwMDA0NzU0MywibWFpbl93aWRnZXQiOnRydWUsImZjX2lkIjoiYjlmOTBiNjZjOGU1NjA2ZDRiMDExYzhlYjBlNzk3M2QiLCJzaG93IjoxLCJyZXF1aXJlZCI6MiwiaGVscGRlc2tuYW1lIjoiUHJlZGljdEl0IiwibmFtZV9sYWJlbCI6Ik5hbWUiLCJtYWlsX2xhYmVsIjoiRW1haWwiLCJwaG9uZV9sYWJlbCI6IlBob25lIE51bWJlciIsInRleHRmaWVsZF9sYWJlbCI6IlRleHRmaWVsZCIsImRyb3Bkb3duX2xhYmVsIjoiRHJvcGRvd24iLCJ3ZWJ1cmwiOiJwcmVkaWN0aXQuZnJlc2hkZXNrLmNvbSIsIm5vZGV1cmwiOiJjaGF0LmZyZXNoZGVzay5jb20iLCJkZWJ1ZyI6MSwibWUiOiJNZSIsImV4cGlyeSI6MCwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwiZGVmYXVsdF93aW5kb3dfb2Zmc2V0IjozMCwiZGVmYXVsdF9tYXhpbWl6ZWRfdGl0bGUiOiJDaGF0IGluIHByb2dyZXNzIiwiZGVmYXVsdF9taW5pbWl6ZWRfdGl0bGUiOiJMZXQncyB0YWxrISIsImRlZmF1bHRfdGV4dF9wbGFjZSI6IllvdXIgTWVzc2FnZSIsImRlZmF1bHRfY29ubmVjdGluZ19tc2ciOiJXYWl0aW5nIGZvciBhbiBhZ2VudCIsImRlZmF1bHRfd2VsY29tZV9tZXNzYWdlIjoiSGkhIEhvdyBjYW4gd2UgaGVscCB5b3UgdG9kYXk/IiwiZGVmYXVsdF93YWl0X21lc3NhZ2UiOiJPbmUgb2YgdXMgd2lsbCBiZSB3aXRoIHlvdSByaWdodCBhd2F5LCBwbGVhc2Ugd2FpdC4iLCJkZWZhdWx0X2FnZW50X2pvaW5lZF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgam9pbmVkIHRoZSBjaGF0IiwiZGVmYXVsdF9hZ2VudF9sZWZ0X21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBsZWZ0IHRoZSBjaGF0IiwiZGVmYXVsdF90aGFua19tZXNzYWdlIjoiVGhhbmsgeW91IGZvciBjaGF0dGluZyB3aXRoIHVzLiBJZiB5b3UgaGF2ZSBhZGRpdGlvbmFsIHF1ZXN0aW9ucywgZmVlbCBmcmVlIHRvIHBpbmcgdXMhIiwiZGVmYXVsdF9ub25fYXZhaWxhYmlsaXR5X21lc3NhZ2UiOiJXZSBhcmUgc29ycnksIGFsbCBvdXIgYWdlbnRzIGFyZSBidXN5LiBQbGVhc2UgIyBsZWF2ZSB1cyBhIG1lc3NhZ2UgIyBhbmQgd2UnbGwgZ2V0IGJhY2sgdG8geW91IHJpZ2h0IGF3YXkuIiwiZGVmYXVsdF9wcmVjaGF0X21lc3NhZ2UiOiJXZSBjYW4ndCB3YWl0IHRvIHRhbGsgdG8geW91LiBCdXQgZmlyc3QsIHBsZWFzZSB0YWtlIGEgY291cGxlIG9mIG1vbWVudHMgdG8gdGVsbCB1cyBhIGJpdCBhYm91dCB5b3Vyc2VsZi4ifQ==';</script><script type="text/javascript" src="https://d36mpcpuzc4ztk.cloudfront.net/js/visitor.js"></script>
+    <script type="text/javascript">var fc_CSS = document.createElement('link'); fc_CSS.setAttribute('rel', 'stylesheet'); var isSecured = (window.location && window.location.protocol == 'https:'); var rtlSuffix = ((document.getElementsByTagName('html')[0].getAttribute('lang')) === 'ar') ? '-rtl' : ''; fc_CSS.setAttribute('type', 'text/css'); fc_CSS.setAttribute('href', ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets1.chat.freshdesk.com') + '/css/visitor' + rtlSuffix + '.css'); document.getElementsByTagName('head')[0].appendChild(fc_CSS); var fc_JS = document.createElement('script'); fc_JS.type = 'text/javascript'; fc_JS.src = ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets.chat.freshdesk.com') + '/js/visitor.js'; (document.body ? document.body : document.getElementsByTagName('head')[0]).appendChild(fc_JS); window.freshchat_setting = 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJwcmVkaWN0aXQuZnJlc2hkZXNrLmNvbSIsInByb2R1Y3RfaWQiOm51bGwsIm5hbWUiOiJQcmVkaWN0SXQiLCJ3aWRnZXRfZXh0ZXJuYWxfaWQiOm51bGwsIndpZGdldF9pZCI6ImZiYWRlOGQ0LTNhOWMtNDhiOS05MDEyLTg3YzIxYjBhNmZiYyIsInNob3dfb25fcG9ydGFsIjp0cnVlLCJwb3J0YWxfbG9naW5fcmVxdWlyZWQiOmZhbHNlLCJpZCI6NTAwMDA0NzU0MywibWFpbl93aWRnZXQiOnRydWUsImZjX2lkIjoiYjlmOTBiNjZjOGU1NjA2ZDRiMDExYzhlYjBlNzk3M2QiLCJzaG93IjoxLCJyZXF1aXJlZCI6MiwiaGVscGRlc2tuYW1lIjoiUHJlZGljdEl0IiwibmFtZV9sYWJlbCI6Ik5hbWUiLCJtYWlsX2xhYmVsIjoiRW1haWwiLCJtZXNzYWdlX2xhYmVsIjoiTWVzc2FnZSIsInBob25lX2xhYmVsIjoiUGhvbmUgTnVtYmVyIiwidGV4dGZpZWxkX2xhYmVsIjoiVGV4dGZpZWxkIiwiZHJvcGRvd25fbGFiZWwiOiJEcm9wZG93biIsIndlYnVybCI6InByZWRpY3RpdC5mcmVzaGRlc2suY29tIiwibm9kZXVybCI6ImNoYXQuZnJlc2hkZXNrLmNvbSIsImRlYnVnIjoxLCJtZSI6Ik1lIiwiZXhwaXJ5IjowLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJkZWZhdWx0X3dpbmRvd19vZmZzZXQiOjMwLCJkZWZhdWx0X21heGltaXplZF90aXRsZSI6IkNoYXQgaW4gcHJvZ3Jlc3MiLCJkZWZhdWx0X21pbmltaXplZF90aXRsZSI6IkxldCdzIHRhbGshIiwiZGVmYXVsdF90ZXh0X3BsYWNlIjoiWW91ciBNZXNzYWdlIiwiZGVmYXVsdF9jb25uZWN0aW5nX21zZyI6IldhaXRpbmcgZm9yIGFuIGFnZW50IiwiZGVmYXVsdF93ZWxjb21lX21lc3NhZ2UiOiJIaSEgSG93IGNhbiB3ZSBoZWxwIHlvdSB0b2RheT8iLCJkZWZhdWx0X3dhaXRfbWVzc2FnZSI6Ik9uZSBvZiB1cyB3aWxsIGJlIHdpdGggeW91IHJpZ2h0IGF3YXksIHBsZWFzZSB3YWl0LiIsImRlZmF1bHRfYWdlbnRfam9pbmVkX21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBqb2luZWQgdGhlIGNoYXQiLCJkZWZhdWx0X2FnZW50X2xlZnRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGxlZnQgdGhlIGNoYXQiLCJkZWZhdWx0X2FnZW50X3RyYW5zZmVyX21zZ190b192aXNpdG9yIjoiWW91ciBjaGF0IGhhcyBiZWVuIHRyYW5zZmVycmVkIHRvIHt7YWdlbnRfbmFtZX19IiwiZGVmYXVsdF90aGFua19tZXNzYWdlIjoiVGhhbmsgeW91IGZvciBjaGF0dGluZyB3aXRoIHVzLiBJZiB5b3UgaGF2ZSBhZGRpdGlvbmFsIHF1ZXN0aW9ucywgZmVlbCBmcmVlIHRvIHBpbmcgdXMhIiwiZGVmYXVsdF9ub25fYXZhaWxhYmlsaXR5X21lc3NhZ2UiOiJPdXIgYWdlbnRzIGFyZSB1bmF2YWlsYWJsZSByaWdodCBub3cuIFNvcnJ5IGFib3V0IHRoYXQsIGJ1dCBwbGVhc2UgbGVhdmUgdXMgYSBtZXNzYWdlIGFuZCB3ZSdsbCBnZXQgcmlnaHQgYmFjay4iLCJkZWZhdWx0X3ByZWNoYXRfbWVzc2FnZSI6IldlIGNhbid0IHdhaXQgdG8gdGFsayB0byB5b3UuIEJ1dCBmaXJzdCwgcGxlYXNlIHRlbGwgdXMgYSBiaXQgYWJvdXQgeW91cnNlbGYuIiwiYWdlbnRfdHJhbnNmZXJlZF9tc2ciOiJZb3VyIGNoYXQgaGFzIGJlZW4gdHJhbnNmZXJyZWQgdG8ge3thZ2VudF9uYW1lfX0iLCJhZ2VudF9yZW9wZW5fY2hhdF9tc2ciOiJ7e2FnZW50X25hbWV9fSByZW9wZW5lZCB0aGUgY2hhdCIsInZpc2l0b3Jfc2lkZV9pbmFjdGl2ZV9tc2ciOiJUaGlzIGNoYXQgaGFzIGJlZW4gaW5hY3RpdmUgZm9yIHRoZSBwYXN0IDIwIG1pbnV0ZXMuIiwiYWdlbnRfZGlzY29ubmVjdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgYmVlbiBkaXNjb25uZWN0ZWQiLCJzaXRlX2lkIjoiYjlmOTBiNjZjOGU1NjA2ZDRiMDExYzhlYjBlNzk3M2QiLCJhY3RpdmUiOnRydWUsIndpZGdldF9wcmVmZXJlbmNlcyI6eyJ3aW5kb3dfY29sb3IiOiIjNzc3Nzc3Iiwid2luZG93X3Bvc2l0aW9uIjoiQm90dG9tIExlZnQiLCJ3aW5kb3dfb2Zmc2V0IjoiMTUiLCJ0ZXh0X3BsYWNlIjoiWW91ciB0ZXh0IGdvZXMgaGVyZSIsImNvbm5lY3RpbmdfbXNnIjoiV2FpdGluZyBmb3IgYWdlbnQiLCJhZ2VudF9sZWZ0X21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBsZWZ0IHRoZSBjaGF0ICIsImFnZW50X2pvaW5lZF9tc2ciOiJ7e2FnZW50X25hbWV9fSBvZiB7e2hlbHBkZXNrX25hbWV9fSBoYXMgam9pbmVkIHRoZSBjaGF0IiwibWluaW1pemVkX3RpdGxlIjoiTGl2ZSBTdXBwb3J0IiwibWF4aW1pemVkX3RpdGxlIjoiTGl2ZSBTdXBwb3J0Iiwid2VsY29tZV9tZXNzYWdlIjoiIiwidGhhbmtfbWVzc2FnZSI6IlRoYW5rIHlvdSBmb3IgY2hhdHRpbmcgd2l0aCB1cy4gSWYgeW91IGhhdmUgYWRkaXRpb25hbCBxdWVzdGlvbnMsIGZlZWwgZnJlZSB0byBjb250YWN0IHVzISAiLCJ3YWl0X21lc3NhZ2UiOiJPbmUgb2YgdXMgd2lsbCBiZSB3aXRoIHlvdSByaWdodCBhd2F5LCBwbGVhc2Ugd2FpdC4iLCJhZ2VudF90cmFuc2Zlcl9tc2dfdG9fdmlzaXRvciI6IiJ9LCJyb3V0aW5nIjp7ImRyb3Bkb3duX2Jhc2VkIjoidHJ1ZSIsImNob2ljZXMiOnsiU3VwcG9ydCI6WyI1MDAwMTM0ODAwIl0sImxpc3QyIjpbIjUwMDAyNDg5OTIiXSwibGlzdDMiOlsiMCJdLCJkZWZhdWx0IjpbIjUwMDAxMzQ4MDAiXX19LCJwcmVjaGF0X2Zvcm0iOnRydWUsInByZWNoYXRfbWVzc2FnZSI6IlwiTmVlZCBoZWxwPyBIYXZlIHF1ZXN0aW9ucz8gUGxlYXNlIGZpbGwgaW4gdGhlIGZvcm0gYmVsb3cuIEFuIGFnZW50IGlzIHN0YW5kaW5nIGJ5IHJlYWR5IHRvIGhlbHAhXCIiLCJwcmVjaGF0X2ZpZWxkcyI6eyJuYW1lIjp7InRpdGxlIjoiTmFtZSIsInNob3ciOiIyIn0sImVtYWlsIjp7InRpdGxlIjoiRW1haWwgQWRkcmVzcyIsInNob3ciOiIxIn0sInBob25lIjp7InRpdGxlIjoiUGhvbmUgTnVtYmVyIn0sInRleHRmaWVsZCI6eyJ0aXRsZSI6Ik1lc3NhZ2UifSwiZHJvcGRvd24iOnsidGl0bGUiOiJEcm9wRG93biIsIm9wdGlvbnMiOlsiU3VwcG9ydCIsImxpc3QyIiwibGlzdDMiXX19LCJidXNpbmVzc19jYWxlbmRhciI6bnVsbCwibm9uX2F2YWlsYWJpbGl0eV9tZXNzYWdlIjp7InRleHQiOiJXZSBhcmUgc29ycnksIGFsbCBvdXIgYWdlbnRzIGFyZSBidXN5LiBQbGVhc2UgbGVhdmUgdXMgYSBtZXNzYWdlIGFuZCB3ZSdsbCBnZXQgYmFjayB0byB5b3UgcmlnaHQgYXdheS4iLCJjdXN0b21MaW5rIjoiMCIsImN1c3RvbUxpbmtVcmwiOiIifSwicHJvYWN0aXZlX2NoYXQiOmZhbHNlLCJwcm9hY3RpdmVfdGltZSI6NjAsInNpdGVfdXJsIjoicHJlZGljdGl0LmZyZXNoZGVzay5jb20iLCJleHRlcm5hbF9pZCI6bnVsbCwiZGVsZXRlZCI6ZmFsc2UsIm9mZmxpbmVfY2hhdCI6eyJzaG93IjoiMCIsImZvcm0iOnsibmFtZSI6Ik5hbWUiLCJlbWFpbCI6IkVtYWlsIiwibWVzc2FnZSI6Ik1lc3NhZ2UifSwibWVzc2FnZXMiOnsidGl0bGUiOiJMZWF2ZSB1cyBhIG1lc3NhZ2UhIiwidGhhbmsiOiJUaGFuayB5b3UgZm9yIHdyaXRpbmcgdG8gdXMuIFdlIHdpbGwgZ2V0IGJhY2sgdG8geW91IHNob3J0bHkuIiwidGhhbmtfaGVhZGVyIjoiVGhhbmsgeW91ISJ9fSwibW9iaWxlIjp0cnVlLCJjcmVhdGVkX2F0IjoiMjAxNC0xMi0wMlQwNDoyNTowMi4wMDBaIiwidXBkYXRlZF9hdCI6IjIwMTUtMDgtMThUMDA6MTY6MDAuMDAwWiJ9';</script><script type="text/javascript" src="https://d36mpcpuzc4ztk.cloudfront.net/js/visitor.js"></script>
+
 
 
 
