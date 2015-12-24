@@ -1,98 +1,56 @@
-> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316153316id_/http%3A//www.whatcounts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224121313id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WhatCounts - Enterprise Email Marketing Solutions
+# Privacy Policy - Media Temple
 
-## What This Privacy Policy Covers
+For the purposes of this Agreement, the following definitions apply and any undefined terms have the meaning ascribed to them in the context in which they are used in this Agreement:
 
-This policy covers how WhatCounts, Inc., an Atlanta corporation (“WhatCounts,” “we,” “us,” or “our”), and all of its affiliated websites, products and services, including, without limitation, www.whatcounts.com and WhatCounts (collectively, the “WhatCounts Sites, Products and Services”), treat personal information that the WhatCounts Sites, Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the WhatCounts Sites, Products and Services is not considered “personal information” and is not considered the type of information protected by a privacy policy.
+### **A. Personally-Identifiable Information:**
 
-### Information We Gather
+Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Media Temple to use this information for additional purposes.
 
-The WhatCounts Sites, Products and Services may collect personal information (such as your name, email address) when you register with them or use the particular products. We collect this information in order to register you for our services and to communicate to you for service related reasons.
+Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those Media Temple sites where you may provide Media Temple with credit card or other ordering information via the web, Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). 
 
-The WhatCounts Sites, Products and Services may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
+#### **Targeted Advertisements**
 
-The WhatCounts Sites, Products and Services use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. We will not sell, share or rent your information with any third parties unless as otherwise disclosed in this privacy statement.
+Absent any instructions from you, Media Temple may use information you provide to inform you about additional services and products offered by the Media Temple family of companies, Media Temple venture companies, Media Temple authorized agents, and other goods and services providers with whom Media Temple has relationships and whose offerings might be of interest to you.
 
-### IP Address
+#### **Supplementation of Information**
 
-The WhatCounts Sites, Products and Services may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * Estimate the total number of users visiting WhatCounts’ web sites from specific geographical regions.
-  * Help determine which users have access privileges to certain content, services or resources that we offer.
-  * Monitor and prevent fraud and abuse.
+#### **Opt-out**
 
+Media Temple customers control how and when we contact you by logging into the [AccountCenter](https://ac.mediatemple.net/) and changing your preferences. Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your Media Temple services. If you are not a Media Temple customer and wish not to be emailed about our services, please click the unsubscribe link in the email you have received.
 
+### **B. Non Personally-Identifiable (Generic) Information:**
 
-### Cookies
+In general, Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Media Temple sites visited. Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about Media Temple services). Media Temple does not combine information collected in this way with any personally-identifiable information.
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your web browser from a web site’s computers and stored on your computer’s hard drive. These data are associated with your web browser and are often stored in an area that you can inspect, modify and delete. You can also control whether your browser allows cookies to be set from the WhatCounts web sites or platform.
+You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the [AccountCenter](https://ac.mediatemple.net/).
 
-If you reject all cookies, you may not be able to use the WhatCounts Sites, Products and Services that require you to “sign in,” and you may not be able to take full advantage of all offerings. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
+### **C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
 
-The WhatCounts Sites, Products and Services use their own cookies for a number of purposes, including to:
+Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Media Temple may host for you as part of your Media Temple services, is available to anyone else who visits that space. Media Temple cannot safeguard any information you disclose in these locations. Additionally, Media Temple websites contain links to sites that belong to third parties unrelated to Media Temple. Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
 
-  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-  * Keep track of preferences you specify while you are using the WhatCounts Sites, Products and Services.
-  * Estimate and report our total audience size and traffic.
-  * Conduct research to improve the content and services provided on the WhatCounts Sites, Products and Services.
+On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
 
+#### **Lucky Orange Web Analytics Service**
 
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>. Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
 
-### Web Beacons
+### **D. Exceptions and Limitations:**
 
-This site uses web beacons and other, related, tracking mechanisms to aid us in analyzing traffic to our site. We primarily utilize analytic tools provided to us by Google but may also enlist resources from other vendors. These tools give us a high-level overview of traffic patterns but do not reveal to us user-identifiable information.
+Notwithstanding the foregoing and in compliance with applicable laws, Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Media Temple may be required to disclose personally identifiable information. In addition, Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Media Temple; or (iii) to protect the rights or property of Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, Media Temple reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by Media Temple; and (iii) agrees to the obligations of this policy statement.
 
-### Information Use, Sharing and Disclosure
+### **E. Transfer of Data Abroad:**
 
-The WhatCounts Sites, Products and Services do not share personal information we learn about you from your use of the web sites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes.
+If you are visiting this site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this site and communicating electronically with us, you consent to such transfers. 
 
-The WhatCounts Sites, Products and Services may use or share your personal information where it is necessary to complete a transaction, to operate or improve the WhatCounts Sites, Products and Services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest.
+#### **Contacting Us**
 
-Where you are contacted with an offer or service based on information you have shared with any WhatCounts Site, Product and/or Service, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted, however, in connection with any of our paid products and services (i.e., products or services that you license or use for a fee), we reserve the right to send you certain communications relating to those products and services, such as service announcements and administrative messages that are considered part of your WhatCounts account, without offering you the opportunity to opt-out of receiving them. If you decide to opt-out of receiving our promotional communications such as the WhatCounts Newsletter, you may send us an email at support@whatcounts.com to unsubscribe.
-
-The WhatCounts Sites, Products and Services may share personally identifiable information about you under the following circumstances:
-
-In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate the WhatCounts Sites, Products and Services and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others’ use or disclosure of the information you have shared.
-
-We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate.
-
-We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law.
-
-As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented. In these circumstances we will notify you of this business transition 30 days prior to the transaction taking place.
-
-If you use participate on our blog, linked through this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by others, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information, such as your email address, that you may choose to submit through blog submissions and comments and encourage you to refrain from revealing those details.
-
-### Safe Harbor Data Privacy Notice
-
-WhatCounts Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. WhatCounts Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view WhatCounts’ certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/)
-
-### Changes to this Privacy Policy
-
-WhatCounts may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular WhatCounts account or by placing a prominent notice on our site.
-
-### Confidentiality and Security
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems. We use physical, electronic, and procedural safeguards to protect personal information about you. Your account information is password-protected.
-
-If WhatCounts learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the WhatCounts Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@whatcounts.com.
-
-### Changing your Preferences and Personal Information
-
-You can edit your account information with an applicable WhatCounts Site, Product and Service at any time. Most personal information you may provide is entirely optional.
-
-You can delete your applicable account by contacting WhatCounts’ support team through email at support@whatcounts.com; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements. The easiest way to access your information for the purpose of updating it is to visit your profile page.
-
-### Contacting WhatCounts
-
-If you have a privacy concern regarding any WhatCounts Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@whatcounts.com. Alternatively, we can be reached at our postal mail address:
-
-WhatCounts, Inc.  
-3630 Peachtree Road, Suite 900  
-Atlanta, GA 30326  
-Attention: Privacy Officer
-
-If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our business practices. In some instances, honoring your requests may interfere with or preclude your ability to use the WhatCounts Sites, Products and Services or may require us to terminate our relationship with you.
-
-Effective Date: March 15, 2010.
+**Media Temple**  
+8520 National Blvd.  
+Culver City, CA, USA  
+P: 877.578.4000   
+[legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net)
+  *[P:]: Phone
