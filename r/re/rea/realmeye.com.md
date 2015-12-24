@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmeye.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054651id_/http%3A//www.realmeye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmeye.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224181504id_/http%3A//www.realmeye.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RealmEye.com
 
@@ -18,4 +18,6 @@ We also use Google Analytics, a web analytics service provided by Google, Inc. (
 
 You can choose to disable or selectively turn off the third-party cookies in your browser settings, or by managing preferences in external internet security programs.
 
-We have placed cookies on your computer to help make this website better. You may delete and block cookies from this site via your web browser, but parts of the website will not work.
+Follow [this link](https://www.google.com/intl/en/policies/privacy/partners/) to learn more about how Google may use your data.
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. 
