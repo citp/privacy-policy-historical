@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblereasons.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626064103id_/http%3A//biblereasons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblereasons.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224181343id_/http%3A//biblereasons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
