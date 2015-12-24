@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617000428id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003644id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
 
 # L.L.Bean: Your Privacy Rights
 
@@ -85,7 +85,7 @@ Freeport, ME 04033
 
 So that we can be sure to identify you correctly, please be sure to provide us your exact name and address, or the mailing label from your catalog. Because mailings are planned in advance, it may take several weeks for your request to become effective. If due to human error you continue to receive unwanted communications, please contact us again, and we will make every effort to correct the situation.
 
-To opt-out of direct personalized advertising on the Internet from L.L.Bean, click here. 
+To opt-out of direct personalized advertising on the Internet from L.L.Bean, click here.
 
 **Third Party Catalog Opt-Out Services**
 
@@ -124,7 +124,7 @@ We may also send promotional emails about products, special offers, services or 
  return to top
 
 **Direct to Business Preferences**  
-Please note that the [My Account](https://www.llbeanbusiness.com/llbean/myaccount/login) section of our Direct to Business Web site, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
+Please note that the [My Account](https://www.llbeanbusiness.com/llbean/login) section of our Direct to Business Web site, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
 
 L.L.Bean, Dept. CFM  
 Freeport, ME 04033  
