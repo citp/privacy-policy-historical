@@ -1,80 +1,55 @@
-> *The following text is extracted and transformed from the ragestream.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragestream.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224134759id_/http%3A//ragestream.com/footer/pp/index.html) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+1\. Our Privacy Commitment 
 
-**What information do we collect?**
+1.1 Statement of Intent. This website respects and upholds an individual's right to privacy and to protection of his or her personal information. 
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+This Web Site Privacy Policy (“Policy”) is intended to comply with International Federal Privacy Laws including the Personal Information Protection and Electronic Documents Act (S.C. 2000, c 5) and the ten key principles of the International Standards Association Model Code for the Protection of Personal Information. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+This Policy applies to all visitors to this website
 
-**What do we use your information for?**
+1.2 Personal Information. "Personal information" is personally identifiable information such as your name, residential address and email address and includes information about any services or products you may subscribe for or acquire from us, credit card information and billing records. Personal Information is collected by this website only when you, as a visitor to our Webpage, specifically and knowingly choose to provide it to us. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+Publicly available information, such as a directory listing of your name, address, telephone number and electronic address is not considered personal information. 
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+2\. Collection and Use of personal information 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+2.1 Non-Personal Information. When you browse through this web site, you do so anonymously. We do not collect personal information about you unless you voluntarily provide it to us by interacting with the site or submitting an inquiry to us. Our servers automatically log information about visits to this web site in the normal course of establishing and maintaining web connections. The server logs record statistical information, such as visitors’ IP addresses, time and duration of visit, and web sites visited. We collect this information so that we may continuously improve our web site content. These statistics are reported in aggregate form only. We do not link server log information to any other data in a way that would enable us to identify individual visitors. 
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+2.2 Submitting Inquiries. You may submit an inquiry to us through the "Contact Us" portion of the site. We may ask for certain personal information such as your name, e-mail address, and so on. We collect this information in order to enable us to respond to your inquiries in as thorough a manner as possible. 
 
-• To process transactions
+2.3 Purposes for Collection, Use, and Disclosure. If you do provide us with personal information, we will use the personal information to communicate with you and provide you with requested information. We may also use personal information to provide you with more information related to our services and organization. 
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+2.4 Consent. The provision of personal information by a visitor to our web site constitutes consent for us to collect, use, and disclose personal information for the purposes stated in this Policy. You may also withdraw your consent to any further collection, use or disclosure of personal information which you may have provided at any time by giving us prior reasonable notice. 
 
-• To send periodic emails
+2.5 Release of Personal Information. Unless you specifically authorize us to release your personal information, or release is required or permitted by law, we will not sell, lease or trade your personal information to other third parties. Anonymous or “non-personal” information we gathered through your use of our web site may be used for technical, research and analytical purposes. We do not use or disclose personal information for any purposes other than those for which it was collected, except with your consent or as required by law. Personal information is retained only as long as is necessary for the fulfillment of the purposes for which it was collected, or as required by law. 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+2.6 Accuracy. We will make all reasonable efforts to ensure that personal information is as accurate, complete, and current as required for the purposes for which it was collected. If you find any inaccuracies in our information, please inform us and we will make the appropriate corrections promptly. 
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+3\. Web Site Matters
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+3.1 Cookies. "Cookies" are a feature of every Internet software browser and are used to collect information anonymously and to track user patterns on a web site. A cookie is a small text file that is placed on the hard disk drive of your computer by a web site. Cookies contain a unique identification number that identifies your browser, but not the visitor, to our computers each time you visit our web site. Cookies tell us which pages of our web sites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our website. Cookies are used to establish a user session and allow our computers to correctly provide visitors to our web site with the appropriate frames and content. Our cookies will not follow your travels on the World Wide Web. 
 
-**How do we protect your information?**
+3.2 Security. Our web site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to ensure the safety of your personal information. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+3.3 Links to Other Web Sites. Our web site contains links to other web sites. We are not responsible for the privacy practices or the content of such other web sites and expressly disclaims all liability associated with your use of and the content of such other sites. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+4\. Rights, Access and Changes 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+4.1 Accountability. We are accountable for all personal information under its control. 
 
-**Do we use cookies?**
+4.2 Access. You have the right to access your personal information under the website's control. Upon request, you will be informed of the existence, use, and disclosure of your personal information and you will be given access to that information. Except in limited circumstances, as specifically provided by applicable privacy legislation, we can tell you whether we hold personal information about you. We will only refuse access to information about you in those circumstances permitted or required by applicable privacy legislation. If we refuses access to you, reasons for such refusal will be provided. Exceptions may include information that contains references to other individuals or information that cannot be disclosed for legal or security reasons. 
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+4.3 Revisions to this Privacy Policy. The development of our policies and procedures for the protection of personal information is an ongoing process. Due to changes in technology and legal requirements, we may revise this policy from time to time. Please ensure that you refer to the current version of our Privacy Policy.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+[](http://www.inwin-style.com/en/goods.php?act=view&id=D-Frame)
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+[](http://signup.leagueoflegends.com/)
 
-**Do we disclose any information to outside parties?**
+[](https://us.battle.net/account/download/?show=hearthstone&style=hearthstone)
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+[](https://minecraft.net/store/minecraft)
 
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+[](https://us.battle.net/account/creation/wow/signup/)
