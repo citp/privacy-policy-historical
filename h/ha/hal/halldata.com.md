@@ -1,28 +1,165 @@
-> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111150734id_/http%3A//halldata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halldata.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224063040id_/http%3A//halldata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hallmark Data Systems
 
-**Acceptable Email Usage Policy**. Hallmark Data Systems maintains an acceptable email use policy (AUP) with all customers broadcasting email through Hallmark’s system. For further details, please refer to the [AUP](http://halldata.com/aup/ "AUP"), for a description of Hallmark’s email policy.
+Last modified: 12/18/2014
 
-**Collection of Information.** We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill a specific request by the visitor. We provide some of our product and service offerings through contractual arrangements made with publishers of print and digital media, service providers and other third parties (“Service Partners”). We and our Service Partners may need to use some personal information in order to perform tasks between our respective sites, or to deliver products or services to you. We encourage our Service Partners to adopt and promote strong privacy policies. However, the use of your personal information by our Service Partners is governed by the respective privacy policies of those providers and is not subject to our control. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through this site, including our advertising and Service Partners, have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties.
+**Introduction**
 
-**Cookie/Tracking Technology.** Our site may use cookies and other tracking technology depending on the features offered. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies enable us to track and target the interests of our users to enhance the experience on our website. Cookies and other tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help customize the site for visitors. Personal information cannot be collected via cookies and other tracking technology. We do not link the information collected through cookies or other devices to personal information that users submit online while participating in our activities. Users can set their browsers or third party software to reject cookies, but the user may be unable to use portions of our website as a result.
+Hallmark Data Systems (halldata.com)
 
-**Distribution of Information**. Hallmark Data Systems does not directly share information with any third parties or agencies; however we may have the need to share personally identifiable information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+We respect your privacy and are committed to protecting it through our compliance with this policy.
 
-**Commitment to Data Security**.Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. All access to information for publications is secured to a userid/password authentication schema for our customers. Access to the brand specific data is controlled by the customer and implemented through the standard application level security and services enablement system (manage users access). Hallmark Data Systems routinely monitors access levels, as well as questionable and unauthorized access to personal information systems. Customer data is stored on secured systems.
+Included in this policy are the types of information we may collect from you or that you may provide to us upon visiting our website [halldata.com](http://www.halldata.com/) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-**Credit card Data Security**. When processing certain information, such as payment information with affiliated banking institutions or payment processors, we encrypt the transaction using Secure Sockets Layer (SSL) encryption technology in order to prevent your personal information from being stolen or intercepted.  Additionally, your credit card information is encrypted and stored on a restricted-access database that is away from our main site and only accessible by authorized users.
+This policy applies to information we collect:
 
-**Collection and Use of Information from Children: Information for Parents**. Our site is not directed toward children and is not designed to collect personal information from children. You must be at least 18 years old to have permission to use this website. Our policy is that we do not knowingly collect, use or disclose personal information about minor visitors.
+  * On this website
+  * In email, text, and other electronic messages exchanged between you and this website
+  * Through mobile and desktop applications you download from this website, which provided dedicated non-browser-based interaction between you and this website
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy
+  * Any other sources
 
-**How to Correct Information** : We want to assure you that you have access to your personal information that we collect and store. You may correct or amend information, or delete information that is inaccurate, or prevent your information from being used for purposes other than those for which it was originally collected. To do so, please contact us by written request or e-mail at the contact information stated below.
 
-**Effective Date**. This policy was last updated on July 15, 2013.
 
-**Privacy Contact Information**. If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-Security Officer  
-7300 N. Linder Ave.  
-Skokie, IL 60077-3217  
-Tel (847) 983-2000 Fax (847) 763-9593  
-Email: [contact@halldata.com](mailto:contact@halldata.com)
+It does not apply to information collected by:
+
+  * Us offline or through any other means, including on any other website owned by Hallmark Data Systems or any third party; or
+  * Any third party, including through any application or content (including advertising) that may link to or be accessible from the website
+
+
+
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using our website, you agree to this privacy policy and our policies and practices. Periodic changes to this policy may be made to the website (see _Changes to our Privacy Policy)_. Please check our policy for periodic updates as continued use of the website is deemed to be an acceptance of changes.
+
+**Children Under the Age of 13**
+
+Our website is not intended for use by children under 13 years of age. We do not knowingly collect or accept personal information provided from children under 13. If you are under 13, do not use or provide information to this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, that information will be deleted. If you believe we might have any information from or about a child under 13, please contact us at 847-983-2000.
+
+**Information We Collect About You and How We Collect It**
+
+We collect several types of information from and about users of our website, including:
+
+  * Personally identifiable information, such as name, phone number, postal and email address, or any other information we collect that is defined as personal or personally identifiable under an applicable law
+  * Information about you but does not identify you as an individual
+  * Information about your internet connection, equipment used for site access, and usage
+
+
+
+This information may be collected:
+
+  * Directly from you when you provide it to us, and may include: 
+    * Information provided by filling out website forms, such as registration, service subscription, posts, request for services, contest entry, and others
+    * Records and copies of correspondence or methods of contact, such as survey responses, transactions, search queries, and others
+    * User contributions that are displayed or posted on public areas of the website or transmitted to other website users
+
+
+  * Automatically as you use our site, and may include: 
+    * Data relating to traffic, location, and other resources that you use to access and use our website
+    * Information about your computer and internet connection, including IP address, operating system, and browser type
+    * Behavioral information about your online activities over time and across third-party websites or other online services
+
+
+
+Technologies used for automatic data collection and advertising may include browser cookies, flash cookies, or web beacons. For more information about managing your privacy and security settings, see _Choices About How We Use and Disclose Your Information_. We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or information that you provide to us.
+
+  * From third parties, including our business partners and Google
+
+
+
+**Third-Party Use of Cookies and Other Tracking Technologies**
+
+Some content or applications, including advertisements, on our website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties, such as Google and others, may use cookies and other tracking technologies to collect information about you when you use our website. This information may be used to provide you with interest-based or behavioral advertising or other targeted content.
+
+We do not control third party tracking or how they use collected data. If you have any questions about an advertisement or other targeted content, contact the responsible provider directly. For information about opting out of receiving targeted advertising from many third parties, see _Choices About How We Use and Disclose Your Information_ or visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed). For information about opting out of Google’s use of cookies, visit Google’s [Ad Settings](https://support.google.com/ads/answer/2662922?hl=en).
+
+**How We Use Your Information**
+
+We use information that we collect about you or you provide to us, including personal information, to:
+
+  * Present our website and its contents to you and notify you of any changes
+  * Provide you with requested information, products, or services
+  * Provide you with notices related to your account or transactions
+  * Carry out obligations and enforce our rights arising from any contracts entered into between you and us, including billing and collection
+  * Provide interactive features for your participation
+  * Fulfill any and all other purposes with your consent
+
+
+
+We may also use this information to contact you about our own and third party goods or services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data or adjust your user account preferences. For more information, see _Choices About How We Use and Disclose Your Information_.
+
+We may also use this information to display advertisements to our advertisers’ target audiences. While we do not disclose your personal information for these purposes without your consent, clicking on or otherwise interacting with an advertisement may indicate to the advertiser that you meet its target criteria.
+
+**Disclosure of Your Information**
+
+We may disclose aggregated information about users and information that does not identify any individual, without restriction.
+
+We may disclose personal information collected as described in this privacy policy:
+
+  * To our subsidiaries and affiliates
+  * To contractors, service providers, and other third parties used to support our business
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets
+  * To third parties contractually bound to obligations of confidentiality and use, to market their products or services if you have consented to/not opted out of these disclosures. (For more information, see _Choices About How We Use and Disclose Your Information_
+  * To fulfill the purpose for which you provide it, such as an “email a friend” feature
+  * For any other purpose disclosed by us when you provide information
+  * With your consent
+
+
+
+In addition, we may disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including response to government or regulatory requests
+  * To enforce or apply other agreements
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Hallmark Data Systems, our customers, or others
+
+
+
+**Choices About How We Use and Disclose Your Information**
+
+We strive to provide you with choices regarding the personal information you provide us. To exercise control over your information, we have provided you with the following mechanisms:
+
+  * **Tracking Technologies and Advertising.** You can adjust your browser settings to manage cookies. To manage Flash cookie settings, visit the Flash player settings page on [Adobe’s website](http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html#WS6aa5ec234ff3f285139dc56112e3786b68c-7ffe)
+  * **Disclosure of Your Information for Third-Party Advertising.** You can opt-out of information sharing by adjusting your account preferences or emailing us requesting that we not share personal information for promotional purposes
+  * **Promotional Offers from Hallmark Data Systems.** If you do not want to receive promotions from us or third parties, you can opt out by adjusting your account preferences or emailing us requesting that we not contact you
+  * **Targeted Advertising.** If you do not want us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your account preferences or email us. You can also adjust your Google [Ads Settings.](https://support.google.com/ads/answer/2662922?hl=en)
+
+
+
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these parties may provide opt-out options, such as the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed).
+
+**Accessing and Correcting Your Information**
+
+To review and change your personal information, you can visit your account profile page on our website or email us your request. We cannot delete your personal information without deleting your user account. We may not accommodate your request if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your user contributions to the website, copies may remain viewable in cached or archived pages, or copied or stored by other users.
+
+**California Privacy Rights**
+
+California Civil Code Section § 1798.83 allows California residents to request certain information regarding disclosure of information to third parties for direct marketing purposes. To do so, please write us at:
+
+Hallmark Data Systems  
+Attn: Customer Service Department  
+7300 N. Linder Ave  
+Skokie, IL 60077
+
+**Data Security**
+
+To secure your personal information from accidental loss or unauthorized access, use, alteration, or disclosure, all information you provide to us is stored on secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+As a user, you are responsible for the use and protection of your password and any information you share in public areas of the website, such as message boards or comment boxes. Any transmission of personal information to our website is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website.
+
+**Changes to Our Privacy Policy**
+
+We post any and all changes to this privacy policy on this page with the date of last revision at the top of the page. If any material changes are made to how we treat users’ personal information, we will notify you through a notice on the website home page. You are responsible for ensuring that we have an accurate and deliverable email address for you, and for periodically visiting our website and this privacy policy to check for any changes.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy or our privacy practices, contact us at:
+
+Hallmark Data Systems  
+Attn: Customer Service Department  
+7300 N. Linder Ave  
+Skokie, IL 60077
+
+or via our toll-free number:
+
+847-983-2000
