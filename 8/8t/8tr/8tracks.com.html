@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2015-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617015551id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224235341id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 if (window.console && typeof(window.console.log) == 'function') {
@@ -15,12 +15,18 @@ if (window.console && typeof(window.console.log) == 'function') {
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta http-equiv="imagetoolbar" content="no">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <meta name="HandheldFriendly" content="true">
+
 
   <meta property="og:site_name" content="8tracks">
   <meta property="fb:app_id" content="166738216681933">
   <meta property="fb:admins" content="500734952">
 
   <meta name="google" content="notranslate">
+
+  <meta name="apple-itunes-app" content="app-id=346194763">
+  <link rel="manifest" href="/public/m/manifest.webapp">
 
       <title>Privacy policy | 8tracks radio</title>
       <meta name="description" content="Listen to the best internet radio, crafted by people who know and love music.  Or legally share your own online mix, a streaming playlist with 8 or more tracks.">
@@ -30,22 +36,31 @@ if (window.console && typeof(window.console.log) == 'function') {
 
 
 
+
   <meta name="robots" content="index,follow">
   <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/brand/favicon-144.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/brand/favicon-114.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/brand/favicon-72.png">
-  <link rel="apple-touch-icon-precomposed" href="/images/brand/favicon-57.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/favicon/favicon-144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/favicon/favicon-114.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/favicon/favicon-72.png">
+  <link rel="apple-touch-icon-precomposed" href="/images/favicon/favicon-57.png">
   <link rel="search" type="application/opensearchdescription+xml" href="http://8tracks.com/opensearch.xml" title="8tracks">
 
   
 
-    <link href="//dmuuhinfkryqs.cloudfront.net/assets/application-68e857282a9e80c4d55200563c94153e.css" media="screen" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" media="screen" href="//dmuuhinfkryqs.cloudfront.net/assets/application-0b02ebca69731a0804e5084329905f2bfdca5eb3975c210faa835c53b2a9f0f9.css">
 
-
-  <link href="//dmuuhinfkryqs.cloudfront.net/assets/_help-8b119a118b53f8ce4832cc8fbba43bc4.css" media="screen" rel="stylesheet" type="text/css">
+  
 
   <meta name="p:domain_verify" content="bd4e0544263cc36b5f9aae7840920ca2">
+
+
+  <script>
+    ga_universal = true;
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
 </head>
 
 
@@ -56,6 +71,8 @@ if (window.console && typeof(window.console.log) == 'function') {
 //<![CDATA[
     PAGE = {}; // used for legacy code
 
+    PAGE.experiments = {};
+
     SOUNDCLOUD_CLIENT_ID = '3904229f42df3999df223f6ebf39a8fe';
     GOOGLE_CLIENT_ID = '745447711784.apps.googleusercontent.com';
     FMA_API_KEY = 'P412SCI2RWQJ5DMF';
@@ -65,7 +82,9 @@ if (window.console && typeof(window.console.log) == 'function') {
     MIXPANEL_API_KEY = 'dadf933344ddfcca08de04377cbaf811';
     PREROLL_ENABLED  = true;
     MASTHEAD_ENABLED = true;
+    SPOTLIGHT_ENABLED = true;
     IMGIX_PREFERRED_SIZES =  [56, 100, 200, 320, 400, 640, 750, 960, 1024, 1280, 1536, 2048];
+    RESPONSIVE_API_KEY = '091f44be7c042dec51be723d6f9ec8cd2210e6bd';
 
     App = {
       Collections : {},
@@ -80,6 +99,9 @@ if (window.console && typeof(window.console.log) == 'function') {
     };
 
 
+  if (window.navigator.userAgent.match(/iphone|ipod|android|Ubuntu; Mobile/i)) {
+    App.api_key = RESPONSIVE_API_KEY;
+  }
 
   //window.devicePixelRatio = 2;
   window.dpr = window.devicePixelRatio;
@@ -125,6 +147,8 @@ if (window.console && typeof(window.console.log) == 'function') {
   };
 
   external_image_url = function(src, size){
+    size = size * window.dpr;
+
     if (src.match('last.fm')) { //LAST.FM
       var sizes = [50, 64, 85, 126, 252, 500];
       var i = 0;
@@ -157,6 +181,18 @@ if (window.console && typeof(window.console.log) == 'function') {
                     '</style>');
   }
 
+  // these init calls are conditionally duplicated in Events.js 
+  // for ease of use on embeds and mobile web
+  var ga_profile_id = "UA-2865123-1";
+  var ga_defaults = 'auto';
+  if (App.env == 'development') {
+    ga_defaults = { 'cookieDomain': 'none' };
+  }
+
+  ga('create', ga_profile_id, ga_defaults);
+  ga('require', 'displayfeatures');
+  window.ga_initialized = true;
+  
  
 //]]>
 </script><style id="initial_a_b_test_styles" type="text/css">.a_b_test_initially_hidden { visibility: hidden; }.a_b_test_initially_not_displayed { display: none; }</style>
@@ -165,7 +201,7 @@ if (window.console && typeof(window.console.log) == 'function') {
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
 
 
-<script src="http://dmuuhinfkryqs.cloudfront.net/assets/libs-aa9119ba76f2585c738b298d9c36675f.js" type="text/javascript"></script>
+<script src="//dmuuhinfkryqs.cloudfront.net/assets/libs-22ff0fbd2821224ecd7d2350580df4b176a65fa4c5c2e7a9be68d5d274e887b5.js"></script>
 <script>
   // Defines the configuration options, these must be set before you load
   // the plusone.js file.
@@ -189,74 +225,187 @@ if (window.console && typeof(window.console.log) == 'function') {
 <script src="//apis.google.com/js/client:plusone.js?onload=firstGooglePlusLoad"></script> 
 
 
-        <script>var require = {"baseUrl":"/assets","paths":{"global_trax":"http://dmuuhinfkryqs.cloudfront.net/assets/global_trax-10d7b157766fdf5746f3f42fa6690488","initializer":"http://dmuuhinfkryqs.cloudfront.net/assets/initializer-ac7b78d09c7a896cd0ea634d92e41e1d","pages/favorite_tracks":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-b23c94766eeb3d040889e1cd13d8049e","pages/reviews":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-d04dcba1a623275cb6d942263e2070fa","pages/follows_users":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-00c8a821f023caf43c21d9af7839837a","pages/home_first_time":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_first_time-f3e02035f46e20f76678ee8b3401746d","pages/home_returning":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_returning-ac9b0fc5900c27dfecc048e6ba1fa703","pages/home_logged_in":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_logged_in-e57341c3dd3c2daf80040179d789ec3a","pages/mixes_index":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-4e45f87f245e6bec49045f748bde5c1d","pages/mixes_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-7332461a7dbbd0b47121bc7e5d4f4cef","pages/mixes_stats":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-a582968313ee146fffcf0902e06be652","pages/collection_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-c2b754fbdfe098a9b9056ef5ecbbe345","pages/users_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-eb4f832c8c6931dfa659b3a77670db95","pages/users_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-1f1cc2ff9212d56509937631fd1abb7c","pages/iphone":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-47ac568c4a1caf9bf1d413e3c21b1d0b","pages/android":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/android-74ac9af519bd64c05e922c6e916abfb7","pages/track":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/track-26ffbef55e341891fe24cd89030b239e","pages/player":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/player-fb23de9492d8c7baca0e22b524d114ff","pages/news_feed":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-3729233a749f9676cb90772fe7346947","pages/notifications":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-426c6c55de1eb35bf3c7cbba2a25a7f5","pages/search_results":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-d8821beb0062702e1212d52ea022b73a","pages/mixmadness":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixmadness-d1b85f7addfc50de2e0d77d0535d7361","pages/mobile_tips":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-12adb079896d03b94a32cc602eb0362b","pages/mix_set_debug":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-7b81a08577986d80ca6588e00dd99702","views/moderator_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-1f9f0033f8300b3955084af73934fdf2","views/mix_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-eb805c65e3a03ed9883c65e5be38afe0","views/embed_mix_lightbox_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-7605defe209b91fa18507ca280436e45","views/faq_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-e25f6f835fc285923b286fae79b82d09","views/signup_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-5657352d076731b625cbfea4debbb795","views/troubleshoot_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-eb570554bf81735e86af673c809c59f4","views/basic_upload_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-4ffe26aeed37919d0f578d85e8ead44f","views/google_plus_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-449969fa6074996a0a8a4ae4859d082f","views/mix_recommend_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-a4011a1aaa27af0a2ee81142cfacad99","views/preroll_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-01315d9230a2ced903f5793491fed5b0","views/autocomplete_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-4abdf409601008f45c0585be6941a6fd","views/mix_stats_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-1bdb73d5be5b29ed8906df2f8bb4a7b7","views/8888_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-53f2790841a197d7e85c98b67fc2e395","views/admin/users_admin_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-9f5e5cabd41a351fd65be0b120f8b210","views/admin/admin_tag_searches_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-040dee6a7f609a42f0ddf7af8589265d","views/admin/admin_tag_mappings_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-911228baf5455a9a280b8af5120f87ec","views/admin/explore_filters_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-c4773faafb689e4f5982b1b69cc81065","views/admin/admin_identified_tracks_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-46efc60959fa30132254d5cc1302a7d1","views/admin/reviews_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-e324221c4c032ca9452f6b3f4f35ae15","views/admin/translations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-c0eb48be732750e3960d0293ac808a67","views/admin/faq_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-f057572c9cea1df655a0098b55e93f5a","views/admin/reports_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-73542df6a7394591227d8560ee701248","views/admin/orders_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-26867b996addef377bcca37a4bde2f43","views/admin/page_optimizations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-d08198394743e124c83e34a99f666627","views/admin/soundcloud_identifier_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-08858f6e393729240f11a6256c637e08","views/nsfw_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-378e3e25d520f22ecbc7d69c91c75aa6","views/next_mix_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-e158d15720949f267baa7da9e4a1cf16","views/tshirt_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/tshirt_view-2c134927263121abdc9b6ed946d46552","views/checkout_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-0bb5b214c61773eb07a221f4092f1b2d","views/fb_player_iframe_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-ee8032d90b25f845e31fb01775d21339","ima":"https://s0.2mdn.net/instream/html5/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"select2":{"exports":"jQuery.select2"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60};</script>
-      <script src="http://dmuuhinfkryqs.cloudfront.net/assets/require-cb453b006abf29cbab54a285599aa7bd.js"></script>
+<script src="//dmuuhinfkryqs.cloudfront.net/assets/require-a70e7c2927a09b7dd9f6a1a617908c126eb297d7b6316606fdbe4ee222cf6d06.js"></script><script>require.config({"baseUrl":"/assets","paths":{"global_trax":"//dmuuhinfkryqs.cloudfront.net/assets/global_trax-16df8ed5800ebefeb187b166441cb8107099f5f86bfa7606f9e70761aaadbf45","initializer":"//dmuuhinfkryqs.cloudfront.net/assets/initializer-45e05cbd4563c471e708bdb8b041ed9f17602f7a12d3527c8e71d5fe6e8847e4","pages/favorite_tracks":"//dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-81b9acb3b07336272c93e0e592ad2a248706978c1b56f7f2e79a19cf3dc13195","pages/reviews":"//dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-12922930382c5375bc661df57fef29c7abf5c8c65e9bc66fdb9e098d365397b6","pages/follows_users":"//dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-238c19db05afd11dbd5416251cf7ffc0dbffcc32e35c9d84864b95dd094ce933","pages/home_first_time":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_first_time-d32ff25f925eb2f7bbddb9e6a066fbc7e8b6ce79a9cb6ee83074b3922f617dd1","pages/home_returning":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_returning-2ff444ce80ff4073520069f5bfcb51d60f4e5eb816bc5f4c709fcec3a1fec84d","pages/home_feed":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_feed-a76da1155c7e2eb41a31b7f8ca8eda0a7871e7ad88844017fe4fb37b80684547","pages/mixes_index":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-8f58ce847f9cb8ba4d0d0514e0ba8be17e7bfe9702c29b45b1e68b229d55699f","pages/mixes_show":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-e025058d8faca62235976b6d92a358e91b521bce29db91b92ef674666a7f033f","pages/mixes_stats":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-987f9e8ed7929f1915e10e5298b823ff2f93c92d715464e5285c8f5959e89a66","pages/collection_edit":"//dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-84a23b2494372e30ab7dbf4214ed9694059b363a814d258d9d57fe003803493d","pages/users_edit":"//dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-1ca60ddc09d2d18c88aca2330e50f74622fb018c4c3cd811fa470b6bc25dbb9c","pages/users_show":"//dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-d8b869c32e5fd5140384915aba150c645f77720d08831c015a33a4254f047cc6","pages/iphone":"//dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-86e8a38f856b660dbfa57f7d40163fef3ff77ba92204fb608d3a70cb73bde36f","pages/android":"//dmuuhinfkryqs.cloudfront.net/assets/pages/android-8e7c531c0fa0f281350b1e242984880297169de7eb15b3ac59d64c97f5ce976f","pages/track":"//dmuuhinfkryqs.cloudfront.net/assets/pages/track-a2ed8d3b50cdf58e778f58de8ce29899b2c8139a0a0debe34f436259a7dee644","pages/player":"//dmuuhinfkryqs.cloudfront.net/assets/pages/player-28eb8fb141087b8633ed235e0cd31f106969142bf5d1fcc2f115a2f0b3c147e7","pages/news_feed":"//dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-a3cc2c427b7cd945fcc8e77f119c29220829492cc72f4a51a012a2a28bc6c561","pages/notifications":"//dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-8e225219830e6a0304012373568c92070831fc911feb048e82eb4b22fdb3e1a9","pages/search_results":"//dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-c6b12584d35ae8337e5450af39768787fcf3bca2f2ed99bbcaaa68e23c60b1d1","pages/mixmadness":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixmadness-d25a81a86d970c12289b70074d559340624c717a5987c5f436f63c7e9d8cc4aa","pages/mobile_tips":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-f16dfe74002a2d6d600b1d00874c65e8748251f47a11f04f39c834aa8a5cefd2","pages/mix_set_debug":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-1f07d7a9298441e76521412d7468d88d695cfc65881b105251ff69e592a094b7","views/moderator_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-d797fc51c56b5a3f099f7b55f89f2b2c566d0242945ae0fb5564087059f47da4","views/mix_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-92d1c9d489152c4ec0ab9a906a6d73e0b3c26071c3dbd939018b7907530e127d","views/embed_mix_lightbox_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-676df667529fe0c4db89c39deae06e6a4e797a11d97977a2a6b784b81ef67e3a","views/signup_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-a8f3cba48d5ff961b1fa8df4360383f8e3833101e2563b75c728e033007fb668","views/basic_upload_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-71c7b188d02d7fb0da8c068456f8301a21f6b0c979a36b7c75ae24298cb73af2","views/google_plus_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-171d01662f58f617191d3909ca06c68da6029df689ce9723b01a7302478b5fbe","views/mix_recommend_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-88c8bee2c7d7a35daade39a796ab3c47d4154098c73e2680c3de24544d6b48af","views/preroll_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-438454a56ec165bd9660a836f6b32d41d506c8ec39f3b96e15acf0ffd31b7d34","views/autocomplete_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-bcf32576af3d96f5257b2cc5fcab18a50d1fe3579a9c7c149b83116964621f13","views/mix_stats_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-e49f9c6050323e1ca2a57369e274377e263095c6fa659413c0965f8732553afa","views/8888_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-6a308683a7bdb24b4ff0a247bb6915d6b89c84b955fc41192cb9d3ed077d4efd","views/carousel_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/carousel_view-0d411fae0af22724667e110abd2809182c8bf53318660021182b159d01587385","views/onboarding_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/onboarding_view-4ab488bbe5dda5c989518097934fdb9aa86f21de0238c0954cc7d070bbadd95b","views/admin/users_admin_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-b06c66b9f649e0c335bc7e008dde0072ae1f7ea43da75253bc733302cfe58de1","views/admin/admin_tag_searches_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-4134184f7830f9ff7ddc9b9180b44859dd551975bca289cae716379b24ea7124","views/admin/admin_tag_mappings_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-4aa28165f1fd2324d19fc42428bcdc60f79532654b371e6aca7e67edf6f1c8d1","views/admin/explore_filters_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-fd404f29cec69cd0d80d7ac79a92baedb9d84fbb4db98f37f2bfba8392718b77","views/admin/admin_identified_tracks_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-e5710c4346403b1f9a25d161be2ae8b20def8525fa9a8dbfccbf4dfc6f898cb8","views/admin/reviews_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-427accff941b61237f0477957281528e5afc773350182225e57f16fa314d9003","views/admin/translations_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-28fe4d9d5a24ae04217665f3f73ad9ca7e4071e3e67a07bf29609aa6427ba901","views/admin/faq_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-7e16c8c4080a34a6d39ba732592c48cebe5c542a1f5c5dc684c347798cf36c19","views/admin/reports_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-d5c6274395fcc421445ba8d11885ad4a8057c79da9dc2cbf60bba2f1734b4bc1","views/admin/orders_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-d0bf934d40505e4f82a3116948518d5f44a2acf108b77648625701f5abb08143","views/admin/page_optimizations_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-af6e168ebb2b1286417a0608c192d7df32d7d8f235d04ee0705f2a92dd17e502","views/admin/soundcloud_identifier_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-82040136d6b795bb50bbdaa074407c4362fd45ae9adc2baa7e374f1e28ec3771","views/admin/manual_track_mappings_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/manual_track_mappings_view-60e7315b75a2178c38832cbbf994b32195da0139e3808e4027e09bb06111208e","views/admin/swapped_soundcloud_tracks_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/swapped_soundcloud_tracks_view-66c401e9da2713528ad02b276338ee0ecf9e14aff9c9995210238a67002a6426","views/nsfw_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-017cd711b70cc060ae2ef58026af30aa3082ad3af389eac6f693cd3f93fce106","views/faq_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-1117aa7b7448d3831c94b90383d9b5108edfaa3d1f83bf9eb16f652f79f5c9c5","views/troubleshoot_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-a1a6f0a510688dcfdce729653689de0f4c372585f8005367fc8699c32e891739","views/next_mix_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-ac1ea0f54d0cf1167229fa0d8e254ba66330b6646e9199c56d31c233c1056fcb","views/tshirt_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/tshirt_view-cb1065c114475a3a454830b0f6eb566276068a032cd68e7e9f9aedce4dd2bbc0","views/checkout_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-8a4a446ceb2c698a1519b1574bcbf994c637068f9aead26a9377e9ffb354310a","views/fb_player_iframe_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-ec2dac5fcfb4548c3382e9d2fa0d9178ee998edcc4d8a9fd5639398aa577371c","ima":"https://imasdk.googleapis.com/js/sdkloader/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"select2":{"exports":"jQuery.select2"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60});</script>
 
 
 
-
-<div id="body_container">
-
-<div id="belly_container">
-
-  <div id="superheader" style="display: none;"></div>
+<!--div id="body_container"-->
 
   <!-- thin search header -->
-  <div id="thin_header">
-    <div class="wrapper" id="header_content">
-      <div class="navlinks" id="main_links">
-        <a href="/" title="8tracks | Refreshingly human playlists." rel="home" class="home-link default">
-          <span class="i logo_small_8"></span><span> Home</span>
-        </a>
+  <!--div id="header_placeholder"-->
+  <header id="thin_header" class="sticky" style="top: 0px;">
+    <div id="loading-stripe" style="display: none;"><div id="loadingbar" style="width: 0%;"><dd></dd><dt></dt></div></div>
 
-        <a href="/news-feed" title="Feed" class="p p_logged_in off feed-link">
-          <span class="i i-feed"></span> Feed
-        </a>
+    <div id="header_content">
+      <div class="container">
+      <div class="row">
+        <div id="header_left" class="col-xs-9 col-sm-7">
+          <a href="/" title="8tracks | Refreshingly human playlists." rel="home" class="home-link default icon-link" id="logo">
+            <span class="i-logo"></span>
+          </a>
 
-        <a href="/explore" title="Explore" class="explore-link">
-          <span class="i i-explore-large"></span> Explore
-        </a>
+          <div id="loading" style="display: none;"><div class="loader"></div></div>
+          <div id="search" class="searchbox header_item ">
+            <form accept-charset="UTF-8" action="/search" class="search" method="get">
+              <div class="search_wrapper">
+                <input autocomplete="off" class="text q" id="q" name="q" placeholder="What kind of music do you want to hear?" type="text">
+              </div>
 
-        <div id="loading" style="display: none;"><div class="loader"></div></div>
-      </div>
+              <span class="i i-x search_clear"></span>
+              <span class="i i-search search_icon"></span>
 
-      <div id="header_middle">
-      </div>
+              <input type="submit" value=" " style="visibility: hidden; position: absolute;">
+            </form>
 
-      <div id="header_right">
-        <div id="search" class="searchbox header_item">
-          <form accept-charset="UTF-8" action="/search" class="search" method="get">
-            <input autocomplete="off" class="text q" id="q" name="q" placeholder="Search" type="text">
-            <input type="submit" class="search_submit" value=" ">
-          </form>
-          <span class="i i-search"></span>
+            <div class="autocomplete"></div>
+
+            <a href="#" id="search_button" class="icon-link"><span class="i i-search search_icon"></span></a>
+            <a href="/explore" id="explore_button" class="icon-link"><span class="i-explore-large"></span> <span class="text">Explore</span></a>
+          </div>
+
         </div>
-      </div>
-    </div>
-  </div><!-- thin_header -->
+
+        <div id="header_right" class="col-xs-3 col-sm-5">
+          <div id="auth_nav">
+            <a href="https://8tracks.com/login" class="hidden-xs login nav_item">Log in</a>
+<a href="https://8tracks.com/signup" class="hidden-xs signup nav_item" id="signup_link">Sign up</a>
+<a href="#" class="hidden-xl hidden-lg hidden-md hidden-sm nav_item bullets show_footer" id="menu_link"><span class="bullet">•••</span></a>
+          </div>
+          <nav id="header_nav">
+            <span>
+              <a href="/apps" class="nav_item hidden-xs hidden-sm">Apps</a>
+              <!--a href="#" class="nav_item show_footer">About</a-->
+              <a href="#" class="nav_item show_footer" id="menu_link">
+                <span class="hidden-xs hidden-sm">About</span>
+              </a>
+            </span>
+          </nav>
+        </div>
+
+
+      </div><!--.row -->
+    </div><!--.container-->
+  </div><!--#header_content-->
+
+  <div class="flash_container">
+    
+  </div>
+
+  <footer id="footer">
+	
+
+	<div id="tagline" class="">
+		<div class="row hidden-md hidden-lg p p_logged_out on clearfix" id="footer_login">
+  		<div class="col-xs-12" style="text-align: center;">
+        <a href="#" class="turquoise_button flatbutton login" onclick="App.Trax.showLoginView(); return false;">Log in</a>
+        <a href="#" class="turquoise_button flatbutton signup" id="signup_link" onclick="App.Trax.showSignupView(); return false;">Sign up</a>
+  		</div>
+
+			<hr>
+  	</div>
+
+		<!--Listen to handcrafted internet radio. Share your own playlist online.
+		&copy;8tracks Inc. 2015
+
+		<div id="quote">
+			<a rel="nofollow" href="https://www.youtube.com/watch?v=kTn0li1q1O0" target="_blank">hang on the block with my platinum voice</a>
+		</div>-->
+	</div>
+
+	<div class="container clearfix toes">
+	 <div class="row">
+			<ul class="col-xs-6 col-md-3">
+			<li class="label">Company</li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/team">Team</a></li>
+			<li><a href="/advertising">Advertising</a></li>
+			<li><a href="/jobs">Jobs</a></li>
+		</ul>
+
+		<ul class="col-xs-6 col-md-3">
+			<li class="label">Extras</li>
+			<li><a href="/help">Help</a></li>
+			<li><a href="/media">Media</a></li>
+			<li><a href="/plus">8tracks plus</a></li>
+			<li><a href="/tags">Tag map</a></li>
+			<li class="p p_admin off"><a href="/settings/1">[Admin]</a></li>
+		</ul>
+
+		<ul class="col-xs-6 col-md-3">
+			<li class="label">Legal</li>
+			<li><a href="/licensing">Licensing</a></li>
+			<li><a href="/copyright">Copyright</a></li>
+			<li><a href="/terms">Terms</a></li>
+			<li><a href="/privacy">Privacy</a></li>
+		</ul>
+		<ul class="col-xs-6 col-md-3">
+			<li class="label">Social</li>
+			<li><a href="http://blog.8tracks.com/">Blog</a></li>
+			<li><a href="http://facebook.com/8tracks" title="Like us on FB" target="_blank">Facebook</a></li>
+			<li><a href="http://twitter.com/8tracks" title="Follow @8tracks" target="_blank">Twitter</a></li>
+			<!--li><a href="https://plus.google.com/117113324186866439402" title="+1 us on Google" target="_blank" rel="publisher">Google plus</a></li-->
+			<li><a href="http://8tracks.tumblr.com/" title="Reblog us on Tumblr" target="_blank">Tumblr</a></li>
+			<li><a href="http://instagram.com/8tracks" title="Follow us on Instagram" target="_blank">Instagram</a></li>
+		</ul>
+	 </div>
+	</div>
+
+	<div class="topfooter container clearfix">
+
+	 <div class="row">
+	 	<hr>
+	 	
+		<div id="safe_browse_container" class="disabled col-xs-3 col-sm-3">
+			<div id="safe_browse" class="icon-link">
+				<span class="i-flag"></span>
+				Safe browse: <strong><span class="enabled">On</span><span class="disabled">Off</span></strong>
+			</div>
+			<div class="black_tooltip black_tooltip_up black_tooltip_solid">
+				<span class="disabled">Turn on safe browse to hide content that has been flagged by the community as not safe for work.</span>
+				<span class="enabled">Turn off safe browse to show content that has been flagged by the community as not safe for work.</span>
+			</div>
+		</div>
+
+		<div class="facebook_like hidden-xs hidden-sm col-md-3">
+			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F8tracks&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=132228608291" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+			<div class="g-plusone" data-size="medium" data-href="http://8tracks.com/"></div>
+		</div>
+
+		<div class="hidden-lg col-xs-3"></div>
+		<div class="col-xs-6 hidden-international">
+			<a class="apple_appstore" rel="external" title="iPhone app" target="_blank" href="https://bnc.lt/8tracks-ios"></a>
+			<a class="android_appstore" rel="external" title="Get our Android app on Google Play" target="_blank" href="https://bnc.lt/8tracks-android"></a>
+			<a class="windows_appstore" rel="external" title="Available on the Windows Store" target="_blank" href="https://bnc.lt/8tracks-windows"></a>
+		</div>
+
+	</div>
+	</div>
+
+
+	<!--.wrapper -->
+</footer>
+  </header><!-- thin_header -->
+  <!--/div-->
+  <div id="body_overlay" style="display: none;"></div>
+
+
 
   <div id="interstitial_container"></div>
 
-  <div class="wrapper">
-    <div id="headerboard" style="display: none;"></div>
-    <div id="video_masthead" class="video_masthead" style="display: none;"></div>
-    <div id="sm2-container"></div>
-  </div>
-
   
 
-  <div id="wrapper">
-
-      <div id="belly" class="clear">
-        <div id="content" class="content">
-          <div class="flash_container">
-            
-          </div>
-
+  <main id="main" class="clear clearfix"><div id="belly">
+      <div class="container" id="legacy_container">
+        <div id="content">
           
-<div id="terms">
+<div id="legal_sidebar" class="big_menu">
+  <a href="/licensing" class="item ">Licensing</a>
+  <a href="/copyright" class="item ">Copyright</a>
+  <a href="/terms" class="item ">Terms</a>
+  <a href="/privacy" class="item selected">Privacy</a>
+</div>
 
-<h2><b>Privacy policy</b> </h2>
+<div id="terms">
 
 <p><b>Last Revised: October 8<sup>th</sup>, 2014</b></p>
 
@@ -336,156 +485,43 @@ if (window.console && typeof(window.console.log) == 'function') {
 
         </div>
 
-        <div id="sidebar" class="sidebar">
-            <br>
-<div id="help_sidebar">
-  <h6>Legal</h6>
-
-  <div class="indent featherweight">
-    <ul>
-   
-      <li><a href="/licensing">Licensing</a></li>
-      <li><a href="/copyright">Copyright</a></li>
-      <li><a href="/terms">Terms of service</a></li>
-      <li>Privacy</li>
-    </ul>
-  </div>
-  
-  <p></p><hr><p></p>
-  
-  <h6>8tracks elsewhere</h6>
-
-  <div class="indent featherweight">
-    <p><a href="http://twitter.com/8tracks" class="elsewhere"><img alt="Logo.square.twitter" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.twitter-d98edebec9e0973c306ac184ccbada5d.png"> Follow us on twitter</a></p>
-    <p><a href="http://facebook.com/8tracks" class="elsewhere"><img alt="Logo.square.facebook" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.facebook-aed049cc1425886f04cc49ba2dadc8b4.png"> Like us on facebook</a></p>
-    <p><a href="http://8tracks.tumblr.com" class="elsewhere"><img alt="Logo.square.tumblr" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.tumblr-3916f5d5f9d1183b3b14e21b9ce80f04.png"> Follow us on tumblr</a></p>
-  </div>
-  
-  <p></p><hr><p></p>
-    
-  <h6>Contact Us</h6>
-  
-  <div class="indent featherweight">
-    <p>
-      <strong>General inquiry</strong><br>
-      <a href="mailto:support@8tracks.com">support@8tracks.com</a>
-    </p>
-    <p>
-      <strong>Troubleshooting</strong><br>
-      <a href="mailto:support@8tracks.com">support@8tracks.com</a>
-    </p>
-  </div>
+        <aside id="sidebar" class="sidebar">
+            <div id="legal_sidebar" class="big_menu">
+  <a href="/licensing" class="item ">Licensing</a>
+  <a href="/copyright" class="item ">Copyright</a>
+  <a href="/terms" class="item ">Terms</a>
+  <a href="/privacy" class="item selected">Privacy</a>
 </div>
 
+        </aside>
+        </div>
+      </div>
+  </main>
 
+  <div id="preroll_container"></div>
+
+  <div id="player_container" class="displaymode">
+    <div id="sm2-container"></div>
+    <div id="player_box" class="clear loading" style="display: none;">
+      <div class="background-blur-container">
+        <canvas class="background-blur" width="100%" height="100%" style="width: 100%; height: 100%; opacity: 0.0;"></canvas>
+        <!--div class="background-blur" style="background-image: url('{{#mixpage_mix_cover_url}}sq500, w=640&h=640{{/mixpage_mix_cover_url}}');"></div-->
+      </div>
+
+      <div id="player_artist_details" class="collapsed dark-bg hidden-xs">
+      </div>
+      <div class="container">
+        <div class="row">
+          <div id="player" class="col-md-12"></div>
+          <div id="dialog" style="display: none;"></div>
         </div>
       </div>
     </div>
+    <div id="player_prop"></div>
   </div>
 
   <div id="fb-root"></div>
-  <div id="preroll_container"></div>
-
-<div id="player_container" class="displaymode">
-	<div id="you_tube_player" style="display: none;"></div>
-  <div id="player_box" style="display: none;">
-  <div id="player_artist_details" class="collapsed">
-  </div>
-	<div class="wrapper">
-	  <div id="player"></div>
-	  <div id="dialog"></div>
-	</div>
-  </div>
-  <div id="player_prop"></div>
-</div>
-
-<div id="footer">
-	<div class="wrapper">
-	<div id="footerboard"></div>
-
-	<div class="topfooter container">
-		<div id="safe_browse_container" class="disabled">
-			<div id="safe_browse" class="icon-link">
-				<span class="i-flag"></span>
-				Safe browse: <strong><span class="enabled">On</span><span class="disabled">Off</span></strong>
-			</div>
-			<div class="black_tooltip black_tooltip_up black_tooltip_solid">
-				<span class="disabled">Turn on safe browse to hide content that has been flagged by the community as not safe for work.</span>
-				<span class="enabled">Turn off safe browse to show content that has been flagged by the community as not safe for work.</span>
-			</div>
-		</div>
-
-		<div class="mobile_links col-xs-9 col-md-6">
-			<a href="https://bnc.lt/8tracks-ios" class="apple_appstore" rel="external" target="_blank" title="iPhone app"></a>
-			<a href="https://bnc.lt/8tracks-android" class="android_appstore" rel="external" target="_blank" title="Get our Android app on Google Play"></a>
-			<a href="https://bnc.lt/8tracks-windows" class="windows_appstore" rel="external" target="_blank" title="Available on the Windows Store"></a>
-		</div>
-
-		<div class="facebook_like">
-			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F8tracks&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=132228608291" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-			<div class="g-plusone" data-size="medium" data-href="http://8tracks.com/"></div>
-		</div>
-	</div>
-
-	<div class="container clearfix">
-		<ul class="toe">
-			<li class="label">Extras</li>
-			<li><a href="/apps">Apps</a></li>
-			<li><a href="/plus">Ad free</a></li>
-			<li><a href="/developers">Developer API</a></li>
-			<li><a href="/tags">Tag map</a></li>
-			<li class="p p_admin off"><a href="/settings/1">[Admin]</a></li>
-		</ul>
-		<ul class="toe">
-			<li class="label">Company</li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/team">Team</a></li>
-			<li><a href="/advertising">Advertising</a></li>
-			<li><a href="/media">Media</a></li>
-			<li><a href="http://blog.8tracks.com/">Blog</a></li>
-			<li><a href="/jobs">Jobs</a></li>
-		</ul>
-		<ul class="toe">
-			<li class="label">Help</li>
-			<!--li><a href="/contact_us">Contact us</a></li-->
-			<li><a href="/faq">FAQ</a></li>
-			<li><a href="/troubleshoot" target="_blank">Troubleshoot</a></li>
-			<li><a href="/create_playlist" target="_blank">Create a playlist</a></li>
-		</ul>
-		<ul class="toe">
-			<li class="label">Legal</li>
-			<li><a href="/licensing">Licensing</a></li>
-			<li><a href="/copyright">Copyright</a></li>
-			<li><a href="/terms">Terms</a></li>
-			<li><a href="/privacy">Privacy</a></li>
-		</ul>
-		<ul class="toe">
-			<li class="label">Social</li>
-			<li><a href="http://facebook.com/8tracks" title="Like us on FB" target="_blank">Facebook</a></li>
-			<li><a href="http://twitter.com/8tracks" title="Follow @8tracks" target="_blank">Twitter</a></li>
-			<li><a href="https://plus.google.com/117113324186866439402" title="+1 us on Google" target="_blank" rel="publisher">Google plus</a></li>
-			<li><a href="http://8tracks.tumblr.com/" title="Reblog us on Tumblr" target="_blank">Tumblr</a></li>
-			<li><a href="http://instagram.com/8tracks" title="Follow us on Instagram" target="_blank">Instagram</a></li>
-		</ul>
-	</div>
-
-	<div id="tagline" class="clear">
-		Listen to handcrafted internet radio. Share your own playlist online.
-		©8tracks Inc. 2015
-
-		<div id="quote">
-			<a href="http://www.youtube.com/watch?v=WmCfmNjzFPQ" target="_blink">
-your love to me is gold
-</a>
-		</div>
-
-		<div class="afs_ads">&nbsp;</div>
-
-	</div>
-
-	</div><!--.wrapper -->
-</div>
-
+  <div class="afs_ads">&nbsp;</div>
 
    
 
@@ -514,14 +550,8 @@ your love to me is gold
 </script>
 
 
-
-<script>
-  ga_universal = true;
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-</script>
+<!-- webjoy for adblock detection in GA (c/o philip inghelbrecht) -->
+<script type="text/javascript">(function(d, s) {s = d.createElement('script');s.src = '//d3hc35r53h4q0c.cloudfront.net/webjoy.min.js'; try{d.body.appendChild(s)}catch(e){}})(document);</script><script src="//d3hc35r53h4q0c.cloudfront.net/webjoy.min.js"></script>
 
 
 <script type="text/javascript" src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>
@@ -664,7 +694,8 @@ qacct:"p-9fuIIK5ZReik6"
 </script>
 
 
-  </div>
+  <div class="clear: both;"></div>
+  <!--/div><!-- #body_container-->
 
 
 
