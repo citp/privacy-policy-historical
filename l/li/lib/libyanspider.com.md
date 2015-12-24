@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626094744id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224214031id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Libyan Spider
 
@@ -58,13 +58,13 @@ Except as set out in this Privacy Notice, you will receive notice whenever perso
 
 ### WHOIS Information:
 
-ICANN requires LibyanSpider.com to make certain information, collected in connection with the registration of a domain name, available to the public via an interactive Web page and a “port 43″ WHOIS service. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name. For the purposes of this Privacy Notice we will refer to this information collectively as your “WHOIS Information.” Please note that we may not be able to control how members of the public may use the WHOIS Information.
+ICANN requires LibyanSpider.com to make certain information, collected in connection with the registration of a domain name, available to the public via an interactive Web page and a “port 43” WHOIS service. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name. For the purposes of this Privacy Notice we will refer to this information collectively as your “WHOIS Information.” Please note that we may not be able to control how members of the public may use the WHOIS Information.
 
 ### Bulk Access:
 
 If you have opted-in to having your WHOIS Information available for bulk access, ICANN also requires LibyanSpider.com to make that information available to third parties who enter into a bulk WHOIS data access agreement with LibyanSpider.com. In making your selection to opt-in to having your WHOIS Information available for bulk access.
 
-Please note that if you have not opted-in to having your WHOIS Information available for bulk access for marketing or other purposes, your WHOIS Information will still be made available to the public through the “port 43″ WHOIS service described above.
+Please note that if you have not opted-in to having your WHOIS Information available for bulk access for marketing or other purposes, your WHOIS Information will still be made available to the public through the “port 43” WHOIS service described above.
 
 ### Third Parties:
 
