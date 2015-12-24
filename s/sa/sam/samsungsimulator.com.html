@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samsungsimulator.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623072540id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samsungsimulator.com privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224085613id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,7 +22,14 @@
 	b{
 		font-family: "InterfaceB";
 	}
-
+	#container {
+		width: 100%;
+	}
+	#content_wrap #content {
+		margin:0 auto;
+		float: inherit;
+		width: 80%;
+	}
 	.leftContainer{
 		position: relative;
 		width: 65%;
@@ -150,7 +157,7 @@ var omn_ss_loggedin = "not logged in";
 <header role="banner" class="gnb-header">
     <div class="phone-header visible-phone">
         <a href="/us/" class="logo">
-            <img src="/us/images/samsung-logo.png">
+            <img src="/us/ssi/5.0/images/new-samsung-logo.png" alt="Samsung">
         </a>
         <ul class="main">
             <li class="top search" data-flyout="search-flyout"><a href="#"><span class="icons-search">Search</span></a></li>
@@ -159,8 +166,10 @@ var omn_ss_loggedin = "not logged in";
             <li class="top nav"><a href="#" id="nav-open-btn"><span class="icons-link">Navigation</span></a></li>
         </ul>
         <div class="flyout search-flyout">
-            <form action="/us/search/espsearch.us" method="get" id="mobile_search_form">
-                <input id="mobileSearch" type="text" name="keyword" placeholder="Search" class="search" maxlength="64">
+            <form action="/us/search/searchMain" class="search-form" method="get" id="mobile_search_form">
+                <input id="mobileSearch" type="text" name="Ntt" placeholder="Search" class="search" maxlength="64" autocapitalize="off" autocorrect="off" autocomplete="off" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+                <input type="hidden" name="Dy" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+                <input type="hidden" name="Nty" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
                 <button class="icons-search-gray"></button>
             </form>
         </div>
@@ -176,7 +185,7 @@ var omn_ss_loggedin = "not logged in";
 <div class="header-top">
     <div class="header-container full-mobile">
         <ul>
-            <li><img src="/us/onlineopinionV5/oo_icon.gif" border="0" title="Feedback"> <a href="javascript:void(0);" onclick="OOo.oo_feedback.show()">Feedback</a></li>
+            <li><img src="/us/onlineopinionV5/oo_icon.gif" border="0" title="Feedback"> <a href="#" id="oo-feedback">Feedback</a></li>
             <li><a href="/us/business" data-link_id="topnav_business" data-link_cat="business" data-link_position="topnav" data-link_meta="link_name:business" data-glb_nav_type="d">For Business</a></li>
             <li><a href="/us/aboutsamsung" data-link_id="topnav_about" data-link_cat="about us" data-link_position="topnav" data-link_meta="link_name:about us" data-glb_nav_type="d">About Us</a></li>
             <li class="account">
@@ -206,13 +215,7 @@ var omn_ss_loggedin = "not logged in";
                     <b class="cart-basket"></b>
                 </a>
                 <div class="cart-desktop-flyout cart-desktop">
-                    <div class="cart-container">
-                        <div class="mobile-cart-notice">
-                            <em>Don't see an item you added?</em>
-                            There is a separate cart for mobile accessories.
-                            <a href="https://mobile.samsung.com/accessories/modifyitem.do">View Samsung Mobile Accessories Cart</a>
-                        </div>
-                    </div>
+                    <div class="cart-container"></div>
                 </div>
             </li>
         </ul>
@@ -223,54 +226,7 @@ var omn_ss_loggedin = "not logged in";
 <nav class="header-container full-mobile" role="navigation">
 <ul class="main">
 <li class="top logo">
-    <a href="/us/" class="logo"><img src="/us/images/samsung-logo.png"></a>
-</li>
-<li class="top submenu" data-category="Discover">
-    <a href="#" class="nowrap label">Discover <i class="chevron-down"></i></a>
-
-    <ul class="dropdown experience">
-        <li class="mid">
-            <a href="/us/showcase/galaxy-smartphones-and-tablets/">
-                <div>
-                    <img src="/us/images/header/showcase/galaxy.png">
-                </div>
-                Guide to the Galaxy
-            </a>
-            <div class="flyout">
-                <ul>
-                    <li><a href="/us/showcase/galaxy-smartphones-and-tablets/"><strong>Guide to the Galaxy</strong></a></li>
-                    <li><a href="/us/explore/galaxy-s-6-features-and-specs/">Galaxy S6 edge</a></li>
-                    <li><a href="/us/explore/galaxy-note-4-features-and-specs/">Galaxy Note 4</a></li>
-                    <li><a href="/us/explore/galaxy-note-edge-features-and-specs/">Galaxy Note Edge</a></li>
-                    <li><a href="/us/explore/gear-s-features-and-specs/">Gear S</a></li>
-                </ul>
-                <div class="product-spotlight">
-                    <div class="img-container">
-                        <img src="/us/images/header/galaxys6-flyout-icon.png">
-                    </div>
-                    <div class="info">
-                        <div class="title">Welcome to the Edge</div>
-                        <div class="description">Galaxy S6 edge</div>
-                        <a href="/us/explore/galaxy-s-6-features-and-specs/" class="product-link">Buy Now</a>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li class="mid">
-            <a href="/us/showcase/home-entertainment-televisions-and-audio/">
-                <div>
-                    <img src="/us/images/header/home-entertainment-gnb.png">
-                </div>
-                Explore 4K SUHD TV
-            </a>
-        </li>
-        <li><a href="/us/showcase/all-in-one-pcs-tablet-and-laptop-computers/"><div><img src="/us/images/header/showcase/ativ.png"></div>A New Era of Computing</a></li>
-        <li><a href="/us/showcase/digital-cameras-and-lenses/"><div><img src="/us/images/header/showcase/cameras.png"></div>Share Life as it Happens</a></li>
-        <li><a href="/us/showcase/samsung-chef-collection/"><div><img src="/us/images/header/showcase/home-appliances.png"></div>Indulge Your Inner Gourmet</a>
-        </li>
-        <li><a href="http://techlife.samsung.com/"><div><img src="/us/images/header/tech-life.png"></div>Tech Life: Ideas &amp; Inspiration</a></li>
-        <li><a href="/us/showcase/environmental-responsibility-through-eco-innovations/"><div><img src="/us/images/header/smarter-future.png"></div>Building a Smarter Future</a></li>
-    </ul>
+    <a href="/us/" class="logo"><img src="/us/ssi/5.0/images/new-samsung-logo.png" alt="Samsung"></a>
 </li>
 <li class="top submenu" data-category="Shop">
 <a href="#" class="left-align label">Shop Products <i class="chevron-down"></i></a>
@@ -282,10 +238,11 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/shop/">Shop All Products</a></li>
             <li><a href="/us/shop/accessories">Shop All Accessories</a></li>
             <li><a href="/us/shop/special-offers">Special Offers Online</a></li>
+            <li><a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500">Certified Refurbished Products</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/shop.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/images/header/shop.png">
             </div>
             <div class="info">
                 <div class="title">Browse special offers on new products and our personal recommendations for you.</div>
@@ -310,16 +267,17 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/mobile/t-mobile">T-Mobile Cell Phones</a></li>
             <li><a href="/us/mobile/us-cellular">U.S. Cellular Cell Phones</a></li>
             <li><a href="/us/mobile/cell-phones/all-products?filter=more-carriers">More Carriers</a></li>
+            <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.70010500/ThemeID.38225500">Certified Pre-Owned Phones</a></li>
             <li><a href="/us/mobile/cell-phones">See All Cell Phones</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/galaxys6-flyout-icon.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/noble-zero2.png">
             </div>
             <div class="info">
-                <div class="title">Welcome to the Edge</div>
-                <div class="description">Galaxy S6 edge</div>
-                <a href="/us/explore/galaxy-s-6-features-and-specs/" class="product-link">Buy Now</a>
+                <div class="title">The Next Big Thing is Here</div>
+                <div class="description">Galaxy S6 edge+ | Note5</div>
+                <a href="/us/explore/latest-galaxy-smartphones/" class="product-link">Available Now</a>
             </div>
         </div>
     </div>
@@ -332,13 +290,12 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/video/4k-suhd-tv">4K SUHD TVs</a></li>
             <li><a href="/us/video/uhd-tv">4K UHD TVs</a></li>
             <li><a href="/us/video/led-tv">LED TVs</a></li>
-            <li><a href="/us/video/plasma-tv">Plasma TVs</a></li>
             <li><a href="/us/business/displays/digital-signage/?filter=smart-signage-tv">Smart Signage TVs</a></li>
             <li><a href="/us/video/tvs">See All TVs</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/suhd-nav.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/1221-tv.png">
             </div>
             <div class="info">
                 <div class="title">Samsung 4K SUHD TVs</div>
@@ -357,16 +314,17 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/mobile/galaxy-note/">Galaxy Notes</a></li>
             <li><a href="/us/mobile/wi-fi-tabs">Wi-Fi Tablets</a></li>
             <li><a href="/us/mobile/galaxy-tab/all-products?filter=4G-LTE">4G / LTE Tablets</a></li>
+            <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.67795500/ThemeID.38225500">Refurbished Tablets</a></li>
             <li><a href="/us/mobile/galaxy-tab/">See All Galaxy Tablets</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/header-tab-a.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/1221-tab.png">
             </div>
             <div class="info">
-                <div class="title">Samsung Galaxy Tab A</div>
-                <div class="description">Designed to enhance your mobile life, the Galaxy Tab A keeps you immersed in what matters most everyday.</div>
-                <a href="/us/explore/Tab-A-features-and-specs/" class="product-link">Learn More</a>
+                <div class="title">Galaxy Tab S2</div>
+                <div class="description">Elevate Your Downtime</div>
+                <a href="/us/explore/tab-s2-features-and-specs/" class="product-link">Buy Now</a>
             </div>
         </div>
     </div>
@@ -376,21 +334,18 @@ var omn_ss_loggedin = "not logged in";
     <a href="/us/mobile/wearable-tech"><i class="chevron-right"></i>Wearable Tech</a>
     <div class="flyout">
         <ul>
-            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-s">Gear S</a></li>
-            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-2">Gear 2</a></li>
-            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-fit">Gear Fit</a></li>
-            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-live">Gear Live</a></li>
-            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-vr">Gear VR</a></li>
+            <li><a href="/us/mobile/wearable-tech/all-products?filter=smartwatches">Smartwatches</a></li>
+            <li><a href="/us/mobile/wearable-tech/all-products?filter=virtual-reality-headsets">Virtual Reality Headsets</a></li>
             <li><a href="/us/mobile/wearable-tech/all-products">See All Gear</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/GearS_GlobalNav.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/wearables.png">
             </div>
             <div class="info">
-                <div class="title">Connect Like Never Before</div>
-                <div class="description">Introducing Samsung's first network-connected wearable.</div>
-                <a href="/us/explore/gear-s-features-and-specs/#buy-now" class="product-link">Buy Now</a>
+                <div class="title">Samsung Gear S2</div>
+                <div class="description">With its stylish design and quick access to apps and notifications, the new Samsung Gear S2 helps you dial in to every moment.</div>
+                <a href="/us/explore/gear-s2/" class="product-link">Explore Now</a>
             </div>
         </div>
     </div>
@@ -410,32 +365,35 @@ var omn_ss_loggedin = "not logged in";
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/gnb_flyout_washer.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/homeappliances.png">
             </div>
             <div class="info">
                 <div class="title"></div>
-                <div class="description">Conveniently pretreat clothes with the activewash<sup>™</sup> built-in sink, water jet, and scrubbing board.</div>
-                <a href="/us/appliances/washers-dryers/WA52J8700AP/A2" class="product-link">Discover Now</a>
+                <div class="description">Samsung Ranges have the ultimate cooking flexibility</div>
+                <a href="/us/appliances/oven-ranges" class="product-link">Explore Now</a>
             </div>
         </div>
     </div>
 </li>
 
-<li class="mid" data-category="Blu-ray &amp; DVD Players">
-    <a href="/us/video/blu-ray-dvd"><i class="chevron-right"></i>Blu-ray &amp; Smart Players</a>
+<li class="mid" data-category="Smart Home">
+    <a href="/us/smart-home/"><i class="chevron-right"></i>Smart Home</a>
     <div class="flyout">
         <ul>
-            <li><a href="/us/video/blu-ray-dvd">Blu-ray Players</a></li>
-            <li><a href="/us/video/smart-media-player">Smart Media Players</a></li>
+            <li><a href="/us/smart-home/kit">Kits</a></li>
+            <li><a href="/us/smart-home/hub">Hubs</a></li>
+            <li><a href="/us/smart-home/sensor">Sensors</a></li>
+            <li><a href="/us/smart-home/outlet">Outlets</a></li>
+            <li><a href="/us/smart-home/smart-products/all-products">See All Smart Home Products</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/blu-ray.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/smart-home.png">
             </div>
             <div class="info">
-                <div class="title">Smart 3D Blu-ray Disc<sup>®</sup> Player With 4K UHD Upscaling</div>
-                <div class="description">Take your HD Viewing to the next level.</div>
-                <a href="/us/video/blu-ray-dvd/BD-F7500/ZA" class="product-link">See Product</a>
+                <div class="title">Smart Home Intelligent Living.</div>
+                <div class="description">Connect all of your compatible smart home decides, and easily control and monitor your home from your smart phone.</div>
+                <a href="/us/smart-home/" class="product-link">Explore Now</a>
             </div>
         </div>
     </div>
@@ -445,50 +403,26 @@ var omn_ss_loggedin = "not logged in";
     <a href="/us/video/home-audio/"><i class="chevron-right"></i>Home Theater &amp; Audio</a>
     <div class="flyout">
         <ul>
-            <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
-            <li><a href="/us/video/multi-room">Multi-Room Audio</a></li>
+            <li><a href="/us/video/multi-room">Wireless Multiroom Audio</a></li>
             <li><a href="/us/video/soundbars">Soundbars</a></li>
-            <li><a href="/us/video/wireless-audio-docks">Wireless Audio Docks</a></li>
-            <li><a href="/us/video/portable-speaker">Portable Speakers</a></li>
             <li><a href="/us/video/giga-sound-systems">Giga Sound Systems</a></li>
+            <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
+            <li><a href="/us/video/blu-ray-players">Blu-ray Players</a></li>
+            <li><a href="/us/video/dvd-players">DVD Players</a></li>
             <li><a href="/us/video/home-audio/">See All Home Audio Products</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/speaker.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/home-audio.png">
             </div>
             <div class="info">
-                <div class="title">Samsung SHAPE™ Wireless Multiroom System</div>
-                <div class="description">Integrate your music around how you live.</div>
-                <a href="/us/experience/samsung-shape-wireless-audio-system/#audio-home" class="product-link">Learn More</a>
+                <div class="title">Radiant360 R5 Wi-Fi/Bluetooth Speaker</div>
+                <div class="description">Hear the full, rich sound of your favorite music from anywhere in the room.</div>
+                <a href="/us/experience/radiant360" class="product-link">Learn More</a>
             </div>
         </div>
     </div>
 </li>
-
-<!--<li class="mid" data-category="Audio">
-    <a href="/us/video/home-audio"><i class="chevron-right"></i>Home Audio</a>
-    <div class="flyout">
-        <ul>
-            <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
-            <li><a href="/us/video/wireless-audio-docks">Wireless Audio Docks</a></li>
-            <li><a href="/us/video/portable-speaker-systems">Portable Speaker Systems</a></li>
-            <li><a href="/us/video/soundbars">Sounds Bars</a></li>
-            <li><a href="/us/video/dvd-systems">DVD Home Theater Systems</a></li>
-            <li><a href="/us/video/blu-ray-systems">Blu-ray Home Theater Systems</a></li>
-        </ul>
-        <div class="product-spotlight">
-            <div class="img-container">
-                <img src="/us/images/header/speaker.png">
-            </div>
-            <div class="info">
-                <div class="title">Samsung SHAPEâ„¢ M7 Wireless Audio Speaker</div>
-                <div class="description">Integrate your music around how you live</div>
-                <a href="/us/video/home-audio/WAM751/ZA" class="product-link">See Product</a>
-            </div>
-        </div>
-    </div>
-</li>-->
 
 <li class="mid" data-category="Digital Cameras &amp; Camcorders">
     <a href="/us/photography/digital-cameras"><i class="chevron-right"></i>Digital Cameras &amp; Camcorders</a>
@@ -498,16 +432,16 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/photography/galaxy-camera">Galaxy Cameras</a></li>
             <li><a href="/us/photography/compact-long-zoom">Long Zoom Cameras</a></li>
             <li><a href="/us/photography/point-and-shoot">Point and Shoot Cameras</a></li>
-            <li><a href="/us/photography/high-definition">HD Camcorders</a></li>
-            <li><a href="/us/photography/digital-cameras/">See All Digital Cameras</a></li>
-            <li><a href="/us/photography/camcorders/">See All Digital Camcorders</a></li>
+            <li><a href="/us/photography/digital-camcorders">HD Camcorders</a></li>
+            <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.69535600/ThemeID.38225500">Refurbished Digital Cameras</a></li>
+            <li><a href="/us/photography/digital-cameras/">See All Digital Cameras and Camcorders</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/cameras.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/images/header/cameras.png">
             </div>
             <div class="info">
-                <div class="title">NX1 28.2 MP Smart 4K Camera</div>
+                <div class="title">NX1 28 MP Smart 4K Camera</div>
                 <div class="description">Featuring 4K UHD Video and up to 15 frames per second continuous shooting</div>
                 <a href="/us/photography/digital-cameras/EV-NX1ZZZBQBUS" class="product-link">See Product</a>
             </div>
@@ -528,12 +462,12 @@ var omn_ss_loggedin = "not logged in";
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/XE500C12-13_001_Front-Open_Silver.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/ativ.png">
             </div>
             <div class="info">
-                <div class="title">Samsung Chromebook 2</div>
-                <div class="description">The ultraportable, stylish laptop for everyday adventures.</div>
-                <a href="/us/computer/chromebook" class="product-link">Explore More</a>
+                <div class="title">ATIV Book 9 Spin</div>
+                <div class="description">Get the ultimate versatility, portability, and style with a revolutionary 360° rotating display</div>
+                <a href="/us/computer/pcs/NP940X3L-K01US" class="product-link">Explore Now</a>
             </div>
         </div>
     </div>
@@ -546,16 +480,16 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/computer/ssd-pro">SSD PRO</a></li>
             <li><a href="/us/computer/ssd-evo">SSD EVO</a></li>
             <li><a href="/us/computer/portable-ssd/">Portable SSD</a></li>
-            <li><a href="/us/computer/memory-storage-accessories/">Memory Cards</a></li>
+            <li><a href="/us/computer/memory-storage-accessories/">Memory Cards &amp; USB Drives</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/ssd-comp.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/flyout/assassins-new.jpg">
             </div>
             <div class="info">
-                <div class="title">Portable SSD T1</div>
-                <div class="description">A new way to have your personal and professional data with you all the time</div>
-                <a href="http://www.samsung.com/us/computer/memory-storage/MU-PS1T0B/AM" class="product-link">See Product</a>
+                <div class="title">Assassin's Creed® Syndicate Promo</div>
+                <div class="description">Get Assassin's Creed<sup>®</sup> Syndicate with purchase of select SSDs. </div>
+                <a href="/us/promotions/assassins-creed-syndicate/" class="product-link">Learn More</a>
             </div>
         </div>
     </div>
@@ -571,7 +505,7 @@ var omn_ss_loggedin = "not logged in";
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/bulb-vlc.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/images/header/bulb-vlc.png">
             </div>
             <div class="info">
                 <div class="title">Non-Dimmable A19 LED LightBulb</div>
@@ -586,13 +520,13 @@ var omn_ss_loggedin = "not logged in";
     <a href="javascript:;"><i class="chevron-right"></i>Security &amp; Monitoring</a>
     <div class="flyout">
         <ul>
-            <li><a href="/us/security-and-monitoring/baby-monitors">Baby Monitors</a></li>
             <li><a href="/us/security-and-monitoring/ip-cameras">IP Cameras</a></li>
             <li><a href="/us/security-and-monitoring/security-systems/">Security Systems</a></li>
+            <li><a href="/us/security-and-monitoring/baby-monitors">Baby Monitors</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/smart-cam.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/images/header/smart-cam.png">
             </div>
             <div class="info">
                 <!-- <div class="title">PAR20 LED Light Bulb</div> -->
@@ -613,56 +547,34 @@ var omn_ss_loggedin = "not logged in";
             <li><a href="/us/computer/printers-accessories">Printer Accessories</a></li>
             <li><a href="/us/computer/pcs-accessories">PC Accessories</a></li>
             <li><a href="/us/photography/digital-cameras-accessories">Digital Camera Accessories</a></li>
-            <li><a href="/us/photography/camcorders-accessories">Digital Camcorder Accessories</a></li>
             <li><a href="/us/appliances/refrigerators-accessories">Refrigerator Accessories</a></li>
             <li><a href="/us/appliances/washers-dryers-accessories">Washer &amp; Dryer Accessories</a></li>
             <li><a href="/us/security-and-monitoring/security-systems-accessories/">Security System Accessories</a></li>
-            <li><a href="/us/security-and-monitoring/baby-monitors-accessories/">Baby Monitor Accessories</a></li>
             <li><a href="/us/appliances/vacuums-accessories/">Vacuum Accessories</a></li>
         </ul>
         <div class="product-spotlight">
             <div class="img-container">
-                <img src="/us/images/header/header-level.png">
+                <img src="/us/ssi/5.0/images/1px.png" source="/us/images/header/header-level.png">
             </div>
             <div class="info">
                 <div class="title">Samsung Level On Wireless Headphones</div>
-                <div class="description">High-definition 40mm drivers combine with Active Noise Cancelation to deliver exceptionally clear sound.</div>
-                <a href="/us/explore/level-wireless-headphones-accessories" class="product-link">See Product</a>
+                <div class="description">High-definition 40mm drivers combine with Active Noise Cancelation to deliver exceptionally clear sound</div>
+                <a href="/us/explore/level-wireless-headphones-accessories/" class="product-link">See Product</a>
             </div>
         </div>
     </div>
 </li>
-<!--<li class="mid" data-category="Help With Your Order">
-    <a href="/us/support/contact-customer-services/" class="last"><i class="chevron-right"></i>Help With Your Order</a>
-    <div class="flyout">
-        <ul>
-            <li><a href="/us/support/contact-customer-services/">Track Your Order</a></li>
-            <li><a href="/us/support/contact-customer-services/">See Your Order History</a></li>
-            <li><a href="/us/support/contact-customer-services/">Store FAQs</a></li>
-            <li><a href="/us/support/contact-customer-services/">Return Your Order</a></li>
-            <li><a href="/us/support/contact-customer-services/">Cancel Your Order</a></li>
-        </ul>
-        <div class="product-spotlight">
-            <div class="img-container">
-                <img src="/us/images/header/free-shipping.png">
-            </div>
-            <div class="info">
-                <div class="title">Free shipping</div>
-                <div class="description">Free standard ground shipping when you buy on Samsung.com</div>
-                <a href="#" class="product-link">See Product</a>
-            </div>
-        </div>
-    </div>
-</li>-->
+
 </ul>
 </li>
 <li class="top submenu" data-category="Apps">
     <a href="#" class="left-align label">Apps <i class="chevron-down"></i></a>
     <ul class="dropdown apps">
-        <li><a href="/us/appstore/"><div><img src="/us/images/header/tv-apps.png"></div><span>TV &amp; Blu-ray Apps</span></a></li>
-        <li><a href="/us/showcase/milk/"><div><img src="/us/images/header/showcase/milk.png"></div>Milk Music</a></li>
-        <li><a href="/us/showcase/milk-video/"><div><img src="/us/images/header/showcase/volt.png"></div>Milk Video</a></li>
-        <li><a href="/us/smart-switch/"><div><img src="/us/images/header/gnb_smartswitch.png"></div>Smart Switch</a></li>
+        <li><a href="/us/apps/"><div><img src="/us/ssi/5.0/images/1px.png" source="/us/images/header/gnb/reinstate-apps.png"></div><span>Apps For Every Screen</span></a></li>
+        <li><a href="/us/showcase/milk/"><div><img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/apps/milk.png"></div>Samsung Milk Music</a></li>
+        <li><a href="/us/samsung-pay/"><div><img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/apps/samsung-pay.png"></div>Samsung Pay</a></li>
+        <li><a href="/us/samsung-plus/"><div><img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/apps/samsungplus.png"></div>Samsung+</a></li>
+        <li><a href="/us/smart-switch/"><div><img src="/us/ssi/5.0/images/1px.png" source="/us/ssi/5.0/images/apps/gnb_smartswitch.png"></div>Smart Switch</a></li>
     </ul>
 </li>
 <li class="top submenu" data-category="Owners">
@@ -672,20 +584,19 @@ var omn_ss_loggedin = "not logged in";
         <li><a href="/us/support/account/">Samsung Account</a></li>
         <li><a href="/us/support/get-started">Set Up Your New Device</a></li>
         <li><a href="/us/experience/skills-workshop/">Samsung Skills Workshop</a></li>
-        <li><a href="/us/support/register/product">Register Your Device</a></li>
+        <li><a class="registerDevice" href="/us/support/account/">Register Your Device</a></li>
         <li><a href="/us/support/downloads">Manuals &amp; Downloads</a></li>
         <li><a href="/us/support/contact-customer-services/">Help With Your Order</a></li>
         <li><a href="/us/support/contact">Contact Support</a></li>
     </ul>
 </li>
-<li class="top milk-nav submenu" data-category="Milk Music">
-    <a onclick="window.open('http://milk.samsung.com/', '_blank');" class="nowrap"><img src="/us/images/header/milk-navigation.png" alt="milk navigation icon" class="milk-icon">Milk Music</a>
-</li>
 <li class="search-field top">
     <div class="inner">
         <a class="visible-tablet search-toggle" href="#"><span class="icons-search"></span></a>
-        <form action="/us/search/espsearch.us" method="get" id="desktop_search_form" class="visible-desktop" name="search_form">
-            <input class="search" id="headerSearch" type="text" name="keyword" value="" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" size="1">
+         <form action="/us/search/searchMain" method="get" id="desktop_search_form" class="visible-desktop search-form" name="search_form">
+            <input type="hidden" name="Dy" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+            <input type="hidden" name="Nty" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+            <input class="search" id="headerSearch" type="text" name="Ntt" value="" style="margin-top:0px;" placeholder="Search" autocapitalize="off" size="100%" autocorrect="off" autocomplete="off" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
             <button class="icons-search-gray"></button>
         </form>
     </div>
@@ -696,8 +607,10 @@ var omn_ss_loggedin = "not logged in";
 
 <div class="search-bar">
     <div class="container-fluid">
-        <form action="/us/search/espsearch.us" method="get" id="fluid_search_form">
-            <input id="fluidSearch" class="search" name="keyword" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off">
+        <form action="/us/search/searchMain" method="get" class="search-form" id="fluid_search_form">
+            <input type="hidden" name="Dy" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+            <input type="hidden" name="Nty" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+            <input id="fluidSearch" class="search" name="Ntt" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
             <button class="icons-search-gray"></button>
         </form>
     </div>
@@ -708,36 +621,14 @@ var omn_ss_loggedin = "not logged in";
 <nav id="nav" role="navigation" class="visible-phone">
     <div class="block">
         <div class="nav-top">
-            <form action="/us/search/espsearch.us" method="get">
-                <input type="text" class="search" name="keyword" value="" maxlength="64" id="search" size="1">
+            <form action="/us/search/searchMain" class="search-form" method="get">
+                <input type="hidden" name="Dy" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+                <input type="hidden" name="Nty" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+                <input type="text" class="search" name="Ntt" value="" maxlength="64" id="search" size="1" autocapitalize="off" autocorrect="off" autocomplete="off" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
                 <button class="icons-search-gray"></button>
             </form>
         </div>
         <ul class="menu">
-            <li class="top" data-category="Discover">
-                <a href="#">Discover <i class="chevron-down"></i></a>
-                <ul>
-                    <li class="mid">
-                        <a href="#">Guide to the Galaxy <i class="chevron-down"></i></a>
-                        <ul>
-                            <li><a href="/us/showcase/galaxy-smartphones-and-tablets/">Guide to the Galaxy</a></li>
-                            <li><a href="/us/explore/galaxy-s-6-features-and-specs/">Galaxy S6 edge</a></li>
-                            <li><a href="/us/the-next-big-thing/galaxy-note-4-features-and-specs/">Galaxy Note 4</a></li>
-                            <li><a href="/us/explore/galaxy-note-edge-features-and-specs/">Galaxy Note Edge</a></li>
-                            <li><a href="/us/explore/gear-s-features-and-specs/">Gear S</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="/us/showcase/home-entertainment-televisions-and-audio/">Explore 4K SUHD TV</a></li>
-                    <li><a href="/us/showcase/all-in-one-pcs-tablet-and-laptop-computers/">A New Era of Computing</a></li>
-                    <li><a href="/us/showcase/digital-cameras-and-lenses/">Share Life as it Happens</a></li>
-                    <li><a href="/us/showcase/samsung-chef-collection/">Indulge Your Inner Gourmet</a></li>
-                    <li><a href="http://techlife.samsung.com/" tagret="_blank">Tech Life: Ideas &amp; Inspiration</a></li>
-                    <li><a href="/us/showcase/environmental-responsibility-through-eco-innovations/">Building a Smarter Future</a></li>
-                </ul>
-            </li>
-
-
-
             <li class="top" data-category="Shop">
                 <a href="#">Shop Products <i class="chevron-down"></i></a>
                 <ul>
@@ -747,6 +638,7 @@ var omn_ss_loggedin = "not logged in";
                             <li><a href="/us/shop/">Shop All Products</a></li>
                             <li><a href="/us/shop/accessories">Shop All Accessories</a></li>
                             <li><a href="/us/shop/special-offers">Special Offers Online</a></li>
+                            <li><a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500">Certified Refurbished Products</a></li>
                         </ul>
                     </li>
                     <li class="mid" data-category="Cell Phones">
@@ -762,6 +654,7 @@ var omn_ss_loggedin = "not logged in";
                             <li><a href="/us/mobile/t-mobile">T-Mobile Cell Phones</a></li>
                             <li><a href="/us/mobile/us-cellular">U.S. Cellular Cell Phones</a></li>
                             <li><a href="/us/mobile/cell-phones/all-products?filter=more-carriers">More Carriers</a></li>
+                            <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.70010500/ThemeID.38225500">Certified Pre-Owned Phones</a></li>
                             <li><a href="/us/mobile/cell-phones">See All Cell Phones</a></li>
                         </ul>
                     </li>
@@ -772,7 +665,6 @@ var omn_ss_loggedin = "not logged in";
                             <li><a href="/us/video/4k-suhd-tv">4K SUHD TVs</a></li>
                             <li><a href="/us/video/uhd-tv">4K UHD TVs</a></li>
                             <li><a href="/us/video/led-tv">LED TVs</a></li>
-                            <li><a href="/us/video/plasma-tv">Plasma TVs</a></li>
                             <li><a href="/us/video/tvs/">See All TVs</a></li>
                         </ul>
                     </li>
@@ -784,6 +676,7 @@ var omn_ss_loggedin = "not logged in";
                             <li><a href="/us/mobile/galaxy-note/">Galaxy Notes</a></li>
                             <li><a href="/us/mobile/wi-fi-tabs">Wi-Fi Tablets</a></li>
                             <li><a href="/us/mobile/galaxy-tab/all-products?filter=4G-LTE">4G / LTE Tablets</a></li>
+                            <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.67795500/ThemeID.38225500">Refurbished Tablets</a></li>
                             <li><a href="/us/mobile/galaxy-tab/">See All Galaxy Tablets</a></li>
                         </ul>
                     </li>
@@ -791,12 +684,9 @@ var omn_ss_loggedin = "not logged in";
                     <li class="mid" data-category="Wearable Tech">
                         <a href="#">Wearable Tech <i class="chevron-down"></i></a>
                         <ul>
-                            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-s">Gear S</a></li>
-                            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-2">Gear 2</a></li>
-                            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-fit">Gear Fit</a></li>
-                            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-live">Gear Live</a></li>
-                            <li><a href="/us/mobile/wearable-tech/all-products?filter=gear-vr">Gear VR</a></li>
-                            <li><a href="/us/mobile/wearable-tech/all-products">See All Gear</a></li>
+                          <li><a href="/us/mobile/wearable-tech/all-products?filter=smartwatches">Smartwatches</a></li>
+                          <li><a href="/us/mobile/wearable-tech/all-products?filter=virtual-reality-headsets">Virtual Reality Headsets</a></li>
+                          <li><a href="/us/mobile/wearable-tech/all-products">See All Gear</a></li>
                         </ul>
                     </li>
 
@@ -813,38 +703,28 @@ var omn_ss_loggedin = "not logged in";
                         </ul>
                     </li>
 
-                    <li class="mid" data-category="Blu-ray &amp; Smart Players">
-                        <a href="#">Blu-ray &amp; Smart Players <i class="chevron-down"></i></a>
+                    <li class="mid" data-category="Smart Home">
+                        <a href="#">Smart Home <i class="chevron-down"></i></a>
                         <ul>
-                            <li><a href="/us/video/blu-ray-dvd">Blu-ray Players</a></li>
-                            <li><a href="/us/video/smart-media-player">Smart Media Players</a></li>
+                            <li><a href="/us/smart-home/kit">Kits</a></li>
+                            <li><a href="/us/smart-home/hub">Hubs</a></li>
+                            <li><a href="/us/smart-home/sensor">Sensors</a></li>
+                            <li><a href="/us/smart-home/outlet">Outlets</a></li>
                         </ul>
                     </li>
 
                     <li class="mid" data-category="Home Theater &amp; Audio">
                         <a href="#">Home Theater &amp; Audio <i class="chevron-down"></i></a>
                         <ul>
-                            <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
-                            <li><a href="/us/video/home-audio/all-products?filter=Multi-room%20Audio">Multi-Room Audio</a></li>
+                            <li><a href="/us/video/multi-room">Wireless Multiroom Audio</a></li>
                             <li><a href="/us/video/soundbars">Soundbars</a></li>
-                            <li><a href="/us/video/wireless-audio-docks">Wireless Audio Docks</a></li>
-                            <li><a href="/us/video/portable-speaker">Portable Speakers</a></li>
                             <li><a href="/us/video/giga-sound-systems">Giga Sound Systems</a></li>
+                            <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
+                            <li><a href="/us/video/blu-ray-players">Blu-ray Players</a></li>
+                            <li><a href="/us/video/dvd-players">DVD Players</a></li>
                             <li><a href="/us/video/home-audio/">See All Home Audio Products</a></li>
                         </ul>
                     </li>
-
-                    <!--<li class="mid" data-category="Home Audio">
-                        <a href="#">Home Audio <i class="chevron-down"></i></a>
-                        <ul>
-                            <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
-                            <li><a href="/us/video/wireless-audio-docks">Wireless Audio Docks</a></li>
-                            <li><a href="/us/video/portable-speaker-systems">Portable Speaker Systems</a></li>
-                            <li><a href="/us/video/soundbars">Sounds Bars</a></li>
-                            <li><a href="/us/video/dvd-systems">DVD Home Theater Systems</a></li>
-                            <li><a href="/us/video/blu-ray-systems">Blu-ray Home Theater Systems</a></li>
-                        </ul>
-                    </li>-->
 
                     <li class="mid" data-category="Digital Cameras &amp; Camcorders">
                         <a href="#">Digital Cameras &amp; Camcorders <i class="chevron-down"></i></a>
@@ -853,9 +733,9 @@ var omn_ss_loggedin = "not logged in";
                             <li><a href="/us/photography/galaxy-camera">Galaxy Cameras</a></li>
                             <li><a href="/us/photography/compact-long-zoom">Long Zoom Cameras</a></li>
                             <li><a href="/us/photography/point-and-shoot">Point and Shoot Cameras</a></li>
-                            <li><a href="/us/photography/high-definition">HD Camcorders</a></li>
-                            <li><a href="/us/photography/digital-cameras/">See All Digital Cameras</a></li>
-                            <li><a href="/us/photography/camcorders/all-products">See All Digital Camcorders</a></li>
+                            <li><a href="/us/photography/digital-camcorders">HD Camcorders</a></li>
+                            <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.69535600/ThemeID.38225500">Refurbished Digital Cameras</a></li>
+                            <li><a href="/us/photography/digital-cameras/">See All Digital Cameras and Camcorders</a></li>
                         </ul>
                     </li>
 
@@ -872,16 +752,16 @@ var omn_ss_loggedin = "not logged in";
                     </li>
 
                     <li class="mid" data-category="Memory &amp; Storage">
-                        <a href="#">Memory &amp; Storage <i class="chevron-down"></i></a>
+                        <a href="#">Memory &amp; Storage<i class="chevron-down"></i></a>
                         <ul>
                             <li><a href="/us/computer/ssd-pro">SSD PRO</a></li>
                             <li><a href="/us/computer/ssd-evo">SSD EVO</a></li>
                             <li><a href="/us/computer/portable-ssd/">Portable SSD</a></li>
-                            <li><a href="/us/computer/memory-storage-accessories/">Memory Cards</a></li>
+                            <li><a href="/us/computer/memory-storage-accessories/">Memory Cards &amp; USB Drives</a></li>
                         </ul>
                     </li>
 
-                    
+
 
                     <li class="mid" data-category="LED Lighting">
                         <a href="#">LED Lighting <i class="chevron-down"></i></a>
@@ -893,9 +773,9 @@ var omn_ss_loggedin = "not logged in";
                     <li class="mid" data-category="Security and Monitoring">
                         <a href="#">Security &amp; Monitoring <i class="chevron-down"></i></a>
                         <ul>
-                            <li><a href="/us/security-and-monitoring/baby-monitors">Baby Monitors</a></li>
                             <li><a href="/us/security-and-monitoring/ip-cameras">IP Cameras</a></li>
                             <li><a href="/us/security-and-monitoring/security-systems/">Security Systems</a></li>
+                            <li><a href="/us/security-and-monitoring/baby-monitors">Baby Monitors</a></li>
                         </ul>
                     </li>
 
@@ -909,33 +789,22 @@ var omn_ss_loggedin = "not logged in";
                             <li><a href="/us/computer/printers-accessories">Printer Accessories</a></li>
                             <li><a href="/us/computer/pcs-accessories">PC Accessories</a></li>
                             <li><a href="/us/photography/digital-cameras-accessories">Digital Camera Accessories</a></li>
-                            <li><a href="/us/photography/camcorders-accessories">Digital Camcorder Accessories</a></li>
                             <li><a href="/us/appliances/refrigerators-accessories">Refrigerator Accessories</a></li>
                             <li><a href="/us/appliances/washers-dryers-accessories">Washer &amp; Dryer Accessories</a></li>
                             <li><a href="/us/security-and-monitoring/security-systems-accessories/">Security System Accessories</a></li>
-                            <li><a href="/us/security-and-monitoring/baby-monitors-accessories/">Baby Monitor Accessories</a></li>
                             <li><a href="/us/appliances/vacuums-accessories/">Vacuum Accessories</a></li>
                         </ul>
                     </li>
-                    <!--<li class="mid" data-category="Help With Your Order">
-                        <a href="" class="last">Help With Your Order <i class="chevron-down"></i></a>
-                        <ul>
-                            <li><a href="/us/support/contact-customer-services/">Track Your Order</a></li>
-                            <li><a href="/us/support/contact-customer-services/">See Your Order History</a></li>
-                            <li><a href="/us/support/contact-customer-services/">Store FAQs</a></li>
-                            <li><a href="/us/support/contact-customer-services/">Return Your Order</a></li>
-                            <li><a href="/us/support/contact-customer-services/">Cancel Your Order</a></li>
-                        </ul>
-                    </li>-->
                 </ul>
             </li>
 
             <li class="top" data-category="Apps">
                 <a href="#">Apps <i class="chevron-down"></i></a>
                 <ul>
-                    <li><a href="/us/appstore/">TV &amp; Blu-ray Apps</a></li>
-                    <li><a href="/us/showcase/milk/">Milk Music</a></li>
-                    <li><a href="/us/showcase/milk-video/">Milk Video</a></li>
+                    <li><a href="/us/apps/">Apps For Every Screen</a></li>
+                    <li><a href="/us/showcase/milk/">Samsung Milk Music</a></li>
+                    <li><a href="/us/samsung-pay/">Samsung Pay</a></li>
+                    <li><a href="/us/samsung-plus/">Samsung+</a></li>
                     <li><a href="/us/smart-switch/">Smart Switch</a></li>
                 </ul>
             </li>
@@ -944,37 +813,179 @@ var omn_ss_loggedin = "not logged in";
                 <a href="#">Owners &amp; Support<i class="chevron-down"></i></a>
                 <ul>
                     <li><a href="/us/support/">Get Support</a></li>
-              <li><a href="/us/support/account/">Samsung Account</a></li>
-              <li><a href="/us/support/get-started">Set Up Your New Device</a></li>
-              <li><a href="/us/experience/skills-workshop/">Samsung Skills Workshop</a></li>
-              <li><a href="/us/support/register/product">Register Your Device</a></li>
-              <li><a href="/us/support/downloads">Manuals &amp; Downloads</a></li>
-              <li><a href="/us/support/contact-customer-services/">Help With Your Order</a></li>
-              <li><a href="/us/support/contact">Contact Support</a></li>
+                    <li><a href="/us/support/account/">Samsung Account</a></li>
+                    <li><a href="/us/support/get-started">Set Up Your New Device</a></li>
+                    <li><a href="/us/experience/skills-workshop/">Samsung Skills Workshop</a></li>
+                    <li><a class="registerDevice" href="/us/support/account/">Register Your Device</a></li>
+                    <li><a href="/us/support/downloads">Manuals &amp; Downloads</a></li>
+                    <li><a href="/us/support/contact-customer-services/">Help With Your Order</a></li>
+                    <li><a href="/us/support/contact">Contact Support</a></li>
                 </ul>
             </li>
-        <li class="top" data-category="Milk Music">
-            
-        <a href="https://play.google.com/store/apps/details?id=com.samsung.mdl.radio&amp;hl=en" target="_blank"><img src="/us/images/header/milk-navigation.png" width="25px" height="30px"></a>
-        </li>
         </ul>
 
         <ul class="extra-menu">
-            <li>
-                <a href="/us/business" data-link_id="topnav_business" data-link_cat="business" data-link_position="topnav" data-link_meta="link_name:business" data-glb_nav_type="m">For Business</a>
-            </li>
-            <li>
-                <a href="/us/aboutsamsung" data-link_id="topnav_about" data-link_cat="about us" data-link_position="topnav" data-link_meta="link_name:about us" data-glb_nav_type="m">About Us</a>
-            </li>
-            <li>
-                <a href="http://samsung.apptend.com/" class="grey-gradient blue omniture live-chat" data-link_meta="link_name:live chat" data-link_position="topnav" data-link_cat="live chat" data-link_id="topnav_livechat">Live Chat</a>
-            </li>
-            <li>
-                <a href="javascript:void(0);" onclick="OOo.oo_feedback.show()">Feedback</a>
-            </li>
+            <li><a href="/us/business" data-link_id="topnav_business" data-link_cat="business" data-link_position="topnav" data-link_meta="link_name:business" data-glb_nav_type="m">For Business</a></li>
+            <li><a href="/us/aboutsamsung" data-link_id="topnav_about" data-link_cat="about us" data-link_position="topnav" data-link_meta="link_name:about us" data-glb_nav_type="m">About Us</a></li>
+            <li><a href="http://livechatmobile.biz/" class="grey-gradient blue omniture live-chat" data-link_meta="link_name:live chat" data-link_position="topnav" data-link_cat="live chat" data-link_id="topnav_livechat">Live Chat</a></li>
+            <li><a href="#" id="oo-feedback-mobile">Feedback</a></li>
         </ul>
     </div>
 </nav>
+
+<style>
+@media screen and (max-width: 767px) {
+    #globalext {
+        display: none;
+    }
+    #globalext.show-dk {
+        display: none;
+    }
+}
+@media screen and (min-width: 768px) {
+    /*black friday extender*/
+
+    #globalext {
+        position: relative;
+        height: 50px;
+        width: 100%;
+        display: none;
+        background-color: #ffffff;
+        background-size: cover;
+        color: #000000;
+        overflow:hidden;
+    }
+
+    #globalext.show-dk {
+      display:block;
+    }
+
+    #globalext *:not(.desktop-img) {
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #globalext .extender {
+        position: relative;
+        height: 100%;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    #globalext .extender .globalext-cta {
+        float: right;
+        height: 100%;
+        text-align: left;
+        width: 25%;
+        margin: 0 auto;
+        -webkit-font-smoothing: antialiased;
+        -ms-font-smoothing: antialiased;
+        -o-font-smoothing: antialiased;
+        -moz-font-smoothing: antialiased;
+        font-smoothing: antialiased;
+        text-shadow: 0 0 0 rgba(255,255,255,1);
+    }
+
+    #globalext .extender .globalext-copy {
+        float: left;
+        width: 40%;
+        height: 100%;
+        margin: 0 5%;
+        -webkit-font-smoothing: antialiased;
+        -ms-font-smoothing: antialiased;
+        -o-font-smoothing: antialiased;
+        -moz-font-smoothing: antialiased;
+        font-smoothing: antialiased;
+        text-shadow: 0 0 0 rgba(255,255,255,1);
+    }
+    #globalext .extender > div > *:not(.globalext_cta-btn) {
+        line-height: normal;
+    }
+    #globalext .extender .globalext-logo {
+        width: 25%;
+        float: left;
+        height: 100%;
+        text-align: right;
+        margin: 0 auto;
+        -webkit-font-smoothing: antialiased;
+        -ms-font-smoothing: antialiased;
+        -o-font-smoothing: antialiased;
+        -moz-font-smoothing: antialiased;
+        font-smoothing: antialiased;
+        text-shadow: 0 0 0 rgba(255,255,255,1);
+    }
+    #globalext .extender .globalext-logo img {
+        width: 100%;
+        max-width: 296px;
+        position: relative;
+        top: 0;
+    }
+    #globalext .extender .globalext-copy h3.bf-text {
+        text-align: left;
+        font-family: "InterfaceR", Arial, Helvetica, "San-Serif";
+        font-size: .8em;
+        font-weight:bold;
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    #globalext .extender .globalext_cta-btn {
+        display: inline-block;
+        font-family: InterfaceR, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #000000;
+        text-transform: uppercase;
+        position:relative;
+        background: transparent;
+        padding: 10px 40px;
+        border: 1px solid #000000;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    #globalext .extender .globalext_cta-btn:hover {
+        background: #000000;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+
+}
+@media screen and (min-width: 1168px) {
+    #globalext {
+        height: 70px;
+    }
+    #globalext .extender .globalext-copy h3.bf-text {
+        font-size: 1.15em;
+    }
+}
+
+</style>
+<!-- BEGIN GLOBAL EXTENDER -->
+<div id="globalext">
+    <div class="extender">
+        <div class="globalext-logo">
+            <img src="/us/ssi/5.0/images/extender/superbowl_gnb_extender.png" alt="shop-deal">
+        </div>
+        <div class="globalext-copy">
+            <h3 class="bf-text">Celebrate 50 Years of Football with $200 off your purchase<br>Plus, enter to win a $23K Game Day giveaway</h3>
+        </div>
+         <div class="globalext-cta">
+            <a href="/us/explore/latest-galaxy-smartphones/#promo" data-link_meta="link_name:learn more" data-link_id="gnb_extender_samsung_pay" data-link_location="global extender" data-link_position="global extender > samsung pay" data-link_cat="learn more" class="globalext_cta-btn">Learn More</a>
+        </div>
+    </div>
+</div>
+<!-- END GLOBAL EXTENDER -->
 <div class="breadcrumbs">
     <div class="container-fluid">
         <div class="row-fluid">
@@ -1357,291 +1368,295 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 		
 	
 	<div id="footer">
-		<footer id="footer" role="contentinfo" class="gnb-footer">
+		
+<footer id="footer" role="contentinfo" class="gnb-footer">
 <div class="footer-top">
-	<div class="container-fluid full-mobile">
-		<div class="row-fluid reflow">
-			<div class="span16 left-column">
-				<div class="row-fluid visible-phone back-to-top">
-					<a href="#top">Back to Top</a>
-				</div>
-				<div class="row-fluid footer-store">
-					<a href="/us" class="hidden-phone home" data-link_id="footer_samsung.com" data-link_cat="samsung.com" data-link_position="footer-nav" data-link_meta="link_name:samsung.com">Samsung.com</a>
-					<h2 class="footer-store-header root visible-phone">Shop Products <i class="chevron-down"></i></h2>
-					<div class="footer-store-body">
-						<div class="footer-store-links">
-							<div class="hidden-phone">
-								<a href="/us/shop" data-link_id="footer_shop_products" data-link_cat="shop_products" data-link_position="footer-nav" data-link_meta="link_name:shop products">Shop Products</a>
-							</div>
-							<div class="hidden-phone">
-								<a href="/us/shop/accessories" data-link_id="footer_shop_accessories" data-link_cat="shop_accessories" data-link_position="footer-nav" data-link_meta="link_name:shop accessories">Shop Accessories</a>
-							</div>
-							<div>
-								<a href="https://shop.us.samsung.com/store?Action=DisplayPage&amp;Locale=en_US&amp;SiteID=samsung&amp;id=ThreePgCheckoutShoppingCartPage" data-link_id="footer_cart" data-link_cat="cart click" data-link_position="footer-nav" data-link_meta="link_name:view cart"><i class="icons-cart-gray"></i>Shopping Cart</a>
-							</div>
-							<div class="refurbished">
-								<a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" data-link_id="footer_shop_refurbished" data-link_cat="shop click" data-link_position="footer-nav" data-link_meta="link_name:shop certified refurbished" target="_blank">Shop Refurbished</a>
-							</div>
-						</div>
-						<div class="row-fluid footer-store-products">
-							<div class="span6">
-								<h2>Shop Samsung <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/shop/">Shop All Products</a></li>
-									<li><a href="/us/shop/accessories">Shop All Accessories</a></li>
-									<li><a href="/us/shop/special-offers">Special Offers Online</a></li>
-									<li><a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" target="_blank">Shop Certified Refurbished</a></li>
-								</ul>
-								<h2>Cell Phones <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/mobile/cell-phones/all-products?filter=galaxy-s">Galaxy S Phones</a></li>
-									<li><a href="/us/mobile/cell-phones/all-products?filter=galaxy-note">Galaxy Note Phones</a></li>
-									<li><a href="/us/mobile/cell-phones/">Cell Phones</a></li>
-									<li><a href="/us/mobile/cell-phones/all-products?filter=prepaid">Prepaid/No Contract</a></li>
-									<li><a href="/us/mobile/at-t">AT&amp;T Cell Phones</a></li>
-									<li><a href="/us/mobile/verizon-wireless">Verizon Wireless Cell Phones</a></li>
-									<li><a href="/us/mobile/sprint">Sprint Cell Phones</a></li>
-									<li><a href="/us/mobile/t-mobile">T-Mobile Cell Phones</a></li>
-									<li><a href="/us/mobile/us-cellular">U.S. Cellular Cell Phones</a></li>
-									<li><a href="/us/mobile/cell-phones/all-products?filter=more-carriers">More Carriers</a></li>
-									<li><a href="/us/mobile/cell-phones/all-products">See All Cell Phones</a></li>
-								</ul>
-								<h2>TVs <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/video/4k-suhd-tv">4K SUHD TVs</a></li>
-									<li><a href="/us/video/uhd-tv">4K UHD TVs</a></li>
-									<li><a href="/us/video/led-tv">LED TVs</a></li>
-									<li><a href="/us/video/plasma-tv">Plasma TVs</a></li>
-									<li><a href="/us/video/tvs">See All TVs</a></li>
-								</ul>
-							</div>
-							<div class="span6">
-								<h2>Tablets <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/mobile/galaxy-tab/">Galaxy Tabs</a></li>
-									<li><a href="/us/mobile/galaxy-note/">Galaxy Notes</a></li>
-									<li><a href="/us/mobile/wi-fi-tabs">Wi-Fi Tablets</a></li>
-									<li><a href="/us/mobile/galaxy-tab/all-products?filter=4G-LTE">4G / LTE Tablets</a></li>
-									<li><a href="/us/mobile/galaxy-tab/all-products">See All Galaxy Tablets</a></li>
-								</ul>
-								<h2>Wearable Tech <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/mobile/wearable-tech/all-products?filter=gear-s">Gear S</a></li>
-									<li><a href="/us/mobile/wearable-tech/all-products?filter=gear-2">Gear 2</a></li>
-									<li><a href="/us/mobile/wearable-tech/all-products?filter=gear-fit">Gear Fit</a></li>
-									<li><a href="/us/mobile/wearable-tech/all-products?filter=gear-live">Gear Live</a></li>
-									<li><a href="/us/mobile/wearable-tech/all-products?filter=gear-vr">Gear VR</a></li>
-									<li><a href="/us/mobile/wearable-tech/all-products">See All Gear</a></li>
-								</ul>
-								<h2>Blu-Ray &amp; Smart Players <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/video/blu-ray-dvd">Blu-ray Players</a></li>
-									<li><a href="/us/video/smart-media-player">Smart Media Players</a></li>
-								</ul>
-								<h2>Home Theater &amp; Audio <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/video/home-theater">Home Theater Systems</a></li>
-									<li><a href="/us/video/home-audio/all-products?filter=Multi-room%20Audio">Multi-Room Audio</a></li>
-									<li><a href="/us/video/soundbars">Soundbars</a></li>
-									<li><a href="/us/video/wireless-audio-docks">Wireless Audio Docks</a></li>
-									<li><a href="/us/video/portable-speaker">Portable Speakers</a></li>
-									<li><a href="/us/video/giga-sound-systems">Giga Sound Systems</a></li>
-									<li><a href="/us/video/home-audio/all-products?filter=Shelf%20Stereo%20Systems">Shelf Stereo Systems</a></li>
-									<li><a href="/us/video/home-audio/all-products">See All Home Audio Products</a></li>
-								</ul>
-							</div>
-							<div class="span6">
-								<!--<h2>Audio <i class="chevron-down"></i></h2>
-<ul>
-<li><a href="/us/video/shelf-stereo-systems">Shelf Stereo Systems</a></li>
-<li><a href="/us/video/wireless-audio-docks">Wireless Audio Docks</a></li>
-<li><a href="/us/video/portable-speaker-systems">Portable Speaker</a></li>
-</ul>-->
-								<h2>Digital Cameras &amp; Camcorders <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/photography/interchangeable-lens">Interchangeable Lens Cameras</a></li>
-									<li><a href="/us/photography/galaxy-camera">Galaxy Cameras</a></li>
-									<li><a href="/us/photography/compact-long-zoom">Long Zoom Cameras</a></li>
-									<li><a href="/us/photography/point-and-shoot">Point and Shoot Cameras</a></li>
-									<li><a href="/us/photography/high-definition">HD Camcorders</a></li>
-									<li><a href="/us/photography/digital-cameras/all-products">See All Digital Cameras</a></li>
-									<li><a href="/us/photography/camcorders/all-products">See All Digital Camcorders</a></li>
-								</ul>
-								<h2>Computing <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/computer/laptops">Laptops</a></li>
-									<li><a href="/us/computer/chrome-os-devices">Chrome Devices</a></li>
-									<li><a href="/us/computer/all-in-one-pcs">All-In-One PCs</a></li>
-									<li><a href="/us/computer/monitors">Monitors</a></li>
-									<li><a href="/us/computer/printers">Printers</a></li>
-									<li><a href="/us/computer/pcs/all-products">See All PCs</a></li>
-								</ul>
-								<h2>Memory &amp; Storage <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/computer/ssd-pro">SSD PRO</a></li>
+  <div class="container-fluid full-mobile">
+    <div class="row-fluid reflow">
+      <div class="span16 left-column">
+        <div class="row-fluid visible-phone back-to-top">
+          <a href="#top">Back to Top</a>
+        </div>
+        <div class="row-fluid footer-store">
+          <a href="/us" class="hidden-phone home" data-link_id="footer_samsung.com" data-link_cat="samsung.com" data-link_position="footer-nav" data-link_meta="link_name:samsung.com">Samsung.com</a>
+          <h6 class="footer-store-header root visible-phone">Shop Products <i class="chevron-down"></i></h6>
+          <div class="footer-store-body">
+            <div class="footer-store-links">
+              <div class="hidden-phone">
+                <a href="/us/shop" data-link_id="footer_shop_products" data-link_cat="shop_products" data-link_position="footer-nav" data-link_meta="link_name:shop products">Shop Products</a>
+              </div>
+              <div class="hidden-phone">
+                <a href="/us/shop/accessories" data-link_id="footer_shop_accessories" data-link_cat="shop_accessories" data-link_position="footer-nav" data-link_meta="link_name:shop accessories">Shop Accessories</a>
+              </div>
+              <div>
+                <a href="https://shop.us.samsung.com/store?Action=DisplayPage&amp;Locale=en_US&amp;SiteID=samsung&amp;id=ThreePgCheckoutShoppingCartPage" data-link_id="footer_cart" data-link_cat="cart click" data-link_position="footer-nav" data-link_meta="link_name:view cart"><i class="icons-cart-gray"></i>Shopping Cart</a>
+              </div>
+              <div class="refurbished">
+                <a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" data-link_id="footer_shop_refurbished" data-link_cat="shop click" data-link_position="footer-nav" data-link_meta="link_name:shop certified refurbished" target="_blank">Shop Refurbished</a>
+              </div>
+            </div>
+            <div class="row-fluid footer-store-products">
+              <div class="span6">
+                <h6>Shop Samsung <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/shop/">Shop All Products</a></li>
+                  <li><a href="/us/shop/accessories">Shop All Accessories</a></li>
+                  <li><a href="/us/shop/special-offers">Special Offers Online</a></li>
+                  <li><a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" target="_blank">Certified Refurbished Products</a></li>
+                </ul>
+                <h6>Cell Phones <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/mobile/cell-phones/all-products?filter=galaxy-s">Galaxy S Phones</a></li>
+                  <li><a href="/us/mobile/cell-phones/all-products?filter=galaxy-note">Galaxy Note Phones</a></li>
+                  <li><a href="/us/mobile/cell-phones/">Cell Phones</a></li>
+                  <li><a href="/us/mobile/cell-phones/all-products?filter=prepaid">Prepaid/No Contract</a></li>
+                  <li><a href="/us/mobile/at-t">AT&amp;T Cell Phones</a></li>
+                  <li><a href="/us/mobile/verizon-wireless">Verizon Wireless Cell Phones</a></li>
+                  <li><a href="/us/mobile/sprint">Sprint Cell Phones</a></li>
+                  <li><a href="/us/mobile/t-mobile">T-Mobile Cell Phones</a></li>
+                  <li><a href="/us/mobile/us-cellular">U.S. Cellular Cell Phones</a></li>
+                  <li><a href="/us/mobile/cell-phones/all-products?filter=more-carriers">More Carriers</a></li>
+                  <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.70010500/ThemeID.38225500">Certified Pre-Owned Phones</a></li>
+                  <li><a href="/us/mobile/cell-phones/all-products">See All Cell Phones</a></li>
+                </ul>
+                <h6>TVs <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/video/4k-suhd-tv">4K SUHD TVs</a></li>
+                  <li><a href="/us/video/uhd-tv">4K UHD TVs</a></li>
+                  <li><a href="/us/video/led-tv">LED TVs</a></li>
+                  <li><a href="/us/video/tvs">See All TVs</a></li>
+                </ul>
+              </div>
+              <div class="span6">
+                <h6>Tablets <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/mobile/galaxy-tab/">Galaxy Tabs</a></li>
+                  <li><a href="/us/mobile/galaxy-note/">Galaxy Notes</a></li>
+                  <li><a href="/us/mobile/wi-fi-tabs">Wi-Fi Tablets</a></li>
+                  <li><a href="/us/mobile/galaxy-tab/all-products?filter=4G-LTE">4G / LTE Tablets</a></li>
+                  <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.67795500/ThemeID.38225500">Refurbished Tablets</a></li>
+                  <li><a href="/us/mobile/galaxy-tab/all-products">See All Galaxy Tablets</a></li>
+                </ul>
+                <h6>Wearable Tech <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/mobile/wearable-tech/all-products?filter=smartwatches">Smartwatches</a></li>
+                  <li><a href="/us/mobile/wearable-tech/all-products?filter=virtual-reality-headsets">Virtual Reality Headsets</a></li>
+                  <li><a href="/us/mobile/wearable-tech">See All Gear</a></li>
+                </ul>
+                
+                <h6>Home Theater &amp; Audio <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/video/multi-room">Wireless Multiroom Audio</a></li>
+                  <li><a href="/us/video/soundbars">Soundbars</a></li>
+                  <li><a href="/us/video/giga-sound-systems">Giga Sound Systems</a></li>
+                  <li><a href="/us/video/home-theater">Home Theater Systems</a></li>
+                  <li><a href="/us/video/blu-ray-players">Blu-ray Players</a></li>
+                  <li><a href="/us/video/dvd-players">DVD Players</a></li>
+                  <li><a href="/us/video/home-audio/">See All Home Audio Products</a></li>
+                </ul>
+              </div>
+              <div class="span6">
+                
+                <h6>Digital Cameras &amp; Camcorders <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/photography/interchangeable-lens">Interchangeable Lens Cameras</a></li>
+                  <li><a href="/us/photography/galaxy-camera">Galaxy Cameras</a></li>
+                  <li><a href="/us/photography/compact-long-zoom">Long Zoom Cameras</a></li>
+                  <li><a href="/us/photography/point-and-shoot">Point and Shoot Cameras</a></li>
+                  <li><a href="/us/photography/digital-camcorders">HD Camcorders</a></li>
+                  <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.69535600/ThemeID.38225500">Refurbished Digital Cameras</a></li>
+                  <li><a href="/us/photography/digital-cameras/">See All Digital Cameras and Camcorders</a></li>
+                </ul>
+                <h6>Computing <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/computer/laptops">Laptops</a></li>
+                  <li><a href="/us/computer/chrome-os-devices">Chrome Devices</a></li>
+                  <li><a href="/us/computer/all-in-one-pcs">All-In-One PCs</a></li>
+                  <li><a href="/us/computer/monitors">Monitors</a></li>
+                  <li><a href="/us/computer/printers">Printers</a></li>
+                  <li><a href="/us/computer/pcs/all-products">See All PCs</a></li>
+                </ul>
+                <h6>Memory &amp; Storage <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/computer/ssd-pro">SSD PRO</a></li>
                   <li><a href="/us/computer/ssd-evo">SSD EVO</a></li>
                   <li><a href="/us/computer/portable-ssd/">Portable SSD</a></li>
-                  <li><a href="/us/computer/memory-storage-accessories/">Memory Cards</a></li>
-								</ul>
-							</div>
-							<div class="span6">
-								<h2>Home Appliances <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/appliances/washers-dryers">Washers &amp; Dryers</a></li>
-									<li><a href="/us/appliances/refrigerators">Refrigerators</a></li>
-									<li><a href="/us/appliances/microwaves">Microwaves</a></li>
-									<li><a href="/us/appliances/dishwashers">Dishwashers</a></li>
-									<li><a href="/us/appliances/oven-ranges">Ranges</a></li>
-									<li><a href="/us/appliances/vacuums">Vacuums</a></li>
-								</ul>
-								<h2>LED Lighting <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/appliances/led-lighting">LED Home Lighting</a></li>
-								</ul>
-								<h2>Security &amp; Monitoring <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/security-and-monitoring/baby-monitors">Baby Monitors</a></li>
-									<li><a href="/us/security-and-monitoring/ip-cameras">IP Cameras</a></li>
-									<li><a href="/us/security-and-monitoring/security-systems/">Security Systems</a></li>
-								</ul>
-								<h2 class="last">Help With Your Order <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="http://shop.us.samsung.com/store/samsung/en_US/DisplayCustomerServiceOrderSearchPage/" target="_blank">Track Your Order</a></li>
-									<li><a href="/us/support/customer-shopping-faqs/">Store FAQs</a></li>
-									<li><a href="/us/support/customer-shopping-faqs/#questionID32">Return Your Order</a></li>
-									<li><a href="/us/support/customer-shopping-faqs/#questionID9">Cancel Your Order</a></li>
-									<li><a href="/us/support/">Product Support</a></li>
-								</ul>
-								<h2>Accessories <i class="chevron-down"></i></h2>
-								<ul>
-									<li><a href="/us/video/tvs-accessories">TV Accessories</a></li>
-									<li><a href="/us/mobile/cell-phones-accessories">Cell Phone Accessories</a></li>
-									<li><a href="/us/mobile/galaxy-tab-accessories">Tablet Accessories</a></li>
-									<li><a href="/us/computer/printers-accessories">Printer Accessories</a></li>
-									<li><a href="/us/computer/pcs-accessories">PC Accessories</a></li>
-									<li><a href="/us/photography/digital-cameras-accessories">Digital Camera Accessories</a></li>
-									<li><a href="/us/photography/camcorders-accessories">Digital Camcorder Accessories</a></li>
-									<li><a href="/us/appliances/refrigerators-accessories">Refrigerator Accessories</a></li>
-									<li><a href="/us/appliances/washers-dryers-accessories">Washer &amp; Dryer Accessories</a></li>
-									<li><a href="/us/security-and-monitoring/security-systems-accessories/">Security System Accessories</a></li>
-									<li><a href="/us/security-and-monitoring/baby-monitors-accessories/">Baby Monitor Accessories</a></li>
-									<li><a href="/us/appliances/vacuums-accessories/">Vacuum Accessories</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="span8 right-column">
-				<div class="row-fluid footer-pages ">
-					<!--C-->
-					<div class="span12">
-						<div class="column">
-							<h2 class="root">Discover <i class="chevron-down"></i></h2>
-							<ul>
-								<li><a href="/us/showcase/galaxy-smartphones-and-tablets/">Guide to the Galaxy</a></li>
-								<li><a href="/us/showcase/home-entertainment-televisions-and-audio/">Home Entertainment Has Never Been Better</a></li>
-								<li><a href="/us/showcase/all-in-one-pcs-tablet-and-laptop-computers/">A New Era of Computing</a></li>
-								<li><a href="/us/showcase/digital-cameras-and-lenses/">Share Life as it Happens</a></li>
-								<li><a href="/us/showcase/samsung-chef-collection/">Indulge Your Inner Gourmet</a></li>
-								<li><a href="http://techlife.samsung.com/" tagret="_blank">Tech Life: Ideas &amp; Inspiration</a></li>
-								<li><a href="/us/showcase/environmental-responsibility-through-eco-innovations/" tagret="_blank">Building a Smarter Future</a></li>
-							</ul>
-						</div>
-						<div class="column">
-							<h2 class="root">Apps &amp; Entertainment <i class="chevron-down"></i></h2>
-							<ul>
-								<li><a href="/us/appstore/">TV &amp; Blu-ray Apps</a></li>
-								<li><a href="/us/showcase/milk/">Milk Music</a></li>
-								<li><a href="/us/showcase/milk-video/">Milk Video</a></li>
-								<li><a href="/us/smart-switch/">Smart Switch</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="span12">
-						<div class="column">
-							<h2 class="root">Owners &amp; Support <i class="chevron-down"></i></h2>
-							<ul>
-								<li><a href="/us/support/">Get Support</a></li>
-								<li><a href="/us/support/get-started/galaxy-s-5/">Set Up Your Samsung Galaxy&nbsp;S5</a></li>
-								<li><a href="/us/support/get-started/galaxy-note-4/">Set Up Your Samsung Galaxy Note 4</a></li>
-								<li><a href="/us/support/account/">Samsung Account</a></li>
-								<li><a href="/us/support/register/product">Register Your Device</a></li>
-								<li><a href="/us/support/downloads">Manuals &amp; Downloads</a></li>
-								<li><a href="/us/support/contact-customer-services/">Help With Your Order</a></li>
-								<li><a href="/us/support/contact">Contact Support</a></li>
-								<li><a href="/us/accessibility/mobile" target="_blank">Accessibility</a></li>
-							</ul>
-						</div>
-						<div class="column">
-							<h2 class="root last">About Us <i class="chevron-down"></i></h2>
-							<ul>
-								<li><a href="/us/aboutsamsung/">About Samsung</a></li>
-								<li><a href="/us/aboutsamsung/careers/welcome/Careers_Welcome.html">Careers</a></li>
-								<li><a href="/us/aboutsamsung/sustainability/sustainablemanagement/">Sustainability</a></li>
-								<li><a href="/us/news/">News</a></li>
-								<li><a href="/us/corporate-citizenship/">Hope for Children</a></li>
-								<li><a href="/us/aboutsamsung/ir/newsMain.do">Investor Relations</a></li>
-								<li><a href="/us/aboutsamsung/citizenship/usactivities/environmentalinitiatives/recyclingdirect/">Product Recycling</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="row-fluid footer-search-social">
-					<div class="span24">
-						<!--D-->
-						<div class="footer-search">
-							<form action="/us/search/espsearch.us" method="get">
-								<input class="search" type="text" name="keyword" placeholder="Search" autocapitalize="off" autocorrect="off">
-								<button class="icons-search-gray"></button>
-							</form>
-						</div>
-						<div class="social-links">
-							<span>Follow Us</span>
-							<ul class="no-style">
-								<li><a target="_blank" data-link_id="footer_facebook" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:facebook" href="https://www.facebook.com/SamsungUSA"><i class="social-media facebook">Facebook</i></a></li>
-								<li><a target="_blank" data-link_id="footer_twitter" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:twitter" href="https://twitter.com/samsungtweets"><i class="social-media twitter">Twitter</i></a></li>
-								<li><a target="_blank" data-link_id="footer_google" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:google" href="https://plus.google.com/+SamsungUSA/posts"><i class="social-media google">Google+</i></a></li>
-								<li><a target="_blank" data-link_id="footer_instagram" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:instagram" href="http://instagram.com/samsungusa#"><i class="social-media instagram">Instagram</i></a></li>
-								<li><a target="_blank" data-link_id="footer_youtube" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:youtube" href="http://www.youtube.com/user/samsungusatube"><i class="social-media youtube">You Tube</i></a></li>
-								<li><a target="_blank" data-link_id="footer_email" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:email" href="http://www.samsung.com/us/sign-up.us"><i class="social-media email">Email</i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+                  <li><a href="/us/computer/memory-storage-accessories/">Memory Cards &amp; USB Drives</a></li>
+                </ul>
+              </div>
+              <div class="span6">
+                <h6>Home Appliances <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/appliances/washers-dryers">Washers &amp; Dryers</a></li>
+                  <li><a href="/us/appliances/refrigerators">Refrigerators</a></li>
+                  <li><a href="/us/appliances/microwaves">Microwaves</a></li>
+                  <li><a href="/us/appliances/dishwashers">Dishwashers</a></li>
+                  <li><a href="/us/appliances/oven-ranges">Ranges</a></li>
+                  <li><a href="/us/appliances/vacuums">Vacuums</a></li>
+                </ul>
+
+                <h6>SMART HOME <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/smart-home/kit">Kits</a></li>
+                  <li><a href="/us/smart-home/hub">Hubs</a></li>
+                  <li><a href="/us/smart-home/sensor">Sensors</a></li>
+                  <li><a href="/us/smart-home/outlet">Outlets</a></li>
+                  <li><a href="/us/smart-home/smart-products/all-products">See All Smart Home Products</a></li>
+                </ul>
+
+                <h6>LED Lighting <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/appliances/led-lighting">LED Home Lighting</a></li>
+                </ul>
+                <h6>Security &amp; Monitoring <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/security-and-monitoring/ip-cameras">IP Cameras</a></li>
+                  <li><a href="/us/security-and-monitoring/security-systems/">Security Systems</a></li>
+                  <li><a href="/us/security-and-monitoring/baby-monitors">Baby Monitors</a></li>
+                </ul>
+                <h6 class="last">Help With Your Order <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="http://shop.us.samsung.com/store/samsung/en_US/DisplayCustomerServiceOrderSearchPage/" target="_blank">Track Your Order</a></li>
+                  <li><a href="/us/support/customer-shopping-faqs/">Store FAQs</a></li>
+                  <li><a href="/us/support/customer-shopping-faqs/#questionID32">Return Your Order</a></li>
+                  <li><a href="/us/support/customer-shopping-faqs/#questionID9">Cancel Your Order</a></li>
+                  <li><a href="/us/support/">Product Support</a></li>
+                </ul>
+                <h6>Accessories <i class="chevron-down"></i></h6>
+                <ul>
+                  <li><a href="/us/video/tvs-accessories">TV Accessories</a></li>
+                  <li><a href="/us/mobile/cell-phones-accessories">Cell Phone Accessories</a></li>
+                  <li><a href="/us/mobile/galaxy-tab-accessories">Tablet Accessories</a></li>
+                  <li><a href="/us/computer/printers-accessories">Printer Accessories</a></li>
+                  <li><a href="/us/computer/pcs-accessories">PC Accessories</a></li>
+                  <li><a href="/us/photography/digital-cameras-accessories">Digital Camera Accessories</a></li>
+                  <li><a href="/us/photography/camcorders-accessories">Digital Camcorder Accessories</a></li>
+                  <li><a href="/us/appliances/refrigerators-accessories">Refrigerator Accessories</a></li>
+                  <li><a href="/us/appliances/washers-dryers-accessories">Washer &amp; Dryer Accessories</a></li>
+                  <li><a href="/us/security-and-monitoring/security-systems-accessories/">Security System Accessories</a></li>
+                  <li><a href="/us/appliances/vacuums-accessories/">Vacuum Accessories</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="span8 right-column">
+        <div class="row-fluid footer-pages ">
+          <!--C-->
+          <div class="span12">
+            <div class="column discover">
+              <h6 class="root">Discover <i class="chevron-down"></i></h6>
+              <ul>
+                <!-- <li><a href="/us/showcase/galaxy-smartphones-and-tablets/">Guide to the Galaxy</a></li> -->
+                <li><a href="/us/showcase/home-entertainment-televisions-and-audio/">Home Entertainment Has Never Been Better</a></li>
+                <li><a href="/us/showcase/all-in-one-pcs-tablet-and-laptop-computers/">A New Era of Computing</a></li>
+                <li><a href="/us/showcase/digital-cameras-and-lenses/">Share Life as it Happens</a></li>
+                <li><a href="/us/showcase/samsung-chef-collection/">Indulge Your Inner Gourmet</a></li>
+                <li><a href="http://techlife.samsung.com/" tagret="_blank">Tech Life: Ideas &amp; Inspiration</a></li>
+                <li><a href="/us/showcase/environmental-responsibility-through-eco-innovations/" tagret="_blank">Building a Smarter Future</a></li>
+              </ul>
+            </div>
+            <div class="column">
+              <h6 class="root">Apps &amp; Entertainment <i class="chevron-down"></i></h6>
+              <ul>
+                <li><a href="/us/apps/">Apps For Every Screen</a></li>
+                <li><a href="/us/showcase/milk/">Samsung Milk Music</a></li>
+                <li><a href="/us/samsung-pay/">Samsung Pay</a></li>
+                <li><a href="/us/samsung-plus/">Samsung+</a></li>
+                <li><a href="/us/smart-switch/">Smart Switch</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="span12">
+            <div class="column">
+              <h6 class="root">Owners &amp; Support <i class="chevron-down"></i></h6>
+              <ul>
+                <li><a href="/us/support/">Get Support</a></li>
+                <li><a href="/us/support/account/">Samsung Account</a></li>
+                <li><a href="/us/support/get-started/">Set Up Your New Device</a></li>
+                <li><a href="/us/experience/skills-workshop/">Samsung Skills Workshop</a></li>
+                <li><a href="/us/support/register/product">Register Your Device</a></li>
+                <li><a href="/us/support/downloads">Manuals &amp; Downloads</a></li>
+                <li><a href="/us/support/contact-customer-services/">Help With Your Order</a></li>
+                <li><a href="/us/support/contact">Contact Support</a></li>
+              </ul>
+            </div>
+            <div class="column">
+              <h6 class="root last">About Us <i class="chevron-down"></i></h6>
+              <ul>
+                <li><a href="/us/aboutsamsung/">About Samsung</a></li>
+                <li><a href="/us/aboutsamsung/careers/welcome/Careers_Welcome.html">Careers</a></li>
+                <li><a href="/us/aboutsamsung/sustainability/sustainablemanagement/">Sustainability</a></li>
+                <li><a href="/us/news/">News</a></li>
+                <li><a href="/us/samsunghopeforchildren/">Hope for Children</a></li>
+                <li><a href="/us/aboutsamsung/ir/newsMain.do">Investor Relations</a></li>
+                <li><a href="/us/aboutsamsung/citizenship/usactivities/environmentalinitiatives/recyclingdirect/">Product Recycling</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row-fluid footer-search-social">
+          <div class="span24">
+            <!--D-->
+            <div class="footer-search">
+              <form action="/us/search/searchMain" method="get" class="search-form">
+                                <input type="hidden" name="Dy" value="1">
+                  <input type="hidden" name="Nty" value="1">
+                                <input class="search" type="text" name="Ntt" placeholder="Search" autocapitalize="off" autocorrect="off">
+                                <button class="icons-search-gray"></button>
+                            </form>
+            </div>
+            <div class="social-links">
+              <span>Follow Us</span>
+              <ul class="no-style">
+                <li><a target="_blank" data-link_id="footer_facebook" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:facebook" href="https://www.facebook.com/SamsungUSA"><i class="social-media facebook">Facebook</i></a></li>
+                <li><a target="_blank" data-link_id="footer_twitter" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:twitter" href="https://twitter.com/samsungtweets"><i class="social-media twitter">Twitter</i></a></li>
+                <li><a target="_blank" data-link_id="footer_google" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:google" href="https://plus.google.com/+SamsungUSA/posts"><i class="social-media google">Google+</i></a></li>
+                <li><a target="_blank" data-link_id="footer_instagram" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:instagram" href="http://instagram.com/samsungusa#"><i class="social-media instagram">Instagram</i></a></li>
+                <li><a target="_blank" data-link_id="footer_youtube" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:youtube" href="http://www.youtube.com/user/samsungusatube"><i class="social-media youtube">You Tube</i></a></li>
+                <li><a target="_blank" data-link_id="footer_email" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:email" href="http://www.samsung.com/us/sign-up.us"><i class="social-media email">Email</i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 <!-- footer-top -->
 <!-- <div class="footer-legaltexts"></div> -->
 <div class="footer-bottom">
-	<div class="container-fluid">
-		<div class="row-fluid">
-			<div class="span14">
-				<ul class="nav">
-					<li><a href="/us/business/" class="first">For Business</a></li>
-					<li><a href="/us/common/privacy.html">Privacy</a></li>
-					<li><a href="/us/common/legal.html">Legal</a></li>
-					<li><a href="/us/common/sitemap.html">Sitemap</a></li>
-					<li><a href="/us/aboutsamsung/rss/rssFeedList.do">RSS</a></li>
-					<li><a href="/us/common/visitcountrysite.html">USA/English</a></li>
-				</ul>
-			</div>
-			<div class="span10">
-				<div class="copyright">
-					<p>
-						Copyright © 1995-2015 SAMSUNG All Rights reserved.
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span14">
+        <ul class="nav">
+          <li><a href="/us/business/" class="first">For Business</a></li>
+          <li><a href="/us/common/privacy.html">Privacy</a></li>
+          <li><a href="/us/common/legal.html">Legal</a></li>
+          <li><a href="/us/common/sitemap.html">Sitemap</a></li>
+          <li><a href="/us/aboutsamsung/rss/rssFeedList.do">RSS</a></li>
+          <li><a href="/us/common/visitcountrysite.html">USA/English</a></li>
+        </ul>
+      </div>
+      <div class="span10">
+        <div class="copyright">
+          <p>
+            Copyright © 1995-2015 SAMSUNG All Rights reserved.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 </footer>
-<script language="javascript" type="text/javascript" src="/us/onlineopinionV5/oo_style.js"></script>
-<script language="javascript" type="text/javascript" src="/us/onlineopinionV5/oo_engine.min.js"></script>
-<script language="javascript" type="text/javascript" src="/us/onlineopinionV5/oo_conf.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/us/onlineopinionV5/oo_style.css">
+<!-- MAIN OL ENGINE -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_engine.min.js"></script>
+<!-- FEEDBACK CONFIGURATION -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_conf_waypoint.js"></script>
+
 <!-- minified vendor scripts -->
 <script type="text/javascript" src="/us/consumer/js/library-nojquery.js"></script>
 
@@ -1657,50 +1672,153 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 
 
 <script type="text/javascript" src="/us/consumer/js/main.js"></script>
-<!-- uncomment these and comment out main.js for debugging -->
-<!--
-	<script src="/us/consumer/js/smg/global/cookies.js"></script>
-	<script src="/us/consumer/js/smg/global/back-to-top.js"></script>
-	<script src="/us/consumer/js/smg/global/query-string.js"></script>
-	<script src="/us/consumer/js/smg/global/load-more.js"></script>
-	<script src="/us/consumer/js/smg/global/share-flyout.js"></script>
-	<script src="/us/consumer/js/smg/global/show-more.js"></script>
-	<script src="/us/consumer/js/smg/global/tooltips.js"></script>
-	<script src="/us/consumer/js/smg/global/mini-tooltips.js"></script>
-	<script src="/us/consumer/js/smg/global/move-dom.js"></script>
-	<script src="/us/consumer/js/smg/global/browse-toggle.js"></script>
-	<script src="/us/consumer/js/smg/global/product-slider.js"></script>
-	<script src="/us/consumer/js/smg/global/new-window.js"></script>
-	<script src="/us/consumer/js/smg/global/close-window.js"></script>
-	<script src="/us/consumer/js/smg/global/panel-toggle-mq.js"></script>
-	<script src="/us/consumer/js/smg/global/accordion-tabs-switch.js"></script>
-	<script src="/us/consumer/js/smg/global/accordion-dropdown.js"></script>
-	<script src="/us/consumer/js/smg/global/tabs.js"></script>
-	<script src="/us/consumer/js/smg/global/affix.js"></script>
-	<script src="/us/consumer/js/smg/global/section-nav.js"></script>
-	<script src="/us/consumer/js/smg/global/tour.js"></script>
-	<script src="/us/consumer/js/smg/global/youtube-iframe-api.js"></script>
-	<script src="/us/consumer/js/smg/store/promo-carousel.js"></script>
-	<script src="/us/consumer/js/smg/product/compare-button.js"></script>
-	<script src="/us/consumer/js/smg/product/compare-carousel.js"></script>
-	<script src="/us/consumer/js/smg/product/customization-selector.js"></script>
-	<script src="/us/consumer/js/smg/product/product-carousel.js"></script>
-	<script src="/us/consumer/js/smg/product/scroll-nav-spy.js"></script>
-	<script src="/us/consumer/js/smg/product/product-image-hover.js"></script>
-	<script src="/us/consumer/js/smg/category/category-carousel.js"></script>
-	<script src="/us/consumer/js/smg/category/grid-toggle.js"></script>
-	<script src="/us/consumer/js/smg/accessories/accessories-carousel.js"></script>
-	<script src="/us/consumer/js/smg/account/password-strength.js"></script>
-	<script src="/us/consumer/js/smg/account/custom-validations.js"></script>
-	<script src="/us/consumer/js/smg/account/more-information-checkbox.js"></script>
-	<script src="/us/consumer/js/smg/global/global-init.js"></script>
--->
 <script type="text/javascript" src="/us/consumer/js/smg/global/digital-river.js"></script>
 <script type="text/javascript" src="/us/consumer/js/static/breadcrumbs.js"></script>
 
+<!-- MAIN OL ENGINE -->
+<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_engine.min.js"></script> -->
+<!-- FEEDBACK CONFIGURATION -->
+<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_conf_waypoint.js"></script> -->
+<!-- <noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript> -->
+<!-- END: OnlineOpinion v5.9.0 -->
+
+<!-- BEGIN ADD TO CART EXTENDER -->
+<div class="add-to-cart-modal-container" style="display:none;">
+    <div class="add-to-cart-modal hidden-phone">
+        <div class="modal-box ">
+            <h1 class="">Item Added</h1>
+            <div class="product-img"><img src="" alt=""></div>
+            <div class="product-info">
+                <div class="product-name"></div>
+                <div class="product-price"></div>
+                <div class="product-quantity"></div>
+            </div>
+        </div>
+        <div class="modal-box">
+            <h1>Shopping Cart</h1>
+            <div class="purchase-info">
+            	<div class="preloader">
+            		<div class="spinner">
+						<div class="bounce1"></div>
+						<div class="bounce2"></div>
+						<div class="bounce3"></div>
+						<div class="bounce4"></div>
+					</div>
+				</div>
+                <span class="number">SUBTOTAL&nbsp;</span>               
+                <span class="total"></span>
+            </div>
+            <div class="purchase-option">
+                <a data-link_cat="cart click" data-link_id="cartoverlay_view_cart" data-link_position="cart overlay" class="continue-shopping">VIEW SHOPPING CART</a>
+                <button data-link_cat="cart click" data-link_id="cartoverlay_check_out" data-link_position="cart overlay" class="button checkout">CHECKOUT</button>
+            </div>
+        </div>
+        <div class="cross-icon">
+            <icon class="icon-cross" id="add-to-cart-cross"></icon>
+        </div>
+    </div>
+    <div class="add-to-cart-modal hidden-desktop hidden-tablet">
+        <h1>Item Added to Cart</h1>
+        <div class="purchase-option">
+            <button data-link_cat="cart click" data-link_id="cartoverlay_view_cart" data-link_position="cart overlay" class="button continue-shopping">VIEW CART</button>
+            <button data-link_cat="cart click" data-link_id="cartoverlay_check_out" data-link_position="cart overlay" class="button checkout">CHECKOUT</button>
+        </div>
+        <div class="cross-icon">
+            <icon class="icon-cross" id="add-to-cart-cross-mobile"></icon>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+	 $(function() {
+	 smg.global.digitalRiver.loadCart();
+	  });
+</script>
 <script type="text/javascript" src="/us/scripts/common/s_code.js"></script>
 
 <!-- this include should only be loaded on EXISTING static pages -->
+		<!-- minified vendor scripts -->
+
+<script type="text/javascript" src="/us/consumer/js/library.js"></script>
+
+
+<script type="text/javascript" src="/us/consumer/js/globalTagging.js"></script>
+<script type="text/javascript" src="/us/search/js/queryComplete.js"></script>
+<script type="text/javascript" src="/us/consumer/js/common.js"></script>
+<script type="text/javascript" src="/us/consumer/js/sso.js"></script>
+<!-- minified gnb scripts -->
+<script type="text/javascript" src="/us/consumer/js/gnb.js"></script>
+
+<!-- unminified gnb scripts
+<script src="/us/consumer/js/smg/global/css-slide-toggle.js" type="text/javascript"></script>
+<script src="/us/consumer/js/smg/gnb/header.js" type="text/javascript"></script>
+<script src="/us/consumer/js/smg/footer/footer.js" type="text/javascript"></script>
+<script src="/us/consumer/js/smg/footer/footer-init.js" type="text/javascript"></script>
+<script src="/us/consumer/js/smg/gnb/gnb-init.js" type="text/javascript"></script>
+ --> 
+    <script type="text/javascript" src="/us/consumer/js/main.js"></script>
+<script type="text/javascript" src="/us/consumer/js/smg/global/digital-river.js"></script>
+<script type="text/javascript" src="/us/consumer/js/static/breadcrumbs.js"></script>
+
+<!-- MAIN OL ENGINE -->
+<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_engine.min.js"></script> -->
+<!-- FEEDBACK CONFIGURATION -->
+<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_conf_waypoint.js"></script> -->
+<!-- <noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript> -->
+<!-- END: OnlineOpinion v5.9.0 -->
+
+<!-- BEGIN ADD TO CART EXTENDER -->
+<div class="add-to-cart-modal-container" style="display:none;">
+    <div class="add-to-cart-modal hidden-phone">
+        <div class="modal-box ">
+            <h1 class="">Item Added</h1>
+            <div class="product-img"><img src="" alt=""></div>
+            <div class="product-info">
+                <div class="product-name"></div>
+                <div class="product-price"></div>
+                <div class="product-quantity"></div>
+            </div>
+        </div>
+        <div class="modal-box">
+            <h1>Shopping Cart</h1>
+            <div class="purchase-info">
+            	<div class="preloader">
+            		<div class="spinner">
+						<div class="bounce1"></div>
+						<div class="bounce2"></div>
+						<div class="bounce3"></div>
+						<div class="bounce4"></div>
+					</div>
+				</div>
+                <span class="number">SUBTOTAL&nbsp;</span>               
+                <span class="total"></span>
+            </div>
+            <div class="purchase-option">
+                <a data-link_cat="cart click" data-link_id="cartoverlay_view_cart" data-link_position="cart overlay" class="continue-shopping">VIEW SHOPPING CART</a>
+                <button data-link_cat="cart click" data-link_id="cartoverlay_check_out" data-link_position="cart overlay" class="button checkout">CHECKOUT</button>
+            </div>
+        </div>
+        <div class="cross-icon">
+            <icon class="icon-cross" id="add-to-cart-cross"></icon>
+        </div>
+    </div>
+    <div class="add-to-cart-modal hidden-desktop hidden-tablet">
+        <h1>Item Added to Cart</h1>
+        <div class="purchase-option">
+            <button data-link_cat="cart click" data-link_id="cartoverlay_view_cart" data-link_position="cart overlay" class="button continue-shopping">VIEW CART</button>
+            <button data-link_cat="cart click" data-link_id="cartoverlay_check_out" data-link_position="cart overlay" class="button checkout">CHECKOUT</button>
+        </div>
+        <div class="cross-icon">
+            <icon class="icon-cross" id="add-to-cart-cross-mobile"></icon>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+	 $(function() {
+	 smg.global.digitalRiver.loadCart();
+	  });
+</script>
 	</div>
 
 
