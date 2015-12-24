@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230115430id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224044518id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Advertise on TVGuide.co.uk - TV Guide UK TV Listings
+# Privacy Policy - TV Guide UK TV Listings
 
 |  TVGuide.co.uk Privacy Policy  
 
 
-This Policy identifies our current privacy policy with respect to any information you enter on our site www.tvguide.co.uk and any information derived whilst you are visiting our site. This policy applies to every visitor to our site.
+This Policy identifies our current privacy policy with respect to any information you enter on our site www.tvguide.co.uk, mobile apps, and Apple TV and any information derived whilst you are visiting these. This policy applies to every visitor to our site.
 
-**Do you gather information about my browsing patterns? **
+**Do you gather information about my browsing patterns on the site?**
+
+ ****
 
 We do gather information about your browsing patterns and activities throughout this site, however this information cannot be used to identify you and neither can we derive any personal information from this. It is gathered purely to enable us to track site statistics and to administer any difficulties relating to our site. This information is not made available to any third party.
+
+**What additional information do you store on TVGuide.co.uk apps and Apple TV and how will this be used?**
+
+We store all interactions a user has with the app, including alerts, programme clicks, programme and channel favourites, calendar additions and watch lists. The information we store cannot be used to identify you and nor can we derive any personal information from this. We only use this information to track app statistics and will not make this information available to any third party.
 
 **When I provide you with any personal information, what will it be used for? **
 
@@ -36,4 +42,4 @@ When you visit our website, we may store some information on your computer. This
 
 Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioral advertising, about cookies, and about how to turn this features off, please visit <http://www.youronlinechoices.com/uk/>
 
-If you have any further question regarding our policy please contact us using our [feedback page](http://www.tvguide.co.uk/comments.asp) | 
+If you have any further question regarding our policy please contact us using our [feedback page](https://web.archive.org/comments.asp) | 
