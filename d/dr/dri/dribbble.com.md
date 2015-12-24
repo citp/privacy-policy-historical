@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317163745id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225000332id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
 
 # Dribbble - Show and tell for designers
 
