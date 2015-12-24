@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505213000id_/http%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224131422id_/http%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.numbeo.com/common/) [Privacy Policy](http://www.numbeo.com/common/privacy.jsp)
 
 Numbeo.com has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which Numbeo.com uses, maintains and discloses information collected from its customers and users of its website.
 
