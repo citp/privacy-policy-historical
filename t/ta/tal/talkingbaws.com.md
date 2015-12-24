@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkingbaws.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630080431id_/http%3A//www.talkingbaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingbaws.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224223616id_/http%3A//talkingbaws.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Talking Baws
+# Privacy Policy - Talking Baws
 
 ***Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates.
 
