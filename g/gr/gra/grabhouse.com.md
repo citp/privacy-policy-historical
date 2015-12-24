@@ -1,82 +1,83 @@
-> *The following text is extracted and transformed from the grabhouse.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013530id_/https%3A//grabhouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabhouse.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224040431id_/https%3A//grabhouse.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | grabhouse.com
+# Privacy Policy | Grabhouse
 
-This Privacy Policy governs the manner in which Grabhouse collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.grabhouse.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Grabhouse.
+This document is published by virtue of a legal requirement under the provisions of the Information Technology Act, 2000 that require ‘intermediaries’ to publish the rules and regulations, privacy policy and terms for access or usage of our Website and is primarily governed by Rule 3 (1) of the Information Technology (Intermediaries guidelines) Rules, 2011.
 
-## Personal identification information
+Commitment
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Grabhouse intends to protect the privacy of its users (whether or not registered with Grabhouse) on its website being [www.grabhouse.com](https://grabhouse.com/) (“our Website") and the privacy of their data provided by them to Grabhouse from time to time. The privacy of our website users, whether you are our former or existing registered user or merely a visitor to our Website, is important to us and we are strongly committed to your right to privacy and to keeping your personal and other information secure. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. 
 
-## Non-personal identification information
+For the purpose of providing you with quality services, we require you to enroll yourself on our Website and get yourself registered. If you choose to become a registered member of our Website, you must provide your name, e-mail address, gender, date of birth, postal address, phone number, job role, occupation, a unique login name, password, password validation, (“Personal Information"). Some of our services may direct you to web domains of third parties. Personal Information (if any) provided by you on such web domains shall be dealt with them in the manner provided by the privacy policy of such third party web domains. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+It is hereby expressly stated that Grabhouse has no control whatsoever over information of its users posted on other websites. These Privacy Policy only deals with your Personal Information shared with us and we shall in no manner be liable/bound for protection of Personal Information (if any), which may be shared by you on such third party web domains. We encourage you to very carefully review the privacy policy of any third-party website you visit before using it and to be very cautious before you disclose your Personal Information on such websites.
 
-## Web browser cookies
+What type of information does [Grabhouse.com](https://grabhouse.com/) collect from you? Personal Information
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Grabhouse may ask for Personal Information from you at the time of registering you on Grabhouse to provide you the content and/or services that you request. 
 
-## How we use collected information
+Additionally, Grabhouse collects your other personal details including but not limited to your feedback, suggestions, views, etc. (“User Information") that may be shared/volunteered by you on our discussion forums or other pages which you may access or visit on our Website. You may note that User Information being in the public domain is available for access for all our Website’s users and visitors. You are advised to exercise discretion before you make such details public, as such information is vulnerable to miss-use and can be easily misused. Grabhouse in this regard fully disclaims any liability (ies) or claim(s), which may arise by use/misuse of User Information shared by you, by any third party or any party not known to Grabhouse. 
 
-Grabhouse may collect and use Users personal information for the following purposes:
+Any/all information exchanged by you with Grabhouse in the form of written communication, responses to emails, feedback required from you, participation in discussions, etc. shall be deemed to be confidential and shall be owned by Grabhouse and shall be available for the exclusive use of Grabhouse. 
 
-  * To improve customer service
-  * Information you provide helps us respond to your customer service requests and support needs more efficiently
-  * To personalize user experience 
-  * We may use the information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site 
-  * We may use feedback you provide to improve our products and services.
-  * To process payments 
-  * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To share your information with third parties 
-  * We may share or sell information with third parties for marketing or other purposes.
-  * To run a promotion, contest, survey or other Site feature 
-  * To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails 
-  * We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Our Website does not collect information about you except when you specifically and knowingly provide it. 
 
+Grabhouse DOES NOT trade or sell your Personal Information in any manner, except as specified herein, or if express consent is sought from you.
 
+Non-Personal Information
 
-## How we protect your information
+Grabhouse also collects certain other information from you on your visit to our Website such as your information about your operating system, browser type, the URL of the previous web site you visited, your internet service provider and your IP Address (“Non-personal Information"). This information cannot be easily used to personally identify you. We use Non-personal Information for the purposes including but not limited to troubleshoot connection problems, administer the Website, analyze trends, gather demographic information, to ascertain how our visitors use our website, including information relating to the frequency of visits to our web site, average length of visits, pages viewed during a visit, ensuring compliance with the applicable law, co-operating with law enforcement activities, etc. This information is used to improve the site content and performance. You also agree that Grabhouse may gather usage statistics and usage data from your use of our Website to evaluate your use of our products/services, to improve our products/services, Website content and to ensure that you are complying with the terms of the applicable agreements between you and Grabhouse. The statistics and data collected may or may not be aggregated. These statistics contain no Personal Information or User Information that can distinctly identify you. 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We may in future also share this information with third party service providers or third party advertisers to measure the overall effectiveness of our online advertising, content, and programming and for other bonifide purpose, as we may desire. By usage of our Website you expressly permit Grabhouse to access such information for one or more purposes deemed fit by Grabhouse.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+Cookies
 
-## Sharing your personal information
+Similar to other commercial web sites, our Website utilizes standard technology called "Cookies" and Web server logs to collect information about how our Website is used. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Cookies are only read by the server that places them, and are unable to interlay run programs on your computer, plant viruses or harvest your personal information. Cookies allow Web servers to recognize your computer each time you return to our Website including the date and time of visits, the pages viewed, time spent at our Website, and the Websites visited just before and just after our Website, verify your registration or password information (in case of registered users) during a particular session so that you do not have to input your password multiple times as you navigate the site and suggest products or services that may interest you. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Most web browsers automatically accept cookies. By changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. Grabhouse understands and supports your right to block any unwanted Internet activity, especially that of unscrupulous websites. However, blocking Grabhouse cookies may disable certain features on our Website and may make it impossible for you to use certain services available on our Website.
 
-## Third party websites
+Session Data
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+We automatically log generic information about your computer's connection to the Internet, which we call "session data", that is anonymous and not linked to any personal information. Session data consists of information such as the IP address, operating system, type of browser software being used by you and the activities conducted by you on our Website. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyze things such as the items visitors are likely to click on most, the manner in which visitors click preferences on our Website, number of visitors surfing to various pages on the site, time spent by the visitors on our Website and frequency of their visit. It also helps us diagnose problems with our servers and lets us better administer our systems. Although such information does not identify any visitor personally, it is possible to determine from an IP address a visitor's Internet Service Provider (ISP), and the approximate geographic location of his or her point of connectivity.
 
-## Advertising
+Other
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We may from time to time add or enhance products/services available on our Website. To the extent these products/services are provided to and used by you, we will use the information you provide in this regard to facilitate the products/service requested. For example, if you email us with a question, we will use your email address, name, nature of the question, etc. to respond to your question. We may also store and publish such information to assist us in making the site the better and easier to use.
 
-## Google Adsense
+Promotional Initiatives
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Grabhouse’s presence on social networking websites including but not limited to LinkedIn, Facebook, Twitter, YouTube, and blogs are only a promotional initiative to invite registrations and participation of prospective customers located in different parts of the country. The domain links contained therein may either direct you to our Website or request your participation by way of feedback, suggestions. Grabhouse in this regard fully disclaims any liability (ies) or claim(s), which may arise by use/misuse of your feedback, suggestions, views, etc. on any of the aforementioned networking websites or blogs, by any third party whether or not known to Grabhouse.
 
-## Compliance with children's online privacy protection act
+Does Grabhouse protect my Personal Information?
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Grabhouse is committed to protecting the privacy and the confidentiality of your Personal Information. Whenever Grabhouse obtains Personal Information from you, our Website uses commercially reasonable efforts and general industry standards to protect it from any unauthorized access or disclosure. Access to your Personal Information is limited to Grabhouse’s personnel and such authorized third parties who may host your data on our behalf or may assist us in providing the products and services requested by you. Grabhouse uses its best endeavors to maintain physical, electronic and procedural safeguards that aim to protect your information against loss, misuse, damage, modification, and unauthorized access or disclosure. However, Grabhouse assumes no liability whatsoever for any disclosure of Personal Information due to unauthorized third party access or other acts of third parties, or any other acts or omissions beyond reasonable control of Grabhouse.
 
-## Changes to this privacy policy
+Does Grabhouse secure the content its users post from other users?
 
-Grabhouse has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+The content that you store, post, or transmit on or through our Website, such as forum postings, your profile page, the images you upload to our Website, may be accessed by other users (registered or unregistered), including people that you do not know. The purpose of making such content public is to enhance your overall experience and to provide you a platform where users meet and interact on a one to one basis. However, the content/images that you post/share on our Website may be prone to miss-use by a party not known to you. Grabhouse in this regard fully disclaims any liability (ies) or claim(s), which may arise by use/misuse of such content, by any third party or any party not known to Grabhouse. We suggest that you exercise care and caution in communicating with other users and only disclose your information to other users that you know to be trustworthy. You should not assume that your content would be kept private. 
 
-## Your acceptance of these terms
+How does Grabhouse use the information that it collects?
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Your Personal Information and User Information is used by us and/or authorized third parties/service partners to support your interaction with us, to offer you the latest deals and best prices concerning products and services and to contact you again about other services and products that we offer. By submitting your Personal Information and User Information to Grabhouse, you expressly acknowledge and consent to Grabhouse to use such information and to process the same in a manner deemed fit by Grabhouse. This may involve conducting data analysis, research based on reviews about deals, transfer of your Personal Information to third party experts for the purpose of outsourcing services offered to you by Grabhouse, etc. 
 
-## Contacting us
+What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-If you have any questions about this Privacy policy, the practices of this site, or your dealings with this site, please contact us at:
+Grabhouse makes every reasonable effort to preserve the privacy and confidentiality of your information shared with us. We implement standard measures to protect against unauthorized access to and unlawful interception of Personal Information. However, no Internet site can fully eliminate security risks. 
 
-Grabhouse
+We reserve the right to disclose Personal Information/ User Information without your consent (express or implied) and without any liabilities to you when required or permitted by law and we have a good-faith belief that (i) such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on us or (ii) to conform to the legal requirements, compliance/reporting to administrative and judicial authorities, as may be required (iii) protect and defend the rights or property of the website owners of Grabhouse, or the users of Grabhouse, (iv) person(s) or company (ies) who provide certain support services to us, and (v) person(s) or company (ies) who share certain responsibilities/obligations of Grabhouse. 
 
-080 6791 5500
+How does Grabhouse address children's privacy?
 
-This document is last updated on 22-May-2014
+Grabhouse requires that the visitor must be at least 18 years old to have our permission to use this site. If you are below 18 years of age, you are strictly prohibited from registering on our Website or doing any act, which leads us to believe that you are 18 years of age or above. If you are the parent or guardian of a child under 18 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [admin@grabhouse.com](mailto:%20%20%20%20%20%20%20%20%20%20%20%20admin@grabhouse.com) so that we may take immediate steps to delete the child's information.
+
+I have more questions about privacy policy
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [care@grabhouse.com](mailto:care@grabhouse.com).
+
+Will Grabhouse change privacy policy in the future?
+
+This policy provides a general statement of the ways in which Grabhouse aims to protect your Personal Information. You may, however, in connection with specific products or services offered by Grabhouse, be provided with privacy policies or statements that substitute or supplement this policy. The terms and conditions of this policy may be changed from time to time, without your consent (express or implied) to reflect changes in our practices concerning the collection and use of your Personal Information. The revised policy will be effective immediately upon posting to our web site unless otherwise mentioned. This version of the policy is effective from January 2015. The revised Privacy Policy shall bind you and it is your sole responsibility to check the same from time to time. You acknowledge that no knowledge of the revised Privacy Policy shall be a defense in any proceedings with regard to the Privacy Policy.
+
+Your Consent
+
+By accessing our Website and using it on a continued basis, you expressly consent and confirm to Grabhouse collecting, maintaining, using, processing and disclosing your Personal and User Information in accordance with this Privacy Policy.
