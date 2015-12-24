@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theybf.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184944id_/http%3A//www.theybf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theybf.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224114446id_/http%3A//theybf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Young, Black, and Fabulous
+# Privacy Policy | The Young, Black, and Fabulous®
 
 This Privacy Policy applies only to TheYBF.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features that are accessible or downloadable through TheYBF.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Site, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
