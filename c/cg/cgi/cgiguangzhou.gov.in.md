@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204936id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224010441id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
   * #### India News
 
-Government of India will be observing Passport Seva Divas on 24th June, 2015. It was on this day in 1967 that the Passports Act had come into effect. View more to see Hon'ble External Affairs Minister Mrs. Sushma Swaraj's message on this occasion. 
+"Bharat ko Janiye" quiz web portal launched by Ministry of Overseas Indian Affairs. The portal is a Quiz on India aimed at Diaspora youth between 18 to 35 years of age. Website : http://www.bharatkojaniye.in/.
 
 [More News](https://web.archive.org/news/index/1)
+
+  * #### Consulate News
+
+Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday, 26th December, 2015 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
+
+[More News](https://web.archive.org/news/index/2)
 
   * #### International Day of Yoga 
 
 Press Release : Inauguration Ceremony of International Yoga Festival at Dujiangyan from 17-21 June, 2015
 
 [More News](https://web.archive.org/news/index/6)
-
-  * #### Consulate News
-
-Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday, 27 June, 2015 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
-
-[More News](https://web.archive.org/news/index/2)
 
 
 [](https://web.archive.org/map)
