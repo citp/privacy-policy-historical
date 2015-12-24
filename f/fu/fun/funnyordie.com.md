@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629190419id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004804id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
 
 # Funny Or Die Privacy Notice
 
@@ -44,7 +44,7 @@ We may use the services of reputable third parties to provide us with data colle
 
 Advertising enables us to provide you with the content for which we are known. Our goal is to deliver advertising that is relevant to you. As part of this process we, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may collect information about your online activities across the Funny Or Die Sites and other sites, and supplement such information with information from third parties, in an effort to make inferences about your interests and deliver to you advertisements targeted to those interests.
 
-We may use reputable third-party audience data such as age, gender and interests to better understanding the behavior of our visitors and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on the Funny or Die Sites or other reputable third party websites to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+We may use reputable third-party audience data such as age, gender and interests to better understanding the behavior of our visitors and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on the Funny Or Die Sites or other reputable third party websites to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
 
 We offer you choices with regard to these interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our AdChoices page.
 
