@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the togetherweserved.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105234225id_/http%3A//www.togetherweserved.com/TWSPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togetherweserved.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224135608id_/http%3A//www.togetherweserved.com/zehnerlanding/download/TWSPrivacyPolicy.html) for the most accurate reproduction.*
 
 # TogetherWeServed Privacy Policy
 
 **Privacy Policy**  
-TogetherWeServed.com, Inc.  
-  
+TogetherWeServed.com, Inc.
 
-
-TogetherWeServed Inc. (TWS) is committed to protecting the privacy of TWS Members. The following is the TWS privacy statement outlining our policies governing the collection and use of registered Member information. If you have any questions regarding this policy, please contact us at info@togetherweserved.com
+TogetherWeServed Inc. (TWS) is committed to protecting the privacy of TWS Members. The following is the TWS privacy statement outlining our policies governing the collection and use of registered Member information. If you have any questions regarding this policy, please contact us at [info@togetherweserved.com](mailto:info@togetherweserved.com)
 
 **Information Collection & Use**
 
@@ -24,6 +22,14 @@ TWS has implemented processes designed to protect Member information and maintai
 **Communications**
 
 From time to time Togetherweserved requires to communicate with it's Membership for various purposes including, but not limited to, the sending of password reminders, membership updates, official newsletters. Members may opt out of receiving selected communications from their account settings.
+
+**Third-Party Advertising Partners**
+
+We may allow third-party service providers to serve advertisements (banners or links) on partner companies behalf across the Internet.
+
+These advertising service providers may collect non-identifiable information about your visits to our website and associated interactions. Such non-identifiable information does not include your name, address, email address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites.
+
+If you would like more information about this practice and to know your choices for not having this information used by third-party service providers, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Third Party Sites**
 
