@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630193023id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235120id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
+
+  * ### My Sweeps 
+
+#### Recently Earned Sweeps
+
+    * You do not have any recently earned sweeps.
+
+
+
 
   
 
