@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dragonsea.co.uk privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508075501id_/http%3A//www.dragonsea.co.uk/Home.aspx%3FID%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonsea.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224194021id_/http%3A//www.dragonsea.co.uk/Home.aspx%3FID%3D12) for the most accurate reproduction.*
 
-# Dragon Sea | International Shipping | Shipping to China | Low Cost International Shipping - Privacy Policy
+# Dragonsea | Shipping to Malaysia, Taiwan - Privacy Policy
 
 DragonSea is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
@@ -25,4 +25,4 @@ If we intend to transfer your information outside the EEA (European Economic Are
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20150508075501id_/http%3A//www.dragonsea.co.uk/Home.aspx?ID=4). 
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20151224194021id_/http%3A//www.dragonsea.co.uk/Home.aspx?ID=4). 
