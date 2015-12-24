@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095317id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224015731id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.*
 
 # FindLaw's Privacy Policy - FindLaw
 
 **Scope  
-**Your privacy is important to FindLaw, a Thomson Reuters business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites operated by FindLaw and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
+**Your privacy is important to FindLaw, part of Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites operated by FindLaw and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
 
 This website may contain links to sites and services maintained by others. This Privacy Statement does not reflect the privacy practices of those sites or services.  
 
@@ -116,6 +116,8 @@ Additionally, FindLaw offers legal professionals the ability to provide personal
 
 
 The information we collect in web server logs helps us administer the site, analyze its usage, protect the website and its content from inappropriate use, and improve the user's experience.
+
+We collect your location information only with your permission in order to provide you with a more customized search experience. You may change your location permissions in your device/browser settings at any time.
 
 **Cookies and Similar Technologies  
 **In order to offer and provide a customized and personal service, we may use cookies, clear gifs (web beacons), ad tags, and similar technologies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies allow us to save passwords and preferences for you so you won't have to reenter them each time you visit.
