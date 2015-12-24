@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917215020id_/http%3A//civicuk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224154849id_/http%3A//www.civicuk.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
+
+[Home](https://web.archive.org/) / Privacy Statement
 
 ## User anonymity and personal information
 
@@ -58,3 +60,7 @@ k, guest_id | Twitter cookies. **These cookies are set only after the user has g
 Some services on this website require us to collect personal information from you. To comply with the Data Protection Act, we have a duty to tell you how we store the information we collect and how it is used.
 
 Any information you do submit will be stored securely and will never be passed on or sold to any third party.
+
+## Contact Whatever you need
+
+If you have a question or query about the services we offer or what we can do for your business, call us on **0131 624 9830** or email [info@civicuk.com](mailto:info@civicuk.com)
