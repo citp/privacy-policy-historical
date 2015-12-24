@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the topg.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622114707id_/http%3A//topg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topg.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225002317id_/http%3A//topg.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This portal, website, is operated by **S.C. SPREADBEYOND S.R.L.** (CUI 33082112), company located on street Aurel Vlaicu 66, Iași, România and registered as _Operator of personal data_ no: 32985 at ANSPDCP. ([ See online notification](https://web.archive.org/dataprotection)) 
 
 **What information do we collect?**
 
@@ -19,7 +17,8 @@ Any of the information we collect from you may be used in one of the following w
 • To prevent booting or any kind of ways to cheat the voting system  
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)  
-• To process transactions
+• To process transactions  
+• At the point when an end-user wishes to make a payment, his registration details may be passed to Paymentwall that provides payment processing services, in order for Paymentwall to better protect service and end-users from unauthorized payments. 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -35,12 +34,14 @@ We implement a variety of security measures to maintain the safety of your perso
 **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information  
-We use cookies to help us remember, understand and save your preferences for future visits, to prevent booting or voting cheats, to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We use cookies only to save your login preferences for future visits and to prevent booting and voting cheats. If you wish to disable cookies, you may do so through your individual browser options.   
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)  
+Our website uses a third party protection service offered by Cloudflare. This service may place cookies on the browsers in order to track malicious visitors, to reduce the chance of blocking legitimate users, and to provide customized services. The __cfduid cookie by Cloudflare is used to override any security restrictions based on the IP address the visitor is coming from. If you do not want CloudFlare to use cookies, you can disable them within your browser. 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.   
-No ad companies collect data through our service. We do not allow advertising companies to collect data through our service for ad targeting. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
 **Third party links**
 
