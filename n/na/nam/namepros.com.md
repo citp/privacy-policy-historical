@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628045553id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003214id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
 
 # Terms and Policies - NamePros
 
-[ ](https://uniregistry.com/easy?utm_source=namepros&utm_medium=banner&utm_content=728x90&utm_campaign=uniregistry_ban_Q2)
+[ ](http://xmas.global/?utm_source=namepros&utm_medium=banner&utm_campaign=xmas)
 
 Legal terms for use of NamePros
 
@@ -21,7 +21,9 @@ These terms may change without explicit notice. Each top-level section header ha
       6. [Stripe](https://web.archive.org/pages/terms/#privacy-collectors-stripe)
       7. [PayPal](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
       8. [New Relic](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
-      9. [Other Third Parties](https://web.archive.org/pages/terms/#privacy-collectors-other)
+      9. [Datadog](https://web.archive.org/pages/terms/#privacy-collectors-datadog)
+      10. [Intercom](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
+      11. [Other Third Parties](https://web.archive.org/pages/terms/#privacy-collectors-other)
   3. [Payment Processing](https://web.archive.org/pages/terms/#payment)
   4. [Security](https://web.archive.org/pages/terms/#security)
   5. [Digital Millenium Copyright Act (DMCA)](https://web.archive.org/pages/terms/#dmca)
@@ -29,13 +31,25 @@ These terms may change without explicit notice. Each top-level section header ha
 [¶](https://web.archive.org/pages/terms/#tos)
 
 Last updated
-    April 15, 2015 EDT
+    December 11, 2015 EST
 
 The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts ("Content"). Content submitted express the views of their author only.
 
-You agree to not use the Service to submit or link to any Content which is defamatory, abusive, hateful, threatening, spam or spam-like, likely to offend, contains adult or objectionable content (except in explicitly designated areas), contains personal information of others, risks copyright infringement, encourages unlawful activity, or otherwise violates any laws.
+You agree to take full responsibility for all Content you submit to the Service. You agree to assume any losses and/or liabilities that result from your Content.
+
+Users marked as NamePros "Staff" are mostly volunteers. Content and opinions from volunteer Staff are their own, not those of the providers. They take full responsibility for their own Content. This includes, for example, Moderators, but does not include Staff that are actively paid for being Staff.
+
+You understand that we are not a publisher of Content on our forums. We do not moderate most Content.
+
+You agree to not use the Service to submit or link to any Content that is abusive, unlawfully defamatory, hateful, threatening, spam or spam-like, likely to offend, contains adult or objectionable content (except in explicitly designated areas), contains personal information of others, risks copyright infringement, encourages unlawful activity, or otherwise violates any laws.
 
 We reserve the rights to remove or modify any Content submitted for any reason without explanation. Requests for Content to be removed or modified will be undertaken only at our sole discretion.
+
+You agree not to hold us liable for any loss that may result from the use of the Service.
+
+We reserve the right to reclaim usernames from inactive accounts that have not been accessed for prolonged periods of time (more than 24 months) and reclaimed usernames may be released for availability to the community.
+
+We reserve the right to revoke or repurpose an account's username at any time.
 
 We reserve the right to take action against any account or user within the Service at any time for any reason. This may including restricting or banning the account and/or user.
 
@@ -47,6 +61,10 @@ You agree to create **only a single account**. This includes banned accounts, ac
 
 You agree not to use Tor, a VPN, SOCKS, or any other proxying mechanism ("proxy") that masks your computer's identity on the Internet ("IP address") unless such a proxy is necessary to access the Service. If you require the use of a proxy for another reason, you agree to obtain written permission from NamePros before posting any content via the proxy, and within 24 hours of your first use of the proxy to access NamePros. If the request is denied, or remains unanswered/indeterminate for more than 72 hours, you agree to cease using the proxy to access NamePros unless you are later granted written permission stating otherwise. Under no condition will you deny the use of a proxy if you are using or have used one, nor will you refuse to provide accurate information in a timely fashion about the proxy, when the proxy was used, or your real IP address, when asked for such information by NamePros staff, even if you have been granted written permission to use a proxy or must use a proxy to access the Service. Requests for permission to use a proxy should be e-mailed to `techsupport@namepros.com`. Users accessing the service from within Iran or mainland China are granted implicit permission to use proxies as necessary.
 
+Changes to this clause must be copied to the identical clause in the Privacy Policy.
+
+You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
+
 These terms may be changed at any time without explicit notice.
 
 If any portion(s) of these terms is found to be legally unapplicable, the rest of the terms will remain in effect.
@@ -56,7 +74,7 @@ If you do not agree with the [Terms of Service](https://web.archive.org/pages/te
 [¶](https://web.archive.org/pages/terms/#privacy)
 
 Last updated
-    January 5, 2015 EST
+    December 11, 2015 EST
 
 ## NamePros Privacy Policy
 
@@ -70,13 +88,19 @@ Our Service utilizes various data ("Data") collection methods to **generate anal
 
 We do not directly disclose personal information to third parties without opt-in consent, except as necessary to provide the Service. For example, e-mail addresses may be disclosed to a third party in order to efficiently and effectively send e-mails. We treat such third parties as Data Collectors, as they may have access to some Data.
 
-Integrity of personal information is the responsibility of the end user ("User"). Users can view, edit, and remove their own personal information using the Service. We are not responsible for unauthorized access to and/or manipulation of personal information, though we take reasonable measures to prevent and detect such occurrences. Other Data, such as IP address and routing history, cannot usually be viewed, edited or removed by Users.
+Integrity of personal information is the responsibility of the end user ("User"). Users can view, edit, and remove their own personal information using the Service. We are not responsible for unauthorized access to and/or manipulation of personal information, though we take reasonable measures to prevent and detect such occurrences. Other Data, such as IP address and routing history, cannot usually be viewed, edited or removed by Users. Users who have been banned or otherwise barred from accessing the Service may request that any Personally Identifiable Information be removed by emailing techsupport@namepros.com.
+
+We reserve the right to release information about a User in the event that User or an entity that the User represents is found to have been conducting/aiding, or be planning to conduct/aid, illegal activities, fraudulent activities, and/or unethical business practices at our sole discretion. This information may be released in a variety of manners, including (but not limited to): to law enforcement, published publicly as a cautionary measure, or shared with select entities who may be at risk.
 
 As a User, you agree to follow all rules and guidelines posted by authorized NamePros representatives, as interpreted by NamePros. All Users are expected to follow the rules, but NamePros cannot guarantee that they will do so.
 
 **You agree to abide by all international and federal regulations in the United States.** Your region may enforce additional restrictions that apply to your use of the Service.
 
 You agree to ensure the integrity of any encryption implementations ("Encryption") that the Service employs, including HTTPS (HTTP over SSL or TLS). You must not undermine the Encryption or allow third parties to intercept unencrypted communications with the Service. If regional laws and/or organizations prevent you from using Encryption, you must not use the Service. You must not allow proxying servers to decrypt communications with the Service.
+
+Changes to this clause must be copied to the identical clause in the Terms of Service.
+
+You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
 
 This Privacy Policy may change without explicit notice.
 
@@ -97,6 +121,8 @@ This list may not be exhaustive.
   * Stripe: <https://stripe.com/us/privacy>
   * PayPal: <https://www.paypal.com/webapps/mpp/ua/privacy-full>
   * New Relic: <http://newrelic.com/privacy>
+  * Datadog: <https://app.datadoghq.com/policy/privacy>
+  * Intercom: <http://docs.intercom.io/privacy>
 
 
 
@@ -111,6 +137,8 @@ This list may not be exhaustive.
 NamePros uses its own services and those of its hosting provider(s) to collect information about requests that reach its network. This data is typically very technical and focused on how our network handled the requests, rather than on the user. As we often use this data to troubleshoot specific problems, not all of this data is anonymous; identifiable data typically includes some combination of IP addresses, usernames, and rough geographic approximations. Access to this information is heavily restricted.
 
 Additionally, NamePros stores information that its users opt to provide on our website. Such information often includes e-mail addresses, websites, genders, and ages. Users have the ability to view and modify this information by logging into their respective accounts. NamePros maintains a log of certain modifications that is used to identify attempted abuse of its services; this log is not visible to users. Users have industry-standard control over the privacy of the information that they provide. Information deemed sensitive or marked as private is only visible to certain staff members.
+
+NamePros may opt to use Persistent Tracking to prevent fraud, abuse, and/or illegal activities. Persistent Tracking is described in the Terms of Service and main Privacy Policy. Notable Persistent Tracking methods that may be employed include ETag pseudo-cookies and Flash-based local storage objects (LSOs).
 
 ### CloudFlare
 
@@ -148,21 +176,37 @@ Users can opt out of Quantcast's direct data collection: <https://www.quantcast.
 
 ### Stripe
 
-[¶](https://web.archive.org/pages/terms/#privacy-collection-stripe)
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-stripe)
 
 Stripe processes ACH payments on behalf of NamePros. Some information that you provide is stored by Stripe and accessible to NamePros for billing and technical support purposes, as well as fraud prevention. Full credit card numbers are not accessible and do not reach the NamePros network. See [Payment Processing](https://web.archive.org/pages/terms/#payment) for details, including additional policy information.
 
 ### PayPal
 
-[¶](https://web.archive.org/pages/terms/#privacy-collection-paypal)
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
 
 PayPal processes various types of electronic payments on behalf of NamePros. When payments occur, PayPal provides NamePros with some of the information that it has stored. Such information typically includes person or business name, e-mail address, and sometimes telephone number. NamePros may use this information for billing and technical support purposes, as well as fraud prevention.
 
 ### New Relic
 
-[¶](https://web.archive.org/pages/terms/#privacy-collection-newrelic)
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
 
 New Relic provides a combination of services that NamePros uses to monitor its servers, applications, and the exeriences of its users. The information gathered is, to the best of NamePros' knowledge, anonymous. Data gathered from web browsers is low-level and typically includes details such as how long a page took to load and whether any errors were encountered. NamePros uses this data to detect degradations in its services and to aid in the optimization of new and existing services.
+
+### Datadog
+
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-datadog)
+
+Datadog provides low-level server and service monitoring tools that NamePros uses to ensure the reliability and integrity of its infrastructure. Personally identifiable information is not normally gathered by this system, but it may inadvertently be logged in some rare cases, such as while analyzing diagnostic logs after an error has occurred. Aggregate metrics about the usage of NamePros' services is also logged, but is typically indexed by server and application, rather than by user. (For example, Datadog may record how many requests a server has received from all users in a certain time period.)
+
+### Intercom
+
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
+
+As of 2015-10-06, we have begun testing Intercom's products on our site. We are still assessing which features are appropriate for our community. Feedback is always welcome.
+
+Intercom provides a variety of products that we use to offer customer service and support. We provide Intercom with information about each user account, including username, email, and various metadata. Intercom uses this information to provide customer support channels. Some of Intercom's products are aimed at marketing/engagement, but this is not our focus with the use of their services. As an example usage, Intercom allows us to organize and delegate email communications with a user who may require technical support to access our website.
+
+To give us a better picture of our userbase, Intercom is capable of pulling basic social networking information about users based on the email addresses associated with their accounts. To the best of our knowledge, this information is publicly accessible, and does not reveal private information about any users. Intercom explains how this works [on their website](http://docs.intercom.io/FAQs/where-do-the-social-profiles-come-from). It utilizes a third-party API by [FullContact](https://www.fullcontact.com/). Intercom is responsible for security and privacy agreements between itself and FullContact. _As of 2015-10-06, we are still evaluating this feature and have not yet decided whether it is appropriate for our community._
 
 ### Other Third Parties
 
@@ -216,6 +260,8 @@ We reserve the right to redistribute and/or publicize any communication regardin
 
 DMCA takedown requests should be sent to `dmca@namepros.com`. Requests sent elsewhere are still subject to the above terms.
 
-[ ](http://x.co/9V6UK)
+[ ](https://uniregistry.com/easy?utm_source=namepros&utm_medium=banner&utm_content=845x60&utm_campaign=uniregistry_ban_Q2)
+
+[ ](https://www.dn.com/)
   *[domain]: namepros.com
   *[ISPs]: Internet Service Providers
