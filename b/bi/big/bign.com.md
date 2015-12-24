@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514061136id_/http%3A//www.bign.com/Home/AboutTeamNational/TeamNationalPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224024254id_/http%3A//www.bign.com/Privacy) for the most accurate reproduction.*
 
-# Team National - Team National Privacy Policy
+# Home
 
+|  |  |   
+---|---|---  
+  |  |   
+|  |   
+|  |   
+  
 **  
 Our Commitment To Privacy**  
  Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
@@ -21,8 +27,9 @@ Our Commitment To Children's Privacy
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.   
 **  
 How To Contact Us**   
-Should you have other questions or concerns about these privacy policies, please call us at 954-584-2151 or send us an email. Sharing of Information With Third Parties 
+Should you have other questions or concerns about these privacy policies, please call us at 954-584-2151 or send us an email. 
 
+**Sharing of Information With Third Parties**   
 Except as stated above or when necessary to share your information with Team National agents or business partners for the purposes of performing services for Team National, your personal information (name, address, telephone number, e-mail address or other information) will not be provided to any third party without your prior consent. We have restricted our agents and business partners from using your personal information in any way other than to provide the services contracted for by Team National.
 
 **On some pages, you can order products and make requests. The types of personal information collected at these pages are:**  
