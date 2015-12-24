@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614040508id_/http%3A//ecards.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224130954id_/http%3A//www.ecards.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy is our way of telling you what information we collect,how we
 
 Below you’ll find an explanation of the reasons we request information from you,as well as some details about how we obtain and use that information. 
 
-eCards Media Limited will be the data controller for the purposes of the Data Protection Act 1998 in relation to personal information relating to you or third parties that is provided by you. 
+eCards will be the data controller for the purposes of the Data Protection Act 1998 in relation to personal information relating to you or third parties that is provided by you. 
 
 Terms of Use 
 
@@ -86,17 +86,16 @@ On the Website we provide links to other third party websites. These third party
 Want to change your details,here's how:-   
 If you would like us to update your contact information,remove your name from our mailing list,or if you have any questions about eCard's Privacy Policy or your personal information,please don't hesitate to contact us. 
 
-eCards Media Limited trading as ecards.co.uk   
-Unit 1   
-Willow Tree Court   
-Roundswell Business Park   
-Barnstaple   
-EX31 3TD 
+The Club House   
+East Street   
+Chesham   
+Buckinghamshire   
+HP5 1DG 
 
-Telephone number:+44 (0) 1237 420156   
-Fax number:+44 (0)1237 470525 Email: [contacting admin at ecards.co.uk](http://www.ecards.co.uk/help.php?#contact)
+Telephone number:+44 (0)1494 240 150   
+Fax number:+44 (0)1494 240 150 Email: [contacting admin at ecards.co.uk](http://www.ecards.co.uk/contact)
 
-eCards Media Limited is a company incorporated in England and Wales with Company number:5455777. 
+Web Clubs Limited is a company incorporated in England and Wales with Company number:3840325. 
 
 We will respond to your questions or concerns as quickly as possible. 
 
