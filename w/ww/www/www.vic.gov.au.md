@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626135933id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005132id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
@@ -12,7 +12,7 @@ This privacy statement applies only to the www.vic.gov.au website and not to any
 
 www.vic.gov.au only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and www.vic.gov.au will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
 
-Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/409fbd6322ca2b75ca257d5700232e36!OpenDocument).
+Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/d1ed49bf522e96b8ca257e9200156142!OpenDocument).
 
 www.vic.gov.au uses a secure system to transmit your personal information via our feedback form. This means that any data you transmit using this form is encrypted and unable to be read by anyone outside our secure system.
 
@@ -22,14 +22,14 @@ You may request access to any personal information that www.vic.gov.au may have 
 
 The Manager, vic.gov.au may be contacted about access to, and correction of, personal information collected by www.vic.gov.au or for any questions or concerns you may have arising out of this privacy statement,
 
-by completing our [feedback form](https://www.vic.gov.au/feedback.html)
+ 
     
 by post at:
      Product Lead - vic.gov.au  
 Digital Engagement  
 Department of Premier and Cabinet  
-1 Treasury Place  
-Melbourne Victoria 3002
+121 Exhibition Street  
+Melbourne Victoria 3000
 
 Should you wish to gain access to, or correction of, your personal information held by the department, please contact us by emailing [dp&c@dpc.vic.gov.au](mailto:dp&c@dpc.vic.gov.au).
 
@@ -63,7 +63,7 @@ You should be aware that if you access another website through a link we provide
 
 ##  Web measurement service used by www.vic.gov.au
 
-www.vic.gov.au currently uses one web measurement service provider. This is Google Analytics. Google Analytics is also used by the [Vic Gov Newsletter](http://www.vic.gov.au/newsletter.html).
+www.vic.gov.au currently uses one web measurement service provider. This is Google Analytics.
 
 ###  Google Analytics - Use of Cookies
 
