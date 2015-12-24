@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuse.tv privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519064139id_/http%3A//www.mynuvotv.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuse.tv privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224200739id_/http%3A//www.fuse.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NUVOtv - NUVOtv
+# Privacy Policy - Fuse
 
 FUSE, LLC ("FUSE", “we”, “us”, or “our”) has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to the privacy of our users (“you” or “your”). The following discloses our information gathering and dissemination practices for [fuse.tv](http://www.fuse.tv/), [mynuvotv.com](http://www.mynuvotv.com/), and any other website under which we conduct business (collectively, the “Service”). This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use. Any terms that are not defined in this Privacy Policy shall have the meaning given in our Terms of Use. Both this Privacy Policy and the Terms of Use are legally binding on all users.
 
@@ -53,7 +53,7 @@ Twitter Plugins are operated by Twitter Inc. Twitter calls these Plugins Embedde
 Here’s how some Twitter Plugins appear:   
    
 
-For information on Twitter’s data collection and processing visit Twitter’s privacy policy: [http://twitter.com/privacy.](http://twitter.com/privacy)
+For information on Twitter’s data collection and processing visit Twitter’s privacy policy: <http://twitter.com/privacy>
 
 ## LinkedIn
 
@@ -69,7 +69,7 @@ In addition to Plugins, the Service may contain links to other websites. If you 
 
 ## ADVERTISING
 
-Advertisers and third parties may also collect information about your activity on the Service and on third-party websites and applications using cookies or other tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our website and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here: [http://www.aboutads.info/.](http://www.aboutads.info/)
+Advertisers and third parties may also collect information about your activity on the Service and on third-party websites and applications using cookies or other tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our website and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here: <http://www.aboutads.info/>.
 
 ## CONTESTS/SWEEPSTAKES
 
@@ -91,7 +91,7 @@ c/o Privacy Administrator
 
 ## COMMUNICATIONS BETWEEN US AND YOU
 
-If you send us personal correspondence, such as through our contact page ( [http://www.myNUVOtv.com/contact](https://web.archive.org/contact) ), emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We may use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our Terms of Use. We may send emails and newsletters to you, announcing special promotions, changes in our services, and other information we believe will be of interest to you. You will have the choice to opt-out of receiving future mailings.
+If you send us personal correspondence, such as through our contact page ( [http://www.mynuvotv.com/contact](http://www.fuse.tv/contact) ), emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We may use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our Terms of Use. We may send emails and newsletters to you, announcing special promotions, changes in our services, and other information we believe will be of interest to you. You will have the choice to opt-out of receiving future mailings.
 
 ## NOT ELIGIBLE FOR OUR SERVICES: CHILDREN AND FOREIGN ACCESS
 
@@ -105,10 +105,10 @@ We cannot ensure that all of your private communications and other personally id
 
 If you have any questions about this Privacy Policy, the practices of this Service, or your dealings with FUSE or this Service, you can contact:
 
-## [Download pdf](http://www.mynuvotv.com/image/551c736d303692002a000009/fuse-privacy-policy-3-18-15-pdf)
+## [DOWNLOAD PDF](http://preview.mynuvotv.com/assets/images/pdfs/FUSE%20Privacy-Policy_09-28-15.pdf)
 
-FUSE  
+FUSE   
 700 N Central Ave.   
 Glendale, CA 91203   
 E-mail: [privacy@mynuvotv.com](mailto:privacy@myNUVOtv.com)  
-rev date: 3-17-2015
+rev date: 9-28-2015
