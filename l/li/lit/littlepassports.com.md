@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlepassports.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619140548id_/http%3A//www.littlepassports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlepassports.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224211257id_/http%3A//www.littlepassports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,9 +38,10 @@ Use of Personally Identifiable Information. Little Passports will not knowingly 
 
 **Notifications/Opt-out.** It is Little Passports’ policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to users via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Site, as determined by Little Passports in its sole discretion. Little Passports reserves the right to determine the form and means of providing notifications to our users. By providing Little Passports with your email address you consent to our using such email address to send you notices in lieu of postal mail. We may also use your email address to send you other messages, including changes to Little Passports features and special offers. You may opt out of certain notifications by changing your account settings or by sending mail to the following postal address: 
 
-Little Passports  
-282 2nd Street, 3rd Floor  
-San Francisco, California 94105
+Little Passports, Inc.  
+222 Sutter Street, Suite 750  
+San Francisco, CA 94108  
+
 
 Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers, and you may not opt out of certain types of notices, including but not limited to announcements regarding certain products, support of the Site and other notices as may be required by law. If you or we have provided any third party with your information, you will have to contact such third-party directly with any opt-out request.  
 
@@ -69,9 +70,10 @@ your name and email address
 the name of Little Passports   
 
 
-Little Passports  
-282 2nd Street, 3rd Floor  
-San Francisco, California 94105
+Little Passports, Inc.  
+222 Sutter Street, Suite 750  
+San Francisco, CA 94108  
+
 
 ### Security
 
