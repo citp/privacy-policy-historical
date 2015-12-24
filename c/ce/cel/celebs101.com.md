@@ -1,32 +1,29 @@
-> *The following text is extracted and transformed from the celebs101.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609005148id_/http%3A//www.celebs101.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebs101.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224174440id_/http%3A//www.celebs101.com/c/pages/privacy-policy) for the most accurate reproduction.*
 
-# Celebs101.com :: Privacy Policy
+# Privacy Policy : Celebs101.com
 
-**1\. Information collection and use  
-**From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services at celebs101. Such services include newsletters, competitions, "Alert Email", live chats, message boards and celebs101 membership.
+Privacy Policy for Celebs101.com 
 
-By entering your details in the fields requested, you enable celebs101 and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. celebs101 will act in accordance with current legislation and aim to meet current Internet best practice.
+Education on visitor privacy is important to us at Celebs101.com. 
 
-**2\. Information on visitors  
-**During the course of any visit to celebs101, the pages you see, along with something called a cookie, are downloaded to your computer (see point 3 for more details on this). Most, if not all, websites do this, because cookies allow the website publisher to ascertain whether the computer (and probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+At Celebs101.com, we recognize that the privacy of your personal information is important. This article will inform you about the various types of personal information we receive and collect when you use and visit Celebs101.com, and how we safeguard your information. We never sell or otherwise your personal information to third parties. 
 
-Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. For example: if on a previous visit you went to the mobile wallpaper section, then we might find this out from your cookie and highlight wallpapers on a second visit.
+Use of Log Files   
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site. 
 
-**3\. What is a cookie?  
-**When you enter a site your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site in order to track traffic flows. Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user.
+Use of Cookies and Web Beacons   
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
 
-NB: Even if you haven't set your computer to reject cookies you can still browse our site anonymously until such time as you register for celebs101 services.
+We also use third party advertising services to display advertisements on Celebs101.com, such as Google through the Google AdSense program. Some or all of those advertising services may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers information about your visit including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes. Geo-targeting is sometimes used for the purposes of matching advertisements with visitors based on certain attributes that visitor has. An example of this type of geo-targeting would be showing Idaho movie theatre ads to someone located in Idaho, or showing certain ads based on specific sites visited, such as showing cooking ads to someone who frequents cooking sites. 
 
-**4\. Use and storage of your personal information  
-**When you supply any personal information to celebs101 (e.g. for competitions, celebs101 Community services or celebs101 membership) we have legal obligations towards you in the way we deal with that data. We must collect the information fairly, that is, we must explain how we will use it and tell you if we want to pass the information on to anyone else. In general, any information you provide to celebs101 will only be used within celebs101 and by its service providers. It will never be supplied to anyone outside celebs101 without first obtaining your consent, unless we are obliged or permitted by law to disclose it. Also, if you post or send offensive or inappropriate content anywhere on or to celebs101 or otherwise engage in any disruptive behaviour on celebs101, and celebs101 considers such behaviour to be serious and/or repeated, celebs101 can use whatever information that is available to it about you to stop such behaviour. This may include informing relevant third parties such as your employer, school or e-mail provider about the content and your behaviour.
+DoubleClick DART cookies   
+We also may use DART cookies for ad serving through Google’s DoubleClick service, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Miami, you may see Miami hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of you no longer wish to continue your status as a celebs101 member. For safety reasons, however, celebs101 may store messaging transcript data (including message content, member names, times and dates) arising from the use of celebs101 Community services for a period of six months. Where personal information is held for people who are not yet registered but have taken part in other celebs101 services (eg competitions), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998.
+You may choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-If you are notified on celebs101 that your information may be used to allow celebs101 to contact you for "service administration purposes", this means that celebs101 may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that a particular service has been improved or suspended.
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-**5\. Access to your personal information  
-**You have the right to request a copy of the personal information celebs101 holds about you and to have any inaccuracies corrected. (There is a small charge for such administration requests.) Please address requests to report@celebs101.com 
+If there are any questions, do not hestitate to contact us. 
 
-**6\. Users 16 and under**  
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to celebs101's website. Users without this consent are not allowed to provide us with personal information  
-
+Thanks,   
+Celebs101.com 
