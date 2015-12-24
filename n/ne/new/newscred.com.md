@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031932id_/http%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224132341id_/http%3A//newscred.com/privacypolicy) for the most accurate reproduction.*
 
 # Content Marketing Software | Privacy Policy | NewsCred
 
 California Residents
 
-Last Updated: May 2015
+Last Updated: July 2015
 
 NewsCred values and respects your privacy. This Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
 
@@ -114,6 +114,10 @@ You may withdraw any consent you previously provided to us, or object at any tim
 #### Data Transfers
 
 This is a U.S. website subject to U.S. laws, including those governing the privacy and security of your information. When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Policy.
+
+#### U.S - EU Safe Harbor
+
+NewsCred complies with the U.S. – EU Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union and European Economic Area member countries and Switzerland. NewsCred has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Please see NewsCred’s [Safe Harbor Policy](https://web.archive.org/safeharbor) for more details.
 
 #### Your California Privacy Rights
 
