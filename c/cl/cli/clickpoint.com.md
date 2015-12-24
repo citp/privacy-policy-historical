@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the clickpoint.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225007id_/http%3A//site.clickpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpoint.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225001804id_/http%3A//site.clickpoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Clickpoint
 
-Personal data include all information that may refer to natural or legal persons, for example first and last names, postal address, e-mail address and telephone number. Simple navigation and consultation of the website do not generally involve the gathering of the User’s personal data and only relate to the processing in anonymous form of so-called navigation data. In accordance with law, we inform the User that the personal data communicated and gathered in the context of the registration process are held and processed by Clickpoint for the purposes listed below.
+Personal data include all information that may refer to natural or legal persons, for example first and last names, postal address, e-mail address and telephone number. Simple navigation and consultation of the website do not generally involve the gathering of the User’s personal data and only relate to the processing in anonymous form of so-called navigation data. In compliance with the provisions of the Organic Law 15/1999 (Protection of Personal Information), we inform the User that the personal data communicated and gathered in the context of the registration process are held and processed by Clickpoint for the purposes listed below.
 
 The User’s data are gathered and processed for purposes associated with the proper provision of the Service and the correct implementation by Clickpoint of its contractual obligations towards the User. The personal data provided may be used, without limitation, for purposes of supplying the products and services requested; managing the obligations and rights which Clickpoint has assumed towards the User; making payments; administration; allowing access to the products and services.
 
 Processing for the aforementioned purposes occurs manually or electronically, depending on the purposes for which the data are communicated. The User must provide personal data which are true and accurate and up-to-date for purposes of creating and managing the contractual relationship with Clickpoint and of utilising the Service.
 
-If the contractual relationship provides for a payment to be made to the User, Clickpoint will gather the relevant payment data from the User (e.g. current account number, IBAN or SWIFT).
-
-The data-gathering will also be with a view to transferring the data in question to associated companies, subsidiaries, or companies carrying out functions closely connected with and instrumental to the Service that are also located outside the national territory.
-
-In the event that the User does not provide true, accurate, complete and up-to-dated personal data, Clickpoint will not be in a position to provide the Service.
+The data-gathering will also be with a view to transferring the data in question to associated companies, subsidiaries, or companies carrying out functions closely connected with and instrumental to the Service.
 
 **Cookies**
 
@@ -20,11 +16,11 @@ Cookies are fragments of text sent by a server to a client (browser) and then se
 
 **Rights of the User**
 
-The User may exercise his (or her) right to access his (or her) data and may request a copy of the information in question. In particular, the User is entitled to access his own data using a username and password (login) on the website, and to ensure the rectification of any incorrect data, the cancellation of data or the prevention of the use of data for commercial purposes (closing of account). Where the login function is not available, the User is entitled to exercise his rights by writing to privacypolicy AT clickpoint.com
+The User may exercise his (or her) right to access his (or her) data,  may request a copy of the information, request the rectification of any incorrect data, the cancellation of data or the prevention of the use of data for commercial purposes. The User is entitled to exercise his rights by writing to CLICKPOINT MARKETING SLU, Av. Diagonal 458 2b,  08006 Barcelona (Spain)
 
 **Security**
 
-Clickpoint undertakes to maintain the security of all data gathered using the relevant technical and organisational tools. The safety measures are aimed at reducing to the minimum the risk of destruction or loss of data and the risk of unauthorised access, and they include the possibility of limiting access to the data to authorised Clickpoint personnel alone. Clickpoint employees and collaborators acknowledge that they are bound by standards of data security and data confidentiality.
+Clickpoint undertakes to maintain the security of all data gathered using the relevant technical and organisational tools. In compliance with the provisions of the Organic Law 15/1999 (Protection of Personal Information) and the RD 1720/2007, the safety measures are aimed at reducing to the minimum the risk of destruction or loss of data and the risk of unauthorised access, and they include the possibility of limiting access to the data to authorised Clickpoint personnel alone. Clickpoint employees acknowledge that they are bound by standards of data security and data confidentiality.
 
 **Cancellation of data**
 
@@ -46,6 +42,9 @@ The parties agree that, to the extent permitted by applicable legal rules and in
 
 **Contact details for inquiries and requests**
 
-For inquiries concerning this Privacy Policy please send an e-mail to:
+For any questions and/or inquiries please send an e-mail to:  
+**privacypolicy@clickpoint.com**
 
-privacypolicy@clickpoint.com
+CLICKPOINT MARKETING SLU  
+Av. Diagonal 458 2b – 08006 Barcelona (Spain)  
+CIF B65692543
