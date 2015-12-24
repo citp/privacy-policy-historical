@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121024053id_/http%3A//www.next.co.uk/help/WinHelpSC.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235102id_/http%3A//www.next.co.uk/help/WinHelpSC.asp) for the most accurate reproduction.*
 
 # Next: Official Site - Privacy Policy
 
@@ -8,14 +8,15 @@
 
 Cookies are small text files that are stored on your PC, phone or other web enabled device when you visit the Next website. They are not harmful and do not contain any confidential information such as your home address, date of birth or credit card details.
 
-Cookies are an essential part of how our site works. Some of these cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience.
+Cookies are an essential part of how our site works. Some of these cookies are required by our site to enable you to transact whilst other non essential cookies enable us to give you an enhanced, personalised web experience and determine relevant products to show you.
 
-By using our site, you also consent to the use of these cookies. Cookies are used on our site for the following reasons:
+By using our site, you consent to the use of these cookies. Cookies are used on our site for the following reasons:
 
   * To allow you to securely sign in to your Next Directory Account, so that you can use "My Account" features such as order information, making payments and viewing statements.
   * To store the content of your online shopping bag whilst you browse the site and to complete an order.
   * To record the areas of the website that you have visited, products you have viewed and time spent browsing, as well as the products you purchased. Next uses this information to help make the website more user friendly, develop our site design and to continuously improve the quality of the service we provide. 
   * To distribute visitors to our site evenly across platforms to ensure the content is served at the fastest possible speed.
+  * For re-marketing purposes to determine relevant related products to show you when you're browsing on other selected websites. These cookies can be associated with services provided by a third party such as an advertising network.
 
 
 
@@ -23,28 +24,36 @@ We also offer you the facility to share your experience on our site through soci
 
 **Are cookies safe?**
 
-Yes. The information stored in cookies is safe and anonymous. They do not contain any information which could personally identify you and your account security is never compromised. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+Yes. The information stored in cookies is safe and anonymous. They do not contain any information which could personally identify you and your account security is never compromised. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies/).
 
 **Can I turn off cookies?**
 
 Next uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.
 
-To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer's hard drive. For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar.
+To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer's hard drive. For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar. For further information on non essential cookies used for targeting and banner advertising please see below.
 
-It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
+It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be limited and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
 
 **Our use of advertisement tracking**
 
-We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
+We also allow selected third parties who participate with us in marketing programs to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
 
-  * Mediaplex: <http://www.mediaplex.com/mojo-privacy-statement>
-  * DoubleClick: <http://www.google.com/policies/privacy/>
+  * DoubleClick: [www.google.co.uk/intl/en/policies](http://www.google.co.uk/intl/en/policies)
+  * [www.google.com/policies/privacy](http://www.google.com/policies/privacy/)
 
 
 
 These cookies are as safe as the ones used whilst you browse our site and neither of these third parties collects any personal data from which they would be able to identify individual customers.
 
 Next is not responsible for the content or privacy policies of third parties or other websites.
+
+**Targeting or banner advertising cookies**
+
+This type of advertising is designed to provide you with a selection of products based on what you have viewed on next.co.uk and deliver adverts to you when you visit other selected websites. The adverts may highlight alternative styles and colours as well as products from other categories suitable to your browsing history. 
+
+The technology behind these adverts uses cookies and usually placed by third parties such as advertising networks with the website operator’s permission. They remember that you have visited a website and the information is shared with other organisations such as advertisers. 
+
+Please be assured that the data contained in the cookie used in these adverts is completely anonymous and doesn't contain any of your personal details. You can choose to opt-out of this type of advertising. For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar. Alternatively visit [Network Advertising Initiative website](http://www.networkadvertising.org/choices/). 
 
 Next Directory take on-line security very seriously and uses a registered secure site under [Verisign Certificate Authority](http://www.verisign.co.uk/index.html).
 
