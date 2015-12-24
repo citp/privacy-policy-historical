@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607160000id_/http%3A//mpogd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224114058id_/http%3A//mpogd.com/privacy.asp) for the most accurate reproduction.*
 
 # Multiplayer Online Games Directory / Privacy Policy
 
@@ -32,7 +32,7 @@ You also have a significant role in protecting your information. No one can see 
 **Use of Cookies**  
 To ensure we are publishing content customers need and want, MPOGD.com collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site.
 
-When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
+When someone visits the site, a cookie is placed on the customer�s machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
 
 If you choose to not have your browser accept cookies from the MPOGD.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site.
 
