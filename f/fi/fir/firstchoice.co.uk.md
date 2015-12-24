@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625230717id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224080812id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # First Choice | Our Policies | Privacy Policy
 
@@ -18,7 +18,7 @@ Our Use of Your Information**
 
 
   
-(1) For the purpose of providing you with our services, including your flight, holiday, security, incident/accident management or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be mandatory (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
+(1) For the purpose of providing you with our services, including your flight, holiday, security, incident/accident management or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be **mandatory** (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
 
   
 (2) We may collect and process your information for the purposes set out below and in our registration with the Office of the Information Commissioner, and disclose the same to our group companies for business purposes and also to companies and our service providers who act as "data processors" on our behalf, or to credit and fraud agencies (some of whom are located outside the UK/EEA). These purposes include administration, service, quality and improvement-related activities, customer care, product innovation and choice, business management, operation and efficiencies, re-organisation/structuring/sale of our business (or group companies), risk assessment/management, security, fraud and crime prevention/detection, monitoring, research and analysis, social media, reviews, advertising and marketing, loyalty programmes, profiling customer purchasing preferences, activities and trends, dispute resolution/litigation, credit checking and debt collection. 
@@ -32,11 +32,9 @@ _**If you do not agree to Our Use of Your Information above, we cannot engage/do
 (1) Using your information, we may from time to time contact you with or make available to you (directly or indirectly) information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. We will tailor the information you receive or see; this will enable us to make available to you more personalised and relevant communications. We may use innovative technologies and work with business partners to achieve this.
 
   
-(2) We will assume you agree to e-communications when you make an e-booking or provide us with your email in other situations such as in-store, competitions, promotions, prize draws and social media. 
+(2) We will assume you agree to email when you make an e-booking or provide us with your email in other situations such as in-store, competitions, promotions, prize draws and social media. 
 
-(3) You may indicate your preference regarding receiving third party marketing material and contact. If you agree, you will establish new relationships with these third parties and deal with them directly.
-
-(4) If you do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below. 
+(3) If you do not wish to receive such information or would like to change your preference, please refer to point (2) of “Your Rights” below. 
 
 **Your Rights**  
 (1) On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies. 
@@ -45,7 +43,7 @@ _**If you do not agree to Our Use of Your Information above, we cannot engage/do
 (2) You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference on our website(s), use our "unsubscribe email", opt-out of personalised emails or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way.
 
 (3) For a list of relevant brands, please send us your request.  
-Please write to TUI UK Limited, Legal Department, TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex RH10 9QL.
+TUI UK Limited, Legal Department, Wigmore House, Wigmore Place, Wigmore Lane, Luton LU2 9TN 
 
 **Foreign Controls**   
 Outside the European Economic Area (EEA), data protection controls may not be as strong as the legal requirements in this country.
@@ -72,7 +70,7 @@ We have taken all reasonable steps and have in place appropriate security measur
   
 Any changes to this Policy will be either posted on our website, brochure and/or made available on request. 
 
-Privacy Policy: v June 2013
+Privacy Policy: v July 2015
 
 **DATA NOTICES:-**
 
