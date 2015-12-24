@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serpbuddy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408085418id_/http%3A//www.serpbuddy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpbuddy.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224223108id_/http%3A//serpbuddy.com/pages/privacy) for the most accurate reproduction.*
 
 # SerpBuddy - Keyword Rank Checker
 
@@ -40,3 +40,5 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ****  
 Although most changes are likely to be minor, SerpBuddy may change its Privacy Policy from time to time, and in SerpBuddy’s sole discretion. SerpBuddy encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Should you have any questions please use the contact form or you can also snail mail us at 4801 Lang Avenue NE, STE 110, Albuquerque, NM, 87109 or even call us at 904-554-9693 during our normal business hours which are 9 AM to 5 PM Monday through Friday, -5:00 GMT. 
