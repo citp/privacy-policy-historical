@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diehardfans.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624194045id_/http%3A//www.diehardfans.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diehardfans.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224081407id_/http%3A//www.diehardfans.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DieHardFans
 
