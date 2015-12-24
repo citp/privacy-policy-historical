@@ -1,0 +1,348 @@
+<!--The following is the downloaded HTML source of the christianpost.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225002410id_/http%3A//www.christianpost.com/aboutus/privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://s0.2mdn.net/instream/video/client.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQGU19VGwAFVVhXAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<title>Christian news, Christian Post</title>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Questrial">
+<link href="http://graphic.christianpost.com/css/common.css" rel="stylesheet" type="text/css">
+<link href="http://graphic.christianpost.com/css/templates.css" rel="stylesheet" type="text/css">
+<link href="http://graphic.christianpost.com/css/contents/aboutus.css" rel="stylesheet" type="text/css">
+<link href="http://graphic.christianpost.com/css/mediaquery.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://graphic.christianpost.com/js/jquery.js"></script>
+<style type="text/css">
+  .contents_rightbar ul { margin-left: 40px; }
+  .contents_rightbar li {
+    list-style-type: disc;
+    margin-bottom: 1em;
+  }
+  .contents_rightbar .indent { margin-left: 30px; }
+  .contents_rightbar h4 { margin-top: 30px; }
+  .contents_rightbar .italic { font-style: italic; }
+</style>
+</head>
+<body>
+	<script>
+$(document).ready(function() {
+	// more button on menu
+	$("#btn_more").click(function() {
+		$(".more").toggle();
+//		return false;
+	});
+	// sidebar top right
+	$("#newsletter .bt").click(function(){
+		$("#newsletter form").submit();	
+	});
+});
+</script>
+<!--TopBar Black Start-->
+<div id="topBarBlack">
+	<div class="wrapper">
+        <div class="left">
+          <a href=""><h1><img src="http://graphic.christianpost.com/images/2013/logo_black_top.gif" align="absmiddle"></h1></a>
+          <ul class="navHome">
+          	  <li><a href="/church-ministries/">Church &amp; Ministry</a></li>
+              <li><a href="/us/">U.S.</a></li>
+              <li><a href="/world/">World</a></li>
+              <li><a href="/politics/">Politics</a></li>
+              <li><a href="/entertainment/">Entertainment</a></li>
+              <li><a href="/tech/">Tech &amp; Biz</a></li>
+              <li><a href="/opinion/">Opinion</a></li>
+              <li><a href="">Blogs</a></li>
+              <li><a href="">Video</a></li>
+              <li><a href="/gallery/">Photo</a></li>
+              <li id="btn_more"><a href="#">More</a>
+              	<ul class="more" style="display:none;">
+                    <li><a href="">Audio Bible</a></li>
+					<li><a href="">CP Blog</a></li>
+					<li><a href="">iPost</a></li>
+					<li><a href="/mypost/">My Post</a></li>
+					
+                </ul>
+              </li>
+          </ul>
+        </div>
+        <div class="right">
+        	<div><!--input name="" type="text" placeholder="Search" /-->
+			<form action="/search/" id="cse-search-box" class="topSearch" name="srch">
+									<input type="hidden" name="cx" value="012079842137319898121:kryavccayfo">
+									<input type="hidden" name="cof" value="FORID:9">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="text" name="q" class="term" placeholder="Search" value="">
+					<img src="http://graphic.christianpost.com/images/2013/ic_search.gif" width="23" height="17" alt="Search" onclick="document.srch.submit();">
+				</form>
+			</div>
+        </div>
+    </div>
+  </div>
+<!--TopBar Black End-->
+<style>
+#iFrame{z-index:9999;}
+</style>    <h1 class="branding" style="display:none;">
+        <a href="index.html"></a>
+    </h1>
+        <div id="aboutImg" class="aboutImg1">
+    </div>
+    <div id="wrap">
+  		<div id="contents">
+          <div class="contents_leftbar">
+                <h3>About Us</h3>
+                    <ul id="lMenu">
+                        <li><a href="aboutus.html#ginfo">General Information <span class="vh">»</span> </a> </li>
+                        <li><a href="aboutus.html#sFaith">Statement of Faith <span class="vh">»</span> </a></li>
+                        <li><a href="aboutus.html#cInfo">Contact Information <span class="vh">»</span> </a></li>
+                        <li class="border"><a href="board.html">Leadership  </a></li>
+                        <li><a href="disclaimer.html">General Disclaimer  </a></li>
+                        <li><a href="policy.html">Editorial Policy  </a></li>
+                        <li><a href="copyright.html">Terms And Conditions  </a></li>
+                        <li><a href="permissionspolicy.html">Permissions Policy  </a></li>
+                        <li class="selected"><a href="privacypolicy.html">Privacy Policy » </a></li>
+                        <li><a href="contactus.html">Contact Us  </a></li>
+                    </ul>  
+            
+                <h3 class="Spad">Site Services</h3>
+                    <ul> 
+                        <!--li><a href="http://www.christianpost.com/services/user/registration/register.htm">Registration</a> </li>
+                        <li><a href="http://www.christianpost.com/services/user/login/">Login</a></li-->
+                        <li><a href="http://www.christianpost.com/search/">Finding Article</a></li>
+                        <li><a href="disclaimer.html">Disclaimer</a></li>
+                        <li><a href="http://www.christianpost.com/services/newsletter/subscribe/">Newsletter</a></li>
+                        <li><a href="http://www.christianpost.com/services/rss/">RSS Feed</a></li>
+                        <li><a href="http://www.christianpost.com/corrections.htm">Corrections</a></li>
+                        <li><a href="http://www.christianpost.com/services/banners/">Banners</a></li>
+                   	</ul>
+            </div>
+			
+    
+            <div class="contents_rightbar">
+                <h2>Privacy Policy</h2>
+                <p>Last updated on April 15 2015</p> 
+                <p>This page describes the terms and conditions that govern your use of The Christian Post digital properties, including <a href="http://www.christianpost.com/">www.ChristianPost.com</a>,  mobile sites and applications, offered by The Christian Post and certain of its subsidiaries (“CP”, “us” or “we”).</p>
+                <h4>INFORMATION THAT WE GATHER</h4>
+                <p>The information gathered when you use The Christian Post falls into two categories: (i) Personal Information, which includes personal information you provide when you subscribe, order, complete a survey, register for an account, enter a contest or provide your email address and (ii) non-personal information collected through technology, which includes tracking information collected by The Christian Post, third parties, vendors or advertisers.  </p>
+                <h4 class="italic">PERSONAL INFORMATION</h4>
+                <h4>Registration Information</h4>
+                <p>Registration for The Christian Post account requires you to provide personal information including e-mail address and demographic information (gender, age, occupation and denomination).  </p>
+                <p>You may choose to link a Facebook or Twitter account with your The Christian Post registration by signing in CP Website using your Facebook or Twitter credentials.  By associating accounts, you are giving these third parties permission to send us certain information from your profile there.  The information sent depends on your privacy settings with the third parties or their privacy policies.  We will use the information they share with us in accordance with our Privacy Policy.  You can disassociate your registration with The Christian Post from any third party accounts at any time.</p>
+                <h4>Billing and Credit Card Information</h4>
+                <p>To enable payment via The Christian Post Website, we collect and store name, address, telephone number, email address, credit card information and other billing information.   This information will only be shared with thirs parties who help to complete the purchase transaction.</p>
+                <h4>User Generated Content, Comments, Reviews and Blogs</h4>
+                <p>The Christian Post offers you opportunities to blog, comment, make recommendations, reviews, rates on our Website, forums, and discussion boards.  Any information you disclose in your activities, along with your screen name or ID, or any image or photo, becomes public and may be used by The Christian Post for online and offline promotional or commercial uses in any and all media. If you choose to engage in these activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personally identifiable information you choose to submit in the course of your activities and we have no responsibility to publish, take down, remove or edit any of your activities or submissions.  </p>
+                <p>If you have registered for The Christian Post account, we will track and aggregate your activities on the Website.  By participating in our Website, you elect to share and display those activities via our Website, and those activities may be included in RSS feeds, APIs and made available to other websites.  Therefore, your activities on The Christian Post may appear in other websites, blogs, social media platforms or feeds.  We are not responsible for any personal information you choose to make public, and you agree that such sharing will be deemed to have been done by you, not The Christian Post.</p>
+                <p>When you recommend or share links to content on a third party platform, such as Facebook, Twitter or Google+, that action and any information you share will be covered by their privacy policy.</p>
+                <h4>Contest, Sweepstakes and Special Offers</h4>
+                <p>The Christian Post collects personal information from you when you participate in sweepstakes, contests or special offers.  If this information is also being collected by a third party other than The Christian Post, we will notify you at the same time.  If you do not want any personal information shared, you should not participate in the sweepstakes, contest or special offer.</p>
+                <h4>Reader Surveys</h4>
+                <p>The Christian Post may collect personal information from you in connection with voluntary surveys conducted via the Website.  The information you provide may be shared with advertisers and partners unless we notify you otherwise at the time of collection.  </p>
+                <h4 class="italic">Non-Personal Information Collected Using Technology</h4>
+                <h4>Information Collected by Us Using Technology</h4>
+                <p>We use various Internet technologies to manage our Website and track use of the Website. Non-personal information that we collect using these technologies may be combined with other information about you.</p>
+                <p><span class="bold">Device Information:</span> We may collect non-personal information about the computer, mobile device or other device you use to access The Christian Post website, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.</p>
+                <p><span class="bold">Cookies, Beacons, Local Storage and Other Similar Technologies:</span> We use "cookies," Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Website, recognize you and provide personalization, and help us understand how readers use the Website. </p>
+                <p>The Christian Post may transmit non-personally identifiable website usage information about our visitors to a reputable third party in order to show you advertising for The Christian Post when you visit other sites. </p>
+                <p><span class="bold">Analytics Technologies:</span> The Christian Post works with third parties to provide us information, reports and analysis about the usage, browsing patterns of readers of our website.</p>
+                <p><span class="bold">IP Addresses:</span> We may log your IP address.  We use IP addresses for system administration and troubleshooting purposes, to customize content for specific regions, including currency display, recommendations and serving certain advertisements and to track access and use of our website.</p>
+                <p><span class="bold">Log Files and Your Reading History:</span> We automatically log certain usage information about your use of The Christian Post website, including a reading history of the pages you view.  We use this information in order to provide you with customized Recommendations on www.ChristianPost.com based on your reading history</p>
+                <p><span class="bold">Location Information:</span> Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app.  If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers.  If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information.</p>
+                <p>Ads may be displayed within our mobile site and apps.  The ads you see are not targeted to you based on your current GPS location, but they may be targeted to you based on your device's IP address or ZIP code.</p>
+                <h4>Information Collected by Third Parties</h4>
+                <p>Some of the services and advertisements included in The Christian Post, including on www.ChristianPost.com and within our mobile site and apps, are delivered or served by third-party companies.  These companies may place or recognize cookies, Web beacons or other technology to track certain non-personal information about our website users.  In the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of The Christian Post website.  In many cases, this information could be used to show you ads on other websites based on your interests.  </p>
+                <p>We do not have access to, nor control over, advertisers' or service providers' use of cookies or other tracking technologies or how they may be used.</p>
+                <p>You have choices about the collection of information by third parties on our website:</p>
+                <ol>
+                  <li>If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please visit <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>.</li>
+                  <li>If you would like to opt-out of having interest-based information collected during your visits to this or other sites, please visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>.</li>
+                </ol>
+                <p>Your access to our websites should not be affected if you do not accept cookies served by third parties.</p>
+                <h4>Here Is How We Use Your Information</h4>
+                <p><span class="bold">Customizing Your Experience:</span> We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent.  We also use this information to customize certain features of the Website to provide you with an enhanced experienced based on the type of device you are using to access The Christian Post.  We may use demographic and preference information to allow advertising on the Website to be targeted to the users for whom they are most pertinent.  This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.  We disclose information to third parties only in aggregate or de-identified form.</p>
+                <p><span class="bold">Statistical Analysis:</span> We perform statistical, demographic and marketing analyses of readers of The Christian Post, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our reader base.  We use this information for analysis purposes, including analysis to improve customer relationships.</p>
+                <p><span class="bold">Email Newsletters:</span> We will periodically send you email newsletters or promotional email about services offered by The Christian Post and its advertisers.</p>
+                <h4>Here Is With Whom We Share Your Information</h4>
+                <p><span class="bold">Within The Christian Post:</span> We may share your information with companies that are affiliated with us.</p>
+                <p><span class="bold">Third Parties:</span> If you have used The Christian Post, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission.  We also share information about our audience in aggregate or de-identified form. </p>
+                <p><span class="bold">Vendors:</span> We contract with other companies to provide services on our behalf, including credit-card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management.  We provide these companies only with the information they need to perform their services.  These vendors are restricted from using this data in any way other than to provide services for The Christian Post, and they may not share, resell or use the data for their own direct marketing purposes.</p>
+                <p>We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.  We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. </p>
+                <h4>Email Policies</h4>
+                <p><span class="bold">Account and Service-Related Email:</span> The Christian Post reserves the right to send you email relating to your account status.  This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional emails and notifications about major changes to The Christian Post website and/or to our Privacy Policy.  If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.</p>
+                <p><span class="bold">Email Newsletters:</span> The Christian Post offers several email newsletters.  If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. </p>
+                <p><span class="bold">Promotional EBlast:</span> The Christian Post may periodically email you messages about products and services from our advertisers.  You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each email.</p>
+                <p><span class="bold">Survey Email:</span> We may send you an email inviting you to participate in user surveys, asking for feedback on our website and existing or prospective products and services, as well as information to better understand our users.  User surveys greatly help us to improve The Christian Post, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.</p>
+                <p><span class="bold">HTML Email:</span> When you sign up to receive email from us, you can select either plain text or HTML (with images) format.  If you select the HTML format, we may place a one-pixel gif to determine whether or not readers viewed the email.  This process does not leave any information on your computer, nor does it collect information from your computer.  </p>
+                <p><span class="bold">Emails From You:</span> If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others.  We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails.  We will use your email address to respond directly to your questions or comments.</p>
+                <p><span class="bold">Email This Article Feature:</span> ChristianPost.com readers may use this feature to email links to articles.  The email addresses that you supply to this service are saved for your convenience for future articles you may wish to email; these addresses are not used for any other purpose, and will not be shared with any third parties.</p>
+                <h4>How to Access, Correct or Update Your Information</h4>
+                <p>You may review and update your The Christian Post account information and access your transaction history in the CP Friend area.  There are a number of things you can do in the CP Friend area to ensure your personal information is accurate and up to date.  For one, you can update the information you provided during the registration process.  If you do not remember your password, you can reset your password here. If you need further assistance, please contact us at <a href="http://www.christianpost.com/aboutus/contactus.html">http://www.christianpost.com/aboutus/contactus.html</a>.</p>
+                <h4>Compliance With Legal Process</h4>
+                <p>We may disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of The Christian Post website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).</p>
+                <h4>COPPA Compliance. </h4>
+                <p>The Christian Post does not knowingly collect or store any personal information about children under the age of 13.</p>
+                <h4>Your California Privacy Rights</h4>
+                <p>Under the California "Shine The Light" law, California residents may opt-out of The Christian Post's disclosure of personal information to third parties for their direct marketing purposes.  As detailed above, you may choose to opt- out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at <a href="mailto:info@christianpost.com">info@christianpost.com</a>. It is important to note that this opt-out does not prohibit disclosures made for non- marketing purposes, including but not limited to subscription management.</p>
+                <h4>International Safe Harbor Privacy Principles</h4>
+                <p>The Christian Post adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and Switzerland to the United States of America.  Accordingly, we follow the Safe Harbor Privacy Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. The Christian Post has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  This privacy policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice you have regarding our use of and your ability to correct that information. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+                <h4>Changes to This Policy</h4>
+                <p>This Privacy Policy may be amended from time to time. Any such changes will be posted on this page.  If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect.</p>
+            </div>
+        </div>
+    </div>
+	<!--Footer Start-->
+      <div id="footer">
+        <ul id="pageLink">
+              <li><a href="/aboutus/aboutus.html">About Us</a></li>
+              <li><a href="/aboutus/contactus.html" rel="nofollow">Contact Us</a></li>
+              <li><a href="/services/advertise/" rel="nofollow">Media Kit</a></li>
+              <li><a href="/archive/">Archives</a></li>
+              <li><a href="/fan-faves/">Fan Faves</a></li>
+              <li><a href="/corrections.htm" rel="nofollow">Corrections</a></li>
+              <li><a href="/aboutus/disclaimer.htm" rel="nofollow">Disclaimer</a></li>
+              <li><a href="/services/banners/" rel="nofollow">Banners</a></li>
+              <li><a href="/aboutus/jobs.html" rel="nofollow">Careers</a></li>
+              <li><a href="/qna/">Q&amp;A</a></li>
+              
+            </ul>
+        <!--  
+        <div id="partners">
+            Media Partners
+            <a href="http://breathecast.christianpost.com"><img src="images/partners_bc.gif" alt="Breathecast" align="absmiddle" /><span>Breathecast.com</span></a>
+             <a href="http://goodnewsline.christianpost.com"><img src="images/partners_gnl.gif" alt="Goodnewsline" align="absmiddle" /><span>Gnli.com</span></a>
+             <a href="http://bibleportal.christianpost.com"><img src="images/partners_bp.gif" alt="Bibleportal" align="absmiddle" /><span>Bibleportal.com</span></a>
+            
+    </div>
+    	-->
+        <ul id="sections">
+          <li><a href="/church-ministries/">Church &amp; Ministries</a></li>
+          <li><a href="/us/">U.S.</a></li>
+          <li><a href="/world/">World</a></li>
+          <li><a href="/politics/">Politics</a></li>
+          <li><a href="/entertainment/">Entertainment</a></li>
+          <li><a href="/tech/">Tech &amp; Biz</a></li>
+          <li><a href="/opinion/">Opinion</a></li>
+          <li><a href="/">Blogs</a></li>
+          <li><a href="/">Video</a></li>
+          <li><a href="/gallery/">Photo</a></li>
+          <li><a href="/">Audio Bible</a></li>
+          <li><a href="/">iPost</a></li>
+         
+        </ul>
+        <div id="footerBottom">
+          <a href="/"><img src="http://graphic.christianpost.com/images/2013/logo_footer.gif" alt="The Christian Post | Home" align="absmiddle"></a> <span>Copyright © 2015 The Christian Post , INC. All Rights Reserved.  <a href="/aboutus/copyright.html">Terms</a> under which this service is provided to you. <a href="/aboutus/copyright.html">Privacy Policy</a>. Ad choices. <a href="#"><img src="http://graphic.christianpost.com/images/2013/adchoice.gif" alt="Ad choices" align="absmiddle"></a></span>
+        </div>
+    </div>
+	<script type="text/javascript">$(document).ready(function() {if($('a[href*="postrelease.com/"]').toArray().length>0)$.ajax({url:'/client/postrelease/counter.php',cache: false});});</script>
+	  <!--Footer End-->	<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "7918809" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7918809&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->    
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-f3_tFTzTnk8n2"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-f3_tFTzTnk8n2.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!--google-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8906135-2']);
+  _gaq.push(['_setDomainName', '.christianpost.com']);
+  _gaq.push(['_setCustomVar',1,'Section','www.christianpost.com:',3]);
+   
+  _gaq.push(['_setCustomVar',3,'Edition','www.christianpost.com',3]);
+  
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--google-->
+<!--chartbeat-->
+<script type="text/javascript">
+var _sf_async_config={uid:24907,domain:"christianpost.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!--chartbeat-->
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-305490h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-305490h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+	    <!-- stcode start--> 
+    <script type="text/javascript">sc_project=2124700; sc_invisible=1; sc_partition=19; sc_security="e1c37b2d"; </script> 
+    <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js" async="true"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c20.statcounter.com/2124700/0/e1c37b2d/1/" alt="web hit counter" /></a></div></noscript> 
+    <!-- stcode end-->
+        <!-- bizo start-->
+	<script type="text/javascript">_bizo_data_partner_id = "2930";</script>
+	<script type="text/javascript">(function(){var b,a,u;a=document.createElement("script");a.type="text/javascript";a.async=true;u=(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";a.src=u;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();</script>
+	<noscript><img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=2930&fmt=gif" /></noscript>
+	<!-- bizo end-->
+<!-- Compete CrossPoint Tag for christianpost.com -->
+<script type="text/javascript">
+__compete_code = '38b2a4c235cab155c1b33cb5b22f278c';
+/* Set control variables below this line. */ 
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/38b2a4c235cab155c1b33cb5b22f278c/christianpost-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-christianpost-com-38b2a4.c-col.com"/>
+</noscript>
+
+<!-- google true view check -->
+<script type="text/javascript">
+(function() {
+   var gvn = document.createElement('script');
+   gvn.src = document.location.protocol + '//s0.2mdn.net/instream/video/client.js';
+   gvn.async = true;
+   gvn.type = 'text/javascript';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(gvn, s);
+})();
+</script>
+
+<!-- sonobi -->
+<script type="text/javascript">
+    googletag.cmd.push(function(){sbi_morpheus.callOperator();});
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8c3b2373fb","applicationID":"3519570","transactionName":"NFJbZEsHVhAAU0JdCg0YbEJQSVkBDkVCQRZMR0tZTwdbGhFfWl0GGhlRRFQK","queueTime":0,"applicationTime":0,"atts":"GBVYEgMdRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
