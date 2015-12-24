@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203210id_/https%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspark.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225002942id_/https%3A//socialspark.com/privacy_policy) for the most accurate reproduction.*
 
 # SocialSpark: Influencer Marketing
 
