@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coveragemail.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502193042id_/http%3A//www.coveragemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveragemail.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171414id_/http%3A//www.coveragemail.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Coverage Mail
+# Privacy Policy – CoverageMail
 
-This Privacy Policy governs the manner in which **Coverage Mail** collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.coveragemail.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Coverage Mail.
+This Privacy Policy governs the manner in which Coveragemail collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.coveragemail.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Coveragemail.
 
 **Personal Identification Information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How We  Use Collected Information**
 
-**Coverage Mail** may collect and use Users personal information for the following purposes:
+Coveragemail may collect and use Users personal information for the following purposes:
 
 – To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
@@ -43,26 +43,22 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Compliance With Children’s Online Privacy Protection Act**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we nevercollect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Changes to this Privacy Policy**
 
-**Coverage Mail** has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Coveragemail has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance of These Terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting Us**
+**Contact Us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Call (+91) 8802275251
+Call (+91) 8010252572
 
-**admin@coveragemail.com**
+**Pinkcelebs[at]gmail.com**
 
-**OR**
-
-**pinkcelebs@gmail.com**
-
-This document was last updated on February 05, 2015
+This document was last updated on **December**  22, 2015
