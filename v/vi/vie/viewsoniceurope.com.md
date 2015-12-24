@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630004744id_/http%3A//www.viewsoniceurope.com/eu/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224071932id_/http%3A//www.viewsoniceurope.com/uk/policy) for the most accurate reproduction.*
 
 # Privacy Policy - ViewSonic
 
@@ -6,7 +6,7 @@ Please find below the Privacy Policy for the Website operated by ViewSonic Europ
 
 Websites you link to from ViewSoniceurope.com may have their own privacy policy that may differ from ViewSonic’s. Please review those websites’ privacy policies for detailed information on how they may use information gathered while you are visiting them.
 
-  1. Unless otherwise provided in the Privacy Policy or the [Terms of Use](https://web.archive.org/eu/legal/), ViewSonic will not sell, rent or trade your personal information to third parties for marketing purposes without your express consent. ViewSonic will only pass your data to other third parties in accordance with this Privacy Policy or the Terms of Use, or if required to do so by law. ViewSonic may disclose your data to certain permitted third parties, such as members of the ViewSonic group, ViewSonic’s own professional advisers who are bound by confidentiality codes, and when ViewSonic is legally obliged to disclose your data.
+  1. Unless otherwise provided in the Privacy Policy or the [Terms of Use](https://web.archive.org/uk/legal/), ViewSonic will not sell, rent or trade your personal information to third parties for marketing purposes without your express consent. ViewSonic will only pass your data to other third parties in accordance with this Privacy Policy or the Terms of Use, or if required to do so by law. ViewSonic may disclose your data to certain permitted third parties, such as members of the ViewSonic group, ViewSonic’s own professional advisers who are bound by confidentiality codes, and when ViewSonic is legally obliged to disclose your data.
   2. ViewSonic can obtain personal data from you (including your name, postal address, telephone number and email address) in order to process any requests you may make, from a number of different sources: 
     1. When you search for or request details on services or products from the Website, for example, registering a ViewSonic product online or entering a competition.
     2. Via unconditional data capture measures such as the use of cookies and studying the pages you read frequently (please see further at Clause 3 below).
