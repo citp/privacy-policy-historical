@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkorange.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120154id_/http%3A//common.rethinkgroup.org/legal/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkorange.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224120800id_/http%3A//common.rethinkgroup.org/legal/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # THE RETHINK GROUP PRIVACY POLICY
 
