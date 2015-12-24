@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the grizzly.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628140141id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grizzly.com privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224171527id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta itemprop="priceCurrency" content="USD">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi">
-    <title>Grizzly.com® --</title>
+    <title>Grizzly.com® -- Customer Privacy Policy</title>
     
     <link href="/content/themes/grizzly2/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
@@ -14,67 +14,131 @@
     
     <link href="/content/themes/grizzly2/yamm.css" rel="stylesheet" type="text/css">
     
-    <link href="/content/themes/grizzly2/site.css?v=20150626105250" rel="stylesheet" type="text/css">
+    <link href="/content/themes/grizzly2/site.css?v=20151223113059" rel="stylesheet" type="text/css">
     <link rel="Stylesheet" type="text/css" href="http://cdn1.grizzly.com/styles/griz-jquery-ui.20140723.css">
-     
-      <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MM6KBV"></script><script>var dataLayer =  [{'ecommerce': {
-		    'currencyCode': 'USD',                       // Local currency is optional.
-		    'impressions' :[]
-		  }}];</script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MM6KBV"></script><script>
+        //CATCH-ALL JS ERROR HANDLER
+        window.onerror = function (errorMsg, url, lineNumber, column, errorObj) {
+            reportJavascriptError(navigator.userAgent, errorMsg, url, lineNumber, column, errorObj);
+        }
+        function reportJavascriptError(userAgent, errorMsg, url, lineNumber, column, errorObj) {
+            //Using XHR request so we don't yet have to load jQuery
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/service/ReportJavascriptError?userAgent=' + encodeURIComponent(userAgent) + '&msg=' + encodeURIComponent(errorMsg) + '&url=' + encodeURIComponent(url) + '&lineNumber=' + lineNumber + '&columnNumber=' + column + '&errorObj=' + encodeURIComponent(errorObj));
+            xhr.send(null);
+            xhr.onreadystatechange = function () {
+                var DONE = 4;
+                var OK = 200;
+                if (xhr.readyState === DONE) {
+                    if (xhr.status === OK) {
+                        console.log('Error Reported Successfully:' + xhr.responseText);
+                    } else {
+                        console.log('Error: ' + xhr.status);
+                    }
+                }
+            };
+        }
+    </script>
+    <script>
+        /**
+        * Protect window.console method calls, e.g. console is not defined on IE
+        * unless dev tools are open, and IE doesn't define console.debug
+        * 
+        * Chrome 41.0.2272.118: debug,error,info,log,warn,dir,dirxml,table,trace,assert,count,markTimeline,profile,profileEnd,time,timeEnd,timeStamp,timeline,timelineEnd,group,groupCollapsed,groupEnd,clear
+        * Firefox 37.0.1: log,info,warn,error,exception,debug,table,trace,dir,group,groupCollapsed,groupEnd,time,timeEnd,profile,profileEnd,assert,count
+        * Internet Explorer 11: select,log,info,warn,error,debug,assert,time,timeEnd,timeStamp,group,groupCollapsed,groupEnd,trace,clear,dir,dirxml,count,countReset,cd
+        * Safari 6.2.4: debug,error,log,info,warn,clear,dir,dirxml,table,trace,assert,count,profile,profileEnd,time,timeEnd,timeStamp,group,groupCollapsed,groupEnd
+        * Opera 28.0.1750.48: debug,error,info,log,warn,dir,dirxml,table,trace,assert,count,markTimeline,profile,profileEnd,time,timeEnd,timeStamp,timeline,timelineEnd,group,groupCollapsed,groupEnd,clear
+        */
+        (function () {
+            // Union of Chrome, Firefox, IE, Opera, and Safari console methods
+            var methods = ["assert", "assert", "cd", "clear", "count", "countReset",
+              "debug", "dir", "dirxml", "dirxml", "dirxml", "error", "error", "exception",
+              "group", "group", "groupCollapsed", "groupCollapsed", "groupEnd", "info",
+              "info", "log", "log", "markTimeline", "profile", "profileEnd", "profileEnd",
+              "select", "table", "table", "time", "time", "timeEnd", "timeEnd", "timeEnd",
+              "timeEnd", "timeEnd", "timeStamp", "timeline", "timelineEnd", "trace",
+              "trace", "trace", "trace", "trace", "warn"];
+            var length = methods.length;
+            var console = (window.console = window.console || {});
+            var method;
+            var noop = function () { };
+            while (length--) {
+                method = methods[length];
+                // define undefined methods as noops to prevent errors
+                if (!console[method])
+                    console[method] = noop;
+            }
+        })();
+    </script>
+    <script>var dataLayer = [{
+    'ecommerce': {
+        'currencyCode': 'USD',                       // Local currency is optional.
+        'impressions': []
+    }
+}];</script>
     <script type="application/ld+json">
     {
-	    "@context": "http://schema.org",
-	    "@type": "Organization",
-	    "name" : "Grizzly Industrial, Inc.",
-	    "url": "http://www.grizzly.com",
-	    "logo": "http://cdn2.grizzly.com/grizzly2/images/grizzly-search-logo.png",
-	    "contactPoint" : [{
-		    "@type" : "ContactPoint",
-		    "telephone" : "+1-800-523-4777",
-		    "contactType" : "customer service"
-	    }],
-	    "sameAs" : [
-		    "https://www.facebook.com/grizzlyindustrial",
-		    "https://twitter.com/grizzly",
-		    "https://www.youtube.com/user/GrizzlyMachinery"
-	    ] 
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name" : "Grizzly Industrial, Inc.",
+        "url": "http://www.grizzly.com",
+        "logo": "http://cdn2.grizzly.com/grizzly2/images/grizzly-search-logo.png",
+        "contactPoint" : [{
+            "@type" : "ContactPoint",
+            "telephone" : "+1-800-523-4777",
+            "contactType" : "customer service"
+        }],
+        "sameAs" : [
+            "https://www.facebook.com/grizzlyindustrial",
+            "https://twitter.com/grizzly",
+            "https://www.youtube.com/user/GrizzlyMachinery"
+        ] 
     }
-
-
-
     </script>
-    <script type="text/javascript">window.imgRoot = "http://cdn0.grizzly.com"; window.secureroot = "https://www.grizzly.com"; window.root = "http://www.grizzly.com"; window.culture = "en-US"; window.bannerRoot = "http://banners.grizzly.com/v3";</script>
-   
-    
-    	<style>
+    <script type="text/javascript">window.imgRoot = "http://cdn0.grizzly.com"; window.secureroot = "https://www.grizzly.com"; window.root = "http://www.grizzly.com"; window.culture = "en-US"; window.bannerRoot = "http://banners.grizzly.com/v5";</script>
+
+
+    <style>
         .lazy {
     display: none;
 }
-		.main-dd-menu{
-			position: absolute;
-			
-			top: 100%;
-			left: 0;
-			padding-left: 0;
+        @media(max-width: 767px){
+            .navbar-header > .row{
+                margin-right: 0;
+                margin-left: 0;
+            }
 
-			background: #fff;
-			display: none;
-			box-shadow:        0 0 8px #4c4c4c;
-			-webkit-box-shadow:0 0 8px #4c4c4c;
-			-moz-box-shadow:   0 0 8px #4c4c4c;
-		}
-		.dropdown-offset{
-			position: relative !important;
-		}
-	
+            .navbar-header > .row > div[class^="col-xs"]{
+                padding-right: 0;
+                padding-left: 0;
+            }
+        }
+        .main-dd-menu{
+            position: absolute;
+            
+            top: 100%;
+            left: 0;
+            padding-left: 0;
+
+            background: #fff;
+            display: none;
+            box-shadow:        0 0 8px #4c4c4c;
+            -webkit-box-shadow:0 0 8px #4c4c4c;
+            -moz-box-shadow:   0 0 8px #4c4c4c;
+        }
+        .dropdown-offset{
+            position: relative !important;
+        }
+    
         .main-dd-menu > li{
             width: 100%;
         }
-		.dropdown-offset .main-dd-menu{
-			width: auto !important;
-			position: absolute;
-			min-width: 520px;
-		}
+        .dropdown-offset .main-dd-menu{
+            width: auto !important;
+            position: absolute;
+            min-width: 520px;
+        }
       
         .nav-column > li{
             width: 100%;
@@ -98,125 +162,125 @@
         }
         .nav-column{
             width: 33.33333333%;
-			display: table-cell;
+            display: table-cell;
             border-right:  1px dashed #ccc;
         }
         .nav-column:last-child{
             border-right: none;
         }
-		
-		
-		.main-dd-menu,
-		.main-dd-menu li,
-		.main-dd-menu li ul{
+        
+        
+        .main-dd-menu,
+        .main-dd-menu li,
+        .main-dd-menu li ul{
 
-			width: 100%;
-			z-index: 9999999;
-		}
-		
-		
-		.main-dd-menu li ul{
-			
-			display: table-cell;
-			
-			top: 100%;
-			left: 0;
-			
-			width: 33%;
-	
-			height: 100%;
-			padding: 15px ;
-		}
-		.main-dd-menu li{
-			display: table;
-			list-style-type: none;
-			text-align: left;
-		}
-		.main-dd-menu.first a{
-			display: block;
-			color: #000;
-			padding: 4px 15px;
-		}
-		.main-dd-menu.first a:hover{
-
-			background: #efefef;
-			color: #000;
-			text-decoration: none;
-			width: 100%;
-			
-		}
-			.hide{
-		display: none;
-	}
+            width: 100%;
+            z-index: 9999999;
+        }
+        
+        
+        .main-dd-menu li ul{
+            
+            display: table-cell;
+            
+            top: 100%;
+            left: 0;
+            
+            width: 33%;
     
-	@media (max-width: 767px){
-	    body{-webkit-overflow-scrolling: touch; }
-	    #smMainChatDiv{top: auto !important; bottom: -541px !important;}
-	    #carousel-arrows{display: none !important;}
-	.main-dd-menu li ul{
-		display: block;
-		padding-bottom: 0;
-		padding-top: 0;
-			width: 100%;
-	}
-		.main-dd-menu{
-			position: relative !important;
-			background: #c4c4c4;
-		    box-shadow:        none;
+            height: 100%;
+            padding: 15px ;
+        }
+        .main-dd-menu li{
+            display: table;
+            list-style-type: none;
+            text-align: left;
+        }
+        .main-dd-menu.first a{
+            display: block;
+            color: #000;
+            padding: 4px 15px;
+        }
+        .main-dd-menu.first a:hover{
 
-			
-		}
+            background: #efefef;
+            color: #000;
+            text-decoration: none;
+            width: 100%;
+            
+        }
+            .hide{
+        display: none;
+    }
+    
+    @media (max-width: 767px){
+        body{-webkit-overflow-scrolling: touch; }
+        #smMainChatDiv{top: auto !important; bottom: -541px !important;}
+        #carousel-arrows{display: none !important;}
+    .main-dd-menu li ul{
+        display: block;
+        padding-bottom: 0;
+        padding-top: 0;
+            width: 100%;
+    }
+        .main-dd-menu{
+            position: relative !important;
+            background: #c4c4c4;
+            box-shadow:        none;
 
-		.main-dd-menu a,
-		.main-dd-menu.first a{
-			display: block;
-			color: #777;
-			padding: 5px 15px;
-		}
-		.main-dd-menu a:hover,
-		.main-dd-menu.first a:hover,
-		.main-dd-menu a:active,
-		.main-dd-menu.first a:active{
+            
+        }
 
-			background: #000;
-			color: #fff;
-			text-decoration: none;
-			width: 100%;
-			
-		}
-		#main-nav{height: auto !important;}
-		.navbar-collapse.in {
+        .main-dd-menu a,
+        .main-dd-menu.first a{
+            display: block;
+            color: #777;
+            padding: 5px 15px;
+        }
+        .main-dd-menu a:hover,
+        .main-dd-menu.first a:hover,
+        .main-dd-menu a:active,
+        .main-dd-menu.first a:active{
+
+            background: #000;
+            color: #fff;
+            text-decoration: none;
+            width: 100%;
+            
+        }
+        #main-nav{height: auto !important;}
+        .navbar-collapse.in {
 overflow-y: visible;
 }
 
 .dropdown-offset .main-dd-menu{
 
-			min-width: 0;
-		}
-	}
-	
-	
-	.ui-autocomplete {
-		max-height: 200px;
-		overflow-y: auto;
-		/* prevent horizontal scrollbar */
-		overflow-x: hidden;
-		-webkit-overflow-scrolling: touch;
-	}
-	/* IE 6 doesn't support max-height
-	 * we use height instead, but this forces the menu to always be this tall
-	 */
-	html .ui-autocomplete {
-		height: 100px;
-	}
-	
-	#lang-change{}
+            min-width: 0;
+        }
+    }
+    
+    
+    .ui-autocomplete {
+        max-height: 200px;
+        overflow-y: auto;
+        /* prevent horizontal scrollbar */
+        overflow-x: hidden;
+        -webkit-overflow-scrolling: touch;
+    }
+    /* IE 6 doesn't support max-height
+     * we use height instead, but this forces the menu to always be this tall
+     */
+    html .ui-autocomplete {
+        height: 100px;
+    }
+    
+    #lang-change{}
     #main-nav{
         margin-right: -17px !important;
     }
     .navbar-nav{
         
-	
+    
     }
     .navbar-nav > .dropdown.first{
             width: 147px !important;
@@ -245,26 +309,28 @@ overflow-y: visible;
         z-index: 99999;
         color: #fff;
     }
-	</style>
+    </style>
 
     
     
     <link href="/content/themes/grizzly2/static.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    
+
     <script src="http://cdn1.grizzly.com/js/thirdparty/html5shiv.min.js"></script>
     <script src="http://cdn2.grizzly.com/js/thirdparty/respond.min.js"></script>
     
     
-	
-  </head>
-  <body>
+    
+</head>
+<body>
 
-
+    
     <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MM6KBV"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MM6KBV"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
     <script>
         (function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -276,43 +342,44 @@ overflow-y: visible;
         })(window, document, 'script', 'dataLayer', 'GTM-MM6KBV');
     </script>
     <!-- End Google Tag Manager -->
-      <div class="container error-alert-container">
-            <div class="alert alert-danger main-error row " role="alert">
-                <div class="col-lg-10 col-sm-9">
-                  <i class="fa fa-exclamation-triangle"></i>
-                    <span class="errors">
-                        
-                    </span>
-                </div>
-                <div class="col-lg-2 col-sm-3 error-button-container">
-                   <a class="btn btn-default btn-error close-error-alert">Close</a>
-                </div>
-                
-
+    <div class="container error-alert-container">
+        <div class="alert alert-danger main-error row " role="alert">
+            <div class="col-lg-10 col-sm-9">
+                <i class="fa fa-exclamation-triangle"></i>
+                <span class="errors">
+                    
+                </span>
             </div>
-      </div>
+            <div class="col-lg-2 col-sm-3 error-button-container">
+                <a class="btn btn-default btn-error close-error-alert">Close</a>
+            </div>
+
+
+        </div>
+    </div>
 
     <div id="header" class="container">
-
+        
         <div class="row">
             <div class="col-sm-4 col-xs-12">
-                <a id="grizlogo" href="/"><img src="http://cdn0.grizzly.com/grizzly2/images/griz-ind-short-red-gold-matted.png"></a>
+                <a id="grizlogo" href="/">
+                    <img src="http://cdn0.grizzly.com/grizzly2/images/griz-ind-short-red-gold-matted.png"></a>
             </div>
             <div class="col-sm-4 hidden-xs search-wrapper">
                 <form id="searchform1" action="/search" method="get" role="search">
                     <div class="input-group">
-                        <input id="searchbox" type="text" class="form-control" name="sq">
-                        <span id="searchbutton" class="input-group-addon"><a id="searchform1button" href="javascript:void(0)" style="text-decoration:none;color:#fff;font-size:18px;">SEARCH</a></span>
+                        <input id="searchbox1" type="text" class="form-control" name="q" autofocus="">
+                        <span id="searchbutton" class="input-group-addon"><a id="searchform1button" href="javascript:void(0)" style="text-decoration: none; color: #fff; font-size: 18px;">SEARCH</a></span>
                     </div>
                 </form>
             </div>
             <div class="col-sm-4 hidden-xs">
-                <div>                    
-                    <img id="purveyors" class="png-fallback pull-right" src="http://cdn1.grizzly.com/grizzly2/images/purveyors3.svg" alt="Purveyors of Fine Machinery" height="68" style="margin-right: -20px;   margin-top: -3px;">
+                <div>
+                    <img id="purveyors" class="png-fallback pull-right" src="http://cdn1.grizzly.com/grizzly2/images/purveyors3.svg" alt="Purveyors of Fine Machinery" height="68" style="margin-right: -20px; margin-top: -3px;">
                     <div class="clearfix"></div>
                 </div>
-                
-                
+
+
                 <button id="mobile-menu-toggle" class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".mobile-menu">
                     <span class="sr-only">Toggle navigation</span>
                     <span><i class="fa fa-bars"></i></span>
@@ -322,11 +389,11 @@ overflow-y: visible;
         <div class="row">
             <div class="col-sm-12">
                 <div id="top-links" class="hidden-xs clearfix text-right">
-                   
-                    <div style="display:inline-block"> 
-                         <div style="display:inline-block"> <a href="/customerservice" id="support-link">Support</a> </div>
-                        <a href="#" id="lang-change" data-changeto="es">Español</a> 
-                        <div style="display:inline-block" class="dropdown">
+
+                    <div style="display: inline-block">
+                        <div style="display: inline-block"><a href="/customerservice" id="support-link">Support</a> </div>
+                        <a href="#" id="lang-change" data-changeto="es">Español</a>
+                        <div style="display: inline-block" class="dropdown">
                             <a data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Account<span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                                 <li><a href="/auth/sign-in"><i class="fa fa-sign-in"></i> Sign In</a></li>
@@ -335,7 +402,7 @@ overflow-y: visible;
                                 <li><a href="/multiitem"><i class="fa fa-th-list"></i> Quick Order</a></li>
                             </ul>
                         </div>
-                        
+
                         <a href="/cart">Cart <span class="badge basket-count">0</span></a>
 
                     </div>
@@ -343,29 +410,35 @@ overflow-y: visible;
             </div>
         </div>
     </div>
-   
+    
     <nav id="top-nav" class="navbar yamm navbar-inverse container" role="navigation">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
-                <span class="sr-only">Toggle navigation</span>
-                <span><i class="fa fa-bars"></i></span>
-                <span>BROWSE</span>
-            </button>
+            <div class="row">
+                <div class="col-xs-10">
+                    <form id="searchform2" class="hidden-sm hidden-md hidden-lg" action="/search" method="get" role="search">
+                        <div class="form-group">
+                            <div class="input-group" style="margin-left: 15px;">
+                                <input id="searchbox2" type="text" class="form-control" name="q" placeholder="Search">
+                                <a id="searchform2-submit" class="input-group-addon">Submit</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-xs-2">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span><i class="fa fa-bars"></i></span>
+                    </button>
+                </div>
+            </div>
         </div>
         <div id="main-nav" class="collapse navbar-collapse">
-            <form id="searchform2" class="hidden-sm hidden-md hidden-lg" action="/search" method="get" role="search">
-                <div class="form-group">
-                    <input type="text" class="form-control" name="sq" placeholder="Search">
-                </div>
-                <button type="submit" class="btn btn-default pull-right">Submit</button>
-                <div class="clearfix"></div>
-            </form>
             <ul class="nav navbar-nav">
                 <li class="divider hidden-sm hidden-md hidden-lg"></li>
                 <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item" href="/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="dropdown hidden-sm hidden-md hidden-lg">
-                    <a class="mobile-top-menu-item" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i> Account<span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">                        
+                <li id="account-dropdown" class="dropdown hidden-sm hidden-md hidden-lg">
+                    <a class="mobile-top-menu-item mobile-account-menu-expand" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i> Account<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                         <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item" href="/auth/sign-in"><i class="fa fa-sign-in"></i> Sign In</a></li>
                         <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item" href="/account"><i class="fa fa-key"></i> My Account</a></li>
                         <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item" href="/wishlist"><i class="fa fa-gift"></i> Wish List</a></li>
@@ -373,80 +446,80 @@ overflow-y: visible;
                     </ul>
                 </li>
                 <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item" href="/cart"><i class="fa fa-shopping-cart"></i> Cart <span class="badge basket-count">0</span></a></li>
-                <li class="divider hidden-sm hidden-md hidden-lg"></li>               
-                 <li class="dropdown yamm-fw first">
+                <li class="divider hidden-sm hidden-md hidden-lg"></li>
+                <li class="dropdown yamm-fw first">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories<span class="caret"></span></a>
                     <ul class="main-dd-menu first" role="menu">
                         <li>
                             <ul>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Abrasives%20%26%20Sanding" title="Abrasives &amp; Sanding">Abrasives &amp; Sanding (1757)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Adhesives" title="Adhesives">Adhesives (139)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Air Accessories" title="Air Accessories">Air Accessories (77)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Air Compressors" title="Air Compressors">Air Compressors (19)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Automotive%20Equipment" title="Automotive Equipment">Automotive Equipment (72)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Bandsaws" title="Bandsaws">Bandsaws (75)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Books,%20Plans%20%26%20DVDs" title="Books, Plans &amp; DVDs">Books, Plans &amp; DVDs (569)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Boring%20Machines" title="Boring Machines">Boring Machines (5)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Casters" title="Casters">Casters (144)</a></li>                                
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Clamps" title="Clamps">Clamps (436)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Combination%20Lathe-Mills" title="Combination Lathe-Mills">Combination Lathe-Mills (4)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Contractor,%20Home%20%26%20Shop" title="Contractor, Home &amp; Shop">Contractor, Home &amp; Shop (490)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Cutlery" title="Cutlery">Cutlery (58)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Cutting%20Tools" title="Cutting Tools">Cutting Tools (632)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Drill%20Presses" title="Drill Presses">Drill Presses (10)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Drilling%20%26%20Boring" title="Drilling &amp; Boring">Drilling &amp; Boring (867)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Dust%20Collection%20Accessories" title="Dust Collection Accessories">Dust Collection Accessories (394)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Dust%20Collectors" title="Dust Collectors">Dust Collectors (39)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Fasteners" title="Fasteners">Fasteners (368)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Finishing" title="Finishing">Finishing (245)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Generators" title="Generators">Generators (12)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Gifts" title="Gifts">Gifts (89)</a></li>
-                            </ul>
-                            <ul>                                
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Gunsmithing%20%26%20Shooting" title="Gunsmithing &amp; Shooting">Gunsmithing &amp; Shooting (192)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Hand%20Tools" title="Hand Tools">Hand Tools (936)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Hardware" title="Hardware">Hardware (216)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/products/category/230?rankBy=price:ascending" title="Jigs &amp; Fixtures">Jigs &amp; Fixtures (139)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Jointers" title="Jointers">Jointers (26)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Lathes" title="Lathes">Lathes (76)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Luthier%20Supplies" title="Luthier Supplies">Luthier Supplies (420)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Machine%20Accessories" title="Machine Accessories">Machine Accessories (1229)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Material%20Handling" title="Material Handling">Material Handling (43)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Measuring%20Tools" title="Measuring Tools">Measuring Tools (341)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Metalworking Machines-Misc" title="Metalworking Machines-Misc">Metalworking Machines-Misc (55)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Milling%20Machines" title="Milling Machines">Milling Machines (50)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Mobile%20Bases%20%26%20Stands" title="Mobile Bases &amp; Stands">Mobile Bases &amp; Stands (63)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Motors,%20Switches%20%26%20Electrical" title="Motors, Switches &amp; Electrical">Motors, Switches &amp; Electrical (96)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Nailers%20%26%20Staplers" title="Nailers &amp; Staplers">Nailers &amp; Staplers (76)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Optics" title="Optics">Optics (3)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/parts" title="Parts">Parts</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Pen%20Making" title="Pen Making">Pen Making (26)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Planers" title="Planers">Planers (22)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Pneumatic%20Tools" title="Pneumatic Tools">Pneumatic Tools (41)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Power%20Tools" title="Power Tools">Power Tools (910)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Abrasives+%26+Sanding&quot;)" title="Abrasives &amp; Sanding">Abrasives &amp; Sanding (1757)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Adhesives&quot;)" title="Adhesives">Adhesives (139)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Air Accessories&quot;)" title="Air Accessories">Air Accessories (77)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Air Compressors&quot;)" title="Air Compressors">Air Compressors (19)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Automotive+Equipment&quot;)" title="Automotive Equipment">Automotive Equipment (72)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Bandsaws&quot;)" title="Bandsaws">Bandsaws (75)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Books,+Plans+%26+DVDs&quot;)" title="Books, Plans &amp; DVDs">Books, Plans &amp; DVDs (569)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Boring+Machines&quot;)" title="Boring Machines">Boring Machines (5)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Casters&quot;)" title="Casters">Casters (144)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Clamps&quot;)" title="Clamps">Clamps (436)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Combination+Lathe-Mills&quot;)" title="Combination Lathe-Mills">Combination Lathe-Mills (4)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Contractor,+Home+%26+Shop&quot;)" title="Contractor, Home &amp; Shop">Contractor, Home &amp; Shop (490)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Cutlery&quot;)" title="Cutlery">Cutlery (58)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Cutting+Tools&quot;)" title="Cutting Tools">Cutting Tools (632)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Drill+Presses&quot;)" title="Drill Presses">Drill Presses (10)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Drilling+%26+Boring&quot;)" title="Drilling &amp; Boring">Drilling &amp; Boring (867)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Dust+Collection+Accessories&quot;)" title="Dust Collection Accessories">Dust Collection Accessories (394)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Dust+Collectors&quot;)" title="Dust Collectors">Dust Collectors (39)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Fasteners&quot;)" title="Fasteners">Fasteners (368)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Finishing&quot;)" title="Finishing">Finishing (245)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Generators&quot;)" title="Generators">Generators (12)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Gifts&quot;)" title="Gifts">Gifts (89)</a></li>
                             </ul>
                             <ul>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Presses" title="Presses">Presses (12)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Router%20Bits" title="Router Bits">Router Bits (680)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Safety%20Equipment" title="Safety Equipment">Safety Equipment (136)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Sandblasters" title="Sandblasters">Sandblasters (27)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Sanders" title="Sanders">Sanders (63)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Saw%20Blades" title="Saw Blades">Saw Blades (1385)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Security%20Equipment" title="Security Equipment">Security Equipment (17)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Shaper%20Cutters" title="Shaper Cutters">Shaper Cutters (417)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Shapers" title="Shapers">Shapers (14)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Sheet%20Metal%20Machines" title="Sheet Metal Machines">Sheet Metal Machines (52)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Shop%20Accessories" title="Shop Accessories">Shop Accessories (213)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:South%20Bend%20Accessories" title="South Bend Accessories">South Bend Accessories (104)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Tablesaws" title="Tablesaws">Tablesaws (36)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Tool%20Boxes" title="Tool Boxes">Tool Boxes (63)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Tooling" title="Tooling">Tooling (538)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Vises" title="Vises">Vises (113)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Welding%20Accessories" title="Welding &amp; Cutting">Welding Accessories (108)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Wheels" title="Wheels">Wheels (21)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Wood products" title="Wood products">Wood products (275)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Woodworking Machines- Misc" title="Woodworking Machines- Misc">Woodworking Machines- Misc (38)</a></li>
-                                <li role="presentation"><a role="menuitem" href="/search?s=category:Workbenches" title="Workbenches">Workbenches (14)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Gunsmithing+%26+Shooting&quot;)" title="Gunsmithing &amp; Shooting">Gunsmithing &amp; Shooting (192)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Hand+Tools&quot;)" title="Hand Tools">Hand Tools (936)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Hardware&quot;)" title="Hardware">Hardware (216)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/products/category/230?rankBy=price:ascending" title="Jigs &amp; Fixtures">Jigs &amp; Fixtures (139)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Jointers&quot;)" title="Jointers">Jointers (26)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Lathes&quot;)" title="Lathes">Lathes (76)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Luthier+Supplies&quot;)" title="Luthier Supplies">Luthier Supplies (420)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Machine+Accessories&quot;)" title="Machine Accessories">Machine Accessories (1229)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Material+Handling&quot;)" title="Material Handling">Material Handling (43)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Measuring+Tools&quot;)" title="Measuring Tools">Measuring Tools (341)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Metalworking Machines-Misc&quot;)" title="Metalworking Machines-Misc">Metalworking Machines-Misc (55)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Milling+Machines&quot;)" title="Milling Machines">Milling Machines (50)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Mobile+Bases+%26+Stands&quot;)" title="Mobile Bases &amp; Stands">Mobile Bases &amp; Stands (63)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Motors,+Switches+%26+Electrical&quot;)" title="Motors, Switches &amp; Electrical">Motors, Switches &amp; Electrical (96)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Nailers+%26+Staplers&quot;)" title="Nailers &amp; Staplers">Nailers &amp; Staplers (76)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Optics&quot;)" title="Optics">Optics (3)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/parts" title="Parts">Parts</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Pen+Making&quot;)" title="Pen Making">Pen Making (26)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Planers&quot;)" title="Planers">Planers (22)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Pneumatic+Tools&quot;)" title="Pneumatic Tools">Pneumatic Tools (41)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Power+Tools&quot;)" title="Power Tools">Power Tools (910)</a></li>
+                            </ul>
+                            <ul>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Presses&quot;)" title="Presses">Presses (12)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Router+Bits&quot;)" title="Router Bits">Router Bits (680)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Safety+Equipment&quot;)" title="Safety Equipment">Safety Equipment (136)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Sandblasters&quot;)" title="Sandblasters">Sandblasters (27)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Sanders&quot;)" title="Sanders">Sanders (63)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Saw+Blades&quot;)" title="Saw Blades">Saw Blades (1385)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Security+Equipment&quot;)" title="Security Equipment">Security Equipment (17)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Shaper+Cutters&quot;)" title="Shaper Cutters">Shaper Cutters (417)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Shapers&quot;)" title="Shapers">Shapers (14)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Sheet+Metal+Machines&quot;)" title="Sheet Metal Machines">Sheet Metal Machines (52)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Shop+Accessories&quot;)" title="Shop Accessories">Shop Accessories (213)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;South+Bend+Accessories&quot;)" title="South Bend Accessories">South Bend Accessories (104)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Tablesaws&quot;)" title="Tablesaws">Tablesaws (36)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Tool+Boxes&quot;)" title="Tool Boxes">Tool Boxes (63)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Tooling&quot;)" title="Tooling">Tooling (538)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Vises&quot;)" title="Vises">Vises (113)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Welding+Accessories&quot;)" title="Welding &amp; Cutting">Welding Accessories (108)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Wheels&quot;)" title="Wheels">Wheels (21)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Wood products&quot;)" title="Wood products">Wood products (275)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Woodworking Machines- Misc&quot;)" title="Woodworking Machines- Misc">Woodworking Machines- Misc (38)</a></li>
+                                <li role="presentation"><a role="menuitem" href="/search?q=(category:&quot;Workbenches&quot;)" title="Workbenches">Workbenches (14)</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -457,55 +530,67 @@ overflow-y: visible;
                         <li id="woodworking-menu" class="hidden-xs">
                             <div class="row">
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Tablesaws"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0696x.gif" border="0" alt="Tablesaws" width="100" height="100"><span class="link-text">Tablesaws</span></a>
+                                    <a href="/search?q=(category:&quot;Tablesaws&quot;)">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0696x.gif" border="0" alt="Tablesaws" width="100" height="100"><span class="link-text">Tablesaws</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Jointers"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g0604zx.gif" border="0" alt="Jointers" width="100" height="100"><span class="link-text">Jointers</span></a>
+                                    <a href="/search?q=(category:&quot;Jointers&quot;)">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g0604zx.gif" border="0" alt="Jointers" width="100" height="100"><span class="link-text">Jointers</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Bandsaws%20-%20Woodworking"><img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g0513x2.gif" border="0" alt="Bandsaws" width="100" height="100"><span class="link-text">Bandsaws</span></a>
+                                    <a href="/search?q=(category:&quot;Bandsaws+-+Woodworking&quot;)">
+                                        <img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g0513x2.gif" border="0" alt="Bandsaws" width="100" height="100"><span class="link-text">Bandsaws</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Planers"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0454.gif" border="0" alt="Planers" width="100" height="100"><span class="link-text">Planers</span></a>
+                                    <a href="/search?q=(category:&quot;Planers&quot;)">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0454.gif" border="0" alt="Planers" width="100" height="100"><span class="link-text">Planers</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Drill%20Presses"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g7943.gif" border="0" alt="Drill Presses" width="100" height="100"><span class="link-text">Drill Presses</span></a>
+                                    <a href="/search?q=(category:&quot;Drill+Presses&quot;)">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g7943.gif" border="0" alt="Drill Presses" width="100" height="100"><span class="link-text">Drill Presses</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Wood%20Lathes"><img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g0632.gif" border="0" alt="Lathes" width="100" height="100"><span class="link-text">Lathes</span></a>
+                                    <a href="/search?q=(category:&quot;Wood+Lathes&quot;)">
+                                        <img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g0632.gif" border="0" alt="Lathes" width="100" height="100"><span class="link-text">Lathes</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=dust_collector_type:|Two-Stage+(Cyclone)|Single-Stage&amp;rankBy=price:ascending"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g1030z2.gif" border="0" alt="Dust Collectors" width="100" height="100"><span class="link-text">Dust Collectors</span></a>
+                                    <a href="/search?q=(dust_collector_type:(%22Two-Stage+(Cyclone)%22+OR+Cyclone+OR+Single-Stage))&amp;rankBy=price:ascending">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g1030z2.gif" border="0" alt="Dust Collectors" width="100" height="100"><span class="link-text">Dust Collectors</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Shapers"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g1026.gif" border="0" alt="Shapers" width="100" height="100"><span class="link-text">Shapers</span></a>
+                                    <a href="/search?q=(category:&quot;Shapers&quot;)">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g1026.gif" border="0" alt="Shapers" width="100" height="100"><span class="link-text">Shapers</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Wide-Belt%20Sanders"><img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g0447.gif" border="0" alt="Wide Belt Sanders" width="100" height="100"><span class="link-text">Wide Belt Sanders</span></a>
+                                    <a href="/search?q=(category:&quot;Wide-Belt+Sanders&quot;)">
+                                        <img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g0447.gif" border="0" alt="Wide Belt Sanders" width="100" height="100"><span class="link-text">Wide Belt Sanders</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Edge%20Sanders"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0563.gif" border="0" alt="Edge Sanders" width="100" height="100"><span class="link-text">Edge Sanders</span></a>
+                                    <a href="/search?q=(category:&quot;Edge+Sanders&quot;)">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0563.gif" border="0" alt="Edge Sanders" width="100" height="100"><span class="link-text">Edge Sanders</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Belt-Disc%20Sanders"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g1276.gif" border="0" alt="Combo Sanders" width="100" height="100"><span class="link-text">Combo Sanders</span></a>
+                                    <a href="/search?q=(category:&quot;Belt-Disc+Sanders&quot;)">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g1276.gif" border="0" alt="Combo Sanders" width="100" height="100"><span class="link-text">Combo Sanders</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Drum%20Sanders"><img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g1066z.gif" border="0" alt="Drum Sanders" width="100" height="100"><span class="link-text">Drum Sanders</span></a>
+                                    <a href="/search?q=(category:&quot;Drum+Sanders&quot;)">
+                                        <img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g1066z.gif" border="0" alt="Drum Sanders" width="100" height="100"><span class="link-text">Drum Sanders</span></a>
                                 </div>
                             </div>
                         </li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Tablesaws" title="Tablesaws">Tablesaws</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Jointers">Jointers</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Bandsaws%20-%20Woodworking">Bandsaws</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Planers">Planers</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Drill%20Presses">Drill Presses</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Wood%20Lathes">Lathes</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=dust_collector_type:|Two-Stage+(Cyclone)|Single-Stage&amp;rankBy=price:ascending">Dust Collectors</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Shapers">Shapers</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Wide-Belt%20Sanders">Wide Belt Sanders</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Edge%20Sanders">Edge Sanders</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Belt-Disc%20Sanders">Combo Sanders</a></li>
-                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Drum%20Sanders">Drum Sanders</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Tablesaws&quot;)" title="Tablesaws">Tablesaws</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Jointers&quot;)">Jointers</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Bandsaws+-+Woodworking&quot;)">Bandsaws</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Planers&quot;)">Planers</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Drill+Presses&quot;)">Drill Presses</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Wood+Lathes&quot;)">Lathes</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(dust_collector_type:(%22Two-Stage+(Cyclone)%22+OR+Cyclone+OR+Single-Stage))&amp;rankBy=price:ascending">Dust Collectors</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Shapers&quot;)">Shapers</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Wide-Belt+Sanders&quot;)">Wide Belt Sanders</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Edge+Sanders&quot;)">Edge Sanders</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Belt-Disc+Sanders&quot;)">Combo Sanders</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Drum+Sanders&quot;)">Drum Sanders</a></li>
                     </ul>
                 </li>
                 <li id="metalworking-button" class="dropdown horizontal-divide dropdown-offset">
@@ -514,39 +599,47 @@ overflow-y: visible;
                         <li id="metalworking-menu" class="hidden-xs">
                             <div class="row">
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Metal%20Lathes"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0709.gif" border="0" alt="Lathes" width="100" height="100"><span class="link-text">Lathes</span></a>
+                                    <a href="/search?q=(category:&quot;Metal+Lathes&quot;)">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0709.gif" border="0" alt="Lathes" width="100" height="100"><span class="link-text">Lathes</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Milling%20Machines"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g0559.gif" border="0" alt="Mills" width="100" height="100"><span class="link-text">Mills</span></a>
+                                    <a href="/search?q=(category:&quot;Milling+Machines&quot;)">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g0559.gif" border="0" alt="Mills" width="100" height="100"><span class="link-text">Mills</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Combination%20Lathe-Mills"><img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g4015z.gif" border="0" alt="Combo Lathe Mills" width="100" height="100"><span class="link-text">Combo Lathe Mills</span></a>
+                                    <a href="/search?q=(category:&quot;Combination+Lathe-Mills&quot;)">
+                                        <img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/g/g4015z.gif" border="0" alt="Combo Lathe Mills" width="100" height="100"><span class="link-text">Combo Lathe Mills</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Drill%20Presses"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0520.gif" border="0" alt="Drill Presses" width="100" height="100"><span class="link-text">Drill Presses</span></a>
+                                    <a href="/search?q=(category:&quot;Drill+Presses&quot;)">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0520.gif" border="0" alt="Drill Presses" width="100" height="100"><span class="link-text">Drill Presses</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:|Bandsaws%20-%20Metalworking%20-%20Vertical|Bandsaws%20-%20Metalworking%20-%20Horizontal"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g0561.gif" border="0" alt="Bandsaws" width="100" height="100"><span class="link-text">Bandsaws</span></a>
+                                    <a href="/search?q=(category:(&quot;Bandsaws+-+Metalworking+-+Vertical&quot;+OR+&quot;Bandsaws+-+Metalworking+-+Horizontal&quot;))">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g0561.gif" border="0" alt="Bandsaws" width="100" height="100"><span class="link-text">Bandsaws</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Sheet%20Metal%20Machines"><img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/t/t20798.gif" border="0" alt="Sheet Metal" width="100" height="100"><span class="link-text">Sheet Metal</span></a>
+                                    <a href="/search?q=(category:&quot;Sheet+Metal+Machines&quot;)">
+                                        <img class="lazy" data-original="http://cdn1.grizzly.com/pics/gif100/t/t20798.gif" border="0" alt="Sheet Metal" width="100" height="100"><span class="link-text">Sheet Metal</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Surface%20Grinders"><img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0567.gif" border="0" alt="Surface Grinders" width="100" height="100"><span class="link-text">Surface Grinders</span></a>
+                                    <a href="/search?q=(category:&quot;Surface+Grinders&quot;)">
+                                        <img class="lazy" data-original="http://cdn2.grizzly.com/pics/gif100/g/g0567.gif" border="0" alt="Surface Grinders" width="100" height="100"><span class="link-text">Surface Grinders</span></a>
                                 </div>
                                 <div class="menu-thumbnail col-sm-3">
-                                    <a href="/search?s=category:Welders"><img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g7599.gif" border="0" alt="Welding" width="100" height="100"><span class="link-text">Welding</span></a>
+                                    <a href="/search?q=(category:&quot;Welders&quot;)">
+                                        <img class="lazy" data-original="http://cdn0.grizzly.com/pics/gif100/g/g7599.gif" border="0" alt="Welding" width="100" height="100"><span class="link-text">Welding</span></a>
                                 </div>
-                                </div>
-                            </li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Metal%20Lathes">Lathes</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Milling%20Machines">Mills</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Combination%20Lathe-Mills">Combo Lathe Mills</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Drill%20Presses">Drill Presses</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:|Bandsaws%20-%20Metalworking%20-%20Vertical|Bandsaws%20-%20Metalworking%20-%20Horizontal">Bandsaws</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Sheet%20Metal%20Machines">Sheet Metal</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Surface%20Grinders">Surface Grinders</a></li>
-                            <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?s=category:Welders">Welding</a></li>
+                            </div>
+                        </li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Metal+Lathes&quot;)">Lathes</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Milling+Machines&quot;)">Mills</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Combination+Lathe-Mills&quot;)">Combo Lathe Mills</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Drill+Presses&quot;)">Drill Presses</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:(&quot;Bandsaws+-+Metalworking+-+Vertical&quot;+OR+&quot;Bandsaws+-+Metalworking+-+Horizontal&quot;))">Bandsaws</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Sheet+Metal+Machines&quot;)">Sheet Metal</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Surface+Grinders&quot;)">Surface Grinders</a></li>
+                        <li role="presentation" class="visible-xs-block"><a role="menuitem" href="/search?q=(category:&quot;Welders&quot;)">Welding</a></li>
                     </ul>
                 </li>
                 <li class="horizontal-divide"><a href="/outlet">Outlet</a></li>
@@ -562,7 +655,7 @@ overflow-y: visible;
         
 <div align="left" id="bread"><ul><li class="first"><a href="/">Home</a> </li><li><span class="separator">»</span> <a href="http://www.grizzly.com/privacy">Privacy</a></li></ul></div>
     <div id="categorytitle">PRIVACY POLICY STATEMENT</div>
-    <!-- Static:content/privacy.en.html --><table width="95%">
+    <table width="95%">
     <tbody><tr>
         <td align="left">
             <p align="center"><b><u>Privacy Statement of Grizzly Industrial®, Inc.</u></b></p>
@@ -598,13 +691,13 @@ overflow-y: visible;
             <p><b>Privacy Compliance<br></b>We comply with all privacy regulations applicable to our Website.</p>
         </td>
     </tr>
-</tbody></table><!-- End Static:content/privacy.en.html -->
+</tbody></table>
 
     </div>
     <div id="footer" class="container">
         <div class="row">
             <div class="col-sm-3">
-                <img class="img-responsive" src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/envelopeandtext.png">
+                <div id="signup-text" class="clearfix"><i id="envelope" class="fa fa-envelope pull-left"></i>Enter your email here to sign up for Grizzly.com emails and specials</div>
                 <div id="signup">
                     <div class="input-group">
                         <input id="email" class="form-control" type="text" name="email">
@@ -612,16 +705,19 @@ overflow-y: visible;
                     </div>
                 </div>
                 <div id="sociallinks">
-                    <a href="https://www.facebook.com/grizzlyindustrial"><img src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/facebook.png" alt=""></a>
-                    <a href="https://twitter.com/grizzly"><img src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/twitter.png" alt=""></a>
-                    <a href="http://www.youtube.com/user/GrizzlyMachinery"><img src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/youtube.png" alt=""></a>
+                    <a href="https://www.facebook.com/grizzlyindustrial" target="_blank">
+                        <img src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/facebook.png" alt=""></a>
+                    <a href="https://twitter.com/grizzly" target="_blank">
+                        <img src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/twitter.png" alt=""></a>
+                    <a href="http://www.youtube.com/subscription_center?add_user=grizzlymachinery" target="_blank">
+                        <img src="https://d27ewrs9ow50op.cloudfront.net/graphics/footer/youtube.png" alt=""></a>
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="row">
                     <div class="col-sm-12">
-                        <img class="img-responsive" src="http://cdn1.grizzly.com/grizzly2/images/purveyorsfooter-2015.png" alt="" style="display:block;margin:0 auto 10px auto;">
-                    </div>                   
+                        <img class="img-responsive" src="http://cdn1.grizzly.com/grizzly2/images/purveyorsfooter-2015.png" alt="" style="display: block; margin: 0 auto 10px auto;">
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
@@ -639,7 +735,7 @@ overflow-y: visible;
                             <li><a href="/jobs">Employment</a></li>
                             <li><a href="/press_releases">Press Releases</a></li>
                             <li><a href="/manuals">Manuals</a></li>
-                             <li><a href="/contact">Contact Grizzly</a></li>
+                            <li><a href="/contact">Contact Grizzly</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4">
@@ -652,8 +748,9 @@ overflow-y: visible;
                 </div>
             </div>
             <div class="col-sm-3">
-                <a href="http://www.grizzly.com/catalog/2015/main" target="_blank"><img class="img-responsive" src="http://cdn2.grizzly.com/grizzly2/images/catalogfooter-2015.png" alt=""></a>
-                <span style="width: 100%; display: block;"><a style="color: #F3CC72; font-size: 11px; text-align: center; width: 100%; display: block; " href="/secureforms/catalog-request">CLICK HERE FOR A COPY</a></span>
+                <a href="http://www.grizzly.com/catalog/2015/main" target="_blank">
+                    <img class="img-responsive" src="http://cdn2.grizzly.com/grizzly2/images/catalogfooter-2015.png" alt=""></a>
+                <span style="width: 100%; display: block;"><a style="color: #F3CC72; font-size: 11px; text-align: center; width: 100%; display: block;" href="/secureforms/catalog-request">CLICK HERE FOR A COPY</a></span>
             </div>
         </div>
         <div class="row">
@@ -661,33 +758,58 @@ overflow-y: visible;
                 <span id="copyright">© Copyright 2015 Grizzly Industrial®, Inc.</span>
             </div>
         </div>
-    </div>    
+    </div>
     <script type="text/javascript" src="http://cdn0.grizzly.com/js/jquery.20150401.js.min.js"></script>
     <script type="text/javascript" src="http://cdn1.grizzly.com/js/jquery-ui.20150401.js.min.js"></script>
     <script type="text/javascript" src="http://cdn2.grizzly.com/js/bootstrap.20150401.js.min.js"></script>
     <script type="text/javascript" src="http://cdn0.grizzly.com/js/uadatalayer.20150424a.min.js"></script>
 
     <script type="text/javascript" src="/Content/script/lazyload.js"></script>
-    
+
     
     
     <script type="text/javascript" src="/content/script/common.js"></script>
     
+    <script src="/Content/script/responsive-image-map.js"></script>
     <script type="text/javascript">
-        
+        $(document).ready(function(e) {
+            $('img[usemap]').rwdImageMaps();
+        });
         $(function () {
+            $("#searchform1").submit(function () {
+                submitSearch($("#searchbox1").val());
+                return false;
+            });
+
+            $("#searchform2").submit(function () {
+                submitSearch($("#searchbox2").val());
+                return false;
+            });
+
             $("a#searchform1button").click(function () {
-                $("form#searchform1").submit();
+                submitSearch($("#searchbox1").val());
+            });
+
+            $("a#searchform2-submit").click(function () {
+                submitSearch($("#searchbox2").val());
             });
         });
-         $("img.lazy").lazyload({
+
+        function submitSearch(searchTerms) {
+            window.location.href = "/search?q=(" + encodeURIComponent(searchTerms.trim()).split("%20").join("+OR+") + ")";
+        }
+    </script>
+    <script type="text/javascript">
+        $("img.lazy").lazyload({
             event: "navimage",
             effect: "fadeIn"
         });
+
         $("img.zoomlazy").lazyload({
             event: "zoom",
             effect: "fadeIn"
         });
+
         $(document).ready(function () {
 
             var feedBackActive = false;
@@ -712,7 +834,7 @@ overflow-y: visible;
             } else {
 
                 $('.nav .dropdown-toggle').on('click touchstart', function (e) {
-                     e.stopPropagation();
+                    e.stopPropagation();
                     if (!menuWasTapped) {
                         menuWasTapped = true;
                         setTimeout(function () { menuWasTapped = false; }, 100);
@@ -736,7 +858,7 @@ overflow-y: visible;
 
                     $('.navbar-nav, .nav .dropdown').unbind();
 
-                    $('.nav .dropdown-toggle').on('click touchstart', function () {
+                    $('.nav .dropdown-toggle').on('click touchend', function () {
                         if (!menuWasTapped) {
                             menuWasTapped = true;
                             setTimeout(function () { menuWasTapped = false; }, 100);
@@ -755,162 +877,161 @@ overflow-y: visible;
                 window.location = "/sign-up?email=" + $("input#email").val() + "&source=footer";
                 return false;
             });
+
+            $(document).on("click touchend", ".mobile-account-menu-expand", function (e) {
+                e.stopPropagation();
+                if (!$(this).hasClass("menu-active")) {
+                    $(this).addClass("menu-active");
+                    $("#account-dropdown").addClass("open");
+                }
+                else {
+                    $(this).removeClass("menu-active");
+                    $("#account-dropdown").removeClass("open");
+                }
+
+                return false;
+            });
         });
-        $('.nav .dropdown-toggle').on('touchstart', function () {
+
+        $('.nav .dropdown-toggle').on('touchend', function () {
             $("img.lazy").trigger("navimage");
         });
+
         function grizzlyIntent() {
-     	var hoverTimer;
-     	var usingMenuTimer
-     	var isUsingMenu;
+            var hoverTimer;
+            var usingMenuTimer
+            var isUsingMenu;
 
             $('.navbar-nav').on('mouseenter', function () {
                 if (usingMenuTimer) {
-				clearTimeout(usingMenuTimer);
-				usingMenuTimer = null;
-			} 
+                    clearTimeout(usingMenuTimer);
+                    usingMenuTimer = null;
+                }
                 usingMenuTimer = setTimeout(function () {
-     				isUsingMenu = true;
- 			  }, 200);
-			
-     	});
+                    isUsingMenu = true;
+                }, 200);
+
+            });
 
             $('.navbar-nav').on('mouseleave', function () {
                 if (usingMenuTimer) {
-				clearTimeout(usingMenuTimer);
+                    clearTimeout(usingMenuTimer);
                     usingMenuTimer = setTimeout(function () {
-     				isUsingMenu = false;
- 			  }, 150);
-			}
-     	});
-     	
-     	$('.nav .dropdown').on('mouseenter touchstart', function () {
-            console.log("tapped")
-     		var $thisMenu = $(this);
+                        isUsingMenu = false;
+                    }, 150);
+                }
+            });
+
+            $('.nav .dropdown').on('mouseenter touchend', function () {
+                console.log("tapped")
+                var $thisMenu = $(this);
                 if (isUsingMenu) {
-     			$thisMenu.find('.main-dd-menu').stop().show();
+                    $thisMenu.find('.main-dd-menu').stop().show();
 
                 } else {
 
                     if (hoverTimer) {
-					clearTimeout(hoverTimer);
-					hoverTimer = null
-				}
+                        clearTimeout(hoverTimer);
+                        hoverTimer = null
+                    }
                     hoverTimer = setTimeout(function () {
-	     			$thisMenu.find('.main-dd-menu').stop().show();
-                    $("img.lazy").trigger("navimage");
-	 			}, 200);
+                        $thisMenu.find('.main-dd-menu').stop().show();
+                        $("img.lazy").trigger("navimage");
+                    }, 200);
 
-     		}
-     		
-     	});
+                }
+
+            });
 
             $('.nav .dropdown').on('mouseleave', function () {
                 if (hoverTimer) {
-     			clearTimeout(hoverTimer);
-     		}
-     		$(this).find('.main-dd-menu').stop().hide();
-     	});
-     }
+                    clearTimeout(hoverTimer);
+                }
+                $(this).find('.main-dd-menu').stop().hide();
+            });
+        }
 
 
 
-     $(function () {
-        var qcache = {}, lastQXhr;
+        $(function () {
+            var qcache = {}, lastQXhr;
 
-        $('#searchbox')
-				.on("keydown", function (event) {
-				    if (event.keyCode === $.ui.keyCode.TAB && $(this).data("autocomplete1").menu.active) {
-				        event.preventDefault();
-				    }
-				})
-				.autocomplete({
-				    scroll: true,
-				    source: function (request, response) {
-				        var prefixText = request.term.toLowerCase();
+            $('#searchbox')
+                    .on("keydown", function (event) {
+                        if (event.keyCode === $.ui.keyCode.TAB && $(this).data("autocomplete1").menu.active) {
+                            event.preventDefault();
+                        }
+                    })
+                    .autocomplete({
+                        scroll: true,
+                        source: function (request, response) {
+                            var prefixText = request.term.toLowerCase();
 
-				        if (prefixText in qcache) {
-				            response($.map(qcache[prefixText], function (item) {
-				                return { label: item.Key, value: item.Key }
-				            }));
-				            return;
-				        }
+                            if (prefixText in qcache) {
+                                response($.map(qcache[prefixText], function (item) {
+                                    return { label: item.Key, value: item.Key }
+                                }));
+                                return;
+                            }
 
-				        data = new Object();
-				        data.collection = "GrizzlySearch";
-				        data.query = prefixText;
-				        data.count = 20; //max 50
-				        data.culture = culture;
+                            data = new Object();
+                            data.collection = "GrizzlySearch";
+                            data.query = prefixText;
+                            data.count = 20; //max 50
+                            data.culture = culture;
 
-				        lastQXhr = $.getJSON("/servicep/GetCompletionList?callback=?", data, function (data, status, xhr) {
-				            qcache[prefixText] = data;
-				            if (xhr === lastQXhr) {
-				                response($.map(data, function (item) {
-				                    return { label: item.Key, value: item.Key }
-				                })
-								);
-				            }
-				        });
-				    },
-				    select: function (event, ui) {
-				        location.href = root + "/search?sq=" + encodeURIComponent(ui.item.value);
-				    },
-				    appendTo: '#autocomplete-container'
-				})
-
-
-});
+                            lastQXhr = $.getJSON("/servicep/GetCompletionList?callback=?", data, function (data, status, xhr) {
+                                qcache[prefixText] = data;
+                                if (xhr === lastQXhr) {
+                                    response($.map(data, function (item) {
+                                        return { label: item.Key, value: item.Key }
+                                    })
+                                    );
+                                }
+                            });
+                        },
+                        select: function (event, ui) {
+                            submitSearch(ui.item.value);
+                        },
+                        appendTo: '#autocomplete-container'
+                    })
 
 
-    //The masterpage search box function
-    function Search(elementId, trackName, baseUrl) {
-	    var str = escape(document.getElementById(elementId).value.replace(/^\s*([\S\s]*?)\s*$/, '$1').substring(0, 50));
-
-	    if (str != '') {
-		    ga('send', 'event', 'Nav Button', 'Click', trackName);
-		    ga('send', 'event', 'Search', 'New Layout Search', str);
-		    //replaces history location
-	        //window.location.replace(baseUrl + "/search/search?sq=" + str);
-
-		    window.location.href = baseUrl + "/search?sq=" + str;
-	    }
-
-	    return false;
-    }
+        });
 
         $(document).ready(function () {
-        $('#lang-change').fadeIn();
-    });
+            $('#lang-change').fadeIn();
+        });
 
         $(document).on('click', '#lang-change', function (event) {
-       event.preventDefault();
-       changeLanguage($(this).data('changeto'));
-    });
-    
+            event.preventDefault();
+            changeLanguage($(this).data('changeto'));
+        });
+
         function changeLanguage(language) {
 
-        $.ajax({
+            $.ajax({
                 url: "/service/ChangeLanguage?LanguageRequested=" + language,
                 type: "GET",
                 success: function (response) {
-                          
-                      },
+
+                },
                 error: function (errorText) {
-                         console.log("ERROR: " + errorText);
-                      },
+                    console.log("ERROR: " + errorText);
+                },
                 complete: function (request, status) {
                     if (status === "success") {
-                    var path = window.location.pathname.replace(/\/es/g, "");
+                        var path = window.location.pathname.replace(/\/es/g, "");
                         path = path.replace(/\/en/g, "");
                         if (language == "es") {
-                        window.location.href = window.root + "/es" + path;
+                            window.location.href = window.root + "/es" + path;
                         } else {
-                        window.location.href = window.root + "/en" + path;
+                            window.location.href = window.root + "/en" + path;
+                        }
                     }
-               } 
-            }
-        });
-    }
+                }
+            });
+        }
 
     </script>
     <!--[if lt IE 9]>
@@ -921,8 +1042,8 @@ overflow-y: visible;
             });
         });
     </script>
-    <![endif]-->    
+    <![endif]-->
     
-    
+
 
 </body></html>
