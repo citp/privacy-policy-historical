@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512160129id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003620id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
 
-# Publix Website Policies | Publix Super Markets
+# 
 
-**Last updated:**  6/7/2012
+**Last updated:**  6/19/2015
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ When you visit the Site or send e-mails to us, you are communicating with us ele
 
 ### Privacy
 
-Please review our Privacy Policy, which also governs your visit to this Site. If you are visiting the [Publix Preschool Pals](https://web.archive.org/clubs-programs/clubs/publix-preschool-pals "Publix Preschool Pals") or [Publix Baby Club®](https://web.archive.org/clubs-programs/clubs/publix-baby-club "Publix Baby Club") section of our Site, please review our Child Privacy Notice. For more detail on Publix Pharmacy privacy practices, see the [Publix Pharmacy Notice of Privacy Practices](https://web.archive.org/pharmacy-wellness/pharmacy/privacy-practices). The Privacy Policy, the Child Privacy Notice, and the [Publix Pharmacy Notice of Privacy Practices](https://web.archive.org/pharmacy-wellness/pharmacy/privacy-practices "Publix Pharmacy Notice of Privacy Practices") are also incorporated into and made a part of these Terms of Use.
+Please review our Privacy Policy, which also governs your visit to this Site. If you are visiting the [Publix Baby Club®](https://web.archive.org/clubs-programs/publix-baby-club "Publix Baby Club") section of our Site, please review our Child Privacy Notice. For more detail on Publix Pharmacy privacy practices, see the [Publix Pharmacy Notice of Privacy Practices](https://web.archive.org/pharmacy-wellness/pharmacy/privacy-practices). The Privacy Policy, the Child Privacy Notice, and the [Publix Pharmacy Notice of Privacy Practices](https://web.archive.org/pharmacy-wellness/pharmacy/privacy-practices "Publix Pharmacy Notice of Privacy Practices") are also incorporated into and made a part of these Terms of Use.
 
 ### Ownership
 
