@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreshquotes.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619080858id_/http%3A//www.thefreshquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreshquotes.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224164755id_/http%3A//www.thefreshquotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Quotes and Sayings
 
@@ -79,7 +79,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [TheFreshQuotes](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com)
 
-Owner: Nanno – Pawandeep Kaur  
+Owner: Nanno ( Pawandeep Kaur )  
 [www.TheFreshQuotes.com](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com)  
 E-mail: boxhigh@gmail.com
 
