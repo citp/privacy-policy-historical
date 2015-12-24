@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322183002id_/http%3A//www.yatra.com/fresco/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224184619id_/http%3A//www.yatra.com/online/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Yatra : Online Travel Services Company in India
 
@@ -8,7 +8,7 @@ In general, you can visit Yatra website without telling us who you are or reveal
 
 Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which web sites send to the browser on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
 
-With specific reference to third party NPII advertising, we use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a 'pixel tag', which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. Such third parties do not know your name, phone number, address, email address, or any personally identifying information. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click http://www.networkadvertising.org/managing/opt_out.asp.
+With specific reference to third party NPII advertising, we use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a 'pixel tag', which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. Such third parties do not know your name, phone number, address, email address, or any personally identifying information. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click[ here](http://www.networkadvertising.org/managing/opt_out.asp.)
 
 With specific reference to booking/e-commerce transactions, Yatra collects the following personal sensitive information from you while transacting through Yatra:
 
@@ -36,4 +36,27 @@ If our privacy policy changes in the future, it will be posted here and a new ef
 
 Thank you for using Yatra!
 
-[Cheap Air Tickets](http://www.yatra.com/travel/cheap-air-tickets/) | [Cheap Flights](http://www.yatra.com/) | [AirDeccan](http://www.yatra.com/YT/airlines/air-deccan.html) | [Paramount Airline](http://www.yatra.com/YT/airlines/paramount-airways.html) | [Spicejet Airline](http://www.yatra.com/YT/airlines/spicejet-airline.html) | [Indian Airlines](http://www.yatra.com/YT/airlines/indian-airline.html) | [Indigo Airline](http://www.yatra.com/YT/airlines/indigo-airline.html) | [Kingfisher Airline](http://www.yatra.com/YT/airlines/kingfisher-airline.html) | [Jet Airways](http://www.yatra.com/YT/airlines/jet-airways.html) | [GoAir Airlines](http://www.yatra.com/YT/airlines/goair-airline.html) | [Air India Airlines](http://www.yatra.com/YT/airlines/air-india.html) [Bangalore Hotel ](http://www.yatra.com/HOTEL/hotel/bangaloreHotel.html) | [Jaipur Hotel](http://www.yatra.com/HOTEL/hotel/googlejaipurHotel.html) | [Chennai Hotel](http://www.yatra.com/HOTEL/hotel/googlechennaiHotel.html) | [Goa Hotel](http://www.yatra.com/HOTEL/hotel/googlegoaHotel.html) | [Delhi Hotel](http://www.yatra.com/HOTEL/hotel/googledelhiHotel.html) | [Hyderabad Hotel](http://www.yatra.com/HOTEL/hotel/googlehyderabadHotel.html) | [Mumbai Hotel](http://www.yatra.com/HOTEL/hotel/googlemumbaiHotel.html)
+  * [Cheap Air Tickets](http://www.yatra.com/travel/cheap-air-tickets/)
+  * [Cheap Flights](http://www.yatra.com/)
+  * [AirDeccan](http://www.yatra.com/YT/airlines/air-deccan.html)
+  * [Paramount Airline](http://www.yatra.com/YT/airlines/paramount-airways.html)
+  * [Spicejet Airline](http://www.yatra.com/YT/airlines/spicejet-airline.html)
+  * [Indian Airlines](http://www.yatra.com/YT/airlines/indian-airline.html)
+
+
+  * [Indigo Airline](http://www.yatra.com/YT/airlines/indigo-airline.html)
+  * [Kingfisher Airline](http://www.yatra.com/YT/airlines/kingfisher-airline.html)
+  * [Jet Airways](http://www.yatra.com/YT/airlines/jet-airways.html)
+  * [GoAir Airlines](http://www.yatra.com/YT/airlines/goair-airline.html)
+  * [Air India Airlines](http://www.yatra.com/YT/airlines/air-india.html)
+  * [Bangalore Hotel ](http://www.yatra.com/HOTEL/hotel/bangaloreHotel.html)
+
+
+  * [Jaipur Hotel](http://www.yatra.com/HOTEL/hotel/googlejaipurHotel.html)
+  * [Chennai Hotel](http://www.yatra.com/HOTEL/hotel/googlechennaiHotel.html)
+  * [Goa Hotel](http://www.yatra.com/HOTEL/hotel/googlegoaHotel.html)
+  * [Delhi Hotel](http://www.yatra.com/HOTEL/hotel/googledelhiHotel.html)
+  * [Hyderabad Hotel](http://www.yatra.com/HOTEL/hotel/googlehyderabadHotel.html)
+  * [Mumbai Hotel](http://www.yatra.com/HOTEL/hotel/googlemumbaiHotel.html)
+
+
