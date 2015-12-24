@@ -1,238 +1,165 @@
-> *The following text is extracted and transformed from the leapfrog.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124220324id_/http%3A//www.leapfrog.com/en/corplinks/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfrog.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234143id_/http%3A//www.leapfrog.com/en-us/legal/privacy) for the most accurate reproduction.*
 
-# LeapFrog Online Consumer Privacy Policy
+# Privacy
 
-Thank you for using a website, web-connected software application, or other online service (collectively, “Online Service(s)”) operated by LeapFrog Enterprises, Inc. On this page, we may simply refer to ourselves as “LeapFrog,” “we,” “our” or “us.”
+**LeapFrog Privacy Policy**
 
- **Before reading further, please note that the statements below are reflective of activities across various LeapFrog Online Services, and are not necessarily reflective of activities on any single LeapFrog Online Service.**
+Last Updated: February 25, 2014.
 
-The people who bring LeapFrog products to life are passionate about education and dedicated to enriching the lives of children and adults through learning. Because we believe that learning and personal development are best achieved in an atmosphere of fun and safety, your confidence in our products and online practices is essential to our aspirations and success.
+LeapFrog is passionate about education and dedicated to enriching the lives of children and adults through learning. We believe that learning and personal development are best achieved in a fun and safe atmosphere, and your confidence in our privacy practices is essential to our success. This Privacy Policy (“Policy”) describes how we collect, use, and disclose information through the websites, software, applications, online services, and products that link to or post this Policy and are operated by LeapFrog Enterprises, Inc. or its related corporate entities (“LeapFrog”) (collectively, the “Services”). 
 
-To demonstrate our concern for your privacy, we have developed the following Privacy Policy (“Policy”), which tells you – in simple terms and an easy-to-follow format – the kinds of information LeapFrog may collect through our Online Services, how we may use and share that information, what steps we take to protect it, and what choices you may have to control how we collect and use your information. Subject to the limitations described below, we have also been awarded privacy certification of this Policy and our online information practices from TRUSTe, an independent organization that verifies our Websites meet the highest standards of online privacy.
+**1.       ****Information We Collect**
 
-Please take a moment to read through this Policy to ensure you are aware of our practices and what additional steps you can take to protect your privacy. **Because our online data collection activities are primarily targeted at parents and educators, the practices and terms set forth in this Policy are mostly relevant and addressed to "you" as a parent or educator. Therefore, all references to "you" or "your" refer to adult users, unless specifically noted otherwise.** We have also developed a separate set of practices for the handling of any personal information we may decide to collect online directly from children or students. These are outlined in Section 10 below. If you have any questions or concerns about this Policy, you may contact us at:
+The circumstances in which parents may provide information include, without limitation, when they register for the Services, access various content or features, sign up to receive emails or other communications, use community features such as our parent community blogs and discussion forums, participate in promotions, use a send-to-a-friend feature, or directly contact us with questions or feedback. The information that parents may provide includes:
 
-LeapFrog Enterprises, Inc.  
+  * Contact information, such as first and last name, e-mail address, postal address, and telephone number;
+  * The child’s first name and demographic information, such as age, grade level, birth date and gender;
+  * User name, password, and answers for password reminders;
+  * Search queries;
+  * Country and/or state of residence;
+  * Communications preferences;
+  * Comments and other information posted in our interactive online forums;
+  * Correspondence and other information that you provide;
+  * Survey-type information, such as information about the parent’s or child’s hobbies, attitudes, interests, skills, and education level; and
+  * Billing information, including credit card information, when you purchase Services.
+
+
+
+Children may provide first name and grade in child profiles on some child-facing Services.
+
+We also may collect certain information automatically when parents or children use the Services, including:
+
+  * Usage data that shows how parents and children use and interact with the Services, including information about how your child performs and progresses on activities when using the Services (such as play duration, correct answers, etc.);
+  * Child’s wish list selections, if a parent has authorized the child’s access to the LeapFrog App Center from certain Services; ****
+  * Your browser type and operating system, sites you visited before and after visiting the Services, information about the links you click and pages you view within the Services, and other server log information;
+  * Order history of the products that you buy or download online;
+  * Persistent identifiers, such as LeapFrog device identification numbers and your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+  * Information collected through cookies, web beacons, and similar technologies; and
+  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded.
+
+
+
+LeapFrog may use cookies, tags, web beacons, and similar Internet technologies in connection with the Services. For a complete description of how we and third parties may use these technologies and how you may opt-out or disable certain cookies, please consult our [Cookie Policy](https://web.archive.org/en-us/legal/cookie-policy.html).
+
+We also may obtain additional data, or enhance, update, or add to our existing records with information we acquire from third-party sources, such as data aggregators and third party promotional partners. When parents access third-party services, such as Facebook or Twitter, through the Services to share information about the Services with others, we may collect information from these third-party services.
+
+**2.      ****Use of Information**
+
+We may use information that we collect through the Services for a variety of purposes, including to:
+
+  * Provide you with the products, promotions, services, newsletters, and information you request, including personalized LeapFrog Learning Path reports that show parents the learning progress for each child or student player for their account;
+  * Respond to correspondence that we receive from you;
+  * Contact you via email and otherwise about products, services, and events that we think might be of interest to you, including those appropriate to your child’s learning progress;
+  * Send you transactional or administrative communications;
+  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
+  * Customize and personalize your use of the Services to better meet your needs and the needs of your children; and
+  * As otherwise described to you at the point of collection or pursuant to your consent.
+
+
+
+**3.      ****Sharing of Information**
+
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
+
+  * _Corporate Parents, Affiliates, and Subsidiaries_. We may share your information with our corporate parents, subsidiaries, and other affiliated entities for a variety of purposes, including business, operational, and marketing purposes.
+  * _Service Providers_. ** ** We may share your information with the following third parties:
+
+
+
+o   Service providers that perform certain functions or services on our behalf (such as to host the Services, manage databases, process payment information, perform analyses, or send communications for us);
+
+o   Distributors who sell our Services in the country in which you reside; and
+
+o   Vendors LeapFrog employs in connection with marketing and advertising campaigns.
+
+  * _Select Business Partners_.  We may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. We will obtain your permission prior to such sharing if required by law. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, LeapFrog is not responsible for the privacy practices of these business partners, which may use your information for their own purposes. 
+  * _Other Parties When Required by Law or as Necessary to Protect the Services_.  We may disclose your information to third parties in order to protect the legal rights, safety, and security of LeapFrog, our corporate parents, affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
+  * _In Connection with a Transfer of Assets._ If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
+  * _Other Parties with Your Express or ImpliedConsent_. We may share information with third parties when you consent to such sharing, including when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. When parents choose to access third-party services, such as Facebook or Twitter, through the Services, these third-party services may be able to collect information and notify connections on the third-party services about the parent’s use of the Services, in accordance with their own privacy policies. Parents also consent to the disclosure of information when they use password-protected parts of the Services to transfer content to cloud storage, social media, or other recipients.
+  * _Aggregate Information_.  We may disclose to third parties information that does not identify individual users, such as aggregate website usage data or demographic reports.
+
+
+
+**4.      ****Data Security**
+
+We maintain reasonable security procedures to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you provide to us. While we strive to protect your information and privacy, please note that no data transmission or storage can be guaranteed to be 100% secure. 
+
+For your protection, before selling or otherwise transferring ownership of a LeapFrog-connected device, please be sure to securely remove all information from the device itself, including any play data.  For more information, please contact LeapFrog Consumer Service using the information provided below.
+
+**5.      ****Children’s Privacy**
+
+As a leading manufacturer of children’s educational toy products, LeapFrog recognizes the importance of protecting children’s information and strongly encourages parents to be actively involved in their children’s online activities. 
+
+We take steps to avoid collecting personal information from children. For example, while children may use some of our products to take photographs, create artwork, and record voice memos or video, this content is stored locally on the device and is not transferred to LeapFrog’s server. In addition, children may access child-friendly activities or play areas using only a username (such as a nickname or character name) or similar non-personal login information. Chat functionality and similar interactive features are designed to help prevent children from revealing their full names, email addresses, or similar information that could identify the child. For example, interactive chats may require children to choose from a pre-selected menu of short phrases or emoticons that do not contain personally identifiable information. We do not knowingly collect, use, or disclose personal information from children without prior parental consent, except as permitted by law. 
+
+Parents can access and control their children’s information and activities. For online play areas that contain interactive features, parents may be given additional controls to manage their children’s online activities, including the ability to set play time limits and turn certain features on and off. Prior to taking such actions, the parent may be required to log in to his or her LeapFrog account or otherwise verify his or her identity. Please note that you may need to separately access and update each child profile under your account in order for certain controls to take effect on every child’s profile. In addition, some of these controls only impact the transfer of data from the software application on your computer to LeapFrog, and not the transfer of data from the device to your computer.
+
+If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information, you may email us at [support@leapfrog.com](mailto:support@leapfrog.com).
+
+**6.      ****Privacy Policy Updates**
+
+We reserve the right to modify this Privacy Policy at any time by posting revisions here. Your continued use of the Services after any modification to the Privacy Policy constitutes your acceptance of the new terms and conditions.
+
+**7.      ****Links to Third Party Sites and Services**
+
+The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by LeapFrog. Such links do not constitute an endorsement by LeapFrog of those other websites, the content displayed therein, or the persons or entities associated therewith. This Privacy Policy does not apply to such third-party content or services. We encourage you to review the privacy policies of these third parties before using their websites or services.
+
+**8.      ****International Data Transfers**
+
+By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories. While some of these countries may not offer the same level of privacy protection as your own, LeapFrog commits to uphold the privacy protections as explained in this Policy.
+
+**9.      ****California Residents**
+
+It is our policy not to share your personal information with third parties for their direct marketing purposes unless you are first given the opportunity to opt out of such sharing. You may opt out of any disclosure of your personal information for direct marketing purposes at no cost by editing your account profile either on our website or on the Service. If you wish to learn more about our policy, please contact us using the information provided below.
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, LeapFrog currently does not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+**10.    ****Access to Information**
+
+LeapFrog provides you with the ability to review and correct certain information that you have provided to us. If you wish to access, update, or delete your information, you may do so by logging in to an account management section on the Service. These areas are usually marked clearly as “My Account,” “Your Account,” “Edit Profile,” “Settings,” or similar names, and may offer a variety of options that allow you to update information, delete accounts or profiles, or otherwise maintain control over how your information is collected, stored, used, or shared by LeapFrog.
+
+**11.     ****Communications Preferences**
+
+You may choose to receive promotional emails, newsletters, and similar communications from us. You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. Please note that opt-out requests may take up to 5 business days to be effective. Your opt-out request will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+
+**12.    ****Data Retention**
+
+We only retain your information for as long as it is necessary for the purposes for which it was collected.
+
+**13.    ****Contact Us**
+
+If you have any questions about this Privacy Policy, you may contact us at:
+
+**U.S. and Canada:**
+
+**LeapFrog Enterprises, Inc.**  
 Attn: Consumer Service  
 6401 Hollis Street, Suite 100  
 Emeryville, CA 94608-1071  
 [support@leapfrog.com](mailto:support@leapfrog.com)  
-1-800-701-LEAP (5327)  
-Online Support
-
-If you have a privacy-related question or concern which you feel has not been adequately addressed by LeapFrog, you may also contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=).
-
-LeapFrog is a participating member of TRUSTe’s Web and Children’s Privacy Seal Programs. These certification programs cover only those LeapFrog Websites that have been specifically reviewed and approved by TRUSTe, as listed on the TRUSTe verification page (accessible via the Click-to-Verify seals on this page). Please note that since these TRUSTe programs are not intended to cover downloadable software, any disclosures in this Policy that pertain to such software have not been reviewed or approved by TRUSTe.
-
-* **What does this Privacy Policy apply to?**
-
-Before you read this Policy, it is important to understand whether it applies to you or the specific LeapFrog Online Service you are using. In general, this Privacy Policy applies to consumer information, including personal information, gathered through any LeapFrog Online Service (as defined below). Below is a more detailed description of when this Policy applies, and when it does not.
-
-_This Privacy Policy generally applies only when both (a) and (b) below are true:_
-
-  1. The Online Service being used is owned and operated by LeapFrog and posts a direct link to this Policy. This may include: (i) our main consumer Website – LeapFrog.com, (ii) micro or product-specific sites such as Leapsterworld.com, (iii) our web-connected software applications (such as the LeapFrog Connect Application), (iv) sites and web-connected software applications designed for educators or other LeapFrog School consumers, such as LeapFrogSchool.com, Link to Lessons, and the LeapFrog School Connect Application; and, (iv) all international LeapFrog Websites or web-connected software applications posting a direct link to this Policy or a translated version of this Policy. For simplicity and unless noted otherwise, we may collectively refer to all of the above-mentioned sites and web-connected services as “LeapFrog Online Service(s),” “our Online Service(s),” or “Online Service(s).”
-  2. The information collected is regarding LeapFrog consumers (i.e., individuals who buy or use our products and Online Services, including parents/guardians, teachers, educators, children, or students) and is captured by LeapFrog via the Internet (i.e., through a LeapFrog Online Service). Please see the next paragraph for whether and to what extent this Policy applies to data collected offline.
-
-
-
-_This Privacy Policy does not apply to any of the following:_
-
-  1. Information collected by LeapFrog through offline means (such as through a mail-in product registration card or on the phone by LeapFrog Customer Support), unless we clearly note otherwise at the place or time of data collection or the offline-collected data is merged and used together with online-collected data;
-  2. Websites operated by other companies that we link to from our Online Services, or that provide links from their sites to ours. We are not responsible, and disclaim any and all responsibility, for the practices or content of such third party websites; or,
-  3. Information given to us in a business capacity or for employment or work related purposes, such as information about our business customers (retailers, distributors, etc.), personal information provided by artists or other professionals we hire to help create our products, or job applicant data submitted through the Careers section of a LeapFrog Website.
-
-
-* **What are you agreeing to when you use our Online Services?**
-
-By using our Online Services, you are agreeing to allow us to collect, use, store, and transfer your information, including any information you provide about your children/students (collectively, “your information”), as described in this Privacy Policy. Please note that this means, regardless of where you live, you will be giving us permission to transfer your information to, and to store and process your information within, the United States of America or other countries where LeapFrog or our affiliates, subsidiaries, or agents maintain facilities or business operations or otherwise seek to use the data as set forth under Section 6 below. If you do not wish to agree to these terms, please do not provide your information when requested and immediately stop using our Online Services. Your use of certain LeapFrog Online Services may also be subject to “terms of use” or “software license” agreements which are separate from this Policy and available in our [Legal Terms](http://www.leapfrog.com/en/corplinks/legal.html). Nothing in this Policy shall be construed to limit LeapFrog’s rights and remedies under any such separate agreements.
-
-**Changes to this Policy**
-
-From time to time, we may update this Policy. If we do, we will note at the top of this page the date that any changes are made and/or when they become effective. If the changes being made are material (for example, we want to use your information, specifically personal information, in ways we did not previously tell you about in this Policy or could not be reasonably expected by you), we may alert you to the changes in a more prominent way. For example, we may temporarily highlight the new or revised sections in this Policy, temporarily post a prominent notice on our home page or registration/login page, or temporarily add the word “Updated” to the title of this Policy and any hypertext links pointing to this Policy. In some instances, we may also send you an e-mail message or other communication telling you about the changes and any choices you may have or actions you can take before they go into effect. Your inaction or continued use of our Online Services after any such alerts or notices, or your acceptance of any changes for which we require your prior approval, will tell us that you agree to these changes. If any changes we make will affect, in a material way, the way we treat any personal information collected directly from children/students, we will first contact parents (or, in the school context, the appropriate educators) and obtain the required form of consent.
-
-* **What information do we collect?**
-
-The information we may collect through our Online Services will generally fall into one of the following categories (please carefully read and understand the definitions of the terms below, as these terms may be used repeatedly throughout the rest of this Policy):
-
-_Information you voluntarily provide us_
-
-  * **Personal Information (PI)** such as your name, mailing address, e-mail address, phone number, credit card information (including billing and shipping information), or other information that allows us to personally identify or contact you online or off. For users of LeapFrogSchool.com or other LeapFrog School Websites or web-connected software applications, some of the personal or contact information described above may be requested about your school or children in your classroom (e.g., school name, school address, student name, school-assigned Student ID, etc.), instead of or in addition to you personally. Very little, if any, personal information is ever solicited or collected directly from children or children-aged students (for more information about our practices regarding children/students, please see Section 10 below).
-  * **Demographic Information** , which may include the following types of information about you and/or your children/students: age or date of birth, grades taught or grade level, highest level of education or graduation date, gender, products owned or of interest, favorite subjects and characters, languages spoken, involvement in school programs, and other non-personal or survey-type information including hobbies, attitudes, interests, and skills. Again, most of this type of information is collected directly from adults (parents or educators) and, as mentioned above, pertains to themselves and/or their children or students. In some instances (such as for Learning Path registration on LeapFrog.com, registrations within web-connected software applications, and certain detailed surveys), demographic information may be combined and stored together with your personal information.
-  * **Login Information** such as username and password, secret answers to certain security questions, or other similar information that allows us to uniquely identify your account or authenticate you prior to giving you access to your account information or certain online activities. For some online accounts (such as a LeapFrog account created on LeapFrog.com), certain login information such as your username may, itself, be personal (like an e-mail address) or tied to other personal information.
-
-
-
-_Information passively or automatically collected_
-
-  * **Technical Information** , which may include certain information or characteristics about your computer system, your LeapFrog product device, or LeapFrog web-connected software application. Specific examples include the type of computer operating system and web browser you use, your computer’s Internet Protocol (IP) Address the names and versions of programs installed on your computer, and, for LeapFrog product devices, information about the device itself, including product ID or serial number, applications or software titles stored on the device, and product license information (i.e., information about the person or system licensed/authorized to use the product and/or its supporting software applications). For the most part, technical information such as the types described above remains anonymous (i.e., does not identify you personally), but in some cases can be traced back to personal information such as an e-mail address.
-  * **Usage Information** , which may collectively include non-personal information about: (i) how you or your children/students use, browse, or view content on our Websites (“Website usage” or “browsing” data), what products you buy or download online (“order history”), (ii) how you or your children/students use and interact with the basic functionalities of LeapFrog connected products or web-connected software applications (“product usage data”), and (iii) how your children/students perform and progress on certain tasks or activities when playing with LeapFrog connected devices or on certain child-friendly areas of LeapFrog’s Websites or web-connected software applications (“play data”). Depending on the specific LeapFrog device, Website, or web-connected software application being used and the specific type of usage information being collected, certain usage information may be linked or tied to other information in your account, including personal information.
-
-
-* **How much information do we collect and when do we collect it?**
-
-The specific types and amounts of information we collect from adults from the categories above will vary depending on your level of interaction with our Online Services, but, as a general rule, will be relevant and proportionate to the service being requested or used. We may however automatically capture certain technical information and browsing data about your visit to a LeapFrog Website or Online Service (such as the browser type you used, which web pages you visited, and how much time you spent on pages visited). (For more on passive or automatic data collection, please see Section 5 on cookies and other web technologies.) If you voluntarily choose to engage in a more active way with a LeapFrog Online Service such as by doing anything from the list below, we may request or require that you provide us certain personal and/or demographic information.
-
-  * Register or create an online LeapFrog parent account or LeapFrog School account (both of which may be referred to in this Policy as a “LeapFrog account” or “your account”)
-  * Purchase or download products, software, or other services
-  * Register products (for example, for warranty purposes or to receive recall notices)
-  * Sign-up for newsletters, product announcements, marketing or other communications
-  * Participate in promotions (contests, sweepstakes, store discounts, coupons, etc.)
-  * Use community features such as our Parent Community blogs and discussion forums, Learning Moments, Link to Lessons, or other similar online forums or social areas
-  * Contact or communicate with LeapFrog Customer Support
-  * Participate in online surveys, studies, polls or other market research (such as parent panels)
-  * Sign-up and participate in focus groups or product testing such as through LeapFrog Labs
-  * Submit testimonials, success stories, or product ideas
-  * Create and send e-cards, lesson plans, gift certificates or other content or messages using one of our send-to-friend or refer-a-friend features (Note: As part of these features, we may ask you for certain personal information about family members or friends, such as name, e-mail address, and/or shipping address, which we use to facilitate delivery of the requested item)
-
-
-
-**Please note that depending on the specific LeapFrog Online Service you are using, some, many, or all of the activities listed above may not be available.** It is therefore possible that very little (if any) personal or demographic information may ever get collected from you. When these features are available and if you choose to use them, some of the activities may require that you first register or create a general LeapFrog account on the specific Online Service you are visiting/using. To do this, you may be asked to establish unique login information, in addition to providing personal and/or demographic information.
-
-**Consequences for not providing certain information**
-
-If you choose not to provide personal or demographic information when requested, your experience using our Online Services may be significantly limited. For example, without submitting personal information, you will not be able to buy products on our Websites or register to stay updated on LeapFrog’s newest products or special offers. Furthermore, if you choose not to allow us to upload certain usage information such as your child/student’s play data (when such options are available), we may not be able to provide you and your children/students a highly rich and personalized experience when using our products and Online Services.
-
-**More about product usage and play data**
-
-When you and/or your children/students use a LeapFrog product device which has a “Connected” component (e.g., the device connects to the computer for synchronization with a LeapFrog software application such as LeapFrog Connect), the physical device may keep a log of certain actions performed while the device is used. For example, the device may record such things as: (i) when the device is turned on/off, when the battery is low, when the device was last connected to the corresponding software application, and other similar product usage data; (ii) how many questions were answered by the child/student, the percentage of questions answered correctly, the number of times and amount of time the device was played with, and other similar play data; and, (iii) other similar events and performance patterns, as well as general statistics about these events (such as, the total number of times certain actions were performed). The next time you connect the device to your computer, this information may be uploaded from the device to the corresponding LeapFrog software application on your computer, and, if/when you are connected to the Internet, transmitted back to LeapFrog. The same kinds of information may be gathered and uploaded to LeapFrog when your child/student uses certain child-friendly areas of our Online Services.
-
-The gathering of this information is primarily done so we can (i) continue to enhance and customize the playing experience for users of our connected products, (ii) provide you with a personalized LeapFrog Learning Path that shows you the learning progress for each child/student player set up under your account (this may also be called a “footprint”), and (iii) recommend additional LeapFrog products to you based on such learning progress. In the school context, educators may be given the ability to download, save/archive, print, or email student progress information but only for school-related purposes.
-
-**Important play data controls**
-
-It is our desire that only you, the parent or educator who initially created the relevant LeapFrog account, have access to the LeapFrog Learning Path(s) associated with the child/student profile(s) under your account. We therefore recommend that in addition to the measures we take to protect your account information, you follow the tips provided under Section 8 below. This will help ensure that the child/student data under your account cannot be viewed or accessed by others. In addition, within the advanced settings area for each child/student profile under your account, you may be given the option to control whether play data (which is the data that forms the LeapFrog Learning Path) is continuously uploaded back to LeapFrog and/or to delete a certain amount of historical play data that had been previously uploaded to and stored on our servers. Although we do not recommend you exercise these controls (since it would essentially disable a primary reason for buying and using our connected devices), if you nonetheless choose to do so, please take special note of the following:
-
-  * If you delete past play data, this action will make the past play data anonymous and untraceable back to your unique LeapFrog account or an individual child/student. This will not, however, remove the information entirely;
-  * You may need to separately access and update each child/student profile under your account in order for play data controls to take effect on every child/student profile; and,
-  * The play data controls mentioned above will only impact the transfer of play data (whether current or past) from the software application on your computer to LeapFrog. Copies of children/students’ play data may remain locally on your computer and may continue to be collected and uploaded from the device to your computer, even if you have exercised the controls above.
-
-
-
-**Special note about community features**
-
-From time to time, we may provide online community or social-type features that allow you to publicly post, or share with other users, messages, stories, pictures, artwork, videos, testimonials, lesson plans, or other content. Along with such content, you may also be given the opportunity to post certain personal information about you or others to whom the content relates (for example, your name or part of your name, city and state of residence, and, for educators, title and name of your school). Although we may take certain precautions to protect those who use and participate in these activities (for example, by posting screen names instead of real names, obtaining your consent prior to publishing your content or personal information, filtering or cleansing content before it is posted, using pre-established messages, or limiting the group of people with whom users can interact and exchange information), we cannot guarantee the privacy of these areas and are not responsible for any information you post or share. We encourage you to use common sense when using these services and never to reveal personal information about you or your children/students that you do not want others to see. Any information you post or share in these areas is done so at your own risk. If we choose to make any community features available to children users, we will be sure to obtain verifiable parental consent (if required) prior to granting children access to these areas. For more on our practices regarding children and children-aged students, please see Section 10 below.
-
-* **Cookies and other web technologies**
-
-LeapFrog may use a variety of standard technologies to: (i) enhance and personalize your experience while using our Online Services (including saving you the time of having to repeatedly re-enter information); (ii) generate statistics and information about traffic to and usage of our Online Services; (iii) advise you of LeapFrog products, services, and/or special offers which may be of interest to you; and, (iv) run and measure the effectiveness of certain advertising or promotional campaigns, including those run by network advertisers on our behalf. These tools may include the following:
-
-  * **Cookies** – these are small text files that we may store on your computer to remember certain things about your visit to or use of our Online Services. For example, cookies might be used for any of the following: (i) remembering the content you previously viewed on a LeapFrog Website, your online order history, items you placed in a wish list or shopping cart, or the nickname or device profile name you created when registering on one of our Sites or web-connected software applications; (ii) keeping track of your children/students’ favorite games and activities (for example, within the LeapFrog Connect Applications), and any points or rewards they generate when playing them; (iii) for security purposes, such as to lock out underage users from certain activities or services; (iv) remembering or storing certain personal information (such as the username/email address you use to login to your LeapFrog account) so we can save you the time of having to re-enter this information, or re-market to you products in which you have previously shown interest; and/or (v) linking information contained in a cookie to personal information collected from you by other means (such as through account registration). 
-
-Most common web browsers today allow you to modify your settings to block cookies entirely, alert you every time they are being sent, or allow their use by only those websites you approve. You can also delete cookies that are currently stored on your computer’s hard drive. To do this, look for the Cookie control settings in your web browser (usually under Tools, Options/Internet Options, Privacy/Security tab) and then make your desired selections. If you choose to disable cookies, certain features of our Online Services may not be available or work properly and you may inadvertently delete the cookie that enables you to opt-out of ads served by network advertisers on our behalf (see below for more information).
-
-  * **Log Files** – these are files that record web activity and gather non-personal statistics about your visit to or use of a LeapFrog Online Service. Log files may help us capture, among other things: (i) your IP Address, which is a unique set of numbers assigned to your computer by your Internet Service Provider (ISP) (note that, depending on your ISP, the number assigned to your computer can be different every time you connect to the Internet); (ii) the type of browser and operating system you use; and, (iii) other information about your online session, such as the URL you came from to get to our Site and the date and time you visited our Site or used our Online Service. In addition to using this information to better understand how our Online Services are used, we may use information captured through log files such as an IP Address (together with your personal information) to troubleshoot technical problems, maintain online safety and security, and if necessary, prohibit or restrict access to our Online Services by certain users.
-  * **Web beacons** – Web beacons are small electronic image files that can be embedded within a web page or included in an e-mail message, and are usually invisible to the human eye. When used, web beacons (also known as “web bugs,” “clear GIFs,” or “tracking pixels”) may tell us such things as: how many people are coming to our Sites or using our Online Services; whether they are one-time or repeat visitors; which pages they’ve viewed and for how long; how well certain online advertising campaigns are converting; and, other similar Website usage data. When used in an e-mail, web beacons can tell us the time the e-mail was opened, if and how many times it was forwarded, and what links users click on from within the e-mail message. Based on this information, we can adjust the content, products, services, and promotions we provide you to better meet your interests, as well as make you aware of LeapFrog products, services, and/or special offers in which you may be interested, given your past interaction with LeapFrog’s Online Services.
-
-
-
-**_Network Advertisers_**
-
-From time to time, we may hire an independent network advertising company so we can show you LeapFrog banner ads when you visit other, third party websites. To do this more efficiently, the network advertiser may use and place on your computer certain web technologies, such as cookies and/or web beacons, to collect from you non-personal information (in most cases, certain technical and/or browsing data as defined in Section 3 above) while you visit our Websites or other websites participating in the same network. This information is then used to display advertisements about goods and services (whether offered by LeapFrog or other companies) more likely to be of interest to you when you visit those other websites. If you would like to learn more about this practice or how you can opt out from allowing network advertisers to gather this information from you or use it to provide you tailored ads on other sites, please visit the Network Advertising Initiative (NAI)’s website at: <http://networkadvertising.org/consumer/opt_out.asp>.
-
-Please note that even if you use the mechanism above to opt-out from this type of information gathering, if, at any time, you disable or delete all cookies stored on your computer, you will have also disabled the same technology (namely, cookies) used by the NAI to help prevent you from receiving this type of advertising. If you do not want this to happen, please make sure not to disable/delete the NAI cookie, or add NAI to the approved list of sites from whom you allow or accept cookies (see Cookies paragraph above for instructions on how to change your browser’s cookie settings).
-
-* **How do we use your information within LeapFrog?**
-
-Primarily, LeapFrog uses your information to provide the Online Services that you request (see Section 4) and in the manner in which we have designed them. In other words, and by way of example only, if you register online for a LeapFrog account, the information you provide will be used to give you the benefits that come with having a registered account. This could include getting access to exclusive content and community features, as well as receiving newsletters and online store discounts from LeapFrog. If you contact Customer Support, your information will be used to respond to your inquiry or help address your concern, and to maintain a log of your customer support history to allow for faster processing of future inquiries. If you participate in a sweepstakes or giveaway, we use your information to enter your name in the promotion, and, if you are a winner, to fulfill your prize and possibly post certain information about you on our Website (e.g., first name, last initial and city of residence). Any credit card information you provide is used to fulfill and process your online purchases, as well as to provide you a convenient way to store or update payment information for future purchases. This is how we’ve configured these services, and so, if you request them, they will be delivered to you in this manner. In some instances, we may offer you some choices on how these services are delivered, and the extent to which certain information is collected or stored by LeapFrog to provide you these services (see Section 9 for more information about these choices).
-
-In addition to the above, and depending on the information collected and the service for which it is collected, we may also use the information we collect in the following ways:
-
-  * To send you mandatory communications such as welcome letters, purchase confirmations, parental notice or consent emails, recall announcements, or other similar transactional or administrative notices;
-  * To send you informational communications such as newsletters, articles, or personalized learning progress updates
-  * To send you marketing communications such as product news, event announcements, store discounts, or special offers or promotions from LeapFrog;
-  * To send you mailings of our product catalogue and other requested items;
-  * To send you information about the products and services of other companies that we think might interest you (Note: These specific notices would be sent by LeapFrog on behalf of other reputable companies and would not require us to share your personal information. For notices that may come directly from third party companies and require us to share your information, please see Section 7 below);
-  * To enable you to give us feedback on our products and services, such as through our parent panel programs, periodic product research studies, and customer satisfaction surveys;
-  * To provide you a convenient, highly relevant, and personalized experience when you use our Online Services and connected product devices (examples may include greeting you by your name when you revisit and login to our Sites, making product recommendations based on online store purchases or a child/student’s unique learning progress, or displaying the total reward points earned by your child/student from game play);
-  * For identification, eligibility, and security purposes, such as to help verify your identity when you log in to your account, confirm eligibility in a sweepstakes or contest, or help prevent unauthorized access to or use of your account information;
-  * To advise you, through the use of online advertising devices such as web banners and search advertising inquiries, of LeapFrog products, services, promotions, and special offers which may be of interest to you;
-  * To conduct internal and external market analysis and research studies; and,
-  * To otherwise improve and customize our products, services, and technologies to better meet your needs and the needs of your children/students.
-
-
-
-**Enhancing our consumer records**
-
-In order to effectively carry out some of the uses described above, we may combine information collected from one LeapFrog Online Service with information obtained through another LeapFrog Online Service. In addition, we may obtain additional consumer data, or enhance, update, or add to our existing consumer records with personal or demographic information we acquire from third party sources (e.g., data aggregators, third party promotional partners, etc.), and use this information for our own marketing purposes or in other ways as set forth above.
-
-* **With whom do we share your information?**
-
-LeapFrog may share your information, including (in some cases) your personal information and any children/student information under your account, in the following situations:
-
-  * When we hire vendors to perform services on our behalf, such as helping us operate a LeapFrog Site or Online Service, fulfill a contest or sweepstakes, administer surveys, process online store transactions, execute and optimize marketing/advertising campaigns, and manage and enhance consumer data. These companies are only allowed to obtain the personal information they need to perform the specific task they’ve been hired to do and are prohibited from using the information for any other purpose. They have also agreed to keep your information confidential and secure. In the case of any network advertiser hired by LeapFrog, LeapFrog requires the network advertiser to refrain from sharing or using any data collected at the request of LeapFrog for the benefit of anyone other than LeapFrog unless LeapFrog has your explicit consent for that type of use.
-  * When we share your information with the family of LeapFrog companies, including our subsidiaries, parent company, or international companies. This allows us to get a better understanding of who our consumers are worldwide, improve our products based on global needs and interests, and market our products using local resources and based on local interests.
-  * When we partner with independent, carefully-selected third party companies as part of a jointly-sponsored promotion or to offer you the ability to receive special offers and discounts directly from third party companies. For example, we may team up with a third party company to offer a contest, giveaway, or other promotion that promotes both our products and theirs, and as part of such promotion, agree to share the collected consumer data (including personal information such as your name and email address). Similarly, when you register for a LeapFrog account or otherwise sign-up to receive LeapFrog marketing communications, we may allow you to simultaneously sign-up to receive email offers directly from third party companies who offer other products or services that might interest you. A limited amount of personal and demographic information (such as your name, email address, and ages of children in your household) may be shared as part of such third party email program. 
-
-We take measures to help ensure that our third party partners agree to protect the confidentiality, integrity, and security of any personal information we share with them. When your personal information may be shared or simultaneously collected by a third party company as described above, it will either be obvious to you from the context (such as clearly marked third-party branding on the page) or you will be notified about the sharing at the time your personal information is requested. You will also be given the opportunity to opt-in to or opt-out from such sharing practices before they are initiated. LeapFrog does not share any personal information collected directly from children with the types of third party companies described in this paragraph.
-
-
-
-
-**_California Residents_ :** Your California Privacy Rights
-
-If you are a California resident, you may have the right to request and receive certain information about our disclosure of your personal information to third parties for their direct marketing purposes, and your choices with respect to such disclosures. Because it is our policy not to share your personal information with third parties unless you are first given the opportunity to at least opt-out from such sharing (and this policy is clearly disclosed above), we are exempt from having to meet this requirement. If you still wish to learn more about our compliance with this requirement, please contact us using the contact information provided at the top of this Policy.
-
-  * _If we are bought or acquired by another company (either fully or partially), merged with another company, or experience a reorganization, bankruptcy, or other similar event._ If any of these events occur, your information may be shared with our successor or assign (i.e., the new company or the company that takes over), subject to the notification procedures set forth under Section 2 (“Changes to this Policy”) above.
-  * _If we are required to share your information because such action is reasonably necessary to comply with legal-related processes_ , enforce contract terms, respond to or resolve any claims (including valid consumer complaints), or otherwise protect or enforce the safety or rights (including intellectual property rights) of LeapFrog, our business customers and partners, our consumers, or the general public.
-  * _If we wish to generally assess (with the help of a third party company) how our Online Services are performing in the Internet marketplace_ , their popularity or use amongst certain consumer demographics or profiles, and other similar performance metrics. The information disclosed for these purposes will be in aggregate form and limited to demographic or other anonymous data; no personal information will be shared.
-
-
-* **How do we protect your personal information?**
-
-LeapFrog uses a variety of administrative, technical, and physical safeguards to help protect the security of your personal information (i.e., to prevent it from being lost, stolen, misused, or accessed by an unauthorized person). These measures include, but are not limited to:
-
-  * Using industry-standard encryption to protect credit card numbers when they are transmitted to LeapFrog through any of our Online Services;
-  * Storing your personal information in secure operating environments that are only accessible to authorized LeapFrog employees and vendors on a strict need-to-know basis; and,
-  * Requiring our online users to verify their identities with unique login information before they can access or modify their LeapFrog account information or settings.
-
-
-
-**How you can help protect your information**
-
-You can also play a role in helping keep your personal information safe. If you are required to create a unique password to restrict access to your account, choose a password that is hard for others to guess (one that has a combination of letters, symbols, or numbers), and be sure never to reveal it to anyone else. It is your responsibility to keep your password and account information confidential at all times. If you use a shared or public computer, never choose to have your login information remembered and make sure to log out of your account every time you leave the computer. If you are an educator, you should avoid saving or downloading any student progress information onto shared or public computers.
-
-It is your responsibility to keep your LeapFrog account information (including your email address) current and accurate, and to notify us if your email account ever changes or is terminated. LeapFrog assumes no responsibility for misdirected messages (i.e., messages sent to an email account which you no longer own). Misdirected messages could reveal personal information about you (or the children/student profiles under your account) to unintended third parties.
-
-If you own a LeapFrog connected product, the product may be designed to store certain information on the physical device itself (for example, a child’s first name and/or product usage and play data). For your protection, before selling or otherwise transferring ownership of your LeapFrog product, please be sure to clean off and securely remove all information from the device itself, including any play data. One way you could do this is by connecting the product to your computer and doing one last upload or sync to the corresponding LeapFrog software application. In most cases, this will automatically erase the information stored on the product device. For additional help, please contact Customer Support using the information provided at the top of this Policy.
-
-* **How can you access and modify your personal information, opt-out, or change your account preferences and settings?**
-
-The best and simplest way to do this is to first login to your account and then go to the relevant account management section of our Website or Online Service where you can view and update your account information, unsubscribe from LeapFrog marketing communications, or modify other preferences and settings. These areas are usually marked clearly on the Site or Online Service (for example, they may be labeled as “My Account,” “Your Account,” “Edit Profile,” “Settings,” or other similar names), and may offer a variety of options that allow you to update information we’ve stored about you or any children/student profiles under your account, delete accounts or profiles, or otherwise maintain control over how your information is collected, stored, used, or shared by LeapFrog. If these options are not available for the Site or Online Service you are using, or you wish to make a request or modification different from what is offered or allowed within these account management areas, the following additional options are available to you:
-
-  * **Opting out from LeapFrog marketing communications** – At the time of registration or data collection, you may be given the option to opt-in to or opt-out from receiving marketing communications from LeapFrog by checking or un-checking a noticeable check box. For some registrations and activities, receipt of communications (including marketing communications) may be automatic upon your giving us personal information (such as an email address on a sign-up form intended exclusively for that purpose) or upon taking some other action associated with receiving communications (such as setting up a device or a child/student profile under your LeapFrog account). 
-
-In addition, along with every marketing communication we send you, we provide you a process to opt-out from receiving future marketing messages of the same kind (i.e., unsubscribe). Simply follow the unsubscribe process or directions provided within each such marketing communication. Please note that even if you opt out from all LeapFrog marketing communications, you may continue to receive mandatory communications from us (as noted in Section 6 above). You may also receive LeapFrog-related messages initiated or sent to you by friends or family members who use one of our send-to-friend email features or other similar peer-initiated web features.
-
-  * **Opting out from third party communications** – If signing up for third party communications is offered to you at the time of registration or data collection (for example, as part of a joint promotion or LeapFrog’s third party email program – See Section 7 above), you will be given the option to opt-in to or opt-out from having your personal information shared for such purposes at the time of registration or data collection. You may also be given the option to edit your selection for such sharing within your account management or edit profile section. Please note, however, that any opt-out requests you make after the time of registration or data collection, will only prevent future transfers of your personal information. To stop receiving communications from third parties who’ve already received your information, you will need to follow the unsubscribe process provided separately by each such third party company. This process should be provided in each third party communication you receive and in the third party’s privacy policy.
-  * **Customer Support** – For additional help, you can always contact Customer Support using the information provided at the top of this Policy.
-
-
-* **How do we handle children’s personal information?**
-
-As a leading manufacturer of children’s educational toy products, LeapFrog recognizes the importance of protecting children’s information and strongly encourages parents to be actively involved in their children’s online activities. For this reason, we have adopted a special set of practices for the handling of any personal information collected online directly from children or children-aged students. Before reading these policies, however, please make sure to also review Sections 1–9 above, which describe our privacy practices for our typical online consumers (i.e., parents and educators). Also, please note that in most cases such as in the U.S., the guidelines below are relevant only to children under the age of 13. In other jurisdictions such as on some of our international Websites or Online Services, these guidelines may be applied to a slightly different age group (such as those under 14 or 16). Also, whenever we refer to “children” below, we also mean to include students who are of children age.
-
-Please note that since TRUSTe’s Children’s Privacy Program is not intended to cover downloadable software, any disclosures in this Policy that are relevant to such software have not been reviewed or approved by TRUSTe.
-
-  1. **We generally collect children’s personal information from adults.** LeapFrog’s online data collection activities are primarily targeted at parents and educators, and thus we do not generally collect personal information (defined above) from users that we know to be children. If we seek to have personal information about children, we will typically request this information directly from a parent, educator, or other adult (but not the child) and on a portion of our Website or Online Service intended only for such adults. In addition, any children’s information is generally stored as part of the corresponding adult’s LeapFrog account (not a child’s account), and can only be accessed by the adult account owner.
-  2. **Children’s activities are accessible with little or no personal information required.** Any online activities we make available for children in particular, such as online game play, artwork studios, or reward centers, are generally accessible without the need for the child to provide personal information. As an example, children may be allowed to use some online child-friendly activities or play areas with only a username (such as a nickname or character name) or other non-personal login information (as defined above). If any such activities or play areas offer a means for children to chat or otherwise interact with other players online, such features will likely be designed so that children cannot reveal or exchange any personal information. For example, children may be limited to using menu-based chat, which requires them to choose from a pre-established list of short phrases or emoticons that are created by LeapFrog and that do not contain any personal information. 
-
-For other activities such as a one-time contest, e-card, wish list, or tell-a-friend feature, we may ask the child for a limited amount of personal information (such as an e-mail address), and this information is only used to administer the contest or facilitate the one-time communication, but is not stored or further used by LeapFrog once the specific one-time communication or service has been fulfilled.
-
-When children use our connected product devices, as well as certain child-friendly areas of our Websites and web-connected software applications, we may automatically collect and upload certain technical and usage information (as described in Section 4 above - “More about product usage and play data”). This type of information by itself is not personally identifiable, but it may be associated with a parent or educator’s LeapFrog account (which includes personal information) for the purpose of producing the LeapFrog Learning Path and allowing us to provide parents/educators with personalized recommendations for additional LeapFrog products.
-
-  3. We obtain parental consent when required. If we ever seek to collect personal information directly from children and retain such information for ongoing marketing purposes or other uses, or if we ever allow children to publicly share personal information online, we will first provide parental notice and/or obtain verifiable parental consent. Depending on the Online Service and the intended use(s) of the child’s information, this process could vary, and may, for example, involve an email notice to the parent with an opportunity to opt-out their child, or prior opt-in consent obtained from the parent using such mechanisms as e-mail with follow-up confirmation, a credit card transaction, a printed form with the parent’s signature, or other mechanism permitted by law. In the case of personal information collected from children-aged students for school-related purposes, the educators of such students may be allowed to act on behalf of parents to provide the parental consent referred to in this paragraph, if required by law.
-  4. We collect from children only the personal information we need. If and when we collect and store personal information as described in bullet 3 above, we will only collect and store personal information which we feel is reasonably necessary to allow the child to participate in the relevant activity. In other words, and only by way of example, if we do not need a certain type of personal information (such as a child’s name) to provide the service requested (like access to an online play area), we simply won’t ask the child for that information.
-  5. We handle children’s information according to this Policy. Unless noted differently in this Section 10 or elsewhere in this Policy, any personal information collected from children will be used, protected, and disclosed in accordance with the other terms of this Policy (as set forth in detail in Sections 1–9 above). LeapFrog does not share any personal information collected directly from children with third party companies.
-  6. Parents/educators can access and control their children’s information and activities. Parents have the ability to review the personal information we’ve stored about their child, request that we delete their child’s personal information, or stop the further use or online collection of their child’s personal information. In the school context, educators may be given similar controls with respect to the handling of personal information collected from or about their children-aged students. As mentioned earlier, because most (if not all) personal information about children or students is initially collected from a parent or educator (not the child or student) and stored as part of the adult’s LeapFrog account profile, the designated account management or edit profile area for that account allows the parent/educator to view and update their children/students’ personal information. For online play areas that contain interactive features such as chat, parents/educators may be given additional controls to manage their children/students’ online activities, including the ability to set play time limits, turn chat features on and off, and control friends’ lists. Prior to taking any of the actions above, the parent/educator may be required to log in to their LeapFrog account and/or verify their identity.
-
-
-
-For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
-
-  * <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>
-  * <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm>
-  * <http://www.onguardonline.gov/topics/kids-privacy.aspx>
-
-
-
-Thank you for taking the time to read our Policy!
+1-800-701-LEAP (5327)
+
+**Australia, New Zealand, Ireland and the United Kingdom:**
+
+**LeapFrog Enterprises, Inc.**  
+Attn: Consumer Service  
+36 Windsor Street  
+Uxbridge, Middlesex, U.K.  
+_UB8 IAB_
+
+[info@leapfrog.com](mailto:info@leapfrog.com)  
+01 702 200 244
+
+**France:**
+
+**LeapFrog France  
+**8 rue de Milan  
+75009 Paris  
+[sav@leapfrog.com  
+](mailto:sav@leapfrog.com)0800 348 672
+
+**Rest of World:  
+**Attn: Consumer Service  
+6401 Hollis Street, Suite 100  
+Emeryville, CA 94608-1071  
+[support@leapfrog.com](mailto:support@leapfrog.com)
