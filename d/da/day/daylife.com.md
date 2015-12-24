@@ -1,94 +1,132 @@
-> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206043944id_/http%3A//daylife.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224132341id_/http%3A//newscred.com/privacypolicy) for the most accurate reproduction.*
 
-# Powering content marketing for the world's leading brands
+# Content Marketing Software | Privacy Policy | NewsCred
 
-## NewsCred Website Privacy Policy
+California Residents
 
-Last Updated: April 2013
+Last Updated: July 2015
 
-This privacy policy is intended to inform you about the information that is collected from you when you visit the NewsCred website located at www.newscred.com (the “Website”). Your use of the Website indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Service (TOS) in effect.
+NewsCred values and respects your privacy. This Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
 
-### Scope
+#### Information We Collect
 
-This privacy policy applies only to the Website. This policy does not apply to information collected through any other website or to the practices of companies that NewsCred does not control. Please note that the Website may contain links to other websites, including social networking sites. We recommend that you read the privacy policies of every website that you visit.
+NewsCred may obtain personal information about you from various sources, including our websites (including websites we operate on behalf of our clients), when you call or email us, communicate and/or engage with content through social media, or when you participate in events or other promotions. We also may obtain information about you from our business partners, clients and other third parties.
 
-### What Information the Site Collects and How We Use It
+##### Types of Information
 
-NewsCred may collect information from you at several different points on the Website, some of which are automatic and some of which are opt-in.
+When you visit and interact with our websites and/or our customers’ websites, certain information may be collected via a cookie, including:
 
-  * #### Information We Collect Automatically
+  1. your computer's Internet Protocol (IP) address;
 
-    1. ##### Types of Information
+  2. your browser type and operating system;
 
-When you visit and interact with the Website, certain information may be collected automatically, including: 
+  3. search terms that you use to reach the site;
 
-      1. your computer's Internet Protocol (IP) address; 
-      2. your browser type and operating system; 
-      3. the web pages you were visiting immediately before and after you came to the Website; 
-      4. web pages that you view, and links that you click on, within the Website; 
-      5. aggregated data about email click-through rates and user video viewing; 
-      6. standard server log information;
-      7. inferred geographic location;
-      8. inferred company;
-      9. inferred demographic information, such as industry type; and/or
-      10. advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad.
+  4. the web pages you were visiting immediately before and after you came to the site;
 
-In order to learn more about how our Website is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Website, to increase our Website's functionality, and to better tailor our content and design to suit our visitors' needs. 
+  5. dates and times of visits to the site;
 
-    2. ##### Cookies
+  6. information on actions taken on the site (such as page views and site navigation patterns);
 
-We may collect information about your computer, including, where available, your IP address, operating system and browser type, for system administration. This is statistical data about how you browse our website.
+  7. amount of time spent viewing certain pages or screens;
 
-Cookies help us to improve our website and to deliver a better and more customized service. They enable us:
+  8. standard server log information;
 
-      1. to estimate usage numbers and patterns;
-      2. to store information about your preferences, and to allow us to customize our website according to your individual interests;
-      3. to speed up your searches; and
-      4. to recognize you when you return to our website.
+  9. social actions taken with respect to the content on the site, including but not limited to Likes, Shares, Tweets, Retweets, Favorites and Pins on LinkedIn, Facebook, Twitter and Pinterest; and/or
 
-You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to access certain parts of the website or unable to use some of our services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you logon to our website.
-
-    3. ##### Log Files
-
-Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users’ movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
-
-  * #### Information We Collect When You Opt-In
-
-    1. ##### Newsletter 
-
-NewsCred sends a newsletter that provides subscribers with industry news and intelligence. In order to sign up to receive regular emails via the newsletter, users must submit information including a valid email address. NewsCred may from time to time track user email usage in a continued effort to improve our services. You may opt out of the newsletter at any time using the link at the bottom of the newsletter. 
-
-    2. ##### Product Information
-
-If you request more information about our products by providing your name and email, we may send you the Newsletter, but you can opt-out at any time as described above.
-
-    3. ##### Comment Service
-
-In order to further enhance the user experience, NewsCred runs a comment service powered by Disqus on the NewsCred Blog where users can discuss topics of interest. Users have the option to sign up for this service via either social media or by providing a name and valid email address. NewsCred uses this information to screen out users who leave comments prohibited by our Terms of Service. NewsCred will not pass this information to any other organization except in aggregate form. The comment service uses cookies. Please see Disqus’ privacy policy for more information.
+  10. advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad.
 
 
 
 
-### Business Transitions
+Please note that NewsCred’s website and our customers’ websites may contain links to other websites and gather data from social media sites, including LinkedIn, Facebook, Twitter and Pinterest. We recommend that you read the privacy policies of the aforementioned sites and every website that you visit. We are not responsible for those sites’ privacy practices.
+
+When you visit our websites and/or our customers’ websites, NewsCred and our customers may also collect information about your online activities over time and across third-party websites or online services. Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track ("DNT") mechanisms, we do not respond to web browser-based DNT signals at this time.
+
+##### Inferred Data
+
+We may combine the information we collect with information we receive from our business partners, clients and other third parties. Types of data we may infer about you consist of:
+
+  1. name and title;
+
+  2. company;
+
+  3. geographic location;
+
+  4. demographic information, such as industry type;
+
+  5. social media metrics and scores;
+
+  6. interests; and/or
+
+  7. URLs you have shared on social media.
+
+
+
+
+#### How We Use Your Information
+
+In order to learn more about how our websites are used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and assess use of the website, to increase our websites’ functionality, and to better tailor our content and design to suit our visitors' needs.
+
+Cookies help us to improve our websites and to deliver a better and more customized service. They enable us:
+
+  1. to estimate usage numbers and patterns;
+
+  2. to store information about your preferences, and to allow us and/or our customers to customize our and their respective websites according to your individual interests;
+
+  3. to analyze and enhance our and/or our customers’ marketing communications and make them more relevant;
+
+  4. to speed up your searches; and
+
+  5. to recognize you when you return to our website and/or our customers’ websites.
+
+
+
+
+NewsCred and/or our customers may use combined information to enhance and personalize your online experiences, to communicate with you about products, services and events that may be of interest to you, and for other promotional purposes.
+
+We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+
+##### Business Communications
+
+You may provide your email address to us or other contact information to receive industry news, intelligence, information about NewsCred products and services, and other business communications. You may opt out of our email marketing communications using the link at the bottom of each email. Please note that even if you opt out, you may continue to receive certain email communications from us regarding your relationship with NewsCred, such as updated in our site terms.
+
+#### Business Transitions
 
 In the event NewsCred goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
-### Disclosure
+#### Disclosure
 
-Though we make every effort to preserve user privacy, NewsCred may need to disclose personal information when required by law and/or when we have a good-faith belief that such action is necessary to comply with a) a current judicial proceeding, b) a court order or c) legal process served on NewsCred.
+We may share the information we maintain about you with our service providers, business partners and clients. NewsCred also may need to disclose personal information when required by law and/or when we have a good-faith belief that such action is necessary to comply with a) a current judicial proceeding, b) a court order or c) legal process served on NewsCred.
 
-If you participate in certain features of this Website (e.g., sharing news stories of interest), please note that any information you voluntarily disclose through use of these features becomes available to the public and/or other users whom you have designated.
+If you participate in certain features of this website (e.g., sharing content), please note that any information you voluntarily disclose through use of these features becomes available to the public and/or to other users whom you have designated.
 
-If a third party complains that a user comment in our comment service breaches our Terms of Service (e.g. libels them), we will make reasonable efforts to contact the commenter and alert them to the situation, but may have to disclose the commenter’s contact information if required by law to do so. Please refer to our Terms of Service for more information.
+#### Information Security
 
-### Information Security
+NewsCred has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. We recognize, however, that no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information. If you become aware of a security issue, please email us at privacy [at] newscred [dot] com. We will work with you to address any problems.
 
-NewsCred has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. Under our security practices and policies, access to personally identifiable information is authorized only for those who have a business need for such access. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information. If you become aware of a security issue, please email us at legal [at] newscred [dot] com. We will work with you to address any problems.
+#### Your Rights and Choices
 
-### Notification of Changes 
+You may opt out of cookies on NewsCred’s websites and our customers’ websites by downloading the plugin located at <https://www.ghostery.com/en/download>. However, if you refuse cookies, you may be unable to access certain parts of these websites or be unable to use some of our and/or our customers’ services.
 
-Whenever NewsCred changes this Privacy Policy, we will post those changes to this page and change the “Last Updated” date above so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information, including the sharing of your information with third parties, by emailing privacy [at] newscred [dot] com. We will apply your preferences going forward. In some circumstances, withdrawing your consent to NewsCred's use or disclosure of your personal information will mean that you cannot take advantage of certain NewsCred products or services.
 
-### Contact Information 
+#### Data Transfers
 
-If you have any questions or suggestions regarding our privacy policy, please feel free to send an email to legal [at] newscred [dot] com, call (212) 989-4100 or send a letter by mail to NewsCred, Inc., 27 W. 24th St. Suite 202, New York, NY 10010.
+This is a U.S. website subject to U.S. laws, including those governing the privacy and security of your information. When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Policy.
+
+#### U.S - EU Safe Harbor
+
+NewsCred complies with the U.S. – EU Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union and European Economic Area member countries and Switzerland. NewsCred has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Please see NewsCred’s [Safe Harbor Policy](https://web.archive.org/safeharbor) for more details.
+
+#### Your California Privacy Rights
+
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that NewsCred has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to NewsCred, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email privacy [at] newscred [dot] com, with the subject line "California Privacy" and your request in the body of your email.
+
+#### Notification of Changes
+
+Whenever NewsCred changes this Privacy Policy, we will post the updated Privacy Policy on this page and change the “Last Updated” date above so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+#### Contact Information
+
+If you have any questions or suggestions regarding our Privacy Policy, please feel free to send an email to privacy [at] newscred [dot] com, call (212) 989-4100 or send a letter by mail to Privacy Officer, NewsCred, Inc., 386 Park Avenue South, 6th Floor, New York, NY 10016.
