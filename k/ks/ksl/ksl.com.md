@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksl.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165946id_/http%3A//www.ksl.com/index.php%3Fnid%3D250%26sid%3D95314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksl.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225000723id_/http%3A//www.ksl.com/%3Fnid%3D250%26sid%3D95314) for the most accurate reproduction.*
 
 # Privacy Statement | KSL.com
 
@@ -113,3 +113,5 @@ We do not authorize the collection of your PII for third party use through adver
 **Users From Outside the United States**. This Site is hosted in the United States and is governed by U.S. law. If you are using the Site from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where we locate and operate our servers and databases. By using the Site, you consent to the transfer of your information to our facilities and to the facilities of those third parties with whom we share information as described in this policy. 
 
 **Contact Information.**  Questions concerning the Policy or the Site, including any request to review or change your PII, should be directed to support@ksl.com.
+
+##  More stories you may be interested in 
