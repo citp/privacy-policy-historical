@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertsun.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218025218id_/http%3A//static.desertsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertsun.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224181733id_/http%3A//static.desertsun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Desert Sun
 
