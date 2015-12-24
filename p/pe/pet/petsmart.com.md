@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617205504id_/http%3A//www.petsmart.com/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952%3Farticle%3Dhelpdesk_landing_article_privacy_policy_cmp_20120808_142218) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004021id_/http%3A//www.petsmart.com/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952%3Farticle%3Dhelpdesk_landing_article_privacy_policy_cmp_20120808_142218) for the most accurate reproduction.*
 
 # PETSMART - US
 
@@ -45,7 +45,7 @@ In order to provide the best customer experience possible, we also use these tec
 
 **Third-Party Automated Information Collection**
 
-In certain instances, we allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for PetSmart products and services or for the products and services of other companies when you visit our website or other websites. These companies use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about products and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information.
+In certain instances, we allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for PetSmart products and services or for the products and services of other companies when you visit our website or other websites. These companies use non-personally identifiable information during your visits to this and other websites in order to customize your shopping experience and to provide advertisements about products and services likely to be of greater interest to you. These parties typically use cookies, third-party web beacons, and similar technologies to collect this information. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. Neither PetSmart nor its third party providers have a systematic method for ensuring that browser “Do Not Track” requests are consistently honored. However, you may learn more about online advertising and opt out of the use of your web browsing activity to serve targeted ads by companies that participate in the Digital Advertising Alliance by visiting <http://www.aboutads.info/choices/>.
 
 **Our Mobile App and Mobile Website**
 
@@ -221,7 +221,7 @@ If you no longer want to have a PetPerks number, you may opt out by logging onto
 
 If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to PetSmart, Inc. Attn: Privacy Officer, 19601 N. 27th Avenue, Phoenix, AZ 85027. Please allow 30 days for a response.
 
-If you provide us with personal information, PetSmart and other third parties may track your personal information as described in this privacy policy, including your movements on our website, mobile applications and social networks or in our stores. Such tracking allows us and third party providers to ease and customize your shopping experience. Neither PetSmart nor its third party providers have a systematic method for ensuring “Do Not Track” functionality in certain browsers can operate to prevent such tracking. You may be able to opt out of certain types of “tracking” by utilizing the opt-out service at the Network Advertising Initiative at [ http://www.networkadvertising.org/choices/#completed](http://www.networkadvertising.org/choices/#completed).
+Neither PetSmart nor its third party providers have a systematic method for ensuring “Do Not Track” functionality in certain browsers can operate to prevent such tracking. You may be able to opt out of certain types of “tracking” by utilizing the opt-out service at the Network Advertising Initiative at [ http://www.networkadvertising.org/choices/#completed](http://www.networkadvertising.org/choices/#completed).
 
 ### HOW DO YOU ACCESS AND UPDATE YOUR PERSONAL INFORMATION
 
@@ -264,4 +264,4 @@ This privacy policy applies to all current or former customer personal informati
 
 If we intend to use or disclose your personal information in any way materially different than what we say in this privacy policy or make any other material changes, we will make reasonable efforts to revise this policy. If we make any changes to this Policy, we will change the “Revised” date below.
 
-Revised May 2014
+Revised November 2015
