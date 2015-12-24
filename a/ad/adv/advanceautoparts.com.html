@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the advanceautoparts.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626190806id_/http%3A//shop.advanceautoparts.com/o/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advanceautoparts.com privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224170955id_/http%3A//shop.advanceautoparts.com/o/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <!-- Start - HeaderMetaCheck.jspf -->
 <title>Customer Privacy Policy - Advance Auto Parts</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
-<script src="https://cts-secure.channelintelligence.com/17263914_landing.js" type="text/javascript" async=""></script><script src="//tags.tiqcdn.com/utag/advanceautoparts/main/qa/utag.js" type="text/javascript" async=""></script><script>
+<script>
 var cookieDomain = 'advanceautoparts.com';
 </script> 
 <!-- End - HeaderMetaCheck.jspf -->
@@ -41,7 +41,7 @@ var autoSuggestOn = '1';
 var maxSuggestions = '10';
 var suggestHeight = '200';
 var suggestWidth = '325';
-var suggestDelay = '500';
+var suggestDelay = '100';
 var cartMaxItems = '99.0';
 var headerStoreSelect = 'Select Your Store';
 var cartMaxExceeded = 'Quantity exceeds maximum of';
@@ -76,6 +76,14 @@ var speedperksPromocodeReceivedMsg = 'Promo code {0} of {1} has now been activat
 var speedperksPromocodeError = 'The code you have entered {0} has either expired, is invalid or has been used before. Double check your code and try again in the cart.';
 var speedperksThankyouWhenPurchasing = "In participating stores, you'll need to provide your Speed Perks mobile number <br> <strong>{0}</strong> to redeem your reward. With every qualifying purchase of $30 or more, you will get an additional reward. You will receive your reward by email within one week of making the qualifying purchase.";
 var speedperksThankyouSignupMatch = "We were able to associate your Speed Perks account with your Advance Auto Parts account. Just present your Speed Perks mobile number at any participating Advance stores to redeem your reward. Each qualifying purchase of $30 or more will get you an additional reward. You will receive your reward by email within one week of making a qualifying purchase.";
+var timer;
+j(window).load(function () {
+var cqbUrlParam = getURLParameter('CQB');
+if(null != cqbUrlParam && cqbUrlParam.toLowerCase() == 'true'){
+setUserSessionCookie();
+}
+displayCarQuestBanner();
+});
 j(document).ready(function() {
 header1CachedDisplayReady();
 espotOnReady();
@@ -92,6 +100,32 @@ espotOnReady();
 </form>
 <div id="global_top_banner2"> 
 <div id="global_inner_banner2">
+<div class="carQuest_AAP_Top_Banner_Wrapper">
+<div class="carQuestLargeBanner">
+<!-- Start - ES_CQ_LARGE_BANNER -->
+<div class="largeBannerInner"> 
+<img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/common/carquest.gif">
+<span class="h2">CARQUEST is now part of the Advance Auto Parts family</span>
+<p>
+CARQUEST and Advance Auto Parts have joined forces to bring you an even better shopping experience. CARQUEST customers can now take advantage of all Advance online promotions, plus enjoy the convenience of ordering online and picking up at their nearest CARQUEST store, or shipping to home.
+</p>
+</div>
+<!-- End - ES_CQ_LARGE_BANNER -->
+</div>
+<div class="carQuestSkinnyBanner">
+<!-- Start - ES_CQ_SMALL_BANNER -->
+<div class="skinnyBannerInner">
+<div class="logo"><img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/common/carquest_small.gif"></div>
+<div class="title">Carquest Auto Parts now is a part of the Advance Auto Parts family.</div>
+<div class="link"><a href="#">Learn More</a></div>
+<div class="clear"> </div>
+</div>
+<!-- End - ES_CQ_SMALL_BANNER -->
+</div>
+<a class="openBtn" href="#" onclick="openAD();">&nbsp;</a>
+<a class="closeBtn" onclick="closeAD();" href="#">X</a>
+<div class="clear">&nbsp;</div>
+</div>
 <!-- Start - ES_Global_Banner -->
 <div id="espotVC" style="display:block;"><style type="text/css">
 #global_top_banner { 
@@ -110,7 +144,9 @@ text-align: center;
 }
 </style>
 <div id="global_inner_banner">
-<a manual_cm_sp="Promotions-_-SiteWideBanner-_-PromoCode" href="/o/sitewide-promotion" name="15% off $50*|Image"><img height="34" width="825" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/a_global_banner_150621.png" border="0" alt="15% off $50*"></a><a manual_cm_sp="Promotions-_-SiteWideBanner-_-FreeShipping" href="/o/freeshipping" name="Free Shipping|global banner|Image"><img height="34" width="165" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/310_globalbanner_right-3.gif" border="0" alt="Free Shipping on orders over $75"></a>
+<a manual_cm_sp="Promotions-_-SiteWideBanner-_-PromoCode" href="/o/sitewide-promotion" name="
+20% off $50*|Image"><img height="34" width="825" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/a_global_banner_151224.png" border="0" alt="
+20% off $50*"></a><a manual_cm_sp="Promotions-_-SiteWideBanner-_-FreeShipping" href="/o/freeshipping" name="Free Shipping|global banner|Image"><img height="34" width="165" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/310_globalbanner_right-3.gif" border="0" alt="Free Shipping on orders over $75"></a>
 </div></div>
 <!-- End - ES_Global_Banner -->
 <div id="speedPerksWrapper" style="position:relative;top-25px">
@@ -805,11 +841,6 @@ Instrument Panel &amp; Dash
 Navigation 
 </a> 
 </li>
-<li> 
-<a href="http://shop.advanceautoparts.com/c2/radar-laser-detection/15029" id="15029" class="ul-link nested-Links sec-set l2" lid="L2category-Radar &amp; Laser Detection">
-Radar &amp; Laser Detection 
-</a> 
-</li>
 <!-- end L2 foreach -->
 </ul><!-- END sec-tier UL -->
 </div><!-- END sec-tier DIV --> 
@@ -1033,10 +1064,12 @@ var jsVehicleId = new Array();
 var jsVehicleDesc = new Array();
 var jsVehicleCode = new Array();
 var jsVehicleMeta = new Array();
+var jsVehicleEngine = new Array();
 jsVehicleId[0] = '';
 jsVehicleDesc[0] = '';
 jsVehicleCode[0] = '';
 jsVehicleMeta[0] = '';
+jsVehicleEngine[0] = '';
 </script>
 <div id="select" class="customSelect select">
 <select id="vehicleIdSearch" name="vehicleIdSearch">
@@ -1060,6 +1093,11 @@ var myDefVehicleId = '';
 var marketType = '';
 var prefStoredSet = '';// reading from param
 var prefZC = '';// reading from param
+var speedperkLN = '';
+var speedperkLN2 = '';
+if (speedperkLN == '' && speedperkLN2 != ''){
+speedperkLN = speedperkLN2;
+}
 </script>
 <!-- End marketTypePriceZoneInclude.jsp -->
 </td>
@@ -1702,6 +1740,43 @@ ajaxAddToCartReady();
 cmSetClientID("90227392",true,"data.coremetrics.com","advanceautoparts.com"); 
 </script> 
 <script language="javascript1.1" type="text/javascript">
+var dp = {};
+var mt ='';
+var testreferrer = document.referrer;
+if(mt != '')
+{
+dp.marketing_touch = mt;
+}else{
+var url1=document.location.href;
+var exists = url1.indexOf('utm_source');
+if (exists != -1){
+var urlpart = url1.substring( exists + 11);
+var index = urlpart.indexOf('&');
+if(index != -1){
+var utm_source = urlpart.substring(0,index);
+dp.marketing_touch = utm_source;
+}
+}
+}
+dp.site_type = 'Desktop';
+dp.customer_status = 'anonymous';
+var spLNDuringRegtest = '';
+dp.customer_id = '-1002';
+if (j.cookie('PREFSTORE') != null ) {
+dp.primary_store_number = j.cookie('PREFSTORE');
+}else{
+dp.primary_store_number = '';
+}
+if (j.cookie('ZIPCODE') != null ) {
+dp.zip = j.cookie('ZIPCODE');
+}else{
+dp.zip = '';
+}
+if (j.cookie('REFERRER') != null ) {
+var referrer = j.cookie('REFERRER');
+dp.referrer = unescape(referrer);
+}
+var cmEnable = '1';
 var cmSeparator = "-_-";
 var cmPageType_prod = 'PRODUCT:';
 var cmPageType_cat = 'CATEGORY:';
@@ -1728,11 +1803,18 @@ srchEvtAttr[i] = '';
 ecomEvtAttr[i] = '';
 }
 var tempMeta = jsVehicleMeta[0];
+var tempEngine = '';
+if (typeof jsVehicleEngine != "undefined")
+{
+tempEngine = jsVehicleEngine[0];
+}
+var garageEngine = '';
 if (tempMeta != null) {
 if (tempMeta.indexOf('OR') > -1) {
 var vehicleMeta = tempMeta.split('+OR+');
 var tempDesc = jsVehicleDesc[0];
 var vehicleDesc = tempDesc.split('+OR+');
+var vehicleEngArray = tempEngine.split('+OR+');
 pageViewAttr[0] = '';
 pageViewAttr[1] = '';
 pageViewAttr[2] = '';
@@ -1756,6 +1838,13 @@ pageViewAttr[2] += ymm[2];
 pageViewAttr[3] += engine;
 }
 }
+for (var i = 0; i < vehicleEngArray.length; i++) {
+if (i != (vehicleEngArray.length - 1)) {
+garageEngine += vehicleEngArray[i] + '|';
+} else {
+garageEngine += vehicleEngArray[i];
+}
+}
 } else {
 var ymm = tempMeta.split('|');
 var vehicleDesc = jsVehicleDesc[0];
@@ -1768,7 +1857,15 @@ pageViewAttr[0] = ymm[0];
 pageViewAttr[1] = ymm[1];
 pageViewAttr[2] = ymm[2];
 pageViewAttr[3] = engine;
+if (typeof jsVehicleEngine != "undefined")
+{
+garageEngine = jsVehicleEngine[0];
+}	
 }
+dp.auto_year = pageViewAttr[0] ;
+dp.auto_make = pageViewAttr[1] ;
+dp.auto_model = pageViewAttr[2] ;
+dp.auto_engine = garageEngine ;
 }
 var priceZone = "";
 var validZone = validateInput(getAAPPriceZoneCookieRegex(), '1020');
@@ -1811,11 +1908,19 @@ cmExtraParms += pageViewAttr[i] + cmSeparator;
 cmExtraParms += pageViewAttr[14];
 cmSetupNormalization("krypto-_-krypto","langId-_-langId,catalogId-_-catalogId,storeId-_-storeId",null);
 document.cookie = "AAP_CORM_ZONE_EVT=Y; path=/";
+dp.sc_error = pageViewAttr[7];
 </script>
 <script language="javascript1.1" type="text/javascript">
 <!--
 var pageID = 'CONTENT: privacypolicy'; 
 cmCreatePageviewTag("CONTENT: privacypolicy","-10011",null,null,"10151",cmExtraParms); 
+var viewData = {};
+if(typeof dp != 'undefined')
+{
+viewData = dp;
+}
+viewData.page_type="CONTENT:";
+viewData.page_name = "privacypolicy";
 //-->
 </script>
 <!-- End Coremetrics Impl -->
@@ -1839,14 +1944,14 @@ font-weight: bold;
 }
 #hp_espot3_box2, #hp_espot3_box3, #hp_espot3_box4 {margin-left: 2px!important;}
 /** background changes **/
-#hp_espot3_box1.repair {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -1px transparent; cursor:pointer;}
+#hp_espot3_box1.repair {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-dec-2015.jpg") no-repeat scroll 0 -1px transparent; cursor:pointer;}
 #hp_espot3_box1.repair #hp_espot3_box2_right {margin-left:66px;}
-#hp_espot3_box2.battery {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -80px transparent; cursor:pointer;}
-#hp_espot3_box3.store {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -150px transparent; cursor:pointer;}
+#hp_espot3_box2.battery {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-dec-2015.jpg") no-repeat scroll 0 -80px transparent; cursor:pointer;}
+#hp_espot3_box3.store {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-dec-2015.jpg") no-repeat scroll 0 -150px transparent; cursor:pointer;}
 #hp_espot3_box3 #hp_espot3_box2_right {margin-left:84px;}
-#hp_espot3_box4.pickup {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -230px transparent; cursor:pointer;}
+#hp_espot3_box4.pickup {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-dec-2015.jpg") no-repeat scroll 0 -230px transparent; cursor:pointer;}
 #hp_espot3_box4.pickup #hp_espot3_box2_right {margin-left:84px;}
-#hp_espot3_box5.flyer {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 2px -308px transparent; cursor:pointer;}
+#hp_espot3_box5.flyer {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-dec-2015.jpg") no-repeat scroll 2px -308px transparent; cursor:pointer;}
 #hp_espot3_box5.flyer #hp_espot3_box2_right {margin-left:66px; overflow:hidden;}	
 #hp_espot3_box4 {cursor:pointer;}
 #footer p {line-height:16px;}
@@ -1890,7 +1995,7 @@ font-weight: bold;
 <!--Box 5 start-->
 <a id="hp_espot3_box5" class="flyer" name="Browse Our Latest Flyer|Footer|Text" href="/o/aap-flyer">
 <div id="hp_espot3_box5_right">
-<span class="h2">Shop our <br>June flyer</span><br> 
+<span class="h2">Shop our <br>December flyer</span><br> 
 <p class="link">View Flyer</p>
 </div>
 </a>
@@ -1901,7 +2006,7 @@ font-weight: bold;
 { "zone": "sitewide_sliver_footer", "reference_element":"#raf-sliver-footer" } 
 </script> 
 <div id="raf-sliver-footer" class="adThinBanner" style="margin-top:10px; text-align:center;"> 
-<a href="http://advanceautoparts.tellapal.com/o/1739824286" target="new"><img width="960" height="30" manual_cm_sp="Footer-_-Banner-_-RAF" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/raf_sliver.gif" alt="Refer a Friend to Advance Auto Parts"></a> 
+<a href="http://advanceautoparts.extole.com/micro/microsite?source=aap-footer" target="new"><img width="960" height="30" manual_cm_sp="Footer-_-Banner-_-RAF" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/raf_sliver.gif" alt="Refer a Friend to Advance Auto Parts"></a> 
 </div> 
 <!--AD 960 end-->
 <!-- End - ES_Global_Footer_Top -->
@@ -1968,7 +2073,6 @@ font-weight: bold;
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Investor" target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=130560&amp;p=irol-irhome">Investor Relations</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Privacy" target="_blank" href="/o/privacypolicy">Privacy Policy</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Privacy" target="_blank" href="/o/privacypolicy#caprivacyrights">Your California Privacy Rights</a></li>
-<li><a manual_cm_sp="Footer-_-Col3-_-Anthem+Breach" target="_blank" href="/o/anthem-security-breach-2015">Anthem Security Breach Information</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Terms" target="_blank" href="/o/termscond">Terms and Conditions</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Careers" target="_blank" href="http://www.advanceautoparts.jobs/">Career Opportunities</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Affiliate" target="_blank" href="/o/affiliates">Affiliate Program</a></li>
@@ -1985,7 +2089,7 @@ font-weight: bold;
 <div class="creditCardImgs">&nbsp;</div>
 <div id="d7dde302-e610-47e3-9c6c-30f50634b167">
 <a manual_cm_sp="Footer-_-Col4-_-Truste" target="_blank" title="TRUSTe online privacy certification" href="//privacy.truste.com/privacy-seal/E-Advance,-LLC/validation?rid=ef018d9f-aa72-457f-8c5e-640d899c54a2">
-<img width="86" height="27" alt="TRUSTe online privacy certification" src="//privacy-policy.truste.com/privacy-seal/E-Advance,-LLC/seal?rid=ef018d9f-aa72-457f-8c5e-640d899c54a2" style="border: none"></a>
+</a>
 </div>
 <script type="text/javascript">
 j(window).load(function() {
@@ -2019,7 +2123,7 @@ j('#d7dde302-e610-47e3-9c6c-30f50634b167 a').append('<img width="86" height="27"
 <!-- End - ES_Footer_Col1 -->
 <!-- END Cached-->	
 <!-- BEGIN NonCached-->	
-<div id="currZoneId" style="display:none">1020</div>
+<div id="currZoneId" style="display:none"></div>
 <script type="text/javascript">
 var isZPEnabled = 'true';
 var isZonePricingEnabled = false;
@@ -2027,11 +2131,11 @@ if(isZPEnabled != 'false'){
 isZonePricingEnabled = true;
 }
 var priceZone = "";
-var validZone = validateInput(getAAPPriceZoneCookieRegex(), '1020');
+var validZone = validateInput(getAAPPriceZoneCookieRegex(), '');
 if(!validZone){
 priceZone = invalidatePriceZoneCookie();
 }else{
-priceZone = "1020";
+priceZone = '';
 }
 j("#currZoneId").html(priceZone);	
 </script>
@@ -2115,17 +2219,6 @@ a.parentNode.insertBefore(d, a);
 <!-- End - ES_GlobalFooter_Bottom -->
 <!-- END Global Footer Bottom-->	
 </div>	
-<script type="text/javascript">
-var checkFitViewURL = '/web/CheckFitView?langId=-1&storeId=10151&catalogId=10051';
-var chooseVehicleViewURL = '/web/ChooseVehicleView?langId=-1&storeId=10151&catalogId=10051';
-var store_Id = '10151';
-var catalog_Id = '10051';
-var lang_Id = '-1';
-var product_Id = '';
-j(document).ready(function () {
-verifyYMME();
-});
-</script>	
 </div><!-- :footer -->
 <!-- END FooterDisplay.jspf -->
 </div>
