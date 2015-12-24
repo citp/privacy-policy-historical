@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatusersdo.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625032901id_/http%3A//www.whatusersdo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatusersdo.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224101422id_/http%3A//www.whatusersdo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | WhatUsersDo
 
@@ -61,7 +61,7 @@ We will retain your data data only as long as is necessary for the purposes to w
 
 ### Credit Card processing
 
-Payments by clients to whatusersdo Ltd are securely processed by Nochex Online Payment Services. You can read their privacy policy here: <http://nochex.com/privacy/>
+Payments by clients to WhatUsersDo Ltd are securely processed by Stripe Payments. You can read their privacy policy here: <https://stripe.com/gb/privacy>
 
 ### External Sites
 
