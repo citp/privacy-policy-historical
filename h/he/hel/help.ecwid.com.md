@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the help.ecwid.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225909id_/http%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.ecwid.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225000617id_/http%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy covers the information practices of our user interfaces, including our website Ecwid.com, that link to this Privacy Policy: [http://www.ecwid.com](http://www.ecwid.com/).
 
-**By  visiting [Ecwid.com](http://www.ecwid.com/) or our other user interfaces, you are accepting the practices described in this Privacy Policy.** This Privacy Policy operates in conjunction with our Terms of Service, and also our Channel Partner Agreement and Master Service Agreement, as applicable, which together constitute the entire agreement between you and Ecwid. Please review each of these documents to understand all of the terms and conditions of your agreement with us.
+ **By  visiting [Ecwid.com](http://www.ecwid.com/) or our other user interfaces, you are accepting the practices described in this Privacy Policy.** This Privacy Policy operates in conjunction with our Terms of Service, and also our Channel Partner Agreement and Master Service Agreement, as applicable, which together constitute the entire agreement between you and Ecwid. Please review each of these documents to understand all of the terms and conditions of your agreement with us.
 
 Ecwid.com may contain links to third-party websites. Ecwid is not responsible for the information practices or the content of such third-party websites. We encourage you to review the privacy policies of third-party websites to understand their information practices.
-
-## Safe Harbor
-
-Ecwid complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ecwid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
 
 ## Notice
 
@@ -38,7 +34,7 @@ We do not store the following information in the regular course of our bus
 
 ## Do Not Track
 
-Ecwid does not support Do Not Track technology. 
+Ecwid does not support Do Not Track technology.
 
 ## Our Use of Your Information
 
@@ -138,12 +134,6 @@ We may delete personal information when we no longer need it for the purpo
 ## Security
 
 To prevent unauthorized access, promote data security, and encourage appropriate use of information, we use a variety of tools, such as encryption technologies, passwords, physical and electronic security, or procedural safeguards to assist in the protection of your information. No security on the Internet is absolute, however, so we are unable to guarantee the security of any information that you share with us.
-
-## Enforcement
-
-Ecwid uses a self-assessment approach to ensure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the Principles.
-
-Ecwid has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Ecwid, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Changes to This Privacy Policy
 
