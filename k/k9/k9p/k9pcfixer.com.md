@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k9pcfixer.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624090145id_/http%3A//k9pcfixer.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9pcfixer.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171403id_/http%3A//k9pcfixer.com/privacypolicy) for the most accurate reproduction.*
 
 # K9-PCFixer - Privacy Policy
 
