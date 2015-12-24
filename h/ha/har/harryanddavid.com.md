@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208044020id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224142010id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy
 
 ## Privacy Policy
 
-Effective: September 12, 2013
+Effective: December 30, 2013
 
 Harry & David and all of our brands recognize that your privacy is important to you and are committed to maintaining and using your information responsibly. Our privacy policy describes the information we collect and how we use it. 
 
@@ -55,7 +55,7 @@ Attn: Internet Services Department
 PO Box 9100  
 Medford, OR 97501-0700 
 
-Our toll-free customer service lines are available 24 hours a day, seven days a week (subject to change). 
+Our toll-free customer service lines are available twenty-four hours a day, seven days a week (subject to change). 
 
 By providing personal information through this Website you explicitly agree to our collection and use of all such information as described in this privacy policy. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. This may involve sharing certain information with affiliated companies or third parties. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Policy. You further agree that the information you provide is current, accurate and complete and that you will update it if there are any changes. 
 
