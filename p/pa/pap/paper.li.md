@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122232id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234734id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-When you use Paper.li and/or its affiliated applications (such as but not limited to Juice or Newsrooms), all together defined as the « Paper.li Service » (or « Paper.li », « Services » or « Service »), you provide Paper.li and SmallRivers with personally identifiable information (Your Paper.li Information). This Policy explains the information practices that apply to your Paper.li Information. This Policy does not apply to information collected by third party Web sites linked to or otherwise accessible from Paper.li. The information collected or received by third party services is subject to their own privacy policies.
+When you use Paper.li and/or its affiliated applications (such as but not limited to Juice by Paper.li or Track by Paper.li), all together defined as the « Paper.li Service » (or « Paper.li », « Services » or « Service »), you provide Paper.li and SmallRivers with personally identifiable information (Your Paper.li Information). This Policy explains the information practices that apply to your Paper.li Information. This Policy does not apply to information collected by third party Web sites linked to or otherwise accessible from Paper.li. The information collected or received by third party services is subject to their own privacy policies.
 
 ## What information do we collect and store?
 
 Globally, we collect and store the pertinent data needed to run the Paper.li Service. We may gather and process information about you, including (but not limited to) information in the following categories:
 
-  * For Paper.li or Paper.li apps registered users (Paper.li Members): Identification data you provided us or the third party service you are using to log in to Paper.li (e.g. for Twitter: user name, location, user info, etc.);
+  * For Paper.li or Juice by Paper.li or Track by Paper.li registered users and subscribers (Paper.li Members): Identification data you provided us or the third party service you are using to log in to Paper.li (e.g. for Twitter: user name, location, user info, etc.);
 
   * For Paper.li readers (unregistered): Electronic identification data (addresses IP);
 
@@ -18,14 +18,35 @@ Globally, we collect and store the pertinent data needed to run the Paper.li Ser
 
   * Survey result and usage information;
 
-  * Traffic data (data processed for the purpose of the conveyance of Paper.li or the billing thereof, including, but not limited to, the number of views, location of viewers, user sharing actions, user interactions with the Twitter service if performed directly on Paper.li pages, etc.).
+  * Traffic data (data processed for the purpose of the conveyance of Paper.li or the billing thereof, including, but not limited to, the number of views, location of viewers, user sharing actions, user interactions with the Twitter service if performed directly on Paper.li pages, clicks on links included in emails, etc.).
 
 
 
 
-**_Cookies_** : Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services. Examples of advertisement services we may be using are Google Adwords, Facebook or Criteo.
+**_Cookies_** : Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services.
 
-Most Internet browsers automatically accept cookies. **You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.**
+We are also using 3rd party cookies. Examples of services we may be using are
+
+  * Google Analytics ([Opt out](https://tools.google.com/dlpage/gaoptout?hl=en))
+
+  * Google Adwords & Adsense ([Opt out](https://www.google.com/settings/u/0/ads?sig=ACi0TCiKv0pyMLJIr00kQGPkoOIrxs8juz-g714YMZ8MRIixOZSo3bRb8e4uLnYPtdJq-cmYv_7T-enp91qJxH5_r1DROECRFNlBntaQ8MVetM9b48EonzUWHNr2CaxFnK-Jfa4De6AjRUEE5oBkRXYh1j2L39DsPF0EY1eDEbqN2Pht0_BGrS0&hl=en))
+
+  * Facebook ([Opt out](https://www.facebook.com/help/568137493302217))
+
+  * Criteo ([Deactivate](http://www.criteo.com/deactivate-criteo-banners/))
+
+  * Addthis ([Learn more](http://www.addthis.com/privacy/privacy-policy#publisher-visitors))
+
+  * Twitter ([Learn more](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies))
+
+
+
+
+You can also deactivate specific 3rd party cookies through the following page managed by the EDAA (European Interactive Digital Advertising Alliance): [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
+
+Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
+
+You can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to manage and remove cookies across a number of different internet browsers.
 
 ## How do we use this information and for what purpose?
 
@@ -54,21 +75,21 @@ Your information may be stored and processed in any country in which SmallRivers
 
 **Specific information about Email addresses:**
 
-**Paper.li Members (registered with Paper.li):** SmallRivers uses your email address to contact you with Paper.li service updates, marketing and promotional material and newsletter alerts to the Service to which you are volontarly subscribed.
-
-If you no longer wish to receive company communication from us, you can unsubscribe to these notifications anytime via the footer of the email or by updating your 'preferences' information under your account settings.
+**For Paper.li Members (registered with Paper.li), with the exception of the users of the service Track by Paper.li:** SmallRivers uses your email address to contact you with Paper.li service updates, marketing and promotional material and newsletter alerts to the Service to which you are voluntarily subscribed.
 
 If you no longer wish to receive newsletter alerts for a specific Paper.li paper or any other Paper.li Services to which you are subscribed, you can unsubscribe at any time via the footer of the email alert.
 
-**Non-Paper.li Members (not registered with Paper.li):** SmallRivers uses your email address you have volontarly provided - and confirmed - to inform you when there is a new edition of the Paper.li paper to which you are subscribed.
+**For the users of the service Track by Paper.li:** SmallRivers uses your email address to send you the content collected as per your specifications. Should you want to unsubscribe please refer to your service cancellation rights as defined in your specific service agreement. SmallRivers may also use your email address to contact you with Paper.li service updates, marketing and promotional material. For these emails, you can unsubscribe any time via the footer of the email.
+
+**Non-Paper.li Members (not registered with Paper.li):** SmallRivers uses your email address you have voluntarily provided - and confirmed - to inform you when there is a new edition of the Paper.li paper to which you are subscribed.
 
 If you no longer wish to receive these email notifications, you can unsubscribe at anytime via the footer of the email notification and your email address will be removed.
 
 **Transmission of email address to Paper.li Pro publishers:**
 
-The email address of both Paper.li Members and non Paper.li Members are transmitted to the publishers of PRO newspapers at the time a publisher upgrades his/her account to the Paper.li Pro service.
+The email address of both Paper.li Members and non Paper.li Members, with the exception of email addresses of the users of the service Track by Paper.li, are transmitted to the publishers of PRO newspapers at the time a publisher upgrades his/her account to the Paper.li Pro service.
 
-If you decide you no longer wish to receive email notifications to a paper you have subscribed to, you can unsubscribe at anytime via the footer of the email and your email address will be removed from the publisher's email list for that paper.
+If you decide to no longer receive email notifications to a paper you have subscribed to, you can unsubscribe at anytime via the footer of the email and your email address will be removed from the publisher's email list for that paper.
 
 ## How do we protect your personal information?
 
