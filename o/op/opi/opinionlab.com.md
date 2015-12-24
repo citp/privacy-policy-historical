@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617030344id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005127id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy – OpinionLab – Omnichannel Digital Feedback Management – Voice of Customer Feedback Anytime, Anywhere ™
+# privacy policy – OpinionLab
 
 This website is operated by us, OpinionLab Inc., a corporation organized and existing under the laws of the State of Delaware. Our principal place of business is at 549 West Randolph Street, Suite 401, Chicago, IL 60661.
 
