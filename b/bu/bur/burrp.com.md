@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the burrp.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225339id_/http%3A//www.burrp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burrp.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225000001id_/http%3A//www.burrp.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Burrp
-
-  
-
-
-## Privacy Statement
+# Mumbai Restaurants, Bars, Pubs, Cafes, Lounges, Food & Nightlife - Burrp
 
 Burrp! is an online application that helps people entertainment listings and local services they can trust by accessing information, soliciting and aggregating reviews. To accomplish this, our users add listings and write reviews about entertainment listings and local services that are posted to the Burrp Site. These listings and reviews can then be accessed and read by other Burrp! users. For the purposes of this Privacy Policy, a "user" is defined as someone using the Burrp! Site, and a "friend" is defined as someone you have explicitly invited to share reviews with you. To fulfill the purpose of our site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular review. By using Burrp!, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy.
 
@@ -47,4 +42,6 @@ This website is not directed to children, and Burrp! does not knowingly solicit 
 
 By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. Burrp! may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. 
 
-11\. Contacting the Web Site If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: Network18 Media & Investments Limited, 5th Floor, Tower 1C, One Indiabulls Centre, Balasheth Mandurkar Marg, Saidham Nagar, Parel Mumbai, Maharashtra 400012, India. 
+11\. Contacting the Web Site 
+
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: Network18 Media & Investments Limited, 5th Floor, Tower 1C, One Indiabulls Centre, Balasheth Mandurkar Marg, Saidham Nagar, Parel Mumbai, Maharashtra 400012, India. 
