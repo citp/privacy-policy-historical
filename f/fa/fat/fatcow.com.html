@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fatcow.com privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619071104id_/http%3A//www.fatcow.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fatcow.com privacy policy that was archived on 2015-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224235445id_/http%3A//www.fatcow.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xml:lang="en-US" class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -17,7 +17,50 @@
 <!--[if lte IE 8]>
 			 	<style>body#stylesheet1,body#popup,#popup #doc3 {font-family: Arial, Helvetica, sans-serif;}</style> 
 			 <![endif]-->
-<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.fatcow.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -69,7 +112,11 @@ var monetateT = new Date().getTime();
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -85,19 +132,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 <div id="hd" class="master_header">
 <div id="nav"><h1><a href="/">FatCow Web Hosting &amp; Domain Names</a></h1></div>
-<div id="domain-search" class="hd-domain-search" style="display:none;"><form action="/register/registration.bml" method="GET"><input type="hidden" name="__token_timestamp__" value="1434697864"><input type="hidden" name="__token_val__" value="2d596a202b23f4155da27adfa435c753"><fieldset>
+<div id="domain-search" class="hd-domain-search" style="display:none;"><form action="/register/registration.bml" method="GET"><input type="hidden" name="__token_timestamp__" value="1451001286"><input type="hidden" name="__token_val__" value="1b812eed366da27dd390ad5bdef59fed"><fieldset>
 <input type="hidden" name="flowid" value="21"><input type="hidden" name="page" value="1"><input type="hidden" name="affiliate_id" value=""><input type="hidden" name="from" value="lookup"><input type="hidden" name="masterin" value=""><input type="hidden" name="promos" value=""><input type="text" id="DomainName" name="dom_lookup" value="" placeholder="Find your unique domain name" class="inputfix dname idleField"><button class="go"></button>
 </fieldset></form></div>
 <div id="contact_info">
 <div class="ph">
 								Call Anytime <span class="ph-number">1-888-278-9780</span> or
 							</div>
-<span class="live-chat"><a href="http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Live Chat</a></span>
+<span class="live-chat"><a class="gtm_chat" href="#chat">Live Chat</a></span>
 </div>
 <div id="login"><div class="login-links">
 <a href="/controlpanel/">Control Panel</a> | <a href="/mail/">WebMail</a>
 </div></div>
-<form id="country" name="pick"><input type="hidden" name="__token_timestamp__" value="1434697864"><input type="hidden" name="__token_val__" value="2d596a202b23f4155da27adfa435c753">
+<form id="country" name="pick"><input type="hidden" name="__token_timestamp__" value="1451001286"><input type="hidden" name="__token_val__" value="1b812eed366da27dd390ad5bdef59fed">
 <img style="margin-right: 0px;float: left" src="http://images.fatcow.com/icons/CountryFlags/USD-flag.gif"><div class="styled-select"><select name="country" id="countrySelect" onchange="putCookie();"><option value="USD">United States</option>
 <option value="GBP">United Kingdom</option>
 <option value="CAD">Canada</option>
@@ -147,7 +194,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul></div>
 <div id="bd">
 <div id="navcomponent" class="yui-b"><div id="nav_wrapper">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
@@ -515,10 +561,10 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <div class="ft-bottom">
 <p class="copyright" style="">© Copyright <script type="text/javascript"> document.write(new Date().getFullYear()) </script>2020 FatCow Web Hosting. All rights reserved. &nbsp;&nbsp;&nbsp; <a href="/legal/">Terms of Service</a> | <a href="/legal/legal_privacy.bml">Privacy</a> | <a href="/support/sitemap.bml">Sitemap</a></p>
 <ul class="social">
-<li class="facebook"><a class="icon" target="_blank" rel="nofollow" href="http://www.facebook.com/FatCow">Facebook</a></li>
-<li class="twitter"><a class="icon" target="_blank" rel="nofollow" href="http://twitter.com/fatcow">Twitter</a></li>
-<li class="blog"><a class="icon" target="_blank" href="http://blog.fatcow.com/">Blog</a></li>
-<li class="googleplus"><a class="icon" href="https://plus.google.com/101826539018374982925?prsrc=3" style="text-decoration: none;">Google+</a></li>
+<li class="facebook"><a class="icon gtm_social" target="_blank" rel="nofollow" data-gtm-name="facebook" href="http://www.facebook.com/FatCow">Facebook</a></li>
+<li class="twitter"><a class="icon gtm_social" target="_blank" rel="nofollow" data-gtm-name="twitter" href="http://twitter.com/fatcow">Twitter</a></li>
+<li class="blog"><a class="icon gtm_social" target="_blank" data-gtm-name="blog" href="http://blog.fatcow.com/">Blog</a></li>
+<li class="googleplus"><a class="icon gtm_social" data-gtm-name="google+" href="https://plus.google.com/101826539018374982925?prsrc=3" style="text-decoration: none;">Google+</a></li>
 </ul>
 </div>
 <div class="windmill">
