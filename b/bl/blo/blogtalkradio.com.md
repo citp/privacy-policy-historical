@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtalkradio.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421103318id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtalkradio.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005316id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.*
 
 # Blogtalkradio Terms of Use and Privacy Policy
 
@@ -133,7 +133,9 @@ If you need to write to us, use this address: BlogTalkRadio, Inc., 1072 Madison 
 
 ##### 12\. Responsible Disclosures
 
-If you need to report unlawful conduct, including copyright or intellectual property infringement, please [click here](https://web.archive.org/contactus.aspx). 
+If you need to report unlawful conduct, including copyright or intellectual property infringement, please email us at [ legal@BlogTalkRadio.com](mailto:legal@BlogTalkRadio.com).
+
+. 
 
 ##### 13\. Lawyer Stuff (which must be read CAREFULLY) 
 
@@ -188,13 +190,13 @@ We are not liable if something goes really wrong. Always have a backup of your c
 
 ## Online Privacy and Security Statement
 
-### Effective Date: March 10th, 2014
+### Effective Date: April 22, 2015
 
 [ ](https://privacy.truste.com/privacy-seal/BlogTalkRadio-Inc-/validation?rid=2cfaa686-d495-46a3-9a21-9bc2ca61ed57 "TRUSTe online privacy certification")
 
-BlogTalkRadio Inc. is committed to protecting the privacy of individuals that interact with our websites. This policy discloses the Company's practices governing the gathering and use of information submitted to the Company through [www.blogtalkradio.com](https://web.archive.org/web/20150421103318id_/http%3A//) (“Site”) which is owned and operated by BlogTalkRadio Inc. (“BlogTalkRadio”). Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, to the extent permitted hereunder, shall be considered a "User" under this privacy policy. All Users are bound by the terms of this privacy policy. This privacy policy does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from this site.
+BlogTalkRadio Inc. is committed to protecting the privacy of individuals that interact with our websites. This policy discloses the Company's practices governing the gathering and use of information submitted to the Company through [www.blogtalkradio.com](http://www.blogtalkradio.com/) (“Site”) which is owned and operated by BlogTalkRadio Inc. (“BlogTalkRadio”). Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, to the extent permitted hereunder, shall be considered a "User" under this privacy policy. All Users are bound by the terms of this privacy policy. This privacy policy does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from this site.
 
-BlogTalkRadio Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@blogtalkradio.com](..:..:..:AppData:Local:Microsoft:Windows:Temporary%20Internet%20Files:Content.Outlook:Local%20Settings:Temporary%20Internet%20Files:Content.Outlook:JVCBD6EN:privacy@blogtalkradio.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site.
+BlogTalkRadio Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site. The TRUSTe program covers only information that is collected through this Web site: [www.blogtalkradio.com](http://www.blogtalkradio.com/). 
 
 ##### 1\. General
 
@@ -204,9 +206,9 @@ BlogTalkRadio respects the privacy of every individual who visits our Web sites,
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute .
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission, and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute.
 
-If you have any questions about security on our Web site, you can send email us at privacy@blogtalkradio.com
+If you have any questions about security on our Web site, you can send email us at [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com).
 
 ##### 3\. Personally-Identifiable Information
 
@@ -214,7 +216,7 @@ BlogTalkRadio will not collect any personally-identifiable information about you
 
 The following are some examples of when BlogTalkRadio may require that you provide personally identifiable information:
 
-To regeiter for an account or complete an online order for a service (if you do not wish to complete an online order form, we will always provide an option for you to complete an order by calling a toll free phone number).
+To register for an account or complete an online order for a service (if you do not wish to complete an online order form, we will always provide an option for you to complete an order by calling a toll free phone number).
 
 To enter an online contest or sweepstakes (if you do not wish to complete an online contest or sweepstakes form, we will always provide an option for you to enter by mailing a 3 x 5 card to a specific address) or to conduct surveys.
 
@@ -230,7 +232,7 @@ We may use that information to contact you with new promotions and announcements
 
 We may contact you if we have questions about your account.
 
-BlogTalkRadio will not sell, share or rent personally identifiable information to third parties, unless we tell you we are going to do so at the time we collect your personally identifiable information. We are committed to giving you the choice of whether or not we use your information for marketing purposes.
+BlogTalkRadio will share your personal information with third parties only in the ways that are described in this privacy policy. BlogTalkRadio will not sell, share or rent personally identifiable information to third parties, unless we tell you we are going to do so at the time we collect your personally identifiable information. We are committed to giving you the choice of whether or not we use your information for marketing purposes.
 
 ##### 4\. Children
 
@@ -242,9 +244,11 @@ In some cases, we may collect information about you that is not personally ident
 
 Similar to personally-identifiable information, we will not sell non-personally-identifiable information to third parties other than our business partners, unless we tell you we are going to do so at the time we collect the information.
 
-##### 6\. Use of Cookies
+##### 6\. Use of Cookies and other Tracking Technologies
 
 When you view one of our Web sites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will be used to determine ways to improve our Web sites, advertisements, products or services. We do link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. For example, Cookies allow us to tailor a Web site to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. If you reject cookies, you may still use our site, but your ability to use some areas of our site, will be limited.
+
+Technologies such as: cookies, beacons, tags and scripts are used by BlogTalkRadio and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers  [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies, for example, to allow our partners to tailor Advertising to better match your interests and preferences.
 
@@ -256,9 +260,11 @@ We employ and our third party advertising partner employ a software technology c
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
+We use Local Storage Objects (LSOs) such as Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
 ##### 9\. Declining E-mail Offers
 
-As outlined in Section 3 of this Statement, we will only send email promotions or announcements to you if you have previously provided your permission for us to do so. Although many customers tell us they appreciate receiving notice of these carefully designed promotions and announcements, we recognize the importance of providing you with choices. At any time, you may remove your name from our e-mail list by contacting us at our e-mail address privacy@BlogTalkRadio.com. All e-mail offers that you receive from BlogTalkRadio will inform you of how to decline receiving further email offers.
+As outlined in Section 3 of this Statement, we will only send email promotions or announcements to you if you have previously provided your permission for us to do so. Although many customers tell us they appreciate receiving notice of these carefully designed promotions and announcements, we recognize the importance of providing you with choices. At any time, you may remove your name from our e-mail list by contacting us at our e-mail address [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com). All e-mail offers that you receive from BlogTalkRadio will inform you of how to decline receiving further email offers.
 
 ##### 10\. Collection of Third Party Information
 
@@ -266,7 +272,7 @@ If you choose to use our referral service to promote your shows via email, we wi
 
 If you choose to request that your show be featured on our site we will ask for the name, phone number, and email address of your guests. BlogTalkRadio stores the information for you to be able to dial your guest and bring them onto a show.
 
-If you wish to no longer have your personal information used by our site, you may request to have it deleted by contacting us at privacy@blogtalkradio.com.
+If you wish to no longer have your personal information used by our site, you may request to have it deleted by contacting us at [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com).
 
 ##### 11\. Third Party Service Providers
 
@@ -306,7 +312,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ##### 17\. Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your testimonial removed you my contact us at privacy@BlogTalkRadio.com.
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your testimonial removed you my contact us at [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com).
 
 ##### 18\. Public Forums
 
@@ -314,22 +320,18 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 ##### 19\. Public Directory
 
-If you register as a host, we will list you in our publicly accessible member directory.  If you do not want to be listed in our directory you may choose to register only as a listener, or you may delete your account at any time by contacting us at privacy@BlogTalkRadio.com.
+If you register as a host, we will list you in our publicly accessible member directory.  If you do not want to be listed in our directory you may choose to register only as a listener, or you may delete your account at any time by contacting us at [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com).
 
 ##### 20\. Revisions to this Policy
 
-As the Company grows and new features are added, or legal requirements change, this Privacy Policy may be modified. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.All information submitted through the Web site is subject to the terms and conditions of this Privacy Policy, as amended from time to time.
+As the Company grows and new features are added, or legal requirements change, this Privacy Policy may be modified. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. All information submitted through the Web site is subject to the terms and conditions of this Privacy Policy, as amended from time to time.
 
 ##### 21\. Third Parties
 
 The Site contains links to web sites of third parties. Blogtalkradio is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information. (Publisher) adheres to industry recognized standards to secure any personal information in our possession, and to secure it from unauthorized access and tampering. However, as is true with all online actions, it is possible that third parties may unlawfully intercept transmissions of personal information, or other users of the Site may misuse or abuse your personal information that they may collect from the Site.
 
-Blogtalkradio uses third-party advertising companies to serve our ads on the Site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.
-
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click [here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site.
-
-This site will also allow you to review the third-party advertising companies' privacy policies.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 ##### 22\. Contact Us
 
-If you have any questions or concerns regarding this privacy policy your may contact us at privacy@BlogTalkRadio.com or Blogtalkradio Inc. 1072 Madison Ave Lakewood NJ 08701.physical address.
+If you have any questions or concerns regarding this privacy policy your may contact us at privacy@BlogTalkRadio.com or Blogtalkradio Inc. 1072 Madison Ave Lakewood NJ 08701.
