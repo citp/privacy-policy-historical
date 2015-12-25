@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150017id_/http%3A//www.taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225090502id_/http%3A//www.taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Taylor Swift
 
@@ -95,6 +95,4 @@ We comply with the United States privacy laws and regulations. We do not represe
 If you have any questions about either this Policy or our privacy practices, please contact us by e-mail at [privacy@taylorswift.com](mailto:privacy@taylorswift.com), or by mail at:
 
 Taylor Nation, LLC  
-718 Thompson Lane  
-Suite 108256  
-Nashville, TN 37204
+242 West Main St. Hendersonville, TN 37075
