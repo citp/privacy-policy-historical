@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bang.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230113921id_/http%3A//www.videosz.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bang.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225170053id_/http%3A//www.videosz.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from VideosZ
 
