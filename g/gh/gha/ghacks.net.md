@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091348id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191251id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gHacks Technology News
 
@@ -16,14 +16,6 @@ You can send email requesting help and your email will NOT be shared in any way 
 Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can remove them at any time using your browser tools.
 
 If you have any questions or concerns regarding this matter, please feel free to [contact us](http://www.ghacks.net/contact/).
-
-**Ghacks Gold**
-
-Ghacks Gold is our membership program. We use several payment processors for this, and those payment processors may provide us with information about users who sign up for the service.
-
-Information provided, such as a user's email address or name, are only used to create an account on the site for said user, and to inform the user about the account creation.
-
-The data is not sold, transferred, traded, or made available in any other form to third parties.
 
 **Third Party Advertising:**
 
