@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624011844id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225224209id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
@@ -7,8 +7,6 @@
   * [Client's Profile](https://secure.liteforex.com/en/)
   * 
 
-
-[](http://www.liteforex.com/company/awards/100-world-finance/)
 
 LiteForex respects each individual's right to privacy
 
