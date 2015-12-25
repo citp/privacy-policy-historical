@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626105813id_/http%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191519id_/http%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
 
 # International Business Times India ::: Privacy & Policy
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy describes how International Business Times, Inc. ("IBTimes," "us" or "we"), will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data").
 
-This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of International Business Times (www.ibtimes.com) and related services or sites that link to this Privacy Policy.
+This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of International Business Times (www.ibtimes.co.in) and related services or sites that link to this Privacy Policy.
 
 From time to time International Business Times may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
 
@@ -87,6 +87,10 @@ To opt out of receiving marketing from International Business Times Online, if y
 ### ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII
 
 You may review and update the personally identifiable information that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
+
+###  PLEASE ALSO VISIT THE BELOW MENTIONED GOOGLE WEB PAGE
+
+[How Google uses data when you use our partners' sites or apps](http://www.google.com/intl/en/policies/privacy/partners/)
 
 Subscribers to International Business Times Online  
 may contact Customer Service at [info@ibtimes.co.in](mailto:info@ibtimes.co.in) Most subscribers to International Business Times Online may also update their information by going to Member Center. 
