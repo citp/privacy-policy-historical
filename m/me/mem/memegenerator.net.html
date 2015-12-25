@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the memegenerator.net privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231184639id_/http%3A//memegenerator.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memegenerator.net privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225074155id_/http%3A//memegenerator.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><head>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
     <title>Privacy Policy | Meme Generator</title>
 
@@ -32,41 +32,27 @@
 
 <link href="/Content/themes/base/all.css" rel="stylesheet" type="text/css">
 
-    <link href="/Content/Cached/styles.css?u=e" rel="stylesheet" type="text/css">
+    <link href="/Content/Cached/styles.css?u=h" rel="stylesheet" type="text/css">
 
 <link href="/Scripts/jQuery/Plugins/Gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css">
 <link href="/Scripts/jQuery/Plugins/Autocomplete/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
 
 
-    <script type="text/javascript" src="/Content/Cached/scripts.js?u=e"></script><link id="/Scripts/jQuery/Plugins/ImagePicker/imagePicker.css" rel="stylesheet" type="text/css" href="/Scripts/jQuery/Plugins/ImagePicker/imagePicker.css" media="all">
+    <script type="text/javascript" src="/Content/Cached/scripts.js?u=h"></script><link id="/Scripts/jQuery/Plugins/ImagePicker/imagePicker.css" rel="stylesheet" type="text/css" href="/Scripts/jQuery/Plugins/ImagePicker/imagePicker.css" media="all">
+
+<script src="/signalr/hubs"></script>
+
 
 
 
 
 <script type="text/javascript">
-    var UserHostAddress = '207.241.226.165';
+    var UserHostAddress = '207.241.229.83';
     var Urls = {
         ImageStoreWebServiceHost: 'http://images.memegenerator.net'
     };
 </script>
 
-<script type="text/javascript">
-    $(function () {
-        $('.tab_menu input[type=search]').autocomplete('/Generator/Json_Search', {
-            width: $('.tab_menu .search').width(),
-            max: 6,
-            highlight: false,
-            scroll: true,
-            scrollHeight: 300,
-            formatItem: function (data, i, n, value) {
-                return '<a class="generator_picker" href="#" onclick="window.location.href = (\'/{2}\');"><img class="left" src="http://images.memegenerator.net/images/40x40/{0}.jpg" style="margin-right: 5px;" /> <strong>{1}<strong></a>'.format(value.split(";")[1], value.split(";")[2], escape(value.split(";")[3]));
-            },
-            formatResult: function (data, value) {
-                return value.split(";")[2];
-            }
-        });
-    });
-</script>
 
 <meta name="cpalead-verification" content="Y1xqXxl-0JhlgmjF7BfHrqOX7cg5kHDC1Zi8ugJacEa">
 
@@ -173,6 +159,22 @@
             }
         });
     </script>
+
+
+    <script>
+        $(function () {
+            $('.search input[type=search]')
+                .on('focus', function () {
+                    $('.recently-captioned').slideDown();
+                })
+                .on('blur', function () {
+                    window.setTimeout(function () {
+                        $('.recently-captioned').slideUp();
+                    }, 20);
+                })
+            ;
+        });
+    </script>
 </head>
 <body class="color_back">
     <div class="header">
@@ -203,6 +205,7 @@
                         </div>
                     </div>
                 </li>
+                <li><a href="/forum" style="color: LightGreen; font-weight: bold;">Forum</a></li>
                 <li><a href="//blog.memegenerator.net">Blog</a></li>
                 
                 <li>
@@ -220,7 +223,7 @@
     <hr>
 
     <h5>Login to Meme Generator</h5>
-<form action="/MgUser/Login" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form0" method="post" novalidate="novalidate">        <div class="none">
+<form action="/MgUser/Login" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form0" method="post">        <div class="none">
             <input id="facebookUID" name="facebookUID" type="text" value="">
             <input id="facebookUsername" name="facebookUsername" type="text" value="">
         </div>
@@ -264,14 +267,14 @@
     <a href="#" style="color: #bbb;" onclick="$('form.logout_form').trigger('submit'); return false;">[ logout ]</a>
 
     <div class="none">
-<form action="/MgUser/Logout" class="logout_form" method="post" novalidate="novalidate">            <input class="logout_submit_button" type="submit">
+<form action="/MgUser/Logout" class="logout_form" method="post">            <input class="logout_submit_button" type="submit">
 </form>    </div>
 </div>
 
 </div>
 
 <div id="user_signup" class="none">
-    <form action="/MgUser/Signup" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form1" method="post" novalidate="novalidate">    <h3>Sign up to Meme Generator</h3>
+    <form action="/MgUser/Signup" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form1" method="post">    <h3>Sign up to Meme Generator</h3>
     <table cellpadding="0" cellspacing="0" style="width: 100%;">
         <tbody><tr>
             <td>Email:</td>
@@ -304,7 +307,7 @@
     Your password will be reset and an email will be sent to you with your new password.
 </p>
 
-<form action="/MgUser/ResetPassword" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form2" method="post" novalidate="novalidate">    <table cellpadding="0" cellspacing="0" style="width: 100%;">
+<form action="/MgUser/ResetPassword" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form2" method="post">    <table cellpadding="0" cellspacing="0" style="width: 100%;">
         <tbody><tr>
             <td>Username/email:</td>
             <td class="align_right"><input type="text" name="usernameOrEmail" value=""></td>
@@ -328,7 +331,7 @@
     <a href="#" onclick="user_showLogin();">[x]</a>
 <br>
 
-<form action="/MgUser/ChangePassword" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form3" method="post" novalidate="novalidate">    <fieldset>
+<form action="/MgUser/ChangePassword" data-ajax="true" data-ajax-failure="onError" data-ajax-loading="#LoadingIndicator" data-ajax-method="POST" data-ajax-success="onLoginResponse" id="form3" method="post">    <fieldset>
         Username:
         <input type="text" name="usernameOrEmail" value="">
         <br>
@@ -350,8 +353,9 @@
                 </li>
             </ul>
             <div class="search">
-<form action="/memes/search" method="get" novalidate="novalidate">                    <input type="search" name="q" placeholder="search…">
-                    <input type="submit" value="Search">
+<form action="/memes/search" method="get">                    <input type="search" name="q" placeholder="search…">
+                    <input type="submit" value="Search" onclick="$(this).hide().next().show();">
+                    <span style="display: none;"><img src="/Content/Images/loading.gif"></span>
 </form>            </div>
         </div>
     </div>
@@ -360,22 +364,16 @@
 
 
 
-        
-<div style="margin: 20px 0;">
-    <div style="position: relative; width: 959px; height: 227px; background-image: url(/content/images/hero/hero18.jpg)">
-        <a href="/create/instance" style="position: absolute; left: 430px; top: 150px;"><img alt="Create a meme image" src="/content/images/hero/hero18a.png"></a>
-        <a href="/create/generator" style="position: absolute; left: 680px; top: 150px;"><img alt="Create a character" src="/content/images/hero/hero18b.png"></a>
-    </div>
-</div>
-
+            <br>
 
 
         <div class="like-us-on-facebook well align_center none" style="display: block;">
             <button type="button" class="close" onclick="$(this).parent().hide(); window.localStorage.setItem('LikeUsOnFacebookModal', 'closed');"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
             <a target="_blank" href="https://www.facebook.com/pages/memegeneratornet/110738563941"><img src="/Content/Images/like-us-on-facebook-big-banner.jpg"></a>
-            <div style="display: inline-block; position: relative; top: 25px;">
+            <div style="display: inline-block; position: relative; top: 15px;">
                 <div class="fb-like-box" data-href="https://www.facebook.com/pages/memegeneratornet/110738563941" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="false" data-show-border="true"></div>
             </div>
+            <br><br>
         </div>
             
         <div class="column1">
