@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lisimg.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419214835id_/http%3A//www.listal.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lisimg.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225110652id_/http%3A//www.listal.com/help/privacy) for the most accurate reproduction.*
 
 # Listal - List the stuff you love! Movies, TV, music, games and books
 
@@ -52,6 +52,3 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 ## QUESTIONS
 
 Any questions about this Privacy Policy should be addressed to tom at listal.com
-
-  
-
