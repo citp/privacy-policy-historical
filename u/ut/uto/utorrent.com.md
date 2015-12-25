@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624181515id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225030602id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitTorrent - Delivering the World’s Content
 
@@ -103,7 +103,7 @@ If you have any questions about our privacy practices, please do not hesitate to
     
     Privacy Matters
     c/o BitTorrent, Inc.
-    303 Second St. Suite S600
+    303 Second St. Suite S200
     San Francisco, California 94107
 
   
