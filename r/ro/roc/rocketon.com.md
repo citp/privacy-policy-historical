@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketon.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510134508id_/http%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketon.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225182222id_/http%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rocket Software
 
@@ -159,8 +159,8 @@ Waltham, MA 02451-1468
 
 We will investigate any complaints received in writing and do our best to resolve them with you as soon as possible.
 
-Rocket’s subsidiaries include: Rocket Software (Bejing) Co., Ltd., Rocket Software Canada Inc., Rocket Software Pty. Ltd., S.A.S. Rocket Software France, Computer Corporation of America (Intl) Ltd., Rocket Software B.V., Rocket Software Deutschland GmbH, Rocket Software UK Limited, Rocket Software Services, Inc., and Computer Corporation of America
+Rocket’s subsidiaries include: Rocket Software (Bejing) Co., Ltd., Rocket Software Canada, Inc., Rocket Software Pty. Ltd., S.A.S. Rocket Software France, Computer Corporation of America (Intl) Ltd., Rocket Software B.V., Rocket Software Deutschland GmbH, Rocket Software UK Limited, Rocket Software Systems, Inc., Rocket Software Systems, Ltd., Inc., Rocket Software Japan Ltd., and Computer Corporation of America
 
-(For a list of Rocket global locations, please see: <http://www.rocketsoftware.com/company/locations> )
+(For a list of Rocket global locations, please see: [http://www.rocketsoftware.com/company/locations](https://web.archive.org/company/locations) )
 
-_Updated 1 July 2014_
+_Updated 1 July 2015_
