@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202832id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050044id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
 
 # IPAddress.com Privacy Policy | IPAddress Security Policy | IPAddress.com
 
@@ -31,7 +31,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 
 ## IP Address Tools - Quick Links
-
-Select Tool
-
-Enter Value
