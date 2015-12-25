@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshdesignweb.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602201442id_/http%3A//www.freshdesignweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdesignweb.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225235639id_/https%3A//www.freshdesignweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Fresh Design Web
 
