@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630185720id_/http%3A//new.abb.com/copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225021140id_/http%3A//new.abb.com/privacy-policy) for the most accurate reproduction.*
 
 # ABB Cookies and Privacy Policy
 
@@ -84,7 +84,7 @@ The external sites linked to from the ABB web sites are developed by people over
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant.
 
-Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an [archive](https://web.archive.org/copyright/archived-older-versions) for you to view.
+Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an [archive](https://web.archive.org/privacy-policy/archived-older-versions) for you to view.
 
 This policy has been last updated on February 13, 2015. The remarketing section was added to the cookie policy and the list of cookies used for web statistics tracking was updated.
 
