@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aninews.in privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508101229id_/http%3A//www.aninews.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aninews.in privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225143801id_/http%3A//www.aninews.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy aninews.in
 
@@ -83,7 +83,7 @@ At the point we collect information from you, you may be asked to “opt in” t
 You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. **For example** , you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by clicking on an unsubscribe link.   
 If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using 
 
-_[this form](https://web.archive.org/web/20150508101229id_/http%3A//www.aninews.in/feedback.html)_
+_[this form](https://web.archive.org/web/20151225143801id_/http%3A//www.aninews.in/feedback.html)_
 
  **.  
 **
