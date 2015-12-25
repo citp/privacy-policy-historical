@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net-a-porter.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627211047id_/http%3A//www.net-a-porter.com/us/en/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-a-porter.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225010338id_/http%3A//net-a-porter.com/us/en/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Help | NET-A-PORTER.COM
 
@@ -126,7 +126,7 @@ Back to top
 
   * LINKS
 
-If you require further information about our Privacy Policy, please go to the help section of the web site where [frequently asked questions (FAQ's)](https://web.archive.org/web/20150627211047id_/http%3A//www.net-a-porter.com/us/en/Help/Help/FrequentlyAskedQuestions) are answered, if you require more information please go to the Contact Us section of the web site and send an e mail to the relevant NET-A-PORTER.COM department. If you wish to talk to a NET-A-PORTER.COM customer care representative please contact us on: USA 1 800 481 1064. Calls from outside the USA will be charged at international rates.
+If you require further information about our Privacy Policy, please go to the help section of the web site where [frequently asked questions (FAQ's)](https://web.archive.org/web/20151225010338id_/http%3A//net-a-porter.com/us/en/Help/Help/FrequentlyAskedQuestions) are answered, if you require more information please go to the Contact Us section of the web site and send an e mail to the relevant NET-A-PORTER.COM department. If you wish to talk to a NET-A-PORTER.COM customer care representative please contact us on: USA 1 800 481 1064. Calls from outside the USA will be charged at international rates.
 
 Back to top
 
