@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215151836id_/http%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225182222id_/http%3A//www.rocketsoftware.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rocket Software
 
-## **Overview**
+## Overview
 
 Rocket Software, Inc., and its subsidiaries* (“Rocket” or “we”, or “our” or “us”), are committed to protecting your personal information and respecting your privacy. 
 
@@ -10,7 +10,7 @@ In general, you can visit Rocket on the Web without telling us who you are or re
 
 With your permission, Rocket may send you e-mail regarding our new products, upgrades, or select third party products. We do not disclose your personally identifiable information to such third parties. Please see below regarding how our privacy policy applies when you purchase third party products on our Web Sites, [www.rocketsoftware.com](http://www.rocketsoftware.com/), and affiliated websites, from time to time.
 
-## **Information That We Gather and Track**
+## Information That We Gather and Track
 
 Rocket only collects personal information which is reasonably necessary for its dealings with the individuals to whom the information relates. The types of personal information Rocket collects will depend on the particular dealings we have with you.  However, generally, we collect and hold personal information about existing and prospective customers, our third party service providers and suppliers, and employment applicants.
 
@@ -46,7 +46,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 System information we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web Site and is used by Rocket only for broad demographic statistics. This information is used by Rocket in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information.
 
-## **What We Do With the Information We Gather and Track**
+## What We Do With the Information We Gather and Track
 
 The personally identifiable information gathered from the forms you fill out on our Web Sites is used in one of five ways:
 
@@ -72,17 +72,17 @@ Rocket takes reasonable steps to ensure that the personal information it disclos
 
 The Rocket Web Sites contain links to other web sites. However, Rocket is not responsible for the privacy practices or the content of such web sites.
 
-## **What We Do with Information Gathered When You Acquire Third Party Products**
+## What We Do with Information Gathered When You Acquire Third Party Products
 
 Rocket will never sell, rent or disclose to third parties our users’ personally identifiable information collected from the distribution of Rocket products or gathered on a Rocket Web Site. If you purchase a product or service developed or owned by a third party, Rocket may provide to the product owner or licensor the same information you provide to us for purposes of the third party providing the products or services to you.
 
-## **Special Third Party Relationships**
+## Special Third Party Relationships
 
 On occasion, Rocket will offer our product users and Web Site visitors the opportunity to participate in third party or co-branded promotions, sweepstakes or special programs. The use of any information provided by a user in entering such a third party promotion will be specified prior to the user providing such information. We will also specify the manner in which such information is to be used. If your personal information is to be shared with a third party for such promotions, it will only be done so with your advance consent.
 
 These relationships will be clearly identified by Rocket. The privacy policy or policies governing such third party promotions and/or co-branded programs will be specified.
 
-## **Communications to our Users**
+## Communications to our Users
 
 In addition to product updates, promotional and informational e-mails that Rocket sends to its users from time to time, we may, on occasion, invite you to participate in a focus group, phone survey or send you postal mail.
 
@@ -90,7 +90,7 @@ You may always opt-out of receiving marketing communications through our subscri
 
 Once you supply us with personal information, such as an e-mail address, Rocket does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent.
 
-## **Security of Personal and Payment Information**
+## Security of Personal and Payment Information
 
 Rocket maintains controls to provide security over certain financial information you provide us, including credit card details, during the purchase process. This is evidenced through:
 
@@ -109,7 +109,7 @@ You may prevent having Rocket use, transmit or share your personal and financial
 
 When permitted or required by law, we may share information with additional third parties for purposes including response to legal process.
 
-## **Google Analytics and Advertising**
+## Google Analytics and Advertising
 
 Rocket uses all features of Google Analytics for Display Advertisers. This includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our Web Sites. Google Analytics does not store any visitor-specific data and we will not use visitor-specific data in any way related to Google Analytics, Google AdWords, and Remarketing.
 
@@ -128,7 +128,7 @@ As Google AdWords advertisers, we are restricted from and will not perform the f
 
 You can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager.
 
-## **Access and correction of your personal information**
+## Access and correction of your personal information
 
 You may access and correct the personal information we hold about you by contacting us on the details set out below. Before we provide personal information to you, we may require you to verify your identity by providing us with identification documentation (e.g. drivers licence).
 
@@ -136,17 +136,17 @@ We may recover from you our reasonable costs of supplying you with access to the
 
 Rocket will generally provide individuals with access to the personal information we hold about them.  However, in some circumstances, there may be legal, regulatory or administrative reasons to deny access to the requested information.  If access is denied, Rocket will provide reasons for the denial (unless it would be unreasonable to do so).
 
-## **Changes to our Privacy Policies**
+## Changes to our Privacy Policies
 
 We revise our Web Site Privacy policy to keep it up to date with Rocket products, services and web pages. We will notify you of any changes we make by posting an updated version of this policy on our Web Sites.  Any changes will take effect when they are so posted.  We also post FAQ’s from time to time on specific products.
 
-## **What Sites This Covers**
+## What Sites This Covers
 
 Rocket owns and maintains a variety of Web Sites. Each of these sites may have their own mailing lists or other methods of contacting customers. All of the sites follow this privacy statement for gathering information or sharing personally identifiable information with third parties.
 
 Rocket will use reasonable efforts to comply with this privacy statement and will take prompt corrective action when it learns of any failure to comply with its privacy statement. Because of the complex and constantly changing nature of our technology and business, Rocket does not guarantee error-free performance under this privacy statement. Rocket shall not be liable for any incidental, consequential or punitive damages relating to this privacy statement.
 
-## **Contacting Us about Privacy**
+## Contacting Us about Privacy
 
 If you have any questions about this privacy statement, the practices of our software or Web Sites, or wish to make a complaint about our handling practices, you may contact:
 
@@ -159,8 +159,8 @@ Waltham, MA 02451-1468
 
 We will investigate any complaints received in writing and do our best to resolve them with you as soon as possible.
 
-Rocket’s subsidiaries include: Rocket Software (Bejing) Co., Ltd., Rocket Software Canada Inc., Rocket Software Pty. Ltd., S.A.S. Rocket Software France, Computer Corporation of America (Intl) Ltd., Rocket Software B.V., Rocket Software Deutschland GmbH, Rocket Software UK Limited, Rocket Software Services, Inc., and Computer Corporation of America
+Rocket’s subsidiaries include: Rocket Software (Bejing) Co., Ltd., Rocket Software Canada, Inc., Rocket Software Pty. Ltd., S.A.S. Rocket Software France, Computer Corporation of America (Intl) Ltd., Rocket Software B.V., Rocket Software Deutschland GmbH, Rocket Software UK Limited, Rocket Software Systems, Inc., Rocket Software Systems, Ltd., Inc., Rocket Software Japan Ltd., and Computer Corporation of America
 
-(For a list of Rocket global locations, please see: <http://www.rocketsoftware.com/company/locations> )
+(For a list of Rocket global locations, please see: [http://www.rocketsoftware.com/company/locations](https://web.archive.org/company/locations) )
 
-_Updated 1 July 2014_
+_Updated 1 July 2015_
