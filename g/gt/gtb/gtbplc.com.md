@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtbplc.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203715id_/http%3A//gtbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtbplc.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055346id_/http%3A//gtbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guaranty Trust Bank Plc
 
@@ -54,7 +54,7 @@ GTBank, its staff or agents will never call, send you an SMS or email with a web
   * Contact us immediately if you believe someone else may have access to your password, user ID, PIN, or other confidential information via our branches or our GTConnect numbers.
 
 
-  * Contact us immediately If you receive or have received an SMS or email requesting for disclosure of your Personal Information or a suspicious telephone call from someone claiming to be from GTBank and forward such emails to  [cea@gtbank.com](mailto:cea@gtbank.com).
+  * Contact us immediately If you receive or have received an SMS or email requesting for disclosure of your Personal Information or a suspicious telephone call from someone claiming to be from GTBank and forward such emails to [cea@gtbank.com](mailto:cea@gtbank.com).
 
 
   * Ensure you utilize a secure browser when conducting transactions online.
