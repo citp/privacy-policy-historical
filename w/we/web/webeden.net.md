@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webeden.net privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512175742id_/http%3A//webeden.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webeden.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225224855id_/http%3A//www.webeden.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy | WebEden
 
