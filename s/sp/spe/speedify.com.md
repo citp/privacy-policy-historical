@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the speedify.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185342id_/http%3A//speedify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedify.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225034129id_/http%3A//speedify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Speedify
 
-_Effective Date: May 28, 2014_
+_Effective Date: May  28, 2014_
 
-Nomadio, Inc. d/b/a Connectify (“Connectify,” “we,” “us”) respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at www.speedify.com (the “Site”) and our other services, and how we use this information to provide outstanding service to you.
+Connectify respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at http://speedify.com (the “Site”) and our other services, and how we use this information to provide outstanding service to you.
 
 By accessing and using the Site or other services owned or operated by Connectify (collectively, the “Services”), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Services.
 
@@ -30,9 +30,9 @@ However, if at any time you would like to unsubscribe from receiving future emai
 
 
 
-We will not sell or rent your personal information to any outside party, for any purpose.  Period.  Except as described below, we will not disclose your personal information to outside parties.
+Except as described below, we will not disclose your personal information to outside parties.
 
-  * **Third Party Service Providers**.  We may share aggregate or non-personally identifiable information about users with outside parties.  It may be necessary, at times, to share certain personal information with trusted third parties who assist us in conducting our business or providing our services.  These companies are authorized to use information only as necessary to provide services to us.
+  * **Third Party Service Providers**.  We may share aggregate or non-personally identifiable information about users with outside parties.  It may be necessary, at times, to share certain personal information with trusted third parties who assist us in conducting our business or providing our services.  These companies are authorized to use information only as necessary to provide services to us. We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at www.networkadvertising.org/choices/.
   * **Law Enforcement; Emergencies; Compliance**. Connectify may disclose personal information in the following situations as we believe to be appropriate, even though you might have requested that we not share your information: (i) under applicable law; (ii) to comply with legal process; (iii) to respond to governmental requests, including requests from law enforcement and regulatory authorities; (iv) to enforce our terms and conditions; (v) to protect our operations; (vi) to protect the rights, privacy, safety or property of Connectify, you, or others; and (vii) to permit us to pursue available remedies or limit the damages that we may sustain.  For example, we may, to the fullest extent the law allows, disclose personal information to law enforcement agencies and regulatory authorities to assist them in identifying individuals who have been or may be engaged in unlawful activities.
   * **Assignment**. We reserve the right to transfer personal information to a new entity or third party as part of a merger, acquisition, reorganization, sale of some or all of our assets, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including without limitation in connection with any bankruptcy or similar proceedings). We will notify you via email or prominent notice on our web site if the third party’s or new entity’s treatment of personal information will materially differ from the treatment described in this Privacy Policy; this notice will be provided at least thirty (30) days before such material changes take effect.
 
@@ -40,8 +40,6 @@ We will not sell or rent your personal information to any outside party, for any
   4. **What About the Privacy of My Speedify Sessions?**
 
 
-
-During our beta test period we are closely monitoring the Services to allow us to identify problems and optimize performance. However, once the beta period ends, we will begin our normal course of duties.
 
 During our normal course of duties, Connectify does NOT throttle, rate-limit, monitor, record, or store the content of our paying customer’s Internet activities.  Free users may be throttled or rate-limited, as specified in the user’s license terms. We do not log the contents of your data, or what IP addresses you connect to through the Service.  The following user specific logging data are captured by the servers:  (1) the time and network location from which a Speedify connection was made; (2) the amount of data transferred, and (3) the duration of the Speedify connection.  This information enables Connectify to enforce our Terms, investigate crimes using the Services, troubleshoot, and improve performance.
 
@@ -77,7 +75,7 @@ Our Services are not intended for use by children under the age of eighteen (18)
 
 If this policy is updated, we will post changes on this page and update the Privacy Policy modification date below.  If we make any changes to this Privacy Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on the Site.
 
-This policy was last modified on 05/28/2014.
+This policy was last modified on 07/24/2015.
 
   10. **Contacting Us**
 
