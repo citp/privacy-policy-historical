@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420193647id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225014711id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YepMe.com
 
@@ -23,7 +23,7 @@ We may collect information that personally identifies you when you register, whe
   
 **How Information Is Used and Shared**
 
-**Communications:** We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by calling us at 0124-4750200
+**Communications:** We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by calling us at 011-66372424
 
 **Processing Payments:** For credit card purchasers, we redirect to the relevant financial institution for online transaction and billing information. 
 
