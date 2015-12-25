@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200342id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225043702id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
 
 # SteadyHealth.com
 
@@ -146,6 +146,6 @@ Steadyhealth.com may change this policy from time to time by updating this page.
 
 ### Contact
 
-If you have any questions or comments about this Privacy Policy or Steadyhealth.com Apps, please [Contact Us](http://www.steadyhealth.com/contact/).
+If you have any questions or comments about this Privacy Policy or Steadyhealth.com Apps, please [Contact Us](http://www.steadyhealth.com/contact).
 
-**Last updated on April, 17th 2012.**
+ **Last updated on April, 17th 2012.**
