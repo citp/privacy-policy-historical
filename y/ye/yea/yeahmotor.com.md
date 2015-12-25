@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yeahmotor.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150718id_/http%3A//www.yeahmotor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeahmotor.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225112929id_/http%3A//www.yeahmotor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yeah! Motor
+# Privacy Policy - Yeah! Motor
 
-This Privacy Policy governs the manner in which Yeah Motor collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.yeahmotor.com](https://web.archive.org/web/20150627150718id_/http://www.yeahmotor.com/privacy-policy/www.yeahmotor.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Yeah Motor.
+This Privacy Policy governs the manner in which Yeah Motor collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.yeahmotor.com](https://web.archive.org/web/20151225112929id_/http://www.yeahmotor.com/privacy-policy/www.yeahmotor.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Yeah Motor.
 
 **Personal identification information**
 
@@ -21,19 +21,19 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 Yeah Motor may collect and use Users personal information for the following purposes:  
 
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
+  * _– To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To share your information with third parties_  
+  * _– To share your information with third parties_  
 We may share or sell information with third parties for marketing or other purposes.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -73,8 +73,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Yeah Motor](https://web.archive.org/web/20150627150718id_/http://www.yeahmotor.com/privacy-policy/www.yeahmotor.com)  
-[www.yeahmotor.com](https://web.archive.org/web/20150627150718id_/http://www.yeahmotor.com/privacy-policy/www.yeahmotor.com)  
+[Yeah Motor](https://web.archive.org/web/20151225112929id_/http://www.yeahmotor.com/privacy-policy/www.yeahmotor.com)  
+[www.yeahmotor.com](https://web.archive.org/web/20151225112929id_/http://www.yeahmotor.com/privacy-policy/www.yeahmotor.com)  
 [contact@yeahmotor.com](mailto:contact@yeahmotor.com)
 
 This document was last updated on September 10, 2014
