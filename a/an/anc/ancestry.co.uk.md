@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629121335id_/http%3A//www.ancestry.co.uk/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190218id_/http%3A//www.ancestry.co.uk/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Centre
 
@@ -11,7 +11,7 @@ These are our privacy principles:
 
 
 **Give you choices about what and how you share** **  
-** When you share information within the Ancestry CommunityThe Ancestry Community is made up of the registered users and subscribers of various websites owned and operated by Ancestry.com Inc. (such as Ancestry.co.uk, Ancestry.com and Mundia). The connection between these sites allows you to collaborate and communicate with millions of other users all across the globe. All websites in the Ancestry.com Community follow the same privacy philosophy., we believe you should always have meaningful choices of what and how you share information about yourself and your family tree. You should be able to manage what people can learn about you, what content they can see, and even how you can be contacted.   
+** When you share information within the , we believe you should always have meaningful choices of what and how you share information about yourself and your family tree. You should be able to manage what people can learn about you, what content they can see, and even how you can be contacted.   
 
 
 **Give you credit for your contributions** **  
