@@ -1,32 +1,48 @@
-> *The following text is extracted and transformed from the argyllfreepress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125108id_/http%3A//argyllfreepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argyllfreepress.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225084937id_/http%3A//www.argyllfreepress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Argyll Free Press
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us using any of the methods listed on our contact page
+Trust and security are the two most important things for our users. This is why we are committed to building and developing one of the most comprehensive online technology resources. The following Privacy Policy details the practices employed on ArgyllFreePress (site: [www.argyllfreepress.com](http://www.argyllfreepress.com/)) in collecting user data as well as the way in which you can influence practices.
 
-The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by this website and how it is used.
+ArgyllFreePress collects user information through its website in order to improve user-experience, process requests and provide with more personalized results. We will collect anonymous information from your session with the help of cookies and internet protocols, but we may also collect personally identifiable information.
 
-**Log Files**
+## **1\. What type of information do we collect?**
 
-Like many other Web sites, this website makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+On [www.argyllfreepress.com](http://www.argyllfreepress.com/) you can enjoy collective content, read reviews, subscribe to our newsletter, take part in contests and subscribe to our daily publications, among other things. In order to better organize content and process user requests, ArgyllFreePress must collect personally identifiable information about its visitors. Personally identifiable data that may be collected includes, but is not limited to email address, social media account, full name, address etc. You may also be required to provide with additional, non-personally identifiable data, that we will use for research purposes.
 
-**Cookies and Web Beacons**
+As we previously mentioned, ArgyllFreePress collects anonymous information from its users with the help of cookies. This information cannot be personally identifiable with you and it is designed to help us improve the usability and experience that you have with the site. If you do not want to allow cookies to collect information about you please read section x.x.
 
-This website does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+  * **Cookies:** we use small text files, which in some circumstances are placed on your browser (example: when you visit certain pages on our website). Cookies enable us to collect certain data about your sessions, and recognize you each time you visit [argyllfreepress.com](http://www.argyllfreepress.com/). This will lead to a more personalized experience.
+  * **Managing & Refusing Cookies: **If you’d prefer to not accept cookies, you can do so through your browser settings. You can also delete cookies from your browser and temporary folders. There are several types of cookies: some are temporarily stored on the browser (they close when you end a session) and other are stored on your hard-drive. For more information about cookie settings please visit [allaboutcookies.org](http://www.allaboutcookies.org/).
 
-DoubleClick DART Cookie  
-\- Google, as a third party vendor, uses cookies to serve ads on this website.  
-\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to this website and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google AdSense, Tribal Fusion, AdBlade, NewsMax and Vibrant Media
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on this website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+## **2\. How do we use your information?**
 
-This website has no access to or control over these cookies that are used by third-party advertisers.
+Personally identifiable information will only be used to process requests and establish direct communication. For example, if there is a new event that you might be interested in, we might contact you to inform you about it.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This website’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Anonymous information, collected by cookies, is used to monitor the performance of our website, to compile aggregate statistics and to analyze website usage. This type of data is not designed for advertising purposes, and it is only meant to help our team improve your internet experience.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+## **3\. What Type of Information do we disclose to Third Parties?**
 
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
+We will only rent, trade or sell personally identifiable information to third parties if we receive your consent.
+
+We reserve the right to share non-personally identifiable aggregate data with third parties such as advertisers and business partners.
+
+Third parties will be selected after careful consideration and they must be registered with the Information Commissioner.
+
+In the event that ArgyllFreePress is acquired or merges with another company, it may share non-identifiable and identifiable information with its new partners. You will be notified in case of such an event. Lastly, [www.argyllfreepress.com](http://www.argyllfreepress.com/) will disclose personally identifiable information if required to do so by law, government requests or applicable regulations. We reserve the right to prioritize our company’s integrity as well as that of our users.
+
+**BY ACCESSING[WWW.ARGYLLFREEPRESS.COM](http://www.argyllfreepress.com/) YOU ARE CONSENTING TO THE TERMS AND POLICIES SPECIFIED ABOVE. WE WILL NOT BE HELD RESPONSIBLE IN CASE OF DATA LOSSES OR SECURITY ISSUES. ALTHOUGH WE DO OUR BEST TO PROTECT THE PRIVACY OF OUR USERS, NO SYSTEM IS 100% SECURE. BY USING OUR WEBSITE YOU AGREE THAT YOU ARE FULLY RESPONSIBLE FOR THE DATA THAT YOU SHARE.**
+
+## **4\. How do we secure information?**
+
+We will treat all type of data with the utmost respect and make sure that it is protected in accordance with the Data Protection Act. Our team follows strict security procedures in order to secure data. However, information shared through email is harder to secure, so you should be careful what information you disclose. Despite the fact that we do our best to protect your data, we cannot guarantee its security.
+
+## **5\. Links & Other Website**
+
+Occasionally, you will see links and advertisements on [www.argyllfreepress.com](http://www.argyllfreepress.com/). By clicking on them you will be transferred to another website. Our Privacy Policy does not extend to other websites, and it is only applicable for ArgyllFreePress. We will not be held responsible for the content that you find on other websites and we urge you to read all Privacy Pages of websites that you visit.
+
+## **6\. Revisions & Modifications**
+
+We keep this privacy policy under review and reserve the right to modify it at any given time. Any updates that we make will be published on this page along with a revision date. You should check the privacy policy from time to time.
