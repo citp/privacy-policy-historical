@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtubelive.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625140313id_/http%3A//www.redtubelive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubelive.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225085515id_/http%3A//www.redtubelive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # RedTubeLive - Privacy Policy
 
