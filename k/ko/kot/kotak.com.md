@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kotak.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061426id_/http%3A//www.kotak.com/node/229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotak.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225210814id_/http%3A//www.kotak.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy by Kotak Mahindra Bank
 
 You agree that we may use Customer Information for the purpose of statistical analysis and for creation of data ("Statistical Information"), which does not contain individual Customer Information. In addition to the information that the Bank elicits from you, you are free to volunteer any other information that you feel that the Bank needs to know, but the security and confidentiality as per this Policy is guaranteed only to the information that the Bank directly asks from you.
 
