@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623233111id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225200412id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Mumsnet
 
@@ -10,7 +10,7 @@ Mumsnet may change this policy from time to time by updating this page, so pleas
 
 Your consent
 
-By using this site, you agree to the terms of this Privacy Policy and Mumsnet's [Terms of Use](https://web.archive.org/web/20150623233111id_/http%3A//www.mumsnet.com/info/terms-of-use "Terms of use"). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with those Terms of Use and this Privacy Policy.
+By using this site, you agree to the terms of this Privacy Policy and Mumsnet's [Terms of Use](https://web.archive.org/web/20151225200412id_/http%3A//www.mumsnet.com/info/terms-of-use "Terms of use"). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with those Terms of Use and this Privacy Policy.
 
 What we collect
 
@@ -51,7 +51,7 @@ As you navigate through this site, certain anonymous information can be passivel
 
 This helps us analyse data about our site traffic, so we can improve Mumsnet and tailor it more to our members' needs. All information is anonymous and only used for operational purposes.
 
-*A cookie is a small file which "asks permission" to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies but you can usually modify your browser setting to decline cookies if you prefer. This may, however, prevent you from taking full advantage of our website. [Read more about our Cookie Policy](https://web.archive.org/web/20150623233111id_/http%3A//www.mumsnet.com/info/cookie-policy "Cookie policy").
+*A cookie is a small file which "asks permission" to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies but you can usually modify your browser setting to decline cookies if you prefer. This may, however, prevent you from taking full advantage of our website. [Read more about our Cookie Policy](https://web.archive.org/web/20151225200412id_/http%3A//www.mumsnet.com/info/cookie-policy "Cookie policy").
 
 Links to other websites
 
@@ -74,3 +74,5 @@ You may choose to sign in via Facebook. By doing so you grant us access to your 
 
 **Google**  
 You may choose to sign in via Google. By doing so you give us your email address and basic account information. More details on signing into apps with Google can be found [here](https://support.google.com/plus/answer/2980762?hl=en-GB&ref_topic=2980759).
+
+Last updated: 6 months ago 
