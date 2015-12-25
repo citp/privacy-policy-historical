@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612062213id_/http%3A//www.revolutiongolf.com/%40rg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225145623id_/http%3A//www.revolutiongolf.com/%40rg/privacy-policy) for the most accurate reproduction.*
 
-# Revolution Golf - Privacy Policy
+# Privacy Policy
 
 _Last updated: June 30, 2014_
 
