@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunked.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624073412id_/http%3A//dunked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunked.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225022815id_/http%3A//dunked.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunked
 
@@ -103,6 +103,6 @@ You may instruct us to provide you with any personal information we hold about y
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
-Should you have any question or concern, [you can contact us by email](http://help.dunked.com/help_center).
+Should you have any question or concern, [you can contact us by email](http://help.dunked.com/).
 
 Last updated: 04 Apr 2013
