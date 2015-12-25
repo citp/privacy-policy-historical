@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wv.gov privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622103145id_/http%3A//www.wv.gov/policies/pages/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wv.gov privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225095929id_/http%3A//www.wv.gov/policies/pages/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html __expr-val-dir="ltr" lang="en-us" dir="ltr"><head><meta name="ProgId" content="SharePoint.WebPartPage.Document"><meta name="WebPartPageExpansion" content="full"><title>
 	
@@ -61,12 +61,51 @@ $(document).ready(function() {
 		});
 
 </script>
-
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+	jQuery(document).ready(function($) {
+		var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+		var baseHref = '';
+		if (jQuery('base').attr('href') != undefined)
+			baseHref = jQuery('base').attr('href');
+		jQuery('a').each(function() {
+			var href = jQuery(this).attr('href');
+			if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+				jQuery(this).click(function() {
+					var extLink = href.replace(/^https?\:\/\//i, '');
+					_gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+					if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+						setTimeout(function() { location.href = href; }, 200);
+						return false;
+					}
+				});
+			}
+			else if (href && href.match(/^mailto\:/i)) {
+				jQuery(this).click(function() {
+					var mailLink = href.replace(/^mailto\:/i, '');
+					_gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+				});
+			}
+			else if (href && href.match(filetypes)) {
+				jQuery(this).click(function() {
+					var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+					var filePath = href;
+					_gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+					if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+						setTimeout(function() { location.href = baseHref + href; }, 200);
+						return false;
+					}
+				});
+			}
+		});
+	});
+}
+</script>
 </head>
 
 <body onload="javascript:_spBodyOnLoadWrapper();">
 
-<form name="aspnetForm" method="post" action="/web/20150622103145id_/http%3A//www.wv.gov/policies/pages/privacy.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="/web/20151225095929id_/http%3A//www.wv.gov/policies/pages/privacy.aspx" id="aspnetForm">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
 <input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
@@ -74,7 +113,7 @@ $(document).ready(function() {
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xF64D69CBD357395A6CD63CF8FDDBC05FEAE6E624AB0C2B5E8B21520D9AD4ABE9F1D8AB183B21F6D62A0201A014FE81A074EE61DD27092619AF79B467CF293DAD,22 Jun 2015 10:31:45 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x08BB05FD0FBC843A239B0D786210A7984D1DB405DA0A5CE3C48AE68B2CD9BCADA90A1D25B54B69992CA3D1C0C816BC4BEAE6A67A1420CF503E23B5E798869EE1,25 Dec 2015 09:59:29 -0000">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
