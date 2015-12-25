@@ -1,129 +1,86 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619173617id_/http%3A//bronto.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225014154id_/http%3A//bronto.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bronto Software
 
-_Last Updated on 09/09/2014_
+_Last Updated on 09/01/2015_
 
-This Privacy Policy covers Bronto Software, Inc.’s collection, use and disclosure of information collected through our website [www.bronto.com](http://www.bronto.com/) and the Bronto marketing platform. The use of information collected through the Bronto Marketing Platform shall be limited to the purpose of providing the services for which Bronto has been engaged by the Client.
+In this Website Privacy Policy ("statement"), Bronto Software Inc. (“Bronto”), NetSuite Inc. and its other affiliates (“we”), provide information about how we collect, use, disclose, and transfer personal information from you, an individual person and website visitor, through NetSuite and Bronto’s publicly accessible websites (such as [www.netsuite.com](http://www.netsuite.com/) or [www.bronto.com](http://www.bronto.com/) that can be accessed without a password) and on which we post a direct link to this statement (collectively the "site").
 
-Bronto Software, Inc. has been awarded TRUSTe's Privacy Seal signifying that its privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s Program Requirements and the TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+###  Scope
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.bronto.com](http://www.bronto.com/) and the Bronto Marketing Platform.
+This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we collect offline or through webpages that do not display a direct link to this statement, for example the NetSuite or other applications on which we host data for registered customers.
 
-Bronto Software, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bronto Software, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Bronto Software, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>
+###  Types of Data and Collection Methods
 
-  * Section I: Information Collection and Use by Our Website, www.bronto.com
-  * Section II: Collection and Use of Our Customers’ Information
-  * Section III: Privacy and Security Practices
+Through the site, we receive _**personal information**_ as well as _**other information**_ related to your use of the site.
 
+####  Personal Information Collected:
 
+Personal information is information that identifies you as an individual. When you request information, subscribe to a mailing list, subscribe for a service, or respond to an online survey, sign up to receive our newsletter, or otherwise contact us, we usually collect personal information such as your name, job title, company name, e-mail address(es), mailing address(es), and telephone numbers. You can opt out of providing information by not entering it when asked and, if such information is required in order to allow us to respond to your inquiry, you will receive a notice advising you of this. If you do not provide us with some or all of the requested information we may not be able to provide services to you.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@bronto.com](mailto:privacy@bronto.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+####  Other Information Collected:
 
-####  Section I: Information Collection and Use by Our Website, [www.bronto.com](http://www.bronto.com/)
+The site also collects information that does not reveal your specific identity or does not directly relate to an individual (“other information”). For example, when you visit the site, we also track certain information about your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the site, the Internet address of websites from which you link to our site, the computer technology you are using and your movements and preferences on our site. We use technology that many other websites employ, including, without limitation, "cookies" or small data files stored on your computer's hard drive such as beacons, tag and scripts, to collect such information. There are persistent cookies and session cookies. In some instances, we use cookies to collect information in connection with future visits from that website, to recognize you as a previous visitor, or to track your activity on our site. If you follow a link to the site from an affiliate, partner or promotion, we store information about your arrival from that affiliate or promotion in a session cookie. A persistent cookie consists of a text file sent by a web server to web browser, which will be stored by the browser and will remain valid until its set expiry date. You do not need to have cookies turned on to visit our site. You can refuse cookies by setting your browser to decline them automatically or to give you the choice of declining or accepting the placement of cookies from the site. But, if you want to access Bronto webpages, you need to accept a mandatory session cookie, which you can delete after you leave the site.
 
-###  Personal Information Collection and Use
+Our website also includes social media features (such as the Facebook Like button), and widgets (such as the Share this button). These features may collect your IP address, the page or pages you are visiting on our site, and may further set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such features.
 
-We collect personal information at our website such as first name, last name, job title, company industry, company name, web site, phone number, email address and state. We receive such information when you register for an account, sign up to receive our newsletter, send us an email, or complete an online survey, and we collect such information in order to provide you with the information, products and services you requested. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission. We also use the information we collect to notify consumers about updates to our website and services, service disruptions, and for other informational purposes. Our web servers automatically recognizes and collects a consumer's or visitor’s domain name or IP address, as well as aggregate information on what pages are accessed or visited. The information collected is used then to create an aggregate demographic profile of our user base so that we can improve the content and services of our website and provide aggregate information to potential advertisers, to customize the content and/or layout of our page for each individual visitor, and to better understand our customers’ preferences.
+We also may collect information related to your company, geographic location, or other demographic information that does not personally identify you.
 
-###  Information Collection by Cookies
+_Combinations_ : To the extent permitted by applicable law, we reserve the right to combine other information as defined above with personal information that you submit.
 
-We use technologies such as: cookies, beacons, tag and scripts and our partners [See below]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+###  Collection Purposes, Use of Data
 
-  * Google Analytics – collecting customer information via cookies and providing it to Google for purposes of contextual ad retargeting
-  * Adroll – third party service that functions similarly to Google Analytics and uses session cookie information for contextual ad retargeting
-  * Marketo – collects personal and usage information that is stored within Marketo. To my knowledge, this information is not used outside of Bronto.
-  * Social Widgets – allow sharing of site content to social networks.
-  * Live Person – live chat client that logs end user data.
+We collect Personal Information primarily for the purpose for which you provided the information to us and/or our affiliates or for the services you ordered. (For example, to provide information to you or sign you up for a free trial).
 
+Additionally, we may collect personal information for marketing purposes such as contacting you to further discuss your interest in our company, the services we provide and ways we can improve them to provide information on services, promotions, and events. You can opt out of receiving marketing emails as explained below.
 
+We collect other information primarily for purposes of administering, protecting and improving our site and our systems, to better understand the preferences of our site visitors, to identify server problems, to compile aggregated statistics about site usage, user base, and to help personalize your experience on our site. We do not deliver third party online advertisements on our sites but we advertise our products and services on others' Web sites. We work with service providers to deliver retargeting advertisements and other advertisements on our behalf to visitors of our Bronto.com site. We may use and disclose other information for any purpose, including all of the purposes for which we use and disclose personal information except where we are required to do otherwise under applicable law.
 
-###  Log Files
+We will retain your personal information for the period necessary to fulfill the purposes outlined above.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. (We do not link this automatically collected data to other information we collect about you, or we may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+###  Disclosures of Personal Information
 
-The IP addresses collected in the log files are used to handle geolocation for our UK and AU sites.
+We do not sell your personal information to any third parties; however, we may share your personal information with NetSuite and its other affiliates. We may also share information with trusted business partners, such as system integrators, distributors, and referral partners and as well as any other party specifically identified on the page on which you submit your information. We engage agents and service providers who process data only on our behalf and for our purposes under confidentiality agreements. We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Also, we reserve the right to fully use and disclose any information that is not in personally identifiable form (such as statistics and survey results that do not identify you individually by name). If you are a resident of California, you may ask us to refrain from sharing your information with third parties and among our affiliates for marketing purposes.
 
-####  Section II: Privacy Practices Relevant to Our Clients’ Information
+###  Privacy Practices for Customers
 
-###  End Users
+Bronto Clients use the Service to host information (“Customer Information”). Bronto will not review, share, distribute, or reference any such Customer Information except as provided in our Agreements with our Customers or as may be required by law.
 
-Bronto provides a wide variety of services and solutions to its business clients (each, a "Client") that facilitate services for their employees ("End Users"). Bronto will obtain access to personal information about End Users in the course of operating websites, providing contractually obligated services, and providing customer care and other related services. Such information about the End Users may include, but is not limited to, name, billing address, business address, email address, telephone number, social networking id, website or other application or service at issue. In no instance will Bronto share, sell, rent or trade personal information with third parties for promotional purposes, unless Bronto is directed to do so by a Client.
+###  Opt-Out
 
-Bronto Clients use the Service to host information (“Customer Information”). Bronto will not review, share, distribute, or reference any such Customer Information except as provided in the Agreements with our Customers or as may be required by law. These Agreements generally provide that individual records of Customer Information may be viewed or accessed only for the purpose of resolving a problem, support issues, or to investigate suspected violation of the Bronto Agreement or legal requirements, or as may be otherwise required by law.
+To opt out of receiving marketing related communications from Bronto, please click on the "opt-out" link in the communication or please contact us at [mktops@bronto.com](mailto:mktops@bronto.com)
 
-###  Use of Client Email List Information
+To opt out of receiving marketing related communication from NetSuite and its other affiliates, please contact us at [support@netsuite.com](mailto:support@netsuite.com). Please note that if you do opt-out of receiving marketing- related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-Bronto is not an email list rental service and does not rent or sell any email addresses or other contact information that its Clients provide or collect regarding their End Users. At all times, Clients retain ownership and control of their lists and list information.
+###  Third –Party Sites
 
-Bronto has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Bronto Client (the data controller). If requested to remove data, we will respond within 30 days.
-
-We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Bronto will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-####  Section III: General Disclosures
-
-###  Your Choices
-
-All of our direct response methods are opt-in communications, and you may opt out of them at any time. If you subscribed to our e-mail newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s). We will respond to all unsubscribe requests within 10 business days.
-
-Free trial users will receive a series of automated emails alerting them to the status of the trial. Bronto representatives may contact free trial users to inquire about their experience.
-
-If you wish to have any of your information that is posted in our public forums, directory or testimonial areas of our site, you may contact us at [privacy@bronto.com](mailto:privacy@bronto.com). Should we not be able to remove your personal information, we will contact you.
-
-As stated herein, Bronto collects certain End User information during the business relationship with its Clients and has no direct relationship with any End Users whose personal data it processes. If you are an End User of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.
-
-###  Data Retention
-
-If you have an account with us, we will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@bronto.com](mailto:privacy@bronto.com). We also will retain and use your information as necessary to comply with our legal obligations, resolve disputes, enforce agreements and protect our rights.
-
-###  Access to Personal Information
-
-You may request that we correct, update, delete or otherwise amend personal information that we maintain about you. You also may request access to such information. To submit such requests, please email us at [privacy@bronto.com](mailto:privacy@bronto.com). We will respond to your request to access within 30 days. Alternatively, if you have access to your contact information page, you may be able to review and amend any of your personal information.
-
-###  Information We Share
-
-We may, under certain circumstances, share information we collect with outside parties. For example, we may share information about you with third parties who provide services for us such as a hosting service provider or a payment processor. In those cases, the service provider is only authorized to use information to perform services on our behalf or for limited administrative purposes, such as complying with legal requirements. We also may share your information:
-
-  * With business partners, such as designers;
-  * We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients;
-  * When reasonably requested or required by law enforcement authorities or other government officials;
-  * When otherwise required by law or in response to legal process;
-  * When we believe disclosure is appropriate to prevent physical harm or financial loss;
-  * When reasonably necessary to an investigation of suspected or actual illegal activity;
-  * As needed to protect the vital interests of an individual; and
-  * In the event we sell or transfer all of or any portion of our business or assets, in which case , you will be notified via your account, an email and/or a notice on our website of any change in ownership or uses of your personal information, as well as any necessary information regarding the retention, transfer or return of your personal information
-
-
-
-If you are a resident of California, you may ask us to refrain from sharing your information with third parties and among our affiliates for marketing purposes. You may do so by contacting us as shown in the “How to Contact Us” section.
+This statement does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the site links. The inclusion of a link on the site does not imply our endorsement of the linked site or service.
 
 ###  Security
 
-We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal information we maintain. Sensitive information such as user name and password used during log in is transmitted over the Internet by using Secure Socket Layer (SSL) encryption. For other data transmission such as online web forms, SSL is always available for use. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you may contact [privacy@bronto.com](mailto:privacy@bronto.com).
+Transmissions over the Internet are never 100% secure or error-free. However, we take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
 
-###  Data Integrity
+###  Cross-Border Transfers
 
-Bronto uses technical controls, such as systems logging, to help ensure data integrity. Bronto also takes reasonable steps to ensure that the personal information we collect is accurate, complete, and current. Bronto also allows individuals and clients to update information for accuracy and completeness.
+Your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
 
-###  Links to Other Web Sites
+###  Retention Period
 
-Our Site includes links to other websites whose privacy practices may differ from those of Bronto. Any personal information you submit to any websites outside of Bronto is governed by that website owner’s privacy statement. We encourage you to carefully read the privacy statement of any website you visit.
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this statement unless a longer retention period is required or permitted by law.
 
-###  Social Media Widgets
+###  Access
 
-Our website includes social media features (such as the Facebook Like button), and widgets (such as the Share this button). These features may collect your IP address, the page or pages you are visiting on our site, and may further set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such features.
+If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it, please send an e-mail to [privacy@bronto.com](mailto:privacy@bronto.com). Upon appropriate request we will usually be glad to update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate.
 
-###  Material Change
+###  Amendments
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes, we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+This statement is effective as of September 1, 2015. We reserve the right to change, modify, add or remove portions of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. We recommend that users revisit this statement on occasion to learn of any changes.
 
-Bronto Software  
-324 Blackwell St Suite 410  
-Durham, NC 27701  
-1.888.276.6861  
-[privacy@bronto.com](mailto:privacy@bronto.com)
+###  Contact Us
 
-[](https://privacy-policy.truste.com/click-with-confidence/TrustedCloud/en/www.bronto.com/seal_l "Validate TRUSTe privacy certification")
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at [privacy@bronto.com](mailto:privacy@bronto.com) or write to the Privacy Manager at Bronto Software, 324 Blackwell St. Suite 410, Durham, NC 27701.
 
-[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
-[](http://export.gov/safeharbor/)
+____[](https://privacy-policy.truste.com/click-with-confidence/TrustedCloud/en/www.bronto.com/seal_l "Validate TRUSTe privacy certification")____
+
+____[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
+[](http://export.gov/safeharbor/)____
