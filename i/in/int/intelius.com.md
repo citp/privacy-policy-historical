@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623191428id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050531id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
 # Intelius - Find People with People Search, Background Check, or Reverse Phone Lookup
 
-Effective April 10, 2015
+Effective November 23, 2015
 
-Intelius respects your right to privacy and we are committed to protecting it. This policy discloses the information practices for the web pages associated with the domain Intelius.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, with whom we share the personal information, the choices available to you regarding our use of your personal information, and how you can access and update this information.
-
-Intelius has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-If you have questions or concerns regarding this Policy, you should first contact us at [privacy@intelius.com](mailto:privacy@intelius.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any mobile applications or software downloaded from this website.
+Intelius Intelius respects your right to privacy and we are committed to protecting it. This policy discloses our information practices, including what type of personal information we gather and track, how we use this personal information, with whom we share the personal information, the choices available to you regarding our use of your personal information, and how you can access and update this information. Please keep in mind that this Policy applies to all Intelius brands, products and services that do not have a separate privacy policy. If you have questions or concerns regarding this Policy, you should contact us at privacy@intelius.com.
 
 **Personal Information**
 
@@ -29,7 +25,7 @@ The quickest and simplest way to have your information removed from our website 
 
 We will only use this information to process your opt out request.
 
-If you opt-out online, please be sure to include your email address so that we can notify you both when your request is received and when we've completed your opt out.
+If you opt-out online, please be sure to include your email address so that we can notify you both when your request is received and when we've completed your opt out. Automated or bulk opt-out requests will not be honored.
 
 Online
     [Intelius Online Opt-Out Form](https://intelius.com/optout.php)
@@ -56,15 +52,15 @@ Your information will be removed from our database in approximately 7-14 days.
 
 The following paragraphs describe in more detail how we may use the personal information you provide to us and with whom we may share it.
 
-Fulfilling your Transaction Request. If you request something from this website, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as financial institutions for credit card processing, email service providers, outsourced Customer Care providers or postal service providers. These third parties are prohibited from using your personal information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence.
+Fulfilling your Transaction Request. If you request something from this website, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as credit card gateways, fraud detection services, email service providers, outsourced Customer Care providers or postal service providers. These third parties are prohibited from using your personal information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence.
 
 In addition, like many websites, we gather certain information automatically (including cookies and log files). This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, improve marketing, analytics, or website functionality.
 
-We use cookies to identify users and repeat visitors to our website. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+We use cookies to identify users and repeat visitors to our website (but not in the Intelius app). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
 We, and our partners, affiliates, or analytics or service providers, may use tracking technologies such as cookies, beacons, scripts, and tags to analyze trends, administer this website, track users' movements around this website, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. The cookies we use for these purposes and to fulfill your transaction request may contain your email address. One of our analytics providers, Adobe, offers the ability for you to opt-out of tracking by following the instructions [here](http://www.d1.sc.omtrdc.net/optout.html).
 
-Third parties with whom we partner to provide certain features on our website or to display advertising based on your web browsing activity, use Local Storage (HTML5) to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. 
+Third parties with whom we partner to provide certain features on our website (but not in the Intelius app) or to display advertising based on your web browsing activity, use Local Storage (HTML5) to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. 
 
 Communications from Us. When you request something from this website, we will send you transactional emails related to your service request. You cannot opt out of receiving these communications. However, you can opt in to receive promotional emails from us. If you later choose to opt out of receiving these emails, you can unsubscribe by clicking on the link included in the email or logging in to your account and changing your preferences.
 
