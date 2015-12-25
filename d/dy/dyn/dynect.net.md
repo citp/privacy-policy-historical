@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dynect.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627004609id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynect.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050956id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
 # Dyn Privacy Policy - Dyn
 
-Last updated: December 7, 2014
+Last updated: September 24, 2015
 
 **DYN’S PRIVACY POLICY**
 
@@ -92,7 +92,7 @@ Most browsers will allow you to erase cookies from your computer hard drive, blo
 
 **VII.   SAFE HARBOR PROGRAM**
 
-Dyn is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site.
+Dyn complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Dyn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dyn’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an email to privacy@dyn.com.
 
