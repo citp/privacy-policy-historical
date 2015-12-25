@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomadix.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032512id_/http%3A//www.nomadix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadix.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225072915id_/http%3A//www.nomadix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nomadix, Inc
 
