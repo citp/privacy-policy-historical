@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504164133id_/http%3A//www.flstudiomusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225081647id_/http%3A//www.flstudiomusic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email (use contact tab).
-
-At FLStudioMusic, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FLStudioMusic and how it is used.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email (use contact tab).At FLStudioMusic, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FLStudioMusic and how it is used.
 
 ## Log Files
 
@@ -24,4 +22,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions. 
+This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions.
