@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626132419id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052848id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy | Metro News
 
@@ -18,7 +18,7 @@ If you choose not to receive our cookies, we cannot guarantee that your experien
 
 The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit <http://www.youronlinechoices.co.uk/favicon.ico>
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
 **Use Of Your Information**
 
@@ -56,7 +56,7 @@ However, we use reasonable endeavours to protect the security of your personal i
 
 In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date.
 
-For more information on the Data Protection Act 1998 and your related rights please see [http://www.ico.gov.uk](http://www.ico.gov.uk/)
+For more information on the Data Protection Act 1998 and your related rights please see <http://www.legislation.gov.uk/ukpga/1998/29/contents>
 
 **Accessing Your Personal Information**
 
