@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecpm.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506080503id_/http%3A//gamecpm.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecpm.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225125418id_/http%3A//gamecpm.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GameCPM - Game Advertising Network
 
