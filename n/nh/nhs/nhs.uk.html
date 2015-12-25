@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nhs.uk privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628204414id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nhs.uk privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225142510id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 
@@ -12,7 +12,7 @@
 <meta name="DC.subject" scheme="eGMS.IPSV" content="National Health Service (NHS),NHS Choices,terms and conditions,privacy policy"> 
 <meta name="DC.Subject" scheme="NHSC.Ontology" content="This website, Website policies and terms">
 <meta name="DC.Subject" scheme="NHSC.Ontology" content="ID15 ID16">
-<meta name="DC.date.issued" scheme="W3CDTF" content="2014-10-07">
+<meta name="DC.date.issued" scheme="W3CDTF" content="2015-11-12">
 <meta name="DC.coverage" content="England">
 <meta name="DC.creator" content="NHS Choices">
 <meta name="DC.format" scheme="IMT" content="text/html">
@@ -97,8 +97,8 @@ function NhsUk_OnSubmit()
 <meta name="DCSext.RealUrl" content="/aboutnhschoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx">
 <meta name="WT.cg_n" content="NHS Choices">
 <meta name="WT.cg_s" content="About NHS Choices">
-<meta name="DCSext.Server" content="CH-P-WEB02">
-<meta name="WT.sv" content="CH-P-WEB02">
+<meta name="DCSext.Server" content="CH-P-WEB04">
+<meta name="WT.sv" content="CH-P-WEB04">
 <!-- Webtrends Javascript tag -->
 <script type="text/javascript" src="/includes/webtrends.load.js"></script>
 
@@ -113,32 +113,62 @@ function NhsUk_OnSubmit()
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
 <body>
-
-
-
+ 
+ 
+ <div id="ctl00_Survey_BannerDisplay" class="survey-banner-wrap clear">
+	<div class="survey-banner-content">
+	    <div class="survey-invite">
+		    <p><span>Can you help us improve?</span></p>
+		    <p>Take part in our survey</p>
+        </div>
+		<ul>
+			<li class="leave-feedback agree"><a id="ctl00_Survey_AgreeButton" onclick="dcsMultiTrack('DCSext.OnSiteSurvey2','Yes','WT.dl','121')">Yes, I'll take part </a></li>
+			<li class="go-back postpone"><a id="ctl00_Survey_PostponeButton" onclick="dcsMultiTrack('DCSext.OnSiteSurvey2','Maybe Later','WT.dl','121')">Maybe later</a></li>
+			<li class="go-back disagree"><a id="ctl00_Survey_DisagreeButton" onclick="dcsMultiTrack('DCSext.OnSiteSurvey2','No','WT.dl','121')">No thanks</a></li>
+		</ul>
+	</div>
+</div>
 
 <script>
     $(document).ready(function () {
-        if ($.cookie('Survey') == '') {
+        if ($.cookie('Survey' + 65) == 'Customer satisfaction survey (Dec 2015/Jan2016)') {
             $(".survey-banner-wrap").hide();
         }
         $(".postpone").click(function () {
+            var date = new Date();
+            date.setTime(date.getTime() + 300000);
             $(".survey-banner-wrap").hide();
-            $.cookie('Survey', '', { expires: 1, path: '/' });
+            $.cookie('Survey' + 65, 'Customer satisfaction survey (Dec 2015/Jan2016)', { expires: date, path: '/' });
         });
         $(".disagree").click(function () {
             $(".survey-banner-wrap").hide();
-            $.cookie('Survey', '', { expires: 100, path: '/' });
+            $.cookie('Survey' + 65, 'Customer satisfaction survey (Dec 2015/Jan2016)', { expires: 100, path: '/' });
         });
         $(".agree").click(function () {
             $(".survey-banner-wrap").hide();
-            $.cookie('Survey', '', { expires: 100, path: '/' });
-            var win = window.open('', '_blank');
+            $.cookie('Survey' + 65, 'Customer satisfaction survey (Dec 2015/Jan2016)', { expires: 100, path: '/' });
+            var win = window.open('https://survey.efmfeedback.com/se.ashx?s=705E3EF50462B37E', '_blank');
             win.focus();
         });
 });
 </script>
 
+ 
+<script>   
+    $(document).ready(function () {
+        if ($.cookie("survey_banner")) {
+            $(".signup-banner").hide();
+        }
+        $("#signup_banner").click(function () {
+            $.cookie('survey_banner', 'true', { expires: 100000, path: '/' });
+            $(".signup-banner").slideUp();            
+        });
+        $(".signup").click(function () {
+            $.cookie('survey_banner', 'true', { expires: 100000, path: '/' });
+            $(".signup-banner").hide();
+        });
+    });
+</script>
 
 <div class="wrap wrap-webkit">
 
@@ -214,18 +244,18 @@ function NhsUk_OnSubmit()
   <div class="heading">
     
       <p class="choices-logo"><a href="/" title="Go to NHS Choices homepage"><img src="/img/header/choices-logo.gif" alt="Go to NHS Choices homepage" width="212" height="35"></a><span>Your health, your choices</span></p>
-     
+    
   </div>
-  
+
   <p class="hidden"><strong>Information navigation</strong></p>
   <div class="searchbar">
-    <form id="gs" method="get" action="/Search/Pages/Results.aspx" onsubmit="return NhsUk_OnSubmit();">
+    <form id="gs" method="get" action="/Search/">
       <fieldset>
-        <legend class="hidden">Search entire site</legend>	
+        <legend class="hidden">Search entire site</legend>
           <div class="search-inner" id="IdSearchBoxContainer">
               <div><span class="crnr tl"></span><span class="crnr tr"></span></div>
               <div id="search-results-container">
-                  <label for="q"><span class="hidden">Enter a search term: </span><input id="q" name="q" type="text" value="Enter a search term" accesskey="4" maxlength="500" autocomplete="off"></label>
+                  <label for="q"><span class="hidden">Enter a search term: </span><span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" value="Enter a search term" accesskey="4" maxlength="500" class="tt-hint" readonly="" autocomplete="off" spellcheck="false" tabindex="-1" dir="ltr" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; opacity: 1; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255);"><input id="q" name="q" type="text" placeholder="Enter a search term" value="Enter a search term" accesskey="4" maxlength="500" class="tt-input" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-suggestions"></div></div></span></label>
               </div>
               <div class="submit-container">
                   <div><span class="crnr tl"></span><span class="crnr tr"></span></div>
@@ -240,22 +270,21 @@ function NhsUk_OnSubmit()
           </div>
       </fieldset>
     </form>
-    <script type="text/javascript" src="/includes/PredictiveTextSearch.js"></script>
+    <script type="text/javascript" src="/includes/jquery-1.11.3.min.js"></script>
     <script type="text/javascript">
-    //<![CDATA[
-    //<!--
-    $(document).ready(function() {
-    SetupPredictiveSearch("/NHSChoices/Handlers/Search.ashx", $("#q"), $("#search-results-container"),10)});
-    // -->
-    //]]>
-    </script> 
+        //<![CDATA[
+            jq1113 = jQuery.noConflict(true);
+        //]]>
+    </script>
+    <script type="text/javascript" src="/includes/typeahead.bundle.min.jq1113.js"></script>
+    <script type="text/javascript" src="/includes/nhs.typeahead.js"></script>
   </div>
 
   <div class="main-nav clear" id="main-navigation" role="navigation" aria-label="Main menu">
-    <p class="hidden" aria-hidden="true"><strong>Main navigation</strong></p>    
+    <p class="hidden" aria-hidden="true"><strong>Main navigation</strong></p>
     <div id="ctl00_Header_mainNavigation">
-	<ul role="menubar"><li class="health-az active" id="health-az-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Pages/hub.aspx','WT.dl','121')" href="/Conditions/Pages/hub.aspx" role="menuitem" aria-haspopup="true"> Health A-Z</a><div><ul><li class="first"><span>Hundreds of conditions explained</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Arthritis','WT.dl','121')" href="/Conditions/Arthritis">Arthritis<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/asthma','WT.dl','121')" href="/conditions/asthma">Asthma<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Back-pain','WT.dl','121')" href="/Conditions/Back-pain">Back pain<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx','WT.dl','121')" href="/Conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx">Stress, anxiety, depression<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Cancer-of-the-breast-female','WT.dl','121')" href="/Conditions/Cancer-of-the-breast-female">Breast cancer<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/pregnancy-and-baby/pages/pregnancy-and-baby-care.aspx','WT.dl','121')" href="/Conditions/pregnancy-and-baby/pages/pregnancy-and-baby-care.aspx">Pregnancy and baby<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Diabetes/Pages/Diabetes.aspx','WT.dl','121')" href="/Conditions/Diabetes/Pages/Diabetes.aspx">Diabetes<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/dementia-guide/Pages/about-dementia.aspx','WT.dl','121')" href="/Conditions/dementia-guide/Pages/about-dementia.aspx">Dementia<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Coronary-heart-disease','WT.dl','121')" href="/Conditions/Coronary-heart-disease">Heart disease<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/measles','WT.dl','121')" href="/conditions/measles">Measles<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/nhs-health-check/Pages/NHS-Health-Check.aspx','WT.dl','121')" href="/Conditions/nhs-health-check/Pages/NHS-Health-Check.aspx">NHS Health Check<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/vaccinations/Pages/vaccination-schedule-age-checklist.aspx','WT.dl','121')" href="/Conditions/vaccinations/Pages/vaccination-schedule-age-checklist.aspx">Vaccinations<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CHQ/Pages/home.aspx','WT.dl','121')" href="/CHQ/Pages/home.aspx"> Common health questions</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/symptomcheckers/pages/symptoms.aspx','WT.dl','121')" href="/symptomcheckers/pages/symptoms.aspx"> Symptom checkers</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/medicine-guides/pages/default.aspx','WT.dl','121')" href="/medicine-guides/pages/default.aspx"> Medicines A-Z</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Pages/BodyMap.aspx?Index=A','WT.dl','121')" href="/Conditions/Pages/BodyMap.aspx?Index=A"> All A-Z topics</a></li></ul></div></li><li class="livewell" id="livewell-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/Pages/Livewellhub.aspx','WT.dl','121')" href="/livewell/Pages/Livewellhub.aspx" role="menuitem" aria-haspopup="true"> Live Well</a><div><ul><li class="first"><span>Over 100 topics on healthy living</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Livewell/alcohol','WT.dl','121')" href="/Livewell/alcohol">Alcohol<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/LiveWell/c25k/Pages/couch-to-5k.aspx','WT.dl','121')" href="/LiveWell/c25k/Pages/couch-to-5k.aspx">Couch to 5K<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/dentalhealth','WT.dl','121')" href="/livewell/dentalhealth">Teeth and dentistry<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/fitness','WT.dl','121')" href="/livewell/fitness">Fitness<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/winterhealth/pages/fluandthefluvaccine.aspx','WT.dl','121')" href="/livewell/winterhealth/pages/fluandthefluvaccine.aspx">The flu jab<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/healthy-eating','WT.dl','121')" href="/livewell/healthy-eating">Healthy eating<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/loseweight','WT.dl','121')" href="/livewell/loseweight">Lose weight<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/mentalhealth/Pages/Mentalhealthhome.aspx','WT.dl','121')" href="/livewell/mentalhealth/Pages/Mentalhealthhome.aspx">Mental health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Livewell/Pain/Pages/Painhome.aspx','WT.dl','121')" href="/Livewell/Pain/Pages/Painhome.aspx">Pain<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/sexualhealth','WT.dl','121')" href="/livewell/sexualhealth">Sexual health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/LiveWell/sleep/Pages/sleep-home.aspx','WT.dl','121')" href="/LiveWell/sleep/Pages/sleep-home.aspx">Sleep<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/smoking','WT.dl','121')" href="/livewell/smoking">Stop smoking<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/tiredness-and-fatigue','WT.dl','121')" href="/livewell/tiredness-and-fatigue">Tiredness<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/tools/pages/toolslibrary.aspx','WT.dl','121')" href="/tools/pages/toolslibrary.aspx"> Health check tools</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/pages/topics.aspx','WT.dl','121')" href="/livewell/pages/topics.aspx"> All Live Well topics</a></li></ul></div></li><li class="carers" id="carers-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/what-is-social-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/what-is-social-care.aspx" role="menuitem" aria-haspopup="true"> Care and support</a><div><ul><li class="first"><span>Your essential guide to social care</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/how-can-i-get-social-care-support.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/how-can-i-get-social-care-support.aspx"> About social care</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/social-care-and-support-guide/Pages/choosing-care-services.aspx','WT.dl','121')" href="/conditions/social-care-and-support-guide/Pages/choosing-care-services.aspx"> Choosing care services</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/assessment-care-needs.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/assessment-care-needs.aspx"> Social care assessments</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/nhs-continuing-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/nhs-continuing-care.aspx"> NHS continuing care</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/mental-capacity.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/mental-capacity.aspx"> Mental capacity</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/home-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/home-care.aspx"> Home care</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/care-homes.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/care-homes.aspx"> Care homes</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/breaks-for-carers-respite-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/breaks-for-carers-respite-care.aspx"> Breaks from caring</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/carers-rights-care-act-2014.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/carers-rights-care-act-2014.aspx"> Carers’ rights</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/young-carers-rights.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/young-carers-rights.aspx"> Young carers</a></li><li class="bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/social-care-and-support-guide','WT.dl','121')" href="/conditions/social-care-and-support-guide"> All care and support topics</a></li></ul></div></li><li class="news" id="news-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/News/Pages/NewsIndex.aspx','WT.dl','121')" href="/News/Pages/NewsIndex.aspx" role="menuitem" aria-haspopup="true"> Health news</a><div><ul><li class="first"><span>Health news stories unspun</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Food%2fdiet','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Food%2fdiet">Diet and nutrition<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Obesity','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Obesity">Obesity and weight loss<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Neurology','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Neurology">Neurology and dementia<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Lifestyle%2fexercise','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Lifestyle%2fexercise">Lifestyle and environment<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Pregnancy%2fchild','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Pregnancy%2fchild">Pregnancy and children<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Cancer','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Cancer">Cancer<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Medication','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Medication">Drugs and vaccines<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Heart%2flungs','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Heart%2flungs">Heart and lungs<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Medical+practice','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Medical+practice">Medical practice<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Older+people','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Older+people">Older people and ageing<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Genetics%2fstem+cells','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Genetics%2fstem+cells">Genetics and stem cells<span class="hidden">  news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Mental+health','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Mental+health">Mental health<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Diabetes','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Diabetes">Diabetes<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicID=QA+articles','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicID=QA+articles"> Topical questions and answers</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Special+reports','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Special+reports"> Special reports</a></li><li class="bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news','WT.dl','121')" href="/news"> All Behind the Headlines news</a></li></ul></div></li><li class="find-services" id="find-services-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/service-search','WT.dl','121')" href="/service-search" role="menuitem" aria-haspopup="true"> Services near you</a><div><ul><li class="topnav-first"><p class="topnav-image"><img src="/img/header/its-your-choice.gif" alt=" its your choice"></p><p class="topnav-heading">Don't miss out ...</p><p>Exercise your right to choice in the NHS</p>
-<p class="topnav-link"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/choiceinthenhs/Pages/choicehome.aspx','WT.dl','121')" href="/choiceinthenhs/Pages/choicehome.aspx"> Learn about patient choice now</a></p></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Accident-and-emergency-services/LocationSearch/428','WT.dl','121')" href="/Service-Search/Accident-and-emergency-services/LocationSearch/428">A&amp;E<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Hospital/LocationSearch/7/Hospitals','WT.dl','121')" href="/Service-Search/Hospital/LocationSearch/7/Hospitals">Hospitals<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/GP/LocationSearch/4','WT.dl','121')" href="/Service-Search/GP/LocationSearch/4">GPs<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Dentist/LocationSearch/3','WT.dl','121')" href="/Service-Search/Dentist/LocationSearch/3">Dentists<span class="hidden">search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Pharmacy/LocationSearch/10','WT.dl','121')" href="/Service-Search/Pharmacy/LocationSearch/10">Pharmacies<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Care-homes-and-care-at-home/LocationSearch/11','WT.dl','121')" href="/Service-Search/Care-homes-and-care-at-home/LocationSearch/11">Care homes and care at home<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Maternity-service/LocationSearch/1802','WT.dl','121')" href="/Service-Search/Maternity-service/LocationSearch/1802">Maternity<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Depression/LocationSearch/288','WT.dl','121')" href="/Service-Search/Depression/LocationSearch/288">Depression<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Alcohol-addiction/LocationSearch/1805','WT.dl','121')" href="/Service-Search/Alcohol-addiction/LocationSearch/1805">Alcohol<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Sexual-health-services/LocationSearch/1847','WT.dl','121')" href="/Service-Search/Sexual-health-services/LocationSearch/1847">Sexual health<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Hospital/LocationSearch/7/Consultants','WT.dl','121')" href="/Service-Search/Hospital/LocationSearch/7/Consultants">Consultants<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Stop-smoking-services/LocationSearch/1846','WT.dl','121')" href="/Service-Search/Stop-smoking-services/LocationSearch/1846">Stop smoking services</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Urgent-Care/LocationSearch/0','WT.dl','121')" href="/Service-Search/Urgent-Care/LocationSearch/0">Urgent care services</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Services','WT.dl','121')" href="/Service-Search/Services"> All directories</a></li></ul></div></li></ul>
+	<ul role="menubar"><li class="health-az active" id="health-az-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Pages/hub.aspx','WT.dl','121')" href="/Conditions/Pages/hub.aspx" role="menuitem" aria-haspopup="true"> Health A-Z</a><div><ul><li class="first"><span>Hundreds of conditions explained</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Arthritis','WT.dl','121')" href="/Conditions/Arthritis">Arthritis<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/asthma','WT.dl','121')" href="/conditions/asthma">Asthma<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Back-pain','WT.dl','121')" href="/Conditions/Back-pain">Back pain<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx','WT.dl','121')" href="/Conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx">Stress, anxiety, depression<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Cancer-of-the-breast-female','WT.dl','121')" href="/Conditions/Cancer-of-the-breast-female">Breast cancer<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/pregnancy-and-baby/pages/pregnancy-and-baby-care.aspx','WT.dl','121')" href="/Conditions/pregnancy-and-baby/pages/pregnancy-and-baby-care.aspx">Pregnancy and baby<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Diabetes/Pages/Diabetes.aspx','WT.dl','121')" href="/Conditions/Diabetes/Pages/Diabetes.aspx">Diabetes<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/dementia-guide/Pages/about-dementia.aspx','WT.dl','121')" href="/Conditions/dementia-guide/Pages/about-dementia.aspx">Dementia<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Coronary-heart-disease','WT.dl','121')" href="/Conditions/Coronary-heart-disease">Heart disease<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/measles','WT.dl','121')" href="/conditions/measles">Measles<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/nhs-health-check/Pages/NHS-Health-Check.aspx','WT.dl','121')" href="/Conditions/nhs-health-check/Pages/NHS-Health-Check.aspx">NHS Health Check<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/vaccinations/Pages/vaccination-schedule-age-checklist.aspx','WT.dl','121')" href="/Conditions/vaccinations/Pages/vaccination-schedule-age-checklist.aspx">Vaccinations<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CHQ/Pages/home.aspx','WT.dl','121')" href="/CHQ/Pages/home.aspx"> Common health questions</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Pages/BodyMap.aspx?Index=A','WT.dl','121')" href="/Conditions/Pages/BodyMap.aspx?Index=A"> All A-Z topics</a></li></ul></div></li><li class="livewell" id="livewell-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/Pages/Livewellhub.aspx','WT.dl','121')" href="/livewell/Pages/Livewellhub.aspx" role="menuitem" aria-haspopup="true"> Live Well</a><div><ul><li class="first"><span>Over 100 topics on healthy living</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Livewell/alcohol','WT.dl','121')" href="/Livewell/alcohol">Alcohol<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/LiveWell/c25k/Pages/couch-to-5k.aspx','WT.dl','121')" href="/LiveWell/c25k/Pages/couch-to-5k.aspx">Couch to 5K<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/dentalhealth','WT.dl','121')" href="/livewell/dentalhealth">Teeth and dentistry<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/fitness','WT.dl','121')" href="/livewell/fitness">Fitness<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/winterhealth/pages/fluandthefluvaccine.aspx','WT.dl','121')" href="/livewell/winterhealth/pages/fluandthefluvaccine.aspx">The flu jab<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/healthy-eating','WT.dl','121')" href="/livewell/healthy-eating">Healthy eating<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/loseweight','WT.dl','121')" href="/livewell/loseweight">Lose weight<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/mentalhealth/Pages/Mentalhealthhome.aspx','WT.dl','121')" href="/livewell/mentalhealth/Pages/Mentalhealthhome.aspx">Mental health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Livewell/Pain/Pages/Painhome.aspx','WT.dl','121')" href="/Livewell/Pain/Pages/Painhome.aspx">Pain<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/sexualhealth','WT.dl','121')" href="/livewell/sexualhealth">Sexual health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/LiveWell/sleep/Pages/sleep-home.aspx','WT.dl','121')" href="/LiveWell/sleep/Pages/sleep-home.aspx">Sleep<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/smoking','WT.dl','121')" href="/livewell/smoking">Stop smoking<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/tiredness-and-fatigue','WT.dl','121')" href="/livewell/tiredness-and-fatigue">Tiredness<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/tools/pages/toolslibrary.aspx','WT.dl','121')" href="/tools/pages/toolslibrary.aspx"> Health check tools</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/pages/topics.aspx','WT.dl','121')" href="/livewell/pages/topics.aspx"> All Live Well topics</a></li></ul></div></li><li class="carers" id="carers-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/what-is-social-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/what-is-social-care.aspx" role="menuitem" aria-haspopup="true"> Care and support</a><div><ul><li class="first"><span>Your essential guide to social care</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/how-can-i-get-social-care-support.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/how-can-i-get-social-care-support.aspx"> About social care</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/social-care-and-support-guide/Pages/choosing-care-services.aspx','WT.dl','121')" href="/conditions/social-care-and-support-guide/Pages/choosing-care-services.aspx"> Choosing care services</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/assessment-care-needs.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/assessment-care-needs.aspx"> Social care assessments</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/nhs-continuing-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/nhs-continuing-care.aspx"> NHS continuing care</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/mental-capacity.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/mental-capacity.aspx"> Mental capacity</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/home-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/home-care.aspx"> Home care</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/care-homes.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/care-homes.aspx"> Care homes</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/breaks-for-carers-respite-care.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/breaks-for-carers-respite-care.aspx"> Breaks from caring</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/carers-rights-care-act-2014.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/carers-rights-care-act-2014.aspx"> Carers’ rights</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/social-care-and-support-guide/Pages/young-carers-rights.aspx','WT.dl','121')" href="/Conditions/social-care-and-support-guide/Pages/young-carers-rights.aspx"> Young carers</a></li><li class="bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/social-care-and-support-guide','WT.dl','121')" href="/conditions/social-care-and-support-guide"> All care and support topics</a></li></ul></div></li><li class="news" id="news-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/News/Pages/NewsIndex.aspx','WT.dl','121')" href="/News/Pages/NewsIndex.aspx" role="menuitem" aria-haspopup="true"> Health news</a><div><ul><li class="first"><span>Health news stories unspun</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Food%2fdiet','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Food%2fdiet">Diet and nutrition<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Obesity','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Obesity">Obesity and weight loss<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Neurology','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Neurology">Neurology and dementia<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Lifestyle%2fexercise','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Lifestyle%2fexercise">Lifestyle and environment<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Pregnancy%2fchild','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Pregnancy%2fchild">Pregnancy and children<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Cancer','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Cancer">Cancer<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Medication','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Medication">Drugs and vaccines<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Heart%2flungs','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Heart%2flungs">Heart and lungs<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Medical+practice','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Medical+practice">Medical practice<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Older+people','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Older+people">Older people and ageing<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Genetics%2fstem+cells','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Genetics%2fstem+cells">Genetics and stem cells<span class="hidden">  news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Mental+health','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Mental+health">Mental health<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Diabetes','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Diabetes">Diabetes<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicID=QA+articles','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicID=QA+articles"> Topical questions and answers</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Special+reports','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Special+reports"> Special reports</a></li><li class="bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news','WT.dl','121')" href="/news"> All Behind the Headlines news</a></li></ul></div></li><li class="find-services" id="find-services-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/service-search','WT.dl','121')" href="/service-search" role="menuitem" aria-haspopup="true"> Services near you</a><div><ul><li class="topnav-first"><p class="topnav-image"><img src="/img/header/its-your-choice.gif" alt=" its your choice"></p><p class="topnav-heading">Don't miss out ...</p><p>Exercise your right to choice in the NHS</p>
+<p class="topnav-link"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/choiceinthenhs/Pages/choicehome.aspx','WT.dl','121')" href="/choiceinthenhs/Pages/choicehome.aspx"> Learn about patient choice now</a></p></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Accident-and-emergency-services/LocationSearch/428','WT.dl','121')" href="/Service-Search/Accident-and-emergency-services/LocationSearch/428">A&amp;E<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Hospital/LocationSearch/7/Hospitals','WT.dl','121')" href="/Service-Search/Hospital/LocationSearch/7/Hospitals">Hospitals<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/GP/LocationSearch/4','WT.dl','121')" href="/Service-Search/GP/LocationSearch/4">GPs<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Dentist/LocationSearch/3','WT.dl','121')" href="/Service-Search/Dentist/LocationSearch/3">Dentists<span class="hidden">search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Pharmacy/LocationSearch/10','WT.dl','121')" href="/Service-Search/Pharmacy/LocationSearch/10">Pharmacies<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Care at home/LocationSearch/1833','WT.dl','121')" href="/Service-Search/Care at home/LocationSearch/1833">Homecare and care homes<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Maternity-service/LocationSearch/1802','WT.dl','121')" href="/Service-Search/Maternity-service/LocationSearch/1802">Maternity<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Depression/LocationSearch/288','WT.dl','121')" href="/Service-Search/Depression/LocationSearch/288">Depression<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Alcohol-addiction/LocationSearch/1805','WT.dl','121')" href="/Service-Search/Alcohol-addiction/LocationSearch/1805">Alcohol<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Sexual-health-services/LocationSearch/1847','WT.dl','121')" href="/Service-Search/Sexual-health-services/LocationSearch/1847">Sexual health<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Hospital/LocationSearch/7/Consultants','WT.dl','121')" href="/Service-Search/Hospital/LocationSearch/7/Consultants">Consultants<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Stop-smoking-services/LocationSearch/1846','WT.dl','121')" href="/Service-Search/Stop-smoking-services/LocationSearch/1846">Stop smoking services</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Urgent-Care/LocationSearch/0','WT.dl','121')" href="/Service-Search/Urgent-Care/LocationSearch/0">Urgent care services</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Service-Search/Services','WT.dl','121')" href="/Service-Search/Services"> All directories</a></li></ul></div></li></ul>
 </div><div id="ctl00_Header_onlineSurveyInjector" class="survey">
 
 </div>
@@ -268,8 +297,7 @@ function NhsUk_OnSubmit()
 
     <!-- Header ends here.... -->
 
-    <form method="post" action="Privacypolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
-<div>
+    <form name="aspnetForm" method="post" action="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
@@ -280,35 +308,23 @@ function NhsUk_OnSubmit()
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
 <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
 <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x001F1A7187F61C1F14F223252D8F67BA7509FC567A278766FFA591ECF5DCD25318704E278D537A08EF45161C74EEBBC280F956AFD63206D157B28B9CBC41AD04,28 Jun 2015 20:17:32 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x97ACDA666B6C22CD8C92B4BCF5A7F59078169FCEE024512A1E8CCA90EE0E368B6C1B3AFAB3181631B838B212AE8B9F4BEEA458C40AD0EDB7C6B1E895C5A62AA3,25 Dec 2015 14:25:09 -0000">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
 <input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
 <input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMBBkZBYCZg9kFggCCA9kFgJmDxYCHgdWaXNpYmxlaGQCCQ9kFgQCAQ9kFgICAg8PFgIfAGcWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAIDD2QWBAIBDw8WAh8AaGQWAgIBDxYCHwBoFgJmD2QWBAICD2QWAgIDDxYCHwBoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCAw8PFgIfAGhkFgQCAQ8PFgIfAGhkZAIDDw8WAh8AaGQWAgIBDw8WAh8AZ2QWBAIBDw8WAh8AaGQWHAIBDw8WAh8AaGRkAgMPFgIfAGhkAgUPDxYCHwBoZGQCBw8WAh8AaGQCCQ8PFgIfAGhkZAILDw8WAh8AaGRkAg0PDxYCHwBoZGQCDw8PFgQeB0VuYWJsZWRoHwBoZGQCEQ8PFgIfAGhkZAITDw8WBB8DaB8AaGRkAhUPDxYCHwBoZGQCFw8WAh8AaGQCGQ8WAh8AaGQCGw8PFgIfAGdkZAIDDw8WAh8AZ2QWBgIBDw8WAh8AZ2RkAgMPDxYCHwBnZGQCBQ8PFgIfAGdkZAIKD2QWAmYPZBYCZg9kFgYCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCCBYQZg9kFgJmDxUFDiBjbGFzcz0iZmlyc3QiFC9QYWdlcy9Ib21lUGFnZS5hc3B4DiBhY2Nlc3NrZXk9IjEiFC9QYWdlcy9Ib21lUGFnZS5hc3B4BEhvbWVkAgEPZBYCZg8VBQArL2Fib3V0TkhTQ2hvaWNlcy9QYWdlcy9BYm91dE5IU0Nob2ljZXMuYXNweAArL2Fib3V0TkhTQ2hvaWNlcy9QYWdlcy9BYm91dE5IU0Nob2ljZXMuYXNweAVBYm91dGQCAg9kFgJmDxUFACUvYWJvdXROSFNDaG9pY2VzL1BhZ2VzL0NvbnRhY3RVcy5hc3B4DiBhY2Nlc3NrZXk9IjkiJS9hYm91dE5IU0Nob2ljZXMvUGFnZXMvQ29udGFjdFVzLmFzcHgHQ29udGFjdGQCAw9kFgJmDxUFAB4vdG9vbHMvcGFnZXMvdG9vbHNsaWJyYXJ5LmFzcHgAHi90b29scy9wYWdlcy90b29sc2xpYnJhcnkuYXNweAVUb29sc2QCBA9kFgJmDxUFAB4vdmlkZW8vcGFnZXMvTWVkaWFMaWJyYXJ5LmFzcHgAHi92aWRlby9wYWdlcy9NZWRpYUxpYnJhcnkuYXNweAVWaWRlb2QCBQ9kFgJmDxUFABxodHRwczovL3d3dy5lYnMubmNycy5uaHMudWsvABxodHRwczovL3d3dy5lYnMubmNycy5uaHMudWsvEmUtUmVmZXJyYWwgU2VydmljZWQCBg9kFgJmDxUFAClodHRwOi8vd3d3LmhlYWx0aHVubG9ja2VkLmNvbS9uaHNjaG9pY2VzLwApaHR0cDovL3d3dy5oZWFsdGh1bmxvY2tlZC5jb20vbmhzY2hvaWNlcy8LQ29tbXVuaXRpZXNkAgcPZBYCZg8VBQ0gY2xhc3M9Imxhc3QiFy9pcGcvUGFnZXMvSVBTdGFydC5hc3B4ABcvaXBnL1BhZ2VzL0lQU3RhcnQuYXNweANJUFNkAgMPZBYCAgIPFgIeBGhyZWYFmgEvUGVyc29uYWxpc2F0aW9uL1JlZ2lzdHJhdGlvbi5hc3B4P1JldHVyblVybD1odHRwJTNhJTJmJTJmd3d3Lm5ocy51ayUyZmFib3V0TkhTQ2hvaWNlcyUyZmFib3V0bmhzY2hvaWNlcyUyZnRlcm1zYW5kY29uZGl0aW9ucyUyZlBhZ2VzJTJmUHJpdmFjeXBvbGljeS5hc3B4ZAIFDxYCHwBoZAILD2QWBAIMD2QWAgIBD2QWDAILDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAINEBYCHwYLKwQBZGQCDxBkZBYCZg8PFgIfAGhkZAIRD2QWDAIBDxYCHwUFlgJtYWlsdG86P3N1YmplY3Q9WW91ciBwcml2YWN5IG9uIE5IUyBDaG9pY2VzJmFtcDtib2R5PUkgcmVhZCB0aGlzIG9uIHRoZSBOSFMgQ2hvaWNlcyAoaHR0cDovL3d3dy5uaHMudWspIHdlYnNpdGUgYW5kIHRob3VnaHQgeW91IHNob3VsZCByZWFkIGl0IHRvbzoNCiBodHRwJTNhJTJmJTJmd3d3Lm5ocy51ayUyZmFib3V0TkhTQ2hvaWNlcyUyZmFib3V0bmhzY2hvaWNlcyUyZnRlcm1zYW5kY29uZGl0aW9ucyUyZlBhZ2VzJTJmUHJpdmFjeXBvbGljeS5hc3B4JmFtcDtXVC5tY19pZD0yMDQxMWQCAg8VBBtZb3VyK3ByaXZhY3krb24rTkhTK0Nob2ljZXNtaHR0cCUzYSUyZiUyZnd3dy5uaHMudWslMmZhYm91dE5IU0Nob2ljZXMlMmZhYm91dG5oc2Nob2ljZXMlMmZ0ZXJtc2FuZGNvbmRpdGlvbnMlMmZQYWdlcyUyZlByaXZhY3lwb2xpY3kuYXNweG1odHRwJTNhJTJmJTJmd3d3Lm5ocy51ayUyZmFib3V0TkhTQ2hvaWNlcyUyZmFib3V0bmhzY2hvaWNlcyUyZnRlcm1zYW5kY29uZGl0aW9ucyUyZlBhZ2VzJTJmUHJpdmFjeXBvbGljeS5hc3B4G1lvdXIrcHJpdmFjeStvbitOSFMrQ2hvaWNlc2QCAw9kFgRmDxUCbWh0dHAlM2ElMmYlMmZ3d3cubmhzLnVrJTJmYWJvdXROSFNDaG9pY2VzJTJmYWJvdXRuaHNjaG9pY2VzJTJmdGVybXNhbmRjb25kaXRpb25zJTJmUGFnZXMlMmZQcml2YWN5cG9saWN5LmFzcHgbWW91citwcml2YWN5K29uK05IUytDaG9pY2VzZAIBD2QWAgIBDxYCHwUFXy9hYm91dE5IU0Nob2ljZXMvYWJvdXRuaHNjaG9pY2VzL3Rlcm1zYW5kY29uZGl0aW9ucy9QYWdlcy9Qcml2YWN5cG9saWN5LmFzcHg/c2F2ZWZhdm91cml0ZT10cnVlZAIFDxYCHwBoZAIHDxYCHwBoFgICAQ8PFgIfAGhkZAILDxYCHwBoFgICAQ9kFhYCAQ9kFgICAQ9kFgJmD2QWAmYPFQEJQmFzZWQgb24gZAIDD2QWAmYPZBYEZg8VAV1jdGwwMF9QbGFjZUhvbGRlck1haW5fTWFpbkNvbnRlbnRTdWJDYXRlZ29yeV9Cb29rbWFyazFfUmF0aW5nc19GaXZlU3RhclJhdGluZ19SYXRpbmdTZWxlY3RvcnNkAgEPEBYEHghkaXNhYmxlZAUIZGlzYWJsZWQeC18hRGF0YUJvdW5kZ2QUKwEBAgRkAgUPZBYCZg9kFgRmDxUBXWN0bDAwX1BsYWNlSG9sZGVyTWFpbl9NYWluQ29udGVudFN1YkNhdGVnb3J5X0Jvb2ttYXJrMV9SYXRpbmdzX0ZvdXJTdGFyUmF0aW5nX1JhdGluZ1NlbGVjdG9yc2QCAQ8QFgQfBwUIZGlzYWJsZWQfCGdkFCsBAQIDZAIHD2QWAmYPZBYEZg8VAV5jdGwwMF9QbGFjZUhvbGRlck1haW5fTWFpbkNvbnRlbnRTdWJDYXRlZ29yeV9Cb29rbWFyazFfUmF0aW5nc19UaHJlZVN0YXJSYXRpbmdfUmF0aW5nU2VsZWN0b3JzZAIBDxAWBB8HBQhkaXNhYmxlZB8IZ2QUKwEBAgJkAgkPZBYCZg9kFgRmDxUBXGN0bDAwX1BsYWNlSG9sZGVyTWFpbl9NYWluQ29udGVudFN1YkNhdGVnb3J5X0Jvb2ttYXJrMV9SYXRpbmdzX1R3b1N0YXJSYXRpbmdfUmF0aW5nU2VsZWN0b3JzZAIBDxAWBB8HBQhkaXNhYmxlZB8IZ2QUKwEBAgFkAgsPZBYCZg9kFgRmDxUBXGN0bDAwX1BsYWNlSG9sZGVyTWFpbl9NYWluQ29udGVudFN1YkNhdGVnb3J5X0Jvb2ttYXJrMV9SYXRpbmdzX09uZVN0YXJSYXRpbmdfUmF0aW5nU2VsZWN0b3JzZAIBDxAWBB8HBQhkaXNhYmxlZB8IZ2QUKwEBZmQCDQ9kFgJmD2QWBGYPFQFZY3RsMDBfUGxhY2VIb2xkZXJNYWluX01haW5Db250ZW50U3ViQ2F0ZWdvcnlfQm9va21hcmsxX1JhdGluZ3NfVXNlclJhdGluZ19SYXRpbmdTZWxlY3RvcnNkAgEPEBYEHwdkHwhnZBQrAQECBGQCDw8WAh8AaBYCAgEPZBYGZg8PFgIeCEltYWdlVXJsBRxIYW5kbGVycy9DYXB0Y2hhSGFuZGxlci5hc2h4ZGQCBA8PFgQeBFRleHQFA1RyeR8AaGRkAgYPDxYCHwoFFENoYW5nZSBDYXB0Y2hhIEltYWdlZGQCEQ8WAh8AaGQCFQ8PFgIeC05hdmlnYXRlVXJsBTZodHRwOi8vd3d3Lm5ocy51ay9hYm91dE5IU0Nob2ljZXMvUGFnZXMvQ29udGFjdFVzLmFzcHhkZAIXDw8WAh8AZ2RkAhMPZBYEZg8WAh8GCysEAWQCAQ8WAh8GCysEAWQCFRBkZBYCZg8PFgIfAGhkZAIQD2QWAmYPZBYCZg9kFgJmD2QWBgIBDxYCHwoFF05IUyBDaG9pY2VzIGluZm9ybWF0aW9uZAIDDxYCHwoFFUNob2ljZXMgZS1uZXdzbGV0dGVyc2QCBQ8WAh8KBQpZb3VyIHBhZ2VzZGT5rGYrxE99bUWpFC9cZuwcfCoZXg==">
-</div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMBBkZBYCZg9kFgoCCA9kFgJmDxYCHgdWaXNpYmxlZ2QCCQ9kFgJmDxYCHwBoZAIKD2QWBAIBD2QWAgICDw8WAh8AZxYCHgVzdHlsZQUOZGlzcGxheTpibG9jaztkAgMPZBYEAgEPDxYCHwBoZBYCAgEPFgIfAGgWAmYPZBYEAgIPZBYCAgMPFgIfAGhkAgMPDxYCHglBY2Nlc3NLZXkFAS9kZAIDDw8WAh8AaGQWBAIBDw8WAh8AaGRkAgMPDxYCHwBoZBYCAgEPDxYCHwBnZBYEAgEPDxYCHwBoZBYcAgEPDxYCHwBoZGQCAw8WAh8AaGQCBQ8PFgIfAGhkZAIHDxYCHwBoZAIJDw8WAh8AaGRkAgsPDxYCHwBoZGQCDQ8PFgIfAGhkZAIPDw8WBB4HRW5hYmxlZGgfAGhkZAIRDw8WAh8AaGRkAhMPDxYEHwNoHwBoZGQCFQ8PFgIfAGhkZAIXDxYCHwBoZAIZDxYCHwBoZAIbDw8WAh8AZ2RkAgMPDxYCHwBnZBYGAgEPDxYCHwBnZGQCAw8PFgIfAGdkZAIFDw8WAh8AZ2RkAgsPZBYCZg9kFgJmD2QWBgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIIFhBmD2QWAmYPFQUOIGNsYXNzPSJmaXJzdCIUL1BhZ2VzL0hvbWVQYWdlLmFzcHgOIGFjY2Vzc2tleT0iMSIUL1BhZ2VzL0hvbWVQYWdlLmFzcHgESG9tZWQCAQ9kFgJmDxUFACsvYWJvdXROSFNDaG9pY2VzL1BhZ2VzL0Fib3V0TkhTQ2hvaWNlcy5hc3B4ACsvYWJvdXROSFNDaG9pY2VzL1BhZ2VzL0Fib3V0TkhTQ2hvaWNlcy5hc3B4BUFib3V0ZAICD2QWAmYPFQUAJS9hYm91dE5IU0Nob2ljZXMvUGFnZXMvQ29udGFjdFVzLmFzcHgOIGFjY2Vzc2tleT0iOSIlL2Fib3V0TkhTQ2hvaWNlcy9QYWdlcy9Db250YWN0VXMuYXNweAdDb250YWN0ZAIDD2QWAmYPFQUAHi90b29scy9wYWdlcy90b29sc2xpYnJhcnkuYXNweAAeL3Rvb2xzL3BhZ2VzL3Rvb2xzbGlicmFyeS5hc3B4BVRvb2xzZAIED2QWAmYPFQUAHi92aWRlby9wYWdlcy9NZWRpYUxpYnJhcnkuYXNweAAeL3ZpZGVvL3BhZ2VzL01lZGlhTGlicmFyeS5hc3B4BVZpZGVvZAIFD2QWAmYPFQUAHGh0dHBzOi8vd3d3LmVicy5uY3JzLm5ocy51ay8AHGh0dHBzOi8vd3d3LmVicy5uY3JzLm5ocy51ay8SZS1SZWZlcnJhbCBTZXJ2aWNlZAIGD2QWAmYPFQUAKWh0dHA6Ly93d3cuaGVhbHRodW5sb2NrZWQuY29tL25oc2Nob2ljZXMvAClodHRwOi8vd3d3LmhlYWx0aHVubG9ja2VkLmNvbS9uaHNjaG9pY2VzLwtDb21tdW5pdGllc2QCBw9kFgJmDxUFDSBjbGFzcz0ibGFzdCIXL2lwZy9QYWdlcy9JUFN0YXJ0LmFzcHgAFy9pcGcvUGFnZXMvSVBTdGFydC5hc3B4A0lQU2QCAw9kFgICAg8WAh4EaHJlZgWaAS9QZXJzb25hbGlzYXRpb24vUmVnaXN0cmF0aW9uLmFzcHg/UmV0dXJuVXJsPWh0dHAlM2ElMmYlMmZ3d3cubmhzLnVrJTJmYWJvdXROSFNDaG9pY2VzJTJmYWJvdXRuaHNjaG9pY2VzJTJmdGVybXNhbmRjb25kaXRpb25zJTJmUGFnZXMlMmZQcml2YWN5cG9saWN5LmFzcHhkAgUPFgIfAGhkAgwPZBYEAgwPZBYCAgEPZBYMAgsPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAg0QFgIfBgsrBAFkZAIPEGRkFgJmDw8WAh8AaGRkAhEPZBYMAgEPFgIfBQWWAm1haWx0bzo/c3ViamVjdD1Zb3VyIHByaXZhY3kgb24gTkhTIENob2ljZXMmYW1wO2JvZHk9SSByZWFkIHRoaXMgb24gdGhlIE5IUyBDaG9pY2VzIChodHRwOi8vd3d3Lm5ocy51aykgd2Vic2l0ZSBhbmQgdGhvdWdodCB5b3Ugc2hvdWxkIHJlYWQgaXQgdG9vOg0KIGh0dHAlM2ElMmYlMmZ3d3cubmhzLnVrJTJmYWJvdXROSFNDaG9pY2VzJTJmYWJvdXRuaHNjaG9pY2VzJTJmdGVybXNhbmRjb25kaXRpb25zJTJmUGFnZXMlMmZQcml2YWN5cG9saWN5LmFzcHgmYW1wO1dULm1jX2lkPTIwNDExZAICDxUEG1lvdXIrcHJpdmFjeStvbitOSFMrQ2hvaWNlc21odHRwJTNhJTJmJTJmd3d3Lm5ocy51ayUyZmFib3V0TkhTQ2hvaWNlcyUyZmFib3V0bmhzY2hvaWNlcyUyZnRlcm1zYW5kY29uZGl0aW9ucyUyZlBhZ2VzJTJmUHJpdmFjeXBvbGljeS5hc3B4bWh0dHAlM2ElMmYlMmZ3d3cubmhzLnVrJTJmYWJvdXROSFNDaG9pY2VzJTJmYWJvdXRuaHNjaG9pY2VzJTJmdGVybXNhbmRjb25kaXRpb25zJTJmUGFnZXMlMmZQcml2YWN5cG9saWN5LmFzcHgbWW91citwcml2YWN5K29uK05IUytDaG9pY2VzZAIDD2QWBGYPFQJtaHR0cCUzYSUyZiUyZnd3dy5uaHMudWslMmZhYm91dE5IU0Nob2ljZXMlMmZhYm91dG5oc2Nob2ljZXMlMmZ0ZXJtc2FuZGNvbmRpdGlvbnMlMmZQYWdlcyUyZlByaXZhY3lwb2xpY3kuYXNweBtZb3VyK3ByaXZhY3krb24rTkhTK0Nob2ljZXNkAgEPZBYCAgEPFgIfBQVfL2Fib3V0TkhTQ2hvaWNlcy9hYm91dG5oc2Nob2ljZXMvdGVybXNhbmRjb25kaXRpb25zL1BhZ2VzL1ByaXZhY3lwb2xpY3kuYXNweD9zYXZlZmF2b3VyaXRlPXRydWVkAgUPFgIfAGhkAgcPFgIfAGgWAgIBDw8WAh8AaGRkAgsPFgIfAGgWAgIBD2QWFgIBD2QWAgIBD2QWAmYPZBYCZg8VAQlCYXNlZCBvbiBkAgMPZBYCZg9kFgRmDxUBXWN0bDAwX1BsYWNlSG9sZGVyTWFpbl9NYWluQ29udGVudFN1YkNhdGVnb3J5X0Jvb2ttYXJrMV9SYXRpbmdzX0ZpdmVTdGFyUmF0aW5nX1JhdGluZ1NlbGVjdG9yc2QCAQ8QFgQeCGRpc2FibGVkBQhkaXNhYmxlZB4LXyFEYXRhQm91bmRnZBQrAQECBGQCBQ9kFgJmD2QWBGYPFQFdY3RsMDBfUGxhY2VIb2xkZXJNYWluX01haW5Db250ZW50U3ViQ2F0ZWdvcnlfQm9va21hcmsxX1JhdGluZ3NfRm91clN0YXJSYXRpbmdfUmF0aW5nU2VsZWN0b3JzZAIBDxAWBB8HBQhkaXNhYmxlZB8IZ2QUKwEBAgNkAgcPZBYCZg9kFgRmDxUBXmN0bDAwX1BsYWNlSG9sZGVyTWFpbl9NYWluQ29udGVudFN1YkNhdGVnb3J5X0Jvb2ttYXJrMV9SYXRpbmdzX1RocmVlU3RhclJhdGluZ19SYXRpbmdTZWxlY3RvcnNkAgEPEBYEHwcFCGRpc2FibGVkHwhnZBQrAQECAmQCCQ9kFgJmD2QWBGYPFQFcY3RsMDBfUGxhY2VIb2xkZXJNYWluX01haW5Db250ZW50U3ViQ2F0ZWdvcnlfQm9va21hcmsxX1JhdGluZ3NfVHdvU3RhclJhdGluZ19SYXRpbmdTZWxlY3RvcnNkAgEPEBYEHwcFCGRpc2FibGVkHwhnZBQrAQECAWQCCw9kFgJmD2QWBGYPFQFcY3RsMDBfUGxhY2VIb2xkZXJNYWluX01haW5Db250ZW50U3ViQ2F0ZWdvcnlfQm9va21hcmsxX1JhdGluZ3NfT25lU3RhclJhdGluZ19SYXRpbmdTZWxlY3RvcnNkAgEPEBYEHwcFCGRpc2FibGVkHwhnZBQrAQFmZAIND2QWAmYPZBYEZg8VAVljdGwwMF9QbGFjZUhvbGRlck1haW5fTWFpbkNvbnRlbnRTdWJDYXRlZ29yeV9Cb29rbWFyazFfUmF0aW5nc19Vc2VyUmF0aW5nX1JhdGluZ1NlbGVjdG9yc2QCAQ8QFgQfB2QfCGdkFCsBAQIEZAIPDxYCHwBoFgICAQ9kFgZmDw8WAh4ISW1hZ2VVcmwFHEhhbmRsZXJzL0NhcHRjaGFIYW5kbGVyLmFzaHhkZAIEDw8WBB4EVGV4dAUDVHJ5HwBoZGQCBg8PFgIfCgUUQ2hhbmdlIENhcHRjaGEgSW1hZ2VkZAIRDxYCHwBoZAIVDw8WAh4LTmF2aWdhdGVVcmwFNmh0dHA6Ly93d3cubmhzLnVrL2Fib3V0TkhTQ2hvaWNlcy9QYWdlcy9Db250YWN0VXMuYXNweGRkAhcPDxYCHwBnZGQCEw9kFgRmDxYCHwYLKwQBZAIBDxYCHwYLKwQBZAIVEGRkFgJmDw8WAh8AaGRkAhAPZBYCZg9kFgJmD2QWAmYPZBYGAgEPFgIfCgUXTkhTIENob2ljZXMgaW5mb3JtYXRpb25kAgMPFgIfCgUVQ2hvaWNlcyBlLW5ld3NsZXR0ZXJzZAIFDxYCHwoFCllvdXIgcGFnZXNkZKq63yp9A7o0jJ9NhaaIfJb2jIZd">
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
+<script type="text/javascript"> var MSOWebPartPageFormName = 'aspnetForm';</script><link href="/_layouts/1033/styles/Menu.css?rev=jQ88ZMCVEKRn%2FLeYuywntQ%3D%3D" rel="stylesheet">
+<script type="text/JavaScript">
+<!--
+var L_Menu_BaseUrl="/aboutNHSChoices/aboutnhschoices/termsandconditions";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
 </script>
-
-
-<script src="/WebResource.axd?d=E-wYADGR95cKnlHmVJ7-E7S2iuY55NnlOW5Jh2aCtWrQTKIo89wBV30SKRlwy2airItEy6ABWWNdDqqVN-G7AHPVUmY1&amp;t=635588624026805809" type="text/javascript"></script>
-
-<script type="text/javascript"> var MSOWebPartPageFormName = 'aspnetForm';</script>
 <script type="text/javascript">
 //<![CDATA[
 var feedbackurl = 'http://www.nhs.uk/aboutNHSChoices/Pages/ContactUs.aspx';$(document).ready(function() { 
@@ -318,27 +334,8 @@ var feedbackurl = 'http://www.nhs.uk/aboutNHSChoices/Pages/ContactUs.aspx';$(doc
 </script>
 
 <script src="/ScriptResource.axd?d=60BavXcg557IDlC8DH-JRmQ67EA7sWKpQ0S9jwEJIGWWYw9dVD53OwZCz5RxaUhq6LO71mq_w82ADgG8iEvebjfORzGSoPtfntCgghJONeyiZ5Vpa_nGuR6nKWq9n9CdGfQeJG5emeCKMpsPGgDmV4pr7G01&amp;t=2e2045e2" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Ke7zvn9hXGNMdn-MFccv7GZU9ujX49EFKizEBV2KI8hScK0BA2GLTbYEGI1VEBGNBSeHcNWAlMO0Vi11hDFCz7xmeu2iMCnK2evNibtJebLg-XTxCx71J--ncPom7JemLXPO3OU7RtWAQoocm6P_abTmpqsXUBZud6l8xRNsMQf3vH6K0&amp;t=2e2045e2" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-UpdateFormDigest('\u002faboutNHSChoices\u002faboutnhschoices\u002ftermsandconditions', 1440000);
-return true;
-}
-//]]>
-</script>
-
-										<div>
-
-											<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
-										</div>
-    <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
-//]]>
-</script>
-
+										<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
+    
     
     	
     
@@ -361,20 +358,20 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 	<div class="">
   <ul>
     <li>
-      <a href="/aboutNHSChoices/Pages/NHSChoicesintroduction.aspx">NHS Choices</a>
+      <a href="/ABOUTNHSCHOICES/Pages/NHSChoicesintroduction.aspx">NHS Choices</a>
     </li>
     <li>
-      <a href="/ABOUTNHSCHOICES/ABOUTNHSCHOICES/Pages/AboutNHSChoiceshome.aspx">About NHS Choices </a>
+      <a href="/ABOUTNHSCHOICES/ABOUTNHSCHOICES/Pages/what-we-do.aspx">About NHS Choices</a>
     </li>
     <li>
       <a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/termsandconditions.aspx">Terms and conditions </a>
     </li>
-    <li>Your privacy on NHS Choices</li>
+    <li>Privacy policy</li>
   </ul>
 </div>
 </div>
 			
-			<h1>Terms and conditions
+			<h1>Our terms, conditions and policies
 
 
 </h1>
@@ -412,27 +409,27 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 						<div class="article">
 						    <div class="panel">
 <div class="pad-rl"><span class="crnr tl"></span><span class="crnr tr"></span>
-<div style="padding-left:0px" class="panel-top">
+<div class="panel-top" style="padding-left:0px">
 <h3>Personal data collected</h3>
-<img alt="" style="border-bottom:0px solid;border-left:0px solid;padding-bottom:0px;padding-left:0px;padding-right:0px;float:left;border-top:0px solid;border-right:0px solid;padding-top:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_navigation_data.gif">
+<img alt="" style="border-top:0px solid;border-right:0px solid;border-bottom:0px solid;float:left;padding-bottom:0px;padding-top:0px;padding-left:0px;border-left:0px solid;padding-right:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_navigation_data.gif">
 <p><strong>Navigation data<br>
 </strong>IP address and the website you came from</p>
 <p><strong></strong></p>
-<p><strong><img alt="" style="border-bottom:0px solid;border-left:0px solid;padding-bottom:0px;padding-left:0px;padding-right:0px;float:left;border-top:0px solid;border-right:0px solid;padding-top:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_personalinfo.gif">Personal information<br>
+<p><strong><img alt="" style="border-top:0px solid;border-right:0px solid;border-bottom:0px solid;float:left;padding-bottom:0px;padding-top:0px;padding-left:0px;border-left:0px solid;padding-right:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_personalinfo.gif">Personal information<br>
 </strong>Includes your&nbsp;first name, last name, email address, postcode and other personal information you provide. </p>
 <h3>Use of personal data </h3>
-<img alt="" style="border-bottom:0px solid;border-left:0px solid;padding-bottom:0px;padding-left:0px;padding-right:0px;float:left;border-top:0px solid;border-right:0px solid;padding-top:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_analytics.gif">
+<img alt="" style="border-top:0px solid;border-right:0px solid;border-bottom:0px solid;float:left;padding-bottom:0px;padding-top:0px;padding-left:0px;border-left:0px solid;padding-right:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_analytics.gif">
 <p><strong>Analytics<br>
 </strong>Uses navigation data in services provided by NHS Choices and third parties. For more information see our <a shape="rect" href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx">cookies policy</a>.&nbsp;&nbsp;</p>
-<p><strong><img alt="" style="border-bottom:0px solid;border-left:0px solid;padding-bottom:0px;padding-left:0px;padding-right:0px;float:left;border-top:0px solid;border-right:0px solid;padding-top:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_advertising.gif">Advertising<br>
+<p><strong><img alt="" style="border-top:0px solid;border-right:0px solid;border-bottom:0px solid;float:left;padding-bottom:0px;padding-top:0px;padding-left:0px;border-left:0px solid;padding-right:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_advertising.gif">Advertising<br>
 </strong>Some health campaigns are supplied with advertising data. <strong></strong></p>
 <p><strong></strong></p>
-<p><strong><img alt="" style="border-bottom:0px solid;border-left:0px solid;padding-bottom:0px;padding-left:0px;padding-right:0px;float:left;border-top:0px solid;border-right:0px solid;padding-top:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_personalisation.gif">Personalisation<br>
-</strong>Uses navigation data and personal information to enable us, and third parties to tailor the services provided to you. </p>
+<p><strong><img alt="" style="border-top:0px solid;border-right:0px solid;border-bottom:0px solid;float:left;padding-bottom:0px;padding-top:0px;padding-left:0px;border-left:0px solid;padding-right:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_personalisation.gif">Personalisation<br>
+</strong>Uses navigation data and personal information to enable us, and third parties, to tailor the services provided to you. </p>
 <p><strong>Symptom assessment<br>
 </strong>Personal information will be collected through the use of the <a href="/symptomcheckers/pages/symptoms.aspx">Symptom checkers</a>. This is necessary so that the correct assessment can be made, given the options you have selected through the tool.</p>
 <h3>Data sharing</h3>
-<img alt="" style="border-bottom:0px solid;border-left:0px solid;padding-bottom:0px;padding-left:0px;padding-right:0px;float:left;border-top:0px solid;border-right:0px solid;padding-top:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_datasharing.gif">
+<img alt="" style="border-top:0px solid;border-right:0px solid;border-bottom:0px solid;float:left;padding-bottom:0px;padding-top:0px;padding-left:0px;border-left:0px solid;padding-right:0px" src="/aboutNHSChoices/aboutnhschoices/termsandconditions/PublishingImages/48x48_icon_datasharing.gif">
 <p>We will never share personal information with any third parties without your consent. Navigation data is shared with trusted third parties providing analytics or advertising.</p>
 </div>
 </div>
@@ -442,9 +439,10 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 						<div id="g_018FF7825470403DAC4726EEF70F32C8" class="WebPartZone-Vertical">
 
 			<span id="ctl00_SPWebPartManager1_g_a040e0b6_971e_4d9b_879c_b4b90d8c85e1_EditorScriptManager"></span><h2>Our privacy policy&nbsp;</h2>
-<p>The Department of Health is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.</p>
+<p>The&nbsp;Health and Social Care Information Centre&nbsp;is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.</p>
 <p>We want you to feel secure when using the website and associated services. We are committed to respecting your privacy. Below we give an overview of how we do that.</p>
-<p></p>
+<p>&nbsp;</p>
+
 				<div class="concertina-wrap">
   <h2 class="concertina-trig"><a href="#">How do we use your information?&nbsp;<span>show</span></a></h2>
   <div class="concertina-content divide-10 slider-content-wrap clear" style="display: none;">
@@ -470,7 +468,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 <p>You should read their privacy policies carefully to find out what happens to any information that is collected by these services when you use them.</p>
 <p>Videos from NHS Choices - whether viewed on the website, in emails or embedded in third-party sites - are supplied (streamed) to users by a third-party company, Brightcove. A product called TubeMogul is used by Brightcove to compile statistics for NHS Choices, such as what videos have been watched and when; it uses an anonymous tracking cookie and stores no personal data. For more information, see the <a shape="rect" href="http://www.brightcove.com/en/privacy/">Brightcove privacy policy</a> and the <a shape="rect" href="http://www.tubemogul.com/company/privacy">TubeMogul privacy policy</a>.</p>
 <p>Use of NHS Choices tools on third-party sites will be tracked. No personal data is collected by the tools. Information gathered by NHS Choices includes the user’s IP address, the web page a tool is accessed from, and how many times it is accessed. In some cases, tracking is used to show user journeys through a tool. This information is the sole property of NHS Choices and will not be shared with third parties. All NHS Choices tools store the number of times a user has visited the tool. Some tools also store ‘state’ information so that when a user returns to a tool it is in the ‘state’ they left it in.</p>
-<p>Information submitted as a part of NHS Choices content held on Twitter and Facebook will be subject to their privacy policies. For more information, see the <a shape="rect" href="http://twitter.com/privacy">Twitter privacy policy</a> and the <a shape="rect" href="http://www.facebook.com/about/privacy/">Facebook privacy policy</a>&nbsp;</p>
+<p>Information submitted as a part of NHS Choices content held on Twitter and Facebook will be subject to their privacy policies. For more information, see the <a shape="rect" href="http://twitter.com/privacy">Twitter privacy policy</a> and the <a shape="rect" href="http://www.facebook.com/about/privacy/">Facebook privacy policy</a>.</p>
+<p>NHS Choices uses Google Maps APIs to provide some location-based information. You should read the <a href="http://www.google.co.uk/policies/privacy/" title="Goes to external site">Google privacy policy</a>&nbsp;to understand how this affects you.&nbsp;</p>
 <span class="crnr bl"></span><span class="crnr br"></span></div>
   </div>
 </div>
@@ -489,7 +488,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
   <div class="concertina-content divide-10 slider-content-wrap clear" style="display: none;">
     <div class="slider-content-inner clear">
       <span class="crnr tl"></span>
-      <span class="crnr tr"></span><p>As a government department, we do not share data with other organisations unless the law permits us to do so. We do not sell individuals’ information. We will share it only with our authorised Data Processors, who must act at all times on our instructions as the Data Controller under the Data Protection Act 1998. Before you submit any information, we will notify you as to why we are asking for specific information and it is up to you whether you provide it. </p>
+      <span class="crnr tr"></span><p>We do not share data with other organisations unless the law permits us to do so. We do not sell individuals’ information. We will share it only with our authorised Data Processors, who must act at all times on our instructions as the Data Controller under the Data Protection Act 1998. Before you submit any information, we will notify you as to why we are asking for specific information and it is up to you whether you provide it. </p>
 <span class="crnr bl"></span><span class="crnr br"></span></div>
   </div>
 </div>
@@ -499,7 +498,12 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <div class="slider-content-inner clear">
       <span class="crnr tl"></span>
       <span class="crnr tr"></span><p>You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate.</p>
-<p>You can do this by contacting the Data Protection Officer, Department of Health, Skipton House, 80 London Road, London, SE1 6LH.&nbsp;&nbsp;</p>
+<p>You can do this by contacting the&nbsp;Information Governance Compliance Team,<br>
+Health and Social Care Information Centre,<br>
+1 Trevelyan Square,<br>
+Boar Lane,<br>
+Leeds,<br>
+LS1 6AE</p>
 <span class="crnr bl"></span><span class="crnr br"></span></div>
   </div>
 </div>
@@ -574,37 +578,28 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 												<div class="panel clear links"><div class="pad-rl"><span class="crnr tl"></span><span class="crnr tr"></span><span class="icn links"></span><div class="panel-top"><h2>Useful links</h2>
 <p><strong>NHS Choices links</strong></p>
 <ul>
-    <li><a href="/termsandconditions/Pages/Termsandconditions.aspx">Terms and conditions</a> </li>
-    <li><a href="/accessibility/Pages/Accessibility.aspx">Accessibility</a> </li>
-    <li><a href="/NHSEngland/Pages/NHSEngland.aspx">About the NHS</a> </li>
-    <li><a href="/News/Pages/NewsIndex.aspx">Behind the Headlines </a></li>
     <li><a href="/aboutNHSChoices/Pages/ContactUs.aspx">Contact us</a> </li>
-    <li><a href="/Commentspolicy/Pages/Moderationrules.aspx">Comments policy </a></li>
-    <li><a href="/carersdirect">Carers Direct</a> </li>
-    <li><a href="/servicedirectories/Pages/ServiceSearch.aspx">Find services </a></li>
-    <li><a href="/Conditions/Pages/bodymap.aspx">Health A-Z</a> </li>
-    <li><a href="/livewell/Pages/Livewellhub.aspx">Live Well </a></li>
-    <li><a href="/Pages/LinkListing.aspx">Links library </a></li>
-    <li><a href="/video/pages/MediaLibrary.aspx">Media library</a> </li>
-    <li><a href="/NHSEngland/AboutNHSservices/Pages/NHSServices.aspx">NHS services</a> </li>
-    <li><a href="/aboutNHSChoices/Pages/Professionals.aspx">NHS Choices for professionals</a> </li>
+    <li><a href="/ABOUTNHSCHOICES/Pages/NHSChoicesintroduction.aspx">About us</a> </li>
+    <li><a href="/aboutnhschoices/contactus/pages/freedom-of-information.aspx">Freedom of information</a> </li>
+    <li><a href="/choiceintheNHS/Rightsandpledges/complaints/Pages/NHScomplaints.aspx">NHS complaints</a> </li>
+    <li><a href="/aboutNHSChoices/professionals/syndication/Pages/Webservices.aspx">Syndication</a> </li>
+    <li><a href="https://twitter.com/nhschoices">Follow us on Twitter</a> </li>
+    <li><a href="https://www.facebook.com/NHSChoices">Follow us on Facebook</a> </li>
+    <li><a href="http://blogs.nhs.uk/choices-blog/">NHS Choices blog</a> </li>
 </ul>
 <p><strong>External links</strong></p>
 <ul>
-    <li><a href="http://www.cqc.org.uk/">Care Quality Commission</a> </li>
-    <li><a href="http://www.dh.gov.uk/en/index.htm">Department of Health</a> </li>
-    <li><a href="http://www.direct.gov.uk/en/index.htm">Directgov</a> </li>
-    <li><a href="http://www.nice.org.uk/">NICE</a> </li>
-    <li><a href="http://www.nhsdirect.nhs.uk/">NHS Direct </a></li>
-    <li><a href="http://www.library.nhs.uk/default.aspx">NHS Evidence: Health Information Resources </a></li>
-    <li><a href="http://www.ic.nhs.uk/">The NHS Information Centre </a></li>
+    <li><a href="http://www.cqc.org.uk/" title="CQC - external link">Care Quality Commission</a> </li>
+    <li><a href="https://www.gov.uk/government/organisations/department-of-health" title="Department of Health - external link">Department of Health</a> </li>
+    <li><a href="http://www.nice.org.uk/" title="National Institute for Care and Excellence - external link">NICE</a> </li>
+    <li><a href="http://www.library.nhs.uk/default.aspx" title="NHS Evidence - external link">NHS Evidence</a> </li>
+    <li><a href="http://www.ic.nhs.uk/" title="Health and Social Care Information Centre - external link">HSCIC</a> </li>
 </ul>
 <p><strong>Downloads</strong></p>
 <ul>
-    <li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Documents/BMI%20App%20privacy%20policy.pdf" id="BMI mobile app privacy policy" title="BMI mobile app privacy policy - Opens in new window" target="_blank">BMI mobile app privacy policy</a>&nbsp;(PDF, 70.4KB)</li>
-    <li><a href="/aboutNHSChoices/Documents/NHS%20Choices%20-%20delivering%20for%20the%20NHS.pdf">Delivering for the NHS&nbsp;(PDF)</a> </li>
-    <li><a href="/aboutNHSChoices/Documents/Magazine_Nov08%20Issue.pdf">NHS Choices magazine Issue 3 (PDF)</a>&nbsp; </li>
+    <li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Documents/BMI%20App%20privacy%20policy.pdf" title="Opens in new window" target="_blank">BMI mobile app privacy policy (PDF, 70.4KB) </a>&nbsp;</li>
 </ul>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </div></div><span class="crnr bl"></span><span class="crnr br"></span></div>
 											</div>
@@ -648,7 +643,6 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 <li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx','WT.dl','121')" onkeypress="this.onclick()">Privacy policy</a></li>
 <li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx','WT.dl','121')" onkeypress="this.onclick()">Cookies policy</a></li>
 <li><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/LinkingtoChoices.aspx" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/LinkingtoChoices.aspx','WT.dl','121')" onkeypress="this.onclick()">Links policy</a></li>
-<li><a href="/aboutNHSChoices/aboutnhschoices/Personalaccounts/Pages/NHSChoicesaccount.aspx" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/Personalaccounts/Pages/NHSChoicesaccount.aspx','WT.dl','121')" onkeypress="this.onclick()">Personal accounts</a></li>
 <li><a href="/accessibility/Pages/Accessibility.aspx " accesskey="0" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/accessibility/Pages/Accessibility.aspx ','WT.dl','121')" onkeypress="this.onclick()">Accessibility </a></li>
 <li><a href="/choices/pages/sitemap.aspx" accesskey="3" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/choices/pages/sitemap.aspx','WT.dl','121')" onkeypress="this.onclick()">Sitemap</a></li>
 </ul>
@@ -663,8 +657,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 <li><a href="http://www.show.scot.nhs.uk/ " rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.show.scot.nhs.uk/ ','WT.dl','121')" onkeypress="this.onclick()">NHS Scotland</a></li>
 <li><a href="http://www.hscni.net/  " rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.hscni.net/  ','WT.dl','121')" onkeypress="this.onclick()">NHS Northern Ireland</a></li>
 <li><a href="http://www.nhsdirect.wales.nhs.uk/" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.nhsdirect.wales.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS Wales</a></li>
-<li><a href="http://www.nhscareers.nhs.uk/" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.nhscareers.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS Careers</a></li>
 <li><a href="http://www.jobs.nhs.uk/" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.jobs.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS Jobs</a></li>
+<li><a href="https://www.healthcareers.nhs.uk/" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','https://www.healthcareers.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">Health Careers</a></li>
 <li><a href="http://www.dh.gov.uk/en/index.htm " rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.dh.gov.uk/en/index.htm ','WT.dl','121')" onkeypress="this.onclick()">Department of Health</a></li>
 <li><a href="http://www.england.nhs.uk/" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.england.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS England</a></li>
 </ul>
@@ -702,7 +696,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 											
 <h2>Other Languages</h2>
 
-<span class="language-intro">Visit our </span><span class="language-intro"><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/languageshub.aspx " rel="nofollow" onkeypress="this.onclick()">language section</a> for more health websites in foreign languages.</span>
+<span class="language-intro">Visit our </span><span class="language-intro"><a href="/aboutNHSChoices/aboutnhschoices/accessibility/Pages/other-languages-section.aspx" rel="nofollow" onkeypress="this.onclick()">language section</a> for more health websites in foreign languages.</span>
 
 										</div><div id="ctl00_Footer_ucPersonalisationFooter_Contact" class="footer-list">
 											
@@ -713,7 +707,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 <li><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/working-for-us.aspx" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Contact NHS Choices','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/working-for-us.aspx','WT.dl','121')" onkeypress="this.onclick()">Working for NHS Choices</a></li>
 <li><a href="/aboutnhschoices/Pages/Feedback.aspx?iType=site" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Contact NHS Choices','DCSext.FooterClickUrl','/aboutnhschoices/Pages/Feedback.aspx?iType=site','WT.dl','121')" onkeypress="this.onclick()">Request content evidence sources</a></li>
 <li><a href="/nhs-direct/Pages/NHS-Direct-legacy-enquiries.aspx" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Contact NHS Choices','DCSext.FooterClickUrl','/nhs-direct/Pages/NHS-Direct-legacy-enquiries.aspx','WT.dl','121')" onkeypress="this.onclick()">NHS Direct legacy enquiries</a></li>
-<li><a href="mailto:servicedesk@nhschoices.nhs.uk?Subject=NHS%20Choices%20Press%20Enquiry" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Contact NHS Choices','DCSext.FooterClickUrl','mailto:servicedesk@nhschoices.nhs.uk?Subject=NHS%20Choices%20Press%20Enquiry','WT.dl','121')" onkeypress="this.onclick()">Press enquiries</a></li>
+<li><a href="mailto:media@nhschoices.nhs.uk?Subject=NHS%20Choices%20Press%20Enquiry" rel="nofollow" onclick="dcsMultiTrack('DCSext.FooterClickSection','Contact NHS Choices','DCSext.FooterClickUrl','mailto:media@nhschoices.nhs.uk?Subject=NHS%20Choices%20Press%20Enquiry','WT.dl','121')" onkeypress="this.onclick()">Press enquiries</a></li>
 </ul>
 
 
@@ -948,12 +942,263 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-9510975-1', 'www.nhs.uk');
     ga('require', 'displayfeatures');
     ga('send', 'pageview');
+</script>
+
+<script>
+    $(document).ready(function() {
+
+        var pages = [
+            '/Conditions/Stroke/Pages/Introduction.aspx'
+            , '/conditions/Stroke/Pages/treatment.aspx'
+            , '/Conditions/Stroke/Pages/recovery.aspx'
+            , '/Conditions/Parkinsons-disease/Pages/Introduction.aspx'
+            , '/Conditions/Parkinsons-disease/Pages/Treatment.aspx'
+            , '/Conditions/Parkinsons-disease/Pages/Livingwith.aspx'
+            , '/Conditions/hip-fracture/Pages/introduction.aspx'
+            , '/Conditions/hip-fracture/Pages/treatment.aspx'
+            , '/Conditions/hip-fracture/Pages/recovery.aspx'
+            , '/Conditions/multiple-sclerosis/Pages/Introduction.aspx'
+            , '/Conditions/Multiple-sclerosis/Pages/Treatment.aspx'
+            , '/Conditions/Multiple-sclerosis/Pages/Living-with.aspx'
+            , '/Conditions/downs-syndrome/Pages/Introduction.aspx'
+            , '/Conditions/Downs-syndrome/Pages/Treatment.aspx'
+            , '/Conditions/Downs-syndrome/Pages/Symptoms.aspx'
+            , '/conditions/autistic-spectrum-disorder/pages/introduction.aspx'
+            , '/Conditions/Autistic-spectrum-disorder/Pages/Treatment.aspx'
+            , '/Conditions/Autistic-spectrum-disorder/Pages/Adultswithautism1.aspx'
+        ];
+
+        $.each(pages, function(index, element) {
+            var path = window.location.href;
+            if (path.toLowerCase().indexOf(element.toLowerCase()) > -1) {
+                insertSharingTags();
+                insertInlineLinksTags();
+                insertUsefulLinksTags();
+                insertExternalLinksTags();
+                insertSubHeadingTags();
+                insertHeadingTags();
+                insertHeadingTags();
+                insertImageLinksTags('#webZoneRight');
+                insertImageLinksTags('#webZoneRightC');
+                insertFooterTags();
+                insertForumLinkTags();
+
+            }
+        });
+
+
+    });
+
+    var dcsText;
+    var count;
+
+
+
+
+    function insertInlineLinksTags() {
+        var pageBody = $('.main-content');
+        var links = $(pageBody).children('p,ul,div').find('a');
+        dcsText = 'DCSext.CareInLine';
+        count = 1;
+        links.map(function (index, element) {
+            var tagString = buildWebTrendLink(dcsText, element);
+            count += 1;
+            $(element).attr('onclick', tagString.toString());
+            $(element).bind('click', tagString.toString());
+
+            // $(element).attr('onclick',tagString);	WORKS together
+            // $(element).bind('click',tagString.toString());  WORKS together
+
+        });
+    }
+
+    function insertUsefulLinksTags() {
+        var usefulLinksSection = $('.panel-top').find('ul').get(0);
+        var usefulLinks = $(usefulLinksSection).children().find('a');
+        dcsText = 'DCSext.CareUseful';
+        count = 1;
+        usefulLinks.each(function (index, element) {
+            var tagString = buildWebTrendLink(dcsText, element);
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString.toString());
+        });
+    }
+
+    function insertExternalLinksTags() {
+        var externalLinksSection = $('.panel-top').find('ul').get(1);
+        var externalLinks = $(externalLinksSection).children().find('a');
+        dcsText = 'DCSext.CareExternal';
+        count = 1;
+        externalLinks.each(function (index, element) {
+            var tagString = buildWebTrendLink(dcsText, element);
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString.toString());
+        });
+    }
+
+    function insertSubHeadingTags() {
+        var subHeadingSection = $('#ctl00_PlaceHolderMain_articles').find('ul');
+        var subHeadingLinks = $(subHeadingSection).children().find('a');
+        dcsText = 'DCSext.CareSubHeader';
+        count = 1;
+        subHeadingLinks.each(function (index, element) {
+            var tagString = buildWebTrendLink(dcsText, element);
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString.toString());
+        });
+    }
+
+    function insertHeadingTags() {
+        var headingSection = $('#ctl00_PlaceHolderMain_topicHeadings').find('ul');
+        var headingLinks = $(headingSection).children('li').find('a');
+        dcsText = 'DCSext.CareHeader';
+        count = 1;
+        headingLinks.each(function (index, element) {
+            var tagString = buildWebTrendLink(dcsText, element);
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString.toString());
+        });
+    }
+
+    function insertImageLinksTags(placement) {
+        var imageLinksSection = $(placement).find('.image');
+        var imageLinks = $(imageLinksSection).find('a');
+        var imageTextLinksSection = $(placement).find('.panel-text');
+        var imageTextLinks = $(imageTextLinksSection).find('h2').find('a');
+        dcsText = 'DCSext.CareSideImage';
+        count = 1;
+        imageLinks.each(function (index, element) {
+            if ($(imageTextLinks[index]).attr('href') == $(element).attr('href')) {
+                var tagString = buildWebTrendLink(dcsText, imageTextLinks[index]);
+                $(element).attr('onclick', tagString);
+                count += 1;
+                $(imageTextLinks[index]).attr('onclick', tagString);
+                $(imageTextLinks[index]).bind('click', tagString.toString());
+            }
+        });
+    }
+
+    function insertFooterTags() {
+        var footerImages = $('.footer-logos').find('ul');
+        var footerImagesLinks = $(footerImages).children().find('a');
+        dcsText = 'DCSext.CareFootImage';
+        count = 1;
+        footerImagesLinks.each(function (index, element) {
+            var tagString = buildWebTrendLink(dcsText, element);
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString.toString());
+        });
+    }
+
+    function insertSharingTags() {
+        var sharingLinkDivs = $('.social-sharing');
+        var sharingHeaderLinks = $(sharingLinkDivs[0]).find('ul').children();
+        var sharingFooterLinks = $(sharingLinkDivs[1]).find('ul').children();
+        dcsText = 'DSCtext.CareShare';
+        count = 1;
+        sharingHeaderLinks.find('a').each(function (index, element) {
+            var tagString = buildWebTrendLinkForSharingLinks(dcsText, element, 'Header');
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString);
+        });
+        sharingFooterLinks.find('a').each(function (index, element) {
+            var tagString = buildWebTrendLinkForSharingLinks(dcsText, element, 'Footer');
+            count += 1;
+            $(element).attr('onclick', tagString);
+            $(element).bind('click', tagString);
+        });
+    }
+
+    function insertForumLinkTags() {
+        $('#webZoneLeft').ready(function () {
+            setTimeout(function() {
+                var forumLinks = $('#webZoneLeft .healthunlocked_wrapper a');
+                dcsText = 'DCSext.CareForum';
+                count = 1;
+                forumLinks.each(function(index, element) {
+                    var tagString = buildWebTrendLink(dcsText, element);
+                    count += 1;
+                    $(element).attr('onclick', tagString);
+                    $(element).bind('click', tagString.toString());
+                });
+            }, 1000);
+        });
+    }
+
+    function buildWebTrendLinkForSharingLinks(dcsText, element, location) {
+        var className = $(element).parent().attr('class');
+        var dynamicText;
+        if (location == 'Header') {
+            dynamicText = 'Header_';
+        } else {
+            dynamicText = 'Footer_';
+        }
+        switch (className) {
+            case 'email':
+                dynamicText += 'Email';
+                break;
+            case 'twitter':
+                dynamicText += 'Twitter';
+                break;
+            case 'facebook':
+                dynamicText += 'FB';
+                break;
+            case 'google':
+                dynamicText += 'Google Bookmark';
+                break;
+            case 'nhsc-save':
+                dynamicText += 'Choices Bookmark';
+                break;
+            case 'print-ip':
+                dynamicText += 'Print';
+                break;
+        }
+        return "dcsMultiTrack" + linkBuilder(dcsText, dynamicText);
+
+    }
+
+    function buildWebTrendLink(dcsText, element) {
+        var dynamicText = $(element).text();
+        if (dcsText == 'DCSext.CareUseful' ||
+            dcsText == 'DCSext.CareExternal' ||
+            dcsText == 'DCSext.CareSideImage' ||
+            dcsText == 'DCSext.CareFootImage') {
+            dynamicText = 'Link ' + count + '-' + $(element).text();
+
+        } else if (dcsText == 'DCSext.CareHeader' ||
+            dcsText == 'DCSext.CareSubHeader' ||
+            dcsText == 'DCSext.CareSubHeader' ||
+            dcsText == 'DCSext.CareInLine') {
+            dynamicText = $(element).text();
+        } else if (dcsText == 'DCSext.CareForum') {
+            if ($(element).text() == 'More from the community') {
+                dynamicText = 'More from the community';
+            } else {
+                dynamicText = 'Link ' + count;
+            }
+
+        }
+        return "dcsMultiTrack" + linkBuilder(dcsText, dynamicText);
+    }
+
+    function linkBuilder(dcsText, dynamicText) {
+        return "\(" + "\'" + dcsText + "\'" + "," + "\'" + dynamicText +
+            "\'" + "," + "\'WT.dl\'" + "," + "\'121\'" + "\)";
+
+
+    }
 </script>
 
 
