@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321113431id_/http%3A//store.starbucks.com/privacy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225053310id_/http%3A//store.starbucks.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Starbucks | Privacy Statement
+
+You are using an unsupported version of Internet Explorer. Unsupported browsers can put your security at risk, are slow and don't work with some features of our site. For the best experience, we recommend upgrading to a [ modern browser](http://www.whatbrowser.org/).
 
 Last Revised: January 13, 2015
 
@@ -144,4 +146,4 @@ This Statement went into effect on the date noted at the top of this webpage. We
 
 ## Contact Us
 
-We welcome your questions, comments and concerns about privacy. You can contact Starbucks Store Customer Service online at <http://store.starbucks.com/customer-service/cs-landing,default,pg.html> or by phone at 1-877-421-9062. 
+We welcome your questions, comments and concerns about privacy. You can contact Starbucks Store Customer Service online at <http://store.starbucks.com/customer-service/cs-landing.html> or by phone at 1-877-421-9062. 
