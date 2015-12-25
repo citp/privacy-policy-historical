@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195142id_/http%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042928id_/http%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for soft112.com
 
@@ -18,7 +18,7 @@ USE OF COOKIES
 
 * * *
 
-Some of our pages use a feature of your browser called a "cookie."A cookie is a small file stored on the user's computer containing information about the computer.Usage of a cookie is in no way linked to any personally identifiable information while on our sites.Some of our partners use cookies on our site (for example, advertisers).However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details.
+Some of our pages use a feature of your browser called a "cookie". A cookie is a small file stored on the user's computer containing information about the computer. Usage of a cookie is in no way linked to any personally identifiable information while on our sites. We use cookies to personalize content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. However, we have no access to or control over these cookies placed by our partners. If you do not want to allow cookies you can change your browser's cookie settings at any time, however your browsing experience on this website will be affected.
 
 USE OF LINKS
 
