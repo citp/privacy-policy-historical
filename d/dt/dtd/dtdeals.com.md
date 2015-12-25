@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dtdeals.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230094920id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdeals.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225155107id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
-# Privacy Policy - Best Buy
+# Privacy Policy
 
 ## Privacy Policy
 
@@ -87,12 +87,12 @@ We use the information we collect for things like:
   * Processing returns, exchanges and layaway requests
   * Tracking and confirming online orders
   * Delivering or installing products
-  * Managing our My Best Buy™ program
+  * Managing our My Best Buy® program
   * Marketing and advertising products and services
   * Conducting research and analysis
   * Establishing and managing your accounts with us
   * Communicating things like special events, sweepstakes, promotions and surveys
-  * Processing Best Buy credit card or My Best Buy™ MasterCard applications
+  * Processing My Best Buy® Credit Card applications
   * Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online
   * Facilitating interactions with Best Buy and others, such as enabling you to e-mail a link to a friend
   * Operating, evaluating and improving our business
@@ -114,7 +114,7 @@ We may share your information with third parties to perform services on our beha
   * Delivering packages
   * Scheduling and performing installations
   * Servicing products
-  * Maintaining our My Best Buy™ program
+  * Maintaining our My Best Buy® program
   * Sending Best Buy marketing communications
   * Fulfilling subscription services
   * Conducting research and analysis
