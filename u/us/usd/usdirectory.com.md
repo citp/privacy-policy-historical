@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdirectory.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626035346id_/http%3A//www.usdirectory.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirectory.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225070823id_/http%3A//www.usdirectory.com/Privacy.aspx) for the most accurate reproduction.*
 
 # U.S. Directory - Online Yellow Pages
 
