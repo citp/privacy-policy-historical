@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomhess.net privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503130613id_/http%3A//tomhess.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomhess.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225194508id_/http%3A//tomhess.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
