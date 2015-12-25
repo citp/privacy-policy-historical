@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the zoomcar.com privacy policy that was archived on 2015-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624020202id_/http%3A//www.zoomcar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoomcar.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225182159id_/http%3A//www.zoomcar.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T24CHT"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"67f497f988","applicationID":"4715941","transactionName":"c1sMTEVXXQlTQEsJUFlaTUhFUUcEVUs=","queueTime":0,"applicationTime":92,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAADVFZbGwcHVVRbAwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T24CHT"></script><script type="text/javascript" async="" src="https://d2r1yp2w7bby2u.cloudfront.net/js/a.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"67f497f988","applicationID":"4715941","transactionName":"c1sMTEVXXQlTQEsJUFlaTUhFUUcEVUs=","queueTime":0,"applicationTime":60,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAADVFZbGwcHVVRbAwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
 <script src="//cdn.optimizely.com/js/2123554302.js"></script>
 
 <title>Zoomcar Privacy Policy | Zoomcar</title>
@@ -17,20 +17,33 @@
 <meta content="www.onlinemetatag.com" name="generator">
 <meta content="English" name="language">
 <meta charset="utf-8">
-<link href="//assets.zoomcar.com/assets/application-2a37649a41afcc66ec97cadb940536d6.css" media="screen" rel="stylesheet">
+<link href="//css.zoomcar.com/assets/application-90c9cc815a4a6166ea21704a9938461e.css" media="screen" rel="stylesheet">
 <link href="//assets.zoomcar.com/assets/favicon-f2aad0c9152cdfd6027be726eb4d5531.png" rel="shortcut icon" type="image/png">
 <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,800" rel="stylesheet" type="text/css">
 <script>
-  function downloadJSAtOnload() {		
-  	var element = document.createElement("script");		
-  	element.src = "//assets.zoomcar.com/assets/application-962f8ce4e74036fcd90be7f9c4311031.js";		
-  	document.body.appendChild(element);		
-  }		
-  if (window.addEventListener)		
-  	window.addEventListener("load", downloadJSAtOnload, false);		
-  else if (window.attachEvent)		
-  	window.attachEvent("onload", downloadJSAtOnload);		
-  else window.onload = downloadJSAtOnload;	
+  var _zaq = _zaq || [];
+  function pushEvent(category, action, label) {
+  	try{
+  		if(label) {
+  				_zaq.push([category, action, label]);
+  		} else {
+  				_zaq.push([category, action]);
+  		}
+  	}
+  	catch(err){
+  	}
+  }
+  function downloadJSAtOnload() {
+  	var element = document.createElement("script");
+  	element.src = "//js.zoomcar.com/assets/application-e1b7c2815ebece2007881022953f9efa.js";
+  	document.body.appendChild(element);
+  }
+  if (window.addEventListener)
+  	window.addEventListener("load", downloadJSAtOnload, false);
+  else if (window.attachEvent)
+  	window.attachEvent("onload", downloadJSAtOnload);
+  else window.onload = downloadJSAtOnload;
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-38347989-1']);
   _gaq.push(['_setDomainName', 'zoomcar.com']);
@@ -41,6 +54,29 @@
   	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
   	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+</script>
+<script>
+  var userSelectedCity = "Bangalore";
+</script>
+<script>
+  var wizrocket = {event:[], profile:[], account:[], enum:function(e){return '$E_' + e}};
+  wizrocket.account.push({"id": "69W-6ZZ-RK4Z"});
+  (function () {
+  	var wzrk = document.createElement('script');
+  	wzrk.type = 'text/javascript';
+  	wzrk.async = true;
+  	wzrk.src = ('https:' == document.location.protocol ? 'https://d2r1yp2w7bby2u.cloudfront.net' : 'http://static.wizrocket.com') + '/js/a.js';
+  	var s = document.getElementsByTagName('script')[0];
+  	s.parentNode.insertBefore(wzrk, s);
+  })();
+  
+  var pv_wiz_ob = {
+  	'page name': location.pathname
+  };
+  if (typeof userEmail !== 'undefined') {
+  	pv_wiz_ob['email id'] = userEmail;
+  }
+  wizrocket.event.push('Page Viewed', pv_wiz_ob);
 </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
@@ -57,52 +93,153 @@
 </script>
 
 <div id="DocTop"></div>
-
-<div class="nav-buffer-big" id="NavBuffer"></div>
-<nav class="navbar navbar-fixed-top" role="navigation">
+<div id="header-new">
+<div class="nav-buffer-2" id="NavBuffer"></div>
+<div class="header navbar-fixed-top fc pull_top_header nav-up bg-tw other-header" id="slideupHeader">
+<!-- .bg-zoom -->
+<!-- .wrapper.p-t5.p-b5 -->
+<!-- .t-c.white.f-b -->
+<!-- We have now launched at 5 locations in New Delhi -->
+<div class="top_new_header" id="topbar">
 <div class="wrapper">
-<a class="logo" href="/bangalore"></a>
-<div class="nav-box">
-<div class="nav-links">
 <div class="fl">
-<div class="m-t3 m-l5 size-11">
-Download app:
+<div class="btn-group citySelector">
+<button aria-expanded="false" class="dropdown-toggle header_city_btn" data-toggle="dropdown" type="button">
+<span class="size-13 p-l15" id="active_city">
+Bangalore
+</span>
+<div class="fr p-l5 p-r5 m-t3 p-t3 p-b3">
+<div class="fa fa-angle-down drop_arrw border-l-c loc_arrow"></div>
 </div>
-<div class="mobile-app">
-<a class="android help" data-placement="bottom" data-title="Get Zoomcar Android App" data-toggle="tooltip" href="https://play.google.com/store/apps/details?id=com.zoomcar&amp;referrer=utm_source%3Dhome%2520page%26utm_medium%3Dheader%2520links%26utm_content%3Dandroid%26utm_campaign%3Dinstalls"></a>
-<a class="iphone help" data-placement="bottom" data-title="Get Zoomcar iPhone App" data-toggle="tooltip" href="https://itunes.apple.com/us/app/zoomcar-self-drive-cars/id889910218?mt=8&amp;utm_source=home%20page&amp;utm_medium=header%20links&amp;utm_content=iOS&amp;utm_campaign=installs"></a>
+</button>
+<ul class="dropdown-menu cityDropdown" role="menu">
+<li>
+<a class="hide inline-block p-b5 p-l10 p-r10 p-t5" href="/bangalore" id="active_cities">
+Bangalore
+</a>
+</li>
+<li>
+<a class="inline-block p-b5 p-l10 p-r10 p-t5" href="/pune" id="active_cities">
+Pune
+</a>
+</li>
+<li>
+<a class="inline-block p-b5 p-l10 p-r10 p-t5" href="/delhi" id="active_cities">
+Delhi NCR
+</a>
+</li>
+<li>
+<a class="inline-block p-b5 p-l10 p-r10 p-t5" href="/mumbai" id="active_cities">
+Mumbai
+</a>
+</li>
+<li>
+<a class="inline-block p-b5 p-l10 p-r10 p-t5" href="/chennai" id="active_cities">
+Chennai
+</a>
+</li>
+<li>
+<a class="inline-block p-b5 p-l10 p-r10 p-t5" href="/hyderabad" id="active_cities">
+Hyderabad
+</a>
+</li>
+<li>
+<a class="inline-block p-b5 p-l10 p-r10 p-t5" href="/chandigarh" id="active_cities">
+Chandigarh
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fr white m-t2">
+<div class="fl p-l10 p-r10">
+<a class="inline-block header-icon iphone m-r5 help" data-placement="bottom" data-title="Get Zoomcar iPhone App" data-toggle="tooltip" href="https://itunes.apple.com/us/app/zoomcar-self-drive-cars/id889910218?mt=8&amp;utm_source=home%20page&amp;utm_medium=header%20links&amp;utm_content=iOS&amp;utm_campaign=installs" target="blank">&nbsp;</a>
+<a class="inline-block header-icon android help" data-placement="bottom" data-title="Get Zoomcar Android App" data-toggle="tooltip" href="https://play.google.com/store/apps/details?id=com.zoomcar&amp;referrer=utm_source%3Dhome%2520page%26utm_medium%3Dheader%2520links%26utm_content%3Dandroid%26utm_campaign%3Dinstalls" target="blank">&nbsp;</a>
+</div>
+<a class="fl p-l10 p-r10 topbar-link offers-link" href="/bangalore/deals" onclick="pushEvent('Squirrel', 'Deals Tab - Header', '');">
+<span class="dealshack-icon fl"></span>
+Deal Shack
+</a>
+<a class="fl p-l5 p-r5 topbar-link commute-link" href="/bangalore/commute" onclick="pushEvent('Squirrel', 'Commute - Header', '');">
+Zoom Commute
+</a>
+<a class="fl p-l10 p-r10 topbar-link offers-link" href="/bangalore/offers">
+<span class="offers-icon fl"></span>
+Offers
+</a>
+<div class="dropdown fl" id="alerts">
+<a class="dropdown-toggle fl p-l5 topbar-link paymentdue_notify" data-toggle="dropdown" href="javascript:void(0)">
+<div class="alerts inline-block">
+<span class="alerticon fa fa-bell"></span>
+</div>
+<div class="inline-block p-b5 p-t5">&nbsp;</div>
+</a>
+<ul class="dropdown-menu pull-right">
+<li>
+<a href="javascript:void(0)">
+You have no new notifications. Cheers :)
+</a>
+</li>
+</ul>
+</div>
+<div class="dropdown fl" id="UserBar">
+<div class="broadcast fr">
+<div class="dropdown fr">
+<a class="dropdown-toggle fl topbar-link p-5 p-l10" href="javascript:void(0)" onclick="showNewModal('Sign Up', '/users/signup');">
+Signup
+</a>
+<span class="fl m-t5">
+|
+</span>
+<a class="dropdown-toggle fl topbar-link p-5 p-r10" href="javascript:void(0)" onclick="showNewModal('Sign In', '/users/signin');">
+Login
+</a>
+</div>
+</div>
+<!-- %ul.dropdown-menu.pull-right -->
+<!-- %li -->
+<!-- %a{:href => "javascript:void(0)", :onclick => "showModal('Sign Up', '/users/signup');"} -->
+<!-- Sign Up -->
+<!-- %li -->
+<!-- %a{:href => "javascript:void(0)", :onclick => "showModal('Sign In', '/users/signin');"} -->
+<!-- Sign In -->
+<!-- %li -->
+<!-- %a{:href => "javascript:void(0)", :onclick => "showModal('Sign In', '/users/forgot');"} -->
+<!-- Forgot Password -->
+</div>
+<div class="fc"></div>
+</div>
 <div class="fc"></div>
 </div>
 </div>
-<div class="links">
+<div class="wrapper p-t15 p-b10">
+<a class="logo-img" href="/bangalore">
+<img class="fl" id="logoWhite" src="//assets.zoomcar.com/assets/logo_color-c9a0b6257df4bd93ba579bcd92abed04.png">
+</a>
+<nav class="links" role="navigation">
 <ul class="nav navbar-nav fr">
 <li class="dropdown">
 <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)">
 Tariffs
-<b class="caret"></b>
+<span class="fa fa-angle-down new_arrw"></span>
 </a>
 <ul class="dropdown-menu">
 <li>
 <a href="/bangalore/tariff">
-Tariffs Details
+Cars and Tariffs
 </a>
 </li>
 <li>
-<a href="javascript:void(0)" onclick="showModal('Tariff Calculator', '/calculator/tariff');">
-Tariff Calculator
-</a>
-</li>
-<li>
-<a href="javascript:void(0)" onclick="showModal('Trip Modification Estimator', '/calculator/reschedule');">
-Trip Modification Estimator
+<a href="/bangalore/fees">
+How Billing Works
 </a>
 </li>
 </ul>
 </li>
 <li class="dropdown">
 <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)">
-How It Works
-<b class="caret"></b>
+New to Zoomcar?
+<span class="fa fa-angle-down new_arrw"></span>
 </a>
 <ul class="dropdown-menu">
 <li>
@@ -111,8 +248,8 @@ How Zoomcar Works
 </a>
 </li>
 <li>
-<a href="/bangalore/safety">
-Zoom in Safety
+<a href="/bangalore/faq">
+FAQs
 </a>
 </li>
 <li>
@@ -120,112 +257,24 @@ Zoom in Safety
 Going Outstation?
 </a>
 </li>
-<li>
-<a href="/reva">
-Zoomcar's Electric!
-</a>
-</li>
-<li>
-<a href="/bangalore/faq">
-FAQs
-</a>
-</li>
-<li>
-<a href="/handover">
-Zoom Responsibly
-</a>
-</li>
 </ul>
 </li>
-<li class="dropdown">
-<a class="dropdown-toggle active" data-toggle="dropdown" href="javascript:void(0)">
-Policies
-<b class="caret"></b>
-</a>
-<ul class="dropdown-menu">
-<li>
-<a href="/bangalore/fees">
-Fee Policy
-</a>
-</li>
-<li>
-<a href="/eligibility">
-Eligibility
-</a>
-</li>
-<li>
-<a href="/member">
-Member Agreement
-</a>
-</li>
-<li>
-<a href="/privacy">
-Privacy Policy
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="" href="/bangalore/offers">Offers</a>
-</li>
-<li>
-<a class="" href="/bangalore/contactus">Contact Us</a>
-</li>
+<!-- %li.position-r -->
+<!-- %div -->
+<!-- .size-11.lgrey.position-a{:style => 'top: 0px; right: 10px; line-height: 10px;'} -->
+<!-- Need help? -->
+<!-- %a.t-n{href: "tel:#{@city.contact_phone.gsub('-','')}"} -->
+<!-- = @city.contact_phone -->
 </ul>
 <div class="fc"></div>
-</div>
-<div class="fc"></div>
-</div>
-<div class="nav-top-links">
-<div class="city-tabs fl">
-<a class="active" href="/bangalore">Bangalore</a>
-<a class="" href="/pune">Pune</a>
-<a class="" href="/delhi">Delhi NCR</a>
-<a class="" href="/mumbai">Mumbai</a>
-<a class="" href="/chennai">Chennai</a>
-<a class="" href="/hyderabad">Hyderabad</a>
-<div class="fc"></div>
-</div>
-<div class="info">
-<div class="fr" id="UserBar">
-<div class="broadcast fr">
-<div class="dropdown fr">
-<a class="dropdown-toggle p-r10 p-l10" data-toggle="dropdown" href="javascript:void(0)">
-My Account
-<b class="caret"></b>
-</a>
-<ul class="dropdown-menu pull-right">
-<li>
-<a href="javascript:void(0)" onclick="showModal('Sign Up', '/users/signup');">
-Sign Up
-</a>
-</li>
-<li>
-<a href="javascript:void(0)" onclick="showModal('Sign In', '/users/signin');">
-Sign In
-</a>
-</li>
-<li>
-<a href="javascript:void(0)" onclick="showModal('Sign In', '/users/forgot');">
-Forgot Password
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<a class="hiring fr ts-3 f-b pointer header-green-tag" href="/bangalore/deals" onclick="pushEvent('Squirrel', 'Deals Tab - Header', '');">
-Deals of the Day
-</a>
-</div>
-<div class="fc"></div>
-</div>
-</div>
-<div class="fc"></div>
+</nav>
 </div>
 <div id="SH">
 <div class="search-header" id="SearchFormDiv">
 <div class="wrapper">
+<a class="z_logo_small" href="/bangalore">
+<img src="//assets.zoomcar.com/assets/z_logo-03df868087e4460ebd1a8f8a24791b58.jpg">
+</a>
 <form action="javascript:void(0)" data-ajax="false" id="SearchForm" onsubmit="return SubmitForm(this,'/bangalore/search/nav','SearchFormDiv');">
 <div class="item">
 <div class="box datetimebox" id="StartDate">
@@ -272,80 +321,40 @@ All Locations
 <li class="dropdown-submenu">
 <a href="#">
 West Bangalore
-</a><ul class="dropdown-menu"><a href="#">
-</a><li id="Location155" role="presentation"><a href="#">
-</a><a href="javascript:void(0)" onclick="changeLocation(155,'Rajajinagar (Chord road)','nav');">
-Rajajinagar (Chord road)
+</a><ul class="dropdown-menu LocationsMenu"><a href="#">
+</a><li id="Location263" role="presentation"><a href="#">
+</a><a href="javascript:void(0)" onclick="changeLocation(263,'Banashankari 1st Stage ( Near PES College )','nav');">
+Banashankari 1st Stage ( Near PES College )
+</a>
+</li>
+<li id="Location245" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(245,'Malleshwaram ( Mantri Square Mall )','nav');">
+Malleshwaram ( Mantri Square Mall )
+</a>
+</li>
+<li id="Location155" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(155,'Rajaji Nagar Industrial Town ( West of Chord Road )','nav');">
+Rajaji Nagar Industrial Town ( West of Chord Road )
 </a>
 </li>
 <li id="Location151" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(151,'Rajkumar Road ( Nxt to Suguna Hospitral)','nav');">
-Rajkumar Road ( Nxt to Suguna Hospitral)
-</a>
-</li>
-<li id="Location149" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(149,'Rajajinagar ( Opp. to RTO office )','nav');">
-Rajajinagar ( Opp. to RTO office )
-</a>
-</li>
-<li id="Location124" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(124,'Nagarbavi 2nd Stage (Malgala)','nav');">
-Nagarbavi 2nd Stage (Malgala)
+<a href="javascript:void(0)" onclick="changeLocation(151,'Dr. Rajkumar Road - Rajajinagar ( Beside Suguna Hospital )','nav');">
+Dr. Rajkumar Road - Rajajinagar ( Beside Suguna Hospital )
 </a>
 </li>
 <li id="Location119" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(119,'Chamarajpet (Mysore Circle)','nav');">
-Chamarajpet (Mysore Circle)
-</a>
-</li>
-<li id="Location106" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(106,'Mysore Road ( Concorde Motors )','nav');">
-Mysore Road ( Concorde Motors )
-</a>
-</li>
-<li id="Location100" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(100,'Shankar Nagar (Mahalakshmi Layout)','nav');">
-Shankar Nagar (Mahalakshmi Layout)
+<a href="javascript:void(0)" onclick="changeLocation(119,'Chamarajpet - 1st Main Road ( Near Mysore Circle )','nav');">
+Chamarajpet - 1st Main Road ( Near Mysore Circle )
 </a>
 </li>
 <li id="Location87" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(87,'Kengeri IOC bunk (Opp Shirke Apt)','nav');">
-Kengeri IOC bunk (Opp Shirke Apt)
+<a href="javascript:void(0)" onclick="changeLocation(87,'Kengeri Satellite Town ( Opp Shirke Apartments )','nav');">
+Kengeri Satellite Town ( Opp Shirke Apartments )
 </a>
 </li>
-<li id="Location49" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(49,'Kanakpura Rd (Magnum Honda)','nav');">
-Kanakpura Rd (Magnum Honda)
-</a>
-</li>
-<li id="Location48" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(48,'Vijayanagar TTMC','nav');">
-Vijayanagar TTMC
-</a>
-</li>
-<li id="Location34" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(34,'Mysore Rd Kengeri (Akshaya Motors)','nav');">
-Mysore Rd Kengeri (Akshaya Motors)
-</a>
-</li>
-<li id="Location27" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(27,'Rajajinagar (Sireesh Auto)','nav');">
-Rajajinagar (Sireesh Auto)
-</a>
-</li>
-<li id="Location26" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(26,'Magadi Road (Near Binny Reception Hall)','nav');">
-Magadi Road (Near Binny Reception Hall)
-</a>
-</li>
-<li id="Location15" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(15,'Banashankari 3rd Stage (Patel Chinnappa)','nav');">
-Banashankari 3rd Stage (Patel Chinnappa)
-</a>
-</li>
-<li id="Location8" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(8,'Malleshwaram (Mantri Greens)','nav');">
-Malleshwaram (Mantri Greens)
+<li id="Location1" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(1,'Brigade Gateway ( parking beside Railway Line )','nav');">
+Brigade Gateway ( parking beside Railway Line )
 </a>
 </li>
 </ul>
@@ -354,75 +363,55 @@ Malleshwaram (Mantri Greens)
 <li class="dropdown-submenu">
 <a href="#">
 East Bangalore
-</a><ul class="dropdown-menu"><a href="#">
-</a><li id="Location142" role="presentation"><a href="#">
-</a><a href="javascript:void(0)" onclick="changeLocation(142,'Rammurthy Nagar (Nandini Street)','nav');">
+</a><ul class="dropdown-menu LocationsMenu"><a href="#">
+</a><li id="Location266" role="presentation"><a href="#">
+</a><a href="javascript:void(0)" onclick="changeLocation(266,'Whitefield Main Road ( Lane Opp Four Points Sheraton )','nav');">
+Whitefield Main Road ( Lane Opp Four Points Sheraton )
+</a>
+</li>
+<li id="Location265" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(265,'ITPL Main Rd - Whitefield ( Park Square Mall )','nav');">
+ITPL Main Rd - Whitefield ( Park Square Mall )
+</a>
+</li>
+<li id="Location221" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(221,'Whitefield Main Road ( Forum Value Mall )','nav');">
+Whitefield Main Road ( Forum Value Mall )
+</a>
+</li>
+<li id="Location220" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(220,'RMZ Infinity - Old Madras Road ( Opp Gopalan Mall )','nav');">
+RMZ Infinity - Old Madras Road ( Opp Gopalan Mall )
+</a>
+</li>
+<li id="Location217" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(217,'Whitefield - Hotel Ginger ( Opp SAP Labs )','nav');">
+Whitefield - Hotel Ginger ( Opp SAP Labs )
+</a>
+</li>
+<li id="Location142" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(142,'Rammurthy Nagar (Nandini Street)','nav');">
 Rammurthy Nagar (Nandini Street)
 </a>
 </li>
-<li id="Location117" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(117,'K R Puram ( Opp. Silicon City College )','nav');">
-K R Puram ( Opp. Silicon City College )
-</a>
-</li>
-<li id="Location110" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(110,'Old Airport Rd. HP petrol bunk (crossing Leela Palace)','nav');">
-Old Airport Rd. HP petrol bunk (crossing Leela Palace)
-</a>
-</li>
-<li id="Location105" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(105,'Sarjapur Main Road ( Concorde Motors )','nav');">
-Sarjapur Main Road ( Concorde Motors )
-</a>
-</li>
 <li id="Location93" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(93,'Dodda Nekkundi (Chinappa Layout)','nav');">
-Dodda Nekkundi (Chinappa Layout)
-</a>
-</li>
-<li id="Location91" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(91,'HSR Layout (Sector - 1)','nav');">
-HSR Layout (Sector - 1)
-</a>
-</li>
-<li id="Location83" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(83,'Banaswadi (ASR Coventional Hall)','nav');">
-Banaswadi (ASR Coventional Hall)
-</a>
-</li>
-<li id="Location40" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(40,'Whitefield (Kalyani Tech Park)','nav');">
-Whitefield (Kalyani Tech Park)
-</a>
-</li>
-<li id="Location35" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(35,'Whitefield (Formule1 Hotel)','nav');">
-Whitefield (Formule1 Hotel)
-</a>
-</li>
-<li id="Location25" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(25,'Bellandur (Aloft Hotel)','nav');">
-Bellandur (Aloft Hotel)
-</a>
-</li>
-<li id="Location21" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(21,'Whitefield (Near Forum Value Mall)','nav');">
-Whitefield (Near Forum Value Mall)
+<a href="javascript:void(0)" onclick="changeLocation(93,'Doddanekkundi - Outer Ring Road ( Beside HPCL bunk )','nav');">
+Doddanekkundi - Outer Ring Road ( Beside HPCL bunk )
 </a>
 </li>
 <li id="Location16" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(16,'Marathalli (Sireesh Auto)','nav');">
-Marathalli (Sireesh Auto)
+<a href="javascript:void(0)" onclick="changeLocation(16,'Marathalli ( Mahindra - Sireesh Auto )','nav');">
+Marathalli ( Mahindra - Sireesh Auto )
 </a>
 </li>
 <li id="Location14" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(14,'Bellandur (Novotel Hotel)','nav');">
-Bellandur (Novotel Hotel)
+<a href="javascript:void(0)" onclick="changeLocation(14,'Bellandur ( Hotel Novotel )','nav');">
+Bellandur ( Hotel Novotel )
 </a>
 </li>
 <li id="Location5" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(5,'Whitefield (Brigade Metropolis)','nav');">
-Whitefield (Brigade Metropolis)
+<a href="javascript:void(0)" onclick="changeLocation(5,'Mahadevapura - Whitefield ( Brigade Metropolis )','nav');">
+Mahadevapura - Whitefield ( Brigade Metropolis )
 </a>
 </li>
 </ul>
@@ -431,40 +420,35 @@ Whitefield (Brigade Metropolis)
 <li class="dropdown-submenu">
 <a href="#">
 Central Bangalore
-</a><ul class="dropdown-menu"><a href="#">
-</a><li id="Location175" role="presentation"><a href="#">
-</a><a href="javascript:void(0)" onclick="changeLocation(175,'UB City (Ibis Hotel)','nav');">
-UB City (Ibis Hotel)
+</a><ul class="dropdown-menu LocationsMenu"><a href="#">
+</a><li id="Location244" role="presentation"><a href="#">
+</a><a href="javascript:void(0)" onclick="changeLocation(244,'Indiranagar - Double Road ( Lane Opp Value Mart )','nav');">
+Indiranagar - Double Road ( Lane Opp Value Mart )
+</a>
+</li>
+<li id="Location216" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(216,'Domlur ( Hotel Ginger )','nav');">
+Domlur ( Hotel Ginger )
+</a>
+</li>
+<li id="Location175" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(175,'Hotel Ibis City Centre ( Opp Kanteerava Stadium )','nav');">
+Hotel Ibis City Centre ( Opp Kanteerava Stadium )
 </a>
 </li>
 <li id="Location154" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(154,'Garuda Mall ( Opp. Arbor brewing company )','nav');">
-Garuda Mall ( Opp. Arbor brewing company )
+<a href="javascript:void(0)" onclick="changeLocation(154,'Magrath Road ( Garuda Mall )','nav');">
+Magrath Road ( Garuda Mall )
 </a>
 </li>
-<li id="Location69" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(69,'Indiranagar 12th Main (Escape Hotel)','nav');">
-Indiranagar 12th Main (Escape Hotel)
-</a>
-</li>
-<li id="Location41" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(41,'Indiranagar 100 ft Rd (Beside Dominos)','nav');">
-Indiranagar 100 ft Rd (Beside Dominos)
+<li id="Location152" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(152,'Anepalya ( Inside Exide Batteries )','nav');">
+Anepalya ( Inside Exide Batteries )
 </a>
 </li>
 <li id="Location28" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(28,'UB City','nav');">
-UB City
-</a>
-</li>
-<li id="Location11" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(11,'Domlur (EGL)','nav');">
-Domlur (EGL)
-</a>
-</li>
-<li id="Location4" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(4,'Residency Road (Chancery Pavilion)','nav');">
-Residency Road (Chancery Pavilion)
+<a href="javascript:void(0)" onclick="changeLocation(28,'UB City ( Ground Level Parking )','nav');">
+UB City ( Ground Level Parking )
 </a>
 </li>
 </ul>
@@ -473,105 +457,65 @@ Residency Road (Chancery Pavilion)
 <li class="dropdown-submenu">
 <a href="#">
 South Bangalore
-</a><ul class="dropdown-menu"><a href="#">
-</a><li id="Location210" role="presentation"><a href="#">
-</a><a href="javascript:void(0)" onclick="changeLocation(210,'Kormanagala 80ft Road ( Tattva cafe )','nav');">
-Kormanagala 80ft Road ( Tattva cafe )
+</a><ul class="dropdown-menu LocationsMenu"><a href="#">
+</a><li id="Location324" role="presentation"><a href="#">
+</a><a href="javascript:void(0)" onclick="changeLocation(324,'J P Nagar 3rd Phase (Opp Shoppers Stop)','nav');">
+J P Nagar 3rd Phase (Opp Shoppers Stop)
+</a>
+</li>
+<li id="Location267" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(267,'Bannerghatta Road ( Royal Meenakshi Mall )','nav');">
+Bannerghatta Road ( Royal Meenakshi Mall )
+</a>
+</li>
+<li id="Location246" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(246,'Koramangala ( Forum Mall )','nav');">
+Koramangala ( Forum Mall )
+</a>
+</li>
+<li id="Location210" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(210,'Sony Signal - Koramangala ( Beside Tattva Café )','nav');">
+Sony Signal - Koramangala ( Beside Tattva Café )
 </a>
 </li>
 <li id="Location206" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(206,'Umiya Emp. (opp. Forum Mall Dairy circle side)','nav');">
-Umiya Emp. (opp. Forum Mall Dairy circle side)
+<a href="javascript:void(0)" onclick="changeLocation(206,'Dairy Circle Road - Umiya Emporium ( Opp Forum Mall )','nav');">
+Dairy Circle Road - Umiya Emporium ( Opp Forum Mall )
 </a>
 </li>
 <li id="Location176" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(176,'Jayanagar (Swagath Garuda Mall)','nav');">
-Jayanagar (Swagath Garuda Mall)
-</a>
-</li>
-<li id="Location152" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(152,'Anepalya','nav');">
-Anepalya
+<a href="javascript:void(0)" onclick="changeLocation(176,'Jayanagar ( Swagath Garuda Mall )','nav');">
+Jayanagar ( Swagath Garuda Mall )
 </a>
 </li>
 <li id="Location129" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(129,'Singasandra ( Dakshin Honda )','nav');">
-Singasandra ( Dakshin Honda )
-</a>
-</li>
-<li id="Location121" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(121,'Basavangudi Vanivilas rd (Near HP petrol bunk)','nav');">
-Basavangudi Vanivilas rd (Near HP petrol bunk)
+<a href="javascript:void(0)" onclick="changeLocation(129,'Singasandra - Hosur Road ( Dakshin Honda )','nav');">
+Singasandra - Hosur Road ( Dakshin Honda )
 </a>
 </li>
 <li id="Location109" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(109,'JP Nagar 7th Phase (Santrupi Nagar)','nav');">
-JP Nagar 7th Phase (Santrupi Nagar)
+<a href="javascript:void(0)" onclick="changeLocation(109,'JP Nagar 7th Phase - Off Kothnur Road (Santrupti Nagar )','nav');">
+JP Nagar 7th Phase - Off Kothnur Road (Santrupti Nagar )
 </a>
 </li>
 <li id="Location99" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(99,'Electronic City Phase 2 ( Nr. Satkar Restaurant)','nav');">
-Electronic City Phase 2 ( Nr. Satkar Restaurant)
+<a href="javascript:void(0)" onclick="changeLocation(99,'Electronic City Phase 2 ( Nr. Satkar Restaurant )','nav');">
+Electronic City Phase 2 ( Nr. Satkar Restaurant )
 </a>
 </li>
 <li id="Location98" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(98,'Hosa Road ( Opp to Bosch )','nav');">
-Hosa Road ( Opp to Bosch )
-</a>
-</li>
-<li id="Location95" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(95,'Hulimavu near Meenakshi Mall','nav');">
-Hulimavu near Meenakshi Mall
-</a>
-</li>
-<li id="Location81" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(81,'Basavanagudi (Gandhi Bazaar)','nav');">
-Basavanagudi (Gandhi Bazaar)
+<a href="javascript:void(0)" onclick="changeLocation(98,'Hosa Road ( Opp Bosch )','nav');">
+Hosa Road ( Opp Bosch )
 </a>
 </li>
 <li id="Location66" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(66,'Madiwala (Sarovar Portico)','nav');">
-Madiwala (Sarovar Portico)
-</a>
-</li>
-<li id="Location46" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(46,'Jayanagar','nav');">
-Jayanagar
-</a>
-</li>
-<li id="Location31" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(31,'Koramangala (Sony Signal)','nav');">
-Koramangala (Sony Signal)
-</a>
-</li>
-<li id="Location22" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(22,'Bannerghatta Road (Anant Cars)','nav');">
-Bannerghatta Road (Anant Cars)
-</a>
-</li>
-<li id="Location20" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(20,'Dairy Circle (opp Christ College)','nav');">
-Dairy Circle (opp Christ College)
+<a href="javascript:void(0)" onclick="changeLocation(66,'Madiwala - Hosur Road ( Sarovar Portico Hotel entrance )','nav');">
+Madiwala - Hosur Road ( Sarovar Portico Hotel entrance )
 </a>
 </li>
 <li id="Location12" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(12,'Silk Board (Ibis Hotel)','nav');">
-Silk Board (Ibis Hotel)
-</a>
-</li>
-<li id="Location7" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(7,'Hosur Road (Opposite Eka Hotel)','nav');">
-Hosur Road (Opposite Eka Hotel)
-</a>
-</li>
-<li id="Location6" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(6,'Koramangala (Grand Mercure Hotel)','nav');">
-Koramangala (Grand Mercure Hotel)
-</a>
-</li>
-<li id="Location2" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(2,'J.P.Nagar 7th Phase (Brigade Millenium)','nav');">
-J.P.Nagar 7th Phase (Brigade Millenium)
+<a href="javascript:void(0)" onclick="changeLocation(12,'Silk Board - Hosur Road ( Hotel Ibis )','nav');">
+Silk Board - Hosur Road ( Hotel Ibis )
 </a>
 </li>
 </ul>
@@ -580,70 +524,40 @@ J.P.Nagar 7th Phase (Brigade Millenium)
 <li class="dropdown-submenu">
 <a href="#">
 North Bangalore
-</a><ul class="dropdown-menu"><a href="#">
-</a><li id="Location156" role="presentation"><a href="#">
-</a><a href="javascript:void(0)" onclick="changeLocation(156,'Kogilu','nav');">
-Kogilu
+</a><ul class="dropdown-menu LocationsMenu"><a href="#">
+</a><li id="Location320" role="presentation"><a href="#">
+</a><a href="javascript:void(0)" onclick="changeLocation(320,'Beside Yeshwantpur Rly Stn ( Vaishnavi Sapphire Mall )','nav');">
+Beside Yeshwantpur Rly Stn ( Vaishnavi Sapphire Mall )
+</a>
+</li>
+<li id="Location257" role="presentation">
+<a href="javascript:void(0)" onclick="changeLocation(257,'Gangamma Circle ( BEL Road )','nav');">
+Gangamma Circle ( BEL Road )
 </a>
 </li>
 <li id="Location116" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(116,'Vidyaranyapura)','nav');">
-Vidyaranyapura)
-</a>
-</li>
-<li id="Location111" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(111,'Kodigehalli ( Sanjeevani Nagar )','nav');">
-Kodigehalli ( Sanjeevani Nagar )
+<a href="javascript:void(0)" onclick="changeLocation(116,'Vidyaranyapura )','nav');">
+Vidyaranyapura )
 </a>
 </li>
 <li id="Location96" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(96,'Jakkur ( Inside Crystal Pushpak Ceramic )','nav');">
-Jakkur ( Inside Crystal Pushpak Ceramic )
-</a>
-</li>
-<li id="Location74" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(74,'Horamavu Agara Main road (GNR Diamond Park)','nav');">
-Horamavu Agara Main road (GNR Diamond Park)
+<a href="javascript:void(0)" onclick="changeLocation(96,'Jakkur Main Road ( Pushpak Ceramics )','nav');">
+Jakkur Main Road ( Pushpak Ceramics )
 </a>
 </li>
 <li id="Location67" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(67,'Bellary Road (Palace Ground)','nav');">
-Bellary Road (Palace Ground)
-</a>
-</li>
-<li id="Location33" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(33,'Manyata Tech Park','nav');">
-Manyata Tech Park
-</a>
-</li>
-<li id="Location19" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(19,'Hessarghata Main Road (Sapthagiri)','nav');">
-Hessarghata Main Road (Sapthagiri)
-</a>
-</li>
-<li id="Location18" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(18,'Yeshwantpur (Magnum Honda)','nav');">
-Yeshwantpur (Magnum Honda)
+<a href="javascript:void(0)" onclick="changeLocation(67,'Palace Grounds - Bellary Road ( Gate No 8 Entry )','nav');">
+Palace Grounds - Bellary Road ( Gate No 8 Entry )
 </a>
 </li>
 <li id="Location17" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(17,'Airport','nav');">
-Airport
+<a href="javascript:void(0)" onclick="changeLocation(17,'Airport ( Free Pick-Up from Airport Terminal )','nav');">
+Airport ( Free Pick-Up from Airport Terminal )
 </a>
 </li>
 <li id="Location13" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(13,'Hennur (Opposite Bus Depot)','nav');">
-Hennur (Opposite Bus Depot)
-</a>
-</li>
-<li id="Location10" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(10,'Hebbal (Woodsman Estate)','nav');">
-Hebbal (Woodsman Estate)
-</a>
-</li>
-<li id="Location1" role="presentation">
-<a href="javascript:void(0)" onclick="changeLocation(1,'Malleshwaram (Brigade Gateway)','nav');">
-Malleshwaram (Brigade Gateway)
+<a href="javascript:void(0)" onclick="changeLocation(13,'Hennur ( Opp Bus Depot )','nav');">
+Hennur ( Opp Bus Depot )
 </a>
 </li>
 </ul>
@@ -662,7 +576,7 @@ Select a car
 <div class="arrw"></div>
 <div class="fc"></div>
 </div>
-<ul aria-labelledby="Cars" class="dropdown-menu" role="menu">
+<ul aria-labelledby="Cars" class="dropdown-menu" id="CarsMenu" role="menu">
 <li id="Cars" role="presentation">
 <a href="javascript:void(0)" onclick="changeCar('','All Cars','Cars','nav');">
 All Cars
@@ -671,6 +585,11 @@ All Cars
 <li id="Cars1" role="presentation">
 <a href="javascript:void(0)" onclick="changeCar(1,'Figo','Cars','nav');">
 Figo
+</a>
+</li>
+<li id="Cars19" role="presentation">
+<a href="javascript:void(0)" onclick="changeCar(19,'Swift','Cars','nav');">
+Swift
 </a>
 </li>
 <li id="Cars12" role="presentation">
@@ -733,6 +652,11 @@ Nano
 CLA
 </a>
 </li>
+<li id="Cars18" role="presentation">
+<a href="javascript:void(0)" onclick="changeCar(18,'Fortuner','Cars','nav');">
+Fortuner
+</a>
+</li>
 <li id="Cars5" role="presentation">
 <a href="javascript:void(0)" onclick="changeCar(5,'E2O','Cars','nav');">
 E2O
@@ -745,7 +669,7 @@ E2O
 <input id="LocationVal" name="loc" readonly="true" type="text">
 <input id="CarsVal" name="car" readonly="true" type="text">
 </div>
-<div class="fl button" id="SearchSubmit">
+<div class="fl search_button" id="SearchSubmit">
 <input class="inpt" name="commit" type="submit" value="">
 </div>
 <div class="fc"></div>
@@ -755,21 +679,29 @@ E2O
 </form>
 </div>
 <script>
-  function checkJquery() {
+  function checkJquery_widget() {
   	if (window.jQuery) {
   		initializeDatePicker();
+  		$('.resume_widget_button').on('click', function(){
+  			if($(this).hasClass('open'))
+  				$('.resume_widget_notification').show();
+  			else
+  				$('.resume_widget_notification').hide();
+  		});
   	} else {
-  		window.setTimeout(checkJquery, 1000);
+  		window.setTimeout(checkJquery_widget, 1000);
   	}
   }
-  checkJquery();
+  checkJquery_widget();
 </script>
 
 </div>
 </div>
-</nav>
+</div>
+</div>
 <div class="wrapper" id="Flash"></div>
 
+<div class="page-wrap">
 <div class="static">
 <h1>Privacy Policy</h1>
 <p>This Privacy Policy (the “Policy”) sets out how Zoom, Inc. (“Zoom”, “we”, “us” and/or “our”) collects, uses, shares and protects any information that you give us when you use this website (the “Site”). Zoom is committed to ensuring that your privacy is protected as your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users in order to provide, protect, maintain and improve our services, we feel you should fully understand the Policy surrounding the capture and use of that information. Please read the Policy carefully.</p>
@@ -821,13 +753,35 @@ We partner with outside companies to provide you with additional services relate
 <p>Zoom reserves the right to remove or edit content, refuse service, terminate accounts, or cancel plans or orders at its sole discretion.</p>
 <br>
 <h3>How to Contact Us:</h3>
-<p>If you have any questions or concerns about our Policy or data processing, please contact us at info@Zoomcar.in.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+<p>If you have any questions or concerns about our Policy or data processing, please contact us at info@Zoomcar.in.</p>
 <p>Last updated December 1, 2012</p>
 </div>
 
-<div class="footer">
+</div>
+<div class="site-footer">
+<div class="footer" id="footer">
 <div class="footer-text">
+<div class="partition">
+<h3>Cities</h3>
+<div class="p-t5">
+<a href="/bangalore">Car Rental Bangalore</a>
+</div>
+<div class="p-t5">
+<a href="/pune">Car Rental Pune</a>
+</div>
+<div class="p-t5">
+<a href="/mumbai">Car Rental Mumbai</a>
+</div>
+<div class="p-t5">
+<a href="/delhi">Car Rental Delhi</a>
+</div>
+<div class="p-t5">
+<a href="/hyderabad">Car Rental Hyderabad</a>
+</div>
+<div class="p-t5">
+<a href="/chennai">Car Rental Chennai</a>
+</div>
+</div>
 <div class="partition">
 <h3>How It Works?</h3>
 <div class="p-t5">
@@ -839,9 +793,10 @@ We partner with outside companies to provide you with additional services relate
 <div class="p-t5">
 <a href="/outstation">Going Outstation?</a>
 </div>
-<div class="p-t5">
-<a href="/reva">Zoomcar's Electric!</a>
-</div>
+<!-- - car = Cargroup.find(5) -->
+<!-- - if !car.blank? && !car.active_pricing(@city.id).blank? -->
+<!-- .p-t5 -->
+<!-- %a{:href => "/reva"} Zoomcar's Electric! -->
 <div class="p-t5">
 <a href="/bangalore/faq">FAQs</a>
 </div>
@@ -878,8 +833,13 @@ We partner with outside companies to provide you with additional services relate
 </div>
 <div class="partition t-r">
 <h3>Let's keep in touch</h3>
-<div class="p-t5 lgrey lh-18 m-r57">
+<div class="p-t5 lgrey lh-18 t-l contactus_text">
 <a class="link" href="/bangalore/contactus" rel="nofollow" target="_blank" title="Contact Us">Contact Us</a>
+<div class="size-12 lgrey t-l">
+<p class="m-b0">#308, 1st to 3rd Floor,</p>
+<p class="m-b0">100 Feet Main Road,</p>
+<p class="m-b0">Indiranagar, 1st Stage,</p>
+<p class="m-b0">Bangalore – 560038</p>
 </div>
 <div class="social fl m-r_5">
 <a class="link" href="https://www.facebook.com/zoomcar.in?ref=hl" rel="nofollow" target="_blank" title="Connect with us on Facebook!"></a>
@@ -887,12 +847,13 @@ We partner with outside companies to provide you with additional services relate
 <a class="link" href="https://twitter.com/ZoomCarIndia" rel="nofollow" target="_blank" title="Follow us on Twitter!"></a>
 <a class="link" href="http://www.zoomcar.com/blog/" rel="nofollow" target="_blank" title="Catch up with us on our Blog!"></a>
 </div>
+</div>
 <div class="fc"></div>
 </div>
 <div class="fc"></div>
-<div class="m-t10 lgrey t-c">
-© Copyright 2015 Zoomcar India Private Ltd. All rights reserved.
-</div>
+<!-- .m-t10.lgrey.t-c -->
+<!-- &copy; Copyright #{Time.now.year} Zoomcar India Private Ltd. All rights reserved. -->
+<!-- Zoomcar India Pvt. Ltd. -->
 <br>
 </div>
 </div>
@@ -918,7 +879,7 @@ We partner with outside companies to provide you with additional services relate
 <div class="modal-dialog">
 <div class="modal-content" id="modal_extend">
 <div class="modal-header">
-<button aria-hidden="true" class="close" data-dismiss="modal" onclick="window.location.href=window.location.href" type="button" value="reload-page">×</button>
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button" value="reload-page">×</button>
 <h4 class="modal-title" id="ModalLabel"></h4>
 </div>
 <div class="modal-body">
@@ -931,6 +892,53 @@ We partner with outside companies to provide you with additional services relate
 </div>
 </div>
 
+<div aria-hidden="true" aria-labelledby="newModalLabel" class="modal newModal fade" id="newModal" role="dialog" tabindex="-1">
+<div class="modal-dialog newModalDialog m-t110">
+<div class="modal-content newModalContent" id="newModalContent">
+<div class="modal-body newModalBody">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<div class="col-md-5 newModalBodyLeft" id="newModalBodyLeft">
+<div class="zLogo" id="zLogo"></div>
+<div class="zText f-w100 white t-c size-20" id="zText">
+Let's go for a Ride!
+</div>
+<div class="newModalList fo-opensans f-w100 white size-12 p-l30 p-r20" id="newModalList">
+<ul>
+<li class="p-b5">
+Rent a car starting at just ₹45/hr
+</li>
+<li class="p-b5">
+Tariff includes fuel, taxes and insurance
+</li>
+<li class="p-b5">
+All cars equipped with All India Permits
+</li>
+</ul>
+</div>
+</div>
+<div class="col-md-5 newCitrusBodyLeft hide" id="newCitrusBodyLeft">
+<div class="newCitrusList fo-opensans f-w100 size-12 p-l30 p-r20" id="newModalList">
+<ul>
+<li class="p-b5">
+Hassle free refunds within 3 days
+</li>
+<li class="p-b5">
+Refunds are credited only to Citrus Cash
+</li>
+<li class="p-b5">
+Withdraw anytime, ₹5000 at a time
+</li>
+</ul>
+</div>
+</div>
+<div class="col-md-7 newModalBodyRight" id="newModalBodyRight"></div>
+</div>
+</div>
+</div>
+</div>
+
 <!-- = javascript_include_tag 'application' -->
 <div id="fb-root"></div>
 <div class="hide">
@@ -938,7 +946,17 @@ We partner with outside companies to provide you with additional services relate
 <div id="JsResponse"></div>
 <div id="DummyWait"></div>
 </div>
+<script>
+  var city_name = "bangalore";
+</script>
+
+</div>
+<script>
+  var city_name = 'Bangalore';
+  var city_name_downcase = 'bangalore';
+  sessionStorage.setItem("city_name", city_name);
+  console.log('')
+</script>
 
 
-
-<script src="//assets.zoomcar.com/assets/application-962f8ce4e74036fcd90be7f9c4311031.js"></script></body></html>
+<script src="//js.zoomcar.com/assets/application-e1b7c2815ebece2007881022953f9efa.js"></script></body></html>
