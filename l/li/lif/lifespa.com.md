@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifespa.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612235009id_/http%3A//lifespa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifespa.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225021430id_/http%3A//lifespa.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Dr. Douillard's LifeSpa
 
