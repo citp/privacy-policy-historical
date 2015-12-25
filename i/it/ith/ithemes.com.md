@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615050011id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051407id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iThemes :: iThemes
 
