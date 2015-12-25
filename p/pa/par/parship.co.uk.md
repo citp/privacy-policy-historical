@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223011112id_/http%3A//uk.parship.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225012633id_/https%3A//uk.parship.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy | PARSHIP.ie
 
