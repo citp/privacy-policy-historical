@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ipower.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630014101id_/https%3A//www.ipower.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipower.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225051436id_/http%3A//www.ipower.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -14,7 +14,50 @@
 <link rel="apple-touch-icon" href="http://images.ipower.com/icons/apple-touch-icons/apple-touch-icon-ipower.png">
 <link rel="image_src" href="http://images.ipower.com/icons/favicons/facebook-ipower.jpg">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/ipower_csscomponent.css?modules=&amp;">
-<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.ipower.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -66,7 +109,11 @@ var monetateT = new Date().getTime();
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -83,7 +130,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a class="cpbar-webmail icon" href="/mail/">WebMail</a></li>
 <li><a class="cpbar-file-manager icon" href="/controlpanel/FileManager/">FileManager</a></li>
 </ul></div>
-<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.ipower.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1435628461"><input type="hidden" name="__token_val__" value="fe2d7cc0ff4444298d1f6115ada9147b">
+<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.ipower.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1451020476"><input type="hidden" name="__token_val__" value="35cc4eb09d971093a8291a1a1b817741">
 <input type="hidden" name="destination" value="/controlpanel/"><ul>
 <li>
 <label>Username</label><input maxlength="50" size="15" name="credential_0" class="formfield">
@@ -99,9 +146,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="masthead">
 <h1><a href="/ipower/index.bml?ref=logo">IPOWER</a></h1>
 <h2>Powerful Web Hosting and Domain Names for Home and Business</h2>
-<p class="support-chat"><a href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1&amp;ref=chatbubble" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Click here to chat with a live specialist.</a></p>
+<p class="support-chat"><a class="gtm_chat" href="#chat">Click here to chat with a live specialist.</a></p>
 <a href="/support/contact.bml"><img src="/images/currency-txt/ipw-phone-USD.png" alt="For 24x7 Support, call 1.888.511.HOST." style="float:right; margin-top: 10px;"></a><a href="/green/"><img src="/images/ipower/ip-wind-badge.png" style="float:right; margin:-14px 8px 0 0;"></a><div style="position: relative;"><div style="position: absolute; left: 325px; top: 15px;" class="norm currency-drop">
-<form name="pick"><input type="hidden" name="__token_timestamp__" value="1435628461"><input type="hidden" name="__token_val__" value="fe2d7cc0ff4444298d1f6115ada9147b">
+<form name="pick"><input type="hidden" name="__token_timestamp__" value="1451020476"><input type="hidden" name="__token_val__" value="35cc4eb09d971093a8291a1a1b817741">
 												Country:
 												<img id="margin-right: 10px;" src="/images/icons/CountryFlags/USD-flag.gif" alt="flag"><select name="country" id="countrySelect" onchange="putCookie();"><option value="USD">United States</option>
 <option value="GBP">United Kingdom</option>
@@ -142,7 +189,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="bd">
 <div id="navcomponent" class="yui-b">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
@@ -527,9 +573,9 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <li><a href="/legal/legal_privacy.bml">Privacy</a></li>
 <li><a href="/support/sitemap.bml">Sitemap</a></li>
 <li class="social-intro">Follow:</li>
-<li class="social twitter"><a rel="nofollow" target="_blank" href="http://www.twitter.com/ipowerhosting">Follow us on Twitter</a></li>
-<li class="social facebook"><a rel="nofollow" target="_blank" href="http://www.facebook.com/ipower">Facebook Page</a></li>
-<li class="social googleplus"><a rel="nofollow" target="_blank" href="https://plus.google.com/116265855911219226621">Google+</a></li>
+<li class="social twitter"><a rel="nofollow" target="_blank" class="gtm_social" data-gtm-name="twitter" href="http://www.twitter.com/ipowerhosting">Follow us on Twitter</a></li>
+<li class="social facebook"><a rel="nofollow" target="_blank" class="gtm_social" data-gtm-name="facebook" href="http://www.facebook.com/ipower">Facebook Page</a></li>
+<li class="social googleplus"><a rel="nofollow" target="_blank" class="gtm_social" data-gtm-name="google+" href="https://plus.google.com/116265855911219226621">Google+</a></li>
 <li class="social-intro">Recommend:</li>
 <li class="social google" style="padding-top: 5px;">
 <div class="g-plusone" data-annotation="none" data-href="//www.ipower.com/"></div>
@@ -548,31 +594,8 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 
 
 
-
-
 <script type="text/javascript">
-  var _bcvma = _bcvma || [];
-  _bcvma.push(["setAccountID", "506535311544236990"]);
-  _bcvma.push(["setParameter", "WebsiteDefID", "2470114021466803412"]);
-  _bcvma.push(["setParameter", "ChatWindowDefID", "1181543033099275158"]);
-  _bcvma.push(["setParameter", "ChatWidth", "640"]);
-  _bcvma.push(["setParameter", "ChatHeight", "480"]);
-  _bcvma.push(["setParameter", "InvitationDefID", "118150610801248372"]);
-  _bcvma.push(["setParameter", "WindowScheme", "http"]);
-  _bcvma.push(["pageViewed"]);
-  (function(){
-    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
-    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
-  })();
-</script>
-
-
-	<a href="http://www.boldchat.com" title="Live Chat" rel="nofollow" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/506535311544236990/bc.vmi?wdid=2470114021466803412" border="0" width="1" height="1"></a>
-
-
-<script type="text/javascript">
-_gaq.push(['_setCustomVar',2,'Boldchat Test','On',1]);
+_gaq.push(['_setCustomVar',2,'Boldchat Test','Off',1]);
 </script>
 
 
