@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchyroll.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095501id_/http%3A//www.crunchyroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchyroll.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225062344id_/http%3A//www.crunchyroll.com/privacy) for the most accurate reproduction.*
 
 # Crunchyroll - Privacy Policy
 
