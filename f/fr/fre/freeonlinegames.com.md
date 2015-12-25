@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504051737id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225202532id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Games at FOG.COM
 
