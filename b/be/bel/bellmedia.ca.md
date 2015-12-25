@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellmedia.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629001915id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellmedia.ca privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225165844id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -26,7 +26,7 @@ Every year, we ensure that each of our employees reviews and signs a code of bus
 
 **Questions or concerns about your privacy?**
 
-We'd be happy to discuss any questions or concerns you may have about your privacy. To reach us, please visit our [contact us](https://web.archive.org/Contact-us) section.
+We'd be happy to discuss any questions or concerns you may have about your privacy. To reach us, please visit our [contact us](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml) section.
 
 If you still have unresolved privacy concerns, you can write to the Bell Privacy Ombudsman at:
 
@@ -44,7 +44,7 @@ K1A 1H3
 Phone: 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -87,7 +87,7 @@ While the information may be subject to the legal jurisdictions of these countri
 
 The use of customer information in this way is governed by the Bell Privacy Policy. 
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -111,7 +111,7 @@ When we provide personal information to third parties, we give only the informat
 
 Please note that, pursuant to federal legislation, publicly available information, including a directory listing of your name, address and telephone number, may be collected, used and disclosed by organizations without your consent.
 
-If you prefer not to have your listing information provided to select organizations, please [contact us](https://web.archive.org/Contact-us).
+If you prefer not to have your listing information provided to select organizations, please [contact us](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml).
 
 **Sharing information among the Bell companies**
 
@@ -119,7 +119,7 @@ Occasionally we may share information between the Bell companies to help underst
 
 **Option to opt out**
 
-If you don't want your information shared among the Bell companies, please [contact us](https://web.archive.org/Contact-us).
+If you don't want your information shared among the Bell companies, please [contact us](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml).
 
 Please note that when you choose to opt out (or opt back in), it may take up to 30 days to update our databases.
 
@@ -133,7 +133,7 @@ It' s important to note that in certain circumstances, we may collect, use or di
 
 
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -143,77 +143,7 @@ Customer usage and account information to design relevant marketing
 
 This section will be updated in the future. Please check back later.
 
-### What information are we talking about?
-
-Bell will use the following categories of information:
-
-Network usage information, such as:  
----  
-  
-  * Web pages visited from your mobile device or your Internet access at home.  
-This may include search terms that have been used.
-  * Location
-  * App and device feature usage
-  * TV viewing
-  * Calling patterns
-
-  
-  
-Account information:  
----  
-  
-  * Information about your use of Bell products and services (such as device type, postal code, payment patterns, and language preference)
-  * Demographic information such as gender or age range
-
-  
-  
-### Is my information shared?
-
-No, under these new programs, we will not share any information that identifies you personally outside of Bell Canada and its affiliates.
-
-### How information will be used
-
-To create business and marketing reports.  
----  
- **Description**
-
-We will combine network usage information and account information in a way that does not personally identify you. We will use this information to prepare business and marketing reports that we may use ourselves or share with others.
-
-|  **Example**
-
-We may generate a report that shows 5,000 mobile users downloaded a gaming application in a month, and 80% of them were 18–25 years old.  
-  
-For other companies to create business and marketing reports.  
----  
- **Description**
-
-We may also share information with other companies in a way that does not personally identify you. We will allow these companies to produce limited business and marketing reports.
-
-|  **Example**
-
-Using information from Bell and other mobile carriers, a company may generate a report that shows how many mobile users were active along a certain parade route.  
-  
-To make ads you see more relevant.  
----  
- **Description**
-
-When you use the Internet on your mobile device, laptop, computer or TV, you often see unfiltered, random ads on websites and within apps. We would like to use certain network usage information and account information to make the ads you see more relevant to you. These ads may be from Bell or from third parties, however Bell will not share any of your personal information with a third party as part of placing a third party ad.
-
-|  **Example**
-
-A hotel chain may want to only advertise their Montréal location to out-of-town mobile users. Bell may exclude Montréal users on the hotel's behalf when delivering the ad (without sharing personal information).  
-  
-Your choices.  
----  
- **Description**
-
-You will receive unfiltered and random ads whether you participate or not, but under this program, ads may be more relevant to you.
-
-| 
-
-If you do not want us to use your information for any of the purposes  described above, you can [opt out](http://mobilebrowser.bwanet.ca/optout/v2/bell-en.jsp).    
-  
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -231,7 +161,7 @@ The kinds of things we might ask you to confirm could include your account numbe
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -276,7 +206,7 @@ Because Bell is committed to continually improving its customer contact experien
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -290,7 +220,7 @@ For more information regarding marketing to children, please visit the [Canadian
 
 For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://support.bell.ca/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -302,7 +232,7 @@ What privacy enhancing services does Bell offer?
 
 [Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **1 866 310-BELL** (2355) or by visiting a Bell store.
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -400,7 +330,7 @@ ADADs used to make calls for purposes other than telemarketing must:
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -474,13 +404,13 @@ The following are some important tips to help protect you from fraudulent activi
 
 **Who to contact for more information or to report fraud**
 
-If you think you may have given personal information to a fraud operator posing as a Bell representative, please [call](https://web.archive.org/Contact-us) us immediately. Give us as much information as possible including the exact date and time of the call.
+If you think you may have given personal information to a fraud operator posing as a Bell representative, please [call](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml) us immediately. Give us as much information as possible including the exact date and time of the call.
 
 Otherwise, if you suspect you’ve been a target of any type of phone or Internet fraud and would like to report a problem, contact the Canadian Anti-Fraud Call Centre (formerly Phonebusters) at **1 888 495-8501** or go to [www.antifraudcentre.ca](http://www.antifraudcentre.ca/).
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
 
@@ -498,6 +428,6 @@ Bell ExpressVu L.P.
 The Source (Bell) Electronics Inc.  
 Bell Media Inc.  
   
-Last Updated:09/05/2014 
+Last Updated:09/07/2015 
 
 * * *
