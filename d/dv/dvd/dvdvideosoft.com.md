@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222193016id_/http%3A//dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055416id_/https%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
 
-# DVDVideoSoft.com: Download free DVD, iPod, YouTube video converter and editor software and freeware
+# DVDVideoSoft Privacy Statement
 
 Since your privacy is important to us, DVDVideoSoft Ltd has created this privacy statement in order to let you know our firm commitment to your privacy.
 
@@ -34,12 +34,10 @@ This site contains links to other sites. Please be aware that DVDVideoSoft Ltd i
 
 ## Use of "cookies"
 
-During your visit to our website, so-called "cookies" are saved to your computer. These "cookies" register information about the navigation of your computer on our website (loaded pages, date, time of day and length of visit etc.) which we can access during your next visit in order to adapt the website to your personal requirements and optimize loading times. We also use this information to enter your data into enquiry forms and suchlike so that you do not need to fill them in yourself again and again.
+During your visit to our website, so-called "cookies" are saved to your computer. These "cookies" register information about the navigation of your computer on our website (age, sex, interests, loaded pages, date, time of day and length of visit etc.) which we can access during your next visit in order to adapt the website to your personal requirements and optimize loading times. We also use this information to enter your data into enquiry forms and suchlike so that you do not need to fill them in yourself again and again.
 
 We never store passwords or similarly sensitive data in cookies. The use of cookies is common and advantageous. Cookies are used on most larger websites. By indicating how and when visitors use a website, cookies aid us in finding out which areas are popular and which areas are not. Many improvements and updates are based on information supplied by cookies. Cookies can also help us to personalize web content and meet the desires of our visitors.
 
-Our websites do not use cookies to collect personal information from your computer that was not initially sent as a cookie.
-
 You have the option to control the acceptance of cookies yourself and, if you wish, to block them entirely by configuring your browser as follows:
 
-If you use the Internet Explorer to surf the net: In the "Tools" menu, click "Internet Options", select the "Privacy" tab and click "Advanced". Here, you can "Block" cookies or set up a "Prompt". The latter setting allows you to decide from occasion to occasion whether you would like to accept a cookie or not.
+If you use Google Chrome, go to 'Settings' and click 'Show advanced Settings'. Open 'Content Settings' in 'Privacy' part. You can restrict usage of cookies for all websites or selectively. You can also use the Google Analytics Opt-out Browser Add-on: https://tools.google.com/dlpage/gaoptout/?hl=en
