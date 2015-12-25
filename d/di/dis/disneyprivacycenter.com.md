@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disneyprivacycenter.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211621id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyprivacycenter.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225063841id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
 
-# Privacy Policy | The Walt Disney Company
+# Privacy Policy - Disney Privacy Center
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that we have to offer on the platforms and devices our guests prefer.
 
@@ -8,13 +8,7 @@ Our privacy policy is designed to provide transparency into our privacy practice
 
 ## **Privacy Policy**
 
-| 
-
-[](https://privacy.truste.com/privacy-seal/Disney-Interactive/validation?rid=4d1cf72f-a0c7-4357-ab9b-3551da820175 "TRUSTe online privacy certification")  
-  
----|---  
-  
-Last Modified: June 19, 2015
+Last Modified: December 11, 2015
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -136,15 +130,15 @@ Notice to California Residents: If you are a California resident, you may have 
 
 ### **Definitions**
 
-**Aggregate Information.**  Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest.
+Aggregate Information. Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest.
 
-**Anonymous Information**. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest.
+Anonymous Information. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest.
 
-**Application.**  Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.
+Application. Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.
 
-**Children.**  Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term “children” refers to individuals under 13 years of age.
+Children. Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term “children” refers to individuals under 13 years of age.
 
-**Data Controller.**  The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications, as follows:
+Data Controller. The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications, as follows:
 
   * ****Disney Club Penguin (“Club Penguin”)****  
 Disney Canada Inc. (formerly known as Disney Online Studios Canada Inc.)  
@@ -163,9 +157,7 @@ The Walt Disney Company Limited
 Hammersmith  
 London  
 W6 9PE  
-[help@disney.co.uk](mailto:ms_support@help.go.com)
-
-US, Canada and Rest of World:  
+[help@disney.co.uk](mailto:ms_support@help.go.com)US, Canada and Rest of World:  
 Disney Interactive  
 500 South Buena Vista Street  
 Mail Code 7667  
@@ -175,22 +167,21 @@ United States of America
 
 
 
+Data Processor. A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s).
 
-**Data Processor.**  A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s).
+IP Address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information.
 
-**IP Address**. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information.
+Member. Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies.
 
-**Member**. Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies.
+Notice. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
 
-**Notice**. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
+Parents. Parents means a parent or legal guardian.
 
-**Parents**. Parents means a parent or legal guardian.
+Personal information. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
 
-**Personal information**. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
+Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services.
 
-**Public Forums**. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services.
-
-**The Walt Disney Family of Companies**. The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following:
+The Walt Disney Family of Companies. The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following:
 
   * ABC
   * Babble
@@ -224,5 +215,3 @@ United States of America
 Guest Services
 
 For questions related to children’s privacy, you may also telephone Guest Services at (877) 466-6669.
-
-Disney Interactive has received the TRUSTe Privacy Seal in the United States, signifying that this privacy policy and our privacy practices have been reviewed for compliance with the TRUSTe program listed on the validation page available when you click on the TRUSTe Privacy Seal. The TRUSTe program covers only those properties identified on the validation page.  If you believe that Disney Interactive has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](https://feedback-form.truste.com/watchdog/request "TRUSTe complaint page") or the United States Federal Trade Commission through its [online consumer complaint form](https://www.ftccomplaintassistant.gov/ "Federal Trade Commission online consumer complaint form").
