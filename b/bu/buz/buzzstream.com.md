@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213050547id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190925id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzStream
 
-Last Updated: August 24, 2011
+  * Last Updated: March 18, 2015
+
+
 
 This is the Privacy Policy of the BuzzStream website (the “Site”), operated by Rel Equals Inc. (together with our affiliates and subsidiaries, “BuzzStream”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
@@ -56,9 +58,9 @@ We may aggregate information to provide benchmarking and other comparison inform
 
 If you post on our forum or blog your username and other information you include is displayed in your postings or comments, and is therefore available to the public. All of your activities in the public areas of the forum will be identifiable to your User ID, and other people can see your published content.
 
-  * #### Subsidiaries and Affiliates; Service Providers.
+  * #### Service Providers.
 
-We may from time to time use the services of affiliates, subsidiaries and unrelated service providers in the operation of the Site, and may disclose personal information to them in the course of our use of their services. For example, we may use the services of third-party hosting companies to host the operation of the Site. This may involve the hosting of data, including personal information, on servers operated by those hosting companies. We take care to use only service providers that we believe are reputable and able to live up to our and your expectations, including about the handling of confidential information.
+We use the services of unrelated service providers in the operation of the Site, and may disclose personal information to them in the course of our use of their services. For example, we may use the services of third-party hosting companies to host the operation of the Site. This may involve the hosting of data, including personal information, on servers operated by those hosting companies. We take care to use only service providers that we believe are reputable and able to live up to our and your expectations, including about the handling of confidential information.
 
   * #### Legal Requests; Emergencies.
 
