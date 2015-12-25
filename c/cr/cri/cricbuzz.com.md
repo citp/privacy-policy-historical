@@ -1,60 +1,94 @@
-> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629074206id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051630id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy policy
 
-This Policy sets forth the terms that apply to any information we collect from you and any information that you share through your use of Cricbuzz website www.cricbuzz.com or m.cricbuzz.com or Cricbuzz Cricket Scores and News application, mobile software accessible from a mobile device ("Cricbuzz App") collectively referred to as "Cricbuzz Site"
+Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers/manages the website www.cricbuzz.com
 
-We respect your privacy and recognise that you have a right to know about the information we access or collect about you, how your information is being used by us and what we do to protect your information. 
+TIL/we respect the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users, TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
-You provide us information about you on the following occasions: 
+By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
-  * When you log on to Cricbuzz Site through a third party social networking site account, you provide us your account information with such third party social networking sites which may include your email id, your profile picture and profile data. 
-  * When you create a user account on the Cricbuzz Site, you provide us with, email id, user id and password.
-  * When you post or upload your comments, opinions and feedback on the Public Forum of the Cricbuzz Site.
-  * When you access Cricbuzz App you allow the Cricbuzz App to access the features of your mobile device such as the phone number, your contacts, IMEI number of your device, whether a phone call is active, the number that the phone call is connected to and the like. The access to your mobile device features is used to stop the radio commentary and terminate internet access when you make or receive a call. However, Cricbuzz does not access or store this information on its servers and the access to your mobile device features by the Cricbuzz App is solely for the purpose of stopping the radio commentary and the internet access when you make or receive a call so as to enable you to make or receive a call without any disruption from the Cricbuzz App. 
-  * The Cricbuzz App may access your personal contacts stored on your mobile device for the purpose of enabling you to share with your contacts auto generated live scores of a cricket match via SMS as and when you wish to. Cricbuzz does not access or store this information on its servers and the access to your contacts by the Cricbuzz App is solely for the purpose of providing you with the convenience of sharing live scores of a cricket match with your personal contacts as and when you so desire.
-  * When you send us a feedback mail, your mobile device's IMEI number, your device model, OS version and the Cricbuzz App version is automatically accessed by us. Your name and email id is provided by you to us at your discretion. The information specified in this paragraph is used for the purpose of addressing any specific issues that the user may have and for enhancing user experience and user convenience while using the Cricbuzz App.
-  * We collect the usage pattern of the Cricbuzz Site through third party tools like Google Analytics. While we don't know the individual user's usage pattern of the Cricbuzz Site, we collect the aggregate usage pattern of all users of Cricbuzz Site. However, we are not aware if the third party tools that we use would store individual user specific usage pattern. 
-  * When you use the Cricbuzz Site you provide us with your IP address. We may use cookies or similar electronic tools to store this information. We may store a cookie on your computer or mobile device which in turn would store information about your geographical location. We collect the geographic location of the users of Cricbuzz Site and only at the city level.
-  * The cookie stored on your computer or mobile device may be refreshed once every month so that the information stored in the cookie is the latest and most relevant to you. We retain the right to bust the cookie (forcibly reset the cookie) before the expiry of one month from the date of last refresh for any technical reasons. However, any such cookie bust will not target any specific user and will apply to all the users of Cricbuzz Site.
+#### User information
+
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process that may include but not limited to :- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and/or your occupation, interests, and the like. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
+
+All required information is service dependent and TIL may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services.
+
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.
+
+For placing an order on Indiatimes shopping the information shall be used to service user requests, and the information shall include user’s name, mailing address, email and phone number. This information shall be gathered on the purchase of products/gift certificates, or sign up for email notifications.
+
+We also store the first 6 and last 4 digits of user card number in a secure and encrypted manner. The first 6 digits (also known as the Bank Identification Number) are used to identify the bank name and country where user card was issued. The first 6 and last 4 digits are together used for fraud detection and prevention purposes.
+
+The primary reason for gathering information is for order processing, shipping and customer service. For example, we may contact user to provide an update on order, information regarding the shipping status or to clarify questions related to the order. We also use this information to improve our products, services, website content and navigation.
+
+#### Cookies
+
+To improve the responsiveness for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.We receive and store certain types of information whenever you interact with us via website, application or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.
+
+#### Opting out
+
+If a user opts out using the [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated?hl=en), the unique DoubleClick cookie ID on the user's browser is overwritten with the phrase "OPT_OUT". Because there is no longer a unique cookie ID, the opt-out cookie can't be associated with a particular browser.
+
+#### Log file information
+
+We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.
+
+#### Information from other sources
+
+We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you.
+
+#### Demographic and purchase information
+
+We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout).
+
+#### Links to third party sites/ad-servers
+
+The website or application may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application, you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the application's homepage, you should contact the application or website owners directly for more information. When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites or Applications -- it is usually in the form of aggregated statistics on traffic to various pages/content within our websites or Applications. We use third-party advertising companies to serve ads when you visit our websites or Applications. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites or application, in order to provide advertisements about goods and services of interest to you. We do not provide any personally identifiable information to third party websites / advertisers/ad-servers without your consent.
+
+#### Information Sharing
+
+TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
+
+  *  When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations. 
+  * When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations. 
 
 
 
-The Cricbuzz Site may include links to other websites or web pages. Such sites or pages are governed by their respective privacy policies, which are beyond our control. Once you leave the Cricbuzz Site (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. 
+#### Accessing and upadating presonal information
 
-We use your information for the following purpose.
+When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personalformation or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-  * To personalise your experience on the Cricbuzz Site by presenting you advertised products and services that are tailored to you. 
-  * To communicate with you about your account or transactions and queries or issues that you may have relating to Cricbuzz Site or any of its services and send you information about features on Cricbuzz Site or changes to our policies.
-  * To send you news alerts, match alerts and match scores (if subscribed). 
-  * To optimize and improve the products and services offered by the Cricbuzz Site.
-  * To detect and investigate any fraud or illegal activity on the Cricbuzz Site.
+#### Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+
+All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [grievance@cricbuzz.com](mailto:grievance@cricbuzz.com) to Mr. Harsha Kishan (Grievance Officer).
+
+#### Grievance redressal
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to .  
+Mr. Harsha Kishan (Grievance Officer).  
+Times Internet Limited.  
+[www.cricbuzz.com](https://web.archive.org/)
+
+Akuate Internet Services Pvt Ltd.  
+No. 190-B, 1st Floor,  
+HN Plaza,100 Ft Ring road,  
+6th Main, BSK 3rd Stage,  
+Bangalore . 560085, INDIA  
+Ph: 080-40965631
+
+We request you to please provide the following information in your complaint:
+
+  * A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+  * Identification of the copyrighted work claimed to have been infringed.
+  * dentification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+  * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+  * A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 
-
-We do not rent, use, sell or transfer any information collected from you to advertisers or spammers. 
-
-We may disclose your information when it is requested or required by law or by any court or governmental agency or authority, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for complying with the applicable laws and regulations. We may disclose your information to law enforcement agencies if we believe that the Cricbuzz Site is being used for any fraudulent activities or to prevent any fraud or any illegal act that we have reasons to believe may be caused on us or through the use of the Cricbuzz Site.
-
-Your information may be accessed by our employees during the course of their normal work, however, such employees are governed by confidentiality agreement and access is provided on a need to know basis for fulfilling the responsibilities assigned to them by us.
-
-Your information may be accessed by third party service providers who are engaged by us to provide any services relating to the Cricbuzz Site (such as maintenance services, database management, web analytics etc). These third party service providers have access to your information only to perform the task assigned to them and are governed by confidentiality agreement.
-
-In the event ownership or control of Cricbuzz Site is acquired by a new owner, your information may be transferred to the new owner as such a transfer may be necessary for the continued operation of the Cricbuzz Site. Any changes to the privacy policy by the new owner will be notified here.
-
-We take industry standard security measures to protect your information. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store user data.
-
-All information gathered is securely stored within controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
-
-The internet is a fast evolving medium and changes to the policy may be necessary to address any future requirements. If we make any changes to the policy, users will be notified of the changes here.
-
-If you have any questions or suggestions or wish to make a compliant you can contact us at [privacy@cricbuzz.com](mailto:privacy@cricbuzz.com)   
-or   
-write to us at the following address:   
-
-
-Akuate Internet Services Pvt Ltd.   
-No. 190-B, 1st Floor,   
-HN Plaza,100 Ft Ring road,   
-6th Main, BSK 3rd Stage,   
-Bangalore . 560085, INDIA 
