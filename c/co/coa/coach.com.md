@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623213159id_/http%3A//www.coach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225123223id_/http%3A//www.coach.com/privacy.html) for the most accurate reproduction.*
 
 # Coach: Security and Privacy
 
@@ -138,13 +138,10 @@ The Company reserves the right, at its discretion, to change, modify, add, or re
 
 Updated: April 30, 2015 
 
-  * [Store Locator](https://web.archive.org/store-locator.html "Store Locator")
+  * [Store Locator](http://www.coach.com/stores "Store Locator")
 
 
   * [International Sites](https://web.archive.org/international-landing.html "International Sites")
-
-
-  * [Site Map](https://web.archive.org/site-map.html "Site Map")
 
 
   * [Security & Privacy](https://web.archive.org/privacy.html "Security & Privacy")
