@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltechbuzz.net privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324031145id_/http%3A//www.alltechbuzz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechbuzz.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191254id_/http%3A//www.alltechbuzz.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Tech Buzz
 
