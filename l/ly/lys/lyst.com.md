@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205741id_/http%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052310id_/http%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -140,7 +140,7 @@ The information you can access will change as the Services change.
 
 If you a are registered user of Lyst, you can change or delete saved credit/debit card details and add or edit shipping and billing address information.
 
-The Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at legal@lyst.com. We will respond to your access and/or correction request within four (4) weeks.
+You have the right to access information held about you. In the UK the Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at legal@lyst.com. We will respond to your access and/or correction request within four (4) weeks.
 
 #### 9\. What Choices Do I Have?
 
