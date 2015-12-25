@@ -1,37 +1,136 @@
-> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424153749id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225070051id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
 
 # RA: Privacy
 
-  * 1\. Introduction
+1\. Introduction
 
-This policy covers Resident Advisor Limited's ("RA") use of personal information that is collected when you use [www.residentadvisor.net](http://www.residentadvisor.net/). 
+Resident Advisor Limited (“Us”, “We”, “Our”) is the data controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). We work closely with other companies within our group of companies to provide our website and our apps to you and any reference to “Us”, “We” or “Our” within this Privacy Policy includes Resident Advisor Tickets Limited and any parent companies, direct or indirect subsidiary companies or other related undertakings within the Resident Advisor group of companies wherever located in the world as may exist from time to time. We respect your privacy and we are committed to protecting your personal information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information. 
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email) in order to receive or use services on our website. Such services include newsletters, competitions, forums, and RA membership.
+This Privacy Policy (“Policy”) explains how we collect, use and disclose your Information. This Policy is intended to assist you in making informed decisions about your Information when using our website or one of our apps. By using our website or any of our mobile application software (“App(s)”), you consent to our collection and use of your Information as described in this policy. If you download one of our apps, the policy will apply and it contains further details of how we use your Information. Please take a minute to read and understand the Policy.
 
-By entering your details in the fields requested, you enable the RA and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information the RA will act in accordance with current legislation and aim to meet current Internet best practice. 
+Please be aware that you must be over twelve (12) years old to download and use any of our Apps. If you are not over the age of twelve years old, you should not download or use our App(s). 
 
-2\. Visitor information
+If we change our Policy and/or procedures, we will post those changes on our website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of our website or App(s) after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to review this Policy regularly. 
 
-During the course of any visit to RA, the pages you see, along with a short text file called a 'cookie', are downloaded to your computer. Information contained within cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. 
+In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. 
 
-RA may gather non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. RA uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. 
+2\. What information do we collect?
 
-If you would rather not have cookies on your computer, you can set your browser to deny cookies. You can also select to delete cookies from your computer at your discretion. For further information on cookies visit [aboutcookies.org](http://www.aboutcookies.org/). 
+When you use our website or one of our Apps you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways: 
 
-3\. Use and storage of your personal information
+2.1 Information you voluntarily provide to us 
 
-RA may use the collected data about you for internal purposes only, to improve its site and to better tailor the services to meet your needs. 
+We collect and maintain Information that you voluntarily submit to us during any registration and/or use of our website or App(s). For example: 
 
-In general, any information you provide to RA will only be used in relation to the site. Your information may be disclosed to third party contractors and service providers who work with RA, to provide website services. Your information will be disclosed where we are obliged or permitted by law. If you post or send offensive, inappropriate or objectionable content anywhere on or to www.residentadvisor.net or otherwise engage in any disruptive behaviour on the website, RA can use whatever information that is available about you to stop such behaviour. 
-
-4\. Security 
-
-In accordance with our requirements under the Data Protection Act 1998, RA shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, RA shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information. 
-
-5\. Users 16 and under
-
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to RA. 
-
-01 /
+  * • when you register for an account, you may provide us with certain Information including your name, email address, username, password, date of birth, region and demographic information;
+  * • when you purchase tickets, you may provide us with certain information including your address and payment information; and
+  * • if you sign up to receive a newsletter or enter a competition, you may provide us with contact information (e.g. email, telephone and/or physical address); and
+  * • you may provide us with information about your music or event preferences to customise our services.
 
 
+
+You can choose not to provide us with certain Information, but this may prevent you from gaining access to a service or limit the features that you can use on our website or an App. For more information, please see the “How We Use Your Information” section of the Policy below. 
+
+2.2 Information we collect through your use of our services
+
+As you use our website or one of our Apps, Information such as location Information may also be passively collected by us through our use of Location Services, GPS, Bluetooth and other technologies. This Information does not identify you individually but allows us to deliver more helpful information, services, tools and advertisements. 
+
+2.3 Information we receive from third parties
+
+We may also combine information received from third parties (including other members of our group of companies) with your Information. The third party information is used for a variety of purposes including to enhance the content and advertising we provide to you. 
+
+3\. How we use your information
+
+We will use your Information in the ways described below and as described at the time that the Information is collected. 
+
+3.1 To Provide the Services
+
+In general, we use your Information as necessary or appropriate for our business purposes including to: 
+
+  * • administer your account where you have opened an account with us; 
+  * • register you and provide you access to our App, where you download an App; 
+  * • respond to inquiries or requests that you direct to us; 
+  * • fulfil your requests for tickets or services; 
+  * • send communications and administrative messages about our services; 
+  * • personalise and better tailor the features, performance and support of our services (including our App(s); and
+  * • analyse, benchmark and conduct research on user data and user interactions with our website and App(s).
+
+
+
+3.2 Marketing
+
+Where you have provided us with the appropriate consents, or where the Act entitles us to do so, we may send you marketing materials about other products or services offered by us. In addition, where you have provided us with the appropriate consents, we may also pass your Information to one or more of our group companies or other selected third parties for marketing purposes.
+
+However, we are fully committed to ensuring the rights and obligations set out in the Act and the Privacy and Electronic Communications Regulations 2003 are respected. 
+
+3.3 Behavioural Advertising 
+
+We believe that advertising is more interesting to you when it is relevant. Accordingly, where you have consented for us to do so we may customise the advertisements that you see based upon: 
+
+  * • the Information you voluntarily provide to us; 
+  * • geographic location information, which we may determine from your mobile device, or other ways; 
+  * • data we receive from third parties; or 
+  * • your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). 
+
+
+
+Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. 
+
+4\. Can I find out what personal information you hold on me? 
+
+Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 (by cheque made payable to Resident Advisor Ltd) associated with this request and it will require two pieces of identification to prove your identity. Please make a written application to “Head of Product” at 26 Hertford Rd, London, N1 5QT, UK.
+
+If any of the Information that we hold about you is incorrect, or you no longer wish to receive marketing communications from us then you can click on the contact us link on our website at http://www.residentadvisor.net/contact.aspx and submit under General comments/ feedback. 
+
+Please note that: 
+
+  * • even if you delete Information, we may retain your Information as required by law; and
+  * • we are not responsible for updating or removing your Information contained in the lists or databases of third parties who have been provided with Information as permitted by this Policy. 
+
+
+
+5\. How we disclose your information to third parties
+
+We may share your Information with third parties as specifically approved by you or under the circumstances described below. 
+
+5.1 Disclosure for legal reasons 
+
+We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers or others. 
+
+We use third party organisations to help provide a professional service to our customers. These organisations act as data processors and are strictly controlled in how they may/may not use your Information and we remain responsible for the protection of your Information. 
+
+5.2 Promotions and Sponsors
+
+Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent. We are not responsible for their privacy policy or practices. 
+
+When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion. 
+
+5.3 Changes to our Company
+
+In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy. 
+
+5.4 Message Boards and Chats
+
+We may make message boards, chat rooms, and other interactive forums available on our website or as part of our App(s). You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or App(s). By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk. 
+
+6\. Third party links and services
+
+Please remember that when you use a link to go from our website or our App(s) to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through our website or our App(s) and does not apply to these third party websites and third party service providers. 
+
+7\. Where we store your information
+
+The Information that we collect from you may be transferred to and stored at a destination outside the European Economic Area including to Japan, US and Australia. Your Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting Information to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Policy and the Act. 
+
+8\. Security of your information
+
+We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, unfortunately, the transmission of information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the Act. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it. 
+
+9\. How to contact us
+
+If you have any questions regarding privacy or this Policy, you may contact us as follows:   
+Head of Product  
+Resident Advisor Limited  
+26 Hertford Road  
+London  
+N1 5QT  
+United Kingdom 
