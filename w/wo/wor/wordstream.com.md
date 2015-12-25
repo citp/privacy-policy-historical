@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623231209id_/http%3A//www.wordstream.com/privacy-policy%3Fcamplink%3Dmainfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225083500id_/http%3A//www.wordstream.com/privacy-policy%3Fcamplink%3Dmainfooter) for the most accurate reproduction.*
 
-# WordStream Privacy Policy | Wordstream
+# WordStream Privacy Policy | WordStream
 
 **Last Updated: May 22, 2015**
 
-We at WordStream, Inc. (“WordStream”) are constantly striving to provide excellent service to you while building a long-lasting relationship with you.  Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you.  This Privacy Statement has been written to describe the conditions under which this website is being made available to you. The Privacy Statement discusses, among other things, how data obtained during your visit to this website may be collected and used.  We strongly recommend that you read the Privacy Statement carefully.  By using this website, you agree to be bound by the terms of this Privacy Statement.  If you do not accept the terms of the Privacy Statement, you are directed to discontinue accessing or otherwise using the website or any materials obtained from it.  If you are dissatisfied with the website, by all means contact us at [privacystatement@wordstream.com](mailto:privacystatement@wordstream.com); otherwise, your only recourse is to disconnect from this site and to refrain from visiting the site in the future.
+We at WordStream, Inc. (“WordStream”) are constantly striving to provide excellent service to you while building a long-lasting relationship with you.  Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you.  This Privacy Statement has been written to describe the conditions under which this website is being made available to you. The Privacy Statement discusses, among other things, how data obtained during your visit to this website may be collected and used.  We strongly recommend that you read the Privacy Statement carefully.  By using this website, you agree to be bound by the terms of this Privacy Statement.  If you do not accept the terms of the Privacy Statement, you are directed to discontinue accessing or otherwise using the website or any materials obtained from it.  If you are dissatisfied with the website, by all means contact us at support@wordstream.com; otherwise, your only recourse is to disconnect from this site and to refrain from visiting the site in the future.
 
 To achieve our goal in providing you with excellent services, we may need to collect information about you when you visit our websites. When you visit our sites, you may be providing WordStream with information about your visit on two levels:
 
@@ -154,4 +154,4 @@ From time to time WordStream (and our partners, affiliates, and resellers) may e
 
 **Contacting Us**
 
-Questions about this Privacy Statement can be directed to [privacystatement@wordstream.com](mailto:privacystatement@wordstream.com).
+Questions about this Privacy Statement can be directed to support@wordstream.com.
