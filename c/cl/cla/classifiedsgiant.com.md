@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601182754id_/http%3A//www.classifiedsgiant.com/4-privacy-policies/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225054048id_/http%3A//www.classifiedsgiant.com/4-privacy-policies/content.html) for the most accurate reproduction.*
 
 # Free Classifieds, Connecting sellers & buyers - ClassifiedsGiant.com
 
