@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laweekly.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201853id_/http%3A//www.laweekly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laweekly.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225235845id_/http%3A//www.laweekly.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Los Angeles News and Events | LA Weekly
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@laweekly.com](mailto:privacyadministrator@laweekly.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
