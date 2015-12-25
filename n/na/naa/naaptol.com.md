@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naaptol.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626033232id_/http%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaptol.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225015452id_/http%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Naaptol Privacy Policy
 
@@ -28,6 +28,20 @@ Only authorized employees, agents and contractors (who have agreed to keep infor
 Distribution of Information
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. 
+
+Grievance Redressal
+
+In accordance with Information Technology Act, 2000 and rules made there under, if you notice any discrepancies in the information provided to us or have any grievance against us, you may contact our Grievance Officer. The name and contact details of the Grievance Officer are: 
+
+Mr. Suvra Kanti Roy  
+Naaptol Online Shopping Private Limited  
+Number 11, Conopus,  
+Kabra Galaxy Star-I CHS,  
+Brahmand, Azad Nagar,  
+Thane West 400 607. 
+
+Email: [grievance.officer@naaptol.com](mailto:%20grievance.officer@naaptol.com)  
+Monday to Friday except Public Holidays (10:00 AM to 6:00 PM) 
 
 Our commitment to data security
 
