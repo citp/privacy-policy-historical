@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626121132id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094119id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Arutz Sheva
 
@@ -36,6 +36,8 @@ We may use user information that is either provided by you or gathered with the 
 
   * We may use information you provide us or that is collected by us or collected by 3rd parties to show you advertising and ads that we think might appeal to you. These ads might be targeted and shown to you on the basis of such things as your gender, age, geographic location, web sites you visit and other information.
 
+  * By registering for or using one of our site tools you agree to receive marketing material. You are able to cancel your subsc‎ripttion to marketing material at any time. 
+
 
 
 
@@ -51,7 +53,7 @@ HOW YOU MAY LIMIT OR BLOCK COOKIES
 
 You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or even to block all cookies (although blocking all cookies may diminish some of the services we can offer you including providing you with tailored advertising) 
 
-If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers. websites. Alternatively, you may use the resources located at [ _http://www.networkadvertising.org/choices_](http://www.networkadvertising.org/choices)  to opt out
+If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers. websites. Alternatively, you may use the resources located at [ _http://www.networkadvertising.org/choices_](http://www.networkadvertising.org/choices) to opt out
 
 Many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit [ _http://www.networkadvertising.org/optout_nonppii.asp_](http://www.networkadvertising.org/optout_nonppii.asp).
 
