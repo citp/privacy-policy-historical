@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628062417id_/http%3A//themighty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225044849id_/http%3A//themighty.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Mighty
 
@@ -23,8 +23,7 @@ We do not direct the Site to persons under 13 years of age, and requires Users t
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
 CONSUMER EDUCATION RELATED TO SOCIAL NETWORKING  
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
-
+Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:  
 http://onguardonline.gov/socialnetworking.html http://onguardonline.gov/socialnetworking_youth.html
 
 INFORMATION SHARING AND DISCLOSURE  
