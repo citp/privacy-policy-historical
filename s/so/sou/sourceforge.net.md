@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150815id_/http%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225224021id_/http%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Slashdot Media
 
@@ -68,8 +68,8 @@ Please take some time to familiarize yourself with the different ways we use the
     8. To email users about services, information, products and offers from our business partners (and as set forth in the Section How we share information we gather);
     9. To personalize a Site for the user;
     10. To notify the user of any changes with a Site which may affect the user;
-    11. To enforce terms of use on a Site; and
-    12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
+    11. To enforce terms of use on a Site;
+    12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects; and
     13. To allow us to contact you by phone and/or email.
 
 
