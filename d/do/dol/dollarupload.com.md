@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508121330id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226000551id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
 
 # DollarUpload - Privacy Policy
 
@@ -115,4 +115,4 @@ If any provision of this Privacy Policy is found to be illegal, void, or unenfor
 
 This page was lasted updated on March 31, 2015. 
 
-[Contact Us](https://web.archive.org/web/20150508121330id_/http%3A//dollarupload.com/contact.php)
+[Contact Us](https://web.archive.org/web/20151226000551id_/http%3A//dollarupload.com/contact.php)
