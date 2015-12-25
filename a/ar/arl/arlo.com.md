@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arlo.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121108id_/http%3A//www.netgear.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlo.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226005957id_/http%3A//www.netgear.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | NETGEAR
 
@@ -114,7 +114,7 @@ You can reach us by using the information on our contact us page, or by email at
 
 If you want to correct or update your information with NETGEAR, Inc., please email us at [privacy.policy@netgear.com](mailto:privacy.policy@netgear.com).
 
-If contacting us does not resolve the issue, you can raise the issue with the JAMS [SafeHarbor@jamsadr.com](https://web.archive.org/web/20150612121108id_/http://www.netgear.com/about/privacy-policy/SafeHarbor@jamsadr.com).
+If contacting us does not resolve the issue, you can raise the issue with the JAMS [SafeHarbor@jamsadr.com](https://web.archive.org/web/20151226005957id_/http%3A//www.netgear.com/about/SafeHarbor@jamsadr.com).
 
 ##### We may update this policy.
 
