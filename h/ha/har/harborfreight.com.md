@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151332id_/http%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225194824id_/http%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy
-
-Please click [here](https://web.archive.org/protectingcustomers) for important information. 
 
 We at Harbor Freight Tools (" **Harbor Freight** ") protect the Personal Information you provide us in accordance with this Privacy and Security Policy. We have prepared this Privacy and Security Policy to let you know how we collect, use, disclose and otherwise manage the Personal Information you provide to us at any of our Harbor Freight retail stores (the " **Stores** "), through any Harbor Freight customer call centers (the " **Customer Call Centers** "), through any physical mail or email sent to Harbor Freight (“Mail”), through the [_http://www.HarborFreight.com_](http://www.harborfreight.com/) website and other sites that may currently exist and/or be established by Harbor Freight (collectively the " **Sites** ").
 
