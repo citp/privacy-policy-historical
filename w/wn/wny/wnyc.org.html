@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wnyc.org privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628214259id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wnyc.org privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225112127id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -15,7 +15,7 @@ Privacy Policy
   <meta property="og:url" content="/privacy/?utm_source=sharedUrl&amp;utm_medium=metatag&amp;utm_campaign=sharedUrl">
   <meta property="og:site_name" content="WNYC">
   <meta property="fb:app_id" content="151261804904925">
-  <meta property="og:description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&amp;nbsp; New York Public Radio&amp;rsquo;s Digital Platforms This Privacy Policy, along with our Terms of Service, applies to all users of New York Public Radio&amp;rsquo;s (NYPR&amp;rsquo;s) digital platforms, including, e.g., this website&amp;nbsp;(and all of NYPR&amp;rsquo;s other websites, like wnyc.org and wqxr.org, that link to&amp;nbsp;this Privacy Policy), embeddable content that we may make available for use on other people&amp;rsquo;s websites or digital platforms, and our apps, other than third party content, discussed in Other Sites and Services, below. We take your privacy seriously and want you to understand how ...">
+  <meta property="og:description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&nbsp; New York Public Radio’s Digital Platforms This Privacy Policy, along with our Terms of Service, applies to all users of New York Public Radio’s (NYPR’s) digital platforms, including, e.g., this website&nbsp;(and all of NYPR’s other websites, like wnyc.org and wqxr.org, that link to&nbsp;this Privacy Policy), embeddable content that we may make available for use on other people’s websites or digital platforms, and our apps, other than third party content, discussed in Other Sites and Services, below. We take your privacy seriously and want you to understand how ...">
 
   
   
@@ -26,12 +26,13 @@ Privacy Policy
 
 
 
-  <meta name="description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&amp;nbsp; New York Public Radio&amp;rsquo;s Digital Platforms This ...">
+  <meta name="description" content="Last updated on July 2, 2014. Please also see our Terms of Service.&nbsp; New York Public Radio’s Digital Platforms This ...">
 
   <!-- Google custom search stuff -->
 
 
 
+    <meta name="apple-itunes-app" content="app-id=470219771">
     <link rel="shortcut icon" href="//media.wnyc.org/static/img/favicon_wnyc.ico">
     <link rel="alternate" type="application/rss+xml" title="All WNYC Stories (RSS)" href="/feeds/all/">
     <link rel="alternate" type="application/atom+xml" title="All WNYC Stories (Atom)" href="/atomfeeds/all/">
@@ -40,7 +41,7 @@ Privacy Policy
     
   
   
-<link rel="stylesheet" href="//media.wnyc.org/static/CACHE/css/d520453710da.css" type="text/css" media="all">
+<link rel="stylesheet" href="//media.wnyc.org/static/CACHE/css/7709b9c0172e.css" type="text/css" media="all">
 
     
   
@@ -80,7 +81,7 @@ var flag_url = '/comments/adminflag/';
     
   
   
-<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/05d23c5092ac.js"></script>
+<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/f2e00299094a.js"></script>
 
     
   
@@ -101,6 +102,20 @@ var flag_url = '/comments/adminflag/';
     googletag.pubads().setTargeting('host', window.location.host);
     googletag.pubads().setTargeting('fullurl', window.location.host + window.location.pathname);
   
+    if (wnyc.current_item){
+        if (wnyc.current_item.tags) {
+            googletag.pubads().setTargeting('tag', wnyc.current_item.tags);
+        }
+        if (wnyc.current_item.show) {
+            googletag.pubads().setTargeting('show', wnyc.current_item.show);
+        }
+        if (wnyc.current_item.channel) {
+            googletag.pubads().setTargeting('channel', wnyc.current_item.channel);
+        }
+        if (wnyc.current_item.series) {
+            googletag.pubads().setTargeting('series', wnyc.current_item.series);
+        }
+    }
   });
 
 </script>
@@ -234,7 +249,7 @@ var flag_url = '/comments/adminflag/';
 <ul style="position: relative; top: -6px;">
 <li><a class="fa fa-facebook" href="https://www.facebook.com/WNYC/"><!-- this comment required because tinymce will delete this li otherwise --></a></li>
 <li><a class="fa fa-twitter" href="https://twitter.com/WNYC/"><!-- this comment required because tinymce will delete this li otherwise -->​</a></li>
-<li><a class="fa fa-instagram" href="http://instagram.com/wnycradio/"><!-- this comment required because tinymce will delete this li otherwise --></a></li>
+<li><a class="fa fa-instagram" href="http://instagram.com/wnyc/"><!-- this comment required because tinymce will delete this li otherwise --></a></li>
 <li><a class="fa fa-youtube" href="https://www.youtube.com/user/wnycradio/"><!-- this comment required because tinymce will delete this li otherwise --></a></li>
 <li><a class="fa fa-tumblr" href="http://wnyc.tumblr.com/"><!-- this comment required because tinymce will delete this li otherwise --></a></li>
 <!--<li><a style="font-size: 12px; text-transform: uppercase; font-weight: 400; position: relative; top: 4px; width: 158px; display: inline-block; line-height: 16px;" href="feedback" target="_blank">How can we improve our website?--><!-- this comment required because tinymce will delete this li otherwise --></ul>
@@ -415,6 +430,17 @@ var flag_url = '/comments/adminflag/';
                     <div id="twitterbox">
                         
 
+<!--Splash page-->
+<script type="text/javascript">// <![CDATA[
+window.overlay_iframe_options = {
+iframe_src: "http://www.wnyc.org/splash/wnyc-splash-dec-2015/",
+nag_frequency: "43200",
+}
+// ]]></script>
+<script type="text/javascript" src="http://media.wnyc.org/media/js/lib/wnyc/overlay/overlay_iframe_outer.js"></script>
+<style>
+#wnyc_popdown {position: relative; z-index: 1;}
+</style>
 
                     </div>
 
@@ -448,7 +474,7 @@ var flag_url = '/comments/adminflag/';
     </a>
   </li>
   <li class="fa-hover twitter">
-    <a title="Share on Twitter" href="https://twitter.com/intent/tweet/?text=Privacy+Policy&amp;via=WNYC&amp;url=http%3A%2F%2Fwww.wnyc.org%2Fprivacy%2F" data-share-via="twitter" data-story-title="Privacy+Policy" data-show-name="Privacy+Policy">
+    <a title="Share on Twitter" href="https://twitter.com/intent/tweet/?text=Privacy Policy&amp;via=WNYC&amp;url=http%3A%2F%2Fwww.wnyc.org%2Fprivacy%2F" data-share-via="twitter" data-story-title="Privacy+Policy" data-show-name="Privacy+Policy">
       <i class="fa fa-twitter fa-lg"></i>
     </a>
   </li>
@@ -601,6 +627,32 @@ var flag_url = '/comments/adminflag/';
         </div><!-- #full-page-transforms-wrapper -->
     </div><!-- #full-page-viewport-wrapper -->
 
+    <!--Splash page code, decides on generic splash or DSM-->
+<script type="text/javascript">// <![CDATA[
+var hash = parent.window.location.href;
+if (hash.indexOf("deathsex") > -1) {
+  window.overlay_iframe_options = {
+    iframe_src: "http://www.wnyc.org/splash/dsm-splash-dec-2015/",
+    nag_frequency: "43200",
+  }
+  $('p.header-wide-button.btn--pink a').attr('href','http://www.wnyc.org/epledge/death-sex-and-money?utm_source=deathsexmoney&utm_medium=deathsexmoney-100x56&utm_campaign=pledge&utm_content=donate');
+}
+else if (hash.indexOf("notetoself") > -1) {
+  window.overlay_iframe_options = {
+    iframe_src: "http://www.wnyc.org/splash/note-self-splash-dec-2015/",
+    nag_frequency: "43200",
+  }
+}
+else {
+  window.overlay_iframe_options = {
+    iframe_src: "http://www.wnyc.org/splash/wnyc-splash-dec-2015/",
+    nag_frequency: "43200",
+    }
+}
+// ]]></script>
+<script type="text/javascript" src="http://media.wnyc.org/media/js/lib/wnyc/overlay/overlay_iframe_outer.js"></script>
+<style>#wnyc_popdown {position: relative; z-index: 1;}</style>
+
     <script type="text/javascript">
     (function() {
       wnyc.google = {};
@@ -673,12 +725,11 @@ jQuery(window).bind('load', function() {
 
     
 
-
   
   
   
   
-<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/adcecc4c9717.js"></script>
+<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/25a84172ebc8.js"></script>
 
 
   
