@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063232id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225233644id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — YES! Magazine
 
-## What information do we gather about you?  
-
+## What information do we gather about you?
 
 The information we gather falls into two categories:
 
-  1.  personal information you voluntarily supply when you subscribe, order, complete a survey, or provide your email address and   
-
+  1.  personal information you voluntarily supply when you subscribe, order, complete a survey, or provide your email address and 
   2. tracking information collected as you navigate through our site.
 
 
@@ -75,7 +73,7 @@ YES! readers may use this feature to send links to articles to others through em
 
 YES! will not sell, rent, swap or authorize any third party to use your email address without your permission. 
 
-If you are a print subscriber to YES! magazine and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your email address) with other like-minded organizations through direct mail. If you prefer that we do not share this information, you may opt-out, either by logging in to your account ([www.yesmagazine.org/MySubscription](http://www.yesmagazine.org/MySubscription)) and choosing that option, or by emailing customer service.
+If you are a print subscriber to YES! magazine and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your email address) with other like-minded organizations through direct mail. If you prefer that we do not share this information, you may opt-out, either by logging in to your account (<http://store.yesmagazine.org/account/login>) and choosing that option, or by emailing customer service.
 
 ### Service Providers
 
@@ -93,8 +91,7 @@ If you experience difficulty with the unsubscribe process, feel free to contact 
 
  If you prefer that we do not share your address, you may opt-out, either by logging in to your account ([www.yesmagazine.org/MySubscription](http://www.yesmagazine.org/MySubscription)) and choosing that option, or by emailing customer service. Email us at subs [at] yesmagazine.org, put "don't share my name" in the subject and include in the body your subscriber number and name. If you don't know your subscriber number (found on the address label of the magazine), you will need to include your address as well, so we can correctly identify you.
 
-## Is your information protected?  
-
+## Is your information protected?
 
 ### Data Security
 
