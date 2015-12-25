@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172611id_/http%3A//www.wopg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225150923id_/http%3A//wopg.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Words of Peace
 
