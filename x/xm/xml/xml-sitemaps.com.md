@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml-sitemaps.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195359id_/https%3A//www.xml-sitemaps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml-sitemaps.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051116id_/https%3A//www.xml-sitemaps.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - XML Sitemaps Generator
 
