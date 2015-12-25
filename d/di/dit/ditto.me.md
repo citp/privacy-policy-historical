@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ditto.me privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170645id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditto.me privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225035212id_/https%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
 # GROUPON, INC. PRIVACY STATEMENT
 
 #### PRIVACY STATEMENT
 
-##### Last Updated: January 9, 2015
+##### Last Updated: September 9, 2015
 
 This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon, Inc. (“ **Groupon** ,” “ **us** ,” “ **our** ,” and “ **we** ”) uses your information and applies to all who use our Web site – www.groupon.com, mobile applications, electronic services, social networking sites, interactive features, online services, or any of our described online activities we own or control (collectively, the “ **Site** ”). This Privacy Statement is incorporated in our **[Terms of Use](http://www.groupon.com/terms)** , which also apply when you use our Site. 
 
@@ -75,7 +75,7 @@ You may choose not to receive commercial e-mails from us by following the instru
 
 **(b) Cookies and Tracking**
 
-You may manage how your browser handles Cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain Third-Party Ad-Servers and Groupon served ads online using the **[National Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)** , the **[About Ads Opt-Out Tool](http://www.aboutads.info/choices/)** , or on TRUSTe’s **[site](http://preferences.truste.com/truste/)**. For more information review our [Cookies Policy](http://www.groupon.com/cookie-policy). Currently, we do not alter our data collection and use practices in response to Do Not Track signals. 
+You may manage how your browser handles Cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain Third-Party Ad-Servers and Groupon served ads online using the **[National Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)** or the **[About Ads Opt-Out Tool](http://www.aboutads.info/choices/)**. For more information review our [Cookies Policy](http://www.groupon.com/cookie-policy). Currently, we do not alter our data collection and use practices in response to Do Not Track signals. 
 
 We use Non-Identifiable Information to directly serve you interest-based ads on third party websites. Interest-based ads served directly by Groupon on third party sites will display the AdChoices icon. If you prefer not to receive interest-based ads from Groupon on third party sites, you can click on the AdChoices icon in the ad, which will direct you to the [Your Groupon AdChoices](https://www.groupon.com/advertising_preference) page where you can opt-out of receiving interest-based ads served by Groupon.
 
@@ -249,12 +249,6 @@ Groupon has certified to its compliance with the Safe Harbor privacy framework f
 
 The European Community has established a data protection regime pursuant to Directive 95/46/EC (the **“Directive”** ). The Directive applies to the European Economic Area ( **“EEA”** ). Switzerland has also established a data protection regime pursuant to the Federal Act on Data Protection ( **“FADP”** ). These regimes restrict companies in the EEA and Switzerland (collectively, **“EEA/CH”** ) from transferring Personal Information about individuals in the EEA/CH to the United States, unless there is “adequate protection” for such Personal Information when it is received in the United States. To create such “adequate protection” and allow our Affiliates, Vendors and Business Partners to overcome the restriction on international data transfers established by the Directive and the FADP, we adhere to the Safe Harbor Privacy Principles published by US Department of Commerce ( **“Safe Harbor Principles”** ) with respect to Personal Information about individuals in the EEA/CH that our subsidiaries and Business Partners in the EEA/CH send to us, ( **“EEA/CH Data”** ). More information on the Safe Harbor Principles and Groupon, Inc.’s scope of participation is available at <http://export.gov/safeharbor/>. Groupon’s policy concerning the processing of EEA/CH Data under its certification can be viewed at <http://www.groupon.com/safe-harbor>.
 
-**(b) TRUSTe**
-
-[](https://privacy.truste.com/privacy-seal/Groupon,-Inc-/validation?rid=3db8fae8-606c-4783-bf94-118f3fbe668f "TRUSTe online privacy certification")
-
-Groupon, Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Statement or practices, please contact us at privacy@groupon.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers information collected on the Web site [www.groupon.com](htttp://www.groupon.com). The TRUSTe program only covers information collected on the Web site [www.groupon.com](htttp://www.groupon.com) and does not cover information that may be collected through our mobile applications and social networking applications.
-
-**(c) Digital Advertising Alliance**
+**(b) Digital Advertising Alliance**
 
 Groupon, Inc. is a member of the Digital Advertising Alliance (DAA), which is a media marketing and trade association that has issued self-regulatory guidelines for online advertising. Visit the DAA’s [AdChoices page](http://www.aboutads.info/choices/) to learn more about interest-based advertising and to opt-out of having cookies placed by ad-serving companies. 
