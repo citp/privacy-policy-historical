@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyfoodteam.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001809id_/http%3A//www.healthyfoodteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfoodteam.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225225940id_/http%3A//www.healthyfoodteam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Healthy Food Team
+# Privacy Policy - Healthy Food Team
 
 **Healthy Food Team** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
