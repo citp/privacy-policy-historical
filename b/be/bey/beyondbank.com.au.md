@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231825id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225181742id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Your privacy is important to us | Beyond Bank
 
@@ -190,7 +190,7 @@ We are committed to providing safe mobile banking services. All use of our mobil
 Banking transaction and balance alerts can be established via our mobile banking app. These alerts can only be established by you the customer and the secure detail of the alert can only be viewed when you are logged into mobile banking. Your smartphone will however receive push notifications from our systems through its operating systems notification facility indicating to you that an alert has been produced and is ready to be viewed through mobile banking. These push notifications will not present information that is deemed to be private and secure.
 
 **Location based services**  
-We use your current location to determine the closest bank branch, ATM, access point or other services that we consider may be of benefit to you, when you allow us to do so via a setting on your smartphone. This information is only used while determining the standard bank services closest to you and we do not store this information
+We use your current location to determine the closest bank branch, ATM, access point or other services that we consider may be of benefit to you, when you allow us to do so via a setting on your smartphone. This information is only used while determining the standard bank services closest to you and we do not store this information. This service is provided via a link to a third party – Google.
 
 **Web Security**  
 We recognise your concern for security, and will use reasonable efforts to establish secure connections with you and to limit access to databases containing personal information to authorised personnel only. When we capture your personal information it is passed through our secure server using SSL and/or TLS encryption technology to ensure it is protected when transmitted over the internet. However, we cannot guarantee that any information transmitted via the internet by us, or you, is entirely secure.
