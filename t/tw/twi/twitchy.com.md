@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twitchy.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626001523id_/http%3A//twitchy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchy.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051455id_/http%3A//twitchy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Twitchy
+# Privacy Policy - twitchy.com twitchy.com
 
 Thank you for visiting twitchy.com, which is owned and operated by Twitchy LLC  (“Twitchy,” “us,” “our” or “we”). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the way your information is collected and used by Twitchy. By visiting our site, you acknowledge and accept this Privacy Policy, and you consent to our collection, storage, use and disclosure of your personal information, and accept our practices and policies, as described in this Privacy Policy. This Policy does not apply to the practices and policies of third parties that we do not own or control, including but not limited to third party services you access though twitchy.com, or to individuals that we do not employ or manage.
 
