@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aarpdriversafety.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629122339id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpdriversafety.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225053328id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy, Your Privacy Rights - AARP
 
-[En español](https://web.archive.org/espanol/conozca_aarp/info-05-2010/politica_de_privacidad.html) | AARP is committed to protecting your privacy and to making sure that you understand how your information is used. AARP believes that only informed members and other website users can make informed decisions about their privacy. Please read this privacy policy carefully. It explains how we collect and share your personal information, and gives you [options to limit how we share your information and communicate with you](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.5.html#07).  
+[En español](http://www.aarp.org/espanol/conozca_aarp/info-05-2010/politica_de_privacidad.html) | AARP is committed to protecting your privacy and to making sure that you understand how your information is used. AARP believes that only informed members and other website users can make informed decisions about their privacy. Please read this privacy policy carefully. It explains how we collect and share your personal information, and gives you [options to limit how we share your information and communicate with you](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.5.html#07).  
 
 
   1. **[Nuts and Bolts of Our Privacy Policy](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.1.html#01)  
