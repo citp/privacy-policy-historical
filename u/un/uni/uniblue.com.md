@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225516id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225163135id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
 
-# Uniblue Privacy Policy
+# Uniblue Privacy and Cookies Policy
 
 Uniblue is committed to safeguard the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
 
 ### Collection and use of information
 
-In general, you can visit the Uniblue website (the 'Website') without telling us who you are or giving any personal information about you. Information which we collect may be used: 
+In general, you can visit the Uniblue website/s (the 'Websites') without telling us who you are or giving any personal information about you. Information which we collect may be used: 
 
   * to communicate with you and fulfill your requests for our products or services,
   * improve our products or services where possible,
@@ -21,29 +21,29 @@ In general, you can visit the Uniblue website (the 'Website') without telling us
 
 We may also collect and store certain types of data as described in more detail below. 
 
-**Cookies and Web Beacons** \- When you visit our Website, we or our service providers, advertisers or partners, may send one or more cookies to your computer or use web beacons to improve the quality of our service by analyzing traffic pattern, tracking user trends and conducting optional research surveys. A cookie is a small file containing a string of characters that uniquely identifies your browser and a web beacon is a single pixel or clear GIF which are small pieces of code placed on a web page. Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Website. For more information on how to disable cookies, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/). 
+**Cookies and Web Beacons** \- When you visit our Websites, we or our service providers, advertisers or partners, may send one or more cookies to your computer or use web beacons to improve the quality of our service by analyzing traffic pattern, tracking user trends and conducting optional research surveys. A cookie is a small file containing a string of characters that uniquely identifies your browser and a web beacon is a single pixel or clear GIF which are small pieces of code placed on a web page. Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Websites. For more information on how to disable cookies, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
 **Third party cookies**
 
-Third party cookies are cookies from another domain (not uniblue.com). We don’t control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on uniblue.com include: 
+Third party cookies are cookies from another domain (not from Uniblue Websites). We don’t control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on Uniblue Websites include: 
 
-**ClickTale**
+**Hotjar**
 
-A web analytic service provider that records site usage, including mouse clicks mouse movements, scrolling activity as well as any text you type and action you take while browsing and/or using this Website (excluding “sensitive” visitor fields such as fields where financial information is inputted). 
+A web analytic service provider that records site usage, including mouse clicks, mouse movements, scrolling activity as well as any text you type and action you take while browsing and/or using this Website (excluding “sensitive” visitor fields such as fields where financial information is inputted). 
 
-For more information on ClickTale's collection of information, please see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). You can choose to disable the ClickTale service at <http://www.clicktale.net/disable.html>. 
+For more information on Hotjar's collection of information, please see their Cookie Information here <https://www.hotjar.com/cookies>. You can choose to disable the Hotjar service by contacting them on <https://www.hotjar.com/contact>. 
 
 **Advertising networks**
 
 These are advertising networks used to deliver interactive advertising campaigns on partner websites. These cookies track the types of content you have viewed to ensure adverts are as relevant to you as possible.
 
-**Log information** \- When you visit our Website, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies as explained above. 
+**Log information** \- When you visit our Websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies as explained above. 
 
-**Electronic notices** \- We may provide you with information and notices regarding the Uniblue products, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
+**Electronic notices** \- We may provide you with information and notices regarding the Uniblue products, applications, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
 
-**Uniblue Products** \- Whilst in use, the Uniblue product may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the Uniblue Products but will not collect any personally identifiable information about you. 
+**Uniblue Products** \- Whilst in use, the Uniblue products may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the Uniblue Products but will not collect any personally identifiable information about you. 
 
-When you purchase a Uniblue product from this Website, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
+When you purchase a Uniblue product from the Uniblue Websites, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
 ### Information sharing
 
@@ -55,7 +55,7 @@ To further improve our products and the service we offer to you, we may also nee
 
 ### Information processing and security
 
-Uniblue.com processes personal information in Malta. Information is retained on our servers in the United States and in other countries. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data held by us. 
+Uniblue processes personal information in Malta. Information is retained on our servers in the United States and in other countries. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data held by us. 
 
 ### Data integrity
 
@@ -63,12 +63,12 @@ We take reasonable steps to ensure that the personal information we process is a
 
 ### Privacy of business partners
 
-Our Website and our newsletter may include various links to third party websites or promote third party products. We are not responsible for the privacy practices of such third parties in any way. We strongly suggest that you refer to their privacy policy before accessing any website or making any purchase so that you are aware of the applicable practices and thus be able to make an informed decision about your actions and/or transactions. 
+Our Websites and our newsletter may include various links to third party websites or promote third party products. We are not responsible for the privacy practices of such third parties in any way. We strongly suggest that you refer to their privacy policy before accessing any website or making any purchase so that you are aware of the applicable practices and thus be able to make an informed decision about your actions and/or transactions. 
 
 ### Children
 
-This Website is not aimed at children and we do not knowingly collect any personal information from children. Minors should not use this Website unless supervised by an adult. 
+The Uniblue Websites are not aimed at children and we do not knowingly collect any personal information from children. Minors should not use these Websites unless supervised by an adult. 
 
 ### Changes to this policy
 
-Please note that this policy may change from time to time. All updates will be published at this Website and, if the changes are significant, the changes will be posted on this page thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
+Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page <http://www.uniblue.com/privacy/> thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
