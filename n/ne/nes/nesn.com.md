@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627122916id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225060445id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NESN.com
 
