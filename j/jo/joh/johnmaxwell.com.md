@@ -1,37 +1,85 @@
-> *The following text is extracted and transformed from the johnmaxwell.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129215452id_/http%3A//www.johnmaxwell.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmaxwell.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225072701id_/http%3A//www.johnmaxwell.com/privacy-policy) for the most accurate reproduction.*
 
-# Injoy - John Maxwell, Catalyst, THRiVE!, Life@Work, Leadership and Teamwork Training
+# The John Maxwell Company
 
-The INJOY Group™ has created this privacy policy as of August 1, 2001 in order to demonstrate our firm commitment and respect to your online privacy. The following discloses our information gathering and dissemination practices. The INJOY Group™ reserves the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. 
+### What information do we collect?
 
-**Read the following policy carefully before continuing.**
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-By using this site, you signify your acceptance and consent of our Privacy Policy. If you do not agree with this policy, do not use this site. If we decide to change our Privacy Policy, we will post these updates/changes to this page. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information.
 
-**Collected Information**
+### What do we use your information for?
 
-The INJOY Group™ expressly reserves the right to monitor any and all use of this web site. We use your IP address to help diagnose problems with our server and to administer our site. We analyze our site logs to constantly improve the value of the materials available on the web site. Our site uses cookies to simplify the login process. Our site's registration form requires users to give us contact information. We use customer contact information from the registration form to send the user information about our company and/or announce changes in our services or about valuable special offers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Provided information is kept strictly private and confidential. The INJOY Group™ holds itself to the highest standards of trust and will not sell, reuse, rent, loan, trade, lease, or otherwise disclose any and all personal information collected at this site to any other company, individual, or group. Our site uses an order form for customers to request information, products, and services. We collect visitor's financial information used to bill the user for products and services in Shop INJOY. This allows us to process and fulfill the orders in a timely manner and to provide a more personalized shopping experience. 
+Any of the information we collect from you may be used in one of the following ways:
 
-**Security**
+**To personalize your experience**
 
-To further protect your privacy, our site has security measures in place to protect the loss, misuse, unauthorized access or disclosure, alteration or destruction of the information under our control. We use the highest level of Internet security, including data encryption, Secure Sockets Layer (SSL) protocol, user names and passwords, and other tools. Customer account information is stored on the secure portion of our web site. An individual's INJOY.com account can only be accessed by using a password that individual creates. Passwords should _never_ be shared. Every registered customer has a unique personal profile which is a assigned a unique personal identification number. The registered customer is not bound to their personal computer to access INJOY.com. If the customer switches computers, re-registration is not necessary. The unique e-mail address and password log in will identify the customer and assign the correct member profile. 
+Your information helps us to better respond to your individual needs.
 
-**Choice/Opt-Out**
+**To improve our website**
 
-INJOY.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor on the member profile page within INJOY.com. This includes online subscriptions. INJOY.com gives users the following option for removing their information from our database entirely to not receive future communications or to no longer receive our service. 
+We continually strive to improve our website offerings based on the information and feedback we receive from you
 
-  * You can send e-mail to [_feedback@injoy.com_](mailto:feedback@injoy.com)
+**To improve customer service**
 
-  
-**Correct/Update**
+Your information helps us to more effectively respond to your customer service requests and support needs
 
-INJOY.com gives registered users the ability to change and/or update contact information previously provided in their INJOY.com member profile. This allows members to keep their personal information correct and current. This information may be reviewed or updated at any time through INJOY.com. 
+**To process transactions**
 
-  * Visit [_www.INJOY.com_](https://web.archive.org/) to access your profile 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  
-**Contact**
+**To send periodic emails**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, you can contact: 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-[_webmaster@injoy.com_](mailto:webmaster@injoy.com). 
+_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
+
+**To contact you by phone**
+
+### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website or through our newsletters. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. All users of our site may make any changes to their information at any time by logging in and editing their profile.
+
+### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Your Consent
+
+By using our site, you consent to our web site privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 1/1/2013
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+The John Maxwell Company   
+2170 Satellite Blvd Suite 195  
+Duluth, GA 30097 US
+
+info@johnmaxwell.com
+
+* * *
