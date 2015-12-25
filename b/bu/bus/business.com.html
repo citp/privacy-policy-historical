@@ -1,51 +1,35 @@
-<!--The following is the downloaded HTML source of the business.com privacy policy that was archived on 2015-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611010628id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the business.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225145445id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-    <title></title>
+<!DOCTYPE html><html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Read Business.com's privacy policy.">
+<meta name="robots" content="all">
+<meta property="og:title" content="Business.com - Privacy Policy">
+<meta property="og:site_name" content="Business.com">
+<meta property="og:url" content="http://www.business.com/info/privacy/">
+<meta property="og:description" content="Read Business.com's privacy policy.">
+<meta property="og:image" content="http://www.business.com/images/main-box-img.jpg">
+<meta property="og:type" content="article">
+<meta property="article:author" content="businessdotcom">
+<meta property="article:publisher" content="businessdotcom">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@businessdotcom">
+<meta name="twitter:creator" content="@businessdotcom">
+<meta name="twitter:title" content="Business.com - Privacy Policy">
+<meta name="twitter:description" content="Read Business.com's privacy policy.">
+<meta name="p:domain_verify" content="022a521c99283eb6b9ac2ce1c68d970a">
+<title>Business.com - Privacy Policy</title>
+<link rel="canonical" href="http://www.business.com/info/privacy/">
+<link rel="shortcut icon" type="image/png" href="/favicon.png?v=2">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZRNQ"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JkPagXgB"></script><script type="text/javascript">
-
-    var viewWidth = null;
-
-    /**
-     * Cross-browser determination of the current screen width
-     */
-    var setViewWidth = function() {
-        if (document.body && document.body.offsetWidth) {
-            viewWidth = document.body.offsetWidth
-        } else if(window.innerWidth) {
-            viewWidth = window.innerWidth;
-        } else if(document.compatMode=='CSS1Compat' && document.documentElement && document.documentElement.offsetWidth) {
-            viewWidth = document.documentElement.offsetWidth;
-        }
-    }
-    setViewWidth();
-
-    /**
-     * Cross-browser compatible event listener convenience function
-     *
-     * @param string eventType (without a prefixed "on")
-     * @param function eventHandler
-     */
-    var registerWindowEvent = function(eventType, eventHandler) {
-        if (window.addEventListener) {
-            window.addEventListener(eventType, eventHandler);
-        } else if(window.attachEvent) {
-            window.attachEvent('on' + eventType, eventHandler);
-        } else {
-            window['on' + eventType] = eventHandler;
-        }
-    }
-    // Immediately register the resize event handler to always have the current width
-    registerWindowEvent('resize', setViewWidth);
-
     var dependencyQueue = [];
     var dependencyChkRunning = false;
 
     /**
      * Function to loop through and array of closures/functions to evaluate the
      * 'test' closure/func in order to run the 'funcToRun' closure/func.  On failure,
-     * it will continue to loop every 100ms and try again
+     * it will continue to loop every 150ms and try again
      */
     var checkDependencies = function() {
         // Don't run if we're currently checking
@@ -55,21 +39,23 @@
         dependencyChkRunning = true;
         // Splice off the dependencyQueue to avoid losing tasks being added while
         // this is running the checks
-        var currTasks = dependencyQueue.splice(0,dependencyQueue.length);
+        var currTasks = dependencyQueue.splice(0, dependencyQueue.length);
         if (currTasks.length) {
             for (var i in currTasks) {
-                if (currTasks[i].test()) {
-                    currTasks[i].funcToRun();
-                } else {
-                    // If the test failed, push the task back onto the queue
-                    dependencyQueue.push(currTasks[i]);
+                if (currTasks.hasOwnProperty(i)) {
+                    if (currTasks[i].test()) {
+                        currTasks[i].funcToRun();
+                    } else {
+                        // If the test failed, push the task back onto the queue
+                        dependencyQueue.push(currTasks[i]);
+                    }
                 }
             }
         }
         dependencyChkRunning = false;
-        // If we still have items in the queue, run it again in 100 ms
+        // If we still have items in the queue, run it again in 150 ms
         if (dependencyQueue.length) {
-            dependencyChkRunning = window.setTimeout(checkDependencies, 100);
+            dependencyChkRunning = window.setTimeout(checkDependencies, 150);
         }
     }
 
@@ -89,44 +75,53 @@
                 'funcToRun': funcToRun
             });
             // Fire off the check if it's not currently running
-            checkDependencies();
+            if (dependencyChkRunning === false) {
+                checkDependencies();
+            }
         }
     }
 
     var elementInViewport = function(elemId, distance){
         var elem = document.getElementById(elemId);
-        distance = distance ? distance : 0;
-        // Get the viewport height
-        var vpHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
-        // Get the bounding rect of the element relative to the top of the viewport
-        var elemRect = elem.getBoundingClientRect();
-        if (elemRect.top <= vpHeight + distance && elemRect.bottom > 0 - distance) {
-            return true;
+        if (elem) {
+            distance = distance ? distance : 0;
+            // Get the viewport height
+            var vpHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+            // Get the bounding rect of the element relative to the top of the viewport
+            var elemRect = elem.getBoundingClientRect();
+            if (elemRect.top <= vpHeight + distance && elemRect.bottom > 0 - distance) {
+                return true;
+            }
         }
         return false;
     };
 
-</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Visit Business.com to acquire the knowledge, products and services you need to run and grow your business.">
-<meta name="keywords" content="">
-<meta name="robots" content="all">
-<meta property="og:title" content="">
-<meta property="og:site_name" content="Business.com">
-<meta property="og:url" content="http://www.business.com/info/privacy/">
-<meta property="og:description" content="Visit Business.com to acquire the knowledge, products and services you need to run and grow your business.">
-<meta property="og:image" content="http://www.business.com/images/main-box-img.jpg">
-<meta property="og:type" content="article">
-<meta property="article:author" content="businessdotcom">
-<meta property="article:publisher" content="businessdotcom">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@businessdotcom">
-<meta name="twitter:creator" content="@businessdotcom">
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="Visit Business.com to acquire the knowledge, products and services you need to run and grow your business.">
-<meta name="p:domain_verify" content="022a521c99283eb6b9ac2ce1c68d970a">
-<link rel="canonical" href="http://www.business.com/info/privacy/">
-<link rel="shortcut icon" type="image/png" href="/favicon.png?v=2">
+    var getNodeAttributes = function(obj, prefix) {
+        var attrs, idx, attrName;
+        if (null !== obj && typeof obj.attributes === "object") {
+            for (idx in obj.attributes) {
+                if (typeof obj.attributes[idx] !== "undefined" // IE is picky
+                    && null !== obj.attributes[idx]
+                    && typeof obj.attributes[idx].name !== "undefined"
+                ) {
+                    attrName = obj.attributes[idx].name;
+                    if (typeof attrs === "undefined") {
+                        attrs = {};
+                    }
+                    if (prefix && 0 === attrName.indexOf(prefix)) {
+                        // Remove prefix
+                        attrs[attrName.substr(prefix.length)] = obj.attributes[idx].value;
+                    } else if (typeof prefix === "undefined") {
+                        attrs[attrName] = obj.attributes[idx].value;
+                    }
+                }
+            }
+        }
+
+        return attrs;
+    };
+
+</script>
 <!-- BEGIN Krux Control Tag for "business.com" -->
 <script class="kxct" data-id="JkPagXgB" data-timing="async" data-version="1.9" type="text/javascript">
   window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
@@ -138,19 +133,18 @@
   ;
     var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
   }());
-
 </script>
 <!-- END Krux Controltag -->
 <!-- BEGIN Krux Interchange Tag -->
 <script class="kxint" type="text/javascript">
     window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
     (function(){
-
         function retrieve(n){
             var m, k='kx'+n;
             if (window.localStorage) {
-                return window.localStorage[k] || "";
-            } else if (navigator.cookieEnabled) {
+                try { return window.localStorage[k] || ""; } catch (e) {}
+            }
+            if (navigator.cookieEnabled) {
                 m = document.cookie.match(k+'=([^;]*)');
                 return (m && unescape(m[1])) || "";
             } else {
@@ -159,320 +153,150 @@
         }
 
         Krux.user = retrieve('user');
-        Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : '';
-
-        // OpenX Interchange
-        var ox_params = [];
-        if(Krux.user) {
-            ox_params.push('c.kuid=' + Krux.user);
-        }
-
-        if (Krux.segments) {
-            ox_params.push('c.ksg=' + Krux.segments);
-        }
-
-        Krux.oxKeyValues = ox_params.length ? ox_params.join(';') + ';' : '';
+        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
     })();
 </script>
-<!-- END Krux Interchange Tag --><style type="text/css">
+<!-- END Krux Interchange Tag -->
 
- #nav_sub_0{background-image:url(//1.bdcstatic.com/assets/871727646/55786a943087b1ab208b4574/capital.150by150.png)}
- #nav_sub_1{background-image:url(//2.bdcstatic.com/assets/871727646/55786bce3087b190208b457a/digital%20law.150by150.png)}
- #nav_sub_2{background-image:url(//3.bdcstatic.com/assets/871727646/557840943187b1ee0d8b457d/welcome%20to%20california.150by150.png)}
- #nav_quote_3{background-image:url(//1.bdcstatic.com/assets/871727646/53e3bd5bcc786b466dd4c276/sml%20preview.150x150.png)}
- #nav_sub_4{background-image:url(//2.bdcstatic.com/assets/871727646/55786bce3087b190208b457a/digital%20law.150by150.png)}
- #nav_sub_5{background-image:url(//2.bdcstatic.com/assets/871727646/5578463d2f87b1b66c8b4575/burning%20certificate.150by150.png)}
- #nav_sub_6{background-image:url(//3.bdcstatic.com/assets/871727646/556df6e33087b16f418b45af/summer%20heat.150by150.png)}
- #nav_quote_7{background-image:url(//4.bdcstatic.com/assets/871727646/53e3c331c9786b21e2461286/management.150x150.png)}
- #nav_sub_8{background-image:url(//1.bdcstatic.com/assets/871727646/5575a3a23187b1df688b4598/seller%20financing.150by150.png)}
- #nav_sub_9{background-image:url(//1.bdcstatic.com/assets/871727646/5571bd803287b19f158b4584/wine.150by150.png)}
- #nav_sub_10{background-image:url(//4.bdcstatic.com/assets/871727646/556f0e293287b1185e8b4578/reading%20email.150by150.png)}
- #nav_quote_11{background-image:url(//2.bdcstatic.com/assets/871727646/53e3bd67cb786b1c6899b74c/hero_0007_1.150x150.png)}
- #nav_sub_12{background-image:url(//3.bdcstatic.com/assets/871727646/557840943187b1ee0d8b457d/welcome%20to%20california.150by150.png)}
- #nav_sub_13{background-image:url(//3.bdcstatic.com/assets/871727646/555f36ae2f87b12b658b457f/Jessica-Alba-The-Honest-Co.150by150.png)}
- #nav_sub_14{background-image:url(//3.bdcstatic.com/assets/871727646/5554d3bf2f87b1de788b457c/lynn-tilton-3.150by150.png)}
- #nav_quote_15{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c4c2c9786b3de24c7fdd/Business%20Opportunities.150x150.png)}
- #nav_sub_16{background-image:url(//2.bdcstatic.com/assets/871727646/55762cdb2f87b123408b458b/reading.150by150.png)}
- #nav_sub_17{background-image:url(//5.bdcstatic.com/assets/871727646/5568b4cb3287b145068b457e/bored.150by150.png)}
- #nav_sub_18{background-image:url(//4.bdcstatic.com/assets/871727646/5567a54f3187b135758b456b/veterans.150by150.png)}
- #nav_quote_19{background-image:url(//1.bdcstatic.com/assets/871727646/53e3ca8dc9786b08e65029d2/Business%20Planning.150x150.png)}
- #nav_sub_20{background-image:url(//3.bdcstatic.com/assets/871727646/556df6e33087b16f418b45af/summer%20heat.150by150.png)}
- #nav_sub_21{background-image:url(//3.bdcstatic.com/assets/871727646/556bebe73087b156418b458e/lighthouse.150by150.png)}
- #nav_sub_22{background-image:url(//3.bdcstatic.com/assets/871727646/5567ab7f2f87b1f53e8b456b/diverse.150by150.png)}
- #nav_quote_23{background-image:url(//5.bdcstatic.com/assets/871727646/54d543073087b1372d8b4608/unsplash-kitsune-3.150by150.png)}
- #nav_sub_24{background-image:url(//1.bdcstatic.com/assets/871727646/556ddb003187b1a8328b45b2/iStock_000060216582_XXXLarge.150by150.png)}
- #nav_sub_25{background-image:url(//4.bdcstatic.com/assets/871727646/552693073087b1fa0d8b4573/help.150by150.png)}
- #nav_sub_26{background-image:url(//1.bdcstatic.com/assets/871727646/551396033287b117328b4593/iStock_000020268796_Large.150by150.png)}
- #nav_quote_27{background-image:url(//5.bdcstatic.com/assets/871727646/54d543743287b16d2d8b45d6/DocMgmt-no-text.280by280.150by150.png)}
- #nav_sub_28{background-image:url(//5.bdcstatic.com/assets/871727646/556f06d63087b1f05e8b457e/business-travel.150by150.png)}
- #nav_sub_29{background-image:url(//4.bdcstatic.com/assets/871727646/555e22833287b1b02a8b4567/business%20travel.150by150.png)}
- #nav_sub_30{background-image:url(//3.bdcstatic.com/assets/871727646/5553e6633287b1c6538b4567/digital%20nomad.150by150.png)}
- #nav_sub_31{background-image:url(//1.bdcstatic.com/assets/871727646/55786a943087b1ab208b4574/capital.150by150.png)}
- #nav_sub_32{background-image:url(//1.bdcstatic.com/assets/871727646/5577134b2f87b17b408b45bc/payments.150by150.png)}
- #nav_sub_33{background-image:url(//1.bdcstatic.com/assets/871727646/5575a3a23187b1df688b4598/seller%20financing.150by150.png)}
- #nav_quote_34{background-image:url(//1.bdcstatic.com/assets/871727646/53e3bda8cc786b456d2a3ce1/sbl_clp_hero.150x150.png)}
- #nav_sub_35{background-image:url(//2.bdcstatic.com/assets/871727646/557054093187b1fc058b457a/credit%20card%20chip.150by150.png)}
- #nav_sub_36{background-image:url(//4.bdcstatic.com/assets/871727646/55687a8f3287b112068b4577/mobile%20payments.150by150.png)}
- #nav_sub_37{background-image:url(//3.bdcstatic.com/assets/871727646/5564dba13287b1be2a8b45df/fraud.150by150.png)}
- #nav_quote_38{background-image:url(//4.bdcstatic.com/assets/871727646/53e3c4d1c9786b15e28cd25d/Credit%20Card%20Processing.150x150.png)}
- #nav_sub_39{background-image:url(//1.bdcstatic.com/assets/871727646/55786a943087b1ab208b4574/capital.150by150.png)}
- #nav_sub_40{background-image:url(//1.bdcstatic.com/assets/871727646/5575a3a23187b1df688b4598/seller%20financing.150by150.png)}
- #nav_sub_41{background-image:url(//2.bdcstatic.com/assets/871727646/556cff383187b119338b4594/kickstarter-logo-k-color.150by150.png)}
- #nav_quote_42{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c4e0cb786b136bd1499a/Business%20Loans.150x150.png)}
- #nav_sub_43{background-image:url(//2.bdcstatic.com/assets/871727646/544055e7cc786b629b8b45ac/Phone%20Systems%20Comp%20hero.150by150.png)}
- #nav_sub_44{background-image:url(//3.bdcstatic.com/assets/871727646/54234ff9c9786bfcdd8b45ae/Payroll%20Services%20Hero.150by150.png)}
- #nav_sub_45{background-image:url(//5.bdcstatic.com/assets/871727646/54205970cb786b6d4c8b461b/Accounting%20Software%20Hero.150by150.png)}
- #nav_quote_46{background-image:url(//3.bdcstatic.com/assets/871727646/53e3c52acb786b5c6b3b0d8b/Payroll%20services.150x150.png)}
- #nav_sub_47{background-image:url(//1.bdcstatic.com/assets/871727646/5568b1383187b1ee748b4580/iStock_000048238164_XXXLarge.150by150.png)}
- #nav_sub_48{background-image:url(//4.bdcstatic.com/assets/871727646/551c1e183287b102758b45b3/iStock_000048238164_Large.150by150.png)}
- #nav_sub_49{background-image:url(//2.bdcstatic.com/assets/871727646/54ace0573087b185708b4651/credit-no-copy.150by150.png)}
- #nav_quote_50{background-image:url(//5.bdcstatic.com/assets/871727646/53e3c540cc786b4f6d0e7915/Credit%20Card%20Processing.150x150.png)}
- #nav_sub_51{background-image:url(//4.bdcstatic.com/assets/871727646/555f6cc03087b188278b4585/CDs.150by150.png)}
- #nav_sub_52{background-image:url(//4.bdcstatic.com/assets/871727646/54e769543187b1d91b8b4601/Retirement%20Saving.150by150.png)}
- #nav_sub_53{background-image:url(//2.bdcstatic.com/assets/871727646/54c1e2f93087b122198b45c4/Mobile-Banking-no-text.150by150.png)}
- #nav_quote_54{background-image:url(//4.bdcstatic.com/assets/871727646/53e3c548c9786b15e2f4539b/banking.150x150.png)}
- #nav_sub_55{background-image:url(//1.bdcstatic.com/assets/871727646/5577134b2f87b17b408b45bc/payments.150by150.png)}
- #nav_sub_56{background-image:url(//3.bdcstatic.com/assets/871727646/55762ffe3287b1da738b459b/zoho.150by150.png)}
- #nav_sub_57{background-image:url(//4.bdcstatic.com/assets/871727646/553e71973087b1bb4a8b45b7/piggy%20banks.150by150.png)}
- #nav_quote_58{background-image:url(//5.bdcstatic.com/assets/871727646/54d539842f87b1652b8b45f3/2-6-2015%202-00-16%20PM.150by150.png)}
- #nav_sub_59{background-image:url(//3.bdcstatic.com/assets/871727646/555cd6e02f87b1e32b8b4567/flood.150by150.png)}
- #nav_sub_60{background-image:url(//3.bdcstatic.com/assets/871727646/5553b52b3287b12d478b4567/insurance.150by150.png)}
- #nav_sub_61{background-image:url(//4.bdcstatic.com/assets/871727646/553ed3083287b1a0218b4567/disaster.150by150.png)}
- #nav_quote_62{background-image:url(//4.bdcstatic.com/assets/871727646/53e3c559c9786b3be245e915/Business%20Insurance.150x150.png)}
- #nav_sub_63{background-image:url(//2.bdcstatic.com/assets/871727646/5578463d2f87b1b66c8b4575/burning%20certificate.150by150.png)}
- #nav_sub_64{background-image:url(//3.bdcstatic.com/assets/871727646/55762ffe3287b1da738b459b/zoho.150by150.png)}
- #nav_sub_65{background-image:url(//4.bdcstatic.com/assets/871727646/5574c6f43187b1ce688b457a/statue%20of%20liberty.150by150.png)}
- #nav_quote_66{background-image:url(//1.bdcstatic.com/assets/871727646/53e3bde5cb786bf36782bea6/bg%20checks%20who%20are%20you%20hiring.150x150.png)}
- #nav_sub_67{background-image:url(//1.bdcstatic.com/assets/871727646/55406d692f87b101338b457a/recruiting.150by150.png)}
- #nav_sub_68{background-image:url(//1.bdcstatic.com/assets/871727646/5461125dc9786b80818b45d4/BGCheckhero.150by150.png)}
- #nav_sub_69{background-image:url(//1.bdcstatic.com/assets/871727646/542c6e3fcb786b0f978b45fa/interview.150by150.png)}
- #nav_quote_70{background-image:url(//5.bdcstatic.com/assets/871727646/53e3c552c9786b23e23f21db/Background%20checks.150x150.png)}
- #nav_sub_71{background-image:url(//4.bdcstatic.com/assets/871727646/5574c6f43187b1ce688b457a/statue%20of%20liberty.150by150.png)}
- #nav_sub_72{background-image:url(//1.bdcstatic.com/assets/871727646/557058a03187b11f068b4582/hillary%20clinton.150by150.png)}
- #nav_sub_73{background-image:url(//2.bdcstatic.com/assets/871727646/555e00ae3287b117738b4589/enter%20to%20win.150by150.png)}
- #nav_quote_74{background-image:url(//5.bdcstatic.com/assets/871727646/53e3c562cc786b3c6d777d10/email_ads_0013_Legal.150x150.png)}
- #nav_sub_75{background-image:url(//3.bdcstatic.com/assets/871727646/55704faf2f87b12c5a8b457a/interviewing.150by150.png)}
- #nav_sub_76{background-image:url(//3.bdcstatic.com/assets/871727646/556cfe983087b1b2418b45ad/job%20interview.150by150.png)}
- #nav_sub_77{background-image:url(//3.bdcstatic.com/assets/871727646/5567ab7f2f87b1f53e8b456b/diverse.150by150.png)}
- #nav_quote_78{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c56ecb786b1d6b409a3b/Recruiting.150x150.png)}
- #nav_sub_79{background-image:url(//1.bdcstatic.com/assets/871727646/555d05913187b146648b456d/big%20data.150by150.png)}
- #nav_sub_80{background-image:url(//4.bdcstatic.com/assets/871727646/554a71222f87b1a86e8b4569/uncle%20sam.150by150.png)}
- #nav_sub_81{background-image:url(//1.bdcstatic.com/assets/871727646/5487a06c3087b158508b4570/hero_0036_iStock_000003064695_Large.150by150.png)}
- #nav_quote_82{background-image:url(//5.bdcstatic.com/assets/871727646/53e3c57fcb786b526b76c945/hero_0005_Screen-Shot-2014-07-31-at-4.17.45-PM.150x150.png)}
- #nav_sub_83{background-image:url(//2.bdcstatic.com/assets/871727646/55786bce3087b190208b457a/digital%20law.150by150.png)}
- #nav_sub_84{background-image:url(//1.bdcstatic.com/assets/871727646/55784b103187b1550e8b4572/content.150by150.png)}
- #nav_sub_85{background-image:url(//2.bdcstatic.com/assets/871727646/557731fe2f87b163408b45a7/trends.150by150.png)}
- #nav_quote_86{background-image:url(//2.bdcstatic.com/assets/871727646/53e3be4ecc786b396d087818/3bigshifts_preview.150x150.png)}
- #nav_sub_87{background-image:url(//1.bdcstatic.com/assets/871727646/556be4bb3287b1fb408b4591/mobile%20marketing.150by150.png)}
- #nav_sub_88{background-image:url(//4.bdcstatic.com/assets/871727646/55503cad3087b16a538b459d/Smartphones.150by150.png)}
- #nav_sub_89{background-image:url(//2.bdcstatic.com/assets/871727646/553545262f87b1fa7b8b457b/mobile%20update.150by150.png)}
- #nav_quote_90{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c599c9786b0fe2ab36d6/Mobile%20Marketing.150x150.png)}
- #nav_sub_91{background-image:url(//2.bdcstatic.com/assets/871727646/55786bce3087b190208b457a/digital%20law.150by150.png)}
- #nav_sub_92{background-image:url(//3.bdcstatic.com/assets/871727646/55771a812f87b125408b45a3/despair.150by150.png)}
- #nav_sub_93{background-image:url(//1.bdcstatic.com/assets/871727646/5575a52c2f87b19a408b4598/big%20data.150by150.png)}
- #nav_quote_94{background-image:url(//2.bdcstatic.com/assets/871727646/53e3be57cc786b3d6dc577a9/hero_0004_Screen-Shot-2014-07-31-at-4.19.03-PM-copy-3.150x150.png)}
- #nav_sub_95{background-image:url(//2.bdcstatic.com/assets/871727646/554160c13087b1e1088b4567/online%20shopper.150by150.png)}
- #nav_sub_96{background-image:url(//5.bdcstatic.com/assets/871727646/554064713287b145508b4578/measure.150by150.png)}
- #nav_sub_97{background-image:url(//3.bdcstatic.com/assets/871727646/5537bb343187b1924e8b45da/ROI.150by150.png)}
- #nav_quote_98{background-image:url(//4.bdcstatic.com/assets/871727646/53e3be6dcb786bfa67392f5b/hero_0003_Screen-Shot-2014-07-31-at-4.19.55-PM.150x150.png)}
- #nav_sub_99{background-image:url(//1.bdcstatic.com/assets/871727646/555ba2b83187b1072f8b456e/why_infographic_could_be_the_.....255by255.150by150.png)}
- #nav_sub_100{background-image:url(//1.bdcstatic.com/assets/871727646/555a17c02f87b19c458b45aa/shopping.150by150.png)}
- #nav_sub_101{background-image:url(//4.bdcstatic.com/assets/871727646/554cc8a33287b156268b4578/ecommerce.150by150.png)}
- #nav_quote_102{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c345c9786b38e2373d2a/Web%20design.150x150.png)}
- #nav_sub_103{background-image:url(//2.bdcstatic.com/assets/871727646/55786bce3087b190208b457a/digital%20law.150by150.png)}
- #nav_sub_104{background-image:url(//1.bdcstatic.com/assets/871727646/55784b103187b1550e8b4572/content.150by150.png)}
- #nav_sub_105{background-image:url(//2.bdcstatic.com/assets/871727646/557731fe2f87b163408b45a7/trends.150by150.png)}
- #nav_quote_106{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c359cb786b4d6ba5c381/Online%20Marketing.150x150.png)}
- #nav_sub_107{background-image:url(//4.bdcstatic.com/assets/871727646/556f0e293287b1185e8b4578/reading%20email.150by150.png)}
- #nav_sub_108{background-image:url(//2.bdcstatic.com/assets/871727646/5568852e3287b14e068b457a/email%20list.150by150.png)}
- #nav_sub_109{background-image:url(//2.bdcstatic.com/assets/871727646/555ccbb83087b16d3e8b4583/Memorial%20Day%20Email.150by150.png)}
- #nav_sub_110{background-image:url(//1.bdcstatic.com/assets/871727646/5574c9d63087b1e5758b4582/Target.150by150.png)}
- #nav_sub_111{background-image:url(//1.bdcstatic.com/assets/871727646/557050ba3087b18d168b457c/monkey.150by150.png)}
- #nav_sub_112{background-image:url(//3.bdcstatic.com/assets/871727646/556df1c03287b1e2408b45a3/explode.150by150.png)}
- #nav_quote_113{background-image:url(//3.bdcstatic.com/assets/871727646/53e3be77c9786b1fe265f8ea/lead%20generation%20pulse%20preview.150x150.png)}
- #nav_sub_114{background-image:url(//2.bdcstatic.com/assets/871727646/5574cbe63287b1e8738b459d/bootstrapping.150by150.png)}
- #nav_sub_115{background-image:url(//1.bdcstatic.com/assets/871727646/5574c9d63087b1e5758b4582/Target.150by150.png)}
- #nav_sub_116{background-image:url(//5.bdcstatic.com/assets/871727646/556df3b83187b19f328b45b3/marketing%20tactics.150by150.png)}
- #nav_quote_117{background-image:url(//5.bdcstatic.com/assets/871727646/53e3c396cb786b196b1c09e2/email_ads_0012_Marketing.150x150.png)}
- #nav_sub_118{background-image:url(//5.bdcstatic.com/assets/871727646/55428ef32f87b1b7078b457b/make%20noise.150by150.png)}
- #nav_sub_119{background-image:url(//4.bdcstatic.com/assets/871727646/54f559933187b1c4368b4581/iStock_000040739420_Large.150by150.png)}
- #nav_sub_120{background-image:url(//3.bdcstatic.com/assets/871727646/54ec8fef3287b1bc778b464f/iStock_000026275282_Large.150by150.png)}
- #nav_quote_121{background-image:url(//3.bdcstatic.com/assets/871727646/53e3be89cb786b156874d4f4/2%20%281%29.150x150.png)}
- #nav_sub_122{background-image:url(//4.bdcstatic.com/assets/871727646/54ac379e3187b1e51f8b45fd/DocMgmt-no-text.150by150.png)}
- #nav_sub_123{background-image:url(//3.bdcstatic.com/assets/871727646/543c1b9ac9786b17dd8b45cb/_0005_Procrastinator.150by150.png)}
- #nav_sub_124{background-image:url(//4.bdcstatic.com/assets/871727646/5425953ccc786b8cef8b4648/Surprise%20and%20Delight.150by150.png)}
- #nav_quote_125{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c3a2c9786b27e2430e15/call%20centers.150x150.png)}
- #nav_sub_126{background-image:url(//1.bdcstatic.com/assets/871727646/555f353d3087b160278b4587/apps.150by150.png)}
- #nav_sub_127{background-image:url(//3.bdcstatic.com/assets/871727646/5551fccc3287b1e06b8b4579/time%20is%20money.150by150.png)}
- #nav_sub_128{background-image:url(//4.bdcstatic.com/assets/871727646/554bc7d33087b182228b4567/email.150by150.png)}
- #nav_quote_129{background-image:url(//5.bdcstatic.com/assets/871727646/53e3be90c9786bfbe159501f/hero_0002_Screen-Shot-2014-07-31-at-4.21.20-PM.150x150.png)}
- #nav_sub_130{background-image:url(//4.bdcstatic.com/assets/871727646/53fbc475cb786b16e18b4630/Screen%20Shot%202014-08-22%20at%202.50.51%20PM.150by150.png)}
- #nav_sub_131{background-image:url(//4.bdcstatic.com/assets/871727646/53b47c00cb786bc462e42ed4/checklist_hero.150x150.png)}
- #nav_sub_132{background-image:url(//3.bdcstatic.com/assets/871727646/53a9406ccb786bcd447fd4a5/clp_callcenter_hero.150x150.png)}
- #nav_quote_133{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c3aec9786b25e2e5b11b/Call%20Center%20Software.150x150.png)}
- #nav_sub_134{background-image:url(//1.bdcstatic.com/assets/871727646/557724a52f87b166408b45c3/personalized.150by150.png)}
- #nav_sub_135{background-image:url(//3.bdcstatic.com/assets/871727646/55762ffe3287b1da738b459b/zoho.150by150.png)}
- #nav_sub_136{background-image:url(//1.bdcstatic.com/assets/871727646/5575a52c2f87b19a408b4598/big%20data.150by150.png)}
- #nav_quote_137{background-image:url(//1.bdcstatic.com/assets/871727646/53e3be9dc9786b22e2edcfb9/preview_0001.150x150.png)}
- #nav_sub_138{background-image:url(//3.bdcstatic.com/assets/871727646/550b0aff3187b192308b4641/Uncover%20new%20revenue%20channels%20through%20data.150by150.png)}
- #nav_sub_139{background-image:url(//2.bdcstatic.com/assets/871727646/54fe83c62f87b1f0178b459a/millenials.150by150.png)}
- #nav_sub_140{background-image:url(//4.bdcstatic.com/assets/871727646/548230c5c9786b6dc08b45a0/founders-wish-hero.150by150.png)}
- #nav_quote_141{background-image:url(//5.bdcstatic.com/assets/871727646/53e3bea8cc786b626dc455c8/hero_0001_Screen-Shot-2014-07-31-at-4.22.33-PM.150x150.png)}
- #nav_sub_142{background-image:url(//2.bdcstatic.com/assets/871727646/556f032b3287b1f35d8b4577/Netflix.150by150.png)}
- #nav_sub_143{background-image:url(//1.bdcstatic.com/assets/871727646/5565e8933287b1e32a8b4607/IoT.150by150.png)}
- #nav_sub_144{background-image:url(//2.bdcstatic.com/assets/871727646/5553c2b42f87b17e6a8b456c/work%20smarter.150by150.png)}
- #nav_quote_145{background-image:url(//3.bdcstatic.com/assets/871727646/53e3beafcc786b3d6d8d49c0/hero_0000_Screen-Shot-2014-07-31-at-4.23.26-PM.150x150.png)}
- #nav_sub_146{background-image:url(//4.bdcstatic.com/assets/871727646/55671bc13087b1ba5a8b457e/app%20dev.150by150.png)}
- #nav_sub_147{background-image:url(//1.bdcstatic.com/assets/871727646/555f353d3087b160278b4587/apps.150by150.png)}
- #nav_sub_148{background-image:url(//4.bdcstatic.com/assets/871727646/555e22833287b1b02a8b4567/business%20travel.150by150.png)}
- #nav_sub_149{background-image:url(//4.bdcstatic.com/assets/871727646/55687a8f3287b112068b4577/mobile%20payments.150by150.png)}
- #nav_sub_150{background-image:url(//3.bdcstatic.com/assets/871727646/5564dba13287b1be2a8b45df/fraud.150by150.png)}
- #nav_sub_151{background-image:url(//2.bdcstatic.com/assets/871727646/555648c42f87b15b458b456b/masterpass.150by150.png)}
- #nav_quote_152{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c3d3c9786b0de2f9d864/POS%20systems.150x150.png)}
- #nav_sub_153{background-image:url(//4.bdcstatic.com/assets/871727646/557851622f87b1cf6c8b457a/iStock_000037072330_Medium.150by150.png)}
- #nav_sub_154{background-image:url(//3.bdcstatic.com/assets/871727646/55762ffe3287b1da738b459b/zoho.150by150.png)}
- #nav_sub_155{background-image:url(//2.bdcstatic.com/assets/871727646/55705cd93087b10c178b4583/server.150by150.png)}
- #nav_quote_156{background-image:url(//1.bdcstatic.com/assets/871727646/53e3e3bbc9786b3eeed212f1/ITspend.150x150.png)}
- #nav_sub_157{background-image:url(//5.bdcstatic.com/assets/871727646/544dc2a3cb786b944d8b45d2/GPS%20Fleet%20Tracking%20hero.150by150.png)}
- #nav_sub_158{background-image:url(//1.bdcstatic.com/assets/871727646/54372f39c9786b45ec8b457c/Company%20Car.150by150.png)}
- #nav_sub_159{background-image:url(//5.bdcstatic.com/assets/871727646/54206d0bc9786bef898b4598/GPS%20Fleet%20Features%20Hero.150by150.png)}
- #nav_quote_160{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c3efcb786b4f6b8bddb2/GPS%20Fleet%20Tracking%20Software.150x150.png)}
- #nav_sub_161{background-image:url(//4.bdcstatic.com/assets/871727646/557851622f87b1cf6c8b457a/iStock_000037072330_Medium.150by150.png)}
- #nav_sub_162{background-image:url(//2.bdcstatic.com/assets/871727646/55705cd93087b10c178b4583/server.150by150.png)}
- #nav_sub_163{background-image:url(//5.bdcstatic.com/assets/871727646/556ca2893187b109338b4592/phishing.150by150.png)}
- #nav_quote_164{background-image:url(//1.bdcstatic.com/assets/871727646/54d53b0f3287b15f2d8b45d2/2-6-2015%202-07-01%20PM.150by150.png)}
- #nav_sub_165{background-image:url(//1.bdcstatic.com/assets/871727646/555a1a0b3187b1850a8b45aa/moving.150by150.png)}
- #nav_sub_166{background-image:url(//3.bdcstatic.com/assets/871727646/5551ff532f87b11e068b4576/at-work-standing-desk.150by150.png)}
- #nav_sub_167{background-image:url(//2.bdcstatic.com/assets/871727646/553a90653187b198488b4578/leasing.150by150.png)}
- #nav_quote_168{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c5c7cb786b436b211ad6/future%20of%20phone%20systems_preview.150x150.png)}
- #nav_sub_169{background-image:url(//5.bdcstatic.com/assets/871727646/543d55f0cb786b9ea68b456e/Screen%20Shot%202014-10-14%20at%209.46.58%20AM.150by150.png)}
- #nav_sub_170{background-image:url(//5.bdcstatic.com/assets/871727646/53f78d84cc786be8818b45dc/Copier-Comparison-Chart-Hero.150by150.png)}
- #nav_sub_171{background-image:url(//2.bdcstatic.com/assets/871727646/53b47dfbcc786b07e315eadf/checklist_hero.150x150.png)}
- #nav_quote_172{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c403cc786b516da78060/copiers.150x150.png)}
- #nav_sub_173{background-image:url(//2.bdcstatic.com/assets/871727646/53e91aa1c9786bdec767a719/OrderFulfillmentSoftware.150x150.png)}
- #nav_sub_174{background-image:url(//2.bdcstatic.com/assets/871727646/53bc66dcc9786b0ec64d5a99/Guide%20to%20Order%20Fulfillment%20Services_1.150x150.png)}
- #nav_sub_175{background-image:url(//1.bdcstatic.com/assets/871727646/53adc14acc786ba5c4e2ffba/checklist_hero.150x150.png)}
- #nav_quote_176{background-image:url(//3.bdcstatic.com/assets/871727646/53e3c5d2c9786b21e20956d1/4.150x150.png)}
- #nav_sub_177{background-image:url(//4.bdcstatic.com/assets/871727646/54135b63c9786be2ae8b4578/Satellite-TV-Hero.150by150.png)}
- #nav_sub_178{background-image:url(//4.bdcstatic.com/assets/871727646/5488ae603087b129698b4576/iStock_000019391158_Large.150by150.png)}
- #nav_sub_179{background-image:url(//1.bdcstatic.com/assets/871727646/53e91dd2c9786bd1d3ce0836/RandomStreamImage__0007_water8.150x150.png)}
- #nav_quote_180{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c5ddcb786b766b5b31f6/Satellite%20TV.150x150.png)}
- #nav_sub_181{background-image:url(//5.bdcstatic.com/assets/871727646/5488f7aa3087b11b698b459c/hero_0030_iStock_000006930720_Large.150by150.png)}
- #nav_sub_182{background-image:url(//5.bdcstatic.com/assets/871727646/542c8efccb786b59a38b4631/time.150by150.png)}
- #nav_sub_183{background-image:url(//2.bdcstatic.com/assets/871727646/541f6d30cb786b9d078b45a6/ID-100214057.150by150.png)}
- #nav_quote_184{background-image:url(//2.bdcstatic.com/assets/871727646/53e3c5e4c9786b05e2ceede7/Time%20and%20Attendance%20Software.150x150.png)}
- #nav_sub_185{background-image:url(//2.bdcstatic.com/assets/871727646/5565f39d2f87b175658b45de/drought.150by150.png)}
- #nav_sub_186{background-image:url(//1.bdcstatic.com/assets/871727646/54298595cb786b27928b45bc/_0011_water12.150by150.png)}
- #nav_sub_187{background-image:url(//2.bdcstatic.com/assets/871727646/53ffc58ecc786b68bd8b45a3/Guide_to_Office_Water_Solutions_1.150by150.png)}
- #nav_quote_188{background-image:url(//4.bdcstatic.com/assets/871727646/53e3c5eccb786baa6b009c39/Office%20Water.150x150.png)}
- #nav_sub_189{background-image:url(//1.bdcstatic.com/assets/871727646/556ddb003187b1a8328b45b2/iStock_000060216582_XXXLarge.150by150.png)}
- #nav_sub_190{background-image:url(//5.bdcstatic.com/assets/871727646/553e63783187b1dd488b45ba/Phone.150by150.png)}
- #nav_sub_191{background-image:url(//5.bdcstatic.com/assets/871727646/54f7be9f3287b136028b457e/phones.150by150.png)}
- #nav_quote_192{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c3cbcb786b106b19d77f/Phone%20systems.150x150.png)}
- #nav_blog_193{background-image:url(//4.bdcstatic.com/assets/871727646/5565f0602f87b177658b4609/big%20picture.150by150.png)}
- #nav_blog_194{background-image:url(//1.bdcstatic.com/assets/871727646/55477e4e3187b1503d8b45a1/Video.150by150.png)}
- #nav_blog_195{background-image:url(//2.bdcstatic.com/assets/871727646/553684352c87b16f1f8b4567/key-to-content-success-is-distribution.150by150.png)}
- #nav_downloadable_196{background-image:url(//1.bdcstatic.com/assets/871727646/53e3c5f9cb786b4d6bf6a240/frank.150x150.png)}
-@media only screen and (max-width:750px){
-#nav_sub_0, #nav_sub_1, #nav_sub_2, #nav_quote_3, #nav_sub_4, #nav_sub_5, #nav_sub_6, #nav_quote_7, #nav_sub_8, #nav_sub_9, #nav_sub_10, #nav_quote_11, #nav_sub_12, #nav_sub_13, #nav_sub_14, #nav_quote_15, #nav_sub_16, #nav_sub_17, #nav_sub_18, #nav_quote_19, #nav_sub_20, #nav_sub_21, #nav_sub_22, #nav_quote_23, #nav_sub_24, #nav_sub_25, #nav_sub_26, #nav_quote_27, #nav_sub_28, #nav_sub_29, #nav_sub_30, #nav_sub_31, #nav_sub_32, #nav_sub_33, #nav_quote_34, #nav_sub_35, #nav_sub_36, #nav_sub_37, #nav_quote_38, #nav_sub_39, #nav_sub_40, #nav_sub_41, #nav_quote_42, #nav_sub_43, #nav_sub_44, #nav_sub_45, #nav_quote_46, #nav_sub_47, #nav_sub_48, #nav_sub_49, #nav_quote_50, #nav_sub_51, #nav_sub_52, #nav_sub_53, #nav_quote_54, #nav_sub_55, #nav_sub_56, #nav_sub_57, #nav_quote_58, #nav_sub_59, #nav_sub_60, #nav_sub_61, #nav_quote_62, #nav_sub_63, #nav_sub_64, #nav_sub_65, #nav_quote_66, #nav_sub_67, #nav_sub_68, #nav_sub_69, #nav_quote_70, #nav_sub_71, #nav_sub_72, #nav_sub_73, #nav_quote_74, #nav_sub_75, #nav_sub_76, #nav_sub_77, #nav_quote_78, #nav_sub_79, #nav_sub_80, #nav_sub_81, #nav_quote_82, #nav_sub_83, #nav_sub_84, #nav_sub_85, #nav_quote_86, #nav_sub_87, #nav_sub_88, #nav_sub_89, #nav_quote_90, #nav_sub_91, #nav_sub_92, #nav_sub_93, #nav_quote_94, #nav_sub_95, #nav_sub_96, #nav_sub_97, #nav_quote_98, #nav_sub_99, #nav_sub_100, #nav_sub_101, #nav_quote_102, #nav_sub_103, #nav_sub_104, #nav_sub_105, #nav_quote_106, #nav_sub_107, #nav_sub_108, #nav_sub_109, #nav_sub_110, #nav_sub_111, #nav_sub_112, #nav_quote_113, #nav_sub_114, #nav_sub_115, #nav_sub_116, #nav_quote_117, #nav_sub_118, #nav_sub_119, #nav_sub_120, #nav_quote_121, #nav_sub_122, #nav_sub_123, #nav_sub_124, #nav_quote_125, #nav_sub_126, #nav_sub_127, #nav_sub_128, #nav_quote_129, #nav_sub_130, #nav_sub_131, #nav_sub_132, #nav_quote_133, #nav_sub_134, #nav_sub_135, #nav_sub_136, #nav_quote_137, #nav_sub_138, #nav_sub_139, #nav_sub_140, #nav_quote_141, #nav_sub_142, #nav_sub_143, #nav_sub_144, #nav_quote_145, #nav_sub_146, #nav_sub_147, #nav_sub_148, #nav_sub_149, #nav_sub_150, #nav_sub_151, #nav_quote_152, #nav_sub_153, #nav_sub_154, #nav_sub_155, #nav_quote_156, #nav_sub_157, #nav_sub_158, #nav_sub_159, #nav_quote_160, #nav_sub_161, #nav_sub_162, #nav_sub_163, #nav_quote_164, #nav_sub_165, #nav_sub_166, #nav_sub_167, #nav_quote_168, #nav_sub_169, #nav_sub_170, #nav_sub_171, #nav_quote_172, #nav_sub_173, #nav_sub_174, #nav_sub_175, #nav_quote_176, #nav_sub_177, #nav_sub_178, #nav_sub_179, #nav_quote_180, #nav_sub_181, #nav_sub_182, #nav_sub_183, #nav_quote_184, #nav_sub_185, #nav_sub_186, #nav_sub_187, #nav_quote_188, #nav_sub_189, #nav_sub_190, #nav_sub_191, #nav_quote_192, #nav_blog_193, #nav_blog_194, #nav_blog_195, #nav_downloadable_196{background-image:none}
-}</style>
+            <script>
+            window.ajaxCsrfToken = {
+                "name": "YII_CSRF_TOKEN",
+                "value": "880670085353f23e774ff96d1597e9b4890c0717"
+            };
+            </script>
+            <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,400italic,600italic,700italic%7CRoboto+Slab:100,300" rel="stylesheet" type="text/css">
 
-
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic|Roboto+Slab:100,300" rel="stylesheet" type="text/css">
-
-<link rel="stylesheet" type="text/css" href="//4.bdcstatic.com/assets/3636949926/67b0120747328edb3dafe0e0e41fe221.css" media="screen, projection">
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script type="text/javascript" src="//4.bdcstatic.com/assets/3636949926/b700317adfaefe04142ba0c710b3264e.js" async="async"></script>
-<script type="text/javascript" src="//1.bdcstatic.com/assets/3636949926/9f1bacc026c22712265bdf4a3a44752d.js" async="async" defer="defer"></script>
+<link rel="stylesheet" type="text/css" href="//4.bdcstatic.com/assets/3636949926/7e5a85ea4a6effbafd74b34e38dea0b9.css" media="screen">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="//3.bdcstatic.com/assets/3636949926/98f4a22f00a8bd3f224480c0d93f2b91.js" async="async"></script>
+<script type="text/javascript" src="//4.bdcstatic.com/assets/3636949926/db9af698756d65d0339b117df0da9ec7.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 ;window.finch = window.finch || [];
 /*]]>*/
 </script>
-
+<!--[if lte IE 8>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.2.0/es5-shim.min.js"></script>
+        <![endif]-->
 </head>
-<body class="info infoPrivacy sso"><script type="text/javascript">
-/*<![CDATA[*/
+<body class="info infoPrivacy"><script type="text/javascript" src="/js/ads.js"></script>
+        <script>
+        dataLayer = [{"env":"production","pageTestVariation":null,"visitorType":"bot","vertical":"","category":"","pageType":"info"}];
+        if(window.gaPageTitle){
+            dataLayer[0].pageTitle = window.gaPageTitle;
+        }
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-ZRNQ');
 
-dataLayer = [{"env":"production","pageTestVariation":null,"visitorType":"SEO","vertical":"","category":"","pageType":"info"}];
-if(window.gaPageTitle){
-dataLayer[0].pageTitle = window.gaPageTitle;
-}
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-ZRNQ');
+        var console_safe = 0 && (window.console && console.log);
+        function trackGA(type, seg1, seg2, seg3, seg4, seg5) {
+            window.gaPageTitle = window.gaPageTitle || '';
+            switch(type) {
+                case 'page':
+                    dataLayer.push({
+                        'event'         : 'virtualPage',
+                        'virtualPage'   : seg1,
+                        'pageTitle'     : window.gaPageTitle
+                    });
+                    if (console_safe) {
+                        console.log('Firing pageView');
+                        console.log(type + ': ' + seg1 + ', ' + window.gaPageTitle);
+                    }
+                    break;
+                case 'event':
+                    dataLayer.push({
+                        'event'                 : 'gaEvent',
+                        'gaEventCategory'       : seg1,
+                        'gaEventAction'         : seg2,
+                        'gaEventLabel'          : seg3,
+                        'gaEventValue'          : seg4,
+                        'gaEventNoninteraction' : seg5,
+                        'pageTitle'             : window.gaPageTitle
+                    });
+                    if (console_safe) {
+                        console.log('Firing trackEvent');
+                        console.log(type + ': ' + seg1 + ', ' + seg2 + ', ' + seg3 + ', ' + window.gaPageTitle);
+                    }
+                    break;
+                default:
+                    var toStr = Object.prototype.toString;
+                    if (typeof type === 'string') {
+                        dataLayer.push({
+                            type        : seg1,
+                            'pageTitle' : window.gaPageTitle
+                        });
+                        if (console_safe) {
+                            console.log('Firing ' + type + ' = ' + seg1);
+                            console.log('pageTitle ' + window.gaPageTitle);
+                        }
+                    } else if (toStr.call(type) === '[object Array]') {
+                        var var_list = {};
+                        var_list.pageTitle = window.gaPageTitle;
+                        for (var i = 0; i < type.length; i++) {
+                            var_list[type[i][0]] = type[i][1];
+                        }
+                        dataLayer.push(var_list);
+                        if (console_safe) {
+                            console.log(dataLayer);
+                        }
+                    } else if (toStr.call(type) === '[object Object]') {
+                        type.pageTitle = window.gaPageTitle;
+                        dataLayer.push(type);
+                        if (console_safe) {
+                            console.log(dataLayer);
+                        }
+                    }
+                    break;
+            }
+        }
 
-var console_safe = 0 && (window.console && console.log);
-function trackGA(type, seg1, seg2, seg3, seg4, seg5) {
-window.gaPageTitle = window.gaPageTitle || '';
-switch(type) {
-case 'page':
-dataLayer.push({
-'event'         : 'virtualPage',
-'virtualPage'   : seg1,
-'pageTitle'     : window.gaPageTitle
-});
-if (console_safe) {
-console.log('Firing pageView');
-console.log(type + ': ' + seg1 + ', ' + window.gaPageTitle);
-}
-break;
-case 'event':
-dataLayer.push({
-'event'                 : 'gaEvent',
-'gaEventCategory'       : seg1,
-'gaEventAction'         : seg2,
-'gaEventLabel'          : seg3,
-'gaEventValue'          : seg4,
-'gaEventNoninteraction' : seg5,
-'pageTitle'             : window.gaPageTitle
-});
-if (console_safe) {
-console.log('Firing trackEvent');
-console.log(type + ': ' + seg1 + ', ' + seg2 + ', ' + seg3 + ', ' + window.gaPageTitle);
-}
-break;
-default:
-var toStr = Object.prototype.toString;
-if (typeof type === 'string') {
-dataLayer.push({
-type        : seg1,
-'pageTitle' : window.gaPageTitle
-});
-if (console_safe) {
-console.log('Firing ' + type + ' = ' + seg1);
-console.log('pageTitle ' + window.gaPageTitle);
-}
-} else if (toStr.call(type) === '[object Array]') {
-var var_list = {};
-var_list.pageTitle = window.gaPageTitle;
-for (var i = 0; i < type.length; i++) {
-var_list[type[i][0]] = type[i][1];
-}
-dataLayer.push(var_list);
-if (console_safe) {
-console.log(dataLayer);
-}
-} else if (toStr.call(type) === '[object Object]') {
-type.pageTitle = window.gaPageTitle;
-dataLayer.push(type);
-if (console_safe) {
-console.log(dataLayer);
-}
-}
-break;
-}
-}
+        $('body').on('click', '[data-ga-event]', function(e){
+            var ga_evt = $(this).attr('data-ga-event').split(',');
+            if (console_safe) {
+                console.log('Firing trackEvent');
+                console.log(ga_evt);
+            }
+            trackGA('event', ga_evt[0], ga_evt[1], ga_evt[2], ga_evt[3]);
 
-/*]]>*/
-</script>
+        });
+        </script>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ZRNQ&amp;env=production&amp;visitorType=SEO&amp;vertical=&amp;category=&amp;pageType=info"
+<noscript><iframe title="GTM" src="//www.googletagmanager.com/ns.html?id=GTM-ZRNQ&amp;env=production&amp;visitorType=bot&amp;vertical=&amp;category=&amp;pageType=info"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager -->
-    <nav id="siteheader">
+<!-- End Google Tag Manager --><script>
+
+        ;(function(){
+            var visibleHeight = window.innerHeight
+                || document.documentElement.clientHeight
+                || document.body.clientHeight;
+            var visibleWidth = window.innerWidth
+                || document.documentElement.clientWidth
+                || document.body.clientWidth;
+            var pageHeight = Math.max(
+                document.body.scrollHeight,
+                document.documentElement.scrollHeight,
+                document.body.offsetHeight,
+                document.documentElement.offsetHeight,
+                document.body.clientHeight,
+                document.documentElement.clientHeight
+            );
+            var b = {
+                type: "browser",
+                width: screen.width,
+                height: screen.height,
+                vH: visibleHeight,
+                vW: visibleWidth,
+                vPct: Math.round(100*(visibleHeight/pageHeight))
+            };
+            if (window.finchApp && window.finchApp.settings.loadTs && window.finchApp.settings.serTs) {
+                b.load = window.finchApp.settings.loadTs.getTime()/1000 - window.finchApp.settings.serTs;
+            }
+            finch.push(b);
+        })();
+        </script>    <nav id="siteheader">
         <div class="contentwrapper">
             <a href="#main" class="visuallyhidden focusable" tabindex="-1">Jump to content</a>
             <div id="main_nav">
@@ -483,11 +307,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </div>
 
-                <div id="login"><a href="https://ccm.business.com">Account Login</a></div>
+                <div id="login"><a href="https://ccm.business.com" rel="nofollow">Account Login</a></div>
 
-                <div class="topSearch"></div>                       <div class="topNav"></div>
+                <div class="topSearch" aria-haspopup="true"></div>                <div class="topNav" aria-haspopup="true"></div>
 
-                <div class="social">
+                <div class="social" aria-haspopup="true">
                     <em id="connect_menu">Connect</em>
                     <ul class="social">
     <li>
@@ -536,11 +360,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </nav> <div id="navContainer"><nav id="mainNav"> <div class="contentwrapper"> <ul id="topNav"> <li><div class="nav_rollover"><a class="topNavLink" href="/entrepreneurship/">Entrepreneurship</a><span class="topNavLink">Entrepreneurship</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/finance/">Finance</a><span class="topNavLink">Finance</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/human-resources/">Human Resources</a><span class="topNavLink">Human Resources</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/marketing/">Marketing</a><span class="topNavLink">Marketing</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/sales/">Sales</a><span class="topNavLink">Sales</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/technology/">Tech</a><span class="topNavLink">Tech</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/office-equipment-supplies/">Office Management</a><span class="topNavLink">Office Management</span> </div></li><li class="right" id="nav_advertise"> <div class="nav_rollover"> <a class="topNavLink" href="/info/advertise/">Advertise</a><span class="topNavLink">Advertise</span> </div></li> <li class="right" id="nav_about"> <div class="nav_rollover"> <a class="topNavLink" href="/info/about/">All</a><span class="topNavLink">All</span> </div> </li> <li class="right" id="nav_search"> <div class="nav_rollover"> <em><span>Search</span></em> <div class="searchbox"> <form action="/search/" method="get" accept-charset="utf-8"> <input type="text" name="q" id="sitesearch" placeholder="Enter keyword"> <button type="submit" class="btn_med">Search</button> </form> </div> </div> </li> </ul> </div> <div id="nav_overlay" class="blur"></div></nav> </div>
-    <div id="main">
-<section id="privacy" class="info maincontent">
+    </nav>
+ <div id="navContainer"><nav id="mainNav"> <div class="contentwrapper"> <ul id="topNav"> <li><div class="nav_rollover"><a class="topNavLink" href="/entrepreneurship/">Entrepreneurship</a><span class="topNavLink">Entrepreneurship</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/finance/">Finance</a><span class="topNavLink">Finance</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/human-resources/">Human Resources</a><span class="topNavLink">Human Resources</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/marketing/">Marketing</a><span class="topNavLink">Marketing</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/sales/">Sales</a><span class="topNavLink">Sales</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/technology/">Tech</a><span class="topNavLink">Tech</span></div></li><li><div class="nav_rollover"><a class="topNavLink" href="/office-equipment-supplies/">Office Management</a><span class="topNavLink">Office Management</span></div></li> <li class="right" id="nav_advertise"> <div class="nav_rollover"> <a class="topNavLink" href="/info/advertise/">Advertise</a><span class="topNavLink">Advertise</span> </div> </li> <li class="right" id="nav_about"> <div class="nav_rollover"> <a class="topNavLink" href="/info/about/">All</a><span class="topNavLink">All</span> </div> </li> <li class="right" id="nav_search"> <div class="nav_rollover"> <a class="topNavLink" href="/search/"><em><span>Search</span></em></a> <div class="searchbox"> <form action="/search/" method="get" accept-charset="utf-8"> <input type="text" name="q" id="sitesearch" placeholder="Enter keyword" title="Perform site search"> <button type="submit" class="btn_med">Search</button> </form> </div> </div> </li> </ul> </div> <div id="nav_overlay" class="blur"></div></nav> </div>    <div id="main"><section id="privacy" class="info maincontent">
     <div class="contentwrapper group">
-                <nav id="verticalnav-wrapper">
+                <nav id="verticalnav-wrapper" class="absolute">
             <h1>Privacy Policy</h1>            <ul id="verticalnav">
                                 <li><a href="/info/about/#what_we_do">What We Do</a></li>
                                 <li><a href="/info/about/#who_we_are">Who We Are</a></li>
@@ -548,15 +371,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li><a href="/info/about/#press">Press</a></li>
                                 <li><a href="/info/about/#contact_us">Contact Us</a></li>
                             </ul>
-
-
-
-        </nav>        <div id="tab-content">
-            <hgroup>
+        </nav>
+        <div id="tab-content">
+            <div class="hgroup">
                 <h2>Business.com Media, Inc.</h2>
                 <h3>Business.com Privacy Policy</h3>
                 <h4>This Privacy Policy was last updated on December 04, 2014.</h4>
-            </hgroup>
+            </div>
         <div>
 
     <h3>Our Policy:</h3>
@@ -653,7 +474,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <span aria-hidden="true" class="bdc_logo"></span>
                         <span class="visuallyhidden focusable"><em>Business.com</em></span>
                     </a>
-                    <ul>
+                                    <ul>
                                             <li><a href="/entrepreneurship/">Entrepreneurship</a></li>
                                             <li><a href="/finance/">Finance</a></li>
                                             <li><a href="/human-resources/">Human Resources</a></li>
@@ -662,14 +483,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li><a href="/technology/">Tech</a></li>
                                             <li><a href="/office-equipment-supplies/">Office Management</a></li>
                                         </ul>
-                </li>
+                                </li>
                 <li class="resources"><em>Resources</em>
                     <ul>
                         <li><a href="/blog/">Business.com Blog</a></li>
                         <li><a href="/b2bmarketing/">B2B Performance Marketing Blog</a></li>
                         <li><a href="/pulse/">Pulse</a></li>
-                        <li><a href="/resources/business-qod/">Quote of the Day</a></li>
-                        <li><a href="/resources/hack-of-the-day-signup/">Hack of the Day</a></li>
+                        <li><a href="/quotes/">Quote of the Day</a></li>
+                        <li><a href="/hacks/">Hack of the Day</a></li>
                                         </ul>
                 </li>
                 <li class="about"><em>Company</em>
@@ -684,7 +505,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </li>
                 <li class="advertise"><em>Advertise</em>
                     <ul>
-                        <li><a href="/info/advertise/">Advertise With Us</a></li>
+                        <li><a href="/info/advertise/#overview">Advertise With Us</a></li>
                         <li><a rel="nofollow" href="https://ccm.business.com">Account Login</a></li>
                         <li><a href="/info/advertise/#case_studies">Case Studies</a></li>
                         <li><a href="/info/network-partner-program/">Partner With Us</a></li>
@@ -694,15 +515,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </nav>
         <div class="stayconnected">
             <em class="questions2"><a href="tel:888-441-4466">Questions? 888-441-4466</a></em>
-                            <form action="/preference-center/" method="post" target="_blank" accept-charset="utf-8" class="newsletter" id="newslettersignup">
-                    <input type="hidden" name="origHash" value="973e8926231ac269fb814bfca5d44b1494b23b8a">
+            
+                <!-- start #newslettersignup form -->
+                <form accept-charset="utf-8" class="newsletter" target="_blank" id="newslettersignup" action="/preference-center/" method="post">
+<input type="hidden" value="880670085353f23e774ff96d1597e9b4890c0717" name="YII_CSRF_TOKEN">                    <input type="hidden" name="origHash" value="c1b4b6bf59dd64115df4dd1c16ca91827e64ff50">
                     <input type="hidden" name="ad_id" value="footer">
                     <div class="inlined"><label for="newsletter">Sign Up For Our Newsletter</label>
                         <input id="newsletter" type="text" name="email" value="">
                         <button type="submit" data-f-reg="footer" data-f-reg-action="email_submit" class="secondary btn_med">Subscribe</button>
                     </div>
                     <div class="email-error"></div>
-                </form>
+                </form> <!-- end #newslettersignup form -->
                  <div id="email-success-footer" class="email-success"></div>
                         <div id="footerStayConnected">
                 <strong>Stay Connected</strong>
@@ -761,53 +584,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </footer>
 <!--BDC remarketing pixel start-->
 <!--BDC remarketing pixel finish-->
-<script type="text/javascript" src="//1.bdcstatic.com/assets/3636949926/3d34758bb0bed74185ad83d52c5fa03f.js"></script>
-<script type="text/javascript">
-/*<![CDATA[*/
+<script type="text/javascript" src="//1.bdcstatic.com/assets/3636949926/fc3f14b449fa71cdf030ad338b3fc449.js"></script>
 
-var contentheight = parseInt( $("#verticalnav").height() + 620);
-$("#tab-content").css("min-height", contentheight);
-$("#verticalnav-wrapper").css({position:"absolute", top:"34px"});
-
-
-
-$('body').on('click', '[data-ga-event]', function(e){
-var ga_evt = $(this).attr('data-ga-event').split(',');
-if (console_safe) {
-console.log('Firing trackEvent');
-console.log(ga_evt);
-}
-trackGA('event', ga_evt[0], ga_evt[1], ga_evt[2], ga_evt[3]);
-
-});
-
-setTimeout(function(){ 
-;(function(){
-var visibleHeight = window.innerHeight
-|| document.documentElement.clientHeight
-|| document.body.clientHeight;
-var visibleWidth = window.innerWidth
-|| document.documentElement.clientWidth
-|| document.body.clientWidth;
-var pageHeight = Math.max(
-document.body.scrollHeight,
-document.documentElement.scrollHeight,
-document.body.offsetHeight,
-document.documentElement.offsetHeight,
-document.body.clientHeight,
-document.documentElement.clientHeight
-);
-var b = {
-type: "browser",
-width: screen.width,
-height: screen.height,
-vH: visibleHeight,
-vW: visibleWidth,
-vPct: Math.round(100*(visibleHeight/pageHeight))
-};
-finch.push(b);
-})();
- }, 1); // end setTimeout()
-/*]]>*/
-</script>
-<img src="//www.business.com/images2/anal.gif?mkt=0&amp;user_type=bot&amp;referrer=&amp;render_time=0.067744970321655&amp;session_id=ounlb6q8c2e4658r2uu3k8v243&amp;ip=174.129.237.157&amp;view=privacy%2Finfo" width="1" height="1" alt="" style="position:absolute;"></body></html>
+</body></html>
