@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095120id_/http%3A//yeticoolers.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225084356id_/http%3A//yeticoolers.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YETI Coolers
 
@@ -73,7 +73,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site http://yeticoolers.com/pages/Contact-Request-Form.html, or by telephoning, or emailing your request to YETI Coolers LLC.com’s Customer Service Team at 512.394.9384.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site http://yeticoolers.com/pages/Contact-Request-Form.html, or by telephoning, or emailing your request to YETI Coolers LLC.com’s Customer Service Team at (512) 394-9384.
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
@@ -81,6 +81,6 @@ As you might expect from us, the majority of information that we collect is obta
 
 **UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 512.394.9384..
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at (512) 394-9384.
 
 Effective Sept 1, 2012
