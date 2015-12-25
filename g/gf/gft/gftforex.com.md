@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507171135id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225144015id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GAIN Capital Group's Privacy Statement | Forex World Currency Trading | FOREX.com
 
@@ -40,7 +40,7 @@ If at any time you choose to purchase a product or service offered by another co
 **The security of your personal information** **  
 **We employ physical, electronic and procedural safeguards to guard your nonpublic personal information. When you open an account with us, you are issued a unique account number, User ID and a password. Only a limited number of GAIN Capital employees who have a need to know this information will have access to it. Remember that you are ultimately responsible for maintaining the secrecy of your account number, User ID and password. We strongly recommend that you do not disclose this information to anyone.
 
-On our websites and online account application we use technology to encrypt information transmitted by or to you. We use VeriSign™ certificates to authenticate our websites and secure trading and customer-facing applications, allowing you to verify that you are connected to our websites. 
+On our websites and online account application we use technology to encrypt information transmitted by or to you. We use certificate authority (CA) certificates to authenticate our websites and secure trading and customer-facing applications, allowing you to verify that you are connected to our websites. 
 
 We conduct regular internal audits of our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information.
 
