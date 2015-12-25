@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010628id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225145445id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
 
-# 
+# Business.com - Privacy Policy
+
+## Business.com Media, Inc.
+
+### Business.com Privacy Policy
+
+#### This Privacy Policy was last updated on December 04, 2014.
 
 ### Our Policy:
 
