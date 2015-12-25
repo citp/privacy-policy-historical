@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623132318id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225113144id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
+
+__Sign in to receive recommendations (Learn more)
 
 Breastcancer.org is a 501(c)(3) nonprofit organization.
 
@@ -119,11 +121,9 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](http://www.breastcancer.org/contact_us). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Breastcancer.org  
-7 East Lancaster Ave, 3rd Floor  
+120 East Lancaster Ave, Suite 201  
 Ardmore, PA 19003
 
 [comments@breastcancer.org](mailto:comments@breastcancer.org)
 
 * * *
-
-[Leer esta página en español](https://web.archive.org/es/quienes_somos/bco_compromiso/privacidad)
