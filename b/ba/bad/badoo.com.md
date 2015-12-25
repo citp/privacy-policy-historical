@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623183736id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042508id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
@@ -37,7 +37,7 @@ Badoo is a meeting place for adults, and we provide that service by operating a 
 
 To join the Badoo network you will have to complete our online registration form, where we ask you to provide us with information about you such as your name, your email address, your gender, your date of birth, your location details. You also have the opportunity to provide other details about yourself, but these are optional. Because you control your user profile, these details are available to you at any time by accessing your “Profile” page, which gives you the chance to correct or update (other than gender and email address) your information at any time by just logging in to Badoo.
 
-Once you have created a Profile, we will automatically track certain information such as your IP and email addresses.
+Once you have created a Profile, we will automatically track certain information such as your IP and email addresses. We may from time to time allow our employees to use the product for testing and user engagement purposes.
 
 For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts (because we want to make sure you are not a robot!) and might ask for your phone number. Don’t worry! This is only to make sure you are real and breathing!
 
