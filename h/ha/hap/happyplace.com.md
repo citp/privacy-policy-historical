@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616114608id_/http%3A//happyplace.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225015158id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | someecards.com
 
@@ -124,6 +124,8 @@ someecards, inc. P.O. Box 695 New York, NY 10159
 
 ## When you care enough to hit send
 
+or
+
 Almost Done!
 
 Choose an available username to complete sign up
@@ -189,3 +191,7 @@ Email
 Thanks for Signing Up!
 
 We have sent you an email so you can confirm the email address you provided.
+
+An unknown error occured
+
+Try again or [send us an email](mailto:feedback@someecards.com)
