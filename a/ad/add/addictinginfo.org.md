@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123916id_/http%3A//www.addictinginfo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225132343id_/http%3A//www.addictinginfo.org/privacy-policy) for the most accurate reproduction.*
 
-# Addicting Info – Privacy Policy
+# Privacy Policy «
 
-This Privacy Policy governs the manner in which Addicting Info LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the Addictinginfo.org website (“Site”). This privacy policy applies to the Site and all products and services offered by Addicting Info LLC.
+This Privacy Policy governs the manner in which Addicting Info Enterprises LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the Addictinginfo.org website (“Site”). This privacy policy applies to the Site and all products and services offered by Addicting Info Enterprises LLC.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Addicting Info LLC may collect and use Users personal information for the following purposes:
+Addicting Info Enterprises LLC may collect and use Users personal information for the following purposes:
 
   * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -46,7 +46,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-Addicting Info LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Addicting Info Enterprises LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -55,10 +55,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Addicting Info LLC  
+Addicting Info Enterprises LLC  
 Addictinginfo.org  
 1007 W. College Ave. #433 Santa Rosa, CA 95403  
 (707) 774-2888  
 addictinginfo@rocketmail.com
-
-This document was last updated on December 09, 2013
