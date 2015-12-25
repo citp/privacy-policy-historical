@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesoftking.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518005920id_/http%3A//thesoftking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesoftking.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225134204id_/http%3A//thesoftking.com/privacy.php) for the most accurate reproduction.*
 
-# THESOFTKING.COM - Cheap WebHosting, Reseller Hosting, Master Reseller Hosting, Alpha Reseller Hosting, VPS, BulkSMS Reseller, Cheap SMTP, Social Service, Facebook Advertising, Online Payment, Cheap Domain Reseller, Website Development, VoiceSMS System, Tower Targeted SMS Marketing, Area Targeted Voice Marketing
+# THESOFTKING.COM - Cheap WebHosting, Reseller Hosting, Master Reseller Hosting, Alpha Reseller Hosting, VPS, BulkSMS Reseller, Cheap SMTP, Social Service, Facebook Advertising, Online Payment, Cheap Domain Reseller, Website Development, VoiceSMS System, Tower Targeted SMS Marketing, Area Targeted Voice Marketing, Radio ShoutCast Hosting, ShoutCast Reseller, Streaming Server
 
 In an effort to protect our clients' and site visitors privacy and rights, THESOFTKING has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
