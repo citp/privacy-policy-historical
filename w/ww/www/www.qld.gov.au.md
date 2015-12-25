@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213231200id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225192033id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Queensland Government
 
@@ -42,6 +42,14 @@ We use cookies to collect anonymous statistical information, including:
 We do not identify users or any browser activity outside this website, except in the unlikely event of an investigation, where a law enforcement agency may have a warrant to inspect activity logs.
 
 Transactional services available from this site may use cookies to track business processes. Please read the particular service's privacy and security statement before beginning a transaction.
+
+## Website analytics
+
+We use Google Analytics (including display advertising features) on our website to gather anonymous information about visitors to our website. When you visit our web pages, your browser automatically sends anonymous information to Google. Examples of the information include the web address of the page that you're visiting, your IP address and demographic information. Google may also use cookies.
+
+We use this data to analyse the pages that are visited, to improve your experience and make sure our website is useful.
+
+You can read more about [how Google uses data](http://www.google.com/policies/privacy/partners/). You can choose not to allow Google to collect your information by [opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout) or specifically opt out of [Google Analytics display advertiser features](http://www.google.com.au/policies/technologies/ads).
 
 ## Security
 
