@@ -1,25 +1,24 @@
-<!--The following is the downloaded HTML source of the trialpay.com privacy policy that was archived on 2015-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150621061935id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trialpay.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225192037id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <title>Privacy Policy - TrialPay</title>
           <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="description" content="TrialPay is the payment and promotions platform that instantly increases sales from your current traffic. We offer monetization solutions that convert shoppers for industry-leaders in Casual Games, Online Services, Retail, Social Apps and Software.">
           <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-          <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+          <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
       <script type="text/javascript">
     var FILESERVER_HOST = 'http://images.trialpay.com';
     var STATIC_HOST = 'http://static.trialpay.com';
     var USER_HOST = 'http://www.trialpay.com';
     var USER_SECURE_HOST = 'https://www.trialpay.com';
     var HOMEPAGE_HOST = 'http://www.trialpay.com';
+    var HOMEPAGE_STATIC_HOST = 'http://www.trialpay.com/static';
     var $DEV_COOKIE_PREFIX = '';     var $USER_HOST = 'http://www.trialpay.com';
     var is_in_sandbox = function() { return false; };
     var is_on_stage = function() { return false; };
   </script>
-      <link rel="stylesheet" href="http://www.trialpay.com/static/css/homepage.css" type="text/css">
-
-    <style type="text/css">
+  <link href="http://www.trialpay.com/static/css/myfonts-tracking.css?tpr=c5fe26d6adeb6683f1a6ea593cc3adc4" rel="stylesheet" type="text/css"><link href="http://www.trialpay.com/static/css/homepage.css?tpr=c5fe26d6adeb6683f1a6ea593cc3adc4" rel="stylesheet" type="text/css">    <style type="text/css">
       @font-face {
         font-family: Rockwell;
         src: url('http://www.trialpay.com/static/fonts/rockwell/rockwell.eot');
@@ -53,72 +52,7 @@
       .all-collapsed { background: url(http://www.trialpay.com/static/images/icons/icon-expand-down.png) right center no-repeat; }
       .all-expanded { background: url(http://www.trialpay.com/static/images/icons/icon-expand-up.png) right center no-repeat; }
     </style>
-
-    <script type="text/javascript">
-      $(document).ready(function() {
-        (function($) {
-          var cache = [];
-          // arguments are image paths relative to the current page.
-          $.preLoadImages = function() {
-            var args_len = arguments.length;
-            for (var i = args_len; i--;) {
-              var cacheImage = document.createElement('img');
-              cacheImage.src = arguments[i];
-              cache.push(cacheImage);
-            }
-          }
-        })(jQuery);
-
-        if ($('#expand-switch').length > 0) {
-          $.preLoadImages(
-            'http://www.trialpay.com/static/images/icons/icon-expand-minus.png',
-            'http://www.trialpay.com/static/images/icons/icon-expand-up.png'
-          );
-
-          var changeTogglerState = function(state) {
-            if (state == 'collapsed') {
-              $('#expand-switch').removeClass('all-expanded').addClass('all-collapsed');
-              $('#expand-switch a').text('Expand All');
-            } else {
-              $('#expand-switch').removeClass('all-collapsed').addClass('all-expanded');
-              $('#expand-switch a').text('Collapse All');
-            }
-          }
-
-          $('.collapsible h2').click(function() {
-            if ($('.collapsible .expanded').length == 0) {
-              changeTogglerState('collapsed');
-            } else if ($('.collapsible').length == $('.collapsible .expanded').length) {
-              changeTogglerState('expanded');
-            }
-            $(this).toggleClass('expanded collapsed');
-            $(this).next('.block').fadeToggle(0);
-          });
-
-          $('#expand-switch').click(function() {
-            if ($('#expand-switch').hasClass('all-collapsed')) {
-              changeTogglerState('expanded');
-              $('.collapsible h2').removeClass('collapsed').addClass('expanded');
-              $('.collapsible .block').fadeIn();
-            } else {
-              changeTogglerState('collapsed');
-              $('.collapsible h2').removeClass('expanded').addClass('collapsed');
-              $('.collapsible .block').fadeOut();
-            }
-            return false;
-          });
-
-          // autoexpand text box
-          if (window.location.hash) {
-            var el = $(window.location.hash);
-            if (el && el.hasClass('collapsed')) {
-              el.click();
-            }
-          };
-        }
-      });
-    </script>
-          <style type="text/css">
+    <script language="JavaScript" type="text/javascript" src="http://www.trialpay.com/static/js/main.js?tpr=c5fe26d6adeb6683f1a6ea593cc3adc4"></script>      <style type="text/css">
         @media screen and (max-device-width: 1023px) {
           html {
             min-width: 0;
@@ -131,6 +65,14 @@
           .content {
             margin-top: 15px;
             margin-bottom: 15px;
+          }
+
+          #page-wrapper {
+            min-width: 0;
+          }
+
+          #footer {
+            min-width: 0;
           }
 
           #header,
@@ -152,6 +94,7 @@
           
           #header .wrapper {
             width: auto;
+            min-width: 0;
           }
 
           #header #top-logo {
@@ -242,6 +185,7 @@
           }
           
             #footer .wrapper {
+              padding-top: 1px;
               padding-left: 10px;
               padding-right: 10px;
             }
@@ -310,7 +254,7 @@
           <div id="header">
       <div class="wrapper">
         <a href="http://www.trialpay.com/" id="top-logo"></a>
-        <ul id="nav">
+                <ul id="nav">
                     <li><a href="http://www.trialpay.com/">Monetization Solutions</a></li>
                     <li><a href="http://www.trialpay.com/acquisition-solutions/">Acquisition Solutions</a></li>
                     <li><a href="http://www.trialpay.com/about/">About</a></li>
@@ -324,7 +268,7 @@
           </li>
           <li><a class="sign-up" href="https://merchant.trialpay.com/register/">Sign Up</a></li>
         </ul>
-        <div class="clfx"></div>
+                <div class="clfx"></div>
       </div>
     </div>
         <div class="content">
@@ -547,9 +491,9 @@
       </div>
     </div>
         </div>
-      <img src="http://assets.trialpay.com/tr/?u=%2Flegal%2Fprivacy-policy%2F" alt="" style="display:block; height:1px; width:1px; position: absolute; margin-top: -1px;">
+      <img src="http://assets.trialpay.com/tr/?u=%2Flegal%2Fprivacy-policy%2F" alt="" style="display: block; height: 1px; width: 1px; position: absolute; top: 0; left: 0; visibility: hidden;">
       <div id="footer">
-      <div id="backplate">
+            <div id="backplate">
         <div class="wrapper">
           <ul>
             <li><a href="https://www.trialpay.com/support/contactus/">Customer Support</a></li>
@@ -578,7 +522,7 @@
           <div class="clfx"></div>
         </div>
       </div>
-      <div class="wrapper">
+            <div class="wrapper">
         <div id="copyright"><p>© 2015 TrialPay, Inc. All Rights Reserved</p></div>
         <div id="social-relations">
           <p>Stay connected with TrialPay</p>
@@ -591,7 +535,7 @@
     </div>
       <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3489674-1']);
+  _gaq.push(['_setAccount', 'UA-55318807-1']);
   _gaq.push(['_setDomainName', '.trialpay.com']);
     _gaq.push(['_trackPageview' ]);
   
