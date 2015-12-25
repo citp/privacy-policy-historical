@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626103112id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225175251id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><!--6.0;http://2.bp.blogspot.com/-uS_zy1nlbKI/UidDAaTk5iI/AAAAAAAAVSM/clIIzrem-7g/s1600/current_2.jpg;http://www.peseditblog.com/2013/09/peseditcom-2013-patch-60-coming-soon.html?currentnew--><!---4.4;http://1.bp.blogspot.com/-_H-7G2mURHg/U4nr1Skm69I/AAAAAAAAXw4/CgMuta8mfCQ/s1600/current.jpg;http://www.peseditblog.com/2014/05/pesedit-com-2014-patch-4-4-released.html?SelO--><!--|86;-;First PES 2016 Trailer Released;http://www.peseditblog.com/2015/06/pes-2016-teaser-trailer-revealed.html?selo--><!--|87;-;Neymar Announced as PES 2016 Cover Star;http://www.peseditblog.com/2015/06/neymar-announced-as-pes-2016-cover-star.html?selo--><head>
 <meta content="initial-scale = 1, user-scalable = no" name="viewport">
@@ -7,11 +7,13 @@
 //<![CDATA[
 
 //image size
-function changeImageSize(){
+function changeImageSize(mobile){
 var width = 738;
 var windowWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
-console.log(windowWidth);
+if (windowWidth < 805) {
+
+//console.log(windowWidth);
 
 //console.log(document.querySelector(".post").innerHTML);
 
@@ -27,15 +29,22 @@ var imagesArray = document.getElementsByTagName("img");
 for (var i=0; i<imagesArray.length;i++)
 {
 (function(image){
-if (image.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.className.indexOf("post-body") > -1 && image.className != "kitCollToTop" && image.parentNode.parentNode.parentNode.className.indexOf("league-table") < 0 && image.parentNode.className.indexOf("image-switch") < 0)
+if (image.className.indexOf("nocalc") < 0) {
+if (image.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("slide") > - 1 && image.className != "kitCollToTop" && image.parentNode.parentNode.parentNode.className.indexOf("league-table") < 0 && image.parentNode.className.indexOf("image-switch") < 0 && image.parentNode.className.indexOf("slide") < 0)
 {
+if (mobile == 1) {
 image.parentNode.removeAttribute("href");
+}
 
-var tempwidth = image.naturalWidth;
+var tempwidth = image.clientWidth;
+var tempheight = image.clientHeight;
+//console.log(tempwidth);
 if (tempwidth != 0)
 {
-var size = image.naturalWidth+10;
+var size = image.clientWidth + 10;
 size = (size/width*100).toFixed(3)-1;
+
+//console.log(size);
 
 if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0))
 {
@@ -46,18 +55,29 @@ if ((image.parentNode.previousElementSibling == null || image.parentNode.previou
 else {
 size = size + 0.3;
 }
-if (size >= 100) {
+if (size >= 100 & tempwidth / tempheight < 1.35 & mobile == 0) {
+console.log("ttt");
+image.style.width = "70%";
+}
+else if (size >= 100 & tempwidth >= tempheight) {
+console.log("ttt");
 	image.style.width = "calc(100% + 40px)";
 	image.style.marginLeft = "-20px";
 	image.style.maxWidth = windowWidth + "px";
 }
 else
+{
+console.log("ttt");
 image.style.width = size + "%";
+}
 }
 else
 {
 image.onload=function(e){
-var size=image.naturalWidth+10;
+var size = image.clientWidth + 10;
+tempwidth = image.clientWidth;
+var tempheight = image.clientHeight;
+//console.log(size);
 size=(size/width*100).toFixed(3)-1;
 
 if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0))
@@ -69,7 +89,10 @@ if ((image.parentNode.previousElementSibling == null || image.parentNode.previou
 else {
 size = size + 0.3;
 }
-if (size >= 100) {
+if (size >= 100 & tempwidth / tempheight < 1.35 & mobile == 0) {
+image.style.width = "70%";
+}
+else if (size >= 100 & tempwidth >= tempheight) {
 	image.style.width = "calc(100% + 40px)";
 	image.style.marginLeft = "-20px";
 	image.style.maxWidth = windowWidth + "px";
@@ -80,8 +103,9 @@ image.style.width = size + "%";
 }
 
 }
-
+}
 })(imagesArray[i]);
+}
 }
 }
 
@@ -123,9 +147,9 @@ var el = document.getElementById(pID);
 el.src = postThumb.replace('/s72-c/','/w780/'); 
 }
 
-function createThumbMobile(pID, postThumb, postTitle,isFirst){
+function createThumbMobile(pID, postThumb, isFirst){
 var div = document.getElementById(pID);
-div.src = bp_thumbnail_resize_mobile(postThumb,postTitle,isFirst); 
+div.src = bp_thumbnail_resize_mobile(postThumb,isFirst); 
 }
 
 function addBeforeH2(pID, postUrl){
@@ -337,7 +361,7 @@ div1.innerHTML = trimBr(strx1);
 //console.log(div1.innerHTML);
 }
 
-function bp_thumbnail_resize_mobile(image_url,post_title,isFirst)
+function bp_thumbnail_resize_mobile(image_url,isFirst)
 {
 var image_size = "w400";
 
@@ -346,30 +370,33 @@ return image_url.replace('/s72-c/','/'+image_size+'/');
 
 //]]>
 </script>
+<!--<script> //<![CDATA[ (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-5722789279541063", enable_page_level_ads: true }); //]]> </script>-->
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<script type="text/javascript">(function() { var b=window,f="chrome",g="tick",k="jstiming";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[g]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[k].srt=h-c)}if(a){var e=b[k].load;0<c&&h>=c&&(e[g]("_wtsrt",void 0,c),e[g]("wtsrt_","_wtsrt",h),e[g]("tbsd_","wtsrt_"))}try{a=null,
-b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f].csi().startE),e[g]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[g]("_tbnd",void 0,b.external.startE),e[g]("tbnd_","_tbnd",c))),a&&(b[k].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[k].load[g]("aft")};var l=!1;function m(){l||(l=!0,b[k].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+<script type="text/javascript">(function() { (function(){function c(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var h=a?new c(a.responseStart):new c;window.jstiming={Timer:c,load:h};if(a){var b=a.navigationStart,e=a.responseStart;0<b&&e>=b&&(window.jstiming.srt=e-b)}if(a){var d=window.jstiming.load;0<b&&e>=b&&(d.tick("_wtsrt",void 0,b),d.tick("wtsrt_",
+"_wtsrt",e),d.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),d&&0<b&&(d.tick("_tbnd",void 0,window.chrome.csi().startE),d.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,d&&0<b&&(d.tick("_tbnd",void 0,window.external.startE),d.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(k){}})();window.tickAboveFold=function(c){var a=0;if(c.offsetParent){do a+=c.offsetTop;while(c=c.offsetParent)}c=a;750>=c&&window.jstiming.load.tick("aft")};var f=!1;function g(){f||(f=!0,window.jstiming.load.tick("firstScrollTime"))}window.addEventListener?window.addEventListener("scroll",g,!1):window.attachEvent("onscroll",g);
  })();</script>
 <meta content="blogger" name="generator">
 <link href="http://www.footyheadlines.com/favicon.ico" rel="icon" type="image/x-icon">
 <link href="http://www.footyheadlines.com/p/privace-policy.html" rel="canonical">
 <link rel="alternate" type="application/atom+xml" title="Footy Headlines - Atom" href="http://www.footyheadlines.com/feeds/posts/default">
 <link rel="alternate" type="application/rss+xml" title="Footy Headlines - RSS" href="http://www.footyheadlines.com/feeds/posts/default?alt=rss">
-<link rel="service.post" type="application/atom+xml" title="Footy Headlines - Atom" href="http://www.blogger.com/feeds/7535398437004525886/posts/default">
+<link rel="service.post" type="application/atom+xml" title="Footy Headlines - Atom" href="https://www.blogger.com/feeds/7535398437004525886/posts/default">
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <title>Footy Headlines: Privacy Policy</title>
 <meta content="article" property="og:type">
+<meta content="100000817041240" property="fb:admins">
 <meta content="Footy Headlines" property="og:site_name">
 <meta content="http://www.footyheadlines.com/p/privace-policy.html" property="og:url">
 <meta content="https://www.facebook.com/FootyHeadlines" property="article:publisher">
+<meta content="https://www.facebook.com/FootyHeadlines" property="article:author">
 <meta content="summary" property="twitter:card">
 <meta content="@Footy_Headlines" property="twitter:site">
 <meta content="@Footy_Headlines" property="twitter:creator">
 <meta content="footyheadlines.com" property="twitter:domain">
 <!--<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:700,400&#38;subset=latin,latin-ext' type='text/css' media='screen' />-->
 
-<!-- <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/1943648796-widget_css_bundle.css' />
-<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&zx=7be0e027-ff8a-48bd-a099-4220514fbe20' />
+<!-- <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/1708208307-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&zx=8ce0f98d-6b49-42b3-94a9-24f19bbd9097' />
 <style type='text/css'></style> -->
 <style id="page-skin-1" type="text/css"><!--
 /*
@@ -381,6 +408,175 @@ padding: 0;
 text-decoration: none;
 color: #252525;
 font-family: "Open Sans", Helvetica, Arial;
+}
+.mobile-yes {
+display: none;
+}
+.mobile .mobile-no {
+display: none;
+}
+.mobile .mobile-yes {
+display: initial;
+}
+.cc_banner-wrapper {
+z-index: 9001;
+position: fixed;
+}
+.cc_container .cc_btn {
+cursor: pointer;
+text-align: center;
+font-size: 0.6em;
+transition: font-size 200ms;
+line-height: 1em
+}
+.cc_container .cc_message {
+font-size: 0.6em;
+transition: font-size 200ms;
+margin: 0;
+padding: 0;
+line-height: 1.5em
+}
+.cc_container .cc_logo {
+display: none;
+text-indent: -1000px;
+overflow: hidden;
+width: 100px;
+height: 22px;
+background-size: cover;
+opacity: 0.9;
+transition: opacity 200ms
+}
+.cc_container .cc_logo:hover,
+.cc_container .cc_logo:active {
+opacity: 1
+}
+@media screen and (min-width: 500px) {
+.cc_container .cc_btn {
+font-size: 0.8em
+}
+.cc_container .cc_message {
+font-size: 0.8em
+}
+}
+@media screen and (min-width: 768px) {
+.cc_container .cc_btn {
+font-size: 1em
+}
+.cc_container .cc_message {
+font-size: 1em;
+line-height: 1em
+}
+}
+@media screen and (min-width: 992px) {
+.cc_container .cc_message {
+font-size: 1em
+}
+}
+@media print {
+.cc_banner-wrapper,
+.cc_container {
+display: none
+}
+}
+.cc_banner-wrapper {
+height: 66px
+}
+.cc_container {
+padding: 15px 15px 15px;
+overflow: hidden;
+position: fixed;
+bottom: 0;
+left: 0;
+right: 0
+}
+.cc_container .cc_btn {
+padding: 8px 10px;
+background-color: #f1d600;
+cursor: pointer;
+text-align: center;
+display: block;
+width: 33%;
+margin-left: 10px;
+float: right;
+max-width: 120px
+}
+.cc_container .cc_message {
+display: block
+}
+@media screen and (min-width: 500px) {
+.cc_container .cc_message {
+margin-top: 0.5em
+}
+}
+@media screen and (min-width: 768px) {
+.cc_container {
+padding: 15px 30px 15px
+}
+.cc_container .cc_btn {
+padding: 8px 15px
+}
+}
+.cc_container {
+background: #fff;
+color: #999;
+font-size: 17px;
+box-sizing: border-box;
+border-top: 1px solid #ccc
+}
+.cc_container::-moz-selection {
+background: #ff5e99;
+color: #fff;
+text-shadow: none
+}
+.cc_container .cc_btn,
+.cc_container .cc_btn:visited {
+background-color: #ff881f;
+border-radius: 5px;
+}
+.cc_container a.cc_more_info,
+.cc_container a.cc_more_info:visited {
+text-decoration: none;
+border-bottom: 1px solid #999;
+transition: all 100ms ease-out;
+-webkit-transition: all 100ms ease-out;
+-moz-transition: all 100ms ease-out;
+-o-transition: all 100ms ease-out;
+}
+.cc_container a.cc_more_info:hover,
+.cc_container a.cc_more_info:active {
+border-color: #252525;
+}
+@-webkit-keyframes slideUp {
+0% {
+-webkit-transform: translateY(66px);
+transform: translateY(66px)
+}
+100% {
+-webkit-transform: translateY(0);
+transform: translateY(0)
+}
+}
+@keyframes slideUp {
+0% {
+-webkit-transform: translateY(66px);
+-ms-transform: translateY(66px);
+transform: translateY(66px)
+}
+100% {
+-webkit-transform: translateY(0);
+-ms-transform: translateY(0);
+transform: translateY(0)
+}
+}
+.cc_container/*,
+.cc_message,
+.cc_btn*/ {
+animation-duration: 0.8s;
+-webkit-animation-duration: 0.8s;
+-moz-animation-duration: 0.8s;
+-o-animation-duration: 0.8s;
+-webkit-animation-name: slideUp;
+animation-name: slideUp
 }
 .post-body ul {
 padding-left: 20px;
@@ -397,7 +593,7 @@ background: #FFFFFF;
 overflow: hidden;
 }
 .post-img-container {
-max-height: 400px;
+max-height: 440px;
 overflow: hidden;
 position: relative;
 /* margin: 0 20px 0 0; */
@@ -427,6 +623,8 @@ margin: 20px 0;
 }
 .post-body a[href] {
 border-bottom: 1px solid #999;
+z-index: 1;
+position: relative;
 }
 .league-table a[href], .worldcup-table a[href] {
 border: none;
@@ -434,6 +632,7 @@ text-decoration: underline;
 }
 .post-body a[href*="bp.blogspot.com"] {
 border: none;
+z-index: 0;
 }
 .post-body a:hover {
 border-color: #252525;
@@ -843,12 +1042,18 @@ animation-iteration-count: infinite;
 50% {opacity: 1;}
 100% {opacity: 0;}
 }
+.image-switch.notransition img.first {
+animation: imagefade 3s steps(1) infinite;
+-webkit-animation: imagefade 3s steps(1) infinite;
+-moz-animation: imagefade 3s steps(1) infinite;
+}
 /* slideshow */
 .slideshow-wrapper {
 width: 738px;
 max-width: 100%;
 overflow: hidden;
 position: relative;
+font-size: 0;
 }
 .slideshow-arrow {
 position: absolute;
@@ -857,6 +1062,7 @@ width: 35%;
 height: 100%;
 -webkit-tap-highlight-color: rgba(0,0,0,0);
 -webkit-tap-highlight-color: transparent;
+z-index: 1;
 }
 .slideshow-arrow.left {
 left: 0;
@@ -865,20 +1071,32 @@ display: none;
 .slideshow-arrow.right {
 right: 0;
 }
+.image-count {
+position: absolute;
+color: white;
+background-color: rgba(0, 0, 0, 0.6);
+padding: 20px;
+right: 0;
+bottom: 0;
+font-weight: bold;
+font-size: 35px;
+line-height: 1;
+z-index: 1;
+}
 .slideshow-arrow > div {
 width: 30px;
 height: 30px;
 margin-top: -15px;
 position: absolute;
 top: 50%;
-opacity: 0.3;
+opacity: 0.6;
 transition: all 100ms ease-out;
 -webkit-transition: all 100ms ease-out;
 -moz-transition: all 100ms ease-out;
 -o-transition: all 100ms ease-out;
 }
 .slideshow-arrow:hover > div {
-opacity: 0.8;
+opacity: 1;
 }
 .slideshow-arrow.right > div {
 right: 0;
@@ -908,7 +1126,7 @@ color: #FFF;
 background: rgba(0,0,0,0.5);
 padding: 5px;
 box-sizing: border-box;
-font-size: 1em;
+font-size: 16px;
 position: absolute;
 bottom: 0;
 left: 0;
@@ -919,7 +1137,7 @@ max-width: 100%;
 margin: 0 !important;
 padding: 0 !important;
 }
-@media(max-width: 700px) {
+@media(max-width: 804px) {
 .slideshow-wrapper {
 margin: 0 0 0 -20px;
 width: 120%;
@@ -927,8 +1145,8 @@ width: calc(100% + 40px);
 max-width: none;
 }
 .slideshow-arrow > div {
-top: 70px;
-opacity: 0.2;
+/* top: 70px; */
+/* opacity: 0.2; */
 }
 .slideshow-wrapper .description {
 background: #000;
@@ -945,7 +1163,8 @@ z-index: -1;
 }
 .link-anchor-2{
 padding-top: 90px;
-z-index: -1;
+z-index: 0;
+position: relative;
 }
 .mobile .link-anchor{
 padding-top: 0;
@@ -1145,6 +1364,7 @@ font-weight: bold;
 text-transform:uppercase;
 /* display: inline-block; */
 overflow: hidden;
+white-space: nowrap;
 }
 .nav * {
 color: #FFFFFF;
@@ -1155,6 +1375,10 @@ text-decoration: none;
 .nav li {
 float: left;
 list-style: none;
+}
+.nav > li {
+float: none;
+display: table-cell;
 }
 .nav > li > a {
 height: 40px;
@@ -1361,10 +1585,12 @@ transition: all 100ms ease-out;
 -moz-transition: all 100ms ease-out;
 -o-transition: all 100ms ease-out;
 }
-.headerbar-2-container.closed {
+.headerbar-2-container.closed, .tabs-hidden .headerbar-2-container {
 max-height: 0;
 border: none;
 overflow: hidden;
+}
+.tabs-hidden {
 }
 .headerbar-2-line {
 z-index: 5;
@@ -1607,9 +1833,6 @@ color: #1b1b1b;
 text-transform:uppercase;
 font-weight: bold;
 font-size: 19px;
-}
-h2 a:hover {
-color: #ba1616;
 }
 .post h3 {
 margin:0;
@@ -1885,21 +2108,22 @@ display: inline-block;
 padding: 5px;
 }
 #black-overlay {
-background-color: rgba(0,0,0,0.0);
+background-color: rgb(0,0,0);
+opacity: 0;
 z-index: 10;
 position: fixed;
 top: 40px;
 left: 0;
 height: 100%;
 width: 100%;
-transition: visibility 0s linear 300ms, background-color 300ms ease-out;
--webkit-transition: visibility 0s linear 300ms, background-color 300ms ease-out;
--moz-transition: visibility 0s linear 300ms, background-color 300ms ease-out;
--o-transition: visibility 0s linear 300ms, background-color 300ms ease-out;
+transition: visibility 0s linear 300ms, opacity 300ms ease-out;
+-webkit-transition: visibility 0s linear 300ms, opacity 300ms ease-out;
+-moz-transition: visibility 0s linear 300ms, opacity 300ms ease-out;
+-o-transition: visibility 0s linear 300ms, opacity 300ms ease-out;
 visibility: hidden;
 }
 .visible #black-overlay {
-background-color: rgba(0,0,0,0.8);
+opacity: 0.8;
 visibility: visible;
 transition-delay:0s;
 -webkit-transition-delay: 0s;
@@ -1982,6 +2206,9 @@ display: none;
 .mobile .likebox {
 display: block;
 }
+.mobile #tabs .headerbar-2 li a {
+padding: 7px 14px;
+}
 /* header and navbar (mobile site)*/
 .mobile #headerbar{
 background: #222222;
@@ -2055,8 +2282,12 @@ border-bottom: 5px solid transparent;
 font-size: 11pt;
 }
 .nav2 .nav-more{
+/*
 width: 200px;
 float: none;
+*/
+width: auto;
+clear: left;
 }
 .nav2 > .nav-more > a{
 border: none;
@@ -2073,10 +2304,14 @@ font-size: 0.9em;
 .league-table li{
 list-style: none;
 float: left;
-width: 24.36%;
+width: 25%;
 padding: 0.75% 0.25%;
 border-bottom: 1px solid #ccc;
 border-right: 1px solid #ccc;
+box-sizing: border-box;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
 }
 .league-table.league-table-2 li {
 width: 33.33%;
@@ -2092,11 +2327,11 @@ vertical-align: top;
 }
 .league-table img{
 padding: 0;
-margin: 0 3% 0 0;
+margin: 0 3%;
 vertical-align: top;
 }
 .mobile .league-table li{
-width: 49%;
+width: 50%;
 }
 /*compare table (magista) */
 .compare-table{
@@ -2276,6 +2511,19 @@ margin-top: 20px;
 }
 }
 @media (max-width:920px){
+.headerbar-2-container {
+overflow-x: auto;
+overflow-y: hidden;
+}
+.headerbar-2 {
+width: auto;
+white-space: nowrap;
+display: inline;
+}
+.headerbar-2 li {
+display: inline-block;
+float: none;
+}
 .nav{
 font-size: 10pt;
 }
@@ -2291,6 +2539,29 @@ display: none;
 }
 .nav-teaser span{
 display: none;
+}
+}
+@media (max-width: 805px) {
+.post.index, .footer-list, .disqus-container, .unimportant-post {
+margin-left: 20px;
+margin-right: 20px;
+}
+.post-snippet, .post-info .labels {
+display: none;
+}
+.post img {
+/*max-width: 100%;*/
+margin: 0;
+padding: 0;
+}
+.nav {
+display: none;
+}
+}
+@media (max-width: 450px) {
+.image-count {
+font-size: 20px;
+padding: 10px;
 }
 }
 /*site search */
@@ -2439,6 +2710,7 @@ width: 103.5%;
 .mobile .post img {
 margin: 0;
 padding: 0;
+max-width: none;
 }
 .mobile .post ul img {
 margin: 0;
@@ -2480,6 +2752,9 @@ margin: 0;
 font-size: 16px;
 padding: 40px 0 0 0;
 background: #FFFFFF;
+}
+.hidden .mobile {
+padding-top: 40px;
 }
 .mobile #outer-wrapper {
 margin: 0;
@@ -2649,7 +2924,7 @@ width: 49%;
 margin: 0.2em 0;
 }
 .mobile .worldcup-table ul li img, .mobile .league-table li img{
-margin: 0 3% 0 0;
+margin: 0 3%;
 }
 /* charts */
 .mobile #chart_div, .mobile #piechart{
@@ -2658,6 +2933,40 @@ height: 220px;
 /* quotes */
 .mobile blockquote{
 margin: 0;
+}
+/* EURO 2016 TABLE */
+ul.euro-table {
+padding: 0;
+/* list-style: none; */
+overflow: hidden;
+}
+.euro-table > li {
+list-style: none;
+float: left;
+width: 25%;
+box-sizing: border-box;
+padding: 10px 0;
+}
+.mobile .euro-table > li {
+width: 50%;
+}
+.euro-table ul {
+padding: 10px 5px 0;
+}
+.euro-table ul li {
+list-style: none;
+white-space: nowrap;
+vertical-align: top;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+.euro-table img {
+vertical-align: top;
+margin-right: 5px !important;
+}
+.euro-table a[href] {
+border: none;
+text-decoration: underline;
 }
 
 --></style>
@@ -2670,6 +2979,16 @@ overflow-x: auto;
 }
 
 .mobile-images {
+width: 150%;
+}
+
+@media (max-width: 805px) {
+.mobile-images {
+width: 100%;
+}
+}
+
+.mobile .mobile-images {
 width: 150%;
 }
 
@@ -3136,11 +3455,11 @@ padding: 10px 0 0 0;
 }
 
 </style>
-<script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+<script type="text/javascript">var a="&m=1",d="(^|&)m=",e="?",f="?m=1";function g(){var b=window.location.href,c=b.split(e);switch(c.length){case 1:return b+f;case 2:return 0<=c[1].search(d)?null:b+a;default:return null}}var h=navigator.userAgent;if(-1!=h.indexOf("Mobile")&&-1!=h.indexOf("WebKit")&&-1==h.indexOf("iPad")||-1!=h.indexOf("Opera Mini")||-1!=h.indexOf("IEMobile")){var k=g();k&&window.location.replace(k)};
 </script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
 </script></head>
-<body class="loading">
+<body class="loading"><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" class="cc_btn cc_btn_accept_all">Got it!</a><p class="cc_message">This website uses cookies to ensure you get the best experience. <a data-cc-if="options.link" class="cc_more_info" href="http://www.footyheadlines.com/p/privace-policy.html">More info</a></p></div></div>
 <div id="outer-wrapper">
 <div class="mobile-nav section" id="mobile-nav">
 </div>
@@ -3150,8 +3469,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div id="headerbarinner">
 <a href="http://www.footyheadlines.com/" id="siteLogo"><div></div></a>
 <ul class="nav normal">
-<li><a href="/search/label/Balls?max-results=4">Balls</a></li>
-<li><a href="/search/label/Boots?max-results=4">Boots</a>
+<li><a href="/search/label/Balls?max-results=6">Balls</a></li>
+<li><a href="/search/label/Boots?max-results=8">Boots</a>
 <div class="nav2-outer">
 <div class="nav2-container">
 <ul class="nav2">
@@ -3193,15 +3512,16 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li class="nav-more"><a href="/search/label/Boots?max-results=4">All football boots</a></li>
 </ul>
 <a href="/2013/01/2013-boot-calender-updated-11-january.html"><div class="nav-teaser">
-<div><img class="load-delay" delayedsrc="http://1.bp.blogspot.com/-WZ7Ev5OIsVY/VT5ZnTx5LlI/AAAAAAAAh4w/K_SYDrybNXU/s1600/2015-football-boot-calendar.jpg"></div>
-<strong>Football Boots Calender</strong>
+<div><img src="http://4.bp.blogspot.com/-it8_hdtuoSY/VmwD_5_5YTI/AAAAAAAAwUM/zFn9r2edJBg/s1600/2016-football-boots-1.jpg"></div>
+<strong>Football Boots Calendar</strong>
 <span>All future boot releases</span>
 </div>
 </a>
 </div>
 </div>
 </li>
-<li><a href="/search/label/Kits?max-results=4">Kits</a>
+<li><a href="/2013/01/2013-boot-calender-updated-11-january.html">Boot Calendar</a></li>
+<li><a href="/search/label/Kits?max-results=8">Kits</a>
 <div class="nav2-outer">
 <div class="nav2-container">
 <ul class="nav2">
@@ -3249,17 +3569,17 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </li>
 <li class="nav-more"><a href="/search/label/Kits?max-results=4">All kits</a></li>
 </ul>
-<a href="/2015/01/2015-16-kits-overview-leaked-and-official-15-16-shirts.html"><div class="nav-teaser">
-<div><img class="load-delay" delayedsrc="http://3.bp.blogspot.com/-3P8yRiAQ5T0/VT5ZnTs4GdI/AAAAAAAAh40/N8oRRf8dTfY/s1600/15-16-Kits-Overview.jpg"></div>
-<strong>2015-16 Kit Overview</strong>
-<span>All 15-16 Club Kits</span>
+<a href="/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html"><div class="nav-teaser">
+<div><img src="http://2.bp.blogspot.com/-hk6tqNOv0_s/Vmni_m_N_NI/AAAAAAAAwRM/Qs0siBAQtc0/s1600/2016-17-kits.jpg"></div>
+<strong>2016-17 Kit Overview</strong>
+<span>All 16-17 Club Kits</span>
 </div>
 </a>
 </div>
 </div>
 </li>
-<li><a href="/2015/01/2015-16-kits-overview-leaked-and-official-15-16-shirts.html">15-16 Kits Overview</a></li>
-<li><a href="/2013/01/2013-boot-calender-updated-11-january.html">Boot Calendar</a></li>
+<li><a href="/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html">2016-17 Kits Overview</a></li>
+<li><a href="/2015/09/euro-2016-kits-overview.html">Euro 2016 Kits Overview</a></li>
 </ul>
 <form action="/search" id="searchthis" method="get">
 <input class="search-box" name="q" placeholder="Search" type="text"><input name="max-results" type="hidden" value="6"><input name="by-date" type="hidden" value="false">
@@ -3313,29 +3633,29 @@ If you have any questions about this Privacy Policy, please feel free to contact
 </div>
 </div>
 </div>
+
 </div>
 <script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
 </div>
-<div class="widget PopularPosts" id="PopularPosts3">
-</div></div>
+</div>
 <!--comments (disqus)-->
 </div>
 <div class="static_page" id="sidebar-wrap">
-<div class="sidebar section" id="sidebartop"><div class="widget HTML" id="HTML3">
+<div class="sidebar section" id="sidebartop"><div class="widget HTML" id="HTML1">
 </div><div class="widget PopularPosts" id="PopularPosts1">
 <div class="sidebarHeader">Popular Posts</div>
 <ul>
-<li><a href="http://www.footyheadlines.com/2015/01/2015-16-kits-overview-leaked-and-official-15-16-shirts.html">2015-16 Kits Overview - Leaked and Official 15-16 Shirts</a></li>
-<li><a href="http://www.footyheadlines.com/2013/01/2013-boot-calender-updated-11-january.html">2015-2016 Boot Calendar: Updated 22/06/15</a></li>
-<li><a href="http://www.footyheadlines.com/2015/03/adidas-manchester-united-15-16-kit.html">Adidas Manchester United 15-16 Kits Leaked</a></li>
-<li><a href="http://www.footyheadlines.com/2015/03/atletico-madrid-15-16-kit.html">Atlético Madrid 15-16 Kits Revealed</a></li>
-<li><a href="http://www.footyheadlines.com/2015/06/fc-barcelona-16-17-kit-returns-to-vertical-stripes.html">FC Barcelona 16-17 Kit Returns to Vertical Stripes</a></li>
+<li><a href="http://www.footyheadlines.com/2013/01/2013-boot-calender-updated-11-january.html">2015-2016 Boot Calendar: Updated 08/12/15</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/real-madrid-16-17-home-kit.html">Real Madrid 16-17 Home Kit Leaked</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html">2016-17 Kits Overview - All Leaked and Official 16-17 Shirts</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/juventus-16-17-home-kit.html">Juventus 16-17 Home Kit Leaked</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/new-manchester-city-crest.html">New Manchester City Crest Leaked</a></li>
 </ul>
 </div><div class="widget HTML" id="HTML11">
 <div class="sidebar-social">
 <a class="likebox fb" href="https://www.facebook.com/FootyHeadlines"><span class="fb-sidebar"></span></a>
 <a class="likebox tw" href="https://twitter.com/Footy_Headlines"><span class="tw-sidebar"></span></a>
-<a class="likebox in" href="http://instagram.com/footyheadlines"><span class="in-sidebar"></span></a>
+<a class="likebox in" href="https://instagram.com/footyheadlines"><span class="in-sidebar"></span></a>
 </div>
 </div><div class="widget Feed" id="Feed3">
 <div class="sidebarHeader">New Posts</div>
@@ -3362,7 +3682,11 @@ If you have any questions about this Privacy Policy, please feel free to contact
                 </style>
 </div></div>
 </div>
-<div id="main-wrap2"></div>
+<div id="main-wrap2"><div class="disqus-container" id="disqus-container">
+<div class="labelLink" id="button-disqus">Show <span class="disqus-comment-count" data-disqus-url="http://www.footyheadlines.com/p/privace-policy.html">Comments</span></div>
+<div class="comments" id="comments"></div>
+</div><div class="widget PopularPosts" id="PopularPosts3">
+</div></div>
 </div>
 </div></div>
 <script type="text/javascript">
@@ -3373,42 +3697,98 @@ If you have any questions about this Privacy Policy, please feel free to contact
 //important posts to front
 
 if (document.URL.indexOf("html") < 0) {
-var posts = document.getElementById("blog-posts");
-var topPosts = posts.querySelectorAll(".top");
-
-for (var i=topPosts.length - 1; i >= 0; i--) {
-posts.insertBefore(topPosts[i], posts.firstChild);
-//console.log(topPosts[i]);
-}
-
-var fixedPosts = posts.getElementsByClassName("fixed");
-var blogPosts = posts.getElementsByClassName("normal");
-var blogPostsArr = [];
-
-for (var i = 0; i < fixedPosts.length; i++) {
-	if (fixedPosts[i].nodeType == 1) {
-		blogPostsArr.push(fixedPosts[i]);
+    var posts = document.getElementById("blog-posts");
+    var topPosts = posts.querySelectorAll(".top");
+	var topPosts2 = posts.querySelectorAll(".top2");
+    //var normalPosts = posts.querySelectorAll(".post");	
+	
+	//for (var i = topPosts2.length - 1; i >= 0; i--) {
+	for (var i = 0; i < topPosts2.length; i++) {
+		var test = topPosts2[i].querySelector(".post-time").title;
+		
+		var now = new Date().getTime() / 1000;
+		var date = new Date(test);
+		var time = date.getTime() / 1000;
+		var diff = Math.floor((now - time) / 60 / 60);
+		var position = 3;
+		
+		//console.log(diff);
+		
+		if (diff <= 5) {
+			position = 0;
+		}
+		else if (diff <= 10) {
+			position = 1;
+		}
+		else if (diff <= 15) {
+			position = 2;
+		}
+		
+		if (diff <= 12) {
+			
+			var replacedPostTime = posts.querySelectorAll(".post:not(.top):not(.top2)")[position].querySelector(".post-time").title;
+			replacedPostTime = new Date(replacedPostTime).getTime() / 1000;
+			
+			if ((((now - replacedPostTime) / 60) < 30) & ((replacedPostTime - time) / 60 > 30)) {
+				position++;
+			}
+			
+			if (replacedPostTime > time) {			
+				posts.insertBefore(topPosts2[i], posts.querySelectorAll(".post:not(.top):not(.top2)")[position]);
+			}
+		}
 	}
-}
 
-for (var i = 0; i < blogPostsArr.length; i++) {
-    for (var i2 = 0; i2 <= 6; i2++) {
-        var index = "fixed-" + i2;
-        if (blogPostsArr[i].className.indexOf(index) > 0) {
-			/*
-            console.log(blogPostsArr[i]);
-            console.log(i2 + i);
-            console.log(blogPosts[i2])
-            console.log("");
-			*/
-            posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
-            if (blogPosts.length > (i2))
-                posts.insertBefore(blogPostsArr[i], blogPosts[i2]);
-            else
-                posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
+    for (var i = topPosts.length - 1; i >= 0; i--) {
+        test = topPosts[i].querySelector(".post-time").title;
+        position = 0;
+
+        var now = new Date().getTime() / 1000;
+        var date = new Date(test);
+        var time = date.getTime() / 1000;
+        var diff = Math.floor((now - time) / 60 / 60);
+
+        //console.log(diff);
+
+        if (diff > 16) {
+            position = 2;
+        } else if (diff > 8) {
+            position = 1;
+        }
+
+        //console.log(test + ";" + position);
+
+        posts.insertBefore(topPosts[i], posts.querySelectorAll(".post")[position]);
+    }
+
+    var fixedPosts = posts.getElementsByClassName("fixed");
+    var blogPosts = posts.getElementsByClassName("normal");
+    var blogPostsArr = [];
+
+    for (var i = 0; i < fixedPosts.length; i++) {
+        if (fixedPosts[i].nodeType == 1) {
+            blogPostsArr.push(fixedPosts[i]);
         }
     }
-}
+
+    for (var i = 0; i < blogPostsArr.length; i++) {
+        for (var i2 = 0; i2 <= 10; i2++) {
+            var index = "fixed-" + i2;
+            if (blogPostsArr[i].className.indexOf(index) > 0) {
+                /*
+            console.log(blogPostsArr[i]);
+            //console.log(i2 + "-" + i);
+            //console.log(blogPosts[i2])
+            //console.log("");
+			*/
+                posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
+                if (blogPosts.length > (i2))
+                    posts.insertBefore(blogPostsArr[i], blogPosts[i2]);
+                else
+                    posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
+            }
+        }
+    }
 
 }
 
@@ -3420,16 +3800,34 @@ var mainwrap = document.getElementById("main-wrap2");
 
 if (document.URL.indexOf("html") < 0) {
 var posts = document.querySelectorAll(".blog-posts > .post");
+blogPostsArr = [];
 
-for (var i = 2; i < posts.length; i++) {
-mainwrap.appendChild(posts[i]);
+for (var i = 0; i < posts.length; i++) {
+	blogPostsArr.push(posts[i]);
+}
+
+for (var i = 2; i < blogPostsArr.length; i++) {
 if (i == 2) {
-if (document.getElementById("unimportant-posts") != null) {
-mainwrap.appendChild(document.getElementById("unimportant-posts")); }
+if (document.getElementById("unimportant-posts-1") != null) {
+mainwrap.appendChild(document.getElementById("unimportant-posts-1"));
+}
 }
 if (i == 3) {
 if (document.getElementById("PopularPosts3") != null) {
-mainwrap.appendChild(document.getElementById("PopularPosts3")); }
+mainwrap.appendChild(document.getElementById("PopularPosts3"));
+}
+}
+if (i == 4) {
+if (document.getElementById("unimportant-posts-2") != null) {
+mainwrap.appendChild(document.getElementById("unimportant-posts-2"));
+}
+}
+mainwrap.appendChild(blogPostsArr[i]);
+}
+
+if (blogPostsArr.length < 5) {
+if (document.getElementById("unimportant-posts-2") != null) {
+mainwrap.appendChild(document.getElementById("unimportant-posts-2"));
 }
 }
 
@@ -3442,7 +3840,10 @@ blogPosts.insertBefore(firstPost[0], ads[1]);
 blogPosts.insertBefore(firstPost[1], firstPost[2]);
 }
 else {
-mainwrap.appendChild(document.getElementById("disqus-container"));
+disqusContainer = document.getElementById("disqus-container");
+if (disqusContainer != null) {
+	mainwrap.appendChild(disqusContainer);
+	}
 mainwrap.appendChild(document.getElementById("PopularPosts3"));
 }
 mainwrap.appendChild(document.getElementById("blog-pager"));
@@ -3469,30 +3870,30 @@ for (var i = 0; i < firstPost.length; i++) {
 	}
 }
 
-//console.log(blogPosts);
-//console.log(firstPost);
-//console.log(ads);
-
-/*
-blogPosts.insertBefore(firstPost[6], ads[2].nextElementSibling);
-blogPosts.insertBefore(firstPost[5], ads[2].nextElementSibling);
-*/
-blogPosts.insertBefore(blogPostsArr[4], ads[2].nextElementSibling);
-blogPosts.insertBefore(blogPostsArr[3], ads[2].nextElementSibling);
+if (blogPostsArr.length > 4)
+	blogPosts.insertBefore(blogPostsArr[4], ads[2].nextElementSibling);
+if (blogPostsArr.length > 3)
+	blogPosts.insertBefore(blogPostsArr[3], ads[2].nextElementSibling);
 blogPosts.insertBefore(blogPostsArr[2], ads[2]);
 blogPosts.insertBefore(blogPostsArr[1], ads[1]);
 blogPosts.insertBefore(blogPostsArr[0], ads[0]);
 
-//console.log(blogPosts);
+if (document.getElementById("unimportant-posts-1") != null)
+blogPosts.insertBefore(document.getElementById("unimportant-posts-1"), blogPostsArr[2]); 
+if (document.getElementById("PopularPosts2") != null)
+blogPosts.insertBefore(document.getElementById("PopularPosts2"), blogPostsArr[3]);
+if (document.getElementById("unimportant-posts-2") != null)
+blogPosts.insertBefore(document.getElementById("unimportant-posts-2"), blogPostsArr[4]);
 }
 
 //recent posts widget
 function showrecentposts(json) {
 var text = "<ul>";
   for (var i = 0; i < 5; i++) {
-    var entry = json.responseData.feed.entries[i];
-    var posttitle = entry.title;
-    var posturl = entry.link;
+	//console.log(json);
+    var entry = json.feed.entry[i];
+    var posttitle = entry.title.$t;
+    var posturl = entry.link[4].href;
     posttitle = posttitle.link(posturl);
 	text += "<li>" + posttitle + "</li>";
 }
@@ -3504,53 +3905,130 @@ if (el != null)
 
 function UnimportantPosts(json) {
     var text = "";
-    var el = document.getElementById("unimportant-posts");
+	var text2 = "";
+    var el = document.getElementById("unimportant-posts-1");
+	var el2 = document.getElementById("unimportant-posts-2");
+	if (el != null)
+		el.innerHTML = "";
+	if (el2 != null)
+		el2.innerHTML = "";
 
     if (json.feed.entry != null) {
-        for (var i = 0; i < 8; i++) {
+		//console.log(json.feed.entry);
+        for (var i = 0; i <= 12; i++) {
             if (json.feed.entry[i] != null) {
                 var entry = json.feed.entry[i];
                 var posttitle = entry.title.$t;
                 var posturl = entry.link[4].href;
-                var image = entry.media$thumbnail.url;
-
-                text += "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
-                text += "<img class=\"imageClass\" src=\"" + image.replace("s72-c", "w200-h70-c") + "\"></img>";
-                text += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
-                text += "<div class=\"post-overlay\"></div>";
-                text += "</a></div>";
+				if (entry.media$thumbnail != null)
+					var image = entry.media$thumbnail.url;
+				else
+					var image = "";
+				var tempText = "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
+                tempText += "<img class=\"imageClass\" src=\"" + image.replace("s72-c", "w200-h70-c") + "\"></img>";
+                tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
+                tempText += "<div class=\"post-overlay\"></div>";
+                tempText += "</a></div>";
+				if (i < 6) {
+				text += tempText;
+				}
+				else {
+				text2 += tempText;
+				}
+                unimportantPostsCount++;
             }
         }
         if (el != null)
             el.innerHTML = text;
-    } else {
-        el.innerHTML = "";
+		if (el2 != null)
+			el2.innerHTML = text2;
     }
 }
 
 function UnimportantPostsMobile(json) {
     var text = "";
-    var el = document.getElementById("unimportant-posts");
+	var text2 = "";
+    var el = document.getElementById("unimportant-posts-1");
+	var el2 = document.getElementById("unimportant-posts-2");
 
     if (json.feed.entry != null) {
-        for (var i = 0; i < 5; i++) {
+        for (var i = 0; i <= 12; i++) {
             if (json.feed.entry[i] != null) {
                 var entry = json.feed.entry[i];
                 var posttitle = entry.title.$t;
                 var posturl = entry.link[4].href;
                 var image = entry.media$thumbnail.url;
 
-                text += "<div class=\"popular-post\"><a class=\"post-link\" href=\"" + posturl + "?m=1\">";
-                text += "<img class=\"post-img-popular\" src=\"" + image + "\"></img>";
-                text += "<h1 class=\"post-title-popular\">" + posttitle + "</h1>";
-                text += "<div class=\"post-overlay\"></div>";
-                text += "</a></div>";
+                var tempText = "<div class=\"popular-post\"><a class=\"post-link\" href=\"" + posturl + "?m=1\">";
+                tempText += "<img class=\"post-img-popular\" src=\"" + image + "\"></img>";
+                tempText += "<h1 class=\"post-title-popular\">" + posttitle + "</h1>";
+                tempText += "<div class=\"post-overlay\"></div>";
+                tempText += "</a></div>";
+				if (i < 6) {
+				text += tempText;
+				}
+				else {
+				text2 += tempText;
+				}
+                unimportantPostsCount++;
             }
         }
         if (el != null)
             el.innerHTML = text;
+		if (el2 != null)
+			el2.innerHTML = text2;
     } else {
-        el.innerHTML = "";
+		if (el != null)
+			el.innerHTML = "";
+		if (el2 != null)
+			el2.innerHTML = "";
+    }
+}
+
+var unimportantPostsCount = 0;
+var unimportantPostsBlockCount = 3;
+
+function UnimportantPosts2(json) {
+    var text = "";
+    var el = document.getElementById("unimportant-posts-" + unimportantPostsBlockCount);
+
+    if (json.feed.entry != null) {
+        if (document.URL.indexOf("m=1") < 0) {
+            for (var i = 0; i <= 12; i++) {
+                if (json.feed.entry[i] != null) {
+                    var entry = json.feed.entry[i];
+                    var posttitle = entry.title.$t;
+                    var posturl = entry.link[4].href;
+                    var image = entry.media$thumbnail.url;
+                    var tempText = "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
+                    tempText += "<img class=\"imageClass\" src=\"" + image.replace("s72-c", "w200-h70-c") + "\"></img>";
+                    tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
+                    tempText += "<div class=\"post-overlay\"></div>";
+                    tempText += "</a></div>";
+                    text += tempText;
+                    unimportantPostsCount++;
+                }
+            }
+        } else {
+            for (var i = 0; i <= 12; i++) {
+                if (json.feed.entry[i] != null) {
+                    var entry = json.feed.entry[i];
+                    var posttitle = entry.title.$t;
+                    var posturl = entry.link[4].href;
+                    var image = entry.media$thumbnail.url;
+                    var tempText = "<div class=\"popular-post\"><a class=\"post-link\" href=\"" + posturl + "?m=1\">";
+                    tempText += "<img class=\"post-img-popular\" src=\"" + image + "\"></img>";
+                    tempText += "<h1 class=\"post-title-popular\">" + posttitle + "</h1>";
+                    tempText += "<div class=\"post-overlay\"></div>";
+                    tempText += "</a></div>";
+					text += tempText;
+                    unimportantPostsCount++;
+                }
+            }
+        }
+		if (el != null)
+			el.innerHTML = text;
+        unimportantPostsBlockCount++;
     }
 }
 //]]>
@@ -3603,140 +4081,156 @@ var mindate = d.getFullYear() + "-" + pad(d.getMonth() + 1, 2) + "-" + pad(d.get
 
 if(document.URL.indexOf("m=1") < 0){
 var script4 = document.createElement('script');
-script4.src = "/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=7&published-min=" + mindate + "&callback=UnimportantPosts";
+script4.src = "/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=12&published-min=" + mindate + "&callback=UnimportantPosts";
 document.body.appendChild(script4);
 } else {
 var script4 = document.createElement('script');
-script4.src = "/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=7&published-min=" + mindate + "&callback=UnimportantPostsMobile";
+script4.src = "/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=12&published-min=" + mindate + "&callback=UnimportantPostsMobile";
 document.body.appendChild(script4);
 }
 }
 
 //loading more posts at bottom
-(function (a) {
+(function(a) {
     function h() {
         g || (g = !0, d ? (b.find("a").hide(), b.find("img").show(), a.ajax(d, {
             dataType: "html"
-        }).done(function (c) {
+        }).done(function(c) {
             var c = a("<div></div>").append(c.replace(j, "")),
                 e = c.find("a.blog-pager-older-link");
             e ? d = e.attr("href") : (d = "", b.hide());
-			var topPosts = c.find(i).children(".post.top");
-			var normalPosts = c.find(i).children(".post").not(".top");
+            var topPosts = c.find(i).children(".post.top");
+            var normalPosts = c.find(i).children(".post").not(".top");
             c = c.find(i).children(".post");
 
-if (count == 0)
-{
-/*$("#PopularPosts2").appendTo(a(main));
-$("#PopularPosts3").appendTo(a(main));
-$("#social-buttons").appendTo(a(main));
-$("#disqus-container").appendTo(a(main));*/
-var blogPager = document.getElementById("blog-pager");
-//blogPager.parentNode.removeChild(blogPager);
-if (blogPager != null)
-blogPager.style.display = "none";
-}
-count++;
+            if (count == 0) {
+                /*$("#PopularPosts2").appendTo(a(main));
+                $("#PopularPosts3").appendTo(a(main));
+                $("#social-buttons").appendTo(a(main));
+                $("#disqus-container").appendTo(a(main));*/
+                var blogPager = document.getElementById("blog-pager");
+                //blogPager.parentNode.removeChild(blogPager);
+                if (blogPager != null)
+                    blogPager.style.display = "none";
+            }
+            count++;
+
+            $(".post-comment-link").each(function(index) {
+                $(this).removeClass("post-comment-link");
+            });
+
+            /* realigning posts */
+            if (count == 1 & document.URL.indexOf("html") > 0) {
+                a(main).append(topPosts);
+                a(main).append(normalPosts);
+                //console.log(topPosts);
+                //console.log(normalPosts);
+            } else {
+                a(main).append(c);
+            }
+
+            /* end realigning posts */
+            //c.insert(1,div);
 			
-$( ".post-comment-link" ).each( function( index ) {
-$(this).removeClass("post-comment-link");
-});
+			if (document.URL.indexOf("html") > 0 && count == 1) {
+			    var div = $("<div class=\"unimportant-posts\" id=\"unimportant-posts-1\"></div>");
+			    var div2 = $("<div class=\"unimportant-posts\" id=\"unimportant-posts-2\"></div>");
+			    a(main).find(".post.index").eq(2).after(div);
+			    if (a(main).find(".post.index").length > 4) {
+			        a(main).find(".post.index").eq(4).after(div2);
+			    } else {
+			        a(main).append(div2);
+			    }
+			    UnimportantPostsFetcher();
+			}
+			if ((count > 1 | document.URL.indexOf("html") < 0) & (document.URL.indexOf("search") < 0)) {
+			    a(main).append($("<div class=\"unimportant-posts\" id=\"unimportant-posts-" + unimportantPostsBlockCount + "\"><div class='unimportant-post placeholder'><img src='https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif'/></div></div>"));
+			    var script = document.createElement('script');
+			    script.src = "http://www.footyheadlines.com/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=6&start-index=" + (unimportantPostsCount + 1) + "&callback=UnimportantPosts2";
+			    document.body.appendChild(script);
+			}
 
-/* realigning posts */
-if (count == 1 & document.URL.indexOf("html") > 0) {
-a(main).append(topPosts);
-a(main).append(normalPosts);
-//console.log(topPosts);
-//console.log(normalPosts);
-}
-else {
-a(main).append(c);
-}
+            $(".post.index").each(function(index) {
+                if (!$(this).hasClass("checked")) {
+                    $(this).addClass("checked");
+                    if (current.indexOf($(this).children(".post-link").attr("href")) > -1 | current.indexOf($(this).children(".post-info").children(".post-link").attr("href")) > -1) {
+                        $(this).remove();
+                    }
+                }
+            });
 
-/* end realigning posts */
-//c.insert(1,div);
+            $(".facebook-like").each(function(index) {
+                if (!$(this).text().trim().length) {
+                    var obj = $(this);
+                    var url = $(this).attr('data-href');
+                    $.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27" + url + "%27&format=json", function(json, $obj) {
+                        var count = json[0].total_count;
+                        if (count > 1000) {
+                            count = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
+                        }
+                        obj.text(count);
+                    });
+                }
+            });
+			/*
+            $(".twitter-share").each(function(index) {
+                if (!$(this).text().trim().length) {
+                    var obj = $(this);
+                    var url = $(this).attr('data-url');
+                    $.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url=" + url, function(json, $obj) {
+                        var count = json.count;
+                        if (count > 1000) {
+                            count = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
+                            count = count.replace('.0', '');
+                        }
+                        obj.text(count);
+                    });
+                }
+            });
+			*/
+            $(".post-shares").each(function(index) {
+                var obj_shares = $(this);
 
-if (count == 1 & document.URL.indexOf("html") > 0) {
-var div = $("<div class=\"unimportant-posts\" id=\"unimportant-posts\"></div>");
-//a(main).append(div);//insertBefore(div, a(main).children());
-a(main).find(".post.index").eq(2).after(div);
-UnimportantPostsFetcher();
-}
+                if (obj_shares.text() == "Shares") {
+                    var url = obj_shares.attr("data-href");
+                    var count = 0;
+                    var count_comm = 0;
+                    var count_site = "";
 
-$(".post.index").each(function( index ) {
-if (!$(this).hasClass("checked")) {
-$(this).addClass("checked");
-if ($(this).children(".post-link").attr("href") == current | $(this).children(".post-info").children(".post-link").attr("href") == current) {
-$(this).remove();
-}
-}
-});
+                    $.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27" + url + "%27&format=json", function(json, $obj) {
+                        var count_fb = json[0].total_count;
+                        count = count + count_fb;
+                        count_site = count;
+                        if (count > 1000) {
+                            count_site = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
+                            count_site = count_site.replace('.0', '');
+                        }
+                        if (count == 1) {
+                            obj_shares.text(count_site + " Share");
+                        } else {
+                            obj_shares.text(count_site + " Shares");
+                        }
+                    });
+					
+					/*
+                    $.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url=" + url, function(json, $obj) {
+                        var count_tw = json.count;
+                        count = count + count_tw;
+                        count_site = count;
+                        if (count > 1000) {
+                            count_site = (Math.floor(count / 100) / 10).toFixed(1) + 'k';
+                            count_site = count_site.replace('.0', '');
+                        }
+                        if (count == 1) {
+                            obj_shares.text(count_site + " Share");
+                        } else {
+                            obj_shares.text(count_site + " Shares");
+                        }
+                    });
+					*/
+                }
 
-$(".facebook-like" ).each(function( index ) {
-if (!$(this).text().trim().length){
-var obj = $(this);
-var url = $(this).attr('data-href');
-$.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27"+url+"%27&format=json", function(json,$obj) {
-var count = json[0].total_count;
-if (count>1000)
-{
-count=(Math.floor(count/100)/10).toFixed(1)+'k';
-}
-obj.text(count);
-});
-}
-});
-$( ".twitter-share" ).each(function( index ) {
-if (!$(this).text().trim().length){
-var obj = $(this);
-var url = $(this).attr('data-url');
-$.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url="+url, function(json,$obj) {
-var count = json.count;
-if (count>1000)
-{
-count=(Math.floor(count/100)/10).toFixed(1)+'k';
-count=count.replace('.0','');
-}
-obj.text(count);
-});
-}
-});
-$( ".post-shares" ).each(function(index) {
-var obj_shares = $(this);
-
-if (obj_shares.text() == "Shares") {
-var url = obj_shares.attr("data-href");
-var count = 0;
-var count_comm = 0;
-var count_site = "";
-
-$.getJSON("https://api.facebook.com/method/fql.query?query=select%20total_count%20from%20link_stat%20where%20url=%27" + url + "%27&format=json", function(json,$obj) {
-var count_fb = json[0].total_count;
-count = count + count_fb; count_site = count;
-if (count>1000)
-{
-count_site=(Math.floor(count/100)/10).toFixed(1)+'k';
-count_site=count_site.replace('.0','');
-}
-if (count == 1) {obj_shares.text(count_site + " Share"); }
-else {obj_shares.text(count_site + " Shares"); }
-});
-
-$.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url=" + url, function(json,$obj) {
-var count_tw = json.count;
-count = count + count_tw; count_site = count;
-if (count>1000)
-{
-count_site=(Math.floor(count/100)/10).toFixed(1)+'k';
-count_site=count_site.replace('.0','');
-}
-if (count == 1) {obj_shares.text(count_site + " Share"); }
-else {obj_shares.text(count_site + " Shares"); }
-});
-
-}
-
-});
+            });
 
             //window._gaq && window._gaq.push(["_trackPageview", d]);
             window.gapi && window.gapi.plusone && window.gapi.plusone.go && window.gapi.plusone.go();
@@ -3750,37 +4244,37 @@ else {obj_shares.text(count_site + " Shares"); }
     }
 
     function k() {
-	if (!menu_open) {
-        var a = Math.max(f.height(), l.height(), document.documentElement.clientHeight),
-            b = f.scrollTop() + f.height();
-        threshold > a - b && h()
-		}
+        if (!menu_open) {
+            var a = Math.max(f.height(), l.height(), document.documentElement.clientHeight),
+                b = f.scrollTop() + f.height();
+            threshold > a - b && h()
+        }
     }
     var d = "",
         b = null,
         i = "div.blog-posts",
-		main = "div#main-wrap2",
+        main = "div#main-wrap2",
         g = !1,
         f = a(window),
         l = a(document),
-		threshold = 1000,
-		count = 0,
-		j = /<ad>[^<]*(?:(?!<\/ad>)<[^<]*)*<\/ad>/gi,
-		current = document.URL;
-		if ( document.location.href.indexOf('m=1') > -1 ) {
+        threshold = 1000,
+        count = 0,
+        j = /<ad>[^<]*(?:(?!<\/ad>)<[^<]*)*<\/ad>/gi,
+        current = document.URL;
+    if (document.location.href.indexOf('m=1') > -1) {
         threshold = 700;
-		}
+    }
     /*a(document).ready(function () {*/
-        if ((d = a("a.blog-pager-older-link").attr("href")) && !menu_open) {
-            var c = a('<a href="javascript:;">Load more posts</a>');
-            c.click(h);
-            //var e = a('<img src="https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif" style="display: none;">');
-            f.scroll(k);
-            b = a('<div style="text-align: center; font-size: 150%;"></div>');
-            /* b.append(c); */
-            //b.append(e);
-            //b.insertBefore(a("#blog-pager"));
-        }
+    if ((d = a("a.blog-pager-older-link").attr("href")) && !menu_open) {
+        var c = a('<a href="javascript:;">Load more posts</a>');
+        c.click(h);
+        //var e = a('<img src="https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif" style="display: none;">');
+        f.scroll(k);
+        b = a('<div style="text-align: center; font-size: 150%;"></div>');
+        /* b.append(c); */
+        //b.append(e);
+        //b.insertBefore(a("#blog-pager"));
+    }
     /*})*/
 })(jQuery);
 
@@ -3791,6 +4285,22 @@ if ($width<738)
 {
 $("#comparison").css({"width":$width+"px","height":$width/738*$curHeight+"px"});
 }
+}
+
+delta = 350;
+var lastScrollTop = 0;
+if ($("#tabs").length > 0 & document.URL.indexOf("html") > 0) {
+$(window).scroll(function(event) {
+    var st = $(this).scrollTop();
+    if (st > lastScrollTop && st > delta) {
+        // downscroll code
+        $("body").addClass("tabs-hidden");
+    } else {
+        // upscroll code
+        $("body").removeClass("tabs-hidden");
+    }
+    lastScrollTop = st;
+});
 }
 
 if($("#comparison").length != 0) {
@@ -3872,6 +4382,7 @@ if (count == 1) {obj_shares.text(count_site + " Share"); }
 else {obj_shares.text(count_site + " Shares"); }
 });
 
+/*
 $.getJSON("http://urls.api.twitter.com/1/urls/count.json?callback=?&url=" + url, function(json,$obj) {
 var count_tw = json.count;
 count = count + count_tw; count_site = count;
@@ -3883,6 +4394,7 @@ count_site=count_site.replace('.0','');
 if (count == 1) {obj_shares.text(count_site + " Share"); }
 else {obj_shares.text(count_site + " Shares"); }
 });
+*/
 });
 
 $(".show-more").click(function(){
@@ -3917,7 +4429,8 @@ $('.load-delay').each(function () {
 	
 //load feed
 var script2 = document.createElement('script');
-script2.src = "http://ajax.googleapis.com/ajax/services/feed/load?q=http%3A%2F%2Fwww.footyheadlines.com%2Ffeeds%2Fposts%2Fdefault&num=5&output=json&v=1.0&callback=showrecentposts";
+//script2.src = "http://ajax.googleapis.com/ajax/services/feed/load?q=http%3A%2F%2Fwww.footyheadlines.com%2Ffeeds%2Fposts%2Fdefault&num=5&output=json&v=1.0&callback=showrecentposts";
+script2.src="http://www.footyheadlines.com/feeds/posts/default?max-results=5&alt=json&callback=showrecentposts";
 document.body.appendChild(script2);
 
 if(document.URL.indexOf("html") < 0){
@@ -3935,7 +4448,7 @@ function inView(elem)
 }
 
 $el = $(".headerbar-2-container");
-if( $el.length ) {
+if( $el.length & $("#item-post") ) {
 $(document).scroll(function() {
 if (inView($("#item-post")) && !$el.hasClass("closed")) {
 $el.addClass("closed");
@@ -3951,8 +4464,8 @@ var disqusloaded = false;
 
 if(document.URL.indexOf(".html") >= 0){
 var el = document.getElementById("button-disqus");
-if (el != null) {
-el.onclick=function(){
+
+function LoadDisqus() {
 el.remove();
                         var bloggerjs = document.createElement('script');
                         bloggerjs.type = 'text/javascript';
@@ -3960,6 +4473,16 @@ el.remove();
                         bloggerjs.src = 'http://'+disqus_shortname+'.disqus.com/blogger_item.js';
                         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
 						disqusloaded = true;
+}
+
+if (document.URL.indexOf("comment") >= 0) {
+LoadDisqus();
+}
+
+if (el != null) {
+el.onclick=function(){
+LoadDisqus();
+
 }
 }
 }
@@ -3984,7 +4507,7 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 
 /* slideshow */
 function ChangeSlideText(wrapper) {
-	$currentSlide = wrapper.find(".slide.active > img");
+	$currentSlide = wrapper.find(".slide.active img");
 	$descriptionWrapper = wrapper.find(".description");
 	if ($currentSlide.attr("alt") != null){
 		$descriptionWrapper.css("display", "block");
@@ -3996,44 +4519,81 @@ function ChangeSlideText(wrapper) {
 	}
 }
 
-$(".slideshow").each(function(index){
-	$(this).find("li").first().addClass("active");
-});
-
-$(".slideshow-wrapper").each(function(index) {
-	ChangeSlideText($(this));
-});
-
-$(".slideshow-arrow").click(function() {
-	$slideshowWrapper = $(this).parent().parent();
-	$currentSlide = $slideshowWrapper.find(".slide.active");
-	$arrowRight = $slideshowWrapper.find(".slideshow-arrow.right");
-	$arrowLeft = $slideshowWrapper.find(".slideshow-arrow.left");
+function ChangeSlide(type, wrapper) {
+	$currentSlide = wrapper.find(".slide.active");
+	$arrowRight = wrapper.find(".slideshow-arrow.right");
+	$arrowLeft = wrapper.find(".slideshow-arrow.left");
 	
-	if ($(this).hasClass("right")) {
-		$nextSlide = $currentSlide.next("li");
-		if ($nextSlide != null) {
+	if (type == "right") {
+		$nextSlide = $currentSlide.next(".slide");
+		if ($nextSlide.length > 0) {
 			$currentSlide.css("margin-left", "-100%");
 			$currentSlide.removeClass("active");
 			$nextSlide.addClass("active");
 			$arrowLeft.css("display", "block");
-			ChangeSlideText($slideshowWrapper);
+			ChangeSlideText(wrapper);
 		}
 		if ($nextSlide.is(":last-child"))
 			$arrowRight.css("display", "none");
-	}
-	else if ($(this).hasClass("left")) {
+		wrapper.find(".image-count").css("display","none");
+	} else if (type == "left") {
 		$previousSlide = $currentSlide.prev("li");
-		if ($previousSlide != null) {
+		if ($previousSlide.length > 0) {
 			$previousSlide.css("margin-left", "0");
 			$currentSlide.removeClass("active");
 			$previousSlide.addClass("active");
 			$arrowRight.css("display", "block");
-			ChangeSlideText($slideshowWrapper);
+			ChangeSlideText(wrapper);
 		}
 		if ($previousSlide.is(":first-child"))
 			$arrowLeft.css("display", "none");
 	}
+}
+
+$(".slideshow-arrow").click(function() {
+	$slideshowWrapper = $(this).parent().parent();
+	
+	if ($(this).hasClass("right")) {
+		ChangeSlide("right", $slideshowWrapper);
+	}
+	else if ($(this).hasClass("left")) {
+		ChangeSlide("left", $slideshowWrapper);
+	}
+});
+
+$(".slideshow-wrapper").on("touchstart", touchmove);
+$(".slideshow-wrapper").on("touchend", touchend);
+var touchStart = 0;
+
+function touchmove(e) {
+	touchStart = e.originalEvent.touches[0].pageX;
+}
+
+function touchend(e) {
+	var touchEnd = e.originalEvent.changedTouches[0].pageX;
+	
+	var difference = touchEnd - touchStart;
+	
+	if (difference > 5) {
+		ChangeSlide("left", $(e.currentTarget));
+	} else if (difference < -5) {
+		ChangeSlide("right", $(e.currentTarget));
+	}
+}
+
+$(".slideshow").each(function(index){
+	$(this).find("li").first().addClass("active");
+	
+	/* Add image count indicator */
+	$image_count = $(this).find("li").length;
+	
+	$(this).parent().find(".slideshow-controls").append("<div class=\"image-count\">+" + ($image_count-1) + "</div>");
+	
+	//console.log($(this).find(".slideshow-controls"));
+});
+
+$(".slideshow-wrapper").each(function(index) {
+	ChangeSlideText($(this));
 });
 
 script.onload = script.onreadystatechange = null;
@@ -4110,26 +4670,43 @@ document.body.className = document.body.className + " opera-mini";
 
 //]]>
 </script>
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience.","dismiss":"Got it!","learnMore":"More info","link":"http://www.footyheadlines.com/p/privace-policy.html","theme":false};
+</script>
+<script type="text/javascript">
+//<![CDATA[
+!function(){if(!window.hasCookieConsent){window.hasCookieConsent=!0;var e="cookieconsent_options",t="update_cookieconsent_options",n="cookieconsent_dismissed",i="//s3.amazonaws.com/cc.silktide.com/";if(!(document.cookie.indexOf(n)>-1)){"function"!=typeof String.prototype.trim&&(String.prototype.trim=function(){return this.replace(/^\s+|\s+$/g,"")});var o,s={isArray:function(e){var t=Object.prototype.toString.call(e);return"[object Array]"==t},isObject:function(e){return"[object Object]"==Object.prototype.toString.call(e)},each:function(e,t,n,i){if(s.isObject(e)&&!i)for(var o in e)e.hasOwnProperty(o)&&t.call(n,e[o],o,e);else for(var r=0,c=e.length;c>r;r++)t.call(n,e[r],r,e)},merge:function(e,t){e&&s.each(t,function(t,n){s.isObject(t)&&s.isObject(e[n])?s.merge(e[n],t):e[n]=t})},bind:function(e,t){return function(){return e.apply(t,arguments)}},queryObject:function(e,t){var n,i=0,o=e;for(t=t.split(".");(n=t[i++])&&o.hasOwnProperty(n)&&(o=o[n]);)if(i===t.length)return o;return null},setCookie:function(e,t,n,i,o){n=n||365;var s=new Date;s.setDate(s.getDate()+n);var r=[e+"="+t,"expires="+s.toUTCString(),"path="+o||"/"];i&&r.push("domain="+i),document.cookie=r.join(";")},addEventListener:function(e,t,n){e.addEventListener?e.addEventListener(t,n):e.attachEvent("on"+t,n)}},r=function(){var e="data-cc-event",t="data-cc-if",n=function(e,t,i){return s.isArray(t)?s.each(t,function(t){n(e,t,i)}):void(e.addEventListener?e.addEventListener(t,i):e.attachEvent("on"+t,i))},i=function(e,t){return e.replace(/\{\{(.*?)\}\}/g,function(e,n){for(var i,o=n.split("||");token=o.shift();){if(token=token.trim(),'"'===token[0])return token.slice(1,token.length-1);if(i=s.queryObject(t,token))return i}return""})},o=function(e){var t=document.createElement("div");return t.innerHTML=e,t.children[0]},r=function(e,t,n){var i=e.parentNode.querySelectorAll("["+t+"]");s.each(i,function(e){var i=e.getAttribute(t);n(e,i)},window,!0)},c=function(t,i){r(t,e,function(e,t){var o=t.split(":"),r=s.queryObject(i,o[1]);n(e,o[0],s.bind(r,i))})},a=function(e,n){r(e,t,function(e,t){var i=s.queryObject(n,t);i||e.parentNode.removeChild(e)})};return{build:function(e,t){s.isArray(e)&&(e=e.join("")),e=i(e,t);var n=o(e);return c(n,t),a(n,t),n}}}(),c={options:{message:"This website uses cookies to ensure you get the best experience on our website. ",dismiss:"Got it!",learnMore:"More info",link:null,container:null,theme:"light-floating",domain:null,path:"/",expiryDays:365,markup:['<div class="cc_banner-wrapper {{containerClasses}}">','<div class="cc_banner cc_container cc_container--open">','<a href="#null" data-cc-event="click:dismiss" class="cc_btn cc_btn_accept_all">{{options.dismiss}}</a>','<p class="cc_message">{{options.message}} <a data-cc-if="options.link" class="cc_more_info" href="{{options.link || "#null"}}">{{options.learnMore}}</a></p>',"</div>","</div>"]},init:function(){var t=window[e];t&&this.setOptions(t),this.setContainer(),this.options.theme?this.loadTheme(this.render):this.render()},setOptionsOnTheFly:function(e){this.setOptions(e),this.render()},setOptions:function(e){s.merge(this.options,e)},setContainer:function(){this.container=this.options.container?document.querySelector(this.options.container):document.body,this.containerClasses="",navigator.appVersion.indexOf("MSIE 8")>-1&&(this.containerClasses+=" cc_ie8")},loadTheme:function(e){var t=this.options.theme;-1===t.indexOf(".css")&&(t=i+t+".css");var n=document.createElement("link");n.rel="stylesheet",n.type="text/css",n.href=t;var o=!1;n.onload=s.bind(function(){!o&&e&&(e.call(this),o=!0)},this),document.getElementsByTagName("head")[0].appendChild(n)},render:function(){this.element&&this.element.parentNode&&(this.element.parentNode.removeChild(this.element),delete this.element),this.element=r.build(this.options.markup,this),this.container.firstChild?this.container.insertBefore(this.element,this.container.firstChild):this.container.appendChild(this.element)},dismiss:function(e){e.preventDefault&&e.preventDefault(),e.returnValue=!1,this.setDismissedCookie(),this.container.removeChild(this.element)},setDismissedCookie:function(){s.setCookie(n,"yes",this.options.expiryDays,this.options.domain,this.options.path)}},a=!1;(o=function(){a||"complete"!=document.readyState||(c.init(),a=!0,window[t]=s.bind(c.setOptionsOnTheFly,c))})(),s.addEventListener(document,"readystatechange",o)}}}();
+//]]>
+</script>
+<!-- End Cookie Consent plugin -->
 
+
+<noscript>
+//<![CDATA[
+/*
 <!-- <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3998319842-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/278981662-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type='text/javascript'>
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '7535398437004525886';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7535398437004525886','//www.footyheadlines.com/p/privace-policy.html','7535398437004525886');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Footy Headlines', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'homepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42http://www.footyheadlines.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Footy Headlines - RSS\42 href\75\42http://www.footyheadlines.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42http://www.blogger.com/feeds/7535398437004525886/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'ca-pub-5722789279541063', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/cda3ddef07a85452', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'sitecolor': '#ff881f'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'bloggerUrl': 'https://www.blogger.com', 'title': 'Footy Headlines', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'homepageUrl': 'http://www.footyheadlines.com/', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'analyticsAccountNumber': '', 'useUniversalAnalytics': false, 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42http://www.footyheadlines.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Footy Headlines - RSS\42 href\75\42http://www.footyheadlines.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42https://www.blogger.com/feeds/7535398437004525886/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { (function(){function c(a){this.t\75{};this.tick\75function(a,c,b){var d\75void 0!\75b?b:(new Date).getTime();this.t[a]\75[d,c];if(void 0\75\75b)try{window.console.timeStamp(\42CSI/\42+a)}catch(e){}};this.tick(\42start\42,null,a)}var a;window.performance\46\46(a\75window.performance.timing);var h\75a?new c(a.responseStart):new c;window.jstiming\75{Timer:c,load:h};if(a){var b\75a.navigationStart,e\75a.responseStart;0\74b\46\46e\76\75b\46\46(window.jstiming.srt\75e-b)}if(a){var d\75window.jstiming.load;0\74b\46\46e\76\75b\46\46(d.tick(\42_wtsrt\42,void 0,b),d.tick(\42wtsrt_\42,\n\42_wtsrt\42,e),d.tick(\42tbsd_\42,\42wtsrt_\42))}try{a\75null,window.chrome\46\46window.chrome.csi\46\46(a\75Math.floor(window.chrome.csi().pageT),d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.chrome.csi().startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),null\75\75a\46\46window.gtbExternal\46\46(a\75window.gtbExternal.pageT()),null\75\75a\46\46window.external\46\46(a\75window.external.pageT,d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.external.startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),a\46\46(window.jstiming.pt\75a)}catch(k){}})();window.tickAboveFold\75function(c){var a\0750;if(c.offsetParent){do a+\75c.offsetTop;while(c\75c.offsetParent)}c\75a;750\76\75c\46\46window.jstiming.load.tick(\42aft\42)};var f\75!1;function g(){f||(f\75!0,window.jstiming.load.tick(\42firstScrollTime\42))}window.addEventListener?window.addEventListener(\42scroll\42,g,!1):window.attachEvent(\42onscroll\42,g);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/433c1c2e1ace5832', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'messages', 'data': {'archive': 'Archive', 'deleteBacklink': 'Delete Backlink', 'deleteComment': 'Delete Comment', 'emailAddress': 'Email Address', 'getEmailNotifications': 'Get email notifications', 'keepReading': 'Keep reading', 'labels': 'Labels', 'loadMorePosts': 'Load more posts', 'loading': 'Loading...', 'myBlogList': 'My Blog List', 'myFavoriteSites': 'My favorite sites', 'newer': 'Newer', 'newerPosts': 'Newer Posts', 'newest': 'Newest', 'noResultsFound': 'No results found', 'noTitle': 'No title', 'older': 'Older', 'olderPosts': 'Older Posts', 'oldest': 'Oldest', 'onlyTeamMembersCanComment': 'Note: Only a member of this blog may post a comment.', 'popularPosts': 'Popular Posts', 'popularPostsFromThisBlog': 'Popular posts from this blog', 'postAComment': 'Post a Comment', 'reportAbuse': 'Report Abuse', 'search': 'Search', 'share': 'Share', 'showAll': 'Show all', 'subscribe': 'Subscribe', 'subscribeToThisBlog': 'Subscribe to this blog', 'theresNothingHere': 'There\47s nothing here!'}}, {'name': 'skin', 'data': {'vars': {'sitecolor': '#ff881f'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML66', 'mobile-nav', null, document.getElementById('HTML66'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header2', 'header', null, document.getElementById('Header2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2693095304-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/4156661259-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1185134592-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'main', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts3', 'main', null, document.getElementById('PopularPosts3'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebartop', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebartop', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebartop', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebartop', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed3', 'sidebartop', null, document.getElementById('Feed3'), {'title': 'New Posts', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.footyheadlines.com/feeds/posts/default', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebartop', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebartop', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 </script>
-</body> --> 
+</body> -->
+*/
+//]]>
+</noscript>
 </body></html>
