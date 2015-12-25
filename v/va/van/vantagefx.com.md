@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vantagefx.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326060927id_/https%3A//www.vantagefx.com/wp-content/uploads/2014/10/Vantage_FX_Privacy_Policy1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagefx.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225095604id_/https%3A//www.vantagefx.com/wp-content/uploads/2014/10/Vantage_FX_Privacy_Policy1.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
