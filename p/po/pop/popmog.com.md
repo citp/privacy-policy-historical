@@ -1,84 +1,88 @@
-> *The following text is extracted and transformed from the popmog.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018222308id_/http%3A//en.popmog.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmog.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050816id_/http%3A//www.popmog.com/privacy-policy) for the most accurate reproduction.*
 
-# POPMOG - Your portal for free-to-play online games
+# Play Online & Mobile Games and Reviews - Popmog.com
 
-## POPMOG Data Privacy Statement
+### **POPMOG Data Privacy Statement**  
 
-* * *
+The protection of your personal data in relation to the POPMOG platform is important to GameGenetics GmbH, Ritterstr. 3, 10969 Berlin (hereinafter referred to as “GameGenetics”). This data privacy statement tells you what personal data we collect and how we process and use said data.
 
-  
-You can download the privacy in PDF format [here](https://s3-eu-west-1.amazonaws.com/gamegenetics-production/files/file_uploads/59/97/POPMOG+Data+Privacy+Statement+-+Jan+7+2014.pdf) and store them on your computer.  
+#### **1\. Object of this data privacy statement  **
 
+This data privacy statement applies to the POPMOG platform and in particular the internet pages accessible at www.popmog.com. 
 
-* * *
+Unless otherwise specified, this data privacy statement only governs the handling of your personal data by GameGenetics. In case you utilize the services of third parties (e.g. third-party game publishers), the data privacy terms and conditions of such third parties apply exclusively to such third-party services. GameGenetics does not verify the data privacy terms and conditions of third parties.  
 
-The protection of your personal data in relation to the POPMOG platform is important to GameGenetics GmbH, Ritterstraße 3, 10969 Berlin (hereinafter referred to as “GameGenetics”). This data privacy statement tells you what personal data we collect and how we process and use said data. 
+Data protection concerns personal data, defined in Sec 3 para. 1 of the German Federal Data Protection Act (“Bundesdatenschutzgesetz”; “BDSG”) as any information concerning the personal and material circumstances of an identified or identifiable individual. This includes information like name, postal address, e-mail address or telephone number, but also usage date in some cases. Usage data is data required to use our website, for instance information about beginning, end and extent of website use.
 
-### 1\. Object of this data privacy statement
+#### **2\. Data Controller  **
 
-This data privacy statement applies to certain games and community functions offered on the POPMOG platform and in particular the internet pages accessible at [www.popmog.com](http://www.popmog.com/). Both pure browser games and client-based games are included. 
+The data controller within the meaning of the German Federal Data Protection Act (BDSG) is GameGenetics GmbH, Ritterstr. 3, 10969 Berlin. 
 
-Unless otherwise specified, this data privacy statement only governs the handling of your personal data by GameGenetics. In case you utilise the services of third parties (e.g. payment providers, game publishers), the data privacy terms and conditions of such third parties apply exclusively to such third-party services. GameGenetics does not verify the data privacy terms and conditions of third parties.
+In case of questions related to the protection of data privacy, please contact info[at]gamegenetics.com. You can contact this address at any time to ask questions about the protection of data privacy and to access or request the modification or deletion of your data that is stored by GameGenetics. Alternatively, you may also contact us by regular mail using the mailing address above.   
 
-### 2\. Data Controller
+#### **3\. Data collection  **
 
-The data controller within the meaning of the German Federal Data Protection Act (BDSG) is GameGenetics GmbH, Ritterstraße 3, 10969 Berlin. 
+In general, you can access the POPMOG platform without supplying us with personal data. You are always free to decide whether to provide us with your data or not. We only collect, process and use personal data with your consent unless we are already permitted to do so by statutory rules. 
 
-In case of questions related to the protection of data privacy, please contact [info@gamegenetics.com](mailto:info@gamegenetics.com). You can contact this address at any time to ask questions about the protection of data privacy and to access or request the modification or deletion of your data that is stored by GameGenetics. Alternatively, you may also contact us by regular mail using the mailing address above. In this case, please specify your player name if possible in order to facilitate the efficient processing of your request.
+Certain data are automatically transmitted to us by your computer and stored on our server, including
 
-### 3\. Data collection
-
-In general, you can access the POPMOG platform without supplying us with personal data. You are always free to decide whether to provide us with your data or not. We only collect, process and use personal data with your consent unless we are already permitted to do so by statutory rules. To the extent your consent is provided electronically during registration on the POPMOG platform, we comply with statutory duties to provide information and record your consent. 
-
-Providing personal data is required to register on the POPMOG platform, participate in raffles or subscribe to our newsletter. Examples of these data include your name, address, e-mail address and other personal data requested by GameGenetics on a case-by-case basis. In many cases, the services of GameGenetics can be used under a pseudonym. Users are encouraged to make use of this option. 
-
-In addition, certain data such as the IP address, browser type and access times are automatically transmitted to us by your computer and stored on our server. Except for the purpose of pursuing the unauthorised use of our internet presence, we only evaluate these data for statistical purposes and to render services. In doing so, the data are rendered anonymous as far as possible. 
-
-In order to make the use of the POPMOG platform as simple and comfortable as possible for you, we use so-called cookies, just as many other companies do. As a rule, these cookies are automatically deleted from your hard drive after the end of your visit to our website. Your internet browser can be set to generally reject cookies. However, this may restrict or make the use of the POPMOG platform impossible due to technical reasons.
-
-### 4\. Use of data
-
-We use your personal data to tailor our services according to demand and continuously improve them. 
-
-GameGenetics uses your personal information to establish, carry on and administer your contractual relationship with GameGenetics and to process payments. In particular, the proper administration of the contractual relationship includes monitoring compliance with the terms of use and game rules. 
-
-When you use community functions such as forums, chats, personal message services or player profiles on the POPMOG platform, we collect, process and use the information entered by you in this process to the extent required for the use of the community functions. This means that your communication content is saved by GameGenetics and, within the framework of the POPMOG platform and depending on the type of service you are using, is either made accessible to all other players (e.g. open forums) or only certain other player (e.g. restricted forums, personal messages). 
-
-We also use your data in order to communicate with you. This includes e-mail notification about news related to our services, if applicable. Thus we use your data in order to regularly inform you of products, services and certain events related to our services that may be of interest to you. As part of the respective information, we will inform you about the option to discontinue notification. 
-
-Finally, we also use your data to prevent abuse of our website and pursue unauthorised access.
-
-### 5\. Transmission of data
-
-Of course your personal data are not sold to third parties. GameGenetics only releases the personal data received from you to third parties as follows: 
-
-We cooperate with payment providers (for example credit card companies, banks, PayPal, mobile wireless services, collection agencies etc.), providers that prepare and process statistics and IT service providers (e.g. computer centres, host providers, backup services, database services). These service providers only have access to your personal data to the extent required in order to meet their obligations. The service providers are obligated to treat your personal data in accordance with this data privacy statement and the applicable data protection laws. 
-
-In particular, GameGenetics will provide your data to the developers of certain games which are accessible via thhe POPMOG login. You decide which developers those are by choosing the games you play. The precise contact information, especially the address and website of the respective developer, are always available on the overview page of the respective game. 
-
-In case GameGenetics, companies controlled by GameGenetics, individual subsidiaries or parts of the company are sold, your customer information is generally transferred along with the part of the company being transferred. However, your data is of course also protected by this data privacy statement and the applicable data protection laws in this case.
-
-As part of our work with Google we collect anonymous user data and provide them with the help of our Bidder (Google DoubleClick Bid Manager) to pass on to Google. To get more information visit [Google Privacy](http://www.google.com/policies/privacy/).
-
-### 6\. Deletion of data, data security
-
-Insofar as your data are no longer required for the above-mentioned purposes, including billing or for tax or other legal reasons, they will be deleted.
-
-### 7\. Data security
-
-We process the information collected from you in accordance with German data protection law. All employees are obligated to maintain data secrecy and comply with the data protection regulations, and have been instructed accordingly.
-
-## Consent to the collection, processing and use of my personal data
-
-  1. I agree that GameGenetics GmbH, Ritterstraße 3, 10969 Berlin (hereinafter referred to as “GameGenetics”) is permitted to collect, process and use my personal data (e.g. name, address and e-mail address) in order to establish, carry on and administer my contractual relationship in regards to the POPMOG platform within the framework of the POPMOG data privacy statement. 
-
-  2. I agree that GameGenetics may provide my personal data to related companies as well as the partner companies and authorised service providers identified in the POPMOG data privacy statement or attachments to the same and the respective game developers identified on the overview pages of the games played by me, provided they are either subject to this data privacy statement or assure at least equivalent protection of my personal data. Service providers authorised by GameGenetics are only permitted to process and use my personal data to fulfil their respective obligations. 
-
-  3. I agree that GameGenetics is permitted to collect, process and use my personal data for marketing measures, e.g. to send out e-mail newsletters. 
-
-  4. I also agree that, in case GameGenetics, companies related to GameGenetics, individual subsidiaries or parts of the company are sold, my personal data can be transferred to the buyer along with the part of the company being transferred. 
-
-I am aware that I can revoke this declaration of consent with effect for the future at any time in whole or in part via e-mail to [info[at]gamegenetics.com](mailto:info@gamegenetics.com) or by regular mail to GameGenetics at the address above.
+  * Browser type
+  * Country location
+  * Language
+  * Operating system
+  * Screen Resolutions
+  * Device type
+  * Access times
+  * URL of referring websites (“Referrer”)
 
 
 
+In order to make the use of the POPMOG platform as simple and comfortable as possible for you, we use so-called cookies, just as many other companies do. As a rule, these cookies are automatically deleted from your hard drive after the end of your visit to our website. Your internet browser can be set to generally reject cookies. However, this may restrict or make the use of the POPMOG platform impossible due to technical reasons.  
+
+#### **4\. Use of data  **
+
+Except for the purpose of pursuing the unauthorized use of our internet presence, we only evaluate the data set out in Section 3 for statistical purposes.
+
+#### **5\. Transmission of data  **
+
+As a general rule, your personal data will be shared with third parties without your express prior consent only in the cases described below: 
+
+  * If it serves investigations of illegal use of the platform or is required to pursue legal claims, personal data may be shared with law enforcement agencies and third party victims. Such transfer of data will be made only where there is specific evidence for illegal or abusive conduct. Data may further be shared where it serves the enforcement of terms of use or other contractual agreements. We are furthermore legally obliged to disclose certain information to certain public entities upon request. Such entities include law enforcement agencies that investigate administrative offences subject to fines, and tax authorities.
+  * From time to time, we may require the assistance of contractually hired third parties and external service providers in order to provide our services, for instance in the domains of sending advertisements (only where you have explicitly consented beforehand), customer service and processing of payments (PayPal, credit card, etc.). In these cases, we share information with such companies or individuals to enable them to carry out their tasks. Such external service providers are carefully selected and regularly checked in order to ensure your privacy. Service providers may only use the data for the purposes specified by us. Service providers are furthermore contractually obliged by us to treat data strictly in accordance with this privacy policy and German data protection law.
+  * As our business evolves, the structure of GameGenetics may change, for instance by a change in legal form or creation, acquisition or sale of subsidiaries, branches or parts of a company. In the course of such transactions, customer data will be transferred together with the relevant part of the company being transferred. In each case of a transfer of personal data to third parties to the extent described above, we will ensure that such transfer is made in accordance with this privacy policy and applicable data protection law.
+
+
+
+#### **6\. Deletion of data, data security  **
+
+Insofar as your data are no longer required for the above-mentioned purposes, including billing or for tax or other legal reasons, they will be deleted.  
+
+#### **7\. Data security**  
+
+We process the information collected from you in accordance with German data protection law. All employees are obligated to maintain data secrecy and comply with the data protection regulations, and have been instructed accordingly. 
+
+#### **8\. Newsletter**
+
+We offer a free newsletter service. In our newsletter, we inform about new games available on POGMOG, latest trends and upcoming news and may conduct surveys to point out new products or services or to provide you with other information that may be of interest to you. Furthermore, our newsletter informs you about offerings and products of our partners.
+
+In order to receive the e-mail newsletter, you may fill out the form on our website. You may opt out of the newsletter at any time. Each newsletter contains information on how to opt out of receiving newsletters with effect for the future.
+
+#### **9\. Google Analytics**
+
+We use Google Analytics, a web analytics service provided by Google Inc. („Google“). Google Analytics uses so-called Cookies. Cookies are text files that are stored on your computer and permit an analysis of your use of the website. The information about your website use generated by the Cookie (including your truncated IP address) is transmitted to a server controlled by Google in the USA and is stored there. Google uses this information to analyse your use of the website, to generate reports about website activities for website operators and to provide further services related to website and internet use. Google may also share such information with third parties to the extent it is legally required to do so and/or to the extent third parties process data on behalf of Google. 
+
+You may deactivate Google Analytics with the help of a browser add-on if you do not want this website analysis. This add-on can be downloaded from <http://tools.google.com/dlpage/gaoptout?hl=en>.
+
+#### **10\. Clear GIFs**
+
+Clear GIFs (also referred to as “Web Beacons”) are used in conjunction with Cookies to give website operators a clearer understanding of the interaction of visitors with our website. A Clear GIF is a transparent graphic file used on a website. Using a Clear GIF enables the website to measure activities of a user opening the page containing the Clear GIF. We measure visitor conduct with Clear GIFs in order to improve visitor experience and facilitate administration of content. We may use Clear GIFs on this website, in our e-mails or our adver-tisements on other websites or in third party e-mails.
+
+#### **11\. Right to access and correction**
+
+Of course you are entitled, upon request, to disclosure regarding your personal data that we are storing. You are also entitled to have any incorrect data corrected and rights to blocking or deletion. Please address any requests in such matters to popmog[at]popmog.com or write to us at the address stated above.
+
+#### **12\. Changes to privacy policy**
+
+We reserve the right to modify this privacy policy. The current version of the privacy policy is always accessible at [http://www.popmog.com/privacy-policy](https://web.archive.org/privacy-policy)
+
+_Last updated 19/05/2015_
