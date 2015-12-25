@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120343id_/http%3A//www.homeseer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225024854id_/http%3A//www.homeseer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HomeSeer Home Automation Systems
 
@@ -11,7 +11,7 @@ We may also collect personal information which our visitors divulge about other 
 
 We collect this information primarity through web forms on our site. The information is collected voluntarily. Personal information is required for all purchases of HomeSeer Technologies products and services. Other information we request is optional.
 
-HomeSeer uses Google Analytics cookies to collect and analyze visitor data. If you do not wish to allow Google Analytics to use your data, you can opt out of this process by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
+HomeSeer uses Google Analytics cookies to collect and analyze visitor data and to serve re-marketing ads on Google's display network. If you do not wish to allow Google Analytics to use your data, you can opt out of this process by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
  **Part II. Information Usage**.   
 The information collected by HomeSeer Technologies will be used primarily for our own marketing initiatives. Visitors who provide information may receive HomeSeer newsletters, promotions or new product/service announcements.  Out of respect for the privacy of our visitors we present the option to not receive these types of communications.
