@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startrekonline.com privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619094548id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startrekonline.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225011007id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="wf-loading"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,14 +13,14 @@
 <meta http-equiv="content-language" content="en">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/thirdparty.min.css?v=2fc2a5f6">
-<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.min.css?v=2fc2a5f6">
-<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.en.min.css?v=2fc2a5f6">
+<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/thirdparty.min.css?v=1c02d18">
+<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.min.css?v=1c02d18">
+<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.en.min.css?v=1c02d18">
 <!--arc client-->
 <!--arc overlay-->
-<!--[if lt IE 9]> <script src="http://images-cdn.perfectworld.com/arcportal_static/js/html5.min.js?v=2fc2a5f6"></script> <![endif]-->
+<!--[if lt IE 9]> <script src="http://images-cdn.perfectworld.com/arcportal_static/js/html5.min.js?v=1c02d18"></script> <![endif]-->
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://images-cdn.perfectworld.com/arcportal_static/js/webfont.min.js?v=2fc2a5f6" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://images-cdn.perfectworld.com/arcportal_static/js/webfont.min.js?v=1c02d18" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script>
 	var arrScripts = [];
 
 	if(!pageInfo) var pageInfo = {};
@@ -34,10 +34,8 @@
 	pageInfo['download'] = "\/download";
 	pageInfo['controller'] = "about";
 		pageInfo['redirect_after_login'] = "";
-		pageInfo['iovationUrl'] = "https:\/\/mpsnare.iesnare.com\/snare.js";
-	pageInfo['JSON2'] = "http:\/\/images-cdn.perfectworld.com\/arcportal_static\/easyXDM\/json2.js?v=2fc2a5f6";
-
-	var gameInfo = {};
+		pageInfo['JSON2'] = "http:\/\/images-cdn.perfectworld.com\/arcportal_static\/easyXDM\/json2.js?v=1c02d18";
+		var gameInfo = {};
 	
   	var myInfo = {};
 		
@@ -53,6 +51,7 @@
 	messages.errors.missingPassword = "Please enter your password.";
 	messages.errors.missingBirth = "Please choose a Date of Birth.";
 	messages.errors.matchPassword = "The password you have entered does not match the one entered above. Copy and pasting what you entered above will result in an error.";
+	messages.errors.generic = "There was a problem processing your request. Please check the fields and try again. ";
 
 	messages.requirements = {};
 	messages.requirements.email = "Please enter your previously unregistered address here. You will also use this address to log in.";
@@ -62,7 +61,7 @@
     var billingCartUrl = "https:\/\/billing.arcgames.com\/en";
     var recaptchaSiteKey = "6Lc7EQATAAAAAHVqJRWd6jG2iw51yGKG6GoZnJpu";
 </script>
-<script src="http://images-cdn.perfectworld.com/arcportal_static/dist/js/script.min.js?v=2fc2a5f6"></script>
+<script src="http://images-cdn.perfectworld.com/arcportal_static/dist/js/script.min.js?v=1c02d18"></script>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadRecaptchaCallback&amp;render=explicit&amp;hl=en" async="" defer=""></script>
  
 </head>
@@ -211,6 +210,11 @@ FBLogin.init();
 				<span>Install Arc </span>
 			</a>
 			<ul>
+                <li class="shopping-cart" id="js_shopping_cart_icon" style="display: none;"><a href="https://billing.arcgames.com/en/cart/view?cc=US"><span><b></b></span></a></li>
+				 
+				<li class="email js_unreadMessageNumBlock" style="display: none">
+					<a href=""><span><b class="js_unreadMessageNum">0</b></span></a>
+				</li>
 				<li class="welcome dropdown">
 					<div id="fb-load-container"><div id="fb-load-info"></div></div>
 					<span id="js_user_login" class="user-login " data-toggle="">
@@ -223,46 +227,7 @@ FBLogin.init();
 					</span> 
 
 					<div class="user-infos dropdown-menu" id="user-info-dropdown">
-																					<!-- before login -->
-								<div class="user-before-login">
-	 
-		<div class="user-facebook-group">
-			<p>Login with Facebook</p>
-			<a class="btn-fb-login js_fb_login"><span>Login</span></a>
-			<div class="clearfix">
-				<span class="bar-45-left"></span>
-				<span class="text-10">Or</span>
-				<span class="bar-45-right"></span>
-			</div> 
-		</div>
-	 
-		<form class="form-horizontal form-sign-in-header" method="post" autocomplete="on" action="https://www.arcgames.com/en/sign/in">
-		<div class="user-input">
-			<div class="js_sign_in_error_header"></div> 
-			<div class="control-group">
-				<input name="syetskzGBYACPn" type="text" placeholder="User Name / Email" class="text display-header-sign-in" autocomplete="username">
-			</div>
-			<div class="control-group">
-				<input name="sLXIPEGQAkshjn" type="password" placeholder="Password" class="text password-header-sign-in" autocomplete="current-password">
-			</div>
-			<div class="control-group login_captcha_group" style="display:none;">
-				<div id="js_recaptcha_login_widget"></div>
-			</div>
-			<div class="clearfix">
-				<label class="checkbox pull-left"> <input type="checkbox" name="sRHuuTZhkfovqn">Stay signed in</label>
-				<button type="submit" class="btn-common pull-right js_sign_in_header" data-url="https://www.arcgames.com/en/sign/in">Sign in</button>
-			</div>
-		</div>
-		<div class="user-help">
-			<p><a href="https://www.arcgames.com/en/sign/trouble">Trouble signing in?</a></p>
-		</div>
-		<div class="user-help">
-			<p>No, I'm new here!</p>
-			<p><a class="js_show_register" href="https://www.arcgames.com/en/sign/up">Register Now</a></p>
-		</div>
-	</form>
-</div>
-<div style="display:none;"> 
+													<div style="display:none;"> 
 	<div id="js_verifyCredentials"> 
 		<section class="web-defender-wrap">
 	<div class="web-defender">
@@ -270,7 +235,7 @@ FBLogin.init();
         <div class="defender-line"></div>
         <div class="defender-content">
         	<div class="arc-defender">
-                <img src="http://images-cdn.perfectworld.com/arcportal_static/images/web-defender/arc-defender.png?v=2fc2a5f6">
+                <img src="http://images-cdn.perfectworld.com/arcportal_static/images/web-defender/arc-defender.png?v=1c02d18">
                 <h3>Arc Defender</h3>
             </div>
             <p class="overview">Looks like you are logging in with a new computer or browser. For your security, please verify your account prior to logging in. We have emailed you a pin to verify you are the owner of this account.</p>
@@ -298,7 +263,7 @@ FBLogin.init();
         <div class="defender-line"></div>
         <div class="defender-content">
         	<div class="arc-defender">
-                <img src="http://images-cdn.perfectworld.com/arcportal_static/images/web-defender/arc-defender.png?v=2fc2a5f6">
+                <img src="http://images-cdn.perfectworld.com/arcportal_static/images/web-defender/arc-defender.png?v=1c02d18">
                 <h3>Arc Defender</h3>
             </div>
             <p class="overview">Great! We have verified that you have appropriate access to this account.</p>
@@ -310,234 +275,9 @@ FBLogin.init();
 </section>
 	</div> 
 </div>
- 
-								<!-- Registration Form-->
-								<script>
-	var isSplash = false;
-</script>
- 
-
-<div class="user-register" style="display: none;">
-	 
-	 
-		<div class="user-facebook-group">
-		<p>Login with Facebook</p>
-		<a class="btn-fb-login js_fb_login"><span>Login</span></a>
-		<div class="clearfix">
-			<span class="bar-45-left"></span>
-			<span class="text-10">Or</span>
-			<span class="bar-45-right"></span>
-		</div> 
-	</div> 
-				<form class="form-horizontal header-register-form" method="post" autocomplete="on" action="https://www.arcgames.com/en/sign/up">
-					<input class="bb" type="hidden" name="sISSCYPxppzp">
-			 
-			<div class="user-input">
-				<div class="js_sign_up_error_header"></div> 
-				<div class="control-group">
-					<input name="sghsakkEEHFEEGssugNTgqnwnzdvlVDVKp" type="text" placeholder="Email Address" class="text email-header" data-url="https://www.arcgames.com/en/validate/email" autocomplete="email">
-				</div>
-				<div class="control-group">
-					<input name="saeGURHscp" type="text" placeholder="Display Name" class="text display-header" data-url="https://www.arcgames.com/en/validate/nickname" autocomplete="username">
-				</div>
-				<div class="control-group">
-					<input name="sPOxhiqgap" type="password" placeholder="Password" class="text password-header" maxlength="14" autocomplete="current-password">
-				</div>
-							<div class="control-group">
-					<input name="spfbgiuSALHYOp" type="password" placeholder="Confirm Password" class="text confirm-header" maxlength="14" autocomplete="current-password">
-				</div>
-				<div class="control-group dates">
-					<p>Date of Birth</p>
-					<div class="controls">
-						<div class="birth-header clearfix">
-														<select name="solDJKDQQXAJSuwp" class="birth-month-register">
-								<option value="invalid">MM</option>
-																	<option value="1">01</option>
-																	<option value="2">02</option>
-																	<option value="3">03</option>
-																	<option value="4">04</option>
-																	<option value="5">05</option>
-																	<option value="6">06</option>
-																	<option value="7">07</option>
-																	<option value="8">08</option>
-																	<option value="9">09</option>
-																	<option value="10">10</option>
-																	<option value="11">11</option>
-																	<option value="12">12</option>
-								 
-							</select>
-														<select name="sEONYCNMFLYpmp" class="birth-day-register">
-								<option value="invalid">DD</option>
-																	<option value="1">01</option>
-																	<option value="2">02</option>
-																	<option value="3">03</option>
-																	<option value="4">04</option>
-																	<option value="5">05</option>
-																	<option value="6">06</option>
-																	<option value="7">07</option>
-																	<option value="8">08</option>
-																	<option value="9">09</option>
-																	<option value="10">10</option>
-																	<option value="11">11</option>
-																	<option value="12">12</option>
-																	<option value="13">13</option>
-																	<option value="14">14</option>
-																	<option value="15">15</option>
-																	<option value="16">16</option>
-																	<option value="17">17</option>
-																	<option value="18">18</option>
-																	<option value="19">19</option>
-																	<option value="20">20</option>
-																	<option value="21">21</option>
-																	<option value="22">22</option>
-																	<option value="23">23</option>
-																	<option value="24">24</option>
-																	<option value="25">25</option>
-																	<option value="26">26</option>
-																	<option value="27">27</option>
-																	<option value="28">28</option>
-																	<option value="29">29</option>
-																	<option value="30">30</option>
-																	<option value="31">31</option>
-								 
-							</select>
-														<select class="year birth-year-register" name="svmGhdQRwkURuqBRndp">
-								<option value="invalid">YYYY</option>
-																	<option value="2002">2002</option>
-																	<option value="2001">2001</option>
-																	<option value="2000">2000</option>
-																	<option value="1999">1999</option>
-																	<option value="1998">1998</option>
-																	<option value="1997">1997</option>
-																	<option value="1996">1996</option>
-																	<option value="1995">1995</option>
-																	<option value="1994">1994</option>
-																	<option value="1993">1993</option>
-																	<option value="1992">1992</option>
-																	<option value="1991">1991</option>
-																	<option value="1990">1990</option>
-																	<option value="1989">1989</option>
-																	<option value="1988">1988</option>
-																	<option value="1987">1987</option>
-																	<option value="1986">1986</option>
-																	<option value="1985">1985</option>
-																	<option value="1984">1984</option>
-																	<option value="1983">1983</option>
-																	<option value="1982">1982</option>
-																	<option value="1981">1981</option>
-																	<option value="1980">1980</option>
-																	<option value="1979">1979</option>
-																	<option value="1978">1978</option>
-																	<option value="1977">1977</option>
-																	<option value="1976">1976</option>
-																	<option value="1975">1975</option>
-																	<option value="1974">1974</option>
-																	<option value="1973">1973</option>
-																	<option value="1972">1972</option>
-																	<option value="1971">1971</option>
-																	<option value="1970">1970</option>
-																	<option value="1969">1969</option>
-																	<option value="1968">1968</option>
-																	<option value="1967">1967</option>
-																	<option value="1966">1966</option>
-																	<option value="1965">1965</option>
-																	<option value="1964">1964</option>
-																	<option value="1963">1963</option>
-																	<option value="1962">1962</option>
-																	<option value="1961">1961</option>
-																	<option value="1960">1960</option>
-																	<option value="1959">1959</option>
-																	<option value="1958">1958</option>
-																	<option value="1957">1957</option>
-																	<option value="1956">1956</option>
-																	<option value="1955">1955</option>
-																	<option value="1954">1954</option>
-																	<option value="1953">1953</option>
-																	<option value="1952">1952</option>
-																	<option value="1951">1951</option>
-																	<option value="1950">1950</option>
-																	<option value="1949">1949</option>
-																	<option value="1948">1948</option>
-																	<option value="1947">1947</option>
-																	<option value="1946">1946</option>
-																	<option value="1945">1945</option>
-																	<option value="1944">1944</option>
-																	<option value="1943">1943</option>
-																	<option value="1942">1942</option>
-																	<option value="1941">1941</option>
-																	<option value="1940">1940</option>
-																	<option value="1939">1939</option>
-																	<option value="1938">1938</option>
-																	<option value="1937">1937</option>
-																	<option value="1936">1936</option>
-																	<option value="1935">1935</option>
-																	<option value="1934">1934</option>
-																	<option value="1933">1933</option>
-																	<option value="1932">1932</option>
-																	<option value="1931">1931</option>
-																	<option value="1930">1930</option>
-																	<option value="1929">1929</option>
-																	<option value="1928">1928</option>
-																	<option value="1927">1927</option>
-																	<option value="1926">1926</option>
-																	<option value="1925">1925</option>
-																	<option value="1924">1924</option>
-																	<option value="1923">1923</option>
-																	<option value="1922">1922</option>
-																	<option value="1921">1921</option>
-																	<option value="1920">1920</option>
-																	<option value="1919">1919</option>
-																	<option value="1918">1918</option>
-																	<option value="1917">1917</option>
-																	<option value="1916">1916</option>
-																	<option value="1915">1915</option>
-																	<option value="1914">1914</option>
-																	<option value="1913">1913</option>
-																	<option value="1912">1912</option>
-																	<option value="1911">1911</option>
-																	<option value="1910">1910</option>
-																	<option value="1909">1909</option>
-																	<option value="1908">1908</option>
-																	<option value="1907">1907</option>
-																	<option value="1906">1906</option>
-																	<option value="1905">1905</option>
-																	<option value="1904">1904</option>
-																	<option value="1903">1903</option>
-																	<option value="1902">1902</option>
-																	<option value="1901">1901</option>
-																	<option value="1900">1900</option>
-								 
-							</select>
-						</div>
-					</div>
-				</div>
-								<div class="control-group register_captcha_group" style="display:none;">
-					<div id="js_recaptcha_register_widget" class="recaptcha-register-widget"></div>
-				</div>
-				<div class="clearfix">
-									<label class="checkbox"> <input type="checkbox" class="terms-header" name="saiXVYXawLDAProSPQSihepp">
-						I agree to the <a href="http://www.arcgames.com/en/about/terms">Terms of Service</a>					</label>
-					<label class="checkbox"> <input type="checkbox" name="stgbzrfouvtacSEp"> Opt out of our mailing list</label>
-								</div>
-					<a class="btn-register btn-black-new js_register controller-about" href="#" data-url="https://www.arcgames.com/en/sign/up">Register</a>
-			</div>
-			<div class="user-help">
-				<p>Already have an Arc account?</p>
-				<p><a class="js_show_login" href="#">Sign In Now</a></p>
-			</div>
-		 
-	</form>
-	<div class="register-footer"></div> 
-</div>
-<script>
-   if(isSplash || $('.js_register').hasClass('controller-steam')){
-	  $('.recaptcha-register-widget:eq(0)').attr('id', 'js_recaptcha_register_widget_splash');
-   }
-</script>
- 
-																		</div>
+											</div>
 				</li>
-																<li class="languages dropdown"><div class="current-language" data-toggle="dropdown">
+				<li class="languages dropdown"><div class="current-language" data-toggle="dropdown">
 	<a href="#" class="ico-language ico-en">
 		<span>English</span>
 		<i>down</i>
@@ -823,7 +563,7 @@ WebFontConfig = {
 
 (function() {
 	var wf = document.createElement('script');
-	wf.src = 'http://images-cdn.perfectworld.com/arcportal_static/js/webfont.min.js?v=2fc2a5f6';
+	wf.src = 'http://images-cdn.perfectworld.com/arcportal_static/js/webfont.min.js?v=1c02d18';
 	wf.type = 'text/javascript';
 	wf.async = 'true';
 	var s = document.getElementsByTagName('script')[0];
@@ -864,21 +604,20 @@ if(!Modernizr.mq('only all') && !$.cookie("pushDownBrowserMessage_status")){
 Modernizr.load([
 	{
 		test: window.matchMedia,
-		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/media.match.min.js?v=2fc2a5f6'
+		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/media.match.min.js?v=1c02d18'
 	},
 	{
 		test: Modernizr.input.placeholder,
-		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/jquery.placeholder.min.js?v=2fc2a5f6',
+		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/jquery.placeholder.min.js?v=1c02d18',
 		callback: function(){
 			$('input[type="text"]').placeholder();
-			$('#user-info-dropdown input[type="password"]').placeholder();
 		}
 	},
 	{
-		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/colorbox/jquery.colorbox.js?v=2fc2a5f6',
+		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/colorbox/jquery.colorbox.js?v=1c02d18',
 	},
 	{
-		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/enquire.min.js?v=2fc2a5f6',
+		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/enquire.min.js?v=1c02d18',
 		complete: function () {
       		var topMenu = $('.header .dropdown-content');
       		enquire
