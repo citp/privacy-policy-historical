@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greycampus.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505235915id_/http%3A//www.greycampus.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greycampus.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225031726id_/http%3A//www.greycampus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GreyCampus
+# GreyCampus - Privacy policy
 
-## Privacy Policy
+#### Privacy Policy 
 
 We respect your right to privacy and hate spam as much as you do.
 
@@ -46,7 +46,7 @@ You can electronically copy or take print of the website pages, if it is being u
 
 Personal Information Policy
 
-You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [support@greycampus.com](mailto:support@greycampus.com)
+You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [sales@greycampus.com](mailto:sales@greycampus.com "sales@greycampus.com")
 
 Image and Video Capture
 
@@ -54,11 +54,11 @@ Any images captured during events organized and hosted by GreyCampus should not 
 
 Sharing your personal information
 
-If you have purchased a GreyCampus course, we may ask you for testimonial and if you authorize us, we will display your testimonial on our website, photos and videos or in our social media channels such as Facebook, YouTube or Flickr. You should be aware that your publicly identifiable information could be used to send you promotional, unsolicited messages. We are not responsible for your personal information which you have chosen to display. If you don’t want us to feature your pictures/testimonials on our website or on our social media channels, you can write a mail to [support@greycampus.com](mailto:support@greycampus.com)
+If you have purchased a GreyCampus course, we may ask you for testimonial and if you authorize us, we will display your testimonial on our website, photos and videos or in our social media channels such as Facebook, YouTube or Flickr. You should be aware that your publicly identifiable information could be used to send you promotional, unsolicited messages. We are not responsible for your personal information which you have chosen to display. If you don’t want us to feature your pictures/testimonials on our website or on our social media channels, you can write a mail to [sales@greycampus.com](mailto:sales@greycampus.com "sales@greycampus.com")
 
 Personal Information Corrections
 
-You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [support@greycampus.com](mailto:support@greycampus.com)
+You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [sales@greycampus.com](mailto:sales@greycampus.com "sales@greycampus.com")
 
 Changes to Privacy Policy
 
@@ -66,8 +66,8 @@ This privacy policy terms may change time to time and we reserve the right to ch
 
 Deleting Personal Information
 
-If you would like to delete your account, write to [support@greycampus.com](mailto:support@greycampus.com)
+If you would like to delete your account, write to [sales@greycampus.com](mailto:sales@greycampus.com "sales@greycampus.com")
 
 Privacy Policy Questions?
 
-If you have any questions regarding GreyCampus Privacy Policy, Please write to [support@greycampus.com](mailto:support@greycampus.com)
+If you have any questions regarding GreyCampus Privacy Policy, Please write to [sales@greycampus.com](mailto:sales@greycampus.com "sales@greycampus.com")
