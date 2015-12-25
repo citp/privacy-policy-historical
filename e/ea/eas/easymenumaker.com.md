@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easymenumaker.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414080125id_/http%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easymenumaker.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225171032id_/http%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Privacy Policy
 
@@ -74,4 +74,4 @@ Blumentals Software may periodically update this policy. When we do, we will pos
 
 ## Questions
 
-If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20150414080125id_/http%3A//www.blumentals.net/contact.php).
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20151225171032id_/http%3A//www.blumentals.net/contact.php).
