@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504054316id_/http%3A//www.vitaminshoppe.com/u/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225173508id_/http%3A//www.vitaminshoppe.com/u/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy & Security Policy at the Vitamin Shoppe
+
+Menu 
 
 [Home](https://web.archive.org/) | [ Help ](https://web.archive.org/u/help.jsp) | Privacy & Security Policy
 
