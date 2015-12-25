@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627112834id_/http%3A//www.citysearch.com/aboutcitysearch/users/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051856id_/http%3A//www.citysearch.com/aboutcitysearch/users/privacy_policy) for the most accurate reproduction.*
 
 # About Citysearch: Privacy Policy
 
