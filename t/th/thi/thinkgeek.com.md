@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420203153id_/http%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225024050id_/http%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy & Security | ThinkGeek
+
+As of July 17, 2015, Geeknet joined the Gamestop family of brands. Learn more [here](http://investor.gamestop.com/phoenix.zhtml?c=130125&p=irol-irhome).
 
 ### Privacy Policy
 
 We at Geeknet, Inc. (“Geeknet,” “we,” “our,” “us,” the “Company”), including our two wholly-owned subsidiaries of ThinkGeek, Inc. (“ThinkGeek”) and ThinkGeek Solutions, Inc., are committed to respecting your privacy and the security of your personal information.
 
-By visiting or using the ThinkGeek.com, Geek.net or any other site that is owned or operated by us (each, a "Site," and collectively, the "Sites") or any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing, you hereby acknowledge and consent to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/help/terms-of-use.shtml), of which this Privacy Policy is a part. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
+By visiting or using the ThinkGeek.com or any other site that is owned or operated by us (each, a “Site,” and collectively, the “Sites”) or any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing, you hereby acknowledge and consent to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/help/terms-of-use.shtml), of which this Privacy Policy is a part. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
 
 As you use our Sites, we want you to be clear on how we care about how your personal information is used and shared, as well as the ways in which you can protect your privacy. Our Privacy Policy explains:
 
@@ -25,29 +27,35 @@ Our Privacy Policy may change from time to time. We will post any changes on the
 
   1. #### Information we collect
 
+We collect information in two ways:
+
     1. ##### Information you provide us.
 
       * When you create an account; place an order or make a return; inquire about our services; request emails from us about our offerings; provide us with marketing preferences; receive a gift from someone else who purchases through our Sites; follow us or submit information, including photographs, via third-party social media platforms (e.g., Facebook, Twitter, Google+, etc.); enter a contest or participate in a marketing survey; and submit other information to us directly or through third-party services, you are asked to provide personally identifiable information that uniquely identifies you.
 
-      * We collect the following types of personally identifiable information: your contact information (such as name, postal or email address, or phone number), name and email address of gift certificate recipients, username and password, payment information such as PayPal or credit card details, shipping information (including the shipping address and phone number), purchase history at our Sites, shopping preferences (such as an interest in a particular fandom or product category), demographic information, information you provide by interacting with us through social media, and photographs that you submit on our Sites
+      * We collect the following types of personally identifiable information: your contact information (such as name, postal or email address, or phone number), name and email address of gift certificate recipients, username and password, payment information such as PayPal or credit card details, shipping information (including the shipping address and phone number), purchase history at our Sites, shopping preferences (such as an interest in a particular fandom or product category), demographic information, information you provide by interacting with us through social media, and photographs that you submit on our Sites or through our social media channels. Also, by submitting a photograph, you waive any rights thereto and authorize us to copyright, use and publish the same in print or electronically for any lawful purpose. All photographs submitted to our Sites become the property of Geeknet.
 
       * Note that any personal information that you post voluntarily now or in the future through the Sites or on an area of a social network monitored by us (e.g., our Facebook page) may be visible to others and collected by third-parties.
 
     2. ##### Information we automatically collect.
 
+      * We and our affiliates, analytics or service providers, and select businesses with whom we have marketing relationships, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis.
+
       * **Analytics.** When you visit one of our Sites, we automatically collect the following types of information, some of which is anonymous: information about the devices you use to access the Internet (such as the IP address and the device, browser, and operating system type), URLs that refer you to our Sites and the dates and times of your visits, information on your shopping behavior on our Sites (e.g., page views, paths you take through our Sites, etc.), general geographic location information (e.g., country or city) that shows where you are when browsing our Sites, search terms that you enter to reach our Sites or enter on our Sites to find products, and the fact that you opened one of our emails. We utilize analytics services to help us track the efficacy of our Sites and help us learn more about our visitors’ shopping behavior.
 
       * **Social Media Features.** Our Sites include social media features, such as the Facebook “Like” button and widgets, the “share this” widget, or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy statement of the company providing it.
 
-      * **Cookies.** We automatically collect aggregate anonymous information through cookies. Cookies are small text files stored by your Web browser on your computer, phone, tablet, or other device used to browse our Sites. Cookies allow us to identify and authenticate visitors, track aggregate behavior, and enable important site features. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. The persistent cookie maintains your login information so that your cart and login remain available when you return to the site. Session cookies are used to maintain your shopping state as you browse through the site. YouTube uses cookies to help maintain the integrity of video statistics, prevent fraud and to improve the site experience, among other things. We also contract with analytics services and third-party advertising companies to collect similar information for specific purposes. The use of cookies by our partners is not covered by this Policy. Though you may disable cookies through your web browser, doing so may prevent you from taking advantage of some of the Sites’ features. To opt out of these collection services, please see section **“Your Choices”** below.
+      * **Cookies.** We automatically collect aggregate anonymous information through cookies. Cookies are small text files stored by your Web browser on your computer, phone, tablet, or other device used to browse our Sites. Cookies allow us to identify and authenticate visitors, track aggregate behavior, and enable important site features. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. The persistent cookie maintains your login information so that your cart and login remain available when you return to the site. Session cookies are used to maintain your shopping state as you browse through the site. YouTube uses cookies to help maintain the integrity of video statistics, prevent fraud and to improve the site experience, among other things. We also contract with analytics services and third-party advertising companies to collect similar information for specific purposes. The use of cookies by our partners is not covered by this Policy. 
 
-We sometimes embed videos from YouTube channels using YouTube’s share/embed code feature. YouTube uses Flash cookies, which store pieces of data on users’ computers related to playing Adobe Flash video. Various browsers may offer their own management tools for removing HTML5 LSOs. [Follow this link](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) to manage Flash cookies.
+      * **Flash Cookies/LSO’s.** Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 Local Stored Objects (also known as LSO’s), to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+      * Though you may disable cookies through your web browser, doing so may prevent you from taking advantage of some of the Sites’ features. To opt out of these collection services, please see section **“Your Choices”** below. The use of cookies by our partners is not covered by this Policy. To opt out of the services related to these cookies, please see section **“Your Choices”** below.
 
       * **Web Beacons/Tags.** We automatically collect aggregate anonymous information through web beacons. We may also deliver a file to you through the Sites (known as a “web beacon”) from an advertising network with which we have contracted. Web beacons allow advertising networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers.
 
       * **Log Files.** As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this for troubleshooting and maintenance purposes.
 
-      * **Targeted Advertising.** Third-party advertising companies serve ads on our behalf across the Internet. They may collect anonymous information about you through cookies and/or web beacons on our Sites and other sites, and then display targeted ads on various sites that you visit. To opt out of third-party advertising or analytics, please see section “Your Choices” below.
+      * **Targeted Advertising.** Third-party advertising companies serve ads on our behalf across the Internet. They may collect anonymous information about you through cookies and/or web beacons on our Sites and other sites, and then display targeted ads on various sites that you visit. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads, or, to opt out of third-party advertising or analytics, please see section **“Your Choices”** below.
 
   2. #### How we use information
 
@@ -103,9 +111,9 @@ We want to provide you with the best shopping experience on our Sites and in all
 
   3. #### How we share information
 
-We do not rent or sell personally identifiable information to others. We may share information we collect with our business partners, advertising companies, and other third parties for the purposes described in this Policy. We occasionally make our mailing list (names and physical address only) and general shopping activity available to reputable third parties who follow the Direct Marketing Association’s privacy standards for the purpose of sending their own direct mail to you. We do not share email addresses with third parties for the purpose of sending their own emails to you. To opt-out see **“Your Choices”** below.
+We do not rent or sell personally identifiable information to others. We may share information we collect with our business partners, advertising companies, and other third parties for the purposes described in this Policy. We occasionally make our mailing list (names and physical address only) and general shopping activity available to reputable third parties who follow the Direct Marketing Association’s privacy standards for the purpose of sending their own direct mail to you. We do not share email addresses with third parties for the purpose of sending their own emails to you. If you do not want us to share your personal information with these companies, then you can either contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com) or opt-out. To opt-out, please see **“Your Choices”** below.
 
-We contract with other companies to provide certain services, such as email distribution; shipping; name and address verification; market research; third-party advertising; and payment processing. These service providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+We contract with other companies to provide certain services, such as email distribution; shipping; name and address verification; market research; third-party advertising; and payment processing. These service providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. 
 
 In the event of a sale of some or all of our business or assets, or a merger with another business, or bankruptcy, we would share the pertinent customer information (which may include your personal information) with the other business entity (or entities) involved in the transaction by notifying you via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -119,7 +127,7 @@ In the event we become aware that the security of the Sites has been compromised
 
     * This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Sites. Links to third-party web sites are provided solely as a convenience to you. Once you leave our Sites, we neither control nor have responsibility for third-party sites, their content, or their privacy practices.
 
-    * Our Sites are not intended for use by anyone under the age of 13. If you are under 13, please do not attempt to create an account or send any information about yourself to us, including your name, address, telephone number or email address. No one under the age of 13 may provide any personal information to us, and we do not knowingly collect personal information from anyone under the age of 13. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
+    * Our Sites are not intended for use by anyone under the age of 13. If you are under 13, please do not attempt to create an account or send any information about yourself to us, including your name, address, telephone number or email address. No one under the age of 13 may provide any personal information to us, and we do not knowingly collect personal information from anyone under the age of 13. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com).
 
   5. #### Information Security
 
@@ -129,11 +137,13 @@ We work hard to protect us and our users from unauthorized access to or unauthor
 
     * We use encryption when using the Internet to transfer or receive requested sensitive personally identifiable information;
 
-    * When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at legal@thinkgeek.com
+    * When you enter sensitive information (such as a credit card number) on our order forms, we use 128-bit encryption to transmit that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [legal@ThinkGeek.com](mailto:%20legal@thinkgeek.com)
+
+    * Credit card numbers are NOT stored in our database. We keep on file only the last 4 digits to verify the card that was used. Once the information is transmitted to our servers for processing, we use encryption in the back end to transmit the request to our payment processor to verify the credit card and place an authorization for the order total.
 
     * We restrict access to personally identifiable information to our employees, contractors and agents on a need-to-know basis and who are bound by confidentiality agreements; and
 
-    * We have been awarded TRUSTe’s Privacy Seal signifying that this policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program](http://www.truste.com/privacy-program-requirements/) requirements including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through the Sites; and
+    * The TRUSTe certification applies to the following properties: [www.ThinkGeek.com](https://web.archive.org/web/20151225024050id_/http%3A//www.thinkgeek.com/help/www.thinkgeek.com). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>; and
 
     * We comply with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. [Follow this link](http://www.export.gov/safeharbor/) to learn more about the Safe Harbor program and to view our certification.
 
@@ -145,32 +155,47 @@ We will retain and use your information as necessary to comply with our legal ob
 
 We offer you choices about the information we collect, how we use and disclose this information, and how we communicate with you.
 
-    * **Email/Direct Mail.** You may opt out of receiving marketing emails from us at any time by sending an email to [custserv@ThinkGeek.com](mailto:custserv@ThinkGeek.com) or by clicking on the unsubscribe link in our emails. You will continue to receive service-related emails (e.g. order status). To opt out of Direct Mail, please send your request to [custserv@ThinkGeek.com](mailto:custserv@ThinkGeek.com) and include your postal address in the body of the email.
+    * **Email/Direct Mail.** You may opt out of receiving marketing emails from us at any time by sending an email to [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com) or by clicking on the unsubscribe link in our emails. You will continue to receive service-related emails (e.g. order status). To opt out of Direct Mail, please send your request to [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com) and include your postal address in the body of the email.
 
-    * **Targeted Advertising.** If you do not want anonymous information about your activity on our Sites to be used for tailored advertising, please visit the [opt-out](http://www.networkadvertising.org/choices/) page hosted by the Network Advertising Initiative and follow the instructions there.
+    * **Targeted Advertising.** If you do not want anonymous information about your activity on our Sites to be used for tailored advertising, please visit the [opt-out](http://www.networkadvertising.org/choices/) hosted by the Network Advertising Initiative and follow the instructions there.
 
     * **Cookies.** You may disable cookies in your Web browser, but doing so will impact the usability of the Sites. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.thinkgeek.com/adinfo/choice/prod/?type=fpc&cid=2859&cname=ThinkGeek&cmagic=a226e4&clogo=thinkgeek_logo.jpg).
 
     * **Analytics.** You may opt-out of Google Analytics by [following this link](https://tools.google.com/dlpage/gaoptout). You may opt-out of Adobe analytics by [following this link](http://www.adobe.com/privacy/analytics.html#optout).
 
-    * **Updating Your Profile.** You may update or correct your personally identifiable information related to your account directly on the site or by contacting Customer Support at [custserv@ThinkGeek.com](mailto:custserv@ThinkGeek.com). We will respond to any email request within 30 days.
+    * **Updating Your Profile.** You may update or correct your personally identifiable information related to your account directly on the site or by contacting Customer Support at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com). If you wish to request deletion of your personal information, then please contact us at custserv@ThinkGeek.com. We will respond requests within a reasonable timeframe. We retain and use your information as necessary to comply with our legal obligations, contractual statute of limitations, resolution of disputes, and enforcement of our agreements. Please note that we may not be able to delete data upon request depending on the reasons above and the nature of your interactions (e.g., we retain data to notify customers of product recalls).`
 
     * **Contests.** From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice about whether or not to disclose this information. We may use a third party service provider to conduct these surveys or contests; in those cases, that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+    * **Gift Certificate Recipients.** Your gift certificate recipient may contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com) to request an update, correction or deletion of their personally information. Again, for various reasons stated above, we may not be able to delete information upon request. 
 
   7. #### Frames
 
 Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to one of our Sites.
 
-  8. #### Questions or concerns
+  8. #### Blogs/Forums
+
+Our website offers publicly accessible blogs/forums that accept user generated comments. An example is https://www.ThinkGeek.com/blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+  9. #### Testimonials
+
+We may display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com).
+
+  10. #### Questions or concerns
+
+**Geeknet, Inc.**  
+11216 Waples Mill Rd., Suite 103  
+Fairfax, VA 22030  
+508-970-2002 
 
 If you have any questions or concerns regarding our Privacy Policy, please send us a detailed message to [legal@ThinkGeek.com](mailto:legal@thinkgeek.com). We will make every effort to resolve your concerns.
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](http://www.feedback-form-truste.com/watchdog/request), or by fax at 415-520-3420, or [postal mail](http://www.truste.com/about-TRUSTe/contact-us) to TRUSTe Safe Harbor Compliance Dept. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](http://www.feedback-form-truste.com/watchdog/request), or by fax at 415-520-3420, or [postal mail](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 
 
 
-_Last Modified: February 6, 2015_
+_Last Modified: November 3, 2015_
 
 ### Security
 
@@ -183,15 +208,22 @@ Credit card information for web orders is protected in the following ways:
 
 
 
-## Need to Bug Us About Something Urgent?
+## Need to Talk with Us about Something Urgent?
 
 Our helpful Live Support Monkeys are here to help through live online chat. 
 
-Chat With Someone Now 
+Live Chat Unavailable 
 
-## Bug Us the Old Fashioned Ways
+## Communicate with Us the Old-Fashioned Ways
 
-24 hours a day, 365 days a year. 
+9am to 9pm EST, Every Day* 
+
+  * ***Holiday Closings:**
+  * 11/26: Thanksgiving
+  * 12/25: Christmas Day
+  * 1/1: New Years Day
+
+
 
   * ##### 1-888-GEEKSTUFF
 
@@ -204,7 +236,7 @@ Chat With Someone Now
 
 11216 Waples Mill Rd. Suite 100  
 Fairfax, VA 22030  
-703-293-6299
+508-970-2002
 
 [Need a map?](http://tinyurl.com/tgmegaplex)  
 Sorry locals, we don't have a walk-in store. Just our offices. If you need to come by for an interview, please call first. Thanks! 
