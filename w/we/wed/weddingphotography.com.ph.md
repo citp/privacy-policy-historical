@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingphotography.com.ph privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609025513id_/http%3A//weddingphotography.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingphotography.com.ph privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225131706id_/http%3A//weddingphotography.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wedding Photography Design
 
