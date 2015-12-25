@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521044107id_/http%3A//www.soft4boost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225023738id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
 
 # Soft4Boost - system utilities, audio, video, image and burning software.
 
