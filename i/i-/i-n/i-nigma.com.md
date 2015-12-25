@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-nigma.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202857id_/http%3A//i-nigma.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-nigma.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094654id_/http%3A//www.i-nigma.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
