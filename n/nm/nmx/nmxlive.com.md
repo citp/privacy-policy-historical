@@ -1,52 +1,70 @@
-> *The following text is extracted and transformed from the nmxlive.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625191913id_/http%3A//nmxlive.com/2014-lv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmxlive.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050902id_/http%3A//sucuri.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NMX 2014 - Las Vegas
+# Sucuri | Website Security | Tour
 
-**Changes to the Privacy Policy** ****
+Last Updated:
 
-We reserve the right to modify this Privacy Policy at any time without prior notice. In the event that we update or modify this Privacy Policy, we will strive to post such updates or modifications on this Website for a period of thirty days following any such modifications, and the last date this Privacy Policy was updated will be indicated as the latest Effective Date at the top of this Privacy Policy.  Therefore, you are advised to review this Privacy Policy occasionally, or at least every thirty days. Your continued use of this Website shall constitute your acceptance of the modified Privacy Policy.
+## December 27, 2010
 
-**How we use the information we collect and who we share it with** ****
+## What information do we collect?
 
-NMX has a policy of not disclosing the personal information of our Website visitors to third parties for direct marketing purposes in cases where our Website users have exercised their option to prevent that information from being disclosed to third parties for such purposes. When we do provide mailing lists to third parties, we enter into agreements with such parties requiring them to comply with all applicable laws, prohibiting further distribution or disclosure of the lists to other parties, and limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes. If you do not want your personal information used by us or shared with affiliates or third parties for promotional or marketing purposes, you may opt out of having this information shared or used for such purposes by some or all parties. In such case, please refer to the section below entitled Opting Out.
+We collect information from you when you register on our site or place an order. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-NMX also reserves the right to compile, save, use within the scope of our activities, and analyze any and all data (contact and personal data, use history, etc.) that we collect from you through the Website. We use the personal information that you provide to us for our internal purposes such as responding to your requests for information, contacting you, conducting internal analyses, and processing and completing orders and event registrations. We also use your personal information to communicate with you, such as, for example, to provide you with newsletters, press releases, membership information, or information relating to programs or grassroots activities that may be of interest to you.
+## What do we use your information for?
 
-We may share the personal information you provide to us with other companies we have hired to provide services for us. These companies \- our vendors \- are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
+Any of the information we collect from you may be used in one of the following ways:
 
-We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Website.
+  * To personalize your experience(your information helps us to better respond to your individual needs)
 
-We may also collect general, non-personal, statistical information about the use of the Website, such as how many visitors visit a specific page on the Website, how long they stay on that page and which hyperlinks, if any, they “click” on. We collect this information through the use of “web beacons” or other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Website are most popular and to enhance the Website for visitors. As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data will in no way personally identify you or any other visitors to the Website.
+  * To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Information we collect** ****
+  * To process transactions
 
-In general, you can visit our Website without telling us who you are or revealing any personal information about yourself. However, you should be aware that sections of this Website (including restricted portions of this Website) allow for the submission of personal information (referred to for convenience as “Registration Pages”) including your  **[name, address, email address, phone number, facsimile number, credit card or account information, and information about your interests in and use of various products, programs, and services]**. We only collect your personal information if you voluntarily submit the information to us for such purposes as event registrations, contest submissions, or requests for information, products, or services. Through certain technologies employed by this Website we also collect non-personally identifiable information about you. For more details about this type of data collection, please refer to the section below on cookies.
 
-To protect your security and privacy, we require that you enter the personal information that we collect and that the information be current, although NMX disclaims any legal duty to verify the accuracy of any personal data that you provide to NMX. You are free to access the personal information we have on file by contacting our Customer Service department by email info@blogworldexpo.com.  In addition, at any time you can request that we modify or delete your personal information by sending an email to us with the words “UPDATE MY INFORMATION” in the subject. Please be aware that, to protect your security and privacy, NMX will take reasonable steps to verify your identity prior to making changes to your personal information.
 
-**Links to other sites** ****
 
-For your convenience, this Website may from time to time include links to third-party sites whose information practices may be different than ours. Visitors should consult the other sites’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**Opting out** ****
+  * To send periodic emails
 
-When you submit personal information to us through the Registration Pages on this Website, you will be given an opportunity to opt out at the time of submitting your personal information to us. Unless you opt out, you may be added to our list of users who will receive promotional and marketing communications from us and our partners and other third parties.  
-If you initially elect not to opt out and later decide that you would like to opt out, you may follow the opt-out procedures outlined above.  Please keep in mind that although NMX strives to update our mailing list database as frequently as possible, it may take up to ten days to process e-mail requests and four to six weeks to process postal mail requests, during which time your information might be communicated to another party in connection with a mailing list. Additionally, you should be aware that any mailing lists that have been provided to third parties prior to your election to opt out cannot be retrieved by NMX, and you cannot retroactively opt out with respect to such third parties.  As noted above, however, when we do provide mailing lists to third parties, we enter into agreements with such parties limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes.
 
-**Please Read Carefully Prior To Using This Website** ****
 
-The BlogWorld, LLC (“NMX”) is committed to protecting the privacy and security of your personal information. We want  to share with you how we treat personal information about you that we receive in connection with this Website.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Also, please bear in mind that use of this Website is governed by the Terms of Useposted on the Website. As noted in those Terms of Use, although we operate internationally, NMX is a LLC organized under the laws of the State of California, in which NMX has its headquarters.  The servers that host this Website are located in the United States, and any personal details you provide us will be processed by NMX in the United States. NMX expressly excludes any representation or warranty, express or implied, with respect to the information available on this Website. NMX makes no representation about any third-party websites that may be accessed via links from this Website.  By using this Website, you agree that the laws of the State of California, without regard to its conflict of laws principles, will govern all matters between you and NMX with respect to your use of this Website.
+## How do we protect your information?
 
-**Security of information and disclosures** ****
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-NMX uses reasonable security measures to safeguard information concerning, and submitted by, users like you. Despite the security measures employed by NMX, you should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet.
+## Do we use cookies?
 
-NMX will, to the extent possible, control your personal information, and, except as otherwise set forth in this Privacy Policy, we will not disclose your personal information to third parties. Although we are committed to maintaining the confidentiality of your personal information, if required by law, we reserve the right to disclose such information without first obtaining your consent.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**Use of cookies and web beacons** ****
+We use cookies to help us remember and process the items in your shopping cart.
 
-A “cookie” is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and the type of computer and operating system being used. We may also use cookies to identify your computer when you revisit our Website, to recall your authentication information, or to track statistical information related to navigation throughout the Website. We may collect such information in order to better operate the Website so as to enhance your experience while using the Website, and to share with advertisers to provide you with a more personalized visit to the Website. Usage of a cookie is in no way linked to any personal information while on our Website.
+## Do we disclose any information to outside parties?
 
-Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by this Website; however, depending on the particular cookie you reject, you may not be able to use some of the features of this Website.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Settings’ page. If a user needs assistance to modify their information, they can email Sucuri support at support@sucuri.net.
+
+## Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+## Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://sucuri.net/terms>
+
+## Your Consent
+
+By using our site, you consent to our privacy policy
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us at [info@sucuri.net](mailto:support@sucuri.net)
