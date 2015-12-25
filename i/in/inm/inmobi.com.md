@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622135013id_/http%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190344id_/http%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
 
-# Mobile Advertising | Monetization | Analytics | InMobi
+# InMobi | Mobile Discovery Commerce | Monetization | Advertising
 
 ## Privacy Policy
 
-### LAST UPDATED: 20 JUNE 2013
+### LAST UPDATED: 13 AUGUST 2015
 
-InMobi is committed to respecting and protecting individuals' privacy rights. This Privacy Policy explains how InMobi Pte Ltd, its subsidiaries and affiliated companies (collectively, "InMobi" or "we", "us", "our") use end users (“you” or “your”) your personal and device-related information when (i) you view ads served by InMobi on third party websites or mobile apps (see the section below called "InMobi Ad Network"), and (ii) you visit the InMobi website at [www.inmobi.com](http://www.inmobi.com/) (see section below called "InMobi Website").
+InMobi is committed to respecting and protecting individuals' privacy rights. This Privacy Policy explains how InMobi Pte Ltd, its subsidiaries and affiliated companies (collectively, "InMobi" or "we", "us", "our") use end users (“you” or “your”) your personal and device-related information when (i) you view ads served by InMobi on third party websites or mobile apps (see the section below called "InMobi Ad Network"), and (ii) you visit the InMobi website at [www.inmobi.com](http://www.inmobi.com/) (see section below called "InMobi Website").
 
-InMobi has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Web Privacy](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and [TRUSTed Data](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) program requirements including transparency, accountability and choice regarding the collection and use of Consumer information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@inmobi.com](mailto:privacy@inmobi.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+InMobi has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Web Privacy](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and [TRUSTed Data](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) program requirements including transparency, accountability and choice regarding the collection and use of Consumer information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@inmobi.com](mailto:privacy@inmobi.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 The TRUSTe programs cover the collection and use of information on www.inmobi.com and by InMobi’s technology on third party mobile applications and websites.
 
@@ -24,11 +24,13 @@ When you view an InMobi ad on a site or app which uses our services, we may coll
 
 Specifically, we may collect:
 
-(a) Information about your device
+(a) Information about your device
 
 We may collect some or all of the following information about your device: device type (e.g. smartphone, tablet, etc.), operating system (e.g. iOS, Android, Windows, Blackberry), network provider, Internet (IP) address, which mobile browser you use (e.g. Safari, Internet Explorer etc.), the carrier user ID (a number uniquely allocated to you by your network provider), platform, SDK version, timestamp, API key (identifier for application), application version, iOS Identifier for Advertising, iOS Identifier for Vendors, Media Access Control (MAC) address, International Mobile Equipment Identity (IMEI), Model, manufacture and OS version of device, session start/stop time, locale (specific location where a given language is spoken), time zone, and network status such as WiFi, the geo-location of your device (using GPS or other geo-location data) and the unique device identifier of your mobile device (a number uniquely allocated to your device by your device manufacturer).
 
-(b) Information about the ad you have viewed
+We can collect the geo-location of your device only when an app in which the InMobi SDK is integrated is operating in a device’s foreground and the app publisher has obtained certain permissions from app users. One way InMobi derives a device’s location is by collecting the device’s latitude and longitude coordinates through GPS. Another way is by inferring geo-location from WiFi data based on data collected by InMobi associated a WiFi access point with GPS coordinates.
+
+(b) Information about the ad you have viewed
 
 We also collect some or all of the following information about the ad you have viewed: (i) the content type of the ad (what the ad is about, e.g. games, finance, entertainment, news); (ii) the ad type (e.g. whether the ad is a text, image, or video based ad); (iii) where the ad is being served (e.g. the address of the website on which the ad appears); and (iv) certain information about post-click activity in relation to the ad (e.g. whether you proceed to purchase the product or service advertised).
 
@@ -36,7 +38,7 @@ On occasion, our partnering mobile publishers or app developers may also disclos
 
 There is certain data that although not personally identifiable we consider sensitive, such as viewing of sites with sexual content or information indicating a users’ specific medical condition. We do not use these types of sensitive data from one site for tailoring ads at other sites across our network.
 
-(c) InMobi Audience Platform
+(c) InMobi Audience Platform
 
 The InMobi Audience Platform also provides information to publishers and developers about how you use and engage with their app as well as how sites or apps are performing across different handsets, including but not limited to tracking conversions across multiple advertising networks.
 
@@ -80,13 +82,13 @@ We retain information collected on third-party applications and web sites for a 
 
 As described above, the information we collect does not enable us to work out your identity in real life. We use this information only to serve you with interest-based advertisements based on your inferred interests, preferences and location.
 
-If you prefer not to receive this, you can opt out of InMobi using your information for interest-based advertising purposes at any time by going to the InMobi [Opt Out](http://www.inmobi.com/terms/privacy-policy/opt-out/) page.
+If you prefer not to receive this, you can opt out of InMobi using your information for interest-based advertising purposes at any time by going to the InMobi [Opt Out](http://www.inmobi.com/terms/privacy-policy/opt-out/) page.
 
 Please note that if you opt out of InMobi using your information for interest-based advertising you may still receive "generic" ads from us that are not based on your inferred interests.
 
 #### INFORMATION COLLECTED ON BEHALF OF THIRD PARTIES
 
-InMobi may offer advertising solutions to clients that include the collection of voluntary information from you as part of an advertisement, e.g. serving an ad that contains an advertiser questionnaire. All of the information that you voluntarily provide in response to the advertisement shall be collected by InMobi and forwarded directly to the relevant client and will be governed by that client's privacy policies in place from time to time.
+InMobi may offer advertising solutions to clients that include the collection of voluntary information from you as part of an advertisement, e.g. serving an ad that contains an advertiser questionnaire. Such information may consist of PII, non-PII, or both. All of the information that you voluntarily provide in response to the advertisement shall be collected by InMobi and forwarded directly to the relevant client and will be governed by that client's privacy policies in place from time to time. For more information see [www.inmobi.com/leadgen](http://www.inmobi.com/leadgen)
 
 ### INMOBI WEBSITE
 
@@ -111,7 +113,7 @@ In addition to the personal information described above, we also collect certain
 
 
 
-We may use cookies to help us collect and store this information, as described in more detail below in the section headed "Does InMobi use cookies?" and our [cookie policy](http://www.inmobi.com/terms/cookie-policy/).
+We may use cookies to help us collect and store this information, as described in more detail below in the section headed "Does InMobi use cookies?" and our [cookie policy](http://www.inmobi.com/terms/cookie-policy/).
 
 #### HOW DO WE USE THE INFO WE COLLECT?
 
@@ -149,7 +151,7 @@ We retain information for only as long as is necessary to fulfil the purposes ou
 
 We use cookies and web beacons to help us collect some of the information we describe above, to provide website functionality and advertising to you, and to save you having to provide information you have already given us on subsequent visits to our site.
 
-For more detailed information about the technologies we use and your rights to control those cookies, please visit our[cookie policy](http://www.inmobi.com/terms/cookie-policy/).
+For more detailed information about the technologies we use and your rights to control those cookies, please visit our [cookie policy](http://www.inmobi.com/terms/cookie-policy/).
 
 #### WHAT ABOUT CHILDREN?
 
@@ -175,4 +177,4 @@ If you would like to exercise any of these rights, you may be able to make the u
 
 For the purpose of applicable EU data protection laws, the “data controller” in respect of your personal information is InMobi, the UK branch of InMobi Pte Ltd. Address: Head of Privacy, InMobi, 265 Strand, London, WC2R 1BH.
 
-If you have any questions about this Privacy Policy, please contact us at: [privacy@inmobi.com](mailto:privacy@inmobi.com).
+If you have any questions about this Privacy Policy, please contact us at: [privacy@inmobi.com](mailto:privacy@inmobi.com).
