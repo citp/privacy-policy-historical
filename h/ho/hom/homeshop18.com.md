@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeshop18.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224536id_/http%3A//www.homeshop18.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeshop18.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225030834id_/http%3A//www.homeshop18.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HomeShop18 : Privacy Policy
 
