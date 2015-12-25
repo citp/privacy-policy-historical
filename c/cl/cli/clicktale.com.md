@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktale.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624005933id_/http%3A//www.clicktale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktale.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226000823id_/http%3A//www.clicktale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Web Analytics by ClickTale
 
@@ -26,7 +26,9 @@ iv. If you have an account with ClickTale, your preferences and use of email upd
 
 v. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code. All transactions are handled through one of our 2 accredited payment bureaus:
 
-vi.  **Third Party Partners** **:** We may partner with and use various third party services (“ **Third Party Partners** ”) in order to analyze and improve our own services and serve you advertisements across the Internet based on your prior visits to our Service (e.g. remarketing, including through Google). In connection with the services provided by such Third Party Partners, we or the Third Party Partner may use first-party cookies and/or third-party cookies.  We do not pass any personally identifiable information to such Third Party Partners without your prior consent.  Along with cookies, the Third Party Partner may use other technologies (such as web beacons, JavaScript) to compile anonymous information about your mouse movements, browser’s or device’s visits and usage patterns.  
+vi.  **Third Party Partners** **:**  We may partner with and use various third party software and services (“ **Third Party Partners** ”) in order to analyze and improve our services and serve you advertisements (including remarketing ads across the Internet by Google or other Third Party Partners). In connection with the services provided by such Third Party Partners, we or the Third Party Partner may use first-party cookies and/or third-party cookies.  We do not pass any personally identifiable information to such Third Party Partners without your prior consent.  Along with cookies, the Third Party Partner may use other technologies (such as web beacons, JavaScript) to compile anonymous information about your mouse movements, browser’s or device’s visits and usage patterns, and to provide measurement services and target ads.
+
+Certain advertisers (including Google) may be members of NAI and/or the Digital Advertising Alliance. You may opt out from such advertiser’s services [here](http://www.networkadvertising.org/choices/) (<http://www.networkadvertising.org/choices/>) or at the following link: [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 vii. We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. If this information was not made public by the customers themselves, we obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
 
