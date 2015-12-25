@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameark.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601014656id_/http%3A//www.gameark.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameark.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094420id_/http%3A//www.gameark.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - GameArk.com
 
