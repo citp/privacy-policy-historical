@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628164402id_/http%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052034id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
-# Apple - Privacy - Our Privacy Policy
+# Privacy - Our Privacy Policy - Apple
 
 Your privacy is important to Apple and always has been. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/legal/privacy/en-ww/contact/) if you have any questions.
 
-[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) | [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
+[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
 
 ##### Collection and Use of Personal Information
 
@@ -56,7 +56,7 @@ Apple and our partners also use cookies and other technologies to remember perso
 
 If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
 
-As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
+As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
 
 We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, to improve our product and services, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
 
@@ -84,7 +84,7 @@ Apple takes the security of your personal information very seriously. Apple onli
 
 When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
 
-If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third party device thereby disclosing any such shared information. [See [About Family Sharing](https://web.archive.org/ios/whats-new/family-sharing/) for more information.]
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third party device thereby disclosing any such shared information. [See [About Family Sharing](https://web.archive.org/icloud/family-sharing/) for more information.]
 
 ##### Integrity and Retention of Personal Information
 
@@ -98,11 +98,11 @@ You can help ensure that your contact information and preferences are accurate, 
 
 We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Accordingly, we do not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
 
-Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided consent through the Apple ID for Students Program or as part of the child account creation process in Family Sharing. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes/), before they can begin the Apple ID account creation process for their child. Learn more about [Family Sharing](https://web.archive.org/ios/whats-new/family-sharing/), the [Apple ID for Students program](http://images.apple.com/education/docs/Apple_ID_for_Students_Parent_Guide_US_0514.pdf) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
+Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided consent through the Apple ID for Students Program or as part of the child account creation process in Family Sharing. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes/), before they can begin the Apple ID account creation process for their child. Learn more about [Family Sharing](https://web.archive.org/icloud/family-sharing/), the [Apple ID for Students program](https://www.apple.com/education/docs/Apple_ID_for_Students_Parent_Guide_US_0514.pdf) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
 
 If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
 
-Or by using the contact information [here](http://www.apple.com/legal/privacy/en-ww/?#questions).
+Or by using the contact information [here](https://www.apple.com/legal/privacy/en-ww/?#questions).
 
 ##### Location-Based Services
 
