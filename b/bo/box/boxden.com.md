@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxden.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054020id_/http%3A//slumz.boxden.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxden.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190858id_/http%3A//slumz.boxden.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
 
 # Boxden.Com - The urban web's front page - FAQ: Privacy
 
