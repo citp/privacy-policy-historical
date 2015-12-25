@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wng.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023855id_/http%3A//www.worldmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wng.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225130314id_/http%3A//www.worldmag.com/privacy.php) for the most accurate reproduction.*
 
 # WORLD News Group | Real matters. | Privacy Policy
 
