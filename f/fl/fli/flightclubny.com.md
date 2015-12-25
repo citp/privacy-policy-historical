@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the flightclubny.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904184007id_/http%3A//www.flightclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightclubny.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225020503id_/http%3A//www.flightclub.com/privacy) for the most accurate reproduction.*
 
-# FLIGHT CLUB NEW YORK / privacy policy
+# Privacy Policy | Flight Club
 
 FLIGHT CLUB PRIVACY POLICY  
 Last Updated: June 4, 2012
 
-By visiting the website owned or operated by Flight Club New York Ltd. ("Flight Club," "we," "us" or "our") and located at the urls [www.flightclub.com](http://www.flightclub.com/), [www.flightclubla.com](http://wwww.flightclubla.com/), or [www.flightclubny.com](http://www.flightclubny.com/) (the "Site"), you agree to accept the practices described in this privacy policy (the "Privacy Policy"). If you do not agree to the terms of this Privacy Policy, please do not use the Site. Flight Club reserves the right to modify this Privacy Policy at any time, so each time you use the Site, you should check the date of this Privacy Policy (which appears above) and review any changes that have been made since your last visit to the Site.
+  
+By visiting the website owned or operated by Flight Club New York Ltd. ("Flight Club," "we," "us" or "our") and located at the urls www.flightclub.com, www.flightclubla.com, or www.flightclubny.com (the "Site"), you agree to accept the practices described in this privacy policy (the "Privacy Policy"). If you do not agree to the terms of this Privacy Policy, please do not use the Site. Flight Club reserves the right to modify this Privacy Policy at any time, so each time you use the Site, you should check the date of this Privacy Policy (which appears above) and review any changes that have been made since your last visit to the Site.
 
 We want to develop relationships with our customers based on respect and integrity. We are aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Policy is posted to demonstrate our commitment to protecting your privacy online.
 
@@ -13,20 +14,22 @@ We want to develop relationships with our customers based on respect and integri
 
 A. Information You Directly and Voluntarily Provide to Us: We collect the following types of personal information (collectively, "Personal Information") that you voluntarily provide through the Site.
 
-* Personal Identifiers. A "Personal Identifier" is information that can be used to identify and/or contact a natural person and includes name, postal address, telephone number, email address, credit card information and paypal account information. Personal Identifiers are collected when you create a user account, place an order through the Site, or when you communicate with any of our departments such as customer service, sales or technical services.
-* Other Personal Information. "Other Personal Information" is information combined with Personal Identifiers voluntarily provided by users of the Site that may include demographic information (for example, gender, age, marital status, occupation, income, or demographic information pertaining to the members of a user's household), purchase history or correspondence sent to us through the Site.
+Personal Identifiers. A "Personal Identifier" is information that can be used to identify and/or contact a natural person and includes name, postal address, telephone number, email address, credit card information and paypal account information. Personal Identifiers are collected when you create a user account, place an order through the Site, or when you communicate with any of our departments such as customer service, sales or technical services.  
+Other Personal Information. "Other Personal Information" is information combined with Personal Identifiers voluntarily provided by users of the Site that may include demographic information (for example, gender, age, marital status, occupation, income, or demographic information pertaining to the members of a user's household), purchase history or correspondence sent to us through the Site.
 
 B. Information That We Automatically Collect From Your Computer: We (or service providers on our behalf) may automatically collect information from you using "cookies" or "web beacons". Cookies are small amounts of data that are stored within your computer's Internet browser and that are accessed and recorded by the websites that you visit, as well as by the companies that place advertising on websites, so that they can recognize the same browser navigating online at a later time. Web beacons are web page elements that can recognize certain types of information on your computer such as cookies and the time and date of a page viewed.
 
 Information collected by cookies and web beacons may include, without limitation:
 
-* the pages you visit within the Site; 
-* the date and time of your visit to the Site; 
-* the websites you visit before or after visiting the Site; 
-* the Internet Protocol (IP) address used to connect your computer to the Internet; 
-* your computer and connection information such as your browser type and version, operating system and platform; 
-* whether you open and whether you click on any link contained in an email message that we send you; and/or 
-* your purchase history. We may use data gathered automatically from your computer to help us recognize you as a previous visitor to the Site, to serve relevant online advertising to you or to analyze trends and statistics to improve your experience of the Site. You can set your browser to reject cookies or to notify you when you are sent a cookie. You can also purchase and download software that will allow you to visit the Site without providing the information gathered by cookies. You are welcome to use the Site if you use such software, but your experience while visiting the Site may not be optimal.
+\- the pages you visit within the Site;  
+\- the date and time of your visit to the Site;  
+\- the websites you visit before or after visiting the Site;  
+\- the Internet Protocol (IP) address used to connect your computer to the Internet;  
+\- your computer and connection information such as your browser type and version, operating system and platform;  
+\- whether you open and whether you click on any link contained in an email message that we send you; and/or  
+\- your purchase history.
+
+We may use data gathered automatically from your computer to help us recognize you as a previous visitor to the Site, to serve relevant online advertising to you or to analyze trends and statistics to improve your experience of the Site. You can set -your browser to reject cookies or to notify you when you are sent a cookie. You can also purchase and download software that will allow you to visit the Site without providing the information gathered by cookies. You are welcome to use the Site if you use such software, but your experience while visiting the Site may not be optimal.
 
 2\. Registration
 
@@ -38,7 +41,7 @@ The Site may include third-party advertising, links to other websites, and other
 
 We do not have access to or control over web beacons or cookies that these third parties may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites you visit.
 
-Some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt out process, you may visit the Network Advertising Initiative website, available at <http://www.networkadvertising.org/managing/opt_out.asp>.
+Some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt out process, you may visit the Network Advertising Initiative website, available at http://www.networkadvertising.org/managing/opt_out.asp.
 
 4\. Use of Information Collected By Us. We use the information described above to process and fulfill any orders you place through the Site, including to send you emails to confirm your order status and shipment, to communicate with you and to send you information by email, postal mail, telephone, text message or other means about our products, services, contests and promotions (unless you have directed us not to contact you with promotional communications), or for other purposes as disclosed to you at the point of information collection. We may also use this information to help us develop and improve our Site, and to tailor our Site to your interests.
 
