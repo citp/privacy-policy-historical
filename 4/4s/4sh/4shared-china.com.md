@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426095657id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225035836id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
 This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by New IT Solutions Ltd. (" **we** " or " **us** ") with respect to your access and use of 4shared's online file storage and sharing service located at [www.4shared.com](http://www.4shared.com/), (the " **Service** ") and our mobile applications 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service. 
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
-
-New IT Solutions Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4shared.com](mailto:support@4shared.com) or 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site. 
 
 **What Is Personal Information?**
 
@@ -62,9 +60,9 @@ We are not responsible for the actions of Service Providers or other third-parti
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making the change on our member information page or by emailing our Customer Support at [support@4shared.com](mailto:support@4shared.com). We will respond to your request to access within 30 days. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making the change on our member information page or [contact](https://web.archive.org/web/helpCenter) our support. We will respond to your request to access within 30 days.
 
-If you wish to request the deletion of an unauthorized profile you may contact us at [support@4shared.com](mailto:support@4shared.com). 
+If you wish to request the deletion of an unauthorized profile you may [contact](https://web.archive.org/web/helpCenter) our support.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -74,7 +72,7 @@ If you choose to use our referral service to tell a friend about our Service, we
 
 **Open Blogs**
 
-We may offer publicly accessible blogs through our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@4shared.com](mailto:support@4shared.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please [contact](https://web.archive.org/web/helpCenter) us.
 
 **Links to Other Websites**
 
@@ -82,7 +80,7 @@ The Service may contain links to other websites. Any personally identifiable inf
 
 **What Steps Do We Take To Protect Your Information Online?**
 
-We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@4shared.com](mailto:support@4shared.com). 
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact](https://web.archive.org/web/helpCenter) us.
 
 **Advertising**
 
@@ -98,10 +96,8 @@ Our Service includes Social Media Features, such as the Facebook Like button and
 
 **What Choices Do You Have Regarding the Use of Your Information?**
 
-You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or emailing us at [support@4shared.com](mailto:support@4shared.com). You may also log into your account and make the appropriate selections in the “communications” tab in the “settings” menu. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations. 
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or [contact](https://web.archive.org/web/helpCenter) our support. You may also log into your account and make the appropriate selections in the "communications" tab in the "settings" menu. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
 
 **Questions?**
 
-If you have any questions about this Policy, please contact us at [support@4shared.com](mailto:support@4shared.com) or via postal mail at 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. 
-
-[ ](https://privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=b1a9e118-8fff-41a0-b6a4-5cb20219e036 "TRUSTe online privacy certification")
+If you have any questions about this Policy, please [contact us](https://web.archive.org/web/helpCenter) or via postal mail at 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. 
