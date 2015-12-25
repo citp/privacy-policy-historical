@@ -1,339 +1,442 @@
-<!--The following is the downloaded HTML source of the avantlink.com privacy policy that was archived on 2015-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615050024id_/http%3A//www.avantlink.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avantlink.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225050355id_/http%3A//www.avantlink.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcFV1FXGwYGU1dbBwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<meta name="robots" content="index, follow">
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-36269187-1']);
-_gaq.push(['_trackPageview']);
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+    <title>AvantLink - Privacy Policy</title>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AvantLink is the industry leading cost-per-sale tracking and technology platform for affiliate marketing professionals.">
+    <link rel="shortcut icon" href="//assets.avantlink.com/images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="//assets.avantlink.com/plugins/simple-line-icons/1.0/css/simple-line-icons.css">
+    <link rel="stylesheet" type="text/css" href="//assets.avantlink.com/plugins/flag-icon/0.7/css/flag-icon.min.css">
+    <link rel="stylesheet" type="text/css" href="//assets.avantlink.com/css/site.css">
+    <link rel="stylesheet" type="text/css" href="//assets.avantlink.com/css/glyphicons.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
 
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-
-<title>AvantLink |  AvantLink Privacy Policy</title>
-
-<link rel="stylesheet" href="http://www.avantlink.com/wordpress/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.5.2" type="text/css" media="all">
-
-<link rel="shortcut icon" href="/favicon.ico">
-
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/jquery.tools.min.js"></script>
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/slide.js"></script>
-
-<!-- jQuery Inline Validator Script -->
-<link type="text/css" rel="stylesheet" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/css/validationEngine.jquery.css" media="screen" charset="utf-8">
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/jquery.validationEngine-en.js"></script>
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/jquery.validationEngine.js"></script>
-
-<!-- stylesheets -->
-<link type="text/css" rel="stylesheet" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/prettyPhoto/css/prettyPhoto.css" media="screen">
-<link type="text/css" rel="stylesheet" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/style.css?1419450503" media="screen">
-<link type="text/css" rel="stylesheet" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/css/slide.css" media="screen">
-<link type="text/css" rel="stylesheet" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/css/style1.css?1411756359" media="screen">
-
-<!-- IE stylesheets -->
-<!--[if lte IE 8]>
-	<link rel="stylesheet" type="text/css" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/css/ie.css" />
-<![endif]-->
-<!--[if IE 6]>
-	<link rel="stylesheet" type="text/css" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/css/ie6.css" />
-<![endif]-->
-
-<style>
-#lang_sel_list ul { border-top: 0px none !important; }
-</style>
-<link rel="alternate" type="application/rss+xml" title="AvantLink » AvantLink Privacy Policy Comments Feed" href="http://www.avantlink.com/privacy-policy/feed/">
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/prettyPhoto/js/jquery.prettyPhoto.js?ver=3.6"></script>
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/custom.js?ver=3.6"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.avantlink.com/wordpress/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.avantlink.com/wordpress/wp-includes/wlwmanifest.xml"> 
-
-
-<!-- Debugging help, do not remove -->
-<meta name="Framework" content="Kpress">
-<meta name="Theme Version" content="1.0">
-<meta name="Framework Version" content="2.1">
-<meta name="CMS Version" content="3.6">
-
-
-
-
-<!-- Begin - HITS-IE6 PNGFix -->
-<!-- IE6 has not been detected as the users browser version by the server -->
-<!--  End  - HITS-IE6 PNGFix -->
-
-<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.avantlink.com';</script>
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
-<meta name="generator" content="WPML ver:2.5.2 stt:3,15;0">
-
-<!-- All in One SEO Pack 2.0.2 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
-<meta name="description" content="Our commitment to the privacy and protection of your information.">
-
-<!-- /all in one seo pack -->
-
-<!-- jQuery Select Box Re-Styler -->
-<link rel="stylesheet" type="text/css" href="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/css/selectbox.css">
-<script type="text/javascript" src="http://www.avantlink.com/wordpress/wp-content/themes/avantlink/js/jquery.selectbox-0.5.js"></script>
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	jQuery('#type_selectbox, #strLoginType').selectbox({debug: true});
-});
-</script>
-
-<!-- meta tags, needed for javascript -->
-<meta name="autorotate" content="1">
-<meta name="autorotateDelay" content="10">
-<meta name="autorotateSpeed" content="500">
-<meta name="temp_url" content="http://www.avantlink.com/wordpress/wp-content/themes/avantlink">
-
-
+    
 </head>
 
-<body id="top" class="page page-id-21 page-template-default">
-
-<div id="toppanel">
-	<div id="panel_wrap">
-		<table id="panel" cellspacing="0" cellpadding="0">
-		<tbody><tr class="content">
-						<td class="left"><p class="grey">Please enter your user name &amp; password to login to <a href="http://www.avantlink.com/">AvantLink</a></p></td>
-			<td class="right">
-				<form method="post" action="https://www.avantlink.com/login.php" name="AccountLogin">
-				<table>
-				<tbody><tr>
-					<td><input type="text" tabindex="5" value="Email Address" id="strEmailAddressAlt" name="strEmailAddress" class="tx" onfocus="value=''"></td>
-					<td><input type="password" tabindex="6" value="Password" id="strPasswordAlt" name="strPassword" class="tx" onfocus="value=''"></td>
-					<td style="border-right:1px solid #111"><select tabindex="7" class="tx" id="strLoginTypeAlt" name="strLoginType"><option value="-1">Select:</option><option value="affiliate">Affiliate</option><option value="merchant">Merchant</option></select></td>
-					<td><input id="blue_button" type="submit" onclick="setScreenResolution();" tabindex="8" class="sb" value="Login" name="cmdLogin"></td>
-				</tr>
-				<tr>
-					<td></td>
-					<td><a class="lost-pwd" href="http://www.avantlink.com/password-help/">lost password?</a></td>
-					<td></td>
-					<td></td>
-				</tr>
-				</tbody></table>
-				<input type="hidden" value="" id="strLoginReAlt" name="loginre">
-				<input type="hidden" value="0" id="intScreenResWidthAlt" name="intScreenResWidth">
-				<input type="hidden" value="0" id="intScreenResHeightAlt" name="intScreenResHeight">
-				</form>
-			</td>		</tr>
-		</tbody></table>
-	</div>
-</div>
-
-<div id="headwrap">
-	<div id="head">
-		<h2 class="logo ie6fix logobg"><a href="http://www.avantlink.com/">AvantLink</a></h2>
-		<div class="nav_wrapper">
-			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav"><li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/about-us/">About</a>
-<ul class="sub-menu">
-	<li id="menu-item-3347" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/about-us/jobs/">Jobs</a></li>
-	<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/about-us/our-team/">Our Team</a></li>
-	<li id="menu-item-2195" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/about-us/recognitions/">Recognitions</a></li>
-</ul>
-</li>
-<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/">Affiliates</a>
-<ul class="sub-menu">
-	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/">Affiliate Tool Center</a>
-	<ul class="sub-menu">
-		<li id="menu-item-8967" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/merchant-ads/">Merchant Ads</a></li>
-		<li id="menu-item-12143" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/paid-placement/">Paid Placement</a></li>
-		<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/datafeed-manager/">Datafeed Manager</a></li>
-		<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/dynamic-coupon-feed/">Dynamic Deal Feed</a></li>
-		<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/product-ad-widget/">Product Ad Widget</a></li>
-		<li id="menu-item-4291" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/app-market/">AvantLink App Market</a></li>
-		<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/custom-link-builder/">Custom Link Builder</a></li>
-		<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/affiliate-link-encoder/">Affiliate Link Encoder</a></li>
-		<li id="menu-item-4287" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/avantlink-wp/">AvantLink WP</a></li>
-		<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/deal-of-the-day/">Deal of the Day</a>
-		<ul class="sub-menu">
-			<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/deal-of-the-day/examples/">Examples</a></li>
-		</ul>
-</li>
-		<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/avantlink-api/">AvantLink API</a></li>
-		<li id="menu-item-8971" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/product-content-widget/">Product Content Widget</a></li>
-		<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/coupon-feed-syndication/">Deal Feed Syndication</a></li>
-		<li id="menu-item-8975" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/contextual-ad-tool/">Contextual Ad Tool</a></li>
-		<li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-tool-center/third-party-tools/">Third Party Tools</a></li>
-	</ul>
-</li>
-	<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/affiliates/affiliate-application/">Affiliate Application</a></li>
-</ul>
-</li>
-<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/merchants/">Merchants</a>
-<ul class="sub-menu">
-	<li id="menu-item-3351" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/merchants/avantmetrics/">AvantMetrics</a></li>
-	<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/merchants/conversion-tools/">Conversion Tools</a></li>
-	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/merchants/merchant-service-levels/">Merchant Service Levels</a></li>
-	<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/merchants/merchant-application/">Merchant Application</a></li>
-</ul>
-</li>
-<li id="menu-item-13919" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://avantshare.com/forums/">Forum</a></li>
-<li id="menu-item-1525" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.avantshare.com/blog/">Blog</a></li>
-<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/clients/">Clients</a></li>
-<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.avantlink.com/contact-us/">Contact</a></li>
-</ul></div>		</div>
-		<div id="headextras" class="rounded">
-			<ul>
-				<li id="toggle"><a id="open" class="client_login_button" href="#"></a><a id="close" style="display: none;" class="client_login_button" href="#"></a></li>
-				<li style="padding: 8px 20px 0 0">
-					<a href="//www.avantlink.com">
-								<img title="AvantLink.com" alt="AvantLink.com" class="currLoginFlag" src="//www.avantlink.com/images/flags/24/US.png">
-								</a><a href="//www.avantlink.ca">
-								<img title="AvantLink.ca" alt="AvantLink.ca" class="switchLoginFlag" src="//www.avantlink.com/images/flags/24/CA.png">
-								</a><a href="//classic.avantlink.com.au">
-								<img title="AvantLink.com.au" alt="AvantLink.com.au" class="switchLoginFlag" src="//www.avantlink.com/images/flags/24/AU.png">
-								</a>					</li><li style="color: #aaa; font-family: Trebuchet MS,Arial,Helvetica,sans-serif !important; padding: 11px 4px 0 0;">Network: </li>
-				
-			</ul>
-		</div>
-	</div>
-</div>
-
-<div id="contentwrap">
-
-	<div id="main_wrap">
-            <div id="title_banner_wrap">
-                <div id="title_banner">
-                    <h1 class="title_banner_h1">AvantLink Privacy Policy</h1>
-                    <div class="title_banner_description">Our commitment to the privacy and protection of your information.</div>
+<body>
+    <header class="navbar-top navbar-fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="header-logo">
+                        <a href="/">
+                            <img src="//assets.avantlink.com/images/site/logo-on-dark.png" alt="AvantLink">
+                        </a>
+                        <a href="/ten-year" class="hidden-xs hidden-sm hidden-md">
+                            <img src="//assets.avantlink.com/images/site/anniversary/anniversary_logo_part.png" alt="AvantLink">
+                        </a>
+                    </div>
+                    <div id="right-top-buttons">
+                        <a href="/search" class="search hidden-xs"><i class="fa fa-search rounded-x"></i></a>
+                        <a href="/signin" class="hidden-xs" style="padding-top: 10px;">Sign in</a>
+                        <a href="/signup" class="start hidden-xs">Get started</a>
+                        <button type="button" class="navbar-toggle hidden-sm hidden-md hidden-lg" onclick="$('#main-nav-wrapper').toggleClass('hidden-xs'); $(this).toggleClass('active'); $('header').toggleClass('open');">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="fa fa-bars fa-2x"></span>
+                        </button>
+                    </div>
+                    <div id="main-nav-wrapper" class="hidden-xs">
+                        <ul id="main-nav">
+                            <li class="hidden-sm hidden-md hidden-lg">
+                                <a href="/search">Search</a>
+                            </li>
+                            <li class="hidden-sm hidden-md hidden-lg">
+                                <a href="/signin">Sign in</a>
+                            </li>
+                            <li class="hidden-sm hidden-md hidden-lg">
+                                <a href="/signup">Get started</a>
+                            </li>
+                            <li class="">
+                                <a href="/merchants">Merchants</a>
+                            </li>
+                            <li class="">
+                                <a href="/affiliates" id="dropdown-menu">Affiliates</a>
+                            </li>
+                            <li class="">
+                                <a href="/affiliates/tools">Tools</a>
+                            </li>
+                            <li class="">
+                                <a href="/programs">Programs</a>
+                            </li>
+                            <!--<li class="">
+                                    <a href="/networks">Networks</a>
+                                </li>-->
+                            <li class="">
+                                <a href="//blog.avantlink.com">Blog</a>
+                            </li>
+                            <li class="">
+                                <a href="/about">About</a>
+                            </li>
+                            <li>
+                                <a href="http://support.avantlink.com/hc">Support</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-            <div id="main_withleftsidebar">
+        </div>
+    </header>
 
-        <div class="sidebar_left">
-            						<ul>
-							<li class="page_item page-item-21 current_page_item"><a href="http://www.avantlink.com/privacy-policy/">AvantLink Privacy Policy</a></li>
-													</ul>
-					        </div>
+    <div class="search-overlay search-overlay-data">
+        <div class="search-overlay-close"><i class="fa fa-times"></i></div>
+        <nav>
+            <ul>
+                <li>
+                    <form method="GET" action="http://avantlink.com/search" accept-charset="UTF-8">
+                    <label for="q">What are you looking for? Press enter to search.</label>
+                    <input class="form-control" name="q" type="text" id="q">
+                    </form>
+                </li>
+            </ul>
+        </nav>
+    </div>
 
-		<div id="content">
-				<div class="entry entry-no-pic">
+    <section id="privacy" class="on-light bg-pattern-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Privacy</h2>
+                    <h4 class="margin-top-10">Your privacy is important to you - and us. Here are our policies.</h4>
+                    <div class="panel-group margin-top-30" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="privacy-us-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#privacy-us" aria-expanded="false" aria-controls="privacy-us"><span class="flag-icon flag-icon-us"></span> United States</a>
+                                </h4>
+                            </div>
+                            <div id="privacy-us" class="panel-collapse collapse" role="tabpanel" aria-labelledby="privacy-us-heading">
+                                <div class="panel-body">
+                                    <p>AvantLink.com has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.</p>
+                                    <p><strong>1. Information Collected During Your Use of the AvantLink.com Service</strong></p>
+                                    <p>In order to register, users are required to give us contact  information (e.g., your name and email address), unique identifiers (e.g., your password), and demographic information  (e.g., your zip code). Certain information, such as passwords and email addresses, is collected  in order to verify your identity and for use in our records.</p>
+                                    <p><strong>2. Our Use of Your Information</strong></p>
+                                    <p>We may use customer contact information from the registration form to  send you information about product updates, alerts and other customer service communications. We  may use your IP address to help protect our partners and us from fraud.</p>
+                                    <p><strong>3. Our Disclosure of Your Information</strong></p>
+                                    <p>We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described in this Privacy Policy and without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.</p>
+                                    <p>AvantLink.com will never willfully sell, lease, or rent any of your or your business' personally identifiable information to any third party.</p>
+                                    <p><strong>4. Security</strong></p>
+                                    <p>In order to maximize the protection of your information, AvantLink.com Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, we use Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet.</p>
+                                    <p><strong>5. General</strong></p>
+                                    <p>This Privacy Policy is incorporated into and subject to the terms of the AvantLink.com Agreement.</p>
+                                    <p>If you have any questions about this privacy statement or the practices of this site, please contact us.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="privacy-ca-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#privacy-ca" aria-expanded="false" aria-controls="privacy-ca"><span class="flag-icon flag-icon-ca"></span> Canada</a>
+                                </h4>
+                            </div>
+                            <div id="privacy-ca" class="panel-collapse collapse" role="tabpanel" aria-labelledby="privacy-ca-heading">
+                                <div class="panel-body">
+                                    <p>AvantLink.com has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.</p>
+                                    <p><strong>1. Information Collected During Your Use of the AvantLink.com Service</strong></p>
+                                    <p>In order to register, users are required to give us contact  information (e.g., your name and email address), unique identifiers (e.g., your password), and demographic information  (e.g., your zip code). Certain information, such as passwords and email addresses, is collected  in order to verify your identity and for use in our records.</p>
+                                    <p><strong>2. Our Use of Your Information</strong></p>
+                                    <p>We may use customer contact information from the registration form to  send you information about product updates, alerts and other customer service communications. We  may use your IP address to help protect our partners and us from fraud.</p>
+                                    <p><strong>3. Our Disclosure of Your Information</strong></p>
+                                    <p>We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described in this Privacy Policy and without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.</p>
+                                    <p>AvantLink.com will never willfully sell, lease, or rent any of your or your business' personally identifiable information to any third party.</p>
+                                    <p><strong>4. Security</strong></p>
+                                    <p>In order to maximize the protection of your information, AvantLink.com Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, we use Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet.</p>
+                                    <p><strong>5. General</strong></p>
+                                    <p>This Privacy Policy is incorporated into and subject to the terms of the AvantLink.com Agreement.</p>
+                                    <p>If you have any questions about this privacy statement or the practices of this site, please contact us.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="privacy-au-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#privacy-au" aria-expanded="false" aria-controls="privacy-au"><span class="flag-icon flag-icon-au"></span> Australia</a>
+                                </h4>
+                            </div>
+                            <div id="privacy-au" class="panel-collapse collapse" role="tabpanel" aria-labelledby="privacy-au-heading">
+                                <div class="panel-body">
+                                    <p>This privacy policy is intended to explain to you how we intend to collect, store and use your personal information and to inform you of your rights under the Privacy Act 1988 (as amended) (<strong>Act</strong>).</p>
+                                    <p>This privacy policy is supplemental to the general privacy policy published on our website.</p>
+                                    <p>We adhere to the Australian Privacy Principles (<strong>APPs</strong>) set out in the Act.  The APPs regulate the manner in which organisations like ours can collect, use, keep secure and disclose personal information.</p>
+                                    <p><strong>1. Definitions</strong></p>
+                                    <p>In this Privacy Policy:</p>
+                                    <p><strong>Act</strong> means the Privacy Act 1988 (as amended) and includes all subordinate legislation made pursuant to it.</p>
+                                    <p><strong>APPs</strong> means the Australian Privacy Principles set out in the Act, as amended from time to time.</p>
+                                    <p><strong>Affiliate</strong> has the same meaning as in our terms of use published on the Website.</p>
+                                    <p><strong>Group Entity</strong> means Dynamic Web Source (Australia) Pty Ltd ACN 168 681 525 (<strong>DWS</strong>), Dynamic Web Source, Inc., Dynamic Web Source (Canada), Inc. and any company which is a related entity within the meaning of the Corporations Act 2001 (Cth) to any of them.</p>
+                                    <p><strong>Merchant</strong> has the same meaning as in our terms of use published on the Website.</p>
+                                    <p><strong>Personal Information</strong> has the same meaning as that term is given in section 6 of the Act.</p>
+                                    <ul>
+                                        <li><strong>We</strong> includes DWS; and</li>
+                                        <li>The Group Entities.</li>
+                                    </ul>
+                                    <p><strong>Website</strong> means the “AvantLink” website located at URL <a href="http://www.avantlink.com.au/">http://www.avantlink.com.au/</a> operated by Dynamic Web Source, Inc.  or any other Group Entity and includes all pages on the Website, but does not include any website at any other URL, regardless of whether or not it is accessed via a link from the Website.</p>
+                                    <p><strong>2.   Collection Methods and Purposes</strong></p>
+                                    <p>We collect personal information about our clients, potential clients, employees, potential employees, contractors and others in order for us to properly represent our clients and to carry out our business functions and activities.  Where it is reasonably practicable for us to do so, we collect personal information directly from you by asking you for it.  Sometimes we receive and collect personal information about you from third parties, for example from a recruitment firm (in respect of an application for employment).  We may also collect personal information from publicly available sources.</p>
+                                    <p>The kinds of personal information we collect may include:</p>
+                                    <ul>
+                                        <li>your name, address, occupation, and contact information;</li>
+                                        <li>if you are applying for employment by us, opinions about you, including your business or professional experience;</li>
+                                        <li>information about a person’s dealings with us, any Merchant or Affiliate, which may include financial records, bank account or credit card details, insurance policies, taxation information;</li>
+                                        <li>in some circumstances, your ABN.</li>
+                                    </ul>
+                                    <p>Where possible, we de-identify the personal information we collect, store, use and disclose,  However, it may not always be possible for us to provide our services to you or any entity associated with you if we do not collect, store, use and disclose your personal information as otherwise outlined in this Privacy Policy.</p>
+                                    <p><strong>3.   Cookies</strong></p>
+                                    <p>The Website may utilize "cookies" to collect information about how the Website is used. The cookies are designed to help DWS and other Group Entities determine that a particular user had visited the Website previously, and save any preferences that may have been set while the user was browsing the Website. The cookies cannot retrieve any other data from a user’s hard drive or obtain a user’s e-mail address. If a user is simply browsing the Website, a cookie may be used to identify the user’s browser as one that has visited the Website before.</p>
+                                    <p>DWS may also make use of memory-based cookies in support of authenticating the user of certain web applications. Similarly, if you are a registered user of a service provided or facilitated by DWS (and have a user ID and password), DWS or any Group Entity operating the Website may use cookies so that we can provide personalized information based on preferences you have indicated while using the Website. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize DWS services which require registration if you reject cookies.</p>
+                                    <p><strong>4.   Use and Disclosure</strong></p>
+                                    <p>We use personal information collected by us to enable us to conduct our business, to carry on our marketing activities and to comply with our legal obligations, and in particular to:</p>
+                                    <ul>
+                                        <li>to enable us to verify your identity;</li>
+                                        <li>to maintain and develop our relationship with you;</li>
+                                        <li>to market our services including by providing you with information about Affiliate or Merchant opportunities or events which may be of interest to you;</li>
+                                        <li>to consider your application for employment by us;</li>
+                                        <li>to comply with our legal obligations;</li>
+                                        <li>for research, planning, service development, security or risk management.</li>
+                                    </ul>
+                                    <p>Your personal information is treated by us as strictly private and confidential, and will not be disclosed by us except as outlined in this Privacy Policy unless:</p>
+                                    <ul>
+                                        <li>you consent to such disclosure;</li>
+                                        <li>the disclosure is required in the course of providing our services to you ;</li>
+                                        <li>the disclosure is to an external service provider on a confidential basis relating to the provision of financial or administrative purposes (eg. archive services);</li>
+                                        <li>the disclosure is to a third party recruitment firm in respect of your prospective employment by us;</li>
+                                        <li>the disclosure is required to enforce any contract that we have entered into with you;</li>
+                                        <li>the disclosure is in connection with the actual or proposed sale, merger or divestment of all or part of our business (whether or not any such transaction is completed); or</li>
+                                        <li>we are required to do so by law.</li>
+                                    </ul>
+                                    <p>We will not disclose your personal information to third parties for the purposes of marketing their products or services to you.</p>
+                                    <p><strong>5.   Overseas Disclosure</strong></p>
+                                    <p>You consent to us disclosing your personal information to other Group Entities overseas:</p>
+                                    <p>Your personal information is treated by us as strictly private and confidential, and will not be disclosed by us except as outlined in this Privacy Policy unless:</p>
+                                    <ul>
+                                        <li>if necessary to administer our relationship with you;</li>
+                                        <li>if the relevant Group Entity provides services to, or functions for us or on our behalf;</li>
+                                        <li>for transactional reasons; or</li>
+                                        <li>to comply with Australian and global regulatory requirements applying to DWS or any Group Entity (including to comply with requests for information received by overseas regulators).</li>
+                                    </ul>
+                                    <p><strong>6.   Data Quality</strong></p>
+                                    <p>All reasonable steps will be taken by us to ensure that the personal information that we collect and hold is accurate, complete and up-to-date. If however, you become aware that any of the personal information we hold about you is not accurate, complete or up-to-date, please contact us to update or change your personal information.</p>
+                                    <p><strong>7.   Data Security</strong></p>
+                                    <p>All of our personnel are required to protect the confidentiality of your personal information, subject to this Privacy Policy.</p>
+                                    <p>We take reasonable steps to protect all information that we hold, including personal information, from misuse and loss, and from unauthorised access, modification or disclosure.</p>
+                                    <p>We do this by, for example:</p>
+                                    <ul>
+                                        <li>using Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions, which encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet;</li>
+                                        <li>incorporating strong password encryption and strict access procedures;</li>
+                                        <li>restriction of access to personal information to staff members who require access in order to perform their role;</li>
+                                        <li>taking all reasonable steps to keep our premises secure;</li>
+                                        <li>providing appropriate and regular training to staff regarding this Privacy Policy and information handling practices.</li>
+                                    </ul>
+                                    <p>We may hold your information in either electronic or hard copy form.</p>
+                                    <p><strong>8.   Access and Correction</strong></p>
+                                    <p>You may request access to the personal information we hold about you at any time by contacting our Privacy Officer (contact details below).  We may charge a fee to cover the costs of retrieval and copying.  We may deny access to personal information where the Act allows us to do so.</p>
+                                    <p>If you establish that personal information we hold about you is not accurate, complete or up-to-date, we will take reasonable steps to correct the information.</p>
+                                    <p>We will always provide reasons for denial of access or refusal to correct personal information.</p>
+                                    <p><strong>9.   Sensitive Information</strong></p>
+                                    <p>We do not collect, use or disclose sensitive information about you (such as race, ethnicity, religion, sexual preference, health or criminal record) unless it is related to the provision of our services to you or our client, you provide your consent or where it is allowed by law.</p>
+                                    <p><strong>10.  Destruction of Personal Information</strong></p>
+                                    <p>Personal information is destroyed or de-identified when it is no longer needed or when we are no longer required by law to retain it (whichever is the later).</p>
+                                    <p>You agree that we may de-identify or destroy your personal information:</p>
+                                    <ul>
+                                        <li>7 years after the termination of your relationship with us; or</li>
+                                        <li>if you are a prospective employee, immediately upon us determining that your application for employment by us is unsuccessful.</li>
+                                    </ul>
+                                    <p><strong>11.  Privacy Policy Changes</strong></p>
+                                    <p>We may modify this Privacy Policy from time to time. If we modify this Privacy Policy, we will post any updated Privacy Policy on this website. You should check this website periodically to ensure that you are aware of our current Privacy Policy.</p>
+                                    <p><strong>12.  Complaints Procedure</strong></p>
+                                    <p>If you believe that your privacy has been breached, please contact us using the contact information below and provide details of the incident so that we can investigate it. We will treat your complaint confidentially, investigate your complaint and aim to ensure that we contact you and that your complaint is resolved within a reasonable time (and in any event within the time required by the Act, if applicable).</p>
+                                    <p><strong>13.  Your Agreement to the terms of this Privacy Policy</strong></p>
+                                    <p>By using our Website, registering as an Affiliate or Merchant, applying for employment by us and/or providing your personal information to us, you accept and agree to the collection, use, storage and disclosure of your personal information in the manner and for the purposes described in this policy.</p>
+                                    <p>We review our policies regularly and occasionally may need to change or update them. Any updated versions of this privacy policy will be posted on our website and will be effective from the date of posting.</p>
+                                    <p>This policy is was last updated on 16 July 2014.</p>
+                                    <p><strong>14.  DWS Privacy Officer</strong></p>
+                                    <p>For all queries regarding personal information and to access your personal information, please contact our Privacy Officer by clicking here privacy@avantlink.com.au, by writing to the Privacy Officer, [ PO Box 683351 Park City, UT 84068 ].</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-			<div class="entry-content">
+    <footer>
+        <div class="nav">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-3 col-md-2">
+                        <h4>Networks</h4>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="http://www.avantlink.com"><i class="flag-icon flag-icon-us"></i>United States</a>
+                            </li>
+                            <li>
+                                <a href="http://www.avantlink.ca"><i class="flag-icon flag-icon-ca"></i>Canada</a>
+                            </li>
+                            <li>
+                                <a href="http://www.avantlink.com.au"><i class="flag-icon flag-icon-au"></i>Australia</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 col-md-2">
+                        <h4>Learn</h4>
 
-				<div class="entry-text">
-					<h2 class="big_blue_text">Overview</h2>
-<p>AvantLink.com has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.</p>
-<p><strong>1. Information Collected During Your Use of the AvantLink.com Service</strong></p>
-<p>In order to register, users are required to give us contact  information (e.g., your name and email address), unique identifiers (e.g., your password), and demographic information  (e.g., your zip code). Certain information, such as passwords and email addresses, is collected  in order to verify your identity and for use in our records.</p>
-<p><strong>2. Our Use of Your Information</strong></p>
-<p>We may use customer contact information from the registration form to  send you information about product updates, alerts and other customer service communications. We  may use your IP address to help protect our partners and us from fraud.</p>
-<p><strong>3. Our Disclosure of Your Information</strong></p>
-<p>We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described in this Privacy Policy and without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.</p>
-<p>AvantLink.com will never willfully sell, lease, or rent any of your or your business’ personally identifiable information to any third party.</p>
-<p><strong>4. Security</strong></p>
-<p>In order to maximize the protection of your information, AvantLink.com Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, we use Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet.</p>
-<p><strong>5. General</strong></p>
-<p>This Privacy Policy is incorporated into and subject to the terms of the AvantLink.com Agreement.</p>
-<p>If you have any questions about this privacy statement or the practices of this site, please <a href="http://www.avantlink.com/contact.php">contact us</a>.</p>
-				</div>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="/merchants">Merchants</a>
+                            </li>
+                            <li>
+                                <a href="/affiliates">Affiliates</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix visible-xs-block"></div>
+                    <div class="col-xs-6 col-sm-3 col-md-2">
+                        <h4>About</h4>
 
-			</div><!--end entry_content-->
-		</div><!--end entry -->
-		</div>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="/about/#company">Company</a>
+                            </li>
+                            <li>
+                                <a href="http://blog.avantlink.com/" target="_blank">Blog</a>
+                            </li>
+<!--
+                            <li>
+                                <a href="http://www.avantshare.com/forums" target="_blank">Forum</a>
+                            </li>
+ -->
+                            <li>
+                                <a href="/about/#team">Team</a>
+                            </li>
+                            <li>
+                                <a href="/about/#recognitions">Recognitions</a>
+                            </li>
+                            <li>
+                                <a href="/about/#careers">Careers</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-6 col-sm-3 col-md-2">
+                        <h4>Support</h4>
 
-		
-			<div style="clear:both;"></div>
-		</div><!-- end main -->
-	</div><!-- end main_wrap -->
-</div><!-- end contentwrap -->
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="http://support.avantlink.com">Support Center</a>
+                            </li>
+                            <li>
+                                <a href="/search">Search</a>
+                            </li>
+                            <li>
+                                <a href="/terms">Terms of Use</a>
+                            </li>
+                            <li>
+                                <a href="/privacy">Privacy Policy</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix visible-xs-block visible-sm-block"></div>
+                    <div class="contact col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-0 col-lg-3 col-lg-offset-1">
+                        <h4>Contact us</h4>
 
-<div id="footerwrap">
-	<div id="footer">
-		<div id="footer_column_wrap">
-			<div class="column column1"><div id="text-7" class="box_small box widget widget_text"><h3 class="widgettitle">Navigation</h3>			<div class="textwidget"><ul>
-<li><a href="http://www.avantlink.com/about-us/">About</a></li>
-<li><a href="http://www.avantlink.com/affiliates/">Affiliates</a></li>
-<li><a href="http://www.avantlink.com/merchants/">Merchants</a></li>
-<li><a href="http://avantshare.com/forums/">Forum</a></li>
-<li><a href="http://avantshare.com/blog" target="_blank">Blog</a></li>
-<li><a href="http://www.avantlink.com/clients/">Clients</a></li>
-<li><a href="http://www.avantlink.com/contact-us/">Contact</a></li>
-</ul></div>
-		</div></div><div class="column column2"><div id="text-5" class="box_small box widget widget_text"><h3 class="widgettitle">Recent Blog Headlines</h3>			<div class="textwidget"><ul>	<li><a href="http://www.avantshare.com/blog/avantlinkcom-new-merchants/new-merchant-five-ten-footwear/" target="_blank">New Exclusive Merchant: Five Ten Footwear</a></li>	<li><a href="http://www.avantshare.com/blog/pressnews/new-case-study-available-why-rei-decided-to-go-exclusive-with-avantlink/" target="_blank">Why REI’s affiliate program went exclusive with AvantLink : A Case Study</a></li>	<li><a href="http://www.avantshare.com/blog/pressnews/great-introductory-offer-for-affiliates-of-the-new-tense-watch-program/" target="_blank">Great introductory offer for affiliates of the new Tense Watch program…</a></li>	<li><a href="http://www.avantshare.com/blog/avantlinkcom-new-merchants/new-merchant-obey-clothing/" target="_blank">New Merchant: OBEY Clothing</a></li></ul><a href="http://www.avantshare.com/blog/">Read All »</a></div>
-		</div></div>		</div>
-		<div style="clear: both;"></div>
-		<div class="footer_bottom_content">
-			<div class="footer_social_links">
-				<ul>
-				<li><a id="facebook" href="http://www.facebook.com/AvantLink" target="_blank" title="Facebook"></a></li>
-<li><a id="twitter" href="http://twitter.com/AvantLink" target="_blank" title="Twitter"></a></li>
-<li><a id="youtube" href="http://www.youtube.com/user/AvantLink" target="_blank" title="YouTube"></a></li>
-<li><a id="rss" href="http://www.avantshare.com/blog/feed/" target="_blank" title="RSS"></a></li>				</ul>
-			</div>
-			<div class="footer_copyright">
-				<a href="/privacy-policy">Privacy Policy</a> | © 2015 <strong>Avant Marketing Group</strong>
-			</div>
-		</div>
-	</div><!-- end footer -->
-</div><!-- end footerwrap -->
+                        <ul class="contacts list-unstyled margin-bottom-0">
+                            <li>
+                                <i class="fa fa-envelope"></i><a href="mailto:partnerships@avantlink.com">partnerships@avantlink.com</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="company">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <img src="//assets.avantlink.com/images/site/logo-symbol-on-dark.png" class="logo disrupto-trigger" alt="AvantLink">
+                        <img src="//assets.avantlink.com/images/site/disrupto.png" id="disrupto" alt="Bzzt!">
+                        <h4 class="margin-top-15 margin-bottom-0">Grow your sales with quality partnerships and next-generation affiliate technology.</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="creation col-sm-7">
+                        © 2015 AvantLink. Made for you with
+                        <i class="fa fa-heart"></i> in Park City, UT.
+                        <div id="google_translate_element"></div>
+                    </div>
+                    <div class="social col-sm-5">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="http://www.facebook.com/AvantLink" target="_blank" class="rounded text-center">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://twitter.com/AvantLink" target="_blank" class="rounded text-center">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.youtube.com/user/AvantLink" target="_blank" class="rounded text-center">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://blog.avantlink.com/feed" target="_blank" class="rounded text-center">
+                                    <i class="fa fa-rss"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/company/avantlink" target="_blank" class="rounded text-center">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//assets.avantlink.com/js/site.js"></script>
 <script type="text/javascript">
-function setScreenResolution()
-{
-	if (document.getElementById('intScreenResWidth')) {
-		document.getElementById('intScreenResWidth').value = screen.width;
-	}
-	if (document.getElementById('intScreenResWidthAlt')) {
-		document.getElementById('intScreenResWidthAlt').value = screen.width;
-	}
-	if (document.getElementById('intScreenResHeight')) {
-		document.getElementById('intScreenResHeight').value = screen.height;
-	}
-	if (document.getElementById('intScreenResHeightAlt')) {
-		document.getElementById('intScreenResHeightAlt').value = screen.height;
-	}
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en',
+            layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL,
+            gaTrack: true,
+            gaId: 'UA-36269187-1'
+        }, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-	// See if we have a login redirect parameter in the URL
-	if (location.href.indexOf('loginre=') > 0) {
-		var arrUrlPieces = location.href.split("loginre=");
-		var strLoginRedirect = '';
-
-		// Parse out tracking data from the url
-		if (arrUrlPieces[1].indexOf('&') > 0) {
-			strLoginRedirect = arrUrlPieces[1].substring(0, arrUrlPieces[1].indexOf('&'));
-		}
-		else {
-			strLoginRedirect = arrUrlPieces[1];
-		}
-
-		if (document.getElementById('strLoginRe')) {
-			document.getElementById('strLoginRe').value = strLoginRedirect;
-		}
-		if (document.getElementById('strLoginReAlt')) {
-			document.getElementById('strLoginReAlt').value = strLoginRedirect;
-		}
-	}
-
-	return(true);
-}
+    ga('create', 'UA-36269187-1', 'auto');
+    ga('send', 'pageview');
 </script>
 
-<!-- Facebook Conversion Code for Avant Link Registration Conversion Pixel -->
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', '6020122844892', {'value':'0.00','currency':'USD'}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020122844892&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d4c890b218","applicationID":"5676900","transactionName":"NAEEZRYDDxFXVUBQDg1LJ1IQCw4MGUZVXgQ=","queueTime":0,"applicationTime":269,"atts":"GEYHE14ZHB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d4c890b218","applicationID":"7703127","transactionName":"NAEEZRYDDxFXVUBQDg1LJ1IQCw4MGXdEST0rEBJBOCEODEJEW1UNBhYVbTQDBgd1WVpNEwwIClQWIgYHQmZGUBcCBx8=","queueTime":0,"applicationTime":10,"atts":"GEYHE14ZHB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 </body></html>
