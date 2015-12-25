@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ziffy.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202108id_/http%3A//ziffy.in/content/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziffy.in privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225164243id_/http%3A//ziffy.in/content/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Toll Free Numbers In India – Ziffy
+# Privacy Policy | Toll Free 1800 Numbers
 
 We at ZNI Wireless Pvt Ltd. (“ZNI Wireless”), are committed to protecting the privacy of customers and users of our ZNI Wireless services, users of our websites, [www.znisms.com](http://www.znisms.com/), [www.zni.in](http://www.zni.in/) and [www.ziffy.in](http://www.ziffy.in/) and users of our mobile application (PushAlerts and AndroidSMSGateway). We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
 
