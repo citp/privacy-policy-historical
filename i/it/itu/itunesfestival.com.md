@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itunesfestival.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203642id_/http%3A//www.apple.com/legal/privacy/en-ww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunesfestival.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225232258id_/http%3A//www.apple.com/legal/privacy/en-ww) for the most accurate reproduction.*
 
 # Apple - Legal - Privacy Policy
 
@@ -8,7 +8,7 @@
 Your privacy is important to Apple. So we’ve developed a Privacy Policy  
 that covers how we collect, use, disclose, transfer, and store your information.   
 Please take a moment to familiarize yourself with our privacy practices and  
-[let us know](https://web.archive.org/web/20150627203642id_/http://www.apple.com/legal/privacy/en-ww/contact/) if you have any questions.  
+[let us know](https://web.archive.org/web/20151225232258id_/https://www.apple.com/legal/privacy/en-ww/contact/) if you have any questions.  
  
 
 [Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) | [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
@@ -105,7 +105,7 @@ You can help ensure that your contact information and preferences are accurate, 
 
 We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Accordingly, we do not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
 
-Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided consent through the Apple ID for Students Program or as part of the child account creation process in Family Sharing. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes/), before they can begin the Apple ID account creation process for their child. Learn more about [Family Sharing](https://web.archive.org/ios/whats-new/family-sharing/), the [Apple ID for Students program](http://images.apple.com/education/docs/Apple_ID_Parent_Guide.pdf) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
+Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided consent through the Apple ID for Students Program or as part of the child account creation process in Family Sharing. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes/), before they can begin the Apple ID account creation process for their child. Learn more about [Family Sharing](https://web.archive.org/ios/whats-new/family-sharing/), the [Apple ID for Students program](https://www.apple.com/education/docs/Apple_ID_Parent_Guide.pdf) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
 
 If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
 
