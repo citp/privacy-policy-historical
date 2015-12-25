@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxp.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211638id_/http%3A//buxp.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxp.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225114956id_/http%3A//buxp.org/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 This is the website of BUXP, Ltd. 
 
-We can be reached via [contact](https://web.archive.org/web/20150623211638id_/http%3A//buxp.org/contact.php) form. 
+We can be reached via [contact](https://web.archive.org/web/20151225114956id_/http%3A//buxp.org/contact.php) form. 
 
 **Cookies:** With respect to cookies: We use cookies to store visitors preferences. 
 
