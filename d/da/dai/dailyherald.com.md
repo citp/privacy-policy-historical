@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215031124id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225095651id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
 
-# Daily Herald Privacy Policy - DailyHerald.com
+# Daily Herald Privacy Policy
 
 Paddock Publications, Inc. ("Paddock Publications"), the owner of The Daily Herald and dailyherald.com, respects the privacy of individuals who visit our site. This Privacy Policy outlines the information that we collect through dailyherald.com and how we use that information, so that you can decide whether and how you wish to provide information to us. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using information obtained through dailyherald.com with your reasonable expectations of privacy.
 
@@ -8,11 +8,11 @@ Your use of this site tells us you have read and accept the practices outlined i
 
 ## Privacy Policy Quick Links:
 
-## What infomation does DailyHerald.com Collect?
+## What information does DailyHerald.com Collect?
 
 _Personally Identifiable Information:_ Personal data is collected when users voluntarily provide information to dailyherald.com, for example in registering for e-mail communications or other services, answering surveys, entering contests or sweepstakes, purchasing an archived photo, requesting vacation delivery stop, or posting an online ad. During these activities, dailyherald.com may request information such as your name, e-mail address, residence address, phone number, date of birth, subscriber status, and credit card number (when purchasing products or services). We may also ask you for other information at other times.
 
-You can choose not to provide certain information, but then you may not be able to take advantage of certain of our web site's features. 
+You can choose not to provide certain information, but then you may not be able to take advantage of certain of our web site's features.
 
 _Anonymous and Aggregated Information:_ Anonymous and aggregated information, such as which web pages users access, the number of daily visits to dailyherald.com, and anonymous responses to survey questions, is automatically collected through various methods. In the course of using dailyherald.com, we may also automatically track certain information about you. This information includes the URL that you just came from, the URL you go to next, and the Internet browser you are using. This statistical information is important to allow us to evaluate and improve the services we provide, to monitor the site's performance and to make it easier for visitors to use dailyherald.com.
 
@@ -27,6 +27,10 @@ _Information That is Not Covered by this Policy:_ This Privacy Policy only cover
 Through dailyherald.com, you will be able to access information, advertisements, web sites, features, contests, sweepstakes, etc. offered by other parties (e.g., Accuweather, MSNBC). Such third party content and resources may be accessed through links to other web sites, pop-ups, frames within the dailyherald.com site, or other technological means. Paddock will always endeavor to identify the third party source of the content. Users should review the privacy policies of those third parties before providing personally identifiable information on a co-branded, affiliated, framed or linked site. Such third parties may send their own cookies to you, and may collect data and make uses of it that Paddock would not. We do not control these sites or uses, or bear any responsibility or liability for them.
 
 Information that you choose to post on a message board, forum, or chat room is also not covered by this Privacy Policy, and is not considered a confidential communication. Please keep in mind that whenever you voluntarily disclose personal information in a public area online - for example, in a Letter to the Editor or as a Guest Book entry in our Legacy.com obituary resource- that information can be collected and used by both Paddock and others. Paddock is not responsible for the disclosure or use of your name, e-mail address or other submitted information under these circumstances.
+
+Paddock uses anonymous cookies to track information on your browsing history on dailyherald.com, and third-party advertising networks, such as Simpli.Fi, use the information to serve ads to you on Paddock's behalf on other sites throughout the Internet. These cookies do not contain personally identifiable information, nor are they linked to any personal information collected by Paddock.
+
+You can opt-out of NAI Members' online behavioral advertising cookies by using the Network Advertising Initiative's (NAI's) multi-cookie opt-out mechanism at: <http://www.networkadvertising.org/managing/opt_out.asp>. Further, you can view the Simpli.Fi privacy policy and opt-out from their network and affiliated networks, at <https://app.simpli.fi/opt_out>. These opt-outs are valid only for the computer and browser combination used to opt-out. Clearing cookies will remove these opt-outs since they stored in cookies. If you opt-out of an NAI third-party advertising network, you will no longer receive ads based on your browsing history from that network. You will, however, continue to receive generalized online advertising.
 
 _Children Under 13:_ In general, Paddock does not knowingly collect any personal data on dailyherald.com from individuals under 13 years of age. If you are under 13, do not send any information about yourself to dailyherald.com, including your name, address or e-mail address. In the event dailyherald.com runs a contest or other program that requires submission of information from children, we will collect such information only with prior verified parental consent. If we learn that we have collected any personal information from a child under the age of 13 without parental consent, we will delete that information from our database as quickly as possible. Paddock encourages all parents to instruct their children in the safe and responsible use of the Internet.
 
@@ -50,21 +54,28 @@ _Aggregate Information._ Paddock may share anonymous or aggregated user informat
 
 _Legal Actions._ Paddock may disclose user information in connection with law enforcement or governmental investigations or inquiries, to enforce compliance with the policies governing dailyherald.com and applicable laws, and to protect and enforce the intellectual property and other legal rights of Paddock and third parties.
 
-_Sale of Business._ In the event that Paddock, the bulk of its assets or one or more of its web sites is acquired by another company, Paddock may sell, transfer or otherwise disclose user information in connection with such transaction. 
+_Sale of Business._ In the event that Paddock, the bulk of its assets or one or more of its web sites is acquired by another company, Paddock may sell, transfer or otherwise disclose user information in connection with such transaction.
 
 ## **What choices do I have about Paddock collecting, using, and sharing my information**
 
-It is possible for you to use much of dailyherald.com without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Paddock and from our third party partners. You can request at any time that Paddock not send future e-mails to you either by unsubscribing from the communication or by contacting us. You may also correct or update any personally identifiable information provided by contacting Paddock's Internet Department Manager by e-mail, facsimile or mail as follows: 
+It is possible for you to use much of dailyherald.com without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Paddock and from our third party partners. You can request at any time that Paddock not send future e-mails to you either by unsubscribing from the communication or by contacting us. You may also correct or update any personally identifiable information provided by contacting Paddock's Internet Department Manager by e-mail, facsimile or mail as follows:
 
-> Internet Department Manager Paddock Publications, Inc. 155 E. Algonquin Road Arlington Heights, IL 60005 Facsimile: (847) 427-2869 e-mail: [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
-
-## **Yahoo! Ads and Opt-Out Policies**
-
-Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Paddock Publications Web sites. To improve your ad experience on Paddock Publications Web sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. 
-
-To learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>. 
-
-Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+> Internet Department Manager  
+> 
+> 
+> Paddock Publications, Inc.  
+> 
+> 
+> 155 E. Algonquin Road  
+> 
+> 
+> Arlington Heights, IL 60005  
+> 
+> 
+> Facsimile: (847) 427-2869  
+> 
+> 
+> e-mail: [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
 
 ## **Security**
 
