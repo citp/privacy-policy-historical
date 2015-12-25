@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624115129id_/http%3A//www.dole.com/Company%2520Info/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225095714id_/http%3A//www.dole.com/Company%2520Info/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dole
 
@@ -69,6 +69,6 @@ Attention: Consumer Center
 
 Phone: 1-800-232-8888 
 
-E-mail: [Dole.Consumer.Center@dole.com ](mailto:Dole.Consumer.Center@dole.com)
+E-mail: [Dole.Consumer.Center@doleintl.com](mailto:Dole.Consumer.Center@doleintl.com)
 
 Download the Privacy Policy PDF [here](https://web.archive.org/~/media/Files/Documents/Terms%20and%20Conditions/DoleDPFPrivac%20Policy20130412.ashx). 
