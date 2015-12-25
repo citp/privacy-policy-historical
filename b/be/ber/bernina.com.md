@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509045802id_/http%3A//www.bernina.com/en-US/Footer-us/Disclaimer-Pages-us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225215622id_/http%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BERNINA
 
@@ -45,15 +45,15 @@ If you do not want to participate in the tracking, you can simply disable the Go
 Less frequently, the BERNINA website uses the Optimizely web analysis service by Optimizely, Inc., which is used for A/B and multi-version tests. This service uses cookies to identify a user's browser and to analyze the use of this website. The cookies placed by Optimizely do not collect personal data.  
 More information about how Optimizely processes your data can be found at http://www.optimizely.com/privacy. You can disable Optimizely tracking at any time by following the instructions at http://www.optimizely.com/opt_out.
 
-**5.   Data sent to BERNINA**
+**4.4   Data sent to BERNINA**
 
 Information that you provide to BERNINA yourself as a user of the website may be used by BERNINA and companies affiliated with BERNINA in order to improve the BERNINA website and to provide individual support to the user. This also includes sending the user items such as information, offers or notifications regarding BERNINA's product range and services.
 
-**6.   Server location**
+**4.5   Server location**
 
 The personal information collected is transmitted and stored in the USA (location of the server). The information will be treated in Switzerland and in accordance with the applicable Swiss data protection regulations. However, the information may be processed outside of Switzerland by personnel working for us or for our suppliers. By providing your personal information, you consent to the transmission, storage and processing of your information in accordance with these data protection regulations.
 
-**7    Social media content**
+**5.   Social media content**
 
 BERNINA may use social media plugins, e.g. by Facebook, Google+ and Twitter, on this website. These platforms have their own privacy policies over which BERNINA has no control.  
 [Facebook](https://www.facebook.com/policy.php)  
@@ -62,27 +62,27 @@ BERNINA may use social media plugins, e.g. by Facebook, Google+ and Twitter, on 
 If you are logged in at a social media provider's site while simultaneously visiting our site, the possibility of the provider matching the visit to your network account cannot be ruled out. If you use the plugin functions (e.g. clicking on the "Like" button, posting a comment), this information is similarly transmitted from your browser directly to the particular social network and possibly stored there. The purpose and the extent of the collection, further processing and use of the data by the networks can be found in the privacy policy notices of Facebook, Twitter and Google.  
 If the user does not want any of these plugins to be loaded, it is recommended to log out of the particular social media service. In addition, various browsers can be set or upgraded with add-ons (e.g. Facebook blocker) so that the social media plugins are not loaded.
 
-**8.  Disclosure of information**
+**6.  Disclosure of information**
 
 BERNINA and its subsidiaries and affiliates within the Group use your personal information in accordance with these data protection regulations and will not disclose it to third parties. 
 
 Exceptions to this are if you have consented to the disclosure of information to companies not affiliated to BERNINA or if BERNINA is required by law, by a government authority or a court to do so. Another exception is if service providers are engaged to support BERNINA in data processing, administering the website or in another capacity or to provide you with products and services you have requested. These third parties are obliged to maintain the same degree of security and data protection as BERNINA.
 
-  **9.  Children as users of the website**
+  **7.  Children as users of the website**
 
 A note to children and their parents: children are increasingly using the Internet. Parents should ensure that their children do not submit any personal information about themselves or their parents to BERNINA. However, if personal information is transmitted by children to BERNINA, we ask parents to contact BERNINA if they want the information to be deleted. The relevant information will then be deleted as soon as possible.
 
-**10.  Data security**
+**8.  Data security**
 
 The transmission of data over the Internet is unfortunately not absolutely secure. In order to protect your information, BERNINA only collaborates with service providers and Internet providers that take appropriate technical and organisational security measures. However, BERNINA cannot guarantee the security of the data transmitted by you as a user. Any transmission of data is undertaken at your own risk.
 
-**11.  Your information and withdrawal rights**
+**9.  Your information and withdrawal rights**
 
 You have the option of informing BERNINA at any time - for example, by email - that your information should in future no longer be used to contact you. You can also cancel your participation in particular services of the BERNINA website, such as the newsletter service, at any time.
 
 In addition, you are also able to obtain information on the processing of information or to request a copy of your personal information that has been collected about you via our website. Please send your request in writing to  BERNINA International AG, Seestrasse 161, 8266 Steckborn, Switzerland or [info@bernina.com](mailto:info@bernina.com).
 
-**12.  Final provisions**
+**10.  Final provisions**
 
 If the individual provisions or parts of these Privacy Policy should prove to be invalid or ineffective, the validity of the rest of the Privacy Policy will not be affected.
 
