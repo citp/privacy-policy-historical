@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200328id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226000739id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Yuvutu: Free Amateur Porn, Homemade Porn, XXX & Sex Chat Community
+# Privacy Policy On Yuvutu Homemade Amateur Porn Movies And XXX Sex Videos
 
 YUVUTU Privacy Policy    
 Updated 14th August 2007 
