@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodincmovie.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617002527id_/https%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodincmovie.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225224045id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TakePart
 
