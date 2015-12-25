@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234807id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115109id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
 
 # Info | Privacy - Naijapals - Naijapals - Naijapals
 
@@ -44,7 +44,7 @@ Information stored and collected about you allows us to improve our services or 
 5.2.2 Legal requirements may mean a sharing of your information.   
 5.2.3 Lowering credit risk and fraud protection may result in information disclosure. 
 
-[b]6. Third Party Links[b]   
+**6\. Third Party Links**   
 Links might be discovered on our site that belongs to third parties. Any third party website on our site has a privacy policy. You should check their terms. We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links. 
 
 **7\. Contacting Us**   
