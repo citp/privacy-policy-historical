@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themelock.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630073146id_/http%3A//www.themelock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themelock.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051602id_/http%3A//www.themelock.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » THEMELOCK.COM - FREE PREMIUM THEMES & TEMPLATES
 
