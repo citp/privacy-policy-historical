@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradetracker.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203909id_/https%3A//www.tradetracker.com/gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradetracker.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055218id_/https%3A//www.tradetracker.com/gb/privacy) for the most accurate reproduction.*
 
 # TradeTracker privacy statement - TradeTracker UK
 
