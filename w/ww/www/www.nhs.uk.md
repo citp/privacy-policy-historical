@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204414id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225142510id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices - About NHS Choices - NHS Choices
 
@@ -22,4 +22,6 @@ Videos from NHS Choices - whether viewed on the website, in emails or embedded i
 
 Use of NHS Choices tools on third-party sites will be tracked. No personal data is collected by the tools. Information gathered by NHS Choices includes the user’s IP address, the web page a tool is accessed from, and how many times it is accessed. In some cases, tracking is used to show user journeys through a tool. This information is the sole property of NHS Choices and will not be shared with third parties. All NHS Choices tools store the number of times a user has visited the tool. Some tools also store ‘state’ information so that when a user returns to a tool it is in the ‘state’ they left it in.
 
-Information submitted as a part of NHS Choices content held on Twitter and Facebook will be subject to their privacy policies. For more information, see the [Twitter privacy policy](http://twitter.com/privacy) and the [Facebook privacy policy](http://www.facebook.com/about/privacy/) 
+Information submitted as a part of NHS Choices content held on Twitter and Facebook will be subject to their privacy policies. For more information, see the [Twitter privacy policy](http://twitter.com/privacy) and the [Facebook privacy policy](http://www.facebook.com/about/privacy/).
+
+NHS Choices uses Google Maps APIs to provide some location-based information. You should read the [Google privacy policy](http://www.google.co.uk/policies/privacy/ "Goes to external site") to understand how this affects you. 
