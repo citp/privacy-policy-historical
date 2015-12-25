@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627070525id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050547id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -54,11 +54,12 @@ We do not knowingly collect Personal Information from children under the age of 
 
 This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Site as soon as they go into effect. By accessing the Site or using the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
 
- **How to contact us.**  
+##  **How to contact us**
+
 If you have questions about this Privacy Policy, please email us at [support@thedailydot.com](mailto:support@thedailydot.com?Subject=PRIVACY%20POLICY), “PRIVACY POLICY” in the subject line, or mail us at the following address:
 
 The Daily Dot, LLC  
 3112 Windsor Road, Suite A391  
 Austin, TX 78703
 
- _Last updated: November 13, 2012_
+ _Last updated: Nov. 13, 2012_
