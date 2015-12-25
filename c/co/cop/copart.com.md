@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the copart.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201806id_/http%3A//www.copart.com/Content/US/EN/Privacy-Policy%3Fintcmp%3Dfooter_slim_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copart.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225044434id_/http%3A//www.copart.com/Content/US/EN/Privacy-Policy%3Fintcmp%3Dfooter_slim_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Copart
 
+### Copart Privacy Policy
+
 **What This Privacy Policy Covers**
 
-  * This policy covers how Copart, Inc. and its subsidiaries (“Copart”) treats personal information that Copart collects and receives, including information related to your past use of Copart services. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
+  * This policy covers how Copart, Inc. and its subsidiaries ("Copart") treats personal information that Copart collects and receives, including information related to your past use of Copart services. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
   * This policy does not apply to the practices of companies that Copart does not own or control, or to people that Copart does not employ or manage.
 
 
 
 **Information Collection and Use**
 
-**             General **
+**General**
 
   * Copart collects personal information when you register with Copart and when you use Copart services.
   * When you register with Copart we may ask for information such as your name, address, email address, phone number, credit card information, business license information, driver’s license information, zip code, and other financial information. Once you register with Copart and log in to use our services, you are not anonymous to us.
   * Copart collects information about your transactions with us, including information regarding items you bid on.
-  * Copart automatically receives and records information on our server logs regarding your sessions on Copart websites or through an Access Device (defined below) application (a “Copart App”), and those of its subsidiaries, and related cookie information.
+  * Copart automatically receives and records information on our server logs regarding your sessions on Copart websites or through an Access Device (defined below) application (a "Copart App"), and those of its subsidiaries, and related cookie information.
   * If you have first provided permission through your Access Device, Copart may obtain location based information from technologies like GPS, Wi-Fi, or cell tower proximity. You are able to withdraw your permission for Copart to acquire location based information from your Access Device through your device settings.  The Copart App can use the geo-location features (GPS or network-based) to support your use of Copart services and provide information about nearby vehicle auctions.
   * Copart uses information for the following general purposes: to contact you, to facilitate bidding, buying, and selling of items by you through Copart and its affiliated companies, to transfer title and ownership of items bought and sold by you, and to comply with laws and regulations related to purchases and sales of items by you through Copart.
 
@@ -54,9 +56,15 @@
 
 
 
+**Online Tracking Information and "Do Not Track" signals**
+
+  * When you visit this site, other parties such as third-party advertising partners and analytics providers may collect information about your online activity over time and across websites. This information may include identifiers that may permit those parties to serve tailored ads to your device. Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, Copart currently does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser.
+
+
+
 **Cookies**
 
-  * We may place a text file called a “cookie” in the browser files of your computer, tablet, mobile or handheld device, or any other access device (each an “Access Device”). The cookie itself does not contain personal information although it will enable us to relate your use of this website or a Copart App to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other websites. Copart may use cookies to track user traffic patterns (as described above). In addition, Copart uses encrypted cookies to authenticate the user on each page after the user logs onto the website or through a Copart App. You can refuse cookies by turning them off in your browser or through the appropriate “settings” icon of certain Access Devices. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Some Copart features and services may not function properly if your cookies are disabled.
+  * We may place a text file called a "cookie" in the browser files of your computer, tablet, mobile or handheld device, or any other access device (each an "Access Device"). The cookie itself does not contain personal information although it will enable us to relate your use of this website or a Copart App to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other websites. Copart may use cookies to track user traffic patterns (as described above). In addition, Copart uses encrypted cookies to authenticate the user on each page after the user logs onto the website or through a Copart App. You can refuse cookies by turning them off in your browser or through the appropriate "settings" icon of certain Access Devices. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Some Copart features and services may not function properly if your cookies are disabled.
 
 
 
@@ -81,13 +89,13 @@
 
 
 
-            o **Secure Socket Layer (SSL)** Copart uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time Copart asks you for a credit card number for payment or for verification purposes, it will be SSL encrypted. The information you provide will be stored securely on our servers. Once you choose to store or enter your credit card number on Copart, it will not be displayed back to you in its entirety when you retrieve or edit it in the future. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number.
+            o **Secure Socket Layer (SSL) -** Copart uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time Copart asks you for a credit card number for payment or for verification purposes, it will be SSL encrypted. The information you provide will be stored securely on our servers. Once you choose to store or enter your credit card number on Copart, it will not be displayed back to you in its entirety when you retrieve or edit it in the future. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number.
 
-            o **Vendors and Partners** Copart works with vendors and partners to protect the security and privacy of user information.
+            o **Vendors and Partners -** Copart works with vendors and partners to protect the security and privacy of user information.
 
-            o **Employee and Contractor Access to Information** Copart limits access to personal information about you to those employees who we reasonably believe need to come into contact with that information to provide products or services to you or in order to do their jobs.
+            o **Employee and Contractor Access to Information -** Copart limits access to personal information about you to those employees who we reasonably believe need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
-            o **Education and Training for Employees** Copart has implemented a company-wide education and training program about security that is required of every Copart employee.
+            o **Education and Training for Employees -** Copart has implemented a company-wide education and training program about security that is required of every Copart employee.
 
 **Enforcement**
 
@@ -98,13 +106,13 @@
 
 **Changes to this Privacy Policy**
 
-  * Copart may update this policy. When we do, we will also revise the “last updated date” on the Privacy Policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your continued use of this website or a Copart App constitutes your agreement to this Privacy Statement and any updates.
+  * Copart may update this policy. When we do, we will also revise the "last updated date" on the Privacy Policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your continued use of this website or a Copart App constitutes your agreement to this Privacy Statement and any updates.
 
 
 
 **Update Your Information or Pose a Question or Suggestion**
 
-  * If you would like to update or correct any information that you have provided to use through your use of Copart service or otherwise, please log in to your account on the Copart websites and edit the information under “My Account”. Additionally, you can contact Member Services at [member.services@copart.com](mailto:member.services@copart.com) for assistance.
+  * If you would like to update or correct any information that you have provided to use through your use of Copart service or otherwise, please log in to your account on the Copart websites and edit the information under "My Account". Additionally, you can contact Member Services at [member.services@copart.com](mailto:member.services@copart.com) for assistance.
   * If you have a question or a suggestion for improving this Privacy Policy, please send an email to [privacy@copart.com](mailto:privacy@copart.com).
 
 
@@ -122,6 +130,6 @@ privacy@copart.com
 
 Effective Date:            October 29, 2004
 
-Last Updated Date: October 14, 2014
+Last Updated Date: June 10, 2015
 
-4834-5309-9807, v.  1
+4834-5309-9807, v. 2
