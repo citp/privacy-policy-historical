@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zintro.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129055015id_/http%3A//helpdesk.zintro.com/knowledgebase/articles/55644-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zintro.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225044027id_/http%3A//helpdesk.zintro.com/knowledgebase/articles/55644-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Customer Feedback for Zintro, Inc.
+# Zintro.com Privacy Policy – Continually improving your experience...
 
 Your privacy, and the privacy of all registered users of zintro.com, is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site. This policy is subject to, and shall be superseded by, any other agreement between you and Zintro, Inc.
 
-## 1\. Notice
+### 1\. Notice
 
 This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us if you have any questions regarding its contents.
 
@@ -28,15 +28,15 @@ We may provide third parties with collective profiles of our user groups and the
 
 We may also disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others’ rights or to prevent harm.
 
-## 2\. Choice
+### 2\. Choice
 
 We will not send unsolicited messages to users of our site who indicate that they do not wish to receive such messages. If you do not wish to receive unsolicited email messages from us, please indicate on your Zintro profile that you do not wish to receive unsolicited email messages from us.
 
-## 3\. Access
+### 3\. Access
 
 At any time after you have logged on to our site, you may edit your Zintro profile to request access to information we have collected regarding you or your business or to notify us of changes to such information. If you request any such changes, we will contact you by email or fax to confirm those changes. Once confirmed, any new item of information will replace the corresponding information previously provided.
 
-## 4\. Security
+### 4\. Security
 
 We use industry-standard encryption methods to transmit your personal registration information from your computer to ours across the Internet.
 
@@ -44,6 +44,6 @@ Please remember that you play a valuable part in security as well. Your password
 
 Regardless of the precautions taken by you or by us, “perfect security” does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.
 
-## 5\. Changes to Privacy Policy
+### 5\. Changes to Privacy Policy
 
 It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by notifying users of the changes through an announcement on this site or via electronic mail. Data will be handled in accordance with the policy in effect at the time the data is used.
