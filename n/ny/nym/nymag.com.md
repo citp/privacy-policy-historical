@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103433id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225061301id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
