@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgamesplayer.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622024905id_/http%3A//www.flashgamesplayer.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgamesplayer.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225145253id_/http%3A//www.flashgamesplayer.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy - Flash Games Player
 
@@ -68,7 +68,7 @@ You may choose to restrict the collection or use of your personal information in
 * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
 
 
-* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@flashgamesplayer.com or [Contact us](https://web.archive.org/web/20150622024905id_/http%3A//www.flashgamesplayer.com/contact.html "Contact us")  
+* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@flashgamesplayer.com or [Contact us](https://web.archive.org/contact.html "Contact us")  
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
