@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619112455id_/http%3A//www.seeklearning.com.au/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225014442id_/http%3A//www.seeklearning.com.au/Privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Seek Learning Australia
 
@@ -113,6 +113,12 @@ Credit Suppliers may require a range of additional personal information for loan
 SEEK Learning Australia may also disclose your personal information to third party contractors who perform services for us including the management and maintenance of our information systems. In some circumstances we may transfer or disclose information to persons and/or businesses outside Australia including in New Zealand, United States of America and India.
 
 Where your personal information is passed on to third party contractors, SEEK Learning Australia takes reasonable steps to ensure that these individuals and/or organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. Where information is transferred outside of Australia we believe that the recipients of such information are subject to a law binding scheme or contract which effectively upholds principles for fair handling of the information that are similar in all material respects to the Australian Privacy Principles.
+
+Where you use our Career Access service, we may also pass your details on to relevant organisations offering a placement position suited to your needs. In such circumstances, we will always notify you, and seek your consent, before sending your contact details to these third parties.
+
+You have the right to directly contact such third parties to request access to any personal information sent as part of an application or that has been provided to them through the Career Access service. The use of your information (personal or otherwise) by these organisations is not within the control of SEEK Learning and we cannot accept responsibility for the conduct of these companies.
+
+Where you are located outside of Australia and enquire about our products and services, SEEK Learning Australia may be unable to assist you. In such circumstances we may disclose your personal information to Online Education Services Pty Ltd (ACN 148 177 959) t/a Swinburne Online, a joint venture between SEEK and Swinburne University of Technology for the sole purpose of allowing them to contact you to determine if they are able to provide your with assistance in relation to your enquiry.
 
 Other than as outlined above, SEEK Learning Australia will not disclose your personal information without your consent unless disclosure is necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law, or necessary to investigate a suspected unlawful activity.
 
