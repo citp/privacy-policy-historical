@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203412id_/https%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073815id_/http%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
 
 # Inoreader • Privacy Policy
 
-_Our Privacy Policy was last updated and posted on Dec 16 2014. It governs the privacy terms of our Website, located at[www.inoreader.com](https://www.inoreader.com/). Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service._
+_Our Privacy Policy governs the privacy terms of our Website, located at[www.inoreader.com](https://www.inoreader.com/). Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service._
 
 ## Your Privacy:
 
