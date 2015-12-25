@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the blackfriday.com privacy policy that was archived on 2015-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150108021044id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfriday.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191820id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Black Friday 2014
+# Privacy Policy for BlackFriday.com
+
+[
+
+###  View Christmas Sale 2015 Deals NOW! Start Shopping Now
+
+](https://web.archive.org/christmas-sale)
 
 Effective Date: November 7, 2012
 
