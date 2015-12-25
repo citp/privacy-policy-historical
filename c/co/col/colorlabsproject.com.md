@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616203719id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115703id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Colorlabs & Company
 
-[займы онлайн](http://www.tb-credit.ru/) [займ на карту](http://www.tb-credit.ru/) [микрозайм](http://www.tb-credit.ru/) [онлайн займ](http://www.tb-credit.ru/) [получить займ](http://www.tb-credit.ru/) [быстрый онлайн займ](http://www.tb-credit.ru/) [микрокредит](http://www.tb-credit.ru/) [займы на карту](http://www.tb-credit.ru/) [займ](http://www.tb-credit.ru/) [кредит наличными](http://www.tb-credit.ru/) [потребительский кредит](http://www.tb-credit.ru/) [взять кредит](http://www.tb-credit.ru/) [заем](http://www.tb-credit.ru/) [онлайн займы](http://www.tb-credit.ru/) [займ онлайн](http://www.tb-credit.ru/)
+This privacy policy sets out how Colorlabs uses and protects any information that you give Colorlabs when you use this website.
 
-This privacy policy sets out how ColorLabs uses and protects any information that you give ColorLabs when you use this website.
+Colorlabs is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-ColorLabs is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-ColorLabs may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 March 2011.
+Colorlabs may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 March 2011.
 
 ### What We Collect
 
@@ -55,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to us](https://web.archive.org/web/20150616203719id_/http://privacy-policy/# "Privacy Policy").
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to us](https://web.archive.org/web/20151225115703id_/http://privacy-policy/# "Privacy Policy").
 
 
 
@@ -63,11 +61,11 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-#### Why ColorLabs
+#### Why Colorlabs
 
-ColorLabs & Company is a group of WordPress-infused people who have been juggling codes and scripts to make WordPress better and more beautiful since 2008.
+Colorlabs & Company is a group of WordPress-infused people who have been juggling codes and scripts to make WordPress better and more beautiful since 2008.
 
-We have a collection of 50+ premium WordPress themes covering all types of websites for all kinds of publishers. We always keep everything up to date and follow the latest web design trends.
+We have a collection of 22+ premium WordPress themes covering all types of websites for all kinds of publishers. We always keep everything up to date and follow the latest web design trends.
 
 #### Collaborate with Us
 
@@ -75,4 +73,4 @@ Are you passionate about WordPress design and always caught doing creative exper
 
 #### Become an Affiliate
 
-You can earn 25% on all sales generated through your affiliate links. Sign up as an affiliate and start making money now!
+You can earn 50% on all sales generated through your affiliate links. Sign up as an affiliate and start making money now!
