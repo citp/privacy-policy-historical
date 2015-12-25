@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317174404id_/http%3A//www.cam4.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225192018id_/http%3A//www.cam4.co.uk/privacy) for the most accurate reproduction.*
 
 # CAM4 Privacy Policy
 
@@ -31,6 +31,27 @@ Personally identifiable information: From time to time, Surecom Corporation, NV 
 We reserve the right to release information contained within our access logs concerning any Cam4.com visitor when that visitor partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant or other court order, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement individuals or entities for investigation or prosecution.
 
 Cam4 contacts you by email when we need to discuss your Cam4 account and any activity or promotions taking place on Cam4. We make it easy for you to opt out of these email messages at the time you register, or at any time thereafter through your profile settings. Cam4 provides you with the ability to opt out of all email or just certain types of messages. You may also opt out of email messages through the unsubscribe link provided at the bottom of all email correspondences. For more information, please contact us at support@cam4.biz.
+
+**Google Analytics**
+
+Cam4.com makes use of Google Analytics Demographics and Interest Reporting. The Cam4 site may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on the Cam4 site:
+
+  * You may opt out of Google Analytics for Display Advertising or customize Google Display Network ads by using the Google Ads Settings page. You may also prevent your data from being collected and used by Google Analytics by opting out through the use of the Google Analytics Opt-out Browser Add-on.
+  * If the Cam4 site makes use of the Google Analytics for Display Advertising Remarketing feature, Cam4 will use such Remarketing feature to advertise online and third party vendors, including Google, and may show Cam4 ads on sites across the Internet.
+  * Cam4 and third party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third party cookies (such as the DoubleClick cookie) together to (a) inform, optimize and serve ads based on a user’s past visits to the Cam4 site, and/or (b) report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Cam4.
+  * Data from Google Analytics Demographics and Interest Reporting may be utilized by Cam4 to help recognize and understand user preferences, to make improvements to the Cam4 site, to choose content and advertising to display to you, and for other business purposes that will allow Cam4 to better serve you.
+
+
+
+**Legal and Regulatory Requirements.**
+
+We may disclose your personal information as necessary to meet legal, regulatory, insurance, audit, and security requirements, and as otherwise with your consent or as permitted or required by law. This may include lawful requirements to disclose personal information to government authorities domestically and in foreign countries. Government authorities may, without your consent (or our consent), communicate information to other authorities, including the police forces if there is reasonable cause to believe that a criminal or penal offence has been committed or is about to be committed. 
+
+**Your Consent.**
+
+By providing your personal information to us, you indicate that you agree and consent that we may collect, use, and disclose your personal information in accordance with this Privacy Statement. In addition, from time to time and where appropriate, we may request your specific authorization or consent for the collection, use and disclosure of your personal information for the purposes specified in our request. You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice. If you withdraw your consent to certain uses of your personal information, we may no longer be able to provide certain of our products or services.
+
+Where we have provided or are providing services to you, your consent will be valid for so long as necessary to fulfill the purposes described in this Privacy Statement or otherwise at the time of collection, and you may not be permitted to withdraw consent to certain necessary uses and disclosures (for example, but not limited to, maintaining reasonable business and transaction records, disclosures to domestic and foreign government entities as required to comply with laws). We may also be required or permitted under statute or regulation to collect, use or disclose personal information without your consent, for example to comply with a court order, to comply with local or federal regulations or a legally permitted inquiry by a government agency, or to collect a debt owed to us.
 
 **Changing or Deleting Personal Information; Business Transfers.**
 
