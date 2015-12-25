@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052549id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051142id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
 
 # AutoZone.com | Privacy Policy
 
