@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the product.info privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030445id_/http%3A//product.info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the product.info privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225033930id_/http%3A//www.product.info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Product.info
 
