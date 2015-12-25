@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627050854id_/http%3A//www.farmers.co.nz/cms/page_PrivacyPolicyPage_20130916151133) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225201514id_/http%3A//www.farmers.co.nz/cms/page_PrivacyPolicyPage_20130916151133) for the most accurate reproduction.*
 
 # Shop
 
