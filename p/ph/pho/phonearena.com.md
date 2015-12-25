@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626171852id_/http%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225010253id_/http%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Phone Arena)
 
