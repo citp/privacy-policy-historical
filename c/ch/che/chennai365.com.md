@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chennai365.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612141024id_/http%3A//chennai365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennai365.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225075406id_/http%3A//chennai365.com/privacy-policy) for the most accurate reproduction.*
 
 # Chennai365 | Privacy Policy
 
-Chennai365 values the privacy of our visitors and our members and takes many steps to protect their privacy. By visiting Chennai365′s website, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+Chennai365 values the privacy of our visitors and our members and takes many steps to protect their privacy. By visiting Chennai365’s website, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
  **What this Privacy Statement Covers**
 
-This Privacy Statement covers Chennai365′s treatment of personally identifiable information (â€œPersonal Information??) that Chennai365 gathers when you access Chennai365 Sites. This Privacy Statement does not apply to the use of your Personal Information by third parties that Chennai365 does not own or control, or to individuals that Chennai365 does not control or manage.
+This Privacy Statement covers Chennai365’s treatment of personally identifiable information (â€œPersonal Information??) that Chennai365 gathers when you access Chennai365 Sites. This Privacy Statement does not apply to the use of your Personal Information by third parties that Chennai365 does not own or control, or to individuals that Chennai365 does not control or manage.
 
  **Links to Other Sites**
 
