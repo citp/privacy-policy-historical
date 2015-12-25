@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623013551id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225172322id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -207,6 +207,8 @@ Twitter: Set by Twitter only if you interacts with the Twitter plugin or is alre
 Google+: Set by Google only if you interacts with the Google+ plugin or is already logged into Google from other source for the purpose of connecting with them.
 
 Google ads: for the purpose of displaying relevant advertisements.
+
+Intercom: analytics services to help understand your usage of our services and communicate with users through behavior-driven email and in-app messages. You can decline cookies from Intercom by reading more on [ http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy](http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy)
 
 6.4  Deletion of cookies
 
