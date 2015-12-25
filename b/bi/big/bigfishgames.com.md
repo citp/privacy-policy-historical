@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622000933id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225113250id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Big Fish Games, Inc.
+# Privacy Policy | Big Fish, Inc.
 
 Last modified: April 9th, 2015
 
