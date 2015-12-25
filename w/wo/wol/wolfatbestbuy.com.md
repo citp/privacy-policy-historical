@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wolfatbestbuy.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624010933id_/http%3A//bestbuy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfatbestbuy.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225155107id_/http%3A//www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
-# Privacy Policy - Best Buy
+# Privacy Policy
 
 ## Privacy Policy
 
@@ -92,7 +92,7 @@ We use the information we collect for things like:
   * Conducting research and analysis
   * Establishing and managing your accounts with us
   * Communicating things like special events, sweepstakes, promotions and surveys
-  * Processing Best Buy credit card or My Best Buy® MasterCard applications
+  * Processing My Best Buy® Credit Card applications
   * Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online
   * Facilitating interactions with Best Buy and others, such as enabling you to e-mail a link to a friend
   * Operating, evaluating and improving our business
