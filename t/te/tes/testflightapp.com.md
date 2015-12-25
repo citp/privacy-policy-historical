@@ -1,89 +1,137 @@
-> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223093732id_/http%3A//www.burstly.com/privacy%23testflight) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052034id_/http%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
-# Burstly » Privacy Policy
+# Privacy - Our Privacy Policy - Apple
 
-**This Privacy Policy was last updated on February 18, 2014.**
+Your privacy is important to Apple and always has been. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/legal/privacy/en-ww/contact/) if you have any questions.
 
-This privacy statement ("Privacy Policy") explains how information is collected and utilized by Burstly, Inc. ("Burstly" or "we", "us", "our") its subsidiaries and affiliated companies. This Privacy Policy applies to the Burstly website at www.Burstly.com, (the "Site"), the SkyRocket service (“SkyRocket”) and Burstly Mobile Services (collectively, “the Services”). This Privacy Policy does not apply to websites, applications or services that display or link to an alternative privacy policy.
+[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
 
-YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF THE SERVICES CONSTITUTES YOUR ACCEPTANCE OF THIS PRIVACY POLICY, ANY APPLICABLE CURRENT AND PRIOR VERSIONS, AND ANY AMENDMENTS THERETO
+##### Collection and Use of Personal Information
 
-**What Personal Information Do We Collect?**
+Personal information is data that can be used to identify or contact a single person.
 
-Personal information is data that can be used to uniquely identify or contact a single person (such as an individual's name, address, telephone number or e-mail address), and information about that individual or such individuals’ activities or preferences when such information is directly linked to personal information. Personal information does not include aggregate information, which is data we collect about the characteristics and activities of users of the Services, from which any personal information has been removed. This Privacy Policy in no way limits or restricts our collection of aggregate information or of non-personal information.
+You may be asked to provide your personal information anytime you are in contact with Apple or an Apple affiliated company. Apple and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.
 
-We receive and store personal information you choose to enter through the Services, or provide us in any other way, such as by telephone or by electronic mail. For example, when you register for our services, we collect personal information about you. This information may include your name, e-mail address and telephone number. We may combine the information that you submit on our Site with information about you that we receive from other online and offline sources in order to provide you with a better experience and to improve the overall quality of our services.
+Here are some examples of the types of personal information Apple may collect and how we may use it:
 
-We utilize cookies to automatically collect information about visitors to our Site. Cookies are alphanumeric identifiers that reside within your browser to enable our computer systems to recognize your browser and to tell our systems how and when pages within our Site are visited and by how many people. The cookies from our Site do not collect personal information; however, we may combine information collected through certain cookies we issue on our Site with other personal information that you provide to us on the Site. [View our cookies policy here.](http://www.burstly.com/cookies)
+###### What personal information we collect
 
-We may collect information using Web beacons. Web beacons are electronic images used on our Sites or in our emails. We use web beacons to deliver cookies, count visits, understand usage and activity on the Site and to tell if an email has been opened and acted upon.
+  * When you create an Apple ID, apply for commercial credit, purchase a product, download a software update, register for a class at an Apple Retail Store, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
+  * When you share your content with family and friends using Apple products, send gift certificates and products, or invite others to participate in Apple services or forums, Apple may collect the information you provide about those people such as name, mailing address, email address, and phone number. Apple will use such information to fulfill your requests, provide the relevant product or service, or for anti-fraud purposes.
+  * In the U.S., we may ask for a government issued ID in limited circumstances including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law.
 
-We automatically receive and store certain other types of information whenever you interact with us. For example, our servers track the type of Web browser you are using, where you travel within the Site, and the page to which you link from the Site. This type of collective data enables us to figure out how often customers use parts of the Site, so we can make the Site appealing to as many customers as possible.
 
-We also may collect information in connection with our Mobile Services provided to publishers and advertisers as described below in the Burstly Mobile Services section of this Privacy Policy.
 
-**How Do We Use the Personal Information That We Collect?**
+###### How we use your personal information
 
-We use the information we collect to provide the Services and to better understand what products and services are of interest to our users. For example, we may utilize your information to:
+  * The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences](https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry).
+  * We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
+  * We may use your personal information, including date of birth, to verify identity, assist with identification of users, and to determine appropriate services. For example, we may use date of birth to determine the age of Apple ID account holders.
+  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
+  * If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
-• Operate and improve the Services;
 
-• Respond to your comments and questions and provide customer service;
 
-• Provide and deliver products and services and send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+##### Collection and Use of Non-Personal Information
 
-• Protect the rights or property of Burstly or our users; and
+We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-• Communicate with you about promotions, upcoming events, and other news about products and services offered by Burstly and our partners.
+  * We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where an Apple product is used so that we can better understand customer behavior and improve our products, services, and advertising.
+  * We may collect information regarding customer activities on our website, iCloud services, and iTunes Store and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non‑personal information for the purposes of this Privacy Policy.
+  * We may collect and store details of how you use our services, including search queries. This information may be used to improve the relevancy of results provided by our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address.
+  * With your explicit consent, we may collect data about how you use your device and applications in order to help app developers improve their apps.
 
-We may store and process personal information in the United States and in other countries.
 
-**Do We Share the Personal Information That We Collect?**
 
-We do not share your personal information except as approved by you or as described below: 
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-• With your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
+##### Cookies and Other Technologies
 
-• Agents and Service Providers: We may engage other companies and individuals to perform services on our behalf. Examples of these services include e-mail to you and analyzing data. While these agents and service providers may have access to your personal information in connection with the performance of services for Burstly, they may not use such information for any purpose other than providing such services to Burstly.
+Apple’s websites, online services, interactive applications, email messages, and advertisements may use [“cookies” and other technologies](https://web.archive.org/legal/privacy/en-ww/cookies/) such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-• Protection of Burstly and Others: It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for the Company to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. Additionally, we may disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users.
+Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com.](http://oo.apple.com/) Alternatively, if you are using iOS 6 or above operating system on your mobile device or iTunes Radio on your computer, you may opt‑out by electing Limit Ad Tracking. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
 
-• Corporate Transfers and Financings: In the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
 
-**How Secure Is the Personal Information That You Provide to Us?**
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
 
-We take reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. We cannot, however, ensure or warrant the security of any information that we receive.
+As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
 
-**Transfer of Information.**
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, to improve our product and services, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
 
-If you are not a resident of the United States, you understand and agree that the Company stores and processes your information on computers located in the United States, and by providing any data to the Company and/or using the Services, you consent to the transfer of such information to the United States and the application of the laws of the United States.
+In some of our email messages, we use a “click-through URL” linked to content on the Apple website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
 
-**What Information Can You Access and Change?**
+Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
 
-You can access or correct certain information about you collected on this Site in the Account section of the Site. You may opt out of receiving promotional emails from Burstly by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences and other changes to your information by emailing [legal@burstly.com](mailto:legal@burstly.com).
+##### Disclosure to Third Parties
 
-**Burstly Mobile Services**
+At times Apple may make certain personal information available to strategic partners that work with Apple to provide products and services, or that help Apple market to customers. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies. Personal information will only be shared by Apple to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
 
-Burstly provides mobile advertising services ("Mobile Services") to advertisers and publishers. If you are a publisher using the Mobile Services, we may access, index, and cache requests made from your mobile sites, applications and device platforms to our system, including by automated means. In the course of providing these Mobile Services, we collect aggregate data from publishers' sites and use such data for a number of purposes, including, but not limited to, providing publishers, advertisers and others with aggregate information about traffic and site usage in our advertising network.
+###### Service Providers
 
-We also collect certain information about visitors to publishers' sites that connect to the Mobile Services. We will automatically collect and receive information about those visitors such as, but not limited to, browser identifiers, session information, browser cookies, device type, carrier provider, IP addresses, unique device ID, carrier user ID, geo-location information, sites visited and clicks on advertisements we display. We may track that information over time and over multiple publishers' sites and use non-personally identifiable information collected from such visitors to provide reports to advertisers and others and to help us display advertisements that may be of interest to your visitors. In some cases, the mobile phone service providers for mobile devices may send visitors' phone numbers to Burstly. We use such information to perform analysis aimed at improving our services and technologies and we may also use this data to display advertising customized to visitors' interests and preferences. We do not use such information for telemarketing, to contact any individuals or to share with any third parties for their own use. In addition, we may collect personal information directly from customers on behalf of advertisers and periodically transfer such information to such advertisers.
+Apple shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Apple operates.
 
-**Burstly Rewards**
+###### Others
 
-Burstly also delivers to users offers from third party advertising partners that allow users to earn rewards within participating mobile applications. By interacting with these offers some of those advertising partners may be able to collect information such as, but not limited to browser identifiers, session information, browser cookies, device type, carrier provider, IP addresses, unique device ID, carrier user ID, geo-location information and clicks on advertisements. If you are interested in how our partners use information they have collected please email [legal@burstly.com](mailto:legal@burstly.com).
+It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Apple to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-**Third Party Sites**
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
-The Site may contain links to other websites. We are not responsible for the privacy practices or the content of such websites, which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+##### Protection of Personal Information
 
-**Our Policy Toward Children.**
+Apple takes the security of your personal information very seriously. Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS). When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures. iCloud data is stored in encrypted form including when we utilize third party storage.
 
-Our Services are not directed to children under 18 years of age. We do not knowingly collect Personal Information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information, he or she should contact us at [legal@burstly.com](mailto:legal@burstly.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
 
-**California Residents - Do Not Track Notice**
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third party device thereby disclosing any such shared information. [See [About Family Sharing](https://web.archive.org/icloud/family-sharing/) for more information.]
 
-Some browsers have incorporated “Do Not Track” (“DNT”) features. We interpret the DNT feature to apply to third party tracking on a website. Since we do not allow third parties to track users on our Sites for purposes of advertising, we take no action when we receive a DNT signal.
+##### Integrity and Retention of Personal Information
 
-**Changes**
+Apple makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-We may change this Privacy Policy at any time, at our sole discretion. Use of information we collect now is subject to this Privacy Policy in effect at the time such information is used. If we make changes to our Privacy Policy, we will notify you by posting an announcement on the Site so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. If we make any changes to this Policy, we will change the "Last Updated" date above.
+##### Access to Personal Information
+
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+##### Children
+
+We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Accordingly, we do not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
+
+Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided consent through the Apple ID for Students Program or as part of the child account creation process in Family Sharing. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes/), before they can begin the Apple ID account creation process for their child. Learn more about [Family Sharing](https://web.archive.org/icloud/family-sharing/), the [Apple ID for Students program](https://www.apple.com/education/docs/Apple_ID_for_Students_Parent_Guide_US_0514.pdf) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
+
+If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+Or by using the contact information [here](https://www.apple.com/legal/privacy/en-ww/?#questions).
+
+##### Location-Based Services
+
+To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices’ approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
+
+Some location-based services offered by Apple, such as the “Find My iPhone” feature, require your personal information for the feature to work.
+
+##### Third‑Party Sites and Services
+
+Apple websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties − for example, a third‑party iPhone app. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+
+##### International Users
+
+All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.asp).
+
+Please note that personal information, including the information provided when using iCloud, regarding individuals who reside in a member state of the European Economic Area (EEA) and Switzerland is controlled by Apple Distribution International in Cork, Ireland, and processed on its behalf by Apple Inc. Personal information collected in the EEA and Switzerland when using iTunes is controlled by iTunes SARL in Luxembourg and processed on its behalf by Apple Inc.
+
+Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies.
+
+##### Our Companywide Commitment to Your Privacy
+
+To make sure your personal information is secure, we communicate our privacy and security guidelines to Apple employees and strictly enforce privacy safeguards within the company.
+
+##### Privacy Questions
+
+If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us](https://web.archive.org/legal/privacy/en-ww/contact/). You can always contact us by phone at the relevant [Apple Support](http://support.apple.com/kb/HE57) number for your country.
+
+All such communications are examined and replies issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
+
+Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
