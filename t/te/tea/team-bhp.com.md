@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team-bhp.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622084608id_/http%3A//www.team-bhp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-bhp.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225084703id_/http%3A//www.team-bhp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Team-BHP
 
