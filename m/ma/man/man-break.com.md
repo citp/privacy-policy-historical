@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the man-break.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608044615id_/http%3A//man-break.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the man-break.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225090448id_/http%3A//man-break.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Man Break
+# Privacy Policy - Man Break
 
 This Privacy Policy governs the manner in which Man Break collects, uses, maintains and discloses information collected from users (each, a “User”) of the [man-break.com](http://www.generateprivacypolicy.com/account/policies/edit/man-break.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Man Break.
 
