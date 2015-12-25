@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qklnk.co privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621235941id_/http%3A//radiumone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qklnk.co privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042425id_/http%3A//radiumone.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RadiumOne - We Know Your Next Customer
+# Privacy Policy - RadiumOne
 
-**Last updated: April 30, 2015  **
+**Last updated: November 20, 2015  **
 
 RadiumOne is a digital advertising company. We value the privacy of consumers (“ **Users** , “ **you”** , “ **your”** ) who visit our website at [http://radiumone.com](http://radiumone.com/) (the “ **Site”** ) as well as other websites and mobile applications where our technology is enabled (together, the “ **Platform”** ). In this Privacy Policy we use the terms “ **RadiumOne”** , “ **our”** , “ **us”**  and “ **we”**  to refer to RadiumOne, Inc., RadiumOne UK Ltd., and our affiliates.
 
@@ -18,7 +18,7 @@ Targeted Advertising is based on data that does not personally identify you and 
 
 The information we collect falls into two categories – **Browser-Based Data** and **Mobile App-Based Data**.
 
-For information about opting out from the collection of Browser-Based Data and Mobile App-Based Data, please visit the Opting Out section by clicking [here](http://radiumone.com/opt/).
+For information about opting out from the collection of Browser-Based Data and Mobile App-Based Data, please visit our Opt Out page by clicking [here](http://radiumone.com/opt/).
 
 _Browser-Based Data_
 
@@ -37,13 +37,13 @@ _Browser-Based Data_
 
 _Mobile Application-Based Data_
 
-  * Device IDs. If you are using the Platform via a mobile application, we may use the Apple IFA, Android Advertiser ID, or other non-personally identifiable device information that uniquely identifies a mobile device (collectively, “ **Device IDs”** ) in order to match certain non-personally identifiable information that we collect via the mobile application.
+  * Device IDs. If you are using the Platform via a mobile application, we may use the Apple IFA, Google Advertising ID, or other non-personally identifiable device information that uniquely identifies a mobile device (collectively, “ **Device IDs”** ) in order to match certain non-personally identifiable information that we collect via the mobile application.
 
 
   * Ad Serving Information. We may collect non-personally identifiable mobile-application-based information about how you interact with the ads that the Platform displays (together, “ **Ad Serving Information”** ). This Ad Serving Information may include the following: whether the User has (i) clicked on the ad of a RadiumOne advertiser, (ii) installed this advertiser’s application, or (iii) undertaken a transaction with this advertiser inside the downloaded application.
 
 
-  * API or SDK Information. Developers of mobile applications may choose to implement our application programming interfaces (“ **APIs”** ) and software development kits (“ **SDKs”** ), such as RadiumOne Connect, which delivers push messages to consumers and provides developers with mobile analytics, geo-fencing capabilities, and advertising campaign attribution; and RadiumOne Engage, which delivers advertisements within mobile gaming applications (together, the “ **RadiumOne Software** ”). When a User accesses an application that implements the RadiumOne Software, we may collect certain non-personally identifiable User data, including: (i) technographic data related to the device (such as Device ID, device model, and operating system), (ii) information related to the application that implements the API or SDK (such as the version of the third party application, the SDK or the API being used), (iii) certain information relating to the applications installed on a mobile device (such as a list of the applications installed on the device), (iv) connection data (such as the IP address and mobile country or network code used to access the API or SDK), and (v) various data relating to the User (such as latitude and longitude, language preferences, or self-reported demographic data, including age, income, education or ethnicity).
+  * API or SDK Information. Developers of mobile applications may choose to implement our application programming interfaces (“ **APIs”** ) and software development kits (“ **SDKs”** ), such as RadiumOne Connect, which delivers push messages to consumers and provides developers with mobile analytics, geo-fencing capabilities, and advertising campaign attribution; and RadiumOne Engage, which delivers advertisements within mobile gaming applications (together, the “ **RadiumOne Software** ”). When a User accesses an application that implements the RadiumOne Software, we may collect certain non-personally identifiable User data, including: (i) technographic data related to the device (such as Apple IFA or Google Advertising ID, device model, and operating system), (ii) information related to the application that implements the API or SDK (such as the version of the third party application, the SDK or the API being used), (iii) certain information relating to the applications installed on a mobile device (such as a list of the applications installed on the device), (iv) connection data (such as the IP address and mobile country or network code used to access the API or SDK), and (v) various data relating to the User (such as latitude and longitude, language preferences, or self-reported demographic data, including age, income, education or ethnicity).
 
 
   * iBeacons. We may collect non-personally identifiable information about your location through the use of iBeacon technology, an indoor positioning system that can notify nearby smartphones or other devices of their presence.
@@ -78,13 +78,10 @@ _Browser-Based Data Collection_
 
 You can opt out from receiving RadiumOne Targeted Advertising based on data collected via your browser by doing one of the following:
 
-  * Clicking the button below. By clicking the button below, you opt out from receiving RadiumOne Targeted Advertising based on data collected via your browser.
+  * Visiting our Opt Out page by clicking [here](http://radiumone.com/opt/). Please note that if you disable all cookies via your browser settings (see below), change the browser on the device from which you opted out of RadiumOne Targeted Advertising, or use a different device, you will need to opt out again from receiving cookies.
 
 
-
-Please note that if you disable all cookies via your browser settings (see below), change the browser on the device from which you opted out of RadiumOne Targeted Advertising, or use a different device, you will need to opt out again from receiving cookies.
-
-  * Visiting opt outs of standards bodies. RadiumOne is a member of the Network Advertising Initiative (“ **NAI”** ), the Digital Advertising Alliance (“ **DAA** ”), the Digital Advertising Alliance of Canada (“ **DAAC** “), the European Interactive Digital Advertising Alliance (“ **EDAA** ”), and the Internet Advertising Bureau (“ **IAB”** ) and adheres to each organization’s principles (the NAI Code of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, and IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising, respectively). You can opt-out of RadiumOne Targeted Advertising based on data collected via your browser by using (a) the NAI’s opt-out tool, which can be found [here](http://www.aboutads.info/choices/); (b) the DAA’s opt-out tool, which can be found [here](https://web.archive.org/web/20150621235941id_/http%3A//radiumone.com/youradchoices.ca/choices); (c) the DAAC’s opt-out tool, which can be found [here](https://web.archive.org/web/20150621235941id_/http%3A//radiumone.com/youradchoices.ca/choices); or (d) the EDAA’s opt-out tool, which can be found [here](http://youronlinechoices.eu/).
+  * Visiting opt outs of standards bodies. RadiumOne is a member of the Network Advertising Initiative (“ **NAI”** ), the Digital Advertising Alliance (“ **DAA** ”), the Digital Advertising Alliance of Canada (“ **DAAC** “), the European Interactive Digital Advertising Alliance (“ **EDAA** ”), and the Internet Advertising Bureau (“ **IAB”** ) and adheres to each organization’s principles (the NAI Code of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, and IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising, respectively). You can opt-out of RadiumOne Targeted Advertising based on data collected via your browser by using (a) the NAI’s opt-out tool, which can be found [here](http://www.aboutads.info/choices/); (b) the DAA’s opt-out tool, which can be found [here](https://web.archive.org/web/20151225042425id_/https://radiumone.com/privacy/youradchoices.ca/choices); (c) the DAAC’s opt-out tool, which can be found [here](https://web.archive.org/web/20151225042425id_/https://radiumone.com/privacy/youradchoices.ca/choices); or (d) the EDAA’s opt-out tool, which can be found [here](http://youronlinechoices.eu/).
 
 
 
@@ -112,7 +109,7 @@ _iOS 6 –  _Choose  **Settings > General > About > Advertising**
 
 When you opt out, we will stop (a) collecting information about your interests via your mobile applications and (b) serving you Targeted Ads based on the data collected via your mobile applications.
 
-Please note that opting out of either Browser-Based or Mobile Application-Based Data Collection does not mean you will not see ads online, but only that RadiumOne will not tailor ads based on your interests.
+Please note that opting out of either Browser-Based or Mobile Application-Based Data Collection does not mean you will not see ads online from RadiumOne or other digital advertising companies, but only that RadiumOne will not tailor ads based on your interests.
 
 **Data Retention**
 
@@ -136,7 +133,7 @@ The Site is generally intended for use by businesses, advertisers, and potential
 
 **Disclosure by Legal Necessity**
 
-RadiumOne may disclose your personal information if: (i) required by law or in the good-faith belief that such action is necessary to comply with applicable laws; (ii) we believe, in good faith, that such action is appropriate or necessary to take precautions against liability; or (iii) such action is necessary to protect our, our Users’ or third parties’ rights. In such circumstances we may disclose your personal information to law enforcement agencies, regulatory organizations, courts or other public authorities ** **
+RadiumOne may disclose your personal information if: (i) required by law or in the good-faith belief that such action is necessary to comply with applicable laws; (ii) we believe, in good faith, that such action is appropriate or necessary to take precautions against liability; or (iii) such action is necessary to protect our, our Users’ or third parties’ rights. In such circumstances we may disclose your personal information to law enforcement agencies, regulatory organizations, courts or other public authorities.
 
 **Data Transfer**
 
