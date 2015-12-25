@@ -1,63 +1,104 @@
-> *The following text is extracted and transformed from the play22.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604001124id_/http%3A//www.play22.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play22.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051911id_/http%3A//www.gamesgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Support at King.com
+# Games - Free Online Games, Free Games Online! - GamesGames.com
 
-## PRIVACY STATEMENT
+This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered by us on or through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Mussenstraat 15, 1223 RB Hilversum, the Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy.
 
-Welcome to the King.com website run by Midasplayer.com Limited ("we," "us," and "our"). We are committed to respecting the privacy rights and concerns of all users of our King.com website (the "Site") (we refer to the Site and the services we provide as described in our Site collectively as the "Site Features"). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Site Features how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement. This privacy statement was last updated on June 24, 2009. 
+## 1\. About Our Websites
 
-### What information does King.com collect?
+1.1 Our Websites offer a diverse, current, and exciting mix of online games created by SPIL, as well as games created by independent developers and SPIL partners. Players can access our Websites to play games without registering; however, they may choose to register to create a public or semi-public profile and to save games, high scores, and comments on this profile. Also, visitors to the Websites will be able to rate games and browse for the newly added, top-rated, and most-popular games.
 
-We do not collect personally identifiable information unless our Members voluntarily provide it to us. We do, however, collect certain types of information and ask for personal information in certain circumstances, such as when you set up an account. The following sections describe what type of information we collect, when we collect it and how we use it. 
+## 2\. The Information We Collect
 
-### Setting up an account
+The information that our Websites collect includes (among others) the following:
 
-In order to use certain functionality of the Site Features, you will have to create a user account which requires you to submit certain personal information. When you register and create an account, we require you to provide us with a user name of your choosing, your email address, your country of residence and a unique password. When you upgrade your account to Gold status, we require your name, billing address and credit, debit or charge card or PayPal account information. In addition, as a Gold member, you can include information you determine in your “player profile” and may upload photographs to your Player profile. 
+## a) IP address, Cookies, and Web Beacons 
 
-### Cookies
+2.1 When you visit our Websites, our servers automatically save your computer's IP address. IP addresses will be collected, along with information about the actual web pages that you visit on the Websites. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected.
 
-Cookies are small bits of electronic information that a web site can transfer to a visitor’s hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor’s individual preferences. For example, by setting a cookie you would not have to enter information in the Site more than once, thereby saving time. We do not receive or record any personal information in the cookies we use. We do use cookies to enable our system to recognize your computer, and to ensure that your account is attributed to the user who inputs the correct username and password for that account. We may also use cookies to serve advertising banners for our Game Service to you. These banners may be served by us or by a third party on our behalf. Again, these cookies will not contain any personal information. 
+2.2 In addition, we store certain information from your browser, using "cookies." A cookie is a piece of data stored on the user's computer and is tied to information about the user. SPIL may use cookies, web beacons (web bugs), or similar technologies to enhance and personalize your experience on the Websites, including the following:
 
-Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access the Site Features. 
+  * (a) to operate and improve offerings on the Websites;
+  * (b) to help authenticate you when you are on the Websites;
+  * (c) to remember your preferences and registration information, as applicable;
+  * (d) to present and help measure and research the effectiveness of SPIL's offerings, advertisements, and email communications; and 
+  * (e) to customize the content and advertisements provided to you through the Websites.
 
-### Use of Email Notifications
 
-We utilize e-mails to notify you when you win tournaments, alert you to withdrawals and to let you know of special promotions, events and policy changes. Important notices will be sent to your nominated email address as long as your account is open, but you have the choice to opt-in or opt-out of receiving any promotional e-mails at any time by sending an email to that effect, using the [dedicated form](https://web.archive.org/support/contact.jsp). We do not transfer or share your email address with any third parties. 
 
-### How do we use the information you provide us?
+2.3 SPIL may also use ad network providers to help present advertisements on the Websites. These ad network providers use cookies, web beacons, or similar technologies to help the presenting, better targeting, and measuring of the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audiences. SPIL offers some services in connection with other websites. Personal information that you provide to those sites may be sent to SPIL in order to deliver these services. SPIL processes such information in accordance with this Privacy Policy.
 
-As stated above, we use your personal information such as your name, address, billing and mailing address and credit card number for billing purposes when we charge you for the use of your account. We also will use your email address to contact you as described above. 
+2.4 SPIL may also use third-party payment service providers ("PSP"), offering payment transaction services to SPIL in order to sell a product or service through the Websites. Whenever you buy something from the Websites (e.g., a virtual game item or a subscription for a game download), the information that you provide to the PSP is subject to their privacy policies, not ours. You explicitly consent that SPIL may provide personal information collected from you to a PSP for the purpose of the offering of the payment-transaction service whenever you buy something from the Website(s) and that such PSP may use such data for (statistical) analysis of payment transactions. SPIL shall be allowed to notify a PSP regarding a user that engages in (or who a party believes has engaged in) any activity that is illegal, that violates any person's rights, or that led to such user's suspension or termination of use of the Websites.
 
-By registering as a Member, you agree that we may display the username you select, tournament scores and records. By accepting any prize, you further agree that in our promotional efforts we have the right to publish your username and tournament records in any media (newsletters, broadcasts, emails, etc.), without making any payment to you. 
+2.5 SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.
 
-We reserve the right to collect general demographic and other anonymous information that does not personally identify you. This information is not associated with your personally identifiable information and cannot be linked to you personally. We may also provide aggregated information about our visitors to outside parties from time to time. 
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookies [opt-out page](http://www.networkadvertising.org/choices) or the link to the European Interactive Digital Advertising Alliance (EDAA) [opt-out page](http://www.youronlinechoices.com/) . However, some features and services may not function properly if cookies are disabled.
 
-We may also disclose your personal information to one of our partners if you registered with us as a Member after clicking on a link on their website and you agreed that we could disclose such information to them. 
+2.7 You may choose to register with us for a better game experience and/or to create a public or semi-public profile for participating in our social gaming network. This includes, for example: overviews of high scores, achievements listings, and individual game recommendations on the Websites. When you register with us, you provide us with certain personal information, such as a username, date and month of birth, and your email address. The information you disclose in that respect may also become publicly accessible. We provide you with privacy settings that restrict other users from accessing your information; namely, our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We allow you to choose the information you provide to friends and networks through our Websites. When your privacy settings permit it, other users may be able to see and supplement your profile (e.g., by posting comments).
 
-In the event we go through a business transition, such as a merger, being acquired by another company, or selling a portion of our assets, Members’ information will, in most instances, be part of the assets transferred. Members will be notified via prominent notice on the Site for 30 days prior to a change of ownership or control of information of users held by us. If as a result of the business transition, information will be used for a purpose different from that stated, or implied, at the time of collection users will be given a choice consistent with our notification of changes section. 
+2.8 If you decide to disclose information in a public venue or in games, we will consider that information as part of the public domain. This information will be accessible to any person who uses the Websites.
 
-Notwithstanding any other term of this privacy statement, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others’ rights, property, or safety. 
+2.9 We only collect email addresses that were provided to us directly by you. Your email address will only be used for the following purposes:
 
-## How does King.com protect Member information?
+  * (i) the promotion of (new) games;
+  * (ii) service emails (on updates, new design, new features, etc.);
+  * (iii) administrative purposes, such as notification of violation of our Terms of Use;
+  * (iv) delivering messages you have allowed us to pass on (e.g., from other people in your social network).
 
-We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Any credit card information you supply us is transmitted and protected via Secure Socket Layer technology ("SSL") and HTTPS protocol and then stored into our databases to be accessed only as stated above. 
 
-It is important to us that everyone playing our games plays fairly and we treat any abuse very seriously. We therefore take a number of measures intended to prevent abuse and ensure the smooth and uninterrupted performance of our games. You therefore agree that we can monitor your computer closely to detect any kind of attempt to cheat and that we can also make use of "Active X" controls and other methods to ensure that our Games are played fairly. 
 
-We will retain your personal data only as long as is necessary for the purposes to which you consent under this Member Agreement, and then we will delete it from our systems. 
+2.10 Without your approval, we will not:
 
-## How do you opt in?
+  * (a) make your email address visible on the Website;
+  * (b) use your email address for purposes other than those described in article 2.9 hereof;
+  * (c) transfer your email address or other personal information to third parties, except in those limited cases as described in this Privacy Policy.
 
-When you initially establish your account, you will be asked if you would like to opt in to receiving email notifications and updates. You can change this preference at any time by accessing the "My Account" area of the Site. 
 
-### Notification of changes.
 
-By visiting the Site or using the Site Features, you consent to the collection and use of information by us as set forth in this privacy statement. If we decide to change our privacy statement, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+## c) Combination of Personal Data
 
-### Questions? Contact Us
+2.11 For optimizing our services and the Websites, and for the purposes mentioned in this article 2, we are entitled to combine your personal data (including your email address, as applicable) with other information about you collected by or provided to us.
 
-If you have any questions about this privacy policy or our use of your personal data, or you wish to change or update personal data you have previously provided to us, you can contact us using the [dedicated form](https://web.archive.org/support/stt/?action=contact). You can also use this form if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
+## 3\. To Whom Does SPIL Provide This Information?
 
-### Terms and Conditions
+3.1 SPIL may provide information to any party whose services it engages for the purposes of its normal operations (for example, those partners who assist us by providing technical or operational facilities for the Websites and so forth). We may also supply information to other parties if we are required to do so by law or by a ruling handed down by a court of law. SPIL does not provide personal details to other parties for commercial, advertising, or marketing purposes, except if you explicitly give us permission to do so, or if doing so is part of a specific program or operation for which you have registered. In such case, you may withdraw your permission at any time.
 
-Please also read the [Terms of Use](https://web.archive.org/account/termsAndConditions.jsp) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Site Features. 
+## 4\. Why Do We Collect Information?
+
+4.1 We use personal details and other information to maintain the general and personified content and functionality of the Websites. In addition, we use personal details to make it possible to accommodate your requests, and so that we are able to provide you with service when using (one of) our Websites and for the purposes set out elsewhere in this Privacy Policy.
+
+## 5\. Access to the Information We Have Collected about You
+
+5.1 Your personal data will be stored by SPIL.
+
+5.2 Users with a personal profile on the Websites may review, update, or delete personal data collected by us by clicking on the appropriate link in the personal profile.
+
+5.3 In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to SPIL GAMES BV, Arendstraat 23, 1223 RE, Hilversum, the Netherlands, detailing your request and the data you have provided to us along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [info@spilgames.com](mailto:info@spilgames.com) .
+
+5.4 Parents of users under the age of 16: If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to SPIL GAMES BV, Arendstraat 23, 1223 RE, Hilversum, the Netherlands, detailing your request along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [info@spilgames.com](mailto:info@spilgames.com) .
+
+## 6\. Security
+
+6.1 You post personal data and any other content on the Websites at your own risk and in accordance with article 7 ("Your Responsibilities") of the Terms of Use. Although we allow you to set privacy options that limit access to such personal data and other content, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you choose to share your profile and information. Therefore, we cannot and do not guarantee that any content you post on the Websites will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Websites. You understand and acknowledge that, even after removal, copies of personal data or content may remain viewable in d archived pages, or if other users have copied or stored your personal data or content.
+
+6.2 We have implemented appropriate measures to safeguard and help prevent unauthorized access, to maintain data security, and to correctly use the information we collect online. Your personal data visible on the Websites (such as any public comments posted by you and/or any data in your profile) are accessible to third parties, and you acknowledge and agree that such third parties are able to copy such information to their own websites or other locations.
+
+6.3 Your personal data will only be stored for a period necessary for your uses of the Websites for the purposes as described in this Privacy Policy.
+
+## 7\. Miscellaneous
+
+7.1 We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Websites. You should check the Websites regularly for amendments.
+
+7.2 The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing of personal data in this way.
+
+7.3 Our Websites may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by us.
+
+7.4 In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In such an event, users who have provided email addresses to us will be notified when information about those users is transferred and becomes subject to a different privacy policy.
+
+7.5 We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails.
+
+7.6 This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands.
+
+If you have any additional questions or requests, you may send an email to [info@spilgames.com](mailto:info@spilgames.com) .
+
+100209
