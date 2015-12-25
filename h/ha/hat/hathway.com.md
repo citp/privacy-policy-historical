@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the hathway.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916134113id_/http%3A//www.hathway.com/privacy-policy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D450%26width%3D720) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hathway.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225230748id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PrivacyPolicy
 
-In the course of using this website or availing the products and services vide the online application forms and questionnaires, Hathway Cable & Datacom Limited ( “Hathway”) and its Affiliates may become privy to the personal information of its customers, including information that is of a confidential nature.
+Hathway ("we/us/our") is committed to protecting personal information that you may provide to us. 
 
-Hathway is strongly committed to protecting the privacy of its customers and has taken all necessary and reasonable measures to protect the confidentiality of the customer information and its transmission through the web. While no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. 
+It is important for Hathway that you to know how we treat information about you that we may receive through this website "www.hathway.com" ("website"). 
 
-The Customer would be required to cooperate with Hathway in order to ensure the security of the information, and it is recommended that the Customers necessarily choose their passwords carefully such that no unauthorised access is made by a third party. To make the password complex and difficult for others to guess, the Customers should use combination of alphabets, numbers and special characters (like !, @, #, $ etc.). The Customers should undertake not to disclose their password to anyone or keep any written or other record of the password such that a third party could access it. 
+This web server collects the domain names, not the e-mail addresses of visitors. We may however, store personal information that you give us, for a specific purpose. This includes details such as your name, address, telephone, VC number, account number and/ or e-mail address. This Privacy Policy is applicable all the personal information that you give us ("User Information") via this website. We want you to know that your personal details shall remain private and secure with us. 
 
-Hathway undertakes not to disclose the information provided by the Customers to any person, unless such action is necessary to: 
+We are not bound to reply to you when you leave your personal details. 
 
-  * Conform to legal requirements or comply with legal process;
-  * Protect and defend Hathway’s or its Affiliates' rights, interests or property;
-  * Enforce the terms and conditions of the products or services; or
-  * Act to protect the interests of Hathway, its Affiliates, or its members, constituents or of other persons.
+This website is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not market our products and/or services to children. 
 
+We make use of User Information for the following: 
 
+\- Market research, including statistical analysis of user behavior which we may disclose to third parties in aggregated form. 
 
-The Customers shall not disclose to any other person, in any manner whatsoever, any information relating to Hathway or its Affiliates of a confidential nature obtained in the course of availing the services through the website. Failure to comply with this obligation shall be deemed a serious breach of the terms herein and shall entitle Hathway or its Affiliates to terminate the services, without prejudice to any damages, to which the customer may be entitled otherwise. 
+\- In compliance with any requirement of law.
 
-Hathway will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the customers. Hathway may use and share the information provided by the Customers with its Affiliates and third parties for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the Customers regarding any problem with, or the expiration of, such services. In this regard, it may be necessary to disclose the customer information to one or more agents and contractors of Hathway and their sub-contractors, but such agents, contractors, and sub-contractors will be required to agree to use the information obtained from Hathway only for these purposes. 
+\- To send you periodic communications about our features, products, services, events and special offers.
 
-Our Site may contain advertisements, references and links to other web sites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters. Often these third party advertising companies employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard.
+We do not share User Information with third parties. 
 
-The Customer authorises Hathway to exchange, share, part with all information related to the details and transaction history of the Customers to its Affiliates / banks / financial institutions / credit bureaus / agencies/participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management and shall not hold Hathway liable for use or disclosure of this information. 
+**Cookies**
 
-Hathway will occasionally update this Privacy Statement to reflect company and customer feedback. When Hathway posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of Hathway. If there are material changes to this Statement or in how Hathway will use your personal information, Hathway will prominently post such changes prior to implementing the change. Hathway encourages you to periodically review this Statement to be informed of how we are protecting your information. 
+You should be aware that information and data may be automatically collected through the use of cookies. "Cookies" are small text files that store basic information that a website can use to recognise repeat site visits and as an example, recall your name if this has been previously supplied. We may use this to observe behavior and compile aggregate data in order to improve our website reach. Cookies do not attach to your system and damage your files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. Note, however, that “personalised" services may be affected if the cookie option is disabled. 
+
+**Security and data retention**
+
+Security is very important to us. All security procedures are in place to protect the confidentiality, integrity and availability of your User Information. We maintain strict physical, electronic, and administrative safeguards to protect Your personal information from unauthorized or inappropriate access. We restrict access to information about you to those of our employees who need to know the information to respond to your inquiry or request. 
+
+**Updates**
+
+We may change this privacy policy from time to time and you should check these regularly. Your use of the Hathway website will be deemed an acceptance of the privacy policy existing at that time. 
