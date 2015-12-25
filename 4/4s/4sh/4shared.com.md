@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623192241id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225035836id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
 This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by New IT Solutions Ltd. (" **we** " or " **us** ") with respect to your access and use of 4shared's online file storage and sharing service located at [www.4shared.com](http://www.4shared.com/), (the " **Service** ") and our mobile applications 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service. 
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
-
-New IT Solutions Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/web/helpCenter) or 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site. 
 
 **What Is Personal Information?**
 
