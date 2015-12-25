@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170858id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225121058id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
 
 # TheJournal.ie - Read, Share and Shape the News
 
@@ -20,6 +20,7 @@ We recommend that young people aged 13 to 17 ask their parents or legal guardian
 
 We collect the following information:
 
+  * Information supplied when you use the website or apps;
   * Information which you supply on registration or as part of your profile;
   * Information which you provide in relation to any payment;
   * Information which you post on TheJournal.ie;
