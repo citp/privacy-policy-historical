@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626043708id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225075219id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # C# Corner : Privacy Policy
 
@@ -12,9 +12,9 @@ If you ever has concerned about sharing your information, please send us email [
 
 #####  Information Storage and Security 
 
-We are committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data online including emails and passwords. 
+We are committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data online including emails and words. 
 
-Your access to some services and content is password protected. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. You should not disclose your user name and password to others. In addition, if applicable, you should remember to sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library. 
+Your access to some services and content is word protected. We recommend that you do not divulge your word to anyone. We will never ask you for your word in an unsolicited phone call or in an unsolicited email. You should not disclose your user name and word to others. In addition, if applicable, you should remember to sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library. 
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our best efforts to protect your personal information, We cannot completely ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
@@ -24,7 +24,7 @@ Links to third party web sites are provided solely as a convenience to you. If y
 
 #####  Use of Cookies 
 
-A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, we may use cookies to store your login credentials and other small information such as user Id and password. C# Corner wants to ensure that you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data we store on your machine. This practice is strictly enforced. We are aware that a lot of people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. 
+A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, we may use cookies to store your login credentials and other small information such as user Id and word. C# Corner wants to ensure that you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data we store on your machine. This practice is strictly enforced. We are aware that a lot of people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. 
 
 #####  Privacy Policy Changes 
 
