@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623221151id_/https%3A//zynga.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225071646id_/https%3A//www.zynga.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
@@ -172,7 +172,7 @@ You may be able to take part in certain activities on our Service that let you c
 
 
 
-You acknowledge and expressly agree that we may access in real-time, record and/or store archives of these communications, comments, photos and drawings on Zynga's servers to make use of them to protect the safety and well-being of our players and Zynga’s rights and property in connection with the our Services; to conduct research; to operate, improve, personalize and optimize our Services and our players’ experiences, including through the use of analytics; and to manage and deliver contextual advertising. 
+You acknowledge and expressly agree that we may access in real-time, record and/or store archives of these communications, comments, photos and drawings on Zynga's servers to make use of them to protect the safety and well-being of our players and Zynga’s rights and property in connection with our Services; to conduct research; to operate, improve, personalize and optimize our Services and our players’ experiences, including through the use of analytics; and to manage and deliver contextual advertising. 
 
 **Payment Information**  
 If you purchase a license to use in-game virtual currency or virtual items in a game you play on Zynga.com, our third party payment processor will collect the billing and financial information it needs to process your charges. This may include your postal address, e-mail address and financial information. Zynga does not collect or store your financial information, like credit card numbers. However, Zynga’s payment processors may share non-financial information with us related to your purchases, like your name, billing address and the items purchased in order to fulfill your order. Zynga may also obtain the billing and payment information that you provide when your purchase is processed by someone else (like Facebook, Apple or Google) such as when you purchase something in a game you play on a social network or that you downloaded on your mobile device. Our [Terms of Service](http://company.zynga.com/legal/terms-of-service) explain our policies and terms relevant to our charges, billing practices, third party credits and virtual currencies. Please note that purchases of third party credits or currencies may also be subject to those parties’ policies.
@@ -291,7 +291,7 @@ To manage the information Zynga receives about you from a social network, like F
 Once Zynga receives your information from a social network or your mobile device, that information is stored and used by Zynga in accordance with this Privacy Policy. You may access and update that information as described below.
 
 **Accessing and Updating Your Information Held by Zynga**  
-If you want to review, delete, or change the information Zynga has about you or have additional questions, e-mail us at [privacy@zynga.com](mailto:privacy@zynga.com). For requests to review, delete or change the information obtained in connection with NaturalMotion games, email us at [contact@naturalmotion.com](mailto:contact@naturalmotion.com). We will respond to your request within thirty days.
+If you want to review, delete, or change the information Zynga has about you or have additional questions, e-mail us at [privacy@zynga.com](mailto:privacy@zynga.com), or for Black Diamond Slots [support@risingtidegames.com](mailto:support@risingtidegames.com). For requests to review, delete or change the information obtained in connection with NaturalMotion games, email us at [contact@naturalmotion.com](mailto:contact@naturalmotion.com). We will respond to your request within thirty days.
 
 **Stopping Use of Your Information**  
 If you no longer want Zynga to make active use of your information, you may send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com) (or if you play NaturalMotion games, send an email to [contact@naturalmotion.com](mailto:contact@naturalmotion.com)). Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and your social network ID for the social network from which you access our Services (if applicable) in the body of the e-mail (for example, your Facebook user ID). We will respond to your request within thirty days. Please note that certain records, for example those relating to payments or customer service matters, will be held for legal and accounting purposes. If you have sent content through or posted content on the Service, we may not be able to delete it.
@@ -309,6 +309,10 @@ If you want to stop receiving promotional e-mails from Zynga, click on the "unsu
 You can opt out of receiving SMS messages (for example, text messages) by texting back STOP to the number we send the text from for that particular SMS message program. In some cases a preferences management page will also be available. When we receive an opt-out message from you for SMS messages, we may send a message confirming our receipt of your opt-out.
 
 When you install our apps on your mobile device you can choose to receive push notifications, which are messages an app sends you on your mobile device even when the app is not on. You can turn off notifications by visiting your mobile device’s “settings” page. 
+
+**Opting Out of Black Diamond Slots Communications**
+
+You may opt out of all communications for Black Diamond Slots by sending an email to [support@risingtidegames.com](mailto:support@risingtidegames.com)
 
 Note that if you opt-out of our Promotional Communications or other forms of communication, we may still e-mail or communicate with you from time to time if we need to provide you with information about the Service or if we need to request information from you with respect to a transaction initiated by you or for other legitimate non-marketing reasons, for example, if we update this Privacy Policy or our Terms of Service.
 
@@ -362,7 +366,7 @@ back to top
 
 If you don’t live in the United States, Zynga Game Ireland Ltd. and Zynga Luxembourg S.a.r.l. jointly control your personal data through December 31, 2014 and Zynga Game Ireland Ltd. alone will control your personal data from January 1, 2015 onwards.
 
-As part of our international operations, we may transfer data to our Affiliates from time to time for our legitimate business purposes. For example, Zynga Inc. provides certain services to its Affiliates (which means subsidiaries, parent companies, joint ventures and other corporate entities under common ownership with Zynga Inc.).
+As part of our international operations, we may transfer data to our Affiliates (which means subsidiaries, parent companies, joint ventures and other corporate entities under common ownership with Zynga Inc.) from time to time for our legitimate business purposes. For example, Zynga Inc. provides certain services to its Affiliates.
 
 We store information about players and visitors to its sites on servers located in the United States, and we may also store this information on servers and equipment in other countries. Personal data collected within Switzerland and the European Economic Area (“EEA”) may be transferred to, and stored at, a destination outside of Switzerland and the EEA. The data we hold may also be processed by employees operating outside of Switzerland and the EEA who work for us or one of our Affiliates or for one of our vendors. This staff may be engaged in, among other things, (i) the processing of transactions and your payment details and (ii) the provision of support services. When we transfer your personal information internationally we will take reasonable steps to ensure that your personal information is treated securely, lawfully and in the manner we describe here. Please note that laws vary from jurisdiction to jurisdiction, and so the privacy laws applicable to the places where your information is transferred to or stored, used or processed in, may be different from the privacy laws applicable to the place where you are resident.
 
@@ -399,7 +403,7 @@ back to top
 
 ## Contact Us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). All other inquiries should be directed to [Zynga's Support Page](https://support.zynga.com/), or if your inquiry relates to certain Natural Motion games, you may submit an inquiry by clicking on the “Support” link on that game’s page found on NaturalMotion’s website and using the “Submit a Request” form. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). All other inquiries should be directed to [Zynga's Support Page](https://support.zynga.com/), for Black Diamond Slots please send an email to [support@risingtidegames.com](mailto:support@risingtidegames.com), or if your inquiry relates to certain Natural Motion games, you may submit an inquiry by clicking on the “Support” link on that game’s page found on NaturalMotion’s website and using the “Submit a Request” form. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 When submitting a watchdog complaint, please put [www.zynga.com](http://www.zynga.com/) as the website and note the game and/or feature within the details.  
 The TRUSTe program only covers information that is collected through Zynga websites and applications (games), and does not cover information that may be collected through any software downloaded from Zynga websites.
