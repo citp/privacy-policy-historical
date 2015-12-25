@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indread.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508193907id_/http%3A//indread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indread.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225124943id_/http%3A//indread.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndRead
 
