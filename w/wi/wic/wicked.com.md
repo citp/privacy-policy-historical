@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wicked.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319091244id_/http%3A//www.wicked.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wicked.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225082418id_/http%3A//www.wicked.com/docs/pp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
