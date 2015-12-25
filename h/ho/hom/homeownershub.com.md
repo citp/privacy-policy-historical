@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430030425id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225111743id_/http%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
 
 # HomeOwnersHub.com Privacy Policy
 
