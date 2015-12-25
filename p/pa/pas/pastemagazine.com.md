@@ -1,37 +1,23 @@
-> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604021610id_/http%3A//www.pastemagazine.com/action/article%3Farticle_id%3D77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190724id_/http%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
 
-# Paste Magazine :: Department :: Privacy and Security
+# Privacy and Security :: Paste
 
-About Your Privacy & Security
+Privacy and Security  
+(Updated June 24, 2014)
 
-Paste Magazine cares a great deal about our customers. So we do everything we can to ensure you have a positive experience with us. That said, here's what we can say confidently regarding the privacy of your information and the security of your transactions in plain English -- no legalspeak here. 
+_About Your Privacy & Security_  
+Paste Magazine is committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can improve your at our site and make your future visits more worthwhile.
 
-Privacy
+_Privacy_  
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you. The cookies make your use of the site easier and make the site run more smoothly.
 
-We do not rent or sell our customer lists or email lists. In other words, information you give us stays with us ... with one exception. Because we work directly in partnership with many of the artists whose CDs you see for sale here at PasteMagazine.com and at our sister site PasteMusic.com, we will upon request provide your name, email address and mailing address to an artist whose CD you've actually purchased. In other words, if you order Live at the 40Watt by Vigilantes of Love and they ask us for a list of folks that have purchased their CDs, well then, your name, address and email address will be on that list. We'll never pass on your credit card information or your phone number. If we ever sell the company, our customer data will be included in that transaction with the understanding that the new owners abide by the same terms. 
+We have implemented Google Analytics’ Demographics and Interests cookies, which we use to analyze the interests of people who visit Paste Magazine. We use this information to make both the types of articles we publish and the types of advertising we serve more relevant to our visitors’ interests.
 
-Our site uses cookies to maintain information about your shopping cart. In fact, the shopping cart will not work without cookies. Therefore, you must enable cookies to effectively use our site. But rest assured, the only thing we use cookies for is keeping track of your shopping cart! We do not use them to keep track of any of your personal information. 
+You can prevent us from collecting this information through Google Analytics’ free opt-out browser add-on.
 
-Security 
+We do not rent or sell our email lists. In other words, information you give us stays with us. We’ll never pass on your credit card information or your phone number.
 
-Your order information is encrypted using SSL (secure sockets layer) technology provided by Thawte, a leading supporter of secure digital commerce. This means that when you click "Submit My Order" in the shopping cart, only PasteMusic.com will see your private information. Furthermore, we do not store your credit card number. 
+_Security_  
+We collect no private, sensitive information from you other than your email address, and only then if you choose to subscribe to our newsletter. If you do that your email address is encrypted using SSL (secure sockets layer).
 
-You must have an SSL-compliant browser. We suggest using [Mozilla](http://www.mozilla.org/), [Opera](http://www.opera.com/) or [Internet Explorer](http://www.microsoft.com/ie/). 
-
-Subscriber Exclusive MP3s
-
-Paste subscribers may download exclusive MP3s. Click [here](https://web.archive.org/mp3/subscriber/download) for never-released songs from Bill Mallonnee recorded in demo sessions for _Fetal Position_. (Note: The MP3 engine is still in beta. Streaming does not work, but "fetching" does.) 
-
-Spread the Word
-
-[Give a gift subscription](http://www.pastemusic.com/paste)
-
-[Contact Your Favorite Retailer](https://web.archive.org/action/article?article_id=94)
-
-_Coming Soon:_
-
-Recommend Paste to a Friend
-
-Email This Page
-
-Send a Sample Issue (subscriber only, limited-time offer)
+**Sign up for the Paste newsletter** Get our daily summary of the day's top articles and new items. **Sign Up** Thank you! Your email address has been added to our list. You will begin receiving our newsletter within 48 hours.
