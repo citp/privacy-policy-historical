@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625230935id_/http%3A//allafrica.com/misc/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225225917id_/http%3A//allafrica.com/misc/info/privacy.html) for the most accurate reproduction.*
 
-# allAfrica.com: Privacy
+# Privacy - allAfrica.com
 
 AllAfrica is committed to respecting and protecting the privacy of those who use allAfrica.com. This statement outlines how we handle any personal information we obtain.
 
