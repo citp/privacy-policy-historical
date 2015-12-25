@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154423id_/http%3A//www.ktvu.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225122408id_/http%3A//www.ktvu.com/privacy-policy) for the most accurate reproduction.*
 
-# Fox Television Stations Privacy Policy - KTVU -
+# Privacy Policy | KTVU
 
-Effective February 11, 2015
+Effective August 6, 2015
 
-Table of Contents: 
+Table of Contents:
 
 **1. INTRODUCTION  
 2\. COLLECTION OF INFORMATION   
 3\. USE AND DISCLOSURE   
 4\. SECURITY   
-5\. USER ACCESS AND CONTROL   
-6\. OTHER IMPORTANT INFORMATION   
-7\. CONTACT US   
-**  
+5\. USER ACCESS AND CONTROL  
+6\. OTHER IMPORTANT INFORMATION  
+7\. CONTACT US **
+
 **1.INTRODUCTION**
 
 Fox Television Stations, Inc., and certain of its affiliated entities (collectively, “FTS” or “we”) operate a group of news and entertainment websites (each an “FTS Website”) on behalf of their owned and operated television stations. FTS wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “FTS Services”). By using FTS Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [http://www.21cf.com](http://www.21cf.com/ "http://www.21cf.com").
 
-As set forth in our Terms of Service, the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.This Privacy Policy applies to all users, including both those who use the FTS Services without being registered with or subscribing to an FTS Service and those who have registered with or subscribed to an FTS Service.
+As set forth in our [Terms of Service](http://www.ktvu.com/terms-of-service), the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.This Privacy Policy applies to all users, including both those who use the FTS Services without being registered with or subscribing to an FTS Service and those who have registered with or subscribed to an FTS Service.
 
 This Privacy Policy applies to FTS's collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally FTS's practices for handling non-personal information (for example, interests, demographics and services usage).
 
- **2.COLLECTION OF INFORMATION**
+**2.COLLECTION OF INFORMATION**
 
 FTS and our service providers may collect the following information from and about you:  
 Registration Information is the information you submit to register for an FTS Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, and zip code.  
@@ -39,7 +39,7 @@ Third parties that support the FTS Services by serving advertisements or providi
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe's website, see <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the FTS Services.
 
 Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners.  
-Do Not Track Signals. At this time we do not respond to browser 'Do Not Track' signals, 
+Do Not Track Signals. At this time we do not respond to browser 'Do Not Track' signals,
 
 **3.USE AND DISCLOSURE**
 
@@ -50,11 +50,11 @@ To allow service providers to assist us in providing and managing the FTS Servic
 
 To allow social sharing functionality. If you log in with or connect a social media service account with FTS Services, we may share your user name, picture, and likes, as well as your activities and comments with other FTS Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your FTS Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your FTS Services account and do not participate in social sharing on FTS Services.
 
-To provide co-branded services and features. We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on FTS Services or on the third party's service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party's use of your information will be governed by the third party's privacy policy. 
+To provide co-branded services and features. We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on FTS Services or on the third party's service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party's use of your information will be governed by the third party's privacy policy.
 
 To deliver relevant advertisements. FTS and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use FTS Services or another service, including, without limitation, precise geolocation data accessed or collected pursuant to this privacy policy. For mobile applications, you may be able to opt-out of the use of precise data for location-based tracking by using the settings available on your mobile device; however, opting-out may impair or disable the FTS Services. For all FTS Services, ads may be selected for you based on more general information, such as location that can be inferred from IP addresses, or Wi-Fi or cell tower data.
 
-As noted above, third-party advertising networks and advertisers may use cookies, mobile advertising identifiers and similar technologies to collect and track information such as demographic information, inferred interests, web browsing and app usage, and aggregated information and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [http://www.aboutads.info](http://www.aboutads.info/ "http://www.aboutads.info"), and to opt-out of such advertising networks' and services' advertising practices, go to <http://www.aboutads.info/choices>. For mobile applications, you may be able to opt-out of third party interest-based tracking by using the settings available on your mobile device.
+As noted above, third-party advertising networks and advertisers may use cookies, mobile advertising identifiers and similar technologies to collect and track information such as demographic information, inferred interests, web browsing and app usage, and aggregated information and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [http://www.aboutads.info](http://www.aboutads.info/ "http://www.aboutads.info"), and to opt-out of such advertising networks' and services' advertising practices, go to <http://www.aboutads.info/appchoices>. For mobile applications, you may be able to opt-out of third party interest-based tracking by using the settings available on your mobile device.
 
 To contact you. FTS may periodically send promotional materials or notifications related to the FTS Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email, or change your account setting where available. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the FTS Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
@@ -64,15 +64,15 @@ To share with business partners. FTS may share your information with business pa
 
 To protect the rights of FTS and others. There may be instances when FTS may disclose your information, including situations where FTS has a good faith belief that such use or disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of FTS, our Company Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the FTS Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
 
-To complete a merger or sale of assets. If FTS sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), FTS may transfer your information to the party or parties involved in the transaction as part of that transaction.  
- **  
-** **4.SECURITY**
+To complete a merger or sale of assets. If FTS sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), FTS may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-FTS uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.  
- **  
-** **5.USER ACCESS AND CONTROL**
+**4.SECURITY**
 
-If you would like to review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in section 7 below. If you are a California resident, you may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com "mailto:californiaprivacy@foxtv.com") with “FTS: Disclosure Opt-Out” in the subject line and your full name, email address, and postal address in the body of the email. To help us process your request, in your email please identify the FTS Website or other FTS Service, as well as any specific program on that FTS Website or FTS Service (e.g. news alerts, promotional messages) that you are registered with. We will try to comply with your request(s) as soon as reasonably practicable. Please note that emails sent to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com "mailto:californiaprivacy@foxtv.com") for purposes other than as stated in this paragraph may not be acknowledged or responded to. For any other type of communication, please use the Contact information located at the “About Us” tab on the applicable FTS Website.   
+FTS uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
+
+**5.USER ACCESS AND CONTROL**
+
+If you would like to review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in section 7 below. If you are a California resident, you may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com "mailto:californiaprivacy@foxtv.com") with “FTS: Disclosure Opt-Out” in the subject line and your full name, email address, and postal address in the body of the email. To help us process your request, in your email please identify the FTS Website or other FTS Service, as well as any specific program on that FTS Website or FTS Service (e.g. news alerts, promotional messages) that you are registered with. We will try to comply with your request(s) as soon as reasonably practicable. Please note that emails sent to [californiaprivacy@foxtv.com](mailto:californiaprivacy@foxtv.com "mailto:californiaprivacy@foxtv.com") for purposes other than as stated in this paragraph may not be acknowledged or responded to. For any other type of communication, please use the Contact information located at the “About Us” tab on the applicable FTS Website.  
 **  
 6.OTHER IMPORTANT INFORMATION**
 
@@ -88,11 +88,11 @@ Collection of Personal Financial Information by a Payment Service. In some cases
 
 Data Retention. We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements. 
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
 
 Sensitive Information. We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the FTS Services or otherwise.
 
- **7.CONTACT US**
+**7.CONTACT US**
 
 If you have questions about this Privacy Policy, please contact us at:  
 Fox Television Stations, Inc.  
