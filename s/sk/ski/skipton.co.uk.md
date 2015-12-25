@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055134id_/http%3A//www.skipton.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225233755id_/http%3A//www.skipton.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skipton Building Society
 
