@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100forexbrokers.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630143054id_/https%3A//www.100forexbrokers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100forexbrokers.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225103626id_/http%3A//www.100forexbrokers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
