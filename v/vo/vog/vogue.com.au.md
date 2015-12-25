@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401200048id_/http%3A//www.vogue.com.au/extra/privacy%2Bpolicy%2C5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226003608id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp Australia
 
