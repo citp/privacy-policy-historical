@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tattoobite.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626011531id_/http%3A//www.tattoobite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoobite.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225035048id_/http%3A//www.tattoobite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Designs And Ideas
-
-## Privacy Policy
+# Privacy Policy
 
 The following Privacy Statement discloses the information gathering and dissemination practices for Tattoobite.com.com
 
