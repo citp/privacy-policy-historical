@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yobt.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200240id_/http%3A//www.yobt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yobt.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225053138id_/http%3A//www.yobt.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porn Videos and XXX Pictures at Porn Tube - Yobt.com
 
