@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hangoutmarketingchallenge.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408183040id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hangoutmarketingchallenge.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225172640id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hangout Marketing Challenge
 
@@ -86,11 +86,11 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information below.
 
-Heritage House Media  
-530 Alameda del Prado  
-Suite 399  
-Novato, CA 94949  
-Email: [Amy@MarketingOnline.com](mailto:amy@marketingonline.com)
+PushButtonInfluence.com, LLC   
+1908 Thomes Suite 6402  
+Cheyenne, WY 82001  
+Phone Number : (415)493-5567   
+Email: Rich Haines [rhaines@laughlinusa.com](mailto:rhaines@laughlinusa.com)
 
 **_Updating Personal Information_**
 
