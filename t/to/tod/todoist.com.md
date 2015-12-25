@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195130id_/https%3A//todoist.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042909id_/https%3A//todoist.com/Help/Privacy) for the most accurate reproduction.*
 
 # Todoist Privacy Policy
+
+[](https://web.archive.org/)
+
+Effective Date: 2015-10-15
 
 Todoist collects the e-mail addresses of those who communicate with us via e-mail, and information submitted through voluntary activities such as site registrations or participation in surveys. We also collect aggregate data regarding the web pages that visitors access on the Todoist.com website. The information we collect is used to improve Todoist and the quality of our service, and is not shared with or sold to others.
 
@@ -10,7 +14,7 @@ When registering for Todoist we ask for information such as your name and email 
 
 ## Your data
 
-Todoist uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Todoist. Although Todoist owns the code, databases, and all rights to the Todoist application, you retain all rights to your data.
+Todoist uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Todoist. Although Todoist owns the code, databases, and all rights to the Todoist application, you retain all rights to your data. Todoist will safeguard your data and information as our own and will not share your data or information with any unauthorized 3rd party vendors without your consent.
 
 ## Cookies
 
@@ -22,7 +26,7 @@ We do not partner with or have special relationships with any ad server companie
 
 ## Security
 
-When we transfer and receive certain types of sensitive information we redirect visitors to a SSL secure server.
+All data and information transmitted with Service is secured by SSL protocol.
 
 ## Changes
 
