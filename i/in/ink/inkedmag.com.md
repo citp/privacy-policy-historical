@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkedmag.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195954id_/http%3A//www.inkedmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedmag.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226000132id_/http%3A//www.inkedmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inked Magazine
 
