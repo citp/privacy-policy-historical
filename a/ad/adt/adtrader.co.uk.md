@@ -1,12 +1,43 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626050519id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051151id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
 
-[Auto Trader Privacy Policy ("Policy")]()
+  * Cars
+  * Bikes
+  * Vans
+  * Dealers near me
+
+
+
+[Need help finding the right car?
+
+Try our new **Discovery search**
+
+](https://web.archive.org/discovery-search?form=open) This dealer only  All stock[](https://web.archive.org/secure/signin?after-signin-url=/)
+
+  * Used
+  * Nearly new
+  * New
+
+
+
+Learner Legal 125  
+Show wanted ads  
+33 bhp and under
+
+History Checked  
+Part Ex Quote
+
+[Looking for new motorcycles?](https://web.archive.org/bikes/motorcycles?page-type=new)
+
+  *   * 
+
+
+## Privacy policy
+
+### Auto Trader Privacy Policy ("Policy")
 
 Auto Trader Limited ("Auto Trader") is committed to protecting your privacy. This Policy applies to visitors of the Auto Trader website at www.autotrader.co.uk, (the "Website"). 
-
-References in this Policy to "Auto Trader" also apply to its sister channels on this Website, including: Commercial Trader, Auto Trader Bikes, Auto Trader Trucks, Auto Trader Plant, Auto Trader Vans, Auto Trader Farm, Auto Trader Motorhomes, Auto Trader Caravans and Prestige Cars "Top Marques".
 
 This Policy sets out the basis on which any personal data that Auto Trader collects from you or that you provide to Auto Trader, will be processed by Auto Trader. Please read the following information carefully to understand Auto Trader's views and practices regarding your personal data and how Auto Trader will treat it.
 
@@ -16,7 +47,9 @@ All details supplied to Auto Trader with your online advertisement will be safeg
 
 Amendments and updates to this Policy may be made from time to time. Any revisions will be posted on this page so you will always be aware of what information we collect. Please review this page regularly so that you are aware of any changes.
 
-[Information collected and what it is used for]()
+* * *
+
+### Information collected and what it is used for
 
 Auto Trader may collect the following information about you:
 
@@ -28,7 +61,7 @@ As part of the advert placement process we will collect your name, email address
 
 If your advert expires we will use your details to contact you via phone or e mail to give you the option to rebook your advert.
 
-We use certain features to protect the privacy of our customers when they are communicating via phone or email. We recommend that all customers placing an advert select Contact Number Protection at the point of entering their phone number. Contact Number Protection enables you to keep your telephone number private by providing you with a substitute telephone number to use in your advert. Contact Number Protection automatically applies unless you opt out at the time you place your advert. Please be aware that if you opt out, your personal telephone number will be visible within your advert. 
+We use certain features to protect the privacy of our customers when they are communicating via phone or email. We recommend that all customers placing an advert select Telesafe at the point of entering their phone number. Telesafe enables you to keep your telephone number private by providing you with a substitute telephone number to use in your advert. Telesafe automatically applies unless you opt out at the time you place your advert. Please be aware that if you opt out, your personal telephone number will be visible within your advert. 
 
 We supply a customer to customer e mail solution that allows people who are viewing your advert to contact you through a link on your advert without seeing your email address. We use this to strip out any potentially harmful or spurious links that may expose you to fraudulent activity. This email solution is not optional.
 
@@ -68,7 +101,9 @@ If you choose to download or use our Mobile Applications, or access one of our m
 
 By submitting personal information to us, you are deemed to have agreed to the terms set out above regarding the use of your personal information.
 
-[Where we store your personal data]()
+* * *
+
+### Where we store your personal data
 
 Auto Trader will take all reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
@@ -76,7 +111,9 @@ All information (except Payment Card information) you provide to Auto Trader is 
 
 Once Auto Trader has received your information, Auto Trader will use strict procedures and security features to try to prevent unauthorised access. 
 
-[Disclosure of your information]()
+* * *
+
+### Disclosure of your information
 
 We may disclose your personal information to third parties as follows:
 
@@ -84,7 +121,7 @@ a) We will send your personal information to dealers, vehicle manufacturers, bik
 
 By submitting your personal data to us through the Website, you consent to your personal data being transferred outside the EEA. By using the Chat Service, you consent to any personal data disclosed in the course of using the Chat Service being processed and stored by the Chat Service provider on its systems outside the EEA.
 
-b) We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA. Some of our webpages use plugins from third party platforms (such as the 'Facebook Recommend' or ÔFacebook Gestures' function). Information about your visit to the Website may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
+b) We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA. Some of our webpages use plugins from third party platforms (such as the 'Facebook Recommend' or ‘Facebook Gestures' function). Information about your visit to the Website may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
 
 c) If we are under any duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce our terms and conditions and any other agreements.
 
@@ -96,28 +133,40 @@ f) Auto Trader Limited may share your personal information with its group compan
 
 g) For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the Police, other public or private sector agencies, governmental or representative bodies in accordance with the relevant legislation. This will include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies. 
 
-[Marketing communications]()
+* * *
+
+### Marketing communications
 
 When you register with our Website, we ask you whether you would like to receive our communications detailing offers, news and services from Auto Trader and/ or information from third party companies via email and/or via post that we feel may be of interest to you. In order to receive these communications, you will need to opt in during registration.
 
 On occasions Auto Trader runs promotions in which personal information is collected. We will always ask you if you agree to this and advise you if this information may be shared with a third party. You will always be asked to provide your consent to this use by opting in.
 
-To stop receiving Auto Traders promotional offers and alerts, please click the link found at the bottom of each email or update your account preferences.
+* * *
 
-[Access to personal information]()
+### Access to personal information
 
-You have the right to access all personal information supplied to Auto Trader and rectify any inaccuracies on the information held. Further enquiries should be made to [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk) or sent to Customer Services, Auto Trader Limited, 4th Floor, 1 Tony Wilson Place, Manchester, M15 4FN. 
+You have the right to access all personal information supplied to Auto Trader and rectify any inaccuracies on the information held. Further enquiries should be made to [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk) or sent to Customer Services, Auto Trader Group Ltd, 4th Floor, 1 First Street, Manchester M15 4FN. 
 
 If you wish to access your personal details held by Auto Trader, a charge of £10 will be payable.
 
-[Cookies]()
+* * *
 
-The Website uses cookies to distinguish you from other users. This helps Auto Trader to provide you with a good experience when you browse the Website and also allows Auto Trader to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](http://www.autotrader.co.uk/common/mytrader/cookie_policy.jsp).
+### Cookies
 
-[Acceptance]()
+The Website uses cookies to distinguish you from other users. This helps Auto Trader to provide you with a good experience when you browse the Website and also allows Auto Trader to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/common/mytrader/cookie_policy.jsp).
+
+* * *
+
+### Acceptance
 
 By using the Website, you consent to the collection and use of this information by Auto Trader and to this Privacy Policy. 
 
-[Contact]()
+* * *
+
+### Contact
 
 Questions, comments and requests regarding this Policy are welcomed and should be addressed to [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk).
+
+* * *
+
+Copyright © Auto Trader Limited 2015
