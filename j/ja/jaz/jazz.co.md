@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jazz.co privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203653id_/https%3A//jazz.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazz.co privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073826id_/https%3A//jazz.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Jazz Performance Recruiting
 
 When you visit our Site or use our Service you may provide us with two types of information: personal information you actively choose to disclose "Active Information") and non-personally identifiable information collected, in a way not visible to you, on an aggregate basis as you and others use our Site ("Passive Information"). These two types of information are referred to collectively as "Subscriber Information." 
 
@@ -55,6 +55,20 @@ Pittsburgh, PA 15222
 
 
 Hireku, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR PROGRAM, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+
+## US-Swiss Safe Harbor Framework
+
+Hireku, Inc. complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Hireku, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+In compliance with the US-Swiss Safe Harbor Principles, Hireku, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Hireku, Inc at: 
+
+Safe Harbor Inquiry  
+40 24th St.  
+2nd Floor  
+Pittsburgh, PA 15222  
+
+
+Hireku, Inc. has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SWISS SAFE HARBOR PROGRAM, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 ##  Changes to Our Privacy Policy 
 
