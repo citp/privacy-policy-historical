@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paisalive.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512021337id_/http%3A//www.paisalive.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paisalive.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225202831id_/http%3A//www.paisalive.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Genuine Income Online - Earn Online Income - PaisaLive.com
 
