@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tobi.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511150126id_/http%3A//www.tobi.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobi.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225212255id_/http%3A//www.tobi.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tobi
+# Tobi
 
 Tobi.com ("we," us," "our," and henceforth referred to as "Tobi") knows that you care about how your personal information is used and shared, and we are committed to protecting your privacy. We want you to have an enjoyable shopping experience and while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to our websites (including tobi.com), mobile applications and related services (collectively, the "Services") collection and use of personally identifiable information ("Personal Information") that we gather when you access and use the Services. This Privacy Policy does not apply to any third party websites to which we link. You agree that your use of the Services signifies that you have read and consent to the collection, use and sharing of your information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you should not use the Services. 
-
-#### What Personal Information is Collected?
 
 ##### Personal Information
 
@@ -28,11 +26,7 @@ Upon visiting Tobi, we may place cookies on your computer’s hard drive. (Cooki
 
 We also use cookies to gather usage information, such as the number and frequency of visitors to our site and its various pages. We analyze this data to assess our product lines offered on our site. Automatically logged information is also used to analyze trends and to administer the site. 
 
-#### Children's Privacy
-
 Tobi is not directed at children under 13 and we do not knowingly collect any personal information from children under 13. If you are not 18 years of age or older, you are not authorized to use the Services. If you have knowledge that a child under the age of 13 has submitted personal information to us, please email legal@tobi.com. 
-
-#### Use and Disclosure of Your Information
 
 Except as described in this section, we will not sell, rent or disclose your personal information to any third parties. 
 
@@ -58,19 +52,13 @@ Automatically Gathered Information: Information that is automatically gathered, 
 
 We allow you to link your Facebook account to our Service. You can decide whether or not your activity on the Service will be shared and disclosed on your Facebook service. You can disable this feature at any time by going to Account > Edit Account Information, uncheck Publish Actions to Facebook, and click the Save button. These features may collect your IP address, which page you are visiting on our Services, and may set a cookie to enable the feature to function properly. Social media features on our Services are either hosted by a third party or directly on our Services. Your interactions with these features are governed by the respective privacy policy of the company providing such feature(s). 
 
-#### Protection of Your Personal Information
-
 When you provide us with your personal information, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order safe and secure. When the letters "http" in the URL address change to "https", the "s" indicates you are in a secure area employing SSL. Company also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information. This encryption process helps ensure that the information you give us is protected against unauthorized access. 
 
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
 
 Tobi may contain links to other sites. This Privacy Policy only governs information collected on the Website. We are not responsible for the privacy policies and/or practices of other sites. When linking to another site, please read the privacy policy stated on that site. 
 
-#### Account Access
-
 You can access your account from every page on the site, excluding the pages contained in the Checkout Process, to update and correct your name, email address, password, postal address, and mailing list preferences. You can change this information at any time, but must be signed into Tobi to access this information. If you have forgotten your password, click "I forgot my password" on the Sign in page to reset it. 
-
-#### Your California Privacy Rights
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information to third parties for their direct marketing purposes. To make such a request, please send an email to legal@tobi.com or write to us at the following address: 
 
@@ -78,8 +66,6 @@ Tobi
 Legal Department   
 PO BOX 2325   
 Brisbane, CA 94005 
-
-#### Changes to Privacy Policy
 
 This Privacy Policy is effective as of the date first written above. Tobi may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Tobi or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Tobi after such changes have been first posted. 
 
