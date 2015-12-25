@@ -1,61 +1,135 @@
-> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213418id_/http%3A//www.hometips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225160642id_/http%3A//www.hometips.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | HomeTips
+# hometips.com | Privacy Policy
 
-Thank you for visiting HomeTips. Your privacy is important to us. We will endeavor to respect and protect it. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. Please read this privacy policy carefully so that you understand our privacy practices regarding:
+**What information do we collect?**
 
-Children under 13;  
-Information we do and don’t collect;  
-How we use the information;  
-Opt-out options.
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-### Children under 13
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Home Tips cares about the safety of children.  
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Kids under 13 are not allowed to register with our website or to post on our site. We won’t knowingly allow anyone under 13 to provide us any personally identifying information.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-### Information we do and don’t collect
+ **DoubleClick DART Cookie**
 
-The information we gather on our site falls into two categories:
+.:: Google, as a third party vendor, uses cookies to serve ads on hometips.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to hometips.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-* Personally identifying information (such as your name, mailing address and email address) you supply when you initiate transactions, register to receive catalogs or newsletters, or use our bulletin boards if or when we have them; and
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-* Completely anonymous tracking information we collect as you navigate through our site.
 
-Additionally, third-party providers featured on or linked to by our website — such as vendors of products and services offered through our site — may gather the same kinds of information.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on hometips.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-### How we use the information we collect
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-We use the personally identifiable information you provide about yourself to fulfill your requests for our products, programs, and services; to respond to your inquiries; to send you e-mail newsletters you have requested; and to offer you other products or services that we believe may be of interest to you– but only if you opt to receive this information.
+hometips.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-In general, it is our policy not to share your e-mail address or any phone numbers you may provide us with any third-party organizations. We do not share our e-mail mailing list with third parties.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. hometips.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-Please note, however, that our site also may include links to other websites, and we provide access to products and services offered by third parties. We share with these third parties such information as is necessary to provide the products or services. We will not provide your email address to such third parties unless it’s necessary to provide services you have requested, or to allow you to participate in a co-sponsored promotion. For example, we will provide your name and e-mail address to a marketing partner from which you’re purchasing goods or services, or from which you are requesting a catalog.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-We also provide links to other websites, and provide access to products and services offered by third parties, whose privacy policies we don’t control. The privacy policies of these third party sites may differ from ours. If you can’t find the privacy policy of any of our provider partners through a link either from the site’s homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-If you ever receive mailings from us that you do not wish to receive, please tell us by sending an e-mail to this address: admin[@]hometips.com. Please include your name and complete mailing address so we can remove you from our database. Additionally, you will find further opt-out instructions below in this privacy policy.
+**What do we use your information for?**
 
-Like most Internet sites, we track the total number of visitors using different sections and pages on our Web site. Occasionally we also invite our users to anonymously share certain personal information about themselves — such as their age, income levels, hobbies and the like. In both cases, we aggregate this information and use it to gain a better understanding of our users’ interests, and to improve the quality of our sites. We also share this aggregate information with advertisers, to help them gain a better understanding of the demographics of our audience.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Users also should be aware when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on HomeTips bulletin boards, comments, postings, or forums, that this information can be collected and used by third parties. This may result in unsolicited messages from other posters or third parties. Such activities are beyond our control.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-### Opt-out information
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-If you receive any mailing from us and no longer wish to receive such a mailing you can either follow the “unsubscribe” link at the bottom of each of our newsletters or send us an e-mail to webmaster[@]hometips.com. Please include the words “Unsubscribe from Newsletter” in the subject line to help us handle your requests as quickly as possible.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-If you have shared your name and postal mailing address with us but do not wish to receive future mailings from us or our marketing partners in the future, please tell us. We will remove your name from our files.
+\- To process transactions
 
-To do so:
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-* Send an e-mail to this address: admin@hometips.com.  
-Please include your name and complete mailing address so we can remove you from our databases;
+\- To administer a contest, promotion, survey or other site feature
 
-* Or send us a letter to this address: HomeTips, 3715 Market St.,Ste. 205, Glendale, CA, 91208. Please include your name and complete mailing address so we can remove you from our databases.
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-You also can use the above addresses should you have any questions about our privacy policy.
+\- To send periodic emails
 
-### Conclusion
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we’ll post the changes here. And while the above statements and policies do not create any contractual or other legal rights in or on behalf of any party, the staff at HomeTips wishes to reiterate our opening statement:  
-Your right to personal privacy is important to us. We will endeavor to respect it.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+hometips.com 
+
+Email:  
+contact@hometips.com  
+
