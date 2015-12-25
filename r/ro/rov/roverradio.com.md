@@ -1,135 +1,114 @@
-> *The following text is extracted and transformed from the roverradio.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214646id_/http%3A//www.roverradio.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D457) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roverradio.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225202212id_/http%3A//www.roverradio.com/privacy-policy) for the most accurate reproduction.*
 
-# Rover's Morning Glory - Rover's Morning Glory
+# Privacy Policy - Rover's Morning Glory
 
-This Privacy Policy was last updated on April 29, 2009
+**Privacy & Cookie Notice**
 
-**Introduction:** At RoverMedia, Inc. we realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we collect and receive from you while you are within the RoverRadio Network, as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The RoverRadio Network is defined as the network of websites and services that are owned and operated by RoverMedia, Inc. and its subsidiaries. Each site included within the RoverRadio Network is governed by this Privacy Policy unless otherwise noted on such site.
+UPDATED AS OF: April 20, 2015
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE ROVERRADIO NETWORK CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
+RoverMedia, Inc. ("RoverMedia", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application ("Platforms").
 
-  1. How RoverMedia Collects Information
+**QUICK GUIDE TO CONTENTS**
 
-
-  * Personal Data you provide 
-  * Information RoverMedia collects 
-
-
-  1. Our Use of Your Information
-  2. Disclosure of Personally Identifiable Information to Third Parties
-  3. RoverMedia Opt-in/Opt-out Policy
-  4. Third Party Advertising and Links to other Sites.
-  5. Access and Correction
-  6. Guidelines regarding children
-  7. Public forums/chat rooms/message boards/bulletin boards/social 
-
-
-
-networking
-
-  1. How we protect and secure your information
-  2. Applicable Law
-  3. Changes to this Privacy Policy
-  4. Contact Information
+  1. [**INFORMATION COLLECTED ON OUR PLATFORMS**](http://www.roverradio.com/privacy-policy#platforms)
+  2. [**HOW WE USE THE INFORMATION WE COLLECT**](http://www.roverradio.com/privacy-policy#info)
+  3. [**SHARING OF INFORMATION**](http://www.roverradio.com/privacy-policy#sharing)
+  4. [**INFORMATION WE RECEIVE FROM THIRD PARTIES**](http://www.roverradio.com/privacy-policy#thirdparties)
+  5. [**YOUR PRIVACY RIGHTS, CHOICE AND ACCESS**](http://www.roverradio.com/privacy-policy#access)
+  6. [**ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT**](http://www.roverradio.com/privacy-policy#advert)
+  7. [**CHILDREN**](http://www.roverradio.com/privacy-policy#children)
+  8. [**SECURITY OF YOUR INFORMATION**](http://www.roverradio.com/privacy-policy#security)
+  9. [**OTHER SITES**](http://www.roverradio.com/privacy-policy#othersites)
+  10. [**CONSENT TO PROCESSING AND TRANSFER OF INFORMATION**](http://www.roverradio.com/privacy-policy#consent)
+  11. [**CHANGES**](http://www.roverradio.com/privacy-policy#changes)
+  12. [**CONTACT US**](http://www.roverradio.com/privacy-policy#contact)
 
 
 
-**1\. How RoverMedia Collects Information**  
-A. Personal Data you provide to RoverMedia  
-Personally Identifiable Information is any information that can be used to identify a specific individual such as your name, email address, home address, and phone number. RoverMedia asks you to provide Personally Identifiable Information in various places throughout the RoverRadio Network. Some of these areas where the collection of such information takes place are listed below:
+**INFORMATION COLLECTED ON OUR PLATFORMS**
 
-Member Registration  
-In order to use many of RoverMedia's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask you for Personally Identifiable Information. In addition, you may choose to provide RoverMedia with additional information.
+**_  
+Information You Provide To Us_**  
+We or our service providers may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), location information, or payment information (such as account or credit card number). The types of Personal Information collected may vary depending on your use of the features of the Platforms. For example, your credit card number and other payment related information may be collected in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer's name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial.
 
-Email Newsletters  
-RoverMedia offers electronic newsletters on a variety of topics. If you subscribe to any of these newsletters, you will be required to provide a valid email address as well as any other information that is relevant to the delivery of the newsletter.
+**_Information Collected Automatically_**  
+_Usage Information.  _Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as song history, interaction with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor's interests.
 
-Surveys and Polls  
-RoverMedia offers online surveys and questionnaires that ask users for opinions on various issues and/or other information. Occasionally, we may request demographic information (like zip code, age or gender) when you answer a survey. Such surveys are completely voluntary.
+_Device Identifier_  We or our service providers automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use.  
+_  
+Cookies; Pixel Tags_  The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites We, or our vendors and third party partners, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information), as well as for market research related purposes. A pixel tag may tell your browser to get content from another server.
 
-Sweepstakes and Contests  
-We regularly operate sweepstakes, contests and giveaways throughout the RoverRadio Network. We typically ask you for your email address and/or phone number (to notify you if you've won). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice or social security number or federal tax identification number for tax purposes.
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser's cookie folder, please refer to your browser's help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, we will honor your request, however please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your RoverMedia account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.  
+You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser.  
+For more information on advertising using cookies and how to opt out of advertising cookies specifically, please see [Advertising; How To Opt-Out](http://news.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630/#advert) below
 
-ECommerce Transactions  
-When you engage in an ecommerce transaction on the RoverRadio Network you may be asked to provide credit card information and other Personally Identifiable Information in order to complete the transaction.
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-Correspondence  
-When you correspond with RoverMedia through email, web forms, or any other manner, we may collect personally identifiable information.  PLEASE NOTE THAT ALL INCOMING CORRESPONDENCE TO ROVERMEDIA MAY BE PUBLICLY DISSEMINATED, PUBLISHED OR BROADCAST WITHOUT YOUR ADDITIONAL CONSENT, INCLUDING BUT NOT LIMITED TO YOUR NAME AND CONTACT INFORMATION.  See the RoverRadio Network Terms of Service for additional details.
+We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any RoverMedia policy; market research, Platform analytics and operations; tailor content, advertisements, and offers we serve you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may collect location based information about you to provide you with radio stations in your area and to tailor advertisements and offers we serve to you. Under certain circumstances we may share location data with our third party partners for market research and other data analytics related purposes.
 
-B. Information gathered by RoverMedia and its third party service providers
+**SHARING OF INFORMATION**
 
-When you visit the RoverRadio Network and interact with the services and tools that reside there, RoverMedia and third parties with whom RoverMedia has contracted to provide services to RoverMedia may collect information on your actions. This type of information is generally collected from two sources. One is from the server log files and the other is from cookies.
+Except as described here, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances:
 
-_IP Address_
+**Third Parties**  We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and "powered by" partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties in connection with marketing, promotional, and other offers, as well as product information, and for such third party’s analytics and market research.
 
-Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our [Terms of Service](https://web.archive.org/web/20111101214646id_/http%3A//www.roverradio.com/index.php?option=com_content&view=article&id=455:terms-of-service&catid=12).
+**Your Agreement To Have Your Personal Information Shared**  While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
-_Cookies_
+**Business Transfers**  We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that RoverMedia is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
-Our site uses a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a site's computer stores on your computer. The RoverRadio Network can then read the cookies whenever you visit the RoverMedia websites. We use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly. These cookies allow us to use the information we collect to customize your RoverMedia experience so that your visit to RoverMedia is as relevant and as valuable to you as possible.
+**Legal Disclosure**  We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.
 
-You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those RoverMedia services that require registration in order to participate or will have to sign in each time you visit the RoverRadio Network.
+**Nielsen**  Our Platforms may include Nielsen’s proprietary measurement software which may allow you to contribute to market research. To learn more about the information Nielsen’s software may collect and your choices with regard to it, please click here.
 
-Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensure that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are. RoverMedia does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the RoverRadio Network and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+**INFORMATION WE RECEIVE FROM THIRD PARTIES**
 
-**2\. How RoverMedia uses Information it collects**
+We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from RoverMedia, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information, Device Identifiers, and Personal Information such as lists of your friends, "likes", comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We may supplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-RoverMedia uses the information you provide for several purposes, such as to communicate with you and to give you a better experience when visiting the RoverRadio Network by personalizing tools, content, services and email messages. RoverMedia also uses this information to build new services and develop offers that RoverMedia believes are more relevant and valuable to you.
+**YOUR PRIVACY RIGHTS, CHOICE AND ACCESS**
 
-The information collected by RoverMedia is also used to create aggregated portraits of the RoverMedia audience, portraits which present statistical demographic information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand who the RoverMedia audience is. For example, we may create a report that tells advertisers that 60 percent of our members are females in a certain age range, so that they can determine which of their products or services are most appropriate for our members.
+You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at [privacy@iheartradio.com](mailto:privacy@iheartradio.com); (iii) contacting us by mail at RoverMedia Digital Customer Service, 200 E. Basse Road, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
-RoverMedia offers the ability to forward an article to another person via email. If you use this service, we will use the recipient's email address in order to send the article or postcard and we will also ask for your email address. We do not use the recipient's email address for any other purpose unless such recipient gives us permission to do so.
+If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@iheartradio.com](mailto:privacy@iheartradio.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
-**3\. Disclosure of Personally Identifiable Information to Third Parties**
+**ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT**
 
-RoverMedia does not sell or otherwise share Personally Identifiable Information with unaffiliated third parties without your consent (please see the Opt-In/Opt-Out Policy below), except in the following instances: (i) disclosure is required by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in RoverMedia's discretion, to protect the legal rights or the property of RoverMedia, a member or third party, or to prevent personal injury; and/or (iii) in the event of a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets or stock of RoverMedia or its affiliated entities (including, without limitation, in connection with any bankruptcy or similar proceedings). In addition, RoverMedia may provide Personally Identifiable Information to third parties who are providing technical or fulfillment services on behalf of RoverMedia when such disclosure is required in order to provide those services, provided that such third parties agree to be bound by RoverMedia's Privacy Policy. RoverMedia also reserves the right to share any Personally Identifiable Information or other information about you which you provide to (or which is gathered from) the RoverRadio Network with any or all of its subsidiaries and affiliates (collectively, our "Affiliates") (subject to the opt-out right described below, with respect to disclosures of Personally Identifiable Information to Affiliates for their direct marketing uses). RoverMedia will also have access to any information you provide to (or which is gathered from) the web sites of any of our Affiliates.
+We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours.
 
-Oftentimes, sweepstakes and contests offered on the RoverRadio Network are sponsored by unaffiliated third parties. Information that you provide as part of an entry into a sponsored sweepstakes or contest will be shared with the sponsor if we advise you of such in the sweepstakes rules. Most sweepstakes and contests will also ask you to consent to the release of information contained within the entry form for tax purposes if you become a winner. You should carefully review the rules of each sweepstakes, contest and giveaway which you enter as they may contain additional important information about RoverMedia's or a sponsor's use of your personally identifiable information.
+If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the 
 
-The information you provide on pages of the RoverRadio Network that are co-branded with a third party (including tools that are hosted by a third party) may be shared with advertisers and partners on an aggregated basis and in these instances your permission will not be requested since no Personally Identifiable Information will be shared or provided to these third party sponsors or advertisers.
+[NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp). Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. Please note that if you opt-out of targeted advertising, we may still track your visits to the Platforms for our own analytics, operations and security purposes.
 
-**4\. The RoverMedia Opt-in/Opt-out Policy**
+**CHILDREN**
 
-Upon registration you may be automatically enrolled to receive certain communication from RoverMedia.  Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or news about our sites and advertisers. If you do choose to receive these communications by means of an opt-in, we will occasionally send you an email message that matches your request(s). We currently provide the following opt-out opportunities:
+We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-  1. At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmation or service notice emails) to unsubscribe from that mailing list or email service.
-  2. At any time, you can change your contact preferences in your User Profile
-  3. Notwithstanding anything else in this Privacy Policy, please note that RoverMedia reserves the right to contact you in the event of a change in the RoverMedia Terms of Service and/or this Privacy Policy.
+**SECURITY OF YOUR INFORMATION**
 
+We take information security seriously; however, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk.
 
+**OTHER SITES**
 
-You will also be provided with the opportunity to opt-in to receive offers, goods and services directly from select companies other than RoverMedia. In such instances where you have opted-in to receive such offers, goods and services from third parties, RoverMedia will share your information with such third parties and will often provide you access to the Privacy Policy of the third party for your review via a link. In some instances, when you have the opportunity on the RoverRadio Network to subscribe to a newsletter offered by a third-party email service or advertiser or partner, the email address information will be located on the third party's server and any information you provide is subject to that entity's Privacy Policy, not this one.
+The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).
 
-If you have additional questions about how one of our advertisers, partners or sponsors use information about you, we urge you to contact them directly. For purposes of this Privacy Policy, "opt-in" is generally defined as any affirmative action by an RoverMedia member or visitor to submit or receive information, as the case may be.
+The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.
 
-**5\. Third Party Advertising and Links to other Sites.**
+**CONSENT TO PROCESSING AND TRANSFER OF INFORMATION**
 
-The RoverRadio Network contains links to advertiser and partner websites that are not co-branded or affiliated with RoverMedia in any way. We cannot be responsible for the privacy practices or the content of such non-RoverMedia websites, and we do not control the practices of any of our advertisers or partners to whose sites we link.
+The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. RoverMedia makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
 
-**6\. Access and Correction**
+**CHANGES**
 
-RoverMedia provides you with the ability to access, correct or change the Personally Identifiable Information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. Please be advised that RoverMedia currently archives information it collects on its members and visitors.
+We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**7\. Guidelines regarding children**
+**CONTACT US**
 
-Personal information about children is a concern for all of us. At RoverMedia, we take the protection of children's privacy very seriously. RoverMedia does not encourage participation or visitation by children.
+If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at:
 
-**8\. Public forums/chat rooms/message boards/bulletin boards/social networking**
+Attn: Privacy Questions  
+RoverMedia, Inc.  
+6200 Oak Tree Blvd., Suite 400  
+Independence, OH 44131
 
-Throughout the RoverRadio Network various public forums such as chat rooms, message boards, "ask the expert" areas and various question and answer areas are available to you as a registered RoverMedia member.
+E-Mail: 
 
-Please remember that any information you disclose in these public forum areas becomes public information and is immediately accessible on the RoverRadio Network, so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas. RoverMedia may decide to utilize the content of Q&A's, interactions with experts, and/or chat room and message board content throughout the RoverRadio Network and in promotions in order to enhance RoverMedia's editorial, advertising, promotional and similar activities. In those cases, we often provide authorship credit by listing the author's member name. We therefore encourage you to use care in protecting your identity when you choose a member name and to keep your member name confidential.
-
-Within our social networking platform you have the ability to partially determine who can view your profile or parts of your profile. When you create your profile, or at any time after you've created your profile, you can set your privacy settings by clicking on to the "Privacy Settings" link under the "User Profile" tab. By clicking on the "All Users" button (which is the default setting), all of your information will be available to all users. If you click "Friends Only", you have the ability to limit those who can view your profile to those users of whom you provide approval. While a "Friends Only" setting will limit access to your profile, in all instances, please use the same caution you would use in posting information about yourself on any other part of the RoverRadio Network.  RoverMedia is not responsible for the unintentional sharing of your information with unintended recipients due to technical difficulties or other unforeseen circumstances.
-
-**9\. How we protect and secure your information**
-
-RoverMedia has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction on the RoverRadio Network. All of your member information requires use of your password. We recommend that you do not share your password with anyone.
-
-**10\. Applicable Law**
-
-We control and operate the RoverRadio Network from the United States. The RoverRadio Network is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the RoverRadio Network is appropriate for use in any particular jurisdiction. Those who choose to access the RoverRadio Network do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
-
-**11\. Changes to this Privacy Policy**
-
-RoverMedia reserves the right to make any changes to our Privacy Policy at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the RoverRadio Network. In instances where we ask for your Personally Identifiable Information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to the RoverRadio Network opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Privacy Policy will include the most recent date in which any revision has been made.
+[info@roverradio.com](mailto:info@roverradio.com)
