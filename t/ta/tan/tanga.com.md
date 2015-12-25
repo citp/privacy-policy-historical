@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618225825id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225193643id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Tanga's Privacy Policy - Tanga
 
