@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506141024id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225181241id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAI: Network Advertising Initiative
 
