@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the worldfree4u.me privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622043954id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfree4u.me privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055943id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Of Worldfree4u.com
+# Privacy Policy - WorldFree4u.me
 
 ## **Privacy Policy**
 
-  
 **At ‘worldfree4u.com’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘worldfree4u.com’, and how we safeguard your information.**
 
  **
