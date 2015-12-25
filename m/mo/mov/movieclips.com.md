@@ -1,85 +1,272 @@
-> *The following text is extracted and transformed from the movieclips.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406132659id_/http%3A//movieclips.com/about/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieclips.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225154157id_/http%3A//www.fandango.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy MOVIECLIPS - the largest collection of movie scenes
+# Movie Tickets & Movie Times - Fandango.com
 
-## privacy policy
+##### FANDANGO PRIVACY POLICY
 
-### Intro
+This Privacy Policy was last updated on: April 30, 2014.
 
-Welcome to the Movieclips Inc. ("Movieclips") web site and online services (the "Movieclips Site"). Movieclips values the privacy of our members and others who visit and use the Movieclips Site (individually, "You" or collectively, "Users"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line. 
+##### NOTICE OF ARBITRATION PROVISIONS:
 
-This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Movieclips Site (whether or not you are a registered member), you expressly consent to the information handling practices described in this policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Movieclips Site. 
+**Your use of our Site or other Service is subject to binding individual arbitration of any disputes which may arise, as provided in Paragraph 18 of the[ Terms of Use](http://www.fandango.com/TermsOfUse.aspx). Please read the arbitration provisions carefully and do not use our Site or other Service if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this Privacy Policy or our privacy practices) as provided in the Terms of Use.**
 
-This Privacy Policy is incorporated into and is subject to the Movieclips [Terms of Use](https://web.archive.org/about/support/tos). Your use of the Movieclips Site and any personal information you provide on the Movieclips Site are subject to the terms of this Privacy Policy and Movieclips' [Terms of Use](https://web.archive.org/about/support/tos). 
+This Privacy Policy ("Policy") sets forth the privacy policies that apply to your use of [www.fandango.com](http://www.fandango.com/) or any of our other websites (collectively, the "Site") and any other services or products and any related software applications (collectively, the "Service") offered and/or operated by Fandango Media, LLC ("Fandango" or "we" or "our" or "us"). By visiting our Site or otherwise signing up for and/or using our Service, you are subject to these privacy policies.
 
-### The Information Movieclips Collects:
+Fandango is concerned about your privacy and wants you to be familiar with how it collects, uses and shares your information. This Policy outlines the type of information that we collect and receive from you while you are using our Site or other Service. Additionally this Policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information. Please review this Policy carefully, especially before providing any personal information through our Site or other Service. Our Site and Service are operated in and controlled from the United States of America. If you have any questions about this Policy or don't see your concerns addressed here, please use the contact information provided at the end of this Policy to contact us.
 
-#### User-provided Information:
+##### What this Privacy Policy Covers:
 
-When you register as a member of the Movieclips Site, you may provide to Movieclips what is generally called "personally identifiable" information (such as your name, password, gender, email address, postal mailing address, home/mobile telephone number). From time to time, Movieclips may also ask you optionally to provide other information. If you choose to provide such information, you are giving Movieclips the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with Movieclips, you are not anonymous to us. 
+The practices described in this Policy only apply to the following:
 
-#### “Cookies” Information:
+  * Information collected online on this Site.
+  * Information collected when you use our Service, including when you download, register for or use our wireless applications via your cell phone or other mobile device or when such Service and applications interact with this Site.
+  * Like many other websites, we may now or in the future provide other websites or mobile services with, and allow users to "snag" or place, our RSS feeds, video players and other applications on websites or mobile services we do not control. This Policy applies to any information we collect when you use our RSS feeds, video players and other applications, but does not apply to information separately collected by the operators of those websites or mobile services or other third parties that may provide content or services to those websites or mobile services.
 
-When you visit the Movieclips Site, whether or not you are a registered member, we may send one or more cookies " small text files containing a string of alphanumeric characters " to your computer. Cookies remember information about your activities on a website. Movieclips may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Movieclips Site. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services on the Movieclips Site. Third party advertisements displayed in connection with the Movieclips Site may also contain cookies set by internet advertisers. We do not control these cookies and users of the Movieclips Site should check the privacy policy of the advertiser to see whether and how it uses cookies. 
 
-### The Way Movieclips Uses Information:
 
-Movieclips collects personally identifiable information when you register as a member in order to establish and enhance our relationship with you. Movieclips generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Movieclips Site. If you have given Movieclips consent, we may use your personally identifiable information to provide you with information about Movieclips' features, services and other offerings that may be of interest to you. We may also send information or offers to groups of users on behalf of other businesses. Under certain circumstances we may post your personally identifiable information on the Movieclips Site. However, we will notify you of this possibility when collecting personally identifiable information or we will obtain your consent. We may share your personally identifiable information with certain other websites that we link to (and that you click upon) in order to enhance your experience in connection with the Movieclips Site. 
+##### What this Privacy Policy Does Not Cover:
 
-Movieclips uses all of the information that we collect from Users to understand and analyze the usage trends and preferences of our Users, to improve the way the Movieclips Site works and looks, and to create new features and functionality. 
+This Policy does not cover any of the following:
 
-Movieclips may use "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Movieclips Site; (b) provide customized third-party advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions or other activities. 
+  * Information you give to us offline, for example when you send a letter to our business address or leave a message on our voicemail system.
+  * Information collected by third parties, even if collected on or through our Site or other Service. For example, we may embed a content feed, video player or other application from a third party on our Site or other Service. These third party applications may appear to be part of our Site or other Service, but the content is provided by a third party server. By accessing this third party application, the third party owner may send its own cookies and collect its own data regarding your interaction with the application and may solicit your personal information as part of your use of such application. We are not responsible for the actions and privacy policies of these third party providers and you should review such privacy policies prior to providing any Personally Identifiable Information to them.
+  * This Policy will be posted on this Site for your review and from time to time as part of registering or providing information in connection with this Site or other Service, we may provide you with a short notice reminding you to refer to this Policy and other relevant information from us when using our Site or other Service.
 
-If you have registered as a member and given Movieclips consent, we may share your personally identifiable information with advertisers, business partners, and other entities that are not affiliated with Movieclips who would like to send you information about their products and services. 
 
-Movieclips' employees, agents and contractors must have a legitimate business reason to obtain access to the personally identifiable information you may provide to register as a member of Movieclips. We may share your personally identifiable information with companies that provide services to us, including outside contractors or agents who help us manage our information activities, but they may only use your personally identifiable information to provide us with a specific service and not for any other purpose. 
 
-### Anonymous Aggregated Data:
+##### PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CAREFULLY. YOUR USE OF THIS SITE AND/OR SERVICE SIGNIFIES YOUR AGREEMENT TO SUCH POLICY AND TERMS OF USE.
 
-Anonymous data is information (originally personally identifiable or non-personally identifiable) that subsequently is used in aggregate form. We may collect anonymous data whether or not you are a registered member of Movieclips. We may use anonymous data for purposes of research or analysis. We may conduct research on our customer demographics, internet usage, and interests and behavior based on personal data we gather. Although anonymous data may be based in part on personal data, it does not identify you personally. 
+  1. **What Types of Information Fandango Collects**
+  2. **How Fandango Collects Information**
+  3. **How Fandango Uses Information**
+  4. **Special Privacy Terms Related to Mobile Applications**
+  5. **Anti-Spam Policy**
+  6. **Disclosure of Personally Identifiable Information to Third Parties**
+  7. **Communication Preferences**
+  8. **Third Party Advertising and Links to Other Sites**
+  9. **Guidelines Regarding Children (COPPA)**
+  10. **Public Forums**
+  11. **How We Protect and Secure Your Information**
+  12. **Applicable Law**
+  13. **Your California Privacy Rights (California residents)**
+  14. **Acceptance of this Privacy Policy**
+  15. **Changes to this Privacy Policy**
+  16. **Terms of Use**
+  17. **Contact Information**
 
-Movieclips may share this type of anonymous data with a variety of third parties, including its affiliates, advertisers, and other current and prospective business partners. Movieclips may use anonymous data collected for website administration, advertising, and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. We may also enter into agreements with outside companies that possess technology that allows us to customize the advertising and marketing messages You receive while using the Movieclips Site. 
 
-### When Movieclips Discloses Information:
 
-Movieclips discloses automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on the Movieclips Site. 
+##### 1\. WHAT TYPES OF INFORMATION FANDANGO COLLECTS
 
-Movieclips may also disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, we may make such disclosures without first providing notice to Users. 
+  * Our goal is to collect and use only that information that we think is required for our legitimate business interests, in order to better understand your interests and to improve your experience of using our Site or other Service. In order to do so, we collect the following types of information:
 
-Movieclips also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Movieclips from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Movieclips Site; or to protect the rights, property, or personal safety of Movieclips, our Users, or others. 
+##### Personally Identifiable Information
 
-In the event that Movieclips is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control. 
+Personally identifiable information is any information that identifies a living individual, such as your first and last name, mailing address, phone number, mobile phone number email address, photograph, credit/debit card number and expiration date (or other payment-method information), login ID, member name and password and other information about a specific individual that identifies the individual ("Personally Identifiable Information"). When you sign up for or use the Site or other Service, Fandango collects some amount of Personally Identifiable Information from you. Fandango also collects Personally Identifiable Information that you may voluntarily provide when you use the Site or other Service, that you may disclose in a public area of the Site or other Service (such as a rating/review page, message board or chat room), or that you may include if you communicate with Fandango, such as by responding to polls or survey, registering for sweepstakes, contests and other promotional opportunities, or seeking help from our customer service department. We also may obtain Personally Identifiable Information from reputable third parties, such as credit agencies.
 
-### Your Choices:
+In some instances, when you use certain features of the Site or other Service, Fandango may collect the email addresses or other Personally Identifiable Information of others that you may provide. Unless stated otherwise at the point of collection, we will treat any such Personally Identifiable Information that you submit about other people in accordance with this Policy.
 
-You may, of course, decline to share your personally-identifiable information with Movieclips, in which case Movieclips will not be able to provide to you some of the features and functionality found on the Movieclips Site. If you register as a member of Movieclips, you may update, correct, or delete your profile information and preferences at any time by signing into your account on the Movieclips Site and following the applicable procedures set forth therein. 
+  * ##### Non-Personally Identifiable Information
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. 
+Fandango collects information from you automatically when you use the Site or other Service. Non-Personally Identifiable Information is information that does not specifically identify a living individual and is not used with Personally Identifiable Information to determine an individual's identity, including a computer's Internet Protocol ("IP") address, a mobile device's unique identifier, computer and device connection information such as browser type or version, demographic information, such as a person's age, ZIP code and other data collected automatically through the operation of this Site or other Service ("Non-Personally Identifiable Information"). We may collect site usage data and other Non-Personally Identifiable Information (such as which Site pages are visited and in what sequence) through the use of various technologies. For example, our Web servers automatically collect IP addresses from computers and other devices that visit the Site. An IP address is a number that is automatically assigned to a computer by the Internet service provider whenever the computer is connected to the Internet. Web servers, the computers that "serve up" and deliver Web pages, automatically identify a computer by its IP address, and when a page is requested from a website, its servers log the IP address of the computer requesting the page. When we are collecting information regarding what pages and content on this Site or other Service a computer is accessing and using, in general we do not link that computer's IP addresses to any Personally Identifiable Information, so although the Site usage data associated with a computer's IP address will be logged, your identity will remain anonymous to us and the Site. For portions of the Site or other Service that may require registration or a log-in, we may also collect your registration, username and password information from you when you register or log in to those portions of the Site or other Service. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
 
-### Third-Party Advertisers, Links to Other Sites:
 
-The Movieclips Site may be linked to internet websites operated by other companies. Some of these websites may be co-branded with our name or logo, even though they are not operated or maintained by us. Movieclips may also permit other companies, called third-party ad servers or ad networks, to serve advertisements within the Movieclips Site. These third-party ad servers or ad networks may use technology to send, directly to your browser, some of the advertisements and links that appear on the Movieclips Site. These advertisers may automatically receive your IP address if this happens. These advertisers may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. 
 
-You should consult the respective privacy policies of these third-party websites and third party ad servers or ad networks. Movieclips' privacy policy does not apply to, and we cannot control the activities of, such other third party advertisers or web sites. Please be aware that Movieclips does not warn you when you have chosen to link through to another website from the Movieclips Site. 
 
-### Our Commitment to Children's Privacy:
+##### 2\. HOW FANDANGO COLLECTS INFORMATION
 
-Protecting the privacy of young children is especially important. For that reason, Movieclips does not knowingly collect or maintain personally identifiable information on the Movieclips Site from persons under 13 years-of-age. If Movieclips learns that personally-identifiable information of persons less than 13-years-of-age has been collected on Movieclips without verifiable parental consent, then Movieclips will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained a Movieclips Site account, then you may alert Movieclips at  and request that Movieclips delete that child's personal information from its systems. 
+  * ##### Cookies
 
-### Our Commitment to Data Security:
+Like many sites, we and third parties that provide content on and through the Site or other Service use "cookies" or other similar technologies to collect information. A cookie is a small text file that is sent to your computer from a Web server and stored on your computer's hard drive when you visit a website. Fandango's cookies contain Personally Identifiable Information, such as your Login ID and your email address, as well as Non-Personally Identifiable Information. Fandango uses cookies to allow you to log in automatically and to ensure that you have agreed to the terms, conditions and policies that govern your use of the Site or other Service. In addition, Fandango uses cookies to measure traffic activity on the Site, track your use of the Site or other Service, and provide you with a more personalized user experience by allowing Fandango to provide targeted advertising and determine which areas of the Site or other Service may be the most popular or useful to you. Similarly, if you have asked us to send you information about upcoming products and promotions, by using cookies we collect information about which Site pages you have visited and in what order that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site or other Service may not function properly if you do so. For more information about cookies and how to disable them, please consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Certain internet browsers, such as Internet Explorer, Chrome, Firefox and Safari, also allow you to block, control and remove cookies from your computer. For more information regarding your specific browser, please consult the browser's Help section or browser provider's website.
 
-Movieclips uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Movieclips, and you do so at your own risk. Once we receive your transmission of information, Movieclips makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+  * ##### IP Address
 
-If Movieclips learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Movieclips may post a notice on the Movieclips Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
+An IP address is a number that is assigned to your computer automatically when you use the Internet. Fandango logs your IP address and uses your IP address to track your usage of the Site or other Service.
 
-### International Visitors:
+  * ##### Pixel Tags
 
-The Movieclips Site is hosted in the United States and is intended solely for visitors located within the United States. If you nonetheless choose to use the Movieclips Site from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on the Movieclips Site you consent to that transfer. 
+Pixel Tags, also called clear GIFs, web beacons or similar means (collectively "Pixel Tags"), are invisible files on Web pages that you visit. When you visit a page on the Site that contains a Pixel Tag, the Pixel Tag communicates with your computer to collect Non-Personally Identifiable Information, and determine, among other things, whether you have been to that page before or viewed a particular advertisement. Fandango uses Pixel Tags to serve relevant advertising, enhance email advertising, and track usage of the Site or other Service.
 
-### Changes and Updates to this Privacy Policy:
+  * ##### Other Methods
 
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Modified" date above. Please revisit this page to stay aware of any changes. Your continued use of the Movieclips Site constitutes your agreement to this Privacy Policy and any future revisions. 
+Where authorized and as permitted by FTC guidelines and all other applicable laws, rules and regulations, Fandango may also use or allow the use of trusted vendors and other third party companies who may gather data for appropriate business purposes such as managing advertising and/or generating reports on Site traffic and statistics. We may also use other monitoring technologies to gather anonymous statistics about our Site visitors.
 
-### Movieclips Contact Information:
 
-Please contact Movieclips with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at . 
+
+
+##### 3\. HOW FANDANGO USES INFORMATION
+
+  * ##### Personally Identifiable Information
+
+We will use your Personally Identifiable Information for the purposes for which it was provided. For example, Fandango may use your Personally Identifiable Information to notify you of changes to the Site or other Service, to let you know about opportunities and other products or services you may be interested in, and to request your participation in surveys or other promotions. You can choose not to receive certain communications from Fandango as described in the section below entitled **"Communication Preferences."** Fandango also uses your Personally Identifiable Information to provide you with information that you request, and deliver content to you that is relevant to your interests. If you use Fandango to give a gift, Fandango may use the email addresses you provide to send your gifts, and other communications relating to such transaction, and any further communications as may be authorized by the recipient. We also may send information or offers to selected groups of Site or Service users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example, if you win a contest) we may post your Personally Identifiable Information on this Site. We will notify you of this possibility when you provide the Personally Identifiable Information and if possible, when the Personally Identifiable Information is posted.
+
+Cookies and similar tools may be used to relate your use of the Site or other Service and Non-Personally Identifiable Information to Personally Identifiable Information obtained from you. If any Non-Personally Identifiable Information is linked with Personally Identifiable Information, the linked Non-Personally Identifiable Information will then be treated as Personally Identifiable Information.
+
+  * ##### Aggregate Information
+
+Fandango also combines your usage information for the Site or other Service with that of other users ("Aggregate Information") to determine which features and areas of the Site or other Service are most popular. Aggregate Information does not contain any of your personally Identifiable Information. By collecting and analyzing this data, Fandango can improve the Site or other Service. Additionally, we may share this type of Non-Personally Identifiable Information with a variety of third parties, including our affiliates, agents, service providers and current and prospective business partners, for any purpose. We may also enter into arrangements with outside companies that possess technology that allows us to customize the advertising and marketing messages you receive on this site. To learn more about these companies, please click on the Ad Choices icon at the bottom of each page.
+
+
+
+
+##### 4\. SPECIAL PRIVACY TERMS RELATED TO MOBILE APPLICATIONS
+
+  * This section of the Policy governs your use of any Fandango software application ("Application") on a mobile device (such as a mobile phone or tablet), providing a Fandango Site or other Service.
+
+##### Information the Application Obtains and Uses
+
+USER PROVIDED INFORMATION – The Application obtains the information you provide when you download and register the Application. Registration with us may be optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+
+When you register with us and use the Application, you may provide some or all of the following: (a) your name, email address, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; and (d) information you enter into our system when using the Application, such as contact or credit card information. We may also use the information you provided to us to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+AUTOMATICALLY COLLECTED INFORMATION – In addition, the Application may collect certain information automatically, such as the type of mobile device you use, the unique device ID of your mobile device, the IP address of your mobile device, your mobile operating system, the type of mobile internet browser you use, and information about the way you use the Application. See "Automatic Data Collection and Advertising" section for further information.
+
+  * ##### Application Collection of Device Location Information
+
+This Application does collect precise information about the location of your device. In order to allow the Application to collect real-time location information you must select "Find my location" when prompted by the Application and also enable the GPS services on your mobile device. We use your location information to provide requested location services such as advertising or offers from local businesses and their locations.
+
+You may at any time opt-out from further allowing us to have access to your location data by managing your location preferences in the "My Account" section of the Application or disabling the GPS services on your mobile device.
+
+  * ##### Automatic Data Collection and Advertising
+
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application. Advertisers and advertising networks use some of the information collected by the Application, including the unique identification ID of your mobile device and your mobile telephone number. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can't identify you personally. These third parties may also obtain anonymous information about other applications you've downloaded to your mobile device, the mobile websites you visit, your non-precise location information (i.e. your zip code) and other non-precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising-related use.
+
+  * ##### Opt-out Procedures
+
+You can stop all collection of information by the Application by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+You can also withdraw your consent to receive "push" notifications and/or to the collection of your physical location information at any time by disabling or changing the related functionality or setting as provided in your mobile device.
+
+
+
+
+##### 5\. ANTI-SPAM POLICY
+
+  * Fandango is 100% opposed to unsolicited commercial email ("spam"). We do not have any desire to send unsolicited marketing emails to anyone without permission and we do not sell or provide user email addresses to any unauthorized third party in violation of this Policy. All of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you.
+
+
+
+
+##### 6\. DISCLOSURE OF INFORMATION TO THIRD PARTIES
+
+  * ##### Disclosure to Affiliates
+
+Fandango reserves the right to share any Personally Identifiable Information or other information about you which you provide to (or which is gathered from) the Fandango Site or other Service with any or all of its subsidiaries and affiliates (collectively, our "Affiliates") (subject to the opt-out right described below, with respect to disclosures of Personally Identifiable Information to Affiliates for their direct marketing uses). Subject to the applicable privacy policies under which such information was collected, Fandango may also have access to any information you provide to (or which is gathered from) the web sites of any of our Affiliates.
+
+  * ##### Disclosure to Service Providers or Business Partners
+
+Like many businesses, we sometimes hire other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site or other Service, maintaining databases, administering contests, providing wireless services, providing fulfillment services, sending e-mails, and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personally Identifiable Information it needs to perform its function, and is required to protect the Personally Identifiable Information. For third-party sponsored sweepstakes, contests or promotions, we may request Personally Identifiable Information from you that may be shared with the sponsor upon request.
+
+If Fandango sells all or part of the Site and/or other Service or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personally Identifiable Information to a third party as part of or in connection with that transaction. Upon such transfer, the privacy policies of the acquiring entity may govern the further collection and use of your Personally Identifiable Information.
+
+  * ##### Disclosure to Others
+
+In addition, we may disclose Personally Identifiable Information under the following circumstances to: (1) protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from government, regulatory, law enforcement or public authorities; (5) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain; (6) enforce our Terms of Use; or (7) comply with subpoenas, search warrants, the law or other legal process.
+
+  * ##### Aggregate Information
+
+Fandango shares Aggregate Information with potential partners, advertisers, investors and other interested third parties in connection with the marketing of Fandango's products and services. However, Aggregate Information does not include any of your Personally Identifiable Information.
+
+  * ##### Social Media Plug-Ins and Sharing with Other Sites You May Authorize
+
+Social media plug-ins of social networks, which may include but are not limited to Facebook, Twitter, Tumblr and Pinterest, may be integrated into our Site and other Services. Where our Site or other Service contains a plug-in to a social networking site, these are clearly marked (i.e. with a button). If you choose to click on one of these buttons or links, you browser will connect directly to the servers of the relevant social networking site. The social media network directly transmits the content of the plug-in to your browser. If you are a member of a social network service or you use other Internet sites where you have authorized them to gather information about your online behavior on the Fandango Site or other Service, including your use of a plug-in or other participation in any behavioral reporting program that they may operate on or off of their own site, Fandango may share information regarding your activities on our Site or other Service with those third parties pursuant to your authorization, and they may associate that information with Personally Identifiable Information they already have about you (such as your Facebook Profile) and use it to improve their site or services or for other purposes. Fandango does not control the privacy policies of such third parties, and their privacy policies will govern their use of your information once it has been transmitted by Fandango. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third parties that you authorize to gather information from Fandango.
+
+  * ##### Information we share with advertisers (including Targeted Advertising)
+
+Some online services, including the Fandango Application, may be supported with advertising, and collect data to help the online services serve ads. This helps keep the cost of online services low or free.
+
+We may work with advertisers and third party advertising networks, who may receive information about how you interact with advertising provided in the online service. We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere. You may opt out of third party advertising networks by going to the Network Advertising Initiative's Website at [Network Advertising.org - Opt Out](http://www.networkadvertising.org/managing/opt_out.asp) and following the directions there.
+
+
+
+
+##### 7\. COMMUNICATION PREFERENCES
+
+  * During registration and certain purchases, and via the "My Account" section of our Site, you can set your email preferences with respect to receiving certain communications from Fandango and our partners.
+
+In addition, all of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you.
+
+
+
+
+##### 8\. THIRD PARTY ADVERTISING AND LINKS TO OTHER SITES
+
+  * Fandango does not control the privacy policies of its advertisers or other third parties that have Web sites linked to the Site or other Service or with whom we may share your information in accordance with this Policy. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party Web sites you link to.
+
+
+
+
+##### 9\. GUIDELINES REGARDING CHILDREN (COPPA)
+
+  * Fandango is not designed or intended for use by children under 13. If you are under 18, you should use Fandango only with involvement of a parent or guardian. At various places on the Site or other Service, we may ask users for their age. Children under 13 are expressly prohibited from submitting any Personally Identifiable Information (as defined below) to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it.
+
+
+
+
+##### 10\. PUBLIC FORUMS
+
+  * Please remember that information posted to message boards, chat rooms, blogs and other user forums become public information. Please use caution when posting. Individuals under the age of 18 should be especially careful not to provide any Personally Identifiable Information when participating in an area of the Site or other Service where posting might become public. If you voluntarily disclose Personally Identifiable Information in a public area of the Site or other Service, such as a rating/review page, chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. Fandango does not control the actions of users in public areas of the Site or other Service. If you disclose Personally Identifiable Information in a public area, you do so at your own risk. Please see our Terms of Use for the standards of behavior that must be followed when using these portions of the Site or other Service.
+
+
+
+
+##### 11\. HOW WE PROTECT AND SECURE YOUR INFORMATION
+
+  * We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personally Identifiable Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our control. While we strive to protect your Personally Identifiable Information, we cannot ensure or warrant the security of any Personally Identifiable Information you transmit to us. Any transmission is done at your own risk. Accordingly, Fandango assumes no responsibility or liability for disclosure of your information (personally identifiable or otherwise) due to errors in transmission, unauthorized third-party access or other causes beyond Fandango's reasonable control.
+
+
+
+
+##### 12\. APPLICABLE LAW
+
+  * The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of New York without regard to its conflict of law provisions. This Site or other Service is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site or other Service is appropriate for use in any particular jurisdiction. Those who choose to access the Site or other Service do so at their own initiative and are responsible for complying with all local laws, rules and regulations. If you are located in a country outside the United States and submit personal information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Policy.
+
+
+
+
+##### 13\. YOUR CALIFORNIA PRIVACY RIGHTS (California residents)
+
+  * California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email us at [caprivacyrights@fandango.com](mailto:caprivacyrights@fandango.com) or write to us:
+
+**Fandango Media, LLC  
+Attn: California Privacy Rights  
+12200 West Olympic Blvd, Suite 400  
+Los Angeles, CA 90064 **
+
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how Fandango responds to "Do Not Track" browser settings. Fandango does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+
+
+
+##### 14\. ACCEPTANCE OF THIS PRIVACY POLICY
+
+  * When you use the Site or other Service, you are accepting the terms and conditions of this Policy, and Fandango will have the right to use your Personally Identifiable Information or other information about you as described in this Policy. If you do not agree to have your information used in any of the ways described in this Policy, you must not use the Site or other Service and you must follow the opt-out provisions above. If you have questions or concerns about this Policy, please contact [Customer Support](http://fandango.custhelp.com/app/ask) or write to Fandango at the contact address listed below.
+
+
+
+
+##### 15\. CHANGES TO THIS PRIVACY POLICY
+
+  * From time to time, we may revise this Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. By continuing to use the Site or other Service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, please do not continue using the Site or other Service. To the extent that an arbitrator or court of applicable jurisdiction determines that applying any changes to this Policy would render this an illusory or unenforceable contract, such changes shall be applicable on a prospective basis only, with respect to events or circumstances occurring after the date of such changes, to the extent necessary to avoid this Policy being deemed illusory or unenforceable.
+
+
+
+
+##### 16\. TERMS OF USE
+
+  * Your access to and use of the Site or other Service is also subject to the [Terms of Use](http://www.fandango.com/TermsOfUse.aspx).
+
+
+
+
+##### 17\. CONTACT INFORMATION
+
+  * **Fandango Media, LLC  
+Attn: Privacy Policies  
+12200 West Olympic Blvd, Suite 400  
+Los Angeles, CA 90064 **
+
+
+
+
+Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: [Fandango Customer Help](http://fandango.custhelp.com/app/ask/session/)
