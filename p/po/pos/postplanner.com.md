@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203330id_/http%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073610id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Post Planner
+
+Effective as of May 31, 2015
 
 Post Planner, Inc. (“Post Planner,” “We,” “Us” and “Our”) takes your privacy seriously. Please read this Privacy Policy, which describes the types of information We collect through www.postplanner.com (the “Site”), and how We use that information.
 
