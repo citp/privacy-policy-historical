@@ -1,55 +1,73 @@
-> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623002713id_/http%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042301id_/http%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Centro
 
-## PRIVACY
+##  PRIVACY POLICY
 
-## POLICY
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-This Privacy Policy explains how Centro Media, Inc. (“Centro”, “our”, or “we”) collects, uses and discloses information gathered through the [www.Centro.net](https://web.archive.org/)  web site (“Web Site”). This Privacy Policy does not cover any information collected at any other web site or offline by Centro, its affiliates or any other company (unless specifically stated). Please read this Privacy Policy carefully. For information concerning privacy practices for our Ad Serving Technologies, please review the Ad Serving Technologies section of our Website.
+What information do we collect?
 
-Please note: Any information collected about users of the Web Site is collected and processed by Centro in the United States.
+We may collect, store and use the following kinds of personal data:
 
-PERSONALLY IDENTIFIABLE INFORMATION:
+  1. information about your visits to and use of this website;
+  2. information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications.
 
-For general uses of the Web Site, we will collect any information that you may send Centro through the Web Site via a “contact us,” “help” or other similar e-mail address or form.  We will not use the information provided to these e-mail addresses or forms for marketing purposes unrelated to your request.
 
-SHARING PERSONALLY IDENTIFIABLE INFORMATION AND DISCLOSURE TO THIRD PARTIES:
 
-Centro may transfer, disclose and share information collected from or about Web Site users with its related companies, licensees, and vendors for the purposes of conducting business with Web Site users, and administering the Web Site and the creative assets contained on and transmitted through the Web Site.
+We may collect, store and use non-personal data about your visits to and use of this website.
 
-Personally identifiable information (“PII”) is information which can be used to distinguish or trace a person’s identity.  Centro does not share any PII of Web Site users with third parties for those third parties’ direct marketing purposes.  Unless otherwise disclosed in this Privacy Policy or at the time you provide your information, Centro does not share PII with third parties for other purposes except under the following limited circumstances:
+Information about website visits
 
-Third parties providing services on our behalf.   Centro engages other companies and individuals to perform functions on its behalf and at its direction.  Examples include, without limitation, hosting and administering the Web Site, analyzing data, and providing customer and administrative service related to the Web Site. These third parties may have access to the user information, including PII, but only to the extent it is needed to perform their duties and functions on Centro’s behalf.
+We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website’s usability, and for marketing purposes.
 
-Legal Protection.  Unless otherwise prohibited by law, Centro may process, transfer or disclose information about Web Site users, including PII, and may use IP addresses to identify Web Site users in cooperation with internet service providers or law enforcement agencies, to comply with a legal obligation, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing the Web Site and applicable laws, or to protect the legal rights,  interests, or safety of the Web Site, Web Site users, or others.
+We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-Corporate change. You consent to Centro processing, disclosing and transferring user information, including PII, in connection with a corporate merger, consolidation or restructuring, the sale of substantially all of its assets, corporate financing or other fundamental corporate change, unless otherwise prohibited by law.
+We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. Our advertisers may also send you cookies.
 
-COOKIES:
+We may use anonymous cookies to record non-personal information such as website activity, date and time of visit, and domain type. We may use this information for retargeting purposes.
 
-The Web Site does not make use of browser “cookies.”  Cookies are pieces of information that a Web Site either transfers to your computer’s hard drive or stores temporarily in your computer’s memory for record-keeping purposes.
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
-Most browsers are initially set up to accept cookies.  You can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+Using your personal data
 
-WEB SITE USAGE INFORMATION AND IP ADDRESSES:
+Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
-When your computer contacts our web servers (for example,  when you visit the Web Site), our web servers automatically collect non-personally identifiable information (“NPII”) including Web Site usage information, which is information that describes how visitors use and navigate the Web Site, such as the date and time of access, the web page you visit immediately preceding and immediately following your visit to the Web Site, the type of web browser and computer operating system you are using, and your IP address (a number that is assigned to your computer or network when you are on the Internet). We use NPII for internal purposes, such as system administration, to analyze web site usage, to make your use of the Web Site more efficient, and to audit the use of the Web Site.
+In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
 
-YOUR CHOICES:
+  1. improve your browsing experience by personalizing the website;
+  2. send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology;
+  3. send to you marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology.
+  4. provide other companies with statistical information about our users – but this information will not be used to identify any individual user.
 
-You may request a change to your PII by contacting privacy@centro.net, but Centro must approve those requests before they take full effect.
 
-SECURITY:
 
-No data transmission over the internet or electronic storage of information can be guaranteed to be 100% secure. However, Centro has taken reasonable precautions to protect the information collected through the Web Site. Please note that Centro cannot ensure or warrant the security of any information you transmit to Centro, and you do so at your own risk.
+Using your non-personal data
 
-CONSENT TO TRANSFER:
+Non-personal data is collected to provide relevant and targeted advertisements through retargeting. All data is anonymous and cannot be used to identify the visitor. Retargeting recognizes that the internet browser has visited the website in the last 90 days
 
-In order to administer the Web Site and conduct Centro’s business through the Web Site, the information you submit is collected and processed by Centro in the United States.  By using the Web Site, registering with us,  participating in any of our services, or otherwise providing us with PII or NPII, you consent to this transfer and use of your information as described in this Privacy Policy.
+Other disclosures
 
-Centro operates this Web Site in the United States.  If you access this Web Site from outside the United States, you do so on your own initiative and you are solely responsible for compliance with applicable laws.  This Privacy Policy will be construed and enforced in accordance with the laws of the State of Illinois, without regard to its conflicts of law principles, and specifically will not be governed by the United Nations Conventions on Contracts for the International Sale of Goods, if otherwise applicable.
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
 
-ACCEPTANCE AND CHANGES TO THIS PRIVACY POLICY:
+  1. to the extent that we are required to do so by law;
+  2. in connection with any legal proceedings or prospective legal proceedings;
+  3. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
-By using the Web Site, you accept our privacy practices, as outlined in this Privacy Policy. Centro reserves the right to modify,  alter or otherwise update this Privacy Policy at any time, by posting such changed, updated or modified policy on the Web Site. Subsequent access to the Web Site by users may require express consent to the revised Privacy Policy in force at that time.  Notwithstanding any changes in our Privacy Policy, Centro will use your PII in a manner consistent with the Privacy Policy in effect at the time you submitted your PII, unless you give us your consent to do otherwise.
+
+
+Security of your personal data
+
+We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
+
+Policy amendments
+
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+
+Third party websites
+
+The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
+
+Contact
+
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [privacy@centro.net](mailto:privacy@centro.net) or by post to Centro, Inc., 222 W. Hubbard Street, Chicago, IL 60654.
