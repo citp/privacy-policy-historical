@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129034753id_/http%3A//java.dzone.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225163416id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.*
 
-# DZone Privacy Policy | Javalobby
+# DZone
 
 DZone is committed to protecting your privacy. The following privacy policy describes the ways in which DZone gathers and shares your personal information as well as how you can access and update this information.  DZone reserves the right to update this privacy policy at any time. 
 
