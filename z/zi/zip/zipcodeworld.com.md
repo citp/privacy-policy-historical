@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309102610id_/http%3A//www.zipcodeworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055631id_/http%3A//www.ip2location.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IP2Location.com
 
