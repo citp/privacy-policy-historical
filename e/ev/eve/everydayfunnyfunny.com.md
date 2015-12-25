@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayfunnyfunny.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510020814id_/http%3A//everydayfunnyfunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfunnyfunny.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094450id_/http%3A//everydayfunnyfunny.com/privacy-policy) for the most accurate reproduction.*
 
 # Everyday Funny Funny | Privacy Policy
 
