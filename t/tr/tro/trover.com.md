@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502082558id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225154617id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
 
 # Trover Privacy Policy
 
