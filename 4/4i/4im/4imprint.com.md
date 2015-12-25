@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614022353id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225011931id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 4imprint Learning Center
 
@@ -6,16 +6,19 @@
 
 Thank you for visiting this website, one of the official 4IMPRINT websites, and for reviewing the 4IMPRINT privacy policy. This policy describes the information we may collect, how we may collect and use it, and certain other privacy issues, including the precautions we take to protect your privacy. Our policy covers the following topics:
 
-● Information Collected and How it is Used (Sec. A)  
-● Personal Information and Choice (Sec. B)  
-● Transaction Information (Sec. C)  
-● Review and Correction of Personally Identifiable Information (Sec. D)  
-● Cookies (Sec. E)  
-● Security (Sec. F)  
-● A Special Note for Parents Concerning Privacy (Sec. G)  
-● Disclaimer (Sec. H)  
-● Revision (Sec. J)  
-● Contact Information and Enforcement (Sec. K)
+  * Information Collected and How it is Used (Sec. A)
+  * Personal Information and Choice (Sec. B)
+  * Transaction Information (Sec. C)
+  * Review and Correction of Personally Identifiable Information (Sec. D)
+  * Cookies (Sec. E)
+  * Security (Sec. F)
+  * A Special Note for Parents Concerning Privacy (Sec. G)
+  * Disclaimer (Sec. H)
+  * International Customers and Users (Sec. I)
+  * Revision (Sec. J)
+  * Contact Information and Enforcement (Sec. K)
+
+
 
 ## Section A: Information Collected and How it is Used
 
@@ -88,15 +91,19 @@ However, it is important to recognize that whatever you transmit or disclose onl
 
 The internet offers many educational opportunities for children. However, parental guidance and supervision is necessary to ensure a safe and rewarding online experience. Although our site is a general audience site, we do not collect any personal information from children under the age of thirteen (13). If we receive any information from persons we believe to be minors, that information will be purged from our database and in accordance with any applicable laws.
 
-## Section H: Disclaimer
+## Section H: Disclaimer
 
 This policy applies only to the 4IMPRINT websites. However, our websites may, from time to time, provide links to other websites, including those operated by unrelated governmental agencies, non-profit organizations, and private businesses. Be advised that 4IMPRINT is not responsible for the content of such other unrelated sites and shall not be liable for any damages or injury arising from that content. Any links to other sites are provided merely as a convenience to the users of this site. When you link to another unrelated site, you are no longer on a 4IMPRINT website and this privacy policy will not apply. When you link to an unrelated website, you are subject to the privacy policy of that site. If you visit an unrelated website that is linked to one of our sites, you should carefully consult that site’s privacy policy before providing any personal information.
 
 ## Section I: International Customers and Users
 
-Please note 4IMPRINT complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. 4IMPRINT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor)
+Please note 4IMPRINT complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. 4IMPRINT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor)
 
 Also note that personal information regarding individuals who reside in the EU is jointly controlled by 4imprint Direct Ltd. in Manchester, United Kingdom. In the EU, we process and utilize the personal information you provide in accordance with the UK’s Data Protection Act 1998.
+
+ **On October 6, 2015, the European Court of Justice issued a judgment declaring as “invalid” the European Commission’s Decision 2000/520/EC of 26 July 2000 “on the adequacy of the protection provided by the safe harbour privacy principles and related frequently asked questions issued by the US Department of Commerce.”**
+
+ **In the current rapidly changing environment, the Department of Commerce will continue to administer the Safe Harbor program, including processing submissions for self-certification to the Safe Harbor Framework.   If you have questions, please contact the European Commission, the appropriate European national data protection authority, or legal counsel.**
 
 ## Section J: Revision
 
