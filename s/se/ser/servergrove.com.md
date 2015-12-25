@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140828id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226005924id_/http%3A//servergrove.com/privacy) for the most accurate reproduction.*
 
 # ServerGrove Privacy
 
@@ -123,9 +123,8 @@ Privacy Officer
 
 ServerGrove Networks, Inc.
 
-1390 South Dixie Highway  
-Suite 2218   
-Coral Gables, FL 33146
+1101 Brickell ave. #310323  
+Miami, FL 33131
 
 Email: privacy@ServerGrove.com
 
