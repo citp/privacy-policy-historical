@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazytechguys.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617044301id_/http%3A//www.lazytechguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazytechguys.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052818id_/http%3A//www.lazytechguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lazy Tech Guys
 
