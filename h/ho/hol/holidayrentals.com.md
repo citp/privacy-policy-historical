@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayrentals.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515112523id_/http%3A//www.holidayrentals.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayrentals.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225213628id_/http%3A//www.holidayrentals.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
