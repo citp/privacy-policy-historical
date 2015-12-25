@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629135804id_/http%3A//www.optimizepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050557id_/http%3A//www.optimizepress.com/privacy-policy) for the most accurate reproduction.*
 
 # OptimizePress - Club Special Offer — OptimizePress
 
@@ -10,7 +10,7 @@ This privacy policy tells you how we (OptimizePress) collect, use, and protect y
 
 **MINORS**
 
-We do not knowingly provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information and do not use this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@optimizepress.com
+We do not knowingly provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information and do not use this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us using the form here:  http://www.optimizepress.com/wizard/submit.html
 
 **THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
@@ -50,7 +50,7 @@ The safety and security of your information also depends on you. Where we have g
 
 **ACCESSING AND CORRECTING YOUR INFORMATION**
 
-If you have a customer account with us, you can review and change your personal information by logging into the website and visiting your account profile page. You may also send us an e-mail at support@optimizepress.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+If you have a customer account with us, you can review and change your personal information by logging into the website and visiting your account profile page. You may also contact us via the form here  http://www.optimizepress.com/wizard/submit.html to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 **YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
 
@@ -58,7 +58,7 @@ You may choose to provide personal information to website visitors or other thir
 
 **AUTORESPONDERS**
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support@optimizepress.com, or sending us mail to the address listed below.
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by completing the form at  http://www.optimizepress.com/wizard/submit.html, or sending us mail to the address listed below.
 
 **DO NOT TRACK**
 
@@ -72,12 +72,12 @@ Unfortunately, the transmission of information via the internet is not completel
 
 The terms of this policy may change from time to time. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified through your account. Your continued use of this website constitutes your consent to such revised privacy policy.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support@optimizepress.com, or one of the methods provided under Contact Information, and providing us with information relating to your concern.
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by completing the form here http://www.optimizepress.com/wizard/submit.html , or one of the methods provided under Contact Information, and providing us with information relating to your concern.
 
 **CONTACT INFORMATION**
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
-support@optimizepress.com
+http://www.optimizepress.com/wizard/submit.html
 
 OptimizePress  
 Suite 407,  
@@ -85,4 +85,4 @@ Suite 407,
 London,  
 EC1V 9LT
 
-This privacy policy was last updated on March 3, 2015.
+This privacy policy was last updated on 14 September, 2015
