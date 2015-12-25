@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617073238id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042417id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Undertone
 
-[Privacy](https://web.archive.org/privacy) | [Health and Data Segments](https://web.archive.org/undertone-and-health-data-segments)
+[Privacy](http://www.undertone.com/privacy/) | [Health and Data Segments](http://www.undertone.com/undertone-and-health-data-segments/)
 
 Undertone is a digital advertising company that may deliver advertisements to the websites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website, when you visit our customer’s (referred to as “Advertisers”) websites and when we serve advertisements on our network of websites owned by third-party publishers (collectively, the “Undertone Site Network”), how such information is used, and how it is shared with third parties if shared at all.
 
@@ -82,13 +82,19 @@ Undertone is committed to providing consumers notice and choice regarding IBA. U
 
 To opt-out of IBA, please use our [opt-out tool](http://undertone.com/opt-out-tool).
 
-Please note that the above opt-out link is applicable to Undertone IBA activities only. To opt-out of IBA by Upfront Media/Legolas Media, please use the following [opt-out](http://www.thinkupfront.com/opt-out-tool/). You may also opt-out of IBA by Undertone/Legolas Media and other member companies of the Network Advertising Initiative (NAI), by visiting the NAI website [here.](http://www.networkadvertising.org/managing/opt_out.asp) Or you may opt-out of IBA by Undertone/Legolas Media and other member companies of the Digital Advertising Alliance (DAA), by visiting the DAA website [here](http://www.aboutads.info/choices/).
+Please note that the above opt-out link is applicable to Undertone IBA activities conducted through “ads.undertone.com” as well as “legolas-media.com.” You may also opt-out of IBA conducted by Undertone and other member companies of the Network Advertising Initiative (NAI) by visiting the NAI website [here.](http://www.networkadvertising.org/managing/opt_out.asp) Or you may opt-out of IBA by Undertone and other member companies of the Digital Advertising Alliance (DAA) by visiting the DAA website [here](http://www.aboutads.info/choices/).
 
 Please report any problems related to the opt-out process to [privacy@undertone.com](mailto:privacy@undertone.com).
 
 ### European Union
 
-Undertone adheres to the Interactive Advertising Bureau Europe’s OBA Framework and participates in the European Interactive Digital Advertising Alliance’s self-regulatory initiative. Accordingly, in addition to the opt-out options above, users can learn more about IBA and opt-out through the industry page [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Further, Undertone does not collect or use for the purpose of IBA, data that is considered personal data or sensitive personal data under the respective national implementations of the EU Directive 95/46/EC.
+Undertone adheres to the Interactive Advertising Bureau Europe’s OBA Framework and participates in the European Interactive Digital Advertising Alliance’s (EDAA) self-regulatory initiative. Accordingly, in addition to the opt-out options above, users can learn more about IBA and opt-out through the industry page [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+Undertone has been independently verified by TRUSTe to be in full compliance with the European OBA Self-Regulatory Programme.
+
+[](https://privacy.truste.com/privacy-seal/Undertone/validation?rid=cc29cb43-2606-4a57-9d4c-bd64d00fa46d "TRUSTe Privacy Certification")
+
+Further, Undertone does not collect or use for the purpose of IBA, data that is considered personal data or sensitive personal data under the respective national implementations of the EU Directive 95/46/EC.
 
 ### Children’s Privacy
 
