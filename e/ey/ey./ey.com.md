@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629164756id_/http%3A//www.ey.com/US/en/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225132829id_/http%3A//www.ey.com/US/en/home/privacy) for the most accurate reproduction.*
 
 # Privacy - EY - United States
 
-Ernst & Young intends for ey.com to complement the services that the firm provides. This statement, set forth below, is our privacy statement for the United States Web site. Also, set forth below is our [Safe Harbor statement](https://web.archive.org/US/en/Home/Privacy_Safe_Harbor) which concerns the transfer of personal data from the European Union to the United States. These privacy statements describe the practices we follow to respect the privacy of all visitors to this site.
+Ernst & Young intends for ey.com to complement the services that the firm provides. This statement, set forth below, is our privacy statement for the United States Web site. This privacy statement describes the practices we follow to respect the privacy of all visitors to this site.
 
 At Ernst & Young, we have focused on implementing fair information practices that are designed to protect your privacy. We believe that everyone benefits from the free flow of information when that information is gathered and used responsibly. Please be aware that ey.com contains links to other sites, including sites maintained by Ernst & Young, which are not governed by this privacy policy. See the side bar on the right to learn which Web sites are governed by this statement.
 
-If you have questions or you do not feel that your concerns have been addressed in our privacy statement, feel free to [contact us](https://web.archive.org/US/en/Home/Home-ContactUs).
+If you have questions or you do not feel that your concerns have been addressed in our privacy statement, feel free to [contact us](http://www.ey.com/US/en/Home/Home-ContactUs).
+
+**Safe Harbor and Data Privacy**  
+As of October 6th, 2015, the US-EU Safe Harbor framework has been declared invalid by the European Court of Justice. Nonetheless, EY continues to adhere to the Safe Harbor principles set out in [this document](http://www.ey.com/US/en/Home/Privacy_Safe_Harbor). EY has also established a [Binding Corporate Rules (BCR) Program](http://www.ey.com/GL/en/Home/EY-Data-Protection-Binding-Corporate-Rules-Program) to comply with European data protection law, specifically regarding transfers of personal data between the Member Firms.
 
 **How We Respond to Do Not Track Signals**  
 EY does not respond to Do Not Track (DNT) signals. Details on your ability to restrict or change the personal information that we may collect about you are listed below under the Collection, Use, Disclosure, Choice section of this statement. For more information as to how we use cookies, please see the applicable section here.
@@ -52,8 +55,7 @@ Further, some of the information on the nomination form may be used for research
     * The disclosure is reasonably necessary for the establishment of legal claims
     * The disclosure is to another Ernst & Young entity or to persons or entities providing services on our or the individual’s behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: 
       * is subject to law providing an adequate level of privacy protection;
-      * has agreed in writing to provide an adequate level of privacy protection;
-      * subscribes to the Safe Harbor Principles published by the U.S. Department of Commerce.
+      * has agreed in writing to provide an adequate level of privacy protection.
 
 
 
