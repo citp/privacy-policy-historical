@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628002935id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115354id_/http%3A//www.midwayusa.com/privacy-policy) for the most accurate reproduction.*
 
-# MidwayUSA's Privacy Policy
+# MidwayUSA — Shooting Supplies, Reloading, Gunsmithing, Hunting, Ammunition, Gun Parts & Rifle Scopes
 
-Last Modified 10/23/2012
+**Last Modified 10/23/2012**
 
 This Privacy Policy (this " **Policy** ") describes how personal information is collected, used and disclosed by MidwayUSA (" **MidwayUSA** ," " **we** ," or " **us** ") in connection with your use of the MidwayUSA website at http://www.midwayusa.com (the " **Site** "). We encourage you to read this Policy carefully before providing any personal information on the Site.
 
@@ -69,7 +69,7 @@ Personal information provided on our Site may be linked together or merged with 
 
 ### DISCLOSURE OF INFORMATION
 
-We occasionally exchange our customer postal address list with other reputable companies. You may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/account/) page and saving the change, or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/Features/ContactUs) page.
+We occasionally exchange our customer postal address list with other reputable companies. You may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://web.archive.org/account/) page and saving the change, or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](https://web.archive.org/Features/ContactUs) page.
 
 Public Posts: Posts made through the Site are intended to be public. Therefore, any information, including personal information, you post in reviews, comments, questions, answers, groups, forums and other public areas will be publicly available as part of the Site.
 
@@ -107,5 +107,5 @@ If you have any questions about this Policy, or the practices of or your dealing
 
 MidwayUSA  
 Attention: Customer Service  
-5875 West Van Horn Tavern Rd.  
-Columbia, MO 65203 
+5875 West Van Horn Tavern Road   
+Columbia, MO65203
