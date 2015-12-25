@@ -1,166 +1,644 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626131018id_/http%3A//npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225012010id_/http%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9RKM5"></script><script>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcOV1NACwcHVlFbAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script>
    try {var _sf_startpt=(new Date()).getTime();} catch(e){}
 </script>
-<title>Privacy Policy : NPR</title><meta charset="utf-8"><!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcOV1NACwcHVlFbAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><![endif]--><meta name="robots" content="noarchive,index,follow"><meta name="Rating" content="General"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"><!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]--><meta name="date" content="2013-05-07"><link rel="canonical" href="http://www.npr.org/about-npr/179878450/privacy-policy"><meta name="description" content="Please read NPR's Privacy Policy."><meta property="og:title" content="Privacy Policy"><meta property="og:url" content="http://www.npr.org/about-npr/179878450/privacy-policy"><meta property="og:type" content="article"><meta property="og:description" content="Please read NPR's Privacy Policy."><meta property="og:site_name" content="NPR.org"><meta property="fb:app_id" content="138837436154588"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@npr"><meta name="twitter:domain" content="npr.org"><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsStory-5ad40ea83d25570c39ad7b19b05fff501d0c9a94.css"><script>
-   window.NPR={};window.NPR.serverVars={"storyId":"179878450","serverType":"prod","facebookAppId":"138837436154588","closeurl":"http:\/\/www.npr.org\/templates\/socialmedia\/close.html","sessionScope":2,"pageScope":3,"breadcrumbs":["Privacy Policy"],"orgId":"1","topics":[0],"pageTypeId":1,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[],"aggregationsText":null,"aggExtras":["07May2013"],"chartbeatAccount":"18888"};function AddNamespace(namespacePath) {var rootObject = window;var namespaceParts = namespacePath.split('.');for (var i = 0; i < namespaceParts.length; i++) {var currentPart = namespaceParts[i];if (!rootObject[currentPart]) {rootObject[currentPart] = new Object();}rootObject = rootObject[currentPart];}}AddNamespace('NPR.ServerConstants');AddNamespace('NPR.mtpl');NPR.ServerConstants.cbHost = 'npr.org';NPR.ServerConstants.webHost = 'http://www.npr.org';NPR.ServerConstants.webHostSecure = 'https://secure.npr.org';NPR.ServerConstants.phototoolImgTmpUploadDir = '/assets/tmp';NPR.ServerConstants.crowdCookieTokenkey = 'crowd.token_key';NPR.ServerConstants.googleAnalyticsAccount = 'UA-5828686-4';NPR.ServerConstants.googleAnalyticsEmbeddedPlayerAccount = 'UA-5828686-74';NPR.ServerConstants.dfpServer = 'pubads.g.doubleclick.net/gampad';NPR.ServerConstants.dfpNetwork = '/6735/n6735';NPR.ServerConstants.dfpSite = 'NPR';NPR.ServerConstants.dfpUsetestserver ='';NPR.ServerConstants.localizeStation = true;NPR.ServerConstants.localizeURL = 'http://api.npr.org/v2/local/stream/basic';NPR.ServerConstants.apiHost = 'api.npr.org';NPR.ServerConstants.StationsKey = 'MDExODkwMDg3MDEzNzU0NTY2ODlmYWY0Yw001';NPR.ServerConstants.cdnHostJsCss = 'http://s.npr.org';NPR.ServerConstants.pushNotificationId = 'web.org.npr.app';NPR.ServerConstants.pushNotificationService = 'https://notifications.npr.org';NPR.ServerConstants.sporeKey = 'MDEyNjI0MDcyMDEzODQ3OTYyNDY4YWU1Mg001';NPR.ServerConstants.fontTimeout = 2000;NPR.mtpl = NPR.mtpl || {};
+<title>Privacy Policy : NPR</title><meta charset="utf-8"><!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]--><meta name="robots" content="noarchive,index,follow"><meta name="Rating" content="General"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no"><meta name="npr-pjax"><!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]--><meta name="date" content="2013-05-07"><link rel="canonical" href="http://www.npr.org/about-npr/179878450/privacy-policy"><meta name="description" content="Please read NPR's Privacy Policy."><meta property="og:title" content="Privacy Policy"><meta property="og:url" content="http://www.npr.org/about-npr/179878450/privacy-policy"><meta property="og:type" content="article"><meta property="og:description" content="Please read NPR's Privacy Policy."><meta property="og:site_name" content="NPR.org"><meta property="fb:app_id" content="138837436154588"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@nprextra"><meta name="twitter:domain" content="npr.org"><link type="text/css" rel="stylesheet" data-persist="true" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/persistent-e79b9340cdb3fd581d73217d3df62d2f782d0eb5.css"><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsStory-a900a955342019de5fa139f014083a769f0824b6.css"><script id="npr-vars">
+   
+if(typeof window.NPR==='undefined'){window.NPR={};}window.NPR.serverVars={"storyId":"179878450","facebookAppId":"138837436154588","rocketfuelCode":20501671,"pubDate":"20130507","pageTypeId":"1","title":"Privacy Policy","persistenceVersion":"3d596243901d7f45af971a4b95e42901"};NPR.ServerConstants={"cbHost":"npr.org","webHost":"http:\/\/www.npr.org","apiHost":"api.npr.org","staticAssetHost":"http:\/\/s.npr.org","googleAnalyticsAccount":"UA-5828686-4","StationsKey":"MDExODkwMDg3MDEzNzU0NTY2ODlmYWY0Yw001","gtmKey":"GTM-K9RKM5"};
 </script>
-<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/fonts-3db3a8bf3a27f526e4d66598f7367f2cdd62da93.js">
-   </script>
-<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/headerAllPages-d7c0a717cde4e48d24d696b2cba006421adc964f.js">
+<script src="http://s.npr.org/templates/javascript/dist/bundles/fingerprint/head-cead0103961c562c960cd304b624964f1ed9e297.js">
    </script>
 <script type="text/javascript">
    document.domain="npr.org";
 </script>
+</head><body id="about" class="about tmplAboutPageStory  id179878450" data-metrics-scroll="" data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen rocketfuel copyright player auto-refresh globalnav fitvids googletag localize dfp globalfooter social/disqus ecommerce jw-inline player/geofence jw social/sharetools social/share slideshow images/enlargement contentfooter"><!--googleoff: index--><header id="globalheader" class="globalheader" role="banner" aria-label="NPR header"><div class="globalheader-inner" data-metrics-all="" data-metrics-category="global navigation">
+    <div class="lead" data-metrics-action="click npr logo">
+        <a class="sidebar-button" href="#sidebar" data-metrics-action="toggle offcanvas">View Navigation</a>
 
-<!-- START UNDERWRITING -->
-<script type="text/javascript">
-   
-googletag.cmd.push(function(){try{if(DFP.shouldRenderForDevice('desktop')){googletag.defineSlot("/6735/n6735.NPR/no_topic",[[300,250],[300,600]],'ad-desktop').addService(googletag.pubads());}
-if(DFP.shouldRenderForDevice('88')){googletag.defineSlot("/6735/n6735.NPR/no_topic",[88,31],'ad-88').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);}
-googletag.pubads().setTargeting('storyId','179878450');var deviceString='';var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("android")>-1){googletag.pubads().setTargeting('device','android');}
-else if(ua.match(/(iPad|iPhone|iPod)/i)){googletag.pubads().setTargeting('device','ios');}
-if(typeof DFP.queryParameters.sc==='string'&&DFP.queryParameters.sc.length>0){scValue=DFP.queryParameters.sc;}
-else if(typeof document.referrer==='string'&&document.referrer.search('facebook.com')>-1){scValue='fb';}
-else if(typeof DFP.queryParameters.ft==='string'){scValue=DFP.queryParameters.ft;}
-googletag.pubads().setTargeting('sc',scValue);var utm_source=typeof DFP.queryParameters.utm_source==='string'&&DFP.queryParameters.utm_source.length>0?DFP.queryParameters.utm_source:'';var utm_medium=typeof DFP.queryParameters.utm_medium==='string'&&DFP.queryParameters.utm_medium.length>0?DFP.queryParameters.utm_medium:'';googletag.pubads().setTargeting('utm_source',utm_source);googletag.pubads().setTargeting('utm_medium',utm_medium);var orient='';if(NPR.Devices.isOnPhone()||NPR.Devices.isOnTablet()){if(window.orientation==0||window.orientation==180){orient='portrait';}else if(window.orientation==90||window.orientation==-90){orient='landscape';}}
-googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();}catch(e){NPR.messaging.exception(e,'Define Google Publisher Tags',NPR.messaging.constants.SPONSORSHIP_ERROR);}});
-</script>
+        <!-- General color logo -->
+        <a href="/" class="nprhome nprhome-news" data-metrics-action="click npr logo">
+            <img src="http://media.npr.org/chrome/news/npr-home.png" alt="NPR logo">
+            <h2 class="ecosystem-name">NPR</h2>
+        </a>
 
-<!-- END UNDERWRITING -->
-</head><body id="about" class="about tmplAboutPageStory  id179878450" data-metrics-scroll=""><!--googleoff: index-->        <script type="text/javascript">
-            try {
-                AddNamespace('NPR.gtm');
-                NPR.gtm.dataLayer = [];
-            } catch(e) {
-                NPR.messaging.exception(e,'commonTwoPage','AddNamespaceGTM',NPR.messaging.constants.METRICS_ERROR);
-            }
-        </script><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function() {
-                var dataLayer = NPR.gtm.dataLayer;
-                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                })(window,document,'script', 'dataLayer', 'GTM-K9RKM5');
-                })();</script>        <script type="text/javascript">
-            AddNamespace('NPR.socialMedia');
-            NPR.socialMedia.twitterSource = "@npr";
-        </script><a href="#wrapper" id="skiplink">Skip to Main Content</a><script type="text/javascript">var pageTrackingCPTV=function(){try{AddNamespace("NPR.metrics");NPR.metrics.pageImpression();}catch(e){NPR.messaging.exception(e,'commonPageTrackView','document.ready',NPR.messaging.constants.METRICS_ERROR);}};if($('docreadybind').length){$('docreadybind').bind('click',pageTrackingCPTV);}else{$(document).ready(pageTrackingCPTV);}</script><header id="globalheader" class="clearfix"><a class="sidebarButton" href="#sidebar" data-action="Toggle OffCanvas" data-metrics="{&quot;action&quot;:&quot;Toggle OffCanvas&quot;, &quot;category&quot;:&quot;Global Navigation&quot;}">
-    <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="subnav toggle">
-</a>
+        <!-- General b&w line logo -->
+        <a href="/" class="nprhome nprhome-news-alt" data-metrics-action="click npr logo">
+            <img src="http://media.npr.org/chrome/npr_logo.svg" alt="NPR logo">
+            <h2 class="ecosystem-name">NPR</h2>
+        </a>
 
-<a href="/sections/750000/about-npr/" class="nprhome" data-metrics="{&quot;action&quot;:&quot;Click Header Logo&quot;,&quot;category&quot;:&quot;Global Navigation&quot;}">
-    <img src="http://media.npr.org/chrome/about-header.png" alt="NPR about">
-</a>
+        <!-- Music color logo -->
+        <a href="/music/" class="nprhome nprhome-music" data-metrics-action="click npr logo">
+            <img src="http://media.npr.org/chrome/music/music-logo.svg" alt="NPR Music logo">
+            <h2 class="ecosystem-name">NPR Music</h2>
+        </a>
 
-<div class="inner" data-metrics-category="Global Navigation">
-    <div id="searchWrapper">
-        <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
-            <label for="searchinput">Search</label>
-            <input type="search" name="searchinput" id="searchinput" class="textbox searchbox">
-        </form>
-        <a href="#" class="search-toggle">Toggle search</a>
+        <!-- Books color logo -->
+        <a href="/books/" class="nprhome nprhome-books" data-metrics-action="click npr logo">
+            <img src="http://media.npr.org/chrome/news/npr-home.png" alt="NPR logo">
+            <h2 class="ecosystem-name"><b>NPR</b> Books</h2>
+        </a>
+
+        <!-- About color logo -->
+        <a href="/sections/750000/about-npr/" class="nprhome nprhome-about" data-metrics-action="click npr logo">
+            <img src="http://media.npr.org/chrome/news/npr-home.png" alt="NPR logo">
+            <h2 class="ecosystem-name"><b>NPR</b> About</h2>
+        </a>
+
+        <!-- Podcasts -->
+        <a href="/podcasts/" class="nprhome nprhome-podcast" data-metrics-action="click npr logo">
+            <img src="http://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg" alt="NPR Podcast Directory logo" class="img-headphones">
+            <img src="http://media.npr.org/chrome/news/npr-home.png" alt="NPR logo" class="img-npr-logo">
+            <h2 class="ecosystem-name"><b>NPR</b>Podcast Directory</h2>
+        </a>
+
+        <div class="search-wrapper" role="search" aria-label="Search NPR">
+            <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+                <label for="searchinput">Search</label>
+                <input type="search" name="searchinput" id="searchinput" class="textbox searchbox" autocorrect="off">
+                <a href="#" class="search-toggle" data-metrics-action="expand search">Toggle search</a>
+            </form>
+        </div>
+
+        <article class="lead-audio lead-audio-newscast">
+            <a href="#" data-player="{&quot;storyId&quot;:&quot;0&quot;,&quot;mediaId&quot;:&quot;0&quot;,&quot;dateString&quot;: null,&quot;action&quot;:&quot;1&quot;,&quot;type&quot;:&quot;4&quot;,&quot;mode&quot;:&quot;0&quot;}" data-metrics="{&quot;category&quot;: &quot;segmented audio&quot;, &quot;action&quot;: &quot;play audio&quot;, &quot;label&quot;: &quot;play hourly news&quot;}">
+                <h3><b>Catch up with the</b> NPR Hourly Newscast</h3>
+                <time>4:45</time>
+            </a>
+        </article>
+
+        <article class="lead-audio lead-audio-music">
+            <a href="#" data-player="{&quot;storyId&quot;:&quot;0&quot;,&quot;mediaId&quot;:&quot;0&quot;,&quot;dateString&quot;: null,&quot;action&quot;:&quot;3&quot;,&quot;type&quot;:&quot;live21&quot;,&quot;mode&quot;:&quot;0&quot;}" data-metrics="{&quot;category&quot;: &quot;streaming audio&quot;, &quot;action&quot;: &quot;play audio&quot;, &quot;label&quot;: &quot;all songs 24/7&quot;}">
+                <h3><b>Listen to NPR Music Radio</b> All Songs 24/7</h3>
+            </a>
+        </article>
     </div>
-    <nav class="nav-two" id="loginPElm">
-        <ul>
-            <li class="stations"><a href="/templates/stations/stations/" data-metrics="{&quot;action&quot;:&quot;Click Business Link&quot;}">Stations</a></li>
-            <li class="donate"><a href="/stations/" data-metrics="{&quot;action&quot;:&quot;Click Business Link&quot;}">Donate</a></li>
-            <li class="nprshop"><a href="http://shop.npr.org" data-metrics="{&quot;action&quot;:&quot;Click Business Link&quot;}">Shop</a></li>
-            <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics="{&quot;action&quot;:&quot;Click Profile Link&quot;,&quot;label&quot;:&quot;Login / Register&quot;}">Sign In/Register</a></li>
-            <li class="login-reg loggedIn userLogin has-subnav"><b class="caret"><b class="user"></b></b>
-                <div class="subnav">
-                    <ul data-metrics-action="Click Profile Link" data-metrics-all="">
-                        <li><span id="userLogin"></span></li>
-                        <li><a href="/templates/reg/logout.php" class="logout" data-metrics="{&quot;label&quot;:&quot;Logout&quot;}">Logout</a></li>
+    <!-- /.lead -->
+
+    <div class="global-navigation-wrap">
+        <nav class="global-navigation" role="navigation" aria-label="main navigation">
+            <!-- see globalnav.js for documentation on how topbar subnav dropdown system works -->
+
+            <div class="top-level">
+                <ul class="top-level-list ecosystem-all primary">
+                    <li class="nprhome"><a href="/" data-metrics-action="click npr logo">NPR Home</a></li>
+                    <li class="stations has-subnav"><a href="/stations" data-metrics-action="click find stations">Find Stations</a></li>
+                </ul>
+
+                <ul class="top-level-list ecosystem-news primary" data-metrics-category="global navigation">
+                    <li class="news"><a href="/sections/news/" data-metrics-action="click news">News</a></li>
+                    <li class="arts-life"><a href="/sections/arts/" data-metrics-action="click arts &amp; life">Arts &amp; Life</a></li>
+                    <li class="music"><a href="/music/" data-metrics-action="click music">Music</a></li>
+                    <li class="topics has-subnav"><a href="/programs" data-metrics-action="toggle topics" data-metrics-label="#">Topics</a></li>
+                    <li class="programs-podcasts has-subnav">
+                        <a href="/programs" data-metrics-action="toggle programs &amp; podcasts drawer">
+                        Programs <b>&amp; Podcasts</b>
+                        </a>
+                    </li>
+                    <li class="header-sponsor"></li>
+                </ul>
+                <!-- /.ecosystem-news.primary -->
+
+                <ul class="top-level-list ecosystem-music primary" data-metrics-category="music ecosystem navigation">
+                    <li class="music-home">
+                        <a href="/music/" data-metrics-action="click npr music">NPR Music</a>
+                    </li>
+                    <li class="genres has-subnav"><a href="#" data-metrics-action="toggle genres drawer">Genres</a></li>
+                    <li class="new-music has-subnav">
+                        <a href="#" data-metrics-action="toggle new music drawer">New Music</a>
+                    </li>
+                    <li class="concerts-videos has-subnav">
+                        <a href="#" data-metrics-action="toggle concerts drawer">Concerts <b>&amp; Videos</b></a>
+                    </li>
+                    <li class="articles-lists has-subnav">
+                        <a href="#" data-metrics-action="toggle articles drawer">Articles <b>&amp; Lists</b></a>
+                    </li>
+
+                </ul>
+                <!-- /.ecosystem-music.primary -->
+
+                <ul class="top-level-list ecosystem-books primary" data-metrics-category="books ecosystem navigation">
+                    <li class="books-home">
+                        <a href="/books/" data-metrics-action="click npr books">NPR Books</a>
+                    </li>
+                    <li class="author-interviews">
+                        <a href="/sections/author-interviews/" data-metrics-action="click author interviews"><b>Author </b>Interviews</a>
+                    </li>
+                    <li class="find-books has-subnav">
+                        <a href="#" data-metrics-action="toggle find books drawer">Find Books</a>
+                    </li>
+                    <li class="reviews has-subnav">
+                        <a href="#" data-metrics-action="toggle reviews drawer">Reviews</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-books.primary -->
+
+                <ul class="top-level-list ecosystem-about primary" data-metrics-category="about ecosystem navigation">
+                    <li class="about-home">
+                        <a href="/about/" data-metrics-action="click about npr">About NPR</a>
+                    </li>
+                    <li class="overview has-subnav">
+                        <a href="/about/aboutnpr/" data-metrics-action="toggle overview drawer">Overview</a>
+                    </li>
+                    <li class="connect has-subnav">
+                        <a href="#" data-metrics-action="toggle connect drawer">Connect</a>
+                    </li>
+                    <li class="support has-subnav">
+                        <a href="/about/support/" data-metrics-action="toggle support drawer">Support</a>
+                    </li>
+                    <li class="press has-subnav">
+                        <a href="/series/750003/press-room/" data-metrics-action="toggle press drawer">Press</a>
+                    </li>
+                    <li class="careers has-subnav">
+                        <a href="/series/750004/careers" data-metrics-action="toggle careers drawer">Careers</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-about.primary -->
+
+                <ul class="top-level-list ecosystem-podcast primary" data-metrics-category="podcast ecosystem navigation">
+                    <li class="podcasts-home">
+                        <a href="/podcasts/" data-metrics-action="click podcast directory">Podcast Directory</a>
+                    </li>
+
+                    <li class="podcast-categories has-subnav">
+                        <a href="#" data-metrics-action="toggle categories">Categories</a>
+                    </li>
+                    <li class="podcast-local">
+                        <!-- data comes via JavaScript -->
+                    </li>
+                </ul>
+                <!-- /.ecosystem-podcast.primary -->
+
+                <ul class="top-level-list ecosystem-all secondary" data-metrics-category="global navigation">
+                    <li class="nprshop">
+                        <a href="http://shop.npr.org" data-metrics-action="click npr shop">Shop</a>
+                    </li>
+                    <li class="user-account has-subnav">
+                        <a href="/account/login" data-metrics-action="toggle profile drawer">My Account</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-all.secondary -->
+            </div>
+            <!-- /.top-level -->
+
+            <!-- Common ecosystem -->
+            <div class="subnav subnav-stations unpopulated ecosystem-all" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <b class="loading">
+                    <b>Loading</b>
+                </b>
+
+            </div>
+            <!-- /.subnav-stations -->
+            <!-- /Common ecosystem -->
+
+            <!-- News ecosystem -->
+            <div class="subnav subnav-topics ecosystem-news" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <h3 class="group-hdr"><a href="/sections/news/" data-metrics-action="click news">News</a></h3>
+                    <ul>
+                        <li><a href="/sections/us/" data-metrics-action="click u.s.">U.S.</a></li>
+                        <li><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li><a href="/sections/codeswitch/" data-metrics-action="click race &amp; culture">Race &amp; Culture</a></li>
+                        <li><a href="/sections/ed/" data-metrics-action="click education">Education</a></li>
                     </ul>
                 </div>
+                <div class="group">
+                    <h3 class="group-hdr"><a href="/sections/arts/" data-metrics-action="click arts &amp; life">Arts &amp; Life</a></h3>
+                    <ul>
+                        <li><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li><a href="/sections/art-design/" data-metrics-action="click art &amp; design">Art &amp; Design</a></li>
+                        <li><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                        <li><a href="/sections/photography/" data-metrics-action="click photography">Photography</a></li>
+                    </ul>
+                </div>
+                <div class="group">
+                    <h3 class="group-hdr"><a href="/music/" data-metrics-action="click music">Music</a></h3>
+                    <ul>
+
+                        <li><a href="/series/98679384/first-listen" data-metrics-action="click first listen">First Listen</a></li>
+                        <li><a href="/series/122356178/songs-we-love" data-metrics-action="click songs we love">Songs We Love</a></li>
+                        <li><a href="/series/100920965/music-articles/" data-metrics-action="click music articles">Music Articles</a></li>
+                        <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                        <li><a href="/sections/music-videos/" data-metrics-action="click videos">Videos</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">More</h3>
+                    <ul>
+                        <li><a href="/about-npr/198341814/npr-blog-directory" data-metrics-action="click our blogs">Our Blogs</a></li>
+                        <li><a href="/templates/corrections/corrections.php" data-metrics-action="click corrections">Corrections</a></li>
+                        <li><a href="/about/aboutnpr/" data-metrics-action="click all about npr">All About NPR</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="subnav subnav-programs-podcasts ecosystem-news" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <h3 class="group-hdr">News and Conversations</h3>
+                    <ul>
+                        <li><a href="/programs/morning-edition/" data-metrics-action="click morning edition">Morning Edition</a></li>
+                        <li><a href="/programs/all-things-considered/" data-metrics-action="click all things considered">All Things Considered</a></li>
+                        <li><a href="/programs/fresh-air/" data-metrics-action="click fresh air">Fresh Air</a></li>
+                        <li><a href="http://hereandnow.wbur.org/" target="_blank" data-metrics-action="click here &amp; now">Here &amp; Now</a></li>
+                        <li><a href="http://thedianerehmshow.org" target="_blank" data-metrics-action="click the diane rehm show">The Diane Rehm Show</a></li>
+                        <li><a href="/programs/latino-usa/" data-metrics-action="click latino usa">Latino USA</a></li>
+                        <li><a href="/podcasts/510310/npr-politics-podcast">NPR Politics Podcast</a></li>
+                        <li><a href="http://onpoint.wbur.org/" target="_blank" data-metrics-action="click on point">On Point</a></li>
+                        <li><a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">Weekend Edition Saturday</a></li>
+                        <li><a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">Weekend Edition Sunday</a></li>
+                        <li><a href="/series/4692815/youth-radio" data-metrics-action="click youth radio">Youth Radio</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">Storytelling &amp; Humor</h3>
+                    <ul>
+                        <li><a href="/programs/ask-me-another/" data-metrics-action="click ask me another">Ask Me Another</a></li>
+                        <li><a href="http://www.cartalk.com" target="_blank" data-metrics-action="click the best of car talk">The Best Of Car Talk</a></li>
+                        <li><a href="http://www.maximumfun.org/shows/bullseye" target="_blank" data-metrics-action="click bullseye">Bullseye</a></li>
+                        <li><a href="/series/423302056/hidden-brain" data-metrics-action="click hidden brain">Hidden Brain</a></li>
+                        <li><a href="http://howtodoeverything.org/" data-metrics-action="click how to do everything">How To Do Everything</a></li>
+                        <li><a href="/programs/invisibilia/" data-metrics-action="click invisibilia">Invisibilia</a></li>
+                        <li><a href="http://onlyagame.wbur.org/" data-metrics-action="click only a game">Only A Game</a></li>
+                        <li><a href="/sections/money/" data-metrics-action="click planet money">Planet Money</a></li>
+                        <li><a href="/sections/monkeysee/129472378/pop-culture-happy-hour/" data-metrics-action="click pop culture happy hour">Pop Culture Happy Hour</a></li>
+                        <li><a href="http://storycorps.org" class="storycorps" target="_blank" data-metrics-action="click storycorps">StoryCorps</a></li>
+                        <li><a href="/programs/ted-radio-hour/" data-metrics-action="click ted radio hour">TED Radio Hour</a></li>
+                        <li><a href="/programs/wait-wait-dont-tell-me/" data-metrics-action="click wait wait don't tell me">Wait Wait...Don't Tell Me!</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">Music</h3>
+                    <ul>
+                        <li><a href="/series/98679384/first-listen/" data-metrics-action="click first listen">First Listen</a></li>
+                        <li><a href="/sections/allsongs/" data-metrics-action="click all songs considered">All Songs Considered</a></li>
+                        <li><a href="/series/122356178/songs-we-love/" data-metrics-action="click songs we love">Songs We Love</a></li>
+                        <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                        <li><a href="/series/alt-latino/" data-metrics-action="click alt.latino">Alt.Latino</a></li>
+                        <li><a href="http://www.fromthetop.org" target="_blank" data-metrics-action="click from the top">From The Top</a></li>
+                        <li><a href="/series/347139849/jazz-night-in-america" data-metrics-action="click jazz night in america">Jazz Night In America</a></li>
+                        <li><a href="/sections/metropolis/" data-metrics-action="click metropolis">Metropolis</a></li>
+                        <li><a href="/sections/microphonecheck/" data-metrics-action="click microphone check">Microphone Check</a></li>
+                        <li><a href="/series/mountain-stage/" data-metrics-action="click mountain stage">Mountain Stage</a></li>
+                        <li><a href="/programs/piano-jazz/" data-metrics-action="click piano jazz">Piano Jazz</a></li>
+                        <li><a href="/series/103063413/the-thistle-and-shamrock/" data-metrics-action="click the thistle &amp; shamrock">The Thistle &amp; Shamrock</a></li>
+                        <li><a href="/programs/world-cafe/" data-metrics-action="click world cafe">World Cafe</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">More</h3>
+                    <ul>
+                        <li><a href="/podcasts/" data-metrics-action="click podcast directory">Podcast Directory</a></li>
+                        <!-- local organization podcast inserted here via JavaScript -->
+                        <li><a href="/podcasts/organizations/1" data-metrics-action="click npr podcasts">NPR Podcasts</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.subnav-programs-podcasts -->
+            <!-- /News ecosystem -->
+
+            <!-- Music ecosystem -->
+            <div class="subnav subnav-genres ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/music/genres/rock/" data-metrics-action="click rock">Rock</a></li>
+                    <li><a href="/music/genres/pop/" data-metrics-action="click pop">Pop</a></li>
+                    <li><a href="/music/genres/jazz/" data-metrics-action="click jazz">Jazz</a></li>
+                    <li><a href="/music/genres/classical/" data-metrics-action="click classical">Classical</a></li>
+                    <li><a href="/music/genres/hip-hop/" data-metrics-action="click hip-hop">Hip-Hop</a></li>
+                    <li><a href="/music/genres/r-b-soul/" data-metrics-action="click r&amp;b/soul">R&amp;B/Soul</a></li>
+                    <li><a href="/music/genres/folk/" data-metrics-action="click folk">Folk</a></li>
+                    <li><a href="/music/genres/latin/" data-metrics-action="click latin">Latin</a></li>
+                    <li><a href="/music/genres/world/" data-metrics-action="click world">World</a></li>
+                    <li><a href="/music/genres/electronic-dance/" data-metrics-action="click electronic/dance">Electronic/Dance</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-new-music ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/98679384/first-listen" data-metrics-action="click first listen">First Listen</a></li>
+                    <li><a href="/series/122356178/songs-we-love/" data-metrics-action="click songs we love">Songs We Love</a></li>
+                    <li><a href="/sections/allsongs/" data-metrics-action="click all songs considered">All Songs Considered</a></li>
+                    <li><a href="/sections/music-reviews/" data-metrics-action="click reviews">Reviews</a></li>
+                    <li><a href="/series/146587997/all-songs-tv/" data-metrics-action="click music videos">Music Videos</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-concerts-videos ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                    <li><a href="/series/live-in-concert/" data-metrics-action="click live concerts">Live Concerts</a></li>
+                    <li><a href="/series/144918893/field-recordings/" data-metrics-action="click field recordings">Field Recordings</a></li>
+                    <li><a href="/series/15667984/favorite-sessions/" data-metrics-action="click studio sessions">Studio Sessions</a></li>
+                    <li><a href="/series/149937282/music-documentaries/" data-metrics-action="click music documentaries">Music Documentaries</a></li>
+                    <li><a href="/sections/music-videos/" data-metrics-action="click music videos">Music Videos</a></li>
+                    <li><a href="/series/356126782/festival-recordings/" data-metrics-action="click festival recordings">Festival Recordings</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-articles-lists ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/100920965/music-articles/" data-metrics-action="click articles">Articles</a></li>
+                    <li><a href="/sections/music-interviews/" data-metrics-action="click interviews">Interviews</a></li>
+                    <li><a href="/sections/music-quizzes/" data-metrics-action="click quizzes">Quizzes</a></li>
+                    <li><a href="/sections/music-lists/" data-metrics-action="click mnusic lists">Music Lists</a></li>
+                    <li><a href="/series/366408499/the-best-music-of-the-year-2014" data-metrics-action="click best music of the year">Best Music of the Year</a></li>
+                </ul>
+            </div>
+            <!-- /Music ecosystem -->
+
+            <!-- Books ecosystem -->
+            <div class="subnav subnav-find-books ecosystem-books" data-metrics-category="books ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10110/art-design/" data-metrics-action="click art &amp; design">Art &amp; Design</a></li>
+                        <li><a href="/books/genres/10126/arts-entertainment/" data-metrics-action="click arts &amp; entertainment">Arts &amp; Entertainment</a></li>
+                        <li><a href="/books/genres/10101/biography-memoir/" data-metrics-action="click biography &amp; memoir">Biography &amp; Memoir</a></li>
+                        <li><a href="/books/genres/10102/business-economy/" data-metrics-action="click business &amp; economy">Business &amp; Economy</a></li>
+                        <li><a href="/books/genres/10122/children/" data-metrics-action="click children's books">Children's Books</a></li>
+                        <li><a href="/books/genres/10123/comedy/" data-metrics-action="click comedy">Comedy</a></li>
+                        <li><a href="/books/genres/10104/comics-graphic-novels/" data-metrics-action="click comics &amp; graphic novels">Comics &amp; Graphic Novels</a></li>
+                        <li><a href="/books/genres/10127/digital-culture/" data-metrics-action="click digital culture">Digital Culture</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10103/faith-spirituality/" data-metrics-action="click faith &amp; spirituality">Faith &amp; Spirituality</a></li>
+                        <li><a href="/books/genres/10106/food-wine/" data-metrics-action="click food &amp; wine">Food &amp; Wine</a></li>
+                        <li><a href="/books/genres/10109/history-society/" data-metrics-action="click history &amp; society">History &amp; Society</a></li>
+                        <li><a href="/books/genres/10113/historical-fiction/" data-metrics-action="click historical fiction">Historical Fiction</a></li>
+                        <li><a href="/books/genres/191663270/horror-supernatural/" data-metrics-action="click horror &amp; supernatural">Horror &amp; Supernatural</a></li>
+                        <li><a href="/books/genres/10112/literary-fiction/" data-metrics-action="click literary fiction">Literary Fiction</a></li>
+                        <li><a href="/books/genres/10114/mystery-thrillers/" data-metrics-action="click mystery &amp; thrillers">Mystery &amp; Thrillers</a></li>
+                        <li><a href="/books/genres/10116/parenting-families/" data-metrics-action="click parenting &amp; families">Parenting &amp; Families</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10125/poetry/" data-metrics-action="click poetry">Poetry</a></li>
+                        <li><a href="/books/genres/10117/politics-public-affairs/" data-metrics-action="click politics &amp; public affairs">Politics &amp; Public Affairs</a></li>
+                        <li><a href="/books/genres/10118/romance/" data-metrics-action="click romance">Romance</a></li>
+                        <li><a href="/books/genres/10119/science-fiction-fantasy/" data-metrics-action="click science fiction &amp; fantasy">Science Fiction &amp; Fantasy</a></li>
+                        <li><a href="/books/genres/10108/science-health/" data-metrics-action="click science &amp; health">Science &amp; Health</a></li>
+                        <li><a href="/books/genres/10120/sports/" data-metrics-action="click sports">Sports</a></li>
+                        <li><a href="/books/genres/10124/travel/" data-metrics-action="click travel">Travel</a></li>
+                        <li><a href="/books/genres/10121/young-adults/" data-metrics-action="click young adult">Young Adult</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li class="genre"><a href="/books/genres/10115/nonfiction/" data-metrics-action="click nonfiction">Nonfiction</a></li>
+                        <li class="genre"><a href="/books/genres/10111/fiction/" data-metrics-action="click fiction">Fiction</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="subnav subnav-reviews ecosystem-books" data-metrics-category="books ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/sections/book-reviews" data-metrics-action="click book reviews">Book Reviews</a></li>
+                    <li><a href="/series/257657827/this-weeks-must-read" data-metrics-action="click this week's must read">This Week's Must Read</a></li>
+                    <li><a href="/series/104566969/my-guilty-pleasure" data-metrics-action="click my guilty pleasure">My Guilty Pleasure</a></li>
+                    <li><a href="/series/three-books/" data-metrics-action="click three books...">Three Books...</a></li>
+                    <li><a href="/series/153588024/pg-13-go-to-teen-reads" data-metrics-action="click pg-13: risky reads">PG-13: Risky Reads</a></li>
+                    <li><a href="/series/you-must-read-this/" data-metrics-action="click you must read this">You Must Read This</a></li>
+                    <li><a href="/summerbooks/" data-metrics-action="click summer books">Summer Books</a></li>
+                    <li><a href="/bestbooks/" data-metrics-action="click best books of the year">Best Books of the Year</a></li>
+                </ul>
+            </div>
+            <!-- /Books ecosystem -->
+
+            <!-- About ecosystem -->
+            <div class="subnav subnav-overview ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/about/aboutnpr/" data-metrics-action="click overview">Overview</a></li>
+                    <li><a href="/about-npr/192827079/overview-and-history" data-metrics-action="click overview and history">Overview and History</a></li>
+                    <li><a href="/about-npr/178659563/our-mission-and-vision" data-metrics-action="click mission and vision">Mission and Vision</a></li>
+                    <li><a href="/about-npr/178640915/npr-stations-and-public-media" data-metrics-action="click stations and public media">Stations and Public Media</a></li>
+                    <li><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="click npr finances">NPR Finances</a></li>
+                    <li><a href="/about-npr/179803822/people-at-npr" data-metrics-action="click people">People</a></li>
+                    <li><a href="http://ethics.npr.org/" data-metrics-action="click ethics">Ethics</a></li>
+                    <li><a href="about-npr/183726490/awards" data-metrics-action="click awards">Awards</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-connect ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="http://generationlisten.npr.org/" data-metrics-action="click generation listen">Generation Listen</a></li>
+                    <li><a href="/sections/npr-extra/" data-metrics-action="click npr extra blog">NPR Extra Blog</a></li>
+                    <li><a href="http://www.nprpresents.org/" data-metrics-action="click npr presents">NPR Presents</a></li>
+                    <li><a href="/contact/" data-metrics-action="click contact us">Contact Us</a></li>
+                    <li><a href="http://shop.npr.org/" data-metrics-action="click shop npr">Shop NPR</a></li>
+                    <li><a href="/about-npr/177066727/visit-npr" data-metrics-action="click visit npr">Visit NPR</a></li>
+                    <li><a href="/about-npr/181961258/volunteer-at-npr" data-metrics-action="click volunteer">Volunteer</a></li>
+                    <li><a href="http://studio1.npr.org" data-metrics-action="click studio 1 events">Studio 1 Events</a></li>
+                    <li><a href="/about-npr/187046089/ways-to-listen-to-npr" data-metrics-action="click ways to listen">Ways to Listen</a></li>
+                    <li><a href="/templates/reg" data-metrics-action="click sign up: newsletters">Sign Up: Newsletters</a></li>
+                    <li><a href="/about-npr/182673872/book-an-npr-speaker" data-metrics-action="click book a speaker">Book a Speaker</a></li>
+                    <li><a href="/about-npr/179881519/rights-and-permissions-information" data-metrics-action="click request permissions">Request Permissions</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-support ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/about-npr/187531476/foundation-grants" data-metrics-action="click institutional giving">Institutional Giving</a></li>
+                    <li><a href="/about-npr/187533209/major-gifts" data-metrics-action="click individual giving">Individual Giving</a></li>
+                    <li><a href="/about-npr/187567807/npr-foundation" data-metrics-action="click npr foundation">NPR Foundation</a></li>
+                    <li><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="click corporate sponsorship">Corporate Sponsorship</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-press ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750003/press-room/" data-metrics-action="click releases and statements">Releases and Statements</a></li>
+                    <li><a href="/about-npr/182675632/photos-and-logos" data-metrics-action="click photos and logos">Photos and Logos</a></li>
+                    <li><a href="/about/press/NPR_Fact_Sheet.pdf" data-metrics-action="click fact sheet pdf">Fact Sheet (PDF)</a></li>
+                    <li><a href="/about-npr/185546105/media-relations-contacts" data-metrics-action="click media relations contacts">Media Relations Contacts</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-careers ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750004/careers">Careers at NPR</a></li>
+                    <li><a href="https://careers-npr.icims.com/jobs/intro?hashed=0" data-metrics-action="click search jobs">Search Jobs</a></li>
+                    <li><a href="/about-npr/179008081/tapping-into-the-npr-culture/" data-metrics-action="click culture">Culture</a></li>
+                    <li><a href="/about-npr/181909622/applying-at-npr/" data-metrics-action="click applying">Applying</a></li>
+                    <li><a href="/about-npr/181881227/internships-at-npr/" data-metrics-action="click interns">Interns</a></li>
+                    <li><a href="/about-npr/181880514/fellowships-at-npr/" data-metrics-action="click fellows">Fellows</a></li>
+                    <li><a href="/about-npr/185550054/digital-careers-at-npr/" data-metrics-action="click digital">Digital</a></li>
+                </ul>
+            </div>
+            <!-- /About ecosystem -->
+
+            <!-- Podcast ecosystem -->
+            <div class="subnav subnav-podcast-categories ecosystem-podcast" data-metrics-category="podcast ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/podcasts/2000/arts" data-metrics-action="click arts">Arts</a></li>
+                        <li><a href="/podcasts/2007/business" data-metrics-action="click business">Business</a></li>
+                        <li><a href="/podcasts/2013/comedy" data-metrics-action="click comedy">Comedy</a></li>
+                        <li><a href="/podcasts/2014/education" data-metrics-action="click education">Education</a></li>
+                        <li><a href="/podcasts/2020/games-hobbies" data-metrics-action="click games &amp; hobbies">Games &amp; Hobbies</a></li>
+                        <li><a href="/podcasts/2026/government-organizations" data-metrics-action="click government &amp; organizations">Government &amp; Organizations</a></li>
+                        <li><a href="/podcasts/2031/health" data-metrics-action="click health">Health</a></li>
+                        <li><a href="/podcasts/2036/kids-family" data-metrics-action="click kids &amp; family">Kids &amp; Family</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/podcasts/2037/music" data-metrics-action="click music">Music</a>
+                        </li>
+                        <li><a href="/podcasts/2038/news-politics" data-metrics-action="click news &amp; politics">News &amp; Politics</a></li>
+                        <li><a href="/podcasts/2039/religion-spirituality" data-metrics-action="click religion &amp; spirituality">Religion &amp; Spirituality</a></li>
+                        <li><a href="/podcasts/2047/science-medicine" data-metrics-action="click science &amp; medicine">Science &amp; Medicine</a></li>
+                        <li><a href="/podcasts/2051/society-culture" data-metrics-action="click society &amp; culture">Society &amp; Culture</a></li>
+                        <li><a href="/podcasts/2056/sports-recreation" data-metrics-action="click sports &amp; recreation">Sports &amp; Recreation</a></li>
+                        <li><a href="/podcasts/2061/technology" data-metrics-action="click technology">Technology</a></li>
+                        <li><a href="/podcasts/2066/tv-film" data-metrics-action="click tv &amp; film">TV &amp; Film</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.subnav-podcast-categories -->
+            <!-- /Podcast ecosystem -->
+
+            <!-- Common ecosystem -->
+            <div class="subnav subnav-user-account ecosystem-all" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul class="user-options">
+                    <li><a href="/account/login" class="sign-in" data-metrics-action="click sign in/register">Sign In/Register</a></li>
+                    <li class="user-name"></li>
+                    <li class="logout"><a href="/account/logout" data-metrics-action="click logout">Logout</a></li>
+                </ul>
+            </div>
+            <!-- /.subnav-user-account -->
+            <!-- /Common ecosystem -->
+
+        </nav>
+        <!-- ./global-navigation -->
+    </div>
+    <!-- ./global-navigation-wrap -->
+
+    <!--
+        .global-navigation-two
+    -->
+    <nav class="global-navigation-two" role="navigation" aria-label="station navigation" data-metrics-category="global navigation">
+        <ul class="top-level">
+            <li class="stations bp-medium has-subnav">
+                <a href="/stations/" data-metrics-action="click find stations">Find Stations</a>
             </li>
         </ul>
+
+        <div class="subnav subnav-stations unpopulated">
+            <b class="loading">
+                <b>Loading</b>
+            </b>
+        </div>
     </nav>
-    <nav class="nav-one">
-        <ul>
-            <li class="overview has-subnav" data-metrics-action="Click Overview" data-metrics-all="">
-                <a href="/about/aboutnpr/">Overview</a>
-                <div class="subnav">
-                    <ul>
-                        <li><a href="/about-npr/192827079/overview-and-history">Overview and History</a></li>
-                        <li><a href="/about-npr/178659563/our-mission-and-vision">Mission and Vision</a></li>
-                        <li><a href="/about-npr/178640915/npr-stations-and-public-media">Stations and Public Media</a></li>
-                        <li><a href="/about-npr/178660742/public-radio-finances">NPR Finances</a></li>
-                        <li><a href="/about-npr/179803822/people-at-npr">People</a></li>
-                        <li><a href="http://ethics.npr.org/">Ethics</a></li>
-                        <li><a href="http://www.npr.org/about-npr/183726490/awards">Awards</a></li>
-                    </ul>
-                </div>
-            </li>
-            <li class="connect has-subnav" data-metrics-action="Click Connect" data-metrics-all="">
-                <a href="javascript:void(0);">Connect</a>
-                <div class="subnav">
-                    <ul>
-                        <li><a href="http://generationlisten.npr.org/">Generation Listen</a></li>
-                        <li><a href="/sections/thisisnpr/">This Is NPR blog</a></li>
-                        <li><a href="/sections/presents/">NPR Presents</a></li>
-                        <li><a href="/contact/">Contact Us</a></li>
-                        <li><a href="http://shop.npr.org/">Shop NPR</a></li>
-                        <li><a href="/about-npr/177066727/visit-npr">Visit NPR</a></li>
-                        <li><a href="http://www.npr.org/about-npr/181961258/volunteer-at-npr">Volunteer</a></li>
-                        <li><a href="http://events.npr.org/">Events</a></li>
-                        <li><a href="/about-npr/187046089/ways-to-listen-to-npr">Ways to Listen</a></li>
-                        <li><a href="/templates/reg/">Sign Up: Newsletters</a></li>
-                        <li><a href="/about-npr/182673872/book-an-npr-speaker">Book a Speaker</a></li>
-                        <li><a href="/about/permissionform.html">Request Permissions</a></li>
-                    </ul>
-                </div>
-            </li>
-            <li class="support has-subnav" data-metrics-action="Click Support" data-metrics-all="">
-                <a href="javascript:void(0);">Support</a>
-                <div class="subnav">
-                    <ul>
-                        <li><a href="/about-npr/187531476/foundation-grants">Institutional Giving</a></li>
-                        <li><a href="/about-npr/187533209/major-gifts">Individual Giving</a></li>
-                        <li><a href="/about-npr/187567807/npr-foundation">NPR Foundation</a></li>
-                        <li><a href="/about-npr/186948703/corporate-sponsorship">Corporate Sponsorship</a></li>
-                    </ul>
-                </div>
-            </li>
-            <li class="press has-subnav" data-metrics-action="Click Press" data-metrics-all="">
-                <a href="/series/750003/press-room/">Press</a>
-                <div class="subnav">
-                    <ul>
-                        <li><a href="/series/750003/press-room/">Releases and Statements</a></li>
-                        <li><a href="/about-npr/182675632/photos-and-logos">Photos and Logos</a></li>
-                        <li><a href="/about/press/NPR_Fact_Sheet.pdf">Fact Sheet (PDF)</a></li>
-                        <li><a href="/about-npr/185546105/media-relations-contactsl">Media Relations Contacts</a></li>
-                    </ul>
-                </div>
-            </li>
-            <li class="jobs has-subnav" data-metrics-action="Click Jobs" data-metrics-all="">
-                <a href="/about/careers/">Jobs</a>
-                <div class="subnav">
-                    <ul>
-                        <li><a href="http://www.npr.org/templates/story/story.php?storyId=179008081">Culture</a></li>
-                        <li><a href="http://www.npr.org/templates/story/story.php?storyId=181909622">Applying</a></li>
-                        <li><a href="http://www.npr.org/templates/story/story.php?storyId=181881227">Interns</a></li>
-                        <li><a href="http://www.npr.org/templates/story/story.php?storyId=181880514">Fellows</a></li>
-                        <li><a href="http://www.npr.org/templates/story/story.php?storyId=185550054">Digital</a></li>
-                        <li><a href="https://careers-npr.icims.com/jobs/intro?hashed=0">Search Jobs</a></li>
-                    </ul>
-                </div>
-            </li>
+
+    <!--
+        .global-navigation-three
+        Gets created here via JavaScript on certain landing page layouts
+    -->
+
+    <!-- .global-navigation-four is for homepage small and medium breakpoint dropdowns -->
+    <nav class="global-navigation-four" role="navigation" aria-label="homepage-specific navigation" data-metrics-category="global navigation">
+        <ul class="top-level">
+            <!-- li.news-updates.has-subnav inserted via JavaScript because it requires JavaScript -->
+
+            <!-- .stream gets put here via JavaScript for Spore Player -->
+
+            <!-- for small breakpoint -->
+            <li class="program-stream"><a href="#" data-audio="http://www.npr.org/streams/mp3/nprlive24.m3u" data-audio-desktop="[0,0,null,3,&quot;live1&quot;,0]" data-metrics="{&quot;category&quot;: &quot;streaming audio&quot;, &quot;action&quot;: &quot;play audio&quot;, &quot;label&quot;: &quot;program stream&quot;}"><b class="icn-media"></b>24-hour
+                Program Stream</a></li>
+
+            <!-- for small breakpoint -->
+            <li class="listen has-subnav"><a href="#" data-metrics-action="toggle listen drawer">Listen</a></li>
         </ul>
+
+        <div class="subnav subnav-listen">
+            <section>
+                <h3>latest news</h3>
+
+                <div class="audio-content content-stream">
+                    <a href="#" class="latest-news-link" data-audio="/npr/news/newscast" data-audio-desktop="[0,0,null,1,4,0]" data-metrics="{&quot;category&quot;:&quot;segmented audio&quot;, &quot;action&quot;: &quot;play audio&quot;, &quot;label&quot;: &quot;play hourly news&quot;}"><b class="icn-media"></b></a>
+
+                    <div class="program-info-container">
+                        <p class="program-title">NPR Newscast</p>
+
+                        <p class="program-info">4min 45sec</p>
+                    </div>
+                </div>
+            </section>
+            <section class="link">
+                <a href="/stations" data-metrics-action="click find stations"><b class="icn-station"></b>find
+                    stations</a>
+            </section>
+            <section class="link">
+                <a href="/services/mobile/" data-metrics-action="click npr mobile apps">npr mobile apps</a>
+            </section>
+            <section class="link">
+                <a href="/podcasts" data-metrics-action="click find podcasts">find podcasts</a>
+            </section>
+        </div>
     </nav>
-</div></header><div id="wrapper">
-      <div id="sectionWrap" class="clearfix">
-            <section role="main"><header class="contentheader" data-metrics-category=""><div class="mobileheader">
+    <!-- .global-navigation-four -->
+</div>
+<!-- .globalheader-inner --></header><main role="main" aria-label="main content"><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript>        <script type="text/javascript">NPR.socialMedia={twitterSource:"@nprextra"};</script><a href="#mainContent" id="skiplink">Skip to Main Content</a><div id="wrapper">
+      <section id="main-section"><header class="contentheader" data-metrics-category=""><div class="mobileheader">
     <a class="sidebarButton" href="#sidebar" data-metrics="{&quot;action&quot;:&quot;Toggle OffCanvas&quot;,&quot;category&quot;:&quot;Global Navigation&quot;}">
         <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo">
     </a>
     <a href="/" class="nprHome" data-metrics="{&quot;action&quot;:&quot;Click Logo&quot;,&quot;category&quot;:&quot;Global Navigation&quot;}">
         <img src="http://media.npr.org/chrome/about-header.png" alt="NPR">
     </a>
-</div></header><article class="story"><a name="mainContent"></a> <!--googleon: index--><div class="storytitle">
+</div></header><article class="story"><a id="mainContent"></a> <!--googleon: index--><div class="storytitle">
       <h1>Privacy Policy</h1>
    <input type="hidden" id="title179878450" value="Privacy Policy">
    <input type="hidden" id="modelShortUrl179878450" value="http://n.pr/ZgE7tB">
@@ -169,9 +647,26 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
 
 <!-- END CLASS="STORYTITLE" -->
 <div id="story-meta">
-      <div class="dateblock">
-            <time datetime="2013-05-07"><span class="date">May 07, 2013</span><span class="time"> 9:51 AM ET</span></time>
+      <div class="story-meta-one">
+            <div class="dateblock dateblock-updated">
+    <time datetime="2014-07-25T15:08:00-04:00">
+
+            <span class="updated" aria-describedby="originally-published">
+                <span class="date">Updated July 25, 2014</span><span class="time">3:08 PM ET</span>
+            </span>
+
+            <span id="originally-published" class="originally-published">
+                Published <span class="date">May 7, 2013</span><span class="time">9:51 AM ET</span>
+            </span>
+    </time>
+</div>
    </div>
+   
+<!-- END CLASS="STORY-META-ONE" -->
+   <div class="story-meta-two">
+         </div>
+   
+<!-- END CLASS="STORY-META-TWO" -->
 </div>
 
 <!-- END ID="STORY-META" -->
@@ -179,24 +674,24 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
       <p><strong>Effective Date July 25, 2014</strong></p>   <p><em>See related: <a href="http://www.npr.org/about-npr/179876898/terms-of-use">NPR Terms of Use</a></em></p>   <h3 class="edTag"><strong>Summary</strong></h3>   <p>NPR's Privacy Policy is summarized here. Please scroll down to see the full Privacy Policy.</p>   <p><strong>Location-Based Services</strong></p>   <p><strong></strong>NPR collects a visitor's geolocation data through the NPR Services for purposes of offering visitors relevant content, including content from nearby Member stations. Geolocation data consists of general location information based on latitude and longitude (if the visitor has enabled location services for an NPR application on the visitor's mobile device), or NPR may approximate a visitor's location based on the IP address of the visitor's computer or mobile device.</p>   <p><strong>Children</strong></p>   <p>Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13, please do not attempt to register for any NPR Services or provide any information about yourself.</p>   <p><strong>Gathering of Information</strong></p>   <p>NPR collects contact information, such as name, address, email address, and telephone number, that visitors voluntarily submit by, for example, registering for newsletters or an NPR account, signing on to the NPR Services through their social media account, creating a public profile for an NPR account, making a purchase in the NPR Shop, sharing a story, or submitting comments or materials to NPR.</p>   <ul class="edTag">   <li>NPR collects credit card information provided by NPR Shop customers.</li>   <li>NPR's web server creates access logs for visitors to the NPR Services, recording such information as IP address, date and time of visit, path taken, browser, list of files downloaded or viewed, and time spent listening to audio.</li>   <li>NPR collects information from a visitor's mobile device or app, including unique device identifier, operating system, phone model, app version and/or automobile make (for certain connected car platforms).</li>   <li>In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service, NPR collects information about each visitor's listening activity, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. NPR may share this information with the Member stations localized to or associated with a visitor's account.</li>   <li>NPR may collect information related to content preferences.</li>   <li>NPR may collect a visitor's other personal information (such as age or gender) (a) that the visitor has chosen to associate with the visitor's social media account(s), or (b) in aggregated, non-identifying form through third-party vendors.</li>   <li>NPR uses cookies and web beacons to track certain visitor activity. NPR's third-party vendors that provide analytics services, provide NPR's discussion platform, and serve sponsorship acknowledgments also may use their own cookies and web beacons to track visitor activity.</li>   </ul>   <p><strong>Use of Information</strong></p>   <p>NPR uses the personally-identifying information it gathers (a) to provide requested products and services, (b) to identify visitors when NPR publishes material they submitted, and (c) for internal purposes and for marketing, fundraising, membership and communications purposes of NPR and NPR Member stations.</p>   <ul class="edTag">   <li>NPR uses access logs, content preferences, information about visitor listening activity, cookies, web beacons, and third-party analytics data to analyze use of the NPR Services, offer interactive features, and personalize the NPR Services, such as by recalling visitor information so that the visitor does not have to re-enter it, offering local station content or other content that may be of interest to the visitor, and displaying more relevant sponsorship messages. NPR and the Member stations localized to or associated with a visitor's account also may use information about listening activity and content preferences for internal purposes and for marketing, fundraising, membership and communications purposes.</li>   </ul>   <p><strong>Sharing Information with Third Parties</strong></p>   <p>NPR generally does not share personally-identifying information it gathers with third parties, except with NPR Member stations, NPR service vendors (to the extent necessary for the vendor to provide the services), and other third parties when a visitor consents. When NPR shares personally-identifying information with NPR Member stations, NPR requires those Member stations to commit to the same restrictions against sharing that personally-identifying information with third parties as NPR commits to in this Privacy Policy.</p>   <ul class="edTag">   <li>Any information a visitor submits, posts to or shares through the NPR Services will become available to the public.</li>   <li>NPR may share aggregate information about use of the NPR Services that does not identify its visitors individually.</li>   <li>NPR will release visitor information when required to do so by law or when it believes it is necessary to protect NPR, NPR employees, NPR Member stations, NPR Member station employees, visitors to the NPR Services, sponsors, service providers, the public, or others.</li>   <li>If you do not consent to the collection, use or sharing of your personally-identifying information as described in this Privacy Policy, please do not provide that information. By providing your personally-identifying information, you are "opting in" to the collection, use and sharing described in this Privacy Policy.</li>   </ul>   <p><strong>Contact</strong></p>   <p><strong></strong>If you have questions, wish to correct, update or remove any of your personal information, or wish to opt out of future communications from NPR, please <a href="http://www.npr.org/contact/">Contact Us</a>.</p>   <h3 class="edTag"><strong>Full Version of Privacy Policy</strong></h3>   <p><strong></strong>At NPR (which refers to NPR and its subsidiary organizations), we recognize the importance of privacy to visitors to NPR.org, NPR's mobile applications, any other NPR sites, applications and services, and any features of these sites, applications and services (the "NPR Services"). This Privacy Policy explains what type of information is collected from you when you visit the NPR Services and how that information may be used and shared. Please note that this Privacy Policy is separate and distinct from the privacy policies governing the websites, applications and services of NPR's Member stations, and the websites, applications and services of third parties that may link to or be linked to from the NPR Services.</p>   <p>By using, registering for, or otherwise accessing the NPR Services, you agree to this Privacy Policy and the <a href="http://www.npr.org/about-npr/179876898/terms-of-use">NPR Terms of Use</a> and you give your express consent (or "opt in") to the collection, use, sharing and processing of your personal information in accordance with this Privacy Policy. If you do not agree to this Privacy Policy or the Terms of Use, please do not use, register for or otherwise access any of the NPR Services or provide personal information.</p>   <p>NPR may update this Privacy Policy and our Terms of Use from time to time in its sole discretion. Any changes to the Privacy Policy will be posted to this page, with an updated Effective Date noted at the top of the Privacy Policy; visitors to the NPR Services are responsible for reviewing the Privacy Policy for any changes before using, registering for or accessing the NPR Services. Use of the NPR Services constitutes consent to and acceptance of the Privacy Policy and Terms of Use in effect at the time of such use.</p>   <h3 class="edTag"><strong>Gathering of Information</strong></h3>   <p><strong></strong>NPR collects personally-identifying information (such as your name, address, email address, telephone number, and/or credit card information) through the NPR Services for the purposes described in this Privacy Policy.</p>   <p>NPR collects personally-identifying information from visitors whenever visitors provide it to NPR. NPR asks visitors to provide certain personally-identifying information as they interact with the NPR Services, for example: when they register for certain features or services (such as an NPR account, the "NPR One" service, Application Programming Interface (API) content access, and NPR email newsletters); when they create a public profile for their NPR account; when they email, send via SMS (Short Message Service) or text message, or otherwise share a story from the NPR Services; when they make a purchase from the NPR Shop; when they post, upload, transmit and/or otherwise submit ("Submit") a comment, message, story idea, essay, photo, image, or other text, content or material ("User Materials"); and when they register for an NPR tour or event or any online contest. NPR also may ask visitors to provide personally-identifying information in other limited circumstances specified at the time the information is gathered.</p>   <p>Any information that visitors Submit on or through NPR's social networking features, forums and discussions, as part of story or blog comments, or that visitors otherwise Submit to the NPR Services, may become public, including the full name and nickname that visitors provide when registering for an NPR account or creating a public profile.</p>   <p>NPR also may collect other personal information (such as age, gender or other demographic information) (a) that the visitor has chosen to associate with his or her own social media account(s), or (b) in aggregated, non-identifying form through third-party vendors that provide analytics services. This information may be stored on NPR's servers with other information previously received or collected from the visitor.</p>   <p>In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service (collectively, "NPR Personalized Services"), when visitors use NPR Personalized Services, NPR collects information about the listening activity of each visitor, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. Within NPR's mobile sites and applications and any features of these sites and applications ("NPR Mobile Services"), NPR collects a device's unique identifier, operating system, device model, app version, automobile make (for certain connected car platforms), and/or content preferences.</p>   <p>Visitors have the opportunity to select a "favorite" Member station by (a) entering a zip code, (b) authorizing NPR to use geolocation data regarding the visitor's current location, or (c) selecting from a list of Member stations. For certain of the NPR Services, including NPR Personalized Services, a Member station is automatically assigned to the visitor based on geolocation data or based on a previously-assigned "favorite" or associated Member station. Geolocation data consists of general location information based on latitude and longitude (if the visitor has enabled location services for an NPR application on the visitor's mobile device), or NPR may approximate a visitor's location based on the IP address of the visitor's computer or mobile device.<strong></strong></p>   <p>NPR uses a third-party vendor that collects unique device identifiers and any voice-activated action taken by visitors to NPR Mobile Services in response to or in connection with interactive audio sponsorship acknowledgments transmitted through the NPR Mobile Services. This third-party vendor may use this unique device identifier and usage information to deliver targeted sponsorship acknowledgments to the visitor within the NPR Mobile Services. Any unique device identifier and usage information collected by this third-party vendor will be processed and used by this third-party vendor solely to operate its interactive audio sponsorship acknowledgement services. NPR is not responsible for, and assumes no liability for, the privacy and information collection and use practices of this or any other third-party vendor. If you do not agree to the collection and use of this information by NPR's third-party vendor, please do not engage the interactive audio sponsorship acknowledgement features.</p>   <p>Like other web servers, the server used by NPR for the NPR Services automatically creates log files for each visitor who accesses the NPR Services. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, email address, credit card information, or other similar personally-identifying information. Rather, they contain some or all of the following information:</p>   <ul class="edTag">   <li>The Internet Protocol address (IP address) of the machine which accessed the NPR Services.</li>   <li>General location information (based on IP address or latitude and longitude).</li>   <li>Device type and unique device identifier (for users of NPR Mobile Services) and other technical information about your device, system and application software.</li>   <li>The date and time of the visit.</li>   <li>The path taken through the NPR Services, including any "favorites" selected by the visitor, as well as patterns in the paths taken by visitors.</li>   <li>Other content preferences,</li>   <li>The browser and operating system being used.</li>   <li>A list of files downloaded or viewed.</li>   <li>The amount of time spent listening to/viewing media files.</li>   <li>Any errors encountered.</li>   </ul>   <p>NPR uses a service called Bitly to provide shortened uniform resource locators ("URLs" – the "addresses" of individual web pages) so our content can be shared more easily, particularly through social media services. Bitly collects information as our shortened URLs are shared and clicked on and makes some of that information available to us.</p>   <p>The information Bitly collects may include, among other things: (a) the IP address and geographic location of each device accessing our shortened URLs; (b) the websites or services where our shortened URLs are shared; (c) the time and date of each click on a shortened URL; and (d) information about how and, in some cases, by whom a shortened URL is shared on social media services, such as Facebook, Twitter, Google+. Bitly uses this information to provide statistics that help us understand how our audience reads and shares our content. Bitly may collect additional information, particularly from users with Bitly accounts who access our shortened URLs while logged in to their Bitly accounts, and it may use that information in accordance with its own policies and processes, which we do not control. We encourage you to review Bitly's privacy policy before you share our content. Bitly's privacy policy can be found <a href="https://bitly.com/pages/privacy">here</a>. If you would prefer that Bitly not collect information about the shortened URLs you share, you can copy the full URL of the story you want to share from the location bar in your browser and share the story directly by email.</p>   <h3 class="edTag"><strong><br> Cookies and Other Technologies</strong></h3>   <p><strong></strong>NPR also uses "cookies" to collect information. A cookie is a string of characters that can be written to a file on the visitor's hard drive when the visitor visits a website, application or service. Only the website, application or service that set the cookie can read it, and it can only be used as a record-keeping device to store visitor IDs and information that the site already has. It cannot be used to read other information from the visitor's hard drive.</p>   <p>NPR uses cookies to track visitors' activity through the NPR Services, and uses information gathered through NPR and third-party vendor cookies, for purposes including improvement of the site/application/service architecture, offering the visitor interactive features that would not be possible without them, offering local station content or other content that may be of interest to the visitor, recalling specific information to save the visitor time during subsequent visits to the NPR Services, and directing more relevant sponsorship acknowledgments or underwriting credits to the visitor while the visitor is on the NPR Services. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Shop, and other interactive features also use cookies.</p>   <p>Third-party vendors that measure and analyze the use of the NPR Services for NPR, provide NPR's discussion platform and serve sponsorship messages onto the NPR Services also use their own cookies. For example, NPR's third-party analytics vendors use cookies across multiple sites to collect visitor data (such as data related to age, gender and visitor interests). In addition, NPR works with third-party vendors which may serve sponsorship acknowledgments or other messages to you on other websites after you visit the NPR Services. These third-party vendors use their own cookies to recognize you as an NPR Services visitor and to serve you sponsorship or other messages on other websites that they believe you will find most relevant. This Privacy Policy does not cover the cookies used by these third-party vendors.</p>   <p>NPR and its third-party vendors also may use web beacons, alone or in conjunction with cookies. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif., which can be used to recognize certain information on your computer, such as cookies, the time and date a page is viewed, or a description of where API content is placed. We may use web beacons on this site from time to time for these and other purposes.</p>   <p><a name="opting-out-of-cookies-and-web-beacons"></a></p>   <h3 class="edTag"><strong>Opting Out of Cookies and Web Beacons</strong></h3>   <p><strong></strong>If you wish to prevent certain or all cookies from being set to your hard drive or device, or to clear existing cookies from your browser's or device's cache, you may be able to disable them in your browser's or device's preferences, although your browser or device might then be unable to accommodate certain functionalities on the NPR Services. Visitors desiring to prevent data from being collected by Google Analytics may use the <a href="https://tools.google.com/dlpage/gaoptout/">opt-out browser add-on</a> developed by Google for this purpose.</p>   <p>In addition, if you wish to opt out of receiving personalized or "interest-based" sponsorship or other messages from our third-party vendors and other participating companies, please visit <strong><a href="http://networkadvertising.org/choices">http://networkadvertising.org/choices</a></strong>. Please note that if you opt out, you will still receive other types of messages that are not personalized or interest-based. Opting out is cookie-based and will only affect the specific computer and browser on which the opt out is applied. If you subsequently delete your browser cookies, you will need to opt out again.</p>   <p>For more information about opting out of interest-based messages, visit <strong><a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a></strong>.</p>   <h3 class="edTag"><strong>Use and Sharing of Information</strong></h3>   <p><strong></strong>NPR's use of personally-identifying information includes the following: managing and administering the NPR Services; responding to visitor messages; providing personalized content; listing name and location (city, state and/or country) information provided by visitors when broadcasting or publishing User Materials; fulfillment of NPR Shop orders; offering access to NPR tours and events; contest management; editorial purposes such as contacting visitors for an online survey; use by NPR's third-party vendors to operate interactive audio sponsorship acknowledgment services on the NPR Mobile Services; sending NPR email newsletters and other communications, including marketing, fundraising, membership and other communications, from NPR or NPR Member stations to visitors; other internal purposes and marketing, fundraising, membership and communications purposes of NPR and NPR Member stations; and other purposes specified at the time the information is gathered. Any geolocation data and other location information collected through NPR Services is used to offer relevant content, including content from nearby Member stations to the visitor.</p>   <p>Any information that you disclose when participating in the NPR social networking features, forums or discussions (including creating a profile or submitting a comment to a story or blog or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the NPR Services and on the platform of NPR's third-party discussion services vendor. In addition, NPR, its Member stations and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any User Materials, and any information contained therein, in any and all media formats or channels, whether now known or hereafter devised, including, but not limited to, the NPR Services, NPR Member station websites and services, other third-party websites and services, over the air (on radio or television), and on mobile platforms. Further, other visitors to the NPR Services may embed a widget or feed that allows your User Materials to appear on their personal, noncommercial website, blog or other application, subject to conditions set forth in the Terms of Use. You also may opt in to sharing your NPR Services profile and comments with other websites and social media platforms, but only by taking action on the website for NPR's third-party discussion services vendor. Any such action is governed by the terms and privacy policy of NPR's third-party discussion services vendor, and not of NPR.</p>   <p>In addition, if you send User Materials to NPR through the NPR Services, we may print the User Materials, or an excerpt from the User Materials, on the NPR Services, read them on air, or otherwise publish them in any other medium, together with your name and location (city, state and/or country) if you provide that information to us. NPR may contact visitors regarding their submissions in certain circumstances.</p>   <p>Excluding information provided by the visitor when participating in the NPR social networking features, forums or discussions, or sending User Materials to NPR, which may become public as discussed above, personally-identifying information collected by NPR is not provided to outside parties except NPR Member stations, NPR service vendors (such as NPR Shop fulfillment service, NPR's email list manager, and the provider of the tool that allows visitors to sign in using information from their account with a third-party service), and other third parties when the visitor specifically consents to such distribution (such as the disclosure of your name to a friend when you email, send via SMS or text message, or otherwise share a story with that friend). NPR may share information about a visitor's listening activity and whether visitors have donated to Member stations through the NPR Services or have requested information about or expressed interest in donating to Member stations, with the Member stations localized to or associated with the visitor's account. In these circumstances, the information is provided for the sole purpose of, and only to the extent necessary for, delivering the requested goods to the user, delivering communications from NPR or NPR Member stations to visitors, providing services for and on behalf of NPR, or serving other NPR or NPR Member station internal purposes and marketing, fundraising, membership and communications purposes. When NPR shares personally-identifying information with NPR Member stations, NPR requires those Member stations to commit to the same restrictions against sharing that information with third parties as NPR commits to in this Privacy Policy. Visitors to the NPR Mobile Services should be aware that the wireless carrier for a mobile device or the automobile manufacturer also may collect personally-identifying information and geolocation data. Visitors should check the privacy policies of their wireless carriers and automobile manufacturers for additional information.</p>   <p>NPR also may disclose personally-identifying information if required to do so by law or if it believes that such action is necessary (a) to comply with the law or with legal process, (b) to protect against misuse or unauthorized use of the NPR Services, (c) to protect the personal safety, property or rights of visitors to the NPR Services, the public, NPR and its employees, officers, directors, agents and contractors, NPR Member stations and NPR Member station personnel, sponsors, service providers, and others, or (d) to enforce the Terms of Use.</p>   <p>If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the NPR Services). You can also "opt out" according to the process described below in the section titled "Corrections to Registrations; Opting Out of Communications."</p>   <p>NPR may share with third parties anonymous information that does not identify its visitors. The use and disclosure of such information is not subject to restrictions under this Privacy Policy.</p>   <p>NPR, with the assistance from time to time of its third-party service vendors, uses non-identifying information (in aggregated and non-aggregated form), including non-identifying aggregate data regarding age, gender and/or visitor interests, to analyze use of and better design the NPR Services. It may share with third parties in aggregate, non-identifying form as appropriate. For example, we may tell a third party that a certain number or category of visitors accessed a particular audio stream on the NPR Services. We may share non-identifying aggregate information with third-party services that combine NPR's information with aggregate information from other sources to provide ratings and ranking data or other services of value to NPR. We may share non-identifying information, in aggregated or non-aggregated form, with third-party vendors to help NPR analyze and improve the NPR Services. However, we will not disclose any information that could be used to identify our visitors.</p>   <p>NPR also may share information obtained from devices that visitors use to access the NPR Services with certain of its third-party vendors, including its third-party interactive audio sponsorship acknowledgment service provider, for a variety of purposes, including tracking sponsorship acknowledgment credit frequency and voice-activated actions taken in response to interactive audio sponsorship acknowledgments.</p>   <h3 class="edTag"><strong>Security</strong></h3>   <p><strong></strong>NPR has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the NPR Shop is protected by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the NPR Shop's server can decipher it. However, no Internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, SMS or text message, or other mobile transmission.</p>   <h3 class="edTag"><strong>Children</strong></h3>   <p><strong></strong>Under 13: Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or their mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>   <p>13-18: You must be at least 18 years old in order to Submit any User Materials on or through the NPR Services, register for the NPR Services, create a public profile, participate in any online contests, or place an order on the NPR Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or otherwise sending any personally-identifying information.</p>   <h3 class="edTag"><strong>Corrections to Registrations; Opting Out of Communications</strong></h3>   <p><strong></strong>Please <a href="http://www.npr.org/contact/">Contact Us</a> to (a) correct or update any registration information that you have provided to NPR, (b) opt-out of future communications from NPR, or (c) request NPR to cancel your NPR account, NPR newsletter registration and other NPR registrations.</p>   <h3 class="edTag"><strong>Acceptance of Privacy Policy Terms</strong></h3>   <p>NPR reserves the right to change this Privacy Policy. Any changes to this policy will be posted to this page, so please check this page periodically. Use of the NPR Services constitutes consent to any policy then in effect. Please make sure that you read NPR's <a href="http://www.npr.org/about-npr/179876898/terms-of-use">Terms of Use</a> to understand additional terms and conditions which apply to the use of the NPR Services.</p>   <h3 class="edTag"><strong>Links to other Sites and Services</strong></h3>   <p>It is important to note that the NPR Services contain links to other sites, applications and services maintained by third parties that may not follow the same privacy policies as the NPR Services. For instance, clicking or tapping on a sponsorship acknowledgment or some third-party logos on the NPR Services will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that the NPR Services would not. NPR is not responsible for the privacy practices of, or any information or materials on, these other sites. Please visit these sites if you wish to review their privacy policies.</p>   <p>The NPR Services include a tool that allows you to sign in or share content using information from your account with a third-party service, such as Facebook, Twitter, Google+, or Disqus. Please be aware that those third-party services are unrelated to NPR, and that your use of the third-party services is subject to the terms and policies of those services.</p>   <h3 class="edTag"><strong>International User Notice</strong></h3>   <p><strong></strong>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this policy. By using the NPR Services, you agree to have your information transferred to and used in the United States as set forth in this policy.</p>   <h3 class="edTag"><strong>Questions</strong></h3>   <p><strong></strong>If you have any questions or comments concerning our Privacy Policy, please <a href="http://www.npr.org/contact/">Contact Us</a>.</p>
 </div>
  <!--googleoff: index--><div class="social-wrap">
-      <div class="social">
+      <div class="social" role="navigation" aria-label="sharing tools">
             <ul>
                   <li class="share"><a class="sharemaintab" href="#" data-metrics="{&quot;action&quot;:&quot;Toggle Share Tools&quot;,&quot;category&quot;:&quot;Share Tools&quot;}">Share</a><div class="sharepop">
       <ul>
-            <li class="facebookLi"><a class="facebook fbStory179878450" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(179878450);" data-metrics="{&quot;action&quot;:&quot;Click Facebook&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}"><span class="count">0</span><span class="name">Facebook</span></a></li>
-      <li class="twitterLi"><a class="retweetStory story179878450 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(179878450);" data-metrics="{&quot;action&quot;:&quot;Click Twitter&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}"><span class="name">Twitter</span></a></li>
+            <li class="facebookLi"><a class="facebook fbStory179878450" href="#" data-metrics="{&quot;action&quot;:&quot;Click Facebook&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}" data-share-facebook="{&quot;storyId&quot;:&quot;179878450&quot;}"><span class="name">Facebook</span></a></li>
+      <li class="twitterLi"><a class="retweetStory story179878450 twitter" href="#" data-metrics="{&quot;action&quot;:&quot;Click Twitter&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}" data-share-twitter="{&quot;storyId&quot;:&quot;179878450&quot;}"><span class="name">Twitter</span></a></li>
       <li class="googlePlusLi"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.npr.org%2Fabout-npr%2F179878450%2Fprivacy-policy%3Futm_campaign%3Dstoryshare%26utm_source%3Dplus.google.com%26utm_medium%3Dsocial" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" data-metrics="{&quot;action&quot;:&quot;Click Google Plus&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}"><span class="name">Google+</span></a></li>
-      <li class="email"><a href="javascript:void(0);" class="email eaf_link" data-story-id="179878450" data-metrics="{&quot;action&quot;:&quot;Click Email a Friend&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}"><span class="name">Email</span></a></li>
+      <li class="email"><a href="#" class="email eaf_link" data-story-id="179878450" data-metrics="{&quot;action&quot;:&quot;Click Email a Friend&quot;,&quot;category&quot;:&quot;Share Tools&quot;,&quot;label&quot;:&quot;http:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy&quot;}"><span class="name">Email</span></a></li>
    </ul>
 </div>
 
 <!-- END CLASS="SHAREPOP" -->
 </li>
-         <li class="comment"><a class="comment-count" href="http://www.npr.org/about-npr/179878450/privacy-policy#commentBlock" data-storyid="179878450" data-shortname="npr-news" data-metrics="{&quot;category&quot;:&quot;Share Tools&quot;,&quot;action&quot;:&quot;Click comments&quot;}"><span class="count"></span><span class="name">Comment</span></a></li>
+         <li class="comment"><a class="comment-count" href="#" data-storyid="179878450" data-shortname="npr-news" data-metrics="{&quot;category&quot;:&quot;Share Tools&quot;,&quot;action&quot;:&quot;Click comments&quot;}"><span class="name">Comment</span></a></li>
       </ul>
    </div>
    
-<!-- END CLASS="SOCIAL" -->
+<!-- END CLASS="SOCIAL" ROLE="NAVIGATION" ARIA-LABEL="SHARING TOOLS" -->
 </div>
 
 <!-- END CLASS="SOCIAL-WRAP" -->
@@ -207,142 +702,32 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
     <a href="/" class="nprHome" data-metrics="{&quot;action&quot;:&quot;Click Logo&quot;,&quot;category&quot;:&quot;Global Navigation&quot;}">
         <img src="http://media.npr.org/chrome/about-header.png" alt="NPR">
     </a>
-</div></header></section>
-   </div>
-   
-<!-- END ID="SECTIONWRAP" CLASS="CLEARFIX" -->
-   <div id="main_sidebar">
-            
-<!-- START UNDERWRITING -->
-      <div id="ad-desktop-wrap">
-    <div id="ad-desktop">
-        <script type="text/javascript">
-            $(document).ready(function () {
+</div></header></section>   <div id="main-sidebar">
+            <div id="ad-standard-wrap">
+    
+    
 
-                var loadImmediately = false;
-                var isMainOrCenterStage = false;
+    
 
-                    loadImmediately = true;
-
-
-
-                if (DFP.shouldRenderForDevice('desktop')) {
-                    DFP.visibilityCheck(function() {
-                        DFP.renderForLocation('desktop', loadImmediately, isMainOrCenterStage);
-                    });
-                }
-
-            });
-        </script>
-    </div>
+    <div id="ad-standard-no_topic" class="ad-standard" data-ad-config="{&quot;network&quot;:&quot;\/6735\/n6735&quot;,&quot;site&quot;:&quot;NPR&quot;,&quot;zone&quot;:&quot;no_topic&quot;,&quot;targets&quot;:{&quot;storyId&quot;:&quot;179878450&quot;,&quot;testserver&quot;:&quot;false&quot;},&quot;location&quot;:&quot;standard&quot;,&quot;deferred&quot;:false}"></div>
     <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
 </div>
-      
-<!-- END UNDERWRITING -->
    </div>
    
-<!-- END ID="MAIN_SIDEBAR" -->
+<!-- END ID="MAIN-SIDEBAR" -->
 </div>
 
 <!-- END ID="WRAPPER" -->
-<section id="navsidebar" role="complementary"><form action="/search/index.php" method="get" name="searchForm" id="searchFormMobile" class="search">
-    <input type="search" name="searchinput" id="searchinput_mobile" class="textbox searchbox">
-</form>
+<div id="ad-adhesion-wrap">
+    
+    
 
-<nav id="sideMenu" role="navigation" data-metrics-category="Global Navigation">
-    <ul id="sideMainNav" class="nav-bar">
-        <li class="home"><a href="/" data-metrics="{&quot;action&quot;:&quot;Click NPR Home&quot;}">NPR Home</a></li>
-        <li><a href="/sections/news/" data-metrics="{&quot;action&quot;:&quot;Click News&quot;}">News</a></li>
-        <li><a href="/sections/arts/" data-metrics="{&quot;action&quot;:&quot;Click Arts &amp; Life&quot;}">Arts &amp; Life</a></li>
-        <li><a href="/music/" data-metrics="{&quot;action&quot;:&quot;Click Music&quot;}">Music</a></li>
-        <li class="active">
-            <a href="/about/" data-metrics="{&quot;action&quot;:&quot;Click About&quot;}">About</a>
-            <ul>
-                <li class="articles"><a href="/about/aboutnpr/" data-metrics="{&quot;action&quot;:&quot;Click Overview&quot;}">Overview</a></li>
-                <li class="radio"><a href="/about/support/" data-metrics="{&quot;action&quot;:&quot;Click Support&quot;}">Support</a></li>
-                <li class="radio"><a href="/series/750003/press-room/" data-metrics="{&quot;action&quot;:&quot;Click Press&quot;}">Press</a></li>
-                <li class="radio"><a href="/about/careers/" data-metrics="{&quot;action&quot;:&quot;Click Jobs&quot;}">Jobs</a></li>
-            </ul>
-        </li>
-        <li><a href="/listen/" data-metrics="{&quot;action&quot;:&quot;Click Listen&quot;}">Listen</a></li>
-    </ul>
-</nav>
+    
 
-<nav id="loginSidebar" class="nav-two">
-    <ul>
-        <li class="donate"><a href="/stations/" data-metrics="{&quot;action&quot;:&quot;Click Business Link&quot;}">Donate</a></li>
-        <li class="stations" data-metrics="{&quot;action&quot;:&quot;Click Business Link&quot;}"><a href="/templates/stations/stations/">Stations</a></li>
-        <li class="nprshop"><a href="http://shop.npr.org" data-metrics="{&quot;action&quot;:&quot;Click Business Link&quot;}">Shop</a></li>
-        <span class="loggedIn">
-            <li class="userLogin"><span id="userLoginSidebar"></span></li>
-            <li class="login-reg"><a href="/templates/reg/logout.php" class="logout" data-metrics="{&quot;action&quot;:&quot;Click Profile Link&quot;,&quot;label&quot;:&quot;Logout&quot;}">Logout</a></li>
-        </span>
-        <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics="{&quot;action&quot;:&quot;Click Profile Link&quot;,&quot;label&quot;:&quot;Login / Register&quot;}">Sign In / Register</a></li>
-    </ul>
-</nav></section>
-<!-- START UNDERWRITING -->
-<div id="ad-88-wrap">
-    <div id="ad-88">
-        <div class="ad-88-text">Support comes from:</div>
-        <script type="text/javascript">
-            $(document).ready(function () {
+    <div id="ad-adhesion-no_topic" class="ad-adhesion" data-ad-config="{&quot;network&quot;:&quot;\/6735\/n6735&quot;,&quot;site&quot;:&quot;NPRMOBILE&quot;,&quot;zone&quot;:&quot;no_topic&quot;,&quot;targets&quot;:{&quot;storyId&quot;:&quot;179878450&quot;,&quot;testserver&quot;:&quot;false&quot;},&quot;location&quot;:&quot;adhesion&quot;,&quot;deferred&quot;:false}"></div>
 
-                var loadImmediately = false;
-                var isMainOrCenterStage = false;
-
-                    loadImmediately = true;
-
-
-
-                if (DFP.shouldRenderForDevice('88')) {
-                    DFP.visibilityCheck(function() {
-                        DFP.renderForLocation('88', loadImmediately, isMainOrCenterStage);
-                    });
-                }
-
-            });
-        </script>
-    </div>
-</div>
-
-<!-- END UNDERWRITING -->
-<div class="adwrapper housead">
-      <div class="adwrap">
-	<h3><a href="#">Support NPR</a></h3>
-	<div>
-		<img src="http://media.npr.org/images/shop_300x150-04.jpg" alt="Support NPR">
-		<h4><a href="http://shop.npr.org/?utm_source=Banners&amp;utm_medium=ResponsiveAd&amp;utm_content=General&amp;utm_campaign=300x150">NPR Shop</a></h4>
-		<p>Support The Programs You Love</p>
-	</div>
-</div>
-</div>
-
-<!-- END CLASS="ADWRAPPER HOUSEAD" -->
-<div id="adhesion">
-      <div id="ad-mobile-wrap">
-    <div id="ad-mobile">
-            <script type="text/javascript">
-              if (DFP.shouldRenderForDevice('adhesion')) {
-                var ord = window.ord || Math.floor(Math.random() * 1e16);
-                
-                // use the smaller size for phone, the larger size for tablet
-                var sizes = '640x100';
-                if (Modernizr.mq('only screen and (min-width: 768px)')) {
-                    sizes = '2048x180';
-                }
-                
-                var targets = ';';
-                targets += 'storyId=179878450;';
-                
-                document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.net/N6735/adj/n6735.nprmobile/no_topic' + targets + 'sz=' + sizes + ';ord=' + ord + '?"><\/script>');
-              }
-            </script>
-    </div>
-</div> 
-</div>
-
-<!-- END ID="ADHESION" -->
-<footer id="nprfooter"><div class="footer-wrapper">
+</div><footer id="nprfooter" role="contentinfo" aria-label="NPR footer"><div class="footer-wrapper">
       <div class="primary" data-metrics-category="Global Footer" data-metrics-visible="scroll-down end" data-metrics-label="Footer">
     <ul>
         <li><a href="/" data-action="Click Logo" data-metrics="{&quot;action&quot;:&quot;Click Footer Logo&quot;}"></a></li>
@@ -392,13 +777,11 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
                 <li><a href="http://thedianerehmshow.org" target="_blank">The Diane Rehm Show</a></li>
                 <li><a href="/programs/fresh-air/">Fresh Air</a></li>
                 <li><a href="http://hereandnow.wbur.org/" target="_blank">Here &amp; Now</a></li>
+                <li><a href="/series/423302056/hidden-brain">Hidden Brain</a></li>
                 <li><a href="/programs/invisibilia/">Invisibilia</a></li>
                 <li><a href="/programs/latino-usa/">Latino USA</a></li>
                 <li><a href="/programs/morning-edition/">Morning Edition</a></li>
-                <li><a href="http://www.onthemedia.org" target="_blank">On The Media</a></li>
                 <li><a href="http://www.onpointradio.org/" target="_blank">On Point</a></li>
-                <li><a href="http://www.radiolab.org" target="_blank">Radiolab</a></li>
-                <li><a href="/programs/snap-judgment/" target="_blank">Snap Judgment</a></li>
                 <li><a href="http://storycorps.org" class="storycorps" target="_blank">StoryCorps</a></li>
                 <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
                 <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
@@ -410,8 +793,8 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
         <li class="listen" data-metrics-action="Click Listen" data-metrics-all="">
             <a href="/listen/">Listen</a>
             <ul>
-                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.PLAY_NOW, NPR.Player.Type.NEWSCAST, NPR.Player.Mode.FROM_FILE);" class="hourlyNews">Hourly News</a></li>
-                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.LIVE_STREAM, NPR.Player.Type.PROGRAM_STREAM, NPR.Player.Mode.FROM_FILE);" class="programStream">NPR Program Stream</a></li>
+                <li><a href="#" data-player="{&quot;storyId&quot;:&quot;0&quot;,&quot;mediaId&quot;:&quot;0&quot;,&quot;dateString&quot;:null,&quot;action&quot;:&quot;1&quot;,&quot;type&quot;:&quot;4&quot;,&quot;mode&quot;:&quot;0&quot;,}" class="hourlyNews">Hourly News</a></li>
+                <li><a href="#" data-player="{&quot;storyId&quot;:&quot;0&quot;,&quot;mediaId&quot;:&quot;0&quot;,&quot;dateString&quot;:null,&quot;action&quot;:&quot;3&quot;,&quot;type&quot;:&quot;live1&quot;,&quot;mode&quot;:&quot;0&quot;,}" class="programStream">NPR Program Stream</a></li>
                 <li><a href="/stations/">Find Station Streams</a></li>
                 <li><a href="/podcasts">Podcasts</a></li>
                 <li><a href="/about-npr/187046089/ways-to-listen-to-npr">More Ways To Listen</a></li>
@@ -426,7 +809,7 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
                 <li><a href="/about-npr/187531476/foundation-grants">Support NPR</a></li>
                 <li><a href="http://tours.npr.org/npr/Home/">Visit NPR</a></li>
                 <li><a href="/series/750003/press-room/">Press Room</a></li>
-                <li><a href="/sections/thisisnpr/">'This Is NPR' Blog</a></li>
+                <li><a href="/sections/npr-extra/">NPR Extra Blog</a></li>
                 <li><a href="http://www.npr.org/about-npr/181953728/work-at-npr">Careers at NPR</a></li>
                 <li><a href="/templates/corrections/corrections.php">Corrections</a></li>
                 <li><a href="/sections/ombudsman/">NPR Ombudsman</a></li>
@@ -437,18 +820,53 @@ googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingle
 </div>
 
 <div class="secondary">
-    <p class="copyright tablet">© <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 NPR</p>
+    <p class="copyright tablet"><span class="copy-year"></span></p>
     <ul>
         <li><a href="http://help.npr.org">Help</a></li>
-        <li id="footerContact"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact</a></li>
+        <li id="footerContact"><a href="http://www.npr.org/contact">Contact</a></li>
         <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
         <li><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
         <li class="sponsorship-choices"><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
         <li><a href="http://thin.npr.org/">Text-Only</a></li>
     </ul>
-    <p class="copyright mobile desktop">© <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 NPR</p>
+    <p class="copyright mobile desktop"><span class="copy-year"></span></p>
 </div>
 </div>
-</footer><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/baseStory-a1f1782924e1bd700cdb7d7bef55f56b0b2e0ae1.js">
-   </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ece810d90e","applicationID":"3472094","transactionName":"Y1NRZkQDV0JRAkAPWloZcEdFFlZcHyBWCUBAZlJVUzFNXkIYeAdMW0NH","queueTime":0,"applicationTime":168,"atts":"TxRGEAwZRB0SABZcTklL","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body></html>
+</footer><script>
+requirejs.config({"baseUrl":"http:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/fingerprint\/","waitSeconds":0});require(["persistent-47236bdf4638f0e7500a5d58ca2b91a287638954"],function(){require(["baseStory-377955f2d9b9cffb9c79adc75ad3d7086831561a"]);});</script></main><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript><script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+    if (
+            (typeof NPR.serverVars.byline !== 'undefined') &&
+            (NPR.serverVars.byline !== null)
+    ) {
+        _sf_async_config.authors = NPR.serverVars.byline.join(',');
+    }
+    if (
+            (typeof NPR.serverVars.aggregationsText !== 'undefined') &&
+            (NPR.serverVars.aggregationsText !== null)
+    ) {
+        _sf_async_config.sections = NPR.serverVars.aggregationsText.join(',');
+    }
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+    })();
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ece810d90e","applicationID":"3472094","transactionName":"Y1NRZkQDV0JRAkAPWloZZkBfTU1UXRFYB0FRRRxRWQxNQ18NWANHRxlERUFMSVlA","queueTime":0,"applicationTime":79,"atts":"TxRGEAwZRB0SABZcTklL","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
