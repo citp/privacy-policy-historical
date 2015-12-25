@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421024932id_/http%3A//www.nomorerack.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225083254id_/https%3A//www.choxi.com/info/privacy_policy) for the most accurate reproduction.*
 
-# nomorerack.com
+# Choxi.com
 
-Nomorerack.com Inc. (“Nomorerack”,"Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information, the choices available to you regarding our use of your personal information and how you can access and update this information. By visiting the Nomorerack website and domain name, and any other linked pages, features, content, or mobile application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Choxi.com Inc. (“Choxi”,"Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information, the choices available to you regarding our use of your personal information and how you can access and update this information. By visiting the Choxi website and domain name, and any other linked pages, features, content, or mobile application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing Company's Website and when you use Company services.
-
-**TRUSTe**
-
-Nomorerack.com Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site http://wwww.nomorerack.com/ and the associated mobile application. It does not cover information that may be collected through any thirds party domains, partners or business affiliates. 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._ If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@nomorerack.com](mailto:info@nomorerack.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
 
 **Your Personal Information We Collect**
 
@@ -20,9 +14,9 @@ When you register or (log in), you supply your email address and a password. Thi
 
 We may use your email address to notify you about the Company daily deals or to inform you of your order placement, order status and/or shipping information if you have opted-in. Emails are sent only to Company users who have chosen to receive them (opted-in) or who have made a purchase on our Website. At any time, you can notify us to opt-out from receiving these emails (See “Opt-out” section below). In addition, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to help us better meet better meet your needs.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Company stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program. Your friend may contact us at [info@nomorerack.com](mailto:info@nomorerack.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Company stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program. Your friend may contact us at [info@choxi.com](mailto:info@choxi.com) to request that we remove this information from our database.
 
-The referral program will access your web-based email service (currently limited to Gmail, Hotmail, Yahoo or AOL). If you are not otherwise logged-in to the email service, it may ask you for your password in order to log in. Your password is not stored by either us or ViralNinjas, and is only transferred securely to your email provider in order to log in for the referral program to function. The referral program will access your contacts from your email program, and may ask for your authorization to do so. No emails are sent to your contacts without your consent, as you must confirm to which email addresses you send a referral. If you return to Nomorerack.com Inc. at a later date and use the referral program again, your address book from your email service may still be visible without having to re-enter your login information. In the interim, your email was never used or your contacts contacted by anyone without your consent. Use of your email service is also governed by your email provider.s Terms of Use and / or Privacy Policy. 
+The referral program will access your web-based email service (currently limited to Gmail, Hotmail, Yahoo or AOL). If you are not otherwise logged-in to the email service, it may ask you for your password in order to log in. Your password is not stored by either us or ViralNinjas, and is only transferred securely to your email provider in order to log in for the referral program to function. The referral program will access your contacts from your email program, and may ask for your authorization to do so. No emails are sent to your contacts without your consent, as you must confirm to which email addresses you send a referral. If you return to Choxi.com Inc. at a later date and use the referral program again, your address book from your email service may still be visible without having to re-enter your login information. In the interim, your email was never used or your contacts contacted by anyone without your consent. Use of your email service is also governed by your email provider.s Terms of Use and / or Privacy Policy. 
 
 We also display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below. 
 
@@ -54,19 +48,19 @@ Company may be forced to disclose information in order to comply with a subpoena
 
 If Company is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
 
-**Secure Shopping for All Nomorerack Customers**
+**Secure Shopping for All Choxi Customers**
 
 Company endeavors to protect user information to ensure that user account information is kept private. Your Company account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-When Company's order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order safe and secure. Company also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@nomorerack.com](mailto:info@nomorerack.com).
+When Company's order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order safe and secure. Company also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@choxi.com](mailto:info@choxi.com).
 
 **User Access and Choice (Opt-out)**
 
-If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at [info@nomorerack.com](mailto:info@nomorerack.com) or by contacting us by telephone or postal mail at the contact information listed below. If you no longer desire our service, or wish to have all of your information deleted, please contact us directly. We will respond to your request within 30 days.
+If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at [info@choxi.com](mailto:info@choxi.com) or by contacting us by telephone or postal mail at the contact information listed below. If you no longer desire our service, or wish to have all of your information deleted, please contact us directly. We will respond to your request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [info@nomorerack.com](mailto:info@nomorerack.com). 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [info@choxi.com](mailto:info@choxi.com). 
 
 **Third Party Links and Plug-ins**
 
@@ -80,9 +74,9 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 **Questions or Concerns**
 
-If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to info@nomorerack.com and we will make every effort to resolve your concerns. You may also write to us at:
+If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to info@choxi.com and we will make every effort to resolve your concerns. You may also write to us at:
 
-Nomorerack.com Inc,  
+Choxi.com Inc,  
 381 Park Avenue South,  
 New York, NY 10016 
 
