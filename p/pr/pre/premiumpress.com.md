@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622053312id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052448id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » PremiumPress Themes
 
@@ -34,7 +34,3 @@ PremiumPress reserves the right to make changes to this policy. Those changes wi
 
 
 
-
-##### Join our Newsletter
-
-Don't miss out on **new theme releases** and framework updates! Join today.
