@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627103944id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073845id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
@@ -150,8 +150,8 @@ Children's personal information will be handled as described in this Privacy Pol
 ## About Us
 
 Education.com operates the Site, Mobile App and Services and can be contacted at:  
-2317 Broadway Street  
-Redwood City, CA 94063  
+333 South B Street, Unit 101  
+San Mateo, CA 94401  
 
 
 Or via email at [support@education.com](mailto:support@education.com) or six five zero, three six two, four zero three four.
@@ -213,4 +213,4 @@ Effective Date: October 2, 2014.
 
 ## About Us
 
-Education.com operates the Site, Mobile App and Services. Questions or comments regarding this policy should be directed to [privacy@education.com,](mailto:privacy@education.com,) or by writing to 2317 Broadway Street, Suite 240, Redwood City, CA 94063.
+Education.com operates the Site, Mobile App and Services. Questions or comments regarding this policy should be directed to [privacy@education.com,](mailto:privacy@education.com,) or by writing to 333 South B Street, Unit 101, San Mateo, CA 94401.
