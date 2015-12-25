@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theme-fusion.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004345id_/https%3A//theme-fusion.com/knowledgebase/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-fusion.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191000id_/https%3A//theme-fusion.com/knowledgebase/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Fusion
 
@@ -7,7 +7,7 @@ Posted by
 
 November 13, 2014
 
-_**Last Modified: November 13, 2014**_
+_**Last Modified: November 14th, 2014**_
 
 ##### 1\. Introduction
 
