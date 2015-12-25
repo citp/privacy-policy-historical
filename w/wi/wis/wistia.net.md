@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wistia.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603052843id_/http%3A//wistia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wistia.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050506id_/http%3A//wistia.com/privacy) for the most accurate reproduction.*
 
-# Wistia Terms of Service
+# Wistia Privacy Policy | Wistia
 
 We at Wistia, Inc. (“Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. 
 
