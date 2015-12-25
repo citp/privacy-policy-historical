@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleashyourthin.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141611id_/http%3A//www.unleashyourthin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleashyourthin.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225065108id_/http%3A//www.unleashyourthin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Unleash Your Thin - Privacy Policy
 
