@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002936id_/http%3A//de.puma.com/en_DE/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225155712id_/http%3A//de.puma.com/en_DE/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Germany
 We use our technology to gather the following information:
 
   * _Information that is collected automatically:_ As soon as you visit our websites, we collect and store certain information automatically. This information includes Internet protocol addresses (IP), the type and version of browser you are using, your operating system and platform, including the uniform resource locator (URL). Westorethisdata in a completelyanonymousway.
-  * _Information that you provide us with:_ Personal data you share with us in the course of submitting an order remain completely confidential. This includes, for example, your contact data, and your birth date and telephone number, including your payment information.
+  * _Information that you provide us with:_ Personal data you share with us in the course of submitting an order remain completely confidential. This includes, for example, your contact data, including your name and surname, address, your birth date, e-mail address,telephone number as well as your payment information, including your bank details and credit card information, invoice address.
   * _Information from other sources:_ In order to deliver your future orders securely and safely, we obtain information on payment behaviour, such as from mail-order companies, credit bureaus or updates regarding ordering and delivery addresses of parcel delivery and transport companies.
   * _Location-based data:_ We offer location-based services such as "Find a store." If you use these services, we receive information about your actual location only if you expressly agree to it in advance (e.g. GPS signals), or information regarding your approximate location (e.g., cell ID).
 
@@ -38,13 +38,21 @@ Currently infoscore Consumer Data GmbH, Rheinstrasse 99, 76532 Baden-Baden, Germ
 
 ### **3\. Using Your Data for Advertising Purposes**
 
-We use your information for promotional purposes (direct marketing, newsletters, etc.) only as permitted by law and only if you have given your _express_ permission for this purpose _in advance_. Of course, this permission can be revoked at any time (see point 11).
-
 **Newsletter and product offers by e-mail**
 
-If you register for the PUMA newsletter, you will receive regular product recommendations/updates from us that we will send to your specified email address). We use your information in this regard for promotional purposes, and to provide you with information about our range of products. These offers might be based on your past orders. The data that is required to send the newsletters is forwarded to the companies PUMA has commissioned for handling shipping and is therefore stored on servers in the United States and Great Britain. These partners in turn provide PUMA with information related to emails that have been sent to you and confirmation that they have been read, information regarding your computer and Internet access, operating system and platform, date and time of the visit to the site and the products you have viewed. To send the newsletter, we use the so-called double opt-in process, i.e., we will not send you the newsletter unless you confirm our notification e-mail by clicking on a link to let us know that you want to activate the newsletter service.
+If you register for the PUMA newsletter, you will receive regular product recommendations/updates from us that we will send to your specified email address). We use your information in this regard for promotional purposes, and to provide you with information about our range of products. These offers might be based on your past orders. To send the newsletter, we use the so-called double opt-in process, i.e., we will not send you the newsletter unless you confirm our notification e-mail by clicking on a link to let us know that you want to activate the newsletter service.
 
-If you wish to stop receiving the newsletter from us, you can unsubscribe at any time by clicking on the unsubscribe link included in each newsletter, or by sending us an e-mail to [service@eu.puma.com](mailto:service@eu.puma.com)
+**Advertising in the context of existing customer relationship**
+
+We use personal data you have shared with us in the process of purchasing a product or service to inform you about similar products and services from our product range and to request your feedback after the sale of a product or service, both by using electronic communication.
+
+**Usage**
+
+The data that is required to send the newsletters is forwarded to the companies PUMA has commissioned for handling shipping and is therefore stored on servers in the United States and Great Britain. These partners in turn provide PUMA with information related to emails that have been sent to you and confirmation that they have been read, information regarding your computer and Internet access, operating system and platform, date and time of the visit to the site and the products you have viewed.
+
+**Right to object**
+
+If you do not wish to receive further advertisement from us, you can object to such use at any time, by clicking on the unsubscribe link included in each advertisement message, or by sending us a message (for contact details see section 11, below).
 
 ### **4\. Passing Your Personal Data on to Third Parties**
 
@@ -107,7 +115,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Further information concerning the data privacy policy of Google can be found at: _https://www.google.de/intl/en/policies/_
 
-[Disable Google Analytics](https://web.archive.org/web/20150615002936id_/http%3A//de.puma.com/en_DE/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Disable Google Analytics](https://web.archive.org/web/20151225155712id_/http%3A//de.puma.com/en_DE/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 ### **8\. The Facebook Like Button**
 
@@ -137,9 +145,8 @@ If you wish to avail yourself of your right to information and/or the right to o
 or contact us by regular overland post:
 
 PUMA Online Shop  
-Postfach 21 04 44  
-50530 Köln  
-Germany  
- 
+Postfach 201101   
+48092 Münster  
+Germany
 
 This Privacy Policy and our Terms of Service are revised and updated regularly. Updates to this Privacy Policy are released on our website. Amendments apply as soon as they are published on our website. We therefore recommend that you check this page regularly to see whether there are any updates you need to be aware of.
