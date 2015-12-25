@@ -1,0 +1,699 @@
+<!--The following is the downloaded HTML source of the peopleperhour.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225051257id_/http%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="modern-browser"><!--<![endif]--><head>
+                <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WTTP4R"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAFWVBADQIBVFNQ"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,800" rel="stylesheet" type="text/css">
+        <meta name="robots" content="noindex">        <link rel="stylesheet" type="text/css" href="https://d3ambpg2zf25sl.cloudfront.net/assets/abb5d6d4/css_pkg_css-white-lion_071c97017d34fe046da64a9d26fcaa03.css">
+<script type="text/javascript">
+/*<![CDATA[*/
+    /**
+     * Helper function to push Google Tag Manager events
+     * @param name Event name
+     * @param payload
+     */
+    var gtmTrackEvent = function (payload) {
+        // Init dataLayer if needed
+        window.dataLayer = window.dataLayer || [];
+
+        if(typeof payload == 'object' && (typeof payload.event != 'undefined'
+            || typeof payload.ecommerce != 'undefined' || typeof payload.userId != 'undefined')) {
+            dataLayer.push(payload);
+        } else {
+            console.log('gtmTrackEvent is badly configured', payload);
+        }
+    };
+
+    /**
+     * Helper function to push Google Tag Manager virtual pageviews
+     * @param name Event name
+     * @param payload
+     */
+    var gtmTrackPageview = function (pageview) {
+        var payload = {
+            'event': 'pageview',
+            'pageview': pageview
+        };
+        gtmTrackEvent(payload);
+    };
+
+    /**
+     * Helper function to push Google Tag Manager GA events pageviews
+     * @param name Event name
+     * @param payload
+     */
+    var gtmTrackGAEvent = function (category, action, opt_label, opt_value) {
+        opt_value = (typeof opt_value == 'undefined') ? 1 : opt_value;
+        var payload = {
+            "event": "ga.event",
+            "ga.event": {
+                'category': category,
+                'action': action,
+                'opt_label': opt_label,
+                'opt_value': opt_value
+            }
+        };
+        gtmTrackEvent(payload);
+    };
+/*]]>*/
+</script>
+<title>Privacy Policy - People Per Hour (PPH) - PeoplePerHour.com</title>
+                <meta name="viewport" content="width=device-width, user-scalable=yes">
+                        <link rel="apple-touch-icon" href="https://d3ambpg2zf25sl.cloudfront.net/img/pph-mobile-banner.png">
+        <link rel="apple-touch-icon-precomposed" href="https://d3ambpg2zf25sl.cloudfront.net/img/pph-mobile-banner.png">
+        <link rel="shortcut icon" sizes="57x57" href="https://d3ambpg2zf25sl.cloudfront.net/img/pph-mobile-banner.png">
+
+        <link rel="icon" href="/favicon2.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon2.ico" type="image/x-icon">
+        <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <script type="text/javascript" async="" defer="" src="https://my.nanorep.com/widget/scripts/float.js"></script></head>
+    <body class="blueprint  "><script type="text/javascript">
+/*<![CDATA[*/
+var __pph_community = {"announcements":{"cmm_id":"161","cmm_message":"<a target=\"blank\" href=\"http:\/\/blog.peopleperhour.com\/blogroll\/christmas-new-years-payment-processing-dates\/\"  class=\"announcement-click call-to-action\">Christmas And New Years Payment Processing Dates<\/a>","cmm_active":"y","cmm_audience":"dual"},"purgeStorage":"n"}
+var __PPH_CONF_ = {'modules':{'SubscribeNewsletter':{'timeout':30,'popupEnabled':false},'LoginSignup':{'fbUrl':'https://www.peopleperhour.com/site/externalAuth?name=facebook','liUrl':'https://www.peopleperhour.com/site/externalAuth?name=linkedin','nextUrl':'http://www.peopleperhour.com/static/privacy-policy','defaultNextUrl':'http://www.peopleperhour.com/static/privacy-policy','specialNextUrls':{'buyer':'http://www.peopleperhour.com/referral-program?skip=active'},'memberTypeBuyerValue':'buyer','memberTypeSellerValue':'provider','forceEmailRegistration':false},'LocationCombo':{'profile_signup_location':{'emptyLocation':'...','prefix':'','locationDelimiter':', ','mappings':{'iso':'iso','city':'city','geonameId':'id'},'id':'profile_signup_location','showTitleTooltip':false,'lockedMessage':'The country and city on your profile were\n            automatically updated to the location from where you access PPH.\n            This is in line with our <a class=\"call-to-action\" target=\"_blank\" href=\"http://support.peopleperhour.com/entries/26770198\">policy<\/a>. If you believe this is wrong,\n            you can contact our CS team and provide a proof of location, such as a utility bill.','suggestionDisplayKey':'country','status':'enabled'},'multiInstance':true},'FbApi':{'autoLogin':true,'prefixUi':'facebookui','appId':'161024417255724','namespace':'peopleperhourcom'}}};
+/*]]>*/
+</script>
+
+        <div id="site-wrapper" class="site-wrapper">
+            <header id="widget-TopNav" class="top-navigation for-guest">
+    <nav role="navigation" class="container">
+        <div class="navbar-header">
+            <a id="logo" class="pph-logo" href="/">PeoplePerHour</a>        </div>
+        <div class="nav collapse navbar-collapse visible-md visible-lg">
+    <div class="pull-right menu-block user-menu">
+        
+<div class="auth-menu">
+    <a href="https://www.peopleperhour.com/site/register?next=http%3A%2F%2Fwww.peopleperhour.com%2Fstatic%2Fprivacy-policy" title="Sign up" class="text-uppercase sign-up">Sign up</a>
+    <a href="https://www.peopleperhour.com/site/login?next=http%3A%2F%2Fwww.peopleperhour.com%2Fstatic%2Fprivacy-policy" title="Log in" class="text-uppercase login">Log in</a>
+</div>
+    </div>
+        <div class="pull-right menu-block navigation-menu">
+        <ul>
+            <li class="dropdown">
+                <a class="dropdown-toggle text-uppercase with-border-on-hover " data-toggle="dropdown" rel="nofollow" href="/hourlies">Buy</a>                <ul class="dropdown-menu simple pull-right">
+                    <li><a href="/hourlies">Browse Hourlies</a></li>
+                    <li><a href="/job/new?ref=topmenu_loggedout">Post Job</a></li>
+                    <li><a href="/freelance">Find Freelancers</a></li>
+                    <li><a href="/hourlie/tags?ref=topmenu">Discover Skills</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a class="dropdown-toggle  text-uppercase with-border-on-hover " data-toggle="dropdown" rel="nofollow" href="/freelance-jobs">Sell</a>                <ul class="dropdown-menu simple pull-right">
+                    <li><a href="/freelance-jobs">Browse Jobs</a></li>
+                    <li><a href="/hourlie/new">Post Hourlie</a></li>
+                    <li><a href="/share-pph?ref=sell">Promote Yourself</a></li>
+                </ul>
+            </li>
+            <li class="dropdown"><a class="bold" rel="nofollow" href="/static/how-it-works-buyer">How it works</a></li>            <li class="dropdown separator"><a class="job btn bold" rel="nofollow" data-trigger="post-btn" href="http://www.peopleperhour.com/job/new?ref=topnav_loggedout">Post Job</a></li>        </ul>
+    </div>
+</div>
+<button class="offcanvas-toggle topnav-toggle button visible-xs visible-sm">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="fa fa-times topnav-close"></span>
+</button>
+
+<div class="nav navbar-collapse">
+    <div class="navbar-mobile visible-xs visible-sm">
+
+        
+
+<!-- Nav tabs -->
+<ul class="nav nav-tabs" role="tablist">
+    <li class="active">
+        <a href="#home" role="tab" data-toggle="tab"><i class="fa fa-home"></i></a>
+    </li>
+</ul>
+
+<!-- Tab panes -->
+<div class="tab-content">
+    <!-- BEGIN: Home tab -->
+    <div class="tab-pane active" id="home">
+        <!-- Buy Section-->
+        <section>
+            <header class="row text-uppercase">Buy</header>
+            <ul class="simple">
+                <li><a href="/hourlies">Browse Hourlies</a></li>
+                <li><a href="/job/new?ref=topmenu_loggedout">Post Job</a></li>
+                <li><a href="/freelance">Find Freelancers</a></li>
+                <li><a href="/hourlie/tags?ref=topmenu">Discover Skills</a></li>
+            </ul>
+        </section>
+        <!-- Sell Section-->
+        <section>
+            <header class="row text-uppercase">Sell</header>
+            <ul class="simple">
+                <li><a href="/freelance-jobs">Browse Jobs</a></li>
+                <li><a href="/hourlie/new">Post Hourlie</a></li>
+                <li><a href="/share-pph?ref=sell">Promote Yourself</a></li>
+            </ul>
+        </section>
+        <!-- Help Section -->
+        <section>
+            <header class="row text-uppercase">Help</header>
+            <ul class="simple">
+                <li><a target="_blank" href="/zendesk/redirectToZendesk">Customer Support</a></li>
+                <li>
+                    <a rel="nofollow" href="/static/how-it-works-buyer">How it works</a>                </li>
+                <li>
+                    <a href="https://www.peopleperhour.com/site/register?next=http%3A%2F%2Fwww.peopleperhour.com%2Fstatic%2Fprivacy-policy">Sign up</a>                </li>
+                <li>
+                    <a href="https://www.peopleperhour.com/site/login?next=http%3A%2F%2Fwww.peopleperhour.com%2Fstatic%2Fprivacy-policy">Log in</a>                </li>
+            </ul>
+        </section>
+    </div>
+    <!-- END: Home Tab-->
+</div>
+    </div>
+</div>
+    </nav>
+</header><div class="container container-top"></div>
+            <div id="main-container" class="wrap-container container clearfix">
+                <div class="main-content full-width controller-site view-static">
+    <div class="stretch bg-fill clearfix">
+
+    <div class="span-22 prepend-top append-bottom prepend-1">
+
+    <header class="clearfix append-bottom">
+        <h1>Privacy Policy</h1>
+    </header>
+
+
+	<p>People Per Hour Limited ("We") are committed to protecting and respecting your privacy.</p>
+
+	<p>This policy (together with our <a href="/static/terms" class="call-to-action" rel="nofollow">terms and conditions</a> and any other policies referred to in it)
+sets out the basis on which any personal data we collect from you, or that you provide to us, will be
+processed by us. Please read the following carefully to understand our views and practices regarding
+your personal data and how we will treat it.</p>
+
+	<p>By visiting this website and communicating electronically with us, you consent to the processing and
+transfer of your Personal Data as set out in this Privacy Policy.</p>
+
+	<p>For the purpose of the Data Protection Act 1998 (the <strong>Act</strong>), the data controller is People Per Hour
+Limited c/o Speechly Bircham, 6 New Street Square, London, EC4A 3LX.</p>
+
+	<p>The term "Personal Data" refers to personally identifiable information about you, such as your name,
+job description, health related data, birthday, e-mail address or mailing address.</p>
+
+	<h2 class="prepend-top">Collection of Personal Data including email addresses</h2>
+
+	<p>We may collect and process Personal Data about you as follows:</p>
+
+	<ul class="">
+		<li>If you provide Information to us by filling in forms on our website. This may include information provided at the time of registering, subscribing to any of our services, posting material, sending messages and posting in WorkSteam, making or receiving payments through your PPH Wallet or requesting further services.</li>
+		<li>Details of transactions you carry out via our website.</li>
+		<li>We may ask you for information when you report an issue or concern or we have or receive a complaint or query about you (whether or not a formal Dispute is raised).</li>
+		<li>We may keep a record of correspondence between you and us.</li>
+		<li>We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+		<li>Details of the messages you send and receive using WorkStream including without limitation, when you sent or received a message and the contents of that message. Messages are not private and are not confidential</li>
+		<li>We sometimes supplement the information that you provide with information received from third parties. For instance, credit reference agencies, search information providers, PayPal etc.</li>
+
+	<h2 class="prepend-top">Use of Personal Data</h2>
+
+	<p>We will use your Personal Data to fulfil your requests and we will ask only for data that is adequate,
+relevant and not excessive for those purposes. Where we send you information for any purpose,
+it may be sent by e-mail or post. When we ask you for Personal Data it may include the following
+purposes:</p>
+
+  	<ul class="">    
+        <li>We may contact you occasionally to inform you of new products and services we will be providing;</li>
+        <li>We may send you regular updates on issues we think will be of interest to you;</li> 
+		<li>We may send you requested information on our products and services;</li>
+		<li>We may use your Personal Data for marketing purposes and market research; and</li>
+		<li>We may use your Personal Data internally to provide you with the services offered by us via this website, to administer this website and to help us improve our services.</li>
+		<li>To allow you to participate in interactive features of our service when you choose to do so;</li>
+		<li>We may use your Personal Data to notify you about changes to our services, terms and conditions, policies or website</li>
+	</ul>
+
+	<h2 class="prepend-top">Unsubscribe</h2>
+
+	<p>We hope you will be delighted with our services.</p>
+
+	<p>However, if you do not wish to receive emails from us and want to be removed from our electronic
+mailing list you can either select “unsubscribe” from any of the marketing emails that we send or
+alternatively <a target="_blank" class="call-to-action" href="/zendesk/redirectToZendesk">contact us</a>.</p>
+
+	<h2 class="prepend-top">Anonymous data collected through this website</h2>
+
+	<p>In addition to the information we collect as described above, we use technology to collect anonymous
+information about the use of our website. For example, our web server automatically logs which
+pages of our website our visitors view, their IP addresses and which web browsers our visitors use.
+This technology does not identify you personally, it simply enables us to compile statistics about our
+visitors and their use of our website.</p>
+
+	<p>Our website contains Hyperlinks to other pages on our website. We may use technology to track how
+often these links are used and which pages on our website our visitors choose to view. Again this
+technology does not identify you personally - it simply enables us to compile statistics about the use
+of these Hyperlinks.</p>
+
+	<h2 class="prepend-top">Cookies</h2>
+
+	<p>In order to collect the anonymous data described in the preceding paragraph, we may use
+temporary "cookies" that remain in the cookies file of your browser until the browser is closed.
+Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece
+of information which is sent to your browser and stored on your computer's hard drive. Cookies
+do not damage your computer. You can set your browser to notify you when you receive a cookie.</p>
+
+	<p>This enables you to decide if you want to accept it or not. We also use your IP address to help
+diagnose problems with our server and to administer our website. An IP address is a numeric code
+that identifies your computer on a network, or in this case, the Internet. Your IP address is also
+used to gather broad demographic information. We may also perform IP lookups to determine which
+domain you are coming from (i.e.: aol.com, yourcompany.com) to more accurately gauge our users'
+demographics.</p>
+
+	<h2 class="prepend-top">Disclosure of your Personal Data</h2>
+
+	<p>We do not share, sell or distribute your Personal Data with unrelated third parties, except as
+otherwise provided for in this Privacy Statement and under these limited circumstances:</p>
+
+<ul class="">
+	<li>In order to provide you with the information or products which you have requested, Personal
+Data may occasionally be transferred or shared with other companies within our group of
+companies or third parties who act for us for further processing in accordance with the purposes
+for which the data was originally collected or for purposes to which you have subsequently
+consented. For example, sometimes a third party may have access to your Personal Data in order
+to support our information technology or to handle mailings on our behalf.</li>
+	<li>We will keep your contact details on our database and may, from time to time, e-mail or post
+you information to make you aware of our other similar products and services which may be of
+interest to you. If you do not wish to receive e-mails or post from us for these purposes, please let
+us know by following the "unsubscribe" procedure set out above.</li>
+	<li>Where you have consented, we may also share your Personal Data with other companies
+within our group of companies or disclose your Personal Data to other businesses who may
+contact you about their products or services that may interest you.</li>
+	<li>We may share, transfer or disclose the information in our databases and server logs to
+comply with a legal requirement, for the administration of justice, interacting with anti-fraud
+databases, to protect your vital interests, to protect the security or integrity of our databases
+or this website, to take precautions against legal liability, or in the event of our sale, merger,
+reorganisation, dissolution or similar event. We will inform you of any such transfer or disclosure
+as required by law.</li>
+	<li>In order to apply or enforce our terms and conditions, our policies or any other agreements between you and us.</li>
+	<li>We may pass on your Personal Data to other users of this website if they confirm to us in writing that they intend to issue proceedings or take legal action against you.</li>
+	<li>Where appropriate, before disclosing Personal Data to a third party, we contractually require
+the third party to take adequate precautions to protect that data and to comply with applicable law.</li>
+	<li>Where you have chosen to connect your PPH account to your Facebook account we may
+share, disclose, and transfer Personal Data to Facebook. This permission will be requested when
+you connect your accounts. If you have given this permission you may then disable this function
+at anytime by changing your Facebook or PPH account settings.</li>
+</ul>
+
+<h2 class="prepend-top">Data access and corrections</h2>
+
+<p>Upon receipt of your written request and enough information to permit us to identify your Personal
+Data, we will disclose to you the Personal Data we hold about you, for which we may make a charge
+up to the maximum as allowed by applicable law. We will also correct, amend or delete any Personal
+Data that is inaccurate and notify any third party recipients of the necessary changes. You may
+update any information you have given to us by contacting us at the addresses given below.</p>
+
+<p>Requests to delete Personal Data are subject to any applicable legal and ethical reporting or
+document retention obligations imposed on us.</p>
+
+<h2 class="prepend-top">Links to other websites</h2>
+
+<p>This website may contain hyperlinks to websites that are not operated by us. These hyperlinks are
+provided for your reference and convenience only and do not imply any endorsement of the activities
+of these third-party websites or any association with their operators. We do not control these websites
+and are not responsible for their data or privacy practices. We urge you to review any privacy policy
+posted on any site you visit before using the site or providing any Personal Data about yourself.</p>
+
+<h2 class="prepend-top">Transfer of data abroad</h2>
+
+<p>If you are visiting this website from a country other than the country in which our servers are located
+(currently the United States of America), the various communications will necessarily result in the
+transfer of information across international boundaries.</p>
+
+<p>We may also transfer your Personal Data between our offices and third party processors which may
+be located worldwide. Where your Personal Data is transferred to a country outside the European
+Economic Area, we will ensure that recipients of your Personal Data agree to keep your Personal
+Data confidential and hold it securely in accordance with applicable data protection laws.</p>
+
+<h2 class="prepend-top">Changes to our Privacy Policy</h2>
+
+<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where
+appropriate, notified to you by email.</p>
+
+<h2 class="prepend-top">Contact</h2>
+
+<p>If you have any questions, comments or requests regarding this privacy policy <a target="_blank" class="call-to-action" href="/zendesk/redirectToZendesk">contact us</a>.</p>
+
+	</ul></div>
+</div>
+</div>
+
+            </div>
+        <footer class="main-footer clearfix ">
+    <div class="container footer-container">
+        <div class="col-sm-3 hidden-sm hidden-xs description">
+    <a href="/" class="pph-logo"></a>
+    <div class="description-text">
+        A community of <strong>curated freelance talent</strong> available to work for you remotely at the click of a button    </div>
+    <div class="copyright">
+        © 2015 PeoplePerHour Inc.    </div>
+    <div class="helper-links clearfix">
+        <ul>
+            <li><a href="/static/terms">Terms</a></li>
+            <li><a href="/static/privacy-policy">Privacy</a></li>
+        </ul>
+    </div>
+</div>
+<div class="col-sm-12 col-md-9 col-lg-6 links clearfix">
+    <div class="col-xs-12 col-sm-4">
+        <h4>Company</h4>
+        <ul class="footer-nav">
+            <li><a target="_blank" href="http://blog.peopleperhour.com/ourstory/">About Us</a></li>
+            <li><a href="/static/joinus">Careers</a></li>
+            <li><a target="_blank" href="http://blog.peopleperhour.com/group/team/">Our Team</a></li>
+            <li><a target="_blank" href="http://blog.peopleperhour.com/">Blog</a></li>
+            <li><a target="_blank" href="http://blog.peopleperhour.com/group/pressnews/">Press</a></li>
+            <li><a href="/enterprise/contact">Enterprise Solutions</a></li>
+            <li class="logo-item"><a href="https://www.supertasker.com" class="supertasker-logo" target="_blank" title="Supertasker"></a></li>
+        </ul>
+        <hr class="visible-xs">
+    </div>
+    <div class="col-xs-12 col-sm-4">
+        <h4>Help</h4>
+        <ul class="footer-nav">
+            <li><a href="/static/how-it-works-buyer">How it Works</a></li>
+            <li><a target="_blank" href="/zendesk/redirectToZendesk">Support</a></li>
+            <li><a href="http://support.peopleperhour.com/entries/21445931-Trust-and-Safety">Trust &amp; Safety</a></li>
+        </ul>
+        <hr class="visible-xs">
+    </div>
+    <div class="col-xs-12 col-sm-4">
+        <h4>Resources</h4>
+        <ul class="footer-nav">
+            <li><a href="/directory?ref=footer">Directory</a></li>
+            <li><a target="_blank" href="http://research.peopleperhour.com/">Economic Research</a> <span class="etiquette-new sm">NEW</span></li>
+        </ul>
+    </div>
+</div>
+<div class="col-xs-12 hidden-md hidden-lg copyright-mobile">
+    © 2015 PeoplePerHour Inc.    <div class="helper-links right clearfix">
+        <ul>
+            <li><a href="/static/terms">Terms</a></li>
+            <li><a href="/static/privacy-policy">Privacy</a></li>
+        </ul>
+    </div>
+</div>
+<div class="col-sm-4 col-lg-3 connect visible-lg">
+    <h4>Connect with us</h4>
+    <div class="email-input">
+        Get special offers up to 60% off!        <form class="form" id="newsletter-subscription-form" action="/hourlie/subscribeNewsletter" method="post">
+<div style="display:none"><input type="hidden" value="b3183bc330b3b616fed7e99e8aae631920c0a8e1" name="YII_CSRF_TOKEN"></div>        <div class="input-group" id="NewsletterSubscription_email_group">
+            <input placeholder="Type your email.." class="form-control" name="NewsletterSubscription[email]" id="NewsletterSubscription_email" type="email">                        <span class="input-group-btn">
+                <button class="btn btn-default submit-btn" type="submit">
+                    <i class="fa fa-caret-right"></i>
+                </button>
+            </span>
+        </div>
+        </form>    </div>
+    <div class="social">
+        <ul class="nav nav-pills">
+            <li>
+                <a href="http://facebook.com/peopleperhour" class="social-button facebook fa fa-facebook">&nbsp;</a>
+            </li>
+            <li>
+                <a href="http://twitter.com/peopleperhour" class="social-button twitter fa fa-twitter">&nbsp;</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/company/peopleperhour.com" class="social-button linkedin fa fa-linkedin">&nbsp;</a>
+            </li>
+            <li>
+                <a href="http://pinterest.com/peopleperhour/" class="social-button pinterest fa fa-pinterest">&nbsp;</a>
+            </li>
+            <li>
+                <a href="http://plus.google.com/+peopleperhour" class="social-button google-plus fa fa-google-plus">&nbsp;</a>
+            </li>
+        </ul>
+    </div>
+</div>    </div>
+        <div class="detect-mobile"></div>
+</footer>
+        </div>
+        <script type="text/javascript">
+/*<![CDATA[*/
+
+/*]]>*/
+</script>
+<div id="jsModuleLoginSignup" role="dialog" tabindex="-1" class="modal fade">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button data-dismiss="modal" class="close" name="yt0" type="button">×</button>Log In</div>
+<div class="modal-body">
+    <div title="Log In" class="widget-jsModuleLoginSignup clearfix">
+        <div class="login-signup-container">
+                    <form id="login-form" action="https://www.peopleperhour.com/site/login" method="post">
+<div style="display:none"><input type="hidden" value="b3183bc330b3b616fed7e99e8aae631920c0a8e1" name="YII_CSRF_TOKEN"></div><input class="login-next-url" type="hidden" value="http://www.peopleperhour.com/static/privacy-policy" name="next" id="next"><div class="insidePopup loginDiv clearfix">
+            <div>
+            <div class="gutter-top clearfix" data-hook="partial-social-buttons">
+                <div class="col-xs-12 col-sm-6 social-left clearfix"><a class="action-social-login medium button social-button facebook login-fb-link" rel="nofollow" href="https://www.peopleperhour.com/site/externalAuth?name=facebook"><i class="fa fa-facebook"></i><span>Log In with Facebook</span></a></div>                <div class="col-xs-12 col-sm-6 social-right"><a class="action-social-login medium button social-button linkedin last login-li-link" rel="nofollow" href="https://www.peopleperhour.com/site/externalAuth?name=linkedin"><i class="fa fa-linkedin"></i><span>Log In with LinkedIn</span></a></div>            </div>
+            <div class="gutter-top align-center" data-hook="partial-facebook-button" style="display: none;">
+                <a class="action-social-login span-7 tall button facebook" rel="nofollow" href="https://www.peopleperhour.com/site/externalAuth?name=facebook">Sign Up with Facebook</a>                <div class="fb-facepile-container span-8 last clearfix">
+                                        <fb:facepile width="300" max_rows="1"></fb:facepile>
+                </div>
+            </div>
+        </div>
+        <div class="or-separator clearfix gutter-top gutter-bottom">or</div>
+    
+    <div class=" signin clearfix">
+        <div class="gutter-bottom clearfix">
+            <label class="clear" for="LoginForm_email">Email</label>            <input tabindex="1" class="clear medium login-signup-email" name="LoginForm[email]" id="LoginForm_email" type="text">            <div class="hidden never-show" id="LoginForm_email_em_" style="display:none"></div>        </div>
+        <div class="clearfix gutter-bottom">
+            <label class="clear" for="LoginForm_password">Password</label>            <input tabindex="2" class="medium clear" autocomplete="off" name="LoginForm[password]" id="LoginForm_password" type="password">                    </div>
+        <div class="clearfix prepend-top gutter-bottom">
+            <input id="ytLoginForm_rememberMe" type="hidden" value="0" name="LoginForm[rememberMe]"><input tabindex="3" checked="checked" class="plain left clear pph-custom-input" name="LoginForm[rememberMe]" id="LoginForm_rememberMe" value="1" type="checkbox">            <label class="left rememberMe" for="LoginForm_rememberMe">Remember me</label>            <div class="gutter-bottom clear clearfix">
+                <a class="forgotPassword gutter-bottom clear action-forgot-toggle" rel="nofollow" href="/site/forgot">Forgot password?</a>            </div>
+
+        </div>
+
+        <div class="clearfix">
+            <input tabindex="4" class="call-to-action medium gutter-bottom btn-inverted" type="submit" name="yt1" value="Log In">                <div class="tocLink clear">
+                    By clicking Log In, Facebook or LinkedIn<br>you agree to our new <a tabindex="7" rel="nofollow" href="/static/terms/terms">T&amp;C's</a>                </div>
+                    </div>
+    </div>
+</div></form>        
+        <form id="registration-form" action="https://www.peopleperhour.com/site/register" method="post">
+<div style="display:none"><input type="hidden" value="b3183bc330b3b616fed7e99e8aae631920c0a8e1" name="YII_CSRF_TOKEN"></div><div class="insidePopup signupDiv clearfix">
+            <div class="gutter-top clearfix" data-hook="partial-social-buttons" style="display: none;">
+            <div class="col-xs-12 col-sm-6 social-left clearfix"><a class="action-social-login medium button social-button facebook" rel="nofollow" href="https://www.peopleperhour.com/site/externalAuth?name=facebook"><i class="fa fa-facebook"></i><span>Log In with Facebook</span></a></div><div class="col-xs-12 col-sm-6 social-right"><a class="action-social-login medium button social-button linkedin" href="https://www.peopleperhour.com/site/externalAuth?name=linkedin"><i class="fa fa-linkedin"></i><span>Log In with LinkedIn</span></a></div>        </div>
+        <div class="gutter-top clearfix" data-hook="partial-facebook-button" style="display: none;">
+            <div class="clearfix">
+                <aside class="gutter-bottom">
+                    Sign up with Facebook and discover what your friends are doing                </aside>
+            </div>
+            <div class="align-center">
+            <a class="action-social-login medium button facebook" rel="nofollow" href="https://www.peopleperhour.com/site/externalAuth?name=facebook">Sign Up with Facebook</a>            </div>
+            <div class="fb-facepile-container clearfix align-center gutter-top">
+                                <fb:facepile width="300" max_rows="1"></fb:facepile>
+            </div>
+        </div>
+        <div class="clearfix" data-hook="partial-separator" style="display: none;">
+            <div class="or-separator gutter-top gutter-bottom">or</div>
+        </div>
+        <div class="align-center gutter-bottom" data-hook="partial-singup-toggle">
+        Sign up with your <a href="#" class="call-to-action" data-hook="toggle-signup-form">email address</a>
+    </div>
+    <div class="clearfix" data-hook="partial-singup-form" style="display: none;">
+                <div class="work-email" data-hook="work-email">
+            <label for="workEmail">Work Email</label>
+            <input placeholder="fill your work email" name="EmailMemberRegistration[workEmail]" id="EmailMemberRegistration_workEmail" type="text">        </div>
+        <div class="gutter-bottom">
+            <label class="clear required" for="EmailMemberRegistration_fname">First Name</label>            <input tabindex="1" class="clear medium" data-tip-position="right" name="EmailMemberRegistration[fname]" id="EmailMemberRegistration_fname" type="text" maxlength="40">                    </div>
+        <div class="gutter-bottom">
+            <label class="clear required" for="EmailMemberRegistration_lname">Last Name</label>            <input tabindex="2" class="clear medium" name="EmailMemberRegistration[lname]" id="EmailMemberRegistration_lname" type="text" maxlength="100">                    </div>
+
+        <div class="gutter-bottom">
+            <label class="clear required" for="EmailMemberRegistration_email">Your email address</label>            <input tabindex="3" class="clear login-signup-email medium" name="EmailMemberRegistration[email]" id="EmailMemberRegistration_email" type="text">                    </div>
+                    <div class="gutter-bottom">
+                <label class="clear required" for="EmailMemberRegistration_password">Password</label>                <input tabindex="4" class="clear medium" autocomplete="off" name="EmailMemberRegistration[password]" id="EmailMemberRegistration_password" type="password" maxlength="200">                            </div>
+        
+        <div class="gutter-bottom">
+            <label for="EmailMemberRegistration_country">Location</label>            <span class="discreet">(City)</span>
+            <div class="clearfix">
+            <div class="widget-jsModuleLocationCombo" id="widget-jsModuleLocationCombo-profile_signup_location"><input id="Members_location" class="location-combo-input clear medium" placeholder="Type a city" tabindex="5" type="text" value="San Francisco, California, US" name="location_combo"><input data-target-attr="iso" data-geoname-attr="iso" data-location-combo-id="profile_signup_location" name="EmailMemberRegistration[iso]" id="EmailMemberRegistration_iso" type="hidden" value="US"><input data-target-attr="city" data-geoname-attr="city" data-location-combo-id="profile_signup_location" name="EmailMemberRegistration[city]" id="EmailMemberRegistration_city" type="hidden" value="San Francisco"><input data-target-attr="geonameId" data-geoname-attr="id" data-location-combo-id="profile_signup_location" name="EmailMemberRegistration[geonameId]" id="EmailMemberRegistration_geonameId" type="hidden" value="5391959"></div>            </div>
+                    </div>
+        <label class="clear gutter-top gutter-bottom" for="member-type-slider">What are you looking for?</label>
+        <div class="clearfix gutter-bottom member-type-container">
+            <input id="ytEmailMemberRegistration_memType" type="hidden" value="" name="EmailMemberRegistration[memType]"><span id="EmailMemberRegistration_memType"><span style="margin-right: 19px" class="left"><input class="member-type-radio pph-custom-input" tabindex="6" id="EmailMemberRegistration_memType_0" value="buyer" type="radio" name="EmailMemberRegistration[memType]"><label for="EmailMemberRegistration_memType_0">Buy services</label></span><span style="margin-right: 19px" class="left"><input class="member-type-radio pph-custom-input" tabindex="6" id="EmailMemberRegistration_memType_1" value="provider" type="radio" name="EmailMemberRegistration[memType]"><label for="EmailMemberRegistration_memType_1">Sell services</label></span><span style="margin-right: 19px" class="left"><input class="member-type-radio pph-custom-input" tabindex="6" id="EmailMemberRegistration_memType_2" value="uninitialized" type="radio" name="EmailMemberRegistration[memType]"><label for="EmailMemberRegistration_memType_2">Both</label></span></span>        </div>
+        <div class="clearfix">
+            <input tabindex="7" class="call-to-action medium clear btn-inverted" type="submit" name="yt2" value="Sign Up">            <div class="tocLink">
+                By clicking Sign Up you agree to our new <a target="_blank" href="/static/terms/terms">T&amp;C's</a>            </div>
+        </div>
+    </div>
+</div>
+</form>        <!-- forgot password -->
+        <div id="forgotPasswordDiv" class="loginSignup insidePopup clearfix">
+
+            <form id="forgotPasswordForm" action="http://www.peopleperhour.com/site/forgot" method="post">
+<div style="display:none"><input type="hidden" value="b3183bc330b3b616fed7e99e8aae631920c0a8e1" name="YII_CSRF_TOKEN"></div>
+            <div class="forgotPasswordDiv clear clearfix">
+                <div class="clearfix gutter-bottom">
+                    <label class="left clear" for="ForgotPasswordForm_email">Email</label>                    <input class="tall span-8 last clear text login-signup-email" name="ForgotPasswordForm[email]" id="ForgotPasswordForm_email" type="text">                                    </div>
+                <div class="clearfix prepend-2 span-4 last">
+                    <input class="call-to-action tall span-4 last btn-inverted" type="submit" name="yt3" value="Reset"><br>
+                                    </div>
+            </div>
+            </form>        </div>
+    </div>
+</div></div>
+<div class="modal-footer">
+<div class="div-signup-toggle popup-footer align-center clearfix" style="display: none">
+    Already have an account?    <a tabindex="-1" class="action-login-toggle call-to-action" rel="nofollow" href="https://www.peopleperhour.com/site/login">Log In</a></div>
+<div class="div-login-toggle popup-footer align-center clearfix" style="display: none">
+    Don’t have an account?    <a tabindex="-1" class="action-login-toggle call-to-action" rel="nofollow" href="/site/register">Sign Up</a></div></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/*<![CDATA[*/
+__PPH_CONF_.metadataConf={'isFirstRequest':false,'code':'e30='};
+__PPH_CONF_.csrfTokenName="YII_CSRF_TOKEN";
+__PPH_CONF_.csrfToken="b3183bc330b3b616fed7e99e8aae631920c0a8e1";
+__PPH_CONF_.DEBUG=false;
+
+/*]]>*/
+</script>
+<span class="serverinfo hide">|H:web1|DB:normal|Cached:N|</span>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://d3ambpg2zf25sl.cloudfront.net/assets/abb5d6d4/js_pkg_pph-main_17ace74045998688091b85e2e6139bcf.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+var _nRepData = _nRepData || []; _nRepData['kb'] = '70018204'; _nRepData['float'] = {account: 'PeoplePerHour', cdcVersion: 3, cdcFrame: '', scriptVersion: '2.70.1.6'};
+(function(){var windowLoadFunc = function(){var _nRepData = window._nRepData || [];_nRepData['windowLoaded'] = true;if (typeof(_nRepData['windowOnload']) === 'function') _nRepData['windowOnload']();};if (window.attachEvent)window.attachEvent('onload', windowLoadFunc);else if (window.addEventListener)window.addEventListener('load', windowLoadFunc, false);var sc = document.createElement('script');sc.type = 'text/javascript';sc.async = true;sc.defer = true;sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'my.nanorep.com/widget/scripts/float.js';var _head = document.getElementsByTagName('head')[0];_head.appendChild(sc);})();
+    window.dataLayer = window.dataLayer || [];
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WTTP4R');
+PPH.Page(__PPH_CONF_)
+jQuery(function($) {
+$('#newsletter-subscription-form').pphactiveform({'validateOnSubmit':true,'afterValidate': function (form, data, hasError){return $(this).pphactiveform.displayErrors(form, data, hasError);},'validateOnChange':false,'attributes':[{'id':'NewsletterSubscription_email','inputID':'NewsletterSubscription_email','errorID':'NewsletterSubscription_email_em_','model':'NewsletterSubscription','name':'email','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+
+if(!value.match(/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/)) {
+	messages.push("Email is not a valid email address.");
+}
+
+}}],'errorSummarySeparator':'<br>','tooltipDescriptor':'aria-describedby','pphComponentAttribute':'data-pph-component','componentsDefaults':{'tooltip':{'pos':'right','closeOnFocus':true},'pphdropdown':{'appendClasses':true,'scrollbar':false},'autoresize':{'extraSpace':20,'limit':240},'help':[],'pphnumeric':{'typeAttribute':'data-numeric-type'}},'scrollErrors':true,'scrollErrorOffset':130,'scrollErrorDuration':800});
+jQuery('#login-form').yiiactiveform({'validateOnSubmit':true,'validateOnChange':false,'successCssClass':'my-success','afterValidate':PPH.page.modules.LoginSignup.afterValidate,'attributes':[{'id':'LoginForm_email','inputID':'LoginForm_email','errorID':'LoginForm_email_em_','model':'LoginForm','name':'email','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("Please enter your email");
+}
+
+
+
+if(jQuery.trim(value)!='' && !value.match(/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/)) {
+	messages.push("Email format isn't valid");
+}
+
+}},{'id':'LoginForm_password','inputID':'LoginForm_password','errorID':'LoginForm_password_em_','model':'LoginForm','name':'password','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("Please enter your password");
+}
+
+}}],'errorCss':'error'});
+jQuery('#registration-form').yiiactiveform({'validateOnSubmit':true,'validateOnChange':false,'successCssClass':'my-success','afterValidate':PPH.page.modules.LoginSignup.afterValidate,'attributes':[{'id':'EmailMemberRegistration_fname','inputID':'EmailMemberRegistration_fname','errorID':'EmailMemberRegistration_fname_em_','model':'EmailMemberRegistration','name':'fname','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("First Name cannot be blank.");
+}
+
+
+if(jQuery.trim(value)!='') {
+	
+if(value.length>40) {
+	messages.push("First Name is too long (maximum is 40 characters).");
+}
+
+}
+
+}},{'id':'EmailMemberRegistration_lname','inputID':'EmailMemberRegistration_lname','errorID':'EmailMemberRegistration_lname_em_','model':'EmailMemberRegistration','name':'lname','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("Last Name cannot be blank.");
+}
+
+
+if(jQuery.trim(value)!='') {
+	
+if(value.length>100) {
+	messages.push("Last Name is too long (maximum is 100 characters).");
+}
+
+}
+
+}},{'id':'EmailMemberRegistration_email','inputID':'EmailMemberRegistration_email','errorID':'EmailMemberRegistration_email_em_','model':'EmailMemberRegistration','name':'email','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("Your email address cannot be blank.");
+}
+
+
+
+if(jQuery.trim(value)!='' && !value.match(/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/)) {
+	messages.push("Your email address is not a valid email address.");
+}
+
+}},{'id':'EmailMemberRegistration_password','inputID':'EmailMemberRegistration_password','errorID':'EmailMemberRegistration_password_em_','model':'EmailMemberRegistration','name':'password','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)!='') {
+	
+if(value.length<6) {
+	messages.push("Password is too short (minimum is 6 characters).");
+}
+
+}
+
+
+if(jQuery.trim(value)=='') {
+	messages.push("The Password cannot be blank");
+}
+
+
+if(jQuery.trim(value)!='') {
+	
+if(value.length<6) {
+	messages.push("Password must be at least 6 characters");
+}
+
+if(value.length>200) {
+	messages.push("Password is too long (maximum is 200 characters).");
+}
+
+}
+
+}},{'id':'EmailMemberRegistration_country','inputID':'EmailMemberRegistration_country','errorID':'EmailMemberRegistration_country_em_','model':'EmailMemberRegistration','name':'country','enableAjaxValidation':false},{'id':'EmailMemberRegistration_memType','inputID':'EmailMemberRegistration_memType','errorID':'EmailMemberRegistration_memType_em_','model':'EmailMemberRegistration','name':'memType','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("Account type preference cannot be blank.");
+}
+
+}}],'errorCss':'error'});
+jQuery('#forgotPasswordForm').yiiactiveform({'validateOnSubmit':true,'validateOnChange':false,'successCssClass':'my-success','afterValidate':PPH.page.modules.LoginSignup.afterValidateForgotPassword,'attributes':[{'id':'ForgotPasswordForm_email','inputID':'ForgotPasswordForm_email','errorID':'ForgotPasswordForm_email_em_','model':'ForgotPasswordForm','name':'email','enableAjaxValidation':false,'clientValidation':function(value, messages, attribute) {
+
+if(jQuery.trim(value)=='') {
+	messages.push("Email cannot be blank.");
+}
+
+
+
+if(jQuery.trim(value)!='' && !value.match(/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/)) {
+	messages.push("Email format isn't valid");
+}
+
+}}],'errorCss':'error'});
+$('#jsModuleLoginSignup').modal({'backdrop':true,'keyboard':true,'show':false,'title':''});
+$(window).trigger("hashchange");
+});
+/*]]>*/
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"76db167ea2","applicationID":"511022","transactionName":"M11UYhdZVkpVAkBRXAoXd1URUVdXGzJdTFYnV1hCF1dUVVETG0tHBUxfVQ==","queueTime":0,"applicationTime":41,"atts":"HxpXFF9DRUQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+
+</body></html>
