@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204414id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225142510id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices - About NHS Choices - NHS Choices
 
@@ -21,7 +21,7 @@
 **Some health campaigns are supplied with advertising data. ****
 
 **Personalisation  
-**Uses navigation data and personal information to enable us, and third parties to tailor the services provided to you. 
+**Uses navigation data and personal information to enable us, and third parties, to tailor the services provided to you. 
 
 **Symptom assessment  
 **Personal information will be collected through the use of the [Symptom checkers](https://web.archive.org/symptomcheckers/pages/symptoms.aspx). This is necessary so that the correct assessment can be made, given the options you have selected through the tool.
@@ -32,7 +32,7 @@ We will never share personal information with any third parties without your con
 
 ## Our privacy policy 
 
-The Department of Health is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.
+The Health and Social Care Information Centre is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.
 
 We want you to feel secure when using the website and associated services. We are committed to respecting your privacy. Below we give an overview of how we do that.
 
