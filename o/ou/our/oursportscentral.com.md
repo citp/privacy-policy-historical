@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629173209id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226001651id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
 
-# Alternative and Minor League Sports News on OurSports Central
+# Minor League Sports News on OurSports Central
 
 Effective 11/17/11
 
