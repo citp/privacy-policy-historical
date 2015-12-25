@@ -1,13 +1,11 @@
-<!--The following is the downloaded HTML source of the buycostumes.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623213229id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buycostumes.com privacy policy that was archived on 2015-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225121130id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/304411140215484978/bc.vms4/vms.js"></script><script src="//sec.levexis.com/clientfiles/v3/buyseasons.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"314e48cf32","applicationID":"2825526","transactionName":"ZQRaZkRSC0EAVxJcDFxOfF1CfQBGIlsIQRFdDVRXRBwmXQ9AA1sXHShWVlNL","queueTime":0,"applicationTime":112,"ttGuid":"38D7FD9E6EDEB07A","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAFU1RWGwEIVlRXBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <meta charset="utf-8"><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/304411140215484978/bc.vms4/vms.js"></script><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script src="//sec.levexis.com/clientfiles/v3/buyseasons.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"314e48cf32","applicationID":"2825526","transactionName":"ZQRaZkRSC0EAVxJcDFxOdWR1HCZdD0ADWxdxDlZGRFwJXgRGSXwNVgRA","queueTime":0,"applicationTime":85,"ttGuid":"B01DFFFC56D63F2A","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAFU1RWGwEIVlRXBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <title>Halloween Costumes, Kids &amp; Adult Halloween Costume Ideas | BuyCostumes.com</title>
-
+        <title>BuyCostumes</title>
         <link rel="icon" href="http://www.buycostumes.com/favicon.ico;ibr37c49007b4eee7e0" type="image/x-icon">
         <!-- For third-generation iPad with high-resolution Retina display: -->
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/apple-touch-icon-144x144-precomposed.png">
@@ -21,13 +19,65 @@
         
 		<meta property="fb:app_id" content="265513253561332">
 		<meta property="og:url" content="http://www.buycostumes.com/info/21">
-		<meta property="og:title" content="Halloween Costumes, Kids &amp; Adult Halloween Costume Ideas | BuyCostumes.com">
+		<meta property="og:title" content="BuyCostumes">
 		<meta property="og:site_name" content="buycostumes.com">
 		<meta property="og:image" content="http://images.buycostumes.com/mgen/merchandiser/Banners/BClogo3-27-12.gif">
 		<meta property="og:type" content="Website">
 		<meta property="og:description" content="I found great Halloween Costumes on BuyCostumes.com. Click here to find more unique Costume ideas! Life's better in costume.">
 		<link rel="canonical" href="http://www.buycostumes.com/info/21">
 <!--  -->
+        <link rel="stylesheet" type="text/css" href="https://images.buycostumes.com/BC/css2/bc.css?v=1" media="all">
+        <link rel="stylesheet" type="text/css" href="https://images.buycostumes.com/BC/css2/campaignBC.css?v=1" media="all">
+        
+
+        <style type="text/css">
+            .floatEndCap{clear:both;font-size:0;height:0;margin:0;padding:0;}
+             meta.foundation-data-attribute-namespace{font-family: false;}
+             @-ms-viewport{width:auto!important;}
+        </style>
+        <style type="text/css">
+            .buyCartItems tbody tr td:first-child img{max-height: none;}
+        </style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script>(window.jQuery)||document.write('<script src="/CdnBundles/jquery"><\/script>');</script><script src="/CdnBundles/jquery"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+<script>(Modernizr)||document.write('<script src="/CdnBundles/modernizr"><\/script>');</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
+<script>(window.jQuery.cookie)||document.write('<script src="/CdnBundles/jquery-cookie"><\/script>');</script><script src="/CdnBundles/jquery-cookie"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js"></script>
+<script>(window.jQuery.flexslider)||document.write('<script src="/CdnBundles/jquery-flexslider"><\/script>');</script><script src="/CdnBundles/jquery-flexslider"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+<script>(window.jQuery.fn.lazyload)||document.write('<script src="/CdnBundles/jquery-lazyload"><\/script>');</script><script src="/CdnBundles/jquery-lazyload"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
+<script>(window.ko)||document.write('<script src="/CdnBundles/knockout"><\/script>');</script><script src="/CdnBundles/knockout"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.min.js"></script>
+<script>(window.ko.mapping)||document.write('<script src="/CdnBundles/knockout-mapping"><\/script>');</script><script src="/CdnBundles/knockout-mapping"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+<script>(window._)||document.write('<script src="/CdnBundles/underscore"><\/script>');</script><script src="/CdnBundles/underscore"></script>
+        <script src="/JsBundles/jQuery?v=tCLuUXdwa4p6RlBhKN9mWyV60NwfkcpY-w3ASurGgaA1"></script>
+<script src="/JsBundles/Common?v=EKASttLL1PJmNE49r4pzN1if4VIQUo9yH9ywok-d1ak1"></script>
+<script src="/JsBundles/BC?v=qz-zPTPaQoXFeA7_O3P_wJ_fjo2hW4jfCRLTZMNBGzg1"></script>
+<script src="/JsBundles/ViewModels?v=-lXUFgfv_r5RlcruPMSSit10bs6MwwJUNtRUkbF1Rtk1"></script>
+        
+
+
+
+<script type="text/javascript" src="//product.reflektion.com/rfk/js/11161-6351009/init.js" async="true"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                buyseasons.upsellmodal.init();
+            });
+        </script>
+
+        
+
+
+<script type="text/javascript" src="//nexus.ensighten.com/buyseasons/prod/Bootstrap.js"> </script>
+
+    <meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large-only"><meta class="foundation-mq-large"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-small-only"><meta class="foundation-mq-small"><style></style><style type="text/css">body.PPFrame { overflow: hidden; }#PPFrame { z-index: 20002; top: 0; left: 0; }#PPFrame .mask { z-index: 20001; position: absolute; top: 0; left: 0; background-color: black; background-image: radial-gradient(circle farthest-corner, #000000, #4A4A4A); opacity: 0.80; filter: alpha(opacity=80); }#PPFrame .ppmodal { font-family: "HelveticaNeue", "HelveticaNeue-Light", "Helvetica Neue Light", helvetica, arial, sans-serif; font-size: 14px; text-align: center; color:#fff; z-index: 20003; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box; width: 350px; top: 50%; left: 50%; position: fixed; margin-left: -165px; margin-top: -80px; }#PPFrame .loading .spinner { height:30px; width:30px; position:absolute; left:48%; top:50%; margin:-15px auto auto -15px; opacity:1; filter: alpha(opacity=100); background-color: rgba(255, 255, 255, 0.701961); -webkit-animation: rotation .7s infinite linear; -moz-animation: rotation .7s infinite linear; -o-animation: rotation .7s infinite linear; animation: rotation .7s infinite linear; border-left:8px solid rgba(0,0,0,.20); border-right:8px solid rgba(0,0,0,.20); border-bottom:8px solid rgba(0,0,0,.20); border-top:8px solid rgba(33,128,192,1); border-radius:100%; } @-webkit-keyframes rotation { from {-webkit-transform: rotate(0deg);} to {-webkit-transform: rotate(359deg);}} @-moz-keyframes rotation { from {-moz-transform: rotate(0deg);} to {-moz-transform: rotate(359deg);} } @-o-keyframes rotation { from {-o-transform: rotate(0deg);} to {-o-transform: rotate(359deg);} } @keyframes rotation { from {transform: rotate(0deg);} to {transform: rotate(359deg);}}#PPFrame .loading.noanimation .spinner {height: 48px; width: 48px; border:none; background: url(https://www.paypalobjects.com/webstatic/checkout/hermes/icon_loader_med.gif) no-repeat center center;}#PPFrame .ppmodal.loading { min-height: 160px; }#PPFrame .ppmodal .pplogo {background: url(https://www.paypalobjects.com/webstatic/checkout/hermes/mb_sprite.png) no-repeat 0 0; width: 94px; height: 25px; margin:0 0 26px 130px}#PPFrame .ppmodal .closeButton {position:fixed; top:10px; right:10px; display:inline-block; background: url(https://www.paypalobjects.com/webstatic/checkout/hermes/mb_sprite.png) no-repeat 0 -67px; width: 14px; height: 14px; text-indent: -999em; cursor: pointer; }#PPFrame .ppmodal .closeButton:hover {background: url(https://www.paypalobjects.com/webstatic/checkout/hermes/mb_sprite.png) no-repeat -50px -67px; width: 14px; height: 14px;}#PPFrame .ppmodal .text { font-size: 14px; }#PPFrame .ppmodal a.button {display:block; cursor:pointer; margin-top:20px; color: #0088cc;}#PPFrame .ppmodal a.ppbutton {display:block; cursor:pointer; margin-top:20px; color: #0088cc;}@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: ~"2/1"), only screen and (min-device-pixel-ratio: 2)  { #PPFrame .ppmodal .pplogo {background: url(https://www.paypalobjects.com/webstatic/checkout/hermes/mb_sprite_2x.png) no-repeat 0 0; background-size: 100px 75px;}}</style></head>
+
+    <body class="main">
 <!-- Tagman main script-->
 <script type="text/javascript">
     (function(w) {
@@ -71,7 +121,7 @@
 //		tm_srmember: '',
 //		tm_shipmethod: '',
 //		tm_sreligibility: '',
-            tm_marketingChannel: 'UnTracked'
+            tm_marketingChannel: ''
         };
         var conf = {
             host: 'pfna.levexis.com',
@@ -138,71 +188,24 @@
     TMAN.doTags(TMAN.position.TOP_HEAD);
 </script>
 <!-- End Tagman TOP_HEAD-->
-
-    
-        <link rel="stylesheet" type="text/css" href="https://images.buycostumes.com/BC/css/bc.css;ibra8b95655837368bd?v=1" media="all">
-        <link rel="stylesheet" type="text/css" href="https://images.buycostumes.com/BC/css/campaignBC.css;ibrbd1a1e69e7022d67?v=1" media="all">
-        
-
-        <style>
-            .floatEndCap{clear:both;font-size:0;height:0;margin:0;padding:0;}
-             meta.foundation-data-attribute-namespace{font-family: false;}
-             @-ms-viewport{width:auto!important;}
-        </style>
-
-        <style>
-            .buyCartItems tbody tr td:first-child img{max-height: none;}
-        </style>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-<script>(window.jQuery)||document.write('<script src="/CdnBundles/jquery"><\/script>');</script><script src="/CdnBundles/jquery"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
-<script>(Modernizr)||document.write('<script src="/CdnBundles/modernizr"><\/script>');</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
-<script>(window.jQuery.cookie)||document.write('<script src="/CdnBundles/jquery-cookie"><\/script>');</script><script src="/CdnBundles/jquery-cookie"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js"></script>
-<script>(window.jQuery.flexslider)||document.write('<script src="/CdnBundles/jquery-flexslider"><\/script>');</script><script src="/CdnBundles/jquery-flexslider"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.0.0/knockout-min.js"></script>
-<script>(window.ko)||document.write('<script src="/CdnBundles/knockout"><\/script>');</script><script src="/CdnBundles/knockout"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout.mapping/2.4.1/knockout.mapping.min.js"></script>
-<script>(window.ko.mapping)||document.write('<script src="/CdnBundles/knockout-mapping"><\/script>');</script><script src="/CdnBundles/knockout-mapping"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
-<script>(window._)||document.write('<script src="/CdnBundles/underscore"><\/script>');</script><script src="/CdnBundles/underscore"></script>
-        <script src="http://www.buycostumes.com/JsBundles/jQuery;ibre98453a6e3b28756?v=e6Kq-pBHBW0Sy5X8q7_kXYUGZH07KN8HbZP3euqh2a01"></script>
-<script src="http://www.buycostumes.com/JsBundles/Common;ibr8e24d3eac294a94c?v=ClBOOZ9J6_2AgQt8cnGq-ARRAGs5RmghXxLwdcf4lc81"></script>
-<script src="http://www.buycostumes.com/JsBundles/BC;ibrf59b7a71402d5829?v=mBMKTTAHiI68X1rQXYLyg58KxZ_fM3q9y4YkZMewLOM1"></script>
-<script src="http://www.buycostumes.com/JsBundles/ViewModels;ibr886e9815bf18b38a?v=adhqByLcdS6rQdYT1LxgzH6vIHA26Axt7RWTYawJREQ1"></script>
-        
-        
-
-
-<script type="text/javascript" src="//product.reflektion.com/rfk/js/11161-6351009/init.js" async="true"></script>
-
-        
-
-
-<script type="text/javascript" src="//nexus.ensighten.com/buyseasons/prod/Bootstrap.js"> </script>
-
-
-    <meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large-only"><meta class="foundation-mq-large"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-small-only"><meta class="foundation-mq-small"><style></style></head>
-
-    <body class="main">
-
+<!-- Tagman bottom head -->
+<script type="text/javascript">
+    TMAN.doTags(TMAN.position.BOTTOM_HEAD);
+</script>
+<!-- end Tagman bottom head -->
 <!-- Tag man top body location -->
 <div id="TMAN_TOP_BODY"></div>
 <script type="text/javascript">
     TMAN.doTags(TMAN.position.TOP_BODY);
 </script>
 <!-- end tagman top body-->
-
         <div id="fb-root"></div>
-
         <div class="off-canvas-wrap" data-offcanvas="">
             <div class="inner-wrap">
 <aside class="left-off-canvas-menu">
         <ul class="off-cannvas-list">
 <div class="search">
-    <input type="text" placeholder="Search" class="searchBox" data-rfkid="rfkid_6">
+    <input type="text" placeholder="Search" class="searchBox" data-rfkid="rfkid_61">
     <button type="submit" title="Search" class="searchBtn">Search</button>
         <div class="typeaheadContainer" style="display: none">
             <ul class="resultsList"></ul>
@@ -214,22 +217,32 @@
 
     <ul class="off-cannvas-list">
 
-<ul class="familyLinks">
-            <li class="BDXP"><a href="http://www.birthdayexpress.com/" target="_blank">Birthday Express</a></li>
-            <li class="BC selected"><a href="http://www.buycostumes.com/" target="_blank">Buy Costumes</a></li>
-          </ul>
-
-
-
-
-
-
 
 
 
     </ul>
 </aside>
                 <div id="headerContainer">
+<section class="show-for-small">
+        <!-- Tiered % Offer w/title -->
+<ul class="tipTopShip">
+    <li class="tipTopMsg double">
+        <div class="left">
+            <span class="promo"><strong>15% OFF</strong> when you spend $50</span>
+            <span class="code">use code: frosty15</span>
+            <span class="details"><a title="Offer" href="/info/689">details</a>
+            
+            </span>
+        </div>
+        <div class="right">
+           <a title="Offer" href="/info/15"> <span class="promo"><strong>$4.99</strong></span>
+            <span class="code">Flat Rate Shipping</span></a>
+        </div>
+    </li>
+</ul>
+   
+</section>
+
 <nav class="tab-bar show-for-small">
     <ul class="menuLogoCart row">
         <li class="small-3 columns"> <a class="left-off-canvas-toggle menu-icon "> <span>BuyCostumes</span> </a> </li>
@@ -247,35 +260,6 @@
         <li class="subtotal" id="cartSubtotal" data-bind="text: Subtotal">$0.00</li>
     </ul>
 </a>
-<div id="MobileMiniCart" class="MiniCart" style="position: fixed !important; overflow-x:visible !important; min-width:340px !important;">
-    <span class="loading miniCartLoading"></span><a href="javascript:;" class="MiniCartCloseBtn" onclick="ajaxCart.hideCart();">x</a> <a href="javascript:;" onclick="ajaxCart.hideCart();" class="backShoppingLink" data-bind="visible: CartItemCount() > 0" style="display: none;">Back to Shopping</a> <span class="miniCartArrow">
-    </span>
-    <div class="miniCartError" data-bind="visible: CartModel.UserMessages().length > 0 " style="display: none;">
-        <ul data-bind="foreach: UserMessages"></ul>
-    </div>
-    <div class="emptyMiniCart" style="" data-bind="visible: CartItemCount() <= 0 ">
-        <h3>
-            There are no items in your cart yet.</h3>
-    </div>
-    <ul>
-        <!-- ko foreach: {data: RenderedCartItems, afterAdd: HighlightItem} --><!-- /ko -->
-        <li class="moreItems" data-bind="visible: CartModel.CartItems().length > 3" style="display: none;"><a href="/cart">
-            <strong data-bind="text: CartModel.CartItemCount">0</strong>Items in your cart </a>
-        </li>
-    </ul>
-    <p class="youSaved" data-bind="visible: CartModel.SavingsAmount() > 0 " style="display: none;">
-        You Saved: $<!--ko text: CartModel.SavingsAmount().toFixed(2) -->0.00<!--/ko-->
-    </p>
-    <p class="subtotal p_cartSubtotal" data-bind="visible: CartItemCount() > 0 " style="display: none;">
-        Subtotal:
-        <!--ko text: CartModel.Subtotal-->$0.00<!--/ko-->
-    </p>
-    <a href="/" onclick="ajaxCart.hideCart();" class="continueShoppingBtn emptyMiniContinue" style="" data-bind="visible: CartItemCount() <= 0 ">Continue Shopping</a>
-    <a href="/cart" class="shoppingCartBtn" data-bind="visible: CartItemCount() > 0 " style="display: none;">
-        View Shopping Cart</a> <a rel="nofollow" href="/checkout/checkout" class="checkoutBtn cartCheckoutBtn" data-bind="visible: CartItemCount() > 0 " style="display: none;">
-            Checkout</a>
-</div>
-<div class="BackgroundGrayoutDefault" style="display:none"></div>
 
         </li>
     </ul>
@@ -283,8 +267,26 @@
 
 
 <header>
-    
-    <nav class="topNavLinks hide-for-small" data-topbar="">
+    <section class="hide-for-small">
+        <!-- Tiered % Offer w/title -->
+<ul class="tipTopShip">
+    <li class="tipTopMsg double">
+        <div class="left">
+            <span class="promo"><strong>15% OFF</strong> when you spend $50</span>
+            <span class="code">use code: frosty15</span>
+            <span class="details"><a title="Offer" href="/info/689">details</a>
+            
+            </span>
+        </div>
+        <div class="right">
+           <a title="Offer" href="/info/15"> <span class="promo"><strong>$4.99</strong></span>
+            <span class="code">Flat Rate Shipping</span></a>
+        </div>
+    </li>
+</ul>
+   
+    </section>
+     <nav class="topNavLinks hide-for-small" data-topbar="">
         <div class="topLinkContainer">
             <nav class="tab-bar show-for-medium" data-topbar="">
                 <a class="left-off-canvas-toggle menu-icon "><span>BuyCostumes</span></a>
@@ -292,17 +294,7 @@
             <div class="hide-for-medium-down NoLazy">
 
 
-
-
-
             </div>
-
-<ul class="familyLinks">
-            <li class="BDXP"><a href="http://www.birthdayexpress.com/" target="_blank">Birthday Express</a></li>
-            <li class="BC selected"><a href="http://www.buycostumes.com/" target="_blank">Buy Costumes</a></li>
-          </ul>
-
-
 
 
 
@@ -328,7 +320,7 @@
             <li class="medium-6 columns">
                 <div class="quickAccess">
 <div class="search">
-    <input type="text" placeholder="Search" class="searchBox" data-rfkid="rfkid_61">
+    <input type="text" placeholder="Search" class="searchBox" data-rfkid="rfkid_6">
     <button type="submit" title="Search" class="searchBtn">Search</button>
         <div class="typeaheadContainer" style="display: none">
             <ul class="resultsList"></ul>
@@ -344,8 +336,8 @@
         </script>
 </div>
                     
-<a title="View Cart" href="/cart" class="cart">
-    <ul class="miniCart primCart preventMiniCartFadeOut">
+<a id="cartLink" title="View Cart" href="/cart" class="cart">
+    <ul class="miniCart primCart">
         <li class="total">
             <dl>
                 <dt class="cart">Cart</dt>
@@ -355,79 +347,50 @@
         <li class="subtotal" id="cartSubtotal" data-bind="text: Subtotal">$0.00</li>
     </ul>
 </a>
-<div id="MiniCart" class="MiniCart" style="position: fixed !important; overflow-x:visible !important; min-width:340px !important;">
-    <span class="loading miniCartLoading"></span><a href="javascript:;" class="MiniCartCloseBtn" onclick="ajaxCart.hideCart();">x</a> <a href="javascript:;" onclick="ajaxCart.hideCart();" class="backShoppingLink" data-bind="visible: CartItemCount() > 0" style="display: none;">Back to Shopping</a> <span class="miniCartArrow">
-    </span>
-    <div class="miniCartError" data-bind="visible: CartModel.UserMessages().length > 0 " style="display: none;">
-        <ul data-bind="foreach: UserMessages"></ul>
+<div id="MiniCart" class="miniCartList" style="display:none">
+    <div class="miniCartArrow"><img src="https://images.buycostumes.com/BC/images/mini-cart-arrow.png"></div>
+    <div class="miniWrap">
+        <ul>
+            <!-- ko foreach: {data: RenderedCartItems}  --><!-- /ko -->
+            <li class="moreItems" data-bind="visible: CartModel.CartItems().length > 3" style="display: none;">
+                <div class="miniMoreItems" data-bind="text: $root.cartOverflowText()">Plus -3 more item...</div>
+            </li>
+        </ul>
     </div>
-    <div class="emptyMiniCart" style="" data-bind="visible: CartItemCount() <= 0 ">
-        <h3>
-            There are no items in your cart yet.</h3>
+    <div class="miniViewCart">
+        <a href="/cart">
+            <input type="button" value="View Cart" class="viewCartBtn">
+        </a>
     </div>
-    <ul>
-        <!-- ko foreach: {data: RenderedCartItems, afterAdd: HighlightItem} --><!-- /ko -->
-        <li class="moreItems" data-bind="visible: CartModel.CartItems().length > 3" style="display: none;"><a href="/cart">
-            <strong data-bind="text: CartModel.CartItemCount">0</strong>Items in your cart </a>
-        </li>
-    </ul>
-    <p class="youSaved" data-bind="visible: CartModel.SavingsAmount() > 0 " style="display: none;">
-        You Saved: $<!--ko text: CartModel.SavingsAmount().toFixed(2) -->0.00<!--/ko-->
-    </p>
-    <p class="subtotal p_cartSubtotal" data-bind="visible: CartItemCount() > 0 " style="display: none;">
-        Subtotal:
-        <!--ko text: CartModel.Subtotal-->$0.00<!--/ko-->
-    </p>
-    <a href="/" onclick="ajaxCart.hideCart();" class="continueShoppingBtn emptyMiniContinue" style="" data-bind="visible: CartItemCount() <= 0 ">Continue Shopping</a>
-    <a href="/cart" class="shoppingCartBtn" data-bind="visible: CartItemCount() > 0 " style="display: none;">
-        View Shopping Cart</a> <a rel="nofollow" href="/checkout/checkout" class="checkoutBtn cartCheckoutBtn" data-bind="visible: CartItemCount() > 0 " style="display: none;">
-            Checkout</a>
 </div>
 <script type="text/javascript">
 
         var CartModel = {
             CartItemCount: ko.observable('0'),
             SavingsAmount: ko.observable(0),
+            PayPalEnabled: ko.observable(0),
+            HasPreSellItems: ko.observable(0),
             Subtotal: ko.observable('$0.00'),
             CartItems: ko.observableArray([]),
             UserMessages: ko.observableArray([]),
-            UpdateLineItem: function (data, evt) {
-                if (CartModel.isInvalidQty(data.Qty())) return;
-                ajaxCart.updateCartItems([{ LineItemId: data.LineItemId, Quantity: data.Qty()}]);
-                buyseasons.ensighten.sendEvent('UpdateCartItemQty', {ProductId : data.ProdId, VariantId : data.Sku, Quantity: data.Qty(), OriginalQty: data.OriginalQty });
-            },
-            RemoveLineItem: function (data) {
-                ajaxCart.updateCartItems([{ LineItemId: data.LineItemId, Quantity: 0}]);
-                buyseasons.ensighten.sendEvent('RemoveCartItem', {ProductId : data.ProdId, VariantId : data.Sku, Quantity: data.Qty() });
-            },
-            HighlightItem: function (elem) {
-                var data = ko.dataFor(elem);
-                if (data && data.IsUpdated) {
-                    var bgColor = $(elem).css("background-color");
-                    $(elem).css({ backgroundColor: '#E7F5DC' }).delay(750).animate({ backgroundColor: bgColor }, 1500);
-                }
-            },
-            isInvalidQty: function(qty) {
-                return isNaN(qty) || qty < 0;
+            cartOverflowText: function() {
+                var textEnding = this.CartItems().length > 4 ? " more items..." : " more item...";
+                return "Plus " + (this.CartItems().length - 3) + textEnding;
             }
         };
 
         CartModel.RenderedCartItems = ko.computed(function () {
             var renderedCartItems = CartModel.CartItems().slice(0, 3);
             for (var i = 0; i < renderedCartItems.length; i++) {
-                renderedCartItems[i].OriginalQty = renderedCartItems[i].Qty;
-                renderedCartItems[i].Qty = ko.observable(renderedCartItems[i].Qty);
+                renderedCartItems[i].OriginalQty = renderedCartItems[i].TextQty;
+                renderedCartItems[i].TextQty = ko.observable(renderedCartItems[i].TextQty);
             }
             return renderedCartItems;
         });
 
         ko.applyBindings(CartModel, $("#headerContainer").get(0));
 
-        $(document).ready(function() {
-            ajaxCart.init(CartModel, true, false);
-        });
-         
-         
+        ajaxCart.init(CartModel, true, false);
 </script>
 
                 </div>
@@ -484,6 +447,10 @@
                                 
                             </li>
                             <li>
+                                <a href="/c/couples-costumes" title="Couples Costumes" class="">Couples Costumes</a>
+                                
+                            </li>
+                            <li>
                                 <a href="/m/group-couples-costumes/0" title="Group Costumes" class="">Group Costumes</a>
                                 
                             </li>
@@ -492,7 +459,7 @@
        
             <li class="col">
                 <div class="navEquity">
-                    <a href="/c/4th-of-july-costumes"><img class="NoLazy" src="https://images.buycostumes.com/mgen/merchandiser//BCcampaign/LP/04-21-15-BC-Drop-Down-Menu-Equity-Adults.png" alt="" title="Shop Now" width="210" height="173"></a>
+                    <a href="/m/nightmare-collection"><img class="NoLazy" src="https://images.buycostumes.com/mgen/merchandiser//BCcampaign/LP/Nightmare-collection-Drop-Down.jpg" alt="" title="Shop Now" width="210" height="173"></a>
                 </div>
             </li>
         </ul>
@@ -531,7 +498,7 @@
        
             <li class="col">
                 <div class="navEquity">
-                    <a href="/c/themes/kids-costumes?n=891"><img class="NoLazy" src="https://images.buycostumes.com/mgen/merchandiser//BCcampaign/LP/04-21-15-BC-Drop-Down-Menu-Equity-Kids.png" alt="" title="Shop Now" width="210" height="173"></a>
+                    <a href="/c/kids-costumes/new"><img class="NoLazy" src="https://images.buycostumes.com/mgen/merchandiser//BCcampaign/LP/07-10-15-BC-Drop-Down-Menu-Equity-Kids.jpg" alt="" title="Shop Now" width="210" height="173"></a>
                 </div>
             </li>
         </ul>
@@ -691,14 +658,10 @@
         </ul>
         </li>
         <li class=" primary">
-            <a class="primaryTitle" href="/c/decorations-party-supplies" title="Decorations &amp; Party Supplies">Decorations &amp; Party Supplies</a>
+            <a class="primaryTitle" href="/c/decorations-party-supplies" title="Decorations">Decorations</a>
         <ul class="level1 secondary">
                 <li class="col">
                     <ul>
-                            <li>
-                                <a href="/c/decorations-party-supplies/activities" title="Activities" class="">Activities</a>
-                                
-                            </li>
                             <li>
                                 <a href="/c/decorations-party-supplies/animated" title="Animated" class="">Animated</a>
                                 
@@ -708,15 +671,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/decorations-party-supplies/balloons" title="Balloons" class="">Balloons</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/decorations-party-supplies/banners" title="Banners" class="">Banners</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/decorations-party-supplies/beads" title="Beads" class="">Beads</a>
+                                <a href="/c/decorations-party-supplies/cutouts-stand-ups" title="Cardboard Cutouts &amp; Stand-ups" class="">Cardboard Cutouts &amp; Stand-ups</a>
                                 
                             </li>
                             <li>
@@ -724,25 +679,29 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/decorations-party-supplies/cutouts-stand-ups" title="Cardboard Cutouts &amp; Stand-ups" class="">Cardboard Cutouts &amp; Stand-ups</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/decorations-party-supplies/candy" title="Candy" class="">Candy</a>
-                                
-                            </li>
-                            <li>
                                 <a href="/c/decorations-party-supplies/ceiling" title="Ceiling Decorations" class="">Ceiling Decorations</a>
+                                
+                            </li>
+                            <li>
+                                <a href="/c/?ntt=eerie%20elegance%20decorations" title="Eerie Elegance Decorations" class="">Eerie Elegance Decorations</a>
+                                
+                            </li>
+                            <li>
+                                <a href="/c/?ntt=friendly%20halloween%20decorations" title="Friendly Halloween Decorations" class="">Friendly Halloween Decorations</a>
+                                
+                            </li>
+                            <li>
+                                <a href="/c/decorations-party-supplies/candy" title="Halloween Candy &amp; Candy Bowls" class="">Halloween Candy &amp; Candy Bowls</a>
+                                
+                            </li>
+                            <li>
+                                <a href="/c/?ntt=haunted%20house%20decorations" title="Haunted House Decorations" class="">Haunted House Decorations</a>
                                 
                             </li>
                     </ul>
                 </li>
                 <li class="col">
                     <ul>
-                            <li>
-                                <a href="/c/decorations-party-supplies/gift-wrap" title="Gift Wrap" class="">Gift Wrap</a>
-                                
-                            </li>
                             <li>
                                 <a href="/c/decorations-party-supplies/inflatables-airblown" title="Inflatables &amp; Airblown" class="">Inflatables &amp; Airblown</a>
                                 
@@ -752,11 +711,11 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/decorations-party-supplies/party-favors-gifts" title="Party Favors &amp; Gifts  " class="">Party Favors &amp; Gifts  </a>
+                                <a href="/c/decorations-party-supplies?n=855" title="New Decorations" class="">New Decorations</a>
                                 
                             </li>
                             <li>
-                                <a href="/c/decorations-party-supplies/pinatas" title="Pinatas &amp; Accessories" class="">Pinatas &amp; Accessories</a>
+                                <a href="/c/decorations-party-supplies/tableware" title="Party Supplies" class="">Party Supplies</a>
                                 
                             </li>
                             <li>
@@ -764,11 +723,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/decorations-party-supplies/streamers-party-tape" title="Streamers &amp; Party Tape" class="">Streamers &amp; Party Tape</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/decorations-party-supplies/tableware" title="Tableware &amp; Cake Supplies" class="">Tableware &amp; Cake Supplies</a>
+                                <a href="/c/?ntt=spooky%20spider%20decorations" title="Spooky Spider Decorations" class="">Spooky Spider Decorations</a>
                                 
                             </li>
                             <li>
@@ -790,7 +745,7 @@
                 <li class="col">
                     <ul>
                             <li>
-                                <a href="/c/alice-in-wonderland-costumes" title="Alice in Wonderland" class="">Alice in Wonderland</a>
+                                <a href="/c/themes/tv-movies/alice-in-wonderland-costumes" title="Alice in Wonderland" class="">Alice in Wonderland</a>
                                 
                             </li>
                             <li>
@@ -802,7 +757,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/assassins-creed-costumes" title="Assassins Creed" class="">Assassins Creed</a>
+                                <a href="/c/themes/video-games/assassins-creed-costumes" title="Assassins Creed" class="">Assassins Creed</a>
                                 
                             </li>
                             <li>
@@ -838,6 +793,10 @@
                                 
                             </li>
                             <li>
+                                <a href="/c/themes/cosplay-anime-costumes" title="Cosplay &amp; Anime" class="">Cosplay &amp; Anime</a>
+                                
+                            </li>
+                            <li>
                                 <a href="/c/dc-comics-costumes" title="DC Comics" class="">DC Comics</a>
                                 
                             </li>
@@ -850,23 +809,19 @@
                                 
                             </li>
                             <li>
+                                <a href="/c/themes/tv-movies/disney-costumes/descendants" title="Descendants" class="">Descendants</a>
+                                
+                            </li>
+                            <li>
                                 <a href="/c/themes/scary/devil-demon-ghost-costumes" title="Devils, Demons, &amp; Ghosts" class="">Devils, Demons, &amp; Ghosts</a>
                                 
                             </li>
                             <li>
-                                <a href="/c/disney-costumes" title="Disney" class="">Disney</a>
+                                <a href="/c/themes/tv-movies/disney-costumes" title="Disney" class="">Disney</a>
                                 
                             </li>
                             <li>
-                                <a href="/c/disney-princess-costumes" title="Disney Princesses" class="">Disney Princesses</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/dr-seuss-costumes" title="Dr. Seuss" class="">Dr. Seuss</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/themes/careers/doctor-nurse-costumes" title="Doctors &amp; Nurses" class="">Doctors &amp; Nurses</a>
+                                <a href="/c/themes/tv-movies/disney-princess-costumes" title="Disney Princesses" class="">Disney Princesses</a>
                                 
                             </li>
                     </ul>
@@ -874,11 +829,19 @@
                 <li class="col">
                     <ul>
                             <li>
+                                <a href="/c/themes/storybook-costumes/dr-seuss" title="Dr. Seuss" class="">Dr. Seuss</a>
+                                
+                            </li>
+                            <li>
+                                <a href="/c/themes/careers/doctor-nurse-costumes" title="Doctors &amp; Nurses" class="">Doctors &amp; Nurses</a>
+                                
+                            </li>
+                            <li>
                                 <a href="/c/themes/historical/egyptians-mummy-costumes" title="Egyptians &amp; Mummies" class="">Egyptians &amp; Mummies</a>
                                 
                             </li>
                             <li>
-                                <a href="/c/elvis-presley-costumes" title="Elvis" class="">Elvis</a>
+                                <a href="/c/themes/rock-star-musician-costumes/elvis" title="Elvis" class="">Elvis</a>
                                 
                             </li>
                             <li>
@@ -914,6 +877,10 @@
                                 
                             </li>
                             <li>
+                                <a href="/c/themes/superheroes/batman-costumes/harley-quinn" title="Harley Quinn" class="">Harley Quinn</a>
+                                
+                            </li>
+                            <li>
                                 <a href="/c/themes/tv-movies/harry-potter-costumes" title="Harry Potter " class="">Harry Potter </a>
                                 
                             </li>
@@ -934,7 +901,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/michael-jackson-costumes" title="Michael Jackson" class="">Michael Jackson</a>
+                                <a href="/c/themes/rock-star-musician-costumes/michael-jackson" title="Michael Jackson" class="">Michael Jackson</a>
                                 
                             </li>
                             <li>
@@ -962,7 +929,11 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/monster-high-costumes" title="Monster High" class="">Monster High</a>
+                                <a href="/c/themes/tv-movies/monster-high-costumes" title="Monster High" class="">Monster High</a>
+                                
+                            </li>
+                            <li>
+                                <a href="/c/themes/scary/nightmare-collection" title="Nightmare Collection " class="">Nightmare Collection </a>
                                 
                             </li>
                             <li>
@@ -987,10 +958,6 @@
                             </li>
                             <li>
                                 <a href="/c/themes/prince-princess-costumes" title="Princess &amp; Prince" class="">Princess &amp; Prince</a>
-                                
-                            </li>
-                            <li>
-                                <a href="/c/themes/tv-movies/princess-bride-costumes" title="Princess Bride" class="">Princess Bride</a>
                                 
                             </li>
                             <li>
@@ -1034,7 +1001,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/snow-white-costumes" title="Snow White " class="">Snow White </a>
+                                <a href="/c/themes/tv-movies/snow-white" title="Snow White " class="">Snow White </a>
                                 
                             </li>
                             <li>
@@ -1066,7 +1033,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/strawberry-shortcake-costumes" title="Strawberry Shortcake" class="">Strawberry Shortcake</a>
+                                <a href="/c/themes/tv-movies/animated-show-costumes/strawberry-shortcake" title="Strawberry Shortcake" class="">Strawberry Shortcake</a>
                                 
                             </li>
                             <li>
@@ -1086,7 +1053,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/super-girl-costumes" title="Supergirl" class="">Supergirl</a>
+                                <a href="/c/themes/superheroes/superman-costumes/supergirl" title="Supergirl" class="">Supergirl</a>
                                 
                             </li>
                             <li>
@@ -1110,7 +1077,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/toy-story-costumes" title="Toy Story" class="">Toy Story</a>
+                                <a href="/c/themes/tv-movies/toy-story-costumes" title="Toy Story" class="">Toy Story</a>
                                 
                             </li>
                             <li>
@@ -1126,7 +1093,7 @@
                                 
                             </li>
                             <li>
-                                <a href="/c/v-for-vendetta-costumes" title="V for Vendetta " class="">V for Vendetta </a>
+                                <a href="/c/themes/superheroes/v-for-vendetta-costumes" title="V for Vendetta " class="">V for Vendetta </a>
                                 
                             </li>
                             <li>
@@ -1185,114 +1152,21 @@
             <a class="primaryTitle" href="/ideas/" title="Ideas">Ideas</a>
         </li>
 </ul>    </nav>
+    <!-- Changed the name to empty string for right now - need to determine what to change it to-->
 
 
-<!-- Start Top Ship Marketing Manager Campaign -->
-<style type="text/css">
-ul.topShip p {
-	font-size: 1.1rem;
-	color: #f9a61c;
-	font-weight: 600;
-}
-ul.topShip p a:link {
-	text-decoration: underline;
-	font-size: .7rem;
-	color: #000;
-}
-.leftTopShip {
-	float: left;
-	width: 45%;
-	font-size: 10px;
-}
-ul.topShip li.equity {
-	background: none;
-	height: 45px;
-}
-ul.topShip li.equity.lSpiff {
-	border-right: 2px solid gray;
-}
-ul.topShip p {
-	line-height: 2;
-}
-ul.topShip li.equity:hover {
-	background: #f9a61c;
-}
-.midText {
-	float: left;
-	font-weight: bold;
-	margin: 26px 5px;
-}
-li.equity:hover >  p {
-	color:#000;
-}
-
-.rightTopShip {
-	float: right;
-	width: 45%;
-	font-size: 10px;
-}
-ul.topShip li.equity p.leftTopShip > strong, ul.topShip li.equity p.rightTopShip > strong {
-	font-size: 16px;
-	line-height: 21px;
-}
-ul.topShip li.equity p > strong {
-	color: #000;
-}
-ul.topShip li.equity p > strong.Black {
-	color: #000;
-	font-size: 12px;
-	background: none;
-}
-.message {
-	color: #f9a61c;
-	font-weight: bold;
-	font-size: 1rem;
-	text-transform: uppercase;
-}
-@media screen and (min-width: 0px) and (max-width: 599px) {
-ul.topShip li.equity.lSpiff {
-	border-right: none;
-}
-ul.topShip p {
-	line-height: 1;
-}
-}
-
-@media screen and (min-width: 600px) and (max-width: 937px) {
-ul.topShip li.equity {
-	background: none;
-}
-.midText {
-	margin: 44px -2px;
-}
-}
-</style>
-
-<ul class="topShip row">
-  <li class="equity fullSpiff medium-12 columns"> 
-    <p><strong>GUARANTEED On-Time Delivery</strong>or your order SHIPS free! <a title="Offer" href="/info/244"> details</a></p>
-     </li>
-</ul>
-
-<!-- End Top Ship Marketing Manager Campaign --> 
-
-
-
-<!-- Tagman bottom head -->
-<script type="text/javascript">
-    TMAN.doTags(TMAN.position.BOTTOM_HEAD);
-</script>
-<!-- end Tagman bottom head -->
 </header>
 
                 </div>
                 <div class="mainContainer">
-                    
+                    <div id="UserMessagesWrapper">
+
+
+                    </div>
                     
 
 <aside class="helpTopics"> 
-        
-<!-- Start customer care camapign -->
+        <!-- Start customer care camapign -->
 
 <h3 class="NavHeader"><a href="/info/13">Customer Care</a></h3>
 <ul class="FAQMenu">
@@ -1301,26 +1175,19 @@ ul.topShip li.equity {
   <li><a href="/orderdetail/checkstatus">Order Status</a></li>
   <li><a href="/info/14">Shopping</a></li>
   <li><a href="/info/15">Shipping</a></li>
-  <li><a href="/info/18">Returns</a></li>
-  <li><a href="/info/19">Exchanges</a></li>
+  <li><a href="/info/18">Exchanges &amp; Returns</a></li>
   <li><a href="/info/21">Security &amp; Privacy</a></li>
   <li><a href="/info/205">Browse the FAQ</a></li>
 </ul>
 <!-- End customer care camapign --> 
-
-
-        
- <!-- Start phone number campaign -->
+         <!-- Start phone number campaign -->
         <ul class="FAQMenu">
           <li class="ContactBrief"> <span class="PhoneNumber"><a href="tel:1-800-459-2969">1-800-459-2969</a></span> 
             <!-- <p><strong><em>Extended Hours for Halloween:</em></strong></p> -->
-            <p>Call us (CDT):</p>
+            <p>Call us (CST):</p>
             <p>9am-9pm Mon-Fri</p>
             <p>9am-6pm Sat</p>
-   	    
-	     
-  
-            <p>Or <a href="/help/emailus">Email Us</a>
+     <p><strong style="color: #333333;"><i>Holiday Hours:</i></strong></p><ul><li>Dec 24-26 Closed</li><li>Dec 31 - 9am-5pm CST</li><li>Jan. 1 - Closed</li></ul><p></p>     <p>Or <a href="/help/emailus">Email Us</a>
             
             </p><p>Se Habla Español: <span class="esNumber"><a href="tel:1-866-255-3556">1-866-255-3556</a></span></p>
           </li>
@@ -1332,17 +1199,29 @@ ul.topShip li.equity {
 				<p class="p1">Secure Shopping Guaranteed!</p>
 				<div class="SecureImageWrapper"><!-- blank --></div>
 			</div>
-
-
         
 
-    <!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=BuyCostumes Cart Chat Button,Website=BuyCostumes.com) -->
+    <!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=BuyCostumes Cart Chat Button,Website=BuyCostumes.com) -->
     <div style="text-align: center; white-space: nowrap;">
-     <a href="https://livechat.boldchat.com/aid/304411140215484978/bc.chat?resize=true&amp;cbdid=7244476331448955893&amp;wdid=1371873842888640200" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat1671015422699255034', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-      <span><script language="JavaScript" type="text/javascript">var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/304411140215484978/bc.cbi?cbdid=7244476331448955893&amp;wdid=1371873842888640200" border="0" id=' + bccbId + ' /%3E')); var bccb = { id: bccbId, bdid: '7244476331448955893', rdid: null, type: 'chat' }; var _bcvma = _bcvma || []; if (window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/304411140215484978/bc.cbi?cbdid=7244476331448955893&amp;wdid=1371873842888640200" border="0" id="0.18350216935476804"></span>
-     </a>
+    <script type="text/javascript">
+        var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+        window._bcvma = window._bcvma || [];
+        _bcvma.push(["setAccountID", "304411140215484978"]);
+        _bcvma.push(["setParameter", "WebsiteID", "1371873842888640200"]);
+        _bcvma.push(["addStatic", { type: "chat", bdid: "7244476331448955893", id: bccbId}]);
+        var bcLoad = function () {
+            if (window.bcLoaded) return; window.bcLoaded = true;
+            var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+            vms.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "vmss.boldchat.com/aid/304411140215484978/bc.vms4/vms.js";
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+        };
+        if (window.pageViewer && pageViewer.load) pageViewer.load();
+        else if (document.readyState == "complete") bcLoad();
+        else if (window.addEventListener) window.addEventListener('load', bcLoad, false);
+        else window.attachEvent('onload', bcLoad);
+    </script><div id="0.6380799354832742"></div>
     </div>
-    <!-- /BoldChat Live Chat Button HTML v4.00 -->
+    <!-- /BoldChat Live Chat Button HTML v5.00 -->
         </aside>
 
 
@@ -1490,19 +1369,16 @@ ul.topShip li.equity {
                     
                 </div>
                 <div id="aboveFooterContainer"></div>
- <footer>
-    
+<footer>
     <div class="content">
-
-<!-- Start Footer Marketing Manager Campaign --> 
-        <div class="content">
+  <div class="content">
         <ul class="row">
           <li class="medium-3 column">
             <h4>About</h4>
             <ul>
               <li><a title="About Us" href="/info/4">About Us</a></li>
-              <li><a title="Advertise with Us" href="/m/advertise-with-bc">Advertise with Us</a></li>
-              <li><a title="100% Price Guarantee" href="/info/177">110% Price Guarantee</a></li>
+            <!-- <li><a title="Advertise with Us" href="/m/advertise-with-bc">Advertise with Us</a></li>
+ -->             <li><a title="Price Match Guarantee" href="/info/177">Price Match Guarantee</a></li>
               <li><a title="Dropship/Wholesale Program" href="/info/182">Dropship/Wholesale Program</a></li>
               <li><a title="Affiliate Program" href="/m/affiliate-program" target="_blank">Affiliate Program</a></li>
               <li><a title="DMCA Notice" href="/m/bc-copyright-notice">DMCA Notice</a></li>
@@ -1518,7 +1394,7 @@ ul.topShip li.equity {
               <li><a title="Contact Us" href="/info/12">Contact Us</a></li>
               <li><a title="Email Us" href="/help/emailus">Email Us</a></li>
               <li><a title="FAQs" href="/info/205">FAQs</a></li>
-              <li><a title="Returns" href="/info/18">Returns</a></li>
+              <li><a title="Exchanges &amp; Returns" href="/info/18">Exchanges &amp; Returns</a></li>
               <li><a title="Shipping" href="/info/15">Shipping</a></li>
               <li><a title="International Shipping" href="/info/157">International Shipping</a></li>
               <li><a title="Shopping" href="/info/14">Shopping</a></li>
@@ -1536,38 +1412,55 @@ ul.topShip li.equity {
               <li><a title="Wig Wear and Care" href="/info/218">Wig Wear &amp; Care</a></li>
               <li><a title="Mask Wear and Care" href="/info/219">Mask Wear &amp; Care</a></li>
               <li><a title="Orange Tuesday" href="/m/orange-tuesday">Orange Tuesday</a></li>
-            <li><a title="Halloween Costumes 2014" href="/c/new-costumes">Halloween Costumes 2015</a></li>
-       <li><a title="Buy Costumes Coupons and Deals" href="/m/coupon-codes-discounts">BuyCostumes Coupons and Deals</a></li>
+			  <li><a title="Halloween Costumes 2014" href="/c/new-costumes">Halloween Costumes 2015</a></li>
+				<li><a title="Buy Costumes Coupons and Deals" href="/m/coupon-codes-discounts">BuyCostumes Coupons and Deals</a></li>
        
-   <li>    <!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=Buycostume Static Chat Button,Website=BuyCostumes.com) -->
-<div class="CampaignLiveHelp" style="white-space: nowrap;">
- <a href="https://livechat.boldchat.com/aid/304411140215484978/bc.chat?resize=true&amp;cbdid=156727960821071847&amp;wdid=1371873842888640200" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat1671015422699255034', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-  <div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/304411140215484978/bc.cbi?cbdid=156727960821071847&amp;wdid=1371873842888640200" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '156727960821071847', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/304411140215484978/bc.cbi?cbdid=156727960821071847&amp;wdid=1371873842888640200" border="0" id="0.9038444475168017"></div>
- </a>
-</div>
-<!-- /BoldChat Live Chat Button HTML v4.00 --> </li>
-              
+				<li><!-- BoldChat Live Chat Button HTML v5.00 (Type=Web,ChatButton=BuyCostumes PDP Chat Button,Website=BuyCostumes.com) -->
+				<div style="text-align: left; white-space: nowrap;">
+				<script type="text/javascript">
+				  var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
+				  window._bcvma = window._bcvma || [];
+				  _bcvma.push(["setAccountID", "304411140215484978"]);
+				  _bcvma.push(["setParameter", "WebsiteID", "1371873842888640200"]);
+				  _bcvma.push(["addStatic", {type: "chat", bdid: "301834159736054114", id: bccbId}]);
+				  var bcLoad = function(){
+					if(window.bcLoaded) return; window.bcLoaded = true;
+					var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+					vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/304411140215484978/bc.vms4/vms.js";
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+				  };
+				  if(window.pageViewer && pageViewer.load) pageViewer.load();
+				  else if(document.readyState=="complete") bcLoad();
+				  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+				  else window.attachEvent('onload', bcLoad);
+				</script><div id="0.3549444370847341"></div>
+				</div>
+				<!-- /BoldChat Live Chat Button HTML v5.00 --> 
+				</li>            
             </ul>
           </li>
           <li class="info">
-            <div class="share">
-              <h4>Stay Connected</h4>
-              <ul>
-                <li><a title="Friend us on Facebook" class="facebook" href="http://www.facebook.com/BuyCostumes" target="_blank">Friend us on Facebook</a> </li>
-                <li><a title="Follow us on Twitter" class="twitter" href="http://twitter.com/BuyCostumes" target="_blank">Twitter</a></li>
-                <li><a title="Watch us on Youtube" class="youtube" href="http://www.youtube.com/user/BuyCostumes" target="_blank">Youtube</a></li>
-                <li><a title="Google +" class="googleplus" href="https://plus.google.com/+buycostumes" target="_blank">Google Plus</a></li>
-                <li><a title="Pinterest" class="pinterest" href="http://pinterest.com/buycostumes/" target="_blank">Pinterest</a></li>
+            <div class="share"> 
+                      <!-- NEW-->
+                      <h4>Stay Connected</h4>
+                      <!-- End NEW-->
+                       <ul>
+                <li><a title="Friend us on Facebook" class="facebook" href="https://www.facebook.com/BuyCostumes">Facebook</a></li>
+                <li><a title="Pin us on Pinterest" class="pinterest" href="https://www.pinterest.com/buycostumes/">Pinterest</a></li>
+                <!-- NEW-->
+                <li><a title="Follow us on Instagram" class="instagram" href="https://instagram.com/buycostumes/">Instagram</a></li>
+                <!--END NEW-->
+                <li><a title="Follow us on Twitter" class="twitter" href="https://twitter.com/BuyCostumes">Twitter</a></li>
+                <li><a title="Watch us on Youtube" class="youtube" href="https://www.youtube.com/user/BuyCostumes">Youtube</a></li>
+                <li><a title="Google +" class="googleplus" href="https://plus.google.com/+buycostumes/posts">Google Plus</a></li>
               </ul>
-              
-            </div>
+                    </div>
             <div class="assistance">
               <h4>Need Assistance?</h4>
               <p class="phone">1-800-459-2969</p>
-              <p class="hours">Hours (CDT): 9am-9pm Mon-Fri, 9am-6pm Sat</p>
-          
-         
-                      </div>
+              <p class="hours">Hours (CST): 9am-9pm Mon-Fri, 9am-6pm Sat.   </p><p class="hours"><i>Holiday Hours: Closed 12/24-26. <nobr>12/31 9am-5pm CST.</nobr> <nobr>Closed 1/1/16</nobr></i></p>
+      <!-- <br><strong><i>Closed for Thanksgiving: 11/26 and 11/27</i></strong> -->        <p></p>
+       </div>
             <div class="cardBadges">
               <div class="cards"></div>
               <!-- Badges can be added here inline from their providers -->
@@ -1647,27 +1540,18 @@ ul.topShip li.equity {
       
       
       
-       
-        
-        <!-- end Footer Marketing Manager Campaign --> 
-
 
 
     </div>
-
     <div class="copyright">
         <p> Copyright © 2015 BuyCostumes.com All rights reserved. </p>
     </div>
-
-    <p class="ServerNumber">BCWEB03</p>
-
+    <p class="ServerNumber">BCWEB04</p>
 </footer>
                 <a class="exit-off-canvas"></a>
             </div>
         </div>
-
         <div class="reveal-modal-bg" id="grayoutDiv" style="display: none"></div>
-
         <div id="qvModal" class="quickView reveal-modal" data-reveal=""></div>
     
 <div id="userMessagesModal" class="userMessagesModal reveal-modal BSICloak" data-reveal="">
@@ -1724,9 +1608,11 @@ ul.topShip li.equity {
 <script>(window.jQuery.validator.unobtrusive)||document.write('<script src="/CdnBundles/jquery-validate-unobtrusive"><\/script>');</script><script src="/CdnBundles/jquery-validate-unobtrusive"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout-validation/1.0.2/knockout.validation.min.js"></script>
 <script>(window.ko.validation)||document.write('<script src="/CdnBundles/knockout-validation"><\/script>');</script><script src="/CdnBundles/knockout-validation"></script>
-        <script src="http://www.buycostumes.com/JsBundles/Foundation;ibr423194b278fd5e79?v=2n_NK6BU2YJwvqAAIKB3XELe1nIyJ_2VJd0A7rfi3tQ1"></script>
-<script src="http://www.buycostumes.com/JsBundles/Partners;ibr94f8b10706bb986c?v=r7Ic3_FAuTlPZsWY_OCLTKYdZ-W5klMESEZzi4UCTY41"></script>
-<script src="http://www.buycostumes.com/JsBundles/Knockout;ibr56b60119bcde9cbf?v=5DyIHQiee9q9c4hyrEd0oZPOGOnVoiov_HulG_IApVU1"></script>
+        <script src="/JsBundles/Foundation?v=2n_NK6BU2YJwvqAAIKB3XELe1nIyJ_2VJd0A7rfi3tQ1"></script>
+<script src="/JsBundles/Partners?v=r7Ic3_FAuTlPZsWY_OCLTKYdZ-W5klMESEZzi4UCTY41"></script>
+<script src="http://www.buycostumes.com/JsBundles/Knockout;ibr5d9cec304f9a8c98?v=36hNS3wvPVM7DgOthUKV-SeuyJq1ymOS4Ygrb3K426w1"></script>
+<script src="/JsBundles/PayPal?v=fzE_qzkG6_KehiW8uwz0BJwaBRurWLCiVR0BHc139N01"></script>
+<script src="/JsBundles/Checkout?v=vozUhtviKn9Yr6BLQaCNqKJD9VewVm8DiQs4qPxb30A1"></script>
             
         <script type="text/javascript">
             $(document).ready(function () {
@@ -1775,49 +1661,51 @@ ul.topShip li.equity {
                 }
             });
         </script>
-        
 
-<!-- BoldChat Visitor Monitor HTML v4.00 (Website=BuyCostumes.com,ChatButton=BuyCostumes Floating Chat Button,ChatInvitation=BuyCostumes Ruleset) -->
+
+<!-- BoldChat Visitor Monitor HTML v5.00 (Website=BuyCostumes.com,ChatButton=- None -,ChatInvitation=BuyCostumes Ruleset) -->
 <script type="text/javascript">
     var _bcvma = _bcvma || [];
     _bcvma.push(["setAccountID", "304411140215484978"]);
     _bcvma.push(["setParameter", "WebsiteDefID", "1371873842888640200"]);
     _bcvma.push(["setParameter", "InvitationDefID", "301834159957642736"]);
-    _bcvma.push(["setParameter", "VisitName", ""]);
-    _bcvma.push(["setParameter", "VisitPhone", ""]);
-    _bcvma.push(["setParameter", "VisitEmail", ""]);
-    _bcvma.push(["setParameter", "VisitRef", ""]);
-    _bcvma.push(["setParameter", "VisitInfo", ""]);
-    _bcvma.push(["setParameter", "CustomUrl", ""]);
-    _bcvma.push(["setParameter", "WindowParameters", ""]);
-    _bcvma.push(["addFloat", { type: "chat", id: "265663987717495325"}]);
     _bcvma.push(["pageViewed"]);
-    (function () {
+    var bcLoad = function () {
+        if (window.bcLoaded) return; window.bcLoaded = true;
         var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
         vms.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + "vmss.boldchat.com/aid/304411140215484978/bc.vms4/vms.js";
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
-    })();
+    };
+    if (window.pageViewer && pageViewer.load) pageViewer.load();
+    else if (window.addEventListener) window.addEventListener('load', bcLoad, false);
+    else window.attachEvent('onload', bcLoad);
 </script>
 <noscript>
-<a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/304411140215484978/bc.vmi?wdid=1371873842888640200&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;curl=" border="0" width="1" height="1" /></a>
+<a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/304411140215484978/bc.vmi?wdid=1371873842888640200" border="0" width="1" height="1" /></a>
 </noscript>
-<!-- /BoldChat Visitor Monitor HTML v4.00 -->
-            <script type="text/javascript" src="http://www.buycostumes.com/scripts/s_code_h21.js;ibr47f983a8b8118133?v=20150612.4"> </script>
+<!-- /BoldChat Visitor Monitor HTML v5.00 -->
 
 
-<!-- SiteCatalyst code version: H.9. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+        <script type="text/javascript">
+            var yottaa_group = 'Control';
+        </script>
+
+            <script type="text/javascript" src="/scripts/s_code.js?v=20151130.2"> </script>
+
+
+
 <script type="text/javascript">
     var s_linkInternalFilters = "www.buycostumes.com";
 </script>
 
 <script language="JavaScript" type="text/javascript"><!--
- s.pageName = "21";   s.server="BCWEB03";  s.prop9="Guest";  s.prop15="www.buycostumes.com/info/21"; /* E-commerce Variables */
+ s.pageName = "21";   s.server="BCWEB04";  s.prop9="Guest";  s.prop15="www.buycostumes.com/info/21"; /* E-commerce Variables */
 s.eVar1=s.prop1;
- s.eVar9="Guest";  s.eVar18="B";  s.eVar24="www.buycostumes.com"; /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+ s.eVar9="Guest";  s.eVar18="A";  s.eVar20="Control";  s.eVar24="www.buycostumes.com"; s.eVar58 = yottaa_group;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();
 if (s_code) document.write(s_code);//--></script>
-<!-- End SiteCatalyst code version: H.9. -->
-
+<!-- End SiteCatalyst code version: H.27.5 -->
 
 <!-- Tagman bottom body -->
 <div id="TMAN_BOTTOM_BODY"></div>
@@ -1826,91 +1714,26 @@ if (s_code) document.write(s_code);//--></script>
 </script>
 <!-- end tag man -->
 
-
 <script language="JavaScript" type="text/javascript">
-    var analyticsDataModel = {
-  "CanonicalUrl": "http://www.buycostumes.com/info/21",
-  "MetaTitle": "Halloween Costumes, Kids & Adult Halloween Costume Ideas | BuyCostumes.com",
-  "MetaDescription": "I found great Halloween Costumes on BuyCostumes.com. Click here to find more unique Costume ideas! Life's better in costume.",
-  "DayOfWeek": "Tuesday",
-  "CurrentDate": "06/23/2015",
-  "CurrentTime": "16:32:29",
-  "TimeZone": "Central Standard Time",
-  "FirstPageView": false,
-  "LastTouchedMarketingChannel": "UnTracked",
-  "ABTests": [
-    {
-      "TestName": "ABTestHomePage",
-      "SelectedGroup": "",
-      "AvailableGroups": "A|B",
-      "PercentageValues": "50|50"
-    },
-    {
-      "TestName": "ABTestCartRecProducts",
-      "SelectedGroup": "",
-      "AvailableGroups": "A|B|C",
-      "PercentageValues": "100|0|0"
-    }
-  ],
-  "PageType": "info",
-  "PageName": "bs:bc:info",
-  "OrderSourceId": "buycostumes",
-  "ProductModels": [],
-  "ProfileModel": {
-    "LoggedIn": false,
-    "Visits": [
-      "06-23-2015"
-    ],
-    "VisitCount": 1,
-    "Is60DayVisitor": false,
-    "UserType": "External",
-    "IsMember": false,
-    "IPAddress": "128.241.218.187",
-    "CustomerPurchaseCount": 0,
-    "IsReturnPurchaseCustomer": false
-  },
-  "ServerModel": {
-    "ServerId": "BCWEB03",
-    "SiteVersion": "20140319.1",
-    "Environment": "PRODUCTION"
-  }
-};
+    var analyticsDataModel = {"CanonicalUrl":"http://www.buycostumes.com/info/21","DayOfWeek":"Friday","CurrentDate":"12/25/2015","CurrentTime":"06:11:30","TimeZone":"Central Standard Time","FirstPageView":false,"LastTouchedMarketingChannel":"","ABTests":[{"TestName":"ABTestHomePage","SelectedGroup":"","AvailableGroups":"A|B","PercentageValues":"50|50"},{"TestName":"ABTestCartRecProducts","SelectedGroup":"","AvailableGroups":"A|B|C","PercentageValues":"100|0|0"},{"TestName":"AccessoryUpdate","SelectedGroup":"","AvailableGroups":"A|B","PercentageValues":"100|0"}],"PageType":"info","PageName":"bs:bc:info","OrderSourceId":"buycostumes","ProductModels":[],"ProfileModel":{"LoggedIn":false,"Visits":["12-25-2015"],"VisitCount":1,"Is60DayVisitor":false,"UserType":"External","IsMember":false,"IPAddress":"77.67.85.137","CustomerPurchaseCount":0,"IsReturnPurchaseCustomer":false},"ServerModel":{"ServerId":"BCWEB04","SiteVersion":"20140319.1","Environment":"PRODUCTION"}};
 </script>
 
+     <script type="text/javascript">
+        
+        var lazyLoader = {
+            enableLazyLoading:  true,
 
-        <!-- Needed for Lazy Load -->        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.js"></script>     
-        <script type="text/javascript" charset="utf-8">
-            $(function() { wireUpLazyLoad("img", 0); });
-
-            $(document).on('DOMNodeInserted', '#qvModal', function () {
-                wireUpLazyLoad("#qvModal img", 300)
-            });
-
-            function wireUpLazyLoad(selector, delay){    
-                setTimeout(function () {
-                    $(selector).lazyload({
-                        effect: 'fadeIn',
-                        threshold: 200
-                    })
-                }, delay);
+            initLazyLoad: function () {
+                $("img[data-original]").show().lazyload({ threshold: 758 });
             }
-
-            function fixSliderLazyLoad(slider) {
-                $(slider).find("img").each(function () {
-                    var src = $(this).attr("data-original");
-                    $(this).attr("src", src).removeAttr("data-original");
-                });
-            }
-
-            $(function () {
-                window.onload = function () {
-                    $(window).resize()
-                };
+        };
+    </script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                lazyLoader.initLazyLoad();
             });
-
         </script>
-        <!-- End Needed for Lazy Load -->
+
     
 
-</body></html>
+<iframe name="PayPalBridge" src="https://web.archive.org/web/20160930035448/https://www.paypal.com/webapps/hermes/bridge" frameborder="0" scrolling="no" style="display: none; margin: 0px; padding: 0px; border: 0px none; overflow: hidden;"></iframe></body></html>
