@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proxfree.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203309id_/https%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxfree.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073541id_/https%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.*
 
-# ProxFree - Privacy Policy
+# ProxFree: Privacy Policy
 
 Privacy PolicyOur service collects information about you during your visit. This document describes the information that we collect and how it is used.
 
