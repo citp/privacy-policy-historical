@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonasbrothersfanfictionarchive.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517093148id_/http%3A//www.jonasbrothersfanfictionarchive.com/viewpage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfanfictionarchive.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225112421id_/http%3A//www.jonasbrothersfanfictionarchive.com/viewpage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Jonas Brothers Fanfiction Archive :: Your #1 source for Jonas Brothers Fan Fiction
 
@@ -28,4 +28,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.Â  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20150517093148id_/http%3A//www.jonasbrothersfanfictionarchive.com/%C3%A2%E2%82%AC%C2%9Dhttp://www.JenSense.com)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20151225112421id_/http%3A//www.jonasbrothersfanfictionarchive.com/%C3%A2%E2%82%AC%C2%9Dhttp://www.JenSense.com)
