@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kizigames.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614034546id_/http%3A//www.kizigames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kizigames.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225094131id_/http%3A//www.kizigames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
