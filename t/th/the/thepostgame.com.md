@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thepostgame.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623213021id_/http%3A//www.thepostgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostgame.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225060713id_/http%3A//www.thepostgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThePostGame
+
+Submitted by steveferrone on Thu, 01/06/2011 - 10:12
 
 WEBSITE PRIVACY POLICY  
 Last Updated November 16, 2014  
@@ -42,3 +44,7 @@ The Site may contain links to other websites. If you choose to visit other websi
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us using the contact information provided in Section 1.1 above.  
 6.2. UPDATES AND CHANGES  
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+  * [Print](https://web.archive.org/print/188 "Display a printer-friendly version of this page.")
+
+
