@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwtv.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629084332id_/http%3A//www.cwtv.com/thecw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwtv.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226181341id_/http%3A//www.cwtv.com/thecw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CWTV.com
 
@@ -152,5 +152,4 @@ Below is a list of some of the Time Warner companies that are affiliated with th
 
 The Cartoon Network, Inc.   
 Home Box Office, Inc.   
-Time Inc.   
 Turner Broadcasting System, Inc.
