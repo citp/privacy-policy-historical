@@ -1,45 +1,145 @@
-> *The following text is extracted and transformed from the d3db.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052028id_/http%3A//d3db.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d3db.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226171143id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Diablo 3 Database (D3DB)
+# Blizzard Entertainment:Privacy Policy
 
-The D3DB website is maintained by [ZAM Network](http://www.zam.com/), LLC. Protecting your **privacy** is important to us, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
+### Blizzard Entertainment® Online Privacy Policy
 
-  1. **Scope of the Privacy Policy**  
-This Privacy Policy applies only to the collection and use of information collected online on the ZAM Network, LLC Website. Other websites that may be affiliated with ZAM Network, LLC may have different privacy policies. 
-  2. **Information**  
-We may collect your personally identifiable information ("Personal Information") when you visit the ZAM Network, LLC Website. Personal Information, however, is not collected on this website unless you choose to provide it to us. When making inquiries, ordering a product or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including, for example, your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator ("URL") of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol ("IP") address. 
-  3. **Use of your information**  
-Information is collected and used in various ways that will help us better serve our customers and visitors to our website, including those below. 
-  4. **Browsing**  
-Information collected while browsing through our website. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion. 
-    1. **Product Inquiries, Placing Orders, Customer Service & Technical Support**  
-Information collected when you contact ZAM Network, LLC about our product and service offerings. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions. 
-    2. **Online surveys and polling**  
-Information collected you volunteer to complete surveys or participate in polls. Surveying and polling is extremely important to us as we use this information to improve our product and service offerings. 
-    3. **Promotional activities**  
-When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners' list publicly available in compliance with laws which may apply to such activities. 
-    4. **Newsletters and promotional e-mails**  
-As a service to our customers, we may e-mail you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them and you have the right to opt out from further receiving them. 
-    5. **Contact information**  
-If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service. 
-    6. **Sharing your Personal Information**  
-Unless we have your permission to do otherwise, we will share the Personal Information you provide online only with ZAM Network, LLC subsidiaries or affiliates or with entities that provide services to ZAM Network, LLC or are business partners of ZAM Network, LLC, and only for legitimate purposes including those described herein. Personal Information we collect online is used for responding to inquiries, processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, for developing better products and services, to serve advertisements, contests, surveys and promotions, and to notify you of products or special offers that may be of interest to you. ZAM Network, LLC (or part of it) or its related entities could merge with or be acquired by another business entity or their respective assets could be acquired. Should such a combination or acquisition occur, you should expect that ZAM Network, LLC would share some or all of your Personal Information to continue serving you and other users of our website. Occasionally, we may be required by law enforcement or judicial authorities to provide your Personal Information to the appropriate authorities. We will disclose your Personal Information if required by law, upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation. We reserve the right to report to law enforcement authorities any activities that we, in good faith, believe to be unlawful. 
-    7. **Use of cookies and web beacons**
-      1. **Cookies**  
-A "cookie" is a small data file that a website can send to your browser, which may then be stored on your system. We use cookies to better serve you when you return to our site. Some of our web pages may send cookies when you visit our site, make purchases, respond to online surveys or promotions, participate in a contest, or request information. Accepting the cookies used on our site enables our web server to identify your system by reading the cookie that has been stored on your system, but our web server cannot identify you unless you enter your Personal Information. Cookies that are placed when visiting our site cannot be used to obtain your Personal Information at another site. The information collected online permits us to analyze traffic patterns on our site. This can enable us over time to provide users with a better experience on our site by improving the content and making it easier to use. Depending on the browser used, you can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it, and you can also set your browser to turn off cookies. However, if you do so, some areas of this site may not function properly, or you will be required to re-enter your Personal Information to use an area of this site. 
-      2. **Web Beacons**  
-We may also use web beacon technologies to better tailor the site to provide better customer service. A web beacon is a single pixel .GIF that allows a website to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages across this website. When a visitor accesses these pages, an anonymous notice of that visit is generated which may be processed by us or by our vendors. These web beacons work in conjunction with cookies. If you don't want to associate your anonymous cookie information with your visits to these pages, depending on the browser used, you can set your browser to turn off cookies. 
-      3. **Behavioral advertising**  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. to learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://networkadvertising.org. 
-  5. **Children's privacy**  
-If you are under the age of 18, please make sure that you provide your Personal Information only after obtaining your parental consent. 
-  6. **Protecting your Personal Information**  
-While ZAM Network, LLC does not guarantee that unauthorized access will never occur, ZAM Network, LLC does take care in maintaining the security of your Personal Information and in preventing unauthorized access to it. 
-  7. **Links to other Websites**  
-Parts of our site contain links to our subsidiaries, affiliates and third-party websites for your convenience and information. If you use these links, you will leave ZAM Network, LLC's website. When you access these other sites, even ones that may contain the ZAM Network, LLC mark, please understand that we do not control the content and are not responsible for the privacy practices of that website. We suggest that you carefully review the privacy policies of each website you visit. This Online Privacy Statement does not cover the information practices of those websites linked to our site. These other sites may send their own cookies to users, collect data, or solicit Personal Information. 
-  8. **Changes to this Statement**  
-ZAM Network, LLC reserves the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement. 
-  9. **Applicable laws**  
-ZAM Network, LLC will protect your Personal Information in accordance with the laws of the United States and the state of Delaware. 
+[](http://privacy.truste.com/privacy-seal/Blizzard-Entertainment,-Inc-/validation?rid=08913c4b-117c-4f4c-9063-e68a2b929dc5 "TRUSTe online privacy certification")
+
+Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. 
+
+Blizzard has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions regarding our privacy policy or practices, please contact our Privacy Policy Administrator at privacy@blizzard.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through Blizzard’s websites that link to this privacy policy and does not cover information that may be collected through mobile applications or software downloaded from the websites.
+
+Blizzard Entertainment complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Blizzard Entertainment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blizzard Entertainment’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+If you are a visitor from outside the United States, the personal information you provide may be transferred to, stored, and processed within the United States or other countries where Blizzard maintains facilities or business operations. 
+
+### What personal information is collected?
+
+Blizzard only collects personal information on a voluntary basis. If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product or account registration, or registration for on-line game participation, (3) player match-up services, (4) message boards or forums, (5) eCards or Recruit-a-Friend e-mails, (6) warranty registrations, (7) contest registrations, (8) a consumer complaint, (9) surveys, (10) customer service or technical support, (11) Share Wish List feature, and/or (12) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to gain access to our websites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided. 
+
+Visitors purchasing products or services will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses. 
+
+Please note that, depending on the Blizzard website that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
+
+### What other types of information may we collect?
+
+For some activities, we may ask you to create a username and password and/or to provide other personal and non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, we may combine such information with other personal and/or non-personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to Blizzard. Blizzard may use this information to generate aggregate statistics about our user community and may provide such information to advertisers and/or our partners. In addition, Blizzard may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes. From time to time, we may also post customer testimonials that contain personally identifiable information on Blizzard’s websites. However, we will obtain the customer’s consent to post these testimonials prior to publication in accordance with the applicable Blizzard Terms of Use (TOU). 
+
+### How do we use your personal information?
+
+The personal information you provide Blizzard will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; to send eCards or “Recruit-a-Friend” emails; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. Blizzard may enhance or merge the personal information collected at a Blizzard website with data from third parties in order to update your contact information, perform market analysis, or improve our products, services, or systems. Blizzard may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out. 
+
+Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers. 
+
+Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
+
+### What type of communications may I receive?
+
+**_Special Offers and Updates_**  
+We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice” section below. 
+
+**_Service-related Announcements_**  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. 
+
+**_Customer Service_**  
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+
+**_Recruit a Friend/E-cards/Share Wish List_**  
+If you choose to use our recruit-a-friend, Share Wish List, or e-card features, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Blizzard does not store this information and uses it for the sole purpose of sending this one-time email and to track the success of our referral program.
+
+### Who is collecting your information? 
+
+When you are asked for information while on a Blizzard website, you are sharing that information with Blizzard, its parent, and its various affiliates and sister companies, unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. From time to time, Blizzard may use third party contractors to collect and process personal information on its behalf (for product and prize fulfillment, credit card processing, etc.). 
+
+In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by a company other than Blizzard and not on Blizzard’s behalf, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+
+Please be aware that we cannot control the activities of third parties to whom we provide data, and as such we cannot guarantee that they adhere to the same privacy and security procedures as Blizzard. 
+
+Please be aware that advertisers or websites with links to and from our websites may collect personal information about you. And remember, this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. We encourage you to carefully read the privacy policy of any advertiser or website you visit.
+
+Our websites may include certain social media features such as the Facebook "Like" button, and widgets such as the Share this button or interactive mini-programs that run on our websites. These features may collect your Internet protocol (“IP”) address, which page you are visiting on our websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+### With whom may your personal information be shared?
+
+Blizzard will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We may, however, share non-personally identifiable, aggregated, and/or public information with third parties.
+
+We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements for a Blizzard website or product, or may be causing injury to or interference (intentionally or unintentionally) with Blizzard's rights or property, other users of a Blizzard website or product, or anyone else who could be harmed by your activities. We also reserve the right to disclose your personal information if we have a good faith belief that it is necessary to prevent fraud or other illegal activities. 
+
+As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, we may also disclose your personal information to a third party if we decide to sell a line of business to that third party, so you can continue to receive service and information in connection with that line of business with as little disruption as possible. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Blizzard 's successor or assign. 
+
+Blizzard websites may also have message boards, forums, and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board, forum, or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk. For certain forums, anyone posting or replying to a post may be doing so using their Real ID -- that is, their full first and last name -- with the option to also display the name of their primary in-game character. See discussion regarding Real ID below. If your personal information is posted on one of our community forums, you may contact us at [privacy@blizzard.com](mailto:privacy@blizzard.com) to request removal. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### What choices do I have regarding the collection, use, and distribution of my personal information?
+
+Blizzard allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, Blizzard may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Blizzard may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. Lastly, you may be given the opportunity to "opt-out" of certain features or functionality (e.g. Real ID). See the applicable feature's FAQ or information page for more details. 
+
+### California Residents: Your California Privacy Rights
+
+Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval. 
+
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Blizzard (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at Blizzard Entertainment Privacy Policy, Attn: Opt-Out Administrator, 16215 Alton Pkwy. Irvine CA 92618-3616. You can also contact us by e-mailing us at [opt-out@blizzard.com](mailto:opt-out@blizzard.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
+
+### What about Children?
+
+**_Children Under 13_**  
+Once a child states that his/her age is under 13, we do not collect or store any personally identifiable information such as name, address, or email address. 
+
+**_Note to Parents_**  
+We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. For more information, you may visit our Parental Controls area at <https://us.battle.net/account/parental-controls/index.html>. 
+
+### What is Real ID? 
+
+Real ID friends can see each other’s real-life name and can see each other’s characters across all Blizzard products and services. By participating in Real ID, you will have the option of making your real name visible to your friend’s friends, who will also be able to invite you to become friends.
+
+When you and a friend mutually agree to become Real ID friends, you will have access to a number of additional features, including the following: 
+
+  * Real Names for Friends: Your Real ID friends will appear under their real-life names on your friends list, when chatting, communicating in-game, or viewing a character's profile.
+  * Cross-Realm and Cross-Game Chat: With Real ID, friends can chat cross-realm, cross-faction, and cross-game using Blizzard’s products and services.
+  * Rich Presence: You will see additional info on your friends list about what your Real ID friends are up to in Blizzard’s products and services in real time. 
 
 
+
+### What is Global Play? 
+
+Certain Blizzard games playable on Blizzard's Battle.net service feature "Global Play," which allows you to play with other players who are outside of the region associated with the creation of your Battle.net account. The Global Play feature requires that some or all of the personal information that you provided when you created your Battle.net account be transferred to servers operated by Blizzard in the regions where you wish to play. 
+
+### What are tracking technologies and how are they used?
+
+As is true with most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, or website functionality.
+
+Blizzard and our partners, such as marketing partners and analytics providers, may use tracking technologies such as cookies, beacons, tags and scripts. These technologies are used in analyzing trends, administering the websites, tracking users’ movements around the websites, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well aggregated basis.
+
+We use cookies for various purposes including our shopping cart, to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our websites, but your ability to use some features or areas of our websites may be limited.
+
+We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to personally identifiable information.
+
+We, and third parties with whom we partner to provide certain features on our websites or to display advertising based on your web browsing activity, use Local Shared Objects such as Flash cookies, and Local Storage such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+We partner with third party ad networks to either display advertising on our websites or to manage our advertising on other sites. Our ad network partners may use tracking technologies to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). If you are located in the European Union, [click here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+### What are Internet protocol addresses?
+
+An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). Blizzard may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused. See tracking technology discussion above. 
+
+### What do I do if I want to correct or delete my personal information?
+
+If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 16215 Alton Pkwy. Irvine CA 92618-3616. You can also contact us by e-mailing us at [privacy@blizzard.com](mailto:privacy@blizzard.com). We will respond to any request for access within 30 days.
+
+In some cases, we may not be able to delete your personal information and will retain and use our information as long as necessary to comply with our legal obligations, resolve disputes, and/or enforce our agreements.
+
+Please note that the deletion of your data will lead to the termination of your account and all applicable services.
+
+### How secure is my personal information?
+
+The security of your personal information is important to us. Blizzard has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. 
+
+In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. 
+
+### What if I have a question or complaint?
+
+If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 16215 Alton Pkwy. Irvine CA 92618-3616. 
+
+By using this website and/or any of Blizzard’s online or mobile products or services, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change prior to the change becoming effective. Your continued use of the Blizzard websites will signify your acceptance of these changes.
+
+This Privacy Policy was last updated on July 24, 2015
