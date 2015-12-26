@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627140846id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226202834id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « GamingBolt.com: Video Game News, Reviews, Previews and Blog
 
@@ -71,3 +71,5 @@ We do not collect information knowingly of anyone under the age of 13.
 **Questions or Comments?**
 
 Go to the contact us feature and ask us questions about our privacy policy. We will get back to you as soon as possible hopefully to make GamingBolt a better place for everyone.
+
+* * *
