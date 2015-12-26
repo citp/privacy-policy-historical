@@ -1,32 +1,33 @@
-<!--The following is the downloaded HTML source of the agl.com.au privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629060313id_/http%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the agl.com.au privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226092023id_/http%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!--[if lt IE 8]><!--><!--<![endif]--><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"45f929758b","applicationID":"11010309","transactionName":"YQRabBRSWxUCAkZQWVhObUoPHG4nJC1hUEJTPBdLD0dQBQwTVxZVWQ9MXQhHGickLR1xWVsEF2sPR1BGMwBVXEUZMUpREFJWHw==","queueTime":250,"applicationTime":243,"ttGuid":"8DD81E2201F93477","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMEWFNUGwIBVFBSBAEO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://www.leanengage.com/leanengage.v1.1.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N6J77R"></script><script src="//cdn.optimizely.com/js/3724223049.js"></script>
+    <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"45f929758b","applicationID":"11010309","transactionName":"YQRabBRSWxUCAkZQWVhOdlcUXlQKChtXXRkc","queueTime":642,"applicationTime":297,"ttGuid":"47672E880C1E3EE","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMEWFNUGwIBVFBSBAEO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
     <meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1.0,  minimum-scale=1.0, maximum-scale=1.0">
     <meta name="keywords" content="">
     <meta name="description" content="">
 
-    <title>AGL - Privacy</title>
-    <link rel="stylesheet" href="/Content/Style/normalize.css?v=1.0.5655.36197">
-    <link rel="stylesheet" type="text/css" href="/Content/Style/Site.css?v=1.0.5655.36197">
+    <title>AGL - AGL Privacy Policy</title>
+    <link rel="stylesheet" href="/Content/Style/normalize.css?v=1.0.5834.33754">
+    <link rel="stylesheet" type="text/css" href="/Content/Style/Site.css?v=1.0.5834.33754">
     <link rel="apple-touch-icon" href="/Content/Images/iOS/touch-icon-iphone.png">
     <link rel="apple-touch-icon" sizes="76x76" href="/Content/Images/iOS/touch-icon-ipad.png">
     <link rel="apple-touch-icon" sizes="120x120" href="/Content/Images/iOS/touch-icon-iphone-retina.png">
     <link rel="apple-touch-icon" sizes="152x152" href="/Content/Images/iOS/touch-icon-ipad-retina.png">
     <link rel="apple-touch-icon-precomposed" href="/Content/Images/iOS/touch-icon-iphone.png">
-	<!--[if IE 8]><link href="/Content/Style/ie8.css?v=1.0.5655.36197" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-    <script src="/Scripts/custom.modernizr.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/jquery-1.9.1.min.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/foundation.min.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/jquery.cookie.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/json2.js?v=1.0.5655.36197" type="text/javascript"></script> 
-    <script src="/Scripts/knockout-2.2.1.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/AGL/common.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/AGL/jquery.slider.min.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/AGL/init.js?v=1.0.5655.36197" type="text/javascript"></script>
-    <script src="/Scripts/AGL/global.js?v=1.0.5655.36197" type="text/javascript"></script>    
-    <script src="/Scripts/AGL/faqs.js?v=1.0.5655.36197" type="text/javascript"></script>
+	<!--[if IE 8]><link href="/Content/Style/ie8.css?v=1.0.5834.33754" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+    <script src="/Scripts/custom.modernizr.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/jquery-1.9.1.min.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/foundation.min.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/jquery.cookie.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/json2.js?v=1.0.5834.33754" type="text/javascript"></script> 
+    <script src="/Scripts/knockout-2.2.1.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/AGL/common.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/AGL/jquery.slider.min.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/AGL/init.js?v=1.0.5834.33754" type="text/javascript"></script>
+    <script src="/Scripts/AGL/global.js?v=1.0.5834.33754" type="text/javascript"></script>    
+    <script src="/Scripts/AGL/faqs.js?v=1.0.5834.33754" type="text/javascript"></script>
     <script language="javascript" type="text/javascript">
         function ShowYourSituationMovingAddPropertyAddFuel(movingFlag) {
            
@@ -52,24 +53,6 @@
         PlanAndPricingRefresh();
     </script>
 
-    <!-- GA Analytics Begin -->
-<script type="text/javascript">
-var _gaq = _gaq || [];
-var pluginUrl ='//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-_gaq.push(['_setAccount', 'UA-2460239-1']);
-_gaq.push(['_setAllowLinker', true]);
-_gaq.push(['_setDomainName', '.agl.com.au']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://' :'http://') + 'stats.g.doubleclick.net/dc.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-<!-- GA Analytics End -->
-
     
 <!-- live person -->
 
@@ -83,6 +66,27 @@ _gaq.push(['_trackPageview']);
     <script type="text/javascript">
         var arrLPvars = [{"scope":"page","name":"unit","value":"agl-outofscope"}];
         lpTag.vars.push(arrLPvars);
+
+        // register page chat button
+        (function () {
+            var x = 0;
+            var timer = setInterval(function () {
+                if (window.lpMTagConfig !== undefined && window.lpMTagConfig.dynButton0 !== undefined) {
+                    if (lpMTagConfig.dynButton0.buttonState === 'online') {
+                        $('#lpButtonDiv-mobile-disabled').hide();
+                        $('#lpButtonDiv-mobile-enabled').slideDown();
+                        $('#lpButtonDiv-mobile-enabled').on('click', function() {
+                            lpMTagConfig.dynButton0.actionHook();
+                        });
+                        clearInterval(timer);
+                    }
+                }
+                if (x === 15) {
+                    clearInterval(timer);
+                }
+                x++;
+            }, 2000);
+        })();
     </script>
     
 
@@ -92,6 +96,48 @@ _gaq.push(['_trackPageview']);
     
 <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=31993279"></script></head>
 <body>
+    <script type="text/javascript">
+    dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+var dataLayer = window.dataLayer || [];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N6J77R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N6J77R');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+(function() {
+  var leanengage = window.leanengage = window.leanengage || function() {
+    (window.leanengage.q = window.leanengage.q || []).push(arguments);
+  };
+  if (leanengage.invoked) {
+    if (window.console && console.error) {
+      console.error('LeanEngage snippet included twice.');
+    }
+    return;
+  }
+  leanengage.invoked = true;
+  leanengage.load = function(appId) {
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'www.leanengage.com/leanengage.v1.1.js';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+    leanengage.appId = appId;
+  };
+  leanengage.SNIPPET_VERSION = '1.0.0';
+  // Load Leanengage with your app id,
+  leanengage.load('d7b9a31b-92ef-4d30-9196-510cf88591a9');
+  leanengage('init');
+})();
+</script>
     <!-- Global Header -->
     <section id="global">
     <div class="row collapse">
@@ -105,11 +151,11 @@ _gaq.push(['_trackPageview']);
         <ul>
 <li><a href="/residential">Your Home</a><ul>
 <li><a href="/residential/energy-plans">Energy Plans</a></li>
-<li><a href="/residential/solar">Solar</a></li>
+<li><a href=" http://aglsolar.com.au">Solar</a></li>
 <li><a href="http://aglsmarterliving.com.au/">Appliances and Tradespeople</a></li>
 <li><a href="/residential/why-choose-agl">Why Choose AGL?</a></li>
 <li><a href="/aeo/myaccount/index">My Account</a></li>
-<li><a href="/signup">Sign Up Now</a></li>
+<li class="callout-item"><a href="/signup">Sign Up Now</a></li>
 <li><a href="/residential/help-and-support">Help and Support</a></li>
 </ul>
 </li>
@@ -117,8 +163,9 @@ _gaq.push(['_trackPageview']);
 <li><a href="/business/large-business">Large Business</a></li>
 <li><a href="/business/small-and-medium-business">Small and Medium Business</a></li>
 <li><a href="/business/agl-energy-services">AGL Energy Services</a></li>
-<li><a href="/aeo/myenergy/index">My Account</a></li>
 <li><a href="/business/help-and-support">Help and Support</a></li>
+<li><a href="/aeo/myenergy/index">My Account</a></li>
+<li><a href="/business/large-business/what-we-provide">Get a Quote</a></li>
 </ul>
 </li>
 <li><a href="/about-agl">About AGL</a><ul>
@@ -132,7 +179,7 @@ _gaq.push(['_trackPageview']);
 </li>
 </ul>
 
-         <!-- Rendered: 29/06/2015 6:03:14 AM -->
+         <!-- Rendered: 26/12/2015 9:20:25 AM -->
     </span>
      
 
@@ -171,9 +218,9 @@ _gaq.push(['_trackPageview']);
         <section id="logoLogin" class="small-12 columns">
             
 <div id="AEOLogin">
-            <h5>AGL Energy Online</h5> 
-            <img src="/Content/Images/icon_login_profile.png" alt="Log in">
-                <h5><a href="/aeo/home/login">Log in</a></h5><span>&nbsp; | &nbsp;</span><h5><a href="/aeo/home/register">Register</a></h5>
+                <h5>AGL Energy Online</h5> 
+                <img src="/Content/Images/icon_login_profile.png" alt="Log in">
+                <h5><a href="/aeo/home/login">Log in</a></h5><span>&nbsp; | &nbsp;</span><h5><a href="/register">Register</a></h5>
 </div>
 
             <div id="logo">
@@ -189,7 +236,7 @@ _gaq.push(['_trackPageview']);
         
         </nav>
     </div>
- <!-- Rendered: 29/06/2015 6:03:14 AM -->
+ <!-- Rendered: 26/12/2015 9:20:25 AM -->
        
     <!-- placeholder: main -->
     <div id="ph-main">
@@ -201,139 +248,168 @@ _gaq.push(['_trackPageview']);
 <nav id="breadcrumb">
     
 </nav>
- <!-- Rendered: 29/06/2015 6:03:14 AM -->
+ <!-- Rendered: 26/12/2015 9:20:25 AM -->
         </nav>
-        <h1>Privacy</h1>
+        <h1>AGL Privacy Policy</h1>
     </header>
 
 </div>
 <div class="row">
     <div id="ph-content" class="small-9 columns">
         <section id="rteBody" class="rte_field">
-    <h2>The AGL Privacy Policy&nbsp;</h2>
-<p style="margin-left: 0cm;">The AGL Group comprises AGL Energy Limited and its related bodies corporate. All references to ‘AGL’, ‘we’, ‘us’ and ‘our’ in this Privacy Policy apply to these companies, except Powerdirect Pty Ltd which has its own Privacy Policy. </p>
-<p style="margin-left: 0cm;">AGL is bound by the Australian Privacy Principles (Principles) contained in the Privacy Act 1988 (Privacy Act). The Principles are designed to protect the confidentiality of information and the privacy of &nbsp;individuals by regulating the way personal information is managed. Personal information is, generally, information or an opinion relating to an individual, which can be used to identify that individual.&nbsp;</p>
-<p style="margin-left: 0cm;">To find out details specifically relating to our handling of personal information obtained from credit reporting bodies and certain other consumer credit-related personal information, please visit our<a href="/site-pages/credit-reporting-policy"> <strong>credit reporting policy page</strong></a>. &nbsp;&nbsp;<br>
+    <p>The AGL Group comprises AGL Energy Limited and its related bodies corporate. See ‘AGL Companies’ in the ‘Who We Are’ section of www.agl.com.au for a list of our companies. All references to ‘AGL’, ‘we’, ‘us’ and ‘our’ in this Privacy Policy apply to these companies, except to the extent that one of the following applies:</p>
+<ul>
+    <li>Powerdirect's&nbsp;<a href="http://www.powerdirect.com.au/privacy-policy/w1/i1001198/">Privacy Policy and Credit Reporting Policy</a>&nbsp; – these policies apply to all personal information handled by Powerdirect Pty Ltd, and</li>
+    <li>Connectnow’s <a href="http://www.connectnow.com.au/privacy-policy.asp" target="_blank">Privacy Policy</a>&nbsp;this applies only to customer information handled by Connect Now Pty Ltd.</li>
+</ul>
+<p>AGL is bound by the Australian Privacy Principles (Principles) contained in the Privacy Act 1988 (Privacy Act). The Principles are designed to protect the confidentiality of information and the privacy of individuals by regulating the way personal information is managed. Personal information is, generally, information or an opinion relating to an individual, which can be used to identify that individual. AGL may also handle information about companies and other persons in the ways described here.</p>
+<p>To find out details specifically relating to our handling of personal information obtained from credit reporting bodies and certain other consumer credit-related personal information, please visit our <a href="/site-pages/credit-reporting-policy">Credit Reporting Policy</a> page.</p>
+<div>
+<div></div>
+<hr>
+<h3><span style="color: #0066cb;">1. Summary&nbsp;</span></h3>
+<p>We collect personal information about customers, shareholders, employees and other individuals. We collect personal information through personal contact, records of communications and third parties including public sources. See Collection of personal information below for details.</p>
+<p>We handle personal information for purposes including to provide, manage and enhance our products and services, understand you and conduct direct marketing. See Use and disclosure of personal information below for details, including how to opt out of direct marketing.<br>
 <br>
+This Privacy Policy sets out some additional information for particular individuals and contexts. See the sections on Customers, Online, Shareholders, Job Applicants and Staff below where relevant to you. Our separate Credit Reporting Policy may also be applicable to you as a customer or guarantor in connection with some credit arrangements.<br>
+<br>
+We take various steps to protect the security of personal information and to destroy or de-identify that information when no longer needed.&nbsp;You may be entitled to access and correct your personal information that we hold in certain circumstances. See Accessing and correcting your personal information below for details.<br>
+<br>
+You can contact us (see below for details) with any queries or concerns about privacy. In some cases, you may be able to raise your concerns with an external body. See Complaints about an interference with privacy below for details.</p>
+<hr>
+<h3><span style="color: #0066cb;">2. Collection of personal information</span></h3>
+<p>AGL Energy collects certain personal information in various circumstances, such as when you contact us or engage with us.</p>
+<p>The types of personal information that we collect may include information about:</p>
+</div>
+<p>
+(a) customers<br>
+(b) shareholder<br>
+(c) suppliers<br>
+(d) employees<br>
+(e) personal contacts at corporate clients or suppliers<br>
+(f) applicants for employment with AGLand <br>
+(g) other people who come into contact in the ordinary course of business
 </p>
-<h3>1. Summary&nbsp;</h3>
-<p>We <strong>collect personal information</strong> about customers, shareholders, employees and other individuals. We collect personal information through personal contact, records of communications and third parties including public sources. See <a href="#collection">Collection of personal information</a>&nbsp;below for details.</p>
-<p><span>We <strong>handle personal information</strong> for purposes including to provide, manage and enhance our products and services, understand you and conduct direct marketing. See <a href="#personal%20info">Use and disclosure of personal information</a> below for details, including how to opt out of direct marketing.</span></p>
-<p><span>This Privacy Policy sets out some <strong>additional information for particular individuals and contexts</strong>. See the sections on <a href="#customers">Customers</a>, <a href="#online">Online</a>, <a href="#shareholders">Shareholders</a>, <a href="#applicants">Job Applicants</a> and <a href="#staff">Staff</a>&nbsp;below where relevant to you. Our separate Credit Reporting Policy may also be applicable to you as a customer or guarantor in connection with some credit arrangements.</span></p>
-<p><span>We take various steps to protect the <strong>security of personal information</strong> and to destroy or de-identify that information when no longer needed.</span></p>
-<p><span>You may be entitled to <strong>access and correct your personal information</strong> that we hold in certain circumstances. See <a href="#personal%20info">Accessing and correcting your personal information</a> below for details. </span></p>
-<p><span>You can <strong>contact us</strong> (see below for details) with any queries or concerns about privacy. In some cases, you may be able to raise your concerns with an external body. See <a href="#complaints">Complaints about an interference with privacy</a> below for details.</span></p>
-<p><span><br>
-</span></p>
-<h3><a name="collection">2. Collection of Personal Information</a></h3>
-<p>AGL Energy collects certain personal information in various circumstances, such as when you contact us or engage with us. </p>
-<p><span>We may collect personal information about individuals including:</span></p>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;">
-<p><span>(a) customers </span></p>
-<p><span>(b) shareholders</span></p>
-<p><span>(c) suppliers</span></p>
-<p><span>(d) employees</span></p>
-<p><span>(e) personal contacts at corporate clients or suppliers</span></p>
-<p><span>(f) applicants for employment with AGL, and </span></p>
-<p><span>(g) other individuals who come into contact with us in the ordinary course of business.</span></p>
-</blockquote>
-<p><span>The types of personal information (including historical information) we collect include your name, contact details, identification information, organisation, positions held, information in forms you submit, payment details and enquiry/complaint details. We also collect personal information about your interactions and transactions with us, including any contact we have with you by telephone, email or online.</span></p>
-<p><span>We may collect your health information or organisational affiliation to determine your eligibility for specific discounts, services or treatment (e.g. hardship). We will check that you have consented prior to collecting, using or disclosing your sensitive information, unless the collection of the information is required or authorised by law. Sensitive information is information or an opinion about an individual’s racial or ethnic origin, political opinions, membership of a political association, religious beliefs or afﬁliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record, genetics, biometrics or health. </span></p>
-<p><span>This information is collected in a variety of ways, including by way of personal contact such as business activities and events, as well as mail, telephone, email and online. Please note that our websites do not provide systems for secure transmission across the internet, except where indicated. We may monitor and record your communications with us (including email and telephone) and operate video and audio surveillance devices in our premises for purposes including security, record-keeping and training. </span></p>
-<p><span>We may also collect and use personal information available from other AGL Group companies, from public sources such as telephone listings, and from other third party sources including where it is necessary to identify customers. For example, builders and real estate agents may provide details of new occupants and tenants who are using gas and/or electricity.</span></p>
-<p><span>Where you provide us with personal information about someone else you must have first obtained their consent to provide their personal information to us based on this Privacy&nbsp;</span></p>
-<h3>3. Use and&nbsp;disclosure&nbsp;of personal information&nbsp;</h3>
-<p><span>In general, AGL Energy collects, holds, uses and discloses personal information to: </span></p>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;">
-<p><span>(a) provide our products and services to customers;</span></p>
-<p><span>(b) understand you and meet your needs;</span></p>
-<p><span>(c) process payments and refunds;</span></p>
-<p><span>(d) verify your identity and personal information;</span></p>
-<p><span>(e) maintain and update our records and carry out other administrative tasks; </span></p>
-<p><span>(f) communicate and manage our relationship with you and your organisation; </span></p>
-<p><span>(g) help manage and enhance our products and services, including by conducting surveys and other research; </span></p>
-<p><span>(h) deal with your applications, enquiries and concerns;</span></p>
-<p><span>(i) prevent, detect, investigate and deal with unlawful activity and misconduct (whether actual or suspected); and </span></p>
-<p><span>(j) comply with legal obligations and protect our lawful interests.</span></p>
-</blockquote>
+<div>
+<p>The types of personal information (including historical information) we collect include your name, contact details, identification information, organisation, positions held, information in forms you submit, payment details and enquiry/complaint details. We also collect metering data and personal information about your interactions and transactions with us, including any contact we have with you by telephone, email or online.<br>
+<br>
+We may collect your health information or organisational affiliation to determine your eligibility for specific discounts, services or treatment (e.g. hardship). We will check that you have consented prior to collecting, using or disclosing your sensitive information, unless the collection of the information is required or authorised by law. Sensitive information is information or an opinion about an individual’s racial or ethnic origin, political opinions, membership of a political association, religious beliefs or afﬁliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record, genetics, biometrics or health.&nbsp;<br>
+<br>
+Some personal information is collected under laws including a range of energy industry laws applicable to us. For example, we are required to record information we are provided about customers on life support as these customers have a special need for continuity in their power supply.<br>
+<br>
+This information is collected in a variety of ways, including by way of personal contact such as business activities and events, as well as mail, telephone, email and online. Please note that our websites do not provide systems for secure transmission across the internet, except where indicated. We may monitor and record your communications with us (including email and telephone) and operate video and audio surveillance devices in our premises for purposes including security, record-keeping and training.&nbsp;<br>
+<br>
+We may also collect and use personal information available from other AGL Group companies, from public sources such as telephone listings, and from other third party sources including where it is necessary to identify customers. For example, builders and real estate agents may provide details of new occupants and tenants who are using gas and/or electricity.<br>
+<br>
+Where you provide us with personal information about someone else you must have first obtained their consent to provide their personal information to us based on this Privacy Policy.</p>
+<div><hr>
+<h3><span style="color: #0066cb;">3. Use and disclosure of personal information</span></h3>
+<p>In general, AGL may use or disclose personal information for the following purposes:</p>
+</div>
+<p>
+(a) provide our products and services to customers;<br>
+(b) understand you and meet your needs;<br>
+(c) process payments and refunds;<br>
+(d) verify your identity and personal information;<br>
+(e) maintain and update our records and carry out other administrative tasks;<br>
+(f) communicate and manage our relationship with you and your organisation;<br>
+(g) help manage and enhance our products and services, including by conducting surveys and other research;<br>
+(h) deal with your applications, enquiries and concerns;<br>
+(i) prevent, detect, investigate and deal with unlawful activity and misconduct (whether actual or suspected); and<br>
+(j) comply with legal obligations and protect our lawful interests.</p>
+<div>
 <p>We may not be able to do these things without your personal information. For example, we may not be able to provide our services, communicate with you or deal with your enquiries.</p>
 <p>We may also use and disclose your personal information in connection with acquisitions or potential acquisitions of our business.</p>
-<p><span>We also use your personal information to promote and market products and services to you, including through telephone and electronic methods such as email, SMS, websites and mobile apps. This is to keep you informed of products, services and special offers and may continue after you cease to acquire services from us. </span></p>
-<p><span>If you do not wish us to contact you to promote and market products, services and special offers (whether it be through electronic methods or otherwise), or if you have subscribed to any of our newsletters or subscriptions and no longer wish to receive such communications, please call 131 245.</span></p>
-<p><span>We may exchange personal information with: </span></p>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;">
-<p><span>(a) service providers and specialist advisers who have been contracted to provide administrative, financial, research, archival, auditing, accounting, customer contact, legal, business consulting, banking, payment, delivery, data processing, data analysis, information broking, research, marketing, investigation, website, technology or other services; </span></p>
-<p><span>(b) insurers, lawyers, courts, tribunals and regulatory authorities (including the Australian Tax Office) as required or authorised by law or in accordance with their reasonable information requests; </span></p>
-<p><span>(c) insurance investigators; or </span></p>
-<p>(d) your representatives and anyone else authorised by you, as specified by you or the contract.</p>
-</blockquote>
-<p>The third parties described above may be located in Australia, India, the Philippines, New Zealand, Fiji, South Africa and other countries. The countries named in this Policy may change from time to time.&nbsp; As such, for an up-to-date list of these countries please see the current version of this Privacy Policy, which is available on request or via <a href="http://www.agl.com.au/">www.agl.com.au</a>. While these third parties will often be subject to privacy and confidentiality obligations, where you agree to this Privacy Policy you acknowledge that: (a) they may not always comply with those obligations or those obligations may differ from Australian privacy laws; (b) we will not be accountable for the third party under the Privacy Act; (c) you may not be able to seek redress under the Privacy Act; and (d) the third party may be subject to foreign laws&nbsp;</p>
-<p>which might compel further disclosures of personal information (e.g. to government authorities).</p>
-<h3>4. Additional Information for particular individuals and contexts &nbsp;</h3>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;">
-<h4><a name="customers">4.1 Customers</a></h4>
+<p>We also use your personal information to promote and market products and services to you, including through telephone and electronic methods such as email, SMS, websites and mobile apps. This is to keep you informed of products, services and special offers and may continue after you cease to acquire services from us.&nbsp;</p>
+<p>If you do not wish us to contact you to promote and market products, services and special offers (whether it be through electronic methods or otherwise), or if you have subscribed to any of our newsletters or subscriptions and no longer wish to receive such communications, please call 131 245.</p>
+<div>
+<p>We may exchange personal information with:</p>
+</div>
+<p><span class="alpha">(a) service providers and specialist advisers who have been contracted to provide installation and maintenance, meter reading, administrative, financial, research, archival, auditing, accounting, customer contact, sales, legal, business consulting, banking, payment, credit management, debt collection, delivery, data processing, data analysis, information broking, research, marketing, investigation, website, technology or other services;<br>
+(b) other energy retailers for example in connection with migrating your services or where we are a service provider to them;<br>
+(c) the Australian Energy Market Operator (AEMO) which manages energy supply, demand and capacity in accordance with applicable regulation;<br>
+(d) insurers, lawyers, courts, tribunals and regulatory authorities (including the Australian Tax Office) as required or authorised by law or in accordance with their reasonable information requests;<br>
+(e) insurance investigators; or<br>
+(f) your representatives and anyone else authorised by you, as specified by you or the contract.</span></p>
+<div>
+<p>The third parties described above may be located in Australia, India, the Philippines, New Zealand, Fiji, South Africa, Indonesia and other countries. The countries named in this Policy may change from time to time.  As such, for an up-to-date list of these countries please see the current version of this Privacy Policy, which is available on request or via www.agl.com.au.</p>
+<span style="line-height: 15px; font-size: 10px;">
+</span>
+<hr>
+<h3><span style="color: #0066cb;">4. Additional information for particular individuals and contexts</span></h3>
+</div>
+<h5>4.1 Customers</h5>
 <p>We may exchange your personal information with debt buyers and any relevant loyalty program partners.</p>
-<p><span>Please see your customer terms and conditions for further terms relevant to your privacy. If you apply for or obtain services from us on credit, then our Credit Reporting Policy (available on request and via <a href="http://www.agl.com.au/">www.agl.com.au</a>) may be relevant to you.</span></p>
-<p><span><br>
-</span></p>
-<h4><span><a name="online">4.2 Online</a></span></h4>
+<div>
+<p>In some cases, customers are introduced to us by third party introducers such as sales partners and energy comparison services. We may collect your personal information from those parties.</p>
+</div>
+<p>We may also collect information about your use of our products and services through means such as devices like Smart Meters and Solar Command. With these devices, we are able to remotely collect and provide you with detailed data regarding energy usage and usage times. This gives you and us the ability to monitor your usage, see trends and forecasts, set alerts, diagnose issues, compare usage to similar properties, reduce environmental impacts and identify product and service improvements. We may also give you the ability from time to time to connect ‘smart appliances’ to provide appliance-specific usage data. If you do not wish us to contact you to promote and market products, services and special offers, you can opt out as described in Section 3 of this Policy. We may also use de-identified usage data for a range of purposes including network planning and product and service development and improvement.<br>
+If our metering business Active Stream provides Smart Meter services where you are a customer of an energy retailer other than AGL, we are subject to greater restrictions on our ability to disclose your personal information to other AGL companies unless we obtain consent or another exception applies.<br>
+Please see your customer terms and conditions for further terms relevant to your privacy. If you apply for or obtain services from us on credit, then our <a href="/site-pages/credit-reporting-policy">Credit Reporting Policy</a>&nbsp;may be relevant to you.</p>
+<h5>4.2 Online</h5>
 <p>We operate a range of online services to provide information and services. These include our websites (e.g. agl.com.au), mobile apps, email and social media profiles (Online Facilities).</p>
 <p>Our Online Facilities may use ‘cookies’ from time to time. A cookie is a piece of information that allows our system to identify and interact more effectively with your device. The cookie helps us to maintain the continuity of your browsing session and remember your details and preferences when you return. You can configure web browser software to reject cookies however some parts of our websites may not have full functionality in that case.</p>
 <p>In some cases third parties may use cookies and other technologies such as web beacons and JavaScript on our Online Facilities in connection with online services like banner advertising, traffic analytics and surveys. This may allow them to collect information about your use of our Online Facilities (including your computer’s IP address) which they may store in the United States or other countries. The use of these technologies allows them to deliver customised advertising content, measure the effectiveness of their advertising, evaluate users use of our Online Facilities and other websites and provide other services relating to website activity and internet usage. Those third parties may also transfer the information they collect to others where required to do so by law, or where those others process the information on their behalf. The services we may use from time to time include Google Analytics, Google AdSense, DoubleClick, Yahoo, Adobe and Microsoft. You can find more details in the privacy policies for those services, including information on how to opt-out of certain conduct.</p>
-<p>If you are considering sending us any other personal information through our Online Facilities or other electronic means, please be aware that the information may be insecure in transit, particularly where no encryption is used (e.g. email, standard HTTP). We are subject to laws requiring us to protect the security of personal information once it comes into our possession.</p>
+<p>If you are considering sending us any other personal information through our Online Facilities or other electronic means, please be aware that the information may be insecure in transit, particularly where no encryption is used (e.g. email, standard HTTP). We are subject to laws requiring us to protect the security of personal information once it comes into our possession.&nbsp;</p>
 <p>Our Online Facilities may contain links to third party websites or services. We are not responsible for the privacy practices or policies of those sites or services.</p>
-<h4><a name="shareholders">4.3 Shareholders</a></h4>
-<p>If you are a shareholder of one of the companies within the AGL Energy Group, you may be required to provide us with your tax ﬁle number, which is kept securely on the relevant share register. In accordance with Australian tax laws, we may provide certain advice to the Australian Tax Ofﬁce, including dividend information. We may also collect details of your investment including dividends paid. We are required or authorised to collect certain information about shareholders under laws including the Taxation Administration Act and the Corporations Act. We collect, use and disclose your personal information to manage your investment with us and provide shareholder services. </p>
-<p><span>Section 173 of the Corporations Act 2001 describes the circumstances in which our companies are required to grant access on request to their share register. The share register sets out all shareholders’ names, addresses and shareholdings. We may provide information from the share register to meet speciﬁc requests such as identifying the top 100 shareholders. </span></p>
-<p><span>AGL Energy may exchange your personal information with your stockbroker, accountant, a family member or other person who you have authorised to be contacted on your behalf. In those circumstances, you will be required to identify that party as your authorised agent. We may also exchange your personal information with our shareholder registry service provider. For more details about our current provider and the services they provide, please see ‘<a href="http://www.agl.com.au/about-agl/investor-centre/shareholder-services">Shareholder Services</a>’ in the ‘Investor Centre’ section of www.agl.com.au. Our provider also has its own privacy policy and/or statement which you should review on their website or by contacting them.</span></p>
-<p><span><br>
-</span></p>
-<h4><span><a name="applicants">4.4 Job applicants&nbsp;</a></span></h4>
+<h5>4.3 Shareholders</h5>
+<p>If you are a shareholder of one of the companies within the AGL Energy Group, you may be required to provide us with your tax ﬁle number, which is kept securely on the relevant share register. In accordance with Australian tax laws, we may provide certain advice to the Australian Tax Ofﬁce, including dividend information. We may also collect details of your investment including dividends paid. We are required or authorised to collect certain information about shareholders under laws including the Taxation Administration Act and the Corporations Act. We collect, use and disclose your personal information to manage your investment with us and provide shareholder services.</p>
+<p>Section 173 of the Corporations Act 2001 describes the circumstances in which our companies are required to grant access on request to their share register. The share register sets out all shareholders’ names, addresses and shareholdings. We may provide information from the share register to meet speciﬁc requests such as identifying the top 100 shareholders.</p>
+<p>AGL Energy may exchange your personal information with your stockbroker, accountant, a family member or other person who you have authorised to be contacted on your behalf. In those circumstances, you will be required to identify that party as your authorised agent. We may also exchange your personal information with our shareholder registry service provider. For more details about our current provider and the services they provide, please see <a href="/about-agl/investor-centre/shareholder-services">Shareholder Services</a>.&nbsp;Our provider also has its own privacy policy and/or statement which you should review on their website or by contacting them.</p>
+<h5>4.4 Job applicants</h5>
 <p>If you apply for a position with us, we may also collect information about your qualifications, experience, character, screening checks (including health, reference, background, directorship, financial probity, identity, eligibility to work, vocational suitability, drugs/alcohol and criminal record checks). We collect, use and disclose your personal information to assess your application, conduct screening checks and consider and contact you regarding other positions. We may exchange your personal information with academic institutions, recruiters, screening check providers, health service providers, professional and trade associations, law enforcement agencies, referees and your current and previous employers. Without your personal information we may not be able to progress considering you for positions with us.</p>
-<h4><a name="staff">4.5 Staff&nbsp;</a></h4>
+<h5>4.5 Staff</h5>
 <p>This section applies to our current and former employees and contractors in addition to the recruitment section above.</p>
-<p>We may collect information relating to your current or former employment or engagement including information about your training, disciplining, resignation, termination, terms and conditions, emergency contact details, performance, conduct, use of our IT resources, payroll matters, union or professional/trade association membership, recreation, leave and taxation,&nbsp;banking&nbsp;or superannuation affairs. We are required or authorised to collect your personal information under various laws including the Fair Work Act, Superannuation Guarantee (Administration) Act and Taxation Administration Act.</p>
+<p>We may collect information relating to your current or former employment or engagement including information about your training, disciplining, resignation, termination, terms and conditions, emergency contact details, performance, conduct, use of our IT resources, payroll matters, union or professional/trade association membership, recreation, leave and taxation, banking or superannuation affairs. We are required or authorised to collect your personal information under various laws including the Fair Work Act, Superannuation Guarantee (Administration) Act and Taxation Administration Act.&nbsp;</p>
 <p>We collect, use and disclose your personal information for purposes relating to your employment or engagement with us including engagement, training, disciplining, payroll, superannuation, health and safety, administration, insurance (including workcover) and staff management purposes. We may exchange your personal information with your representatives (including unions) and our service providers including providers of payroll, banking, staff benefits, surveillance and training services. Without your personal information we may not be able to effectively manage your employment or engagement.</p>
-<p>Please note that<strong> </strong>companies within the AGL Energy Group are not bound by the Principles in relation to handling of their own current or former employees’ records where directly related to the employment relationship. We may rely on this exemption notwithstanding this Privacy Policy.&nbsp;</p>
-<p></p>
-</blockquote>
-<h3>5. Management of personal information</h3>
+<p>Please note that companies within the AGL Energy Group are not bound by the Principles in relation to handling of their own current or former employees’ records where directly related to the employment relationship. We may rely on this exemption notwithstanding this Privacy Policy.</p>
+<div>
+<p>
+</p>
+<hr>
+<h3><span style="color: #0066cb;">5. Management of personal information</span></h3>
 <p>We realise that your personal information may change frequently with changes of address and personal circumstance. You can help us to ensure that the personal information we hold about you is accurate and up-to-date. Please contact us promptly by a method set out in Section 8 of this Policy to inform us of any changes to your personal information.</p>
 <p>We hold personal information electronically and in hard copy form, both at our own premises and with the assistance of our service providers. We implement a range of measures to protect the security of that personal information. We are also required to take reasonable steps to destroy or de-identify personal information when no longer needed for any permitted purpose.</p>
-<h3><a name="personal info">6. Accessing and correcting your personal information&nbsp;</a></h3>
-<p>Under the Principles, you may have the right to obtain access to personal information which AGL Energy holds about you and to advise us of any perceived inaccuracy. We will consider any recommendation by you to change or correct information and advise you of the action taken. You may request to access your personal information by contacting us by a method set out in Section 8 of this Policy. Depending upon the personal information you seek, you may be asked:</p>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;">
-<p><span>(a) to complete an Information Request Form </span></p>
-<p><span>(b) to verify your identity in writing, and/or </span></p>
-<p><span>(c) if the inquiry involves extensive administration time or resources, to pay a fee. If this is the case, we will advise the likely cost in advance and can help refine your request if required.</span></p>
-</blockquote>
-<p><span>Please note that in circumstances prescribed by the Privacy Act, you may be refused access to or correction of your personal information (for example, if providing access would be unlawful or would have an unreasonable impact upon the privacy of other individuals). In these circumstances we are required to provide you our reasons and if you request, make a note of your requested correction with the relevant information.</span></p>
-<p><span><br>
-</span></p>
-<h3><span><a name="complaints">7. Complaints about an interference with privacy</a></span></h3>
-<p>&nbsp;If you consider that any action taken by AGL Energy breaches this Privacy Policy or the Principles, you can make a complaint by contacting us by a method set out in Section 8 of this Policy. We will endeavour to act promptly in response to a complaint. More details about our complaints process generally are set out in the <a href="/~/media/AGL/Residential/Documents/Help and Support/2011/August/AGL_Dispute_Resolution_Policy.pdf">AGL Standard Complaints and Dispute Resolution Policy </a>which can be accessed under ‘Our Commitments’ in the ‘What We Stand For’ section of www.agl.com.au</p>
+<hr>
+<h3><span style="color: #0066cb;">6. Accessing and correcting your personal information</span></h3>
+<p>Under the Principles, you may have the right to obtain access to personal information which AGL Energy holds about you and to advise us of any perceived inaccuracy. We will consider any recommendation by you to change or correct information and advise you of the action taken.&nbsp;</p>
+</div>
+<p><many href="/residential/why-choose-agl/my-agl-iq">My AGL IQ<sup>®</sup>. &nbsp;</many></p>
+<p>You may also request to access your personal information by contacting us by a method set out in Section 8 of this Policy. Depending upon the personal information you seek, you may be asked:</p>
+<p>(a) to complete an Information Request Form</p>
+<p>(b) to verify your identity in writing, and/or</p>
+<p>(c) if the inquiry involves extensive administration time or resources, to pay a fee. If this is the case, we will advise the likely cost in advance and can help refine your request if required.</p>
+<p>Please note that in circumstances prescribed by the Privacy Act, you may be refused access to or correction of your personal information (for example, if providing access would be unlawful or would have an unreasonable impact upon the privacy of other individuals). In these circumstances we are required to provide you our reasons and if you request, make a note of your requested correction with the relevant information.</p>
+</div>
+<div>
+<div>
+<hr>
+<h3><span style="color: #0066cb;">7. Complaints about an interference with privacy</span></h3>
+<p>If you consider that any action taken by AGL Energy breaches this Privacy Policy or the Principles, you can make a complaint by contacting us by a method set out in Section 8 of this Policy. We will endeavour to act promptly in response to a complaint. More details about our complaints process generally are set out in the AGL Standard Complaints and Dispute Resolution Policy which can be accessed under <a href="/about-agl/what-we-stand-for/our-commitments">Our Commitments</a>.&nbsp;</p>
 <p>If your privacy concerns are not resolved to your satisfaction, you may contact:</p>
-<p><span>(a) from 12 March 2014, your relevant energy industry ombudsman with jurisdiction to handle privacy complaints, including:</span></p>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;">
-<p><span>(1) Energy and Water Ombudsman (Victoria) at <a href="http://www.ewov.com.au/">www.ewov.com.au</a> and on 1800 500 509; and</span></p>
-<p><span>(2) Energy &amp; Water Ombudsman NSW at <a href="http://www.ewon.com.au/">www.ewon.com.au</a> and on 1800 246 545; or</span></p>
-</blockquote>
-<p><span>(b) the Office of the Australian Information Commissioner at <a href="http://www.oaic.gov.au/">www.oaic.gov.au</a> and on 1300 363 992.</span></p>
-<p><span><br>
-</span></p>
-<h3><span>8. How to Contact us&nbsp;</span></h3>
-<p>You can contact the AGL Energy Group about a privacy-related issue by phone, post or by ﬁlling in our <a href="http://www.agl.com.au/about-agl/media-centre/contact-us">online enquiry form</a>. </p>
-<p style="margin-left: 106.35pt; text-indent: -63.8pt;"><span>Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 131 245 (available 24/7)&nbsp;</span></p>
-<p style="margin-left: 106.35pt; text-indent: -63.8pt;"><span>Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AGL Customer Advocacy, Locked Bag 14120<br>
-MCMC VIC 8001</span></p>
-<h3><span>9. Updates to this policy&nbsp;</span></h3>
+<span style="font-size: 0.75em; line-height: 1.42857143; background-color: initial;">(a) from 12 March 2014, your relevant energy industry ombudsman with jurisdiction to handle privacy complaints, including:</span><br>
+<a href="www.ewov.com.au " target="_blank" style="font-size: 0.75em; line-height: 1.42857143;"><span class="Apple-tab-span" style="white-space: pre;">	</span>(1)&nbsp;Energy and Water Ombudsman (Victoria)</a><span style="font-size: 0.75em; line-height: 1.42857143; background-color: initial;"> and on 1800 500 509; and</span><br>
+<a href="www.ewon.com.au" target="_blank" style="font-size: 0.75em; line-height: 1.42857143;"><span class="Apple-tab-span" style="white-space: pre;">	</span>(2)&nbsp;Energy &amp; Water Ombudsman NSW </a><span style="font-size: 0.75em; line-height: 1.42857143; background-color: initial;">and on 1800 246 545; or</span><br>
+<span style="font-size: 0.75em; line-height: 1.42857143; background-color: initial;"><br>
+(b) The </span><a href="www.oaic.gov.au" style="font-size: 0.75em; line-height: 1.42857143;">Office of the Australian Information Commissioner</a><span style="font-size: 0.75em; line-height: 1.42857143; background-color: initial;"> and on 1300 363 992.</span><br>
+<hr>
+<h3><span style="color: #0066cb;">8. How to Contact us</span></h3>
+<p>You can contact the AGL Energy Group about a privacy-related issue by phone, post or by ﬁlling in our <a href="/residential/help-and-support/contact-us">online enquiry form</a>.&nbsp;<br>
+<br>
+<strong>Phone:</strong> 131 245 (available 24/7)<br>
+<br>
+<strong>Address:</strong> AGL Customer Advocacy, Locked Bag 14120&nbsp;MCMC VIC 8001</p>
+<hr>
+<h3><span style="color: #0066cb;">9. Updates to this policy</span></h3>
+</div>
 <p>Our Privacy Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment.</p>
-<p><span>The current version is accessible at <a href="http://www.agl.com.au">agl.com.au</a></span></p>
-<p><span>Last updated: 12 March 2014</span></p>
-<br>
-<br>
-<p></p>
-<blockquote style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px 0px 0px 40px;  padding-right: 0px;border: medium none;"></blockquote>
+<p>
+</p>
+<p>Last updated: 26 August 2015</p>
+<p><br>
+</p>
+</div>
+</div>
 </section>
     </div>
 </div>
@@ -373,15 +449,15 @@ MCMC VIC 8001</span></p>
                     <ul>
                         <li><a href="/residential/energy-plans/electricity-and-gas-plans">Electricity and Gas Plans</a></li>    
                         <li><a href="/residential/energy-plans/meter-requests">Meter Requests</a></li>    
+                        <li><a href="/residential/energy-plans/electricity-and-gas-plans/price-and-contract-information">Price and Contract Information</a></li>    
+                        <li><a href="/residential/energy-plans/electricity-and-gas-plans/solar-energy-plans">Solar Energy Plans</a></li>    
                         <li><a href="/residential/energy-plans/new-customers">New Customers</a></li>    
                         <li><a href="/residential/energy-plans/existing-customers">Existing Customers</a></li>    
-                        <li><a href="/residential/energy-plans/solar-energy">Solar Energy</a></li>    
-                        <li><a href="/residential/energy-plans/carbon-tax-repeal">Carbon Tax Repeal</a></li>    
                     </ul>
                 </li>
             </ul>   
             <ul>
-                <li><a href="/residential/solar">Solar</a>
+                <li><a href=" http://aglsolar.com.au">Solar</a>
                     <ul>
                     </ul>
                 </li>
@@ -399,6 +475,7 @@ MCMC VIC 8001</span></p>
                         <li><a href="/residential/why-choose-agl/agl-energy-online">AGL Energy Online</a></li>    
                         <li><a href="/residential/why-choose-agl/my-agl-iq">My AGL IQ</a></li>    
                         <li><a href="/residential/why-choose-agl/agl-can-save-you-money">AGL Can Save You Money</a></li>    
+                        <li><a href="/residential/why-choose-agl/agl-rewards">AGL Rewards</a></li>    
                         <li><a href="/residential/why-choose-agl/billing-that-suits-you">Billing That Suits You</a></li>    
                         <li><a href="/residential/why-choose-agl/our-commitment">Community Commitment</a></li>    
                     </ul>
@@ -422,12 +499,11 @@ MCMC VIC 8001</span></p>
                         <li><a href="/residential/help-and-support/how-to-read-your-meter">How to read your meter</a></li>    
                         <li><a href="/residential/help-and-support/gas-safety">Natural Gas Safety</a></li>    
                         <li><a href="/residential/help-and-support/moving-home">Moving Home</a></li>    
-                        <li><a href="/residential/help-and-support/smart-meters">Smart Meters</a></li>    
+                        <li><a href="/residential/help-and-support/do-not-contact-form">Do Not Contact Form</a></li>    
                         <li><a href="/residential/help-and-support/concessions-rebates-grants">Concessions, Rebates and Grants</a></li>    
                         <li><a href="/residential/help-and-support/faqs">FAQs</a></li>    
-                        <li><a href="/residential/help-and-support/do-not-contact-form">Do Not Contact Form</a></li>    
-                        <li><a href="/residential/help-and-support/contact-us">Contact Us</a></li>    
                         <li><a href="/residential/help-and-support/glossary">Glossary</a></li>    
+                        <li><a href="/residential/help-and-support/contact-us">Contact Us</a></li>    
                     </ul>
                 </li>
             </ul>   
@@ -455,7 +531,6 @@ MCMC VIC 8001</span></p>
                         <li><a href="/business/small-and-medium-business/premium-new-connections">Premium New Connections</a></li>    
                         <li><a href="http://www.aglsolarenergy.com.au/business/">Business Solar</a></li>    
                         <li><a href="/business/small-and-medium-business/energy-efficiency-tips">Energy efficiency tips</a></li>    
-                        <li><a href="/business/small-and-medium-business/carbon-tax-repeal">Carbon Tax Repeal</a></li>    
                     </ul>
                 </li>
             </ul>   
@@ -468,14 +543,9 @@ MCMC VIC 8001</span></p>
                         <li><a href="/business/agl-energy-services/boilers">Boilers</a></li>    
                         <li><a href="/business/agl-energy-services/power-factor-correction">Power Factor Correction</a></li>    
                         <li><a href="/business/agl-energy-services/building-optimisation">Building Optimisation</a></li>    
+                        <li><a href="/business/agl-energy-services/electric-vehicles">Electric Vehicles</a></li>    
                         <li><a href="/business/agl-energy-services/alternative-fuels">Alternative Fuels</a></li>    
                         <li><a href="/business/agl-energy-services/maintaining-efficiency">Maintaining Efficiency</a></li>    
-                    </ul>
-                </li>
-            </ul>   
-            <ul>
-                <li><a href="/aeo/myenergy/index">My Account</a>
-                    <ul>
                     </ul>
                 </li>
             </ul>   
@@ -488,6 +558,18 @@ MCMC VIC 8001</span></p>
                         <li><a href="/business/help-and-support/large-business-relocation">Large Business Relocation</a></li>    
                         <li><a href="/business/help-and-support/contact-us">Contact Us</a></li>    
                         <li><a href="/business/help-and-support/business-faqs">Business FAQs</a></li>    
+                    </ul>
+                </li>
+            </ul>   
+            <ul>
+                <li><a href="/aeo/myenergy/index">My Account</a>
+                    <ul>
+                    </ul>
+                </li>
+            </ul>   
+            <ul>
+                <li><a href="/business/large-business/what-we-provide">Get a Quote</a>
+                    <ul>
                     </ul>
                 </li>
             </ul>   
@@ -510,7 +592,7 @@ MCMC VIC 8001</span></p>
             <ul>
                 <li><a href="/about-agl/what-we-stand-for">What We Stand For</a>
                     <ul>
-                        <li><a href="/about-agl/what-we-stand-for/our-vision">Our Vision</a></li>    
+                        <li><a href="/about-agl/what-we-stand-for/our-values">Our Values</a></li>    
                         <li><a href="/about-agl/what-we-stand-for/our-commitments">Our Commitments</a></li>    
                         <li><a href="/about-agl/what-we-stand-for/sustainability">Sustainability</a></li>    
                         <li><a href="/about-agl/what-we-stand-for/corporate-citizenship">Corporate Citizenship</a></li>    
@@ -547,10 +629,8 @@ MCMC VIC 8001</span></p>
                     <ul>
                         <li><a href="http://www.aglcareers.com.au">Search For A Job</a></li>    
                         <li><a href="/about-agl/careers/why-join-us">Why Join Us</a></li>    
-                        <li><a href="/about-agl/careers/corporate-careers">Corporate Careers</a></li>    
-                        <li><a href="/about-agl/careers/merchant-energy-careers">Merchant Energy Careers</a></li>    
-                        <li><a href="/about-agl/careers/retail-energy-careers">Retail Energy Careers</a></li>    
-                        <li><a href="/about-agl/careers/upstream-gas-careers">Upstream Gas Careers</a></li>    
+                        <li><a href="/about-agl/careers/working-at-agl">Working at AGL</a></li>    
+                        <li><a href="/about-agl/careers/our-benefits">Our Benefits</a></li>    
                     </ul>
                 </li>
             </ul>   
@@ -566,7 +646,7 @@ MCMC VIC 8001</span></p>
             </ul>   
         </div>
     </nav>
- <!-- Rendered: 29/06/2015 6:03:15 AM -->
+ <!-- Rendered: 26/12/2015 9:20:25 AM -->
 
 
      
@@ -589,6 +669,10 @@ MCMC VIC 8001</span></p>
                     <ul>
                         <!--<li><h3>Need to talk to someone?</h3></li>-->
                         <li class="contact"><a href="/about-agl/media-centre/contact-us" disable-web-editing="true">Contact Us</a></li>
+                        <li class="contact">
+                            <p>Call AGL Anytime™ 24/7</p>
+                            <h3>131 245</h3>
+                        </li>
                         <li class="connect"><h3>Connect with AGL</h3></li>
                         <li class="social crowdAssist"><a href="https://community.agl.com.au/" disable-web-editing="true">The AGL Community</a></li>
                         <li class="social"><a href="http://aglblog.com.au/" disable-web-editing="true" target="_blank">Visit AGL Blog</a></li>
@@ -683,130 +767,8 @@ MCMC VIC 8001</span></p>
     </div> 
     <!-- AGLSite, extranet\Anonymous, web, 207.241.237.211 -->
     <script type="text/javascript">
-<!-- GA AdServer Begin -->
-function iframeTag(url){
-	var divTag = document.createElement("div");
-	randomID = 'iframeTag'+Math.floor(Math.random()*11111);
-	divTag.id = randomID;
-	divTag.style.display = 'none';
-	divTag.innerHTML = '<iframe src="'+url+'" width="1" height="1" frameborder="0"></iframe>';
-	document.body.appendChild(divTag);
-}
-
-function imageTag(url){
-	var imageTag=new Image;
-	imageTag.src=url;
-}
-
-function jsTag(url){
-	var a=document.createElement('script');
-	a.type='text/javascript';
-	a.async=true;
-	a.src=url;
-	document.body.appendChild(a);
-}
-
-// Pagename rules
-var hostname = window.location.hostname;
-var pathname = window.location.pathname;
-var cachebuster = Math.floor(Math.random()*11111111111);
-
-if(hostname.match(/agl\.com\.au/) !== null)
-{
-	// Fire appropriate media agency tags, an example provided below
-	// iframeTag("//adsfac.net/pct_mx.asp?L=143694&source=if&ord="+cachebuster);
-}
-<!-- GA AdServer End -->
-
-<!-- Crazy Egg Heat Map Begin -->
-if( pathname === '/residential'
-    || pathname === '/business'
-    || pathname === '/about-agl'
-    || pathname === '/residential/energy-plans'
-    || pathname === '/residential/energy-plans/electricity-and-gas-plans'
-)
-{
-	setTimeout(function(){var a=document.createElement("script");
-		var b=document.getElementsByTagName("script")[0];
-		a.src=document.location.protocol	+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1182.js?"+Math.floor(new Date().getTime()/3600000);
-		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}
-	, 1);
-}
-<!-- Crazy Egg Heat Map End-->
-<!-- Brand IQ -->
-if( pathname === '/residential/why-choose-agl/my-agl-iq'
-)
-{
-	/*---------------------------------------------------------------------------------------------------
-	 * BRAND IQ START
-	  ---------------------------------------------------------------------------------------------------*/
-	// Conversion Name: AGL IQ (Brand)
-	var ebRand = Math.random()+'';
-	ebRand = ebRand * 1000000;
-	//<![CDATA[ 
-	document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=339560&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
-	//]]>
-
-	/*---------------------------------------------------------------------------------------------------
-	 * BRAND IQ END
-	  ---------------------------------------------------------------------------------------------------*/
-	
-}
-<!-- End Brand IQ -->
+    dataLayer = window.dataLayer || [];
 </script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1051671862;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<div style="display: none">
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-</div>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1051671862/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<script>
-var versaTag = {};
-versaTag.id = "3111";
-versaTag.sync = 0;
-versaTag.dispType = "js";
-versaTag.ptcl = "HTTPS";
-versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
-//VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
-versaTag.activityParams = {
-//Predefined parameters:
-"Session":""
-//Custom parameters:
-};
-//Static retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-versaTag.retargetParams = {};
-//Dynamic retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-versaTag.dynamicRetargetParams = {};
-// Third party tags conditional parameters and mapping rule parameters. Syntax: "CondParam1":"ParamValue1", "CondParam2":"ParamValue2". ParamValue can be empty.
-versaTag.conditionalParams = {};
-</script>
-<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
-<noscript>
-<iframe src="https://bs.serving-sys.com/BurstingPipe?
-cn=ot&amp;
-onetagid=3111&amp;
-ns=1&amp;
-activityValues=$$Session=[Session]$$&amp;
-retargetingValues=$$$$&amp;
-dynamicRetargetingValues=$$$$&amp;
-acp=$$$$&amp;"
-style="display:none;width:0px;height:0px"></iframe>
-</noscript>
 
 
 
