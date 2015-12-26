@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610165727id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226140225id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,8 +70,7 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.wrestlingnewsworld.com
-
+http://www.wrestlingnewsworld.com  
 PO Box 2476  
 Beckley, West Virginia 25802  
 USA  
