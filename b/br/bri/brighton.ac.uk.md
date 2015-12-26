@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighton.ac.uk privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404041805id_/https%3A//www.brighton.ac.uk/siteinfo/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton.ac.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226110155id_/https%3A//www.brighton.ac.uk/siteinfo/privacy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -17,7 +17,7 @@ We may collect and process the following data about you:
 **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
 
   * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), your email address if you filled in a form on the site and methods used to browse away from the page and any phone number used to call our customer service number.
 
 
 
@@ -47,6 +47,7 @@ We use information held about you in the following ways:
   * to allow you to participate in interactive features of our service, when you choose to do so;
   * as part of our efforts to keep our site safe and secure;
   * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to analyse user behaviour on oue website
   * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
 
