@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drwhitaker.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623131254id_/http%3A//www.drwhitaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwhitaker.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226031158id_/http%3A//www.drwhitaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ We sometimes make our customer list available to selected merchants whose produc
 
 Healthy Directions  
 Attn: Customer Service  
-95 Old Shoals Rd  
-Arden NC 28704 
+P.O. Box 3314  
+Lancaster PA 17604 
 
 Still have questions? [Click here to contact us](https://web.archive.org/contact-us). 
