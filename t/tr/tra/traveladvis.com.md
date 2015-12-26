@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveladvis.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628142758id_/http%3A//www.traveladvis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveladvis.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226212207id_/http%3A//www.traveladvis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Total Travel Guide – Accommodation, Tours, Flights & Maps
 
@@ -14,11 +14,11 @@ General data may be used to customize and improve your user experience on this s
 
 **3\. Cookies**
 
-Like many web sites, this web site may set and uses cookies to enhance your user experience and for proper merchant tracking. Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site’s cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the Network Advertising Initiative if you want to find out more information about this practice and to learn about your options.
+Like many web sites, this web site may set and uses cookies to enhance your user experience and for proper merchant tracking. Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site’s cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the Network Advertising Initiative if you want to find out more information about this practice and to learn about your options.We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **4\. Minors**
 
 You must be a legal adult, or acting legal entity in your jurisdiction to download and/or use any of the products offered on this site.
 
-**6\. Changes to this Privacy Policy**  
+**5\. Changes to this Privacy Policy**  
 Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy by the posting of a prominent announcement on the site.
