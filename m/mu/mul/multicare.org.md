@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617023322id_/http%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226102921id_/http%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy > MultiCare Health System
+# Privacy Policy | MultiCare Health System
 
 ### Web Privacy Statement
 
@@ -18,7 +18,7 @@ Any registration form that requires a visitor to provide us with contact informa
 
 ### Security
 
-MultiCare has security measures in place to prevent the loss, misuse or alteration of information under our control. MultiCare employs strict security measures to safeguard online transactions through the use of Secure Sockets Layer (SSL) with 128-bit encryption. Any connection between your web browser and an https-protected page on our site uses this level of encryption.
+MultiCare has security measures in place to prevent the loss, misuse or alteration of information under our control. MultiCare employs strict security measures to safeguard online transactions through the use of Secure Sockets Layer (SSL) with 128-bit encryption. Any connection between your web browser and an https-protected page on our site uses this level of encryption. Learn more about [MyChart Security Settings](/mychart-security/).
 
 ### Email
 
