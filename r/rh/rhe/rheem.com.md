@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626040103id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071633id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Rheem Manufacturing Company Online Privacy Policy
 
