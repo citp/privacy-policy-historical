@@ -1,45 +1,17 @@
-> *The following text is extracted and transformed from the fantasticautoinsurance.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827022059id_/http%3A//www.fantasticautoinsurance.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticautoinsurance.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-Please read our privacy policy carefully before using this site
+* * *
 
-This Site is primary for informational purposes, but when requesting information or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number and other personally identifiable information.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Your Consent
-
-By using our site, you consent to our privacy policy.
-
-Information Collection
-
-  * We may collect basic information when registering our Site, such as your name, e-mail address, mailing address, phone number and other identifiable information
-  * We may collect personal information that can identify you, such as your name and e-mail address, as well as other information that does not identify you.
-  * We may collect and store any personal information you provide to us, such as when you contact us for help.
-  * We use various technologies to collect information from your computer and about your activities on our Site.
-  * We and our business partners, such as advertisers, may use technologies to collect information about users who view or interact with these advertisements and connect to other websites.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. We collect non-personal information about your use of our website through the use of cookies. The information collected by cookies allows us to statistically monitor how many people are using our website. We may use cookie information to determine the popularity of certain content and how long visitors stay on the site. fantasticautoinsurance.com does not sell, trade, or rent your personal information in any way. 
-
-Third Party Service Providers
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Company may collect information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company.
-
-Compliance with Laws and Law Enforcement
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with fantasticautoinsurance.com rules, regulations and policies.
-
-Transfer of Data Abroad
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.   
-By visiting this Site and communicating electronically with us, you consent to such transfers. 
-
-Changes in Our Practices
-
-fantasticautoinsurance.com Privacy Policy may be updated from time to time to reflect changes in our practices and Services. We reserve the right to modify this Privacy Policy at any time. we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
-If we make material changes to this Policy, we will notify you here, we will notify you here, or by means of a notice on our home page. 
-
-Contacting our Site
-
-If you have any questions about our Privacy Policy, contact us or leave messages.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
