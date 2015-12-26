@@ -1,115 +1,88 @@
-> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621092949id_/http%3A//www.clickview.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226042129id_/http%3A//www.clickview.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClickView
 
-ClickView Pty Limited and its subsidiaries (we, our, us) recognise the importance of protecting the privacy of those who visit or use ClickView. ClickView understands and appreciates that you, as a ClickView user, are concerned about the confidentiality and security of information ClickView may collect about you. When we collect information from you, we want you to know how it is used.
+ClickView Australia Pty Ltd (ACN 140 397 584) and its related and associated bodies corporate (“ **us, we, our** ”) maintain a policy of strict confidence concerning your (“ **you, your** ”) personal information (“ **Privacy Policy** ”). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) (“ **Privacy Act** ”). The Privacy Policy applies to the collection, storage, use and dissemination of your personal information by us. The term “personal information”, as used in this Privacy Policy, is as defined under the Privacy Act. By accessing this site www.clickview.com.au (“ **Site** ”), the ClickView platform (“ **Platform** ”) or otherwise using our services you accept the terms of this Privacy Policy. This Privacy Policy applies to information provided to us whether via the Site, the Platform or any other means.
 
-#### What information does ClickView gather?
+Although we will comply with this Privacy Policy in respect of personal information provided to us by persons under the age of 18 years, those persons must obtain the consent of a parent or guardian prior to using the Site and/or the Platform and the parent or guardian will be responsible for appropriately supervising the person’s use of the Site and/or the Platform.
 
-We collect personal information such as name, mailing or street address, email address, telephone number, details of products that you have purchased from us or enquired about, information you provide to our customer service team, customer surveys, promotional codes, payment method details, confirmation of your Screenright’s licence and billing information when you knowingly provide it to us Our Web servers may automatically collect statistical information about your visit such as pages visited and which browsers are used to visit our site. None of this information is associated with you as an individual (see information about cookies). If collected, we would use these statistics to monitor our site's performance and to make it user-friendly.
+If you have any further questions or if you wish to receive further details on our information practices and Privacy Policy, please contact our Privacy Officer using the method set out below.
 
-#### What happens when I provide personal information on this Website and Products?
+### Collecting personal information
 
-We collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you, we may collect in ways including:
+The personal information you provide to us is collected to enhance your use of the Site and the Platform, to improve the Site and the Platform, and to keep you informed of our products and services that might be relevant to you. It is also collected to allow us to provide the functions and services offered on the Site and the Platform to you. 
 
-  * Through your access and use of our website;
-  * Through your access and use of our products;
-  * During conversations between you and the ClickView team; or
-  * When you complete a transaction
+Other personal information we collect from you is for the purpose of providing our services. The types of personal information we collect from you includes your contact details such as name, email address, phone number, job title, student or staff group, and institution name. We will generally collect personal information directly from you. We may collect your personal information in any of the following ways:
 
-
-
-When you supply information for a specific purpose such as ordering a product or service from ClickView, we use the information only for the purpose of providing that product or service and ongoing support.
-
-#### What happens when I provide information to subscribe to ClickView?
-
-When you subscribe with ClickView, we request accurate contact information for your school and staff. This is used to provide ongoing product support and to send you company and product information, special offers and/or newsletters.
-
-If you're a ClickView customer, we store your name, purchase and usage history and billing information to allow us to continue to provide support and training.
-
-In order to improve your experience with us, we may decide to improve our site's ability to obtain information about users. If we do, we will update this privacy statement continually to ensure that you are aware of developments in this area.
-
-#### For what purpose do we collect, hold, use and disclose your personal information?
-
-We require your information for the purposes of:
-
-  * Providing products and services to you and to send communications requested by you;
-  * Answering enquiries and provide information or advice about existing and new products or services;
-  * Administrative, marketing (including direct marketing), planning, product or service development, quality assurance;
-  * Billing purposes including invoicing and accounts receivable;
-  * Complying with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator, or in co-operation with any governmental authority of any country; and
-  * To provide member and service user support.
+  * when you log on and access the Platform;
+  * when you access our Site and provide your personal information; 
+  * during conversations and/or correspondence between you and the ClickView team; 
+  * when you complete a transaction with us; 
+  * when you otherwise elect to provide personal information to us; or
+  * from third parties such as your institution.
 
 
 
-ClickView will endeavour to take reasonable steps to ensure that your personal information is accurate, up to date and relevant. Please contact ClickView should you need to update your information.
+If someone other than you provides us with personal information about you that we did not ask for, we will notify you, as soon as practicable that we have received this personal information. This notice will be given unless to do so would be in breach of an obligation of confidence. If we could not have collected this personal information, we will lawfully de-identify or destroy that personal information. 
 
-#### To whom may we disclose your information?
+### Cookies
 
-We may disclose your personal information to:
+When you visit the Site we may attach a "cookie" called CVONLINE2 to your computer's memory. This “cookie” is a small text file which assists us to store session information when you are logged into the Site and to facilitate seamless access between our different services. The cookie will expire after 1 day. 
 
-  * Our employees, fulfilling requests by you, and to otherwise provide products and services to you including, without limitation, web hosting providers, mailing houses, couriers, payment processors;
-  * Suppliers and other third parties with whom we have commercial relationships, for business, hardware, marketing, and related purposes; and
-  * Any organisation for any authorised purpose with your express consent.
+If you choose to do so, you should be able to configure your computer so that it disables “cookies” or does not accept them, however, this may impact the functionality of the Site. 
 
+### Use and disclosure of information
 
+If we have obtained your personal information through your use of the Platform (for example, when you log-on to use the Platform) or from your institution in connection with your use of the Platform, your personal information will be securely stored by us and not used for any purpose other than to enable your continued use of the Platform.
 
-As we care about your person information, we do not share any personally identifiable data that we collect from you with information collected by any of external providers (within Australia) unless you have consented to the use or disclosure of the information. Please note that all of our data centres in Australia (that host ClickView Exchange, Media Store, ClickView 24-7 Cloud and customer database) do not have access to your personal information. 
+We will not disclose your personal information to any third party other than in accordance with this Privacy Policy. In order to provide our services, we may disclose your personal information to other organisations but only to allow them to assist us in providing our services to you. We take reasonable steps to ensure that these organisations comply with technical and organisational security measures required to protect your personal information.
 
-We may disclose non-personally identifiable information to third party service providers managed by Microsoft Corporation Limited for hosting of ClickView Online. Microsoft Corporation Limited and ClickView continue to work together to ensure that we meet the privacy provisions of Australian Privacy Principle 8. We take reasonable steps to ensure that the overseas recipients of this information do not breach the privacy obligations relating to your data.
+### Direct marketing
 
-#### How often will you contact me? 
+If we have obtained your personal information through your use of the Platform (for example, when you log-on to use the Platform) or from your institution in connection with your use of the Platform, we will not use your personal information for marketing purposes and your personal information will not be stored on our customer relationship management (CRM) system.
 
-ClickView may contact you for the purposes of product, technical or billing purposes. We will contact you directly if you’re a current user of the product, or you have provided your details to us and you have not requested to unsubscribe. If you would not like to receive any further communications in relation to the respective topic, please email us at info@clickview.com.au or follow the prompts in the electronic direct marketing that you have received to unsubscribe. Please note that ClickView ensures that it will not contact students for the purposes of direct marketing.
+If we have obtained your personal information by other ways permitted in this Privacy Policy, including via the Site, we may, and, where we have shared your personal information with our group companies, they may, use your personal information to send you information about new developments, products, services and special offers by post, telephone or, where you have given your consent to do so, via any form of electronic communication. 
 
-#### How can you access and correct your personal information?
+You can, at any time, opt out of receiving marketing material from us by contacting us using the method set out below or, where we have sent you electronic marketing materials, by using the unsubscribe link within the communication. You agree and acknowledge that even if you opt out of receiving marketing material, we will still send you essential information that we are required to send you relating to the services we provide. Once you opt out of receiving marketing material from us, you agree and acknowledge that this removal from our distribution lists may take several business days after the date of your request to be removed. 
 
-You may request access to any personal information we hold about you at any time by contacting us (see the details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. 
+### Accuracy of your information
 
-There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality (12.3(b) of the Australian Privacy Principles). If that happens, we will give you written reasons for any refusal.
+We take all reasonable steps to ensure that your personal information held by us is accurate and up-to-date. If you believe that any of your personal information is inaccurate, please contact us using the method set out below and we will take all reasonable steps to correct it within a reasonable time.
 
-#### Do you sell or give my information to other companies?
+### Third Parties and your information
 
-No, we do not sell individually identifiable information obtained online about our visitors to anyone. The only exception to this rule is if we are required by law to release information.
+We will only collect, store, use or disclose your personal information as set out in this Privacy Policy and where we are required by law to protect our rights or property (or those of any third party), or to avoid injury to any person.
 
-If you provide individually identifiable information at an event that we sponsor with another company, or if you subscribe or register on a co-sponsored or co-branded website and products, you may be providing the individually identifiable information to the co-sponsor. Review the privacy statement on the co-branded site to learn how the partner uses this information. Be assured that we use this information in accordance with this privacy policy.
+### Disclosure of Information Overseas
 
-On occasion, ClickView shares non-personally identifiable information with other companies in order to assess the results of a promotion. This information is used in aggregate only, and does not contain any information that would personally identify you. Information could be shared with an authorised ClickView reseller to fulfil a request for information or to follow up on an inquiry.
+Your personal information will not be transferred or disclosed to any recipient in a foreign country.
 
-Personal information submitted to ClickView may be transferred across national boundaries and may be stored and processed in any of the countries in which ClickView its affiliates or authorised resellers maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of ClickView. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
+### Your consent
 
-#### What about cookies?
+By your use of the Site and/or the Platform you consent to the collection, storage, use and disclosure of your personal information in accordance with this Privacy Policy and as otherwise permitted under the Privacy Act. 
 
-In some cases we may also collect your personal information through the use of cookies. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website without bothering you with a request to register/login. It also enables us to keep track of products or services you view so that, if you consent, we can send you news about those products or services.
+### Storage and security
 
-We also use cookies to measure traffic patterns, to determine which areas of our website have been visited and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. Our cookies do not collect personal information. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. Please note if your browser is set to not accept cookies, you will not be able to use our site or service.
+We will use all reasonable endeavours to keep your personal information in a secure environment, however, this security cannot be guaranteed. Our security measures include tiered access to the Platform, password access for administration accounts that are changed every 30 days, use of encryption software for traffic on the Site and the Platform, and recording systems of access to the Platform. These security measures are designed to ensure your personal information is not subjected to unauthorised access, loss or misuse. If you reasonably believe that there has been unauthorised use or disclosure of your personal information please contact us using the method set out below.
 
-We may log IP addresses (that is, the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track users movements, and gather broad demographic information.
+If we no longer need your personal information, unless we are required under Australian law or a court or tribunal order to retain it, we will take reasonable steps to de-identify your personal information or destroy your personal information securely. 
 
-#### What do you do with personally identifiable information?
+### Variation and consent to variation
 
-Personal information you voluntarily supply when obtaining information, purchasing services or interacting with our advertising may be shared with authorised resellers or affiliates of ClickView. Should any changes be made in the way we use personally identifiable information, ClickView will contact you via email notifying you of this change and give you the opportunity to choose to opt out of such use.
+We may vary the terms of this Privacy Policy at any time. You should check this Privacy Policy regularly so that you are aware of any variations made to this Privacy Policy. You will be deemed to have consented to such variations by your continued use of the Site and/or the Platform following such changes being made.
 
-#### How do you protect my personal information?
+### Access to information we hold about you
 
-We are committed to protecting the information you give us, so we implement the appropriate safeguards to do so. Within ClickView your information is stored in password-protected, limited-access servers. Wherever possible, ClickView servers reside behind a firewall that maintains tight controls on any access to the system from both our internal network and the Internet. Employees are made aware of our privacy policy and are trained on procedures to handle privacy-related concerns.
+If you request access to the personal information we hold about you, we will respond to your request within a reasonable period of time and, where reasonable and practicable, give access to the information in the manner you request. This will be subject to any exemptions allowed under the Privacy Act. You may request this information by writing to:
 
-We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorised access, modification or disclosure. Personal information is destroyed or de-identified when no longer needed.
+Privacy Officer, ClickView Australia Pty Ltd  
+Suite 125, 26-32 Pirrama Road, Pyrmont, New South Wales 2009   
+or sending an email to us at [info@clickview.com.au](mailto:info@clickview.com.au)
 
-As ClickView’s website and applications are linked to the internet, and as the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us online. We also cannot guarantee that the information you supply will not be intercepted while being transmitted over the internet. Accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk.
+When contacting us you have the option to either not identify yourself or to use a pseudonym. However, this will not apply if it is impracticable for us to communicate with you that way or we are required or authorised under Australian law (or a court or tribunal order) to only deal with individuals who have identified themselves. 
 
-#### What is the process for complaining about a breach of privacy?
+### Making a complaint
 
-If you believe that your privacy has been breached, please contact us using the contact information below and provide details of the incident so that we can investigate it.
+If you would like to make a complaint in relation to how we have handled your personal information, or about a breach of the Australian Privacy Principles, please contact our Privacy Officer using the method set out above with a written summary of your relevant complaint.
 
-Our procedure for investigating and dealing with privacy breaches is:
-
-Step 1: On discovery of any privacy breach that involves you we will contain the breach and escalate to the appropriate department to investigate.
-
-Step 2: We will notify you of the outcome within a reasonable time.
-
-Step 3: We will undertake best endeavours to prevent future breaches by making any necessary changes to processes.
-
-#### Contacting us
-
-If you have any questions about this privacy policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please contact us at [info@clickview.com.au](mailto:info@clickview.com.au)
+We will investigate your complaint and will endeavour to provide you with a written response within 30 days of receiving your complaint.
