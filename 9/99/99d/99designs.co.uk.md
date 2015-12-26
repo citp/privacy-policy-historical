@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the 99designs.co.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617044148id_/http%3A//99designs.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226122752id_/http%3A//99designs.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # 
 
-[](https://privacy.truste.com/privacy-seal/99designs/validation?rid=2a20c3eb-0bfe-4271-b42b-0a7299b726c6 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/99designs/validation?rid=2a20c3eb-0bfe-4271-b42b-0a7299b726c6 "TRUSTe Privacy Certification")
 
-**Last revised on:** 1st of July 2013
+**Last revised on:** 27th of August 2015
 
 99designs Pty Ltd, Australian Company Number 121 195 248 (“ **99designs** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.99designs.com and Services (as defined in the Terms of Use). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <http://99designs.com/legal/terms-of-use>.
 
-99designs has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through this Site, www.99designs.com and its sub-domains.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@99designs.com. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+99designs, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site, www.99designs.com and its sub-domains. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTE here](https://feedback-form.truste.com/watchdog/request).
 
 99designs, Inc. (our U.S. Affiliate) complies with the U.S.—E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from the European Union member countries. 99designs, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more details regarding 99designs, Inc.'s compliance with the Safe Harbor Privacy Principles, please contact us at support@99designs.com. To learn more about the Safe Harbor program, and to view 99designs, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -24,7 +22,7 @@ Our Service is not offered to persons under the age of 13. Thus, we do not inten
 
 ## 3\. Types of Data We Collect
 
-“ **Personal Information** ” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “ **Anonymous Data** ” means data that is not associated with or linked to your Personal Information; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Information and Anonymous Data, as described below.
+“ **Personal Information** ” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “ **Anonymous Data** ” means data that is not associated with or linked to your Personal Information; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Information and Anonymous Data, only as described below.
 
 ### a. Information You Provide to Us.
 
@@ -39,18 +37,18 @@ Our Service is not offered to persons under the age of 13. Thus, we do not inten
 
 
 
-### b. Information Collected via Technology.
+### b. Tracking Technologies / Cookies.
 
-  * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. We use this information, which does not identify individual users, to analyze trends, to administer the Site, to track users' movements around the Site and to gather demographic information about our user base as a whole. We may link this automatically-collected data to Personal Information for the purposes of security and to detect fraudulent activity.
-  * We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. Cookies may enable automatic logins when you visit in the future and may enable content customization.
-  * We also employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our visitor’s Personal Information.
-  * The use of tracking technologies by our technology partners and other 3rd party assets on the Site is not covered by our Privacy Policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage content on our Site. We do not have access or control over these technologies. We do not tie the information gathered to our visitor’s Personal Information. We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  * Technologies such as: cookies, beacons, tags and scripts are used by 99designs and our [specify type e.g. marketing partners] partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+  * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you automatically and store it in log files. The information may include your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, internet service provider (ISP), referring/exit pages, clickstream data and/or a date/time stamp for your visit. We may link this automatically-collected data to Personal Information for the purposes of security and to detect fraudulent activity.
+  * We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.]. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
+  * We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 
 
 ### c. Google Analytics.
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20150617044148id_/http%3A//99designs.co.uk/legal/www.google.com/ads/preferences/).
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20151226122752id_/http%3A//99designs.co.uk/legal/www.google.com/ads/preferences/).
 
 ### d. ThreatMetrix.
 
@@ -68,21 +66,29 @@ We may create Anonymous Data records from Personal Information by excluding info
 
 ## 5\. Disclosure of Your Personal Information.
 
-We disclose your Personal Information as described below and as described elsewhere in this Privacy Policy.
+We disclose your Personal Information as described below and as described elsewhere in this Privacy Policy. We share your personal information with other companies such as our printing partners so that they can provide you with a free no obligation quote. If you do not want us to share your personal information with these companies, contact us at support@99designs.com.
 
 ### a. Profile Information.
 
-The profile you create on our Site will be publically accessible unless otherwise indicated. You may delete your profile by requesting to delete your account by contacting us via phone or by email at support@99designs.com. The information collected during the registration process by 99designs may be used by 99designs to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit
+The profile you create on our Site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. You may delete your profile by requesting to delete your account by contacting us via phone or by email at support@99designs.com. The information collected during the registration process by 99designs may be used by 99designs to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit. If you believe that an unauthorized profile has been created about you, please contact us support@99designs.com to request removal.
 
-### b. Third Party Service Providers.
+### b. Public Member Directory
+
+We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at support@99designs.com.
+
+### c. Third Party Service Providers.
 
 We may share your Personal Information with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to 99designs. These third party service providers are required not to use your Personal Information other than to provide the services requested by 99designs.
 
-### c. Affiliates and Acquisitions.
+### d. Affiliates and Acquisitions.
 
 We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. As described above, 99designs, Inc. (our U.S. Affiliate) complies with the U.S.—E.U. Safe Harbor Framework. If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
-### d. Other Disclosures.
+### e. Frames
+
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to 99designs.com.
+
+### f. Other Disclosures.
 
 Regardless of any choices you make regarding your Personal Information (as described below), 99designs may disclose Personal Information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on 99designs; (c) to protect or defend the rights or property of 99designs or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or the Terms of Use.
 
@@ -104,11 +110,11 @@ Our Site includes social media features (“ **Features** ”) such as the Faceb
 
 ### a. Choices.
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. 1\. When you create an Account on 99designs.com, we may periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, by adujsting your email preferences from within your Account setting page or by contacting us directly (please see contact information below). 2\. Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy.
+We offer you choices regarding the collection, use, and sharing of your Personal Information. 1\. When you create an Account on 99designs.com, we may periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, by adujsting your email preferences from within your Account setting page or by contacting us directly (please see contact information below). 2\. Despite your indicated e-mail preferences, we may send you service related communication (for instance, if our service is temporarily suspended for maintenance) or notices of any updates to our Terms of Use or Privacy Policy. You do not have an option to opt out of these emails, which are not promotional in nature.
 
 ### b. Changes to Personal Information.
 
-You may change any of your Personal Information in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Information by contacting us via the site or at support@99designs.com, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
+You may change any of your Personal Information in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Information by contacting us via the site or at support@99designs.com, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your Account is active or as needed to provide you Services, for fraud prevention and similar purposes and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -118,7 +124,7 @@ We will retain your information for as long as your Account is active or as need
 
 ## 9\. Blogs.
 
-Our Site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at support@99designs.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+Our Site offers publicly accessible blogs. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 ## 10\. Testimonials.
 
@@ -132,10 +138,7 @@ If you choose to use our referral service to tell a friend about our Site, we wi
 
 99designs welcomes your comments or questions regarding this Privacy Policy. Please contact us at the following:
 
-99designs Inc,  
-2201 Broadway, Suite 815  
-Oakland, CA 94612  
-USA 
+99designs Inc, 2201 Broadway, Suite 815 Oakland, CA 94612 USA
 
 ## 13\. Changes to This Privacy Policy.
 
