@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the wwesm.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226193918id_/http%3A//www.wwe.com/help/generalfaq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwesm.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226083345id_/http%3A//www.wwe.com/help/generalfaq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WWE.com
 
-[](https://privacy.truste.com/privacy-seal/World-Wrestling-Entertainment,Inc/validation?rid=a75f44c1-6c97-42d6-80f8-67bf441d3db4 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/World-Wrestling-Entertainment,-Inc-/validation?rid=892914bb-3e0a-4c0e-9d41-ffd87f8e161e "TRUSTe European Safe Harbor certification")
 
 **World Wrestling Entertainment, Inc. Privacy Policy**  
- **Updated May 20, 2014**
+ **Updated April 20, 2015**
 
  **Introduction**
 
-The website, [www.wwe.com](https://web.archive.org/ "www.wwe.com"), you have entered is owned and operated by, or on behalf of, World Wrestling Entertainment, Inc. or its affiliates (collectively, "WWE", "we" or "us").
+The website, [www.wwe.com](https://web.archive.org/ "www.wwe.com"), [www.WWEToughEnough.com](https://www.wwetoughenough.com/) and our WWE Mobile Application (collectively the Services) you have entered are owned and operated by, or on behalf of, World Wrestling Entertainment, Inc. or its affiliates (collectively, "WWE", "we" or "us").
 
 Please note that this Privacy Policy contains capitalized words or phrases. These words and phrases are defined terms. Their definitions are found either in this Privacy Policy or in our [Terms and Conditions of Use](https://web.archive.org/main-help/generalfaq/terms-and-conditions-wwe "Terms and Conditions of Use") ("Terms of Use"). To help you use this Privacy Policy and our Terms of Use, we have made some words, phrases and headings into hyperlinks. These words, phrases and headings have color highlighting.
 
 WWE has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions about our privacy practices or Privacy Policy, please contact us [here](https://secure.wwe.com/forms/help/memserv.php "Member Services Contact Form").
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.wwe.com](https://web.archive.org/ "www.wwe.com") and mobile application.
+The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.wwe.com](https://web.archive.org/ "www.wwe.com"), [www.WWEToughEnough.com](https://www.wwetoughenough.com/) and mobile application.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog](https://feedback-form.truste.com/watchdog/request).
 
 World Wrestling Entertainment, Inc. complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. WWE has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view World Wrestling Entertainment, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-WWE wants to help you make the most of your visit to our websites, and that includes helping to protect your personal privacy. Most of the features on our websites are offered without collecting any Personal Information from you; however, some features require you to provide your Personal Information. For example, when you make a purchase or sign up for a paid service (such as in the WWE Shop), you are required to submit Personal Information in connection with our providing various products and services to you. You may also submit content of your own in areas of our websites and some of that User-Generated Content may contain Personal Information. For those areas of our websites and services that do require us to collect Personal Information or allow voluntary submission of Personal Information, this Privacy Policy will offer suggestions on how to make good decisions for yourself and your family.
+WWE wants to help you make the most of your visit to our websites and mobile application, and that includes helping to protect your personal privacy. Most of the features on our websites and mobile application are offered without collecting any Personal Information from you; however, some features require you to provide your Personal Information. For example, when you make a purchase or sign up for a paid service (such as in the WWE Shop), you are required to submit Personal Information in connection with our providing various products and services to you. You may also submit content of your own in areas of our websites and mobile application, and some of that User-Generated Content may contain Personal Information. For those areas of our websites and services that do require us to collect Personal Information or allow voluntary submission of Personal Information, this Privacy Policy will offer suggestions on how to make good decisions for yourself and your family.
 
-This Privacy Policy discloses when and how we collect, use, share, and safeguard information from this website, and in connection with WWE Magazine subscriptions (whether through the websites, or otherwise). The Personal Information we collect depends on what you do when you visit our websites or use the various products or services we offer. This Privacy Policy also explains what to do if you do not want to provide Personal Information when you visit our websites, and how to correct, change or delete information you have already provided to us.
+This Privacy Policy discloses when and how we collect, use, share, and safeguard information from these websites. The Personal Information we collect depends on what you do when you visit our websites or use the various products or services we offer. This Privacy Policy also explains what to do if you do not want to provide Personal Information when you visit our websites, and how to correct, change or delete information you have already provided to us.
 
-By using this website, you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy, please do not use our websites.
+By using these websites, you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy, please do not use our websites.
 
 As used in this Privacy Policy, "Personal Information" means any information by which a particular natural person is reasonably identifiable. Personal Information includes, for example a first name or initial and last name; a home or other physical address; a date of birth; an e-mail address or other online contact information; or a telephone number. When Personal Information is collected, you will know because you will be providing it to us; for example, you may fill out a form on the website or submit information via your account or profile, or in connection with requesting various products or services. When you make a purchase or sign up for a paid service, we will also collect additional Personal Information such as your credit or debit card information or information concerning any other payment mechanism we accept (“Payment Information”). We will use Payment Information only as described in this Privacy Policy to process and complete the transactions you have requested.
 
@@ -33,7 +33,7 @@ As used in this Privacy Policy, "Personal Information" means any information by 
 
 WWE is committed to providing special protection for the privacy of children who may visit our websites. We encourage parents to spend time online with their children, become familiar with the features of our websites and participate in the activities offered on our websites. For more information on getting involved in your children's online activities, please go to our [WWE Parents site](http://corporate.wwe.com/parents/overview.jsp "WWE Parents"). Our protections for the privacy of children include the following:
 
-We do not knowingly solicit, collect, use or retain any Personal Information, for any purpose whatsoever (including internal or external marketing or promotional purposes), from visitors to this website who are under the age of 13. In addition, we will delete any records of such Personal Information that come to our attention.
+We do not knowingly solicit, collect, use or retain any Personal Information, for any purpose whatsoever (including internal or external marketing or promotional purposes), from visitors to these websites who are under the age of 13. In addition, we will delete any records of such Personal Information that come to our attention.
 
 We do not allow visitors who we know are under the age of 13 to be listed in any directory of registered users, to participate in any of our chat services, to register for contests, sweepstakes, promotions, or newsletters, or to receive direct marketing from WWE or from our third-party affiliates or service or product providers.
 
@@ -47,11 +47,11 @@ If you become aware that your child has provided us with Personal Information at
 
  **Social Media Features**
 
-Our website and mobile application include Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our websites and mobile application include Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
  **Facebook Connect or other OpenID provider**
 
-You can log in to our site using sign-in services such as Facebook Connect or an OpenID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and e-mail address to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.   
+You can log in to our site using sign-in services such as Facebook Connect or an OpenID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and e-mail address to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information about your activities on our websites to your profile page to share with others within your network.   
 
  **Collection of Personal Information**
 
@@ -63,7 +63,7 @@ WWE collects Personal Information from visitors to our websites in a number of w
   * Registrations to participate in chat services (such as WWE.com chat and Pay Per View chats), message boards and the gaming area.
   * Registrations to send electronic greeting cards.
   * Registrations for individual accounts or profiles.
-  * Purchases of merchandise, magazine subscriptions, Streaming Pay Per View events, and transactions where home delivery is required.
+  * Purchases of merchandise, Streaming Pay Per View events, and transactions where home delivery is required.
   * E-mail transmitted via various links on our websites.
 
 
@@ -72,21 +72,21 @@ The use of any of these services is entirely optional and voluntary; however, if
 
 If you send us an e-mail, you should know that e-mail is not necessarily secure against interception. So, if your communication needs to include sensitive information like your Payment Information or social security number, please contact us by postal mail or telephone (see "Contact Us" below) rather than e-mail.
 
-WWE also collects Personal Information from individuals who subscribe to our magazines, whether this is done online, over the phone, by mail, etc. We must collect certain Personal Information, such as names and addresses, to provide subscriptions.
+We collect your location-based information for the purpose of detecting your location so that we may serve you the correct version of the application. We will only share this information with our mapping provider for the sole purpose of providing you the service. If you no longer wish to allow us to track your location-based information in the Mobile App you may turn this off at the device level.
 
- **Cookies, Locally Shared Objects, and Other Technologies**
+We may provide you the opportunity to participate in contests on our websites. If you participate, we will request certain personally identifiable information from you. Participation in these contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as city, state, zip code). We also use this information to notify contest winners and award prizes.
 
-In order to track your use of our websites, "cookies" are employed. We – and our affiliates and advertising partners – use two types of cookies – so-called "browser cookies" and "Flash cookies." Browser cookies (also called "HTTP cookies") are pieces of information that are sent by websites and stored in your computer's hard drive, which provide you a service by allowing us to recognize your computer to save you from having to re-enter the same data every time you visit our websites. They also allow us and our affiliates and advertising partners to learn how visitors use our websites. This user data is aggregated for tracking purposes primarily by tallying pages viewed throughout our websites and logging Internet Protocol ("IP") addresses, browser types, general geographic origin of access to our websites and similar usage data. Flash cookies (also called "Locally Shared Objects" or "LSOs") are also used to remember settings and preferences and to track usage. However, Flash cookies are stored differently on your hard drive and are managed through a different interface than the one provided by your web browser. In general, Flash cookies are more persistent and can store more data that browser cookies.
+We may also request a video submission containing your physical likeness, height, weight and other personally identifiable information you voluntarily disclose in the video. We may display user-created video submissions, the user's name, self-identified "nickname" and location (city, state and country) on our websites. Such submissions may be posted to the website and will be visible to other users and visitors of the websites.
 
-Our websites may use other technologies such as pixel tags, web beacons, or other forms of local storage, including HTML5 local storage (collectively, “other technologies”) in order to collect and track information about individuals to our websites. Information collected from these types of technologies, and from cookies and Flash cookies, is collectively referred to as “website usage data.”    
+ **Tracking Technologies**
 
-Website usage data enables us to tailor our content to our visitors' interests and to help our affiliates and advertisers better understand the preferences of our audience. Providing website usage data to advertisers is essential to keeping as many of our services free to visitors as is reasonably possible. In general, website usage data information does not identify you, although we may combine this website usage data with Personal Information under this Policy.
-
-Our third-party advertisers also may place, access or recognize a browser or Flash cookie on your hard drive, or use other technologies to collect and track information about you in order to serve the most appropriate advertisements. Advertisers may use browser or Flash cookies and other technologies in manners that are not fully described in this policy, and we make no promises about how they use them.
-
-If you do not want to receive browser cookies, you may be able to set your browser to reject them. If you wish to disable or delete Flash cookies, you should consult the Help file for your Flash application, and/or visit <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>. However, if you turn cookies off (whether browser or Flash cookies), you may not have access to some WWE features and services. The other technologies that our websites use may not be able to be disabled; if you are concerned about this, you should not use our websites.
+Technologies such as: cookies, beacons, tags and scripts are used by WWE, our affiliates and advertising partners and our partners who server content on our site. These technologies are used in allowing us to recognize your computer to save you from having to re-enter the same data every time you visit our websites, allowing us to learn how visitors use our websites, analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+
+ **Log Files**
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
  **Push Notifications**
 
@@ -94,7 +94,7 @@ We send you push notifications from time-to-time in order to update you about an
 
  **Worldwide Transfers and Processing of Personal Information**
 
-All Personal Information that WWE collects at our websites is transferred to, and accessed from, jurisdictions including the United States. By using this website and/or by submitting Personal Information to this website, you consent to having your information transferred to, and accessed from, any location worldwide, including the United States. You also consent to having your Personal Information processed and maintained in any location worldwide, including the United States. You acknowledge that other jurisdictions may have laws that are different than the law of your home country.
+All Personal Information that WWE collects at our websites is transferred to, and accessed from, jurisdictions including the United States. By using our websites and/or by submitting Personal Information to these websites, you consent to having your information transferred to, and accessed from, any location worldwide, including the United States. You also consent to having your Personal Information processed and maintained in any location worldwide, including the United States. You acknowledge that other jurisdictions may have laws that are different than the law of your home country.
 
  **How We Use Your Information**
 
@@ -121,19 +121,17 @@ We will use or retain your Personal Information only in accordance with the term
 
  **Security of Personal Information**
 
-We take what we believe to be commercially reasonable physical, administrative and technical precautions to keep your Personal Information secure, including the use of Transport Layer Security technology (formerly referred to as secure socket layer technology [SSL] technology) to help protect the transmission of Payment Information.
+We take what we believe to be commercially reasonable physical, administrative and technical precautions to keep your Personal Information secure, including the use of Transport Layer Security technology (formerly referred to as secure socket layer [SSL] technology) to help protect the transmission of Payment Information.
 
  **Opt-Out**
 
 In general, features on our websites requiring registration allows you to opt-out from receiving updates, special offers, promotions, marketing or other correspondence from either us or our business affiliates or advertising partners by following the unsubscribe instructions contained in the e-mail communications you receive. In addition, if after registering you would no longer like to receive such information, click [here](http://www.wwe.com/my-profile "My Profile") and sign into your account. After signing in, select My Preferences. Below the Superstars are the e-mail preferences. Clicking Uncheck All and Save Changes will remove you from all of our mailing lists. Indicate your preference to "unsubscribe," and we will remove you from our list. Please be sure to include your name and e-mail address in the e-mail, so that we can remove that information from our list.
 
-If you are a WWE Magazine subscriber and you do not want to receive updates, special offers, or promotions from WWE and third party advertising partners, clicking Uncheck All in the steps above will remove you from that mailing list.
-
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/ "TRUSTe Preferences & Opt-Out"). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. ****
+We partner with a third party ad network to either display advertising on our websites and mobile application or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/ "TRUSTe Preferences & Opt-Out"). If you are in the EU, please click [here](http://youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. ****
 
  **Access/Correct/Update/Delete Personal Information**
 
-If you would like to know what Personal Information WWE has concerning you, send an e-mail by clicking [here](https://secure.wwe.com/forms/help/memserv.php "Member Services Contact"). We will be in contact with you (by mail or otherwise) to verify your identity and provide you the information you request. We will respond within 30 days to your request for access to your Personal Information. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+If you would like to know what Personal Information WWE has concerning you, send an e-mail by clicking [here](https://secure.wwe.com/forms/help/memserv.php "Member Services Contact"). We will be in contact with you (by mail or otherwise) to verify your identity and provide you the information you request. We will respond within 30 days to your request for access to your Personal Information. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why. Even if we are able to make your content no longer visible, this does not ensure complete or comprehensive removal of your content or personal information from the Internet as third parties may retain screen shots and/or share your video on other websites.
 
 If you would like to correct or update your Personal Information, click [here](http://www.wwe.com/my-profile) and sign into your account. If you would like to delete your account or remove your information from our blog or community forum, send an e-mail by clicking [here](https://secure.wwe.com/forms/help/memserv.php "Member Services Contact").
 
@@ -164,3 +162,5 @@ Stamford, CT 06902
 (203) 352-8600
 
 Send an e-mail by clicking [here](https://secure.wwe.com/forms/help/memserv.php).
+
+We collect your location-based information for the purpose of detecting your location so that we may serve you the correct version of the application. We will only share this information with our mapping provider for the sole purpose of providing you the service. If you no longer wish to allow us to track your location-based information in the Mobile App you may turn this off at the device level. 
