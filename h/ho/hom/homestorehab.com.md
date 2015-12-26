@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestorehab.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628192717id_/http%3A//www.homestorehab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestorehab.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226045427id_/http%3A//www.homestorehab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
