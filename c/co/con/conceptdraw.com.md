@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621155918id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090236id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
@@ -79,11 +79,7 @@ CS Odessa websites are general audience sites which are neither designed nor 
 
 ### Store Return Policy
 
-ELECTRONIC and BOXED  
-All products purchased from this store can be returned within 30 days from purchase. Physical product must be returned unopened. To return physical or electronic delivery products one must obtain a Return of Material Authorization number(RMA) from ConceptDraw Customer Service. Physical product media is warranted for 30 days. Customer Service can be reached M-F at 877-441-1150 ext 5 (between 8 a.m. and 5 p.m. Pacific time zone). 
-
-ELECTRONIC  
-All products purchased from this store can be returned within 30 days from purchase. To return electronic delivery products one must obtain a Return of Material Authorization number (RMA) from ConceptDraw Customer Service. Customer Service can be reached M-F at 877-441-1150 ext 5 (between 8 a.m. and 5 p.m. Pacific time zone).
+Any fees paid by you for ConceptDraw Products or Solutions are non-refundable. You wil be responsible for withholding, filing, reporting, and paying all taxes, duties and other governmental assessments associated with your activity in connection with your purchase (except for taxes on our net income). Customer Service can be reached M-F at 877-441-1150 ext 5 (between 8 a.m. and 5 p.m. Pacific time zone).
 
 ### Contact Information
 
