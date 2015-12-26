@@ -1,28 +1,17 @@
-> *The following text is extracted and transformed from the netqcreative.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326102903id_/http%3A//www.netqcreative.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netqcreative.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | About us
+# Legal
 
-|  03 November 2010 
+* * *
 
-NetQ has created this privacy policy in order to respect and protect the privacy and security of our users.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Our site's registration form requires you to give us contact information like email-address or domain name .We use information from the registration for internal purposes only.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-This site gives users the option of removing their information from our database to not receiving future communications. Please let us know by sending us e-mail at service@netqcreative.com We consider all data we collect through this website and elsewhere as private confidential information, and we will keep it private . We will not share individually identifiable information about our website visitors, clients, or their applicants to any third party unless permission is granted in writing by our website visitor, client, or their applicants.
 
-IP addresses are recorded in our website log files. The content of the log files are analyzed periodically to help us aggregate trends and statistics to better understand how our site is being used and to make it more effective.Your IP address only indicates where you connected from it does not identify for us who you are when you are just browsing through our site.
 
-This site contains links to other sites. We do not review or control the privacy practices or the content of such websites.
-
-If you have any questions about our Privacy Policy, our practices, or your experience on our website, Please contact us at service@netqcreative.com
-
-Or:
-
-Address:  
----  
-69C - Duong Quang Ham, Quan Hoa, Cau Giay  
-Ha Noi  
-10000  
-Viet Nam  
-Telephone: | +84 43 752 4843  
----|---
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
