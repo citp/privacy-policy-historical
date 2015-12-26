@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618174440id_/http%3A//www.uwmedicine.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226031146id_/http%3A//www.uwmedicine.org/about/privacy) for the most accurate reproduction.*
 
 # Joint Notice of Privacy Practices of UW Medicine and Certain Other Providers | UW Medicine
 
