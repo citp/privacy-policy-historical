@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622030512id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226043221id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
 
 # Help and Frequently Asked Questions | Catch My Party
 
@@ -27,6 +27,8 @@ We use certain third parties to perform functions and provide services to us lik
 Catch My Party cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government officials or private parties as we believe necessary to respond to claims, legal process, to protect the property and rights of Catch My Party or a third party, the safety of the public or any person, to prevent or stop any illegal, or legally actionable activity or to comply with the law. 
 
 Catch My Party may sell, transfer, or otherwise share some or all of its assets, including your personally identifiable information in connection with a sale, merger, reorganization or sale of assets or in the event of bankruptcy. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/choices/)
 
 If you are a registered user of the site, you may access or update your information from the account setting page, or by [emailing your request](mailto:help@catchmyparty.com?subject=Help%20with%20the%20site). 
 
