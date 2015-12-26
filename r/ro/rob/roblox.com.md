@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630001011id_/http%3A//www.roblox.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roblox.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070125id_/http%3A//www.roblox.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # ROBLOX Privacy Policy
 
@@ -25,7 +25,7 @@ ROBLOX works like this:
 
 ##  Requested Information
 
-ROBLOX users may play as guests; in this mode, users remain anonymous and interact with the website and game in Menu Chat Mode – no free chat, no personal messaging to or from users, no posting to the forums, and other restrictions designed to prevent users from sharing personally identifiable information, intentional or otherwise. As guests, users are unable to save play statistics, accumulate points, share models, or participate in our virtual economy. 
+ROBLOX users may play as guests; in this mode, users remain anonymous and interact with the website and game with no free chat, no personal messaging to or from users, no posting to the forums, and other restrictions designed to prevent users from sharing personally identifiable information, intentional or otherwise. As guests, users are unable to save play statistics, accumulate points, share models, or participate in our virtual economy. 
 
 Users wishing to save statistics, share models, and participate in the economy are required to enter a username and password. We advise users to create a username that does not reflect their own name nor reveal personally identifiable information. We also advise users to pick a password that is not easy to guess, and to not share that password. For security reasons, we store passwords in encrypted form. 
 
@@ -172,4 +172,4 @@ Abuse Reports – all users and content can be reported for abuse or inappropria
 ##  Relevant Dates
 
 Effective Date – December 13, 2011   
-Last Updated – March 20, 2015 
+Last Updated – September 8, 2015 
