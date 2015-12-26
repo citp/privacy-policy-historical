@@ -1,63 +1,17 @@
-> *The following text is extracted and transformed from the vitaminl.tv privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223033718id_/http%3A//vitaminl.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminl.tv privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Legal
 
-##  Introduction
+* * *
 
-VitaminL takes the private nature of your personal information very seriously.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-This privacy policy, which we adapted from a policy originally provided by [Automattic](http://www.automattic.com/) ([WordPress.com](http://www.wordpress.com/)), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-##  Website Visitors
 
-Like most website operators, VitaminL collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. VitaminL’s purpose in collecting non-personally identifying information is to better understand how VitaminL’s visitors use its website. From time to time, VitaminL may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website. 
 
-VitaminL also collects potentially personally-identifying information like Internet Protocol (IP) addresses. VitaminL does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
-
-##  Gathering of Personally-Identifying Information
-
-Certain visitors to VitaminL’s websites choose to interact with VitaminL in ways that require VitaminL to gather personally-identifying information. The amount and type of information that VitaminL gathers depends on the nature of the interaction. For example, we ask visitors who sign up for VitaminL.tv to provide a username and email address. In each case, VitaminL collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with VitaminL. VitaminL does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
-
-##  Aggregated Statistics
-
-VitaminL may collect statistics about the behavior of visitors to its websites. For instance, VitaminL may monitor the most popular collections on VitaminL.tv. VitaminL may display this information publicly or provide it to others. However, VitaminL does not disclose personally-identifying information other than as described below. 
-
-##  Protection of Certain Personally-Identifying Information
-
-VitaminL discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on VitaminL’s behalf or to provide services available at VitaminL’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using VitaminL’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if VitaminL or substantially all of its assets were acquired, or in the unlikely event that VitaminL goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of VitaminL may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, VitaminL will not rent or sell potentially personally-identifying and personally-identifying information to anyone. 
-
-Other than to its employees, contractors and affiliated organizations, as described above, VitaminL discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when VitaminL believes in good faith that disclosure is reasonably necessary to protect the property or rights of VitaminL, third parties or the public at large. If you are a registered user of a VitaminL website and have supplied your email address, VitaminL may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with VitaminL and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. VitaminL takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
-
-You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications. 
-
-##  Cookies
-
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. VitaminL uses cookies to help VitaminL identify and track visitors, their usage of VitaminL websites, and their website access preferences. VitaminL visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using VitaminL’s websites, with the drawback that certain features of VitaminL’s websites may not function properly without the aid of cookies. 
-
-##  Ads
-
-Ads appearing on any VitaminL websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by VitaminL and does not cover the use of cookies by any advertisers. 
-
-##  Links to Third Party Sites
-
-This privacy policy only applies to information collected by VitaminL. This privacy policy does not apply to the practices of companies that VitaminL does not own or control, or employees that VitaminL does not manage. A VitaminL website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and VitaminL and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party. 
-
-##  Security
-
-All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers. 
-
-##  Choice/Opt-out
-
-If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices. 
-
-##  Address Book Data
-
-Any external address book data (email contacts, etc.) that a user voluntarily gives VitaminL access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed. 
-
-##  Privacy Policy Changes
-
-Although most changes are likely to be minor, VitaminL may change its privacy policy from time to time, and in VitaminL’s sole discretion. VitaminL encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change. 
-
-##  Contact Us
-
-If you have any questions about this privacy policy or our sites in general, please [contact us](https://web.archive.org/contact). 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
