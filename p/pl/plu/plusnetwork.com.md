@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusnetwork.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630054523id_/http%3A//www.plusnetwork.com/PP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusnetwork.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226152334id_/http%3A//www.plusnetwork.com/PP) for the most accurate reproduction.*
 
 # Plus! Network - Privacy Policy
 
