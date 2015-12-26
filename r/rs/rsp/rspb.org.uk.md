@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141714id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226195556id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
 
 # The RSPB: About our site: Privacy and cookies policy
 
