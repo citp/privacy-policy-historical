@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybanktracker.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004054id_/http%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybanktracker.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226150157id_/http%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for MyBankTracker.com
 
@@ -10,15 +10,12 @@ Many of the features of the Web Site are available to you without your providing
 
 MBT uses your personally identifiable information as follows:
 
-to improve MBT's marketing and promotional efforts, analyze site usage, improve MBT's content and product offerings, and customize MBT's content, layout, and services;
+  * To improve MBT's marketing and promotional efforts, analyze site usage, improve MBT's content and product offerings, and customize MBT's content, layout, and services;
+  * To contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Web Site;
+  * To fulfill your requests for certain products and services;
+  * For market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity, to enforce MBT's Terms of Use, for other internal purposes, and as otherwise described to you at the time of collection; and as otherwise set forth in this Privacy Policy.
 
-to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Web Site;
 
-to fulfill your requests for certain products and services;
-
-for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity, to enforce MBT's Terms of Use, for other internal purposes, and as otherwise described to you at the time of collection; and
-
-as otherwise set forth in this Privacy Policy.
 
 You expressly agree to MBT's use of your personally identifiable information as set forth in this Privacy Policy and the Terms of Use. 
 
@@ -28,15 +25,13 @@ Advertisers. MBT may aggregate personally identifiable information and disclose 
 
 Notwithstanding the foregoing, MBT reserves the right (and you authorize MBT) to share or disclose your personally identifiable information when MBT determines, in its sole discretion, that the disclosure of your personally identifiable information is necessary to identify, contact, or bring legal action against you if:
 
-you are or may be violating this Privacy Policy or MBT's Terms of Use;
+  * You are or may be violating this Privacy Policy or MBT's Terms of Use;
+  * You are interfering with another's rights or property, including, without limitation, MBT's rights or property;
+  * You are violating any applicable law, rule or regulation;
+  * Necessary or required by any applicable law, rule or regulation; and/or
+  * Requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency.
 
-you are interfering with another's rights or property, including, without limitation, MBT's rights or property;
 
-you are violating any applicable law, rule or regulation; 
-
-necessary or required by any applicable law, rule or regulation; and/or
-
-requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency.
 
 Personally identifiable information and other personal information collected from you may also be transferred to a third party as a result of a sale, acquisition, merger, reorganization, other transfer or bankruptcy (a "Transfer") involving MBT and/or its affiliates. MBT specifically reserves the right to transfer personally identifiable information collected from the Web Site, and any of its databases, together with any personally identifiable information contained therein, to a third party in connection with a Transfer, and nothing in this Privacy Policy is intended to interfere with the ability of MBT to transfer all or part of its business and/or assets (including the Web Site) to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever.
 
@@ -50,23 +45,17 @@ MBT may use third-party advertising companies for marketing, advertising and pro
 
 The types of information that may be collected by third-party advertising companies include the following:
 
-the type of Internet browser you use; 
+  * The type of Internet browser you use; 
+  * The type of computer operating system you use;
+  * The domain name of a Web site you visit, as well as information related to Web sites and Web pages you are viewing when an advertisement is requested;
+  * Whether or not you visit specific pages of the Web Site or other Web sites;
+  * The location of your Internet service provider's point of presence;
+  * The date and time of a visit to a Web site;
+  * Search keywords passed from another server; 
+  * The number of times you have clicked on an advertisement; and
+  * Other interactions between you and a Web site.
 
-the type of computer operating system you use;
 
-the domain name of a Web site you visit, as well as information related to Web sites and Web pages you are viewing when an advertisement is requested;
-
-whether or not you visit specific pages of the Web Site or other Web sites;
-
-the location of your Internet service provider's point of presence;
-
-the date and time of a visit to a Web site;
-
-search keywords passed from another server; 
-
-the number of times you have clicked on an advertisement; and
-
-other interactions between you and a Web site.
 
 Cookie technology
 
@@ -74,7 +63,7 @@ Cookie technology
 
 Web beacons
 
-"Web beacons", also called single-pixels (1x1) or clear GIFs, are electronic images that allow a Web site to access cookies and help track marketing campaigns and general usage patterns of visitors to those Web sites.  Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web beacon is placed. No personally identifiable information about you is shared with third parties through the use of Web beacons. 
+"Web beacons", also called single-pixels (1x1) or clear GIFs, are electronic images that allow a Web site to access cookies and help track marketing campaigns and general usage patterns of visitors to those Web sites. Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web beacon is placed. No personally identifiable information about you is shared with third parties through the use of Web beacons. 
 
 Security
 
