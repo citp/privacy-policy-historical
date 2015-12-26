@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mgid.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124231953id_/http%3A//mgid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgid.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227002051id_/http%3A//www.mgid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MGID: Native Advertising Marketplace
 
 This policy governs only <http://mgid.com/> (hereinafter may referred to as 'MGID', 'We' or 'Us') use and disclosure of information we collect when users elect to use the MGID widget, visit a publisher web site that includes the MGID widget or uses MGID Services, or view advertisements we serve. This policy does not otherwise apply to the practices of other web sites, third-party advertisers or advertising networks, or other services or companies that we do not own, manage or control. We do not control the privacy practices of such third parties, and you are subject to the privacy policies of those third parties when you use their services.
 
