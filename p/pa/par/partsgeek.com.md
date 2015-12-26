@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partsgeek.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507105224id_/http%3A//www.partsgeek.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partsgeek.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226082630id_/http%3A//www.partsgeek.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Partsgeek.com
 
@@ -170,8 +170,8 @@ To do any of these, let us know by one of these methods:
   * Send a letter with your request and current contact information to: 
 
 Parts Geek, LLC   
-50 South Maple Avenue   
-Suite 100   
+777 Route 70 East   
+Suite G-103   
 Marlton, NJ 08053 
 
 
