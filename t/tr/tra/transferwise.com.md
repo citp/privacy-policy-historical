@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the transferwise.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322195728id_/https%3A//transferwise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transferwise.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226094932id_/https%3A//transferwise.com/privacy-policy) for the most accurate reproduction.*
 
 # TransferWise - Send Money Abroad-Privacy
 
-Dated: 07 March 2015
+Dated: 26 October 2015
 
 Protecting your data, privacy and financial details is very important to TransferWise Limited (“ **TransferWise** ”, “ **us** ” or “ **we** “). 
 
@@ -75,11 +75,11 @@ We may share your personal information with any member of our group, which means
 
 We may share your information with selected third parties including:
 
-  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you; 
+  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you and to help improve our Services; 
 
   * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others; and 
 
-  * analytics and search engine providers that assist us in the improvement and optimisation of our Website. 
+  * analytics and search engine providers that assist us in the improvement and optimisation of our Services. 
 
 
 
@@ -120,12 +120,6 @@ Depending on applicable laws, you may have the right to access information held 
 ## Residents of California and Vermont, USA:
 
 Other than for our everyday business purposes, we will not share your personal information with non-affiliates or affiliates without first giving you additional privacy choices. 
-
-## Residents of Texas, USA:
-
-TransferWise has contracted with PreCash, Inc. (“ **PreCash** ”) to provide transaction processing services. Therefore, TransferWise may share information with PreCash for everyday business purposes. 
-
-If you have a complaint, first contact the customer support of TransferWise at +44 208 1230 564, if you still have an unresolved complaint regarding our money transmission activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), [www.dob.texas.gov](https://www.dob.texas.gov/). 
 
 ## Changes to our privacy policy
 
