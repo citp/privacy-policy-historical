@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upcleaner.net privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524021256id_/http%3A//www.upcleaner.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcleaner.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226205155id_/http%3A//www.upcleaner.net/privacy-policy.html) for the most accurate reproduction.*
 
 # UPCleaner privacy policy
 
 ### Privacy Policy
 
-Fantasy Game Network Technology Co., Ltd. ("UPCleaner") takes your privacy very seriously. Please read the following to learn more about UPCleaner's Privacy Policy ("Policy"). This Policy specifies how UPCleaner receives, collects and uses information in connection with their website located at www.upcleaner.net ("Site"). Collection and Use of Information
+Brotsoft technology co., Ltd. ("UPCleaner") takes your privacy very seriously. Please read the following to learn more about UPCleaner's Privacy Policy ("Policy"). This Policy specifies how UPCleaner receives, collects and uses information in connection with their website located at www.upcleaner.net ("Site"). Collection and Use of Information
 
 #### Information You Provide
 
@@ -52,4 +52,4 @@ In the event that UPCleaner goes through a business transition, such as a merger
 
 Privacy Policy|[EULA](http://www.upcleaner.net/eula.html)
 
-Copyright © 2014-2015 Fantasy Game Network Technology Co., Ltd. All Rights Reserved
+Copyright © 2014-2015 Brotsoft technology co., Ltd. All Rights Reserved
