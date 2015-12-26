@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150556id_/http%3A//www.peta2.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227002818id_/http%3A//www.peta2.com/about/privacy-policy) for the most accurate reproduction.*
 
 # peta2 Privacy Policy | About peta2 | peta2.com
 
