@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007014331id_/http%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226043958id_/http%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Monsters and Critics
 
@@ -66,10 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Monsters and Critics
-
-http://www.monstersandcritics.com
-
+Monsters and Critics  
+http://www.monstersandcritics.com  
 Teutonicscotia Limited  
 2-2 42 Tassie Street  
 Shawlands  
