@@ -1,47 +1,17 @@
-> *The following text is extracted and transformed from the shoppingedge.com privacy policy that was archived on 2013-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130711195408id_/http%3A//www.shoppingedge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingedge.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy - shop and find great deals at shoppingedge.com
+# Legal
 
-**shoppingedge.com Privacy Policy**
+* * *
 
-At shoppingedge.com we appreciate your privacy and hope that you feel comfortable trusting us. shoppingedge.com provides a comparison shopping service that enables consumers to compare prices products and stores when they shop online. We believe that you have a right to know what information we collect how we intend to use that information whom we intend to share it with and what measures we take to keep that information secure.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
- **
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Collecting Your Information
 
-**
 
-We collect information at several stages during your interaction with. When you first enter our site we note your IP address and time of your visit. As you browse the site we record your zip code via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognize you as a person just your computer.You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
-
- **
-
-Third Party Advertising
-
-**
-
-We work with third parties who use cookies to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit or to conduct market research and website analysis.
-
- **
-
-User Submitted Reviews
-
-**
-
-We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail discussion lists or elsewhere - that information can be collected and used by others. In short if you post personal information online that is accessible to the public you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review.
-
- **
-
-Sharing of information
-
-**
-
-shoppingedge.com does not share any contact information or IP address information with its partners. We will only use information that helps our customers to find the lowest prices.
-
- **
-
-How We Protect Your Information
-
-**
-
-The privacy and protection of your personal information is vitally important to us. shoppingedge.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your shoppingedge.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user.This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement you need to review this updated version. If we decide to change our privacy policy we will post those changes to this privacy statement the homepage or other places we deem appropriate so our users are always aware of what information we collect how we use it and under what circumstances if any we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If however we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.We are happy to receive any errors that occur while attaching a link from the site. Thank you very much!
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
