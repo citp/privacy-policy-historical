@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ojas-gujarat.in privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619180826id_/http%3A//www.ojas-gujarat.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojas-gujarat.in privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226072613id_/http%3A//www.ojas-gujarat.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OJAS Gujarat
+# Privacy Policy - OJAS Gujarat™
 
 www.ojas-gujarat.in Website created as a resource to help people know about latest recruitment, exams and results, answer key, admit cad etc. The site primarily focused on Government jobs, bank jobs, railway jobs, defence jobs, private jobs, exam results, exam admit card, and more. It intends to be a great platform for job seekers without getting involved in legal suits. So, here is the disclaimer policy for www.ojas-gujarat.in
 
