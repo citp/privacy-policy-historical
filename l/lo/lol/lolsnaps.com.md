@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509085026id_/http%3A//lolsnaps.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226183035id_/http%3A//lolsnaps.com/pages/privacy) for the most accurate reproduction.*
 
 # Lolsnaps.com - Privacy Policy
 
