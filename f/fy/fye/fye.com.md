@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511045149id_/http%3A//www.fye.com//stores/fye/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227002330id_/http%3A//www.fye.com//stores/fye/privacy-policy.jsp) for the most accurate reproduction.*
 
 # f.y.e. - Privacy Policy
 
@@ -29,24 +29,12 @@ FYE also allows any customer to create an account with FYE. This allows the user
 
 **Security** The security of your data is of utmost importance to FYE. [Click here](https://web.archive.org/stores/fye/security-policy.jsp) to learn about our security guarantee. 
 
-** F.Y.E. MOBILE Offers Terms and Conditions **
+  * [Weekly Deals](http://www.fye.com/stores/fye/this-weeks-deals.jsp)
+  * [Events](https://www.facebook.com/FYE/events)
+  * [Backstage Pass](http://www.fye.com/stores/fye/backstage-pass.jsp)
+  * [Gift Cards](https://www.fye.com/stores/fye/gift-card.jsp)
+  * [Win](http://www.fye.com/stores/fye/wanna-win.jsp)
+  * [Localeyez](http://www.dynastyrecords.com/#!localeyez-fye)
+  * [**Sell to Us**](http://www.fye.com/stores/fye/sell.jsp)
 
-The short code **33733** is used by F.Y.E to promote their info and alerts SMS campaign 
 
-You may opt-in by submitting the keyword "FYE" to 33733 
-
-Contact us TOLLFREE at 1-800-818-1941 
-
-**You will receive no more than 6 messages per month**
-
-**You may opt-out at anytime by sending STOP to short code 33733**
-
-**For additional information, text "HELP" to short code 33733**
-
-Supported carriers are AT&T, U.S. Cellular, Verizon Wireless, Sprint, Virgin Mobile, Cricket, Boost and T-Mobile 
-
-Message and Data Rates May Apply 
-
-Powered by Tatango, Inc. 
-
-Limited exclusions apply to SMS discount offers. Unless otherwise noted gift cards, prepaid cards, video game hardware, new video game software, special orders, Beats headphones/speakers and Backstage Pass Platinum sign-up/renewal fees are excluded. 
