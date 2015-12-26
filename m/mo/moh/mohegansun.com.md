@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124549id_/http%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226150412id_/http%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mohegan Sun
 
