@@ -1,6 +1,33 @@
-> *The following text is extracted and transformed from the loftek.us privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607052826id_/http%3A//www.loftek.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loftek.us privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070359id_/http%3A//www.loftek.us/privacy) for the most accurate reproduction.*
 
 # Loftek | Privacy Policy
+
+## Coupon codes on www.amazon.com/loftek
+
+  * $3.00 Off [DRG98PWF](http://www.amazon.com/gp/product/B009YP7Y56/)
+
+  * $2.00 Off [EJQJFTEK](http://www.amazon.com/gp/product/B00GLOHJAS/)
+
+  * $3.00 Off [MYFE53XM](http://www.amazon.com/gp/product/B005XU7OL0/)
+
+  * $4.00 Off [LLLTTAC5](http://www.amazon.com/gp/product/B00GOJDB8O/)
+
+  * $2.00 Off [EIZI8YVC](http://www.amazon.com/gp/product/B00PBWGLDW/)
+
+  * $2.00 Off [FHQ6QFTO](http://www.amazon.com/dp/B00OQ1CA6G)
+
+
+
+
+###  Welcome to LOFTEK! Start your first order with a coupon code！
+
+We highly appreciate all your reviews and suggestions! Our goal is to provide the best products and the best service to all our customers! For more exciting deals and free trial activities, please pay close attention to LOFTEK official website and Facebook @LOFTEK! If you have any problems, please feel free to contact us!
+
+#####  Sincerely  
+Your LOFTEK
+
+Register your amazon account on amazon.com, add these products to cart.   
+Enter corresponding codes at Check out.
 
 1\. What information do we collect?
     
