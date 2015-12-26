@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grandmotherskitchen.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023123id_/http%3A//grandmotherskitchen.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmotherskitchen.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226114308id_/http%3A//www.grandmotherskitchen.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Grandmother's Kitchen
 
-This Privacy Policy governs the manner in which Grandmother's Kitchen collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.www.grandmotherskitchen.org](http://www.grandmotherskitchen.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Grandmother's Kitchen.
+This Privacy Policy governs the manner in which Grandmother's Kitchen collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.grandmotherskitchen.org](http://grandmotherskitchen.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Grandmother's Kitchen.
 
 **Personal identification information**
 
@@ -51,13 +51,13 @@ Grandmother's Kitchen has the discretion to update this privacy policy at any ti
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.grandmotherskitchen.org/index.php?page=contact). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://grandmotherskitchen.org/index.php?page=contact). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Grandmother's Kitchen](http://www.grandmotherskitchen.org/)  
-[www.www.grandmotherskitchen.org](https://web.archive.org/web/20141217023123id_/http%3A//grandmotherskitchen.org/www.www.grandmotherskitchen.org)  
+[Grandmother's Kitchen](http://grandmotherskitchen.org/)  
+[www.grandmotherskitchen.org](https://web.archive.org/web/20151226114308id_/http%3A//www.grandmotherskitchen.org/www.grandmotherskitchen.org)  
 68 Songhees Road, Victoria, BC, Canada, V9A0A3  
 1-250-857-0929  
 emailgrandmotherskitchen@gmail.com
