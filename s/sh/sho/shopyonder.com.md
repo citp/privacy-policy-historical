@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopyonder.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626062835id_/http%3A//shopyonder.com/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopyonder.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226081949id_/http%3A//www.shopyonder.com/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # ShopYonder.com Privacy Policy
 
