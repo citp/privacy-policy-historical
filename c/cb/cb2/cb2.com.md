@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515032239id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226230253id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
+
+By using crateandbarrel.com, cb2.com, or landofnod.com (collectively, “Websites”), using our mobile apps, shopping in our stores, making a purchase from our catalogs, calling customer service, interacting with us in any way, or utilizing our services, you consent to this Privacy Policy.
 
 ## getting to know you
 
@@ -32,7 +34,7 @@ We use a Service Provider to send emails that you have agreed to receive. Web co
 
 We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. You can opt out of this Website analysis tool by clicking here. 
 
-Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
+We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our Websites and stores, and your interaction with our products and services. They also may use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Provider and its service providers, including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
 
 ## information sharing
 
@@ -58,7 +60,7 @@ Updating your contact information is quick and easy. Just [contact us](https://w
 
 ## remove your name from our lists at any time
 
-To delete your name from our email contact lists, please follow these [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions.
+To delete your name from our email contact lists, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions.
 
 To request to have your name removed from the catalog mailing list, please complete this quick [catalog opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx). We appreciate your patience while we process your request. When you make subsequent purchases at Crate and Barrel, CB2 or The Land of Nod, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list. If you have already opted out, you do not need to opt out again; your information will not be used for purposes other than the customer service you have requested, unless you affirmatively ask to opt in again, in which case you will be opted in and will receive emails from us until you again request to be opted out.
 
@@ -127,4 +129,4 @@ Customer Service Department
 Naperville, IL 60540-3918  
 
 
-_Last Updated, December 13th 2013_
+_Last Updated, October 5, 2015_
