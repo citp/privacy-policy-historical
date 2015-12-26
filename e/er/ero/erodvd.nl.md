@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erodvd.nl privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618165609id_/http%3A//www.erodvd.nl/ssl/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erodvd.nl privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226220313id_/http%3A//www.erodvd.nl/ssl/privacy-policy/info_4.html) for the most accurate reproduction.*
 
-# Privacy Policy | Buy DVD at Erodvd.
+# Privacy Policy | Buy Adult DVD's at Erodvd.
 
 Privacy Policy   
   
