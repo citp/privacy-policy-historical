@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetcar.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628003906id_/http%3A//members.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcar.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226120600id_/http%3A//www.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
