@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624054446id_/http%3A//www.parkcitymountain.com/site/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226174451id_/http%3A//www.parkcitymountain.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Statement | Parkcitymountain.com
 
 **Vail Resorts Online Privacy Policy  
 **  
@@ -55,7 +55,7 @@ Personal information collected on any of the Sites may be shared with other memb
 We may occasionally feature web pages on which you can register for special promotions or services provided in conjunction with our business partners. When we feature pages like these on our Sites, we will give you a clear notice that you are providing information to another party. We may also arrange to send you marketing and promotional information of other reputable companies that we think might be of interest to you, only if you tell us that you want to receive these sorts of materials. We do not share your personal information with these companies.
 
 **_In Connection with Corporate Events._**  
-If some or all of the business assets of one of our companies or Sites are sold or transferred, we generally would transfer the corresponding information regarding our guests and customers to the acquiring business so that they can continue to operate the business, but your information would remain subject to this Policy.
+If some or all of the business assets of one of our ompanies or Sites are sold or transferred, we generally would transfer the corresponding information regarding our guests and customers to the acquiring business so that they can continue to operate the business, but your information would remain subject to this Policy.
 
 **_In Special Circumstances._**  
 In certain special cases, we may disclose your personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, Vail Resorts or someone else. We may also disclose your personal information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by Vail Resorts.
@@ -70,28 +70,28 @@ Some of the Sites may give you the option of sharing your thoughts, personal inf
 
 From time to time, we may use technology that provides us with information about your geographic location (“location information”). For example, when you ride a chairlift of one of our resorts, we scan or read your ski pass. We read passes through the use of handheld scanners or passive radio frequency readers mounted on or near our chairlifts. This information helps us monitor use of the lifts and tells us when you ride one of our chairlifts. When we collect location data about our guests offline, we may combine that information with personal information that we collect online and use the information to better understand our guests or to provide you with information or services. When you open an Epic Mix account, for example, we will combine your ski pass scan data with the information you provide to us through that account. Location Information collected and combined in that manner is subject to this Policy.
 
-For more information about Epic Mix and and customer privacy, visit [these FAQs](http://www.snow.com/epicmix/faq/home.aspx).
+For more information about Epic Mix and and customer privacy, visit [these FAQs](https://www.epicmix.com/How-It-Works.aspx#faq).
 
 **Children’s Privacy**
 
-We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at [comments@vailresorts.com ](mailto:comments@vailresorts.com?cmpid=PARINT00001%23/Deals)
+We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at [comments@vailresorts.com ](mailto:comments@vailresorts.com)
 
 **_Children and Epic Mix  
 _**
 
-Children under age 13 may open an Epic Mix account only after we receive consent from the child's parent or legal guardian. Parents who allow their child to open an Epic Mix account understand that we will collect the following information from the child: an email account, name, date of birth, gender, state, zip code, country. We will maintain that information in the Epic Mix account and combine it with information collected off line, such as the child’s chair lift rides at our resorts, pictures taken by the Epic Mix photograpers, and race times from Epic Mix Racing. We will only collect information from your child online for the purpose of providing the Epic Mix services and acount features and notifying you and your child of information related to the Epic Mix account. We will not use the information to market other products or services to your child and will not sell or share the information with others for those purposes. Children’s Epic Mix accounts have restricted privacy features. Children under age 13 will not be able to link to third party sites, such as Facebook and Twitter, and Epic Mix information in that child’s account is only viewable by the child and his or her family members. If you wish to access your child's information, deactivate your child's Epic Mix account, or have questions or concerns, you may contact us at [epicmix@vailresorts.com](mailto:epicmix@vailresorts.com?cmpid=PARINT00001%23/Deals).
+Children under age 13 may open an Epic Mix account only after we receive consent from the child's parent or legal guardian. Parents who allow their child to open an Epic Mix account understand that we will collect the following information from the child: an email account, name, date of birth, gender, state, zip code, country. We will maintain that information in the Epic Mix account and combine it with information collected off line, such as the child’s chair lift rides at our resorts, pictures taken by the Epic Mix photograpers, and race times from Epic Mix Racing. We will only collect information from your child online for the purpose of providing the Epic Mix services and acount features and notifying you and your child of information related to the Epic Mix account. We will not use the information to market other products or services to your child and will not sell or share the information with others for those purposes. Children’s Epic Mix accounts have restricted privacy features. Children under age 13 will not be able to link to third party sites, such as Facebook and Twitter, and Epic Mix information in that child’s account is only viewable by the child and his or her family members. If you wish to access your child's information, deactivate your child's Epic Mix account, or have questions or concerns, you may contact us at [epicmix@vailresorts.com](mailto:epicmix@vailresorts.com).
 
 **Your Choices**
 
 **_Opt-Out of Receiving Future Communications_  
-**Our Sites give you the option of not receiving future communications from us by sending an email to [comments@vailresorts.com](mailto:comments@vailresorts.com?cmpid=PARINT00001%23/Deals)
+**Our Sites give you the option of not receiving future communications from us by sending an email to [comments@vailresorts.com](mailto:comments@vailresorts.com)
 
 **_Review and Update Your Information_  
-**You may also review or update your personal information collected by this Site or correct factual inaccuracies by emailing [comments@vailresorts.com](mailto:comments@vailresorts.com/Deals)
+**You may also review or update your personal information collected by this Site or correct factual inaccuracies by emailing [comments@vailresorts.com](mailto:comments@vailresorts.com)
 
 If you have a PEAKS account, you can manage your information and preferences by logging into your account at [www.snow.com/myaccount](http://www.snow.com/myaccount)
 
-If you have an Epic Mix account, you can manage your information and preferences by logging into your account at [www.epicmix.com](http://www.epicmix.com/?cmpid=PARINT00001#/Deals)
+If you have an Epic Mix account, you can manage your information and preferences by logging into your account at [www.epicmix.com](http://www.epicmix.com/)
 
 **How We Protect Your Information**
 
@@ -117,7 +117,7 @@ The Vail Corporation dba Vail Resorts Management Company
 390 Interlocken Crescent, Suite 1000  
 Broomfield, CO 80026  
 1-800-842-8062  
-[comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy&cmpid=PARINT00001%23/Deals)
+[comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy)
 
 **Effective Date of this Privacy Policy**
 
