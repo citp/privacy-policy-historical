@@ -1,33 +1,50 @@
-<!--The following is the downloaded HTML source of the thefix.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628195957id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefix.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226151052id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAFWFBSGwADU1JSAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAFWFBSGwADU1JSAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta property="og:url" content="http://www.thefix.com/content/privacy-policy">
-<meta property="og:site_name" content="The Fix">
-<link rel="shortcut icon" href="http://d21no8zvelat5l.cloudfront.net/sites/all/themes/thefixv2/favicon.ico" type="image/vnd.microsoft.icon">
-<meta property="og:type" content="article">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="dns-prefetch" href="//partner.googleadservices.com">
+<link rel="dns-prefetch" href="//pubads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//csi.gstatic.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+<link rel="dns-prefetch" href="//cm.g.doubleclick.net">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//www.thefix.com">
 <link rel="shortlink" href="/node/118">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//d21no8zvelat5l.cloudfront.net">
 <link rel="canonical" href="/content/privacy-policy">
+<link rel="dns-prefetch" href="//static2.thefix.com">
+<link rel="dns-prefetch" href="//static1.thefix.com">
 <meta property="og:title" content="Privacy Policy | The Fix">
+<meta property="og:type" content="article">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="shortcut icon" href="https://static1.thefix.com/cdn/farfuture/cOi0cZTUxSKjYIpzt8-BD2jf11sS-hp2O8g6XKQS-JY/mtime:1451068934/sites/all/themes/thefixv2/favicon.ico" type="image/vnd.microsoft.icon">
+<meta property="og:site_name" content="The Fix">
+<meta property="og:url" content="https://www.thefix.com/content/privacy-policy">
+<link rel="dns-prefetch" href="//d2opwwnn6mpgl2.cloudfront.net">
   <title>Privacy Policy | The Fix</title>
-  <link type="text/css" rel="stylesheet" href="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_css/css__DVOSeEdPtaAjn1NCG0FHxcAW1aIWsNjrmi1hdhIQ1ik__Inf5LpTKlngcnqGPiXIyqlK2RI3VOqMk63S8MtXqdes__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_css/css__OpLXL2QTk8-KD5kM91-_jeirkH0-triVyG94Kk2Ow5U__sf2UXT7XaCrCw6ByqTR-P1iliK7rbtWoGDbkDPH8qMc__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_css/css__2b3dkZp2zvIwB4c7CGXkCtsBSDf2sfLSHn1t_w_UFKU__p_iohGr6oh9zKggYx8td7M05JF9zkJVIJAkViWD1g74__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.thefix.com//mc-signup/style.css" media="all">
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_css/css__c3yhZOz3UAUu_Wl3j-aHw6zwLLnZ_zMSF-l6j91kNsA__zaKS-sguEefL-kbQuiKG14Rebmm5aai7OwfkiwT1TFI__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.css" media="all">
+  <link type="text/css" rel="stylesheet" href="https://www.thefix.com/sites/default/files/advagg_css/css__YiT4_DwKB2QxR_m8pO3sACplZt0ZBbu13szKUI0L6J4__PJka_GzXClbtfWu8s3RLqPvYdl4PDhSLIv5vMftBolY__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.css" media="all">
+<style>.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.thefix.com/sites/default/files/advagg_css/css__tZj1Mj01eFLOifQ48uUFD4kIFWJk8p2-FRR_f1eF3dw__JXrOHZwA7y3i6FRSHHua21aOQMGg78h2202XwZd9yno__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.css" media="all">
+<style>.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.thefix.com/sites/default/files/advagg_css/css__-ZGOvXMRSMx3wd72zZVS3hNwIbURoMc0NNebpaANPxY__7q3VYKpwk0e-REZ8H3KyRFXIzHNR33G-Ahi3lv4QEVk__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.thefix.com//mc-signup/style.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.thefix.com/sites/default/files/advagg_css/css__h5kLC2YrEadKuKnzpnPM8F8eE4bpyut-izwpmRMMEr0__Gkcf_fU1cT0nrJp2nsIcAPSU6TTVM3dpg7rrfvovTOs__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.css" media="all">
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script src="http://d21no8zvelat5l.cloudfront.net//mc-signup/subscribe.js?nqmm5g"></script>
-<script src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_js/js__nBqmjfnmFfknzXjo37NH58CiS9lfbbhkXtUQYxl8_2s__mFmqeu4Lqch3W3OJYGsHdh2A2HhU2bi9cwep9u9h1E0__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+  <script src="https://static2.thefix.com/sites/default/files/advagg_js/js__nBqmjfnmFfknzXjo37NH58CiS9lfbbhkXtUQYxl8_2s__mFmqeu4Lqch3W3OJYGsHdh2A2HhU2bi9cwep9u9h1E0__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.js"></script>
 <script>function disqus_config() {
           this.callbacks.onNewComment = [function() { jQuery.ajax({type: 'GET', 'url': '/disqus_counter/notify/118'}); }]
         };</script>
@@ -39,15 +56,19 @@ _gaq.push(['_setCustomVar',
   3             // Sets the scope to page-level.  Optional parameter.
 ]);</script>
 <script src="//partner.googleadservices.com/gampad/google_service.js"></script>
-<script src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_js/js__3qCUQtMSmUYZB66UckJq-9JXUy18m4mFg-7sLnqPS3w__FaKUSiDWhAcuwhT8b6plmHd44jaEnBQ2n8BeMpCZUh8__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.js"></script>
+<script src="https://static2.thefix.com/sites/default/files/advagg_js/js__HsTMOFu9Vzyo9drz7CEbZkS6dcTYQvYb1cufpigE3Rc__8Rozu4Of-aJJtnGFVPePkajHKgSvJSXFHevFqY75om8__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.js"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-22186128-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_js/js__12NbhKwQ_IbN8N01X2XFBsI3IrPnAhg86lDbXKZfuKU__Ev-qD3ZApy_iYv9cOlE5NUVRI1AzOb_NPqGxz-PxRcQ__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.js"></script>
+<script src="https://static1.thefix.com/sites/default/files/advagg_js/js__4XG3istzVkGiYP7YbJXZV0Vd4U7g7zduC7rr5MjtF50__0b32TfP1rKHCCF2P6_JGOWgVK9-nTIebyYKryxdhWe4__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.js"></script>
 <script>GS_googleAddAdSenseService("ca-pub-2237101190635482");
 GS_googleEnableAllServices();
 </script>
 <script>GA_googleAddSlot("ca-pub-2237101190635482", "global_header_728x90");
 GA_googleAddSlot("ca-pub-2237101190635482", "global_header_598x90");
 GA_googleAddSlot("ca-pub-2237101190635482", "global_header_300x100");
+GA_googleAddSlot("ca-pub-2237101190635482", "top_sitewide_728x90");
+GA_googleAddSlot("ca-pub-2237101190635482", "top_sitewide_300x250");
+GA_googleAddSlot("ca-pub-2237101190635482", "bottom_sitewide_728x90");
+GA_googleAddSlot("ca-pub-2237101190635482", "bottom_sitewide_300x250");
 GA_googleAddSlot("ca-pub-2237101190635482", "global_header_728x90");
 GA_googleAddSlot("ca-pub-2237101190635482", "top_right_rail_300x250");
 GA_googleAddSlot("ca-pub-2237101190635482", "rehab_reviews_detail_598x90");
@@ -56,8 +77,8 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 </script>
 <script>GA_googleFetchAds();
 </script>
-<script src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_js/js__T4BXkTL-1HM6GAsPOQNPgirc4mQWf1ryctf2APMxepk__d33-XGXW7d7IpJay_D1N6a2cgnkaS1y2EnZg9tSFoFE__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thefixv2","theme_token":"-nHeK7ROskoMsHsMczD_AFC2Na3FxL6JGTThDO1jljY","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"0":1,"1":1,"\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.callbacks.js":1,"3":1,"4":1,"5":1,"sites\/all\/themes\/thefixv2\/bootstrap\/dist\/js\/bootstrap.min.js":1,"sites\/all\/themes\/thefixv2\/js\/slick.min.js":1,"sites\/all\/themes\/thefixv2\/js\/hammer.min.js":1,"sites\/all\/themes\/thefixv2\/js\/thefix.js":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"http:\/\/www.thefix.com\/\/mc-signup\/subscribe.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/google_admanager\/google_admanager.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"public:\/\/ctools\/css\/a51f314cc00ea67c0c6cf2852d0b096b.css":1,"public:\/\/ctools\/css\/e545ab63d0b9b7a5b9e06288ad39d815.css":1,"public:\/\/ctools\/css\/5c8fc90cf7c06d7389504ffb359f621c.css":1,"public:\/\/ctools\/css\/2fcf3aed7cee15a5e0e42f4604f6d888.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/modules\/contrib\/menu_minipanels\/css\/menu_minipanels.css":1,"http:\/\/www.thefix.com\/\/mc-signup\/style.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/thefixv2\/css\/thefix-styles.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"disqusComments":"thefixblog","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"menuMinipanels":{"panels":{"panel_2285":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2285"},"panel_2284":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2284"},"panel_2283":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2283"},"panel_2280":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2280"},"panel_2281":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topMiddle"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2281"},"panel_2282":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2282"},"panel_2279":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"1000","max":"1000"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2279"},"panel_2545":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"fade","length":"50"}},"hide":{"delay":"0","effect":{"type":"fade","length":"50"}},"style":{"name":"light","width":{"min":"400","max":"400"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2545"},"panel_2547":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":0,"when":{"event":"mouseover"},"effect":{"type":"fade","length":50}},"hide":{"delay":0,"effect":{"type":"fade","length":50}},"style":{"name":"light","width":{"min":400,"max":400},"border":{"width":1,"color":"#d3d3d3"}},"mlid":2547},"panel_2548":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"fade","length":"50"}},"hide":{"delay":"0","effect":{"type":"fade","length":"50"}},"style":{"name":"light","width":{"min":"400","max":"400"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2548"}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script src="https://d2opwwnn6mpgl2.cloudfront.net/sites/default/files/advagg_js/js__T4BXkTL-1HM6GAsPOQNPgirc4mQWf1ryctf2APMxepk__2RIrIffwHHaAFahAgvLfflkNUZP-EUHwmgfAktJ-AZs__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thefixv2","theme_token":"Oy3B0ynN5NsqXSJcY6mYX9C27K0qkjsmwa3bhaK5Dk8","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"1":1,"\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/contrib\/webform\/js\/webform.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1,"2":1,"sites\/all\/modules\/custom\/thefix_blocks\/thefix_blocks_remote_directory.js":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.callbacks.js":1,"3":1,"4":1,"5":1,"sites\/all\/themes\/thefixv2\/bootstrap\/dist\/js\/bootstrap.min.js":1,"sites\/all\/themes\/thefixv2\/js\/slick.min.js":1,"sites\/all\/themes\/thefixv2\/js\/hammer.min.js":1,"sites\/all\/themes\/thefixv2\/js\/thefix.js":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/google_admanager\/google_admanager.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/webform\/css\/webform.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"sites\/all\/modules\/custom\/thefix_blocks\/thefix_blocks_remote_directory.css":1,"2":1,"sites\/all\/modules\/contrib\/menu_minipanels\/css\/menu_minipanels.css":1,"https:\/\/www.thefix.com\/\/mc-signup\/style.css":1,"sites\/all\/themes\/thefixv2\/css\/fonts.css":1,"sites\/all\/themes\/thefixv2\/css\/thefix-styles.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"disqusComments":"thefixblog","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"menuMinipanels":{"panels":{"panel_2285":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2285"},"panel_2284":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2284"},"panel_2283":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2283"},"panel_2280":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2280"},"panel_2281":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topMiddle"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2281"},"panel_2282":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"900"},"border":{"width":"1","color":"#d3d3d3","radius":"0"}},"mlid":"2282"},"panel_2545":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":0,"when":{"event":"mouseover"},"effect":{"type":"fade","length":50}},"hide":{"delay":0,"effect":{"type":"fade","length":50}},"style":{"name":"light","width":{"min":400,"max":400},"border":{"width":1,"color":"#d3d3d3"}},"mlid":2545},"panel_2547":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"leftMiddle","tooltip":"topLeft"}},"show":{"delay":0,"when":{"event":"mouseover"},"effect":{"type":"fade","length":50}},"hide":{"delay":0,"effect":{"type":"fade","length":50}},"style":{"name":"light","width":{"min":400,"max":400},"border":{"width":1,"color":"#d3d3d3"}},"mlid":2547},"panel_2548":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomRight","tooltip":"topRight"}},"show":{"delay":0,"when":{"event":"mouseover"},"effect":{"type":"fade","length":50}},"hide":{"delay":0,"effect":{"type":"fade","length":50}},"style":{"name":"light","width":{"min":400,"max":600},"border":{"width":1,"color":"#d3d3d3"}},"mlid":2548}}}});</script>
   <!-- Facebook scripts -->
   <script>
     (function() {
@@ -91,8 +112,8 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
       
   <form class="form-search content-search" action="/content/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
       <h2 class="element-invisible">Search form</h2>
-    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search..." class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i></button></span></div><button class="fa fa-search btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-ryUmVYnXHi1qp55RWQcBh_rAU2V7uwi9LyFB5zMBgv0">
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search..." class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-default">Search</button></span></div><button class="fa fa-search btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-4aRpIqsTij7fFLnrN2LE08JVIyTfpvL9AMFFCK-52uk">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>
@@ -109,7 +130,7 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 <li class="leaf"><a href="/living-sober" title="" class="menu-minipanel menu-minipanel-2280">LIVING SOBER</a></li>
 <li class="leaf"><a href="http://www.thefix.com/ask-expert" title="Ask an Expert" class="menu-minipanel menu-minipanel-2281">ASK AN EXPERT</a></li>
 <li class="leaf"><a href="/tags/professional-voices" title="" class="menu-minipanel menu-minipanel-2282">PRO VOICES</a></li>
-<li class="leaf"><a href="/features" title="" class="menu-minipanel menu-minipanel-2279">HOT TOPICS</a></li>
+<li class="leaf"><a href="/tags/how" title="">HOW TO</a></li>
 <li class="last leaf"><a href="/content/about-us">ABOUT US</a></li>
 </ul>                  </nav>
       </div>
@@ -122,10 +143,18 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
       
   <ul class="menu nav"><li class="first collapsed"><a href="/trending" title="Popular Stories" class="menu-minipanel menu-minipanel-2545">Trending</a></li>
 <li class="leaf"><a href="/rehab-reviews" title="The Top Facilities" class="menu-minipanel menu-minipanel-2547">Rehab Reviews</a></li>
-<li class="leaf"><a href="/directory-search" title="Rehabs and Therapists" class="menu-minipanel menu-minipanel-2548">Treatment Centers</a></li>
-<li class="last expanded dropdown"><a href="/content/find-help-you-need" title="Help and Data" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Resources <i class="fa fa-caret-down"></i></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.thefix.com/rehab-centers" title="">Rehab Directory</a></li>
-<li class="leaf"><a href="/content/free-insurance-benefits-check" title="">Will Insurance Pay for Rehab?</a></li>
-<li class="last leaf"><a href="/how-choose-best-rehab" title="">How to Choose the Best Rehab</a></li>
+<li class="leaf"><a href="http://local.thefix.com/" title="Rehabs and Therapists" class="menu-minipanel menu-minipanel-2548">Treatment Centers</a></li>
+<li class="last expanded dropdown"><a href="/content/find-help-you-need" title="Help and Data" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Resources <i class="fa fa-caret-down"></i></a><ul class="dropdown-menu"><li class="first leaf"><a href="/content/free-insurance-benefits-check" title="">Will My Insurance Pay for Rehab?</a></li>
+<li class="leaf"><a href="http://local.thefix.com/" title="">Rehab Directory</a></li>
+<li class="leaf"><a href="http://www.thefix.com/finding-treatment-and-rehab-vips" title="">Cash Pay Treatment for VIPS and Execs</a></li>
+<li class="leaf"><a href="/how-choose-best-rehab" title="">How to Choose the Best Rehab</a></li>
+<li class="leaf"><a href="http://local.thefix.com/interventionist/" title="">Interventionists</a></li>
+<li class="leaf"><a href="http://local.thefix.com/sober-living/" title="">Sober Livings</a></li>
+<li class="leaf"><a href="http://local.thefix.com/pain-management/" title="">Pain Management</a></li>
+<li class="leaf"><a href="http://local.thefix.com/mental-health/" title="">Mental Health</a></li>
+<li class="leaf"><a href="http://local.thefix.com/buprenorphine/" title="">Buprenorphine doctors</a></li>
+<li class="leaf"><a href="/how-use-insurance-benefits-addiction-treatment" title="">Rehab &amp; Detox Insurance</a></li>
+<li class="last leaf"><a href="https://www.thefix.com/substance-abuse-resources-rehab-detox" title="">Rehab and Detox Information</a></li>
 </ul></li>
 </ul>
 </section> <!-- /.block -->
@@ -154,7 +183,7 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 <li class="leaf"><a href="/living-sober" title="" class="menu-minipanel menu-minipanel-2280">LIVING SOBER</a></li>
 <li class="leaf"><a href="http://www.thefix.com/ask-expert" title="Ask an Expert" class="menu-minipanel menu-minipanel-2281">ASK AN EXPERT</a></li>
 <li class="leaf"><a href="/tags/professional-voices" title="" class="menu-minipanel menu-minipanel-2282">PRO VOICES</a></li>
-<li class="leaf"><a href="/features" title="" class="menu-minipanel menu-minipanel-2279">HOT TOPICS</a></li>
+<li class="leaf"><a href="/tags/how" title="">HOW TO</a></li>
 <li class="last leaf"><a href="/content/about-us">ABOUT US</a></li>
 </ul></ul>                                                    </nav>
               </div>
@@ -183,7 +212,7 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
         <div class="logo-row row">
           <div class="logo-row-left col-md-3">
                       <a class="logo-link" href="/" title="Home">
-              <img src="http://d21no8zvelat5l.cloudfront.net/sites/all/themes/thefixv2/logo.png" class="img-responsive" alt="Home">
+              <img src="https://static2.thefix.com/cdn/farfuture/eAFyMyu91edduVFjwZ4JncxhXH5geFSEtKPR07cVcaQ/mtime:1451068934/sites/all/themes/thefixv2/logo.png" class="img-responsive" alt="Home">
             </a>
                     </div>
           <div class="logo-row-right col-md-9">
@@ -230,10 +259,18 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
       
   <ul class="menu nav"><li class="first collapsed"><a href="/trending" title="Popular Stories" class="menu-minipanel menu-minipanel-2545">Trending</a></li>
 <li class="leaf"><a href="/rehab-reviews" title="The Top Facilities" class="menu-minipanel menu-minipanel-2547">Rehab Reviews</a></li>
-<li class="leaf"><a href="/directory-search" title="Rehabs and Therapists" class="menu-minipanel menu-minipanel-2548">Treatment Centers</a></li>
-<li class="last expanded dropdown"><a href="/content/find-help-you-need" title="Help and Data" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Resources <i class="fa fa-caret-down"></i></a><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.thefix.com/rehab-centers" title="">Rehab Directory</a></li>
-<li class="leaf"><a href="/content/free-insurance-benefits-check" title="">Will Insurance Pay for Rehab?</a></li>
-<li class="last leaf"><a href="/how-choose-best-rehab" title="">How to Choose the Best Rehab</a></li>
+<li class="leaf"><a href="http://local.thefix.com/" title="Rehabs and Therapists" class="menu-minipanel menu-minipanel-2548">Treatment Centers</a></li>
+<li class="last expanded dropdown"><a href="/content/find-help-you-need" title="Help and Data" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Resources <i class="fa fa-caret-down"></i></a><ul class="dropdown-menu"><li class="first leaf"><a href="/content/free-insurance-benefits-check" title="">Will My Insurance Pay for Rehab?</a></li>
+<li class="leaf"><a href="http://local.thefix.com/" title="">Rehab Directory</a></li>
+<li class="leaf"><a href="http://www.thefix.com/finding-treatment-and-rehab-vips" title="">Cash Pay Treatment for VIPS and Execs</a></li>
+<li class="leaf"><a href="/how-choose-best-rehab" title="">How to Choose the Best Rehab</a></li>
+<li class="leaf"><a href="http://local.thefix.com/interventionist/" title="">Interventionists</a></li>
+<li class="leaf"><a href="http://local.thefix.com/sober-living/" title="">Sober Livings</a></li>
+<li class="leaf"><a href="http://local.thefix.com/pain-management/" title="">Pain Management</a></li>
+<li class="leaf"><a href="http://local.thefix.com/mental-health/" title="">Mental Health</a></li>
+<li class="leaf"><a href="http://local.thefix.com/buprenorphine/" title="">Buprenorphine doctors</a></li>
+<li class="leaf"><a href="/how-use-insurance-benefits-addiction-treatment" title="">Rehab &amp; Detox Insurance</a></li>
+<li class="last leaf"><a href="https://www.thefix.com/substance-abuse-resources-rehab-detox" title="">Rehab and Detox Information</a></li>
 </ul></li>
 </ul>
 </section> <!-- /.block -->
@@ -255,7 +292,7 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 <li class="leaf"><a href="/living-sober" title="" class="menu-minipanel menu-minipanel-2280">LIVING SOBER</a></li>
 <li class="leaf"><a href="http://www.thefix.com/ask-expert" title="Ask an Expert" class="menu-minipanel menu-minipanel-2281">ASK AN EXPERT</a></li>
 <li class="leaf"><a href="/tags/professional-voices" title="" class="menu-minipanel menu-minipanel-2282">PRO VOICES</a></li>
-<li class="leaf"><a href="/features" title="" class="menu-minipanel menu-minipanel-2279">HOT TOPICS</a></li>
+<li class="leaf"><a href="/tags/how" title="">HOW TO</a></li>
 <li class="last leaf"><a href="/content/about-us">ABOUT US</a></li>
 </ul></ul></ul>                                  </nav>
               </div>
@@ -271,8 +308,8 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
       
   <form class="form-search content-search" action="/content/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
       <h2 class="element-invisible">Search form</h2>
-    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search..." class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i></button></span></div><button class="fa fa-search btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-ryUmVYnXHi1qp55RWQcBh_rAU2V7uwi9LyFB5zMBgv0">
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search..." class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-default">Search</button></span></div><button class="fa fa-search btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-4aRpIqsTij7fFLnrN2LE08JVIyTfpvL9AMFFCK-52uk">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>
@@ -289,6 +326,18 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 
 <div id="billboard-wrapper">
   <div class="container">
+            <div class="region region-billboard">
+    <section id="block-google-admanager-6ccc707d094b7646a84455ce36166fd2" class="block block-google-admanager clearfix">
+
+      
+  <div id="gam-holder-top_sitewide_728x90" class=" gam-holder"><script type="text/javascript">GA_googleFillSlot("top_sitewide_728x90");</script></div>
+</section> <!-- /.block -->
+<section id="block-google-admanager-ad528a795b182fd1a61aa245902f05d4" class="block block-google-admanager ads-for-mobile clearfix">
+
+      
+  <div id="gam-holder-top_sitewide_300x250" class=" gam-holder"><script type="text/javascript">GA_googleFillSlot("top_sitewide_300x250");</script></div>
+</section> <!-- /.block -->
+  </div>
       </div>
 </div>
 <div id="main-container-wrapper">
@@ -329,25 +378,51 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 
               <aside class="col-md-4 col-sm-12 sidebar-secondary " role="complementary">
             <div class="region region-sidebar-second">
-    <section id="block-thefix-control-zipcode-exposed-block" class="block block-thefix-control clearfix">
+    <section id="block-webform-client-block-1678" class="block block-webform clearfix">
 
-      
-  <div class="zip-exposed-block-wrapper"><div class="zip-exposed-title">Find addiction help near you</div>
-<form action="/directory-search/resultss" method="get" id="views-exposed-form-directory-pages-zipcode-panel-pane" accept-charset="UTF-8"><div><div class="views-exposed-form">
-  <div class="views-exposed-widgets clearfix">
-          <div id="edit-directory-name--wrapper" class="views-exposed-widget views-widget-filter-field_fd_directory_name_tid">
-                        <div class="views-widget">
-          <div class="form-type-select form-item-directory-name- form-item form-group">
- <select class="form-control form-select" id="edit-directory-name-" name="directory_name[]"><option value="All" selected="selected">- Any -</option><option value="13264">Rehab Centers</option><option value="13488">Therapist</option></select>
+        <h2 class="block-title">Free Insurance Benefits Check</h2>
+    
+  <form class="webform-client-form webform-client-form-1678" enctype="multipart/form-data" action="/content/privacy-policy" method="post" id="webform-client-form-1678" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-markup webform-component--balloon-top">
+ <p class="balloon top"><span class="info-icon">ⓘ<span class="info-text-help">Legal Stuff - This free insurance benefits check is a service performed by advertising sponsor Service Industries, Inc., part of a network of commonly owned rehabilitation service providers. By inputting your information, you consent to your information being transmitted to Service Industries, Inc., so that one of its representatives may contact you to discuss your insurance benefits and options for obtaining treatment.</span></span></p>
 </div>
-        </div>
-              </div>
-                    <div class="views-exposed-widget views-submit-button">
-      <button class="btn btn-info form-submit" id="edit-submit-directory-pages" name="" value="Apply" type="submit">Apply</button>
-    </div>
-      </div>
+<div class="form-item webform-component webform-component-markup webform-component--insurance-copy">
+ <p>Your Insurance May Cover Some, or All Costs Associated With Rehab</p>
 </div>
-</div></form></div>
+<div class="form-item webform-component webform-component-select webform-component--seeking-help-for">
+  <label for="edit-submitted-seeking-help-for">Seeking help for <span class="form-required" title="This field is required.">*</span></label>
+ <select class="form-control form-select required" id="edit-submitted-seeking-help-for" name="submitted[seeking_help_for]"><option value="self">self</option><option value="loved_one">loved one</option></select>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--insurance-type">
+  <label for="edit-submitted-insurance-type">Insurance Type <span class="form-required" title="This field is required.">*</span></label>
+ <select class="form-control form-select required" id="edit-submitted-insurance-type" name="submitted[insurance_type]"><option value="" selected="selected">- Select -</option><option value="Medicare">Medicare</option><option value="Medical">Medi-Cal</option><option value="hmo">HMO</option><option value="ppo">PPO</option><option value="tricare">TRICARE</option><option value="other">OTHER</option><option value="dont">I Don't Have Insurance</option></select>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--best-time-to-call">
+  <label for="edit-submitted-best-time-to-call">Best time to call </label>
+ <input class="form-control form-text" type="text" id="edit-submitted-best-time-to-call" name="submitted[best_time_to_call]" value="" size="60" maxlength="128">
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--name">
+  <label for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128">
+</div>
+<div class="form-item webform-component webform-component-email webform-component--email">
+  <label for="edit-submitted-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input class="email form-text form-email required" type="email" id="edit-submitted-email" name="submitted[email]" size="60">
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--phone">
+  <label for="edit-submitted-phone">Phone <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-submitted-phone" name="submitted[phone]" value="" size="60" maxlength="128">
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--balloon-bottom">
+ <p class="balloon bottom">Sponsored <span class="info-icon">ⓘ<span class="info-text-help">Legal Stuff - This free insurance benefits check is a service performed by advertising sponsor Service Industries, Inc., part of a network of commonly owned rehabilitation service providers. By inputting your information, you consent to your information being transmitted to Service Industries, Inc., so that one of its representatives may contact you to discuss your insurance benefits and options for obtaining treatment.</span></span></p>
+</div>
+<input type="hidden" name="details[sid]">
+<input type="hidden" name="details[page_num]" value="1">
+<input type="hidden" name="details[page_count]" value="1">
+<input type="hidden" name="details[finished]" value="0">
+<input type="hidden" name="form_build_id" value="form-TAZBuGcmvHAkrIx4xg3N7tVtD6Q-Gd7Vw8rJpPlAqp8">
+<input type="hidden" name="form_id" value="webform_client_form_1678">
+<button class="webform-submit button-primary btn btn-primary form-submit" name="op" value="Submit" type="submit">Submit</button>
+</div></form>
 </section> <!-- /.block -->
 <section id="block-block-8" class="block block-block clearfix">
 
@@ -383,17 +458,61 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 <section id="block-thefix-control-rehabreviews" class="block block-thefix-control clearfix">
 
       
-  <div class="barker barker-featured-centers"><a href="/rehab-reviews" class="barkertitle">Featured Centers</a><span class="featured-centers">ⓘ</span><span class="hover-text-featured">Featured centers have paid for placement of their reviews in this section; however, the content and ratings contained in those reviews are editorial content created by The Fix.</span><div class="barkercontent"><div class="barker-item"><a href="/content/cliffside-malibu0005" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/SIZED%20MR%20Cliffside%20Malibu.jpg?itok=YbKXNAfY" alt="SIZED MR Cliffside Malibu.jpg" title="SIZED MR Cliffside Malibu.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/cliffside-malibu0005" class="barkersubtitle3">Cliffside Malibu</a><div class="starrow 5"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">The “beach-house-relaxed”<strong> Cliffside Malibu</strong> claims to provide an oasis for recovering addicts and alcoholics. And that’s just what you'll get—if you’ve got the cash.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/back2basics-outdoor-adventures0010" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/The%20Fix%201.jpg?itok=GGCGzIn8" alt="The Fix 1.jpg" title="The Fix 1.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/back2basics-outdoor-adventures0010" class="barkersubtitle3">Back2Basics Outdoor Adventures</a><div class="starrow 4"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">This <strong>Arizona rehab</strong> prescribes high doses of AA meetings and backpacking for young guys who not only need to get sober, but also learn the basics (think cooking and cleaning) of living in the real world.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/aton-center-san-diego-rehab00430" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/RESIZED%20AToN%20House%201.jpeg?itok=WX6_v8g9" alt="RESIZED AToN House 1.jpeg" title="RESIZED AToN House 1.jpeg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/aton-center-san-diego-rehab00430" class="barkersubtitle3">AToN Center</a><div class="starrow 450"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">Whether you’re interested in the 12 Steps, SMART Recovery, or holistic treatments, this luxurious,&nbsp;appealing&nbsp;and commendable&nbsp;4.5 star&nbsp;<strong style="line-height: 1.538em;">San Diego rehab</strong> has a program for you.&nbsp;</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/reflections-marin-county-rehab00340" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/SIZED%20HR%20Reflections.jpg?itok=iOFeITcs" alt="SIZED HR Reflections.jpg" title="SIZED HR Reflections.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/reflections-marin-county-rehab00340" class="barkersubtitle3">Reflections</a><div class="starrow 4"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">This exclusive <strong>Northern California rehab</strong> is all about client choice—as well as golf outings, Buddhist field trips and keeping up with the office.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/journey-malibu-0" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/journeymalibureview.jpg?itok=TIka_jIH" alt="journeymalibureview.jpg" title="journeymalibureview.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/journey-malibu-0" class="barkersubtitle3">Journey Malibu</a><div class="starrow 4"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">Want&nbsp;many of the luxury amenities A-listers have come to expect—including an enormous backyard with a pool and patio, an herb garden, a volleyball net and a spectacular vista of the Santa Monica mountains—with a recovery program to match?</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/capo-sea" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/caposea.jpg?itok=A703QJL1" alt="caposea.jpg" title="caposea.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/capo-sea" class="barkersubtitle3">Capo By The Sea</a><div class="starrow 4"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">Capo By The Sea&nbsp;offers an executive rehab program complete with medical detox and a focus on dual-diagnosis issues, as well as an outpatient option in an environment that&nbsp;exudes the kind of beach house optimism one would expect from an Orange County recovery outfit.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/anaheim-lighthouse" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/anaheimlighthouse.JPG?itok=tlE75e5p" alt="anaheimlighthouse.JPG" title="anaheimlighthouse.JPG" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/anaheim-lighthouse" class="barkersubtitle3">Anaheim Lighthouse</a><div class="starrow 350"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">Anaheim Lighthouse is a&nbsp;drug and alcohol rehab with a more residential feel to it than many of its competitors.&nbsp;The suburban surroundings are replete with palm trees and green lawns, and the houses also have outdoor lounge areas with benches and small decorated fountains.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/palm-partners00375" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/palmpartnersupdated.jpg?itok=gyccPe0v" alt="palmpartnersupdated.jpg" title="palmpartnersupdated.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/palm-partners00375" class="barkersubtitle3">Palm Partners</a><div class="starrow 350"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">In addition to the 12-step / holistic therapy approach, what Palm Partners alumni consider the most meaningful part of their stay is the positive relationships built with fellow alumni and a deep love and appreciation of many of the therapists, counselors and techs who work there.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/gulf-breeze-recovery-0" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/gulfbreeze.png?itok=f_6oUB6j" alt="gulfbreeze.png" title="gulfbreeze.png" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/gulf-breeze-recovery-0" class="barkersubtitle3">Gulf Breeze Recovery</a><div class="starrow 450"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">An alternative to 12-step programs, Gulf Breeze Recovery offers panoramic ocean views in a caring and therapeutic environment. Housing up to 26 residential guests, this luxury facility offers a choice of semi-private or private rooms with or without ocean views.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/how-choose-best-rehab" class="barkerimage-wrapper"><img class="barkerimage" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc_60x43/public/startroad.jpg?itok=c_9h9Lv9" alt="The Ultimate Guide to Rehab" title="How to Choose an Addiction Treatment Center" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/how-choose-best-rehab" class="barkersubtitle3">How to Choose The Best Rehab</a><div class="starrow 5"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">What you need to know when choosing an addiction treatment center.</p><div class="clearfix"></div></div></div></div>
+  <div class="barker barker-featured-centers"><a href="/rehab-reviews" class="barkertitle">Featured Centers</a><span class="featured-centers">ⓘ</span><span class="hover-text-featured">Featured centers have paid for placement of their reviews in this section; however, the content and ratings contained in those reviews are editorial content created by The Fix.</span><div class="barkercontent"><div class="barker-item"><a href="/content/cliffside-malibu0005" class="barkerimage-wrapper"><img class="barkerimage" src="https://static2.thefix.com/cdn/farfuture/qDAbe_AvvnmG23vQJLN1deheqqKBRVItP7TUAW2CKSk/mtime:1433705340/sites/default/files/styles/sc_60x43/public/SIZED%20MR%20Cliffside%20Malibu.jpg" alt="SIZED MR Cliffside Malibu.jpg" title="SIZED MR Cliffside Malibu.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/cliffside-malibu0005" class="barkersubtitle3">Cliffside Malibu</a><div class="starrow 5"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">The “beach-house-relaxed”<strong> Cliffside Malibu</strong> claims to provide an oasis for recovering addicts and alcoholics. And that’s just what you'll get—if you’ve got the cash.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/back2basics-outdoor-adventures0010" class="barkerimage-wrapper"><img class="barkerimage" src="https://static1.thefix.com/cdn/farfuture/GD7aZf2X3DdwXB9t-H-XIQVOWiCQ_C2kzg-6CBPbeOg/mtime:1433705340/sites/default/files/styles/sc_60x43/public/The%20Fix%201.jpg" alt="The Fix 1.jpg" title="The Fix 1.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/back2basics-outdoor-adventures0010" class="barkersubtitle3">Back2Basics Outdoor Adventures</a><div class="starrow 4"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">This <strong>Arizona rehab</strong> prescribes high doses of AA meetings and backpacking for young guys who not only need to get sober, but also learn the basics (think cooking and cleaning) of living in the real world.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/aton-center-san-diego-rehab00430" class="barkerimage-wrapper"><img class="barkerimage" src="https://static1.thefix.com/cdn/farfuture/BYo0d7a2Q4jKy-m3DEeO7QE2LFgStLUZkK6Z79RqbWc/mtime:1433704810/sites/default/files/styles/sc_60x43/public/RESIZED%20AToN%20House%201.jpeg" alt="RESIZED AToN House 1.jpeg" title="RESIZED AToN House 1.jpeg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/aton-center-san-diego-rehab00430" class="barkersubtitle3">AToN Center</a><div class="starrow 450"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">Whether you’re interested in the 12 Steps, SMART Recovery, or holistic treatments, this luxurious,&nbsp;appealing&nbsp;and commendable&nbsp;4.5 star&nbsp;<strong style="line-height: 1.538em;">San Diego rehab</strong> has a program for you.&nbsp;</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/reflections-marin-county-rehab00340" class="barkerimage-wrapper"><img class="barkerimage" src="https://static2.thefix.com/cdn/farfuture/QHLc8G8-Cgu9wEZzvYLnFp0UiOUrLQ5zbIAET-R8Now/mtime:1433704955/sites/default/files/styles/sc_60x43/public/SIZED%20HR%20Reflections.jpg" alt="SIZED HR Reflections.jpg" title="SIZED HR Reflections.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/reflections-marin-county-rehab00340" class="barkersubtitle3">Reflections</a><div class="starrow 4"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">This exclusive <strong>Northern California rehab</strong> is all about client choice—as well as golf outings, Buddhist field trips and keeping up with the office.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/gulf-breeze-recovery-0" class="barkerimage-wrapper"><img class="barkerimage" src="https://static1.thefix.com/cdn/farfuture/H_lmxQBVE6Ww0pw4c9zwKX8HhUyPZ41YLC5RnS4MCBU/mtime:1433705342/sites/default/files/styles/sc_60x43/public/gulfbreeze.png" alt="gulfbreeze.png" title="gulfbreeze.png" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/gulf-breeze-recovery-0" class="barkersubtitle3">Gulf Breeze Recovery</a><div class="starrow 450"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">An alternative to 12-step programs, Gulf Breeze Recovery offers panoramic ocean views in a caring and therapeutic environment. Housing up to 26 residential guests, this luxury facility offers a choice of semi-private or private rooms with or without ocean views.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/paradigm-malibu-0" class="barkerimage-wrapper"><img class="barkerimage" src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/tOtza8ZaZ4FCcp6gTK3F31Z0RjPkervzNQHxrCwVxUA/mtime:1436989978/sites/default/files/styles/sc_60x43/public/paradigmmalibu.jpg" alt="Paradigm Malibu" title="Paradigm Malibu" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/paradigm-malibu-0" class="barkersubtitle3">Paradigm Malibu</a><div class="starrow 450"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">Highly rated by their teen clients and their families, Paradigm Malibu offers programs for a really wide range of adolescent disorders including: depression, anxiety, personality disorders, substance abuse, behavioral addictions, and eating disorders.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/newport-academy0001" class="barkerimage-wrapper"><img class="barkerimage" src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/Ks_SugEP_H4VFdNnXZ80CJ0w65iyezt7OZWmHIv4R9Y/mtime:1433706676/sites/default/files/styles/sc_60x43/public/SIZED%20HR%20Newport%20Academy.jpg" alt="SIZED HR Newport Academy.jpg" title="SIZED HR Newport Academy.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/newport-academy0001" class="barkersubtitle3">Newport Academy</a><div class="starrow 5"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">This SoCal rehab fosters a regimented but respectful recovery environment, where teens learn how to live sober through plenty of 12-step meetings and life-skills classes—not to mention "equine-assisted psychotherapy" and mixed martial arts.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/palm-partners00375" class="barkerimage-wrapper"><img class="barkerimage" src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/OQjv-zL3ZSGH5TYHpVeI1_uQWvt9J8az2g-1uWhGHc8/mtime:1433705344/sites/default/files/styles/sc_60x43/public/palmpartnersupdated.jpg" alt="palmpartnersupdated.jpg" title="palmpartnersupdated.jpg" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/palm-partners00375" class="barkersubtitle3">Palm Partners</a><div class="starrow 350"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">In addition to the 12-step / holistic therapy approach, what Palm Partners alumni consider the most meaningful part of their stay is the positive relationships built with fellow alumni and a deep love and appreciation of many of the therapists, counselors and techs who work there.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/content/addiction-solutions-florida" class="barkerimage-wrapper"><img class="barkerimage" src="https://static2.thefix.com/cdn/farfuture/WTR2qX_nI6RQT-1PEwdEHv9LlipouEafvTMISp_lGGk/mtime:1442443914/sites/default/files/styles/sc_60x43/public/Screen%20Shot%202015-08-04%20at%2011.26.52%20PM.png" alt="Solutions Residence" title="Solutions Residence" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/content/addiction-solutions-florida" class="barkersubtitle3">Addiction Solutions of Florida</a><div class="starrow 350"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star-half">&nbsp;</div></div><br></div><p class="barkerpreview2">Solutions offers a "Break Free Plan" which is designed to fill in the gaps left by traditional recovery programs.</p><div class="clearfix"></div></div><div class="barker-item"><a href="/how-choose-best-rehab" class="barkerimage-wrapper"><img class="barkerimage" src="https://static1.thefix.com/cdn/farfuture/hx0YpKIAKxiSmQR9eVrAZGkRVNj_8-hz5lAq1le1Xtk/mtime:1433705344/sites/default/files/styles/sc_60x43/public/startroad.jpg" alt="The Ultimate Guide to Rehab" title="How to Choose an Addiction Treatment Center" style="width:106px;height:77px"></a><div class="barkersubtitle-wrapper"><a href="/how-choose-best-rehab" class="barkersubtitle3">How to Choose The Best Rehab</a><div class="starrow 5"><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div><div class="fa fa-star">&nbsp;</div></div><br></div><p class="barkerpreview2">What you need to know when choosing an addiction treatment center.</p><div class="clearfix"></div></div></div></div>
 </section> <!-- /.block -->
 <section id="block-google-admanager-23461570a7baf3c291faebcc652e77f0" class="block block-google-admanager clearfix">
 
       
   <div id="gam-holder-bottom_right_rail_300x250" class=" gam-holder"><script type="text/javascript">GA_googleFillSlot("bottom_right_rail_300x250");</script></div>
 </section> <!-- /.block -->
+<section id="block-webform-client-block-423672" class="block block-webform mobile-highlight-webform clearfix">
+
+        <h2 class="block-title">Will My Insurance Pay for Rehab?</h2>
+    
+  <form class="webform-client-form webform-client-form-423672" enctype="multipart/form-data" action="/content/privacy-policy" method="post" id="webform-client-form-423672" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-radios webform-component--seeking-help-for">
+  <label for="edit-submitted-seeking-help-for--2">Seeking Help For <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-seeking-help-for--2" class="form-radios"><div class="form-type-radio form-item-submitted-seeking-help-for form-item radio">
+ <input type="radio" id="edit-submitted-seeking-help-for--2-1" name="submitted[seeking_help_for]" value="self" class="form-radio">  <label for="edit-submitted-seeking-help-for--2-1">self </label>
+
+</div>
+<div class="form-type-radio form-item-submitted-seeking-help-for form-item radio">
+ <input type="radio" id="edit-submitted-seeking-help-for--2-2" name="submitted[seeking_help_for]" value="loved_one" class="form-radio">  <label for="edit-submitted-seeking-help-for--2-2">loved one </label>
+
+</div>
+</div>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--insurance-type">
+  <label for="edit-submitted-insurance-type--2">Insurance Type <span class="form-required" title="This field is required.">*</span></label>
+ <select class="form-control form-select required" id="edit-submitted-insurance-type--2" name="submitted[insurance_type]"><option value="" selected="selected">- Select -</option><option value="Medicare">Medicare</option><option value="Medical">Medi-Cal</option><option value="hmo">HMO</option><option value="ppo">PPO</option><option value="tricare">TRICARE</option><option value="other">OTHER</option><option value="dont">I Don't Have Insurance</option></select>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--name">
+  <label for="edit-submitted-name--2">Name <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-submitted-name--2" name="submitted[name]" value="" size="60" maxlength="128">
+</div>
+<div class="form-item webform-component webform-component-email webform-component--email">
+  <label for="edit-submitted-email--2">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input class="email form-text form-email required" type="email" id="edit-submitted-email--2" name="submitted[email]" size="60">
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--phone">
+  <label for="edit-submitted-phone--2">Phone <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-submitted-phone--2" name="submitted[phone]" value="" size="60" maxlength="128">
+</div>
+<div class="form-item webform-component webform-component-markup webform-component--sponsor-info">
+ <p class="balloon">Sponsored <span class="info-icon">ⓘ<span class="info-text-help">Legal Stuff - This free insurance benefits check is a service performed by advertising sponsor Service Industries, Inc., part of a network of commonly owned rehabilitation service providers. By inputting your information, you consent to your information being transmitted to Service Industries, Inc., so that one of its representatives may contact you to discuss your insurance benefits and options for obtaining treatment.</span></span></p>
+</div>
+<input type="hidden" name="details[sid]">
+<input type="hidden" name="details[page_num]" value="1">
+<input type="hidden" name="details[page_count]" value="1">
+<input type="hidden" name="details[finished]" value="0">
+<input type="hidden" name="form_build_id" value="form-Oszf6NlfnHiNUBWV2lROTjdDc4n7GlFy_KnWrYZVEKg">
+<input type="hidden" name="form_id" value="webform_client_form_423672">
+<button class="webform-submit button-primary btn btn-primary form-submit" name="op" value="Submit" type="submit">Submit</button>
+</div></form>
+</section> <!-- /.block -->
 <section id="block-thefix-control-soberliving" class="block block-thefix-control clearfix">
 
       
-  <div class="barker"><a href="/living-sober" class="barkertitle">Living Sober</a><div class="barkercontent"><ul class="barkerlist"><li class="image-item"><div class="thumblabel" data-section="Waaaaaah!">Waaaaaah!</div><img class="barker-list-image img-responsive" alt="tantrum2.jpg" title="tantrum2.jpg" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/280x176sc/public/tantrum2.jpg?itok=zATWNCRh"><a href="/content/relapse-tantrum" class="barkerlinks">Relapse as a Tantrum</a></li><li class="image-item"><div class="thumblabel" data-section="sex addiction">sex addiction</div><img class="barker-list-image img-responsive" alt="georgemen.jpg" title="georgemen.jpg" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/280x176sc/public/georgemen.jpg?itok=4p2RpsT0"><a href="/content/sex-addiction-mindfulness-0624" class="barkerlinks">Mindfulness Takes on Sex Addiction</a></li><li class="image-item"><div class="thumblabel" data-section="living sober">living sober</div><img class="barker-list-image img-responsive" alt="ontheroad2.jpg" title="ontheroad2.jpg" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/280x176sc/public/ontheroad2.jpg?itok=7ogVMB_s"><a href="/content/road-new-life-part-2" class="barkerlinks">On The Road to a New Life, Part 2</a></li><li class="image-item"><div class="thumblabel" data-section="quitting?">quitting?</div><img class="barker-list-image img-responsive" alt="puppet.jpg" title="puppet.jpg" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/280x176sc/public/puppet.jpg?itok=FKDIxRJf"><a href="/content/how-i-didnt-kick-heroin" class="barkerlinks">How &lt;em&gt;I&lt;/em&gt;&amp;nbsp;Didn't Kick Heroin</a></li><li class="image-item"><div class="thumblabel" data-section="Family">Family</div><img class="barker-list-image img-responsive" alt="father-knows-best.jpg" title="father-knows-best.jpg" src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/280x176sc/public/father-knows-best.jpg?itok=Oo7Epwxd"><a href="/content/forgiving-my-drunk-dad-fathers-day2056" class="barkerlinks">Forgiving My Drunk Dad on Father's Day</a></li></ul><div class="clearfix"></div></div>
+  <div class="barker"><a href="/living-sober" class="barkertitle">Living Sober</a><div class="barkercontent"><ul class="barkerlist"><li class="image-item"><div class="thumblabel" data-section="soberlogue">soberlogue</div><img class="barker-list-image img-responsive" alt="Have AA Meetings, Will Travel" title="Have AA Meetings, Will Travel" src="https://static1.thefix.com/cdn/farfuture/b0io7NWaro2zPI9WEabCgzxtIcavuST31N7GBoi5y50/mtime:1450868086/sites/default/files/styles/280x176sc/public/aawilltravel.jpg"><a href="/have-aa-meetings-will-travel" class="barkerlinks">Have AA Meetings, Will Travel</a></li><li class="image-item"><div class="thumblabel" data-section="higher power">higher power</div><img class="barker-list-image img-responsive" alt="A God Who Cares?" title="A God Who Cares?" src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/EIlixy9KmQeX1lWOxVTQc89r6uLwXPBGRO5mqm2Pwu8/mtime:1450662216/sites/default/files/styles/280x176sc/public/sistinechapel.jpg"><a href="/god-who-cares" class="barkerlinks">A God Who Cares?</a></li><li class="image-item"><div class="thumblabel" data-section="serviced">serviced</div><img class="barker-list-image img-responsive" alt="waitress.jpg" title="waitress.jpg" src="https://static2.thefix.com/cdn/farfuture/5qV6QiWoXSDNwIGxQ1GytI3Svw6dJ995LhA2NKQiLro/mtime:1450440181/sites/default/files/styles/280x176sc/public/waitress.jpg"><a href="/priceless-tip-aa" class="barkerlinks">Priceless Tip (From an AA Old Timer)</a></li><li class="image-item"><div class="thumblabel" data-section="behind bars">behind bars</div><img class="barker-list-image img-responsive" alt="Gambling in Federal Prison" title="Gambling in Federal Prison" src="https://static1.thefix.com/cdn/farfuture/MTZJpLEV1a3RTBPO5R2LHN7Yq8bUvvJ7_2ULC0hhe94/mtime:1450258120/sites/default/files/styles/280x176sc/public/gamblingbars.jpg"><a href="/gambling-federal-prison" class="barkerlinks">Gambling in Federal Prison</a></li><li class="image-item"><div class="thumblabel" data-section="smug solutions">smug solutions</div><img class="barker-list-image img-responsive" alt="Are We Too Self-Congratulatory in the Program?" title="Are We Too Self-Congratulatory in the Program?" src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/4gJSYOliqDFaF8esgwIKHscDZrbZG4URBT0qRmwUo8k/mtime:1450180111/sites/default/files/styles/280x176sc/public/thumbsup.jpg"><a href="/are-we-too-self-congratulatory-program" class="barkerlinks">Are We Too Self-Congratulatory in AA?</a></li></ul><div class="clearfix"></div></div>
 </div></section> <!-- /.block -->
 <section id="block-thefix-control-node-tracking-js" class="block block-thefix-control clearfix">
 
@@ -401,12 +520,12 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
   <script type="text/javascript">
       __reach_config = {
         pid: '4f8f16fda782f352a900000a',
-        title: 'Michael Phelps Is Out of Rehab and Into the Pool',
-        url: 'http://www.thefix.com/content/michael-phelps-out-rehab-and-pool',
-        date: '2014-12-02 10:30:00 -0500', // Article publish date
+        title: 'Alcohol Poisoning Kills Six People Per Day in the U.S.',
+        url: 'http://www.thefix.com/content/alcohol-poisoning-kills-six-people-day-us',
+        date: '2015-04-07 19:30:00 -0400', // Article publish date
         authors: ['Shawn Dwyer'],
         channels: ['News'],
-        tags: ['Michael Phelps','DUI','rehab','athletes','celebrities','celebrity DUI','News','McCarton Ackerman',],
+        tags: ['alcohol poisoning','binge drinking','alcohol-related deaths','CDC','alcohol abuse','News','John Lavitt',],
       };
       (function(){
         var s = document.createElement('script');
@@ -419,9 +538,25 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 </section> <!-- /.block -->
   </div>
         </aside>  <!-- /#sidebar-second -->
+          </div>
+
+        <div class="post-content">
+      <div class="row">
+          <div class="region region-post-content">
+    <section id="block-google-admanager-8eafdf3847c344ca4b9848fbd1310ec3" class="block block-google-admanager clearfix">
+
       
-    </div>
+  <div id="gam-holder-bottom_sitewide_728x90" class=" gam-holder"><script type="text/javascript">GA_googleFillSlot("bottom_sitewide_728x90");</script></div>
+</section> <!-- /.block -->
+<section id="block-google-admanager-7e2f151426398569806edee7b45d2e3a" class="block block-google-admanager ads-for-mobile clearfix">
+
+      
+  <div id="gam-holder-bottom_sitewide_300x250" class=" gam-holder"><script type="text/javascript">GA_googleFillSlot("bottom_sitewide_300x250");</script></div>
+</section> <!-- /.block -->
   </div>
+      </div>
+    </div>
+      </div>
 </div>
 <div id="footer-wrapper">
   <footer class="footer container">
@@ -444,45 +579,34 @@ GA_googleAddSlot("ca-pub-2237101190635482", "bottom_right_rail_300x250");
 /*--><!]]>*/
 </style>
 </section> <!-- /.block -->
-<section id="block-block-14" class="block block-block clearfix">
+<section id="block-block-41" class="block block-block clearfix">
 
       
-  <!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
+  <script>
 <!--//--><![CDATA[// ><!--
 
-var _vwo_code=(function(){
-var account_id=139181,
-settings_tolerance=2000,
-library_tolerance=2500,
-use_existing_jquery=false,
-// DO NOT EDIT BELOW THIS LINE
-f=false,d=document;return{use_existing_jquery:function(){return
-use_existing_jquery;},library_tolerance:function(){return
-library_tolerance;},finish:function(){if(!f){f=true;var
-a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return
-f;},load:function(a){var
-b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var
-a=d.createElement('style'),b='body{opacity:0
-!important;filter:alpha(opacity=0) !important;background:none
-!important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else
-a.appendChild(d.createTextNode(b));h.appendChild(a);return
-settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22186128-3', 'auto');
+  ga('send', 'pageview');
+
 
 //--><!]]>
-</script><!-- End Visual Website Optimizer Asynchronous Code -->
+</script>
 </section> <!-- /.block -->
 <section id="block-menu-menu-footer" class="block block-menu clearfix">
 
       
-  <ul class="menu nav"><li class="first leaf"><a href="/content/about-us" title="">About Us</a></li>
+  <ul class="menu nav"><li class="first leaf"><a href="https://local.thefix.com/" title="">Rehab Directory</a></li>
+<li class="leaf"><a href="/substance-abuse-resources-rehab-detox" title="">Treatment Info</a></li>
+<li class="leaf"><a href="/how-use-insurance-benefits-addiction-treatment" title="">Insurance Info</a></li>
 <li class="leaf"><a href="/content/contact-us" title="">Contact Us</a></li>
 <li class="leaf"><a href="/content/advertise-fix" title="">Advertise on The Fix</a></li>
 <li class="leaf active-trail active"><a href="/content/privacy-policy" title="" class="active-trail active">Privacy Policy</a></li>
-<li class="leaf"><a href="/content/terms-conditions-1" title="">Terms &amp; Conditions</a></li>
-<li class="leaf"><a href="/content/submit-story" title="">Submit a Story</a></li>
-<li class="leaf"><a href="/content/upcoming-events" title="">Upcoming Events</a></li>
-<li class="last leaf"><a href="/content/work-fix" title="">Work for The Fix</a></li>
+<li class="last leaf"><a href="/content/terms-conditions-1" title="">Terms &amp; Conditions</a></li>
 </ul>
 </section> <!-- /.block -->
   </div>
@@ -502,6 +626,56 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       </ul>
   </footer>
 </div>
+
+<div class="pop-up-container">
+    <div class="region region-modal-content">
+    <section id="block-webform-client-block-18048" class="block block-webform clearfix">
+
+        <h2 class="block-title">Will My Insurance Pay For Rehab?</h2>
+    
+  <form class="webform-client-form webform-client-form-18048" enctype="multipart/form-data" action="/content/privacy-policy" method="post" id="webform-client-form-18048" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-markup webform-component--sponsor-notice">
+ <p class="balloon">Sponsored <span class="info-icon">ⓘ<span class="info-text-help">This free insurance benefits check is a service performed by advertising sponsor Service Industries, Inc., part of a network of commonly owned rehabilitation service providers. By inputting your information, you consent to your information being transmitted to Service Industries, Inc., so that one of its representatives may contact you to discuss your insurance benefits and options for obtaining treatment.</span></span></p>
+</div>
+<div class="form-item webform-component webform-component-radios webform-component--seeking-help-for">
+  <label for="edit-submitted-seeking-help-for--3">Seeking Help For <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-seeking-help-for--3" class="form-radios"><div class="form-type-radio form-item-submitted-seeking-help-for form-item radio">
+ <input type="radio" id="edit-submitted-seeking-help-for--3-1" name="submitted[seeking_help_for]" value="self" class="form-radio">  <label for="edit-submitted-seeking-help-for--3-1">self </label>
+
+</div>
+<div class="form-type-radio form-item-submitted-seeking-help-for form-item radio">
+ <input type="radio" id="edit-submitted-seeking-help-for--3-2" name="submitted[seeking_help_for]" value="loved_one" class="form-radio">  <label for="edit-submitted-seeking-help-for--3-2">loved one </label>
+
+</div>
+</div>
+</div>
+<div class="form-item webform-component webform-component-select webform-component--insurance-type">
+  <label for="edit-submitted-insurance-type--3">Insurance Type <span class="form-required" title="This field is required.">*</span></label>
+ <select class="form-control form-select required" id="edit-submitted-insurance-type--3" name="submitted[insurance_type]"><option value="" selected="selected">- Select -</option><option value="Medicare">Medicare</option><option value="Medical">Medi-Cal</option><option value="hmo">HMO</option><option value="ppo">PPO</option><option value="tricare">TRICARE</option><option value="other">OTHER</option><option value="dont">I Don't Have Insurance</option></select>
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--name">
+  <label for="edit-submitted-name--3">Name <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-submitted-name--3" name="submitted[name]" value="" size="60" maxlength="128">
+</div>
+<div class="form-item webform-component webform-component-email webform-component--email">
+  <label for="edit-submitted-email--3">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input class="email form-text form-email required" type="email" id="edit-submitted-email--3" name="submitted[email]" size="60">
+</div>
+<div class="form-item webform-component webform-component-textfield webform-component--phone">
+  <label for="edit-submitted-phone--3">Phone <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-submitted-phone--3" name="submitted[phone]" value="" size="60" maxlength="128">
+</div>
+<input type="hidden" name="details[sid]">
+<input type="hidden" name="details[page_num]" value="1">
+<input type="hidden" name="details[page_count]" value="1">
+<input type="hidden" name="details[finished]" value="0">
+<input type="hidden" name="form_build_id" value="form-IisAnaOL5phVKL4UU3B4jxS98m1n-N1vneuS58P6qkI">
+<input type="hidden" name="form_id" value="webform_client_form_18048">
+<button class="webform-submit button-primary btn btn-primary form-submit" name="op" value="Submit" type="submit">Submit</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+</div>
+
     <div class="region region-page-bottom">
     <div class="menu-minipanels menu-minipanel-2285"><div class="panel-display panel-1col clearfix" id="mini-panel-menu_news_section">
   <div class="panel-panel panel-col">
@@ -510,26 +684,26 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_news news features blogs livingsober askanexpert view-dom-id-3c61bcf7bbafcff801c3e8bc121eb37a">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_news news features blogs livingsober askanexpert view-dom-id-8d343da1b52d1a0cb74f5c17bc95dfde">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/scotland-battles-substance-use-among-kids"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/teen%20addict_1.jpg?itok=rLtR8QaF" width="250" height="250" alt="teen addict_1.jpg" title="teen addict_1.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/scotland-battles-substance-use-among-kids">Scotland Battles Substance Use Among Kids</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Toddlers and infants were among more than 2,000 children needing...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/managing-eating-disorders-during-holidays"><img src="https://static1.thefix.com/cdn/farfuture/q-tmFEt3cJy_Ji9Qeig017n3iZiAyWBs6B0eV5K_39I/mtime:1450994404/sites/default/files/styles/sc250x250/public/shutterstock_118971166.jpg" width="250" height="250" alt="shutterstock_118971166.jpg" title="shutterstock_118971166.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/managing-eating-disorders-during-holidays">Managing Eating Disorders During The Holidays</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">Here are a few coping tips from a woman who knows the struggle.</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/pennsylvania-drug-court-implemented-handle-boom-addicted-female-prisoners"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/justice%20scales_1.jpg?itok=c0rTLlmZ" width="250" height="250" alt="justice scales_1.jpg" title="justice scales_1.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/pennsylvania-drug-court-implemented-handle-boom-addicted-female-prisoners">Pennsylvania Drug Court Implemented to Handle Boom in Addicted Female Prisoners</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Washington County aims to treat the number of female addicts in...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/4-signs-you-might-be-addicted-christmas"><img src="https://static1.thefix.com/cdn/farfuture/3wZvDYJgpgidxBBq-LI6Xyj9DVrv6peTM3rPH58Llgw/mtime:1450987205/sites/default/files/styles/sc250x250/public/shutterstock_337969205.jpg" width="250" height="250" alt="shutterstock_337969205.jpg" title="shutterstock_337969205.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/4-signs-you-might-be-addicted-christmas">4 Signs That You Might Be Addicted to Christmas</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">Here's a few ways you can tell if you're a little too hooked on...</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/fox-news-fires-bob-beckel-over-prescription-drug-addiction"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/bob%20beckel.jpg?itok=F41onxKb" width="250" height="250" alt="Bob Beckel" title="Bob Beckel"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/fox-news-fires-bob-beckel-over-prescription-drug-addiction">Fox News Fires Bob Beckel Over Prescription Drug Addiction</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">The co-host of The Five has long been open about his past abuse of...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/us-department-transportation-unveils-campaign-keep-drunk-drivers-road"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/w6HrhRnViHyQdIa4MyhdO1-ZyeoEnmIOb3VOlyrkOpk/mtime:1450980004/sites/default/files/styles/sc250x250/public/shutterstock_183917885.jpg" width="250" height="250" alt="shutterstock_183917885.jpg" title="shutterstock_183917885.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/us-department-transportation-unveils-campaign-keep-drunk-drivers-road">U.S. Department of Transportation Unveils Campaign To Keep Drunk Drivers Off Road</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">A new holiday ad campaign by the Department of Justice urges people...</span>  </div>  </div>
     </div>
   
   
@@ -541,7 +715,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 
   
   </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-news-mega-menu">
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-news-mega-menu pane-menu">
   
       
   
@@ -560,26 +734,26 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_1 news features blogs livingsober askanexpert view-dom-id-69f710ed673211e5a41fa525da9e402c">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_1 news features blogs livingsober askanexpert view-dom-id-ac8a0d4b13c3dfb46fee61e1af3ca588">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/dylann-roof-and-suboxone"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/suboxonefeature2.png?itok=L5GJ-z3k" width="250" height="250" alt="Dylann Roof" title="Dylann Roof"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/dylann-roof-and-suboxone">No, Suboxone Does Not Make You a Racist Murderer</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Does the fact that Dylann Roof had the drug on his person back in...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/memories-punch-drunk-christmas-past"><img src="https://static1.thefix.com/cdn/farfuture/JNLcZpNp4GT3ukZWnZ1LIJQda0nimhVJ13DTiNbbiM4/mtime:1450848903/sites/default/files/styles/sc250x250/public/PunchDrunkjfbretouched.jpg" width="250" height="250" alt="PunchDrunkjfbretouched.jpg" title="PunchDrunkjfbretouched.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/memories-punch-drunk-christmas-past">Memories of a Punch-Drunk Christmas Past</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">With a Christmas song playing on the radio, it’s hard not to think...</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/SAMHSA-frances-harding-Lavitt-0626"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/franharding_bio_lg.jpg?itok=ZmvGme5V" width="250" height="250" alt="Frances Harding" title="Frances Harding"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/SAMHSA-frances-harding-Lavitt-0626">On the Record with SAMHSA's Frances Harding</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">The Fix Q&amp;A with the director of the&nbsp;Substance Abuse and Mental...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/top-10-strategies-staying-sane-sober-home-holidays"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/7s-ZPg1TxxLDpHGh2I4NTFR6joSNNHBWd8ZPPzKhrU4/mtime:1450784141/sites/default/files/styles/sc250x250/public/sanexmas.jpg" width="250" height="250" alt="Top 10 Strategies for Staying Sane &amp; Sober Home for The Holidays" title="Top 10 Strategies for Staying Sane &amp; Sober Home for The Holidays"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/top-10-strategies-staying-sane-sober-home-holidays">Home for the Holidays? Top 10 Strategies for Staying Sane &amp; Sober</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">These strategies have worked in practice for countless alcoholics...</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/addicted-hope-harvard-psychiatrist-understanding-alcoholism"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/hopehouse.jpg?itok=6AwVAJcs" width="250" height="250" alt="hopehouse.jpg" title="hopehouse.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/addicted-hope-harvard-psychiatrist-understanding-alcoholism">Addicted to Hope—The Evolution of a Harvard Psychiatrist’s Understanding of Alcoholism</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">I introduced myself as his psychiatrist and asked, “What can I do...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/young-peoples-recovery"><img src="https://static1.thefix.com/cdn/farfuture/FrNHE2fqzH6hBVFwsDiN7Yqb8etPkk82PaxN9ChpX7Y/mtime:1450662130/sites/default/files/styles/sc250x250/public/youngr2.jpg" width="250" height="250" alt="youngr2.jpg" title="youngr2.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/young-peoples-recovery">Kids Today—Young People in Recovery Turns Five Years Old!</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">With more than 80 chapters in 30 states, YPR has built itself from...</span>  </div>  </div>
     </div>
   
   
@@ -591,7 +765,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 
   
   </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-features-mega-menu">
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-features-mega-menu pane-menu">
   
       
   
@@ -610,26 +784,26 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_2 news features blogs livingsober askanexpert view-dom-id-da03422ed6aadc1fa2f767e526c2a562">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_2 news features blogs livingsober askanexpert view-dom-id-559aee8f4dfe3dfaefbc1ae8957de486">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/not-caring%E2%80%A6-good-way-part-2-relationships-reactions"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/Christopher%20Dale%20Headshot_0_0_0.jpg?itok=j9dPrhj7" width="250" height="250" alt="Christopher Dale" title="Christopher Dale"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/not-caring%E2%80%A6-good-way-part-2-relationships-reactions">Not Caring...in a Good Way, Part 2: Relationships &amp; Reactions</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">The second installment of an ongoing self-exploration process made...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/ending-my-run-reality-how-i-got-sober"><img src="https://static1.thefix.com/cdn/farfuture/bRCOF7_-U_YFduqR3PuWYPVgvZ6DHavk_Ymrz26YGos/mtime:1450755693/sites/default/files/styles/sc250x250/public/dustindillow.jpg" width="250" height="250" alt="Dustin Dillow" title="Dustin Dillow"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ending-my-run-reality-how-i-got-sober">Ending My Run From Reality: How I Got Sober</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">I believe alcoholism is a disease and can also be used as an excuse...</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/kickin%E2%80%99-kratom"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/maria-weeks_0.jpg?itok=R2xdC4DZ" width="250" height="250" alt="Maria Weeks" title="Maria Weeks"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/kickin%E2%80%99-kratom">Kickin’ Kratom</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Allegedly an innocent pain reliever, Kratom&nbsp;turned out to be as...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/hesitant-presentation-my-12-step-experience"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/b5IeuIcz0GM3ZUuZ3lQ5tdQSGz-aPefGp2tLu5fpH5s/mtime:1450297373/sites/default/files/styles/sc250x250/public/shutterstock_337751132.jpg" width="250" height="250" alt="12-Step Recovery" title="12-Step Recovery"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/hesitant-presentation-my-12-step-experience">A (Hesitant) Presentation: My 12-Step Experience</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">The practicality and impact of the principles gave me an entirely...</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/until-we-meet-again"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/jose.jpg?itok=70BGpBVC" width="250" height="250" alt="Joseph Biddle" title="Joseph Biddle"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/until-we-meet-again">Until We Meet Again</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">I am not who I was a month ago and I will never be again.&nbsp;</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/goodbye-alcohol-my-false-friend"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/umtNz1IVhAhvqBITp_4U0ZoQp8YsTDJzhHPB38zAfKw/mtime:1449294808/sites/default/files/styles/sc250x250/public/Screen%20Shot%202015-10-22%20at%2011.25.16.jpg" width="250" height="250" alt="Peter Skillen" title="Peter Skillen"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/goodbye-alcohol-my-false-friend">Goodbye Alcohol, My False Friend</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">Alcohol had stolen my life from me; it was the false friend that...</span>  </div>  </div>
     </div>
   
   
@@ -641,7 +815,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 
   
   </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-culture-mega-menu">
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-culture-mega-menu pane-menu">
   
       
   
@@ -660,26 +834,26 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_3 news features blogs livingsober askanexpert view-dom-id-00f42a421be25d7a008eabde70bb279e">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_3 news features blogs livingsober askanexpert view-dom-id-97065c2398512cc4c0f8dc3f738f4d25">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/relapse-tantrum"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/tantrum2.jpg?itok=NH8GSCvU" width="250" height="250" alt="tantrum2.jpg" title="tantrum2.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/relapse-tantrum">Relapse as a Tantrum</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Not so much deep psychological issues as much as being a toddler...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/have-aa-meetings-will-travel"><img src="https://static1.thefix.com/cdn/farfuture/VIBcxp_W3l-cbYmam_eyPBBaJ3W02D0bqhfoWBCY7_o/mtime:1450867945/sites/default/files/styles/sc250x250/public/aawilltravel.jpg" width="250" height="250" alt="Have AA Meetings, Will Travel" title="Have AA Meetings, Will Travel"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/have-aa-meetings-will-travel">Have AA Meetings, Will Travel</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">When I got sober, one of the things I consistently heard at...</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/sex-addiction-mindfulness-0624"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/georgemen.jpg?itok=F6_olpMU" width="250" height="250" alt="georgemen.jpg" title="georgemen.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/sex-addiction-mindfulness-0624">Mindfulness Takes on Sex Addiction</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">George didn't realize he had a problem until a nurse looked him in...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/god-who-cares"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/6xF7r19S6TD8NMoWrB9sC8bRm8r-SGN6bQwLQdm0DrU/mtime:1450662077/sites/default/files/styles/sc250x250/public/sistinechapel.jpg" width="250" height="250" alt="A God Who Cares?" title="A God Who Cares?"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/god-who-cares">A God Who Cares?</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">AA says that not only is there a God, but there’s a God who is...</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/road-new-life-part-2"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/ontheroad2.jpg?itok=7nXUrC_h" width="250" height="250" alt="ontheroad2.jpg" title="ontheroad2.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/road-new-life-part-2">On The Road to a New Life, Part 2</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">“Nothing behind me, everything ahead of me, as is ever so on the...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/priceless-tip-aa"><img src="https://static2.thefix.com/cdn/farfuture/FfAF17Rbw7TYRATwnl4tjEWHJn6CbIh3R4URNT7gyao/mtime:1450457172/sites/default/files/styles/sc250x250/public/waitress.jpg" width="250" height="250" alt="waitress.jpg" title="waitress.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/priceless-tip-aa">Priceless Tip (From an AA Old Timer)</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">I would not recommend waiting tables for anyone with an attitude...</span>  </div>  </div>
     </div>
   
   
@@ -691,7 +865,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 
   
   </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-sober-living-mega-menu">
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-sober-living-mega-menu pane-menu">
   
       
   
@@ -710,25 +884,25 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_6 news features blogs livingsober askanexpert view-dom-id-7217569527f9f58142f6da2807aaadb0">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_6 news features blogs livingsober askanexpert view-dom-id-9ec4475315a47ae3f095802749d2ea8e">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/ask-expert-will-his-alcoholism-return-if-he-starts-drinking-again-0"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/returnalcoholqq_1.jpg?itok=keOE5Mzv" width="250" height="250" alt="returnalcoholqq_1.jpg" title="returnalcoholqq_1.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/content/ask-expert-will-his-alcoholism-return-if-he-starts-drinking-again-0">Ask an Expert: Will His Alcoholism Return If He Starts Drinking Again?</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.thefix.com/content/ask-expert-will-his-alcoholism-return-if-he-starts-drinking-again-0"><img src="https://static2.thefix.com/cdn/farfuture/8D2b4Cv-0kSohk9L3nOXUELjNXXXSb48thD7RkoCWYQ/mtime:1433704920/sites/default/files/styles/sc250x250/public/returnalcoholqq_1.jpg" width="250" height="250" alt="returnalcoholqq_1.jpg" title="returnalcoholqq_1.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.thefix.com/content/ask-expert-will-his-alcoholism-return-if-he-starts-drinking-again-0">Ask an Expert: Will His Alcoholism Return If He Starts Drinking Again?</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/ask-expert-can-you-feel-withdrawal-years-later"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/timelaterqq.jpg?itok=gF2OsTwN" width="250" height="250" alt="timelaterqq.jpg" title="timelaterqq.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/content/ask-expert-can-you-feel-withdrawal-years-later">Ask an Expert: Can You Feel Withdrawal Years Later?</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.thefix.com/content/ask-expert-can-you-feel-withdrawal-years-later"><img src="https://static1.thefix.com/cdn/farfuture/5u8NbK5-mvD-PtZHYWxfjwCXIiExdunpXxRTO9o_D1E/mtime:1433705782/sites/default/files/styles/sc250x250/public/timelaterqq.jpg" width="250" height="250" alt="timelaterqq.jpg" title="timelaterqq.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.thefix.com/content/ask-expert-can-you-feel-withdrawal-years-later">Ask an Expert: Can You Feel Withdrawal Years Later?</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/ask-expert-my-dad-doesnt-want-me-see-my-addict-mother"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/fathersonqq.jpg?itok=Lk0RyBlC" width="250" height="250" alt="fathersonqq.jpg" title="fathersonqq.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/content/ask-expert-my-dad-doesnt-want-me-see-my-addict-mother">Ask an Expert: My Dad Doesn't Want Me to See my Addict Mother</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.thefix.com/content/ask-expert-my-dad-doesnt-want-me-see-my-addict-mother"><img src="https://static2.thefix.com/cdn/farfuture/gvIlpP87oapNsPuVVUVTYTjopVpsNt5oLbgbbCd3R08/mtime:1433705774/sites/default/files/styles/sc250x250/public/fathersonqq.jpg" width="250" height="250" alt="fathersonqq.jpg" title="fathersonqq.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.thefix.com/content/ask-expert-my-dad-doesnt-want-me-see-my-addict-mother">Ask an Expert: My Dad Doesn't Want Me to See my Addict Mother</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
     </div>
   
@@ -741,7 +915,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 
   
   </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-reader-forums-mega-menu">
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-reader-forums-mega-menu pane-menu">
   
       
   
@@ -760,26 +934,26 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_5 news features blogs livingsober askanexpert view-dom-id-96559374332bd2fe523cdd649d61d12c">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_5 news features blogs livingsober askanexpert view-dom-id-8ea3bddb4da107a90b50ad727584b8a3">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/addicted-hope-harvard-psychiatrist-understanding-alcoholism"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/hopehouse.jpg?itok=6AwVAJcs" width="250" height="250" alt="hopehouse.jpg" title="hopehouse.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/addicted-hope-harvard-psychiatrist-understanding-alcoholism">Addicted to Hope—The Evolution of a Harvard Psychiatrist’s Understanding of Alcoholism</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">I introduced myself as his psychiatrist and asked, “What can I do...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/substance-use-treatment-or-disease"><img src="https://static2.thefix.com/cdn/farfuture/IH0Zk5GoRKII9gcd-mi_fFQH9WaDGrs2tS2YwbvFtzw/mtime:1450352710/sites/default/files/styles/sc250x250/public/brainexamine.jpg" width="250" height="250" alt="An Exploration of the Void of Addiction" title="An Exploration of the Void of Addiction"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/substance-use-treatment-or-disease">Is Substance Use the Treatment or the Disease?</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">Exploring whether people misuse substances because of a spiritual...</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/heroin-overdose-joe-nowinski0618"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/rebelgirl.jpg?itok=cmDztpUE" width="250" height="250" alt="rebelgirl.jpg" title="rebelgirl.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/heroin-overdose-joe-nowinski0618">Thoughts on The Overdose Death of a Young Woman</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">What it teaches us about a holistic view of addiction.</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/sober-home-holidays"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/1zR8_o32awyN4tU4OyWWx_gq-av0SrAEGwFqORlMzYU/mtime:1449750734/sites/default/files/styles/sc250x250/public/homeholidays2.jpg" width="250" height="250" alt="Home for the Holidays" title="Home for the Holidays"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sober-home-holidays">Home (Sober?) for the Holidays</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">Expert advice on avoiding the family meltdowns of Christmas Past.</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/role-peers-addiction-recovery"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/peerrecovery.jpg?itok=Sy-7fcYS" width="250" height="250" alt="Peer Recovery" title="Peer Recovery"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/role-peers-addiction-recovery">On The Role of Peers in Addiction Recovery</a></span>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Do peers have a unique way of connecting with clients?</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/under-harm-reduction-therapy-umbrella-part-three"><img src="https://static2.thefix.com/cdn/farfuture/u7aer-JgkD7jv1JpicDwEjO6xuEn9UW3ipdEzjWUtF8/mtime:1449142707/sites/default/files/styles/sc250x250/public/umbrella3.jpg" width="250" height="250" alt="What's Under the Harm Reduction Umbrella? Part Three" title="What's Under the Harm Reduction Umbrella? Part Three"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/under-harm-reduction-therapy-umbrella-part-three">What's Under the Harm Reduction Umbrella? Part Three</a></span>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">From client-centered to client-specific: structure, containment,...</span>  </div>  </div>
     </div>
   
   
@@ -791,7 +965,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 
   
   </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-pro-voices-mega-menu">
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-pro-voices-mega-menu pane-menu">
   
       
   
@@ -803,95 +977,38 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </div>
   </div>
 </div>
-</div><div class="menu-minipanels menu-minipanel-2279"><div class="panel-flexible panels-flexible-9 clearfix" id="mini-panel-menu_resources_section">
-<div class="panel-flexible-inside panels-flexible-9-inside">
-<div class="panels-flexible-region panels-flexible-region-9-left panels-flexible-region-first ">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-9-left-inside panels-flexible-region-inside-first">
-  </div>
-</div>
-<div class="panels-flexible-region panels-flexible-region-9-center panels-flexible-region-last ">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-9-center-inside panels-flexible-region-inside-last">
-<div class="panel-pane pane-views-panes pane-mega-menu-sections-content-panel-pane-9">
-  
-      
-  
-  <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_9 news features blogs livingsober askanexpert view-dom-id-fe95fb8a4188f3c45e4c7ee980a928ef">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/features"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/topic-features.jpg?itok=OmBtw5rx" width="250" height="250" alt="topic-features.jpg" title="topic-features.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/features">Features</a></span>  </div>  
-  <div class="views-field views-field-body">        <span class="field-content">Read featured stories</span>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/tags/addiction"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/topic-addiction.jpg?itok=NukUtGfv" width="250" height="250" alt="topic-addiction.jpg" title="topic-addiction.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/tags/addiction">Addiction</a></span>  </div>  
-  <div class="views-field views-field-body">        <span class="field-content">Read stories on addiction</span>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd views-row-last">
-      
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/tags/alcoholism"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc250x250/public/topic-alcoholism.jpg?itok=7KDsdHld" width="250" height="250" alt="topic-alcoholism.jpg" title="topic-alcoholism.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/tags/alcoholism">Alcoholism</a></span>  </div>  
-  <div class="views-field views-field-body">        <span class="field-content">Read stories on Alcoholism</span>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-
-  
-  </div>
-<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-resources-mega-menu">
-  
-      
-  
-  <div class="pane-content">
-      </div>
-
-  
-  </div>
-  </div>
-</div>
-</div>
-</div>
-</div><div class="menu-minipanels menu-minipanel-2545"><div class="panel-flexible panels-flexible-33 clearfix" id="mini-panel-menu_addictions_section">
-<div class="panel-flexible-inside panels-flexible-33-inside">
-<div class="panels-flexible-region panels-flexible-region-33-center panels-flexible-region-first panels-flexible-region-last ">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-33-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+</div><div class="menu-minipanels menu-minipanel-2545"><div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-menu_addictions_section">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
 <div class="panel-pane pane-views-panes pane-mega-menu-sections-content-panel-pane-7">
   
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_7 news features blogs livingsober askanexpert view-dom-id-59c5b1c1cb934df7f4b4f837dc7d93f7">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_7 news features blogs livingsober askanexpert view-dom-id-ef91e8eae0f2da9b919240ad8775621f">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/ask-expert-how-to-get-off-suboxone"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/subox_askexpert_0.jpg?itok=syB9c76o" width="50" height="50" alt="Should I Take This Pill?" title="subox_askexpert_0.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/ask-expert-how-to-get-off-suboxone">Suboxone: Maintenance or Detox Drug? Experts Weigh In</a></span>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.thefix.com/ask-expert-how-to-get-off-suboxone"><img src="https://static2.thefix.com/cdn/farfuture/BUR_8PoY1bzWJe_3WsABSm7zmNJHeOfO6v4T0QtkBt0/mtime:1433706091/sites/default/files/styles/sc50x50/public/subox_askexpert_0.jpg" width="50" height="50" alt="Should I Take This Pill?" title="subox_askexpert_0.jpg"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.thefix.com/ask-expert-how-to-get-off-suboxone">Suboxone: Maintenance or Detox Drug? Experts Weigh In</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/things-we-say-and-do-convince-ourselves-we-are-not-alcoholic"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/lietoself_0.jpg?itok=-tDufJza" width="50" height="50" alt="lietoself_0.jpg" title="lietoself_0.jpg"></a></div>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/things-we-say-and-do-convince-ourselves-we-are-not-alcoholic"><img src="https://static1.thefix.com/cdn/farfuture/oXcAQ8wayL7ETjd15AtCCnpesS-jv5VOKg1U--0tjy8/mtime:1433705208/sites/default/files/styles/sc50x50/public/lietoself_0.jpg" width="50" height="50" alt="lietoself_0.jpg" title="lietoself_0.jpg"></a></div>  </div>  
   <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/content/things-we-say-and-do-convince-ourselves-we-are-not-alcoholic">11 Ways to Convince Yourself You're Not an Alcoholic</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/fix-speaks-director-montage-heck-kurt-cobain-brett-morgen"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/montage-of-heck_0.jpg?itok=NtsTVEui" width="50" height="50" alt="Kurt Cobain: Montage of Heck" title="Kurt Cobain: Montage of Heck"></a></div>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/fix-speaks-director-montage-heck-kurt-cobain-brett-morgen"><img src="https://static2.thefix.com/cdn/farfuture/-8Ch53lPXeo44jGZHngIJD811NtBpHMFi7TjkdKdDaU/mtime:1433704920/sites/default/files/styles/sc50x50/public/montage-of-heck_0.jpg" width="50" height="50" alt="Kurt Cobain: Montage of Heck" title="Kurt Cobain: Montage of Heck"></a></div>  </div>  
   <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/content/fix-speaks-director-montage-heck-kurt-cobain-brett-morgen">Director Brett Morgen Talks "Cobain: Montage of Heck" with The Fix</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
   <div class="views-row views-row-4 views-row-even views-row-last">
       
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/blog"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/blog_0_0.jpg?itok=wBuNSnx4" width="50" height="50" alt="blog_0_0.jpg" title="blog_0_0.jpg"></a></div>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/blog"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/5vzfpff4nqB1r2rXzh8HIIF5PlpqOfr9kT2Sm9TAtDg/mtime:1433705331/sites/default/files/styles/sc50x50/public/blog_0_0.jpg" width="50" height="50" alt="blog_0_0.jpg" title="blog_0_0.jpg"></a></div>  </div>  
   <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/blog">The Blogs</a></span>  </div>  
   <div class="views-field views-field-body">        <div class="field-content"></div>  </div>  </div>
     </div>
@@ -909,35 +1026,35 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </div>
 </div>
 </div>
-</div><div class="menu-minipanels menu-minipanel-2547"><div class="panel-flexible panels-flexible-34 clearfix" id="mini-panel-menu_rehab_reviews_feat_section">
-<div class="panel-flexible-inside panels-flexible-34-inside">
-<div class="panels-flexible-region panels-flexible-region-34-center panels-flexible-region-first panels-flexible-region-last ">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-34-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+</div><div class="menu-minipanels menu-minipanel-2547"><div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-menu_rehab_reviews_feat_section">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
 <div class="panel-pane pane-views-panes pane-mega-menu-sections-content-panel-pane-10">
   
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_10 news features blogs livingsober askanexpert view-dom-id-bedd42042c1035f49a29b1b661aad1d2">
+    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_10 news features blogs livingsober askanexpert view-dom-id-56365075a28d2f68231c7e5b9a6e40b8">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/cliffside-malibu0005"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/SIZED%20MR%20Cliffside%20Malibu.jpg?itok=AkR7iEsp" width="50" height="50" alt="SIZED MR Cliffside Malibu.jpg" title="SIZED MR Cliffside Malibu.jpg"></a></div>  </div>  
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/cliffside-malibu0005"><img src="https://static2.thefix.com/cdn/farfuture/EAE8Doc5h1ybt0kip6SxbDkSAzSHIv60zbg7LhlY4C0/mtime:1433704977/sites/default/files/styles/sc50x50/public/SIZED%20MR%20Cliffside%20Malibu.jpg" width="50" height="50" alt="SIZED MR Cliffside Malibu.jpg" title="SIZED MR Cliffside Malibu.jpg"></a></div>  </div>  
   <div class="views-field views-field-title">        <span class="field-content"><a href="/content/cliffside-malibu0005">Cliffside Malibu</a></span>  </div>  
   <div class="views-field views-field-field-stars">        <div class="field-content ratings "></div>  </div>  
   <div class="views-field views-field-field-article-dek">        <span class="field-content">The “beach-house-relaxed” Cliffside Malibu claims to provide an oasis for recovering addicts and...</span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/aton-center-san-diego-rehab00430"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/RESIZED%20AToN%20House%201.jpeg?itok=IlcJY3qK" width="50" height="50" alt="RESIZED AToN House 1.jpeg" title="RESIZED AToN House 1.jpeg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/aton-center-san-diego-rehab00430">AToN Center</a></span>  </div>  
-  <div class="views-field views-field-field-stars">        <div class="field-content ratings  fourhalf"></div>  </div>  
-  <div class="views-field views-field-field-article-dek">        <span class="field-content">Whether you’re interested in the 12 Steps, SMART Recovery, or holistic treatments, this luxurious&nbsp;...</span>  </div>  </div>
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/addiction-solutions-florida"><img src="https://static2.thefix.com/cdn/farfuture/ElyND9OQskkC_B5V25yM5QQ84doRUYTQOv89YNOE0QQ/mtime:1448935530/sites/default/files/styles/sc50x50/public/Screen%20Shot%202015-08-04%20at%2011.26.52%20PM.png" width="50" height="50" alt="Solutions Residence" title="Solutions Residence"></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/addiction-solutions-florida">Addiction Solutions of Florida</a></span>  </div>  
+  <div class="views-field views-field-field-stars">        <div class="field-content ratings  threehalf"></div>  </div>  
+  <div class="views-field views-field-field-article-dek">        <span class="field-content">Solutions offers a "Break Free Plan" which is designed to fill in the gaps left by traditional...</span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/discovery-place"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/discovery.jpg?itok=2GIOicoV" width="50" height="50" alt="Discovery Place" title="Discovery Place"></a></div>  </div>  
+  <div class="views-field views-field-field-featured-image">        <div class="field-content"><a href="/content/discovery-place"><img src="https://d2opwwnn6mpgl2.cloudfront.net/cdn/farfuture/xlpC5tfqjx3fiIhwqz06b9psDSgDHhb0UmiCdHNQ2bI/mtime:1433706091/sites/default/files/styles/sc50x50/public/discovery.jpg" width="50" height="50" alt="Discovery Place" title="Discovery Place"></a></div>  </div>  
   <div class="views-field views-field-title">        <span class="field-content"><a href="/content/discovery-place">Discovery Place</a></span>  </div>  
   <div class="views-field views-field-field-stars">        <div class="field-content ratings  fourhalf"></div>  </div>  
   <div class="views-field views-field-field-article-dek">        <span class="field-content">This 12-step based non-profit Tennessee facility for men offers meetings, groups, camaraderie, and...</span>  </div>  </div>
@@ -956,42 +1073,67 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </div>
 </div>
 </div>
-</div><div class="menu-minipanels menu-minipanel-2548"><div class="panel-flexible panels-flexible-44 clearfix" id="mini-panel-menu_treatment_centers_section">
-<div class="panel-flexible-inside panels-flexible-44-inside">
-<div class="panels-flexible-region panels-flexible-region-44-center panels-flexible-region-first panels-flexible-region-last ">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-44-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-<div class="panel-pane pane-views-panes pane-mega-menu-sections-content-panel-pane-8">
+</div><div class="menu-minipanels menu-minipanel-2548"><div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-menu_treatment_centers_section">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-thefix-blocks-thefix-remote-directory-search pane-thefix-blocks">
   
       
   
   <div class="pane-content">
-    <div class="view view-mega-menu-sections-content view-id-mega_menu_sections_content view-display-id-panel_pane_8 news features blogs livingsober askanexpert view-dom-id-d21fbff9858d762042f09169253c9071">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/rehab-centers"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/find-a-rehab.jpg?itok=iMiHVSuI" width="50" height="50" alt="find-a-rehab.jpg" title="find-a-rehab.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/rehab-centers">Find a Rehab Center</a></span>  </div>  
-  <div class="views-field views-field-body">        <span class="field-content">Find a rehab center near you.</span>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/therapist"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/find-a-therapist.jpg?itok=ENSsZ9Tk" width="50" height="50" alt="find-a-therapist.jpg" title="find-a-therapist.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/therapist">Find a Therapist</a></span>  </div>  
-  <div class="views-field views-field-body">        <span class="field-content">Search a directory of therapists near you</span>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd views-row-last">
-      
-  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://www.thefix.com/content/free-insurance-benefits-check"><img src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/styles/sc50x50/public/insurance-rehab.jpg?itok=EaF4P6HW" width="50" height="50" alt="insurance-rehab.jpg" title="insurance-rehab.jpg"></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.thefix.com/content/free-insurance-benefits-check">Get Insurance to Pay</a></span>  </div>  
-  <div class="views-field views-field-body">        <span class="field-content">See if insurance will pay for rehab</span>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
+    <div class="thefix-directory-search">
+	<div class="header-search-box" role="tabpanel">
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs nav-justified home-header-tabs" role="tablist">
+			<li role="presentation" class="active"><a href="#header-tab-rehab" aria-controls="home" role="tab" data-toggle="tab" class="text-left">Find a Rehab Center</a></li>
+			<li role="presentation" class="insurance-check"><a href="/content/free-insurance-benefits-check">Insurance Benefits Check</a></li>
+		</ul>
+		<!-- Tab panes -->
+		<div class="tab-content">
+			<div role="tabpanel" class="tab-pane active header-tab-rehab">
+				<p>
+					We're committed to providing you with the most comprehensive guide to rehabilitation and recovery services in the US. You can use this directory to search for rehabs in your state or in other states.
+				</p>
+				<div>
+					<form action="" class="home-search navbar-form" role="search">
+                      <div>
+                          <div class="form-group">
+                              <input name="s" class="form-control q" type="text" placeholder="Search by Name or Zip Code">
+                          </div>
+                          <!--
+                          <div class="form-group select-group">
+                          <select name='' class='form-control chosen-select directory-type' >
+                              <option value='-1'>Choose Directory Type</option>
+                              <option class="level-0" value="rehabs">Rehabs</option>
+                              <option class="level-0" value="pain-management" >Pain Management</option>
+                              <option class="level-0" value="mental-health">Mental Health</option>
+                              <option class="level-0" value="interventionist">Interventionist</option>
+                              <option class="level-0" value="sober-living">Sober Living</option>
+                              <option class="level-0" value="buprenorphine">Buprenorphine</option>
+                              <option class="level-0" value="therapist" selected="selected">Therapist</option>
+                          </select>
+                          </div>
+                          -->
+                          <div class="form-group">
+                              <input type="submit" value="search" class="btn btn-primary btn-shadow">
+                          </div>
+                      </div>
+                      <div class="directory-type radios">
+                          <span class="radio-option"><input type="radio" name="directory-type" value="therapist">Therapist</span>
+                          <span class="radio-option"><input type="radio" name="directory-type" value="rehabs" checked="checked">Rehabs</span>
+                          <span class="radio-option"><input type="radio" name="directory-type" value="pain-management">Pain Management</span>
+                          <span class="radio-option"><input type="radio" name="directory-type" value="mental-health">Mental Health</span>
+                          <span class="radio-option"><input type="radio" name="directory-type" value="interventionist">Interventionist</span>
+                          <span class="radio-option"><input type="radio" name="directory-type" value="sober-living">Sober Living</span>
+                          <span class="radio-option"><input type="radio" name="directory-type" value="buprenorphine">Buprenorphine</span>
+                      </div>
+					</form>
+				</div>
+			</div>
+		</div>
+
+	</div>
 </div>  </div>
 
   
@@ -1001,8 +1143,7 @@ settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </div>
 </div>
 </div>  </div>
-<script src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_js/js__T2QxYcSK2CtsyN3IRt_otN1DO3szXinWGmLLCRw5Scs__3gzgrlv4bqJAV1ZGfMc91p0DgYZTU6esZ7GGGX_v2vA__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.js"></script>
-<script src="http://d21no8zvelat5l.cloudfront.net/sites/default/files/advagg_js/js__i11V-7AETPhfL9YzRpXBpECwVkYyQ_ahu2eHxES_mK0__Tgy2Gm7LmUJY8GXZeWxVbS51f3txED35LX1ul4UiOfk__6gtnUxnm-jlbnMJ_OGojIZv7WYPGUsmGOObzUzI-xZY.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"036b07bf0a","applicationID":"3373052","transactionName":"blxRMUJXXhdXW01QC1cWcgZEX18KGVZWXQFmSVICVWlGDVNP","queueTime":0,"applicationTime":1101,"ttGuid":"","agentToken":"","atts":"QhtSRwpNTRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script src="https://static2.thefix.com/sites/default/files/advagg_js/js__ZSvGMfEBgWtF7XszpriFluRC0GNPFeYjoyLfJAmp4m0__MJ5CrQolKAHFWKTnZ9x0Cm6EmxQr9t73z5Tz9WgBRYk__-z50QzaQUmeWz8AoNjsEfnpxUNDw6FGXAo7uCwMd4YY.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"036b07bf0a","applicationID":"3373052","transactionName":"blxRMUJXXhdXW01QC1cWcgZEX18KGVZWXQFmSVICVWlGDVNP","queueTime":0,"applicationTime":826,"ttGuid":"","agentToken":"","atts":"QhtSRwpNTRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 </body></html>
