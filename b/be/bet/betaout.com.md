@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betaout.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520054305id_/https%3A//www.betaout.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaout.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227004311id_/https%3A//www.betaout.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Betaout
 
@@ -16,7 +16,7 @@ We use this information to send updates about our company and will contact you i
 
 ### Choice/Opt-out: 
 
-If you sign up as a trial or a paying member, we request certain personally identifiable information from you. You must provide contact information (such as name, email, and physical address). We use this information for promotion, or support purposes. The users selected to be part of Betaout's Case Studies have the option of opting-out by sending an email to unsubscribe@Betaout.com. However, all testimonials had full permission to be posted on www.Betaout.com. If you no longer wish to receive our newsletter whether it is a promotional, support, or billing related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [unsubscribe@Betaout.com.]()
+If you sign up as a trial or a paying member, we request certain personally identifiable information from you. You must provide contact information (such as name, email, and physical address). We use this information for promotion, or support purposes. The users selected to be part of Betaout's Case Studies have the option of opting-out by sending an email to [unsubscribe@Betaout.com](mailto:unsubscribe@betaout.com). However, all testimonials had full permission to be posted on www.Betaout.com. If you no longer wish to receive our newsletter whether it is a promotional, support, or billing related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [unsubscribe@Betaout.com.](mailto:unsubscribe@betaout.com)
 
 We offer an opportunity to opt-out of promotional, support, billing related communication emails, by clicking on the unsubscribe link on the emails. 
 
@@ -44,6 +44,6 @@ We follow generally accepted industry standards to protect the personal informat
 
 ###  How to Contact Us: 
 
-If you have any questions about this privacy statement, or would like more information about our company, please contact us at: [privacy@Betaout.com.](https://web.archive.org/)
+If you have any questions about this privacy statement, or would like more information about our company, please contact us at: [privacy@Betaout.com.](mailto:privacy@betaout.com)
 
 This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. 
