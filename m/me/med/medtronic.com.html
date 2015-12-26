@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medtronic.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627051141id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medtronic.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226160851id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Sites that are to be cookie law compliant should be added to this list -->
@@ -9,10 +9,9 @@
 				var ga_therapies = document.getElementsByName("therapy");
 				var ga_therapies_output="";
 				for (var i = 0; i < ga_therapies.length; i++) {
- 					ga_therapies_output += ga_therapies[i].value + ":";   
+					ga_therapies_output += ga_therapies[i].value + ":";
 				}
 				ga_therapies_output = ga_therapies_output.replace(/\:$/, '');
-			
 				return (doTherapyLookup(ga_therapies_output));
 			}
 			function doTherapyLookup(myTherapies) {
@@ -52,15 +51,15 @@
 							break;
 						default:
 							therapyOutput += "";
-					}				
+					}
 				}
 				if (therapyOutput === "") {
-					therapyOutput = "Non-Neuro Therapy";	
+					therapyOutput = "Non-Neuro Therapy";
 				}
 				else {
 					therapyOutput = therapyOutput.replace(/\:$/, '');
 				}
-				return therapyOutput;			
+				return therapyOutput;
 			}
 		</script>
 	<!--GA HEADER-->
@@ -77,7 +76,6 @@
 
 						_gaq.push(['site._setAccount', 'UA-26704824-1']); /* Your Site Domain tracking code */
 						_gaq.push(['site._setSiteSpeedSampleRate', 100]); // #protip
-													
 							_gaq.push(['site._setDomainName', 'medtronic.com']); /* Your Site Domain */
 							_gaq.push(['site._setAllowLinker', true]); /* Add setAllowLinker to allow tracking cross domains */
 							_gaq.push(['site._setCustomVar',1,'Therapy Type',getTherapyType(),2]);
