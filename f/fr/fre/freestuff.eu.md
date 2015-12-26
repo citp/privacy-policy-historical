@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424164905id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226175052id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
 **Who is[Freestuff.eu](https://web.archive.org/index.php)?**
 
-This Privacy Policy describes how FreeStuff.eu treats your personal data. FreeStuff.eu is a website operated by AllGroove Limited on behalf of Brandling AG. For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Lolagrove Limited.
+This Privacy Policy describes how FreeStuff.eu treats your personal data. FreeStuff.eu is a website operated by All Groove Limited. For the purposes of the Data Protection Act 1998 (the "Act"), the data processer is Lolagrove Limited and the data controller is All Groove Limited.
 
-AllGroove Limited deals with so-called opt-in marketing. By participating in activities via FreeStuff.eu you can win prizes. The rules for participation and prize draw can be found in our conditions of [prize policy](https://web.archive.org/prize-policy.php).
+All Groove Limited deals with so-called opt-in marketing. By participating in activities via FreeStuff.eu you can win prizes. The rules for participation and prize draw can be found in our conditions of [prize policy](https://web.archive.org/prize-policy.php).
 
 In this privacy policy a reference to "prize draws", "draws", "competitions" or "contests" will include a reference to any promotion where a user may or does qualify for a prize, gift, reward or other promotional item. A reference to a "prize" or "reward" will include a reference to any gift, reward or other promotional item earned. A reference to a "winner" will include a reference to a participant who has earned or qualified for a gift, reward or other promotional item.
 
@@ -51,7 +51,7 @@ Category: Personalized advertising & email marketing
 
 Company: Criteo
 
-The purpose of Criteo's service is to find visitors of our advertising clients' properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display click [here](http://www.criteo.com/privacy/)
+The purpose of Criteo's service is to find visitors of our advertising clients' properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display click [here](http://privacy.criteoemail.com/gb/privacy-policy.html)
 
 **Other information**
 
