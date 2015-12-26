@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154309id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226025709id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | xblafans.com
+# Privacy policy | XBLAFans
 
 ## Here at XBLAFans.com we pride ourselves on user service, and part of that is looking after your privacy. This Privacy Policy outlines the types of personal information we gather when you visit our site.
 
