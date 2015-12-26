@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616192218id_/http%3A//www.abovetopsecret.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226202419id_/http%3A//www.abovetopsecret.com/privacy_policy.php) for the most accurate reproduction.*
 
 # AboveTopSecret.com Privacy Policy
 
