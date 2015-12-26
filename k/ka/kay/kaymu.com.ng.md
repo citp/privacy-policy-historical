@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaymu.com.ng privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613001626id_/http%3A//www.kaymu.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaymu.com.ng privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226201301id_/http%3A//www.kaymu.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Confidentiality | Kaymu Nigeria
 
