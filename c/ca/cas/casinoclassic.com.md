@@ -1,49 +1,17 @@
-> *The following text is extracted and transformed from the casinoclassic.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531075233id_/http%3A//www.casino-classic.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoclassic.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Security : Casino Classic Privacy Policy
+# Legal
 
-  
+* * *
 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-[HOME](https://web.archive.org/) »  **Privacy Policy**
-
-  1. **Recording of Communications**  
-To improve our services and protect the interests of our Players, all telephone calls are recorded for security purposes.
-  2. **Collection of Personal Details**  
-Details that may be collected and held for processing include: 
-    1. Information that identifies you, such as your name, address, date of birth and gender;
-    2. Your email address;
-    3. Your telephone number
-  3. **Processing of Personal Details**  
-Any personal data received in regards to an account holder and/or registrant is: 
-    1. Processed in accordance with the rights of the Account Holder concerned
-    2. Obtained only for a specific and lawful purpose
-    3. Kept in a secure manner
-    4. Is utilised for marketing purposes based on the opt-out principle
-  4. **Disclosure of Information**
-    1. Casino Classic will instruct and authorize the credit financial institution by which an Account Holder's account is held to disclose any information as may be requested by any Governing Authority in respect of an Account Holder's account.
-    2. Casino Classic will disclose personal data when ordered to do so by any Governing Authority and/or under any legal provision contained in the Governing Law. For fraud detection and control purposes the Player agrees that Casino Classic has the right to transfer your personal data to third parties, including so-called AVS service providers and other partners.
-    3. Furthermore, Casino Classic reserves the right to disclose personal data to relevant recipients where Casino Classic has reasonable grounds to suspect irregularities that involve the Player's Casino Account.
-  5. **Customer Relationship Management (CRM) and Marketing Materials**  
-Casino Classic reserves the right to process personal data for CRM purposes. Players can choose not to receive marketing/promotional material at registration and / or unsubscribe from promotional material sent electronically.
-  6. **Correction of Incorrect Account Information**  
-The Account Holder has the right to access the Account Holder's own personal data and/or has the right to correct and/or erase wrong and/or inappropriate data.
-  7. **Cookies / ActiveX**  
-Casino Classic website works by using cookies and Active X components for (but is not limited to) the following purposes: 
-    1. To identify the Account Holder's preferred language so it is automatically selected when the Account Holder returns to Casino Classic;
-    2. For analysis of the Casino Classic website traffic so as to allow us to make suitable improvements.
-    3. The operation of the games (such as the flash casino)
-  8. **Casino Classic guarantees:**
-    1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies.
-    2. To use your personal data to provide you with information or materials only if you requested it.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-The Casino Rewards Group does not endorse spam. Only registered real or guest players that have chosen to click on the "Opt In" button on campaigns or who have entered their email address on a giveaway competition are placed on our email lists. 
-
-If you would like to unsubscribe from our mailing list please click here: <http://cr.crnewsletter.com/main/unsub.asp>
-
-**A Note To International Users:** Please be aware that information we collect will be transferred to, processed and stored in overseas locations. The data protection laws may differ from those of the country in which you are located, and your personal information may be subject to access requests from governments, courts, or law enforcement in the respective countries. By using our services or providing us with any information, you consent to this transfer, processing and storage of your information in overseas locations. 
-
-  
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
