@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002018id_/http%3A//mspmag.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226133615id_/http%3A//mspmag.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best of the Twin Cities | Mpls.St.Paul Magazine
 
