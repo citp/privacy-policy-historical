@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerismcommentary.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625102049id_/http%3A//www.consumerismcommentary.com/privacy-policy-for-consumerism-commentary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerismcommentary.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226180512id_/http%3A//www.consumerismcommentary.com/privacy-policy-for-consumerism-commentary) for the most accurate reproduction.*
 
 # Privacy Policy
 
