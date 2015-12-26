@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vessel.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407044806id_/https%3A//www.vessel.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vessel.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226030250id_/https%3A//www.vessel.com/about/privacy) for the most accurate reproduction.*
 
-# Vessel - Watch your favorites here first
+# Privacy Policy | Vessel
 
 Last Updated: March 21, 2015
 
@@ -90,17 +90,17 @@ We do not share your personal information with third parties other than as follo
 
 Notice to California Residents - Your California Privacy Rights (As Provided by California Civil Code section 1798.83).
 
-A California resident who has given personal information to a business for personal, family, or household purposes (a “California Customer”) may ask if the business has shared personal information with any third parties for their direct marketing use. In general, if a California Customer asks, California law may require that the business give a list of all third parties to whom the business shared information in the prior calendar year and a list of the types of personal information shared. California Customers may ask about how we comply with this law by contacting us [here](https://www.vessel.com/help/contact_us). Please note that we will respond to one request per California Customer each year. We do not respond to requests made by means other than through this e-mail address.
+A California resident who has given personal information to a business for personal, family, or household purposes (a “California Customer”) may ask if the business has shared personal information with any third parties for their direct marketing use. In general, if a California Customer asks, California law may require that the business give a list of all third parties to whom the business shared information in the prior calendar year and a list of the types of personal information shared. California Customers may ask about how we comply with this law by contacting us [here](https://www.vessel.com/help/contact). Please note that we will respond to one request per California Customer each year. We do not respond to requests made by means other than through this e-mail address.
 
 5\. HOW CAN YOU KEEP YOUR INFORMATION SECURE?
 
-Your security is very important to us, and we take steps to help protect your personal information. That said, no security measures are completely secure so we can’t guarantee the security of the information you provide to us. To help protect your information, you should not share your Vessel account information or password, reuse your password on other websites, or use a password you have used on other websites. If you share your account information or password with others or allow others to access your Vessel account, you will be responsible for their actions. While you are responsible for maintaining the confidentiality and security of your account information, if you become aware of a security issue affecting our Services or any authorized use of your Vessel account, please let us know immediately by contacting us [here](https://www.vessel.com/help/contact_us).
+Your security is very important to us, and we take steps to help protect your personal information. That said, no security measures are completely secure so we can’t guarantee the security of the information you provide to us. To help protect your information, you should not share your Vessel account information or password, reuse your password on other websites, or use a password you have used on other websites. If you share your account information or password with others or allow others to access your Vessel account, you will be responsible for their actions. While you are responsible for maintaining the confidentiality and security of your account information, if you become aware of a security issue affecting our Services or any authorized use of your Vessel account, please let us know immediately by contacting us [here](https://www.vessel.com/help/contact).
 
 6\. WHAT CHOICES DO YOU HAVE ABOUT YOUR INFORMATION?
 
 There are a number of ways you can learn about, control and make changes to how we and third parties collect, use and share your information. For example:
 
-  * Profile Information. You may update your profile information through our [Account Settings](https://www.vessel.com/account) page or by sending us requests about your information [here](https://www.vessel.com/help/contact_us).
+  * Profile Information. You may update your profile information through our [Account Settings](https://www.vessel.com/account) page or by sending us requests about your information [here](https://www.vessel.com/help/contact).
   * Communications from us. You may opt out of receiving certain e-mails relating to promotions and marketing from us by following the instructions in those e-mails. If you opt out, we may still send you non-promotional e-mails, such as e-mails about your account or our ongoing business relations. If you do not want us to track e-mails we send you, some e-mail services let you change your display to turn off HTML or disable download of images which should effectively disable our e-mail tracking.
   * Cookies. Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you choose to remove cookies or reject cookies, this could affect certain features of our Services and can remove opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences by clicking [here](http://www.aboutads.info/choices/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices.
   * Device settings. Devices and device system software provide certain opt-out choices that you can control. For example, Apple iOS and Google Play Services provide an opt-out choice that you can use to control in-app advertisements, and mobile device operating systems provide opt-out choices for push notifications or alerts and collection of location information. Please consult your device settings for more information or to opt out using these mechanisms.
@@ -116,10 +116,8 @@ We may change this policy from time to time. If we make any changes to this poli
 
 8\. QUESTIONS
 
-Thank you so much for your interest in Vessel and for reading this policy. We hope you enjoy our services. If you have any questions about this policy, please contact us [here](https://www.vessel.com/help/contact_us) or at:
+Thank you so much for your interest in Vessel and for reading this policy. We hope you enjoy our services. If you have any questions about this policy, please contact us [here](https://www.vessel.com/help/contact) or at:
 
 Vessel Group, Inc.  
 660 4th Street #417  
 San Francisco, CA 94107
-
-© 2015 Vessel Group, Inc.
