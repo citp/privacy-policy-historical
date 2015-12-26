@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opportunitydesk.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630102923id_/http%3A//opportunitydesk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunitydesk.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226224349id_/http%3A//opportunitydesk.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Opportunity Desk
 
@@ -25,4 +25,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [OpportunityDesk](https://web.archive.org/web/20150630102923id_/https://opportunitydesk.org/privacy-policy/%E2%80%9Dhttp://www.opportunitydesk.org%E2%80%9D)
+AdSense Privacy Policy Provided by [OpportunityDesk](https://web.archive.org/web/20151226224349id_/http://opportunitydesk.org/privacy-policy/%E2%80%9Dhttp://www.opportunitydesk.org%E2%80%9D)
