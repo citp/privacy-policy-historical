@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602022124id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226144040id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,9 @@ We invite you to contact us if you have questions about this policy. You may con
     261 School Ave Suite 300 
     Excelsior, MN 55331
 
-Or, you may contact us by [email](https://web.archive.org/web/20150602022124id_/http%3A//allnurses.com/sendmessage.php) or via Private Message.
+Or, you may contact us by [email](https://web.archive.org/web/20151226144040id_/http%3A//allnurses.com/sendmessage.php) or via Private Message.
 
-Our [Terms of Service](https://web.archive.org/web/20150602022124id_/http%3A//allnurses.com/terms-info.html "Terms of Service")
+Our [Terms of Service](https://web.archive.org/web/20151226144040id_/http%3A//allnurses.com/terms-info.html "Terms of Service")
 
 ## Information This Site Gathers And Tracks
 
