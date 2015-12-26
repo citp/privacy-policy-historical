@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ant.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503060435id_/http%3A//www.ant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ant.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226182841id_/http%3A//www.ant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ant.com
+
+By using Ant.com website, you agree that we place cookies on your device. For more information, please view our [Cookie Notice](https://web.archive.org/cookies-policy) and our [Privacy Policy](https://web.archive.org/privacy-policy). ×
 
   
 
