@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508140402id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226024000id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
 
 # FreeTaxUSA® Privacy Policy Regarding Free Tax Preparation and E-file
 
 [](https://privacy.truste.com/privacy-seal/TaxHawk,-Inc-/validation?rid=c42c3969-4ba9-45a8-a024-d06b6af0032e "TRUSTe online privacy certification")
 
-_Effective: 10/20/2014_
+_Effective: 10/20/2015_
 
-This privacy policy applies to www.FreeTaxUSA.com which is owned and operated by TaxHawk, Inc. This privacy policy describes how TaxHawk, Inc. collects and uses the personal information you provide on our web site: www.FreeTaxUSA.com ("FreeTaxUSA"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. FreeTaxUSA.com treats your financial and personally identifiable information as confidential and will not sell or rent any information.
+This privacy statement applies to www.FreeTaxUSA.com which is owned and operated by TaxHawk, Inc. This privacy statement describes how TaxHawk, Inc. collects and uses the personally identifiable information you provide on our web site: www.FreeTaxUSA.com ("FreeTaxUSA"). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information. FreeTaxUSA.com treats your financial and personally identifiable information as confidential and will not sell or rent any information.
 
 TaxHawk, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.FreeTaxUSA.com](https://web.archive.org/index.jsp).
 
@@ -27,6 +27,8 @@ Technologies such as: cookies, beacons, tags and scripts are used by FreeTaxUSA.
 We use cookies to maintain your session while you are signed in to your account, track affiliate referrals, collect analytical data about usage on our site, and to track the effectiveness of our emails. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 Third-Party Advertising
 
@@ -52,17 +54,25 @@ On rare occasions, it is necessary to send out a strictly service related announ
 
 Customer Service
 
-Customer support for FreeTaxUSA.com is provided through our tax application or email. When a customer support request is received, we will reply via the customer support portion of the application or email. If your personally identifiable information changes, or if you no longer desire to use our service, you may correct, update or delete it by signing in to your account and making any changes. However, once the IRS accepts your e-filed tax return, no changes can be made to your account that would change any of the information on the tax return.
+Customer support for FreeTaxUSA.com is provided through our tax application or email. When a customer support request is received, we will reply via the customer support portion of the application or email. If your personally identifiable information changes, or if you no longer desire to use our service, you may correct, update or delete it by signing in to your account and making any changes. If you have any questions regarding this process you may contact us at [support@FreeTaxUSA.com](mailto:support@FreeTaxUSA.com); we will respond within a reasonable timeframe. However, once the IRS accepts your e-filed tax return, no changes can be made to your account that would change any of the information on the tax return.
 
 We will retain your information for as long as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Legal Disclosures
 
-Though every effort is made to preserve user privacy, FreeTaxUSA.com may need to disclose personally identifiable information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
+Though every effort is made to preserve user privacy, FreeTaxUSA.com may need to disclose personally identifiable information when required by law wherein we have a good-faith belief that such action is necessary to protect our rights, protect your safety or the safety of others, to investigate fraud, to comply with a current judicial proceeding, a court order, respond to a government request or legal process served on our website.
 
 Information Sharing
 
-We do not sell or share your personally identifiable information to third parties.
+We will share your personally identifiable information with third parties only in the ways that are described in this privacy statement. We do not sell your personally identifiable information to third parties.
+
+Service Provider
+
+We may provide your personally identifiable information to companies that provide services to help us with our business activities such as shipping your order. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
+
+Customer reviews are collected and managed using a third party service. Any information collected during the review is stored and managed on a third party site. The review and some details provided can be shown publicly.
+
+Account recovery through text messaging is provided through a third party service. A customer's cell phone number will be forwarded to the service in order to send the account recovery message.
 
 Credit Card Processing
 
@@ -97,5 +107,5 @@ If you have additional questions regarding FreeTaxUSA.com's privacy or security 
 Or, address your written question to:
 
           **FreeTaxUSA - Privacy**   
-         PO Box 51048   
-         Provo, UT 84605-1048
+         1366 East 1120 South   
+         Provo, UT  84606
