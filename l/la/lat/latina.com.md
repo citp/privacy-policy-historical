@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latina.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626123215id_/http%3A//www.latina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latina.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226124800id_/https%3A//www.latina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Latina Media Ventures LLC ("we," "us," "our") respects your privacy and is commi
 
 ###  Your California Privacy Rights
 
-The following only applies to California residents. Latina Media Ventures LLC ("we," "us," "our") may from time to time share your personally identifiable information with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes. If you do not want us to share your personally identifiable information with such third parties for their direct marketing purposes, please let us know by email at [tos@latina.com](mailto:tos@latina.com) or by mail at Latina Media Ventures LLC, 625 Madison Ave., 3rd floor, New York, NY 10022, Attention: Latina.com General Manager. Your opt-out request will be processed within 30 days of the date on which we receive it. For more information on how your personally identifiable information is collected and used, please read the remainder of our Privacy Policy.
+The following only applies to California residents. Latina Media Ventures LLC ("we," "us," "our") may from time to time share your personally identifiable information with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes. If you do not want us to share your personally identifiable information with such third parties for their direct marketing purposes, please let us know by email at [tos@latina.com](mailto:tos@latina.com) or by mail at Latina Media Ventures LLC, 120 Broadway, 34th floor, New York, NY 10271, Attention: Latina.com General Manager. Your opt-out request will be processed within 30 days of the date on which we receive it. For more information on how your personally identifiable information is collected and used, please read the remainder of our Privacy Policy.
 
 ###  Children Under 13
 
