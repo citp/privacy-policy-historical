@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekitchn.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627145724id_/http%3A//www.thekitchn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekitchn.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070221id_/http%3A//www.thekitchn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Kitchn
 
@@ -66,7 +66,7 @@ If you send us an e-mail with questions or comments, we may use your personally 
 
 As we continue to develop our business, we may sell or purchase assets. If another entity acquires our company or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. 
 
-****3. **Other:******
+**3\. Other:**
 
 Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public. 
 
@@ -74,7 +74,11 @@ Notwithstanding anything herein to the contrary, we reserve the right to disclos
 
 We may offer sweepstakes, contests and other promotions through the Website that may require registration. By entering any sweepstakes, contest or promotion, you are agreeing to the official rules that govern that sweepstakes, contest or promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the sweepstakes, contest or promotion to use your name, voice and/or likeness in advertising or marketing associated with the sweepstakes, contest or promotion. If you choose to enter a sweepstakes, contest or promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such sweepstakes, contest or promotion, including, without limitation, in connection with winner selection, prize fulfillment and as required by law or permitted by the promotion’s official rules, such as on a winners list. 
 
-****5. **Your California Privacy Rights******
+**5\. Third-Party Email Promotions**
+
+Occasionally we'll send you an advertorial email from one of our advertisers. These advertorial features are clearly marked as such by the emails "From" line and the title at the top of the article itself. The content is paid for by our sponsors, and does not reflect the opinions of the our editorial staff. When you sign up for our emails, you are agreeing not only to get our content delivered to you for free, but these occasional advertorial emails from our partners. If you would prefer not to receive these emails, you can unsubscribe by [requesting to be unsubscribed here](mailto:help@apartmenttherapy.com?subject=Unsubscribe) and we will not send you any additional content or advertorial emails. 
+
+****6. **Your California Privacy Rights******
 
 Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: 
 
@@ -84,7 +88,7 @@ New York, NY 10012
 Attn: California Privacy Request  
 [legal@apartmenttherapy.com](mailto:legal@apartmenttherapy.com)****
 
-****6. **Third Party Ad Server Networks:******
+****7. **Third Party Ad Server Networks:******
 
 Our Website may use third parties such as network advertisers to serve advertisements on our Website and may use traffic measurement services to analyze traffic on our Website. Network advertisers are third parties that display advertisements based on your visits to our Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Our Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your computer and track certain behavioral information regarding users of your computer via an IP address or other device identifier. These third party cookies and other technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons and other third party technologies are governed by each third party’s specific privacy policy, not this one. 
 
