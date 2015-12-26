@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localglamour.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511064231id_/http%3A//www.localglamour.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localglamour.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226162531id_/http%3A//www.localglamour.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Local Glamour
+# Privacy Policy — Local Glamour
 
 Our team here at Localglamour is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
