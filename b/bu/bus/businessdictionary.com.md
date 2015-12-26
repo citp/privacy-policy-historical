@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616234352id_/http%3A//www.businessdictionary.com/article/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226154322id_/http%3A//www.webfinanceinc.com/legal) for the most accurate reproduction.*
 
-# Disclaimer
+# WebFinance Inc.
 
 **Privacy Policy**
 
@@ -8,32 +8,33 @@ We collect no information about our users that is not supplied voluntarily throu
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party, unless expressly requested by the user.  
-**Information collected by third-parties**
+All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party, unless expressly requested by the user.
+
+ **Information collected by third-parties**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
-**Disclaimer**
+ **Disclaimer**
 
-Reproduction of the dictionary, in whole or in part, is prohibited without written permission. However, we do encourage you to mention and link to the site. 
+Reproduction of the dictionary, in whole or in part, is prohibited without written permission. However, we do encourage you to mention and link to the site.
 
-This site is published with the understanding that the publisher is not engaged in rendering legal or investment services. Since each individual’s situation is unique, a qualified professional should be consulted before making business, tax, legal or investment decisions. We make no guarantees as to the accuracy, thoroughness or quality of the information, and are not responsible for errors or omissions. The information provided at this site is neither comprehensive nor appropriate for every individual. Some of the information is relevant only in the U.S., and would differ elsewhere. Some of the glossary terms relate to subjects or investment strategies that might not be appropriate for some individuals. You are strongly cautioned to verify any information before using it for any personal, financial or business purpose. Do not rely solely on what you find here for making investment decisions. This site is provided on the express condition, to which all making use thereof assent, that no liability shall be incurred by WebFinance Inc. (d/b/a BusinessDictionary.com) or any of its employees. 
+This site is published with the understanding that the publisher is not engaged in rendering legal or investment services. Since each individual's situation is unique, a qualified professional should be consulted before making business, tax, legal or investment decisions. We make no guarantees as to the accuracy, thoroughness or quality of the information, and are not responsible for errors or omissions. The information provided at this site is neither comprehensive nor appropriate for every individual. Some of the information is relevant only in the U.S., and would differ elsewhere. Some of the glossary terms relate to subjects or investment strategies that might not be appropriate for some individuals. You are strongly cautioned to verify any information before using it for any personal, financial or business purpose. Do not rely solely on what you find here for making investment decisions. This site is provided on the express condition, to which all making use thereof assent, that no liability shall be incurred by WebFinance Inc. (d/b/a BusinessDictionary.com) or any of its employees.
 
 We are not responsible for the claims or representations made by advertisers and sponsors. WebFinance Inc. does not endorse or recommend the products or services of any company mentioned on our site. Nothing on this site should be construed as an offer or solicitation to buy or sell any products or securities. All investments involve risk. Past performance does not guarantee future results.
 
-**Copyright Notice**
+ **Copyright Notice**
 
 We are very pleased to have partnered with Vijay Luthra to bring you this dictionary. Vijay is the author and copyright holder of the definitions, and under our partnership we have the exclusive and permanent right to publish the definitions online. Vijay shares our passion for educating as many people as possible about business and helping them to succeed in their careers.
 
 Copyright©2007-2011 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
 
-Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20150616234352id_/http://contact.php).
+Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/contact/).
 
-**Copyright Complaints**
+ **Copyright Complaints**
 
 WebFinance Inc respects the intellectual property of others, and we ask our users to do the same. WebFinance Inc may, in appropriate circumstances and at its discretion, suspend or terminate the access of and take other action against users, subscribers, registrants and account holders who infringe the copyright rights of others.
 
-If you believe that your work has been copied and is accessible on a WebFinance Inc’s website in a way that constitutes copyright infringement, or that the website contains links or other references to another online location that contains material or activity that infringes your copyright rights, you may notify us by providing the following information (as required by the **Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. sec. 512** ) to our copyright agent set forth below:
+If you believe that your work has been copied and is accessible on a WebFinance Inc’s website in a way that constitutes copyright infringement, or that the website contains links or other references to another online location that contains material or activity that infringes your copyright rights, you may notify us by providing the following information (as required by the **Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. sec. 512** ) to our copyright agent set forth below: 
 
   * A physical or electronic signature of person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
   * Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
@@ -46,7 +47,7 @@ If you believe that your work has been copied and is accessible on a WebFinance 
 
 Once notice is given to us, we will expeditiously remove, or disable access to, the material. WebFinance Inc is not required to notify the individual responsible for the allegedly infringing material before it has been removed.
 
-**Copyright Agent**
+ **Copyright Agent**
 
 Thomas Murcko
 
