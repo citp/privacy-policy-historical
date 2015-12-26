@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084330id_/http%3A//www.vodafone.ie/terms/privacy/%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226095105id_/http%3A//www.vodafone.ie/terms/privacy/%23cookies) for the most accurate reproduction.*
 
 # Vodafone Ireland's Privacy Policy | Vodafone Ireland
 
@@ -47,17 +47,24 @@ The content of WAP sites and SMS services (in particular premium rate services) 
 
  **10.** If Data has been obtained for a purpose without advising you of other compatible secondary purposes for which it is subsequently to be used, the Data will not be so used without advising you.
 
- **11.** Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by Eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference.
+ **11.** Where you have agreed to be in included in our directory enquiry list your information will automatically be Included in the National Directory Database (NDD) currently hosted by Eircom (as nominated by the Commission for Communications Regulation (ComReg)). 
+
+  * For fixed services your NDD Opt Out preference will transfer automatically from your previous provider, unless otherwise specified
+  * For mobile services we will automatically list you as preferring not to receive direct telemarketing from third parties. 
+
+
+
+**12.** You may wish to contact us if you would like to amend these preferences.
 
 ## Retention
 
- **12.** Data will be kept for no longer than is necessary for the primary purpose for which it was obtained.
+ **13.** Data will be kept for no longer than is necessary for the primary purpose for which it was obtained.
 
- **13.** Data will be retained for any period required by law.
+ **14.** Data will be retained for any period required by law.
 
- **14.** Some Data that is not otherwise subject to retention for normal reasons may need to be retained because of circumstances such as litigation or government investigation.
+ **15.** Some Data that is not otherwise subject to retention for normal reasons may need to be retained because of circumstances such as litigation or government investigation.
 
- **15.** Subject to paragraphs 13 and 14 the following specific retention periods will be followed:
+ **16.** Subject to paragraphs 13 and 14 the following specific retention periods will be followed:
 
 Type of Record or Information| Retention Period  
 ---|---  
@@ -86,35 +93,35 @@ The call detail element of your standard bill will be severed and deleted after 
   
 ## Cookies
 
- **16\. What are cookies and how do we use them?** Cookies are tiny text files that are stored on your computer, tablet or mobile phone when you visit a website in order to help the website work efficiently, to help us analyse the way our website works and how we can improve it, and to ensure that the website functions to the optimum. We make some use of cookies on vodafone.ie for certain online services (e.g. in My Vodafone and the eShop) where your account details are accessible but for your security these cookies are only used to maintain session details (e.g. logon, site preferences etc.) and do not contain any user-specific details (such as user names, passwords or bank details). We take looking after your details seriously – we're always monitoring and improving how we protect your personal information.
+ **17\. What are cookies and how do we use them?** Cookies are tiny text files that are stored on your computer, tablet or mobile phone when you visit a website in order to help the website work efficiently, to help us analyse the way our website works and how we can improve it, and to ensure that the website functions to the optimum. We make some use of cookies on vodafone.ie for certain online services (e.g. in My Vodafone and the eShop) where your account details are accessible but for your security these cookies are only used to maintain session details (e.g. logon, site preferences etc.) and do not contain any user-specific details (such as user names, passwords or bank details). We take looking after your details seriously – we're always monitoring and improving how we protect your personal information.
 
- ** **17.  ** How to control cookies in your browser? **Depending on the type of browser you are using (e.g. Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Safari etc.), you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of the web browser for specific details about cookie security. For more details on cookies and how to control them, visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Go to AboutCookies.org") (please note this link opens a new window or browser tab).
+ **18.  ** **How to control cookies in your browser?** Depending on the type of browser you are using (e.g. Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Safari etc.), you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of the web browser for specific details about cookie security. For more details on cookies and how to control them, visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Go to AboutCookies.org") (please note this link opens a new window or browser tab).
 
 ##  **Access to your information**
 
  ****
 
-18\. You are entitled to copies of your Data kept by us. Requests should be in writing* and should be addressed to Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18. Please quote your name, address and your mobile and/or account number. We will take all reasonable steps to confirm your identity before issuing any copy Data.
+19\. You are entitled to copies of your Data kept by us. Requests should be made by downloading our[ Request for personal information form](https://web.archive.org/download?id=PERSONAL-DATA-REQUEST-FORM) and should be addressed to Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18. We will take all reasonable steps to confirm your identity before issuing any copy Data.
 
 ##  **Information security**
 
  ****
 
-19\. Vodafone is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information.
+20\. Vodafone is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information.
 
-20\. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Vodafone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
+21\. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Vodafone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
 
-21\. It may be necessary to transfer your personal information to other group companies or service providers located in countries outside of the European Economic Area (EEA)**. This may happen where our servers or suppliers and service providers are based outside of the EEA or where you use our services and products while visiting countries outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in Ireland or the EU - in these instances we will take steps to ensure that your privacy rights are respected.
+22\. It may be necessary to transfer your personal information to other group companies or service providers located in countries outside of the European Economic Area (EEA)**. This may happen where our servers or suppliers and service providers are based outside of the EEA or where you use our services and products while visiting countries outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in Ireland or the EU - in these instances we will take steps to ensure that your privacy rights are respected.
 
 ##  **General**
 
  ****
 
-22\. If you have any query about Vodafone's data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to[dataprotection@vodafone.com](mailto:dataprotection@vodafone.com)
+23\. If you have any query about Vodafone's data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to[dataprotection@vodafone.com](mailto:dataprotection@vodafone.com)
 
-23\. This policy should be read in conjunction with the general terms and conditions of this website and the general terms and conditions that apply to your use of Vodafone’s mobile telephony services where more details of the use we make of your data is outlined.
+24\. This policy should be read in conjunction with the general terms and conditions of this website and the general terms and conditions that apply to your use of Vodafone’s mobile telephony services where more details of the use we make of your data is outlined.
 
-24\. We reserve the right to amend or modify this Data Protection Policy at any time in response to changes in applicable data protection and privacy legislation.
+25\. We reserve the right to amend or modify this Data Protection Policy at any time in response to changes in applicable data protection and privacy legislation.
 
 * - We may charge a small fee to cover the administration costs. This fee is set by the Data Protection Commissioner from time to time
 
