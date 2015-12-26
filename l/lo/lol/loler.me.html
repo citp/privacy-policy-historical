@@ -1,204 +1,58 @@
-<!--The following is the downloaded HTML source of the loler.me privacy policy that was archived on 2014-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140412080342id_/http%3A//www.loler.me/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loler.me privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# lolerin: http://ogp.me/ns/fb/lolerin#">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Loler.Me</title>
-        <meta property="fb:app_id" content="376945939032043">
-        <meta property="og:type" content="lolerin:photo"> 
-        <meta property="og:url" content="http://loler.me/index.php?id="> 
-        <meta property="og:title" content="Loler.Me"> 
-        <meta property="og:image" content="http://loler.me/storage/1/">
-        <link href="/css1.css" type="text/css" rel="stylesheet">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script> 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-        <script src="http://loler.me/js/cookie.jquery.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            var loggedIn = false;
-            $(document).ready(loaded());
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Legal</title>
+<style type="text/css">
+body {margin:30px 75px;font-size:1em;font-family:helvetica,arial,sans-serif;line-height:1.4em;color:#444;}
+h1 {font-size:2em;font-weight:normal;}
+hr {border:1px solid #ccc;border-width:1px 0 0;height:1px;}
+ol li,
+ul li {color:#336633;line-height:2em;font-size:.9em;}
+.contact {font-style:italic;color:#336699;}    
+</style>  
+</head>
 
-            function photoViewed()
-            {
-                FB.api(
-                '/me/lolerin:see',
-                'post',
-                { photo: 'http://loler.me/index.php?id=' },
-                function(response) {
-                    if (!response || response.error) {
-                        alert('Error occured');
-                        console.log(response);
-                    } else {
-                        console.log(response.id);
-                    }
-                });
-            }
-
-            function login(){
-                FB.login(handleLogin,{scope:"publish_actions"}); // Displays the login dialog.
-            }
+<body>
 
 
-            function shareOnFacebook(){
-                    if(loggedIn == true) {
-                        var postLink = "http://loler.me/index.php?id=";
-                        var post = {
-                            link:postLink,
-                            name: 'Loler.Me',
-                            picture:"http://loler.me/storage/1/"
-                        }
-                        FB.api("/me/feed","post",post,function(response){console.log(response);});
-                        nextItem();
-                    } else {
-                        login();
-                    }
-            }
-
-            function handleLogin(response){
-                if(response.authResponse){
-                    loggedIn = true;
-                    $.cookie("autoPost", 1);
-                } else {
-                    console.log('declined');
-                }
-            }
-            
-            function nextItem(){
-                window.location = "http://loler.me/index.php?id=";
-            }
-            $(document).ready(function() {
-                $(document).keydown(function(event) {
-                    if (event.which == 37 || event.which == 39 || event.which == 32) {
-                        event.preventDefault();
-                        nextItem();
-                    }
-                });
-            });
+<!--
+=================================================
+** START DEBUG OUTPUT                          **
+=================================================
+             Version: 3.7.171.1
+     Logging_Version: 3.6
+           Webserver: 7302B
+           Client_IP: 174.129.237.157
+              VIP_IP: 64.74.223.37
+           HTTP_Host: www.whoisprivacyprotect.com
+         Domain_Name: whoisprivacyprotect.com
+  Total_Process_Time: 58ms
+       MemCache_Time: 38ms (65%)
+       Database_Time: 12ms (21%)
+            API_Time: 3ms (6%)
+=================================================
+** END DEBUG OUTPUT                            **
+=================================================
+-->
 
 
-            function switchCookie(){
-                var state = $('#autoPost').data('state');
-                console.log(state);
-                if(state == 1){
-                    $.cookie("autoPost", 2);
-                    $('#autoPost .status').html("OFF");
-                    $('#autoPost').data('state', 2);
-                } else if(state == 2){
-                    $.cookie("autoPost", 1);
-                    $('#autoPost .status').html("ON");
-                    $('#autoPost').data('state', 1);
-                }
-            }
 
-            function loaded(){
-                console.log("LOADED ON STARTUP");
-                FB.init({appId:'376945939032043', cookie:true, status:true, xfbml:true, oauth:true});
-                FB.getLoginStatus(function(response) {
-                            console.log('Here I am');
-                              if (response.status === 'connected') {
-                                console.log('STATUS: connected');
-                                // the user is logged in and has authenticated your
-                                // app, and response.authResponse supplies
-                                // the user's ID, a valid access token, a signed
-                                // request, and the time the access token 
-                                // and signed request each expire
-                                var uid = response.authResponse.userID;
-                                var accessToken = response.authResponse.accessToken;
-                                if($.cookie("autoPost") == 1){
-                                    //setTimeout(photoViewed,5000);
-                                    console.log('Sending Photo');
-                                } else if($.cookie("autoPost") == 2) {
-                                    //Nada
-                                    console.log('NADA');
-                                } else {
-                                    $.cookie("autoPost", "1");
-                                    console.log('SETTING COOKIE');
-                                }
-                                loggedIn = true;
-                              } else if (response.status === 'not_authorized') {
-                                // the user is logged in to Facebook, 
-                                // but has not authenticated your app
-                                console.log('STATUS: NOT AUTHORIZED');
-                                loggedIn = false;
-                              } else {
-                                // the user isn't logged in to Facebook.
-                                console.log('STATUS: ANTI FACEBOOK');
-                                loggedIn = false;
-                              }
-                             });
-                };
-        </script>
-    </head>
-    <body>
-        <div id="fb-root"></div>
-        <div id="wrapper">
-            <div id="main">
-				<div id="privacy">
-				<h2 name="terms">Terms of Service</h2>
-				With registration you agree that the pictures you upload belong to you or can be publicly displayed. LOLer is not taking any responsibility for the uploaded pictures. We also reserve the right to edit any image you upload at any time.You also agree to receive emails from LOLer.me on email address you specified at registration(or your Facebook email address)
-				<br><br>
-				<h2 name="privacy_policy">Privacy Policy</h2>
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at angeldimit@gmail.com. <br>
-<br>
-At www.LOLer.me, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.LOLer.me and how it is used. <br>
-<br>
-<b>Log Files</b><br>
-Like many other Web sites, www.LOLer.me makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. <br>
-<br>
-<b>Cookies and Web Beacons</b><br>
-www.LOLer.me does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. <br>
-<br>
-<b>DoubleClick DART Cookie</b> .:: Google, as a third party vendor, uses cookies to serve ads on www.LOLer.me.<br>
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.LOLer.me and other sites on the Internet. <br>
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html <br>
-<br>
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include...<br>
-Google Adsense<br>
-<br>
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.LOLer.me send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. <br>
-<br>
-www.LOLer.me has no access to or control over these cookies that are used by third-party advertisers. <br>
-<br>
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.LOLer.me's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. <br>
-<br>
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. <br>
-<br>
-As our website is made of user-generated content we can't always verify source of content.If you believe your content is illegaly used you should contact our DMCA Agent: <br>
-<br>
-<b>Angel D.<br>
-angeldimit [at] gmail.com</b><br>
-            
-				<br><br> <h2 name="oga">Open Graph activity</h2>
-				LOLer.me uses the Facebook Open Graph functionality to publish content on your timeline. 
-				In order to prevent automatic publishing click on the Auto Publish button to turn it off.
-				  <br>
-				</div>
-
-</div></div>
+<!-- Start: Privacy Policy -->
+<h1>Privacy Policy</h1>
+<hr>
+<p><strong>Cookies.</strong> Third parties may be placing or reading "cookies" on your web browser.  Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed.  Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:</p>
+<ul>
+    <li>the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;</li>
+    <li>the date and time you access the website and pages you visit;</li>
+    <li>your computer's IP address and information about its operating system, platform and the web browser type and version you use;</li>
+    <li>demographic and other non-personally identifiable profile information about you; and</li>
+    <li>information to combat fraud or misuse</li>
+</ul>
+<p><strong>Collection of Information by Third Parties.</strong> This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <a href="http://www.networkadvertising.org/managing/opt_out.asp" class="contact">www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<!-- End: Privacy Policy -->
 
 
-                <!-- NACHALO NA TYXO.BG BROYACH -->
-                <script type="text/javascript">
-                <!--
-                d=document;d.write('<a href="https://www.tyxo.bg/?136958" title="Tyxo.bg counter"><img width="1" height="1" border="0" alt="Tyxo.bg counter" src="'+location.protocol+'//cnt.tyxo.bg/136958?rnd='+Math.round(Math.random()*2147483647));
-                d.write('&sp='+screen.width+'x'+screen.height+'&r='+escape(d.referrer)+'"></a>');
-                //-->
-                </script><a href="https://www.tyxo.bg/?136958" title="Tyxo.bg counter"><img width="1" height="1" border="0" alt="Tyxo.bg counter" src="https://cnt.tyxo.bg/136958?rnd=709657404&amp;sp=800x600&amp;r="></a><noscript><a href="http://www.tyxo.bg/?136958" title="Tyxo.bg counter"><img src="https://cnt.tyxo.bg/136958" width="1" height="1" border="0" alt="Tyxo.bg counter" /></a></noscript>
-                <!-- KRAI NA TYXO.BG BROYACH -->
-                <!-- NACHALO NA Google Analytics BROYACH -->
-                <script type="text/javascript">
 
-                  var _gaq = _gaq || [];
-                  _gaq.push(['_setAccount', 'UA-32633337-1']);
-                  _gaq.push(['_trackPageview']);
-
-                  (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                  })();
-
-                </script>
-                <!-- KRAI NA Google Analytics BROYACH -->
-
-                
-                </body></html>
+</body></html>
