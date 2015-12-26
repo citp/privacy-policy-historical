@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allonlinefree.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080720id_/http%3A//www.allonlinefree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allonlinefree.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226172203id_/http%3A//www.allonlinefree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Online Free
 
