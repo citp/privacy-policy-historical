@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mthruf.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209042812id_/https%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mthruf.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226192705id_/https%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice – Cheezburger Company Blog
 
-Last Updated: October 19, 2010
+Last Updated: October 19, 2014
 
 The following privacy notice applies to this website, the sites listed at www.cheezburger.com/sites, and any sites which are operated by Cheezburger, Inc. (collectively, the “Websites”).  We may change or update this policy from time to time, and we will notify you of any changes by changing the “last updated” notice set forth above. Accordingly, you should frequently visit this web page. Any updated policy shall be effective immediately after it is posted.  
 ****
