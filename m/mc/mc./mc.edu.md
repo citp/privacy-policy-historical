@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mc.edu privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622154522id_/http%3A//www.mc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mc.edu privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226195518id_/http%3A//www.mc.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Mississippi College
 
@@ -10,13 +10,12 @@ Our Web server automatically logs the operating system and browser type of users
 
 ## Cookies
 
-Our Web site uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to track any customization options that may be specified during your visit to the site. Specifically, the cookie keeps track of the background color that you have selected. Other customization options may be added in the future to keep track of additional customization options.
+Our Web site uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to track any customization options that may be specified during your visit to the site. Specifically, the cookie keeps track of the background color that you have selected. Other customization options may be added in the future to keep track of additional customization options.
 
-If you have any questions or comments, please feel free to email us at [www@mc.edu](mailto:www@mc.edu).
+If you have any questions or comments, please feel free to email us at [www@mc.edu](mailto:www@mc.edu).
 
-#### Request Information
+## Request Information
+
+* * *
 
 Interested in attending Mississippi College? Fill out the form below and we’ll connect you with an admissions specialist to assist you in the admissions process.
-
-Program of interest:  
-Undergraduate Graduate ADP Online
