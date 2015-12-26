@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517022831id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226045116id_/https%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Victoria University | Melbourne Australia
 
 ## University privacy policy
 
-Victoria University takes your privacy seriously. Please refer to our [privacy policy](https://policy.vu.edu.au/view.current.php?id=00166) for specific information. If you're a student completing any forms you should read the [Students Information Privacy Collection Statement](https://policy.vu.edu.au/download.php?id=156&i=00166&v=1) beforehand.
+Victoria University values your privacy and is committed to handling your personal and health information in accordance with the _Privacy and Data Protection Act 2014_ (Vic) and the _Health Records Act 2001_ (Vic) and other applicable legislation. Please refer to our [Privacy Policy and Procedure](https://policy.vu.edu.au/view.current.php?id=00166) for details of how we manage your personal and health information.
 
-If you have any questions or concerns, please check our frequently asked questions at [AskVU](http://askvu.vu.edu.au/) or phone us on 9919 6100 or free-call in Australia 1300 VIC UNI (or 1300 842 864).
+The [Student Information Privacy Collection Statement](https://policy.vu.edu.au/download.php?id=179) provides details about the types of student information we collect and how it is managed. Students should read this Statement prior to completing any forms.
+
+If you have any questions regarding Privacy, please check our frequently asked questions at [AskVU](http://askvu.vu.edu.au/) or phone us on 9919 6100 or 1300 VIC UNI (or 1300 842 864).
+
+You may also contact our Privacy Officers at [privacy.officer@vu.edu.au](mailto:privacy.officer@vu.edu.au) for any Privacy related query or concern.
 
 ## Website Privacy Statement
 
-As a user of the VU websites, your privacy is protected by the Privacy and Data Protection Act 2014 (Vic) and the University's [Privacy Policy](https://policy.vu.edu.au/view.current.php?id=00166). This statement provides you with information on how the University handles your information when you access its websites.
+As a user of the VU websites, your privacy is protected by the Privacy and Data Protection Act 2014 (Vic) and the University's [Privacy Policy and Procedure](https://policy.vu.edu.au/view.current.php?id=00166). This statement provides you with information on how the University handles your information when you access its websites.
 
 ### Information automatically logged
 
@@ -42,10 +46,8 @@ Some University sites contain links to other sites. The University is not respon
 
 Some University sites may have chat rooms, forums, on-line teaching environments, message boards and news groups available to their users. Please remember that any information that is disclosed in these arenas becomes public information and you should exercise caution when disclosing your personal information.
 
-## Freedom of Information (FOI)
+## Access to information
 
-Under the Victorian Freedom of Information Act (1982), you have a general right to request information held by VU.
+VU will provide access to information it holds about you, subject to legal requirements.
 
-We will release the information to you unless it is covered by a specific exemption in the Act.
-
-Find out more about FOI at VU and [making a request for information](https://web.archive.org/privacy/freedom-of-information-foi).
+In some instances, requests for access to information will need to be made through VU's [Freedom of Information process](https://web.archive.org/privacy/freedom-of-information-foi).
