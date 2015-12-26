@@ -1,70 +1,104 @@
-> *The following text is extracted and transformed from the aman.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026162122id_/http%3A//www.amanresorts.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aman.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227003837id_/http%3A//www.aman.com/privacy-policy) for the most accurate reproduction.*
 
-# Amanresorts - Luxury resort hotels Bali, India, Sri Lanka, worldwide - privacy
+# Privacy Policy - Aman
 
-  
+This is the privacy policy of Amanresorts International Pte. Limited , a company registered in Singapore having its registered office at 1 Orchard Spring Lane, #05-01 Tourism Court, Singapore 247729, business registration number 199900698E.
+
+Please read this page carefully before you start to use this site.  If you do not wish to be bound by this privacy policy then you should not access this site.  Access of this site by you shall be deemed to be your acceptance of this privacy policy and your agreement that we may process and use your personal data in accordance with this privacy policy. 
+
+If you have any queries regarding this privacy policy or complaints about our use of your information please contact us at [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com) and we will do our best to deal with your complaint or query as soon as possible.  
+
+**INFORMATION WHICH WE MAY OBTAIN ABOUT YOU**
+
+We ask visitors to our site who register with us to supply us with personal information.  The types of personal information we may collect and process from you include: 
+
+  * your contact information (e.g., name, telephone number, email address, postal address);
+  * your financial information (e.g. credit card number, security code, expiration date); and information related to your travel profile (e.g., accommodation and travel preferences, booking history, special health accommodations);
+  * if you contact us or our agents via our site, we may keep a record of that communication and any communications and correspondence with you; and information about your computer, including where available, your IP address, operating system and browser type, for system administration and security reasons and to collect aggregate information. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
 
-This Website Privacy Policy applies to this website which is operated by the Amanresorts group of companies (i.e. all companies whose shares are held or beneficially owned, in whole or in part, whether directly or indirectly, by Silverlink Resorts Limited or any subsidiary thereof, whether or not wholly owned) (" **Amanresorts** "). 
 
-At Amanresorts, we value your privacy. We are grateful for the trust that you place in us and want you to know that the information you share with us will be treated the same way we treat our guests – with the utmost care and respect. This Website Privacy Policy explains how we collect and use your information as well as how you can opt out of our database. By visiting and using our website, you accept the policies described in this Website Privacy Policy. 
+In accordance with your rights under the Data Protection Act 1998, you may request the amendment of the personal information held.  Should you wish to have your information updated or corrected please contact [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com?subject=aman.com%20-%20privacy%20policy%20enquiry&body=An%20enquiry%20about%20the%20aman.com%20privacy%20policy%3A%0Ahttps%3A%2F%2Fwww.aman.com%2Fprivacy-policy).  
 
-### your consent to this website privacy policy 
+**WHAT WE DO WITH YOUR INFORMATION**
 
-By continuing to use this Website or by providing Personal Information to us, you are giving your consent and permission for our collection, use and disclosure of the Personal Information (defined below) in the manner stated in this Website Privacy Policy. If you do not agree to the uses stated in this Policy, please do not provide us with any Personal Information. Alternatively, if you have already provided such information to us and wish to opt-out of our database, you can do so as described below. 
+We may use the personal information you supply to us via our site to:
 
-### collection, use and disclosure of information
+  * process and facilitate bookings;
+  * provide you with the best care at our resorts;
+  * provide you with travel-related information, information relating to Aman or promotional details about products and services that may be of interest to you, as well as personalised mailings (electronic or otherwise) or other communications that you consent to receive;
+  * respond to requests which you have submitted via our site and to deal with on-going matters relating to such requests; and present content from our site in the way that we consider most effective.
 
-This Website may collect or you may voluntarily provide certain personal identifying information to us (hereinafter referred to as “Personal Information”) in connection with your use of the Website, your stay at our resorts or enquiries with our reservations team or other Amanresorts staff. 
 
-Personal Information includes all information that you voluntarily provide to us or that we collect, whether in person, by telephone, fax, mail or email or on our Website, such as (i) your contact information (e.g., name, telephone number, email address, postal address, etc.); (ii) financial information (e.g. credit card number, security code, expiration date, etc.) and (iii) information related to your travel profile (e.g., accommodation and travel preferences, booking history, special health accommodations, etc.). 
 
-We may use your Personal Information collected on this Website for purposes including:   
-\- to process and facilitate bookings;   
-\- to provide you with the best care at our resorts;   
-\- to provide you with travel-related information as well as personalised mailings (electronic or otherwise) or other communications that you consent to receive;   
-\- where you have requested it or in accordance with privacy laws, to provide you with information relating to Amanresorts or promotional details about products and services that may be of interest to you; and   
-\- to comply with prevailing applicable laws and for any lawful purpose. 
+**TRANSMISSION OF PERSONAL INFORMATION OUTSIDE EEA**
 
-To fulfil the above purposes, your Personal Information may be shared within the Amanresorts group of companies and with certain limited third parties as stated below. 
+The information you provide to us may be given to our third party services suppliers outside the European Economic Area in the context of the delivery of the aforementioned personalised services and communications. Aman will always take steps to ensure that your information is used by third parties in accordance with this privacy policy and that it is kept secure at all times. If you do not consent to this transfer, then please do not register on our site as we will be unable to provide you with our services.
 
-### security of your information
+**DISCLOSURE**
 
-Rest assured that Amanresorts maintains a comprehensive information security program designed to ensure the security and confidentiality of your Personal Information. Whilst your Personal Information may be shared within the Amanresorts group, we do not share or disclose your Personal Information with / to any third party except to the extent necessary for the technical dissemination of our email communications by our external service provider. We do not, under any circumstances, sell or otherwise disclose your Personal Information to third parties for marketing purposes and undertake that your Personal Information will be used solely to provide the best service to you and for the dissemination of Amanresorts’ marketing communications to you. 
+In some cases we may be required to disclose your personal information to comply with legal requirements and requests from government agencies.  We may also disclose your personal data to our group companies or to third parties:
 
-### use of cookies
+  * who provide us with services, where we need to in order to provide you with any information that you have requested;
+  * where we consider that we need to in order to comply with any law or regulation, where we suspect that any criminal offence may have been committed, to protect our rights, property or safety or that of others and in any circumstances where we consider that we are permitted to do so by law or regulation; and
+  * where that third party is a professional adviser to us or any of our group companies.
 
-Like many other websites, our Website stores information in a small text file, called a “cookie”, on your hard disk. Cookies contain information about you and your preferences, e.g. language preferences. This helps the site customise your view of the website the next time you visit it. 
 
-Only the information that you provide, or the preferences you set while visiting our website, can be stored in a cookie. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer, and only the site that created the cookie can read it. 
 
-Most browsers are initially set to accept cookies, but you can, if you wish, set your browser to alert you each time a cookie is offered, letting you decide whether or not to accept it. You can also prevent the use of cookies by modifying your browser, although you may not be able to access our full suite of services if you prevent the use of cookies. 
+Our site may contain links to other websites belonging to third parties.  We do not control the privacy practices of these other websites.  You should therefore make sure when you leave our site that you have read that website’s privacy policy.
 
-### retention of information
+**COOKIES AND WEB BEACONS**
 
-Your Personal Information will be retained for as long as it is necessary to fulfill the purpose for which it is collected or for business or legal purposes, or in accordance with applicable laws. 
+Our site uses cookies.  A "cookie" is a small file of letters and numbers that is sent to your computer by a website and automatically saved on your computer by your web browser (e.g. "Internet Explorer").  Each time you request a page from the website, your web browser sends this cookie back to the website server.
 
-Should you choose to unsubscribe from our online services (e.g. by deregistering from our mailing list), please note that your Personal Information may still be retained on our database to the extent permitted by law. 
+The cookies we use are "analytical cookies" sent by Google Analytics.  They allow us to recognise and count the number of visitors and to recognise and track which parts of our site you visit when you are using our site.  This helps us to improve the way our site works, for example by making sure visitors are finding what they need easily.
 
-### opting out
+We may also use the information collected from our use of cookies to estimate our audience size, analyse trends and general usage patterns of our site, optimise our site, and for other research and marketing purposes. This is statistical information and does not identify any individual.
 
-If you do not wish to remain on our database and to receive our personalised mailings (electronic or otherwise) or other communications, please note that you may opt out of our database by sending an email to dataprotection@amanresorts.com. Our full contact details are as follows: 
+An overview of Google Analytics is available at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>[.](https://support.google.com/analytics/answer/6004245)
 
-The Data Protection Officer   
-dataprotection@amanresorts.com   
-Amanresorts International Pte Ltd   
-Address: 1 Orchard Spring Lane, #01-05 Tourism Court, Singapore 247729   
-Contact No: (65) 68832555   
-_*You can reach us from Monday to Friday, between 9 am and 12 pm (Singapore time).  
-_  
-Alternatively, if you have any questions about this Website Privacy Policy, or if you wish to contact us to modify your Personal Information, or for any other reason relating to this Website Privacy Policy, please contact us at the above contact details. 
+You are not obliged to accept cookies.  If you wish, you can set your browser to notify you before you receive a cookie so you have the chance to accept it and you can also set your browser to refuse to receive or send all cookies.  The website [www.allaboutcookies.org ](http://www.allaboutcookies.org/)(run by the Interactive Marketing Bureau) contains step-by-step guidance on how cookies can be switched off by users.
 
-### children
+Google Analytics also uses web beacons (also known as web bugs).  A "web beacon" is a clear picture file which keeps track of your navigation through the website.  Turning off the website's cookies as detailed above will prevent web beacons from tracking your specific activity.  The web beacon may still record an anonymous visit from your IP address but unique information will not be recorded.  
 
-Amanresorts does not intend to collect any Personal Information from children or minors under the age of 18. Accordingly, if a minor has provided us with Personal Information, a parent or guardian of the minor may contact us via email at dataprotection@amanresorts.com or by telephone at (65) 68832555 and we will immediately remove that minor’s information from our database as soon as practicable. 
+If you wish to opt out of being tracked by Google Analytics across all websites you can visit <http://tools.google.com/dlpage/gaoptout>[ ](http://tools.google.com/dlpage/gaoptout)and download the Google Analytics Opt-out Browser Add-on.
 
-### feedback welcome
+By using our site without disabling cookies you are consenting to our use of cookies and web beacons as described in this policy.
 
-Lastly, if you have any questions or concerns about this Website Privacy Policy or the way we use your Personal information, please feel free to contact us by email at info@amanresorts.com; via regular mail at 1 Orchard Spring Lane, #01-05 Tourism Court, Singapore 247729 or by telephone at (65) 68832555. Your privacy is of the utmost importance to us at Amanresorts and we welcome your feedback. 
+Please note that our advertisers and third party partners may also use cookies.  These parties may use so-called “third party” cookies so that they can track your response to their adverts and/or identify you on any other website that you visit which also contains their adverts.  Please refer to their privacy policy for further details. 
 
-_Effective Date: 21 April 2014_
+More information on cookies and web beacons is available at the website [www.allaboutcookies.org ](http://www.allaboutcookies.org/)
+
+**IP ADDRESSES**
+
+Our site logs your IP address and other information about your computer for administrative and security reasons and to collate statistical (non-personal) information about the use of our site and report that information to our advertisers.  
+
+**OPTING OUT**
+
+If you do not wish to remain on our database and to receive our personalised mailings (electronic or otherwise) or other communications, please note that you may opt out of our database by using the “Unsubscribe” option at the footer of our email communications, or by sending an email to [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com?subject=aman.com%20-%20data%20protection%20enquiry). Our full contact details are as follows:
+
+The Data Protection Officer
+
+[dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com?subject=aman.com%20-%20data%20protection%20enquiry)
+
+Aman International Pte Ltd
+
+Address: 1 Orchard Spring Lane, #01-05 Tourism Court, Singapore 247729
+
+Contact No: (65) 68832555
+
+*You can reach us from Monday to Friday, between 9 am and 12 pm (Singapore time).
+
+**CHILDREN**
+
+Aman does not intend to collect any Personal Information from children or minors under the age of 18. Accordingly, if a minor has provided us with Personal Information, a parent or guardian of the minor may contact us via email at [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com) or by telephone at (65) 68832555 and we will immediately remove that minor’s information from our database as soon as practicable.
+
+**QUERIES OR COMPLAINTS**
+
+If you have any queries or complaints regarding this privacy policy or use of your Personal Information please contact our data protection officer using the contact details set out in the “Opting Out” section above. 
+
+**AMENDMENTS**
+
+We may update this privacy policy from time to time and we will notify you of any changes using the email address you gave to us on registration or by an announcement on the site.  The changes will apply to the use of the site after such notice.  If you use the site after the date on which the changes come into effect, you will be deemed to have accepted the new privacy policy.
+
+November 2015
