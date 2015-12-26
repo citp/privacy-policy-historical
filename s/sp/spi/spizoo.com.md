@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608031422id_/http%3A//www.spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226034556id_/http%3A//spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Privacy Policy - Spizoo: World Class Adult Entertainment
 
