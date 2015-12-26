@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyflowindex.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150341id_/http%3A//www.moneyflowindex.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyflowindex.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226100802id_/http%3A//www.moneyflowindex.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Money Flow Index
+# Privacy Policy
 
 Money Flow Index News Media takes seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
