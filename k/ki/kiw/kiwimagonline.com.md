@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054644id_/http%3A//www.kiwimagonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226033806id_/http%3A//www.kiwimagonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KIWI Magazine Online : KIWI Magazine Online
+# Privacy Policy - KIWI magazine : KIWI magazine
 
 **Last modified: February 21, 2012**
 
-Through its websites kiwimagonline.com, kiwishoponline.com, greenmomsmeet.com, and myhealthyschool.com (“Websites”). May Media Group LLC, publisher of Kiwi magazine, aims to bring you information that is tailored to your individual needs, and, at the same time, we want to protect your privacy. The following discloses our information gathering and dissemination practices for these Websites.
+Through its websites kiwimagonline.com, greenmomsmeet.com, and myhealthyschool.com (“Websites”). May Media Group LLC, publisher of KIWI magazine, aims to bring you information that is tailored to your individual needs, and, at the same time, we want to protect your privacy. The following discloses our information gathering and dissemination practices for these Websites.
 
 Your use of these Websites is subject to this Privacy Policy and our Terms and Conditions. Your use of these Websites constitutes acknowledgement of this Privacy Policy. In addition to carefully reviewing this Privacy Policy, please carefully review our Terms and Conditions for use of these Websites.
 
