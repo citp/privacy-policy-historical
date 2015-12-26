@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230093613id_/http%3A//www.beliefnet.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226044534id_/http%3A//www.beliefnet.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Beliefnet.com
 
  
 
- **Effective as of January 31, 2012.**
+ **Effective as of July, 2015**
 
 Beliefnet, Inc. (“Beliefnet,” “we,” “us”) has adopted this privacy policy (the “Privacy Policy”), which describes how we collect, use and share personally identifiable information (such as your full name, email address or mobile number) (“PII”) we obtain online and offline from and about individuals located in the United States. 
 
@@ -34,7 +34,7 @@ Beliefnet collects information from you at several different points on the Site 
 
 2\. _Cookies_. Cookies are small bits of information that the Site places on the hard drive of your computer. Beliefnet uses cookies to identify your Internet browser, store your Beliefnet username for easy logon, store Users’ preferences, keep you logged in, and identify parts of the Site you have visited, applications you are using, advertisements you have seen and/or products you have purchased. Information about your activities on the Site and other non-PII about you may also be used to customize the online ads you encounter to those we believe are consistent with your interests.
 
-Beliefnet, or data providers we have engaged, use cookies to enable you to receive customized ads, content or services, and to provide Beliefnet with certain information. No PII is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your e-mail address in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.privacychoice.org/companies](https://web.archive.org/web/20141230093613id_/http%3A//www.beliefnet.com/About-Us/,%5d%20http:/www.privacychoice.org/companies) and <http://www.aboutads.info/choices>.
+Beliefnet, or data providers we have engaged, use cookies to enable you to receive customized ads, content or services, and to provide Beliefnet with certain information. No PII is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your e-mail address in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.privacychoice.org/companies](https://web.archive.org/web/20151226044534id_/http%3A//www.beliefnet.com/About-Us/,%5d%20http:/www.privacychoice.org/companies) and <http://www.aboutads.info/choices>.
 
 Third party advertisements displayed on the Site may also contain cookies set by Internet advertising companies or advertisers. Beliefnet does not control these cookies and Users of the Site should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. (See Section C ( _Notice_ ) below for more information on third party advertisements). 
 
@@ -70,6 +70,8 @@ The Site may also be linked to web sites operated by companies affiliated with B
 
 Some of the advertisements that appear on Beliefnet’s Site are delivered to you by national Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII information about your visit to the Site, including information about the advertisements they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
+The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [click here](http://privacy.criteoemail.com/us/privacy-policy.html) (link to Criteo privacy policy at <http://privacy.criteoemail.com/us/privacy-policy.html>)
+
 **_D. CHOICE: BELIEFNET WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_**
 
 Beliefnet will not use the PII you provide to us for purposes different from the purpose for which it was submitted unless otherwise provided in this Privacy Policy (See Section E ( _Use_ ) below). Beliefnet will not share your PII with third parties that are not affiliated with Beliefnet, unless we obtain your permission or as otherwise provided in this Privacy Policy (See Section E ( _Use_ ) below). 
@@ -98,8 +100,8 @@ Whenever possible, Members and Subscribers may review the PII we maintain about 
 
 If for any reason you want Beliefnet to stop using your PII, Beliefnet will honor that request; however, Beliefnet will retain any record of your PII that is necessary to comply with applicable federal, state or local law. Even after removal of PII and User Content by you or Beliefnet, PII and User Content may still be viewable in cached and archived pages or if another User has stored your User Content.
 
-If you would like to communicate with us about this Privacy Policy or Beliefnet’s collection or use of your PII, or request Beliefnet to delete your PII, please contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA 23510, Attn: Julia Anderson, Beliefnet Internet Privacy Officer. E-mail: [janderson@affinity4.com](mailto:janderson@affinity4.com).
+If you would like to communicate with us about this Privacy Policy or Beliefnet’s collection or use of your PII, or request Beliefnet to delete your PII, please contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA 23510, Attn: Brittany Shearer, Beliefnet Internet Privacy Officer. E-mail: [bshearer@beliefnetstaff.com.](mailto:bshearer@beliefnetstaff.com.)
 
  ** _H. REMEDIES AND COMPLIANCE: HOW TO CONTACT BELIEFNET ABOUT PRIVACY CONCERNS_**
 
-If you have questions or concerns regarding privacy, your use of the Beliefnet Site, or the collection and use of PII, you may contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA, 23510 Attn: Julia Anderson, Beliefnet Internet Privacy Officer. Telephone: (757) 200-9944. E-mail: [janderson@affinity4.com](mailto:janderson@affinity4.com). 
+If you have questions or concerns regarding privacy, your use of the Beliefnet Site, or the collection and use of PII, you may contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA, 23510 Attn: Brittany Shearer, Beliefnet Internet Privacy Officer. Telephone: (757) 200-9944. E-mail:[ bshearer@beliefnetstaff.com](mailto:bshearer@beliefnetstaff.com). 
