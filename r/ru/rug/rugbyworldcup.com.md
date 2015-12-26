@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628203232id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226013340id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
 
 # Rugby World Cup
 
-For the purpose of the Irish Data Protection Acts, 1988 & 2003, as amended or re-enacted from time to time (the “Acts”), the data controller is Rugby World Cup Limited having its principal place of business at First Floor, Huguenot House, 35-38 St. Stephen's Green, Dublin 2, Ireland. We fully respect your right to privacy, and any personal information which you volunteer to us will be treated with the highest standards of security and confidentiality in accordance with the terms of the Acts.
+For the purpose of the Irish Data Protection Acts, 1988 & 2003, as amended or re-enacted from time to time (the “Acts”), the data controller is Rugby World Cup Limited having its principal place of business at World Rugby House, 8-10 Pembroke Street Lower, Dublin 2, Ireland. We fully respect your right to privacy, and any personal information which you volunteer to us will be treated with the highest standards of security and confidentiality in accordance with the terms of the Acts.
 
 #### Collection of Information
 
 In general, you can visit the site without providing personal information. However, there may be times when we will request personal information in order that you may participate in the site's activities or features. 
 
-Information is typically requested when you wish to take part in certain activities available on the site, or otherwise to facilitate access to and/or use of certain parts of the site (such as when contact us, request particular information, or subscribe to our newsletter services and/or other services (for example, subscription services) available on the site. If you contact us, we may keep a record of that correspondence.
+Information is typically requested when you wish to take part in certain activities available on the site, or otherwise to facilitate access to and/or use of certain parts of the site (such as when contact us, request particular information, or subscribe to our newsletter services, or entering a competition and/or other services (for example, subscription services) available on the site. If you contact us, we may keep a record of that correspondence.
 
-The personal information collected may include, but is not limited to the following: name, involvement in Rugby, age, country of residence, nationality, gender and/or your confirmation that you have read and agree with the Terms and Conditions applicable to the site. 
+The personal information collected may include, but is not limited to the following: name, involvement in Rugby, age, country of residence, country supported, nationality, gender and/or your confirmation that you have read and agree with the Terms and Conditions applicable to the site. 
 
 In addition, in order to access some services or parts of the site  or to access and/or take advantage of certain services available on the site (e.g. to receive newsletters or receive information about volunteering and/or tickets), you may be asked to register, or sign in with an e-mail address and to choose a password. In this case your chosen password and other information (including e-mail address) are collected, retained and used to create a unique logon for you to access the services or a particular part of the site.
 
@@ -102,11 +102,11 @@ You can contact us by emailing us at [website@rugbyworldcup.com](mailto:website@
 
 This privacy policy is subject to change without notice. 
 
-This privacy policy was last updated on 23rd May 2012. 
+This privacy policy was last updated on 07 September 2015. 
 
-Rugby World CupLimited,  
-Huguenot House,  
-35-38 St. Stephen's Green,  
-Dublin, Ireland.
+World Rugby House  
+8-10 Pembroke Street Lower  
+Dublin 2  
+Ireland.
 
 Copyright © Rugby World Cup Limited 2012. All Rights Reserved.
