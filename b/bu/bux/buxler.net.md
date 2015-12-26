@@ -1,46 +1,17 @@
-> *The following text is extracted and transformed from the buxler.net privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512160251id_/http%3A//www.buxler.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxler.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# The Buxuser Community - Buxler.net| Instant Payment | Great Support | Trustworthy | Free for all
+# Legal
 
-## Buxler respects your privacy and will never put you at risk.
+* * *
 
-  
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-## 1\. Cookies
 
-1.1. Your browser must accept cookies so we can store information.
-
-1.2. Cookies will only be used to store your preferences and no identifiable information.
-
-## 2\. Uer Emails
-
-2.1. We will not share, sell, or trade your information.
-
-2.2. We may use your email to contact you at any time.
-
-2.3. We will use your payment accounts to pay you.
-
-## 3\. User Password
-
-3.1. Your password is saved safely in our database through undecryptable 256-bit binary encryption.
-
-## 4\. Username
-
-4.1. Your username will be shown, and may be shown by us at anytime.
-
-4.2. Your username will show in the chat and forum.
-
-## 5\. Advertisements
-
-5.1. We try to avoid offensive ads. If one is displayed, please report it at **support[at]buxler[dot].net** and we will remove it.
-
-5.2. If you click an ad, you are expected to view it.
-
-5.3. You must obey the rules of websites you visit while using our service.
-
-## 6\. Personal Information
-
-6.1. Your personal information such as your email and alertpay email, are only used for internal system processes such as sending payment or contacting you. 
-
-6.2. Your personal information is safe with us and will never be shared or sold to anyone. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
