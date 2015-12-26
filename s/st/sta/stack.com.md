@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629150830id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226044838id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | STACK
+# Get Bigger, Stronger, Better, Faster | STACK
 
 STACK, Inc. ("STACK") recognizes that its customers, visitors, Members, and others who use [http://www.stack.com](http://www.stack.com/) or other web sites owned or operated by STACK (the "STACK Websites") (collectively or individually "Members") value their privacy. This Privacy Policy details important information regarding the use and disclosure of Member information collected on the STACK Websites. STACK provides this Privacy Policy to help you make an informed decision about whether to use or continue using the STACK Websites. 
 
