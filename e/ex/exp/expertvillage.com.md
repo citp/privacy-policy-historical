@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertvillage.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627113350id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertvillage.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226184540id_/https%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow
 
@@ -93,3 +93,15 @@ We utilize the self-assessment approach to assure our compliance with our privac
 Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
 
 Copyright © 2015. Demand Media, Inc.
+
+NEW!
+
+M
+
+What's for Dinner, Pinner?
+
+
+
+Get recipes based on your pins!
+
+[GO](https://www.ehow.com/pinner-dinner/)
