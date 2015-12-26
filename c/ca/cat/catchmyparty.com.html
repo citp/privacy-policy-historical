@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the catchmyparty.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622030512id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchmyparty.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226043221id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="" lang="en" version="HTML+RDFa 1.0" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/"><!--<![endif]--><head>
 
@@ -67,6 +67,14 @@
     #content.vendors.vendor-about #contact .content ul li {
     width: 90%;
     }
+    /*fix spacing on photo upload to make room for trash icon*/
+    #content.party.add-party article.page .container #party-photos .content .grid-list ul>li .actions ul li#add-caption {
+      width: 33%;
+    }
+    #content.party.add-party article.page .container #party-photos .content .grid-list ul>li .actions ul li#add-caption a i {
+      margin-left: auto;
+    }
+
   </style>
 
   <meta name="robots" content="noindex, nofollow">
@@ -248,6 +256,14 @@
   including your personally identifiable information in connection with a sale,
   merger, reorganization or sale of assets or in the event of bankruptcy.
 </p>
+<p>
+  We use third-party advertising companies to serve ads when you visit our Web site.
+  These companies may use aggregated information (not including your name, address,
+  email address or telephone number) about your visits to this and other Web sites in
+  order to provide advertisements about goods and services of interest to you. If you
+  would like more information about this practice and to know your choices about not
+  having this information used by these companies, <a href="http://www.networkadvertising.org/choices/" rel="nofollow">click here.</a>
+</p>
 <p class="statictext">
   If you are a registered user of the site, you may access or update your
   information from the account setting page, or by
@@ -398,11 +414,6 @@
   </div>
   <!-- .meta end -->
 
-    <section class="container mobile-wrapper visible-phone">
-      <div id="topmobile" class="mobile-container"></div>
-    </section>
-    
-
 </footer>
 
 </div>
@@ -453,20 +464,6 @@
       }
     </script>
   
-      <script type="text/javascript">
-        if( $('section.mobile-wrapper.visible-phone').is(':visible') ) {
-          $(function() {
-            window.glam_affiliate_id = 1621845079;
-            if ( !window.glam_ord ){window.glam_ord = Math.random()*1E16;}
-            if ( !window.glam_tile ){window.glam_tile = 0;}
-            var adCallUrl = 'http://www35.glam.com/gad/glamadapt_mobile.act?;sz=320x50;tt=m' +';afid=' + window.glam_affiliate_id +';ord=' + window.glam_ord +';tile=' + (++window.glam_tile) +';_glto=' + (new Date()).getTimezoneOffset() +';_g_cv=3;';
-            postscribe('#topmobile', '<script type="text/javascript" src="' + adCallUrl + '"><\/script>');
-          });
-        }
-      </script>
-    
-
-
 
 
 
@@ -477,18 +474,32 @@
     glam_logo_color = 'wht';
     postscribe('#network', '<script src="http://www8.glam.com/js/widgets/glammedia_logo.js"><\/script>');
   </script>
+  <script>
+    if ($(window).width() > 1599) {
+      !function(D,id,s){
+        if(D.getElementById(id))return;
+        s=D.createElement('script');
+        s.src='//pollware-cdn.sodahead.com/pollware/flyout_12.js';
+        D.getElementsByTagName('head')[0].appendChild(s);
+      }(document,'sh-flyout-loader');
+    }
+  </script>
 
 
 <script>
-  if ($(window).width() > 1599) {
-    !function(D,id,s){
-      if(D.getElementById(id))return;
-      s=D.createElement('script');
-      s.src='//pollware-cdn.sodahead.com/pollware/flyout_12.js';
-      D.getElementsByTagName('head')[0].appendChild(s);
-    }(document,'sh-flyout-loader');
-  }
+  $(document).ready(function() {
+    $('a[href*="etsy.com"]').click(function(e) {
+      console.log('Is Etsy');
+      e.preventDefault();
+      location.href = "http://www.awin1.com/cread.php?awinmid=6220&awinaffid=249413&clickref=&p=" + this.href;
+    });
+  });
 </script>
+
+
+  <script src="//d4ebx5h0p80bx.cloudfront.net/milotree/pinterest/002929catchmyparty.js"></script>
+
+
 
 
 
