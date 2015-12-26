@@ -1,27 +1,20 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626151509id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227001237id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ModDB - Mod DB
+# Privacy Policy - Mod DB - Mod DB
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Privacy matters but it can be confusing. This page explains our approach to privacy on all our [DBolical Pty Ltd](http://www.dbolical.com/) ("DBolical") websites and how it affects you.
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any [DBolical Pty Ltd](http://www.dbolical.com/) ("DBolical") run website. On some pages, you can order advertising, make requests, and register / win competitions to receive materials. The types of personal information collected at these pages are:
-
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Credit/Debit Card Information
-  * (etc.)
-
-
+When you sign up for any of our services – paid or otherwise – we will record specific personal information about you, such as your name and email address. We will also collect and store information about your use of our services so as to improve them. For example, we keep a log of what features are being used at any time.
 
 ## The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not (subject to the exception relating to Desura Pty Ltd outlined below) share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive updates on our new products and services.
 
-Personal information you provide to us (excluding any credit/debit card information) is provided to Desura Pty Ltd ACN 144 497 030 ("Desura"), which owns and operates digital distribution based websites relating to the online gaming community, for the purpose of Desura being able to provide you with updates and information relating to its activities.
+## Measuring our visitors
+
+We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that _somebody_ visited our site. The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better. You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
 
 ## Disclosing Information
 
@@ -43,16 +36,12 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-## How You Can Access Or Correct Your Information
-
-You can access all your personally identifiable information that we collect online and maintain by logging into and editing your profile. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
 ## How You Can Remove Your Information
 
 You can [contact us](http://www.moddb.com/contact) if you would like your account closed. Once we have verified your identity, we can remove all your personal details and IP on request.
 
-## How To Contact Us
+## Any questions?
 
-Should you have other questions or concerns about these privacy policies, please contact DBolical at [contact us](http://www.moddb.com/contact).
+If you have any questions about this privacy policy or your personal data, please [contact us](http://www.moddb.com/contact).
 
-Last Updated: June 27, 2013, our [terms of use](https://web.archive.org/terms-of-use) can be found here.
+Last Updated: July 16, 2015, our [terms of use](https://web.archive.org/terms-of-use) can be found here.
