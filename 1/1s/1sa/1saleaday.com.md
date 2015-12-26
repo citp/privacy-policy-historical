@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120142id_/http%3A//www.1sale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226063030id_/http%3A//www.1sale.com/privacy-policy) for the most accurate reproduction.*
 
 # 1Sale: Online Coupon Codes, Daily Deals, Black Friday Deals, Coupons, Promo Codes, Discounts | Privacy Policy
 
