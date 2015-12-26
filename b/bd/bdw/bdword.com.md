@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdword.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630022951id_/http%3A//www.bdword.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdword.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226072158id_/http%3A//www.bdword.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | bdword.com
 
@@ -84,65 +84,3 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under 13.
-
-[English to Persian Dictionary](http://www.bdword.com/english-to-persian-dictionary- "English to Persian Dictionary") [Read Text](http://www.bdword.com/read-text-english-to-persian "Read Text English to Persian Dictionary") [Persian to English Dictionary](http://www.bdword.com/persian-to-english-dictionary "Persian to English Dictionary")
-
-* * *
-
-#### Download Browser Extensions
-
-[](https://chrome.google.com/webstore/detail/bdword-dictionary/pncbiojelaaolbfigolmdkmgbebnfdmb)
-
-[](https://addons.mozilla.org/en-US/firefox/addon/bdword-dictionary/)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-#### Popular Searches
-
-* * *
-
-[Characteristically](http://www.bdword.com/persian-meaning-or-translation-of-characteristically "English to Persian meaning of characteristically") = شخصیتی
-
-* * *
-
-[Characterization](http://www.bdword.com/persian-meaning-or-translation-of-characterization "English to Persian meaning of characterization") = توصیف شخصیت, توصیف صفات اختصاصی, منش نمایی
-
-* * *
-
-[Characterize](http://www.bdword.com/persian-meaning-or-translation-of-characterize "English to Persian meaning of characterize") = مشخص کردن, منش نمایی کردن, توصیف کردن, متصف کردن
-
-* * *
-
-[Characterized](http://www.bdword.com/persian-meaning-or-translation-of-characterized "English to Persian meaning of characterized") = مشخص کردن, منش نمایی کردن, توصیف کردن, متصف کردن
-
-* * *
-
-[Characterless](http://www.bdword.com/persian-meaning-or-translation-of-characterless "English to Persian meaning of characterless") = characterless
-
-* * *
-
-[Charade](http://www.bdword.com/persian-meaning-or-translation-of-charade "English to Persian meaning of charade") = جدول کلمات متقاطع, نوعی معما, نوعی بازی
-
-* * *
-
-[Charades](http://www.bdword.com/persian-meaning-or-translation-of-charades "English to Persian meaning of charades") = جدول کلمات متقاطع, نوعی معما, نوعی بازی
-
-* * *
-
-[Charadrii](http://www.bdword.com/persian-meaning-or-translation-of-charadrii "English to Persian meaning of charadrii") = charadrii
-
-* * *
-
-[Charadriidae](http://www.bdword.com/persian-meaning-or-translation-of-charadriidae "English to Persian meaning of charadriidae") = charadriidae
-
-* * *
-
-[Charadriiformes](http://www.bdword.com/persian-meaning-or-translation-of-charadriiformes "English to Persian meaning of charadriiformes") = charadriiformes
-
-* * *
