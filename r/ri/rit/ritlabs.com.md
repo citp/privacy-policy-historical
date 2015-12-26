@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331035142id_/https%3A//www.ritlabs.com/en/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226164840id_/https%3A//www.ritlabs.com/en/privacy/index.php) for the most accurate reproduction.*
 
-# Ritlabs Privacy Policy
+# Ritlabs, SRL Privacy Policy
 
-  * [The Bat!](https://web.archive.org/en/products/thebat/)
-  * [The Bat! Voyager](https://web.archive.org/en/products/voyager/)
-  * [BatPost](https://web.archive.org/en/products/batpost/)
-
-  
-| 
-
-Effective Date: March 2, 2015
+Effective Date: December 16, 2015
 
 Ritlabs, SRL (“Ritlabs”) has adopted this privacy policy (hereinafter “Privacy Policy”) to inform you of its collection and use of your personal or personally identifiable information through the [https://www.ritlabs.com](https://www.ritlabs.com/) website (hereinafter “Website”). Ritlabs values your privacy and has adopted this Privacy Policy in an effort to remain transparent with respect to its collection and use of your personal or personally identifiable information.
 
@@ -17,8 +10,7 @@ Ritlabs reserves the right to suspend, replace, modify, amend, or terminate this
 
 ### 1\. What information does Ritlabs collect?
 
-Ritlabs may collect the following personal or personally identifiable information from you:  
-
+Ritlabs may collect the following personal or personally identifiable information from you:
 
   * First name and surname;
   * Email address;
@@ -34,17 +26,19 @@ Ritlabs may collect the following personal or personally identifiable informatio
   * Serial numbers, order numbers, license registration data of the software that you use;
   * Use of the Website.
 
-Ritlabs may collect this personal or personally identifiable information through various means, including, but not limited to, through session cookies and persistent cookies. 
+
+
+Ritlabs may collect this personal or personally identifiable information through various means, including, but not limited to, through session cookies and persistent cookies.
 
 ### 2\. How does Ritlabs use this information?
 
-Ritlabs may use your personal or personally identifiable information to provide you with service and support, to provide you with the Website and its associated services, to communicate with you about Ritlabs’ goods or services, to request information from you to improve Ritlabs’ good or services, including polls or surveys, to transmit this information to a third party to aid you in completing a transaction, such as purchasing software from Ritlabs or its distributors, to tailor the Website and its content to your preferences, and to aid Ritlabs in changing the content of the Website or improve the Website usability. 
+Ritlabs may use your personal or personally identifiable information to provide you with service and support, to provide you with the Website and its associated services, to communicate with you about Ritlabs’ goods or services, to request information from you to improve Ritlabs’ goods or services, including polls or surveys, to transmit this information to a third party to aid you in completing a transaction, such as purchasing software from Ritlabs or its distributors, to tailor the Website and its content to your preferences, and to aid Ritlabs in changing the content of the Website or improve the Website usability.
 
 ### 3\. How does Ritlabs secure this information?
 
-Ritlabs values the security of your personal and personally identifiable information and has, where practicable, implemented industry standard encryption to protect against unauthorized access to or interception of your personal and personally identifiable information. You recognize, however, that unencrypted electronic mail is not secure and that you accept all risks associated in contacting Ritlabs through unencrypted electronic mail. You are responsible for the security of your electronic communications with Ritlabs. 
+Ritlabs values the security of your personal and personally identifiable information and has, where practicable, implemented industry standard encryption to protect against unauthorized access to or interception of your personal and personally identifiable information. You recognize, however, that unencrypted electronic mail is not secure and that you accept all risks associated in contacting Ritlabs through unencrypted electronic mail. You are responsible for the security of your electronic communications with Ritlabs.
 
-Ritlabs collects and processes your personal and personally identifiable information on servers located in the Republic of Moldova and, through your use of the Website, you hereby expressly agree to the processing of your personal and personally identifiable information within the Republic of Moldova. YOU HEREBY PROVIDE YOUR UNAMBIGUOUS CONSENT TO THE PROCESSING OF YOUR PERSONAL AND PERSONALLY IDENTIFIABLE INFORMATION.
+Ritlabs collects and processes your personal and personally identifiable information on servers located in the Republic of Moldova and in the Russian Federation and, through your use of the Website, you hereby expressly agree to the processing of your personal and personally identifiable information within the Republic of Moldova and the Russian Federation. YOU HEREBY PROVIDE YOUR UNAMBIGUOUS CONSENT TO THE PROCESSING OF YOUR PERSONAL AND PERSONALLY IDENTIFIABLE INFORMATION.
 
 ### 4\. Does Ritlabs share this information with third parties?
 
@@ -54,14 +48,12 @@ Ritlabs may transfer your personal or personally identifiable information to sha
 
 ### 5\. How may I cease Ritlabs’ collection and use of my personal or personally identifiable information?
 
-You may cease Ritlabs’ collection and use of your personal or personally identifiable information by discontinuing your use of the Website and adjusting your web browser settings to clear any cookies remaining on your computer from your prior use of the Website.  
-
+You may cease Ritlabs’ collection and use of your personal or personally identifiable information by discontinuing your use of the Website and adjusting your web browser settings to clear any cookies remaining on your computer from your prior use of the Website.
 
 ### 6\. Your California Privacy Rights
 
-California residents may obtain once a year, and without charge, a list of your personal information that Ritlabs has disclosed to third parties for marketing purposes within the previous calendar year. This includes a list of all personal information disclosed to third parties, as well as the names and addresses of the third parties that received your personal information. If you are a California resident and would like to make a request for disclosure under this section, please contact privacy@ritlabs.com in writing. 
+California residents may obtain once a year, and without charge, a list of your personal information that Ritlabs has disclosed to third parties for marketing purposes within the previous calendar year. This includes a list of all personal information disclosed to third parties, as well as the names and addresses of the third parties that received your personal information. If you are a California resident and would like to make a request for disclosure under this section, please contact privacy@ritlabs.com in writing.
 
 ### 7\. Notices
 
-All notices required to be made to Ritlabs pursuant to this Privacy Policy may be made in writing to privacy@ritlabs.com.   
----|---
+All notices required to be made to Ritlabs pursuant to this Privacy Policy may be made in writing to [privacy@ritlabs.com](mailto:privacy@ritlabs.com)
