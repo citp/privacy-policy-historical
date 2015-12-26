@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldmuseum.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140322id_/http%3A//www.fieldmuseum.org/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldmuseum.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226024311id_/http%3A//www.fieldmuseum.org/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Field Museum
 
