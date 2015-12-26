@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpanel.3owl.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203116id_/https%3A//freehosting.zendesk.com/entries/22526216) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpanel.3owl.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226204220id_/https%3A//freehosting.zendesk.com/entries/22526216) for the most accurate reproduction.*
 
 # Privacy Policy : Web Hosting Help Desk
 
