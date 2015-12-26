@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greedyrates.ca privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160130id_/http%3A//www.greedyrates.ca/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greedyrates.ca privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226135417id_/http%3A//www.greedyrates.ca/static/privacy.html) for the most accurate reproduction.*
 
 # GreedyRates.ca Privacy Policy
 
