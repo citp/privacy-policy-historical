@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528080603id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226220738id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
 
-# Site Privacy Policy - Mapsof.net
+# Pricacy • Mapsof.net
 
 www.mapsof.net ("Site")
 
@@ -22,9 +22,9 @@ We collect the email addresses of consumers who communicate with us or through o
 
 Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [info@mapsof.net](mailto:info@mapsof.net). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [info@mapsof.net](https://web.archive.org/cdn-cgi/l/email-protection#30595e565f705d5140435f561e5e5544). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [info@mapsof.net](mailto:info@mapsof.net).
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [info@mapsof.net](https://web.archive.org/cdn-cgi/l/email-protection#6a03040c052a070b1a19050c44040f1e).
 
 **Cookies**
 
@@ -48,7 +48,7 @@ To learn more about these practices and your choices about not having this infor
 
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [info@mapsof.net](mailto:info@mapsof.net).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [info@mapsof.net](https://web.archive.org/contact).
 
 www.mapsof.net
 
