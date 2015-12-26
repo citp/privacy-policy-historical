@@ -1,289 +1,58 @@
-<!--The following is the downloaded HTML source of the pingoat.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617000015id_/http%3A//www.pingler.com/information/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pingoat.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<base href="https://pingler.com/">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="https://pingler.com/includes/css/style.css" rel="stylesheet" type="text/css">
-<link href="https://pingler.com/includes/font/stylesheet.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-<link rel="shortcut icon" href="https://pingler.com//includes/images/favicon.ico">
-<script type="text/javascript" src="https://pingler.com/includes/js/login_box.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/stepcarousel.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/jquery.mousewheel-3.0.4.pack.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/jquery.fancybox-1.3.4.pack.js"></script>
-<link rel="stylesheet" type="text/css" href="https://pingler.com/includes/js/jquery.fancybox-1.3.4.css" media="screen">
-<script type="text/javascript" src="https://pingler.com/includes/js/testimonials.js"></script>
-<script src="https://pingler.com/includes/js/prototype.js" type="text/javascript"></script>
-<script src="https://pingler.com/includes/js/effects.js" type="text/javascript"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/validation.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/jquery.ui.core.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/jquery.ui.widget.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/jquery.ui.mouse.js"></script>
-<script type="text/javascript" src="https://pingler.com/includes/js/jquery.ui.slider.js"></script>
-<link rel="stylesheet" type="text/css" href="https://pingler.com/includes/css/jquery.ui.all.css" media="screen">
-<title>Privacy Policy</title>
-<meta name="description" content="Privacy policy of Pingler.">
-<meta name="keywords" content="privacy, policy, pingler">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head><body><div id="header_wrapper"><div class="Header">
-        
-        	<div class="HeaderTop">
-            
-        		<div class="logo">
-                	<a href=""></a>
-                </div>
-                
-                <div class="WelcomeDes">
-                	
-                
-                	
-                        
-                     <div class="clr"></div>
-                </div>
-                
-                <div class="SignupSocial">
-                	<div class="SignInPopup"><div class="Signup"><a href="#dialog1" name="modal">Sign In</a>  <a class="join_link" href="/register">Join</a></div>
-                    <!-- ################### Pop Up Box ######################-->
-                    <div id="boxes">  
-                     <form method="post" action="login">                          
-                     <div id="dialog1" class="window">
-                      <div class="d-header">
-                        <input type="text" name="username" value="Username/Email" onclick="this.value=''"><br>
-                        <input type="password" name="password" onclick="this.value='';">  
-                        
-                        <div class="clr"></div>
-                          
-                      </div> <!-- End d-header -->
-                      <div class="d-login">
-                      	<ul>
-                        	<li><input type="image" alt="Login" title="Login" name="login" src="includes/images/login-button.png"></li>
-                            <li class="space"><a href="account-recovery">Forgot your password?</a></li>
-                       </ul> 
-                      </div> <!-- End d-login -->
-                      <div class="clr"></div><hr><div class="SocialButton">
-            	<center>
-            	<div id="fb-root"></div>
-				<script>
-				window.fbAsyncInit = function() {
-				  FB.init({
-				    appId      : '182493178527920',
-				    status     : true, 
-				    cookie     : true,
-				    xfbml      : true,
-				    oauth      : true,
-				  });
-				};
-				(function(d){
-				   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-				   js = d.createElement('script'); js.id = id; js.async = true;
-				   js.src = "//connect.facebook.net/en_US/all.js";
-				   d.getElementsByTagName('head')[0].appendChild(js);
-				 }(document));
-				</script>
-				<div id="facebook_login"><img src="includes/images/facebook-button.png" alt=""></div>
-				<script>
-				(function($) {
-					$("#facebook_login").click(function(){
-						FB.login(function(response) {
-							console.log(response);
-							if (response.authResponse) {
-								FB.api('/me', function(response) {
-									$.post("https://pingler.com/jscalls.php", {'call[]' : ["fb_login", response.username, response.email, response.id]}, function(data){
-										if(data == 1) {
-											window.location = "https://pingler.com/account/";
-										} else if(data == 2) {
-											alert("You already have an account assigned with the email that you are using to login with");
-										}
-									}); 
-								});
-							} else {
-								//didn't authorize
-							}
-						}, {scope: 'email'});
-					});
-				} ) ( jQuery );
-				</script>
-				<a href="http://api.twitter.com/oauth/authorize?oauth_token=PJm1f1Lst2fiFlBTm8ZyKwCto5TpjwyIBHS3Co9jZc"><img src="includes/images/twitter-button.png" alt=""></a><a class="login" href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=https%3A%2F%2Fpingler.com%2Flogin&amp;client_id=83832385848.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.me&amp;access_type=offline&amp;approval_prompt=force&amp;state=1820468489"><img src="includes/images/google-button.png" alt=""></a></center></div></div> 
-                    </form>      
-                    </div>
-                        
-                    <!--################### End pop up box #######################--> 
-                    <div class="clr"></div>
-                    </div><div class="SocialIcon">
-        				<ul class="top_social" style="margin-top:0px !important;">
-                        	<li><a class="facebook" href="https://www.facebook.com/pinglerdotcom" target="_blank">Facebook</a></li>
-                            <li><a class="twitter" href="https://twitter.com/pinglerdotcom" target="_blank">Twitter</a></li>
-                            <li>
-							<div class="g-plusone" data-href="http://www.pingler.com"></div>
-							<script type="text/javascript">
-							  (function() {
-							    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-							    po.src = 'https://apis.google.com/js/plusone.js';
-							    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-							  })();
-							</script>
-                            </li>
-                        </ul>
-                    </div>
-                </div> <!-- end Sign up social Icon -->
-                
-                <div class="clr"></div>
-            </div> <!-- End Header Top -->   
-            <div class="clr"></div> 
-            <div style="width:100%; height:40px;"></div>
-            <div class="clr"></div>
-            <div class="Navigation">
-                	<!--<div class="nav-l">
-                    	<div class="nav-r">
-                        	<div class="nav-m"> -->
-                                    <ul><li class="home"><a href="">Home</a></li>
-    <li><a href="packages">Prices</a></li>
-    <li><a href="suggest-service">Suggest Ping Service</a></li>
-    <li><a href="pingler-tools">Pingler Tools</a></li>
-    <li><a href="seo-tools/">SEO Tools</a></li>
-    <li><a href="forums/">Forums</a></li>
-    <li><a href="https://pingler.com/blog/">Blog</a></li>
-    <li><a href="helpdesk/">Help Desk</a></li><li class="live_chat_button">
-    	<!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontaineroomxx7jtr7"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontaineroomxx7jtr7"><div style="display: inline;" id="swifttagdatacontaineroomxx7jtr7"></div><script type="text/javascript" src="https://pingler.com/helpdesk/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPW9vbXh4N2p0cjcmdmVyc2lvbj00LjAxLjMyNiZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cHMlM0ElMkYlMkZwaW5nbGVyLmNvbSUyRmhlbHBkZXNrJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9iczduazgxYXZvaGwzODMucG5nJmN1c3RvbW9mZmxpbmU9aHR0cHMlM0ElMkYlMkZwaW5nbGVyLmNvbSUyRmhlbHBkZXNrJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV84ejRuejlzeXF0aWd4OXcucG5nJmN1c3RvbWF3YXk9aHR0cHMlM0ElMkYlMkZwaW5nbGVyLmNvbSUyRmhlbHBkZXNrJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9nYm95b2JhaHJ6NzloYmMucG5nJmN1c3RvbWJhY2tzaG9ydGx5PWh0dHBzJTNBJTJGJTJGcGluZ2xlci5jb20lMkZoZWxwZGVzayUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfY2EyNHpjcjF4N2Rza2N0LnBuZwo5MGQ5MTAwZjgwOWExN2Y5YWNmOTMxNTM3NjlmNWIxNTliOWIwYWI2"></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelemoomxx7jtr7=document.createElement("script");swiftscriptelemoomxx7jtr7.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "oomxx7jtr7"; var swifttagurloomxx7jtr7="https://pingler.com/helpdesk/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPW9vbXh4N2p0cjcmdmVyc2lvbj00LjAxLjMyNiZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cHMlM0ElMkYlMkZwaW5nbGVyLmNvbSUyRmhlbHBkZXNrJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9iczduazgxYXZvaGwzODMucG5nJmN1c3RvbW9mZmxpbmU9aHR0cHMlM0ElMkYlMkZwaW5nbGVyLmNvbSUyRmhlbHBkZXNrJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV84ejRuejlzeXF0aWd4OXcucG5nJmN1c3RvbWF3YXk9aHR0cHMlM0ElMkYlMkZwaW5nbGVyLmNvbSUyRmhlbHBkZXNrJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9nYm95b2JhaHJ6NzloYmMucG5nJmN1c3RvbWJhY2tzaG9ydGx5PWh0dHBzJTNBJTJGJTJGcGluZ2xlci5jb20lMkZoZWxwZGVzayUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfY2EyNHpjcjF4N2Rza2N0LnBuZwo5MGQ5MTAwZjgwOWExN2Y5YWNmOTMxNTM3NjlmNWIxNTliOWIwYWI2";setTimeout("swiftscriptelemoomxx7jtr7.src=swifttagurloomxx7jtr7;document.getElementById('swifttagcontaineroomxx7jtr7').appendChild(swiftscriptelemoomxx7jtr7);",1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! --></li>                  </ul>
-                                <div class="clr"></div>
-							<!--</div>  End Nav m -->
-                        <!--</div>  End Nav - r -->
-                   <!--</div>  End Nav l -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Legal</title>
+<style type="text/css">
+body {margin:30px 75px;font-size:1em;font-family:helvetica,arial,sans-serif;line-height:1.4em;color:#444;}
+h1 {font-size:2em;font-weight:normal;}
+hr {border:1px solid #ccc;border-width:1px 0 0;height:1px;}
+ol li,
+ul li {color:#336633;line-height:2em;font-size:.9em;}
+.contact {font-style:italic;color:#336699;}    
+</style>  
+</head>
 
-                </div> <!-- End Navigation -->
-		
-            <div class="clr"></div>
-            
-            
-        </div> <!-- End Header --></div><div class="clr"></div>    <div class="MainTemplate">
-		<div class="MainBody"><div class="MainArea">
-	<div class="TopText">
-        <div class="WelcomText sub_page">
-	       	
-<h2>Privacy Policy</h2>
-<p>  We respect your privacy and are committed to safeguarding your privacy while online at pingler.com. The following discloses the information gathering and dissemination practices for pingler.com.  </p>
-<h3>Log Files</h3>
-<p> We may use log files to track visits to pingler.com. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked to any personal identifiable information.  </p>
-<h3>Cookies</h3>
-<p> This site does not use cookies. However, Advertising services such Google Adsense use cookies on pingler.com. We have no access to and can not control these cookies.   <strong>What is a Cookie?</strong>   A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.   A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.   Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.   <strong>There are two different types of cookies:</strong>   1) Session Cookies: These are temporary and are erased when you close your browser at the end of your surfing session. The next time you visit that particular site it will not recognise you and will treat you as a completely new visitor as there is nothing in your browser to let the site know that you have visited before.   2) Persistent Cookies: These remain on your hard drive until you erase them or they expire. How long a cookie remains on your browser depends on how long the visited website has programmed the cookie to last.  </p>
-<h3>Beacons</h3>
-<p> This site does not use beacons. However, Advertising services such Google Adsense use cookies on pingler.com. We have no access to and can not control these beacon logs.   <strong>What is a Beacon?</strong>   A beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.   For example a company owning a network of sites may use web beacons to count and recognise users travelling around its network. Being able to recognise you enables the site owner to personalise your visit and make it more user friendly.  </p>
-<h3>Outgoing Links</h3>
-<p> pingler.com may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware that when they leave pingler.com to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by pingler.com.  </p>
-<h3>Advertisers and Affiliate Companies</h3>
-<p> pingler.com uses outside ad companies to display ads, such as Google Adsense. These ads may contain cookies that are collected by our ad companies, and we do not have access to this information. To the best of our knowledge, we follow all ad and affiliate company privacy policies. Please check their websites for respective privacy policies.  </p>
-<h3>Links to Advertisers and Affiliate Companies Privacy Policies</h3>
-<p> <a rel="nofollow" href="http://www.google.com/privacypolicy.html" target="_blank">Google's privacy policy</a></p><div class="clear"></div>
-		</div> <!-- End Welcome Text -->
-    </div> <!-- End Top Text -->
-</div> <!-- End Main Area -->
+<body>
 
-<div class="Sidebar">
-<div class="widgets PingerPlugins">
-                    	<h2 class="title">Pingler plugins</h2>
-                        
-                        <ul>
-                        	<li><a href="downloads/firefox/"><img src="includes/images/firefox.png" alt=""></a></li>
-                            <li><a href="downloads/wordpress/"><img src="includes/images/wp-logo.png" alt=""></a></li>
-                            <li><a href="downloads/chrome/"><img src="includes/images/chrome-logo.png" alt=""></a></li>
-                            <li><a href="downloads/ie/"><img src="includes/images/ie-logo.png" alt=""></a></li>
-                            <li><a href="downloads/safari/"><img src="includes/images/safari.png" alt=""></a></li>
-                            <li><a href="pingler-feed.html"><img src="includes/images/rss-logo.png" alt=""></a></li>
-                        </ul>
-                        <div class="clr"></div>
-                    </div> <!-- End Widgets --><div class="widgets FacebookFeed">
-	<h2 class="title">Find us on facebook</h2>
-    <div class="FacebookLikeBox">
-    	<div id="fb-root"></div>
-		<script type="text/javascript">(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=237306272954670";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-		<div class="fb-like-box" data-href="http://www.facebook.com/pinglerdotcom" data-width="324" data-height="240" data-show-faces="true" data-stream="false" data-border-color="#fff" data-header="false"></div>
-		<div class="clr"></div>
-    </div> <!-- End Facebook Like button -->
-    <div class="clr"></div>
-</div> <!-- End Widgets -->
-<div class="clr"></div><div class="widgets LatestBlog">
-	<h2 class="title">Latest Blogs</h2>
-	
-	<div class="LatestBlogBox"><div class="PostList"><div class="PostThumbnail"><a href="http://pingler.com/blog/end-writers-block-with-these-four-tips/" target="_blank"><img src="includes/images/blog/2026.jpg" alt=""></a></div><div class="PostDes"><h2 class="PostTitle"><a href="http://pingler.com/blog/end-writers-block-with-these-four-tips/" target="_blank">End Writer’s Block with These Four Tips</a></h2><div class="PostMeta"><div class="readmore"><a href="http://pingler.com/blog/end-writers-block-with-these-four-tips/" target="_blank">Read more</a></div><div class="clr"></div></div></div><div class="clr"></div></div><div class="PostList"><div class="PostThumbnail"><a href="http://pingler.com/blog/five-awful-and-awfully-common-pieces-of-social-media-advice/" target="_blank"><img src="includes/images/blog/2023.jpg" alt=""></a></div><div class="PostDes"><h2 class="PostTitle"><a href="http://pingler.com/blog/five-awful-and-awfully-common-pieces-of-social-media-advice/" target="_blank">Five Awful (and Awfully Common) Pieces of Social Media Advice</a></h2><div class="PostMeta"><div class="readmore"><a href="http://pingler.com/blog/five-awful-and-awfully-common-pieces-of-social-media-advice/" target="_blank">Read more</a></div><div class="clr"></div></div></div><div class="clr"></div></div><div class="PostList"><div class="PostThumbnail"><a href="http://pingler.com/blog/organizing-your-seo-marketing-and-routines-with-google-keep/" target="_blank"><img src="includes/images/blog/2019.jpg" alt=""></a></div><div class="PostDes"><h2 class="PostTitle"><a href="http://pingler.com/blog/organizing-your-seo-marketing-and-routines-with-google-keep/" target="_blank">Organizing Your SEO, Marketing and Routines with Google Keep</a></h2><div class="PostMeta"><div class="readmore"><a href="http://pingler.com/blog/organizing-your-seo-marketing-and-routines-with-google-keep/" target="_blank">Read more</a></div><div class="clr"></div></div></div><div class="clr"></div></div><div class="PostList"><div class="PostThumbnail"><a href="http://pingler.com/blog/digital-marketing-design-for-dummies-four-ways-to-ensure-success/" target="_blank"><img src="includes/images/blog/2015.jpg" alt=""></a></div><div class="PostDes"><h2 class="PostTitle"><a href="http://pingler.com/blog/digital-marketing-design-for-dummies-four-ways-to-ensure-success/" target="_blank">Digital Marketing Design for Dummies – Four Ways to Ensure Success</a></h2><div class="PostMeta"><div class="readmore"><a href="http://pingler.com/blog/digital-marketing-design-for-dummies-four-ways-to-ensure-success/" target="_blank">Read more</a></div><div class="clr"></div></div></div><div class="clr"></div></div><div class="PostList"><div class="PostThumbnail"><a href="http://pingler.com/blog/five-ways-growing-content-firms-can-standardize-their-writers-tasks/" target="_blank"><img src="includes/images/blog/2011.jpg" alt=""></a></div><div class="PostDes"><h2 class="PostTitle"><a href="http://pingler.com/blog/five-ways-growing-content-firms-can-standardize-their-writers-tasks/" target="_blank">Five Ways Growing Content Firms Can Standardize Their Writers’ Tasks</a></h2><div class="PostMeta"><div class="readmore"><a href="http://pingler.com/blog/five-ways-growing-content-firms-can-standardize-their-writers-tasks/" target="_blank">Read more</a></div><div class="clr"></div></div></div><div class="clr"></div></div>
-	</div> <!-- End Latest Blog box -->                        
-</div> <!-- End Lastest Blog --></div> <!-- End Widgets --><div class="clr"></div></div> <!-- End Body -->
-	        <div class="Footer">
-	            <div class="CopyRight">
-	            	<a href="https://pingler.com/"><img src="https://pingler.com//includes/images/footer-logo.png" alt=""></a>
-	                <p class="copytext">
-	                	<span>Copyright © 2013 Pingler.com.</span> All rights reserved.<br>
-								Pingler is a registered trademark of Pingler.com
-					</p>
-	            </div> <!-- End Copy Right -->
-	            <div class="FooterWidgets">
-	            	<ul>
-	                	<li><a href="https://pingler.com/helpdesk/index.php?/Knowledgebase/List">FAQ</a></li>
-	                    <li><a href="https://pingler.com/helpdesk/">Help Desk</a></li>
-	                    <li><a href="https://pingler.com/information/privacy-policy.html">Privacy Policy</a></li>
-	                    <li><a href="https://pingler.com/information/terms-and-conditions.html">Terms And Conditions</a></li>
-	                </ul>
-	            </div> <!-- End Footer Widgets -->
-	            
-	            <div class="FooterWidgets">
-	            	<ul>
-	                    <li><a href="https://pingler.com/affiliates/">Affiliate Program</a></li>
-	                    <li><a href="https://pingler.com/login">Login to your account</a></li>
-	                    <li><a href="https://pingler.com/register">Register a new account</a></li>
-	                </ul>
-	            </div> <!-- End Footer Widgets -->
-	            
-	            
-	            <div class="FooterWidgets">
-	            	<ul>
-	            		<li><a href="https://pingler.com/information/about-us.html">About Us</a></li>
-	                	<li><a href="https://pingler.com/report-abuse.html">Report Abuse</a></li>
-	                	<li><a href="https://pingler.com/testimonials">Testimonials</a></li>
-	                </ul>
-	            </div> <!-- End Footer Widgets -->
-	            
-	            
-	            <div class="clr"></div>
-	        </div> <!-- End Footer -->
-	        
-	        <div class="clr"></div>
-	    </div> <!-- End Main Template -->
-	    <ul class="social_scrollers">
-	    	<li>
-	    		<div class="fb-like" data-href="http://www.facebook.com/pinglerdotcom" data-send="false" data-layout="box_count" data-width="80" data-show-faces="false"></div>
-	    	</li>
-	    	<li>
-	    		<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-url="http://www.pingler.com">Tweet</a>
-<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-			</li>
-			<li>
-				<!-- Place this tag where you want the +1 button to render. -->
-<div class="g-plusone" data-size="tall" data-href="http://www.pingler.com"></div>
 
-<!-- Place this tag after the last +1 button tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-			</li>
-	    </ul>
-		<script type="text/javascript">
-		( function($) {
-			$(document).ready(function() {	
-				if($(".good").length > 0) {
-					$(".good").show().delay(2500).fadeOut(1500);
-       		 	}
-       		 	if($(".bad").length > 0) {
-					$(".bad").show().delay(2500).fadeOut(1500);
-       		 	}
-       		 });
-		} ) ( jQuery );
-		</script><div id="mask"></div></body></html>
+<!--
+=================================================
+** START DEBUG OUTPUT                          **
+=================================================
+             Version: 3.7.171.1
+     Logging_Version: 3.6
+           Webserver: 7302B
+           Client_IP: 174.129.237.157
+              VIP_IP: 64.74.223.37
+           HTTP_Host: www.whoisprivacyprotect.com
+         Domain_Name: whoisprivacyprotect.com
+  Total_Process_Time: 58ms
+       MemCache_Time: 38ms (65%)
+       Database_Time: 12ms (21%)
+            API_Time: 3ms (6%)
+=================================================
+** END DEBUG OUTPUT                            **
+=================================================
+-->
+
+
+
+<!-- Start: Privacy Policy -->
+<h1>Privacy Policy</h1>
+<hr>
+<p><strong>Cookies.</strong> Third parties may be placing or reading "cookies" on your web browser.  Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed.  Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:</p>
+<ul>
+    <li>the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;</li>
+    <li>the date and time you access the website and pages you visit;</li>
+    <li>your computer's IP address and information about its operating system, platform and the web browser type and version you use;</li>
+    <li>demographic and other non-personally identifiable profile information about you; and</li>
+    <li>information to combat fraud or misuse</li>
+</ul>
+<p><strong>Collection of Information by Third Parties.</strong> This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <a href="http://www.networkadvertising.org/managing/opt_out.asp" class="contact">www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<!-- End: Privacy Policy -->
+
+
+
+</body></html>
