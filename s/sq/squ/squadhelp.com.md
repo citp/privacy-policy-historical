@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092300id_/http%3A//www.squadhelp.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226033601id_/http%3A//www.squadhelp.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Branding, Marketing, Naming Consultants, Freelancers and Contests
+# Business Name Ideas| Naming & Logo Contests| Brand Name Ideas
 
 This Privacy Policy describes how we use and protect your personal information. By accepting the Privacy Policy and the Terms and Conditions of Service during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 2, 2008. 
 
