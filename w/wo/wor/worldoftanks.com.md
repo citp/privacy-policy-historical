@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldoftanks.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626135900id_/http%3A//worldoftanks.com/en/content/docs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoftanks.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226012751id_/http%3A//worldoftanks.com/en/content/docs/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | World of Tanks
+# Privacy Policy | Game | World of Tanks
 
 15 June 2010, 17:01
 
@@ -23,7 +23,7 @@ In this Policy we refer to the Sites, the Account, the Game, and the Ancillary S
 
 1.3. Please read this Policy carefully. If you wish to create an Account on any of our Sites, you will need to accept our [Terms of Service](http://worldoftanks.com/en/content/docs/terms_of_service/) and this Policy. This Policy is incorporated into and is subject to our [Terms of Service](http://worldoftanks.com/en/content/docs/terms_of_service/). If you do not want us to collect, store or use your personal information or do not wish to accept this Policy for any other reason, then please do not create an Account and please do not use our Services. If you have any queries, please email us at [privacy@wargaming.net](mailto:privacy@wargaming.net).
 
-We are Wargaming Public Company Limited, 105, Agion Omologiton Avenue, Nicosia 1080, Cyprus (" **Wargaming** ", " **we ", "our**" and " **us** ").
+We are Wargaming Group Limited, 105, Agion Omologiton Avenue, Nicosia 1080, Cyprus (" **Wargaming** ", " **we ", "our**" and " **us** ").
 
 When you use the Services we may collect the following categories of information:
 
