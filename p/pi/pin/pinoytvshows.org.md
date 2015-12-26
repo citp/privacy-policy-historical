@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoytvshows.org privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516065817id_/http%3A//www.pinoytvshows.org/2014/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoytvshows.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226151114id_/http%3A//www.pinoytvshows.org/2014/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pinoy Tambayan | Watch Pinoy TV Shows Online
 
