@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the squawka.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627191202id_/http%3A//www.squawka.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the squawka.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226084534id_/http%3A//www.squawka.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="http://i.po.st/static/v3/post-widget.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9863.js?439481" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="https://secure.quantserve.com/aquant.js?a=p-msn1GzRMqJgHB" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4FUFBRGwYBVVZUAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="http://i.po.st/static/v3/post-widget.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9863.js?439481" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="https://secure.quantserve.com/aquant.js?a=p-msn1GzRMqJgHB" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 <meta property="og:image" content="http://www.squawka.com/wp-content/themes/squawka_web/img/fb-like.png">
 <title>
 Squawka | Privacy Policy </title>
@@ -26,8 +26,8 @@ Squawka | Privacy Policy </title>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">
 <link rel="stylesheet" type="text/css" media="all" href="css/v3/reset.css?v=1">
 <link rel="stylesheet" type="text/css" media="all" href="css/v3/libs.min.css?v=1">
-<link rel="stylesheet" type="text/css" media="all" href="css/v3/shirts.css?v=1">
-<link rel="stylesheet" type="text/css" media="all" href="css/v3/base.css?v=7">
+<link rel="stylesheet" type="text/css" media="all" href="css/v3/shirts.css?v=4">
+<link rel="stylesheet" type="text/css" media="all" href="css/v3/base.css?v=11">
 <link rel="stylesheet" type="text/css" media="all" href="css/v3/base_custom.css?v=2">
 <link rel="stylesheet" type="text/css" media="all" href="http://s3-irl-laliga.squawka.com/sprite/crest_thumb.css">
 <link rel="stylesheet" type="text/css" media="all" href="css/v3/custom.css?8">
@@ -39,99 +39,114 @@ Squawka | Privacy Policy </title>
 <script type="text/javascript" src="scripts/v3/timezone.js?5"></script>
 <script type="text/javascript" src="scripts/v3/shirts-nav.js"></script>
 <script type="text/javascript">
-        	var varTemplateURL 				= 	"http://www.squawka.com/wp-content/themes/squawka_web/";        	
-        	var wp_perma_link 				= 	'http://www.squawka.com/privacy-policy';
-        	var search_call_url 			= 	'http://www.squawka.com/wp-content/themes/squawka_web/';
-        	var login_url 					= 	'http://www.squawka.com/login';
-        	var login_user			 		= 	'0';
-        	var user_following 				=	[];
-        	var socialicons					= 	[1,0];	
+            var varTemplateURL = "http://www.squawka.com/wp-content/themes/squawka_web/";
+            var wp_perma_link = 'http://www.squawka.com/privacy-policy';
+            var search_call_url = 'http://www.squawka.com/wp-content/themes/squawka_web/';
+            var login_url = 'http://www.squawka.com/login';
+            var login_user = '0';
+            var user_following = [];
+            var socialicons = [1,0];
 
-		function checkSearchValue()
-        	{
-        		window.location.href='/search-results?q='+$('#search-box').val();
-        		return false;
-        	}								  											
+            function checkSearchValue()
+            {
+                window.location.href = '/search-results?q=' + $('#search-box').val();
+                return false;
+            }
         </script>
 <script type="text/javascript">
-			  var _gaq = _gaq || [];
-			  _gaq.push(['_setAccount', 'UA-29786370-1']);
-			  _gaq.push(['_setDomainName', 'squawka.com']);
-			  _gaq.push(['_trackPageview']);
-			
-			  (function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			  })();
-			</script>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-29786370-1']);
+            _gaq.push(['_setDomainName', 'squawka.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
 <script>
-                            $(document).ready(function(){
-                                //check for gaq
-                                if (typeof _gaq != 'undefined') {
-                                    // Track shirt clicks
-                                    $('.kit-content-league').on('click', 'ul li a', function(e){
-                                        e.preventDefault();
-                                        var team = $(this).attr('title'),
-                                            url = $(this).attr('href');
-                                        if (typeof team != 'undefined') {
-                                            _gaq.push([
-                                                '_trackEvent',
-                                                'Shirts Nav',
-                                                'Click',
-                                                team
-                                            ]);
+            $(document).ready(function () {
+                //check for gaq
+                if (typeof _gaq != 'undefined') {
+                    // Track shirt clicks
+                    $('.kit-content-league').on('click', 'ul li a', function (e) {
+                        e.preventDefault();
+                        var team = $(this).attr('title'),
+                                url = $(this).attr('href');
+                        if (typeof team != 'undefined') {
+                            _gaq.push([
+                                '_trackEvent',
+                                'Shirts Nav',
+                                'Click',
+                                team
+                            ]);
 
-                                            _gaq.push(function(){
-                                                window.location.href = url;
-                                            });
-                                        }
-                                    });
-
-                                    //Track League changes
-                                    $('.kit-nav-dropdown-button select').change(function(){
-                                        var league = $('.kit-nav-dropdown-button select :selected').text().trim();
-                                        _gaq.push([
-                                            '_trackEvent',
-                                            'Shirts Nav',
-                                            'Change',
-                                            league
-                                        ]);
-                                    });
-                                }
+                            _gaq.push(function () {
+                                window.location.href = url;
                             });
-                        </script>
+                        }
+                    });
+
+                    //Track League changes
+                    $('.kit-nav-dropdown-button select').change(function () {
+                        var league = $('.kit-nav-dropdown-button select :selected').text().trim();
+                        _gaq.push([
+                            '_trackEvent',
+                            'Shirts Nav',
+                            'Change',
+                            league
+                        ]);
+                    });
+                }
+            });
+        </script>
 <script type="text/javascript">
-			setTimeout(function(){var a=document.createElement("script");
-			var b=document.getElementsByTagName("script")[0];
-			a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9863.js?"+Math.floor(new Date().getTime()/3600000);
-			a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-			</script>
+            setTimeout(function () {
+                var a = document.createElement("script");
+                var b = document.getElementsByTagName("script")[0];
+                a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9863.js?" + Math.floor(new Date().getTime() / 3600000);
+                a.async = true;
+                a.type = "text/javascript";
+                b.parentNode.insertBefore(a, b)
+            }, 1);
+        </script>
 <script type="text/javascript" src="http://aka-cdn-ns.adtech.de/dt/common/DAC.js"></script>
-<script type="text/javascript">ADTECH.config.page = {protocol: 'http', server: 'adserver.adtech.de', network: '1587.1',  siteid: '717259',fif : { useFif :true }, params: {  loc: '100' }};ADTECH.sq_ads_list	= [];</script>
+<script type="text/javascript">ADTECH.config.page = {protocol: 'http', server: 'adserver.adtech.de', network: '1587.1', siteid: '717259', fif: {useFif: true}, params: {loc: '100'}};
+            ADTECH.sq_ads_list = [];</script>
  
  
 <script type="text/javascript">
-                _atrk_opts = { atrk_acct:"CWO9i1acVE00w0", domain:"squawka.com",dynamic: true};
-                (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-                </script>
+            _atrk_opts = {atrk_acct: "CWO9i1acVE00w0", domain: "squawka.com", dynamic: true};
+            (function () {
+                var as = document.createElement('script');
+                as.type = 'text/javascript';
+                as.async = true;
+                as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(as, s);
+            })();
+        </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=CWO9i1acVE00w0" style="display:none" height="1" width="1" alt=""/></noscript>
  
  
 <script>
-                  qcdata = {} || qcdata;
-                       (function(){
-                       var elem = document.createElement('script');
-                       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-msn1GzRMqJgHB";
-                       elem.async = true;
-                       elem.type = "text/javascript";
-                       var scpt = document.getElementsByTagName('script')[0];
-                       scpt.parentNode.insertBefore(elem,scpt);
-                     }());
+        qcdata = {} || qcdata;
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-msn1GzRMqJgHB";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        }());
 
-                   var qcdata = {qacct: 'p-msn1GzRMqJgHB', uid: 'USER ID HERE'};
-                </script>
+        var qcdata = {qacct: 'p-msn1GzRMqJgHB', uid: 'USER ID HERE'};
+    </script>
 <noscript>
 <img src="//pixel.quantserve.com/pixel/p-msn1GzRMqJgHB.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
@@ -158,8 +173,7 @@ try{(function(a){var b="http://",c="www.squawka.com",d="/cdn-cgi/cl/",e="img.gif
 					};
 				ADTECH.enqueueAd(5246338);
 				ADTECH.sq_ads_list.push(5246338);
-			</script>
-</div>
+			</script> </div>
 </div>
  
 <header>
@@ -168,7 +182,7 @@ try{(function(a){var b="http://",c="www.squawka.com",d="/cdn-cgi/cl/",e="img.gif
  
 <div id="sq-live-topbar">
 <div class="sq-live-container">
-<div id="sq-live-date">Sat Jun 27 2015</div><div id="sq-live-time">20:12</div>
+<div id="sq-live-date">Sat Dec 26 2015</div><div id="sq-live-time">08:45</div>
 <div class="custom-style-select">
 <select name="DropDownTimezone" id="sq-live-timezone">
 <option selected="">Change time zone</option>
@@ -230,7 +244,7 @@ try{(function(a){var b="http://",c="www.squawka.com",d="/cdn-cgi/cl/",e="img.gif
 <li><a href="/football-stats">Football Stats</a></li>
 <li><a href="/football-team-rankings">Team Rankings</a></li>
 <li><a href="/football-player-rankings">Player Rankings</a></li>
-</ul></li><li><a href="http://squawka.com/news/" title="">News</a></li><li><a href="http://battlemode.squawka.com/" title="" target="_blank">Battle Mode</a></li><li><a href="http://www.squawka.com/news/category/ball-ctrl" title="">Gaming</a></li><li><a href="http://www.squawka.com/free-bets" title="">Free bets</a></li> </ul>
+</ul></li><li><a href="http://squawka.com/news/" title="">News</a></li><li><a href="http://www.matchboss.com" title="" target="_blank">Fantasy Football</a></li><li><a href="http://www.squawka.com/news/category/ball-ctrl" title="">Ball Ctrl</a></li><li class="main-nav-stats-pack"><div class="main-nav-stats-pack-bg"></div><a target="_blank" href="http://sqwk.at/StatspackHeader" title="Stats Pack"><span class="main-nav-stats-pack-logo"></span>Stats Pack</a></li> </ul>
 </div>
 <div id="sq-live-nav-right">
 <ul id="sq-live-msg-notification">
@@ -254,33 +268,31 @@ try{(function(a){var b="http://",c="www.squawka.com",d="/cdn-cgi/cl/",e="img.gif
 <option selected="" disabled="">Choose Another League</option>
 <option value="165" data-feedid="8">
 English Barclays Premier League </option>
-<option value="123" data-feedid="9">
+<option value="164" data-feedid="9">
 Dutch Eredivisie </option>
-<option value="118" data-feedid="24">
+<option value="167" data-feedid="24">
 French Ligue 1 </option>
-<option value="129" data-feedid="22">
+<option value="169" data-feedid="22">
 German Bundesliga </option>
-<option value="137" data-feedid="21">
+<option value="177" data-feedid="21">
 Italian Serie A </option>
-<option value="133" data-feedid="129">
-Russian Premier League </option>
-<option value="136" data-feedid="23">
+<option value="176" data-feedid="23">
 Spanish La Liga </option>
 <option value="149" data-feedid="98">
 US Major League Soccer </option>
 <option value="154" data-feedid="363">
 Brazilian Serie A </option>
-<option value="150" data-feedid="385">
-Mexican Liga MX - Clausura </option>
-<option value="142" data-feedid="5">
+<option value="162" data-feedid="199">
+Mexican Liga MX - Apertura </option>
+<option value="179" data-feedid="5">
 Champions League </option>
-<option value="143" data-feedid="6">
+<option value="180" data-feedid="6">
 Europa league </option>
-<option value="127" data-feedid="10">
-Football League Championship </option>
-<option value="125" data-feedid="214">
+<option value="166" data-feedid="10">
+English Football League Championship </option>
+<option value="173" data-feedid="214">
 Australian A-League </option>
-<option value="145" data-feedid="115">
+<option value="175" data-feedid="115">
 Turkish Super Lig </option>
 </select>
 </div>
@@ -424,13 +436,28 @@ Turkish Super Lig </option>
 </header>
  
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;
-  	js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-	window.twttr = (function (d,s,id) {var t, js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
-	js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
-  	}(document, "script", "twitter-wjs"));
-</script>
+<script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id))
+                return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        window.twttr = (function (d, s, id) {
+            var t, js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id))
+                return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+            return window.twttr || (t = {_e: [], ready: function (f) {
+                    t._e.push(f)
+                }});
+        }(document, "script", "twitter-wjs"));
+    </script>
  
 <div id="squawka-wrapper">
 <div class="page-container">
@@ -673,7 +700,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 				ADTECH.sq_ads_list.push(5246375);
 			</script> </div>
 <div id="user-profile-card-overlay" class="overlay-75"></div>
-<footer>
+<footer class="sq-footer">
 <div class="sq-live-container">
 <div class="one-column four-col-split">
 <h2><a href="http://www.squawka.com">Squawka.com</a></h2>
@@ -780,7 +807,7 @@ var pwidget_config = {
 <!--
 document.write('<img src="'+("https:"==document.location.protocol?"https:":"http:")+"//rs.gwallet.com/r1/pixel/x16124"+"r"+Math.round(1E7*Math.random())+'" width="1" height="1" border="0" alt=""/>');
 //-->
-</script><img src="https://rs.gwallet.com/r1/pixel/x16124r1782134" width="1" height="1" border="0" alt="">
+</script><img src="https://rs.gwallet.com/r1/pixel/x16124r9010090" width="1" height="1" border="0" alt="">
 <noscript>
 <img src="https://rs.gwallet.com/r1/pixel/x16124"/>
 </noscript>
@@ -851,7 +878,7 @@ document.write('<img src="'+("https:"==document.location.protocol?"https:":"http
 </script>
  
 </footer>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7ce5a65388","applicationID":"5117658","transactionName":"YFxQMRcHWEdYUhcPDFkWcwYRD1laFkECAQY=","queueTime":0,"applicationTime":152,"atts":"TBtTR18dS0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7ce5a65388","applicationID":"8031004,5117658","transactionName":"YFxQMRcHWEdYUhcPDFkWcwYRD1laFkECAQY=","queueTime":0,"applicationTime":285,"atts":"TBtTR18dS0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
