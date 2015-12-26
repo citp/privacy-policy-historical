@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehtml5templates.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603220047id_/http%3A//www.freehtml5templates.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehtml5templates.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226023006id_/http%3A//www.freehtml5templates.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free HTML5 Templates
 
@@ -20,4 +20,4 @@ We may include links to other websites on our website, for your use and referenc
 
 ### Changes to this privacy policy
 
-The contents of this Privacy Policy may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of [Free HTML5 Templates](http://www.freehtml5templates.com/), you may [contact us](https://web.archive.org/web/20150603220047id_/http%3A//www.freehtml5templates.com/about/misc/contact). 
+The contents of this Privacy Policy may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of [Free HTML5 Templates](http://www.freehtml5templates.com/), you may [contact us](https://web.archive.org/web/20151226023006id_/http%3A//www.freehtml5templates.com/about/misc/contact). 
