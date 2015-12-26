@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408014515id_/http%3A//www.placenorthwest.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226040415id_/http%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# > Privacy Policy - Place North West
+# Place North West | Privacy Policy
 
-We are committed to protecting and respecting your privacy and this policy (together with our [terms of use](https://web.archive.org/terms.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+We are committed to protecting and respecting your privacy and this policy (together with our [terms of use](http://www.placenorthwest.co.uk/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), Paul Unger, 80 Blythswood Street, Liverpool L7 7DG is the data controller.
 
@@ -20,9 +20,9 @@ Details of your visits to our site including, but not limited to, traffic data, 
 
 ## IP Addresses, Cookies and Web Beacons
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
 To estimate our audience size and usage pattern.
 
@@ -36,11 +36,11 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that our advertisers may also use cookies, over which we have no control.
 
-Our website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our site. They are a technique to compile aggregated statistics about our website's usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
+Our website may contain electronic images known as web beacons which allows us to count users who have visited those pages and deliver co-branded services. Web beacons are not used to access your personally identifiable information on our site. They are a technique to compile aggregated statistics about our website’s usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
 
 ## Where We Store Your Personal Data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. These agents have access to the personal information required in order to perform their functions but may not use it for any other purpose and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. These agents have access to the personal information required in order to perform their functions but may not use it for any other purpose and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -68,7 +68,7 @@ If you are a new customer, and where we permit selected third parties to use you
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in L1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in L1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
 
 ## Registration and Newsletters
 
@@ -82,7 +82,7 @@ We may disclose your personal information to third parties:
 
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/terms.html) and other agreements; or to protect our rights or property and the safety of our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.placenorthwest.co.uk/terms-conditions) and other agreements; or to protect our rights or property and the safety of our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 ## Your Rights
 
