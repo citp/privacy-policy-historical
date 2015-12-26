@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171024id_/http%3A//www.searchenginejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070645id_/http%3A//www.searchenginejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Journal
 
 **Privacy Policy for SearchEngineJournal.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.searchenginejournal.com/contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://www.searchenginejournal.com/contact/).
 
 At SearchEngineJournal.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SearchEngineJournal.com and how it is used.
 
@@ -31,6 +31,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 SearchEngineJournal.com is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising: <http://www.aboutads.info/choices/>.
