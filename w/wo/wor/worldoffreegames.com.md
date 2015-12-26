@@ -1,51 +1,17 @@
-> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410103318id_/http%3A//policy.freeze.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Highlights of Privacy Policy
+# Legal
 
-**HIGHLIGHTS OF PRIVACY POLICY  
-LAST UPDATED: July 24, 2014**
+* * *
 
-We want you to be informed of our privacy practices. The following applies to our websites, and products, and covers how we collect and use the information we receive. This is only a summary, for more information, please read our complete [Privacy Policy](https://web.archive.org/web/20150410103318id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html).
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Information We Collect**     [Additional details](https://web.archive.org/web/20150410103318id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html#InfoCollect)
-
-  * We collect information you choose to submit, for example, when you download one of our products, subscribe to our online services, or participate in a survey or contest.
-  * We may obtain additional information about you, such as updated address, demographic or lifestyle information, from other sources.
-  * We use common Internet technologies, such as cookies, on our Web sites and in our e-mails.
-
-
-
-**Uses of information**     [Additional details](https://web.archive.org/web/20150410103318id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html#UsesofInfo)
-
-  * We use the information you submit to provide our services including the presentation of personalized content.
-  * We use your information to inform you of other products or services offered by us and our partners.
-  * We may share information about you with vendors we have hired to provide services on our behalf.
-  * We may share information about you with our partners and companies that provide online content, if those companies host that content.
-  * We will share your e-mail address with other companies, if you consent.
-  * We may share your name and postal address with our subsidiaries and selected other companies for mail offers of their products and services, if you consent.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**Your Choices**     [Additional details](https://web.archive.org/web/20150410103318id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html#YourChoices)
-
-  * You may unsubscribe from our e-mail list.
-  * You may direct us not to share your e-mail with other companies for offers of their products and services. You may also turn off cookies in your browser.
-
-
-
-**Important information**
-
-  * For information and tips on children’s online privacy visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy) and [www.OnGuardOnline.gov](http://www.onguardonline.gov/)
-  * Any personal information you provide will be maintained in the United States
-  * We encourage you to read our full [Privacy Policy](https://web.archive.org/web/20150410103318id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html)
-
-
-
-**How to contact us**  
-Questions about our Privacy policy or about Freeze’s handling of your information may be sent via e-mail to: either by accessing [http://support.freeze.com](http://support.freeze.com/) or by sending a message to [privacy@installiq.com](mailto:privacy@installiq.com). If you would prefer to write to us please send your correspondence to:
-
-InstallX, LLC  
-Attention: Customer Care – Privacy Policy Issues  
-1900 Medical Arts Ave. S. Ste. 200  
-Sartell, MN 56377  
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
