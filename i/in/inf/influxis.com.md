@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628165424id_/http%3A//influxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226211600id_/http%3A//influxis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Influxis
 
@@ -10,7 +10,7 @@ We collect information from you when you place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number, credit card information or billing address. You may, however, visit our site anonymously.
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
+Like most websites, we use cookies and/or web beacons (including Google Analytics Advertising Features such as demographics, interests and remarketing) to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
 ### What do we use your information for?
 
@@ -23,6 +23,10 @@ Any of the information we collect from you may be used in one of the following w
 > #### * To send periodic emails
 > 
 > The email address you provide for order processing may be used to send you information and updates pertaining to your order in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+> 
+> #### * To gather data for marketing
+> 
+> Your demographic information (such as geographic location, gender, age, etc) and your usage of our site (such as which links you click) may be tracked to help us enhance your user experience.
 
 ### How do we protect your information?
 
@@ -36,7 +40,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings or Google offers browser add-ons that allow you to opt-out of the Advertising Features. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
 ### Do we disclose any information to outside parties?
 
@@ -68,7 +72,7 @@ By using our site, you consent to our privacy policy.
 
 Changes to our Privacy Policy If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on February 13, 2009.
+This policy was last modified on September 17,2015.
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by emailing [support@influxis.com](mailto:support@influxis.com) or in writing at
 
