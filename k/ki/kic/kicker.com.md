@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kicker.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002432id_/http%3A//www.kicker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kicker.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226101615id_/http%3A//www.kicker.com/privacy-policy) for the most accurate reproduction.*
 
-# KICKER | Privacy Policy
+# Privacy Policy | KICKER®
 
 **Stillwater Designs Privacy Policy**
 
