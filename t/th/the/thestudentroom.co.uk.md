@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623230822id_/http%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226011348id_/http%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
 
 # The Student Room - FAQ: Your privacy
 
@@ -78,6 +78,7 @@ Facebook| Standard uses to allow you to share pages from TSR on Facebook using t
 Quantcast| Personalising the adverts shown to you.| Up to 5 years| Quantcast| 3rd party  
 TSR Group Beyond the Click| Advertising user tracking for TSR to personalise the ads shown to you.| Up to 5 years| TSR| 1st party  
 Skim links| For links from TSR to affiliate websites that sell products – TSR receives a small percentage of products bought after clicking a link from our site.| 10 years| Skimlinks| 3rd party  
+Switch Concepts| Advertising, user tracking to help us personalise ads shown to you.| 30 days| Switch Concepts| 3rd party  
   
 By continuing to use this site you are agreeing to the use of cookies as detailed above.
 
