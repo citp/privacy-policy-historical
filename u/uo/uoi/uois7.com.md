@@ -1,60 +1,17 @@
-> *The following text is extracted and transformed from the uois7.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208032326id_/http%3A//uois7.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uois7.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### 
-
-Priceless Possibilities Privacy Policy
-
-**HOW DOES PRICELESS POSSIBILITIES COLLECT AND USE MY INFORMATION?**
-
-Priceless Possibilities may collect and use your personal information to provide you with information about the products or services that may be of value to you. Certain personal information that Priceless Possibilities collects about you may be publicly available via government records, telephone books, and other widely available media (i.e. the Internet). However, Priceless Possibilities treats all information that you provide to us as non-public. 
-
-  1. Information that you provide. 
-    * Priceless Possibilities collects the personal information that you provide when you sign up at one of our affiliate websites. 
-  2. Information provided by the affiliate who owns this website. 
-    * We may receive information from the affiliate about you after the affiliate has contacted you. Any information that we receive from affiliates is covered by this privacy policy and is considered non-public information. 
-  3. Technical Information. We use technology to: 
-    * Gather technical information from your Web browser (IP address, Browser type, Operating system); 
-    * Set persistent cookies on your computer; and 
-    * Collect information about your navigation through our website. 
-
-We use this information for routine website maintenance; to establish that you are a unique user; to provide a personalized website experience; and/or for the purposes of assessing the effectiveness of our website, products and services. 
-
-If you choose to disable cookies, you will still be able to access most of the website. However, as a security precaution, you may not be able to access certain information that could be used for email harvesting purposes. 
-
-
-Top
+# Legal
 
 * * *
 
-**DOES PRICELESS POSSIBILITIES SHARE MY PERSONAL INFORMATION WITH THIRD PARTIES?**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Priceless Possibilities may share your personal information: 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-  * With the owner of the website that you sign up at. 
-  * As required by law. 
-
-**Examples:** We may need to share your information with law enforcement or government agencies in response to a subpoena, state/federal audit or other similar circumstances. Additionally, the law requires that all mortgages and deeds of trust be recorded with the local county recorder's office 
 
 
-Top
-
-* * *
-
-**CAN I OPT-OUT OF COMMUNICATIONS FROM PRICELESS POSSIBILITIES?**
-
-You can OPT-OUT of communications from Priceless Possibilities by using the unsubscribe link that is available at the bottom of every email that is sent out by us. You may also opt out by sending an email to techsupport@pricelesspossibilities.com requesting that you be removed from all future mailings. 
-
-  
-Top
-
-* * *
-
-**WILL THIS PRIVACY POLICY CHANGE?**
-
-To accommodate changes on the website, changing technology, and legal developments, Priceless Possibilities may change this Privacy Policy from time to time. The Last Revision Date of the Privacy Policy will be posted here.
-
-**Last revision date:** May 31, 2005 
-
-Top
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
