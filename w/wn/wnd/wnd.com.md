@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175111id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226073555id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [View printer-friendly version](https://web.archive.org/privacy-policy-print-version/)
 
-_WND and the WND Superstore (collectively referred to as “WND”), owned and operated by WorldNetDaily.com, Inc., respect your right to privacy and treat the personal information you provide to us with the utmost care. Unless you indicate otherwise or we state otherwise in this policy or at the time of collection, all personal information you provide to us will remain strictly between WND and yourself. This policy is intended to explain how your personal information is collected and how it will be treated._
+_WND, owned and operated by WorldNetDaily.com, Inc., respect your right to privacy and treat the personal information you provide to us with the utmost care. Unless you indicate otherwise or we state otherwise in this policy or at the time of collection, all personal information you provide to us will remain strictly between WND and yourself. This policy is intended to explain how your personal information is collected and how it will be treated._
 
 _WND is a rapidly growing online news source. As such, this policy will change from time to time along with our site._
 
 * * *
 
 **TRUSTe**  
-WND has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers only information that is collected through the Web sites, [http://www.wnd.com](http://www.wnd.com/), [http://www.worldnetdaily.com](http://www.worldnetdaily.com/), [http://g2bulletin.wnd.com](http://g2bulletin.wnd.com/), [http://superstore.wnd.com](http://superstore.wnd.com/), and [http://wndbooks.wnd.com](http://wndbooks.wnd.com/) and through our mobile site, [http://mobile.wnd.com](http://mobile.wnd.com/). By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+WND has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers only information that is collected through the Web sites, [http://www.wnd.com](http://www.wnd.com/), [http://www.worldnetdaily.com](http://www.worldnetdaily.com/), [http://g2bulletin.wnd.com](http://g2bulletin.wnd.com/), and [http://wndbooks.wnd.com](http://wndbooks.wnd.com/) and through our mobile site, [http://mobile.wnd.com](http://mobile.wnd.com/). By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
   * The organization collecting the information.
   * How the information is used.
@@ -67,11 +67,7 @@ WND respects your right to the privacy of the personal information you provide u
 
 Users can choose to unsubscribe from WND News Alerts at any time by following the unsubscribe procedures found in each e-mail.
 
-**Online Retailing**  
-WND operates an online store, the WND Superstore. In the course of fulfilling customer orders, we may collect and share certain personal information with third party service providers. We will save this information as needed to keep responsible records and handle complaints. We use third parties such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. Your phone number is necessary only for credit card verification purposes and issues of customer service related to purchases from WND Superstore. We do not share this information with any telemarketing firms nor are our third party service providers allowed to use your personally identifiable information for promotional purposes.
-
 **Changing User Information**  
-To access and make changes to your email address, physical address or other aspects of your WND Superstore account, [login to your account](https://checkout.netsuite.com/s.nl?c=811217&sc=17&reset=T&login=T&redirect_count=1&did_javascript_redirect=T) and choose the “My Account” link at the top of the page. Alternatively, contact our customer service department by visiting <http://superstore.wnd.com/CUSTOMER-SERVICE> or by calling toll free 1-800-496-3266 (1-800-4-WND-COM).  
 To update an e-mail address on the WND News Alerts list, follow the unsubscribe procedures found on the bottom of any WND e-mail.
 
 We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at privacy@wnd.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
