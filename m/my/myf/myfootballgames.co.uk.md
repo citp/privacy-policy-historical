@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfootballgames.co.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622005739id_/http%3A//www.myfootballgames.co.uk/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfootballgames.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071710id_/http%3A//www.myfootballgames.co.uk/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Football Games
 
