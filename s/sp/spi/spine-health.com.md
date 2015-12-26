@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626070648id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226151923id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Spine-health Privacy Policy
 
@@ -55,13 +55,11 @@ Web beacons are typically used by a third-party to monitor the activity of a sit
 
 ### Personally Identifiable Information
 
-Personally identifiable information (or PII) is information you provide that lets us know specific facts about you so that we can customize the information Veritas Health delivers to you accordingly. 
+Personally identifiable information (or PII) is information you provide that lets us know specific facts about you so that we can customize the information Veritas Health delivers to you accordingly.
 
-Veritas Health does not sell or disclose any personally identifiable information about you, unless we have your explicit permission to do so. This information can include your name, address, ZIP code, etc. Veritas Health collects the following types of personal information in the following ways: 
+Veritas Health does not sell or disclose any personally identifiable information about you, unless we have your explicit permission to do so. This information can include your name, address, ZIP code, etc. Veritas Health collects the following types of personal information in the following ways:
 
-  * **Personal Information**
-
-If you choose to register or update an existing member profile with Veritas Health or access certain functionality on Veritas Health sites, you may be required to submit personal information, which is information that we can use to identify or contact you, such as your name, address, telephone number, or email address. Some of our interactive tools and services may request you submit health information, which is also considered personal information. You are responsible for ensuring the accuracy of the personal information that you provide. 
+  * **Personal Information**  
 
   * **Registration**
 
@@ -149,9 +147,9 @@ Veritas Health contractors sometimes have limited access to your personal and no
 
 ### Disclosures to Third-Party Web Sites
 
-Certain content, services, and advertisements offered to you through the Veritas Health Web sites are served on, or contain links to, Web sites hosted and operated companies other than Veritas Health ("third-party Web sites"). Veritas Health does not disclose your personal information to these third-party Web sites without your consent, but you should be aware that any information you disclose to the other Web sites once you access these other Web sites is not subject to this Privacy Policy. 
+Certain content, services, and advertisements offered to you through the Veritas Health Web sites are served on, or contain links to, Web sites hosted and operated companies other than Veritas Health ("third-party Web sites"). Veritas Health does not disclose your personal information to these third-party Web sites without your consent, but you should be aware that any information you disclose to the other Web sites once you access these other Web sites is not subject to this Privacy Policy.
 
-Veritas Health does not endorse and is not responsible for the privacy practices of these third-party Web sites. You should review the privacy policy posted on any other Web site to understand how that third-party Web site collects and uses your personal information. 
+Some of our interactive tools and services may request you submit health information, which is also considered **“personal”** or **"private information.”** Veritas Health will maintain the privacy of your Private Information in its’ possession in accordance with the Health Insurance Portability and Accountability Act (" **HIPAA** ") Privacy Rule (to the extent it is applicable) and applicable state and federal privacy laws. **Veritas Health cannot guarantee that any third party will maintain the privacy of Private Information, even if the third party has promised to comply with the HIPAA Privacy Rule.** Veritas Health does not endorse and is not responsible for the privacy practices of these third-party Web sites. You should review the privacy policy posted on any other Web site to understand how that third-party Web site collects and uses your personal information.
 
 ### Advertising
 
