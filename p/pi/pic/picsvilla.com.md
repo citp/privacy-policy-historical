@@ -1,23 +1,17 @@
-> *The following text is extracted and transformed from the picsvilla.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628074604id_/http%3A//www.picsvilla.com/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsvilla.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Pics Villa - Reliable Image Hosting -
+# Legal
 
-'This Site' is committed to protecting the privacy of the personal information of individuals / users and/or companies who use our services.. 
+* * *
 
-**How we use your personal information**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We only use the personal information obtained from you to respond to, and process your request for our services. We do not sell personal information to any other organisations or companies, including those related to us. We will not sell, trade or rent your personal information to others without first obtaining your consent, unless required to do so by law. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We may monitor this website (including using 'cookies') in order to identify user trends, which will assist us in improving the site. If that occurs, the information will only be used in aggregate form and your individual details will not be identified or disclosed to any person. 
 
-**User Registration (personal profiles)**
 
-During free registration process users are required to provide their name and valid e-mail address. All information you provide during registration process and / or update information in your profile is confidential unless you make your profiles public. All this information is considered as "personal information".
-
-**'This Site' uses cookies**
-
-We use cookies to keep track of our registered members and/or visitors, and their activities. If you are unable to use the cookies, you will have to turn them ON in your browser setting in order to login and use members area. A "cookie" is a data file that is placed in your computer "temporary internet files". 
-
-**Unlawful Activities**
-
-'This Site' reserves the right to co-operate with local, provincial, national and international authorities in investigations of improper or unlawful activities and this may require the disclosure of personal information. We may also report to other organizations about improper or unlawful user activities on this website and this reporting may include disclosure of personal information relating to those individuals conducting such improper or unlawful activities. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
