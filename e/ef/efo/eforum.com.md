@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the eforum.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611113330id_/http%3A//www.eforum.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforum.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226114617id_/http%3A//www.eforum.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Marketing Forum
 
 [ ](http://www.eforum.com/)
+
+[](https://www.uniquecosmetics.com/)
 
 ## Information Collection and Use
 
@@ -38,6 +40,8 @@ We do not use or disclose information about your individual visits to eForum or 
 ## eForum Privacy Policy Changes
 
 If we decide to change our privacy policy for eForum, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
+
+[](http://uniquecosmetics.com/)
 
 Type your status and hit the enter key!
 
