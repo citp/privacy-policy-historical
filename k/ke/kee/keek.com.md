@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052810id_/https%3A//www.keek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226062134id_/https%3A//www.keek.com/privacy-policy) for the most accurate reproduction.*
 
 # Keek Privacy Policy
 
@@ -125,8 +125,6 @@ We reserve the right to change or replace this Privacy Policy at our sole discre
 
 #### Questions?
 
-It is our goal to make our privacy practices easy to understand. If you have questions or concerns, please email our privacy officer. We may not allow you to access certain personal information in certain circumstances, for example if it contains personal information of other persons or for legal reasons. 
+It is our goal to make our privacy practices easy to understand. If you have questions or concerns, please email us at support@keek.com. We may not allow you to access certain personal information in certain circumstances, for example if it contains personal information of other persons or for legal reasons. 
 
-**Keek Inc.** Att: Privacy Officer One Eglinton East, Suite 416 Toronto, Ontario M4P 3A1 416-782-0200 
-
-Last updated on February 26, 2014 
+Last updated on December 9, 2015 
