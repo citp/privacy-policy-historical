@@ -1,25 +1,31 @@
-> *The following text is extracted and transformed from the iimjobs.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180723id_/http%3A//www.iimjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimjobs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226213716id_/http%3A//www.iimjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iimjobs.com
 
-**Introduction**  
+## Privacy Policy
+
+**Introduction**
+
 We, at "Highorbit Careers Pvt. Ltd" are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
-"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Highorbit Careers Pvt. Ltd's web pages without telling us who you are or revealing any Personal Information about yourself. 
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Highorbit Careers Pvt. Ltd's web pages without telling us who you are or revealing any Personal Information about yourself. 
 
- **Cookies and Other Tracking Technologies**    
+**Cookies and Other Tracking Technologies**
+
 Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
- **Third Party Services**    
-Third parties provide certain services available on www.iimjobs.com on Highorbit Careers Pvt. Ltd's behalf. "Highorbit Careers Pvt. Ltd" may provide information, including Personal Information, which "Highorbit Careers Pvt. Ltd" collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which "Highorbit Careers Pvt. Ltd" maintains its Web site and mailing lists. "Highorbit Careers Pvt. Ltd" will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Highorbit Careers Pvt. Ltd's behalf. 
+**Third Party Services**
 
-"Highorbit Careers Pvt. Ltd" does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Highorbit Careers Pvt. Ltd's behalf unless such transfer is legally required. Similarly, it is against Highorbit Careers Pvt. Ltd's policy to sell Personal Information collected online without consent. 
+Third parties provide certain services available on iimjobs.com on Highorbit Careers Pvt. Ltd's behalf. "Highorbit Careers Pvt. Ltd" may provide information, including Personal Information, which "Highorbit Careers Pvt. Ltd" collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which "Highorbit Careers Pvt. Ltd" maintains its Web site and mailing lists. "Highorbit Careers Pvt. Ltd" will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Highorbit Careers Pvt. Ltd's behalf. 
 
- **Your Consent**    
+"Highorbit Careers Pvt. Ltd" does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Highorbit Careers Pvt. Ltd's behalf unless such transfer is legally required. Similarly, it is against Highorbit Careers Pvt. Ltd's policy to sell Personal Information collected online without consent. 
+
+**Your Consent**
+
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Highorbit Careers Pvt. Ltd's processing of Personal Information for the purposes given above as well as those explained where "Highorbit Careers Pvt. Ltd" collects Personal Information on the Web. 
 
  **Information security**
@@ -31,7 +37,6 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 
 
-  
 **Updating your information**
 
   * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
@@ -39,7 +44,6 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 
 
-  
 **Children**
 
   * "Highorbit Careers Pvt. Ltd" will not contact children under age 13 about special offers or for marketing purposes without a parent's permission.
@@ -47,7 +51,6 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 
 
-  
 **Information Sharing and Disclosure**  
 
   * "Highorbit Careers Pvt. Ltd" does not rent, sell, or share personal information about you with other people (save with your consent) or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances
@@ -80,10 +83,11 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 
 
-**Changes to this Privacy Policy**  
+**Changes to this Privacy Policy**
+
 "Highorbit Careers Pvt. Ltd" reserves the right to update, change or modify this policy at any time. The policy shall come to effect from the date of such update, change or modification. 
 
- **Disclaimer**
+**Disclaimer**
 
 Highorbit Careers Pvt. Ltd does not store or keep credit card data in a location that is accessible via the Internet. Once a credit card transaction has been completed, all credit card data is moved off-line only to ensure that the data/credit card information received is not accessible to anyone after completion of the on-line transaction and to ensure the maximum security. Highorbit Careers Pvt. Ltd uses the maximum care as is possible to ensure that all or any data / information in respect of electronic transfer of money does not fall in the wrong hands. 
 
