@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chapman.edu privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130092340id_/http%3A//chapman.edu/campus-services/information-systems/security/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapman.edu privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226175219id_/http%3A//chapman.edu/campus-services/information-systems/security/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Chapman University
 
@@ -43,14 +43,11 @@ Chapman University may disclose personal information if we are required to do so
 ## Is credit card / transaction information secure on this Web site?
 
 We care about the safety and security of your transaction. We use SSL (Secure Sockets Layer) to communicate with your browser software when you register with us online. SSL is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept your credit card or other information that you send us.  
-We have partnered with the commercial Internet financial service, TouchNet to handle credit card transactions, and we do not store credit card information after the transaction is processed.  See [TouchNet's privacy policy](http://www.touchnet.com/web/display/TN/Privacy+Policy).
+We have partnered with the commercial Internet financial service, TouchNet to handle credit card transactions, and we do not store credit card information after the transaction is processed.  See [TouchNet's privacy policy](http://www.touchnet.com/prod/touchnet-privacy-policy.html).
 
 ## What Other Exceptions Are There?
 
 Chapman University reserves the right to use personal information in its database to identify the source of any inappropriate use of information resources managed by the association, including but not limited to: offensive or illegal postings to online discussion lists, collaboration sites, and other communication vehicles; denial of service actions; unauthorized use of online services and network infrastructure; misuse or unauthorized use of the Chapman University name, logo, or other representations of the association; and to protect the personal safety and privacy of our members, online users, and the public under the policies and practices described above.
-
-This is the privacy policy for the Chapman University Alumni website hosted by iModules::  
-[http://www.alumni.chapman.edu/s/1057/one-col.aspx?sid=1057&gid=1&pgid=230&cid=157](http://www.alumni.chapman.edu/s/1057/one-col.aspx?sid=1057&gid=1&pgid=230&cid=157)
 
 This is the privacy policy for the Common App which we use for undergraduate students to apply to Chapman:  
 <https://www.commonapp.org/PrivacyPolicy.aspx>
