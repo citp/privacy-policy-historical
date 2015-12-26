@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutamom.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608014143id_/http%3A//www.aboutamom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutamom.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070826id_/http%3A//www.aboutamom.com/privacy) for the most accurate reproduction.*
 
 # Privacy - About A Mom
 
@@ -62,5 +62,3 @@ We will not sell, distribute or lease your personal information to third parties
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.aboutamom.com%2Fprivacy%2F)
