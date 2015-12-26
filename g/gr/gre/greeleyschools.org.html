@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the greeleyschools.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626083358id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greeleyschools.org privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226073742id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Privacy policy / Privacy policy</title>
     <!--
     <PageMap>
@@ -14,54 +14,510 @@
 
     
     <!-- Begin swuc.GlobalJS -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582517700000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.schoolwires.com/Static/V2_07_01/";
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580483100000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+ staticURL = "http://www.schoolwires.com/Static/V2_12_01/";
  SessionTimeout = "0";
 </script>
 <!-- End swuc.GlobalJS -->
-    
-    
+
+
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_07_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_07_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_07_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_07_01/App_Themes/SW/jQueryUI.css">
-    
-    
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Light.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Italic.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Regular.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-SemiBold.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/SchoolwiresMobile.css">
+
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
 
     
 
-   <!--  -->
-    
-<script type="text/javascript">
+    <!--  -->
+
+    <script type="text/javascript">
     $(document).ready(function() {
-        SetCookie('SWScreenWidth', screen.width);
-        SetCookie('SWClientWidth', document.body.clientWidth);
+            SetCookie('SWScreenWidth', screen.width);
+            SetCookie('SWClientWidth', document.body.clientWidth);
 
-        //If small browser window and responsive template and first load, reload to get the off-canvas menu
-        var isResponsiveTemplatePreInit = 'False';
-        var isResponsive = 'False';
+            //If small browser window and responsive template and first load, reload to get the off-canvas menu
+            var isResponsiveTemplatePreInit = 'False';
+            var isResponsive = 'False';
 
-        if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
-            window.location.reload(true);
-        } 
+            if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
+                window.location.reload(true);
+            }
 
-        $("div.ui-article:last").addClass("last-article");
-        $("div.region .app:last").addClass("last-app");
+            $("div.ui-article:last").addClass("last-article");
+            $("div.region .app:last").addClass("last-app");
+
+            // get on screen alerts
+            var isAnyActiveOSA = 'False';
+            var onscreenAlertCookie = GetCookie('Alerts');
+
+            if (onscreenAlertCookie == '' || onscreenAlertCookie == undefined) {
+                onscreenAlertCookie = "";
+            }
+            if (isAnyActiveOSA == 'True') {
+            GetContent(homeURL + "/cms/Tools/OnScreenAlerts/UserControls/OnScreenAlertDialogListWrapper.aspx?OnScreenAlertCookie=" + onscreenAlertCookie + "&SiteID=4", "onscreenalert-holder", 2, "OnScreenAlertCheckListItem();");
+            }
+        });
+
+    // ADA SKIP NAV
+    $(document).ready(function() {
+        $(document).on('focus', '#skipLink', function() {
+            $("div.sw-skipnav-outerbar").animate({
+                marginTop: "0px"
+            }, 500);
+        });
+
+        $(document).on('blur', '#skipLink', function() {
+            $("div.sw-skipnav-outerbar").animate({
+                marginTop: "-30px"
+            }, 500);
+        });
+    });
+
+    // ADA MYSTART
+    $(document).ready(function () {
+        var top_level_nav = $('.sw-mystart-nav');
+
+        // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
+        // school dropdown
+        $(top_level_nav).find('ul').find('a').attr('tabIndex', -1);
+
+        // my account dropdown
+        $(top_level_nav).next('ul').find('a').attr('tabIndex', -1);
+
+        $(top_level_nav).focus(function() {
+            // hide open menus
+            hideMyStartBarMenu();
+
+            // show school dropdown
+            if ($(this).find('ul').length > 0) {
+                $(this).find('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
+            }
+
+            // show my account dropdown
+            if ($(this).next('ul').length > 0) {
+                $(this).next('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
+                $('#sw-mystart-account').addClass("clicked-state");
+            }
+        });
+
+        // Bind arrow keys for navigation
+        $(top_level_nav).keydown(function(e) {
+            if (e.keyCode == 37) { //key left
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).prev('.sw-mystart-nav').length == 0) {
+                    $(this).parents('div').find('.sw-mystart-nav').last().focus();
+                } else {
+                    $(this).prev('.sw-mystart-nav').focus();
+                }
+            } else if(e.keyCode == 38) { //key up
+                e.preventDefault();
+
+                // show school dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('div.sw-dropdown').css('display', 'block').find('ul').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+
+                // show my account dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+            } else if(e.keyCode == 39) { //key right
+                e.preventDefault();
+
+                // This is the last item
+                if ($(this).next('.sw-mystart-nav').length == 0) {
+                    $(this).parents('div').find('.sw-mystart-nav').first().focus();
+                } else {
+                    $(this).next('.sw-mystart-nav').focus();
+                }
+            } else if(e.keyCode == 40) { //key down
+                e.preventDefault();
+
+                // show school dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('div.sw-dropdown').css('display', 'block').find('ul').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+                }
+
+                // show my account dropdown
+                if ($(this).next('ul').length > 0) {
+                    $(this).next('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+                }
+            } else if(e.keyCode == 13 || e.keyCode == 32) { //enter key
+                // If submenu is hidden, open it
+                e.preventDefault();
+
+                $(this).parent('li').find('ul[aria-hidden=true]').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+            } else if (e.keyCode == 27) { //escape key
+                e.preventDefault();
+                hideMyStartBarMenu();
+            } else {
+                $(this).parent('.sw-mystart-nav').find('ul[aria-hidden=false] a').each(function() {
+                    if ($(this).text().substring(0,1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        return false;
+                    }
+                });
+            }
+        });
+
+        // school dropdown
+        var startbarlinks = $(top_level_nav).find('ul').find('a');
+        bindMyStartBarLinks(startbarlinks);
+
+        // my account dropdown
+        var myaccountlinks = $(top_level_nav).next('ul').find('a');
+        bindMyStartBarLinks(myaccountlinks);
+
+        function bindMyStartBarLinks(links) {
+            $(links).keydown(function(e) {
+                e.stopPropagation();
+
+                if (e.keyCode == 38) { //key up
+                    e.preventDefault();
+
+                    // This is the first item
+                    if ($(this).parent('li').prev('li').length == 0) {
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
+                            $(this).parents('ul').parents('.sw-mystart-nav').focus();
+                        } else {
+                            $(this).parents('ul').prev('.sw-mystart-nav').focus();
+                        }
+                    } else {
+                        $(this).parent('li').prev('li').find('a').first().focus();
+                    }
+                } else if (e.keyCode == 40) { //key down
+                    e.preventDefault();
+
+                    if ($(this).parent('li').next('li').length == 0) {
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
+                            $(this).parents('ul').parents('.sw-mystart-nav').focus();
+                        } else {
+                            $(this).parents('ul').prev('.sw-mystart-nav').focus();
+                        }
+                    } else {
+                        $(this).parent('li').next('li').find('a').first().attr('tabIndex', 0);
+                        $(this).parent('li').next('li').find('a').first().focus();
+                    }
+                } else if (e.keyCode == 27 || e.keyCode == 37) { // escape key or key left
+                    e.preventDefault();
+                    hideMyStartBarMenu();
+                } else if (e.keyCode == 32) { //enter key
+                    e.preventDefault();
+                    window.location = $(this).attr('href');
+                } else {
+                    var found = false;
+
+                    $(this).parent('div').nextAll('li').find('a').each(function() {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            $(this).focus();
+                            found = true;
+                            return false;
+                        }
+                    });
+
+                    if (!found) {
+                        $(this).parent('div').prevAll('li').find('a').each(function() {
+                            if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                                $(this).focus();
+                                return false;
+                            }
+                        });
+                    }
+                }
+            });
+        }
+
+        // Hide menu if click or focus occurs outside of navigation
+        $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function(e) { 
+            if (e.keyCode == 9) {
+                // If the user tabs out of the navigation hide all menus
+                hideMyStartBarMenu();
+            }
+        });
+
+        /*$(document).click(function() { 
+            hideMyStartBarMenu();
+        });*/
+
+        // try to capture as many custom MyStart bars as possible
+        $('.sw-mystart-button').find('a').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#sw-mystart-inner').click(function(e) {
+            e.stopPropagation();
+        });
+
+        $('ul.sw-dropdown-list').blur(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-mypasskey').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-sitemanager').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-myview').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-signin').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-register').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        // button click events
+        $('div.sw-mystart-button.home a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.pw a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.manage a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('#sw-mystart-account').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).addClass('clicked-state');
+                $('#sw-myaccount-list').show();
+            }
+        });
+
+        $('#sw-mystart-mypasskey a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.signin a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.register a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+    });
+
+    function hideMyStartBarMenu() {
+        $('.sw-dropdown').attr('aria-hidden', 'true').css('display', 'none').find('a').attr('tabIndex', -1);
+        $('#sw-mystart-account').removeClass("clicked-state");
+    }
+
+    // ADA CHANNEL NAV
+    $(document).ready(function() {
+        var settings = {
+            menuHoverClass: 'hover'
+        };
+
+        // Add ARIA role to menubar and menu items
+        $('[id="channel-navigation"]').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+
+        var top_level_links = $('[id="channel-navigation"]').find('> li > a');
+
+        // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
+        $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
+
+        // Adding aria-haspopup for appropriate items
+        $(top_level_links).each(function() {
+            if ($(this).next('ul').length > 0)
+                $(this).parent('li').attr('aria-haspopup', 'true');
+        });
+
+        $(top_level_links).focus(function() {
+            //hide open menus
+            hideChannelMenu();
+
+            if ($(this).parent('li').find('ul').length > 0) {
+                $(this).parent('li').addClass(settings.menuHoverClass).find('ul').css('display', 'block');
+            }
+        });
+
+        // Bind arrow keys for navigation
+        $(top_level_links).keydown(function(e) {
+            if (e.keyCode == 37) { //key left
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).parent('li').prev('li').length == 0) {
+                    $(this).parents('ul').find('> li').last().find('a').first().focus();
+                } else {
+                    $(this).parent('li').prev('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 38) { //key up
+                e.preventDefault();
+
+                if ($(this).parent('li').find('ul').length > 0) {
+                    $(this).parent('li').addClass(settings.menuHoverClass).find('ul').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+            } else if (e.keyCode == 39) { //key right
+                e.preventDefault();
+
+                // This is the last item
+                if ($(this).parent('li').next('li').length == 0) {
+                    $(this).parents('ul').find('> li').first().find('a').first().focus();
+                } else {
+                    $(this).parent('li').next('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 40) { //key down
+                e.preventDefault();
+
+                if ($(this).parent('li').find('ul').length > 0) {
+                    $(this).parent('li')
+                         .addClass(settings.menuHoverClass)
+                         .find('ul').css('display', 'block')
+                         .attr('aria-hidden', 'false')
+                         .find('a').attr('tabIndex', 0)
+                         .first().focus();
+                }
+            } else if (e.keyCode == 13 || e.keyCode == 32) { //enter key
+                // If submenu is hidden, open it
+                e.preventDefault();
+
+                $(this).parent('li').find('ul[aria-hidden=true]').attr('aria-hidden', 'false').addClass(settings.menuHoverClass).find('a').attr('tabIndex', 0).first().focus();
+            } else if (e.keyCode == 27) { //escape key
+                e.preventDefault();
+                hideChannelMenu();
+            } else {
+                $(this).parent('li').find('ul[aria-hidden=false] a').each(function() {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        return false;
+                    }
+                });
+            }
+        });
+
+        var links = $(top_level_links).parent('li').find('ul').find('a');
+
+        $(links).keydown(function(e) {
+            if (e.keyCode == 38) {
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).parent('li').prev('li').length == 0) {
+                    $(this).parents('ul').parents('li').find('a').first().focus();
+                } else {
+                    $(this).parent('li').prev('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 40) {
+                e.preventDefault();
+
+                if ($(this).parent('li').next('li').length == 0) {
+                    $(this).parents('ul').parents('li').find('a').first().focus();
+                } else {
+                    $(this).parent('li').next('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 27 || e.keyCode == 37) {
+                e.preventDefault();
+
+                $(this).parents('ul').first().prev('a').focus().parents('ul').first().find('.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('a').attr('tabIndex', -1);
+            } else if (e.keyCode == 32) {
+                e.preventDefault();
+                window.location = $(this).attr('href');
+            } else {
+                var found = false;
+
+                $(this).parent('li').nextAll('li').find('a').each(function() {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        found = true;
+                        return false;
+                    }
+                });
+
+                if (!found) {
+                    $(this).parent('li').prevAll('li').find('a').each(function() {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            $(this).focus();
+                            return false;
+                        }
+                    });
+                }
+            }
+        });
+
+        function hideChannelMenu() {
+            $('li.sw-channel-item.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('ul').css('display', 'none').find('a').attr('tabIndex', -1);
+        }
+
+        // Hide menu if click or focus occurs outside of navigation
+        $('[id="channel-navigation"]').find('a').last().keydown(function (e) {
+            if (e.keyCode == 9) {
+                // If the user tabs out of the navigation hide all menus
+                hideChannelMenu();
+            }
+        });
+
+        $('[id="channel-navigation"]').find('a').first().keydown(function (e) {
+            if (e.keyCode == 9) {
+                // hide open MyStart Bar menus
+                hideMyStartBarMenu();
+            }
+        });
+
+        /*$(document).click(function() {
+            hideChannelMenu();
+        });*/
+
+        $('[id="channel-navigation"]').click(function (e) {
+            e.stopPropagation();
+        });
     });
     </script>
-    
+
     <!-- Page -->
     
-    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 /* GroupBegin Custom Fonts */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 @font-face {
 	font-family: 'schoolio';
@@ -92,8 +548,8 @@
 }
 @font-face {
 	font-family: 'corp-font';
-	src: url(data:application/x-font-ttf;charset=utf-8;base64,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) format('truetype'),
-		 url(data:application/font-woff;charset=utf-8;base64,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) format('woff');
+	src: url(data:application/x-font-ttf;charset=utf-8;base64,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) format('truetype'),
+		 url(data:application/font-woff;charset=utf-8;base64,d09GRk9UVE8AAA5MAAoAAAAADgQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABDRkYgAAAA9AAACjkAAAo5lCWdYE9TLzIAAAswAAAAYAAAAGAIIgcwY21hcAAAC5AAAACEAAAAhAH/AndnYXNwAAAMFAAAAAgAAAAIAAAAEGhlYWQAAAwcAAAANgAAADYA0DLDaGhlYQAADFQAAAAkAAAAJAPiAflobXR4AAAMeAAAAGAAAABgJ5QEhW1heHAAAAzYAAAABgAAAAYAGFAAbmFtZQAADOAAAAFLAAABS6uCx8Vwb3N0AAAOLAAAACAAAAAgAAMAAAEABAQAAQEBCmNvcnAtZm9udAABAgABADr4HAL4GwP4GAQeCgAZU/+Lix4KABlT/4uLDAeLa/iU+HQFHQAAAMYPHQAAAMsRHQAAAAkdAAAKMBIAGQEBChMVFxodICMmKSwvMjU4Oz5BREdKTVBTVmNvcnAtZm9udGNvcnAtZm9udHUwdTF1MjB1M0N1M0V1NjF1NjJ1NjN1NjR1NjV1NjZ1Njd1Njl1NkN1NzB1NzJ1NzN1NzR1NzV1NzZ1Nzd1Nzl1N0EAAAIBiQAWABgCAAEABAAHAAoADQBMAIsBGAGFAZYB1QH7Ai8DPAPJBIAFQAZOBrEHbQesB/oIQAjgCTH8lA78lA78lA77lA73ufgHFYCAI/sBi4uFhYiEi4OLhI6EkYWLi/P7ApaBlYGfipaWl5aLm3+YCCvv6+8Fl5mLm3+WgJZ3ioGBCA73b/gHFZaA8/sBi4uRhY6Ei4OLhIiEhYWLiyP7AoCBgYF3ioCWf5aLm5eYCOvvK+8Ff5mLm5eWlpafipWBCA6++HQVoIuL/JR2i4v4lAX4FIsVoIuL/JR2i4v4lAX8FPyAFfgpi4t3/CmLi58Fi/iAFfgpi4t3/CmLi58F9+v7FBWLiwX7ra8V962Li2z7rYuLqgWLQxX3rYuLbPuti4uqBYtDFfeti4tt+62Li6kFi0QV962Li2z7rYuLqgWLQxX3rYuLbPuti4uqBQ73hfcdFfcti4tO+y2Li8gF91b31xWL/Gz7/4uL+Gz3/4sF/BSfFYv8lPgpi4v4lPwpiwXiJRX3gIuLXfuAi4u5BXefFYs096iLi+L7qIsFn/soFfeAi4td+4CLi7kFd58VizT3qIuL4vuoiwUO+JT3UxWLzfyUi4tJ+JSLBQ74IPefFYGA+wIji4uGhYOIhIuEi4OOhpGLi/sC84GWgJaKnpeXlpaajJl/CO8r7+sFmZeaipaAl3+KeICACA73uWsVi/dv92+Li9X7b4uL929Bi4v7b/tvi4tB92+Li/tv1YsFDve0axUri4v3lEuLi+PLi4u/BYvTnrfgiwjSi4szX4sFaouJfot0CItf2ouCM0WLi/uUBQ74LPePFVmLi7xzi4taWouLc7yLi1mji4u9vYsF+y59FYKRgpWLjouQi46YlJqXlJyLnIuahpmDlQiRiwWNi4yLjIwInJcFjo2MjoqNio6JjIiLCD2LBYKLg4qCiG+Bd3OLcotopnCwioqJi4iLiIuGjIaOhgiKiwVoi2x6f3GIhYmEi4SLhY2FjoWTfpuAoIaXiJeKl4uWi5aMlY6qlJ+ii6WLpIOadZsIKVEVi52im6WLCIyLBZGLkIqRio2JjIqNipeDk4WOgouJi4mLiYt0en9qi3GLeJuLnwij90EVj5CQjZGLCIyLBZyLnHeOdIx+iX+EhIeGhomEiwiLiwV6i3qfiKKKmI2XkpIIDveh9/QVRYtoWYthi3KUdKCDjoqOjIyPjI2MkoyNjI+LjIiPhZKHlIuXi7GnrLiLsouhc4trCItgeGdvi3yLf5iPm4+dlJ+LmYuXhZV9i3uLf3uLdYt9j4KLi4uLe0aJf4V0kG6LiAiLiY6KjI2MjZ6ikaKNkZSti4uQgpqCmou7i6u2i8WLtma0U4sIDkLv970Vi/uvLIuL96/qiwWR4hWLfYaAgYGBgn+Ge4sIiosFe4t/kIGUgpWGlouZi5mQl5WUlZWXj5uLm4uYh5SBlYKQf4t9CPfh+2QVi/s2LYuL9ysFi5+Hm4OWhJZ/kXqLf4uBiIOEg4WFg4eBiYWKg4uCCIv7Mi2LBYvXi8iLu4u6i6eLlAiLmemLi2KKiwWPkY+Qj5CPj5CQkpGSkJOPlY6VjpaMl4uri6WBn3WfdZVsi2EIDsP4dBWgi4v8lHaLi/iUBfgUixWgi4v8lHaLi/iUBfwU/IAV+CmLi3f8KYuLnwWL+IAV+CmLi3f8KYuLnwXJLxX3HouLbPsei4uqBYtDFfcei4ts+x6Li6oFi0MV9x6Li237HouLqQWLRBX3rYuLbPuti4uqBYtDFfeti4ts+62Li6oF9y33sxX3FIuLcfsUi4ulBYv7KRX3FIuLcvsUi4ukBYv3KRWli4v7QnGLi/dCBfKLFaSLi/tCcouL90IFDvsB9wLmFYt8hX6BgYCAfoZ8i3yLfpCAloCVhpiLmoubkJiWlZaWmJCai5qLmIaWgJWBkX6Lewj3JmgVi4aKhoeIiIeGiYaLCGSLBYaLh4yIjoeOio+KkIe3ebBsqmyqZp1gj4aLh42IjoiPiY+LkAiLsQWLkY2Pj4+Ojo+NkIsIjYsFqYiog6d/p36keaB2oXWcc5hvmG+Tbo1sCPcmixWMhomGh4eIh4aKhosIYosFhouHjIePiI6Jj4uQibSBsnqverB1q3CmcKdroWacZpxklGKOhouHjYiOiI+Jj4uQCIu0BYuQjY+Pj46Oj42QiwiMiwW9iLuAuHe5drRvrmivZ6djn12fXZdcjVkIDviEtxX7DfIFfpd+kICKqK2ctou7i/U14SGLIYs1NYshiyHhNfWLu4u2nK2oioCQfpd+CPL7DQWcd6iKnZycnYqod5wI+8T3CBVEi1LEi9KL0sTE0ovSi8RSi0SLRFJSRIsIDmf4Y/f7FX54fHt5fouIi4eLhotyh3OEcoRygHR8dHx0end2end5cn5vgG6BbIZqi1iLW5hhpwiRipOLk4u2i7GYrKV3jHqRe5d7l4CahZ2RipGLkYuTi5OMk412j3mWfZx9nISei6IIi4wFmIOZiJqKfpOBloSZg5iHmoubi5yQmpOZom+ndKx6rHqvgrCJipKKkouSi6WUoJ2dCJ2doZSki6aLoYKed5+Pn5OdlYR2fnp3f5yMnZCdkwgO+CD3VhWBlfsC9IuLhpGDjYSLhIuDiYaFi4v7AiKBgYCAiniXf5aAmoqZlwjv6+8rBZl/moyWlpeXip6AlggOi/faFaBwBYuLtqyZepl7wvthnWabardfu6q7q/c09xyn9zWo9zX7cWp0+yHFrqpabVNuU29nfYt9i4CweswIe8+L9w5EfUl+NCOLiwgO+BX3KxWL9yH3DtuL+8L7DtwFOjoV+52LBXiMeJ+Kn4yKivd1i4uLnJ6fn4uLi/edjIuKn4ugd4t3CIv7cQWLdnh3dYsIDkL3b/gLFW+LcYRzfXR9eHh9c310hHGLbotvknGZc5l0nniifaN9pYSni6iLpZKimaOZnp6ZogiZo5Kli6eLqISlfaJ9o3iec5l0mXGSbosI93D7MBWLZIFmd2l4anBwandpeGaBY4tki2aVaZ5qn3Cmd6x4rYGwi7KLs5Wwnq2frKamrJ4IrZ+wlbKLs4uwga13rHimcJ5qn2mVZotjCA5C+Ev3bxWLZIFmd2l4anBwandpeGaBY4tki2aVaZ5qn3Cmd6x4rYGwi7KLs5Wwnq2frKamrJ4IrZ+wlbKLs4uwga13rHimcJ5qn2mVZotjCA74lBT4lBWLDAoAAAAAAwIAAZAABQAAAUwBZgAAAEcBTAFmAAAA9QAZAIQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAAAegHg/+D/4AHgACAAAAABAAAAAAAAAAAAAAAgAAAAAAACAAAAAwAAABQAAwABAAAAFAAEAHAAAAAYABAAAwAIAAEAIAA8AD4AZwBpAGwAcAB3AHr//f//AAAAAAAgADwAPgBhAGkAbABwAHIAef/9//8AAf/j/8j/x/+l/6T/ov+f/57/nQADAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAB//8ADwABAAAAAQAAkyMQxV8PPPUACwIAAAAAAM/YeQMAAAAAz9h5AwAA/+ACAAHgAAAACAACAAAAAAAAAAEAAAHg/+AAAAIAAAAAAAIAAAEAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAQAAAAIAAKkCAACyAgAAMwIAADMCAAAAAgAAdAIAAAACAACAAgAAcwIAAKQBtwAAAgAAOAGTAAACAAAAAdwADQIAAHQCAAAAAgAAAAG3AAABtwAAAABQAAAYAAAAAAAOAK4AAQAAAAAAAQASAAAAAQAAAAAAAgAOAFUAAQAAAAAAAwASACgAAQAAAAAABAASAGMAAQAAAAAABQAWABIAAQAAAAAABgAJADoAAQAAAAAACgAoAHUAAwABBAkAAQASAAAAAwABBAkAAgAOAFUAAwABBAkAAwASACgAAwABBAkABAASAGMAAwABBAkABQAWABIAAwABBAkABgASAEMAAwABBAkACgAoAHUAYwBvAHIAcAAtAGYAbwBuAHQAVgBlAHIAcwBpAG8AbgAgADEALgAwAGMAbwByAHAALQBmAG8AbgB0Y29ycC1mb250AGMAbwByAHAALQBmAG8AbgB0AFIAZQBnAHUAbABhAHIAYwBvAHIAcAAtAGYAbwBuAHQARwBlAG4AZQByAGEAdABlAGQAIABiAHkAIABJAGMAbwBNAG8AbwBuAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -167,29 +623,34 @@ h1 {
 	font-family: 'News Gothic W01', sans-serif;
 	font-size: 2.4rem;
 	line-height: 2.7rem;
+	text-transform: none;
 }
 h1 span {
 	font-family: 'NewsGothicNo.2W01-Light 710401', sans-serif;
 	font-size: 2.6rem;
 	line-height: 2.7rem;
+	text-transform: none;
 }
 h2 {
 	font-family: 'NewsGothicNo.2W01-Light 710401', sans-serif;
 	font-size: 2rem;
 	line-height: 2.2rem;
 	margin-bottom: 0.4rem;
+	text-transform: none;
 }
 h3 {
 	font-family: 'NewsGothicMTW01-Condens', sans-serif;
 	font-size: 1.3rem;
 	line-height: 1.5rem;
 	margin: 10px 0px 5px;
+	text-transform: none;
 }
 h4 {
 	font-family: 'NewsGothicMTW01-Condens', sans-serif;
 	font-size: 1.1rem;
 	line-height: 1.4rem;
 	margin: 10px 0px 5px;
+	text-transform: none;
 }
 h5 {
 	font-family: 'NewsGothicBTW01-Condens', sans-serif;
@@ -217,9 +678,10 @@ p {
 	font-size: 1rem;
 	line-height: 1.3rem;
 	margin: 0.5rem 0;
+	text-transform: none;
 }
 p span {
-	font-family:'NewsGothicNo.2W01-Mediu 710407';, sans-serif;
+	font-family:'NewsGothicNo.2W01-Mediu 710407', sans-serif;
 }
 ol, ul {
 	padding: 0px 0px 0px 20px;
@@ -231,11 +693,13 @@ ol li, ul li {
 	line-height: 1.3rem;
 	margin-bottom: 0.4rem;
 	/*margin-left: -1.1rem;*/
+	text-transform: none;
 }
 li span {
 	font-family:'NewsGothicNo.2W01-Mediu 710407';, sans-serif;
 	font-size: 1rem;
 	line-height: 1.3rem;
+	text-transform: none;
 }
 li:first-child {
 	margin-top: -0.4rem;
@@ -536,7 +1000,7 @@ a.register:after {
 	display: block;
 	color: #FFF;
 	text-decoration: none;
-	margin-right: 15px;
+	margin-right: 13px;
 }
 .gb-social-icon.last {
 	margin: 0px;
@@ -551,6 +1015,12 @@ a.register:after {
 }
 .gb-social-icon.linkedin {
 	font-size: 19px;
+}
+.gb-social-icon.google-plus,
+.gb-social-icon.pinterest {
+	font-size: 30px;
+	line-height: 20px;
+	margin: 0px 3px 0px -5px;
 }
 #gb-logo {
 	width: 40%;
@@ -2422,7 +2892,9 @@ a.call-to-action {
                 
                 
                 
-                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                
+                
+                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 /* GroupBegin Global */
 html {
 	font-size: 90%;
@@ -2658,7 +3130,9 @@ html {
                 
                 
                 
-                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                
+                
+                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 /* GroupBegin Global */
 html {
 	font-size: 85%;
@@ -2875,7 +3349,9 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
                 
                 
                 
-                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                
+                
+                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 /* GroupBegin Global */
 .show480 {
 	display: block;
@@ -3139,7 +3615,9 @@ span.ui-toggle {
                  
                  
                  
-                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                 
+                 
+                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 /* GroupBegin Global */
 .show320 {
 	display: block;
@@ -3245,6 +3723,8 @@ h1 span {
 	font-size: 1.9rem;
 	line-height: 2.0rem;
 }             
+                
+                
                 
                 
                 
@@ -3551,6 +4031,8 @@ h1 span {
 		var twitterLink = 'true';
 		var linkedinLink = 'true';
 		var vimeoLink = 'true';
+		var googleLink = 'true';
+		var pinterestLink = 'true';
 		var rssLink = 'false';
 		
 		if(facebookLink == "true"){
@@ -3564,6 +4046,12 @@ h1 span {
 		}
 		if(vimeoLink == "true"){
 			$(".gb-social-icon.vimeo").removeClass("hidden");
+		}
+		if(googleLink == "true"){
+			$(".gb-social-icon.google-plus").removeClass("hidden");
+		}
+		if(pinterestLink == "true"){
+			$(".gb-social-icon.pinterest").removeClass("hidden");
 		}
 		if(rssLink == "true"){
 			$(".gb-social-icon.rss").removeClass("hidden");
@@ -3834,70 +4322,71 @@ ga('send', 'pageview');
         })(document,"script","hs-analytics",300000);
     </script>
 <!-- End of Async HubSpot Analytics Code -->
-    
+<script src="//fast.wistia.com/static/integrations-hubspot-v1.js" async=""></script>
+
     <!-- App Preview -->
     
-	
-	
-	<style type="text/css">
-		/* HOMEPAGE EDIT THUMBNAIL STYLES */
-		
-		div.region {
+
+
+    <style type="text/css">
+        /* HOMEPAGE EDIT THUMBNAIL STYLES */
+
+        div.region {
 		    
-		}
-		
-		div.region span.homepage-thumb-region-number {
-		    font: bold 100px verdana;
-		    color: #fff;  
-		}
-		
-		div.homepage-thumb-region {
-		    background: #264867; /*dark blue*/
-		    border: 5px solid #fff;
-		    text-align: center;
-		    padding: 40px 0 40px 0;
-		    display: block;
-		}
-		div.homepage-thumb-region.region-1 {
-		    background: #264867; /*dark blue*/
-		}
-		div.homepage-thumb-region.region-2 {
-		    background: #5C1700; /*dark red*/
-		}
-		div.homepage-thumb-region.region-3 {
-		    background: #335905; /*dark green*/
-		}
-		div.homepage-thumb-region.region-4 {
-		    background: #B45014; /*dark orange*/
-		}
-		div.homepage-thumb-region.region-5 {
-		    background: #51445F; /*dark purple*/
-		}
-		div.homepage-thumb-region.region-6 {
-		    background: #3B70A0; /*lighter blue*/
-		}
-		div.homepage-thumb-region.region-7 {
-		    background: #862200; /*lighter red*/
-		}
-		div.homepage-thumb-region.region-8 {
-		    background: #417206; /*lighter green*/
-		}
-		div.homepage-thumb-region.region-9 {
-		    background: #D36929; /*lighter orange*/
-		}
-		div.homepage-thumb-region.region-10 {
-		    background: #6E5C80; /*lighter purple*/
-		}
-		
-		/* END HOMEPAGE EDIT THUMBNAIL STYLES */
-	</style>
-	
-	<style type="text/css" media="print">
-       .noprint {
-           display: none !important;
-       }
+        }
+
+            div.region span.homepage-thumb-region-number {
+                font: bold 100px verdana;
+                color: #fff;
+            }
+
+        div.homepage-thumb-region {
+            background: #264867; /*dark blue*/
+            border: 5px solid #fff;
+            text-align: center;
+            padding: 40px 0 40px 0;
+            display: block;
+        }
+            div.homepage-thumb-region.region-1 {
+                background: #264867; /*dark blue*/
+            }
+            div.homepage-thumb-region.region-2 {
+                background: #5C1700; /*dark red*/
+            }
+            div.homepage-thumb-region.region-3 {
+                background: #335905; /*dark green*/
+            }
+            div.homepage-thumb-region.region-4 {
+                background: #B45014; /*dark orange*/
+            }
+            div.homepage-thumb-region.region-5 {
+                background: #51445F; /*dark purple*/
+            }
+            div.homepage-thumb-region.region-6 {
+                background: #3B70A0; /*lighter blue*/
+            }
+            div.homepage-thumb-region.region-7 {
+                background: #862200; /*lighter red*/
+            }
+            div.homepage-thumb-region.region-8 {
+                background: #417206; /*lighter green*/
+            }
+            div.homepage-thumb-region.region-9 {
+                background: #D36929; /*lighter orange*/
+            }
+            div.homepage-thumb-region.region-10 {
+                background: #6E5C80; /*lighter purple*/
+            }
+
+        /* END HOMEPAGE EDIT THUMBNAIL STYLES */
     </style>
-    
+
+    <style type="text/css" media="print">
+        .noprint {
+            display: none !important;
+        }
+    </style>
+
     
 
 <!-- Begin Schoolwires Traffic Code --> 
@@ -3927,21 +4416,26 @@ ga('send', 'pageview');
 
 </script>
 
-<!-- End Schoolwires Traffic Code -->  
- 
+<!-- End Schoolwires Traffic Code --> 
+
     
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+</head>
 <body>
 
-<!-- off-canvas menu enabled-->
+    <!-- ADA Skip Nav -->
+    <div class="sw-skipnav-outerbar">
+        <a href="#sw-maincontent" id="skipLink" class="sw-skipnav">Skip to Main Content</a>
+    </div>
 
+    <!-- off-canvas menu enabled-->
+    
 
-	
+    
 
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.schoolwires.com/Static/V2_07_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.schoolwires.com/Static/V2_12_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -3997,13 +4491,13 @@ ga('send', 'pageview');
 <div id="sw-mystart-outer" class="noprint">
 <div id="sw-mystart-inner">
 <div id="sw-mystart-left">
-<div class="sw-mystart-button home"><a href="http://www.schoolwires.com/Domain/4" alt="District Home" title="Return to the homepage on the district site."><span>District Home<div id="sw-home-icon"></div>
+<div class="sw-mystart-nav sw-mystart-button home"><a tabindex="0" href="http://www.schoolwires.com/Domain/4" alt="District Home" title="Return to the homepage on the district site."><span>District Home<div id="sw-home-icon"></div>
 </span></a></div>
 </div>
 <div id="sw-mystart-right">
-<div class="sw-mystart-button signin"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
-<div class="sw-mystart-button register"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=10&amp;SiteID=4" title="Register for this site."><span>Register</span></a></div>
-<div id="sw-mystart-search">
+<div id="ui-btn-signin" class="sw-mystart-button signin"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
+<div id="ui-btn-register" class="sw-mystart-button register"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=10&amp;SiteID=4" title="Register for this site."><span>Register</span></a></div>
+<div id="sw-mystart-search" class="sw-mystart-nav">
 <script type="text/javascript">
 $(document).ready(function() {
     $('#sw-search-input').keyup(function(e) {        if (e.keyCode == 13) {
@@ -4016,7 +4510,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_07_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_12_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -4026,7 +4520,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 <div id="gb-page" class="sp">
 	<div id="gb-content-outer">
 		<div id="gb-content" class="ui-clear">
-			<!-- Start Centricity Content Area --><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
+			<!-- Start Centricity Content Area --><a id="sw-maincontent" name="sw-maincontent"></a><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
 
 
 
@@ -4189,7 +4683,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1484 .ui-widget.app</div>
     <div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
@@ -4263,11 +4757,134 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1414 .ui-widget.app</div>
     <div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
-<div class="ui-article"><span><h2>Schoolwires Privacy Policy</h2><h4>Effective on May 27, 2014</h4><p>Schoolwires, Inc. (“Schoolwires”) is committed to protecting your privacy. This Privacy Policy was developed to give you a full understanding of terms and conditions relating to the handling of certain personal information which may be collected by Schoolwires.</p><p>This Privacy Policy applies to personal information collected on websites or other web-based environments (including mobile applications) provided and hosted by Schoolwires (collectively “Websites”) for your school, school district or other organization (“School”).</p><p>This Privacy Policy pertains only to the personal information that Schoolwires collects from you or that is provided to us by the School where we serve as the data processor on the School’s behalf. Personal information is information that identifies a particular individual, such as a person’s first and last name, postal address, e-mail address and phone number.</p><p>Schoolwires, Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and related privacy practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/">TRUSTe’s TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at.&nbsp; If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>.</p><div id="8e2469b3-eeec-4dbb-8efb-77779643ed49"><script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Schoolwires,-Inc-/asc?rid=8e2469b3-eeec-4dbb-8efb-77779643ed49"></script><a href="//privacy.truste.com/privacy-seal/Schoolwires,-Inc-/validation?rid=f1f9af09-1437-4537-a7b7-ca784e758f85" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Schoolwires,-Inc-/seal?rid=f1f9af09-1437-4537-a7b7-ca784e758f85" alt="Validate TRUSTe privacy certification"></a></div><p>The TRUSTe program certification is limited to only that information collected through the Schoolwires Centricity2 and Schoolwires Nimbus platforms where Schoolwires serves as a service provider (data processor). Use of information by Schoolwires collected through our services shall be limited to the purpose of providing the service for which the School has engaged Schoolwires. </p><p>In connection with the School’s Website, this Privacy Policy applies only to the Schoolwires practices regarding personal information which is collected on the Website that is processed and hosted by Schoolwires and NOT to sites hosted by the school or another third-party. Schoolwires has been retained by the School to provide and host the Website on which the School has added customized content. The School administers and oversees the Website and, accordingly, has control over who can register for use of various features of the Website and who can access the personal information posted or maintained on the Website. The School can also add content and information directly onto the Website. The School may have its own policies addressing collection, use and sharing of personal information. For information about whether this Privacy Policy applies to you and about the School's own policy, please contact the School.</p><h3>Information we collect when hosting a school’s website</h3><p>You may visit certain Websites as a guest without registering. Registration, however, will give you access to certain features as well as the ability to personalize certain features. An individual who seeks access to a Website, or who seeks to correct, amend, or delete inaccurate data, should direct any query to the School. If the School requests Schoolwires to remove the data, we will respond to the request within 30 days.</p><p>Before a child under 13 may access features that require registration, the School must first obtain any necessary parental consent. After all necessary consent is received by the School, the School is responsible for providing parent access to the child's profile so the parent may, at any time, review, request modifications to, or request deletion of the child's personal information. A parent also has the right to refuse to further collection of the child's information, subject to the School’s policies and procedures in this regard. If you have questions regarding registration, please contact the School.</p><p>Schoolwires collects and subsequently processes personal information in two ways:</p><ol>  <li><span>Self-Registration.</span> If you choose to become a registered user, on behalf of the School, we will ask for personal information from you through the Website. After we collect this information from you, it may be verified by the School. So that the registration process is compliant with federal law under the Children's Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored. Children under 13 years of age are not allowed to register themselves with the Website.  Since we are collecting personal information from students for the use and benefit of the School, all information collected by Schoolwires is verified for compliance with applicable laws (such as COPPA) by the School directly and not by Schoolwires. If you feel your child under 13 years of age has registered on this Website without your permission, please contact the School directly.</li>  <li><span>Pre-Registration.</span> You may be pre-registered by the School in one of two ways. Either way, the School may not share personal information for children under 13 years of age with Schoolwires without first receiving the necessary parental consent as described above. The two means of pre-registration are:</li><ul>  <li>Your School may share registration information with Schoolwires, either manually or via an authorized third-party system feed. Schoolwires would conduct an import of      this registration information.</li>  <li>A school-designated individual may input registration information for you.</li></ul></ol><p>Regardless of the way you are registered, various types of information are collected during registration. Some information is required, such as First and Last Name, Email Address, User Name and Password. These fields are labeled to indicate that they are required. Other information is optional such as Title, Address, City, State, ZIP Code, and Phone.</p><p>After registration, the Site Administrator for the school may decide to assign to you a role(s) or group(s). Based upon your designated role(s) or group(s), you may have access to additional information or services. If you have questions concerning your role(s) or group(s), please contact the School.</p><p>Information collected for self-registration or pre-registration may also be used to (1) provide School-related notifications and other information, (2) provide you with important information about the Website, such as updates or notices, (3) improve our product and services, (4) improve customer service, (5) create a profile for you, and/or (6) in aggregate, guide our marketing efforts. No personal information will be shared with third parties except to the extent expressly described in this Privacy Policy and otherwise in accordance with applicable law.</p><h4>Additional information which you provide to us on behalf of schools</h4><p>Additional information may be provided to us in other situations, for example, in connection with a customer support request or a content submission request. The goal of collecting this additional information is to serve you more effectively and efficiently.</p><p>In addition, students, members of the School, and other users of the Website may choose to post, download or upload various pieces of content and/or information on or through the use of the Website, and may use certain “social media”, collaboration, interaction and other capabilities of the Website to exchange various categories of data, materials and information. While we cannot know in advance all types of such information, one example is that teachers or administrators may post blogs, announcements and other information and content directly onto the Website. Another example is that students may chat with each other, or send instant messages or e-mail, via technology which may now or in the future be made available over the Website and may share information, photographs, images or recordings with each other or with the community. Information such as an individual’s name and e-mail address can also be exchanged or made available in messages, chats and other social media and collaborative communications facilitated over the Website. Schoolwires has no practical ability to restrict the information, conduct, communications, or content which might be posted on or exchanged through the use of its technology, nor can Schoolwires ensure prompt removal of any such communications, information or content after transmission or posting. If you or your child provide personal information when using any social interaction, collaboration or messaging capabilities or features of the Website (such as chat rooms, blogs, message boards, profile pages, etc.), that personal information may be copied, publicly posted and otherwise disclosed without limitation as to its use by third parties. There may be monitoring or filtering tools utilized by the Website which track or log content or information downloaded or posted to the Website. If you are concerned about any information or content that may be posted, transmitted or accessed on the Website, please contact the School. In connection with the use of PassKey Manager™ or similar solution, you or the School may provide us with your or your child’s login credentials for certain software applications and web services in order to facilitate single sign-on access to these applications and services. These login credentials may include the username, password and any other required information which you selected or were supplied in order to access certain applications and web services.</p><p>On behalf of the School, we may also (now or in the future) maintain and/or present academic and other similar information regarding students via technology or software provided by Schoolwires or by third parties who have authorized Schoolwires to distribute and/or present this information. We do not at any time collect any personal information through these technologies or software.</p><p>As noted below, we may also ask you to provide us with voluntary survey information to help us improve our products and services.</p><h4>Information from the school</h4><p>The School administers and oversees the Website which presents and archives information supplied by content contributors designated by the School. Schoolwires does not supply the school-specific content appearing on the Website. Once content is posted to the Website by content contributors at the school, it is public information available on the Internet. If content is posted by content contributors to groups or pages with restricted viewing permissions, that content is only displayed to users authorized to see that content.</p><p>In addition to supplying the content for its Website, the School can control which individuals can be registered to use certain Website features and which individuals or groups are granted privileges to access, view or use personal information collected, exchanged or maintained on the Website. The Site Administrator can also access your personal information, and grant rights of access to others, as it deems appropriate. The School may also provide Schoolwires with the registration information and login credentials described above, as well as with other information about you which it deems appropriate. Please contact the School regarding its policies and/or practices in this regard.</p><h4>Information collected through technology</h4><p>As noted below, we may also collect cookies, device information and web beacons in the course of your use of our technology.</p><h3>Privacy of children; Privacy of students</h3><p>Schoolwires is dedicated to the privacy of children under 13 years of age. We do not process, collect, or entice (by use of contests, games, prizes, or other enticements) from children more personal information than is needed to access services.  The School is responsible for obtaining all  parental consent necessary for Schoolwires’ collection of personal information from children under 13. Schoolwires presumes that such consent has been obtained by the School by virtue of the School having retained Schoolwires to provide the Website and related services.  Schoolwires will not share any personal information about children with any third parties other than as specified in this Privacy Policy.</p><p>As a parent or legal guardian for children under 13, you may review your child's personal information. After your child's parental consent is submitted, an individual at the School will supply you with your child's Sign-In and Password so that you may access and review the types of personal information collected from your child. If you would like to refuse to allow any further collection or use of your child's information (or only wish to consent to the collection and use of your child’s personal information without consenting to the disclosure of that information to third parties), please contact the School or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.</p><p>Schoolwires is dedicated to maintaining the privacy of all students, whether under 13 or older, in accordance with applicable laws. In this regard, we will maintain any and all personal information in education records which come into the possession of Schoolwires in accordance with the requirements of the Family Educational Rights and Privacy Act (“FERPA”), and will not disclose such information to third parties except with the consent of a parent, the School or an eligible student (as applicable), unless otherwise permitted under FERPA and its associated regulations. One instance in which personal information in education records may be disclosed to third parties under FERPA is if the information is classified as “directory information” by your educational institution. Please check with the School if you have any questions as to which information they have classified in this manner.</p><h3>How we use information collected when hosting the school’s website</h3><h4>User account</h4><p>Schoolwires does not associate information that we collect through log files or third parties with your user account. The information is provided voluntarily by you or the School during registration. A user account is stored information that gives you access to certain features as well as the ability to personalize certain features. Your user account can only be accessed and used by you (including, where applicable, your parent or guardian), the Site Administrator and restricted personnel of Schoolwires and its contractors.</p><h4>Cookies and Web beacons; “do not track” signals</h4><p>A cookie is a piece of data stored on your computer tied to information about you. The only personal information a cookie can contain is information you supply. Schoolwires uses session or dynamic cookies to let us know when a user is signed in. Once you close your browser, the cookie simply terminates. We may use web beacons (single-pixel gifs) to count visitors.<br>  When you are signed in and depending on your assigned role(s), additional services become available through our menu system. Again, depending on your assigned role(s), cookies may offer the following benefits after Sign-In:</p><ul>  <li>A personalized salutation greeting</li>  <li>Content tailored to your role(s)</li>  <li>Use of services that require Sign-In</li>  <li>Session time-out, a security feature</li></ul><p>You can disable cookies in your browser's preferences. If you disable cookies in your browser, you may still use the Website but certain services and/or features may not function properly. For example, services that require Sign-In will not work if cookies are disabled.</p><p>If you enable or send a “do not track” signal or similar mechanism relating to the tracking of browsing activities, we do not have practices or protocols to honor or respond to such request.  However, we only collect the types of information otherwise described in the Privacy Policy.</p><p>Note that Schoolwires and/or your School may engage with third parties to enable certain functionality or usage analytics, and such third-parties may use cookies. For example, Google Analytics may be used to track visitor activity on the Website. The use of third-party cookies is not covered by this Privacy Policy because Schoolwires does not have access to or control of these cookies.</p><h4>Device information</h4><p>We may collect and store device-specific information (such as unique device identifiers) in order to facilitate the delivery of push notifications to mobile devices.  In this regard, we may associate your device identifier with your Schoolwires account. This device information may also be collected and stored by certain of our trusted contractors or service providers, subject to the applicable terms of this Privacy Policy related to the sharing of information with such trusted third parties.</p><h3>Interactive communications</h3><p>Registered users may collaborate and communicate through interactive means facilitated on the Website. As an example, if you are a student who is a registered user, you may utilize instant message chat features, e-mail features, posting on message boards and other features. In using these digital and social media features, you may disclose personal information of your choosing to other registered users. If you post content to the Website, we may maintain such content and publish your screen name and other similar information provided to us by you or your school in order to facilitate the intended operation and interaction of the digital and social media features.</p><h3>Communications from the site</h3><h4>Service announcements</h4><p>From time to time, it may be necessary for Schoolwires to send out a service-related announcement. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email. Users cannot opt-out of these communications though they can delete their account. (For more information, see the Modifications to Personal Information section.) These communications are not promotional in nature.</p><h4>Data retention</h4><p>When you or the Site Administrator deletes your account, the information contained in your user account is no longer available except to the extent it is backed-up as described below. We do not retain your data on behalf the School except as necessary to provide the service requested, comply with our legal obligations, resolve disputes and enforce our agreements, all in compliance with applicable laws. We also back-up information in accordance with industry standard practices and as directed by the School.</p><h4>E-Alerts</h4><p>The E-Alert feature is a Website feature available on certain platforms. There are two types of E-Alerts:</p><ol>  <li><span>Broadcast E-Alerts</span> are used by Site Administrators to send messages to a specific group or multiple groups of users (i.e., users assigned the same groups). As an example, the School may send voice and/or text messages to groups of users as determined by Site Administrators.</li>  <li><span>Content E-Alerts</span> are messages to users when certain changes are made to one or more homepages or sections to which they subscribe. Content editors decide whether to send an E-Alert to subscribers and the content within the message. Users can opt out of E-Alerts through options in their Account Settings.</li></ol><h4>System notifications</h4><p>The Website will notify Site Administrators by email or by electronic means when new users request access to the Website through self-registration. In addition, the Website will notify users by email or by electronic means when other users comment on their blog, when account changes are made to their account, and when other such activities occur on the Website.</p><h3>Customer service</h3><p>As necessary, Schoolwires may communicate with you through email, phone or online to provide requested services and in regards to account-related issues on behalf of the School.</p><h3>Sharing of information collected when hosting a school’s website</h3><h4>When required by law</h4><p>Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Website.</p><h4>Administrative privileges</h4><p>Users who have been assigned administrative privileges by the School have access to all registered user information strictly and solely on their Website. Contact the School for more information regarding who has been assigned these privileges and how this assigning process works.</p><h4>Business transitions</h4><p>In the event that Schoolwires goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, your personal information will, in most instances, be part of the assets transferred. You will be notified by a prominent notice on our corporate website prior to a change of ownership or control of your personal information. For more information, see the Schoolwires Privacy Policy Statement Changes section.</p><h4>Service providers</h4><p>From time to time, Schoolwires may retain trusted businesses and contractors to provide certain services which support our provision and hosting of the Website or otherwise support the operation of the associated online services. We may also contract with trusted third parties to provide complimentary products or services which may be integrated with, linked to (either via a website link or otherwise) or accessible from (such as through single sign on functionality), the Website.</p><p>Businesses and contractors who have access to personal information are required to protect this information in a manner that is consistent with this Privacy Policy, for example, by not using the information for any purpose other than to carry out the services they are performing for us or to facilitate access to an integrated service offering. We will not disclose your personal information to any third party to the extent prohibited by law.</p><h4>Compliance with laws</h4><p>Schoolwires will, of course, comply with the requirements of COPPA and FERPA to the extent that these laws apply to the information collected and maintained by Schoolwires. Accordingly, notwithstanding anything to the contrary in this Privacy Policy, we will not collect, use or disclose personal information covered by COPPA and FERPA except in compliance with the respective requirements of each of these statutes and their associated regulations. We will also comply with all other applicable laws which govern the information which it maintains.<br>  If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a> (see contact section below).</p><h3>Terms which apply to all personal information collected and processed by Schoolwires</h3><h4>Modifications to personal information</h4><p>There are three ways personal information can be modified:</p><ol>  <li>If your personal information changes, or if you no longer want a user account on the Website, you or (depending on the platform you are using) your Site Administrator may update or delete your personal information in your account.</li>  <li>Site Administrators can modify personal information. These Administrators only have access to their Website’s user information. For children under 13 years of age, the School is responsible for first validating receipt of verifiable parental consent.</li>  <li>If you have any other requests related to the modifications or deletion of your personal information, please contact the Site Administrator or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.  </li></ol><h4>Links</h4><p>The Website may contain links to other sites. Schoolwires is not responsible for the privacy practices of other such sites. This Privacy Policy applies solely to information that we collect.</p><h4>Surveys and feedback forms</h4><p>From time to time, Schoolwires may request information from you through surveys or feedback forms. Participation is voluntary. Information collected is used for the purposes of improving our product and services and understanding our audience. No personal information collected in this manner will be used or disclosed except in compliance with this Privacy Policy.</p><h4>Security</h4><p>Schoolwires takes security seriously and employs reasonable security measures and procedures designed to protect your information from unauthorized access and improper use. Only employees, trusted contractors supporting the operation of the Website, and other third party partners and contractors as generally described in this Privacy Policy have access to personal information. These individuals and entities shall be bound to protect the information appropriately.</p><p>Schoolwires servers that store personal information are maintained in a physical environment that utilizes industry-standard security measures. Personal information is stored in password-controlled servers with limited access. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).</p><p>Be aware though that, despite our diligent efforts and implementation of reasonable security measures, no security measures are perfect or impenetrable and no data transmissions over the Internet can be guaranteed to be 100% secure. If you have any questions about the security of the Website, please email us at <a href="mailto:security@schoolwires.com">security@schoolwires.com</a></p><p>If the School hosts your Website or hosts with a third-party, the School or the third-party is responsible for ensuring security. In addition, as noted above, the School has the ability to control the collection, use and dissemination of personal information maintained or processed through the Website. Contact the School for information regarding security provisions.</p><h4>Schoolwires Privacy Policy Statement changes</h4><p>If we change this Privacy Policy, we will post the revised Privacy Policy, with an updated effective date, to your School’s Website by way of a link to <a href="http://www.schoolwires.com/privacy">www.schoolwires.com/privacy</a>. In addition, we will notify the School so that supplemental notice can be provided by the School to Website visitors. When we believe material changes affecting users, including users under 13, years of age are made to this Privacy Policy in connection with your School Website, Schoolwires will notify your School and request that the School obtain verifiable parental consent to the extent required, and in accordance, with applicable law. We will also email you or post a prominent notice where required so that you are aware of the changes to our Privacy Policy. We encourage you to periodically review this Privacy Policy by visiting the School Website and clicking on the Privacy Policy link to stay informed about how we are collecting, using and sharing personal information. Except as otherwise required by law, all changes to this Privacy Policy will be effective when the updated Privacy Policy is posted to the and each user is bound by such changes when he or she uses the Website after such changes have been posted.</p><h4>Usage implies consent</h4><p>By using the Website, you consent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use Schoolwires services. Similarly, with respect to personal information which you provide voluntarily and we collect on behalf of the School (such as name, address and phone number in order to create an account), please do not submit such information if you do not want Schoolwires to collect and maintain it.</p><h4>Non-personal information</h4><p>In the event that any information Schoolwires collects is, or later becomes, public information that is not required at the time to be maintained as confidential under applicable laws, or to the extent that any information we collect is neither personal in nature nor otherwise required to be maintained as confidential under applicable laws, then Schoolwires shall have no responsibility hereunder in connection therewith. As an example, Schoolwires may aggregate certain information we maintain with information about other individuals in a manner that does not disclose personal information specific to any individual. As an additional example, Schoolwires may remove characteristics that make the individual personally identifiable, thereby de-personalizing the information. In either of these examples, Schoolwires shall be free to utilize the information in any way and, unless otherwise required by law, shall not be bound by the terms of this Privacy Policy. As always, Schoolwires will comply with all applicable laws and governing regulations in the collection, use and disclosure of information.</p><h4>Additional limitations</h4><p>Despite our best efforts, no security measures are perfect or impenetrable. In this regard, we are not responsible for events or conditions beyond our reasonable control to the extent that they relate to or impact the obligations assumed, or commitments made, hereunder. However, in the event of any data breach or other violation of this Privacy Policy caused by factors outside of our reasonable control, we will comply with all applicable laws in this regard, including those requiring notification in the event of certain defined data breaches.</p><h4>International users</h4><p>As Schoolwires is a U.S.-based company, your personal information will likely be collected and maintained in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may be different from U.S. law, then by using this Website, you consent to your personal information being collected, used and transferred as set forth in this Privacy Policy.</p><h4>Contact Information</h4><p>Schoolwires takes privacy issues very seriously. If you have any questions, suggestions or concerns regarding this Privacy Policy, please contact us at <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a></p><p>Schoolwires, Inc.<br>ATTN: Privacy Officer<br>330 Innovation Blvd. Suite 301<br>State College, PA 16803<br>Phone: 814.689.1046<br>Email: <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a><br>URL: <a href="http://www.schoolwires.com/privacy">www.schoolwires.com/privacy</a></p></span></div> 
+<div class="ui-article"><span><h2>Schoolwires Privacy Policy</h2>
+<h4>Effective on October 10, 2014</h4>
+<p>Schoolwires, Inc. (“Schoolwires”) is committed to protecting your privacy. This Privacy Policy was developed to give you a full understanding of terms and conditions relating to the handling of certain personal information which may be collected by Schoolwires.</p>
+<p>This Privacy Policy applies to personal information collected on websites, applications or other web-based environments (including mobile applications) provided and hosted by Schoolwires (“Solution”) for your school, school district or other organization (“School”).</p>
+<p>This Privacy Policy pertains only to the personal information that Schoolwires collects from you or that is provided to us by the School where we serve as the data processor on the School’s behalf. Personal information is information that identifies a particular individual, such as a person’s first and last name, postal address, e-mail address and phone number.</p>
+<p>Schoolwires, Inc. has received TRUSTe's Privacy and Children’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a>. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>.</p>
+<div id="8e2469b3-eeec-4dbb-8efb-77779643ed49">
+<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Schoolwires,-Inc-/asc?rid=8e2469b3-eeec-4dbb-8efb-77779643ed49"></script><a href="//privacy.truste.com/privacy-seal/Schoolwires,-Inc-/validation?rid=003aed5e-9fe0-4563-b75b-fa2fa2d47a9d" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Schoolwires,-Inc-/seal?rid=f1f9af09-1437-4537-a7b7-ca784e758f85" alt="Validate TRUSTe privacy certification"></a>&nbsp;<a href="//privacy.truste.com/privacy-seal/Schoolwires,-Inc-/validation?rid=003aed5e-9fe0-4563-b75b-fa2fa2d47a9d" title="TRUSTe Children privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Schoolwires,-Inc-/seal?rid=52e62ab1-fd2d-4b83-998a-ce6582a9e396" alt="TRUSTe Children privacy certification"></a></div>
+<p>The TRUSTe Cloud certification only applies to the Schoolwires Centricity2 platform and the TRUSTe Children’s program certification is limited to Schoolwires Nimbus and Schoolwires Centricity 2 platforms where Schoolwires serves as a service provider (data processor). Use of information by Schoolwires collected through our services shall be limited to the purpose of providing the service for which the School has engaged Schoolwires.</p>
+<p>In connection with the School’s Solution, this Privacy Policy applies only to the Schoolwires practices regarding personal information which is collected on the Solution that is processed and hosted by Schoolwires and NOT to sites hosted by the school or another third-party. Schoolwires has been retained by the School to provide and host the Solution on which the School has added customized content. The School administers and oversees the Solution and, accordingly, has control over who can register for use of various features of the Solution and who can access the personal information posted or maintained on the Solution. The School can also add content and information directly onto the Solution. The School may have its own policies addressing collection, use and sharing of personal information. For information about whether this Privacy Policy applies to you and about the School's own policy, please contact the School.</p>
+<h2>Information we collect when hosting a School’s Solution</h2>
+<p>You may visit certain Solutions as a guest without registering. Registration, however, will give you access to certain features as well as the ability to personalize certain features. An individual who seeks access to a Solution, or who seeks to correct, amend, or delete inaccurate data, should direct any query to the School. If the School requests Schoolwires to remove the data, we will respond to the request within 30 days.<br>
+Before a child under 13 may access features that require registration, the School must first obtain any necessary parental consent. After all necessary consent is received by the School, the School is responsible for providing parent access to the child's profile so the parent may, at any time, review, request modifications to, or request deletion of the child's personal information. A parent also has the right to refuse to further collection of the child's information, subject to the School’s policies and procedures in this regard. If you have questions regarding registration, please contact the School.</p>
+<p>Schoolwires collects and subsequently processes personal information in two ways:</p>
+<ol start="1" type="1">
+<li>Self-Registration. If you choose to become a registered user, on behalf of the School, we will ask for personal information from you through the Solution. After we collect this information from you, it may be verified by the School. So that the registration process is compliant with federal law under the Children's Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored. Children under 13 years of age are not allowed to register themselves with the Solution. Since we are collecting personal information from students for the use and benefit of the School, all information collected by Schoolwires is verified for compliance with applicable laws (such as COPPA) by the School directly and not by Schoolwires. If you feel your child under 13 years of age has registered on this Solution without your permission, please contact the School      directly.</li>
+<li>Pre-Registration. You may be pre-registered by the School in one of two ways. Either way, the School may not share personal information for children under 13 years of age with Schoolwires without first receiving the necessary parental consent as described above. The two means of pre-registration are:</li>
+<ul type="circle">
+<li>Your School may share registration information with Schoolwires, either manually or via an authorized third-party system feed. Schoolwires would conduct an import of this registration information.</li>
+<li>A school-designated individual may input registration information for you.</li>
+</ul>
+</ol>
+<p>Regardless of the way you are registered, various types of information are collected during registration. Some information is required, such as First and Last Name, Email Address, User Name and Password. These fields are labeled to indicate that they are required. Other information is optional such as Title, Address, City, State, ZIP Code, and Phone. Your School may elect to provide certain optional information on your behalf in order to use certain features and functions of the Solution. By way of example, the School may provide Schoolwires with your mobile phone number in order to be able to send certain text and/or voice messages to you.</p>
+<p>After registration, the Site Administrator for the school may decide to assign to you a role(s) or group(s). Based upon your designated role(s) or group(s), you may have access to additional information or services. If you have questions concerning your role(s) or group(s), please contact the School.</p>
+<p>Information collected for self-registration or pre-registration may also be used to (1) provide School-related notifications and other information, (2) provide you with important information about the Solution, such as updates or notices, (3) improve our product and services, (4) improve customer service, (5) create a profile for you, and/or (6) in aggregate, guide our marketing efforts. No personal information will be shared with third parties except to the extent expressly described in this Privacy Policy and otherwise in accordance with applicable law.</p>
+<h3>Additional information which you provide to us on behalf of Schools</h3>
+<p>Additional information may be provided to us in other situations, for example, in connection with a customer support request or a content submission request. The goal of collecting this additional information is to serve you more effectively and efficiently.</p>
+<p>In addition, students, members of the School, and other users of the Solution may choose to post, download or upload various pieces of content and/or information on or through the use of the Solution, and may use certain “social media”, collaboration, interaction and other capabilities of the Solution to exchange various categories of data, materials and information. While we cannot know in advance all types of such information, one example is that teachers or administrators may post blogs, announcements and other information and content directly onto the Solution. Another example is that students may chat with each other, or send instant messages or e-mail, via technology which may now or in the future be made available over the Solution and may share information, photographs, images or recordings with each other or with the community. Information such as an individual’s name and e-mail address can also be exchanged or made available in messages, chats and other social media and collaborative communications facilitated over the Solution. Schoolwires has no practical ability to restrict the information, conduct, communications, or content which might be posted on or exchanged through the use of its technology, nor can Schoolwires ensure prompt removal of any such communications, information or content after transmission or posting. If you or your child provide personal information when using any social interaction, collaboration or messaging capabilities or features of the Solution (such as chat rooms, blogs, message boards, profile pages, etc.), that personal information may be copied, publicly posted and otherwise disclosed without limitation as to its use by third parties. There may be monitoring or filtering tools utilized by the Solution which track or log content or information downloaded or posted to the Solution. If you are concerned about any information or content that may be posted, transmitted or accessed on the Solution, please contact the School. In connection with the use of PassKey Manager™ or similar solution, you or the School may provide us with your or your child’s login credentials for certain software applications and web services in order to facilitate single sign-on access to these applications and services. These login credentials may include the username, password and any other required information which you selected or were supplied in order to access certain applications and web services.</p>
+<p>On behalf of the School, we may also (now or in the future) maintain and/or present academic and other similar information regarding students via technology or software provided by Schoolwires or by third parties who have authorized Schoolwires to distribute and/or present this information. We do not at any time collect any personal information through these technologies or software.</p>
+<p>As noted below, we may also ask you to provide us with voluntary survey information to help us improve our products and services.</p>
+<h3>Information from the School</h3>
+<p>The School administers and oversees the Solution which presents and archives information supplied by content contributors designated by the School. Schoolwires does not supply the school-specific content appearing on the Solution. Once content is posted to the Solution by content contributors at the school, it is public information available on the Internet. If content is posted by content contributors to groups or pages with restricted viewing permissions, that content is only displayed to users authorized to see that content.</p>
+<p>In addition to supplying the content for its Solution, the School can control which individuals can be registered to use certain Solution features and which individuals or groups are granted privileges to access, view or use personal information collected, exchanged or maintained on the Solution. The Site Administrator can also access your personal information, and grant rights of access to others, as it deems appropriate. The School may also provide Schoolwires with the registration information and login credentials described above, as well as with other information about you which it deems appropriate. Please contact the School regarding its policies and/or practices in this regard.</p>
+<h3>Information collected through technology</h3>
+<p>As noted below, we may also collect cookies, device information and web beacons in the course of your use of our technology.</p>
+<h2>Privacy of children; Privacy of students</h2>
+<p>Schoolwires is dedicated to the privacy of children under 13 years of age. We do not process, collect, or entice (by use of contests, games, prizes, or other enticements) from children more personal information than is needed to access services. The School is responsible for obtaining all parental consent necessary for Schoolwires’ collection of personal information from children under 13. Schoolwires presumes that such consent has been obtained by the School by virtue of the School having retained Schoolwires to provide the Solution and related services. Schoolwires will not share any personal information about children with any third parties other than as specified in this Privacy Policy.</p>
+<p>As a parent or legal guardian for children under 13, you may review your child's personal information. After your child's parental consent is submitted, an individual at the School will supply you with your child's Sign-In and Password so that you may access and review the types of personal information collected from your child. If you would like to refuse to allow any further collection or use of your child's information (or only wish to consent to the collection and use of your child’s personal information without consenting to the disclosure of that information to third parties), please contact the School or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.</p>
+<p>Schoolwires is dedicated to maintaining the privacy of all students, whether under 13 or older, in accordance with applicable laws. In this regard, we will maintain any and all personal information in education records which come into the possession of Schoolwires in accordance with the requirements of the Family Educational Rights and Privacy Act (“FERPA”), and will not disclose such information to third parties except with the consent of a parent, the School or an eligible student (as applicable), unless otherwise permitted under FERPA and its associated regulations. One instance in which personal information in education records may be disclosed to third parties under FERPA is if the information is classified as “directory information” by your educational institution. Please check with the School if you have any questions as to which information they have classified in this manner.</p>
+<h2>How we use information collected when hosting the School’s Solution</h2>
+<h3>User account</h3>
+<p>Schoolwires does not associate information that we collect through log files or third parties with your user account. The information is provided voluntarily by you or the School during registration. A user account is stored information that gives you access to certain features as well as the ability to personalize certain features. Your user account can only be accessed and used by you (including, where applicable, your parent or guardian), the Site Administrator and restricted personnel of Schoolwires and its contractors.</p>
+<h3>Cookies and Web beacons; “do not track” signals</h3>
+<p>A cookie is a piece of data stored on your computer tied to information about you. The only personal information a cookie can contain is information you supply. Schoolwires uses session or dynamic cookies, e-tags, and scripts to let us know when a user is signed in. Once you close your browser, the cookie simply terminates. We may use web beacons (single-pixel gifs) to count visitors.</p>
+<p>When you are signed in and depending on your assigned role(s), additional services become available through our menu system. Again, depending on your assigned role(s), cookies may offer the following benefits after Sign-In:</p>
+<ul type="disc">
+<li>A personalized salutation greeting</li>
+<li>Content tailored to your role(s)</li>
+<li>Use of services that require Sign-In</li>
+<li>Session time-out, a security feature</li>
+</ul>
+<p>You can disable cookies in your browser's preferences. If you disable cookies in your browser, you may still use the Solution but certain services and/or features may not function properly. For example, services that require Sign-In will not work if cookies are disabled.</p>
+<p>If you enable or send a “do not track” signal or similar mechanism relating to the tracking of browsing activities, we do not have practices or protocols to honor or respond to such request. However, we only collect the types of information otherwise described in the Privacy Policy.</p>
+<p>Note that Schoolwires and/or your School may engage with third parties to enable certain functionality or usage analytics, and such third-parties may use cookies, e-tags, beacons and scripts. For example, Google Analytics may be used to track visitor activity on the Solution. The use of third-party cookies is not covered by this Privacy Policy because Schoolwires does not have access to or control of these cookies.</p>
+<p>As true of most Web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.</p>
+<h3>Device information</h3>
+<p>We may collect and store device-specific information (such as unique device identifiers) in order to facilitate the delivery of push notifications to mobile devices. In this regard, we may associate your device identifier with your Schoolwires account. This device information may also be collected and stored by certain of our trusted contractors or service providers, subject to the applicable terms of this Privacy Policy related to the sharing of information with such trusted third parties.</p>
+<h3>Interactive communications</h3>
+<p>Registered users may collaborate and communicate through interactive means facilitated on the Solution. As an example, if you are a student who is a registered user, you may utilize instant message chat features, e-mail features, posting on message boards and other features. In using these digital and social media features, you may disclose personal information of your choosing to other registered users. If you post content to the Solution, we may maintain such content and publish your screen name and other similar information provided to us by you or your school in order to facilitate the intended operation and interaction of the digital and social media features.</p>
+<h2>Communications from the site</h2>
+<h3>Service announcements</h3>
+<p>From time to time, it may be necessary for Schoolwires to send out a service-related announcement. For instance, if our service is temporarily suspended for maintenance, we might send you a notification email. Users cannot opt-out of these communications though they can delete their account. (For more information, see the Modifications to Personal Information section.) These communications are not promotional in nature.</p>
+<h3>Data retention</h3>
+<p>When you or the Site Administrator deletes your account, the information contained in your user account is no longer available except to the extent it is backed-up as described below. We do not retain your data on behalf the School except as necessary to provide the service requested, comply with our legal obligations, resolve disputes and enforce our agreements, all in compliance with applicable laws. We also back-up information in accordance with industry standard practices and as directed by the School.</p>
+<h3>E-Alerts</h3>
+<p>The E-Alert feature is a Solution feature available on certain platforms. There are two types of E-Alerts:</p>
+<ol start="1" type="1">
+<li>Broadcast E-Alerts are used by Site Administrators to send messages to a specific group or multiple groups of users (i.e., users assigned the same groups). As an example, the School may send voice and/or text messages to groups of users as determined by Site Administrators.</li>
+<li>Content E-Alerts are messages to users when certain changes are made to one or more homepages or sections to which they subscribe. Content editors decide whether to send an E-Alert to subscribers and the content within the message. Users can opt out of E-Alerts through options in their Account Settings.</li>
+</ol>
+<h3>System notifications</h3>
+<p>The Solution will notify Site Administrators by email or by electronic means when new users request access to the Solution through self-registration. In addition, the Solution will notify users by email or by electronic means when other users comment on their blog, when account changes are made to their account, and when other such activities occur on the Solution.</p>
+<h2>Customer service</h2>
+<p>As necessary, Schoolwires may communicate with you through email, phone or online to provide requested services and in regards to account-related issues on behalf of the School.</p>
+<h2>Sharing of information collected when hosting a School’s Solution</h2>
+<h3>When required by law</h3>
+<p>Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Solution.</p>
+<h3>Administrative privileges</h3>
+<p>Users who have been assigned administrative privileges by the School have access to all registered user information strictly and solely on their Solution. Contact the School for more information regarding who has been assigned these privileges and how this assigning process works.</p>
+<h3>Business transitions</h3>
+<p>In the event that Schoolwires goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, your personal information will, in most instances, be part of the assets transferred. You will be notified by a prominent notice on our corporate Solution prior to a change of ownership or control of your personal information. For more information, see the Schoolwires Privacy Policy Statement Changes section.</p>
+<h3>Service providers</h3>
+<p>From time to time, Schoolwires may retain trusted businesses and contractors to provide certain services which support our provision and hosting of the Solution or otherwise support the operation of the associated online services. We may also contract with trusted third parties to provide complimentary products or services which may be integrated with, linked to (either via a website link or otherwise) or accessible from (such as through single sign on functionality), the Solution.</p>
+<p>Businesses and contractors who have access to personal information are required to protect this information in a manner that is consistent with this Privacy Policy, for example, by not using the information for any purpose other than to carry out the services they are performing for us or to facilitate access to an integrated service offering. We will not disclose your personal information to any third party to the extent prohibited by law.</p>
+<h3>Compliance with laws</h3>
+<p>Schoolwires will, of course, comply with the requirements of COPPA and FERPA to the extent that these laws apply to the information collected and maintained by Schoolwires. Accordingly, notwithstanding anything to the contrary in this Privacy Policy, we will not collect, use or disclose personal information covered by COPPA and FERPA except in compliance with the respective requirements of each of these statutes and their associated regulations. We will also comply with all other applicable laws which govern the information which it maintains.</p>
+<p>If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a> (see contact section below).</p>
+<h2>Terms which apply to all personal information collected and processed by Schoolwires</h2>
+<h3>Modifications to personal information</h3>
+<p>There are three ways personal information can be modified:</p>
+<ol start="1" type="1">
+<li>If your personal      information changes, or if you no longer want a user account on the Solution,      you or (depending on the platform you are using) your Site Administrator      may update or delete your personal information in your account.</li>
+<li>Site      Administrators can modify personal information. These Administrators only      have access to their Solution’s user information. For children under 13      years of age, the School is responsible for first validating receipt of      verifiable parental consent.</li>
+<li>If you have any      other requests related to the modifications or deletion of your personal      information, please contact the Site Administrator or Schoolwires. If the      request is made to Schoolwires, we will look to the School to validate the      request and respond accordingly. </li>
+</ol>
+<h3>Links</h3>
+<p>The Solution may contain links to other sites. Schoolwires is not responsible for the privacy practices of other such sites. This Privacy Policy applies solely to information that we collect.</p>
+<h3>Surveys and feedback forms</h3>
+<p>From time to time, Schoolwires may request information from you through surveys or feedback forms. Participation is voluntary. Information collected is used for the purposes of improving our product and services and understanding our audience. No personal information collected in this manner will be used or disclosed except in compliance with this Privacy Policy.</p>
+<h3>Security</h3>
+<p>Schoolwires takes security seriously and employs reasonable security measures and procedures designed to protect your information from unauthorized access and improper use. Only employees, trusted contractors supporting the operation of the Solution, and other third party partners and contractors as generally described in this Privacy Policy have access to personal information. These individuals and entities shall be bound to protect the information appropriately.</p>
+<p>Schoolwires servers that store personal information are maintained in a physical environment that utilizes industry-standard security measures. Personal information is stored in password-controlled servers with limited access. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
+<p>Be aware though that, despite our diligent efforts and implementation of reasonable security measures, no security measures are perfect or impenetrable and no data transmissions over the Internet can be guaranteed to be 100% secure. If you have any questions about the security of the Solution, please email us at <a href="mailto:security@schoolwires.com">security@schoolwires.com</a></p>
+<p>If the School hosts your Solution or hosts with a third-party, the School or the third-party is responsible for ensuring security. In addition, as noted above, the School has the ability to control the collection, use and dissemination of personal information maintained or processed through the Solution. Contact the School for information regarding security provisions.</p>
+<h3>Schoolwires Privacy Policy Statement changes</h3>
+<p>If we change this Privacy Policy, we will post the revised Privacy Policy, with an updated effective date, to the Solution by way of a link to <a href="http://www.schoolwires.com/privacy">www.schoolwires.com/privacy</a>. In addition, we will notify the School so that supplemental notice can be provided by the School to Solution visitors. When we believe material changes affecting users, including users under 13, years of age are made to this Privacy Policy, Schoolwires will notify your School and request that the School obtain verifiable parental consent to the extent required, and in accordance, with applicable law. We will also email you or post a prominent notice where required so that you are aware of the changes to our Privacy Policy. We encourage you to periodically review this Privacy Policy by visiting the Solution and clicking on the Privacy Policy link to stay informed about how we are collecting, using and sharing personal information. Except as otherwise required by law, all changes to this Privacy Policy will be effective when the updated Privacy Policy is posted to the and each user is bound by such changes when he or she uses the Solution after such changes have been posted.</p>
+<h3>Usage implies consent</h3>
+<p>By using the Solution, you consent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use Schoolwires services. Similarly, with respect to personal information which you provide voluntarily and we collect on behalf of the School (such as name, address and phone number in order to create an account), please do not submit such information if you do not want Schoolwires to collect and maintain it.</p>
+<h3>Non-personal information</h3>
+<p>In the event that any information Schoolwires collects is, or later becomes, public information that is not required at the time to be maintained as confidential under applicable laws, or to the extent that any information we collect is neither personal in nature nor otherwise required to be maintained as confidential under applicable laws, then Schoolwires shall have no responsibility hereunder in connection therewith. As an example, Schoolwires may aggregate certain information we maintain with information about other individuals in a manner that does not disclose personal information specific to any individual. As an additional example, Schoolwires may remove characteristics that make the individual personally identifiable, thereby de-personalizing the information. In either of these examples, Schoolwires shall be free to utilize the information in any way and, unless otherwise required by law, shall not be bound by the terms of this Privacy Policy. As always, Schoolwires will comply with all applicable laws and governing regulations in the collection, use and disclosure of information.</p>
+<h3>Additional limitations</h3>
+<p>Despite our best efforts, no security measures are perfect or impenetrable. In this regard, we are not responsible for events or conditions beyond our reasonable control to the extent that they relate to or impact the obligations assumed, or commitments made, hereunder. However, in the event of any data breach or other violation of this Privacy Policy caused by factors outside of our reasonable control, we will comply with all applicable laws in this regard, including those requiring notification in the event of certain defined data breaches.</p>
+<h3>International users</h3>
+<p>As Schoolwires is a U.S.-based company, your personal information will likely be collected and maintained in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may be different from U.S. law, then by using this Solution, you consent to your personal information being collected, used and transferred as set forth in this Privacy Policy.</p>
+<h3>Contact Information</h3>
+<p>Schoolwires takes privacy issues very seriously. If you have any questions, suggestions or concerns regarding this Privacy Policy, please contact us at <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a></p>
+<p>Schoolwires, Inc.<br>
+ATTN: Privacy Officer<br>
+330 Innovation Blvd. Suite 301<br>
+State College, PA 16803<br>
+Phone: 814.689.1046<br>
+Email: <a href="mailto:privacy@schoolwires.com">privacy@schoolwires.com</a><br>
+URL: <a href="http://www.schoolwires.com/privacy">www.schoolwires.com/privacy</a></p>
+</span></div> 
 <div class="clear"></div>
 </div>
 	<div class="ui-widget-footer">
@@ -4322,6 +4939,8 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 						<a href="https://twitter.com/Schoolwires" class="gb-social-icon twitter icon-font invisible hidden">t</a>
 						<a href="http://www.linkedin.com/company/schoolwires" class="gb-social-icon linkedin icon-font invisible hidden">l</a>
 						<a href="https://vimeo.com/channels/schoolwires" class="gb-social-icon vimeo icon-font invisible hidden">v</a>
+						<a href="https://plus.google.com/100258580107951384251/posts" class="gb-social-icon google-plus icon-font invisible hidden">g</a>
+						<a href="http://www.pinterest.com/SchoolwiresInc/" class="gb-social-icon pinterest icon-font invisible hidden">i</a>
 						<a href="http://www.example.com" class="gb-social-icon rss icon-font invisible last hidden">r</a>
 					</div>
 					<p><strong>Schoolwires, Inc</strong>., 330 Innovation Blvd., Suite 301, State College, PA 16803. <a href="http://goo.gl/maps/rmCDY">Map</a></p>
@@ -4350,13 +4969,13 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 				<div class="gb-footer-bottom bottom">
 					<div id="gb-footer-schoolwires-info" class="ui-clear">
 						<div class="gb-footer-schoolwires-info left">
-							<div id="gb-footer-erate" class="ui-clear">
+							<!--<div id="gb-footer-erate" class="ui-clear">
 								<span id="eligible">E-RATE ELIGIBLE</span><span id="hosting">Web Hosting: SPIN 143027372</span>
 							</div>
 							<div id="gb-footer-funding">
 								<h1>FIND FUNDING</h1>
-								<p>Explore funding options for Schoolwires products, programs and services. <a href="http://offers.schoolwires.com/funding">Learn more</a></p>
-							</div>
+								<p>Explore funding options for Schoolwires products, programs and services. <a href='http://offers.schoolwires.com/funding'>Learn more</a></p>
+							</div>-->
 							
 						</div>
 					</div>
@@ -4392,19 +5011,20 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <a href="/domain/73">
 <span>Solutions</span></a>
 <ul class="sw-channel-dropdown">
-<li class=""><a href="/domain/73"><span>Centricity2 Web hosting service</span></a></li>
+<li class=""><a href="/domain/73"><span>Centricity2 – website &amp; community management system</span></a></li>
 <li class=""><a href="/domain/74"><span>Mobile apps &amp; responsive design</span></a></li>
-<li class=""><a href="/domain/75"><span>Nimbus social &amp; collaborative learning</span></a></li>
-<li class=""><a href="/domain/76"><span>Synergy file sharing system</span></a></li>
-<li class=""><a href="/domain/77"><span>Assist service request system</span></a></li>
-<li class=""><a href="/domain/78"><span>Greenleaf virtual exchange program</span></a></li>
+<li class=""><a href="/domain/98"><span>Outreach – family notification suite</span></a></li>
+<li class=""><a href="/domain/75"><span>Nimbus – social &amp; collaborative learning</span></a></li>
+<li class=""><a href="/domain/76"><span>Synergy – file sharing system</span></a></li>
+<li class=""><a href="/domain/77"><span>Assist – service request system</span></a></li>
+<li class=""><a href="/domain/78"><span>Greenleaf – virtual exchange program</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
 <a href="/domain/83">
 <span>Service &amp; support</span></a>
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/83"><span>Service &amp; support</span></a></li>
-<li class=""><a href="/domain/86"><span>Gallery of client sites</span></a></li>
+<li class=""><a href="/domain/86"><span>Client sites showcase</span></a></li>
 <li class=""><a href="/domain/87"><span>Web design templates</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
@@ -4422,7 +5042,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/79"><span>About us</span></a></li>
 <li class=""><a href="/domain/97"><span>Partners</span></a></li>
-<li class=""><a href="/domain/91"><span>Careers</span></a></li>
+<li class=""><a href="http://www.blackboard.com/about-us/careers/open-positions/professional-opportunities.aspx"><span>Careers</span></a></li>
 </ul>
 </li><li class="sw-channel-item active">
 <a href="/domain/89">
@@ -4508,13 +5128,13 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <div id="sw-footer-links">
 <ul>
 <li><a title="Click to email the primary contact" href="mailto:rob.madgwick@schoolwires.com">Questions or Feedback?</a> | </li>
-<li><a href="http://www.schoolwires.com/privacy" target="_blank">Schoolwires Privacy Policy (Updated)</a> | </li>
+<li><a href="http://www.schoolwires.com/privacy" target="_blank">Blackboard Schoolwires Privacy Policy (Updated)</a> | </li>
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2014 Schoolwires, Inc. All rights reserved.</div>
-<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.schoolwires.com/Static/V2_07_01//GlobalAssets/Images/sw-footer-logo.png">
+<div id="sw-footer-copyright">Copyright © 2002-2015 Blackboard, Inc. All rights reserved.</div>
+<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires.">
+<img src="http://www.schoolwires.com/Static/V2_12_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires logo">
 </a></div>
 </div>
 </div>
@@ -4522,7 +5142,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- END - STANDARD FOOTER -->
 <script type="text/javascript">
    $(document).ready(function(){
-      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=2EM%2fSZhibJKOHi%2f0bFfXYQ%3d%3d&SessionID=75d79c88-6bd7-42ec-9c51-3da76223bb3c&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=6%2f26%2f2014+4%3a33%3a58+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=207.241.237.221';
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=70a5f261-8abc-469e-8675-bf46b7eb6495&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=12%2f26%2f2015+2%3a37%3a42+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=207.241.237.211';
       try {
          $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
       } catch(err) { 
@@ -4530,11 +5150,11 @@ function LoadTaggedData(container, MIID, PMI, tag) {
       }
    });
 </script>
-  
-    <input type="hidden" id="hid-pageid" value="345">  
- 
+
+    <input type="hidden" id="hid-pageid" value="345">
 
 
+    
 
 <div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
 
@@ -4601,7 +5221,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     });
 </script>
 
-<div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
+    <div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -4632,84 +5252,85 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
 
     <script type="text/javascript">
+
 		$(document).ready(function() {
-			removeBrokenImages();
-			checkSidebar();
-			RemoveCookie();
-			
+            removeBrokenImages();
+            checkSidebar();
+            RemoveCookie();
+
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).find('ul').length == 0) {
-			        $(this).removeClass('collapsible');
-			    } 
-			});
-			
-			// find page nav state cookie and add open chevron
-			var arrValues = GetCookie('SWPageNavState').split('~');
+                if ($(this).find('ul').length == 0) {
+                    $(this).removeClass('collapsible');
+                }
+            });
+
+            // find page nav state cookie and add open chevron
+            var arrValues = GetCookie('SWPageNavState').split('~');
 
 			$.each(arrValues, function() {
-				if (this != '') {
-					$('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
-				}
-			});
+                if (this != '') {
+                    $('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                }
+            });
 
-			// find remaining sub menus and add closed chevron and close menu
+            // find remaining sub menus and add closed chevron and close menu
 			$('.navigation li > ul').each(function() {
-			    var list = $(this);
-			    
-			    if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
-			        // open sub for currently selected page                    
-			        list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
-			    } else {
-			        if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
-			            // open sub for page with auto expand
-			            list.siblings('div.expandable').remove();
-			            list.parent().prepend("<div class='bullet collapsible' />");
-			        }
-			    }
+                var list = $(this);
 
-				if (!list.siblings('div').hasClass('collapsible')) {
-				    // keep all closed that aren't already set to open
-					list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
-					ClosePageSubMenu(list.parent());
-				} else {
-					OpenPageSubMenu(list.parent());
-				}
-			});
-			
-			// remove bullet from hierarchy if no-bullet set
+                if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
+                    // open sub for currently selected page                    
+                    list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                } else {
+                    if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
+                        // open sub for page with auto expand
+                        list.siblings('div.expandable').remove();
+                        list.parent().prepend("<div class='bullet collapsible' />");
+                    }
+                }
+
+                if (!list.siblings('div').hasClass('collapsible')) {
+                    // keep all closed that aren't already set to open
+                    list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
+                    ClosePageSubMenu(list.parent());
+                } else {
+                    OpenPageSubMenu(list.parent());
+                }
+            });
+
+            // remove bullet from hierarchy if no-bullet set
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('collapsible');}
-			        $(this).children('div.collapsible').remove();
-			    }
-			});
+                    $(this).children('div.collapsible').remove();
+                }
+            });
 
 			$('.navigation li.expandable').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('expandable');}
-			        $(this).children('div.expandable').remove();
-			    }
-			});
-			
+                    $(this).children('div.expandable').remove();
+                }
+            });
+
 			$('.navigation li:not(.collapsible,.expandable,.no-bullet)').each(function() {
-			    $(this).prepend("<div class='bullet' />");
-			});
-		
+                $(this).prepend("<div class='bullet' />");
+            });
+
 			$('.navigation li.active').parents('ul').each(function() {
                 if (!$(this).hasClass('page-navigation')) {
                     OpenPageSubMenu($(this).parent());
                 }
             });
-		
-			// set click event for chevron
+
+            // set click event for chevron
             $(document).on('click', '.navigation div.collapsible', function() {
-				ClosePageSubMenu($(this).parent());
-			});
+                ClosePageSubMenu($(this).parent());
+            });
 
             $(document).on('click', '.navigation div.expandable', function() {
-				OpenPageSubMenu($(this).parent());
+                OpenPageSubMenu($(this).parent());
             });
-            
+
             // set navigation grouping links
             $(document).on('click', '.navigationgroup.collapsible > a', function() {
                 ClosePageSubMenu($(this).parent());
@@ -4717,261 +5338,271 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
             $(document).on('click', '.navigationgroup.expandable > a', function() {
                 OpenPageSubMenu($(this).parent());
-            });				
-			
-			//SW MYSTART DROPDOWNS
-            $(document).on('click', '.sw-mystart-dropdown', function() {
-			    $(this).children(".sw-dropdown").css("display","block");
-			});
-
-		    $(".sw-mystart-dropdown").hover(function() {}, function() {
-				$(this).children(".sw-dropdown").hide();
             });
 
-		    //SW ACCOUNT DROPDOWN
-            $(document).on('click', '#sw-mystart-account', function() {
-				$(this).children("#sw-myaccount-list").show();
-				$(this).addClass("clicked-state");
+            //SW MYSTART DROPDOWNS
+            $(document).on('click', '.sw-mystart-dropdown', function() {
+                $(this).children(".sw-dropdown").css("display", "block");
+            });
+
+		    $(".sw-mystart-dropdown").hover(function() {}, function() {
+                $(this).children(".sw-dropdown").hide();
+                $(this).blur();
+            });
+
+            //SW ACCOUNT DROPDOWN
+		    $(document).on('click', '#sw-mystart-account', function() {
+                $(this).children("#sw-myaccount-list").show();
+                $(this).addClass("clicked-state");
             });
 
 			$("#sw-mystart-account, #sw-myaccount-list").hover(function() {}, function() {
-				$(this).children("#sw-myaccount-list").hide();
-				$(this).removeClass("clicked-state");
-			});
-			   
-		   // set hover class for page and section navigation
-		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
-		        $(this).addClass('hover');
-		   }, function() {
-		        $(this).removeClass('hover');
-		   });
-
-		}); // end document ready
-		
-		function OpenPageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('expandable').addClass('collapsible');
-			    li.find('div:first').removeClass('expandable').addClass('collapsible');	
-			    li.find('ul:first').show();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function ClosePageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('collapsible').addClass('expandable');
-			    li.find('div:first').removeClass('collapsible').addClass('expandable');	 
-			    li.find('ul:first').hide();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function PageNavigationStateCookie() {
-		    var strCookie = "";
-
-			$('.pagenavigation li > ul').each(function() {
-			    var item = $(this).parent('li');
-				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
-					strCookie += $(this).parent().attr('id') + '~';
-				}
+                $(this).children("#sw-myaccount-list").hide();
+                $(this).removeClass("clicked-state");
+                $("#sw-myaccount").blur();
             });
 
-			SetCookie('SWPageNavState', strCookie);
-		}
-		
+            // set hover class for page and section navigation
+		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
+                $(this).addClass('hover');
+		   }, function() {
+                $(this).removeClass('hover');
+            });
+
+        }); // end document ready
+
+        function OpenPageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                if (li.hasClass('expandable')) {
+                    li.removeClass('expandable').addClass('collapsible');
+                }
+                if (li.find('div:first').hasClass('expandable')) {
+                    li.find('div:first').removeClass('expandable').addClass('collapsible');
+                }
+                li.find('ul:first').show();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function ClosePageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                li.removeClass('collapsible').addClass('expandable');
+                li.find('div:first').removeClass('collapsible').addClass('expandable');
+                li.find('ul:first').hide();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function PageNavigationStateCookie() {
+            var strCookie = "";
+
+			$('.pagenavigation li > ul').each(function() {
+                var item = $(this).parent('li');
+				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
+                    strCookie += $(this).parent().attr('id') + '~';
+                }
+            });
+
+            SetCookie('SWPageNavState', strCookie);
+        }
+
 		function checkSidebar(){
 		   $(".ui-widget-sidebar").each(function() {
 			   if($.trim($(this).html()) != ""){
-				   $(this).show();
-				   $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
-			   } 
-		   });
+                    $(this).show();
+                    $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
+                }
+            });
         }
 
 		function removeBrokenImages(){
-		   //REMOVES ANY BROKEN IMAGES
+            //REMOVES ANY BROKEN IMAGES
 		    $("span.img img").each(function() {
-		        if ($(this).attr("src") !== undefined) {
-		            $(this).parent().parent().show();
-		            $(this).parent().parent().siblings().addClass("has-thumb");
-		        } 
-		    });
-		}
+                if ($(this).attr("src") !== undefined) {
+                    $(this).parent().parent().show();
+                    $(this).parent().parent().siblings().addClass("has-thumb");
+                }
+            });
+        }
 
-		function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
-		    (userRegID === undefined ? userRegID = 0 : '');
-		    (isEdit === undefined ? isEdit = false : '');
-		    OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.schoolwires.com//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
-		}
+        function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
+            (userRegID === undefined ? userRegID = 0 : '');
+            (isEdit === undefined ? isEdit = false : '');
+            OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.schoolwires.com//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
+        }
 
-		function RemoveCookie() {
-		    // There are no sub page            
-		    if ($('.pagenavigation li li').length == 0) {
-		        //return false;
-		        PageNavigationStateCookie();
-		    }
-		}
-	</script>
-	
-	<script type="text/javascript">
+        function RemoveCookie() {
+            // There are no sub page            
+            if ($('.pagenavigation li li').length == 0) {
+                //return false;
+                PageNavigationStateCookie();
+            }
+        }
+    </script>
 
-	    function AddOffCanvasMenuHeightForSiteNav() {
-	        var sitenavulHeight = 0;
+    <script type="text/javascript">
 
-	        if ($('#sw-pg-sitenav-ul').length > 0) {
-	            sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSiteNav() {
+            var sitenavulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-sitenav-ul').length > 0) {
+                sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (sitenavulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(sitenavulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
 
-	    function AddOffCanvasMenuHeightForSelectSchool() {
-	        var selectschoolulHeight = 0;
+            // 360px is abount 5 li height
+            if (sitenavulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(sitenavulHeight + 360);
+            }
+        }
 
-	        if ($('#sw-pg-selectschool-ul').length > 0) {
-	            selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSelectSchool() {
+            var selectschoolulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-selectschool-ul').length > 0) {
+                selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(selectschoolulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
+
+            // 360px is abount 5 li height
+            if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(selectschoolulHeight + 360);
+            }
+        }
 
 	    $(document).ready(function() {
-	        if ($("#sw-pg-sitenav-a").length > 0) {
+            if ($("#sw-pg-sitenav-a").length > 0) {
                 $(document).on('click', '#sw-pg-sitenav-a', function() {
-	                if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-selectschool-a', function() {
-	                if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSelectSchool();
+                    if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSelectSchool();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-myaccount-a', function() {
-	                if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                    if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '.pg-list-bullet', function() {
-	                $(this).prev().toggle();
+                    $(this).prev().toggle();
 
-	                if ($(this).hasClass('closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($(this).hasClass('closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $(this).removeClass('closed');
-	                    $(this).addClass('open');
-	                } else {
-	                    $(this).removeClass('open');
-	                    $(this).addClass('closed');
-	                }
-	            });
+                        $(this).removeClass('closed');
+                        $(this).addClass('open');
+                    } else {
+                        $(this).removeClass('open');
+                        $(this).addClass('closed');
+                    }
+                });
 
                 $(document).on('mouseover', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
-	            });
-	        }
-	    });	
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
+                });
+            }
+        });
 
 
-</script>
+    </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script>
 
-<!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_07_01/GlobalAssets/Scripts/CheckScript.js"></script>
+    <!-- Begin swuc.CheckScript -->
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (01): 0.0937512 Seconds -->
+    <!-- Server Load Time (02): 0.078127 Seconds -->
 
 
 
-<!-- off-canvas menu enabled-->
+    <!-- off-canvas menu enabled-->
+    
+
+    <!-- OnScreen Alert Dialog Start -->
+    <div id="onscreenalert-holder"></div>
+    <!-- OnScreen Alert Dialog End -->
 
 
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","e84461d315","246869","Z1MEZEtSVkoFBxIKX14ZJ2NpHEtQEAFJB1VWVxNcTR1ZShQc",15,93,new Date().getTime(),"38BADCD35FAF094C","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+</body></html>
