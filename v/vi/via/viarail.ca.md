@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160414id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226031336id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
@@ -17,7 +17,6 @@ Personal information is information that makes it possible to identify you, such
   * When making comments on our Website, on our social media accounts or by email;
   * When applying for a job with VIA online, whether by email or by mail;
   * Information collected on audio tapes of calls we receive from our customers at our telephone sales offices, and calls made by our customer service representatives, when these calls are recorded. These audio tapes are used for performance assessment, training and quality assurance purposes.
-  * Also, when commenting on our Facebook Page ([www.facebook.com/viarailcanada](http://www.facebook.com/viarailcanada)), users accept that their comments could potentially be published with their first name in the VIA Experience section of our website ([www.viarail.ca/en/experience](https://web.archive.org/en/experience)). Users can also use the #VIAvoyage hashtag for this purpose.
 
 
 
