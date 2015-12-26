@@ -1,121 +1,62 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061555id_/http%3A//www.xaxis.com/static/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226065736id_/http%3A//www.appnexus.com/en/company/privacy-policy) for the most accurate reproduction.*
 
-# Xaxis Privacy Policy
+# AppNexus - Corporate Privacy Policy
 
-### Xaxis Privacy Policy
+This information and the privacy statement below are for our corporate website, AppNexus.com.
 
-**Effective Date: April 16, 2015**
+If you have any questions about this policy, you can contact us [ **here**](https://web.archive.org/en/company/privacy-form). For the AppNexus Platform Privacy page, [ **click here**](https://web.archive.org/en/company/platform-privacy-policy). AppNexus.com may contain content or links to content or services provided by third parties. This policy does not apply to the practices of those third parties.
 
-Xaxis, Inc. (together with its subsidiary Xaxis US, LLC, “Xaxis”) is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet and Internet advertising.  Accordingly, we are committed to observing applicable industry guidelines, including those established by the Digital Advertising Alliance, the Network Advertising Initiative and the Interactive Advertising Bureau.  We continually evaluate innovative ways to protect online user privacy while also seeking to deliver relevant advertising and custom online experiences on behalf of our clients.
+**COLLECTION, USE, AND RETENTION OF PERSONALLY IDENTIFIABLE INFORMATION (PII)**
 
-The purpose of this Privacy Policy is to provide clear notice about the user information we may collect in connection with our Services (as defined below), including activities we undertake across web sites and other digital properties (collectively, “websites”), to the extent applicable, and on our corporate website.  This Privacy Policy applies only to our Services and to our corporate website.
+****We collect PII via this website when it is provided to us. The PII we collect may include name, address, phone number, email address, or any other information provided to us. We use the PII collected via this website for business purposes, such as marketing, recruiting and hiring, responding to general inquiries or customer support requests, and in the course of providing services to customers. We retain the PII collected via the website indefinitely, unless otherwise specified, or until we delete the PII pursuant to a request from the subject of the PII.
 
-Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time.  Accordingly, since we want to help you clearly understand our Privacy Policy and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.  You can determine when this Privacy Policy was last revised by referring to the date from which it was “Effective” above.
+**COLLECTION, USE, AND RETENTION OF NON-PII**
 
-The next few sections below describe how we collect and use user information in connection with the operation of our Services, such as through advertisements that may appear on various websites. 
+****We collect non-PII on our website using cookies, web beacons, and tags for the operation of the site (e.g. managing user sessions), including analyzing site usage, detecting and preventing malicious behavior on the site, and improving the content and organization of the site. We also engage other companies that will use similar methods to collect non-PII on our website for analyzing site usage.
 
-For information on how we collect and use information that is collected directly on this website (as opposed to through the Services), please see the section entitled “Your Use of and Correspondence on this Website” below.
+We also use non-PII we collect to advertise our business on other sites, including through the AppNexus Platform. When we do so, we act as a customer of the platform, using our own information, and we do not use or mix our information with the proprietary information of other Platform customers. You can learn more about the AppNexus Platform in the[  **AppNexus Platform Privacy page**](https://web.archive.org/en/company/platform-privacy-policy), where you can also learn about how to opt out of having the Platform used by us and others for interest-based advertising.
 
-**Xaxis’s Services**
+**INFORMATION SHARING**
 
-Xaxis provides a range of services to its clients, including advertisers and publishers.  Xaxis’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; paid search placement; search engine optimization; and audience segmentation and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.  For purposes of this privacy policy, Xaxis’s Services do not include the services of the Light Reaction performance marketing unit.  For information on how Light Reaction collects and uses information through its services (as opposed to the collection and use of information through the Services or on this website), please [click here](http://lightreaction.com/PrivacyPolicyUS.pdf).
+****We will not rent, share, or sell to third parties the PII we collect via AppNexus.com, except for the reasons stated in this Privacy Statement.
 
-**Types of Information We Collect through Our Services**
+We may share non-PII or PII with affiliates, subsidiaries, vendors, or other third parties to perform services on our behalf that are related to marketing and operating AppNexus' business.
 
-When you view and interact with websites and advertisements operated by our clients (and, in some cases, by our clients' clients), we may collect through our Services information regarding your browsing, usage and interactions.  We may also collect information that allows us to identify browsers we have interacted with previously.  Such information collected by our Services may include the type of Internet browser and computer operating system you use, your computer’s Internet protocol (“IP” address), the URLs of the websites you visited before and after viewing an advertisement, and information related to websites and pages you are viewing.
+We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
 
-We do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information.  Whenever we refer to “you” or “your”, we are referring to a browser or device and not an identifiable person.
+We may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
-We collect information through the use of cookies, pixels and similar technologies.  A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code that is used by a website or third party to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular website.  Additional information from an earlier period or interaction may be included in the pixel.
+**THIRD PARTY SERVICES**
 
-**How We Use Information Collected through Our Services**
+****Third party services incorporated into our website, such as social media widgets or online advertising networks, may collect information about your visits to our site for purposes including interest-based advertising. This information could be combined with information collected from other sites. Such information may include, for example, pages visited, times and dates of visits, browser or operating system configuration, etc. Industry trade associations maintain web pages where you can opt out of interest-based advertising by all participating companies:
 
-We use the information collected through our Services to provide you with the most useful and relevant online advertising and to better customize the sort of advertisements you see on those websites.  For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel.  We also may use such information to limit the number of times you see a particular ad, and for other purposes such as research, reporting and analysis. 
+  * Network Advertising Initiative: [ **http://www.networkadvertising.org/choices**](http://www.networkadvertising.org/choices/)  
 
-We may also receive from other companies information collected outside the Services for use in connection with the Services on behalf of our clients.  We also do this in order to get a clearer picture of the types of advertisements that might be most relevant and useful to you.  We do not associate such information with your name, mailing address, email address or similar personally identifiable information. 
+  * Digital Advertising Alliance: [ **http://www.aboutads.info/choices**](http://www.aboutads.info/choices/)  
 
-We require our clients to comply with applicable laws governing online privacy.  We encourage you to read the privacy policies of the websites you visit to better understand issues relating to your online privacy.
+  * And, in Europe, [ **http://www.youronlinechoices.com**](http://www.youronlinechoices.com/)  
 
-The use of information by our affiliates, clients and service providers is not covered by this Privacy Policy. 
 
-**Disclosure of Information to Third Parties**
 
-We may disclose the information we collect about you (see “Types of Information We Collect through Our Services” above), and information derived from it, to our clients and service providers.  As we do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information through our Services, we do not disclose any such information to third parties.  However, if you affirmatively provide personally identifiable information via one of our clients’ advertisements or websites, then that information will be received by such client and will be subject to that client’s privacy policy.  Our service providers are not permitted to use non-aggregated information we disclose to them for any purpose other than providing services to us or our clients.
 
-We also may disclose the information we collect to third parties, including law enforcement, when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+**INFORMATION ABOUT CHILDREN**
 
-**User Choice**
+****This site is not intended for, or designed to attract, children. We do not collect personally identifiable information from any person we actually know is an individual under the age of 13.
 
-We collect information through our Services through the use of cookies, pixels and similar technologies.  We believe that the use of such technology enables us and our clients to provide users with a more meaningful online experience.
+**YOUR CHOICES**
 
-You may simply opt out of receiving customized third-party advertisements via Xaxis and Light Reaction technologies by clicking here:
+****We will provide reasonable opportunity for individuals to access, update, or delete PII about them that we have in our possession. We will not use PII provided to us for purposes incompatible with the purpose for which it was provided without obtaining authorization from the subject of the information. For sensitive information, as required by the Safe Harbor Principles, we will obtain authorization prior to sharing the information or using it for a purpose other than that for which it was collected.
 
-[](http://optout.mookie1.com/optout/tfsm/tfsm-optout-generic.html?success=http://www.xaxis.com/optout/success&?fail=http://www.xaxis.com/optout/error)
+For choices relating to interest-based advertising on the AppNexus Platform, see the  **[AppNexus Platform Privacy page](https://web.archive.org/en/company/platform-privacy-policy)**.
 
-Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change browsers or delete this “opt-out” cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept third-party cookies.
+**U.S.-E.U. SAFE HARBOR FRAMEWORK AND U.S.-SWISS SAFE HARBOR FRAMEWORK**
 
-Alternatively, you may adjust your browser settings to refuse or remove cookies, which would result in the elimination of interest-based advertising via cookies from other providers in addition to Xaxis.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all website offerings and interest-based advertising.  You may refuse or remove cookies by following the directions provided in your browser settings.
+****For personal information we transfer from the European Union to the United States, we adhere to the principles of the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce ([ **http://export.gov/safeharbor/**](http://export.gov/safeharbor/)). For questions or complaints related to the collection, retention, or use of data under either of the Safe Harbor Frameworks, you can contact us[  **here**](https://web.archive.org/en/company/privacy-form). Unresolved privacy complaints under either of the Safe Harbors will be referred to the American Arbitration Association as an independent dispute resolution mechanism.
 
-**Network Advertising Initiative**
+**CHANGES TO THIS POLICY**
 
-We are a member of the Network Advertising Initiative (NAI) and adhere to the NAI’s Code of Conduct. In accordance with the Code of Conduct, we require our Xaxis Publisher Network (formerly 24/7 Access) clients to inform users about their privacy and information collection practices via their privacy policies and to include in their privacy policies information regarding the use of third-party advertising technology and services on their websites, the types of data collected through such services, the use and distribution of such data, and a link to an industry opt-out from interest-based advertising. We periodically monitor the websites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
+****We may from time to time change our practices with regard to information collected and used on AppNexus.com. Changes will be reflected in this Privacy Statement. However, if we were to make material changes, those changes would not, without authorization, be applied to information collected prior to the changes.
 
-We fully support the digital advertising industry’s efforts to increase transparency in the area of interest-based advertising and health segments.  For more information on standard interest segments based on health-related information or interests that we may use for interest-based advertising purposes, please [click here](http://www.xaxis.com/static/view/consumer-interest-segments).
+**QUESTIONS?**
 
-You can also click the link above to reach the Network Advertising Initiative website, a central location for information about interest-based advertising and the choices available to you, and to opt out of receiving third-party interest-based advertising from us and other NAI member companies.
-
-****
-
-**Children’s Privacy**
-
-We are sensitive to the issue of children's privacy.  Therefore, our website and Services are neither developed for, nor directed at, children or at websites primarily directed to children.  If you believe a child has provided us with personal information and you would like to have the information removed, please contact us at [privacy@xaxis.com](mailto:privacy@xaxis.com)
-
-**Linking to Other Websites**
-
-A link from our own website to another website does not imply our endorsement of that website.  We do not control the websites to which we link and assume no responsibility for their content or privacy policies.  Therefore, you should carefully review the privacy policies that apply to any websites you access from our website.
-
-**Transfer of Data upon Change of Control**
-
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
-
-**Information Security**
-
-We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
-
-**Data Retention**
-
-We generally maintain the information we collect through our Services in non-aggregated form for a period of not more than thirteen months.  This data includes websites visited, content viewed, ad interactions, IP addresses, browser type and language settings.
-
-We may maintain information we collect through our Services in an aggregated form for a period longer than thirteen months.
-
-**Your Use of and Correspondence on this Website**
-
-We use cookies to understand and analyze the usage trends of our users on our corporate website.  If you provide us information through our "contact us" link on our corporate website, we will keep a record of the information you provide, including your email address and any other personally identifiable information you provide, solely for the purposes of responding to your inquiry or providing you with relevant material or marketing communications.  We may disclose such personally identifiable information to third party marketing automation service providers solely for those purposes; the service providers are not permitted to use this information for any purpose other than providing services to us.
-
-Information collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer.
-
-**Europe and Safe Harbor Principles**
-
-Please note that in some countries an IP address is considered personal data by applicable law.  If we conduct business in such countries and we know that you are located in such a country, we will treat your IP address as personal data.
-
-In such countries we interpose a “black box” that is operated by an independent third party and that separates the user’s IP address from other data we collect.
-
-Xaxis Stream (formerly known as Xaxis for Publishers LT), a service we primarily provide in Europe, places a cookie on your computer for the purpose of interest-based advertising as described above.  This service was certified with the TÜV Trusted IT Data Privacy Certification Seal on January 24, 2013.  You may opt out of interest-based advertising via Xaxis Stream technology by following the instructions in the section titled “User Choice”.
-
-We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
-
-In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information on our website.  Citizens of the European Union or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact [privacy@xaxis.com](mailto:privacy@xaxis.com).
-
-Xaxis has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Xaxis, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information or to file a complaint.
-
-**California**
-
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personally identifiable information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year.  In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties.  To request a copy of the information disclosure provided by Xaxis pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated below. Please allow 30 days for a response.
-
-California law requires us to disclose how we respond to browser “Do Not Track” signals or other choice mechanisms relating to interest-based advertising.  Currently, there is no industry consensus with respect to the meaning of a “Do Not Track” signal and how operators of online services should respond to them.  As a result, we have not yet developed a response to browser “Do Not Track” signals, and do not change any of our data collection practices when we receive such signals.  We will continue to evaluate potential responses to “Do Not Track” signals in light of industry developments or legal changes. 
-
-We are committed to honoring your privacy choices, and, as noted in the “User Choice” section above, we provide a mechanism that allows you to opt out of interest-based advertising via Xaxis technologies.
-
-**Questions or Comments about this Privacy Policy**
-
-If you have questions or concerns regarding this statement, you should contact us through email or by mail. You can address your general questions and comments by e-mail to [privacy@xaxis.com](mailto:privacy@xaxis.com) or by mail to Xaxis, Inc., 132 West 31 Street, 11th Floor, New York, NY 10001, Attn: Legal Department.
+****If you have questions or requests regarding our collection and use of information, you can contact us  [ **here**.](https://web.archive.org/en/company/privacy-form)
