@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the radio.net privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617024625id_/https%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226081252id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | radio.net
-
-If you see this warning, the CSS selector count limit is reached.
+# Privacy Policy
 
 We, radio.de GmbH, Mühlenkamp 59, 22303 Hamburg, Deutschland, enable you to use our audio services in a variety of ways. The following Privacy Terms apply irrespective of whether our services are provided via the www.radio.net portal, another Internet portal, an application available on the Internet, a client device or in any other way. Safeguarding your personal information is a matter of great importance for us. Personal information refers to data describing an individual's personal or material circumstances, including name, address, postal address, email address, telephone number and IP address, but excluding information that cannot be connected to you.  
 As a private enterprise (private law company), we are subject to the provisions of the German Privacy Act (BDSG) and the German Telemedia Act (TMG), with which we are in strict compliance. We have further taken technical and organizational measures to ensure compliance with data protection law. By using or registering for our services, you express your agreement, which may be revoked at any time, with our collecting, storing and using your personal information subject to these terms. Please read our Privacy Terms so you will know how we use your personal information after it is compiled. If you have any questions about our Privacy Terms, please contact us by email, at privacy@radio.net. 
