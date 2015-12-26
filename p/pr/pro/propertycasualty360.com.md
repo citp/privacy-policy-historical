@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertycasualty360.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507071314id_/http%3A//www.propertycasualty360.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertycasualty360.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090518id_/http%3A//www.propertycasualty360.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PropertyCasualty360
 
