@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifa-infinity.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621205525id_/http%3A//www.fifa-infinity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifa-infinity.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226104816id_/http%3A//www.fifa-infinity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -23,11 +23,11 @@
 **FIFA Infinity may collect and use Users personal information for the following purposes:**
 
 **– To personalize user experience**  
- **     We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.**  
- **– To improve our Site**  
- **     We may use feedback you provide to improve our products and services.**  
- **– To send periodic emails**  
- **We may use the email address to respond to their inquiries, questions, and/or other requests.**
+**     We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.**  
+**– To improve our Site**  
+**     We may use feedback you provide to improve our products and services.**  
+**– To send periodic emails**  
+**We may use the email address to respond to their inquiries, questions, and/or other requests.**
 
 **How we protect your information**
 
@@ -56,8 +56,8 @@
 **Contacting us**
 
 **If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:**  
- **FIFA Infinity**  
- **http://www.fifa-infinity.com/contact/**
+**FIFA Infinity**  
+**http://www.fifa-infinity.com/contact/**
 
 **This document was last updated on March 25, 2013**  
 
