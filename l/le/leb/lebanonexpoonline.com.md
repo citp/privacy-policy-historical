@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebanonexpoonline.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215223816id_/http%3A//www.lebanonexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebanonexpoonline.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070741id_/http%3A//www.lebanonexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
