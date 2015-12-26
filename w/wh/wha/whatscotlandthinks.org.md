@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatscotlandthinks.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616120838id_/http%3A//whatscotlandthinks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatscotlandthinks.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226181142id_/http%3A//whatscotlandthinks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | What Scotland Thinks
 
