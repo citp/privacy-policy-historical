@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the iccworldcuplivescore.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628001621id_/http%3A//iccworldcuplivescore.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iccworldcuplivescore.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226113438id_/http%3A//iccworldcuplivescore.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="initial-scale=1.0">
 <title>Privacy Policy | Latest Buzz !</title>
 <style type="text/css">
-					.no-break br {
-						display: none !important;
-					}
-			</style><link rel="profile" href="http://gmpg.org/xfn/11">
+          .no-break br {
+            display: none !important;
+          }
+      </style><link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://iccworldcuplivescore.com/xmlrpc.php">
 
-<!-- All in One SEO Pack 2.2.7 by Michael Torbert of Semper Fi Web Design[124,161] -->
+<!-- All in One SEO Pack 2.2.7.5 by Michael Torbert of Semper Fi Web Design[124,161] -->
 <meta name="description" itemprop="description" content="This Privacy Policy governs the manner in which www.iccworldcuplivescore.com collects, uses, maintains and discloses information collected from users (each, a">
 
 <link rel="canonical" href="http://iccworldcuplivescore.com/privacy-policy/">
@@ -30,19 +30,7 @@
 <link rel="alternate" type="application/rss+xml" title="Latest Buzz ! » Feed" href="http://iccworldcuplivescore.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Latest Buzz ! » Comments Feed" href="http://iccworldcuplivescore.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Latest Buzz ! » Privacy Policy Comments Feed" href="http://iccworldcuplivescore.com/privacy-policy/feed/">
-<link rel="stylesheet" id="yarppWidgetCss-css" href="http://iccworldcuplivescore.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://iccworldcuplivescore.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.69" type="text/css" media="all">
-<style id="wp-polls-inline-css" type="text/css">
-.wp-polls .pollbar {
-	margin: 1px;
-	font-size: 6px;
-	line-height: 8px;
-	height: 8px;
-	background-image: url('http://iccworldcuplivescore.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
-	border: 1px solid #c8c8c8;
-}
-
-</style>
+<link rel="stylesheet" id="fab_style-css" href="http://iccworldcuplivescore.com/wp-content/plugins/floating-adsense-bar/fab_style.css?ver=4.1" type="text/css" media="all">
 <link rel="stylesheet" id="frontier-font-css" href="//fonts.googleapis.com/css?family=Roboto+Condensed%3A400%2C700%7CArimo%3A400%2C700&amp;ver=4.1" type="text/css" media="all">
 <link rel="stylesheet" id="frontier-icon-css" href="http://iccworldcuplivescore.com/wp-content/themes/frontier/includes/genericons/genericons.css?ver=1.2.4" type="text/css" media="all">
 <link rel="stylesheet" id="frontier-main-css" href="http://iccworldcuplivescore.com/wp-content/themes/frontier/style.css?ver=1.2.4" type="text/css" media="all">
@@ -101,116 +89,9 @@ div#shDisplay div#shTitle {color:#;}
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-image: url('http://iccworldcuplivescore.com/wp-content/themes/frontier/images/honeycomb.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
 </style>
-<style type="text/css">
+</head>
 
-#topbar{
-position:absolute;
-border: 0px solid black;
-padding: 1px;
-background-color: rgba(255, 255, 255, .2);
-width: 120px;
-height: 600px;
-visibility: hidden;
-z-index: 100;
-}
-
-</style><script type="text/javascript">
-
-/***********************************************
-* Floating Top Bar script- © Dynamic Drive
-* Sliding routine by Roy Whittle 
-* This notice must stay intact for legal use.
-
-***********************************************/
-
-var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
-var startX = 5 //set x offset of bar in pixels
-var startY = 40 //set y offset of bar in pixels
-var verticalpos="fromtop" //enter "fromtop" or "frombottom"
-
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = "";
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset);
-if (end == -1) end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-function closebar(){
-if (persistclose)
-document.cookie="remainclosed=1"
-document.getElementById("topbar").style.visibility="hidden"
-}
-
-function staticbar(){
-	barheight=document.getElementById("topbar").offsetHeight
-	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
-	var d = document;
-	function ml(id){
-		var el=d.getElementById(id);
-		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
-		el.style.visibility="visible"
-		if(d.layers)el.style=el;
-		el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
-		el.x = startX;
-		if (verticalpos=="fromtop")
-		el.y = startY;
-		else{
-		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
-		el.y -= startY;
-		}
-		return el;
-	}
-	window.stayTopLeft=function(){
-		if (verticalpos=="fromtop"){
-		var pY = ns ? pageYOffset : iecompattest().scrollTop;
-		ftlObj.y += (pY + startY - ftlObj.y)/8;
-		}
-		else{
-		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
-		ftlObj.y += (pY - startY - ftlObj.y)/8;
-		}
-		ftlObj.sP(ftlObj.x, ftlObj.y);
-		setTimeout("stayTopLeft()", 10);
-	}
-	ftlObj = ml("topbar");
-	stayTopLeft();
-}
-
-if (window.addEventListener)
-window.addEventListener("load", staticbar, false)
-else if (window.attachEvent)
-window.attachEvent("onload", staticbar)
-else if (document.getElementById)
-window.onload=staticbar
-</script></head>
-
-
-
-<body class="page page-id-80 page-template-default custom-background"><div id="topbar" style="visibility: visible; left: 5px; top: 40px;">
-<a href="" onclick="closebar(); return false"><img src="http://dekhnews.com/wp-content/uploads/2015/04/close.gif" border="0">ADVERTISEMENT</a>
-<script type="text/javascript">
-    google_ad_client = "ca-pub-7092821385745137";
-    google_ad_slot = "8038038802";
-    google_ad_width = 120;
-    google_ad_height = 600;
-</script>
-<!-- friendship 120 -->
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-
+<body class="page page-id-80 page-template-default custom-background">
 	
 	
 <div id="container" class="cf">
@@ -242,7 +123,6 @@ window.onload=staticbar
 <li id="menu-item-754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-754"><a href="http://iccworldcuplivescore.com/category/box-office/">Box Office</a></li>
 <li id="menu-item-755" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-755"><a href="http://iccworldcuplivescore.com/category/lyrics-and-video/">lyrics and video</a></li>
 <li id="menu-item-607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-607"><a href="http://iccworldcuplivescore.com/category/hot-trends/">Hot Trends</a></li>
-<li id="menu-item-608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608"><a href="http://iccworldcuplivescore.com/category/ramadan-2015/">Ramadan 2015</a></li>
 </ul>
 					</nav>
 	
@@ -348,14 +228,14 @@ India</p>
 </script>
 </div>
 
-<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h4>Incoming search terms:</h4><ul><li>iccworldcuplivescor</li></ul><p class="no-break"><span class="st_pinterest_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_plusone_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_fblike_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_sharethis_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_email_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_linkedin_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_twitter_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span>
-<span class="st_facebook_vcount" st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/"></span></p>
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h4>Incoming search terms:</h4><ul><li>Dhara dhara sa(yoyo singar) video</li></ul><p class="no-break"><span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_facebook_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_twitter_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_linkedin_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_email_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_sharethis_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_fblike_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_plusone_vcount"></span>
+<span st_title="Privacy Policy" st_url="http://iccworldcuplivescore.com/privacy-policy/" class="st_pinterest_vcount"></span></p>
 	
 	
 	
@@ -386,7 +266,7 @@ India</p>
 							<input type="hidden" name="comment_post_ID" value="80" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
 						</p>
-						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d5d7bcb183"></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="241"></p>					</form>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="73033152ab"></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="44"></p>					</form>
 							</div><!-- #respond -->
 			</div></div>
 			
@@ -399,7 +279,54 @@ India</p>
 <div id="sidebar-left" class="sidebar cf">
 		<div id="widgets-wrap-sidebar-left">
 
-					<div id="recent-search-terms" class="widget-sidebar frontier-widget widget_recent_terms"><h4 class="widget-title">What\'s Hot</h4><ul><li><a href="http://iccworldcuplivescore.com/advance-ramadan-mubarak-images-facebook-covers-whatsapp-dp-profile-pictures/" title="new status ramadan for whatsapp">new status ramadan for whatsapp</a></li><li><a href="http://iccworldcuplivescore.com/ramadan-kareem-whatsapp-status-dp-video-facebook-covers/" title="whatsapp ramzan status">whatsapp ramzan status</a></li><li><a href="http://iccworldcuplivescore.com/mata-ka-email-song-lyrics-hd-video-guddu-rangeela/" title="Kal raat Mata ka mujhe email aye hai free download the song">Kal raat Mata ka mujhe email aye hai free download the song</a></li><li><a href="http://iccworldcuplivescore.com/black-till-song-lyrics-hd-video-mp3-girik-aman-feat-sana-khaan-dr-zeus-fateh/" title="soniye brown tree face te">soniye brown tree face te</a></li><li><a href="http://iccworldcuplivescore.com/happy-ramadan-2015-images-pictures-pics-fb-covers-whatsapp-dp/" title="hd pic for fb">hd pic for fb</a></li><li><a href="http://iccworldcuplivescore.com/happy-ramadan-2015-images-pictures-pics-fb-covers-whatsapp-dp/" title="Ramzan prfl pic HD">Ramzan prfl pic HD</a></li><li><a href="http://iccworldcuplivescore.com/advance-ramadan-mubarak-images-facebook-covers-whatsapp-dp-profile-pictures/" title="Ramadan dp">Ramadan dp</a></li><li><a href="http://iccworldcuplivescore.com/ramadan-calendar-2015-mumbai-with-sehr-o-iftar-timetable-schedule/" title="ramzan timetable images in mumbai 2015">ramzan timetable images in mumbai 2015</a></li><li><a href="http://iccworldcuplivescore.com/ramadan-kareem-whatsapp-status-dp-video-facebook-covers/" title="islamic status for whatsapp in arabic">islamic status for whatsapp in arabic</a></li><li><a href="http://iccworldcuplivescore.com/ramadan-calendar-2015-mumbai-with-sehr-o-iftar-timetable-schedule/" title="shia Ramadan timetable 2015">shia Ramadan timetable 2015</a></li></ul></div><div id="popular-search-terms" class="widget-sidebar frontier-widget widget_popular_terms"><h4 class="widget-title">We are famous for</h4><ul><li><a href="http://iccworldcuplivescore.com/ringtone-music-hd-video-theme-song-cricket-icc-world-cup-2015/" title="yhsm-inucbr_001">yhsm-inucbr_001</a></li><li><a href="http://iccworldcuplivescore.com/advance-ramadan-mubarak-images-facebook-covers-whatsapp-dp-profile-pictures/" title="ramadan">ramadan</a></li><li><a href="http://iccworldcuplivescore.com/time-tablevenuesfixtureproper-scheduleicc-cricket-world-cup-2015/" title="ipl 2015 time table">ipl 2015 time table</a></li><li><a href="http://iccworldcuplivescore.com/advance-happy-ramadan-2015-wishes-messages-quotes-sms/" title="happy ramadan">happy ramadan</a></li><li><a href="http://iccworldcuplivescore.com/advance-ramadan-mubarak-images-facebook-covers-whatsapp-dp-profile-pictures/" title="ramadan pic">ramadan pic</a></li><li><a href="http://iccworldcuplivescore.com/cwc-icc-cricket-world-cup-2015-group-tableranking-teampoolstanding/" title="wc15 points table">wc15 points table</a></li><li><a href="http://iccworldcuplivescore.com/world-cup-2015-points-table-pool-a-pool-b-icc-cricket-wc-15/" title="wc15 point table">wc15 point table</a></li><li><a href="http://iccworldcuplivescore.com/world-cup-2015-points-table-pool-a-pool-b-icc-cricket-wc-15/" title="POINTS TABLE wc15">POINTS TABLE wc15</a></li><li><a href="http://iccworldcuplivescore.com/cwc-icc-cricket-world-cup-2015-group-tableranking-teampoolstanding/" title="point table wc15">point table wc15</a></li><li><a href="http://iccworldcuplivescore.com/time-tablevenuesfixtureproper-scheduleicc-cricket-world-cup-2015/" title="ipl time table 2015">ipl time table 2015</a></li></ul></div><div id="text-3" class="widget-sidebar frontier-widget widget_text">			<div class="textwidget"><a href="http://www.fathersdayrock.com/">Fathers day poems 2015</a></div>
+					<div class="widget-sidebar frontier-widget widget_archive"><h4 class="widget-title">Archives</h4>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+			<option value="">Select Month</option>
+
+				<option value="http://iccworldcuplivescore.com/2015/12/"> December 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/10/"> October 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/09/"> September 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/08/"> August 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/07/"> July 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/06/"> June 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/05/"> May 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/03/"> March 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/02/"> February 2015 </option>
+	<option value="http://iccworldcuplivescore.com/2015/01/"> January 2015 </option>
+		</select>
+</div><div class="widget-sidebar frontier-widget widget_categories"><h4 class="widget-title">Categories</h4><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="115">Bigg Boss 9</option>
+	<option class="level-0" value="80">Box Office</option>
+	<option class="level-0" value="129">Christmas</option>
+	<option class="level-0" value="130">Christmas eve</option>
+	<option class="level-0" value="116">Ganesh Chaturthi</option>
+	<option class="level-0" value="75">Hot Trends</option>
+	<option class="level-0" value="122">Karva Chauth</option>
+	<option class="level-0" value="79">lyrics and video</option>
+	<option class="level-0" value="121">Splitsvilla 8</option>
+	<option class="level-0" value="104">teaser &amp; trailer</option>
+	<option class="level-0" value="73">WC News</option>
+	<option class="level-0" value="103">Whatsapp</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://iccworldcuplivescore.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</div><div class="widget-sidebar frontier-widget widget_pages"><h4 class="widget-title">Pages</h4>		<ul>
+			<li class="page_item page-item-97"><a href="http://iccworldcuplivescore.com/about-us/">About Us</a></li>
+<li class="page_item page-item-94"><a href="http://iccworldcuplivescore.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-86"><a href="http://iccworldcuplivescore.com/disclaimer/">Disclaimer</a></li>
+<li class="page_item page-item-80 current_page_item"><a href="http://iccworldcuplivescore.com/privacy-policy/">Privacy Policy</a></li>
+		</ul>
 		</div>		
 	</div>
 	</div><div id="sidebar-right" class="sidebar cf">
@@ -411,36 +338,40 @@ India</p>
 					<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
 				</label>
 				<input type="submit" class="search-submit" value="Search">
-			</form></div>		<div id="recent-posts-2" class="widget-sidebar frontier-widget widget_recent_entries">		<h4 class="widget-title">Recent Posts</h4>		<ul>
+			</form></div><div id="text-3" class="widget-sidebar frontier-widget widget_text"><h4 class="widget-title">Trending</h4>			<div class="textwidget"><li><a href="http://iccworldcuplivescore.com/ft-badshah-vroom-vroom-song-simranjeet-lyrics-hd-video/">Vroom Vroom Badshah</a></li>
+
+<li><a href="http://iccworldcuplivescore.com/bigg-boss-bb-9-final-contestants-name-list-promo-starts-date-double-trouble/">Bigg Boss 9 Contestants</a></li>
+
+<li><a href="http://iccworldcuplivescore.com/romantic-cool-funny-attitude-whatsapp-status-for-bf-gf-12-liner-hindi-english/">Cool Whatsapp Status</a></li>
+
+<li><a href="http://iccworldcuplivescore.com/dheere-dheere-lyrics-hd-video-yo-yo-honey-singh-hrithik-roshan-sonam-kapoor/">Dhire Dhire Song</a></li>
+
+<li><a href="http://iccworldcuplivescore.com/samandar-song-lyrics-hd-video-kis-kisko-pyaar-karu-shreya-ghoshal/">Samandar Song</a></li>
+
+<li><a href="http://iccworldcuplivescore.com/eid-e-milad-un-nabi-mubarak-images-pics-photos-whatsapp-status-fb-dp-2015/">Eid-e-milad un Nabi</a></li>
+
+</div>
+		</div>		<div id="recent-posts-2" class="widget-sidebar frontier-widget widget_recent_entries">		<h4 class="widget-title">Recent Posts</h4>		<ul>
 					<li>
-				<a href="http://iccworldcuplivescore.com/happy-4th-of-july-interpretive-dance-song-jenny-sweeney-snipars-fireworks/">Happy 4th Of July Interpretive Dance Song Jenny Sweeney Snipars Fireworks</a>
+				<a href="http://iccworldcuplivescore.com/funny-merry-christmas-santa-claus-images-pics-free-download-for-greetings-cards/">Funny Merry Christmas Santa Claus images pics free download for greetings cards</a>
 						</li>
 					<li>
-				<a href="http://iccworldcuplivescore.com/bhar-do-jholi-meri-song-lyrics-hd-video-bajrangi-bhaijaan-salman-khan/">Bhar Do Jholi Meri Song Lyrics Hd Video Bajrangi Bhaijaan Salman Khan</a>
+				<a href="http://iccworldcuplivescore.com/happy-christmas-greeting-cards-2015-hd-gifs-images-scraps-animated-cliparts-3d/">Happy Christmas greeting cards 2015 HD Gifs images scraps animated Cliparts 3d</a>
 						</li>
 					<li>
-				<a href="http://iccworldcuplivescore.com/second-hand-husband-title-track-lyrics-hd-video-gippy-grewal/">Second Hand Husband Title Track lyrics hd video mp3 Gippy Grewal Tina Ahuja</a>
+				<a href="http://iccworldcuplivescore.com/2015-eid-e-milad-un-nabi-whatsapp-status-quotes-wishes-shayari-in-urdu/">{2015} EID E-MILAD-UN NABI whatsapp status quotes wishes shayari in Urdu</a>
 						</li>
 					<li>
-				<a href="http://iccworldcuplivescore.com/udeekan-song-lyrics-hd-video-peji-shahkoti-rakhi-sawant/">Udeekan Song lyrics HD video Mp3 Peji Shahkoti Rakhi Sawant</a>
+				<a href="http://iccworldcuplivescore.com/merry-christmas-quotes-wishes-sayings-one-liner-in-arabic-language-font-2015/">Merry christmas quotes wishes sayings One liner in Arabic Language Font 2015</a>
 						</li>
 					<li>
-				<a href="http://iccworldcuplivescore.com/taare-song-lyrics-hd-video-sardaarji-diljit-dosanjh-neeru-bajwa/">Taare Song lyrics hd video mp3 Sardaarji Diljit Dosanjh Neeru Bajwa</a>
+				<a href="http://iccworldcuplivescore.com/how-to-say-merry-christmas-in-german-language-quotes-wishes-images-dp-status-2015/">how to say Merry Christmas in German Language quotes wishes Images dp status 2015</a>
 						</li>
 					<li>
-				<a href="http://iccworldcuplivescore.com/judai-song-lyrics-hd-video-i-love-ny-song-falak-shabir-kangana-ranaut/">Judai Song Lyrics hd Video mp3 I LOVE NY Song Falak Shabir Kangana Ranaut</a>
+				<a href="http://iccworldcuplivescore.com/christmas-2015-games-play-kids-groups-children-adult-parties-free-ideas/">Christmas 2015 Games play kids groups children adult parties free ideas</a>
 						</li>
 					<li>
-				<a href="http://iccworldcuplivescore.com/guddu-rangeela-title-track-lyrics-hd-video-arshad-warsi-aditi-rao-hydari/">Guddu Rangeela Title Track lyrics hd video mp3 Arshad Warsi Aditi Rao Hydari</a>
-						</li>
-					<li>
-				<a href="http://iccworldcuplivescore.com/akhiyan-song-lyrics-hd-video-tony-kakkar-neha-kakkar-bohemia/">Akhiyan Song lyrics hd video mp3 Tony Kakkar ft. Neha Kakkar &amp; Bohemia</a>
-						</li>
-					<li>
-				<a href="http://iccworldcuplivescore.com/happy-fathers-day-wishes-quotes-in-hindi-marathi-gujarati-bengali/">Happy Fathers Day Wishes Quotes in Hindi Marathi Gujarati Bengali</a>
-						</li>
-					<li>
-				<a href="http://iccworldcuplivescore.com/happy-international-yoga-day-2015-quotes-wishes-slogans-pics-images/">Happy International Yoga Day 2015 Quotes Wishes Slogans Pics Images</a>
+				<a href="http://iccworldcuplivescore.com/eid-e-milad-un-nabi-mubarak-images-pics-photos-whatsapp-status-fb-dp-2015/">EID E-MILAD-UN NABI MUBARAK IMAGES PICS PHOTOS WHATSAPP Status FB DP 2015</a>
 						</li>
 				</ul>
 		</div>		
@@ -462,7 +393,7 @@ India</p>
 </div>
 
 
-<script type="text/javascript" src="http://iccworldcuplivescore.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://iccworldcuplivescore.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.6"></script>
 <script type="text/javascript">
 jQuery(document).ready(function($) {
 	$('.menu-item-has-children').click(function(){
@@ -472,12 +403,6 @@ jQuery(document).ready(function($) {
 	});
 });
 </script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pollsL10n = {"ajax_url":"http:\/\/iccworldcuplivescore.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://iccworldcuplivescore.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.69"></script>
 <script type="text/javascript" src="http://iccworldcuplivescore.com/wp-includes/js/comment-reply.min.js?ver=4.1"></script>
 
 </body></html>
