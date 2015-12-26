@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestdeals.today privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626203610id_/http%3A//www.bestdeals.today/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdeals.today privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226015622id_/http%3A//www.bestdeals.today/page/privacy) for the most accurate reproduction.*
 
-# Best Deals Today
+# BEST DEALS, TODAY!
 
   1. **BEST-DEALS.TODAY PRIVACY POLICY**
 
