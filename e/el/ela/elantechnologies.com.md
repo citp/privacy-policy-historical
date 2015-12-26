@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elantechnologies.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626024502id_/http%3A//www.elantechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elantechnologies.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226072508id_/http%3A//www.elantechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Elan Emerging Technologies Privacy Policy
 
