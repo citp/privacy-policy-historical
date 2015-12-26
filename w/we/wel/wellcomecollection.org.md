@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100701id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226105855id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Privacy statement | Wellcome Trust
 
@@ -62,4 +62,6 @@ Any changes we may make to our privacy statement in the future will be posted on
 
 If you have any questions about data protection or require further information, please email  [dataprotection@wellcome.ac.uk](mailto:dataprotection@wellcome.ac.uk "dataprotection@wellcome.ac.uk") or write to the Data Protection Compliance Officer, Wellcome Trust, Gibbs Building, 215 Euston Road, London NW1 2BE, UK.
 
-This privacy policy covers the  [Wellcome Trust website](http://www.wellcome.ac.uk/ "Error - target node or document does not exist"), the  [Wellcome Collection website](http://www.wellcomecollection.org/ "Wellcome Collection website"), the  [Wellcome Library website](http://library.wellcome.ac.uk/ "Wellcome Library website"), the  [Wellcome Images](http://images.wellcome.ac.uk/ "Wellcome Images") website, the  [Wellcome Collection Conference Centre website](http://www.wellcomecollectionconference.org/ "Wellcome Collection Conference Centre website") and the  [Mosaic website](http://mosaicscience.com/ "Mosaic website"). Other websites linked to from these sites are not covered by this policy.
+This privacy policy covers the following websites:  [Wellcome Trust](https://web.archive.org/web/20151226105855id_/http%3A//www.wellcome.ac.uk/index.htm "Wellcome Trust"),  [Wellcome Collection](http://wellcomecollection.org/ "Wellcome Collection"),  [Wellcome Library](http://wellcomelibrary.org/ "Wellcome Library"),  [Wellcome Images](http://wellcomeimages.org/ "Wellcome Images"),  [Mosaic](http://mosaicscience.com/ "Mosaic"),  [strategy.wellcome.ac.uk](http://strategy.wellcome.ac.uk/ "strategy.wellcome.ac.uk") and  [thecrunch.wellcome.ac.uk](http://thecrunch.wellcome.ac.uk/ "thecrunch.wellcome.ac.uk"). 
+
+Other websites linked to from these sites are not covered by this policy.
