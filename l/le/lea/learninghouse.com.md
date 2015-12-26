@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learninghouse.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005542id_/http%3A//www.learninghouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninghouse.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226202915id_/http%3A//www.learninghouse.com/privacy-policy) for the most accurate reproduction.*
 
-# The Learning House – Privacy Policy
+# The Learning House Privacy Policy - The Learning House
 
 The Learning House, Incorporated (“we” or “us”) recognizes the importance of privacy to our clients and users (“you”).  In order to provide you with the best possible website experience it may be necessary for us to collect and store certain information about you.  This Privacy Policy explains what types of information we may collect from you and how we use that information to operate [www.learninghouse.com](http://www.learninghouse.com/) (the “Site”) and provide products and services to you.
 
