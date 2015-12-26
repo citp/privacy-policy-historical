@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicouch.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509192804id_/http%3A//musicouch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicouch.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226183036id_/http%3A//musicouch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Musicouch
 
