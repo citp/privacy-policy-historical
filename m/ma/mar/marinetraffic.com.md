@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the marinetraffic.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628064001id_/http%3A//www.marinetraffic.com/en/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinetraffic.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226010548id_/https%3A//www.marinetraffic.com/en/p/privacy-policy) for the most accurate reproduction.*
 
-# MarineTraffic - the most popular online service for vessel tracking - AIS Marine Traffic
+# MarineTraffic - the most popular online service for vessel tracking | AIS Marine Traffic
+
+**YOU ARE USING AN OUTDATED BROWSER**
+
+It is limiting your browsing experience. Please upgrade to a modern browser.
 
 MarineTraffic values the privacy of your personal information and your usage of our Service and Data. This Privacy Policy explains what information MarineTraffic collects about you and why and how it may be used. 
 
@@ -50,6 +54,12 @@ We also use Google Analytics to help us understand how users use our web site an
 
 Click [here](http://www.google.com/analytics/learn/privacy.html) to learn more about Google Analytics and your privacy. To opt out of being tracked by Google Analytics when using our web-based products, click [here](http://tools.google.com/dlpage/gaoptout). 
 
+### Local Storage
+
+In addition to cookies, we are utilizing browser local storage technology to store your preferences and make your user experience more consistent. Local storage is a persistent type of storage, that provides similar functionality to cookies, but its contents are not transmitted across the Internet, like cookies are. 
+
+Like cookies, you can control how local storage works on your browser settings on a global or website specific manner. Disabling the local storage functionality on your browser will result in loss of functionality of the map and other features of the website. 
+
 ### Social Media Features
 
 Our website uses social media features ("Social Features") provided by companies and services such as Facebook, Twitter and Google+ to enable you to share information via these channels. The Social Features are identified on our website by these companies' respective logos. These cookies are owned and controlled by third parties, and therefore the third parties - and not MarineTraffic - are responsible for their use. As such, we can't guarantee that we have listed every cookie you might get from a third party since a third party could change these cookies at any time as their needs change. 
@@ -70,7 +80,7 @@ For information on the purpose and scope of data processing by the social networ
 
 From time to time, we may want to contact you with information about product announcements, software updates and special offers. We also may want to contact you with information about products and services from our business partners. You may opt out of such communications at any time by clicking the "unsubscribe" link found within MarineTraffic email updates. 
 
-Your e-mail address will not be used to send unsolicited commercial messages. Newsletters or other informative mail may be sent from MarineTraffic unless you explicitly oppose to this by emailing us at [info@marinetraffic.com](mailto:info@marinetraffic.com). 
+Your e-mail address will not be used to send unsolicited commercial messages. Newsletters or other informative mail may be sent from MarineTraffic unless you explicitly oppose to this by submitting a request [here](http://help.marinetraffic.com/hc/en-us/requests/new). 
 
 ### Third parties
 
@@ -86,7 +96,7 @@ Each user is personally and solely responsible for all actions and transactions 
 
 In case you notice any unauthorised use of your account or any other (real or potential) breach of security, you have to immediately notify the Website's administrators. MarineTraffic is under no circumstances liable for any loss or damages arising from your failure to comply with this term. MarineTraffic maintains the right to delete an account, if violation of any of these Terms is proved. 
 
-If you wish to deactivate your account please contact us at [info@marinetraffic.com](mailto:info@marinetraffic.com). 
+If you wish to deactivate your account please submit a request [here](http://help.marinetraffic.com/hc/en-us/requests/new). 
 
 ## Data Storage and Security
 
@@ -106,6 +116,6 @@ We will post any revisions to this Policy, so we recommend that you periodically
 
 ## How to contact us
 
-MarineTraffic welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by email at info@marinetraffic.com or postal mail at: Maltenoz Limited, Strovolou 77. Strovolos Center, Office 204, Nicosia 2018, CY. 
+MarineTraffic welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by submitting a request [here](http://help.marinetraffic.com/hc/en-us/requests/new) or postal mail at: Maltenoz Limited, Strovolou 77. Strovolos Center, Office 204, Nicosia 2018, CY. 
 
-You have the right to delete, reform, modify and update your Data. You can at any time deactivate your account by contacting us at [info@marinetraffic.com](mailto:info@marinetraffic.com). You may contact us at the above address for any other information or objection you may have on data processing. 
+You have the right to delete, reform, modify and update your Data. You can at any time deactivate your account by submitting a request [here](http://help.marinetraffic.com/hc/en-us/requests/new). You may contact us at the above address for any other information or objection you may have on data processing. 
