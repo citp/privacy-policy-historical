@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627115724id_/http%3A//www.bigcontacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226110636id_/http%3A//www.bigcontacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BigContacts
 
-Effective Date: July 25th, 2012
+Effective Date: September 16th, 2015
 
-BigContacts ("BC") owns and operates this www.bigcontacts.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean BC. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal-Covered Information (defined below), that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including:
+
+BigContacts ("BC") owns and operates the  [www.bigcontacts.com](http://www.bigcontacts.com/) , [https://crm.bigcontacts.com](https://crm.bigcontacts.com/)  and [https://mobile.bigcontacts.com](https://crm.bigcontacts.com/) websites. All references to "we", "us", this "website" or this "site" shall be construed to mean BC. We understand that visitors to these websites are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal-Covered Information (defined below), that we collect through this website as well as our policy on the confidentiality of ALL information that we store. By using any of these websites you are accepting the practices described in this Privacy Policy.
 
 ## **HOW WE MODIFY THIS PRIVACY POLICY**
 
@@ -68,6 +70,14 @@ When you transmit Personal-Covered Information through our registration process 
 
 After the secure transfer of your Personal-Covered Information, the information is maintained and stored with 256-bit encryption.
 
+## **Customer Data**
+
+BigContacts Customers ("Customer") may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). BigContacts will not review, share, distribute, or reference any such Customer Data except as may be required by law. BigContacts may access Customer Data only for the purpose of providing the Services or preventing or addressing service or technical problems or as may be required by law.
+
+BigContacts will use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but not less than reasonable care) and will not to use any Confidential Information of our Customers except as otherwise authorized by the Customer in writing.
+
+**Compelled Disclosure**. BigContacts may disclose Confidential Information of the Customer to the extent compelled by law to do so, provided the BigContacts gives the Customer prior notice of the compelled disclosure (to the extent legally permitted) and reasonable assistance, at the Customer's cost, if the Customer wishes to contest the disclosure. If BigContacts is compelled by law to disclose the Customer’s Confidential Information as part of a civil proceeding to which the Customer is a party, and the Customer is not contesting the disclosure, the Customer will reimburse BigContacts for its reasonable cost of compiling and providing secure access to that Confidential Information. 
+
 ## **ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE**
 
 Any Personal-Covered Information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of Personal-Covered Information outside your country of residence to the United States.
@@ -94,9 +104,11 @@ We are committed to preserving online privacy for all of its website visitors, i
 
 ## **CONTACT US**
 
+If you have any questions regarding this Privacy Policy, please contact the owner and operator of any of the above mentioned websites at:
+
+Email: [compliance.officer@bigcontacts.com](mailto:compliance.officer@bigcontacts.com "compliance.officer@bigcontacts.com")
+
 Telephone: 888-286-6578  
 Facsimile:  888-341-3586
-
-Material Modifications Since July 25th, 2012:  none.
 
 [Learn More](https://web.archive.org/data-security/ "<span style="text-decoration: underline;"><strong>Learn More</strong></span>") about the measures we take to protect your important data.
