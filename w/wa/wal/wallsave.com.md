@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the wallsave.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622064204id_/http%3A//www.wallsave.com/doc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallsave.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226081159id_/http%3A//www.wallsave.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Wallsave Download Manager
-
-With **Wallsave Download Manager** you can download all our wallpapers and manage in your computer. Also Wallpaper will be installed automatically if you wish.
-
-  
-
-
 Yουr privacy іѕ vital tο υѕ. Tο better protect уουr privacy wе provide thіѕ notice explaining ουr online information practices аnd thе choices уου саn mаkе аbουt thе way уουr information іѕ collected аnd used. Tο mаkе thіѕ notice simple tο find, wе mаkе іt available οn ουr homepage аnd аt еνеrу point whеrе personally identifiable information mау bе requested.
 
-Whеn visiting Wallsave.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. Wallsave.com will be logged Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use. Thіѕ information іѕ purely used tο analyze trends, administer thе site, track users movement аnd gather broad demographic information fοr internal υѕе.
-
-  
-
+Whеn visiting Wallpapersxl.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. Wallpapersxl.com will be logged Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use. Thіѕ information іѕ purely used tο analyze trends, administer thе site, track users movement аnd gather broad demographic information fοr internal υѕе.
 
 ## How we use the cookies?
 
@@ -22,16 +12,10 @@ Cookies are alphanumeric identifiers that a Web server sends to your computer wh
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-  
-
-
 ## Our commitment to childrens privacy.
 
 Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our Web sites from those we actually know are under 13, and no part of our Web site is structured to attract anyone under 13.
 
-  
-
-
 ## Changes to privacy policy.
 
-The contents of the statement can be changed at any time, in accordance with our policy. If уου hаνе аnу qυеѕtіοnѕ regarding thе privacy policy, please email to: [wallsave@gmail.com](mailto:wallsave@gmail.com)
+The contents of the statement can be changed at any time, in accordance with our policy. If уου hаνе аnу qυеѕtіοnѕ regarding thе privacy policy, please email to: [wallpapersxl@gmail.com](mailto:wallpapersxl@gmail.com)
