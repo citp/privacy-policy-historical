@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historydiscussion.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182802id_/http%3A//www.historydiscussion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historydiscussion.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226072210id_/http%3A//www.historydiscussion.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | History Discussion - Discuss Anything About History
+# Privacy Policy History Discussion - Discuss Anything About History
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mailbox@historydiscussion.net. At www.historydiscussion.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.historydiscussion.net and how it is used.
 
