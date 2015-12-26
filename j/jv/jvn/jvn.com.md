@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvn.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608131117id_/http%3A//www.jvn.com/privacy-policy/uncategorised/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvn.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226014544id_/http%3A//www.jvn.com/privacy-policy/uncategorised/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,6 +38,6 @@
   * i. Our website is directed to people who are at least 13 years or older, and we do not anticipate that children under the age of 13 will provide personally identifiable information through our website. If we learn that we have information about a child under the age of 13, we will delete it. 
   * • Like most websites, information about your computer, such as your IP address, may automatically be collected, which may track your visits to our website. This information is used to maintain quality of service, and to provide general statistics regarding use of and visits to our website. We do not make public such information, which are for internal use only. 
   * • By using our site, you consent to our privacy policy.
-  * • If you have any questions regarding our privacy policy, you may contact us at [ConsumerProtection@JVN.com](mailto:ConsumerProtection@JVN.com)
+  * • If you have any questions regarding our privacy policy, you may contact us at [ConsumerProtection@JVN.com](mailto:ConsumerProtection@JVN.com)This email address is being protected from spambots. You need JavaScript enabled to view it. 
 
 
