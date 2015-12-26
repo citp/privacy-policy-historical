@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boonieplanet.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525080407id_/http%3A//apps.moviestarplanet.com/boonie-planet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boonieplanet.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226074427id_/http%3A//apps.moviestarplanet.com/boonieplanet-privacy-policy) for the most accurate reproduction.*
 
-# MSPLandingPages
+# MovieStarPlanet Group of Games
 
-Boonie Planet Privacy Policy
+BooniePlanet Privacy Policy
 
-MovieStarPlanet ApS is an online gaming company with a focus on producing social interactive games and apps for children. We are behind one of the world’s largest online gaming and social community sites for tweens – MovieStarPlanet. Boonie Planet is part of part of the MovieStarPlanet ApS Group of Games.
+MovieStarPlanet ApS is an online gaming company with a focus on producing social interactive games and apps for children. We are behind one of the world’s largest online gaming and social community sites for tweens – MovieStarPlanet. Boonie lanet is part of part of the MovieStarPlanet ApS Group of Games.
 
 ## Privacy Policy
 
@@ -24,16 +24,16 @@ Table of Contents and Quick Links
 9\. Data Security
 
 Introduction  
-This Privacy Policy governs the collection of personally identifiable information on the MovieStarPlanet APS group of games. This includes MyStarPlanet, Boonie Planet, Fame City, RoboBlast Planet and any other apps that are produced as part of MovieStarPlanet APS. This Privacy Policy is incorporated into and made a part of the MovieStarPlanet Terms and Conditions.  
+This Privacy Policy governs the collection of personally identifiable information on the MovieStarPlanet APS group of games. This includes MyStarPlanet, BooniePlanet, Fame City, RoboBlastPlanet and any other apps that are produced as part of MovieStarPlanet APS. This Privacy Policy is incorporated into and made a part of the MovieStarPlanet Terms and Conditions.  
 By registering for an account, or accessing and using the MovieStarPlanet games, users agree to be bound by the provisions of this Privacy Policy. The provisions of this Privacy Policy may be changed from time to time without notice and at the sole discretion of MovieStarPlanet ApS. We will post any revised Privacy Policy on this page and show the date the revised Privacy Policy was modified and the effective date of the modifications. Users should check this page regularly for any such changes. Continued access or use of all games and apps associated with MovieStarPlanet ApS, constitutes acceptance of any modifications of the Privacy Policy.
 
 1\. The Information We Collect
 
-Upon creation of a Boonie Planet account, we ask you to provide us with the following basic information:  
+Upon creation of a BooniePlanet account, we ask you to provide us with the following basic information:  
 A username  
 We will ask you to give us the moneth and year you were born when you create your username. This is used as part of our child safeguarding procedures.  
-Like most online gaming companies and websites, we receive and store certain types of information whenever users visit the site. In addition to the information individuals provide, we may collect the name of the domain and host from which users access the Internet; the IP address of the computer used; the browser and operating system used; the date and time of access; and the Internet address of the website linking to Boonie Planet (including any search terms used to find Boonie Planet or MovieStarPlanet through a search engine such as Google).  
-Boonie Planet is linked to other MovieStarPlanet ApS online games that users of Boonie Planet can also access. Some of our games have social networking features that allow users to communicate in a number of positive ways. The communication may occur in chat rooms, forums or with the sharing of animated films they have created with the tools we provide. We may collect information that is provided on the user profile page and information that is made available from creative activities within the games. This could be information made available in chat rooms and movies or ArtBooks that users have created. This information will only be used for internal use, such as safety and marketing purposes.
+Like most online gaming companies and websites, we receive and store certain types of information whenever users visit the site. In addition to the information individuals provide, we may collect the name of the domain and host from which users access the Internet; the IP address of the computer used; the browser and operating system used; the date and time of access; and the Internet address of the website linking to BooniePlanet (including any search terms used to find BooniePlanet or MovieStarPlanet through a search engine such as Google).  
+BooniePlanet is linked to other MovieStarPlanet ApS online games that users of BooniePlanet can also access. Some of our games have social networking features that allow users to communicate in a number of positive ways. The communication may occur in chat rooms, forums or with the sharing of animated films they have created with the tools we provide. We may collect information that is provided on the user profile page and information that is made available from creative activities within the games. This could be information made available in chat rooms and movies or ArtBooks that users have created. This information will only be used for internal use, such as safety and marketing purposes.
 
 2\. Complaints  
 If you have any complaints about any aspect of the games we produce, you should first contact us using the ‘contact form’ that is accessed here or accessed at the bottom of the front page on all our domains. Your complaint will be dealt with as soon as possible by the Support Team.
@@ -49,11 +49,11 @@ We make users aware of the safety concerns in relation to revealing personal inf
 
 4\. Cookies
 
-As part of the MovieStarPlanet Group of games, Boonie Planet may place a text file in the user’s web browser – this is called a “cookie”. Cookies collect information that helps us to improve and personalize each user experience on Boonie Planet. Cookies, for example, tell us how many visitors we have on the game and which parts of the game are most popular. They help generate statistics (which are aggregated and non-personal) that Boonie Planet presents to members, partners, sponsors and others stakeholders.
+As part of the MovieStarPlanet Group of games, BooniePlanet may place a text file in the user’s web browser – this is called a “cookie”. Cookies collect information that helps us to improve and personalize each user experience on BooniePlanet. Cookies, for example, tell us how many visitors we have on the game and which parts of the game are most popular. They help generate statistics (which are aggregated and non-personal) that BooniePlanet presents to members, partners, sponsors and others stakeholders.
 
 5\. Links to External Websites
 
-The MovieStarplanet ApS group of games may contain links to other websites not controlled by MovieStarPlanet ApS. We make no representations or warranties concerning such websites. When individuals use external websites, their use is governed by that site’s privacy policies and not by the MovieStarPlanet ApS Privacy Policy. Users should review the Privacy Policy of each website carefully, before providing any personal information.
+The MovieStarPlanet ApS group of games may contain links to other websites not controlled by MovieStarPlanet ApS. We make no representations or warranties concerning such websites. When individuals use external websites, their use is governed by that site’s privacy policies and not by the MovieStarPlanet ApS Privacy Policy. Users should review the Privacy Policy of each website carefully, before providing any personal information.
 
 6\. Chat and other Social Interaction Features
 
