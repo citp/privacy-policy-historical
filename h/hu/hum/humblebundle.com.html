@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the humblebundle.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622051704id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the humblebundle.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226061855id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=""><head>
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script> 
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script> 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -13,36 +13,23 @@
   ga('require', 'ecommerce');
   ga('require', 'linkid', 'linkid.js');
 
+  function _hbga(verb){
+    ga.apply(this, arguments);
+  }
 
-  
-
-
-  ga('send', 'pageview');
-
+  _hbga('send', 'pageview');
 </script> 
 <script> 
-
-function _gaTrackEvent_internal(category, action, opt_label, opt_value, opts) {
-  ga('send', 'event', category, action, opt_label, opt_value, opts);
-}
-function _gaTrackPageview_internal(page) {
-  ga('send', 'pageview', page);
-}
-function _gaSetCustomDimension(index, value, opt_scope) {
-  opt_scope = opt_scope || 3;
-  ga('set', 'dimension' + index, value, opt_scope);
-}
-
-function _gaTrackEvent(category, action, opt_label, opt_value, opts) {
-  category = category || ('/' + window.location.pathname.split('/')[1]);
-  _gaTrackEvent_internal(category, action, opt_label, opt_value, opts);
-}
-function _gaTrackPageview(page) {
-  _gaTrackPageview_internal(page);
-}
-function _gaTrackEventNoninteractive(category, action, opt_label, opt_value) {
-  _gaTrackEvent(category, action, opt_label, opt_value, {'nonInteraction': 1})
-}
+  function _gaTrackEvent(category, action, opt_label, opt_value, opts) {
+    category = category || ('/' + window.location.pathname.split('/')[1]);
+    _hbga('send', 'event', category, action, opt_label, opt_value, opts);
+  }
+  function _gaTrackPageview(page) {
+    _hbga('send', 'pageview', page);
+  }
+  function _gaTrackEventNoninteractive(category, action, opt_label, opt_value) {
+    _gaTrackEvent(category, action, opt_label, opt_value, {'nonInteraction': 1})
+  }
 </script> 
 
   <title>Privacy Policy</title>
@@ -55,7 +42,9 @@ function _gaTrackEventNoninteractive(category, action, opt_label, opt_value) {
 
   <meta name="medium" content="news">
   <meta property="og:site_name" content="Humble Bundle">
-  <meta property="og:type" content="website"><!-- social -->
+  <meta property="og:type" content="website">
+  <meta property="fb:app_id" content="101146256651042">
+  <meta property="fb:profile_id" content="162315830478396"><!-- social -->
   
   <!-- /social -->
 
@@ -65,9 +54,9 @@ function _gaTrackEventNoninteractive(category, action, opt_label, opt_value) {
   <link rel="shortcut icon" href="https://humblebundle-a.akamaihd.net/static/hashed/47e474eed38083df699b7dfd8d29d575e3398f1e.ico">
 
   <link rel="alternate" type="application/rss+xml" title="Humble Mumble" href="http://blog.humblebundle.com/rss"><!-- styles-linked -->
-  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/ac55e81857c680f3e38432408698ff092ffa93df.css">
-  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/ec6bd363496548183232c67082c7e28d2c732323.css">
-  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/a6a34a0b5c02c11767450fbd63b9a7a5763acea7.css">
+  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/03fbcc0b73f42cfafdc68f96c72df1645858af1b.css">
+  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/782d85a40e04ed6f8506346a02b53d6c0c7fdbe3.css">
+  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/3eaa1ae897652734dd48a59942e25ceab9014b43.css">
   
   <!-- /styles-linked -->
   <!-- styles-required -->
@@ -169,6 +158,31 @@ body {
     box-shadow: 1px 1px 5px #000;
     display:none;
   }
+.tipsy { font-size: 10px; position: absolute; padding: 5px; z-index: 100000; }
+  .tipsy-inner { background-color: #000; color: #FFF; max-width: 200px; padding: 5px 8px 4px 8px; text-align: center; }
+
+  /* Rounded corners */
+  .tipsy-inner { border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+  
+  /* Uncomment for shadow */
+  /*.tipsy-inner { box-shadow: 0 0 5px #000000; -webkit-box-shadow: 0 0 5px #000000; -moz-box-shadow: 0 0 5px #000000; }*/
+  
+  .tipsy-arrow { position: absolute; width: 0; height: 0; line-height: 0; border: 5px dashed #000; }
+  
+  /* Rules to colour arrows */
+  .tipsy-arrow-n { border-bottom-color: #000; }
+  .tipsy-arrow-s { border-top-color: #000; }
+  .tipsy-arrow-e { border-left-color: #000; }
+  .tipsy-arrow-w { border-right-color: #000; }
+  
+	.tipsy-n .tipsy-arrow { top: 0px; left: 50%; margin-left: -5px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-nw .tipsy-arrow { top: 0; left: 10px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent;}
+    .tipsy-ne .tipsy-arrow { top: 0; right: 10px; border-bottom-style: solid; border-top: none;  border-left-color: transparent; border-right-color: transparent;}
+  .tipsy-s .tipsy-arrow { bottom: 0; left: 50%; margin-left: -5px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-sw .tipsy-arrow { bottom: 0; left: 10px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
+    .tipsy-se .tipsy-arrow { bottom: 0; right: 10px; border-top-style: solid; border-bottom: none; border-left-color: transparent; border-right-color: transparent; }
+  .tipsy-e .tipsy-arrow { right: 0; top: 50%; margin-top: -5px; border-left-style: solid; border-right: none; border-top-color: transparent; border-bottom-color: transparent; }
+  .tipsy-w .tipsy-arrow { left: 0; top: 50%; margin-top: -5px; border-right-style: solid; border-left: none; border-top-color: transparent; border-bottom-color: transparent; }
 /* THIS IS AN AUTO-GENERATED FILE */
 .disabled.gray-button { background: #e4e4e4; cursor: default; }
 
@@ -191,6 +205,10 @@ body {
 .generic-popup.content h1 span { display: inline-block; height: 25px; width: 25px; margin-right: 15px; position: relative; top: 5px; }
 
 .generic-popup.content h2 { font-size: 14px; font-weight: 300; text-shadow: 0 0 1px #eee; margin: 20px 0 0 0; color: #666; }
+
+.generic-popup.content .split-left { color: #666; display: inline-block; text-align: left; width: 180px; }
+
+.generic-popup.content .split-right { color: #666; display: inline-block; text-align: right; width: 180px; }
 
 .generic-popup input[type='text'], .generic-popup input[type='password'] { background: none; border: 1px solid #ccc; border-top: 1px solid #999; border-radius: 3px; box-shadow: 0 1px 2px #bbb inset; padding: 9px; font-size: 16px; color: #333; display: block; width: 342px; margin: 0; }
 
@@ -428,27 +446,18 @@ input[type="text"].classy-input, input[type="password"].classy-input { border: 1
   
 
   <!-- scripts-linked -->
-  <script src="https://humblebundle-a.akamaihd.net/ad83c3f3e44fb426d2a95c30a8dc9ce789d15133/dist/main.min.js"></script>
+
+  <script id="main-js" data-dist_version="45a2cd760446b2e798a36c87e83da4087ec92330" src="https://humblebundle-a.akamaihd.net/45a2cd760446b2e798a36c87e83da4087ec92330/dist/main.min.js"></script>
+
   <script async="" src="https://checkout.stripe.com/checkout.js"></script>
   <!-- /scripts-linked -->
-  <!-- scripts-raven&setup -->
+  <!-- scripts-setup -->
   <script>
-
-     var ravenOptions = {
-      whitelistUrls: [
-        /humblebundle\.com/,
-        /pubnub\.com/,
-        /stripe\.com/
-      ]
-    };
-    // This is limited to 10 events per minute because it's so noisy
-    Raven.config('https://66f1d77a834744b7baccac297f6992c1@app.getsentry.com/14291', ravenOptions).install();
-
     
     window.app = window.app || {};
-    window.pageData = {atTime: 1434950224 };
+    window.pageData = {atTime: 1451110735 };
   </script>
-  <!-- /scripts-raven&setup -->
+  <!-- /scripts-setup -->
   <!-- scripts-jsblock -->
   <script>
     
@@ -469,12 +478,45 @@ input[type="text"].classy-input, input[type="password"].classy-input { border: 1
     }
   </script>
   <!-- /google-site-search-block -->
+
+  <script>
+window.models = window.models || {};
+
+window.models.product_json = {};
+window.models.keyentity_json = {};
+
+window.models.user_json = {};
+
+window.models.request = {
+  country_code: "US",
+  humble_guard_enabled: null
+}
+  </script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1658430177760250');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1658430177760250&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 </head>
 
 
 
 <body>
+
 <div class="page-wrap">
+
+
+
+
 
 
 
@@ -489,20 +531,27 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
 
 <div class="navigation-container">
 
+
 <!--[if lte IE 9]><style>/* THIS IS AN AUTO-GENERATED FILE */
 .navbar { display: inline-block; width: 100%; }
 .navbar ul { display: inline-block; }
 .navbar-items-menu { float: right; }</style><script>/*! @source http://purl.eligrey.com/github/classList.js/blob/master/classList.js*/
 ;if("document" in self&&!("classList" in document.createElement("_"))){(function(j){"use strict";if(!("Element" in j)){return}var a="classList",f="prototype",m=j.Element[f],b=Object,k=String[f].trim||function(){return this.replace(/^\s+|\s+$/g,"")},c=Array[f].indexOf||function(q){var p=0,o=this.length;for(;p<o;p++){if(p in this&&this[p]===q){return p}}return -1},n=function(o,p){this.name=o;this.code=DOMException[o];this.message=p},g=function(p,o){if(o===""){throw new n("SYNTAX_ERR","An invalid or illegal string was specified")}if(/\s/.test(o)){throw new n("INVALID_CHARACTER_ERR","String contains an invalid character")}return c.call(p,o)},d=function(s){var r=k.call(s.getAttribute("class")||""),q=r?r.split(/\s+/):[],p=0,o=q.length;for(;p<o;p++){this.push(q[p])}this._updateClassName=function(){s.setAttribute("class",this.toString())}},e=d[f]=[],i=function(){return new d(this)};n[f]=Error[f];e.item=function(o){return this[o]||null};e.contains=function(o){o+="";return g(this,o)!==-1};e.add=function(){var s=arguments,r=0,p=s.length,q,o=false;do{q=s[r]+"";if(g(this,q)===-1){this.push(q);o=true}}while(++r<p);if(o){this._updateClassName()}};e.remove=function(){var t=arguments,s=0,p=t.length,r,o=false;do{r=t[s]+"";var q=g(this,r);if(q!==-1){this.splice(q,1);o=true}}while(++s<p);if(o){this._updateClassName()}};e.toggle=function(p,q){p+="";var o=this.contains(p),r=o?q!==true&&"remove":q!==false&&"add";if(r){this[r](p)}return !o};e.toString=function(){return this.join(" ")};if(b.defineProperty){var l={get:i,enumerable:true,configurable:true};try{b.defineProperty(m,a,l)}catch(h){if(h.number===-2146823252){l.enumerable=false;b.defineProperty(m,a,l)}}}else{if(b[f].__defineGetter__){m.__defineGetter__(a,i)}}}(self))};</script><![endif]-->
 
+
 <nav class="navbar">
   <ul class="navbar-items-left">
+
     <li class="navbar-item-header">
       <a href="/">
         <i class="navbar-item-header-icon hb-bundle"></i>
+  
         Humble Bundle
+  
       </a>
+
     </li>
+  
     <li class="navbar-item">
       <a href="https://www.twitter.com/humble" target="_blank">
         <i class="navbar-item-social-icon hb-twitter"></i>
@@ -523,8 +572,13 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
         <i class="navbar-item-steam-icon hb-steam"></i>
       </a>
     </li>
+  
+
+
   </ul>
   <ul class="navbar-items-right">
+
+  
     <li class="navbar-item">
       <a href="https://support.humblebundle.com" target="_blank">
         <i class="navbar-item-icon hb-support"></i>
@@ -537,15 +591,60 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
         Blog
       </a>
     </li>
-      <li class="navbar-item">
+  
+  
+  
+  
+  
+<li class="navbar-item quest-center hidden">
+  <a href="#" class="quest-center-toggle">
+    <span class="quest-center-item-count navbar-item-count tada"></span>
+    <i class="navbar-item-icon fa fa-trophy"></i>
+    Quests
+    <i class="fa fa-caret-down"></i>
+  </a>
+  <div class="quest-center-dropdown-backing hidden"></div>
+  <div class="quest-center-dropdown-wrapper">
+    <div class="quest-center-dropdown-container hidden">
+    
+      <div class="quest-center-body js-quest-center-body">
+      
+        <div class="js-quest-center-section js-quest-center-active-quests">
+          <span class="quest-center-title">Active Quests</span>
+          <div class="js-quest-card-container quest-card-container"></div>
+        </div>
+      
+      
+        <div class="js-quest-center-section js-quest-center-complete-quests">
+          <span class="quest-center-title">Complete Quests</span>
+          <div class="js-quest-card-container quest-card-container"></div>
+        </div>
+      
+      </div>
+    
+    </div>
+  </div>
+</li>
+  
+
+      <li class="navbar-item navbar-user-item">
         
+    
         <a href="#" class="account-login" data-target-popup="#account-login">
           <i class="navbar-item-icon hb-user"></i>
           Log in / Sign up
         </a>
+    
       </li>
+
+
   </ul>
 </nav>
+
+  <div id="quest-root">
+  <div id="quest-calls-to-action"></div>
+</div>
+
 </div>
 
 
@@ -555,6 +654,9 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
   <!--[if lte IE 9]><style>/* THIS IS AN AUTO-GENERATED FILE */
 .tabbar { display: inline-block; width: 100%; text-align: center; }
 .tabbar-tab { display: inline-block; }</style><![endif]-->
+
+
+
 
 
 
@@ -907,6 +1009,7 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
     <h1><span class='main-base-arrow js-loader'></span>Create Account</h1>
     <h2 class='subtitle'>Create an account to organize your bundles.</h2>
     <form action='https://www.humblebundle.com/signup' data-input-prefix='account-signup-' method='POST'>
+
       <p class='input-holder'>
         <label class='account-infield' for='account-signup-email'>Email</label>
         <input name='email' type='text' id='account-signup-email' class='account-input js-focus'>
@@ -919,7 +1022,7 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
         By clicking &quot;Sign Up&quot; and creating a humblebundle.com account, I acknowledge that I am 13 years of age or older and that I understand and agree to this website&#39;s <a href='/terms' target='_blank'>Terms and Conditions</a> and <a href='/privacy' target='_blank'>Privacy Policy</a>.
       </p>
       <p class='input-holder'>
-        <input id='account-signup-subscribe' name='subscribe' type='checkbox'>
+        <input id='account-signup-subscribe' name='subscribe' type='checkbox' value='true'>
         <label for='account-signup-subscribe'>Notify me about Humble Bundle promotions.</label>
       </p>
 
@@ -943,7 +1046,7 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
     <h1><span class='main-base-arrow js-loader'></span>Log In</h1>
 
     <form id='account-login-form' method='post' action='https://www.humblebundle.com/processlogin' target='hidden-login-iframe' data-input-prefix='account-login-' data-captcha-url='https://www.humblebundle.com/login/captcha'>
-      <input type='hidden' class='csrftoken' name='_le_csrf_token' value='zRBgvGHERqbk3gMt-1-1434950171' />
+      <input type='hidden' class='csrftoken' name='_le_csrf_token' value='apIQyi-X2zgzBGTR-1-1451110450' />
       <input name='goto' type='hidden' value=''>
       <input name='qs' type='hidden' value=''>
       <input name='script-wrapper' type='hidden' value='login_callback'>
@@ -967,7 +1070,7 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
       <div class='no-center'>
         <div class='link-holder'>
           <a class='forgot-pw' href='/user/forgot' data-target-popup='#account-pw-reset'>Forgot your password?</a><br/>
-          <a class='js-show-2fa show-2fa' href="#">Two-factor authentication</a>
+          <a class='js-show-2fa show-2fa' href="#">Two-step verification</a>
 
         </div>
         <div class='button-holder'>
@@ -988,7 +1091,7 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
     <h1><span class='main-base-arrow js-loader'></span>Confirm Password</h1>
     <h2 class='subtitle warning'>For security reasons, please enter your current password.</h2>
     <form id='account-login-form' method='post' action='https://www.humblebundle.com/user/confirm-password' data-input-prefix='account-login-'>
-      <input type='hidden' class='csrftoken' name='_le_csrf_token' value='zRBgvGHERqbk3gMt-1-1434950171' />
+      <input type='hidden' class='csrftoken' name='_le_csrf_token' value='apIQyi-X2zgzBGTR-1-1451110450' />
       <p class='input-holder'>
         <label id='account-login-password-label' class='account-infield' for='account-login-password'>Password</label>
         <input name='password' type='password' value='' id='account-login-password' class='account-input'>
@@ -1031,10 +1134,16 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
       <div class='input-holder'>
         <div id='account-humble-guard-captcha'></div>
       </div>
-      <div class='no-center'>
-        <div class='button-holder'>
-          <a class='button-link cancel js-cancel' href='#'><span class='gray-button'>Cancel</span></a>
-          <a class='button-link submit js-submit' href='#'><span class='green-button'>Verify</span></a>
+      <div class="split-left">
+        
+        <a href="https://support.humblebundle.com/hc/en-us/articles/202434394-Humble-Account-Browser-Verification" target="_blank"><i class="fa fa-question-circle"></i></a>
+        <a href="https://support.humblebundle.com/hc/en-us/articles/202434394-Humble-Account-Browser-Verification" target="_blank">Need help?</a>
+      </div><div class="split-right">
+        <div class='no-center'>
+          <div class='button-holder'>
+            <a class='button-link cancel js-cancel' href='#'><span class='gray-button'>Cancel</span></a>
+            <a class='button-link submit js-submit' href='#'><span class='green-button'>Verify</span></a>
+          </div>
         </div>
       </div>
     </form>
@@ -1045,7 +1154,7 @@ async_js('//pubnub.a.ssl.fastly.net/pubnub-3.5.4.min.js', function () {
   <div class='generic-popup content'>
     <h1><span class='main-base-arrow js-loader'></span>Confirm Two-Step Verification</h1>
     <form id='account-login-form' method='post' action='https://www.humblebundle.com/user/confirm-authy' data-input-prefix='account-login-'>
-      <input type='hidden' class='csrftoken' name='_le_csrf_token' value='zRBgvGHERqbk3gMt-1-1434950171' />
+      <input type='hidden' class='csrftoken' name='_le_csrf_token' value='apIQyi-X2zgzBGTR-1-1451110450' />
       <p id='account-confirm-authy-token-holder' class='input-holder'>
         <label id='account-login-authy-token-label' class='account-infield' for='account-login-authy-token'>Authy token</label>
         <input name='authy-token' type='text' value='' id='account-login-authy-token' class='account-input' style='display: inline'>
@@ -1147,6 +1256,9 @@ for(var c=0,d=0,e=0,f=0;c+d<b.length&&c+e<a.length;){if(b[c+d]==a[c+e])f++;else 
         $toSlideDown: this.$('.slide-down'),
         $form: this.$("form")
       });
+      if (this.options.required){
+        this.$(this.cancelEl).hide();
+      }
 
       this.$toSlideDown.css('display','none');
 
@@ -1162,7 +1274,12 @@ for(var c=0,d=0,e=0,f=0;c+d<b.length&&c+e<a.length;){if(b[c+d]==a[c+e])f++;else 
       });
       this.$form.keypress(function(e) { if (e.which == 13) e.preventDefault(); });
     },
-
+    beforeCancel: function (){
+      if (this.options.required){
+        return false;
+      }
+      return true;
+    },
     onRendered: function () {
       var isIos = /(iPod|iPhone|iPad)/.test(navigator.userAgent);
       if (isIos) {
@@ -1368,7 +1485,8 @@ for(var c=0,d=0,e=0,f=0;c+d<b.length&&c+e<a.length;){if(b[c+d]==a[c+e])f++;else 
       }
     },
 
-    _resend_humble_guard_code: function() {
+    _resend_humble_guard_code: function(e) {
+      e.preventDefault();
       var $text = $('.resend-email');
       $text.html('Resending....');
       $.ajax({
@@ -1404,8 +1522,6 @@ for(var c=0,d=0,e=0,f=0;c+d<b.length&&c+e<a.length;){if(b[c+d]==a[c+e])f++;else 
 
     events: {
       'click .js-send-sms': 'sendSms',
-      'click .create-account': 'triggerCancel',
-      'click .forgot-pw': 'triggerCancel'
     },
 
     onRendered: function () {
@@ -1812,6 +1928,14 @@ var runanalytics = function() {
         });
       }
 
+      window.fbq && fbq('track', 'Purchase', {
+        content_name: data.bundle,
+        value: data.amount,
+        currency: 'USD',
+        order_id: data.uid,
+        num_items: '1'
+      });
+
       ga('ecommerce:send');
     },'json');
   };
@@ -1822,7 +1946,6 @@ var runanalytics = function() {
 
 };
 runanalytics();
-  
   </script>
   <!-- /scripts-typewatch & analytics -->
   <!-- scripts-amazon-hp -->
@@ -1909,6 +2032,88 @@ $(function(){
         container: document.querySelector(options.containerTag)
       };
 
+
+      ///
+      /// Dropdown A/B Test
+      ///
+      // Whether we should show a notification to the user
+      this.show_notification = false;
+      // Whether we should record metrics for the user
+      this.record_metrics = false;
+      // Map from analytics string to the coupon it's relevant for
+      var AnalyticsCouponTypes = {
+        'notification': 'abtest_coreplatform_notify',
+        'nonotification': 'abtest_coreplatform_nonotify'
+      }
+      this.notification_analytics_status = {
+        'served': false,
+        'clicked_menu': false,
+        'clicked_coupons': false
+      };
+      var that = this;
+      // Only make request if we have a logged-in user...
+      if ($('.navbar-item-dropdown.navbar-user-item a.account-login').length === 0) {
+        $.ajax({
+          url: '/store/coupons?affiliate=humblebundle',
+          method: 'GET',
+          dataType: 'json',
+          success: function(coupons) {
+            // Collect machine names of all the coupons we have
+            var definitions = [];
+            for(var idx in coupons) {
+              var coupon = coupons[idx];
+              definitions.push(coupon.coupon_definition);
+            }
+            // Based on the coupon's machine names, determine what we're doing
+            if (definitions.indexOf(AnalyticsCouponTypes.notification) !== -1) {
+              that.show_notification = true;
+              that.record_metrics = true;
+            } else if (definitions.indexOf(AnalyticsCouponTypes.nonotification) !== -1) {
+              that.record_metrics = true;
+            }
+            if (that.record_metrics) {
+
+              $(that.el.container).find('a[href="/home/coupons"]').bind('click', function() {
+                if (!that.notification_analytics_status['clicked_coupons']) {
+                  var metric_type = that.show_notification ?
+                    'clicked coupon menu (notification)' : 'clicked coupon menu (no notification)';
+                  _gaTrackEvent('coreplatform-notification-ab-test-extended', metric_type);
+                  that.notification_analytics_status['clicked_coupons'] = true;
+                }
+              });
+
+              if (!that.notification_analytics_status['served']) {
+                var metric_type = that.show_notification ? 'notification shown' : 'notification hidden';
+                _gaTrackEvent(
+                  'coreplatform-notification-ab-test-extended',
+                  metric_type
+                );
+                that.notification_analytics_status['served'] = true;
+              }
+            }
+
+            if (that.show_notification) {
+              $(that.el.toggle)
+                .find('.js-navbar-coupon-count')
+                .text(definitions.length)
+                .css({
+                  'display': 'inline-block'
+                })
+                .parent('.navbar-item-dropdown-toggle')
+                  .addClass('coupon-count-adjustment');
+              $(that.el.container)
+                .find('.js-navbar-coupon-count')
+                .text(definitions.length)
+                .css({
+                  'display': 'inline-block'
+                })
+                .parent('a')
+                  .addClass('coupon-count-adjustment');
+            }
+          }
+        });
+      }
+
       this.events = {
         toggleClick: (function(_this) {
           return function(event) {
@@ -1916,6 +2121,14 @@ $(function(){
             event.preventDefault();
             _this.toggleState();
             _this.render();
+            if (_this.record_metrics && !_this.notification_analytics_status['clicked_menu']) {
+              var notificationItem = _this.show_notification ? 'clicked user menu (notification)' : 'clicked user menu (no notification)';
+              _gaTrackEvent(
+                'coreplatform-notification-ab-test-extended',
+                notificationItem
+              );
+              _this.notification_analytics_status['clicked_menu'] = true;
+            }
             if (_this.visible) {
               return _this.bindToDocument();
             } else {
@@ -2035,6 +2248,18 @@ $(function(){
   }
 
 }).call(this);
+if (typeof require !== 'undefined') {
+  require([
+    'quests/quest_center'
+  ], function(QuestCenter) {
+    var qc = new QuestCenter({
+      $el: $('.quest-center'),
+      debug_preamble: '',
+      channel: ''
+    });
+    return qc;
+  });
+}
 var MAILCHECK_DOMAINS = ['gmail.com', 'hotmail.com', 'yahoo.com', 'hotmail.co.uk', 'googlemail.com', 'gmx.de', 'live.com', 'live.ca', 'web.de', 'aol.com', 'msn.com', 'comcast.net', 'me.com', 'gmx.net', 'hotmail.fr', 'mail.ru', 'yahoo.co.uk', 'live.co.uk', 'yandex.ru', 'mac.com', 'yahoo.de', 'yahoo.fr'];
 
 
@@ -2092,10 +2317,11 @@ function bindEmailField($field, setEmailMessage){
 
 
 
+
 </div> <!-- /.page-wrap -->
 
-
-  <!--[if lte IE 9]><style>/* THIS IS AN AUTO-GENERATED FILE */
+  
+    <!--[if lte IE 9]><style>/* THIS IS AN AUTO-GENERATED FILE */
 .site-footer-col, .site-footer-cols, .site-footer-social-widget-list { display: inline-block; }
 .site-footer-col section, .site-footer-cols section, .site-footer-social-widget-list section, .site-footer-col div, .site-footer-cols div, .site-footer-social-widget-list div, .site-footer-col .site-footer-social-widget-list-item, .site-footer-cols .site-footer-social-widget-list-item, .site-footer-social-widget-list .site-footer-social-widget-list-item { display: inline-block; }
 
@@ -2186,6 +2412,7 @@ function bindEmailField($field, setEmailMessage){
     </nav>
   </div>
 </footer><!-- /.site-footer -->
+  
 
 
 <!-- templates -->
