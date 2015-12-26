@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the findmybarclaycard.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045713id_/https%3A//www.barclaycardus.com/apply/action/handleFile%3Fid%3DprivacyPolicyForwardUrl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmybarclaycard.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061614id_/https%3A//www.barclaycardus.com/servicing/footerLinks%3FhandlePrivacy%3D) for the most accurate reproduction.*
 
-# Privacy and Security
+# Privacy Policy
 
-Revised as of December 2013
-
-At Barclays Bank Delaware ("Barclaycard") we respect your right to personal privacy, online and off. Our Privacy Policy is designed to provide you with protection and value. And it's written in "plain English." Here are the highlights: 
+At Barclays Bank Delaware ("Barclaycard") we respect your right to personal privacy, online and off. Our Privacy Policy is designed to provide you with protection and value. And it's written in "plain English." Here are the highlights:
 
   * We do not sell information about you, your Accounts or your transactions.
   * When we share information, it is only according to the guidelines described in our Privacy Policy.
   * We do not share information with third party marketers unless you expressly authorize us to share the information.
   * You control how we contact you. As described in our Privacy Policy, credit card customers may exercise their options online, by mail or by phone.
-  * We have developed industry standard security to protect against the misuse of your information. 
+  * We have developed industry standard security to protect against the misuse of your information.
 
 
 
-This Privacy Policy applies to personally identifiable information about a consumer or a consumer's current or former customer relationship with us. Our Privacy Policy will evolve to meet the changing world in which we operate and we will promptly advise you of any changes to it as required by applicable law. 
+This Privacy Policy applies to personally identifiable information about a consumer or a consumer's current or former customer relationship with us. Our Privacy Policy will evolve to meet the changing world in which we operate and we will promptly advise you of any changes to it as required by applicable law.
 
-I invite you to read our Privacy Policy. If you have any questions or if anything is unclear, credit card customers can email us at [privacy@BarclaycardUS.com](mailto:privacy@BarclaycardUS.com) If you would like to modify your privacy options, log in and select account settings or call 1-866-698-0236. 
+I invite you to read our Privacy Policy. If you have any questions or if anything is unclear, credit card customers can email us at [privacy@BarclaycardUS.com](mailto:privacy@BarclaycardUS.com) . If you would like to modify your privacy options, log in and select account settings or call 1-866-698-0236. 
 
 Larry Drexler  
 Chief Privacy Officer, Barclays Bank Delaware
@@ -27,7 +25,7 @@ We believe that Privacy is a cornerstone of our customer relationship. In design
 
   * We do not sell information about our customers, their Accounts, or transactions to others for their use. 
   * We do not share information about you, except in the limited circumstances described in our Privacy Policy.
-  * When we do share information it is limited to the information necessary for the particular circumstance. 
+  * When we do share information it is limited to the information necessary for the particular circumstance.
   * We restrict access to the information we obtain about you, only to appropriate employees and service providers for business purposes only.
   * We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard against misuse of the information we obtain.
 
@@ -35,7 +33,7 @@ We believe that Privacy is a cornerstone of our customer relationship. In design
 
 **Cookies**
 
-"Cookies" are small computer files that are automatically placed on your computer's hard drive when you are connected to a website or remote server so that the website can recognize you upon your return to the website and tailor your experience based on your earlier use of the site and, in some cases, your earlier use of other sites. Our cookie does not collect information from your hard drive; rather, it allows us to recognize you and know how you navigated through our site. It is also part of our effort to detect and stop fraud. "Action tags" (also known as Web Beacons, Trackers, or Bugs) are invisible pixel .gif files placed on web pages that are used to track web navigation to those pages. 
+"Cookies" are small computer files that are automatically placed on your computer's hard drive when you are connected to a website or remote server so that the website can recognize you upon your return to the website and tailor your experience based on your earlier use of the site and, in some cases, your earlier use of other sites. Our cookie does not collect information from your hard drive; rather, it allows us to recognize you and know how you navigated through our site. It is also part of our effort to detect and stop fraud. "Action tags" (also known as Web Beacons, Trackers, or Bugs) are invisible pixel .gif files placed on web pages that are used to track web navigation to those pages.
 
 We use a cookie for each computer that visits our site. The cookie is integral to the customer experience and is necessary to use our online services. It allows us to customize the website presentation based on your Accounts. While cookies, including ours, can be disabled through the privacy features in your web browser, if you disable our cookie you will not be able to use our website.
 
