@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allforblog.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428001050id_/http%3A//allforblog.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allforblog.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226201714id_/http%3A//www.allforblog.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Blog Directory - Privacy Policy
 
-This Privacy Policy governs the manner in which allforblog.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.allforblog.com](https://web.archive.org/web/20150428001050id_/http%3A//allforblog.com/www.allforblog.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by allforblog.com.
+This Privacy Policy governs the manner in which allforblog.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.allforblog.com](https://web.archive.org/web/20151226201714id_/http%3A//www.allforblog.com/www.allforblog.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by allforblog.com.
 
 **Personal identification information**
 
