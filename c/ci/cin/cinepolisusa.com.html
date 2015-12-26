@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cinepolisusa.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315004718id_/http%3A//www.cinepolisusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinepolisusa.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226213132id_/http%3A//www.cinepolisusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent dk_fouc" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta charset="UTF-8"><meta name="author" content="IA Interactive"><link rel="shortcut icon" href="favicon.ico">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta charset="UTF-8"><meta name="author" content="IA Interactive"><link rel="shortcut icon" href="favicon.ico">
     <!--[if lte IE 9 ]>
 		<link rel="stylesheet" href="css/ie8.css" />
 	<![endif]-->
@@ -73,9 +73,15 @@
             var Locacion = window.location.pathname.split('/');
             var path = Locacion[1];
             try {
-                if (path == 'del-mar.aspx' || path == 'la-costa.aspx' || path == 'laguna-niguel.aspx' || path == 'rancho-santa-margarita.aspx' || path == 'westlake-village.aspx' || path == 'jupiter-luxury.aspx') {
+                //if (path == 'del-mar.aspx' || path == 'la-costa.aspx' || path == 'laguna-niguel.aspx' || path == 'rancho-santa-margarita.aspx' || path == 'westlake-village.aspx' || path == 'jupiter-luxury.aspx') {
+                //    var logo = document.getElementById('logo');
+                //    logo.src = "images/logos-cinepolis.png";
+                //    pageTracker._trackEvent("Locations", "Location", path + " Locations");
+                //}
+                if (path == "deerfield.aspx" || path == "coconut-grove.aspx" || path == "pico-rivera.aspx" || path == "vista.aspx" || path == "jupiter.aspx") {
                     var logo = document.getElementById('logo');
-                    logo.src = "images/lg-Cinepolis-bk.png";
+                    logo.src = "images/lg-Cinepolis.png";
+                    $(".logoCinepolis > img").css("width", "auto");
                     pageTracker._trackEvent("Locations", "Location", path + " Locations");
                 }
                 else {
@@ -85,9 +91,10 @@
             var complejo = $("#ddlComplejos");
             if (complejo != null) {
                 var cinema = $("#ddlComplejos").val();
-                if (cinema == "459" || cinema == "460" || cinema == "509" || cinema == "511" || cinema == "510") {
+                if (cinema == "473" || cinema == "580" || cinema == "731" || cinema == "732") {
                     var logo = document.getElementById('logo');
-                    logo.src = "images/lg-Cinepolis-bk.png";
+                    logo.src = "images/lg-Cinepolis.png";
+                    $(".logoCinepolis > img").css("width", "auto");
                 }
             }
         });
@@ -105,62 +112,19 @@
 
 </title></head>
 <body>
-    <form method="post" action="privacy-policy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPZBYCZg9kFg4CAw8QZGQWAWZkAgUPEGRkFgFmZAIJDxAPFgIeC18hRGF0YUJvdW5kZ2RkFgFmZAINDw9kDxAWAmYCARYCFgIeDlBhcmFtZXRlclZhbHVlBQEwFgIfAQUIMjAxNTAzMTQWAmZmZGQCDw8QDxYCHwBnZGQWAWZkAhMPD2QPEBYCZgIBFgIWAh8BBQEwFgIfAQUBMBYCZmZkZAIVDxBkZBYBZmQCAw9kFgJmDxYCHgtfIUl0ZW1Db3VudAIBFgICAQ9kFgJmDxUFDmdpZnQtY2FyZC5hc3B4BV9zZWxmNWltYWdlcy9iYW5uZXJzL0Jhbm5lci1DaW5lcG9saXMtZ2lmdC1jYXJkcy13aW50ZXIuanBnJkJhbm5lci1DaW5lcG9saXMtZ2lmdC1jYXJkcy13aW50ZXIuanBnFGdpZnQtY2FyZC5hc3B4KkZhbHNlZGSPJiy2xfTPJmShEEDtOQjlTHNiry+douc0ZFP2GJnUQQ==">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+    <form method="post" action="./privacy-policy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPZBYCZg9kFgwCAw8QZGQWAWZkAgUPEGRkFgFmZAIJDxAPFgIeC18hRGF0YUJvdW5kZ2RkFgFmZAINDw9kDxAWAmYCARYCFgIeDlBhcmFtZXRlclZhbHVlBQEwFgIfAQUIMjAxNTEyMjYWAmZmZGQCDw8QDxYCHwBnZGQWAWZkAhMPD2QPEBYCZgIBFgIWAh8BBQEwFgIfAQUBMBYCZmZkZAIDD2QWAmYPFgIeC18hSXRlbUNvdW50AgEWAgIBD2QWAmYPFQUOZ2lmdC1jYXJkLmFzcHgFX3NlbGY1aW1hZ2VzL2Jhbm5lcnMvQmFubmVyLUNpbmVwb2xpcy1naWZ0LWNhcmRzLXdpbnRlci5qcGcmQmFubmVyLUNpbmVwb2xpcy1naWZ0LWNhcmRzLXdpbnRlci5qcGcUZ2lmdC1jYXJkLmFzcHgqRmFsc2VkZF7Grv9wuk/oPMzPa3Ie1rp4kvwY/pJjYPVk9Wk40Pe0">
 
 
-<script src="/WebResource.axd?d=wkmilnyfzYuV0x5jcvwuiHbR7v1rAup_8NPdaHWKbjVxienbuWW79iBdCM_GM4-ulCGVjiGIe8g5HF0g3MT2OUra7j-nmDwsROcHwtcDM_M1&amp;t=635418606520000000" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=EQ8x0090TRNdx1KPaf0Psu1X25VyZLJvAVp8N9-YkKQJKZoE2mbGAvdLXy_jiYkPDqKAt3_fwFeojU7L_5hvM0thvWYNxufUMi6wQhMPn5QGLaJbAaeEQdaCBjVmJCtNXxc9mQLXZLYN2ppdRlTqcu3otQ-s2RDFGIAwRW7QAL01&amp;t=24efffe1" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=tmVFoqzqQMIV3O5JqoIp1MTm9OqJ_3d69dAro7I5gBjhMW8tFYpsM__qbG9NHRjCr2jmEGdTwnUiGONQlkm-hJBTjwZAtOKaEexqkoeIIUwICJv-RYHi-8rVnOcmglh60&amp;t=23c9c237" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=pA6IzNpLUxo2fDQ3jFzHDyuJCM8Py9xuVcKv9G1ghSRJ8KQHNNoM7W1TuUAduKp551lOMQcmXokZiMTXNt8UAYV5oDYHUX2RzFRpzd3e-5Zdp99kKdlaPJPK6GiIJVZH1s-0yw13dU-4blfkokuQ0g2&amp;t=23c9c237" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
-return true;
-}
-//]]>
-</script>
-
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA7VBWTjh37NacI9fsnVZ6fcFTjHeF4abSSKpR6VaT6rQOQdmPII+62Sdylq9XYicU1FQOzB73WkWu77DfZAqhFZrRIpLEf25RbkmDZC3Pi02261cMBGm7I+gDbVkQjqn35kMLZotv0ytpnR7zk+B0R7+uJFKBV85LM3UVimQW+06PMYFaVCU6vdBi4klygSdlgd7yZTVnq/YXLd+ykMZ/8jS4JPndmCvoPhuSBMfSnMWveFL1A+29yW2r/yTsgx14qgSNb0Ede/gkdFWDY73YtlO6Zii4zPqf+nTrJrnaVn0otMauMtdCXGtQSOky2yP/5T3lmCG1GBUjc6B8iCMDfk">
-</div>
-        <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1', ['tctl00$ctl00$ContentPlaceHolder1$ControlCompra$upnCombos','ContentPlaceHolder1_ControlCompra_upnCombos'], ['ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState','ddlState','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo','ddlComplejo','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha','ddlFecha','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas','ddlPeliculas','ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlHorarios','ddlHorarios'], [], 90, 'ctl00$ctl00');
-//]]>
-</script>
-
+<script src="/ScriptResource.axd?d=sat8H9fO0W-G_cWvlxkt-lFrqtTfGRQvt8SZbw-oNispm0Ci1pkzS-vEsrRVxug5sksRRmI_bHwyTxSt-t_JoCKK6NxlOsJmC1O2_R6fd7izG533kX6b3RNPdr5HRa_J0&amp;t=23c9c237" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAoLuiLIrTyHesMSAyR/cedxFTjHeF4abSSKpR6VaT6rQEVA7MHvdaRa7vsN9kCqEVmtEiksR/blFuSYNkLc+LTbbrVwwEabsj6ANtWRCOqffvriRSgVfOSzN1FYpkFvtOgd7yZTVnq/YXLd+ykMZ/8j94UvUD7b3Jbav/JOyDHXiqBI1vQR17+CR0VYNjvdi2U7pmKLjM+p/6dOsmudpWfS4tCGziP7PNageLcn4PM297MXuucKP5awBJ34CjAjrUI=">
+        
         <header>
             <div class="containerGeneral">
                 
                 <h1><a class="logoCinepolis" href="index.aspx">
-                    <img src="images/lg-Cinepolis.png" id="logo" alt="Cinépolis Luxury"></a></h1>
+                    <img src="images/logos-cinepolis.png" id="logo" alt="Cinépolis Luxury"></a></h1>
                 <ul>
                     <li><a class="facebook" href="https://www.facebook.com/CinepolisUSA" target="_blank"></a></li>
                     <li><a class="twitter" href="https://twitter.com/CinepolisUSA" target="_blank"></a></li>
@@ -172,7 +136,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
         </header>
         <nav>
             <ul class="containerGeneral">
-                <li><a class="" href="index.aspx"><span></span>Home</a></li>
+                <li><a class="menuActive" href="index.aspx"><span></span>Home</a></li>
                 <li><a href="film-listings.aspx">Now Playing</a>
                 </li>
                 <li><a href="coming-soon.aspx">Coming Soon</a>
@@ -186,6 +150,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
                         <li><a href="donations.aspx">Donations</a></li>
                         <li><a href="advertisers.aspx">Advertisers</a></li>
                         <li><a href="group-services.aspx">Event Sales</a></li>
+                        <li><a href="faq.aspx">FAQ</a></li>
                     </ul>
                 </li>
                 <li><a href="gift-card.aspx">Gift Cards</a>
@@ -201,45 +166,43 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
     <div id="ContentPlaceHolder1_ControlCompra_upnCombos" class="aside-tickets">
 	
             <img src="images/img-book-text.png">
-            <input type="hidden" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$hdnFecha" id="ContentPlaceHolder1_ControlCompra_hdnFecha" value="20150314">
-            <div class="dk_container dk_theme_default styled" id="dk_container_ddlState" tabindex="0" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select State</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select State</a></li><li><a data-dk-dropdown-value="1">California</a></li><li><a data-dk-dropdown-value="2">Florida</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState\',\'\')', 0)" id="ddlState" class="styled">
+            <input type="hidden" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$hdnFecha" id="ContentPlaceHolder1_ControlCompra_hdnFecha" value="20151226">
+            <select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlState" id="ddlState" class="styled">
 		<option selected="selected" value="0">Select State</option>
 		<option value="1">California</option>
 		<option value="2">Florida</option>
 
-	</select></div>
-            <div class="dk_container dk_theme_default styled" id="dk_container_ddlComplejo" tabindex="1" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Location</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Location</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo\',\'\')', 0)" id="ddlComplejo" tabindex="1" class="styled">
+	</select>
+            <select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlComplejo" id="ddlComplejo" tabindex="1" class="styled">
 		<option selected="selected" value="0">Select Location</option>
 
-	</select></div>
-            <span id="ContentPlaceHolder1_ControlCompra_rfvComplejo" style="display:none;"></span>
+	</select>
+            
             
 
-            <div class="dk_container dk_theme_default styled" id="dk_container_ddlFecha" tabindex="2" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Date</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Date</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha\',\'\')', 0)" id="ddlFecha" tabindex="2" class="styled">
+            <select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlFecha" id="ddlFecha" tabindex="2" class="styled">
 		<option selected="selected" value="0">Select Date</option>
 
-	</select></div>
-            <span id="ContentPlaceHolder1_ControlCompra_rfvFecha" style="display:none;"></span>
+	</select>
+            
             
 
-            <div class="dk_container dk_theme_default styled" id="dk_container_ddlPeliculas" tabindex="3" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Select Movie</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Select Movie</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas\',\'\')', 0)" id="ddlPeliculas" tabindex="3" class="styled">
+            <select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlPeliculas" id="ddlPeliculas" tabindex="3" class="styled">
 		<option selected="selected" value="0">Select Movie</option>
 
-	</select></div>
-            <span id="ContentPlaceHolder1_ControlCompra_rfvPelicula" style="display:none;"></span>
+	</select>
+            
             
 
-            <div class="dk_container dk_theme_default styled" id="dk_container_ddlHorarios" tabindex="4" aria-hidden="true" style="display: block;"><a class="dk_toggle dk_label" style="width: 150px;">Movie Times</a><div class="dk_options"><ul class="dk_options_inner" role="main" aria-hidden="true"><li><a data-dk-dropdown-value="0">Movie Times</a></li></ul></div><select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlHorarios" id="ddlHorarios" tabindex="4" class="styled">
-		<option selected="selected" value="0">Movie Times</option>
+            <select name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$ddlHorarios" id="ddlHorarios" tabindex="4" class="styled">
+		<option value="0">Movie Times</option>
 
-	</select></div>
-            <span id="ContentPlaceHolder1_ControlCompra_rfvHorario" style="display:none;"></span>
+	</select>
+            
             
 
             <input type="submit" name="ctl00$ctl00$ContentPlaceHolder1$ControlCompra$btnComprar" value="BOOK NOW" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ContentPlaceHolder1$ControlCompra$btnComprar&quot;, &quot;&quot;, true, &quot;Compra&quot;, &quot;&quot;, false, false))" id="btnComprar" tabindex="5">
-            <div id="ContentPlaceHolder1_ControlCompra_vsCompra" style="display:none;">
-
-	</div>
+            
         
 </div>
     <ul class="aside-iconografia">
@@ -383,94 +346,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
             </div>
         </footer>
     
-<script type="text/javascript">
-//<![CDATA[
-var Page_ValidationSummaries =  new Array(document.getElementById("ContentPlaceHolder1_ControlCompra_vsCompra"));
-var Page_Validators =  new Array(document.getElementById("ContentPlaceHolder1_ControlCompra_rfvComplejo"), document.getElementById("ContentPlaceHolder1_ControlCompra_rfvFecha"), document.getElementById("ContentPlaceHolder1_ControlCompra_rfvPelicula"), document.getElementById("ContentPlaceHolder1_ControlCompra_rfvHorario"));
-//]]>
-</script>
 
 <script type="text/javascript">
 //<![CDATA[
-var ContentPlaceHolder1_ControlCompra_rfvComplejo = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvComplejo"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvComplejo");
-ContentPlaceHolder1_ControlCompra_rfvComplejo.controltovalidate = "ddlComplejo";
-ContentPlaceHolder1_ControlCompra_rfvComplejo.errormessage = "Please select a valid location.";
-ContentPlaceHolder1_ControlCompra_rfvComplejo.display = "None";
-ContentPlaceHolder1_ControlCompra_rfvComplejo.validationGroup = "Compra";
-ContentPlaceHolder1_ControlCompra_rfvComplejo.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ContentPlaceHolder1_ControlCompra_rfvComplejo.initialvalue = "0";
-var ContentPlaceHolder1_ControlCompra_rfvFecha = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvFecha"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvFecha");
-ContentPlaceHolder1_ControlCompra_rfvFecha.controltovalidate = "ddlFecha";
-ContentPlaceHolder1_ControlCompra_rfvFecha.errormessage = "Please select a valid date.";
-ContentPlaceHolder1_ControlCompra_rfvFecha.display = "None";
-ContentPlaceHolder1_ControlCompra_rfvFecha.validationGroup = "Compra";
-ContentPlaceHolder1_ControlCompra_rfvFecha.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ContentPlaceHolder1_ControlCompra_rfvFecha.initialvalue = "0";
-var ContentPlaceHolder1_ControlCompra_rfvPelicula = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvPelicula"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvPelicula");
-ContentPlaceHolder1_ControlCompra_rfvPelicula.controltovalidate = "ddlPeliculas";
-ContentPlaceHolder1_ControlCompra_rfvPelicula.errormessage = "Please select a valid movie.";
-ContentPlaceHolder1_ControlCompra_rfvPelicula.display = "None";
-ContentPlaceHolder1_ControlCompra_rfvPelicula.validationGroup = "Compra";
-ContentPlaceHolder1_ControlCompra_rfvPelicula.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ContentPlaceHolder1_ControlCompra_rfvPelicula.initialvalue = "0";
-var ContentPlaceHolder1_ControlCompra_rfvHorario = document.all ? document.all["ContentPlaceHolder1_ControlCompra_rfvHorario"] : document.getElementById("ContentPlaceHolder1_ControlCompra_rfvHorario");
-ContentPlaceHolder1_ControlCompra_rfvHorario.controltovalidate = "ddlHorarios";
-ContentPlaceHolder1_ControlCompra_rfvHorario.errormessage = "Please select a valid movie time.";
-ContentPlaceHolder1_ControlCompra_rfvHorario.display = "None";
-ContentPlaceHolder1_ControlCompra_rfvHorario.validationGroup = "Compra";
-ContentPlaceHolder1_ControlCompra_rfvHorario.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ContentPlaceHolder1_ControlCompra_rfvHorario.initialvalue = "0";
-var ContentPlaceHolder1_ControlCompra_vsCompra = document.all ? document.all["ContentPlaceHolder1_ControlCompra_vsCompra"] : document.getElementById("ContentPlaceHolder1_ControlCompra_vsCompra");
-ContentPlaceHolder1_ControlCompra_vsCompra.showmessagebox = "True";
-ContentPlaceHolder1_ControlCompra_vsCompra.showsummary = "False";
-ContentPlaceHolder1_ControlCompra_vsCompra.validationGroup = "Compra";
-//]]>
-</script>
-
-
-<script type="text/javascript">
-//<![CDATA[
-ComboBox()
-var Page_ValidationActive = false;
-if (typeof(ValidatorOnLoad) == "function") {
-    ValidatorOnLoad();
-}
-
-function ValidatorOnSubmit() {
-    if (Page_ValidationActive) {
-        return ValidatorCommonOnSubmit();
-    }
-    else {
-        return true;
-    }
-}
-        
-(function(id) {
-    var e = document.getElementById(id);
-    if (e) {
-        e.dispose = function() {
-            Array.remove(Page_ValidationSummaries, document.getElementById(id));
-        }
-        e = null;
-    }
-})('ContentPlaceHolder1_ControlCompra_vsCompra');
-
-document.getElementById('ContentPlaceHolder1_ControlCompra_rfvComplejo').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvComplejo'));
-}
-
-document.getElementById('ContentPlaceHolder1_ControlCompra_rfvFecha').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvFecha'));
-}
-
-document.getElementById('ContentPlaceHolder1_ControlCompra_rfvPelicula').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvPelicula'));
-}
-
-document.getElementById('ContentPlaceHolder1_ControlCompra_rfvHorario').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_ControlCompra_rfvHorario'));
-}
-//]]>
+ComboBox()//]]>
 </script>
 </form>
 
