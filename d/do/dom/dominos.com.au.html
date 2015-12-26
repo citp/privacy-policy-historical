@@ -1,511 +1,512 @@
-<!--The following is the downloaded HTML source of the dominos.com.au privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117131043id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dominos.com.au privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226214646id_/https%3A//www.dominos.com.au/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-    <script type="text/javascript" src="/scripts/cufon-yui.js"></script>
-    <script type="text/javascript" src="/scripts/Omnes-Medium_500.font.js"></script>
-    <link href="https://plus.google.com/103256154301279337807" rel="publisher"><title>
-	Domino's Pizza - Privacy and Policy
-</title>
-    <!-- CurrentDateTime : 17/11/2012 11:10:11 PM -->
-    <meta name="DC.Identifier" content="http://www.dominos.com.au"><meta name="description" content="Domino's Pizza Enterprises - delivering fresh, quality pizzas every time."><meta name="keywords" content="dominos pizza, domino's,pizza delivery, pizza online, hot pizza, fresh, quality pizzas, hot cell, home delivery, online ordering, cheese, australian, sydney, brisbane, melbourne, perth, darwin, hobart, adelaide, pickup, pick-up, takeaway, take away pizza"><meta name="Robots" content="INDEX, FOLLOW, ALL"><meta name="Revisit-After" content="7 Days"><meta name="DC.Format" content="html"><meta name="DC.Language" content="English"><meta name="Destination" content="public"><link rel="Shortcut Icon" href="/favicon.ico"><meta name="application-name" content="Domino's Pizza"><meta name="msapplication-tooltip" content="Awesome Pizza Order Online"><meta name="msapplication-starturl" content="./"><meta name="msapplication-navbutton-color" content="#e2373f"><meta name="msapplication-task" content="name=Online Ordering;action-uri=https://internetorder.Dominos.com.au/?storepulseid=98001;icon-uri=./favicon.ico"><meta name="msapplication-task" content="name=Menu;action-uri=./menu/pizzas/;icon-uri=./favicon.ico"><meta name="msapplication-task" content="name=Vouchers;action-uri=./storefinder/?mode=DealsAndVouchers;icon-uri=./favicon.ico"><meta name="msapplication-task" content="name=Store Finder;action-uri=./storefinder/;icon-uri=./favicon.ico"><link href="/styles/style.css" rel="stylesheet" type="text/css"><link id="ctl00_ctl00_styleLayout" href="/styles/layout.css?v=1.2" rel="stylesheet" type="text/css"><link id="ctl00_ctl00_Link1" href="/styles/text_AU.css" rel="stylesheet" type="text/css">
-    <!--[if gt IE 5.5]>
-        <link id="ctl00_ctl00_styleIE" href="/styles/ie.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]-->
-    <!--[if lt IE 7]>
-        <script type="text/javascript" src="/scripts/unitpngfix.js"></script>
-    <![endif]-->
-    <script src="/scripts/sifr.js" type="text/javascript"></script>
-
-    <!-- swf object -->
-
-    <script src="/scripts/swfobject_2_2.js" type="text/javascript"></script>
-
-    <!-- for JQuery -->
-    <script src="/scripts/jquery/jquery-1.2.3.pack.js" type="text/javascript"></script>
-
-    <script type="text/javascript" language="javascript">
-        
-        //UpdateOrderOnline Button
-        function UpdateOrderOnlineNoFlashButton(url)
-        {
-            var flashButton = document.getElementById("flashButton");
-            flashButton.innerHTML = "<div class='noflash'>";
-            flashButton.innerHTML = flashButton.innerHTML + "<img src='/images/btn_orderOnline.png' alt='Order online' width='122' height='131' style='cursor:pointer;' onclick=javascript:window.open('" + url + "'); /></div>";
-            
-        }
-        
-        function getQueryStringValue(url, queryVar)
-        {
-            var urlParts = url.split('?');
-
-            //no query string, return empty string
-            if (urlParts.length == 1)
-            {
-                return '';
-            }
-
-            //there is a query string - check for the variable
-            var queryStringParts = urlParts[1].split('&');
-            var returnValue = '';
-            for (var i = 0; i < queryStringParts.length; i++)
-            {
-                var queryVariableParts = queryStringParts[i].split('=');
-
-                if (queryVariableParts[0].toLowerCase() == queryVar.toLowerCase())
-                {
-                    returnValue = queryVariableParts[1];
-                    break;
-                }
-            }
-
-            return returnValue;
-        }
-
-        function dpeSwfobjectCallback(e)
-        {
-          $('a[@href*="https://internetorder.Dominos.com.au/"]').each(function (index) {
-            var val = (e.success) ? "true" : "false";
-            var cu = $(this).attr("href");
-            var nu = "";
-            var qsv = getQueryStringValue(cu, "flashenabled");
-            if (qsv == '') {
-              var parts = cu.split('?');
-              if (parts.length > 1) {
-                nu = cu + '&';
-              }
-              else {
-                nu = cu + '?';
-              }
-              nu = nu + 'flashenabled=' + val;
-            }
-            else {
-              var newVal = val;
-              nu = cu.replace('flashenabled=' + qsv, 'flashenabled=' + newVal);
-            }
-            $(this).attr("href", nu);
-          });
-        }
-        
-        
-        //apply order online Button
-        function ApplyOrderOnlineButtonFlash(url)
-        {
-			    var flashvars = {};
-          flashvars.varOrderOnlineLink = url;
-			    var params = {};
-			    params.menu = "false";
-			    params.scale = "scale";
-			    params.wmode = "transparent";
-			    params.bgcolor = "#FFFFFF";
-			    params.allowscriptaccess = "sameDomain";
-			    var attributes = {};
-			    attributes.id = "core";
-			    swfobject.embedSWF("/flash/button.swf", "onlineOrderingAlt", "140", "140", "9.0.28", false, flashvars, params, attributes, dpeSwfobjectCallback);
-        }
-        
-        //Go To Text Version
-        function GoToTextVersion()
-        {
-            var url = window.location.toString();
-            if (url.indexOf("?") > 0)
-            {
-                url = url + "&";
-            }
-            else
-            {
-                url = url + "?";
-            }
-            window.location=url + "txt=1";
-        }
-        
-        //Run Sifr on page runMasterSifr and runSifr
-        function InitialRunSifr() {
-          try {
-            if (typeof (runPageSifrFirst) == "function") {
-              runPageSifrFirst();
-            }
-          } catch (e) { }
-
-            try
-            {
-                if (typeof(runMasterSifr) == "function")
-                {
-                    runMasterSifr();
-                }
-            }catch(e){}
-            
-            try
-            {
-                if (typeof(runSifr) == "function")
-                {
-                    runSifr();
-                }
-            }catch(e){}
-            
-        }
+<!DOCTYPE html><html><head>
+    <title>Domino's Privacy Policy Australia &amp; New Zealand</title>
+    <meta charset="utf-8">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1 /">
+    <meta http-equiv="Cache-control" content="public">
+    <meta http-equiv="content-language" content="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">   
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-44B2" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager -->
+            <meta name="msvalidate.01" content="EDE9035CEFEBAF3B31E502EEEBF92AA0">
+        <meta name="google-site-verification" content="bsi9W8gjBIJ-ouyzzEjdGWbdrYgUMYH1yZNid0WBlJU">
+            <script type="text/javascript">
+        window.instrumentationKey = "d8b4fefe-1efc-4b2f-a306-cd92011e66dc";
     </script>
-
-    
 
     <script type="text/javascript">
-    function setCorporateNavigationMenu(id)
-    {
-        var nav = document.getElementById(id);
-        if (nav)
-        {    
-            nav.className = "urHere";
+        var s = document.createElement("SCRIPT");
+        if (typeof document.getElementsByClassName == "undefined") { // not supported <= ie8
+            s.src = "/Content/Scripts/jqueryold?v=x09Z8lK3BW-pEMvC4o8jxLhScPfKf0rczOnEzva6yEU1";
+        } else {
+            s.src = "/Content/Scripts/jquery?v=3D7-zgn5WoU9y7uIZuTv19qkf_U4aNRtc-IpCNV4sn01";
         }
-    }
-    </script>
+        document.getElementsByTagName('head')[0].appendChild(s);
+    </script><script src="/Content/Scripts/jquery?v=3D7-zgn5WoU9y7uIZuTv19qkf_U4aNRtc-IpCNV4sn01"></script> 
+    <script type="text/javascript" src="/Content/Scripts/Common.js"></script>
+    <script src="/Content/Scripts/AnalyticsBundle?v=BF98z51ibSZpeftGwDxxTIhvuw2qtrCc_VzGpQljn3A1"></script>
+
+    <script src="/Content/Scripts/CommonBundle?v=0LYpg0OcPzoaomyu0LtKwTrImdJVaR4LIS_riWifLkc1"></script>
+
+    <link href="/Content/Styles/default?v=a5UGI4D9VenZiDlx6rzS6hqHiZ7yzfl60zkpIXs6MSo1" rel="stylesheet">
 
     
+    <meta name="description" content="Learn More About Domino's Pizza Enterprises Limited Privacy Policy. ">
+    <link rel="canonical" href="http://www.dominos.com.au/inside-dominos/contact-us/privacy-policy">
 
+        
+                  <iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript">
+                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,a){AKSB.q.push(["mark",c,a||(new Date).getTime()])};AKSB.measure=function(c,a,b){AKSB.q.push(["measure",c,a,b||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());
+                    AKSB.prof={custid:"83160",ustr:"",originlat:0,clientrtt:185,ghostip:"209.107.207.8",ipv6:false,pct:10,xhrtest:false,clientip:"207.241.237.211",requestid:"923cab7",protocol:"",blver:2,akM:"a",akN:"ae",akTT:"O",akTX:"1",
+                    akTI:"923cab7"};
+                    (function(c){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var b=document.getElementsByTagName("script"),b=b[b.length-1];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;b=String.fromCharCode;c=b(60)+"body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+c+"';document.body.appendChild(js);\""+b(62);a.open().write(c);a.close()})(("https:"===document.location.protocol?
+                    "https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
+                  </script>
+                  </head>
 
+        
 
-    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<style type="text/css" media="screen">#onlineOrderingAlt {visibility:hidden}</style></head>
-<body id="ctl00_ctl00_BodyTag" class="site_AU secLvl">
-    
-    
+        <body>
 
-	
-    
-	 
+            <div id="wrapper" class="en-AU">
 
-    <form name="aspnetForm" method="post" action="/corporate/privacyPolicy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2D2QWAmYPZBYCZg9kFgICAw8WAh4FY2xhc3MFDnNpdGVfQVUgc2VjTHZsFgICARBkZBYKAgEPFgIeBGhyZWYFDS9tZW51L3Bpenphcy9kAgQPFgIfAAUGYWN0aXZlZAIGDxYEHwEFHmh0dHA6Ly93d3cuZG9taW5vc2pvYnMuY29tLmF1Lx4GdGFyZ2V0BQZfYmxhbmtkAgcPZBYCAgMPFgIeB1Zpc2libGVnZAIJDw8WAh4EVGV4dAUMVGV4dCBWZXJzaW9uZGRkRGmZm+UBnslzRa7gKGu/8AQNN3E=">
+                
+<div id="nav">
+    <div class="header">
+        <a href="/" aria-label="Domino's Home Page"><menu class="logo"></menu></a>
+        <ul class="menuitem static">
+                <li class="header-menu-link" id="desktop-menu-link"><a id="Menu" href="/menu">OUR<br>MENU</a></li> 
+
+                <li class="header-menu-link" id="mobile-menu-link"><a id="MobileMenu" href="/mobilemenu">OUR<br>MENU</a></li> 
+
+                <li class="header-menu-link" id="offers-menu-link"><a id="StoreOffers" href="/coupon-vouchers">SPECIAL<br>OFFERS</a></li> 
+
+                <li class="header-menu-link" id="stores-menu-link"><a id="StoreFinder" href="/store-finder">STORE<br>FINDER</a></li> 
+
+                <li class="header-menu-link" id="franchises-menu-link"><a id="Franchise" href="/dominos-franchise">DOMINO'S<br>FRANCHISE</a></li> 
+
+                <li class="header-menu-link menu-active" id="about-us-menu-link"><a id="InsideDominos" href="/inside-dominos">INSIDE<br>DOMINO'S</a></li> 
+
+        </ul>
+
+        <a id="OLO_button_desktop_link" role="button" href="https://internetorder.dominos.com.au/estore/en/home" aria-label="Order Online"><menu class="OLO_button" aria-hidden="true"></menu></a>
+
+        <i class="fa fa-bars" id="hamburger-menu-link" onclick="toggleMobileMenu()"></i>
+
+    </div>
+    <div class="OLO_button_mobile">
+        <a aria-label="Order Online" role="button" href="https://internetorder.dominos.com.au/estore/en/home">
+            <button class="btn next order" aria-hidden="true">Order Online Now</button>
+        </a>
+    </div>
 </div>
+<div id="responsive-mobile-menu">
+    
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+    <ul>
+        <li>
+            <a href="/dominos-franchise">Domino's Franchise</a>
+        </li>
+        <li>
+
+                    <a href="/inside-dominos">Inside Domino's</a>
+                    <ul>
+                    </ul>
+
+        </li>
+    </ul>
+</div>   
 
 
-<div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKqmZt+AvPGqb4HES53LsXgIp1jeY+6qt0G3f1qMcw=">
-</div>
-    <div class="topbg"></div>
-    <div id="wrapper">
-        <div class="bgTop">
-            <div class="bgBottom">
-                <div id="topSection">
-                    <h1 class="logo">Domino's Pizza</h1>
-                    <div id="navigation" class="overflow">
-                        <ul class="mainNav overflow">
-                            <li class="home"><a href="/" id="ctl00_ctl00_navHome">Home</a></li>
-                            <li class="menu"><a href="/menu/pizzas/" id="ctl00_ctl00_navMenu">Menu</a></li>
-                            <li class="deals"><a href="/storefinder/?mode=DealsAndVouchers" id="ctl00_ctl00_navDealsVoucher">Deals &amp; Vouchers</a></li>
-                            <li class="store"><a href="/storefinder/" id="ctl00_ctl00_navStoreFinder">Store Finder</a></li>
-                        </ul>
-                        <ul class="corporateNav overflow">
-                            <li class="corporate"><a href="/corporate/inside/InsideDominos.aspx" id="ctl00_ctl00_navCorporate" class="active">Corporate</a></li>
-                            <li class="franchise"><a href="/corporate/franchise/Franchise.aspx" id="ctl00_ctl00_navFranchise">Franchise</a></li>
-                            <li class="dominosJobs"><a href="http://www.dominosjobs.com.au/" id="ctl00_ctl00_navJobs" target="_blank">Dominos Jobs</a></li>
-                        </ul>
+                <div aria-hidden="true" class="nav-spacer"></div>
+
+                
+
+
+<!-- CDF: No JS dependencies were declared //-->
+
+<div class="gridArticle content">
+    <div class="background-overlay"></div>
+    <div aria-hidden="true" class="background-feature-left ">
+    </div>
+
+    <div aria-hidden="true" class="background-feature-right ">
+    </div>
+
+    
+
+
+    <div>
+        <div class="container">
+        <div class="row clearfix tile">
+                <div class="col-md-12 column">
+                    <div>
+                                
+    
+<p><span class="link"><a href="/inside-dominos/contact-us" title="Contact Us"><span class="link-with-arrow">Contact Us</span></a></span><span class="breadcrumb-last">&nbsp; &nbsp;Privacy Policy</span></p>
+<p>&nbsp;</p>
+<h1>Privacy Policy</h1>
+<hr>
+
+
                     </div>
-                </div>
-                <div id="mainBody" class="overflow">
+                </div>        </div>
+        </div>
+    </div>
+    <div>
+        <div class="container">
+        <div class="row clearfix tile">
+                <div class="col-md-12 column">
+                    <div>
+                                
+    
+<h2 align="center">DOMINO'S PRIVACY POLICY</h2>
+<h2 align="center">AUSTRALIA &amp; NEW ZEALAND</h2>
+<h3>Last updated&nbsp;21 September 2015</h3>
+<p>Domino's Pizza Enterprises Limited ("Domino's") respects the privacy of individuals. This policy sets out the way in which Domino's and its franchisees ("we" or "us") collect, hold, disclose, use and protect your personal information.</p>
+<p>By visiting any of our websites (including by using an application on a smart device), creating any accounts with VIP club or our Digital Asset Management services (“DAM”), placing an order with any of our stores (including franchise stores) or providing us with your personal information, you agree to your personal information being collected, held, used and disclosed as set out in this policy. References to 'website' include the following: <a href="http://www.dominos.com.au">http://www.dominos.com.au</a>, <a href="http://www.dominospizza.co.nz">http://www.dominospizza.co.nz</a> or any other site, services (including web-services), software, application or media managed by Domino's.</p>
+<p>You do not have to provide us with your personal information but if you do not provide us with the information we require we may not be able to assist you process your job application, franchise application or expression of interest in a franchise, process your order or provide you with access to “DAM”. If you do not agree with the practices described in this Privacy Policy, please do not provide us with your personal information or interact with our websites.</p>
+<p>The Domino's Privacy Policy forms part of the Terms &amp; Conditions of Use and can be found following either of these links:</p>
+<p><a href="https://www.dominos.com.au/inside-dominos/contact-us/terms-conditions">https://www.dominos.com.au/inside-dominos/contact-us/terms-conditions</a></p>
+<p><a href="https://www.dominospizza.co.nz/inside-dominos/contact-us/terms-conditions">https://www.dominospizza.co.nz/inside-dominos/contact-us/terms-conditions</a></p>
+<h3>Revisions to this Policy</h3>
+<p>We may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates.&nbsp; If we think any material changes to this policy will have a significant effect on you, we may notify you by email or put a notice on the homepage&nbsp;<a href="http://www.dominos.com.au/">www.dominos.com.au</a>&nbsp;of our websites. You can determine when this Privacy Policy was last revised by referring to the date it was “Last Updated” above.&nbsp;</p>
+<p>If you continue to use our websites, place an order with any of our stores or provide further personal Information to us after this policy has been revised you will be deemed to have accepted the revised policy.</p>
+<h2>What Information we collect</h2>
+<p>We collect information necessary for us to process your order, register you for an account such as VIP club or Domino’s Online Ordering or DAM, process your application for employment or an expression of interest for a franchise, provide you with information about new franchising opportunities, or provide you with other services and/or the assistance you have requested.&nbsp; Where practicable, we will give you the option of interacting with us anonymously.</p>
+<p>The personal information which we collect from you and hold ("<strong>Information</strong>") includes information like your first and last name, postal address, telephone and mobile number(s), email address, details of your order (i.e. your last four orders, your delivery address or preferred pick-up location), IP address and credit card details. In respect of your credit card details we only hold some information, as detailed further below.</p>
+<p>When you apply for a job with us or to become a franchisee we also collect some information from you for the purposes of assessing your suitability as a Domino's Pizza employee or franchisee (to which you have consented). The sensitive information we collect in these circumstances is further set out under the headings Domino’s Jobs and ‘How we use your Information: 'Sensitive information' below.</p>
+<p>When you place an order with us online using the Domino's Pizza internet ordering system (whether via the Domino’s website itself or an application on a smart device), we collect additional Information from you such as:</p>
+<ul>
+<li>your IP address as part of your order;</li>
+<li>your feedback;</li>
+<li>your entries into our competitions and draws;</li>
+<li>your menu preferences and previous order information;</li>
+<li>any delivery instructions or comments;</li>
+<li>if you use an eVoucher we collect your order details, if you have used it, when you used it.</li>
+</ul>
+<p>We may also collect your smart device ID and use your smart device’s location services (with your consent) in order to provide you with Domino’s application services. See <strong>‘Domino’s applications for smart devices</strong>’ section below for further information.</p>
+<h3><strong>Domino’s Jobs</strong></h3>
+<p>When you apply for a job with us through <a href="http://www.dominosjobs.com.au/">www.jobs.dominos.com.au</a>, www.jobs.dominospizza.co.nz or otherwise, we (or our franchisee as the case may be) may collect the following details from you:</p>
+<ul>
+<li>
+<p>full name;</p>
+</li>
+<li>
+<p>date of birth;</p>
+</li>
+<li>
+<p>whether you are legally allowed to work in Australia or New Zealand (as applicable);</p>
+</li>
+<li>
+<p>home address;</p>
+</li>
+<li>
+<p>contact telephone numbers;</p>
+</li>
+<li>
+<p>email address;</p>
+</li>
+<li>
+<p>employment record;</p>
+</li>
+<li>
+<p>level of education;</p>
+</li>
+<li>
+<p>references (it is your responsibility to provide us with contact details of people who have provided their express consent to you for their personal details to be included in your employment application);</p>
+</li>
+<li>
+<p>drivers licence details; and</p>
+</li>
+<li>
+<p>your gender.&nbsp;</p>
+</li>
+</ul>
+<p>If you are applying as a driver in our stores, we also collect your driver's licence number, the make and model of your motor vehicle and your registration number.</p>
+<p>We may also require you to provide information about any pre-existing injuries or medical conditions which may affect your ability to carry out the job, or which may be aggravated by the job, you are applying for.</p>
+<p>In order to apply for a job through <a href="http://www.dominosjobs.com.au/">www.jobs.dominos.com.au</a> or www.jobs.dominospizza.co.nz, you will be required to create an online account which is secured with a password of your choosing. The ‘Your Details’ section in your account will display some of the above-mentioned Information collected by Domino’s and the ‘Your Applications’ section will show your recent job applications.</p>
+<p>If you have any queries regarding the information contained in your online account, or would like to update any of this information, please contact the Domino’s Training team on Training@dominos.com.au.</p>
+<h3><strong>Franchise application/expression of interest</strong></h3>
+<p>When you apply for a franchise with us, or submit an expression of interest for a franchise with us (whether through our website or a third party website), we, or a third party acting on our behalf, will collect personal details from you (including but not limited to):</p>
+<ul>
+<li>
+<p>full name;</p>
+</li>
+<li>
+<p>date of birth;</p>
+</li>
+<li>
+<p>address;</p>
+</li>
+<li>
+<p>contact details;</p>
+</li>
+<li>
+<p>citizenship status;</p>
+</li>
+<li>
+<p>marital status;</p>
+</li>
+<li>
+<p>language skills;</p>
+</li>
+<li>
+<p>health;</p>
+</li>
+<li>
+<p>education;</p>
+</li>
+<li>
+<p>work experience;</p>
+</li>
+<li>
+<p>business experience;</p>
+</li>
+<li>
+<p>employment;</p>
+</li>
+<li>
+<p>financial position; and</p>
+</li>
+<li>
+<p>credit check information.&nbsp;</p>
+</li>
+</ul>
+<p>Where an expression of interest for a franchise with us has been submitted using a third party website, you acknowledge that any personal information provided with this expression of interest may be used by us for any of the purposes outlined under heading ‘How we use your Information: Franchise application/expression of interest’ below.</p>
+<h3><strong>GPS tracking</strong></h3>
+<p>We may install GPS trackers in delivery vehicles in order to monitor the progress of order deliveries and to ensure the safety of our delivery staff. These trackers will record the position of the vehicle at all times during the employee’s shift.</p>
+<p>In connection with a tracked order delivery, a GPS driver tracker page may be available in order to track your order in real time. On this page you may be presented with fun facts, trivia and other types of questions. These facts/trivia/questions are provided as entertainment and any responses submitted by you may be used for purposes such as measuring customer engagement and market research (which may involve providing your de-identified responses to a third party for analysis), so that we can better understand the needs of our customers and tailor our future products and services accordingly.</p>
+<h3><strong>DAM Account</strong></h3>
+<p>If you seek access to our Digital Asset Management service, we require your email address, your name, and the company you work with in order to provide you with access. We will provide you with a password for accessing your account. Your access to the account is at our discretion and we may grant, restrict or remove your access at any time.</p>
+<h2><strong>How do we collect Information?</strong></h2>
+<p>We collect your Information in various ways, including when you:</p>
+<ul>
+<li>visit any of our websites (including any application managed by Domino’s);</li>
+<li>register to use any platforms, including Domino’s Online Ordering, VIP club or DAM operated by or on behalf of Domino’s;</li>
+<li>when you "Like" our Facebook page or participate in any surveys, promotions and competitions through our Facebook page;</li>
+<li>place an order via online ordering (whether on our website itself or in an application);</li>
+<li>interact with our franchise recruitment website or participate in the franchise recruitment process;</li>
+<li>interact or follow our social media pages/profiles like Google+, Twitter, Facebook and Instagram;</li>
+<li>use our mobile apps and VIP club subscriber app;</li>
+<li>enter into a competition or promotion through any medium;</li>
+<li>subscribe to our eDM mailing list;</li>
+<li>participate in a survey;</li>
+<li>participate in focus groups, polling and market research activities;</li>
+<li>register as a VIP club member;</li>
+<li>apply for a job with us;</li>
+<li>request information regarding our franchise system (including future franchising opportunities);</li>
+<li>submit website feedback;</li>
+<li>submit any query to the Privacy Officer;</li>
+<li>place an order via a store, telephone or the Domino's Pizza internet ordering system, mobile sites/devices and applications; or</li>
+<li>request that your order is delivered and the delivery vehicle that is used contains a GPS tracker.</li>
+</ul>
+<p>Except as noted in this policy, where possible Domino's or its franchisee will collect your Information directly from you. However, there may be occasions when your Information is collected from someone else (for example Domino's may collect your Information from its franchisees).&nbsp; Where Domino's or its franchisee collect your Information from someone else, Domino's or the franchisee will take reasonable steps to inform you of this (if this is not already disclosed in this policy).&nbsp; No matter where we obtain the Information from, your Information is collected, held, used and disclosed by us in accordance with this policy.</p>
+<h2><strong>How do we use your Information?</strong></h2>
+<p>We use your Information for the purpose for which it was provided to us, other related purposes and as permitted or required by law.&nbsp; Such purposes include, but are not limited, to the following:</p>
+<ul>
+<li>providing you with email and/or SMS confirmation of your order;</li>
+<li>providing you with the assistance, products and/or services you have requested (this includes services and functions on a downloaded Domino’s application for a smart device);</li>
+<li>allowing you to participate as a VIP club member or register on any platform operated by or on behalf of Domino’s;</li>
+<li>allowing you access to DAM;</li>
+<li>processing any job application you may submit;</li>
+<li>processing any franchise application you may submit via our franchise recruitment team or our website;</li>
+<li>processing any expression of interest you may submit via our franchise recruitment team, our website or a third party website;</li>
+<li>providing you with any franchise information you may request;</li>
+<li>providing you with information about new franchising opportunities;</li>
+<li>processing any orders you place with us;</li>
+<li>determining the number of visitors to our websites and conducting reviews of our websites;</li>
+<li>judging competitions, fulfilling prizes, awards and purchases;</li>
+<li>keeping you informed about any changes to our websites as well as good and/or services;</li>
+<li>conducting market research (including focus groups, panels and surveys) so that we can better understand the needs of our customers and tailor our future products and services accordingly;</li>
+<li>conducting analyses of orders and purchasing habits so that we can better tailor the ordering experience, products and services for our customers;</li>
+<li>sending you offers or information on products or services that we consider will be of interest to you (if you have consented to receiving such offers and information);</li>
+<li>used to assist in the delivery of your order to your door and to verify your credit card or PayPal (available in Australia only) payment;</li>
+<li>stored to help you remember and re-order from our menu in future; and</li>
+<li>used to provide you with an SMS to inform you when your order is on its way or ready for pick-up from one of our stores;</li>
+<li>requesting your feedback on our products and/or services;</li>
+<li>responding to any complaints, enquiries and feedback;</li>
+<li>unsubscribing your details from our databases;</li>
+<li>sales trends analysis, stock management and sales and stock reporting;</li>
+<li>any other purposes identified at the time of collecting your Information; and;</li>
+<li>to prevent fraud, comply with any legal obligation or as otherwise permitted or required by law.</li>
+</ul>
+<p>Sometimes we receive data from our affiliates, customers and other third parties that helps us (or them) understand our customer’s online, ordering and purchasing activity, and generally make Domino’s a better experience for our customer. For example, a customer’s order may tell us information about the customer (like what their pizza or sides preferences are) in order to measure the effectiveness of - and improve the quality of – our customer’s ordering experience.</p>
+<p>We may also put together data from the information we already have about a customer so we can offer and suggest a variety of products, deals or offers and features to our customer, or customize the ordering experience for the customer.</p>
+<h3><strong>Domino’s Jobs/Franchise application/expression of interest</strong></h3>
+<p>You acknowledge that consent has been provided for us to collect and use your personal information for the purpose of:</p>
+<ul>
+<li>
+<p>assessing your suitability as a Domino's employee, franchise store employee or franchisee at the time of making your application/submitting your expression of interest; and/or</p>
+</li>
+<li>
+<p>sending you information about future franchising opportunities.</p>
+</li>
+</ul>
+<h3><strong>Payment details</strong></h3>
+<p>Domino’s and its franchisees do not store any credit card details for in-store orders.</p>
+<p>Internet orders can be paid by cash in store, debit cards, gift voucher or e-voucher or pre-paid using PayPal (available in Australia only) or a valid credit card (which must be presented upon receipt of your order). Your credit card details are required to process payment on the internet order system however the full details are not saved once the order is processed. The credit card details we hold are: the name on the card, expiry date and the masked version of the credit card (ie first 6 digits and last 4 digits).</p>
+<p>If you are a registered member of the online ordering system, you may have the ability to save your preferred payment method. You will be able to update this at any time by logging in to your registered account. We reiterate that your full payment details are not stored in your Domino’s registered account, but rather with our partner (PCI compliant) payment gateway providers:</p>
+<ul>
+<li>Cybersource (AUS) or Paystation (NZ) (credit card payments); and</li>
+<li>PayPal.</li>
+</ul>
+<p>Refer to heading ‘Third Party disclosure of your Information’ for more information about these payment gateway providers</p>
+<h3><strong>eVouchers</strong></h3>
+<p>Most Domino's Pizza vouchers carry an eVoucher number which can be redeemed via the Domino's Pizza internet ordering system. Simply enter this number on the right hand side of your screen when ordering online. This information is then processed by Domino's in order to verify and provide your discount.</p>
+<h2><strong>Third Party disclosure of your Information</strong></h2>
+<p>Where appropriate, Domino's and its franchisees will share your Information between themselves and with other third parties, including:</p>
+<ul>
+<li>to meet the purpose for which it was submitted to us or them;</li>
+<li>our related entities, suppliers and third parties who provide services to us or on our behalf or provide a service to you (for example third parties processing your online payments, third parties providing analyses of customer ordering, IT and cloud storage service providers and processors, third party suppliers providing our SMS service and mailing houses and third parties operating certain features available from our website such an ‘adboost’ platform);</li>
+<li>entities which you have expressly allowed us to disclose your Information to;</li>
+<li>any entities that we or our franchisees are required or permitted by law to disclose your Information to;</li>
+<li>if your personal Information is collected in connection with a joint promoter or service provider, to that joint promoter or service provider for marketing and research purposes;</li>
+<li>if you use a credit card to place an order via our website, mobile site or app, your details will be passed on to our credit card processor who will receive your credit card details for such orders.&nbsp; Presently Cybersource provide this service in Australia and Paystation provide this service in New Zealand. Cybersource and Paystation are secure internet payment gateways that secure your credit card number during transmission. See http://www.cybersource.com/ and http://www.paystation.co.nz/cms_display.php;</li>
+<li>if you use PayPal (available in Australia only) to place an order via our website, mobile site or app, your details will be received by PayPal in order to process the order. For more information on PayPal see: https://www.paypal.com/au/home;</li>
+<li>we may share Information with agents, affiliates or service providers who act for or on behalf of us in connection with our business, or for further processing in accordance with the purpose(s) for which the Information was originally collected; and</li>
+<li>any other third parties notified to you at the time of collecting your Information or after the collection of your Information.</li>
+</ul>
+<p>Some of our related entities and third party service providers are located in countries outside of Australia (including but not limited to the Philippines, India, United Kingdom, New Zealand, United States of America, Germany, The Netherlands, France, Belgium and Ireland). Our contracts with these parties generally include an obligation for them to comply with Australian privacy law and this policy.&nbsp; However you acknowledge that, by agreeing to the disclosure of your Information to these entities outside of Australia, we will no longer be required to take reasonable steps to ensure the overseas recipient's compliance with the Australian privacy law in relation to your Information and we will not be liable to you for any breach of the Australian privacy law by these overseas recipients and, on this basis, you consent to such disclosure.</p>
+<p>Where we disclose your Information to our related suppliers and third parties, your personal Information will be collected, used, held and disclosed by them in accordance with their privacy policy.</p>
+<h2><strong>VIP club membership</strong></h2>
+<p>VIP club is Domino's electronic communications database which our customers may join by opting-in.&nbsp; During your order via the Domino's Pizza internet ordering system, you will be asked if you would like to become a VIP club member. To become a member you need to tick the box electing to become a VIP club member.</p>
+<p>You may also provide your Information to join as a VIP club member at the point-of sale in store, through the front page of our websites, sign up in store or via a VIP club kiosk in store or otherwise.</p>
+<p>The database is utilised to send emails containing information such as promotions, targeted offers (including third party suppliers/partners), survey information, user feedback, value offers, news and competitions to subscribers (Members). VIP club Members also have the choice to opt-in to receive communication (including commercial messages and order confirmations) via SMS and, if they opt-in to this service, Domino's may send offers and deals via SMS to these members from time to time.&nbsp; Members are able to opt-out from receiving further email communication or SMS at the bottom of each VIP club email and SMS.</p>
+<h2><strong>Free Wifi access – participating stores only</strong></h2>
+<p>We use a variety of technical means to enable user authentication which may include cookies. We may also use information from your usage of the Wifi for service monitoring and improvement purposes.</p>
+<p>If Domino’s or any affiliate is subject to any claim or request for information about your use of the Wifi, we may disclose information about you (for example, your IP address or the email address associated with your VIP club membership).</p>
+<h2><strong>&nbsp;</strong><strong>Access, accuracy and security</strong></h2>
+<p>We will take reasonable steps to ensure that your Information that we collect and hold is accurate, complete and up-to-date.&nbsp; However, we rely on you to advise us of any changes to your Information to help us maintain accurate, complete and up-to-date information.&nbsp; Please let us know if you believe that any of your Information requires updating or correction.</p>
+<p>You can request access to and correction of your Information that we hold at any time. Any such requests should be made directly by contacting us (see "Contact Us" section below), or by updating your details through the relevant Domino’s Jobs website, your franchise application or through any other account/profile management platform operated by or on behalf of Domino’s.</p>
+<p>We will take reasonable steps to protect your Information from misuse, loss and unauthorised access, modification or disclosure.&nbsp; However, no data protection or security measure is completely secure and we cannot guarantee the security of your Information, particularly in relation to online transmissions.&nbsp; You must take care to ensure you protect your Information (for example, by protecting your usernames and passwords) and you must notify us as soon as possible after you become aware of any security breaches.</p>
+<h2><strong>Sensitive information</strong></h2>
+<p>As mentioned under the heading ‘What information we collect: Domino’s Jobs’, when you apply for a job with us you may be asked to disclose any pre-existing injuries or medical conditions which may affect your ability to carry out the job, or which may be aggravated by the job, you are applying for. This information will only be used for the purpose of assessing your suitability as a Domino's Pizza employee.</p>
+<p>This information will only be collected with your consent. Your completion of the job application (and consequently the provision of such information as part of the application) will be treated as your consent.</p>
+<p>We will not collect, use or disclose any other sensitive information such as information about racial or ethnic origins or political or religious beliefs.</p>
+<h2><strong>Clickstream Data and Advertising</strong></h2>
+<p>Each time you visit our websites our server collects some anonymous information, known as click-stream data, including the type of browser and system you are using; the address of the site you have come from and move to after your visit; the date and time of your visit; and your server's IP address.</p>
+<p>Domino's may collect this information for statistical purposes to find out how the websites is used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. Domino's may use this information to evaluate and improve the Domino's websites.</p>
+<p>To try and bring you offers that we think may interest you, we have relationships with third party companies (for example DoubleClick and ROKT) that we allow to place advertisements on our websites. If you visit our websites, ad serving or data analytics companies may place cookies on your browser to capture information from you such as your domain type, your IP address, your web usage behaviour whilst on the page (including how you were referred to the page) and clickstream information. Any information collected by such third parties is subject to their privacy policies and terms of use (which can be found at Double Click (<a href="http://www.doubleclick.net/">www.doubleclick.net</a>), Google Analytics (<a href="https://mailtrack.io/trace/link/0561e26e13980cfe8d3592de664d13b9c92f4d18?url=http%3A%2F%2Fwww.google.com.au%2Fpolicies%2Fprivacy&amp;signature=b8806afabfc5ea8e">www.google.com.au/policies/privacy</a> and <a href="https://mailtrack.io/trace/link/2b2a700869cabd0af786338fab418d7997b08c87?url=http%3A%2F%2Fwww.google.com.au%2Fanalytics%2Fterms%2Fus.html&amp;signature=f66be914e360ed2e">http://www.google.com.au/analytics/terms/us.html</a>) and ROKT (http://rokt.com/blog/privacy-policy/)).</p>
+<p>If you wish to opt out of Google Analytics tracking, you can find detail on how to do so at&nbsp;<a href="https://support.google.com/analytics/answer/181881?hl=en">https://support.google.com/analytics/answer/181881?hl=en</a>.</p>
+<h2><strong>Domino’s applications for smart devices</strong></h2>
+<p>Domino’s offers various applications for smart devices; these applications allow you to (amongst other things) order pizzas, track your order, locate your nearest store and receive vouchers or current deal notifications.</p>
+<p>You will be able to access your Domino’s Online Ordering account using these applications.</p>
+<p>In addition to recording your smart device’s IP address as part of your online order, your smart device’s ID may also be recorded in order to effectively provide you with the application’s services.</p>
+<p>A Domino’s application may seek to activate location tracking services on your smart device. This function may result in your location being used for purposes such as:</p>
+<ul>
+<li>
+<p>marketing (i.e. a nearby store sending you a special deal); or</p>
+</li>
+<li>
+<p>identification of your closest Domino’s store.</p>
+</li>
+</ul>
+<p>You will have the ability to opt out of these location tracking services by:</p>
+<ul>
+<li>
+<p>declining this option when first prompted by the application; or</p>
+</li>
+<li>
+<p>manually turning this function off within your smart device’s settings.</p>
+</li>
+</ul>
+<h2><strong>Cookies</strong></h2>
+<p>A Cookie is a piece of information that our web server may send to your machine when you visit one of our websites. A Cookie helps us to recognise you when you re-visit our sites and to co-ordinate your access to different pages on the sites. We also use Cookies to track online advertising performance and eDM movement. By selecting the “Remember My Details” function (e.g. ‘Remember my Delivery Details or Remember my Pick-up Details) during the online ordering process, you are agreeing to the storage of a cookie on your computer/device that contains your personal details. This function will only work if your computer/device is cookie-enabled.</p>
+<p>For example, once you have placed a new pizza order you will be offered the opportunity to personalise your order so that the system remembers it for future use. A cookie will be set on your machine that enables us to recognise your computer when you return to order your favourite pizza next time.</p>
+<p>These cookies may also help us to pre-fill certain forms on our website (including promotions run by third parties) with your details in order to save you time. Please note that where you agree to partake in a third party’s promotion, any Information provided for the purpose of that promotion will be stored in accordance with that third party entity’s privacy policy.</p>
+<p>With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. If you want to do this, refer to your Browser instructions or help screen to learn more. If you disable all cookies, you may not be able to take advantage of all the features of our sites.</p>
+<h2><strong>Links to other sites</strong></h2>
+<p>Our website may contain links to other websites of third parties. A link to a third party website is not an endorsement of the accuracy or trustworthiness of that website or its content and any information collected by such websites will be subject to that website's privacy policy.</p>
+<p>The Domino’s website may be accessible through or contain connections to areas where you may be able to publicly post information, communicate with others, review products and submit media content. Prior to posting in these areas please read the Domino’s Terms and Conditions and this Privacy Policy carefully. All the information you post may be accessible to anyone with Internet access and any Information you include in your posting may be read, collected and used by others.</p>
+<h2><strong>How to stop receiving communication from us</strong></h2>
+<ol>
+<li>To stop receiving the SMS service, follow the instructions contained in the SMS.</li>
+<li>To stop receiving any email correspondence from us, simply click on the link to unsubscribe.</li>
+<li>To remove your details from any of our marketing and communication databases simply email the Privacy Officer at <a href="mailto:privacy@dominos.com.au">privacy@dominos.com.au</a>.</li>
+</ol>
+<h2><strong>Complaints Procedure</strong></h2>
+<p>If you wish to make a complaint about a breach of this policy or the Australian Privacy Principles of the Privacy Act 1988 (Cth) (as amended) or the New Zealand Information Privacy Principles of the Privacy Act 1993 (NZ), you can lodge a complaint to the Domino's Privacy Policy Co-ordinator using the contact details below.&nbsp; You will need to provide sufficient details regarding your complaint as well as any supporting evidence and/or information.&nbsp;</p>
+<p>The Domino's Privacy Policy Co-ordinator will investigate your complaint and determine the steps that we will undertake to resolve your complaint.&nbsp; We will contact you if we require any additional information from you and will notify you in writing of the Domino's Privacy Policy Co-ordinator's determination.&nbsp; If you are not satisfied with the determination, you can contact us to discuss your concerns or complain to the Australian Privacy Commissioner via www.oaic.gov.au or the New Zealand Privacy Commission via https://www.privacy.org.nz (as applicable).&nbsp;</p>
+<h2><strong>Contact Us</strong></h2>
+<p>If you have any queries regarding this policy please contact the Domino's Privacy Policy Co-ordinator at Level 5, 'KSD1', 485 Kingsford Smith Drive, Hamilton Queensland 4007 Australia, +61 7 3633 3333, privacy@dominos.com.au or <a href="mailto:privacy@dominospizza.co.nz">privacy@dominospizza.co.nz</a>. If you have any queries regarding the Information contained in your profile on the relevant Domino’s jobs website, including how to update that Information, please contact the Domino’s Training team on Training@dominos.com.au.</p>
+
+
+                    </div>
+                </div>        </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="background-feature-footer "></div>
+
+</div>
+
+
+
+                <div id="footer-spacer"></div>
                     
-    <div id="contentNavigation">
+<div id="footer">
+    <div class="footer-block">
         <ul>
-            <li id="navInsideDominos"><a href="/corporate/inside/InsideDominos.aspx">About Domino's</a>
-                <ul id="ctl00_ctl00_ContentBlockPlaceHolder_MenuListInsideDominos">
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInVisionMission"><a href="/corporate/inside/visionmission.aspx">
-                        Vision &amp; Mission</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInPartners"><a href="/corporate/inside/partners.aspx">Business Partners</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInCommunity"><a href="/corporate/inside/community.aspx">Community
-                        Initiatives</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInSponsorship"><a href="/corporate/inside/sponsorship.aspx">
-                        Sponsorship</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInFoodSafety"><a href="/corporate/inside/FoodSafety.aspx">
-                        Food Safety</a></li>                    
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInTheJourney"><a href="/InsideDominos/">Inside Domino's</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInTheatreOfFood"><a href="/corporate/inside/theaterOfFood.aspx">Domino's Theatre of Food</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInChefsInspiration"><a href="/corporate/inside/ChefsInspiration.aspx">Chef's Inspirations</a></li>                                
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInIpadApp"><a href="/corporate/inside/ipadapp.aspx">Domino's iPad App</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInAndroidApp"><a href="/corporate/inside/AndroidApp.aspx">Domino's Android App</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInMobileOrderingSite"><a href="/corporate/inside/MobileOrderingSite.aspx">Domino's Mobile Ordering Site</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInIphoneApp"><a href="/corporate/inside/iphoneapp.aspx">Domino's iPhone App</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInFacebookApp"><a href="/corporate/inside/FacebookApp.aspx">Domino's Facebook Ordering App</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInPizzaTracker"><a href="/corporate/inside/pizzatracker.aspx">Pizza Tracker</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInGooChoiceRange"><a href="/corporate/inside/goodchoicerange.aspx">Good Choice Range</a></li>
-                </ul>
-            </li>
-            <li id="navNews"><a href="/corporate/news/News.aspx">News</a>
-                
-            </li>
-            <li id="navFranchise"><a href="/corporate/franchise/Franchise.aspx">Franchise</a>
-                
-            </li>
-            <li id="navInvestors"><a href="/corporate/investors/investors.aspx">Investors</a>
-                
-            </li>
-            <li id="navJoinOurTeam"><a href="/corporate/team/joinourteam.aspx">Join our team</a>
-                
-            </li>
-            <li id="navContact"><a href="/corporate/contact/contact.aspx">Contact</a>
-                
-            </li>
+            <li class="title">Domino's Pizza</li>
+            <li><a href="https://internetorder.dominos.com.au/estore/en/home">Order Online</a></li>
+            <li><a href="/menu">Pizza Menu</a></li>
+            <li><a href="/menu/nutritional-information">Nutritional Information</a></li>
+            <li><a href="/coupon-vouchers">Vouchers &amp; Coupons</a></li>
+        </ul>
+        <ul>
+            <li class="title">Contact Us</li>
+                <li style="color: white; font-weight: bold; font-size: 16px"><a href="tel:1300366466">1300 DOMINOS</a></li>
+            <li style="font-size: 16px"><a href="tel:1300366466">(1300 366 466)</a></li>
+            <li><a href="/inside-dominos/contact-us">Contact Details</a></li>
+            <li><a href="/inside-dominos/contact-us/feedback-form">Feedback</a></li>
+        </ul>
+        <ul>
+            <li class="title">Help</li>
+            <li><a href="/store-finder">Store Finder</a></li>
+            <li><a href="/site-map">Site Map</a></li>
+        </ul>
+        <ul>
+            <li class="title">Corporate</li>
+            <li><a href="/inside-dominos/jobs-at-dominos">Jobs at Domino's</a></li>
+            <li><a href="/dominos-franchise">Domino's Franchise</a></li>
+            <li><a href="/inside-dominos/corporate">Domino's Corporate Site</a></li>
         </ul>
     </div>
-    
-    <div id="contentBlock">
-        <h2>Domino's Privacy Policy</h2>
-        <img class="topCurve" src="/images/bg_contentTop.png" alt="" width="587" height="11">
-        <div class="contentArea">
-            <p>Domino's Pizza Enterprises Limited ("Domino's") acknowledges and respects the privacy of individuals. This Privacy Policy covers the personal information that Domino's and its franchisees collect, use or disclose and sets out the way in which Domino's and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores, including franchisee stores.</p>
-            <p>Domino's may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates. This policy is effective as from March 2006.</p>
-            
-            <h4>How do we collect Information?</h4>
-            <p>Domino's and its franchisees may collect personal information ("Information") from you including your first and last name, address, telephone and mobile number(s), email address, credit card details and any other information, when you knowingly provide us with this Information. This will generally occur when you either:</p>
-            <ul>
-	            <li>visit our websites;</li>
-	            <li>enter into a competition or promotion;</li>
-	            <li>participate in a survey;</li>
-	            <li>subscribe to our mailing list;</li>
-	            <li>register as an eClub member;</li>
-	            <li>apply for a job; </li>
-	            <li>request information regarding our Franchise system;</li>
-	            <li>submit website feedback; or</li>
-	            <li>place a pizza order via a store or via our internet ordering system.</li>
-            </ul>
-            <p>Where Domino's or its franchisee collects personal Information about you from someone else, Domino's or the franchisee will take reasonable steps to advise you.</p>
-
-            <h4>How do we use Information?</h4>
-            <p>Domino's and its franchisees may use the personal Information that you submit to store and process that Information in order to provide goods and services. Generally, we may use your personal Information in the ways in which you would expect, including but not limited, to any of the following purposes:</p>
-            <ul>
-	            <li>to allow you to participate as an eClub member;</li>
-	            <li>to process any job application you may submit;</li>
-	            <li>to provide you with any franchise information you may request;</li>
-	            <li>to process any online ordering;</li>
-	            <li>to determine the number of visitors to our websites and conduct reviews of our sites;</li>
-	            <li>to fulfil prizes, awards and purchases;</li>
-	            <li>to respond to specific requests from visitors;</li>
-	            <li>to keep you informed about any changes to our websites;</li>
-	            <li>to conduct marketing research; and</li>
-	            <li>to now and again send you offers or information on products or services that we consider will be of interest to you.</li>
-            </ul>
-            
-            <h4>Further information on how we use your personal Information when </h4><h4>using our Internet ordering system</h4>
-            <p>When using the Domino's Pizza internet ordering system additional information is collected when you order a pizza online. This information assists in the delivery to your door and to verify your credit card payment. The internet order system also stores information about your order to help you remember and re-order the same menu in future. When concluding your order via the Domino's Pizza internet ordering system, you will be asked if you would like to become an eClub member. To not become a member you tick the box electing not to become an eClub member.</p>
-
-            <h4>Credit card details</h4>
-            <p>Internet orders can be paid by cash or pre-paid via a valid credit card which must be presented upon receipt of your order. Your credit card details are required to process payment on the internet order system however they are not saved after the order is fulfilled.</p>
-
-            <h4>eVouchers</h4>
-            <p>Most Domino's Pizza vouchers carry an eVoucher number which can be redeemed via the Domino's Pizza internet order system. Simply enter this number on the right hand side of your screen when ordering online. This information is then processed by Domino's Pizza in order to verify and provide your discount.</p>
-
-            <h4>Third Party disclosure</h4>
-            <p>Domino's and its franchisees may share statistics and personal information between themselves and with companies that are related to Domino's including our international branches.</p>
-            <p>Personal Information that you submit to Domino's and it franchisees may be disclosed to a third party:</p> 
-            <ul>
-	            <li>such as our suppliers who are employed to provide some of our services such as mailing houses;</li>
-	            <li>to meet the purpose for which it was submitted;</li>
-	            <li>if you have provided your express consent to share the Information;</li>
-	            <li>if Domino's or its franchisees are required or authorised by law to disclose the Information;</li>
-	            <li>if your personal Information is collected in connection with a joint promoter or service provider, to that joint promoter or service provider for marketing and research purposes;</li>
-	            <li>if Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party (we know that many of our customers enjoy receiving these excellent offers); or</li>
-	            <li>if you place an order via our internet order system, your details will be passed on to Verisign, who receive your credit card details for internet order payment. Verisign is a secure internet payment gateway that secures your credit card number during transmission. See: <a href="http://www.verisign.com">www.verisign.com</a> for further details. </li>
-            </ul>
-
-            <h4>eClub membership</h4>
-            <p>eClub is Domino's opt-in electronic communications database.  The database is utilised to send emails containing information such as promotions, value offers, news and competitions to Subscribers (Members).  Members of the database are able to opt-out from receiving further email communication at the bottom of each eClub email. eClub Members also have the choice to opted-in to receive communication via SMS, if they opt-in Domino's may send offers via SMS to these members from time to time.</p>
-
-            <h4>Ideas Lab</h4>
-            <p>Domino's eClub members may elect to participate in the Domino's Ideas Lab, a website facilitated by a service provider known as Vision Critical Communications Pty Limited.  By electing to participate in the Ideas Lab, eClub members must first agree to the Terms and Conditions of Use and any contest rules (as applicable). As a member of the Ideas Lab, you may get the chance to participate in research and development initiatives such as questionnaires, panel discussions, and the provision of feedback. By participating in the Ideas Lab you provide your consent for the use of your personal Information and your responses collected for the purposes of our research and development in accordance with our Privacy Policy.</p>
-
-            <h4>Access, Accuracy and Security</h4>
-            <p>Domino's and its franchisees will take reasonable steps to ensure that the personal Information collected is accurate, complete and up-to-date.</p>
-            <p>You can access and request correction of any personal Information concerning you at any time. You may also request that your personal information be deleted at any time. Any such requests should be made directly by contacting us (see "Contact Us" section below).</p>
-            <p>Domino's and its franchisees will take reasonable steps to protect personal information from misuse, loss and unauthorised access, modification or disclosure.</p>
-
-            <h4>Sensitive information</h4>
-            <p>Domino's and its franchisees will not collect, use or disclose sensitive information (such as information about racial or ethnic origins or political or religious beliefs) except with your specific consent or in the circumstances permitted in the Australian and New Zealand Privacy Laws.</p>
-
-            <h4>Clickstream Data</h4>
-            <p>Each time you visit the Domino's website our server collects some anonymous information, known as click-stream data, including the type of browser and system you are using; the address of the site you have come from and move to after your visit; the date and time of your visit; and your server's IP address.</p>
-            <p>Domino's may collect this information for statistical purposes to find out how the websites is used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. Domino's may use this information to evaluate and improve the Domino's websites.</p>
-
-            <h4>Cookies</h4>
-            <p>A Cookie is a piece of information that our web server may send to your machine when you visit a Domino's website. A Cookie helps us to recognise you when you re-visit our sites and to co-ordinate your access to different pages on the sites.</p>
-            <p>For example, once you have placed a new pizza order you may be offered the opportunity to personalise your order so that the system remembers it for future use. A cookie will be set on your machine that enables us to recognise your computer when you return to order your favourite pizza next time.</p>
-            <p>With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. If you want to do this, refer to your Browser instructions or help screen to learn more. If you disable all cookies, you may be able to take advantage of all the features of our sites.</p>
-            
-            <h4>Links to other sites</h4>
-            <p>Domino's may provide links to other websites on its own website.  A link to another website is not an endorsement of the accuracy or trustworthiness of that website or its content.</p>            
-
-            <h4>Privacy Policy Co-ordinator</h4>
-            <p>If you have any queries regarding the Domino's Privacy Policy please contact the Domino's Privacy Policy Co-ordinator Craig Ryan on +61 7 3633 3333 or <a href="mailto:privacy@dominos.com.au">privacy@dominos.com.au</a></p>
+    <div class="footer-block social">
+        <img src="/Content/Images/partnertelstra.png" alt="Domino's partners with Telstra">
+        <a href="https://itunes.apple.com/au/app/dominos/id336882722?mt=8" target="_blank">
+            <img id="iTunes-badge" src="/Content/Images/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Domino's app available on the App Store">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=au.com.dominos.olo.android.app" target="_blank">
+            <img src="/Content/Images/get_it_on_play_logo_default.png" alt="Get the app on Google Play ">
+        </a>
+        <a href="https://www.youtube.com/user/DominosAustralia" target="_blank">
+            <img src="/Content/Images/youtube_channel1.png" alt="Visit the Domino's Youtube Channel">
+        </a>
+        <a href="https://plus.google.com/+DominosPizzaAustralia/posts" target="_blank">
+            <img src="/Content/Images/gplus-64.png" alt="Domino's on Google Plus">
+        </a>
+        <div class="g-plusone-wrapper">
+            <div class="g-plusone" data-size="medium"></div>
         </div>
-        <img class="bottomCurve" src="/images/bg_contentBottom.png" alt="" width="587" height="12">
+        <a href="https://www.facebook.com/DominosAustralia" target="_blank">
+            <img src="/Content/Images/f_page_logo.png" alt="Find Domino's on Facebook">
+        </a>
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href="https://www.facebook.com/DominosAustralia" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false">
+        </div>
+        <a href="https://twitter.com/Dominos_AU" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false" data-dnt="true">
+            Follow @Dominos_AU
+        </a>
+        <a href="https://vine.co/Dominos_AU" target="_blank">
+            <img src="/Content/Images/vinelogo.png" alt="Watch Domino's on Vines">
+        </a>
     </div>
 
 
-                    <div class="extra">
-                        <div class="orderOnline">
-                            <img class="cashPayments" src="/images/ttl_cashPayment.gif" alt="Cash payment now accepted" width="41" height="37">
-                            <div id="orderOnlineFlash">
-                            <!-- FLASH BUTTON -->
-	                            <div id="flashButton">
-		                            <div id="onlineOrderingAlt" class="noflash" style="visibility: visible;">
-			                            <a href="https://internetorder.Dominos.com.au/?storepulseid=98001&amp;utm_campaign=Public_Site&amp;utm_medium=Order&amp;utm_source=ASP.corporate_privacypolicy_aspx&amp;flashenabled=false" target="_blank" class="orderBtn"><strong>Order Online</strong></a>
-		                            </div>
-	                            </div>
-	                          <!-- END FLASH BUTTON -->
-	                        </div>
-                        </div>
-                        
-    
+    <div class="footer-block declaration">
+        <p class="legaltext">
+            <a href="/inside-dominos/contact-us/privacy-policy">Privacy Policy</a>
+            <br>
+            <a href="/inside-dominos/contact-us/terms-conditions">Website and Online Ordering, Terms &amp; Conditions</a>
+        </p>
+        <p class="legaltext">© Domino's Pizza Enterprises Ltd 2015</p>
+        <p id="debug-info">PublicWebsiteResponsive V1.0.0-(1453) [i-aace6275 - 10.90.2.25]</p>
 
+    </div>
 
-                    </div>
-                </div>
+</div>
             </div>
-        </div>
-    </div>
-    
-    <div id="footer" class="overflow">
-        <ul>
-            <li class="copyright">Copyright Domino's Pizza Enterprises Ltd 2008</li>
-            <li><a href="https://internetorder.Dominos.com.au/accessible/?storepulseid=98001&amp;utm_campaign=Public_Site&amp;utm_medium=Order&amp;utm_source=ASP.corporate_privacypolicy_aspx&amp;flashenabled=false" target="_blank" class="accessible">Accessible Online Ordering</a></li>
-            <li>
-                <a href="http://www.dominospizza.co.nz/">New Zealand Website</a>
-            </li>
-            <li><a href="https://secure.dominos.com.au/feedback/corporate/contact/feedbackform.aspx">Submit Feedback</a></li>
-            <li class="last"><a href="/corporate/privacyPolicy.aspx">Domino's Privacy Policy</a></li>
-        </ul>
-        <ul>
-            <li><a href="/corporate/termsConditions.aspx">Website and Online Ordering Terms and Conditions</a></li>
-            <li><a id="ctl00_ctl00_lnkChangeVersion" href="javascript:__doPostBack('ctl00$ctl00$lnkChangeVersion','')">Text Version</a></li>
-            <li><a href="/corporate/eclub.aspx"><em>e</em>CLUB</a></li>
-            <li><a href="/corporate/contact/contact.aspx">Contact Us</a></li>
-            <li class="last"><a href="/menu/nutritional/">Nutritional Information</a></li>
-        </ul>
-        <p class="call">
-			1300 DOMINOS<br>(1300 366 466)
-			<span style="background-image: url(/images/bg_1300dominos.gif)">&nbsp;</span>
-		</p>                 
-        <div class="socialMediaWrapper">
-            <div class="socialMedia">
-                
-                <div class="telstra"></div>
-                
-                <div class="iphone_market">
-                    <a href="http://itunes.apple.com/au/app/dominos/id336882722?mt=8" target="_blank" title="Download Domino's iPhone App now!"><img src="/images/socialmedia/iphone_market.png" alt="Find out more"></a>    
-                </div>
-                <div class="android_market"><a href="https://play.google.com/store/apps/details?id=au.com.dominos.olo.android.app" target="_blank" title="Download Domino's NEW Android App now!"><img src="/images/socialmedia/get_it_on_play_logo_small.png" alt="Get it on Google Play"></a></div>
-                <div class="youtube_market"><a href="http://www.youtube.com/DominosAustralia" target="_blank" title="Visit us on YouTube"><img src="/images/socialmedia/youtube_channel.png" alt="Find out more"></a></div>
-                <div class="googlePlus">
-                    <a href="https://plus.google.com/103256154301279337807?prsrc=3" style="text-decoration:none;" target="_blank" title="Visit us on Google+">
-                        <img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="Visit us on Google+" style="border:0;width:32px;height:32px;">
-                    </a>
-                    <div class="clear"><!-- // --></div>
-                </div>
-                <div class="mediaContainer">
-                    <div class="socialButton">
-                        <g:plusone size="medium" count="true"></g:plusone>
-                        <div class="clear"><!-- // --></div>
-                    </div>
-                </div>
-                <div class="facebook_market"><a href="http://www.facebook.com/DominosAustralia" target="_blank" title="Visit us on Facebook"><img src="/images/socialmedia/f_page_logo.png" alt="Find out more"></a></div>
-                <div class="mediaContainer">
-                    <div class="socialButton">
-                        <iframe src="http://www.facebook.com/plugins/like.php?href=facebook.com%2FDominosAustralia&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
-                        <div class="clear"><!-- // --></div>
-                    </div>
-                </div>
-                <div class="twitter">
-                    <a href="http://twitter.com/Dominos_AU" target="_blank" title="Follow Domino's Australia on Twitter">
-                        <img src="/images/socialmedia/twitter-bird-blue-on-white.png" alt="Follow Domino's Australia on Twitter">
-                    </a>
-                </div>
-                <div class="clear"><!-- // --></div>
-            </div>
-            <div class="clear"></div>
-        </div>
-    </div>
-    
-
-    <script type="text/javascript">
-        //<![CDATA[
-        /* Replacement calls. Please see documentation for more information. */
-        function runMasterSifr()
-        {
-            if(typeof sIFR == "function")
-            {
-                //	sIFR.replaceElement(named({sSelector:"body h1", sFlashSrc:"tradegothic.swf", sColor:"#000000", sLinkColor:"#000000", sBgColor:"#FFFFFF", sHoverColor:"#CCCCCC", nPaddingTop:20, nPaddingBottom:20, sFlashVars:"textalign=center&offsetTop=6"}));
-                sIFR.replaceElement(named({sSelector:"#contentBlock h2", sFlashSrc:"/flash/omnesBold.swf", sColor:"#ffffff", sLinkColor:"#000000", sBgColor:"#0071ad", sWmode:"transparent", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"offsetTop=-5"}));
-                sIFR.replaceElement(named({sSelector:"#contentBlock h3", sFlashSrc:"/flash/omnesBold.swf", sColor:"#1079b9", sLinkColor:"#000000", sBgColor:"#0071ad", sWmode:"transparent", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"offsetTop=-5"}));
-                sIFR.replaceElement(named({sSelector:"#contentBlock h4", sFlashSrc:"/flash/omnesBold.swf", sColor:"#909090", sLinkColor:"#000000", sBgColor:"#0071ad", sWmode:"transparent", nPaddingTop:0, nPaddingBottom:0}));
-                sIFR.replaceElement(named({sSelector:"#contentBlock .storeLocations h4", sFlashSrc:"/flash/omnesBold.swf", sColor:"#909090", sLinkColor:"#000000", sBgColor:"#0071ad", sWmode:"transparent", nPaddingTop:0, nPaddingBottom:0}));
-                sIFR.replaceElement(named({sSelector:".infoPanel p", sFlashSrc:"/flash/omnesSemiBold.swf", sColor:"#00445f", sLinkColor:"#000000", sBgColor:"#00a8e1", sCase: "upper", sWmode:"transparent", nPaddingTop:0, nPaddingBottom:0}));
-
-            };
-        }
-        
-        //]]>
-    </script>
-
-    
-
-
-    
-
-<script type="text/javascript">
-//<![CDATA[
-InitialRunSifr();setCorporateNavigationMenu('navDefault');ApplyOrderOnlineButtonFlash('https%3a%2f%2finternetorder.Dominos.com.au%2f%3fstorepulseid%3d98001%26utm_campaign%3dPublic_Site%26utm_medium%3dOrder%26utm_source%3dASP.corporate_privacypolicy_aspx');//]]>
-</script>
-</form>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-    _uacct = "UA-490193-1";
-    urchinTracker();
-</script>
-<!-- Google Code for signup Conversion Page -->
-<script language="JavaScript" type="text/javascript">
-<!--
-    var google_conversion_id = 1046965731;
-    var google_conversion_language = "en_AU";
-    var google_conversion_format = "1";
-    var google_conversion_color = "FFFFFF";
-    if (1.0) {
-        var google_conversion_value = 1.0;
-    }
-    var google_conversion_label = "signup";
-//-->
-</script>
-<script language="JavaScript" type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-<img height="1" width="1" border="0" alt="" src="http://www.googleadservices.com/pagead/conversion/1046965731/imp.gif?value=1.0&label=signup&script=0" />
-</noscript>
-
-<!-- beacon code -->
-<!--<script language="JavaScript">
-    var axel = Math.random() + "";
-    var a = axel * 10000000000000;
-    document.write('<img src="http://adopt.euroclick.com/Custom/bht.jsp?r=p&px=5719&v=1&rnd=' + a + '" WIDTH="1" HEIGHT="1" BORDER="0" />');
-</script>-->
-
-<!-- end beacon code -->
-
-   <script language="Javascript">       amgdgt_ctr = "5622"; amgdgt_t = "x";</script><script type="text/javascript" src="http://cdn.amgdgt.com/base/js/v1/amgdgt.js"></script><noscript><iframe src="http://ad.amgdgt.com/ads/?f=i&t=x&ctr=5622&rnd=%n" width="1" height="1" frameborder="0"></iframe></noscript>
-
-
 </body></html>
