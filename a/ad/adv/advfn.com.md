@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173843id_/http%3A//www.advfn.com/common/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071603id_/http%3A//www.advfn.com/common/legal/privacy) for the most accurate reproduction.*
 
 # Free share alerts by email - price, news and forum
 
@@ -70,7 +70,7 @@ We take data security very seriously and have invested much time and money in cr
 
 If you think we have not adhered to this policy, please get in touch by email to support@advfn.com or write to us at ADVFN Data Department, 26 Throgmorton Street, London, EC2N 2AN expressing your concerns. We will endeavour to solve the problem for you promptly. 
 
-Disclosing your information ADVFN never sells your personal information to third parties. When required by law, it may be necessary for us to disclose your personal information to third parties. Future policy changes Changes to the ADVFN Cookie and Privacy Policy will be posted on this page. Please check back regularly for updates. 
+Disclosing your information ADVFN does not sell your personal information to third parties (unless you specifically opt in to an ADVFN partner offer such as a third party email subscription). When required by law, it may be necessary for us to disclose your personal information to third parties. Future policy changes Changes to the ADVFN Cookie and Privacy Policy will be posted on this page. Please check back regularly for updates. 
 
 ## PRIVACY POLICY
 
