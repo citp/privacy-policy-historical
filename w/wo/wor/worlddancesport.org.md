@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worlddancesport.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616005700id_/http%3A//www.worlddancesport.org/Legal/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worlddancesport.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226040305id_/http%3A//www.worlddancesport.org/Legal/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | World DanceSport Federation at worlddancesport.org
 
@@ -10,7 +10,7 @@ Unless the user provides it voluntarily, the World DanceSport Federation (WDSF) 
 
 Some pages permit visitors to request additional information. Visitors are able to e-mail messages to WDSF and/or its officials that will contain the user's name and e-mail address, as well as any additional information the user may wish to include in the message. WDSF uses the information visitors provide about themselves to fulfil those visitors' requests. In this case, the e-mail addresses are used to answer messages received only.
 
-In order to be able to comment on the "Live from ..." blog entries - or to take part in surveys or polls on this website - a visitor is required to register and log in first ( **Login | Register** next to the **SEARCH** field). The mandatory fields for registration include
+In order to be able to access certain parts of this website, to comment or to take part in surveys and polls on this website, a visitor is required to register and log in first ( **Login | Register** next to the **SEARCH** field). The mandatory fields for registration include
 
   * Name 
   * Surname 
@@ -24,9 +24,9 @@ The check box confirms acceptance of this Privacy Policy. 
 
 ### Newsletter
 
-Under the terms of the Privacy Policy, all registrants sign up automatically for the monthly IDSF newsletter **To The Rhythm of Time (** TTROT) to be sent to them by e-mail.
+Under the terms of the Privacy Policy, all registrants sign up automatically for a newsletter that may be sent to them by e-mail.
 
-While WDSF does not share any information it stores about the registrants with third parties, it makes use of Name, Surname and Email for the distribution of the monthly newsletter. The latter is distributed through ConstantContact, a reputable service for bulk mailing. Refer to the Constant Contact privacy statement [ here](http://www.constantcontact.com/privacy_guarantee.jsp "ConstantContact"). Should a registrant to the website prefer not to receive the newsletter TTROT, the instant removal function  in the footer of each issue allows for the automatic subscription to be cancelled at any time. 
+While WDSF does not share any information it stores about the registrants with third parties, it may make use of Name, Surname and E-Mail for the distribution of a monthly newsletter. The latter would be distributed through MailChimp, a reputable service for bulk mailing. Should a registrant to the website prefer not to receive the newsletter, the instant removal function in the footer of each issue of the newsletter allows for the automatic subscription to be cancelled at any time. 
 
 ### Log Files
 
