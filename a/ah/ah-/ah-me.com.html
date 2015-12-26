@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2015-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617074038id_/http%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226142221id_/http%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Ah-me Videos, policy</title><link href="http://www.ah-me.com/css/style.css" rel="stylesheet" type="text/css">
+		<title>Ah-me Videos, policy</title><link href="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/css/style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://www.ah-me.com/js/jquery.min.js"><\/script>')</script><script src="http://www.ah-me.com/js/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.ah-me.com/common/js/jquery.1.7.1.min.js"><\/script>')</script><script src="http://www.ah-me.com/common/js/jquery.1.7.1.min.js"></script>
 
 <script type="text/javascript">
-	var debug = false;
+	function dbglog(data)
+	{
+		console.log(data);
+	}
 	
 	var BaseEditor = {
 		COMMAND_SUCCEEDED: 'success',
@@ -20,11 +23,15 @@
 		MISSING: 2	};
 	
 	var COMMON_STATIC_CDN_URL = 'http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/';
-	var STATIC_CDN_URL = 'http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/new/';
+	var STATIC_CDN_URL = 'http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/';
 	var PATH_WEB = 'http://www.ah-me.com/';
+	var PATH_WEB_STATISTIC = 'http://st.ah-me.com/';
+	var PATH_MOBILE = 'http://m.ah-me.com/';
 	var PATH_WEB_MEMBER_PHOTO = '/avatars/';
 	var USERPIC_PREFIX = 'avatar_';
-	var THUMB_CDN_URL = 'http://ahmestatic.fuckandcdn.com/ah-me/ahmethumbs/';
+	var THUMB_CDN_URL = 'http://ahmestatic.fuckandcdn.com/ah-me/thumbs/320x240/';
+	var ROOT_DOMAIN = 'ah-me.com';
+	var COOKIE_LANGUAGE_SITE_NAME = 'language_site_name';
 	
 	var langLink = '';
 	
@@ -32,25 +39,73 @@
 		SYSTEM_MEMBER_ID: 1	};
 	
 	var loggedMember = false;
-	
-	var DICTIONARY = {
-		alertCaptcha: 'Error! Confirmation code is incorrect.',
-		defaultError: 'Unknown error. Please try again later'
-	};
 
-	function dbglog(str, important)
+	var debug = false;
+	
+	if (!debug && window.location.hash == '#debug') {
+		debug = true;
+	} else if (debug && window.location.hash == '#prod') {
+		debug = false;
+	}
+
+	if (typeof(console) == 'object') {
+		console.logCopy = console.log.bind(console);
+		
+		console.log = function(data)
+		{
+			if (!debug) {
+				return false;
+			}
+			
+			var now = new Date();
+			var currentDate =
+				'%c['+
+					(now.getHours() < 10 ? '0' : '') + now.getHours() + ':'+
+					(now.getMinutes() < 10 ? '0' : '') + now.getMinutes() + ':'+
+					(now.getSeconds() < 10 ? '0' : '') + now.getSeconds() + ':'+
+					(now.getMilliseconds() < 10 ? '00' : (now.getMilliseconds() < 100 ? '0' : '')) + now.getMilliseconds()+
+				']: ';
+
+			if (arguments.length > 1) {
+				this.logCopy(currentDate, 'color: #00f', arguments);
+			} else {
+				this.logCopy(currentDate, 'color: #00f', data);
+			}
+		};
+	} else { // Plug
+		console = {
+			log: function() {}
+		};
+	}
+
+	function dbglog(data)
 	{
-		if (!$.browser.msie && console && (debug || important)) {
-			console.log(str);
+		console.log(
+			arguments.length > 1
+				? arguments
+				: data
+		);
+	}
+	
+	function _(str)
+	{
+		if (typeof DICTIONARY == 'object' && DICTIONARY[str]) {
+			return DICTIONARY[str]
+		} else {
+			return str;
 		}
 	}
 </script>
+
+
+<script type="text/javascript" src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/js/dictionary.eng.js"></script>
+
 <script type="text/javascript" src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/js/jquery.autocomplete.min.js"></script>
-<script type="text/javascript" src="http://www.ah-me.com/js/main.js"></script>
-<script type="text/javascript" src="http://www.ah-me.com/js/xthumbchange.js"></script>
+<script type="text/javascript" src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/js/main.js"></script>
+<script type="text/javascript" src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/js/xthumbchange.js"></script>
 <script type="text/javascript" src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/js/jquery.cookie.js"></script>
 
-		<script type="text/javascript" src="http://www.ah-me.com/js/guest.js"></script>
+		<script type="text/javascript" src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/js/guest.js"></script>
 
 <script>
 $(document).ready(function() {
@@ -98,7 +153,7 @@ $(document).ready(function() {
 
 
 	<div class="logo">
-	<a href="http://www.ah-me.com/"><img src="http://www.ah-me.com/images/logo.jpg" alt="ah-me" title="ah-me"></a>
+	<a href="http://www.ah-me.com/"><img src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/img/logo.jpg" alt="ah-me" title="ah-me"></a>
 	<i>Only right place to relax</i>
 	</div>
 
@@ -171,7 +226,7 @@ $(document).ready(function() {
     </form>
 
 
-	<a href="http://www.ah-me.com/uploader/" id="btn-upload"><img src="http://www.ah-me.com/images/upload.jpg" alt="Upload a movie" title="Upload a movie"></a>
+	<a href="http://www.ah-me.com/uploader/" id="btn-upload"><img src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/img/upload.jpg" alt="Upload a movie" title="Upload a movie"></a>
 
 
 	</div>
@@ -336,7 +391,7 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
 	</div>
 
 	<div class="footlogo">
-		<a href="http://www.ah-me.com/" title="Ah Me free Sex Tube"><img src="http://www.ah-me.com/images/logo_podval.jpg" alt="Ah Me Free Sex Movies"></a>
+		<a href="http://www.ah-me.com/" title="Ah Me free Sex Tube"><img src="http://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v20/common/ah-me/img/logo_podval.jpg" alt="Ah Me Free Sex Movies"></a>
 		<p>Copyright 2006 Ah-Me.com Free Sex, All rights reserved. All models are 18 + y.o.</p>
 	</div>
 
@@ -352,17 +407,26 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
 
 		
 <script type="text/javascript">
+//Hack for mac with popunder(#1213)
+$('[type=submit]').click(function() {
+	$(this).closest('form').submit();
+	
+	return false;
+});
+
 <!--//<![CDATA[
 var url = (location.protocol=='https:'?'https://spots.ah-me.com/sp/delivery/js.php':'http://spots.ah-me.com/sp/delivery/js.php');
 document.write ("<scr"+"ipt type='text/javascript' src='"+ url +"?advplaces=24'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://spots.ah-me.com/sp/delivery/js.php?advplaces=24"></script>
+</script>
 
 <script>
 if (
 	!/ipad/i.test(navigator.userAgent.toLowerCase())
 	&& !$.cookie('AhIMClose')
 ) {
+	var url = (location.protocol=='https:'?'https://spots.ah-me.com/sp/delivery/js.php':'http://spots.ah-me.com/sp/delivery/js.php');
+	
 	document.write(
 		'<div class="allIM">'+
 			'<div id="allIMwindow" class="allIMwindow">'+
@@ -371,9 +435,7 @@ if (
 					'<div class="allIMwindow-header-close" ><a href="javascript:;" onclick="AhIMClose();">x</a></div>'+
 				'</div>'+
 				'<div class="IMcontent">'+
-					'<!-- BEGIN EroAdvertising ADSPACE CODE -->'+
-					'<script type="text/javascript" language="javascript" charset="utf-8" src="http://adspaces.ero-advertising.com/adspace/309576.js"></scr' + 'ipt>'+
-					'<!-- END EroAdvertising ADSPACE CODE -->'+
+					'<script type="text/javascript" src="' + url + '?advplaces=70"></scr' + 'ipt>'+
 				'</div>'+
 			'</div>'+
 		'</div>'
@@ -398,7 +460,7 @@ if (
 	};
 }
 </script>
-<!--149934-->
+<!--150910-->
 
 
 
