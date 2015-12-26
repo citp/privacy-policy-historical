@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619065205id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226020057id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
 
 # 
+
+(Updated 13th November 2015) 
 
 Hobbycraft are committed to protecting your privacy online. Here we explain how we collect information, what we do with it and what controls you have.
 
@@ -23,14 +25,9 @@ We also monitor who uses our website. For example, we may collect information ab
 
 ## Privacy promise
 
-Hobbycraft know how important it is to keep your personal information (for example your email address), safe and secure online. When you give us your personal information, we only share your details with our couriers so that they can deliver your parcel. We only send them the data that they need and we make sure that they keep your personal information safe and secure. The Information we send to them is your name, address, phone number and email. We will not pass your details on to anybody else.
+We know how important it is to keep your personal information safe and secure online. Any information that we collect from you is held legally and we will endeavour to take all reasonable steps to protect your personal information.
 
-We promise that :
-
-  * We will never pass your personal details on to anyone else, or for any reason, other than our couriers for delivery.
-  * Any information that we collect from you is held legally.
-
-
+In order to serve you most efficiently, reputable third-party banking (including PayPal) and distribution institutions handle our credit card transactions and order fulfilment. They receive the information needed to verify and authorise your payment card and to process your order. All such organisations are under strict obligation to keep your personal information private.
 
 ## Security
 
@@ -77,9 +74,23 @@ You have the right to ask for access to the personal data which we may hold or p
 
 We offer an email newsletter and may use your data for marketing reasons. We never sell your data to anyone else. You have the right to ask us to stop using your personal data to send you the Hobbycraft email newsletter. You can opt-out any time by using the 'Unsubscribe' link at the very bottom of the email.
 
-## Cookie policy
+We may capture information about your visit that will help us to improve the quality of our service, or be used to present you with ads which are relevant to your browsing history when you visit other websites.
 
-We use cookies on our website so that you can use everything on it. - Like saving favourite products and ideas to your craft drawer and logging into your account. Cookies also help us to understand how you use our website so that we can continue to improve it.
+We may collect this information even if you do not register with us.
+
+We may show you ads based on many factors, including demographic information and previous shopping history. Hobbycraft use third-party vendors, including Google, to display ads on sites across the Internet.
+
+Users may control the ads they see on Google by muting or blocking ads from certain advertisersor by opting out of personalized ads in Google’s Ads Settings. Visitors can opt out of Google's use of cookies by visiting [Google's Ads Settings](https://www.google.com/settings/u/0/ads/authenticated).
+
+### Product Reviews
+
+Around 2 weeks after purchasing your product, we may send you an email inviting you to review and rate any products that you purchased either online or in store. once submitted, it usually takes 72 hours for your review to appear on our website providing it adheres to our Publishing guidelines. Please do not include any personally identifiable information including your full name when choosing your username and writing your review.
+
+All reviews are submitted on the basis that Hobbycraft may use the review as it sees fit and for any marketing or promotional purposes.
+
+If you require any further information on this service or wish to have your review removed, you can contact Customer services.
+
+## Cookie policy
 
 Hobbycraft cookies are read-only and set by our website. They cannot have a virus or get any personal information from your computer.
 
@@ -238,6 +249,8 @@ In your web browser settings (for example Internet Explorer, Firefox or Google C
 We advise that you visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for help on how to manage cookies in your web browser.
 
 To manage cookies on your mobile phone, tablet or other mobile device we advise that you check the device manual.
+
+Hobbycraft reserve the right to amend and update this policy. Any changes to our security and privacy policy will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this page.
 
 
 
