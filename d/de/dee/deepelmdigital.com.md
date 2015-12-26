@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deepelmdigital.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627060259id_/http%3A//bandcamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepelmdigital.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226111244id_/http%3A//bandcamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bandcamp
 
-Effective Date: July 22nd, 2014
+Effective Date: July 20, 2015
 
 Bandcamp, Inc. (“Bandcamp”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By accessing the www.bandcamp.com website and domain name, mobile applications, and any other linked pages, features, content, or application services offered from time to time by Bandcamp in connection therewith (collectively, the "Service"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -16,12 +16,12 @@ The information we gather from customers enables us to personalize and improve o
 
 #### Personal Information You Provide to Us:
 
-We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, user name, password, email address, photograph or other likeness, purchase history, IP address, browser information and any other information you provide in connection with your user account. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as allowing you to interact with other users, improving the content of the Service, customizing the advertising and content you see, and communicating with you about specials and new features. When you make payments through the Service, you may need to provide financial account information, such as your credit card number, to our third-party service providers, such as Paypal. We do not receive your credit card information, but we may receive information about the transaction, such as the date and time it occurred.
+We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, user name, password, email address, photograph or other likeness, purchase history, IP address, browser information, credit card information and any other information you provide in connection with your user account. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as allowing you to interact with other users, improving the content of the Service, customizing the advertising and content you see, and communicating with you about specials and new features. When you make payments through the Service, you may need to provide financial account information, such as your credit card number, to our third-party service providers, such as Paypal, and such information may be stored and used for both billing and payment services by such third-party service providers. We do not receive your credit card information directly, but we may receive information about the transaction, such as the date and time it occurred.
 
 #### Information Collected Automatically:
 
-  * We and our third-party partners, such as usage analytics providers, receive and store certain types of information whenever you interact with our Service or services. Bandcamp automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. These third-party partners also may collect information about your online usage activities over time and on other websites or mobile applications. 
-  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Bandcamp only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Service or services so that we can make the Service appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Service, so that they, too, may provide you with an optimal online experience. Again, Bandcamp never discloses aggregate information to a partner in a manner that would identify you personally. 
+  * We and our third-party partners, such as usage analytics providers, receive and store certain types of information whenever you interact with our Service or services. Bandcamp automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. These third-party partners also may collect information about your online usage activities over time and on other websites or mobile applications.
+  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Bandcamp only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Service or services so that we can make the Service appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Service, so that they, too, may provide you with an optimal online experience. Again, Bandcamp never discloses aggregate information to a partner in a manner that would identify you personally.
 
 
 
@@ -31,7 +31,7 @@ We may receive a confirmation when you open an email from Bandcamp if your compu
 
 #### What About Cookies?
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Bandcamp cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Bandcamp cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.
   * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Service’s most attractive features. 
 
 
@@ -42,7 +42,7 @@ Personal Information about our customers is an integral part of our business. We
 
 _Affiliated Businesses We Do Not Control:_ We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through Bandcamp's Service. In other situations, Bandcamp provides services, or sells products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business, if you have agreed to be solicited by marketing partners during the registration process.
 
-_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Bandcamp’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples may include sending postal mail and e-mail, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. Unless we tell you differently, Bandcamp’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
 _Bands:_ When you use certain functionality or services, we may provide certain personal information to bands, such as your e-mail address, country of residence and zip/postal code ("Fan Information") to add you to the relevant band's mailing list. Bands are only authorized by us to use the Fan Information to send email to you and may not share, rent, or sell the information with others for any other purpose.
 
@@ -68,19 +68,19 @@ The Service may contain links to other sites. Bandcamp is not responsible for th
 
 Bandcamp allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as our Service changes.
 
-  * Username and password 
-  * E-mail address 
-  * User profile information 
+  * Username and password
+  * E-mail address
+  * User profile information
 
 
 
 ### What Choices Do I Have?
 
   * As stated previously, you can always opt not to disclose information to us, even though it may be needed to take advantage of certain Bandcamp features. 
-  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-  * You may designate certain User Submissions as private so that they are not shared with other users. Not all User Submissions may be designated as private. 
+  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+  * You may designate certain User Submissions as private so that they are not shared with other users. Not all User Submissions may be designated as private.
   * You may request deletion of your Bandcamp account by sending an e-mail to [support@bandcamp.com](mailto:support@bandcamp.com). Please note that some information may remain in our records after deletion of your account. 
-  * If you do not wish to receive email or other mail from us, please send your request to [support@bandcamp.com](mailto:support@bandcamp.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Bandcamp Service, and you are responsible for reviewing such legal notices for changes. 
+  * If you do not wish to receive email or other mail from us, please send your request to [support@bandcamp.com](mailto:support@bandcamp.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Bandcamp Service, and you are responsible for reviewing such legal notices for changes.
 
 
 
