@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijhumdip.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501025012id_/http%3A//www.nijhumdip.com/76-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijhumdip.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226112455id_/http%3A//www.nijhumdip.com/76-2) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Technology Entertainment News Update
 
