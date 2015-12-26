@@ -1,132 +1,78 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201338id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226234050id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
 
-# FILExt Privacy Statement
+# FILExt Privacy and Cookies Policy
 
-#### Simple Statement
+Last Updated: 16/09/2015 
 
-In simple terms, FILExt collects and stores no information about you except that which is necessary for the proper operation of the FILExt discussion forum. Information collected on submittal and feedback forms on this site is used for data entry and correspondence with you regarding the submission or feedback. Once that correspondence is complete, the data is deleted. Data collected by the discussion forum software is kept in a secure form and only available to the forum software and the FILExt administrator. The data is **never** used for any purpose except to manage the forum. Of course, any data you input into messages you leave on the forum is available to anyone so use caution when posting messages.
+Uniblue is committed to safeguarding the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
 
-That's it. FILExt never spams and never sends out E-mail except in response to submissions or feedback.
+### Collection and use of information
 
-OK, that's the simple form; now...
+In general, you can visit the Uniblue website/s (the 'Websites') without telling us who you are or giving any personal information about you. Information which we collect may be used: 
 
-#### The Fine Print 
-
-This privacy statement covers the site http://filext.com (FILExt). Because FILExt wants to demonstrate a commitment to our users' privacy, FILExt has agreed to disclose the following information practices:
-
-  * What personally identifiable information FILExt collects.
-  * What personally identifiable information third parties collect through the Web site.
-  * What organization collects the information. 
-  * How FILExt uses the information.
-  * With whom FILExt may share user information. 
-  * What choices are available to users regarding collection, use and distribution of the information. 
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under FILExt control. 
-  * How users can correct any inaccuracies in the information. 
+  * to communicate with you and fulfill your requests for our products or services,
+  * improve our products or services where possible,
+  * to fulfill the purpose for which you provided the information,
+  * for customer service purposes,
+  * for marketing and promotional purposes, including remarketing,
+  * to conduct research,
+  * to provide information that we believe may be of interest to you,
+  * to enforce the legal terms that govern your use of our Websites, and/or for the reasons specific to the type of collection of information.
 
 
 
-If you have questions or concerns regarding this statement, you should contact FILExt using one of the contact methods described at the bottom of this page. 
+We may also collect and store certain types of data as described in more detail below. 
 
-#### Information Collection
+**Cookies and Web Beacons**
 
-Computer Knowledge is the sole owner of the information collected on FILExt. Computer Knowledge collects information from our users at several different points on our Web site:
+When you visit our Websites, we or our service providers, advertisers or partners, may send one or more cookies to your computer or use web beacons to improve the quality of our service by analyzing traffic pattern, tracking user trends and conducting optional research surveys. A cookie is a small file containing a string of characters that uniquely identifies your browser and a web beacon is a single pixel or clear GIF which are small pieces of code placed on a web page. Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Websites. For more information on how to disable cookies, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-  * **Web Forms**  
-The FILExt site has Web forms for submitting file extension information and Feedback to FILExt. These forms ask for your name and E-mail address. If this information is not correctly provided then you can receive no personal feedback to whatever you submit and if there are questions about the submittal they cannot be asked and therefore the submission may be ignored.
-  * **Electronic Discussion Forum**  
-FILExt maintains an Electronic Discussion Forum. Participation in this forum is optional; however, if you wish to post in the forum you must register. Registration requires a name and E-mail address. This information is not displayed to other users of the forum except the FILExt administrator of the forum. Any information you might provide as part of your posting within the forum is freely available to anyone reading the forum. Providing this information is totally at your discretion.
-  * **Cookies, Log Files, Clear GIFs and Third Parties**  
-FILExt uses Cookies, Log Files, and Third Parties for various purposes. In general terms, cookies are used to control the appearance of advertising; log files are used to obtain general site use information; third parties are used to feed advertising. These third parties may, in turn, use cookies and clear GIFs for tracking purposes of their own. 
+**Third party cookies**
 
+Third party cookies are cookies from another domain (not from Uniblue Websites). We don't control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on Uniblue Websites include: 
 
+**Hotjar**
 
-#### Information Use 
+A web analytic service provider that records site usage, including mouse clicks, mouse movements, scrolling activity as well as any text you type and action you take while browsing and/or using this Website (excluding “sensitive” visitor fields such as fields where financial information is inputted). 
 
-In general, FILExt uses personal information for one purpose only: providing feedback to submittals made and/or feedback offered. FILExt offers no mailing lists and, except for the database necessary to maintain the discussion forum, maintains no lists of personal information. Once discussion of a particular submittal or feedback item is complete, the name and E-mail address of the person to which correspondence was directed is deleted.
+For more information on Hotjar's collection of information, please see their Cookie Information here <https://www.hotjar.com/cookies>. You can choose to disable the Hotjar service by contacting them on <https://www.hotjar.com/contact>. 
 
-Information collected during sign-up for the FILExt discussion forum is used solely for the management of that forum. Registration is required as a way of making certain that users posting in the forum are known to FILExt. This helps you by keeping inappropriate comments that might have been posted by an anonymous user out of the forum. No other use is made of the information collected. It is maintained in a database accessible only by the forum software and the FILExt administrator. With regard to the discussion forum, please keep in mind that whenever you voluntarily disclose personal information online, as in a discussion forum, that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. FILExt has no control over this.
+**Advertising networks**
 
-#### Cookies 
+These are advertising networks used to deliver interactive advertising campaigns on partner websites. These cookies track the types of content you have viewed to ensure adverts are as relevant to you as possible. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Use of a cookie is in no way linked to any personally identifiable information while on the FILExt site except that your discussion forum login information may be placed into a cookie should you direct the system to "remember" you when you log in.
+**Log information** \- When you visit our Websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies as explained above. 
 
-The FILExt discussion forum uses both session and persistent cookies. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. The session cookie tells the forum software your logged-in identification so the software can track your use of the forum and therefore keep track of which messages you have read in the database. This allows the software to present different icons to you, showing you messages you have or have not read as a convenience to you as well as assisting in other forum administrative tasks. The persistent cookie contains your log-in information and will be used by the forum software to automatically log you into the forum on subsequent visits. This makes it unnecesssary for you to reenter the log-in information. If you do not wish this persistent cookie to be set, do **not** check the box that tells the forum software to remember you in the log-in box. If you do this, you will need to log into the forum each time you visit. 
+**Electronic notices** \- We may provide you with information and notices regarding the Uniblue products, applications, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
 
-Some of the FILExt business partners use cookies on the FILExt site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+**Uniblue Products** \- Whilst in use, the Uniblue products may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the Uniblue Products but will not collect any personally identifiable information about you. 
 
-This privacy statement covers the use of cookies by FILExt only and does **not** cover the use of cookies by any advertisers or affiliates.
+When you purchase a Uniblue product from the Uniblue Websites, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
-#### Third Party Advertising 
+### Information sharing
 
-The ads appearing on the FILExt Web site are delivered to users by Google Adsense, our Web advertising partner. Information about users' visits to the FILExt site, such as the number of times users have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on the FILExt site. For more information about how advertising partners collect and use this information please see their privacy statements:
+Uniblue will only use your personal information for the purposes which are specified in this policy. 
 
-  * [Google Adsense Privacy Statement](http://www.google.com/privacy.html)
+We may engage third party service providers that assist us in providing or improving our services as explained above and we might need to share some personal or other data with them to enable them to do so. These service providers are either subject to this privacy policy or follow practices that offer an equivalent level of protection and may be located outside the EU. Your information may also be transferred to another company in the event of sale of our company to a third party. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
 
+To further improve our products and the service we offer to you, we may also need to divulge certain information collected by our products to third party partners and/or suppliers. In any case, we will only provide anonymous or non-personally identifiable information to such third parties. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
 
+### Information processing and security
 
-Google Adsense allows some third-party companies access to serve ads in the same place as the Google-served ads. These ads may use the techniques described below as well. If you wish to turn off any such use you will have to visit the website of the company concerned and read their privacy policy and act accordingly. FILExt does not control which companies Google may extend this permission to and so cannot give you specific links to the pricacy statements that might be involved. 
+Uniblue processes personal information in Malta. Information is retained on our servers in the United States and in other countries. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data held by us. 
 
-Third party advertisers generally use clear GIFs (also known as Web bugs and Web beacons) to track your progress through a Website. These GIFs, once served, can be used to track number of visits to pages and other aggregate data in a manner similar to cookies. No individual data is associated with these clear GIFs.
+### Data integrity
 
-Clear GIFs can "work with" existing cookies on a computer if they are both from the same advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear GIF, the advertising company would match the clear GIF's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company.
+We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. You are therefore kindly requested to inform us of any change referring to your personal data held by us. You have the right to access the personal information that we may hold about you, to rectify this data or object to the storage of the data for legitimate purposes by contacting us at [http://www.uniblue.com/support/ticket/](https://web.archive.org/support/ticket/). 
 
-#### Affiliates
+### Privacy of business partners
 
-Affiliates are companies that sell products FILExt feels might be useful to FILExt customers. FILExt trades advertising space to these companies in return for a negotiated percentage of the purchase price for any products you purchase from the affiliate. Links to affiliates from the FILExt site direct you to the company's site or to a retailer the company deals with to sell their products. It's important for you to realize that when you click on one of these affiliate links you are leaving the FILExt site and FILExt has no control over any privacy matters relating to those sites. Once you leave the FILExt site and arrive at an affiliate site you need to check their privacy policy to determine how they use personal information they might collect. At a minimum, affiliate sites will generally set a persistent cookie when you arrive at their site from the FILExt site.
+Our Websites and our newsletter may include various links to third party websites or promote third party products. We are not responsible for the privacy practices of such third parties in any way. We strongly suggest that you refer to their privacy policy before accessing any website or making any purchase so that you are aware of the applicable practices and thus be able to make an informed decision about your actions and/or transactions. 
 
-There is no complete listing of Affiliates as they frequently change. When you leave the FILExt site please check the privacy statement for the site you arrive at. You have left the FILExt site when you do not see the FILExt graphic logo in the upper left corner of the Web page or the page is attempting to sell you something. FILExt has no materials (software or otherwise) for sale directly to consumers. 
+### Children
 
-#### Log Files 
+The Uniblue Websites are not aimed at children and we do not knowingly collect any personal information from children. Minors should not use these Websites unless supervised by an adult. 
 
-Like most standard Web site servers FILExt uses log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+### Changes to this policy
 
-#### Communications from FILExt 
-
-Communications from FILExt in response to submittals and/or feedback will generally carry a Computer Knowledge (cknow.com) return address. Automatic responses from the FILExt forum will carry a filext.com address from the user "vb_boss". These are machine-generated responses for such things as sending you a password confirmation when signing on to the forum or reminders when someone has posted to a thread you have marked for watching. Except for the user "vb_boss" you should never see an E-mail with a filext.com "From" address. Any mail received with a filext.com return address other than the above will most likely be a forgery. Unfortunately, the structure of the Internet's E-mail system make such forgeries fairly easy to accomplish (see [Joe Job](http://www.cknow.com/ckinfo/j/JoeJob-Useofafakereturnad.html)).
-
-#### Sharing Legal Disclaimer 
-
-In general terms, FILExt does not share user's personal information with anyone. 
-
-FILExt may need to disclose personal information when required by law wherein FILExt has a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the FILExt Web site.
-
-#### Links 
-
-The FILExt Web site contains links to other sites. Please be aware that FILExt is **not** responsible for the privacy practices of such other sites. FILExt encourages users to be aware when they leave the FILExt site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by FILExt.
-
-#### Security 
-
-FILExt takes every precaution to protect users' information. When you submit sensitive information via the FILExt Web site, your information is protected both on-line and off-line. Passwords for the discussion forum are encrypted and even the FILExt administrator has no access to the raw data. Should you forget your password you can ask that it be sent to you by the system. To do that, send your user name to the Webmaster via the contact form or click on the appropriate link on a forum page. 
-
-If you have questions about the security at the FILExt site please use the contact information below. 
-
-#### Correcting/Updating/Deleting/Deactivating Personal Information 
-
-The main FILExt site collects no personal information that is stored beyond the time necessary to respond to a submission or feedback. Once this action is complete the name and E-mail address are deleted.
-
-The FILExt forum has an option that allows you to change your user profile. To change this information simply click on the change profile link. 
-
-#### Notification of Changes 
-
-If FILExt decides to change its privacy policy, we will post those changes to this privacy statement.
-
-If, however, FILExt is going to use users' personally identifiable information in a manner different from that stated at the time of collection FILExt will notify users via their recorded E-mail address and by posting to this privacy statement.
-
-#### Contact Information 
-
-If you have any questions or suggestions regarding the FILExt privacy policy, please contact FILExt using the [contact form](http://filext.com/info/sendmessage.php) on the FILExt Web site.
-
-If you prefer contact via postal mail please use the address:
-
-> Orange Point  
->  Dun Karm Street  
->  B'Kara By-Pass  
->  Birkirkara BKR9037  
->  Malta (EU)  
-> 
-> 
-> **Tel:** +356 2327 5000  
->  **Fax:** +356 2131 8998 
-
-  
-
+Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page <http://www.uniblue.com/privacy/> thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
