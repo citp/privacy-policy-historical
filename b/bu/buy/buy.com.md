@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buy.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617062637id_/http%3A//www.rakuten.com/loc/privacy-policy/79085.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226130140id_/http%3A//www.rakuten.com/loc/privacy-policy/79085.html) for the most accurate reproduction.*
 
 # PrivacyPolicy - Rakuten.com
 
