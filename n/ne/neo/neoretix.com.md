@@ -1,37 +1,17 @@
-> *The following text is extracted and transformed from the neoretix.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126100653id_/http%3A//www.neoretix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoretix.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# TubeHunter® - Download RedTube, Tube8, XTube, XVideos, xnxx, YouPorn, Youjizz, Megarotic, Red Tube, Pornhub, yuvutu, Spankwire, Maxporn, Pornorama, tnaflix, Pornotube, Dreammovies, Pornhost, Magicmovies, eskimotube, YouTube, Facebook, Myspace video
+# Legal
 
-|  |  |   
----  
-   
-  
-|   
----  
-Neoretix Laboratory Privacy Policy  
-We are committed to protecting your privacy and the security of information you provide to us. Neoretix Laboratory ("Neoretix") will not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure. Other terms of Neoretix's privacy policy are as follows:   
-   
-Software Behavior   
-Neoretix products do NOT have any spyware or adware. No personal information is collected, stored, or transmitted by Neoretix products. Neoretix products do NOT modify your web browser or registry. They do NOT install any browser plugins or hijackers.  
-   
-Trial Software Activation  
-A valid e-mail address is required to receive trial unlock codes for many of our products. If you enter into a trial period of Neoretix software, and consent to our use of your e-mail address by providing the same, we may contact you via e-mail to provide additional information on our products and to survey you on your satisfaction with our software. We may also contact you to provide advance notice of termination of the trial period or an opportunity to extend your trial period. E-mail is our preferred method of communication and we value the privilege to use it.  
-   
-Product Purchasing  
-Information we ask you to provide when purchasing or ordering will be only the information necessary to process your purchase or order. When fulfilling an order we will ask for your name, e-mail address, address (for shipping purposes), telephone number and credit card number, type and expiration date (if paying by credit card). We will use this information only for matters related to your order or product registration unless you request otherwise. Your credit card information will be maintained only for a period reasonably necessary to ensure payment has been received.  
-   
-Product Registration  
-If, after or during purchase, you choose to register your Neoretix software, any information you provide will only be used to improve the service provided to you as a result of your registration. The details of information we gather will be used to uniquely identify your relationship to a Neoretix software application and potentially to support communication with you including: notification of software updates and service releases, notice of changes in policy that relate to the use of your software, and the provision to you of prioritized customer service or technical support.  
-   
-Security of Your Personal Information  
-Neoretix takes the protection of the personal information you provide very seriously. Personal information collected is stored in password-controlled servers with limited access. When passing information over the Internet through the Neoretix service, information is protected through the use of encryption, specifically through the use of the Secure Socket Layer (SSL) protocol. However, perfect security on the Internet does not yet exist and we cannot warrant that our transfer of data is impenetrable or invulnerable to hackers. Internal data is shared through secured transmissions and maintained in secured databases. 
+* * *
 
-Neoretix may hire certain outside contractors to perform services or functions on our behalf (such as customer support, packaging & shipping). We will only provide those companies the personal information they need to complete the desired service. They are not permitted to use customer information for any other purpose and are obligated to keep your customer information confidential.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Information submitted to Neoretix may be transferred across national boundaries to or from our staff in other countries. Neoretix will only disclose information if required to do so by law, legal process or if in good faith it is deemed necessary for the public interest.  
-  
-  
-   
-  
-Copyright © 1996 - 2010 by Neoretix Laboratory.  
-All rights reserved.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
+
+
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
