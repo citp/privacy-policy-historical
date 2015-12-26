@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629201617id_/http%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226082110id_/http%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
 
 # NHS England » Privacy and Cookies
 
@@ -46,18 +46,30 @@ You can manage these small files yourself through your browser setting.
 We use the following cookies on our website –
 
 **Cookie:** Google Analytics  
-**Name:** _utma, _utmb, _utmc, _utmz  
-**Purpose:**    These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  [More information about Google cookies](http://www.google.com/intl/en-GB/policies/technologies/cookies/).
+**Name:** _utma, _utmb, _utmc, _utmz, GAPS, LSID, LSOSID, OTZ  
+**Purpose:**    These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. These cookies may also be identified as originating from england.nhs.uk [More information about Google cookies](http://www.google.com/intl/en-GB/policies/technologies/cookies/).
+
+**Cookie:** www.google.com (Google embedded search)  
+**Name:** __utmx, __utmxx, APISID, HSID, NID, PREF, SAPISID, SID, SSID  
+**Purpose:** These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited and what they have searched for. [More information about Google cookies](http://www.google.com/intl/en-GB/policies/technologies/cookies/).
+
+**Cookie:** www.events.england.nhs.uk  
+**Name:** PHPSESSID  
+**Purpose:** To track visitor information and for security authentication. 
 
 ### Embedded content
 
-We want to provide interesting and engaging content on our website. On a number of pages we use ‘plug ins’ or embedded media. For example, we embed YouTube videos in many pages.
+We want to provide interesting and engaging content on our website. On a number of pages we use ‘plug ins’ or embedded media. For example, we embed YouTube videos in many pages. We also provide links to share content with popular social media sites such as LinkedIn, Facebook and Twitter.
 
-The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies.
+The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies. Third party cookies are delivered on behalf of their respective organisations and as such they may change their name and purpose from the cookies identified below, this is beyond the control of NHS England. 
 
 **Cookie:** Ustream  
-**Name:** _qca. PHPSESSID, ustream-guest  
+**Name:** ab_test_1, ab_test_2, locale, optimizelyBuckets, optimizelyEndUserId, optimizelySegments, uTrack, ul, ustream-guest, _qca, PHPSESSID  
 **Purpose:** Used  to enable certain features of the services, to better understand how you interact with the services in-order to deliver a better service.  Also used to monitor aggregate usage by users and monitor web traffic on the service.  [More information about Ustream cookies](http://www.ustream.tv/privacy-policy).
+
+**Cookie:** scorecardresearch.com  
+**Name:** UID, UIDR  
+**Purpose:** Used by Ustream video streaming (as described above), to better understand how you interact with their services in-order to deliver a better service. Also used to monitor aggregate usage by users and monitor web traffic on the service. [More information about scoreandsearch.com cookies](http://www.scorecardresearch.com/privacy.aspx?newlanguage=1).
 
 **Cookie:** YouTube  
 **Name:** PREF, VISITOR_INFO1_LIVE, use_hitbox  
@@ -66,6 +78,10 @@ The suppliers of these services may also set cookies on your device when you vis
 **Cookie:** Twitter  
 **Name:** guest_id, remember_checked, remember_checked_on, secure_sessions, twll  
 **Purpose:** To track visitor information and for security authentication. [More information about Twitter cookies](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies# "Twitter Cookies").
+
+**Cookie:** LinkedIn  
+**Name:** csrftoken, L1e, visit, PHPSESSID  
+**Purpose:** To track visitor information and for security authentication. [More information about LinkedIn cookies](https://www.linkedin.com/legal/privacy-policy "LinkedIn Cookies").
 
 ### How to control and delete cookies
 
