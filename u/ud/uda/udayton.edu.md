@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627080216id_/https%3A//udayton.edu/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226030445id_/https%3A//www.udayton.edu/terms/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : University of Dayton, Ohio
 
