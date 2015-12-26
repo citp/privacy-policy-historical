@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329045455id_/https%3A//www.ashworthcollege.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226221103id_/https%3A//www.ashworthcollege.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ashworth College
 
