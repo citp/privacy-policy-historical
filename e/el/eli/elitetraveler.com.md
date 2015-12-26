@@ -1,105 +1,86 @@
-> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630211840id_/http%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226050932id_/http%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
 
 # ELITE TRAVELER MAGAZINE INTERNET PRIVACY POLICY | Elite Traveler
 
-Elite Traveler Magazine (“ELITE TRAVELER”) publishes this Internet Privacy Policy to inform you of our practices concerning the collection and use of information you provide us through interactions with this website and the other ELITE TRAVELER-affiliated websites and all ELITE TRAVELER publications. This policy is not applicable to information gathered by other methods or controlled by other agreements.
+This Privacy Policy governs the manner in which Elite Traveler collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.elitetraveler.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Elite Traveler.
 
-**How We Collect Information**
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-ELITE TRAVELER collects personal information in a variety of ways, including when you register with ELITE TRAVELER on this website, when you subscribe to ELITE TRAVELER services through this website, when you use ELITE TRAVELER products or services via the website, when you visit ELITE TRAVELER websites or the websites of certain ELITE TRAVELER partners, and when you enter Internet-based promotions or sweepstakes sponsored or administered by ELITE TRAVELER.
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**User Registration**
+**Web browser cookies**  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-When you register on our website, we ask for and collect information such as your name, email address, birth date, gender, zip code, occupation, and industry. For some products and services we may also ask for your address and information about you or your business’s assets or income. Once you register with ELITE TRAVELER and sign in to our services, you are not anonymous to us.
+**How we use collected information**  
+Elite Traveler collects and uses Users personal information for the following purposes:
 
-**e-letters**
+  * To personalize user experienceWe may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our SiteWe continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To improve customer serviceYour information helps us to more effectively respond to your customer service requests and support needs.
+  * To process transactionsWe may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To administer a content, promotion, survey or other Site featureTo send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emailsThe email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Users may elect to participate in a variety of ELITE TRAVELER e-letters (email services). ELITE TRAVELER collects personal information in connection with the registration for and use of such services.
 
-**Contests**
 
-Users may elect to participate in promotions and/or promotional contests that ELITE TRAVELER conducts from time to time on behalf of its clients. ELITE TRAVELER collects personal information in connection with user registration for and participation in such promotions and contests.
+**  
+How to switch off cookies**  
+By changing your browser settings you can choose to no longer accept cookies for individual websites. Links to the relevant pages relating to the most popular browsers are listed below:
 
-**Cookies**
+[Google Chrome: ‘Manage Cookies’  
+](https://support.google.com/chrome/answer/95647?hl=en)[Mozilla Firefox: ‘Google settings’  
+](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)[Microsoft Internet Explorer: ‘How to manage cookies’  
+](http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9)[Safari: ‘Managing cookies’](http://www.apple.com/support/?path=Safari/3.0/en/9277.html)  
+[Opera: ‘Security and Privacy’  
+](http://www.opera.com/help/tutorials/)  
+And here you will find instructions to help you change settings for mobile devices:
 
-“Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. ELITE TRAVELER or its advertisers may send a cookie to your computer through your browser. ELITE TRAVELER uses cookies to track page requests and the duration of each user’s visit and the use of cookies allows us to provide a user’s browser with information tailored to the visitor’s preferences and needs and to also streamline the user’s visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended.
+[Android  
+](https://support.google.com/xoom/answer/169022?hl=en&rd=1)[BlackBerry  
+](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)[Safari](https://support.apple.com/en-gb/HT201265%20%20Windows%20http://www.windowsphone.com/en-us/how-to/wp7/web/changing-privacy-and-other-browser-settings)
 
-**IP Addresses**
+Alternatively, if you wish to switch off **third party cookies** (usually from advertisers) visit [Your online choices](http://www.youronlinechoices.com/uk/). Google provides detailed information about its own advertising network, and how to edit preferences [here](http://www.google.com/policies/technologies/ads/). The cookies accompanying adverts may allow advertisers to monitor the effectiveness of the ads (eg by using statistical analysis cookies) and make the ads more relevant to you (eg if you use our sites from outside of the UK, you may get ads from your local country).
 
-ELITE TRAVELER automatically receives and records information on our server logs from your browser, including your IP address, ELITE TRAVELER cookie information, and the website page you request. ELITE TRAVELER uses this information to help diagnose problems with our servers, for system administration, and to examine our website traffic in aggregate. The information may be collected and used to improve the content of our Web pages and to customize content and/or layout for each user.
+More information can be found at the [Network Advertising Initiative](http://www.networkadvertising.org/choices/).
 
-**Purchases**
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-If you are purchasing something from an ELITE TRAVELER website, we need to know personally identifiable information such as your name, email address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by ELITE TRAVELER to notify you of related products and services. Credit card information will not be shared or sold to unaffiliated third parties for any purpose without your express permission, except as necessary to process the transaction.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**Use of Information**
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-If you elect to provide us personal information, we use it primarily to deliver the service you requested. ELITE TRAVELER may use personal information in a variety of ways including the following:
+**Third party websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-ELITE TRAVELER may use personal information to collected through its website to send out targeted email promotions on behalf of its advertisers and industry partners.
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-ELITE TRAVELER may combine information about you that we have with information we obtain from business partners or other companies in order to better deliver products and services that may be of interest and benefit to you.
+**Google Adsense**  
+Some of the ads on the Site may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/)
 
-ELITE TRAVELER may use personal information to contact users regarding renewing subscriptions to ELITE TRAVELER services and products.
+**Changes to this privacy policy**  
+Elite Traveler has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-ELITE TRAVELER may use personally identifiable information to send notification of ELITE TRAVELER’s or our partners’ products and services by such methods as email and/or postal mail.
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you provide financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, subscriptions, etc.
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Elite Traveler
 
-ELITE TRAVELER may send product announcements or special edition e-letters to online registrants.
+<http://www.elitetraveler.com/>
 
-ELITE TRAVELER occasionally conducts subscriber and/or user surveys to better target our content to our audiences. The aggregated information collected is sometimes shared with our advertisers, however, we will do not share specific individual information with a third-party.
+Elite Traveler  
+708 Third Avenue  
+10th Floor New York  
+New York 10017  
+United States  
+T: 646-430-7900  
+F: 646-430-7901  
+_WEBINFO@ELITETRAVELER.COM_
 
-ELITE TRAVELER has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in ELITE TRAVELER services and promotions, ELITE TRAVELER provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from ELITE TRAVELER provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [support@elitetraveler.com](mailto:support@elitetraveler.com).
-
-From time to time we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our website.
-
-**Sharing of Information Collected With Third Parties**
-
-In general, ELITE TRAVELER does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances:
-
-We may provide personal information about our users to trusted partners and vendors who work on behalf of or with ELITE TRAVELER under confidentiality and similar agreements prohibiting such parties’ further use of the information. These companies may use your personal information to help ELITE TRAVELER communicate with you about offers from ELITE TRAVELER and our marketing partners. However, these companies do not have any independent right to use or share this information.
-
-ELITE TRAVELER may from time to time share personal information such as email addresses with trusted third parties who deliver content that is likely to be of interest to the user and subject to opt-out obligation on the part of such third party.
-
-We may share personal information where we have a good faith belief that such action is necessary to comply with a judicial proceeding, a court order, or legal process served on ELITE TRAVELER, or to establish or exercise our legal rights or defend against legal claims.
-
-We may share such information where we have a good faith belief that it is necessary in order to investigate (or assist in the investigation of), prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ELITE TRAVELER’s terms of use, or as otherwise required by law.
-
-If ELITE TRAVELER is acquired by or merged with another company, we will transfer information about you to this other company in connection with the acquisition or merger.
-
-**Security**
-
-This website takes commercially reasonable precautions to protect your personal information. When we transfer and receive certain types of sensitive information such as credit card and payment information, we re-direct users to industry standard SSL (Secure Socket Layer) encrypted servers. As a result, sensitive data you submit to our website such as credit card and payment information is transmitted securely over the Internet.
-
-**Disclaimers**
-
-ELITE TRAVELER is not responsible for any breach of security or for any actions of any third parties that receive the information. ELITE TRAVELER also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users.
-
-**About Children’s Privacy**
-
-This ELITE TRAVELER website is not intended for use by children and ELITE TRAVELER does not knowingly collect information from children. You must be 18 years old to access or use this site.
-
-**Update/Change Your Data**
-
-To update your email address or change your email preferences please contact [support@EliteTraveler.com](mailto:support@elitetraveler.com)
-
-**Changes to this Privacy Policy**
-
-ELITE TRAVELER reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon positing on the website. Users will be informed of changes to this Privacy Policy via the “updated as of” link on the ELITE TRAVELER website.
-
-**What Else Should I Know About My Privacy When Online?**
-
-The ELITE TRAVELER websites contain many hyperlinks to other websites. The ELITE TRAVELER website also contains advertisements of third parties. ELITE TRAVELER is not responsible for the privacy practices or the content of such third party websites or advertisers. ELITE TRAVELER does not share any of the individual personal information you provide ELITE TRAVELER with the websites to which ELITE TRAVELER links, except as stated elsewhere within this Privacy Policy, although ELITE TRAVELER may share aggregate data with such websites (such as how many people use our Site).
-
-Please check with those third party sites to determine their privacy policy. When ELITE TRAVELER embeds third party content into one of its ELITE TRAVELER web pages, ELITE TRAVELER will use reasonable efforts to advise our users that they have exited an ELITE TRAVELER operated website and are entering a third party controlled website. Customers/users should read and understand any privacy policy noted on all third party websites.
-
-Please keep in mind that whenever you voluntarily disclose personal information online – for example through email, discussion lists, or elsewhere – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you’re online.
-
-**Your Consent To This Policy**
-
-By using our website, you consent to the collection and use of information by ELITE TRAVELER as specified in this policy. Please also note that your use of the website is governed by the ELITE TRAVELER Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services.
-
-Please send any questions about ELITE TRAVELER’s Privacy Policy to [support@elitetraveler.com](mailto:support@elitetraveler.com)
+This document was last updated on May 27, 2012
