@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052158id_/http%3A//twentytwowords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentytwowords.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226062052id_/http%3A//twentytwowords.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 22 Words
 
@@ -12,7 +12,8 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.Â You can also opt out of cookies using the Network Advertising Initiative  
+[opt-out page](http://www.networkadvertising.org/choices/).
 
  **This website uses Google AdWords**
 
