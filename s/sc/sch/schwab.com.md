@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630042123id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226100910id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Charles Schwab
 
-Rev. July 2014
+Rev. July 2015
 
 FACTS | **WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -58,7 +58,7 @@ State laws and individual companies may give you additional rights to limit shar
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.   
 
 
-  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management,Inc.; and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
+  * _Our affiliates include companies with a Charles Schwab name; financial companies such as Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management, Inc., Schwab Wealth Investment Advisory, Inc.; and nonfinancial companies such as Schwab Performance Technologies and Schwab Compliance Technologies, Inc._
 
   
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. _
@@ -85,6 +85,6 @@ Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charl
 
 To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](http://www.schwab.com/privacy).
 
-©2014 Charles Schwab & Co., Inc. All rights reserved. Member SIPC. Charles Schwab & Co., Inc. and optionsXpress, Inc. (Member SIPC) are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation. CS21127-01 REG60835-04 (07/14)  
+©2015 The Charles Schwab Corporation. All rights reserved. CC001457 REG60835FM-05 (07/15)  
   
 
