@@ -1,70 +1,17 @@
-> *The following text is extracted and transformed from the triniwarez.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010652id_/http%3A//www.triniwarez.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triniwarez.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TriniWarez
+# Legal
 
-## TriniWarez Privacy Policy
+* * *
 
-TriniWarez (see our "[Terms of Service](https://web.archive.org/web/20100102010652id_/http%3A//www.triniwarez.com/tos.php "Terms Of Service")") considers that respect of privacy on the Internet is of utmost importance. This statement presents the rules applied by TriniWarez for the collection and dissemination of personal information given by users on the site. They apply to all "TriniWarez Sites", i.e. all sites within the "triniwarez.com" domain. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## What information is collected by TriniWarez?
-
-#### Standard use of the Site
-
-In general, you can browse the Site without telling us who you are or revealing any personal information. The only information we gather during a general navigation on the Site is the information intended for the server logs: IP (Internet Protocol) address, domain name, browser type, operating system and information such as the site from which you are connected, pages visited, and the dates and times of those visits. 
-
-#### Collect of Personal Information
-
-If you subscribe to a newsletter, log on to certain TriniWarez sites, request information, send any comments or if you join a discussion group or electronic mailing list, you will need to provide some personal information : name and e-mail address, for example. Such information is collected only with your permission and is stored in different databases and mailing lists belonging to TriniWarez. If you make a purchase over the Internet, you may be asked to provide your credit card information. These data are transferred to a secure payment online, hosted outside TriniWarez. TriniWarez does not keep credit card information.
-
-The registration of personal information leads to the submission of a cookie* on certain sites of TriniWarez. By setting this cookie, TriniWarez will remember your personal details at the next visit so you do not have to re-enter the same information. This helps us to improve the quality of services that we offer.
-
-Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some open discussion groups the information is public. 
-
-## What does TriniWarez do with the information it collects?
-
-#### Standard use of the Site
-
-The information collected during the navigation in the "triniwarez.com" area is used to analyze trends and the use of the site in order to improve its usefulness. No personal information is attached there.
-
-#### Personal Information
-
-TriniWarez may use such information to:  
-• Contact you - either in response to a request or a suggestion, or to send you news, documents, publications, and so on;  
-• Confirm your entries on the site;  
-• "Remember" your online profile and preferences;  
-• Statistical analysis performing.  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-#### What will happen if I do not want to provide personal information?
 
-Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information. 
-
-#### Removal or modification of information
-
-You can delete or modify your personal information at any time by returning to the page where you registered them or by contacting the coordinator of the page. If the page in question does not provide any information on this subject, you can contact support(at)triniwarez(dot)com for more information.
-
-If you are not the issuer of personal information that concerns you and want to have it removed, you can send your request to support(at)triniwarez(dot)com. 
-
-## Security
-
-The personal data entrusted to the Site will not be sold or transferred to any third party. Any information provided to TriniWarez by users of the Site is preserved with the utmost care and maximum safety. It will be used only in the manner described in this privacy policy, or according to the special rules of visited sites or in a manner to which you have explicitly consented. TriniWarez uses techniques and a variety of measures to ensure the safety of information stored in its systems and protects them from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
-
-All our volunteers (see "Moderators" - TOS) who have access to personal information or are associated with the processing of these data, are obliged to respect the confidentiality of every user of the Site, which covers the personal information.
-
-The Site provides links to sites outside the "triniwarez.com" area and could not be held responsible for the privacy practices or the content located on them. 
-
-## Other
-
-#### Modifications
-
-Any modification of these terms can be made at any time without prior publication or announcement.
-
-#### Contact
-
-For any questions or inquiries about our privacy policy, you can contact us at support(at)triniwarez(dot)com 
-
-_*Cookie  
-A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by TriniWarez sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. _
-
-  
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
