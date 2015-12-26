@@ -1,59 +1,82 @@
-> *The following text is extracted and transformed from the proaudiostar.com privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417165053id_/http%3A//www.proaudiostar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proaudiostar.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226202451id_/http%3A//www.proaudiostar.com/privacy-policy) for the most accurate reproduction.*
 
-# Pro Audio Star
+# Privacy Policy
 
-At ProAudioStar, we are committed to protecting the privacy of our customers and users of our web site located at www.ProAudioStar.com (the "Site") . This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
+This Privacy Policy governs the manner in which ProAudioStar collects, uses, maintains and discloses information collected from users (each, a "User") of the http://proaudiostar.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by ProAudioStar.
 
- **What Information Do We Collect and Why?  
-**
+  
 
-Transaction Information: We may ask you to provide us with personal information on a voluntary basis in certain areas of the Site, and you will be required to provide personal information when you make purchases on the Site. The kinds of personal information that we may request may include your name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. All such information will be used in accordance with the terms of this Privacy Policy.
 
- **IP Addresses and  
-**
+## Personal identification information
 
-As is the case with many sites, the Site logs your IP address and uses standard technology called "cookies", which are small data files that are downloaded onto your computer when you visit the Site. Cookies automatically identify your browser to the ProAudioStar server whenever you interact with the Site. We use cookies and the information they provide to improve our services and the quality of your experience with the Site. If you prefer not to allow us to collect "cookie" information, you can disable the cookies by turning them off in your browser, although some areas of the Site may not function properly if you do. We do not link IP addresses to any personally identifiable information. This means that your session will be tracked, but you will not be personally identified. However, certain kinds of cookies allow us to store certain information of yours so you can save time in filling out forms on the Site. We only send this type of cookie to your browser when you have provided your consent for us to save your profile information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the siteplace an orderfill out a form and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
- **How Else Does ProAudioStar Use Information That It Collects from the Site?  
-**
+## Non-personal identification information
 
-As well as using information about you for the specific purposes set out above, we may also use information about visitors to the Site to monitor consumer interest in our range of products and services, to troubleshoot problems that may arise on our Site, to protect against fraud or other criminal activity on our Site, to customize your user experience on the Site, to notify you of product or service offerings that we may think may be of interest to you, to inform you about special promotions, and to assist us in tailoring our product lines, our services and the content of the Site to our online visitors' needs by collecting information about their preferences through tracking patterns of page-viewing on the Site. To assist in this, we might create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences. We may also share data we collect about you and other visitors to the Site in an anonymous or aggregated form with our business partners and others.  
-If you communicate with us, we may retain this correspondence to improve our products, services, and the Site, and for other disclosed purposes. We may use information you provide to us in order to send you updates, such as notifications of changes to the terms of our services or important information about our services and products.  
-ProAudioStar will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to a subpoena, court order, or other legal process. Further, ProAudioStar may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of our agreement.  
-If ProAudioStar is acquired by or merged with another company, ProAudioStar may transfer personally-identifiable information about you to that company.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
- **Your Rights  
-**
+## Web browser cookies
 
-Access and Correction: You have a right to know about the personal information that ProAudioStar holds about you. You also have a right to correct, amend or delete such information if it is incorrect. If you wish to exercise these rights, please contact us by post or e-mail at the address shown in the "Contact" section below.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
- **Security  
-**
+## How we use collected information
 
-The Site incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected, and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.  
-You hereby acknowledge that ProAudioStar is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+ProAudioStar collects and uses Users personal information for the following purposes:
 
- **External Links  
-**
+  * To improve customer service
+  * Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To personalize user experience
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+  * We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To process transactions
+  * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To administer a content, promotion, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To share your information with third parties
+  * We may share or sell information with third parties for marketing or other purposes.
+  * To send periodic emails
 
-The Site provides links to various Web sites maintained by third parties. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that maintains such site. Even if an affiliation exists between our Web site and a third party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to the Site, you should consult that site's privacy policy before providing any personal information.
 
- **Terms and Modifications to Privacy Statement  
-**
 
-By using the Site, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. ProAudioStar may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.  
-Children  
-The Site is not directed to children, and ProAudioStar does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.  
-Contact Details  
-If you have any questions about this Privacy Policy, the privacy practices of the Site, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact:  
-ProAudioStar  
-368 New Hempstead Rd.  
-#239  
-New City NY 10956  
-845-721-6512  
-[sales@proaudiostar.com](mailto:sales@proaudiostar.com)
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
- **RETURN POLICY  
-**
+## How we protect your information
 
-Return Policy If for any reason you are not completely satisfied with any item, return it within 30 days of the shipping date. We are unable to accept any returns if any of the contents or packaging appears damaged in any way. We strongly suggest that you check your order after receiving it to be sure that it is in proper working order. Items which are not normally stocked ("Special Orders", discontinued products, close-outs, used products, etc.) are not returnable. Returned items must be in resalable condition. Resalable Condition means that the product(s) is exactly in the same condition as you received it. All exchanges must be pre-paid, returned in original packaging, blank warranty cards, manuals and show no signs of wear or damage. If the product is not in the same condition as when you originally received, it you may be subject to a minimum 15% restocking fee. Shipping and handling charges are non-refundable. Please contact us for a Return Material Authorization (RMA) number and instructions before returning any items. Upon receipt of the returned product a credit will be issued according to your payment method. If any product is damaged in shipping, you should address the issue promptly with the appropriate carrier. There are certain items that cannot be returned due to federal and state regulations. These items include Software and any item that is considered for personal use; such as an earphones, instrument mouthpieces, or other items that you wouldn't want to purchase if someone else had previously used them. We cannot accept returns if any of the packaging is damaged/missing. There are certain items that cannot be returned due to federal regulations. These items include Software and any item that is considered for personal use; such as an earphones, instrument mouthpieces, or other items that you wouldn't want to purchase if someone else had previously used them. Please contact us for a Return Material Authorization (RMA) number first. While MAP restricts our advertised price it does not dictate the final selling price.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website\'s own terms and policies.
+
+## Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+## Google Adsense
+
+Some of the ads may be served by Google. Google\'s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+## Changes to this privacy policy
+
+ProAudioStar has the discretion to update this privacy policy at any time. When we do, post a notification on the main page of our Site,revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+
+ProAudioStar
+
+[http://proaudiostar.com](http://proaudiostar.com/)
+
+217 Russell St.,
+
+Brooklyn, NY 11222
+
+718-522-1071
