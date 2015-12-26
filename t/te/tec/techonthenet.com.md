@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techonthenet.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617092409id_/http%3A//www.techonthenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techonthenet.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226073339id_/http%3A//www.techonthenet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
