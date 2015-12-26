@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the schwab.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630042123id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schwab.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226100910id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><!--WAMCHECK:92009:fc4f2cf8-9925-44d5-b496-029d0da6c0fa:GOOD:END--><title>Privacy Policy: Charles Schwab</title>
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><!--WAMCHECK:92012:877d4fda-7a58-4449-8e16-608dcbaef399:GOOD:END--><title>Privacy Policy: Charles Schwab</title>
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta content="" name="keywords">
@@ -31,9 +31,19 @@
 		
 		
 <link href="http://www.schwab.com/public/schwab/nn/legal_compliance/privacy" rel="canonical"><script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/xpxe4op6q0.js"></script><script>/* */</script>
-<meta name="viewport" content="initial-scale=1.0,width=device-width">
+<meta id="csViewport" name="viewport" content="">
+<script>
+(function(){
+  var el = document.getElementById("csViewport");
+  var width = screen.width;
+  if(width > 736) { el.setAttribute('content', ''); }
+  if(navigator.userAgent.match(/IEMobile/)){ el.setAttribute('content', 'initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width'); }
+})();
+
+</script>
 <link type="text/css" rel="stylesheet" href="/public/file/PROSPECT-CSS/ps.css">
 <style type="text/css">
+.navi-P-7976015 {display:none !important}
 /* Charles Modern */
 @font-face { 
 font-family:'CharlesModern';font-weight:normal;font-style:normal; 
@@ -121,6 +131,12 @@ if(window.location.hostname.indexOf('client-test1.schwab.com') != -1) {
   proactiveChatHost= "cempa-pp.dev.schwab.com";
   reactiveChatHost= "chat-pp.dev.schwab.com";
 }
+var re = new RegExp("lang=[^;]+", "i");
+if (document.cookie.match(re)) {
+  if(document.cookie.match(re)[0].split("=")[1] == "zh-TW") {
+    var waLanguage = "zh-TW";
+  } 
+}
 
 
 
@@ -139,308 +155,7 @@ var waPageName= "/public/schwab/nn/legal_compliance/privacy";
     text-indent: -185px;
 }
 </style>
-<div id="headerContainer"><style type="text/css">
-#pageContainer, #bannerContainer {
-  position:relative;
-  /*top: 65px;*/
-}
-
-.nav-cntr {
-padding: 20px 0 65px 90px;
-}
-
-
-/* ==========================================================================
-   Helper classes
-   ========================================================================== */
-
-.ir {
-    background-color: transparent;
-    border: 0;
-    overflow: hidden;
-    *text-indent: -9999px;
-}
-
-.ir:before {
-    content: "";
-    display: block;
-    width: 0;
-    height: 100%;
-}
-
-.hidden {
-    display: none !important;
-    visibility: hidden;
-}
-
-.visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-}
-
-.visuallyhidden.focusable:active,
-.visuallyhidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
-}
-
-.invisible {
-    visibility: hidden;
-}
-
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-.clearfix {
-    *zoom: 1;
-}
-
-
-
-
-
-/* =======================================================
-   RESPONSIVE
-   ======================================================= */
-
-/*******************/
-/* Responsive NAV */
-/*******************/
-
-/* Nav Reset *//*
-.header * {text-decoration: none; margin: 0; padding: 0; list-style-type: none;}
-a, .link-style {color: #0066cc; text-decoration: none}
-  a:hover, .link-style:hover, a:focus, .link-style:focus, a:active, .link-style:active {text-decoration: underline; cursor: pointer}
-.clear {clear: both;}
-
-/*a.btn-cta {   background: #B95E04; color: white; padding: 4px 12px; text-decoration: none;  font-size: 14px; line-height: 16px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; position: absolute; right:0; }
-a.btn-cta.btn-grn { background-color: #1B6A1B; }
-a.btn-cta.btn-grn:hover { background-color: #1B6A1B; }
-header h3 { font-size:inherit; line-height: inherit; }
-/* END Nav Reset */
-
-
-.site-cntr {margin: 0 auto;}
-.site-body {border: 1px solid #d7d7d7; padding: 25px 0 25px 10px; font-size: 14px; line-height: 1.3em; position: relative; *zoom: 1; z-index: 9999px;}
-.site-body p {margin: 5px 0 10px;}
-.site-body .sub-head {font-size: 16px; margin: 15px 0 5px; font-weight: bold;}
-
-.mobile-nav {background: url('/public/file?cmsid=P-6040152&filename=nav-collapsed.png') no-repeat 10px 10px; width: 42px; height: 42px; position: absolute; left: 0; top: 0; display: block;}
-  .mobile-nav:hover, .mobile-nav:focus, .mobile-nav:active {background-color: #ececec;cursor:pointer;}
-.schwab-logo h1 {display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline;float: left; width:80px; height:78px; padding:0;}
-  .schwab-logo img {float: left; width: 80px;}
-.logo-cobrand {float: left; margin-left: 10px; padding-top: 15px;}
-
-.btn-cta {font-size: 14px; line-height: 1em;-moz-border-radius: 2px;-webkit-border-radius: 2px;border-radius: 2px; -khtml-border-radius: 2px; padding: 3px 10px; display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline;color: #fff}
-  .btn-cta:hover, .btn-cta:focus, .btn-cta:active {text-decoration: none; cursor:pointer}
-.btn-grn {background-color: #008600}
-  .btn-grn:hover, .btn-grn:focus, .btn-grn:active {background-color: #1B6A1B}
-.btn-org {background-color: #B95E04}
-  .btn-org:hover, .btn-org:focus, .btn-org:active {background-color: #A05203}
-
-.nav-l2 .nav-hidden {display: none;}
-
-/* Header list Really optional also */
-/*.hdr-list {float: right; margin: 10px 0; }
-.hdr-list .first-item {border-left: none;}
-.hdr-list li {display: inline-block;float: left;line-height: 24px;margin: 0;padding: 0 10px; border-left: #d8d8d8 1px solid;}
-/*.hdr-list > li > a {margin: 0 18px;} */
-.nav-contact-us .contactTrigger {margin: 0 24px 0 12px;}
-/* End of Optional Header list */
-
-/** NEW ELEMENTS **/
-.top-bar { position: absolute; top: 0; width: 100%; height: 42px; z-index: -10; background-color: #E1E7EB;}
-.nav-cta-cntr { display: none;}
-.nav-cta-cntr .nav-cta { padding: 0 15px; }
-.nav-cta-cntr .btn-cta { padding: 3px 10px; line-height: 1em;}
-.header-groupname { display: none;}
-.icon-phone { background-position: 0px -188px; padding-left: 22px; line-height: 22px; }
-.sprite-g { background-image: url("/public/file?cmsid=P-6068700&filename=sprite-global.png"); background-repeat: no-repeat; display: -moz-inline-stack; display: inline-block; zoom: 1; }
-.visually-hidden { position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}
-/* END Responsive NAV */
-
-@media (max-width: 968px) {
-  .mainwrap, .contentwrap {
-    width: auto;
-  }
-
-  .page-content.nav-content .left-rail { width: 19%; }
-  .page-content.nav-content .main-content { width: 78%; }
-}
-
-@media (min-width: 768px) {
-  /* RESPONSIVE NAV */
-  
-  /** NEW ELEMENT **/
-  .separator { background-color: #d7d7d7; height: 1px; width: 100%; position:absolute; top: 91px;}
-  .header-groupname { display: block; text-transform: uppercase; font-weight: bold; line-height: 22px; font-size: 14px; margin: 10px 0 10px 20px; float: left; }
-  .nav-cta-cntr { width: 150px; float: right; height: 21px; display: inline-block;}
-  /** END NEW **/
-
-  .site-cntr {padding: 0 5px;}
-  .mobile-nav {display: none;}
-  ul.ctaCntr { display: none;}
-  .nav-list-cntr {display: block; height: 30px;position: relative;top: -18px; border-bottom: 1px solid #d7d7d7; margin-bottom: 40px;}
-    .nav-l1 {position:relative;}
-    .nav-l1 li {float: left; padding: 0; margin: 0}
-    .nav-l1 .nav-item {color: #333; display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline}
-    .nav-l1 > li > .nav-item {border-bottom: 5px solid transparent;}
-    .nav-l1 > li > .nav-item:hover, .nav-l1 > li > .nav-item:focus, .nav-l1 > li > .nav-item:active {text-decoration: none; border-bottom: 5px solid #bdccd1}
-    .nav-l1 > .nav-active > .nav-item, .nav-l1 > .nav-active > .nav-item:hover, .nav-l1 > .nav-active > .nav-item:focus, .nav-l1 > .nav-active > .nav-item:active{font-weight: bold; color: #005F83; border-bottom: 5px solid #005F83}
-
-    .nav-l1 li .nav-item {padding: 10px 12px}
-    .nav-l1 > li > .nav-item {padding: 5px 14px; text-transform: uppercase;color: #666; font-weight: bold;}
-  .nav-item span {display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline;}
-  .nav-l2, .nav-ls {position: absolute; left: 0;/* bottom: -37px;*/}
-  .nav-l2:hover { background:none;} /*INSERT ICON HERE */
-  .nav-l2 li:hover { background-color: rgba(245,245,245, 0.8); position: relative;}
-  .nav-l2 .nav-active.mobile-visible {display: none; }
-  .nav-l2 > li > a.nav-item { background-image: url('/secure/file/short?cmsid=P-6068700&filename=sprite-global.png'); padding-right: 30px; background-repeat: no-repeat;  display: -moz-inline-stack; display: inline-block; zoom: 1; background-position: right -1217px; }
-  .nav-l2 > li > a.nav-item:hover, .nav-l2 .nav-active > a.nav-item, .nav-l2:hover .hdln-l2, .nav-l2:focus .hdln-l2, .nav-l2:active .hdln-l2, .hdln-l23-active .hdln-l2, .hdln-l23-focus .hdln-l2 {background-position:right -1266px}
-  .nav-l2 > .nav-active > .nav-item, .nav-l2 a:focus, .nav-l2 a:hover, .nav-l2 a:active, .nav-ls a:focus, .nav-ls a:active {background-color: #f5f5f5;text-decoration: none;}
-  .nav-ls {position: absolutes;}
-  .nav-l2 .nav-ls li { float:none; background-color:none; }
-  .nav-ls a:hover { background: none;}
-  .site-body {margin-top: -22px;}
-  .logo-cobrand {float: right}
-    .logo-cobrand img {width: 50px;}
-
-  .nav-item, .nav-item-cta {display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline; border: none;}
-  .mobile-login {display: none}
-  .get-started {position: absolute; right: 0; bottom: -29px;color: #fff; font-weight: normal;}
-    .get-started a { padding: 3px 15px;}
-  
-    .content-main-block {float: left; width: 66%; margin-right: 8%;}
-    .content-rail-block {float: left; width: 26%;}
-    
-  .logo-cobrand {padding: 0; margin-top: 5px;}
-  .header-eq-block {display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline; font-size: 13px; margin-left: 6px;width: 45px;}
-  .mobile-visible, .btn-cta.mobile-visible {display: none;}
-
-  .nav-list-cntr > .search-cntr {display: none;}
-    .nav-l2 {display: none;}
-  .nav-active .nav-l2 {display:block;}
-  .nav-l2:hover ul {display: none;}
-  .nav-l2 > li:hover > ul { display: block; }
-  .nav-ls {width:200px; background: rgba(245,245,245, 0.8);}
-  .nav-ls li a.nav-item { display: block; color: #0066cc; }
-  .nav-ls li a.nav-item:hover span { text-decoration: underline; }
-  .nav-l2 li ul.nav-ls ul.nav-ls { display: none; }
-  /* END RESPONSIVE NAV */
-
-
-}
-
-@media (max-width: 767px) {
-  
-  /* RESPONSIVE NAV */
-  .nav-cntr { padding: 0; }
-  .nav-cntr {width: 250px; position: absolute; left: -250px; top: 0;display: block;font-size: 12px;line-height: 1.3em;}
-  /*.nav-l1 {margin-top:52px;}*/
-  .nav-l1 .nav-hidden {display: none;}
-    .nav-next:hover, .nav-next:focus, .nav-next:active {cursor:pointer;}
-  .trigger-cntr {background: url('/public/file?cmsid=P-6068700&filename=sprite-global.png') no-repeat right -1276px; padding-right: 27px; display: inline-block;}
-  .nav-l1 > li > .nav-item {text-transform: uppercase;}
-    .nav-item:hover, .nav-item:focus, .nav-item:active{background-color: #f4f5f9;text-decoration: none;}
-  .nav-l1 .furl-open > a{border-left: 10px solid #ccc; background-color: #ececec;}
-    .nav-l1 > li > .furl-open, .nav-l1 > li > .furl-open+ul li > a {border-left: 10px solid #ccc;}
-  .nav-l2 .nav-active > a{border-left: 10px solid #037dae !important; background-color: #ececec;}
-
-  .nav-l1 ul {overflow: hidden;}
-    .nav-item > span {display: block; padding-top: 10px; padding-bottom: 10px; padding-right: 15px;}
-
-  .furl-open {font-weight: bold;}
-    .nav-l1 > li > a > span{padding-left:25px; border-top: 1px solid #ccc;}
-    .nav-l1 > li > a:hover > span {border-top: 1px solid #ccc;}
-    .nav-l1 > li > .furl-open > span {padding-left: 15px;}
-    .nav-l2 li > a {border-left: 10px solid transparent;}
-    .nav-l2 > li > a > span{padding-left:25px;}
-    .nav-ls li a > span{padding-left:35px;}
-    .nav-ls li li a > span{padding-left:45px;}
-    .nav-ls li li li a > span{padding-left:55px;}
-  .nav-l1 > li > .furl-open {border-bottom: 1px solid #ccc;}
-
-  .site-cntr {padding: 0 1px;}
-  .icon-phone {float: right;background-position: 10px 8px; width: 42px; height: 42px; margin-right: 5px;display: none;}
-  .icon-search {float: right;background-position: 10px -142px; width: 42px; height: 42px;}
-  .schwab-logo h1 {height: 42px; width: 42px; }
-  .schwab-logo img {width: 42px; margin-left:47px; height: auto;}
-  .logo-cobrand { margin-left: 53px; }
-  .logo-cobrand img {display: none;}
-  .hdr-list {display: none;}
-  .nav-item, .nav-item-cta {display: block;color: #333;}
-  .nav-item-cta {padding: 10px 15px 10px 15px; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;}
-  .nav-active > .nav-item {background-color: #ececec;}
-  .nav-item-cta .btn-cta {padding: 10px 0; text-align: center; display: block; position: relative;}
-  .nav-item-cta .btn-cta {padding: 6px 0; display: inline-block; width: 100px;}
-  .nav-item-cta .btn-org {margin-right: 14px;}
-  .nav-item-cta .btn-cta.btn-blu { background-color: #037DAE; }
-  .nav-item-cta .btn-cta.btn-blu:hover, .nav-item-cta .btn-cta.btn-blu:focus, .nav-item-cta .btn-cta.btn-blu:active { background-color: #026D97; }
-  .nav-item-cta .btn-cta.get-started, .nav-item-cta .btn-cta.login, .nav-item-cta .btn-cta.branch-locator, .nav-item-cta .btn-cta.contact-us { width: 210px; }
-  
-  .site-body {padding-right: 10px;}
-  header .site-cntr{padding-bottom: 10px;}
-  .web-break {display: none;}
-  body {position: relative; left: 0;}
-  .nav-list-cntr {display: none;}
-  .separator {display: none;}
-
-  /* Handles the full/little screen Search */
-  .site-cntr > .search-cntr {display:none;visibility:hidden}
-  .nav-list-cntr > .search-cntr #searchBttn {display:none}
-  .nav-list-cntr > .search-cntr form {margin-right:25px}
-  /* End RESPONSIVE NAV */
-  .nav-l2:hover ul {display:none}
-
-/* RESPONSIVE NAV */
-@media screen and (min-width: 768px) and (max-width: 967px) {
-  .nav-l1 {padding-left: 78px;}
-  .schwab-logo img {width: 65px;}
-  .separator {display: none;}
-}
-
-@media screen and (min-width: 768px) and (max-width: 943px) {
-  .new-site-text {display:block;}
-  .hdr-list .first-item {margin-top:-15px;}
-  .hdr-list li.phone-wrapper {display: none;}
-  a.contact-us {font-weight: bold;}
-  .nav-l1 > li > .nav-item {padding: 5px 5px;font-size: 12px;}
-  .level-home .contentwrap { width: auto;}
-}
-
-@media (max-width: 850px) { 
-  .level-home .contentwrap { width: auto;}
-}
-
-@media screen and (min-width: 968px) {
-  .site-cntr {width: 968px;}
-  .nav-l1 li .nav-item {padding: 10px 17px}
-  .nav-l1 > li > .nav-item {padding: 5px 21px;}
-  
-  .content-main-block {float: left; width: 650px; margin-right: 104px}
-  .content-rail-block {float: left; width: 200px;}
-  .logo-cobrand img {width: auto;}
-  .logo-cobrand {margin-top: 0;}
-}
-
-</style>
+<div id="headerContainer"><link type="text/css" rel="stylesheet" href="/public/file/PS-RESPONSIVE-CHAN-CSS/chan.css">
 <script type="text/javascript" src="/system/asset?cmsid=TNT-INCLUDE"></script>
 <div class="mboxDefault"></div>
 <script type="text/javascript">
@@ -448,22 +163,22 @@ function getSchwabMbox() {
     if(window.mboxCreate) {
         var checkURL = document.location.pathname;  
         if (checkURL.indexOf("/investing/accounts_products/accounts/brokerage_account")!=-1) { 
-            mboxCreate('prospect_SiteWide_NonHome','user.categoryId=brokerage');mboxCreate('SchwabMB','user.categoryId=brokerage');
+            mboxCreate('SchwabMB','user.categoryId=brokerage');
         } 
         else if (checkURL.indexOf("/accounts/ira")!=-1) { 
-            mboxCreate('prospect_SiteWide_NonHome','user.categoryId=ira');mboxCreate('SchwabMB','user.categoryId=ira');
+            mboxCreate('SchwabMB','user.categoryId=ira');
         }
         else if (checkURL.indexOf("/active_trader")!=-1) { 
-            mboxCreate('prospect_SiteWide_NonHome','user.categoryId=trading_services');mboxCreate('SchwabMB','user.categoryId=trading_services');
+            mboxCreate('SchwabMB','user.categoryId=trading_services');
         }
         else if (checkURL.indexOf("/investing/accounts_products/accounts/active_trading")!=-1) { 
-            mboxCreate('prospect_SiteWide_NonHome','user.categoryId=trading_services');mboxCreate('SchwabMB','user.categoryId=trading_services');
+            mboxCreate('SchwabMB','user.categoryId=trading_services');
         }
         else if (checkURL.indexOf("/banking_lending/checking_account")!=-1) { 
-            mboxCreate('prospect_SiteWide_NonHome','user.categoryId=hyic');mboxCreate('SchwabMB','user.categoryId=checking_account');
+            mboxCreate('SchwabMB','user.categoryId=checking_account');
         }
         else { 
-            mboxCreate('prospect_SiteWide_NonHome');mboxCreate('SchwabMB');
+            mboxCreate('SchwabMB');
         }
     }
 }
@@ -494,10 +209,18 @@ function showMobileBanner() {
     }
 }
 $(document).ready( function() {  showMobileBanner();  });
-</script><div class="header" role="navigation" id="start"><div id="headerCntr-old-id" class="hdr-cntr"><div class="grid-cntr"><div class="search-cntr" role="search">
+</script><div id="headerContainer">
+<div class="header" role="navigation" id="start"><div id="headerCntr-old-id" class="hdr-cntr"><div class="grid-cntr cf"><div class="search-cntr" role="search">
+ <a class="search-icon mobile-visible"></a>
+                    <div class="search-form">
+                        <div class="form-wrapper">
     <input type="text" maxlength="128" class="search-box" title="Type here for Search" id="txtGlbSearch" name="txtGlbSearch" placeholder="Type here for Search" onkeypress="javascript:fnSubmitSearchValue(event);"><label for="txtGlbSearch" class="form-label access-hide">Type here for Search</label>
     <a id="searchBttn" class="btn-cta btn-blu" href="javascript:getSearchUrl();" onclick="javascript:getSearchUrl();">Search</a>
 </div>
+                    </div>
+</div>
+<div class="login-cntr mobile-visible"><a href="https://client.schwab.com/mobileweb/#access/Login" target="_top">Log In</a></div>
+
 <ul class="hdr-list">                <li class="login-arrow-up" id="LoginSec">
                     <div class="login-trigger-cntr"><span class="sprite-g icon-login-dropdown link-style" tabindex="0" data-clickable="">Log In</span></div>
                     <div class="login-other-list">
@@ -635,6 +358,7 @@ $(document).ready( function() {  showMobileBanner();  });
                 </ul>
               </li>
               <li class="navi-P-4133018"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/options"><span>Options</span></a></li>
+              <li class="navi-P-8029072"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/futures"><span>Futures</span></a></li>
               <li class="navi-P-4133058"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/global_investing"><span>Global Investing</span></a></li>
               <li class="navi-P-4133102"><a href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/cds_money_markets" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">CDs &amp; Money Market Funds</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/cds_money_markets"><span>Overview</span></a></li>
@@ -645,7 +369,7 @@ $(document).ready( function() {  showMobileBanner();  });
               </li>
               <li class="navi-P-4133142"><a href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/bonds" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Bonds &amp; Fixed Income</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/bonds"><span>Overview</span></a></li>
-                  <li class="navi-P-4133565"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/bonds/fixed_income_products"><span>Fixed Income Products</span></a></li>
+                  <li class="navi-P-8365667"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/bonds/bond_guidance"><span>Bond Guidance</span></a></li>
                 </ul>
               </li>
               <li class="navi-P-4133182"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/margin_accounts"><span>Margin Loans</span></a></li>
@@ -658,11 +382,12 @@ $(document).ready( function() {  showMobileBanner();  });
                       <li class="navi-P-6946846"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/variable_annuities/schwab_onesource_choice_variable_annuity"><span>Schwab OneSource Choice Variable Annuity™</span></a></li>
                     </ul>
                   </li>
-                  <li class="navi-P-4134843"><a href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/income_annuity" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Income Annuities</span></span></a><ul class="nav-ls nav-hidden">
+                  <li class="navi-P-4134843"><a href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/income_annuity" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Single Premium Immediate Annuities</span></span></a><ul class="nav-ls nav-hidden">
                       <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/income_annuity"><span>Overview</span></a></li>
+                      <li class="navi-P-7788667"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/income_annuity/fixed_income_annuity_calculator"><span>Income Annuity Estimator</span></a></li>
                     </ul>
                   </li>
-                  <li class="navi-P-4134923"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/fixed_annuities"><span>Fixed Annuities</span></a></li>
+                  <li class="navi-P-4134923"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/annuities/fixed_annuities"><span>Fixed Deferred Annuities</span></a></li>
                 </ul>
               </li>
               <li class="navi-P-4133262"><a href="http://www.schwab.com/public/schwab/investing/accounts_products/investment/insurance" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Insurance</span></span></a><ul class="nav-ls nav-hidden">
@@ -780,27 +505,28 @@ $(document).ready( function() {  showMobileBanner();  });
           </li>
           <li class="navi-P-5905612"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Understanding IRAs</span></span></a><ul class="nav-ls nav-hidden">
               <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras"><span>Overview</span></a></li>
-              <li class="navi-P-5905807"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Rollover IRA</span></span></a><ul class="nav-ls nav-hidden">
+              <li class="navi-P-5905807"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">What is a Rollover IRA</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira"><span>Overview</span></a></li>
                   <li class="navi-P-5906515"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira/401k_rollover_options"><span>401(k) Rollover Options</span></a></li>
                   <li class="navi-P-5906602"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira/combining_401ks"><span>Combining 401(k)s</span></a></li>
+                  <li class="navi-P-8287681"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira/how_to_rollover_a_401k"><span>How to Rollover a 401(k)</span></a></li>
                 </ul>
               </li>
-              <li class="navi-P-5905887"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/traditional_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Traditional IRA</span></span></a><ul class="nav-ls nav-hidden">
+              <li class="navi-P-5905887"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/traditional_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">What is a Traditional IRA</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/traditional_ira"><span>Overview</span></a></li>
                   <li class="navi-P-5906675"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/traditional_ira/contribution_limits"><span>Contribution Limits</span></a></li>
                   <li class="navi-P-5906772"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/traditional_ira/withdrawal_rules"><span>Withdrawal Rules</span></a></li>
                 </ul>
               </li>
-              <li class="navi-P-5906081"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/roth_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Roth IRA</span></span></a><ul class="nav-ls nav-hidden">
+              <li class="navi-P-5906081"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/roth_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">What is a Roth IRA</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/roth_ira"><span>Overview</span></a></li>
                   <li class="navi-P-5906942"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/roth_ira/contribution_limits"><span>Contribution Limits</span></a></li>
                   <li class="navi-P-5907029"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/roth_ira/conversion"><span>Conversion</span></a></li>
                   <li class="navi-P-5907083"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/roth_ira/withdrawal_rules"><span>Withdrawal Rules</span></a></li>
                 </ul>
               </li>
-              <li class="navi-P-5906139"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/custodial_ira"><span>Custodial IRA</span></a></li>
-              <li class="navi-P-5906194"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/inherited_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Inherited IRA</span></span></a><ul class="nav-ls nav-hidden">
+              <li class="navi-P-5906139"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/custodial_ira"><span>What is a Custodial IRA</span></a></li>
+              <li class="navi-P-5906194"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/inherited_ira" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">What is an Inherited IRA</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/inherited_ira"><span>Overview</span></a></li>
                   <li class="navi-P-5907150"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/inherited_ira/withdrawal_rules"><span>Withdrawal Rules</span></a></li>
                 </ul>
@@ -895,12 +621,12 @@ $(document).ready( function() {  showMobileBanner();  });
           </li>
           <li class="navi-P-7348776"><a href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Life Events</span></span></a><ul class="nav-ls nav-hidden">
               <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events"><span>Overview</span></a></li>
-              <li class="navi-P-7349413"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/changing_jobs"><span>Changing Jobs </span></a></li>
-              <li class="navi-P-7350866"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/inheriting_money"><span>Inheriting Money </span></a></li>
-              <li class="navi-P-7350915"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/new_baby"><span>Welcoming a New Baby</span></a></li>
-              <li class="navi-P-7350967"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/getting_married"><span>Getting Married </span></a></li>
-              <li class="navi-P-7351017"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/getting_a_divorce"><span>Getting a Divorce</span></a></li>
-              <li class="navi-P-7351070"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/losing_a_loved_one"><span>Losing a Loved One </span></a></li>
+              <li class="navi-P-7349413"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/changing_jobs"><span>Job transition</span></a></li>
+              <li class="navi-P-7350866"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/inheriting_money"><span>Inheritance</span></a></li>
+              <li class="navi-P-7350915"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/new_baby"><span>Expanding your family</span></a></li>
+              <li class="navi-P-7350967"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/getting_married"><span>Getting married </span></a></li>
+              <li class="navi-P-7351017"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/getting_a_divorce"><span>Getting divorced</span></a></li>
+              <li class="navi-P-7351070"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/life_events/losing_a_loved_one"><span>Losing a loved one </span></a></li>
             </ul>
           </li>
           <li class="navi-P-7348830"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/retirement_and_planning/retirement_planning_tools"><span>Tools</span></a></li>
@@ -909,7 +635,6 @@ $(document).ready( function() {  showMobileBanner();  });
       </li>
       <li class="navi-P-4128145"><a href="http://www.schwab.com/public/schwab/investing/why_choose_schwab" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Why Schwab</span></span></a><ul class="nav-ls nav-hidden">
           <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/why_choose_schwab"><span>Overview</span></a></li>
-          <li class="navi-P-7706849"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/why_choose_schwab/10_questions"><span>10 Questions</span></a></li>
           <li class="navi-P-5808599"><a href="http://www.schwab.com/public/schwab/investing/why_choose_schwab/reviews" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Reviews</span></span></a><ul class="nav-ls nav-hidden">
               <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/why_choose_schwab/reviews"><span>Overview</span></a></li>
               <li class="navi-P-6419140"><a class="nav-item" href="http://www.schwab.com/public/schwab/investing/why_choose_schwab/reviews/brokerage"><span>Brokerage</span></a></li>
@@ -930,11 +655,7 @@ $(document).ready( function() {  showMobileBanner();  });
           <li class="navi-P-3969286"><a class="nav-item" href="http://www.schwab.com/public/schwab/banking_lending/checking_account/checking_account_faqs"><span>FAQs</span></a></li>
         </ul>
       </li>
-      <li class="navi-P-3969183"><a href="http://www.schwab.com/public/schwab/banking_lending/savings_account" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Savings Account</span></span></a><ul class="nav-ls nav-hidden">
-          <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/banking_lending/savings_account"><span>Overview</span></a></li>
-          <li class="navi-P-3969338"><a class="nav-item" href="http://www.schwab.com/public/schwab/banking_lending/savings_account/savings_account_faqs"><span>FAQs</span></a></li>
-        </ul>
-      </li>
+      <li class="navi-P-3969183"><a class="nav-item" href="http://www.schwab.com/public/schwab/banking_lending/savings_account"><span>Savings Account</span></a></li>
       <li class="navi-P-6479730"><a href="http://www.schwab.com/public/schwab/banking_lending/home_loans" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Home Loans</span></span></a><ul class="nav-ls nav-hidden">
           <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/banking_lending/home_loans"><span>Overview</span></a></li>
           <li class="navi-P-6480052"><a class="nav-item" href="http://www.schwab.com/public/schwab/banking_lending/home_loans/todays_rates"><span>Today's Mortgage Rates </span></a></li>
@@ -972,19 +693,10 @@ $(document).ready( function() {  showMobileBanner();  });
   <li class="navi-P-3967764"><a href="http://www.schwab.com/public/schwab/active_trader" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">TRADING</span></span></a><ul class="nav-l2 nav-hidden">
       <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader"><span>Overview</span></a></li>
       <li class="navi-P-4288493"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/start_trading"><span>Start Trading</span></a></li>
-      <li class="navi-P-4288873"><a href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Why Trade at Schwab</span></span></a><ul class="nav-ls nav-hidden">
-          <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab"><span>Overview</span></a></li>
-          <li class="navi-P-4289044"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab/smarter_tools"><span>Smarter Tools</span></a></li>
-          <li class="navi-P-5559344"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab/experienced_support"><span>Experienced Support</span></a></li>
-          <li class="navi-P-5819259"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab/education_for_traders"><span>Education for Traders</span></a></li>
-          <li class="navi-P-5559308"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab/expert_insight_research"><span>Expert Insight &amp; Research</span></a></li>
-          <li class="navi-P-5559382"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/why_trade_at_schwab/more_than_trading"><span>More Than Trading</span></a></li>
-        </ul>
-      </li>
       <li class="navi-P-4288897"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/pricing"><span>Pricing</span></a></li>
       <li class="navi-P-4288923"><a href="http://www.schwab.com/public/schwab/active_trader/trading_tools" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Trading Tools</span></span></a><ul class="nav-ls nav-hidden">
           <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_tools"><span>Overview</span></a></li>
-          <li class="navi-P-4289297"><a href="http://www.schwab.com/public/schwab/active_trader/trading_tools/trading_software" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Software Trading</span></span></a><ul class="nav-ls nav-hidden">
+          <li class="navi-P-4289297"><a href="http://www.schwab.com/public/schwab/active_trader/trading_tools/trading_software" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Trading Software</span></span></a><ul class="nav-ls nav-hidden">
               <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_tools/trading_software"><span>Overview</span></a></li>
               <li class="navi-P-5560394"><a href="http://www.schwab.com/public/schwab/active_trader/trading_tools/trading_software/find_opportunities" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Find Opportunities</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_tools/trading_software/find_opportunities"><span>Overview</span></a></li>
@@ -1061,8 +773,13 @@ $(document).ready( function() {  showMobileBanner();  });
               <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_tools/mobile_trading"><span>Overview</span></a></li>
             </ul>
           </li>
+          <li class="navi-P-8024120"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_tools/execution_quality"><span>Execution Quality</span></a></li>
+          <li class="navi-P-8033056"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_tools/options_tools"><span>Options Tools</span></a></li>
         </ul>
       </li>
+      <li class="navi-P-8372024"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/research"><span>Research</span></a></li>
+      <li class="navi-P-8372067"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/education"><span>Education</span></a></li>
+      <li class="navi-P-8372123"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/support"><span>Support</span></a></li>
       <li class="navi-P-6825081"><a href="http://www.schwab.com/public/schwab/active_trader/trading_insights" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Trading Insights</span></span></a><ul class="nav-ls nav-hidden">
           <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_insights"><span>Overview</span></a></li>
           <li class="navi-P-6844039"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_insights/trading_strategies"><span>Trading Strategies</span></a></li>
@@ -1070,40 +787,6 @@ $(document).ready( function() {  showMobileBanner();  });
           <li class="navi-P-6844184"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_insights/options_etfs_global"><span>Options &amp; ETFs</span></a></li>
           <li class="navi-P-7503055"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_insights/schwablive"><span>Schwab Live</span></a></li>
           <li class="navi-P-7025942"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/trading_insights/investinginsightsemail"><span>Email Subscription</span></a></li>
-        </ul>
-      </li>
-      <li class="navi-P-4288947"><a href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">What You Can Trade</span></span></a><ul class="nav-ls nav-hidden">
-          <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade"><span>Overview</span></a></li>
-          <li class="navi-P-4289405"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/stocks"><span>Stocks</span></a></li>
-          <li class="navi-P-5560026"><a href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/options" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Options</span></span></a><ul class="nav-ls nav-hidden">
-              <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/options"><span>Overview</span></a></li>
-              <li class="navi-P-5563096"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/options/options_tools"><span>Options Tools</span></a></li>
-            </ul>
-          </li>
-          <li class="navi-P-5560058"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/etfs"><span>ETFs</span></a></li>
-          <li class="navi-P-5560095"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/futures"><span>Futures</span></a></li>
-          <li class="navi-P-5560156"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/global_trading"><span>Global Trading</span></a></li>
-          <li class="navi-P-5560193"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/what_you_can_trade/other_products"><span>Other Products</span></a></li>
-        </ul>
-      </li>
-      <li class="navi-P-4288974"><a href="http://www.schwab.com/public/schwab/active_trader/resources" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Resources</span></span></a><ul class="nav-ls nav-hidden">
-          <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources"><span>Overview</span></a></li>
-          <li class="navi-P-4289518"><a href="http://www.schwab.com/public/schwab/active_trader/resources/education" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Education</span></span></a><ul class="nav-ls nav-hidden">
-              <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/education"><span>Overview</span></a></li>
-            </ul>
-          </li>
-          <li class="navi-P-5560278"><a href="http://www.schwab.com/public/schwab/active_trader/resources/research_insight" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Research &amp; Insight</span></span></a><ul class="nav-ls nav-hidden">
-              <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/research_insight"><span>Overview</span></a></li>
-              <li class="navi-P-5597340"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/research_insight/proprietary_research"><span>Proprietary Research</span></a></li>
-              <li class="navi-P-5597442"><a href="http://www.schwab.com/public/schwab/active_trader/resources/research_insight/third_party_research" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Independent Research</span></span></a><ul class="nav-ls nav-hidden">
-                  <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/research_insight/third_party_research"><span>Overview</span></a></li>
-                </ul>
-              </li>
-              <li class="navi-P-5597474"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/research_insight/market_insight"><span>Market Insight</span></a></li>
-            </ul>
-          </li>
-          <li class="navi-P-5560310"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/trading_community"><span>Trading Community</span></a></li>
-          <li class="navi-P-5560342"><a class="nav-item" href="http://www.schwab.com/public/schwab/active_trader/resources/trading_support"><span>Trading Support</span></a></li>
         </ul>
       </li>
     </ul>
@@ -1163,14 +846,9 @@ $(document).ready( function() {  showMobileBanner();  });
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/podcasts_straight_talk"><span>Overview</span></a></li>
                 </ul>
               </li>
-              <li class="navi-P-4351748"><a href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/town_hall_audio" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Town Hall Audio</span></span></a><ul class="nav-ls nav-hidden">
-                  <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/town_hall_audio"><span>Overview</span></a></li>
-                  <li class="navi-P-4353771"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/town_hall_audio/town_hall_audio_files"><span>Town Hall Audio Files</span></a></li>
-                </ul>
-              </li>
               <li class="navi-P-4351806"><a href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/podcasts-insights-ideas" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Podcasts - Insights &amp; Ideas</span></span></a><ul class="nav-ls nav-hidden">
                   <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/podcasts-insights-ideas"><span>Overview</span></a></li>
-                  <li class="navi-P-4353815"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/town_hall_video/insights-ideas-video-files"><span>Insights &amp; Ideas Video Files</span></a></li>
+                  <li class="navi-P-4353815"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_insight/news_insight_subscription/podcasts-insights-ideas/insights-ideas-video-files"><span>Insights &amp; Ideas Video Files</span></a></li>
                 </ul>
               </li>
             </ul>
@@ -1181,6 +859,7 @@ $(document).ready( function() {  showMobileBanner();  });
           <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/investing_ideas"><span>Overview</span></a></li>
         </ul>
       </li>
+      <li class="navi-P-8294988"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/white_papers"><span>White Papers</span></a></li>
       <li class="navi-P-3969880"><a href="http://www.schwab.com/public/schwab/resource_center/workshops_videos" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Workshops &amp; Videos</span></span></a><ul class="nav-ls nav-hidden">
           <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/workshops_videos"><span>Overview</span></a></li>
           <li class="navi-P-3970519"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/workshops_videos/branch_workshops"><span>Branch Workshops</span></a></li>
@@ -1201,8 +880,8 @@ $(document).ready( function() {  showMobileBanner();  });
       <li class="navi-P-7556083"><a class="nav-item" href="http://www.schwab.com/public/schwab/resource_center/expert_fund_picks"><span>Expert Fund Picks</span></a></li>
     </ul>
   </li>
-  <li class="navi-P-3967839"><a href="http://www.schwab.com/public/schwab/client_home" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">FOR CLIENTS</span></span></a><ul class="nav-l2 nav-hidden">
-      <li class="mobile-visible"><a class="nav-item" href="http://www.schwab.com/public/schwab/client_home"><span>Overview</span></a></li>
+  <li class="navi-P-3967839"><a href="https://www.schwab.com/public/schwab/client_home" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">FOR CLIENTS</span></span></a><ul class="nav-l2 nav-hidden">
+      <li class="mobile-visible"><a class="nav-item" href="https://www.schwab.com/public/schwab/client_home"><span>Overview</span></a></li>
       <li class="navi-P-3969911"><a class="nav-item" href="http://www.schwab.com/public/schwab/client_home/forms_applications"><span>Forms &amp; Applications</span></a></li>
       <li class="navi-P-3970696"><a class="nav-item" href="http://www.schwab.com/public/schwab/client_home/client_faqs"><span>FAQs</span></a></li>
       <li class="navi-P-3970731"><a href="http://www.schwab.com/public/schwab/client_home/contact_us" class="nav-item trigger-chan nav-next"><span><span class="trigger-cntr">Contact us</span></span></a><ul class="nav-ls nav-hidden">
@@ -1211,8 +890,10 @@ $(document).ready( function() {  showMobileBanner();  });
           <li class="navi-P-6917558"><a class="nav-item" href="http://www.schwab.com/public/schwab/client_home/contact_us/find_consultant"><span>Find a Consultant</span></a></li>
         </ul>
       </li>
+      <li class="navi-P-8026042"><a class="nav-item" href="http://www.schwab.com/public/schwab/client_home/password_format"><span>Password Format</span></a></li>
     </ul>
   </li>
+  <li class="navi-P-7976015"><a class="nav-item" href="https://www.schwab.com/public/schwab/home"><span>HOME</span></a></li>
 </ul><script type="text/javascript">
 /* remove for clients */
 (function() {
@@ -1222,21 +903,98 @@ $(document).ready( function() {  showMobileBanner();  });
     $('.navi-P-3967660').addClass('nav-active');
   }
 })();
+/* fix link of investing */
+(function() {
+  $('.navi-P-3967660>a').attr('href','http://www.schwab.com/public/schwab/investing/invest.html');
+})();
+
 </script>
 <ul class="ctaCntr">
   <li class="nav-item-cta"><a href="/public/schwab/investing/accounts_products/accounts" class="btn-cta btn-org get-started">Open an Account</a></li>
-  <li class="nav-item-cta"><a href="https://client.schwab.com/mobileweb/#service/branchlocator" class="btn-cta btn-grn branch-locator mobile-visible">Find a Branch</a></li>
+  <li class="nav-item-cta"><a href="https://client.schwab.com/public/branchlocator/accessschwab.aspx" class="btn-cta btn-grn branch-locator mobile-visible">Find a Branch</a></li>
   <li class="nav-item-cta"><a href="/public/schwab/client_home/contact_us" class="btn-cta btn-blu contact-us mobile-visible">Contact Us</a></li>
-  <li class="nav-item-cta"><a href="http://wireless.schwab.com/dwp/lgw" class="btn-cta btn-blu login mobile-visible">Log In</a></li>
+  <li class="nav-item-cta"><a href="https://client.schwab.com/mobileweb/#access/Login" class="btn-cta btn-blu login mobile-visible">Log In</a></li>
 </ul></div></div><div class="separator"></div><script type="text/javascript">
 var netHostUrl= "https://client.schwab.com";
+var responsiveWidth = 737;
 window.CHANCONF = {   CMSServer: "http://www.schwab.com:80" ,  NETServer:  "https://client.schwab.com"   }; 
 function setChanHeaderWidth() {
     var winW = $(window).width();
     if (winW < 968) {  $("#headerContainer").css("width", "968px");  }
     else { $("#headerContainer").css("width", "100%"); }
 }
+
+function isResponsive() {
+        if ($(window).width() <= responsiveWidth) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+function toggleSearchOff(e) {
+    var el = $('.search-form');
+    e.stopPropagation;
+    if (el.is(':visible')) {
+        el.slideUp('fast');
+    }
+}
+
+function toggleSearch(e) {
+    var el = $('.search-form');
+    e.stopPropagation();
+    el.slideToggle('fast');
+    el.on("click touch", function(e) {
+        e.stopPropagation();
+    });
+}
+
+function toggleDisclosureDisplay(e) {
+    var el = $('#disclosureDisplay');
+    e.preventDefault();
+    el.slideToggle('fast');
+}
+
+function addSearchEventListeners() {
+     $('.search-icon').on("click touch", toggleSearch);
+     $(document).on("click touch", toggleSearchOff);
+}
+
+function removeSearchEventListeners() {
+    $('.search-icon').off("click touch", toggleSearch);
+    $(document).off("click touch", toggleSearchOff);
+}
+
 $(document).ready(function() {
+
+        /* Init Responsive Items Search */
+    if (isResponsive()) {
+        addSearchEventListeners();
+    }
+
+
+    $(window).resize(function() {
+        if(isResponsive()) {
+            if (!($._data($('.search-icon')[0], 'events'))) {
+                addSearchEventListeners();
+            }
+
+        } else {
+            removeSearchEventListeners();
+            if ($('.search-form').is(':not(:visible)')) {
+                $('.search-form').css('display','block');
+            }
+            $(".nav-list-cntr").removeAttr("style");
+            $(".nav-ls").removeAttr("style");
+            var a = $(".mobile-nav");
+            if (a.hasClass("furl-open")) {
+                $(".mobile-nav").click();
+            }
+                  }  
+    });
+   
+
+
       $('.icon-login-dropdown').on('click',function(){
         var $dropDownParent = $($(this).parent().parent());
         $dropDownParent.hasClass('login-arrow-up') ? $dropDownParent.removeClass('login-arrow-up').addClass('login-arrow-dn') : $dropDownParent.removeClass('login-arrow-dn').addClass('login-arrow-up');
@@ -1298,7 +1056,7 @@ $("#txtGlbSearch").focus(function (e) {
    
 });
 </script>
-</div></div><div id="pageContainer"><div class="cntWrapper mgTp30"><div class="whiteBox"><div class="header"></div><div class="content"><div class="lft2Col1"><div class="lftNavLabel">Legal &amp; Compliance</div><script language="JavaScript">
+</div></div></div><div id="pageContainer"><div class="cntWrapper mgTp30"><div class="whiteBox"><div class="header"></div><div class="content"><div class="lft2Col1"><div class="lftNavLabel">Legal &amp; Compliance</div><script language="JavaScript">
 		var isBanking = ((window.location.href.toLowerCase().indexOf('/public/new/banking') > 0) || (window.location.href.toLowerCase().indexOf('/public/schwab/banking') > 0))? true:false;
 		if (isBanking == true) {
 			$('div.lftNavLabel').removeClass('lftNavLabel').addClass('lftNavBnkLabel');
@@ -1492,7 +1250,7 @@ function setupShare() {
         case 'share':
             contentTitle = 'Share this page';
             contentWidth = 'width: 320px;';
-            contentString = '<div class="share-hdln-spacer"></div><div class="share-icon-cntr"><!--<div class="share-two-col"><p class="email-icon-lg" tabindex="0" title="Share by Email">Email</p></div>--><div class="share-two-col"><p class="facebook-icon-lg" tabindex="0" title="Share to Facebook">Facebook</p><p class="twitter-icon-lg" tabindex="0" tabindex="0" title="Share via Twitter">Twitter</p><p class="linkedin-icon-lg" tabindex="0" title="Share to LinkedIn">LinkedIn</p><p class="googleplus-icon-lg" tabindex="0" title="Share to Google+">Google+</p></div></div><div class="clear"></div><p class="share-legal">(0113-0584)</p>';
+            contentString = '<div class="share-hdln-spacer"></div><div class="share-icon-cntr"><div id="emailIconLg" class="share-two-col"><p class="email-lock-icon-lg" tabindex="0" title="Share by Email">Email</p></div><div class="share-two-col"><p class="facebook-icon-lg iconFacebook" tabindex="0" title="Share to Facebook">Facebook</p><p class="twitter-icon-lg iconTwitter" tabindex="0" tabindex="0" title="Share via Twitter">Twitter</p><p class="linkedin-icon-lg iconLinkedin" tabindex="0" title="Share to LinkedIn">LinkedIn</p><p class="googleplus-icon-lg iconGooglePlus" tabindex="0" title="Share to Google+">Google+</p></div></div><div class="clear"></div><p class="share-legal">(0113-0584)</p>';
             break;
         case 'subscribe':
             contentTitle = 'Subscribe';
@@ -1501,11 +1259,12 @@ function setupShare() {
             break;
         default:
             contentTitle = 'Email to a Friend';
-            contentString = '<form action="" method="post" autocomplete="off" id="EmailForm" name="EmailForm"><input type="hidden" value="k0Q3yOIlwDGwTYmaH350OPx3Mk1JQL62/yJ5Z+aZm2CSc8pn4IWpj2UhlveIGjb5kbrH6yVQ6FmbHc+nhUxu9a16Xz92/CqZXpDZiUoEduS53jtZeqd3h+0elUI9DVFE6178Hw==" name="ShareValidationToken"><input type="hidden" value="" id="article_url" name="article_url"><span id="cs_error_name" class="cs_error"></span><label for="sender_name">Your name:</label><input type="text" value="" id="sender_name" name="sender_name"><span id="cs_error_email" class="cs_error"></span><label for="sender_email">Your email address: </label><input type="text" value="" id="sender_email" name="sender_email"><span id="cs_error_recipients" class="cs_error"></span><label for="recipients">Recipient’s email address:</label><input type="text" value="" id="recipients" name="recipients"><p>You may send this page to up to three email addresses at a time. Multiple addresses need to be separated by commas.</p><a class="cs_gr_btn" tabindex="0">Close</a><a id="Send" name="Send" class="cs_bl_btn" tabindex="0">Send</a><br><span id="cs_error_send" class="cs_error"></span><p class="overlayLegal">The body of your email will read: "I saw this on Schwab.com and thought it would interest you."</p><p class="overlayLegal">Sharing this page will not disclose any personal information, other than the names and email addresses you submit. Schwab provides this service as a convenience for you. By using this service, you agree to (1) use your real name and email address and (2) request that Schwab send the email only to people that you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. You also agree that you alone are responsible as the sender of the email. Schwab will not store or use the information you provide above for any purpose except in sending the email on your behalf. (0811-2999)</p></form>';
+            contentString = '<form action="" method="post" autocomplete="off" id="EmailForm" name="EmailForm"><input type="hidden" value="gfwcvT2XxvF/NODXSBzSVsHL+JjadDPV6+6/Ew6yp37giMT3bXon7lY63z9dlTC0lK7LZlYVKAHZzrkVx6I8xhxQOmH2ByJJcv4xDfaKbWMegHX7XbdTcFcNy7eTo3ZmBeNG8Q==" name="ShareValidationToken"><input type="hidden" value="" id="article_url" name="article_url"><span id="cs_error_name" class="cs_error"></span><label for="sender_name">Your name:</label><input type="text" value="" id="sender_name" name="sender_name"><span id="cs_error_email" class="cs_error"></span><label for="sender_email">Your email address: </label><input type="text" value="" id="sender_email" name="sender_email"><span id="cs_error_recipients" class="cs_error"></span><label for="recipients">Recipient’s email address:</label><input type="text" value="" id="recipients" name="recipients"><p>You may send this page to up to three email addresses at a time. Multiple addresses need to be separated by commas.</p><a class="cs_gr_btn" tabindex="0">Close</a><a id="Send" name="Send" class="cs_bl_btn" tabindex="0">Send</a><br><span id="cs_error_send" class="cs_error"></span><p class="overlayLegal">The body of your email will read: "I saw this on Schwab.com and thought it would interest you."</p><p class="overlayLegal">Sharing this page will not disclose any personal information, other than the names and email addresses you submit. Schwab provides this service as a convenience for you. By using this service, you agree to (1) use your real name and email address and (2) request that Schwab send the email only to people that you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. You also agree that you alone are responsible as the sender of the email. Schwab will not store or use the information you provide above for any purpose except in sending the email on your behalf. (0811-2999)</p></form>';
         }
         var finalStringStart = '<div class="overlayProx"' + 'style="' + contentWidth +'" tabindex="-1"><h4 class="overlayHdln">' + contentTitle + '</h4><div class="overlayContent"><span class="overlayArrow"></span>';
         var finalStringEnd = ' </div><span class="overlayClose" tabindex="0">Close</span></div>';
         $(this).after(finalStringStart + contentString + finalStringEnd);
+        $("#emailIconLg").css("display","none");
         if ($('.overlayProx').height() > availTopSpace) {
             verticalString = 'top: 42px;';
             arrowString += 'top: -52px;';
@@ -1553,25 +1312,25 @@ function setupShare() {
                 }
             }
         });
-$('#Send').on('click',function () {
-    if (checkInput(document.getElementById('EmailForm'))) { 
+        $('#Send').on('click',function () {
+            if (checkInput(document.getElementById('EmailForm'))) { 
 
-        var dataString = 'sender_name='+ $('#sender_name').val() + '&sender_email=' + $('#sender_email').val() + '&recipients=' + $('#recipients').val() + '&article_url=' + window.location.href + '&ShareValidationToken=' + encodeURIComponent("k0Q3yOIlwDGwTYmaH350OPx3Mk1JQL62/yJ5Z+aZm2CSc8pn4IWpj2UhlveIGjb5kbrH6yVQ6FmbHc+nhUxu9a16Xz92/CqZXpDZiUoEduS53jtZeqd3h+0elUI9DVFE6178Hw==");
-                $.ajax({  
-            type: "POST",  
-            url: "/public/schwab/nn/emailfriend_confirm.html",  
-            data: dataString,  
-            success: function(data) {
-                var successMsg;
-                if(data.indexOf('Your e-mail message has been sent.')!= -1) { successMsg = "<br><br>Thank you.<br><br>Your email message has been sent.<br><br>"; }
-                    else { successMsg = "<br><br>Thank you.<br><br>EC.<br><br>";}
-                $('#EmailForm').html(successMsg);
+                var dataString = 'sender_name='+ $('#sender_name').val() + '&sender_email=' + $('#sender_email').val() + '&recipients=' + $('#recipients').val() + '&article_url=' + window.location.href + '&ShareValidationToken=' + encodeURIComponent("gfwcvT2XxvF/NODXSBzSVsHL+JjadDPV6+6/Ew6yp37giMT3bXon7lY63z9dlTC0lK7LZlYVKAHZzrkVx6I8xhxQOmH2ByJJcv4xDfaKbWMegHX7XbdTcFcNy7eTo3ZmBeNG8Q==");
+                        $.ajax({  
+                    type: "POST",  
+                    url: "/public/schwab/nn/emailfriend_confirm.html",  
+                    data: dataString,  
+                    success: function(data) {
+                        var successMsg;
+                        if(data.indexOf('Your e-mail message has been sent.')!= -1) { successMsg = "<br><br>Thank you.<br><br>Your email message has been sent.<br><br>"; }
+                            else { successMsg = "<br><br>Thank you.<br><br>EC.<br><br>";}
+                        $('#EmailForm').html(successMsg);
+                    }
+                });
+                scatShareLinkTrack('o', 'emailShare');
+                return false;
             }
         });
-        scatShareLinkTrack('o', 'emailShare');
-        return false;
-    }
-});
         $("#EmailForm .cs_gr_btn").on('click',function () {
             $("#EmailForm span.cs_error").html("");
             $("#EmailForm input").removeClass("cs_error");
@@ -1655,7 +1414,7 @@ $('#Send').on('click',function () {
 function logConsole(strWrite) { if(window.console) { console.log(strWrite) } }
 
 function setupShareOverlay(){
-	/* Setting the Social Media Links Dynamically */
+   /* Setting the Social Media Links Dynamically */
     function parseUri(str) {
         var o = parseUri.options, m = o.parser[o.strictMode ? "strict" : "loose"].exec(str), uri = {}, i = 14;
         while (i--) { uri[o.key[i]] = m[i] || ""; }
@@ -1757,6 +1516,8 @@ function setupButton(){
     });
 }
 function setupNewWindow(){ $('.newWindow').on("click", function(){window.open($(this).attr('href')); return false;}); }
+
+
 </script>
 <style type="text/css">
 .clear {clear:both}
@@ -1893,6 +1654,7 @@ $(document).ready(function() {
   } else {
   	$(".utilLangSec").hide();
   }
+$(".email-lock-icon-lg").css("display","none");
 });
 function langUpdate(lang){createCookie('lang',lang,'365');if(currenturl.indexOf("lang=")!=-1){var startIndex=currenturl.indexOf("lang=");window.location.assign(currenturl.substring(0,startIndex-1));}else window.location.reload();}
 function createCookie(name, value, days, secure){if(days) {var date = new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires = "; expires="+date.toGMTString();}else{var expires = "";}var cook=name+"="+value+expires+" ;domain=schwab.com; path=/";if(secure=='secure') {cook=cook+"; secure";}document.cookie = cook;}
@@ -1902,7 +1664,7 @@ function createCookie(name, value, days, secure){if(days) {var date = new Date()
 td.body, td.firstBody {border-bottom: 1px solid black; padding: 2px;}
 td.body {border-left: 1px dashed black; padding: 2px;}
 </style>
-<div style="margin-bottom: 15px; ">Rev. July 2014</div><table border="0" cellpadding="0" cellspacing="0" class="info" style="width:100%; border: 1px solid black;margin-bottom:25px;">
+<div style="margin-bottom: 15px; ">Rev. July 2015</div><table border="0" cellpadding="0" cellspacing="0" class="info" style="width:100%; border: 1px solid black;margin-bottom:25px;">
   <tbody><tr class="odd">
     <td class="first" style="background: #005cb3; vertical-align:middle; text-align:left;" align="center" width="20%"><span style="font-size:18px;color:#fff;">FACTS</span></td>
     <td class="last" width="80%"><b>WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?</b></td>
@@ -2025,7 +1787,7 @@ information about your creditworthiness </li>
   <tr class="even">
     <td class="first" width="20%"><b>Affiliates</b></td>
     <td class="last" width="80%">Companies related by common ownership or control. They can be financial and nonfinancial companies. <br><ul class="lstBullet">
-<li><i>Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab &amp; Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management,Inc.; and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc.</i></li>
+<li><i>Our affiliates include companies with a Charles Schwab name; financial companies such as Charles Schwab &amp; Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management, Inc., Schwab Wealth Investment Advisory, Inc.; and nonfinancial companies such as Schwab Performance Technologies and Schwab Compliance Technologies, Inc.</i></li>
 </ul>
     </td>
   </tr>
@@ -2056,11 +1818,11 @@ Charles Schwab, U.K., Limited (“Schwab U.K.”) introduces residents of the Un
 Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab &amp;
  Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at <a href="http://www.schwab.com.hk">www.schwab.com.hk</a>.<br>
 <br>
-To learn more about our online privacy practices (e.g. "tracking"), please go to <a href="http://www.schwab.com/privacy">www.schwab.com/privacy</a>.</p><span style="color: #797979;font-size: 10px;">©2014 Charles Schwab &amp; Co., Inc. All rights reserved. Member SIPC. Charles Schwab &amp; Co., Inc. and optionsXpress, Inc. (Member SIPC) are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation. CS21127-01 REG60835-04 (07/14)</span></td>
+To learn more about our online privacy practices (e.g. "tracking"), please go to <a href="http://www.schwab.com/privacy">www.schwab.com/privacy</a>.</p><span style="color: #797979;font-size: 10px;">©2015 The Charles Schwab Corporation. All rights reserved. CC001457 REG60835FM-05 (07/15)</span></td>
   </tr>
 </tbody></table><div class="clrBoth"></div><script type="text/javascript">
 if (  $("#BVRRSummaryContainer").length > 0  || $("#BVRRContainer").length > 0 ){
-document.write("<style type=\"text/css\">.rnr-disclaimer p {margin-bottom:10px}</style>   <div class=\"rnr-disclaimer\">   <p class=\"legal3\" style=\"text-decoration: underline;\"><b>Information about Clients Speak&trade;, Ratings and Reviews by Schwab clients</b></p>   <p class=\"legal\">Ratings and reviews are submitted by clients voluntarily and are screened for acceptance in accordance with the   <a class=\"popupIcon\" href=\"javascript: void(0)\" onclick=\"window.open('http://www.schwab.com/public/schwab/investing/why_choose_schwab/publishing_guidelines.html', 'popupwindow', 'width=682, height=520'); return false;\">Publishing   Guidelines</a> prior to publication. Please see the Publishing Guidelines for details regarding which   reviews are published.</p>   <p class=\"legal\">The average rating scores are based on published reviews for the indicated account(s) and services and do not incorporate   ratings and reviews that do not satisfy the Publishing Guidelines. Ratings and reviews are added continuously and average ratings   are updated dynamically as reviews are added or removed. During the period from 1/1/2011 to 5/13/2015, 3,261 reviews were submitted, 2,591 were accepted, and 670 were not  accepted for publication in accordance with the Publishing Guidelines. Sorting   of reviews by \"Featured Reviews\" first shows reviews selected by Charles Schwab & Co., Inc. and Schwab Bank based on   subjective criteria deemed relevant at the time of selection including marketing priorities.</p>   <p class=\"legal\">Ratings and opinions expressed by clients are not meant to suggest future performance or the suitability of any account type,   product, or service for any particular client and may not be representative of the experience of other clients. Charles Schwab &   Co., Inc. and Schwab Bank cannot guarantee the accuracy of the information included in client reviews.</p>   <p class=\"legal\">Ratings and Reviews are powered by Bazaarvoice, a 3rd party vendor not affiliated with Charles Schwab & Co., Inc. or Schwab Bank.</p>   <p class=\"legal\">If you have additional questions or concerns about Ratings & Reviews or would like to verify its authenticity, please   contact a Schwab representative at either 800-435-4000, the phone number on your statement, or by email at   <a href='mailto:ratingsandreviews@schwab.com?subject=Schwab Ratings and Reviews'>ratingsandreviews@schwab.com</a>.</p>   <p class=\"legal\">Options carry a high level of risk and are not suitable for all investors.  Certain requirements must be met to   trade options through Schwab.  Please read the options disclosure document titled \"<a href=\"javascript: void(0)\"   onclick=\"window.open('http://www.theocc.com/about/publications/character-risks.jsp', 'popupwindow', 'width=682, height=520'); return false;\">Characteristics   and Risks of Standardized Options</a>.\" <span class=\"icon-schwablink\"></span></p>   <p class=\"legal\">Multiple leg options strategies will involve multiple commissions.</p>    <p class=\"legal\">With long options, investors may lose 100% of funds invested. Multiple leg options strategies will involve multiple commissions.  Spread trading must be done in a margin account.  Covered calls provide downside protection only to the extent of the premium received and limit upside potential to the strike price plus premium received. Writing uncovered options involves potentially unlimited risk.</p>   <p class=\"legal\">Supporting documentation for any claims or statistical information is available upon request.</p>   <p class=\"legal\">Please contact a tax advisor for the tax implications involved in any options strategies referenced.</p>   <p class=\"legal\">Schwab Trading Services includes access to StreetSmart&reg; trading platforms, the Schwab Trading Community, and priority access to   Schwab trading specialists. Call 888-245-6864 to request access (a Schwab brokerage account is required). There are no fees to use Schwab Trading Services.   Other account fees, optional data fees, fund expenses, and brokerage commissions may apply. Schwab reserves the right to restrict or modify access at any time.   Access to electronic services may be limited or unavailable during periods of peak demand, market volatility, systems upgrades or maintenance, or for other reasons.</p>   <p class=\"legal\">Restrictions apply: The $8.95 commission does not apply to foreign stock transactions, large block trading   transactions requiring special handling, or restricted stock transactions. All broker-assisted and automated phone trades are   subject to service charges. See the Charles Schwab Pricing Guide for details. Employee equity compensation transactions are subject   to separate commission schedules.</p>   <p class=\"legal\">(0415-3031)</p>   </div> ");}
+document.write("<style type=\"text/css\">.rnr-disclaimer p {margin-bottom:10px}</style>   <div class=\"rnr-disclaimer\">   <p class=\"legal3\" style=\"text-decoration: underline;\"><b>Information about Clients Speak&trade;, Ratings and Reviews by Schwab clients</b></p>   <p class=\"legal\">Ratings and reviews are submitted by clients voluntarily and are screened for acceptance in accordance with the   <a class=\"popupIcon\" href=\"javascript: void(0)\" onclick=\"window.open('http://www.schwab.com/public/schwab/investing/why_choose_schwab/publishing_guidelines.html', 'popupwindow', 'width=682, height=520'); return false;\">Publishing   Guidelines</a> prior to publication. Please see the Publishing Guidelines for details regarding which   reviews are published.</p>   <p class=\"legal\">The average rating scores are based on published reviews for the indicated account(s) and services and do not incorporate   ratings and reviews that do not satisfy the Publishing Guidelines. Ratings and reviews are added continuously and average ratings   are updated dynamically as reviews are added or removed. During the period from 1/1/2011 to 8/5/2015, 3,261 reviews were submitted, 2,591 were accepted, and 670 were not  accepted for publication in accordance with the Publishing Guidelines. Sorting   of reviews by \"Featured Reviews\" first shows reviews selected by Charles Schwab & Co., Inc. and Schwab Bank based on   subjective criteria deemed relevant at the time of selection including marketing priorities.</p>   <p class=\"legal\">Ratings and opinions expressed by clients are not meant to suggest future performance or the suitability of any account type,   product, or service for any particular client and may not be representative of the experience of other clients. Charles Schwab &   Co., Inc. and Schwab Bank cannot guarantee the accuracy of the information included in client reviews.</p>   <p class=\"legal\">Ratings and Reviews are powered by Bazaarvoice, a 3rd party vendor not affiliated with Charles Schwab & Co., Inc. or Schwab Bank.</p>   <p class=\"legal\">If you have additional questions or concerns about Ratings & Reviews or would like to verify its authenticity, please   contact a Schwab representative at either 800-435-4000, the phone number on your statement, or by email at   <a href='mailto:ratingsandreviews@schwab.com?subject=Schwab Ratings and Reviews'>ratingsandreviews@schwab.com</a>.</p>   <p class=\"legal\">Options carry a high level of risk and are not suitable for all investors.  Certain requirements must be met to   trade options through Schwab.  Please read the options disclosure document titled \"<a href=\"javascript: void(0)\"   onclick=\"window.open('http://www.theocc.com/about/publications/character-risks.jsp', 'popupwindow', 'width=682, height=520'); return false;\">Characteristics   and Risks of Standardized Options</a>.\" <span class=\"icon-schwablink\"></span></p>   <p class=\"legal\">Multiple leg options strategies will involve multiple commissions.</p>    <p class=\"legal\">With long options, investors may lose 100% of funds invested. Multiple leg options strategies will involve multiple commissions.  Spread trading must be done in a margin account.  Covered calls provide downside protection only to the extent of the premium received and limit upside potential to the strike price plus premium received. Writing uncovered options involves potentially unlimited risk.</p>   <p class=\"legal\">Supporting documentation for any claims or statistical information is available upon request.</p>   <p class=\"legal\">Please contact a tax advisor for the tax implications involved in any options strategies referenced.</p>   <p class=\"legal\">Schwab Trading Services includes access to StreetSmart&reg; trading platforms, the Schwab Trading Community, and priority access to   Schwab trading specialists. Call 888-245-6864 to request access (a Schwab brokerage account is required). There are no fees to use Schwab Trading Services.   Other account fees, optional data fees, fund expenses, and brokerage commissions may apply. Schwab reserves the right to restrict or modify access at any time.   Access to electronic services may be limited or unavailable during periods of peak demand, market volatility, systems upgrades or maintenance, or for other reasons.</p>   <p class=\"legal\">Restrictions apply: The $8.95 commission does not apply to foreign stock transactions, large block trading   transactions requiring special handling, or restricted stock transactions. All broker-assisted and automated phone trades are   subject to service charges. See the Charles Schwab Pricing Guide for details. Employee equity compensation transactions are subject   to separate commission schedules.</p>   <p class=\"legal\">(0415-3031)</p>   </div> ");}
 </script>
 <br>
 <div id="disclaimers" class="disclaimer"></div><script type="text/javascript">
@@ -2080,7 +1842,7 @@ This site is designed for U.S. residents. Non-U.S. residents are subject to coun
 <li>
 <a href="http://www.schwab.com/public/schwab/nn/legal_compliance/privacy" data-targetid="P-4370499">Privacy</a>    </li>
     <li><span>|</span></li>
-    <li><a href="http://www.schwab.com/public/schwab/nn/legal_compliance/privacy/online_privacy">Online Privacy</a></li>
+<li><a href="http://www.schwab.com/public/schwab/nn/legal_compliance/privacy/online_privacy">Online Privacy</a></li>
     <li><span>|</span></li>
     <li><a href="http://www.schwab.com/public/schwab/nn/additional_schwab_sites.html">Additional Schwab Sites</a></li>
     <li><span>|</span></li>
@@ -2270,7 +2032,10 @@ $(document).ready(function () {
 				}
 		</script><a aria-haspopup="true" href="javascript:void(0);" id="Modal_Overlay" onclick="loadOverlayJS(this,'modal','http://www.schwab.com/public/schwab/client_home/forms_applications/cash_features_disclosure_statement.html','', '682', '800');
 
-				" onmouseover="$(this).focus();">disclosure</a></div><script src="https://www.schwab.com/system/asset?cmsid=PS-TAG-FOOTER&amp;filename=hbx.js"></script>
+				" onmouseover="$(this).focus();">disclosure</a></div><style type="text/css">
+.navi-P-7976015 {display:none !important}
+</style>
+<script src="https://www.schwab.com/system/asset?cmsid=PS-TAG-FOOTER&amp;filename=hbx.js"></script>
 <script type="text/javascript">
 if(!String.prototype.trim) { String.prototype.trim = function () { return this.replace(/^\s+|\s+$/g,''); }; }
 function getClientCookie(c_name) {
@@ -3346,5 +3111,5 @@ function setProductionResponsive() {
     }
 }
 $(document).ready( function() { setProductionResponsive(); })
-</script>
+</script>&nbsp;
 </body></html>
