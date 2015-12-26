@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscrapercity.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627172053id_/http%3A//www.skyscrapercity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscrapercity.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226065737id_/http%3A//www.skyscrapercity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SkyscraperCity
 
