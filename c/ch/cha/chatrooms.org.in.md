@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the chatrooms.org.in privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124044810id_/http%3A//www.chatrooms.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrooms.org.in privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226220654id_/http%3A//www.chatrooms.org.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FREE Chat Rooms - online chat rooms, local chat rooms, Chat Rooms
 
-## Privacy Policy
+ChatRooms.org.in respects the privacy concerns of the users of this site. This privacy statement is created in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: 
 
-_This privacy statement discloses the privacy practices of  chatrooms.org.in We have provided this statement for your personal information and safety._
+**Information We Collect**
 
-_chatrooms.org.in_ – Information is collected from users at several different points on our website, detailed in this statement.
+We collect two types of information on this site. One is IP Address, which is collected automatically through our technology. The second is all other information that collected only when you choose to give it to us.
 
-\- We will not collect or share any information on our site in ways different from what is disclosed in this statement.
+We use your IP address to help diagnose problems with our web site and to administer our Web site. Your IP address is also used to gather broad demographic information and deliver demographic specific content when necessary. Your IP address, demographic information and all other information that you ask us to be kept privately, using options provided in this website, is never shared with anyone or disclosed to third parties.
 
-**Registration:** Registration is an optional service and users are not required to register. During registration a user is required to give a verifiable email address. This information is used to contact the user about the services on our site.
+**External Links**
 
-**The Site and Service Updates:** From time to time we may send the user. site and service announcement updates.
+This site contains links to other sites. ChatRooms.org.in is not responsible for the privacy practices or the content of such web sites.
 
-Members are not able to unsubscribe from service announcements, which contain important information about the service.
+**Public Forums**
 
-**Cookies:** A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. By setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site.
+This site provides discussions, chat rooms and other interactive services where the web site users can post content. Please remember that any information that is disclosed on these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Links:** This web site contains links to other sites. Please be aware that chatrooms.org.in is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by chatrooms.org.in.
+**Information Security**
 
-**Log Files:** We use IP addresses to analyze trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We make every effort to maintain quality of service and prevent misuse.
 
-**_Notification of Changes:_ If we decide to change our privacy policy, we will post those changes on this page.**
+**Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us through our Help Desk at: http://www.chatrooms.org.in/help/
