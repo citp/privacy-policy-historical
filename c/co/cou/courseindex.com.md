@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the courseindex.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419050311id_/http%3A//www.courseindex.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseindex.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070933id_/http%3A//www.courseindex.com/privacy-policy.php) for the most accurate reproduction.*
 
-# CourseIndex.com - Learn Something New Today!
+# Privacy Policy - Learn Something New Today!
 
 ## WHAT INFORMATION DO WE COLLECT?
 
