@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epaperflip.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408081232id_/http%3A//www.epaperflip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epaperflip.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226065431id_/http%3A//www.epaperflip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ePaperFlip
 
