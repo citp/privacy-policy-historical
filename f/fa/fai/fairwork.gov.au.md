@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614005435id_/http%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227005930id_/https%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
@@ -8,7 +8,7 @@ We aim to offer an environment online that makes sure the information you give u
 
 We follow:
 
-These laws and guidelines are reflected in our Privacy policy. Download our [Privacy policy](https://web.archive.org/about-us/policies-and-guides/internal-policies-and-plans) for more information.
+These laws and guidelines are reflected in our Privacy policy. Download our [Privacy policy](https://web.archive.org/about-us/our-policies/our-policies) for more information.
 
 When you deal with us you have the right be anonymous and the right to use a pseudonym.
 
@@ -89,7 +89,7 @@ Fair Work Ombudsman
 GPO Box 9887  
 In your capital city
 
-##  Secure website transmissions 
+## Secure website transmissions
 
 While we work to make sure the web environment is secure, there are some risks when providing information online.
 
@@ -97,7 +97,7 @@ To make sure your information is as secure as possible, we encrypt all messages 
 
 ### You might also be interested in
 
-  * Freedom of information in [Accessing information](https://web.archive.org/about-us/accessing-information/accessing-our-information)
+  * Freedom of information in [Accessing our information](https://web.archive.org/about-us/access-accountability-and-reporting/accessing-our-information/accessing-our-information)
   * [Office of the Australian Information Commissioner ](http://www.oaic.gov.au/) website
 
 
