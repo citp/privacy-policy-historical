@@ -1,50 +1,17 @@
-> *The following text is extracted and transformed from the skyhag.net privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530010521id_/http%3A//www.cclogic.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyhag.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Legal
 
-In order to provide you with interactive computer billing services, offshore company formation services and offshore banking, cclogic.com collects, uses, and shares certain information about you. This policy explains what we collect, with whom we share it, and how you can interact with cclogic.Com in order to ensure the accuracy of the data we collect, use, and share. A. The information cclogic.Com collects from you helps cclogic.Com better serve the online community by continually personalizing the offshore services cclogic.Com provides. cclogic.Com collects and maintains the following data:
+* * *
 
-Information that you provide to us: cclogic.Com receives and stores all information that you enter on our website and our billing pages and documents and information send to us for the reason of opening offshore bank accounts, offshore merchant accounts and finally offshore companies. This includes; a) credit card sign-up page: the url you are purchasing goods or services from, your e-mail address, your language preference, your credit card number, your expiration date, your first name, your last name, your address, your city, your state, your zip, your country, and your agreement to be bound by cclogic.Com's terms and conditions; b) check sign-up page: the url you are purchasing goods or services from, your bank's aba routing number, your checking account number, your check number, your e-mail address, your first name, your last name, your date of birth, your phone number, your street address, your city, your state, your zip code, the name of the person on the account, your agreement to be bound by cclogic.Com's terms and conditions; and c) telephone invoice billing: your telephone number. You are obligated to provide cclogic.Com with accurate and up-to-date information, and failure to provide cclogic.Com with such information could void any Agreement between you and cclogic.Com.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We use the information that you provide for such purposes as processing your purchase request, responding to customer service inquiries, loss prevention, improving our service, communicating with you, and allowing our clients to provide customer service and fulfill their obligations to you.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Information that we automatically receive: cclogic.Com receives and stores certain information whenever you download web pages, or send us e-mail or forms. For example, cclogic.Com employs "cookie" technology. We do this so that we can recognize you when you re-visit our URLs. Additionally, we identify the numerical IP address assigned to your computer by your Internet Service Provider.
 
-E-mail Correspondence: cclogic.Com often requests a confirmation when you receive and open an e-mail communication delivered by cclogic.Com. We archive all e-mail sent in and out of our network, and we identify the origination IP address of all mail sent into our network.
 
-We require that you refrain from "forging headers" or sending "SPAM".
-
-Information from third parties: From time to time, cclogic.Com requests and receives information from third parties and compares it to the information that you have provided. The main purpose for this is that of loss prevention.
-
-Protection of cclogic.Com and third parties: cclogic.Com will release data when we believe the release is appropriate to comply with the law, enforce our Agreement, and protect the contract rights of our Clients. cclogic.Com passes the following data to the owner/operator of the website from which you are purchasing goods and services utilizing cclogic.Com Complete: a) credit card sign-up page: the url you are purchasing goods or services from, your e-mail address, your language preference, your first name, your last name, your address, your city, your state, your zip, your country, and your agreement to be bound by cclogic.Com's terms and conditions; b) check sign-up page: the url you are purchasing goods or services from, your e-mail address, your first name, your last name, your date of birth, your phone number, your street address, your city, your state, your zip code, the name of the person on the account, your agreement to be bound by cclogic.Com's terms and conditions; and c) telephone invoice billing: your telephone number.
-
-cclogic.Com passes the following data to the owner/operator of the website from which you are purchasing goods and services utilizing Processing Plus: a) credit card sign-up page: the url you are purchasing goods or services from, your e-mail address, your language preference, your credit card number, your expiration date, your first name, your last name, your address, your city, your state, your zip, your country, and your agreement to be bound by cclogic.Com's terms and conditions; b) check sign-up page: the url you are purchasing goods or services from,your bank's aba routing number, your checking account number, your check number, your e-mail address, your first name, your last name, your date of birth, your phone number, your street address, your city, your state, your zip code, the name of the person on the account, your agreement to be bound by cclogic.Com's terms and conditions; and c) telephone invoice billing: your telephone number.
-
-If you consent (Opt-In): Other than detailed above, cclogic.Com will contact you and request your permission prior to sharing your data with third parties. Generally, cclogic.Com will offer a promotional product or service on behalf of a third party, rather than allow the third party to contact you directly. In any event, other than detailed above, cclogic.Com will contact you at the location provided by you at enrollment when we desire to share your information with a third party, or, cclogic.Com will present you with a "check-box" requesting that you opt-in to any third party mailing lists.
-
-Should you desire to "opt-out" of any such mailing lists, simply do so by sending an e-mail to: [info@cclogic.ComThis](mailto:info@cclogic.ComThis) e-mail address is being protected from spambots. You need JavaScript enabled to view it
-
-B. cclogic.Com utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. cclogic.Com encrypts the information you provide. cclogic.Com reveals on the last five digits of your credit card numbers when processing your transaction internally, and we reveal the entire number when communicating on a private dedicated line of communication with our acquiring bank. Additionally, cclogic.Com employees the following security measures:
-
-cclogic.Com conducts background and credit checks on all of its employees prior to employment.
-
-cclogic.Com employs a username password scheme in order to limit and archive access to its computer network by its employees, and third parties.
-
-cclogic.Com's facility utilizes automatic locking doors that require a special security card for entry, and different levels of access exist throughout the
-
-cclogic.Com campus. cclogic.Com video tapes key areas of its facility.
-
-C. cclogic.Com allows you to access to certain information about you for the limited purpose of viewing, updating, and in some instances deleting from our system any information deemed inaccurate.
-
-Any requests to access your information may be directed to: [info@cclogic.ComThis](mailto:info@cclogic.ComThis) e-mail address is being protected from spambots. You need JavaScript enabled to view it and Tel. +35722589361
-
-D. cclogic.Com does not request, or knowingly collect identifiable information from children under the age of 13. cclogic.Com does not knowingly use or share personal information from users under the age of 13 with third parties. cclogic.Com doe not give children the ability to post messages or otherwise distribute information about themselves. cclogic.Com does not offer children any promotions involving games, prizes, or any other activity that would induce a child to divulge personal information.
-
-Any issue respecting your children's privacy may be directed to: [info@cclogic.com](mailto:info@cclogic.com)This e-mail address is being protected from spambots. You need JavaScript enabled to view it , Tel. +35722589361
-
-CCLOGIC Ltd  
-77 Strovolou Avenue  
-Strovolos Center, Off. 204  
-2018 Strovolos  
-Nicosia,Cyprus |    
----|---
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
