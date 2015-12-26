@@ -1,48 +1,17 @@
-> *The following text is extracted and transformed from the nanobloggers.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221095324id_/http%3A//nanobloggers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanobloggers.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Legal
 
-(Visitors of nanobloggers.com – the below Privacy policy is released under the [Creative Commons](http://creativecommons.org/) licences by [Automattic](http://automattic.com/privacy/) — you can use this policy but, be nice, and include a link to their site.)
+* * *
 
-Your privacy is critically important to us. At nanobloggers we have a few fundamental principles:
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-* We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)  
-* We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.  
-* We don’t store personal information on our servers unless required for the on-going operation of one of our services.  
-* In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-It is nanobloggers.com policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Website Visitors**
 
-Like most website operators, nanobloggers.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Nanobloggers purpose in collecting non-personally identifying information is to better understand how nanobloggers’ visitors use its website. From time to time, nanobloggers may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-
-Nanobloggers also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Nanobloggers does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. ****
-
-**Gathering of Personally-Identifying Information**
-
-Certain visitors to nanobloggers’ websites choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that nanobloggers gathers depends on the nature of the interaction. Nanobloggers collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with nanobloggers. nanobloggers does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-**Aggregated Statistics**
-
-Nanobloggers may collect statistics about the behavior of visitors to its websites. Nanobloggers may display this information publicly or provide it to others. However, nanobloggers does not disclose personally-identifying information other than as described below.  
-**  
-Protection of Certain Personally-Identifying Information**
-
-Nanobloggers discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on nanobloggers’s behalf or to provide services available at nanobloggers’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using nanobloggers’s websites, you consent to the transfer of such information to them. Nanobloggers will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, nanobloggers discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when nanobloggers believes in good faith that disclosure is reasonably necessary to protect the property or rights of nanobloggers, third parties or the public at large. If you are a registered user of an nanobloggers website and have supplied your email address, nanobloggers may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with nanobloggers and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. nanobloggers takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-**Cookies**
-
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. nanobloggers uses cookies to help nanobloggers identify and track visitors, their usage of nanobloggers website, and their website access preferences. nanobloggers visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using nanobloggers’s websites, with the drawback that certain features of nanobloggers’s websites may not function properly without the aid of cookies.
-
-**Ads**
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by nanobloggers and does not cover the use of cookies by any advertisers.
-
-**Comments**
-
-Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
-
-**Privacy Policy Changes**
-
-Although most changes are likely to be minor, nanobloggers may change its Privacy Policy from time to time, and in nanobloggers’s sole discretion. nanobloggers encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a wordpress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
