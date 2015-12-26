@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bigfatpurse.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121427id_/http%3A//www.bigfatpurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfatpurse.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226043629id_/http%3A//www.bigfatpurse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-* * *
 
 This Privacy Policy governs the manner in which Big Fat Purse collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.bigfatpurse.com website (“Site”).
 
@@ -46,6 +44,14 @@ We do not sell, trade, or rent Users personal identification information to othe
 **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+#### Remarketing and Retargeting
+
+This website uses the Google AdWords Remarketing Service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to Big Fat Purse’s website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 **Changes to this privacy policy**
 
