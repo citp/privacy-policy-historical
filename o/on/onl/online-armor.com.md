@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-armor.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505075352id_/http%3A//emsisoft.com/en/software/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-armor.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226141021id_/http%3A//emsisoft.com/en/software/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,28 +10,35 @@ As a company which sells security software, we take your privacy very seriously.
 
 You can use our software trials without disclosing your name for up to 30 days and our freeware software without a time limit. If you order a full version and register your license key, the license will be associated with the email address you used to register your user account.
 
-We would like to make our position clear at this point and assure you that we will never consciously install a hole in our Anti-Malware series of products in order to allow access for a Government Trojan or similar software. If it ever comes to a legislative or court decision that forces us to do this then we will immediately notify our users of this fact. Especially the behavior analysis module of Emsisoft Anti-Malware does not distinguish between "benign" and "malignant" pests. As a user, you always have the possibility of immediately blocking a suspicious program.
+We would like to make our position clear at this point and assure you that we will never consciously install a hole in our series of products in order to allow access for a Government Trojan or similar software. If it ever comes to a legislative or court decision that forces us to do this then we will immediately notify our users of this fact. Especially the behavior analysis module of Emsisoft Anti-Malware does not distinguish between "benign" and "malignant" pests. As a user, you always have the possibility of immediately blocking a suspicious program.
 
-If you subscribe to any of our newsletters, a user account will be created for you if you don't already have one.
+**Newsletter**
 
-An Emsisoft user account contains the following information:
+If you subscribe to any of our newsletters, a user account will be created for you if you don't already have one. An Emsisoft user account contains the following information:
 
-  * The name that you registered with (nicknames are permitted)
-  * The email address that you registered with
+  * The name that you registered with (nicknames are permitted).
+  * The email address that you registered with.
   * A salted hash of your password (the password is never stored or sent in plain text).
+  * Your subscriptions to our newsletter channels.
   * Your preferred language and your country based on your IP address.
-  * Your subsciptions to our newsletter channels.
-  * Optional information on the details of your registered licenses.
-  * Statistics on your use of our software updates.
-  * Optional information about alerts for suspicious files or hosts, if you enable the Anti-Malware Network feature in the software.
-  * Optional information on malware files that you have submitted for analysis.
   * Information on how you found us (search engine, websites, magazines, etc).
-  * Optional information on whether you used a tagged setup file from our customer referral program.
   * Your last known IP address.
 
 
 
-#### Anti-Malware Network
+**Licenses**
+
+Software licenses are stored on and maintained by Emsisoft servers. During online updates, the validity of license keys is verified. Emsisoft stores the following information about licenses:
+
+  * Information on the details of your registered licenses (seats, start and end date, etc).
+  * Statistics on your use of software updates.
+  * Information about your computer environment: Operating system edition, version and unique ID.
+  * Information on whether you used a tagged setup file from our customer referral program.
+  * Optional a user account reference if you registered your license key with your user account.
+
+
+
+**Anti-Malware Network**
 
 If you choose to participate in the Anti-Malware Network community, our software might send information about detected malware, software behavior, operating system variables and blocked hosts to the Emsisoft servers. The data is processed by our servers to generate statistics and suggestions to help other Anti-Malware Network participants.
 
