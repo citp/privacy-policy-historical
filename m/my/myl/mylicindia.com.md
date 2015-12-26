@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylicindia.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513055245id_/http%3A//www.mylicindia.com/insurance-plans/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylicindia.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226200741id_/http%3A//www.mylicindia.com/insurance-plans/sitemap/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My LIC
+# Privacy Policy - My LIC India
 
 Your privacy is important to [www.mylicindia.com](http://www.mylicindia.com/ "www.mylicindia.com") (hereinafter referred to as the “website”). This privacy statement provides information about the personal information that the website collects, and the ways in which the website uses that personal information.
 
@@ -86,3 +86,5 @@ Webmaster at mylicindia.com
 
 **This privacy statement**  
 This privacy statement is based on an original template created by website-contracts.co.uk and distributed by freenetlaw.com
+
+Last Updated on 11 July 2015.
