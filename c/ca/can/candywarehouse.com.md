@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001117id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226021903id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CandyWarehouse.com Online Candy Store
 
 This privacy policy applies to www.candywarehouse.com owned and operated by CandyWarehouse.com. This privacy policy describes how CandyWarehouse.com collects and uses the personally identifiable information you provide on our web site: www.candywarehouse.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
-
-CandyWarehouse.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices has been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through this Web site, www.candywarehouse.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customercare@candywarehouse.com. If you are not satisfied with our response you can contact TRUSTe here: [Submit a Privacy Complaint with TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 [](https://privacy.truste.com/privacy-seal/CandyWarehouse-com/validation?rid=4ca0e273-2486-4af8-ade8-a66adc49cf25 "TRUSTe online privacy certification")
 
@@ -97,7 +95,7 @@ We use Local Storage Objects (LSOs) such as HTML5 to store content information a
 **Behavioral Targeting/ Re-Targeting**  
 
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.  
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  
 
 
 **Links to Other Sites**  
@@ -127,7 +125,7 @@ If you make comments on the CandyWarehouse.com blog, you should be aware that an
 **Security**  
 
 
-The security of your personally identifiable information is important to us. When you enter sensitive information (such as credit card number) on our order forms, hosted by Yahoo Store, we ensure our store provider encrypts that information using secure socket layer technology (SSL).  
+The security of your personally identifiable information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we ensure our store provider encrypts that information using secure socket layer technology (SSL).  
 
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.  
@@ -163,10 +161,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 310-343-4099 or customercare@candywarehouse.com.  
 
 
-CandyWarehouse.com
-
-215 S. Douglas Street
-
-El Segundo, CA 90245
-
+CandyWarehouse.com  
+215 S. Douglas Street  
+El Segundo, CA 90245  
 U.S.A.
