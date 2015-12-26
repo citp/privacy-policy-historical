@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igiri.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615020816id_/http%3A//igiri.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igiri.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226035644id_/http%3A//igiri.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iGiri.Org
 
@@ -62,5 +62,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://igiri.org](http://igiri.org/)  
 iGiri.Org Gujarat India  
 girdhaar@gmail.com
-
-### Get Similar Job Updates as above in Your Mail
