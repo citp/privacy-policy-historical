@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630205332id_/http%3A//www.yummly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226125526id_/http%3A//www.yummly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yummly
 
@@ -34,7 +34,7 @@ We may also use third parties to collect usage analytics for our Site and the Se
 
 **Information Shared with Others**
 
-We do not share your Personal Information we have collected from you, except as described in this Privacy Policy or when you share something through our Service (like when you use the Yum button) or you give us your consent to do so (like when we notify you that the information you provide will be shared in a particular manner and you provide us with such information), with your Social Network Sites (if you allow such sharing), or with your friends with whom you want to connect (according to the preferences you have set in your Account).
+We do not share your Personal Information we have collected from you, except as described in this Privacy Policy or when you share something through our Service (like when you use the Yum button) or you give us your consent to do so (like when we notify you that the information you provide will be shared in a particular manner and you provide us with such information), with your Social Network Sites (if you allow such sharing), or with your friends with whom you want to connect (according to the preferences you have set in your Account). Apple HealthKit data will not be used for marketing/advertising purposes or shared with third parties with or without user consent.
 
 __Aggregate Information__ We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information, Application Usage Information and Log Data with third parties (including suppliers, advertisers, research companies and other organizations) for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
 
