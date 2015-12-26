@@ -1,20 +1,118 @@
-> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630231849id_/http%3A//www.authorize.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226065909id_/http%3A//www.authorize.net/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Authorize.Net
 
-(Last Modified October 15, 2012)
+This Privacy Statement was last updated September 3, 2015.
 
-As a leading provider of payment management and risk management services to hundreds of thousands of online businesses around the world, privacy and data protection are of the utmost importance to CyberSource Corporation and its subsidiaries, including Authorize.Net LLC, CyberSource Ltd., CyberSource NI Ltd., CYBS Singapore Pte Ltd., CyberSource K.K., and other subsidiaries (collectively "CyberSource"). This Privacy Statement for CyberSource ("Privacy Statement") details the company's policies with respect to the handling of personally identifiable information ("Information") submitted by the reader of this Privacy Policy ("You") or otherwise collected by CyberSource via the company's website or in the course of providing services to CyberSource's customers. CyberSource will use and disclose Information only in accordance with the terms of this Privacy Statement.
+As a leading provider of payment management services to hundreds of thousands of online businesses around the world, privacy and data protection are of the utmost importance to CyberSource Corporation and its subsidiaries, including Authorize.Net LLC, CyberSource Limited, CyberSource NI Ltd., CYBS Singapore Pte. Ltd., CyberSource K.K., CyberSource Payment Solutions Pty Ltd and other subsidiaries (collectively "CyberSource").
 
-## A. COLLECTION OF INFORMATION
+This Privacy Statement details CyberSource’s policies with respect to the handling of personally identifiable information ("Personal Information") submitted to or otherwise collected by CyberSource via CyberSource's website(s), mobile application(s), and/or in the course of providing its payment processing, payment security and fraud management solutions and services (collectively the “Services”). CyberSource will use and disclose Personal Information in accordance with the terms of this Privacy Statement.
 
-The type of Information submitted to or collected by CyberSource varies depending upon the nature of the activity and relationship with CyberSource.
+## Personal Information we collect:
 
-  1.  _Browsing the Website_ : When You browse the company's website, CyberSource may collect information regarding the domain and host from which You access the Internet, the Internet Protocol address of the computer or Internet Service Provider You are using, and anonymous site statistical data. This information is collected for the purpose of assessing the effectiveness of the company's website and for security reasons.
-  2.  _Inquiries_ : The website contains various forms, links to company e-mail addresses, and fax numbers that You may use to solicit information about the website, CyberSource services, and the company in general. When You complete and submit a form, send us an e-mail, send us a fax, or contact us by telephone, CyberSource may store the inquiries and their contents, including any personally identifiable information You may have provided. Any personally identifiable information You submit via an inquiry is collected only with Your knowledge and active participation.
-  3.  _Use of Gateway Services_ : When You register to use CyberSource online processing services ("Gateway Services"), You will be required to provide personally identifiable information and to enter into a written agreement with CyberSource. If You ordered any products or services from businesses that use our Gateway Services ("CyberSource Customers"), You were required to submit personally identifiable information ("Order Information"). CyberSource Customers transmit Order Information to CyberSource for the purpose of processing Orders. Order Information is maintained in servers located within the U.S.A. and may also be maintained in servers located in Europe or Asia, depending on where the order originates or the geographic location of a CyberSource Customer. CyberSource may maintain Order Information for a certain period of time to comply with audits, legal requirements, or for disaster recovery purposes.
-  4.  _Applying for a Merchant Account_ : When You submit an application to obtain a merchant account through CyberSource, You will be required to provide personally identifiable information. Furthermore, CyberSource may also obtain information about You from third party sources, including, without limitation, consumer reporting agencies.
-  5.  _Notice for European Users_ : The Data Protection Act puts obligations on users of personal information and sets forth principles for its use. One principle states that information must be processed fairly and lawfully. This means that You are entitled to know how we intend to use any information You provide. You can then decide whether You want to give personal information to us. Details are publicly available at www.ico.gov.uk or from:
+Personal Information is information which can be used to identify an individual. We collect Personal Information any time the Services are used. The Personal Information collected includes information provided to us directly by individuals and that is provided to us by merchants or financial institutions. The collection of Personal Information described herein is necessary for use of the Services. This information includes but is not limited to:
+
+  * Consumer Name
+  * Contact information (such as email address, phone number, and mailing address)
+  * Order and payment information
+
+
+
+We collect other information, such as:
+
+  * IP address and information about the device used to access the Services
+  * How and which Services are used
+  * Merchant and merchant account information, including account information we may gather from third party sources
+  * Information provided to us through means such as social media or when you contact us through our website.
+
+
+
+We also collect or compile other information about you (such as enrollment numbers or demographic group information) which does not identify you. We may use or share any other information with third parties for any lawful purpose.
+
+## Use of Cookies
+
+CyberSource and its third party service providers use certain tools to collect information about users browsing our website. These tools use cookies which are small text files that are stored on a user’s computer hard drive. The cookies are used, among other things, to improve website performance, to provide customized viewing options, to compile statistical reports on website activity, for fraud reduction or for security purposes. We also use cookies to recognize customers or a previous visitor of our website, or to pre-populate website forms. Such information may be disclosed to third parties to provide any of the activities mentioned above on behalf of CyberSource.
+
+To find out more about cookies, including browser-specific instructions on how to restrict or block cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Remember, though, without cookies, users may not be able to take full advantage of all of our website features.
+
+We may also use locally stored objects (sometimes referred to as “Flash cookies”) for security and fraud detection purposes. Flash cookies are not managed through web browser settings. Please visit Adobe’s Flash Player Help website for help with managing Flash cookies.
+
+## How we use Personal Information
+
+Usage and disclosure of Personal Information varies based on a party’s relationship with CyberSource. CyberSource primarily uses this information to provide the Services and related features and to
+
+  * Facilitate the processing of payment transactions
+  * Respond to requests and inquiries
+  * Provide support services
+  * Send administrative information, such as changes to our terms, conditions, and policies
+  * Administer promotions or contests
+  * Facilitate social sharing functionality
+  * Analyze and monitor Services usage and to make improvements
+  * Help secure the Services, prevent fraud and enforce our policies
+  * Help personalize our Services
+  * Communicate about other CyberSource services or those of our affiliates or other third parties
+  * To make contact, directly or through a third party vendor, to complete a survey or questionnaire
+  * To communicate, directly or through a third party vendor, about CyberSource offerings, about general company news and industry trends, and to address responses to a survey or questionnaire
+  * Compile information for use on an aggregated and de-identified basis
+  * Conduct data analysis and research, audits, develop new products, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities
+  * Perform other activities with consent
+
+
+
+## How we share Personal Information
+
+We will only share Personal Information as described in this policy. Specifically, we may share Personal Information:
+
+  * As necessary to perform the Services and to complete payment transactions
+  * With companies and vendors that help us to operate our business by providing services such as website hosting, fraud screening, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services
+  * With third parties that have contracted with CyberSource to perform certain functions on our behalf
+  * With third parties sponsors of promotions or contests where consent has been given
+  * To comply with law or other legal obligations such as responding to subpoenas, or other requests from public and government agencies, including laws and other legal obligations outside a party’s country of residence
+  * To protect our rights, operations or property, or that of our users
+  * To investigate, prevent, or take action regarding potential or suspected illegal activities, fraud, threats to the personal safety of any person, or violations of the Service’s terms and conditions
+  * With other companies that control, are controlled by, or are under common control with CyberSource that support the provision of Transaction Services or relationship with a party. This includes its subsidiaries and parent companies.
+  * With a purchaser of all or a unit of CyberSource (or the majority of CyberSource’s or its unit’s assets), a merger, acquisition, or internal reorganization of CyberSource or a unit of CyberSource
+  * With consent
+
+
+
+Please note that any information posted to public areas such as on our social media pages may be seen by other visitors.
+
+## Choices
+
+Users can choose not to provide us Personal Information when you use our website(s) or mobile application(s). However if the information request is not identified as optional and a user chooses to not provide required Personal information, then the user may not be able to use the features of the website or mobile application.
+
+Users can opt out of receiving promotional email from CyberSource by following the unsubscribe link in those email messages. Users can opt out of receiving SMS text messages from CyberSource by replying STOP to any message.
+
+Users can learn more about CyberSource’s use of online behavioral advertising and how it can manage its choices for online behavioral advertising by clicking [here](http://info.evidon.com/pub_info/1169?v=1).
+
+Users can configure its browser to reject cookies, or to notify it when a cookie is set. However, if you reject cookies, the Services may not operate properly.
+
+## Accessing or editing Personal Information
+
+CyberSource may be contacted at the email address at the bottom of this policy to request access to or that we update, or correct the Personal Information collected by our Services. Please note, that consistent with local law, CyberSource may retain Personal Information for auditing purposes, to troubleshoot problems, assist with investigations, enforce our policies or comply with legal requirements. Please note that we are not responsible for permitting the review, or the updating or deleting Personal Information provided to a third party, including any mobile application, social media platform, or wireless service provider.
+
+## Third Parties and Linked services
+
+CyberSource is not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, including any Personal Information disclosed to other organizations through or in connection with the Services.
+
+The inclusion of a link on the CyberSource website does not imply endorsement of the linked site or service by CyberSource.
+
+## Changes to this Privacy Policy
+
+We may change this privacy policy at any time by posting an updated privacy policy.
+
+## Retention period
+
+We will retain Personal Information for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required or permitted by applicable law or regulation.
+
+## Use of the Services by minors
+
+The Services are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services.
+
+## Notice to European Users
+
+The Data Protection Act puts obligations on users of Personal Information and sets forth principles for its use. One principle states that information must be processed fairly and lawfully. This means that citizens of the European Union are entitled to know how we intend to use Personal Information. Details are publicly available at [ico.org.uk](https://ico.org.uk/) or from:
 
 Information Commissioner's Office  
 Wycliffe House  
@@ -24,40 +122,27 @@ Cheshire SK9 5AF
 Tel: 08456 30 60 60 or 01625 54 57 45  
 Fax: 01625 524510
 
-The Data Protection Act does not generally apply to data about limited companies or partnerships, but it does cover personal data relating to sole traders and partnerships. When we receive an application from a business, we may perform a search with a credit reference agency and fraud prevention agency on the individual company directors or partners. 
+The Data Protection Act does not generally apply to data about limited companies or partnerships, but it does cover personal data relating to sole traders and partnerships. When we receive an application from a business, we may perform a search with a credit reference agency and fraud prevention agency on the individual company directors or partners.
 
-Order Information provided by You to CyberSource Customers and any Information that You provide to CyberSource directly will be transferred outside of the European Union to the United States. By providing personal information to CyberSource Customers or us, You are consenting to the transfer of such information outside of the EU and to its storage and use as described herein.
+Personal Information may be processed and stored by CyberSource or its affiliates, service providers or agents located in the United States, Singapore and other countries. By providing Personal Information directly to CyberSource or to its customers, you consent to the transfer of such information outside of the European Union and to its storage and use as described herein.
 
+## How to contact CyberSource regarding your privacy concerns and questions
 
+If you have questions or comments about our privacy practices, or if you want CyberSource to correct your Information that is stored on CyberSource systems, please submit your request in writing to:
 
-
-## B. USE AND DISCLOSURE OF INFORMATION
-
-Usage and disclosure of Your Information varies based on Your relationship with CyberSource. CyberSource never sells any personally identifiable information and, except as expressly set forth below, never discloses personally identifiable information to any third parties.
-
-  1.  _Browsing the Website_ : Information collected while You're browsing our website may be used to analyze trends, administer the website, improve site performance, gather broad demographic information, and for security purposes. Such Information may be disclosed to third parties to provide any of the aforementioned activities on behalf of CyberSource.
-  2.  _Inquiries_ : If you submit an inquiry via online form, e-mail, fax, or telephone call, the information collected may be used by CyberSource to respond to Your inquiry or to contact You to inform You of CyberSource services. Information collected during the course of an inquiry will not be disclosed to any third party unless such third party has been contracted by CyberSource, with obligations of confidentiality, to contact You on our behalf.
-  3.  _Use of CyberSource Services_ : If You are a CyberSource Customer, CyberSource will use Your Information during the course of providing You with the Gateway Services. During the course of providing such services, CyberSource may disclose Your Information to third parties that have contracted with CyberSource to perform certain functions of the Gateway Services on our behalf ("Subcontractors"). CyberSource may also use Your Information to contact You about other CyberSource offerings and to inform You about general company news and industry trends, directly or through the use of third party vendors. CyberSource may also use Your Information for internal business analyses. If You are a customer of a CyberSource Customer, CyberSource will use Order Information during the course of providing processing services to such CyberSource Customer. CyberSource may also use Order Information at an aggregate level for internal business analyses and fraud prevention. During the course of providing Gateway Services to CyberSource Customers, CyberSource may disclose Order Information to banks, processors, card associations, and other financial institutions that are involved in the course of processing or screening the transaction applicable to the Order Information.
-  4.  _Applying for a Merchant Account_ : If You apply for a merchant account from or through CyberSource, CyberSource may use and disclose the Information to evaluate Your eligibility for a merchant account, including disclosure to consumer reporting agencies, relevant financial institutions, and other entities involved in providing the merchant account services. CyberSource may also use and disclose Your Information during the course of providing or procuring on Your behalf the merchant account services. CyberSource may also use Your Information to contact You, directly or through a third party vendor, about other CyberSource offerings and to inform You about general company news and industry trends. CyberSource may also use Your Information for internal business analyses.
-  5.  _Surveys and Questionnaires_ : If You submitted an inquiry to CyberSource or if You are a CyberSource Customer, periodically, CyberSource may use Your Information to contact You, directly or through a third party vendor, to complete a survey or questionnaire. Responses to any such survey or questionnaire may be used for internal business analyses and may be disclosed in aggregate form without disclosing Your personally identifiable information.
-  6.  _Use of Cookies_ : Forms on our website may use cookies. Cookies are small files of data that reside on Your computer and allow CyberSource to recognize You as a CyberSource Customer or a previous visitor of our website. CyberSource may use cookies to populate frequently used forms or to provide You with other customized viewing options for Your convenience. CyberSource uses cookies solely to maintain personalized services throughout the website.
-  7.  _Confidentiality Obligations_ : All contracts entered into between CyberSource and CyberSource Customers, CyberSource and Subcontractors, and CyberSource and other third party service providers contain express provisions governing the confidential treatment of any and all personally identifiable information.
-  8.  _Investigations and Proceedings_ : CyberSource may use Information to conduct internal investigations. CyberSource may disclose Information to cooperate with an investigation by law enforcement agencies or other governmental authorities and may also disclose Information in response to a subpoena, warrant, court order, or other comparable legal processes.
-
-
-
-## C. INFORMATION SECURITY
-
-CyberSource is committed to privacy and security. CyberSource is compliant with the Payment Card Industry Data Security Standard ("PCI DSS") as a Level 1 service provider. CyberSource has been compliant with PCI DSS since its inception in 2002. PCI DSS is the bankcard industry's most stringent security standard. Examples of CyberSource's security measures include: physical, electronic, and procedural safeguards; sophisticated security monitoring tools; documented security policies; use of strong encryption for transmissions of Order Information to and from CyberSource Customers; restricting access to personally identifiable information; and, periodic security audits by third party security experts.
-
-## D. CORRECTION OF INFORMATION
-
-If You want CyberSource to correct Your Information that is stored on CyberSource systems, please submit Your request in writing to:
-
-Authorize.Net  
+CyberSource Corporation  
 P.O. Box 8999  
-San Francisco, CA 94128-8999  
-Attn: Legal Department  
-Mailstop: M1-12SE
+San Francisco, CA 94128  
+ATTN: Data Use and Privacy Office  
+Fax: (650) 286-6547
 
-Subject to our ability to verify Your request, CyberSource will correct the Information within thirty (30) days of receipt of Your request.
+OR
+
+CyberSource Limited  
+P.O. Box 3073  
+Reading RG1 9YB  
+United Kingdom  
+ATTN: Compliance Officer  
+Fax: +44 (0)118 990 7301
+
+Subject to our ability to verify your request, CyberSource will correct the information within thirty (30) days of receipt of your request.
