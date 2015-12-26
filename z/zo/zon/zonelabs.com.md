@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zonelabs.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200745id_/http%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonelabs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061659id_/http%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
 
 # ZoneAlarm Privacy Policy - Firewall & Antivirus Software
 
@@ -12,7 +12,7 @@ General Information | ZoneAlarm Capsule | What Information We Gather/Track | If 
 
 ZoneAlarm may periodically update this Privacy Policy. If so, ZoneAlarm will post the updated Privacy Policy on this Site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. ZoneAlarm encourages you to review this Privacy Policy from time to time for any changes.
 
-ZoneAlarm complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. ZoneAlarm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ZoneAlarm’s certification, please visit<http://www.export.gov/safeharbor/>
+ZoneAlarm complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ZoneAlarm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ZoneAlarm's certification, please visit <http://www.export.gov/safeharbor/>
 
 By using this Site or any products or services provided through the Site, or by downloading the ZoneAlarm Capsule application, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY ZONEALARM AT THIS SITE.
 
