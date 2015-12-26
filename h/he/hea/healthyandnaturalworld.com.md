@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the healthyandnaturalworld.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624030625id_/http%3A//www.healthyandnaturalworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyandnaturalworld.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070134id_/http%3A//www.healthyandnaturalworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Healthy and Natural World
-
-## Privacy Policy
+# Privacy Policy
 
 This privacy policy sets out how healthyandnaturalworld.com uses and protects any information that you provide when you use this website.
 
