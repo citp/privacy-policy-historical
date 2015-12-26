@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094219id_/http%3A//www.bakersroyale.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226210250id_/http%3A//www.bakersroyale.com/privacy-policy) for the most accurate reproduction.*
 
-# Bakers Royale » Privacy Policy
+# Privacy Policy
 
 The Privacy Policy covers all of Bakers Royale (“BR Site”) and any associated content, including, but not limited to, email and RSS feeds. Your use of Bakers Royale indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect.
 
@@ -17,6 +17,7 @@ The Privacy Policy covers all of Bakers Royale (“BR Site”) and any associate
 
   1. **a. First Party Ad Serving** – The ads appearing on this website are delivered to you by various web advertising vendors. Bakers Royale uses only first party data about your visits to these sites to serve ads to you. First party data only includes information collected during your current search or visit to our websites. First party data that we collect is not shared with any other third parties and is only used for proprietary ad delivery, ad reporting, and contextual advertising. As such, Bakers Royale is not a participant in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
   2. **b. Third Party Advertising and Cookies** – Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. Bakers Royale has no access to or control over these cookies once we have received the advertisements from third parties. These advertisers may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
+  3. **c. Cookie Opt Out** – Bakers Royale primary ad server is Appnexus and you can opt out of cookies from them by visiting: <http://appnexus.com/platform-policy#choices> and Opting Out. You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page: <http://www.networkadvertising.org/choices/> Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
 
 
