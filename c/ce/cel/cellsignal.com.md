@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsignal.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010745id_/http%3A//www.cellsignal.com/common/content/content.jsp%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsignal.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226103912id_/http%3A//www.cellsignal.com/common/content/content.jsp%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CST Cell Signaling Technology
 
