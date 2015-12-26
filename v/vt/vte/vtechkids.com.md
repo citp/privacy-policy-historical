@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002022id_/http%3A//www.vtechkids.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226225141id_/http%3A//www.vtechkids.com/privacy_policy) for the most accurate reproduction.*
 
 # VTech Privacy Policy | VTech Terms and Conditions
 
@@ -6,7 +6,7 @@
 
 **_For specific information practices with respect to children, please see Section 7 below orclick here _****_._**
 
-VTech Electronics North America LLC ("VTech") appreciates your interest in our company and your visit to our website, web-connected software applications or other online service (collectively, the "Web Services"). The Web Services are intended for visitors and users located in the United States. If you do not live in the U.S., please visit www.vtech.com to find the appropriate website for your use. 
+VTech Electronics North America, L.L.C. ("VTech") appreciates your interest in our company and your visit to our website, web-connected software applications or other online service (collectively, the "Web Services"). The Web Services are intended for visitors and users located in the United States. If you do not live in the U.S., please visit www.vtech.com to find the appropriate website for your use. 
 
 This Privacy Policy (this "Policy") reflects VTech's commitment to protect your privacy and personal information. In this Policy, VTech may be referred to as "VTech", "we", "us" or "our." Although VTech sells and promotes children's products, the Web Services are intended for adult use, and VTech's information collection practices are targeted toward adults. Therefore, unless otherwise specified, all references to "you" or "your" refer to adult users. 
 
@@ -93,7 +93,7 @@ VTech's Use of Your Information.
 
 **3.3**
 
- **Communications with You.** From time to time, VTech may use your PII to send email messages to you regarding your account(s), to respond to any emails or other communications you send to us, and/or to advise you of any problems with the Web Services. In addition, if you registered for a Web Services account and you have not opted-out of receiving promotional emails, VTech may send you messages with information about services and events that we believe you may be interested in. You may opt-out of receiving future newsletters and marketing communications from us by contacting us directly at [vtechkids@vtechkids.com](mailto:vtechkids@vtechkids.com) or by following the instructions at the bottom of the email received. The content of our emails to you may be tailored to your specific interests based on your Registration Data or website visitor data.
+ **Communications with You.** From time to time, VTech may use your PII to send email messages to you regarding your account(s), to respond to any emails or other communications you send to us, and/or to advise you of any problems with the Web Services. In addition, if you registered for a Web Services account and you have not opted-out of receiving promotional emails, VTech may send you messages with information about services and events that we believe you may be interested in. You may opt-out of receiving future newsletters and marketing communications from us by contacting us directly through our web site at www.vtechkids.com and selecting the Support Link. Please fill out the web portal "Contact Us" form or follow the instructions at the bottom of the email received. The content of our emails to you may be tailored to your specific interests based on your Registration Data or website visitor data.
 
 **4.
 
@@ -113,13 +113,19 @@ _(a)_ In responding to your inquiries or providing you with the products or serv
 
 _(b)_ VTech may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is not linked to any PII or Registration Data. 
 
-**4.2**
+**4.2
 
- **VTech Rewards Program.** The VTech Rewards Program is a partnership program between VTech and certain of its affiliates. To administrate this program, VTech and its participating affiliates share among each other the PII and Registration Data of users who register for the Rewards Program. This information may also be shared with other third party business partners that join the Rewards Program. If you are a Rewards Program member and you wish for your information not to be shared with any other companies, you can so indicate by sending an opt-out request to us as described in Section 9 below. However, because administration of the program requires information sharing, opting-out would result in the termination of your Rewards Program account and your further participation in the Rewards Program.
+VTech Affiliates
+
+**
+
+_(a)_ Please be aware of the fact that, in order to process your order, VTech may share your information with and transfer your information to its affiliates located in the EU, Hong Kong and billing companies located in the EU, the United States, Hong Kong. All companies in question will handle your information with care and in the same manner as VTech does, will not share your information with other parties and the parties referred to above have privacy policies as strict as our own privacy policy. 
+
+_(b)_ VTech Rewards Program. The VTech Rewards Program is a partnership program between VTech and certain of its affiliates. To administrate this program, VTech and its participating affiliates share among each other the PII and Registration Data of users who register for the Rewards Program. This information may also be shared with other third party business partners that join the Rewards Program. If you are a Rewards Program member and you wish for your information not to be shared with any other companies, you can so indicate by sending an opt-out request to us as described in Section 9 below. However, because administration of the program requires information sharing, opting-out would result in the termination of your Rewards Program account and your further participation in the Rewards Program. 
 
 **4.3**
 
- **Testimonials and Product Reviews.** Certain of the Web Services allow users to publicly post reviews and testimonials about VTech products and services. Although we request the user to submit his or her email address for verification purposes, we do not post this information, and we do not require the user to publicly disclose any PII to post a review or testimonial. To further protect users' PII from public disclosure, we ask them to use a screen name or nickname instead of their true name and generally provide their location in terms of city and state. Users have the option to post from a selection of standardized descriptions or post customized statements. Any information posted or shared using these features is done so at the user's own risk. If you choose to submit a review or testimonial, we encourage you not to reveal any personal information about yourself or your children that you do not want others to see. 
+ **Testimonials and Product Reviews.** Certain of the Web Services allow users to publicly post reviews and testimonials about VTech products and services. Although we request the user to submit his or her email address for verification purposes, we do not post this information, and we do not require the user to publicly disclose any PII to post a review or testimonial. To further protect users' PII from public disclosure, we ask them to use a screen name or nickname instead of their true name and generally provide their location in terms of city and state. Users have the option to post from a selection of standardized descriptions or post customized statements. Any information posted or shared using these features is done so at the user's own risk. If you choose to submit a review or testimonial, we encourage you not to reveal any personal information about yourself or your children that you do not want others to see.
 
 **4.4**
 
@@ -149,7 +155,7 @@ Protection of Your Information.
 
 **5.1**
 
- **Transmission and Storage of Your Information.** The security of your personal information is important to VTech, and VTech is committed to handling your information carefully. In most cases, if you submit your PII to VTech directly through the Web Services it will be transmitted encrypted to protect your privacy using HTTPS encryption technology. Any Registration Data submitted in conjunction with encrypted PII will also be transmitted encrypted. Further, VTech stores your PII and Registration Data in a database that is not accessible over the Internet.
+ **Transmission and Storage of Your Information.** The security of your personal information is important to VTech, and VTech is committed to handling your information carefully. In most cases, if you submit your PII to VTech directly through the Web Services it will be transmitted encrypted to protect your privacy using HTTPS encryption technology. Any Registration Data submitted in conjunction with encrypted PII will also be transmitted encrypted. Further, VTech stores your PII and Registration Data in a database that is not accessible over the Internet. The information that VTech collects from you will be transferred to, and stored at, a server in the United States.
 
 **5.2**
 
@@ -193,7 +199,7 @@ Notices.
 
 **
 
-If you wish to contact VTech, please (a) email your questions and comments to [vtechkids@vtechkids.com](mailto:vtechkids@vtechkids.com); or (b) telephone VTech's Customer Services Department at 800-521-2010 on Monday through Friday, 8:00 AM to 4:30 PM Central Time; or (c) mail us a letter addressed to VTech Customer Services Department, 1156 W Shure Dr., Arlington Heights, IL 60004, USA. 
+If you wish to contact Vtech, please (a) email us by using the "Contact Us" web page located in the Support Link on our website; or (b) telephone VTech's Customer Services Department at 800-521-2010n on Monday through Friday. 8:00 AM to 4:30 PM Central Time. 
 
 **9.
 
@@ -209,7 +215,7 @@ California Residents - Your California Privacy Rights.
 
 **
 
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purpose. To make such a request, please send an email to [ca-vtechkids@vtechkids.com](mailto:ca-vtechkids@vtechkids.com) or mail us your request addressed to VTech Customer Services Department, Attn: CA Privacy Coordinator, 1156 W Shure Dr., Arlington Heights, IL 60004, USA. 
+California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purpose. To make such a request please email us by using the "Contact Us" web page located in the Support Link on our website; or (b) telephone VTech's Customer Services Department at 800-521-2010n on Monday through Friday. 8:00 AM to 4:30 PM Central Time. 
 
 **11.**
 
@@ -224,6 +230,13 @@ Disputes; Choice of Law and Forum.
 **
 
 If you choose to visit the Web Services, your visit and any dispute over privacy are subject to this Policy and our [Terms of Use](http://www.vtechkids.com/terms_of_use/). The Web Services is controlled and operated by VTech from its offices within the State of Illinois, USA. This Policy shall be governed and construed in accordance with the laws of the State of Illinois, excluding its conflicts of law rules. Any dispute arising out of or relating to this Policy or information VTech receives through the Web Services will be subject to the exclusive jurisdiction of the courts located within Cook County in the State of Illinois, and you hereby submit to the personal jurisdiction of such courts. 
+
+If you have any inquiries or complaints regarding this privacy policy should first contact VTech at:  
+VTech Electronics North America, L.L.C.  
+1156 W Shure Drive, Suite 200,   
+Arlington Heights, IL 60004  
+ATTN: Privacy Matters  
+Or via email at [vtechkids@vtechkids.com ](mailto:vtechkids@vtechkids.com)
 
 **13.
 
@@ -249,4 +262,4 @@ Entire Agreement.
 
 This Policy constitutes your entire understanding related to information about you received in connection with your use of the Web Services, and it supersedes any prior agreements or understandings about that topic not incorporated in this Policy. If more than one version of this Policy applies to any dispute related to that information or the Web Services, the latest version of this Policy will control. 
 
-**LAST UPDATED 10/22/2012.**
+**LAST UPDATED 12/1/15.**
