@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the beltonschools.org privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229063521id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beltonschools.org privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226073742id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Privacy policy / Privacy policy</title>
     <!--
     <PageMap>
@@ -15,53 +15,509 @@
     
     <!-- Begin swuc.GlobalJS -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580420700000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.schoolwires.com/Static/V2_08_01/";
+ staticURL = "http://www.schoolwires.com/Static/V2_12_01/";
  SessionTimeout = "0";
 </script>
 <!-- End swuc.GlobalJS -->
-    
-    
+
+
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_08_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_08_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_08_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_08_01/App_Themes/SW/jQueryUI.css">
-    
-    
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Light.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Italic.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Regular.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-SemiBold.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/SchoolwiresMobile.css">
+
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
 
     
 
-   <!--  -->
-    
-<script type="text/javascript">
+    <!--  -->
+
+    <script type="text/javascript">
     $(document).ready(function() {
-        SetCookie('SWScreenWidth', screen.width);
-        SetCookie('SWClientWidth', document.body.clientWidth);
+            SetCookie('SWScreenWidth', screen.width);
+            SetCookie('SWClientWidth', document.body.clientWidth);
 
-        //If small browser window and responsive template and first load, reload to get the off-canvas menu
-        var isResponsiveTemplatePreInit = 'False';
-        var isResponsive = 'False';
+            //If small browser window and responsive template and first load, reload to get the off-canvas menu
+            var isResponsiveTemplatePreInit = 'False';
+            var isResponsive = 'False';
 
-        if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
-            window.location.reload(true);
-        } 
+            if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
+                window.location.reload(true);
+            }
 
-        $("div.ui-article:last").addClass("last-article");
-        $("div.region .app:last").addClass("last-app");
+            $("div.ui-article:last").addClass("last-article");
+            $("div.region .app:last").addClass("last-app");
+
+            // get on screen alerts
+            var isAnyActiveOSA = 'False';
+            var onscreenAlertCookie = GetCookie('Alerts');
+
+            if (onscreenAlertCookie == '' || onscreenAlertCookie == undefined) {
+                onscreenAlertCookie = "";
+            }
+            if (isAnyActiveOSA == 'True') {
+            GetContent(homeURL + "/cms/Tools/OnScreenAlerts/UserControls/OnScreenAlertDialogListWrapper.aspx?OnScreenAlertCookie=" + onscreenAlertCookie + "&SiteID=4", "onscreenalert-holder", 2, "OnScreenAlertCheckListItem();");
+            }
+        });
+
+    // ADA SKIP NAV
+    $(document).ready(function() {
+        $(document).on('focus', '#skipLink', function() {
+            $("div.sw-skipnav-outerbar").animate({
+                marginTop: "0px"
+            }, 500);
+        });
+
+        $(document).on('blur', '#skipLink', function() {
+            $("div.sw-skipnav-outerbar").animate({
+                marginTop: "-30px"
+            }, 500);
+        });
+    });
+
+    // ADA MYSTART
+    $(document).ready(function () {
+        var top_level_nav = $('.sw-mystart-nav');
+
+        // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
+        // school dropdown
+        $(top_level_nav).find('ul').find('a').attr('tabIndex', -1);
+
+        // my account dropdown
+        $(top_level_nav).next('ul').find('a').attr('tabIndex', -1);
+
+        $(top_level_nav).focus(function() {
+            // hide open menus
+            hideMyStartBarMenu();
+
+            // show school dropdown
+            if ($(this).find('ul').length > 0) {
+                $(this).find('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
+            }
+
+            // show my account dropdown
+            if ($(this).next('ul').length > 0) {
+                $(this).next('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
+                $('#sw-mystart-account').addClass("clicked-state");
+            }
+        });
+
+        // Bind arrow keys for navigation
+        $(top_level_nav).keydown(function(e) {
+            if (e.keyCode == 37) { //key left
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).prev('.sw-mystart-nav').length == 0) {
+                    $(this).parents('div').find('.sw-mystart-nav').last().focus();
+                } else {
+                    $(this).prev('.sw-mystart-nav').focus();
+                }
+            } else if(e.keyCode == 38) { //key up
+                e.preventDefault();
+
+                // show school dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('div.sw-dropdown').css('display', 'block').find('ul').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+
+                // show my account dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+            } else if(e.keyCode == 39) { //key right
+                e.preventDefault();
+
+                // This is the last item
+                if ($(this).next('.sw-mystart-nav').length == 0) {
+                    $(this).parents('div').find('.sw-mystart-nav').first().focus();
+                } else {
+                    $(this).next('.sw-mystart-nav').focus();
+                }
+            } else if(e.keyCode == 40) { //key down
+                e.preventDefault();
+
+                // show school dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('div.sw-dropdown').css('display', 'block').find('ul').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+                }
+
+                // show my account dropdown
+                if ($(this).next('ul').length > 0) {
+                    $(this).next('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+                }
+            } else if(e.keyCode == 13 || e.keyCode == 32) { //enter key
+                // If submenu is hidden, open it
+                e.preventDefault();
+
+                $(this).parent('li').find('ul[aria-hidden=true]').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+            } else if (e.keyCode == 27) { //escape key
+                e.preventDefault();
+                hideMyStartBarMenu();
+            } else {
+                $(this).parent('.sw-mystart-nav').find('ul[aria-hidden=false] a').each(function() {
+                    if ($(this).text().substring(0,1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        return false;
+                    }
+                });
+            }
+        });
+
+        // school dropdown
+        var startbarlinks = $(top_level_nav).find('ul').find('a');
+        bindMyStartBarLinks(startbarlinks);
+
+        // my account dropdown
+        var myaccountlinks = $(top_level_nav).next('ul').find('a');
+        bindMyStartBarLinks(myaccountlinks);
+
+        function bindMyStartBarLinks(links) {
+            $(links).keydown(function(e) {
+                e.stopPropagation();
+
+                if (e.keyCode == 38) { //key up
+                    e.preventDefault();
+
+                    // This is the first item
+                    if ($(this).parent('li').prev('li').length == 0) {
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
+                            $(this).parents('ul').parents('.sw-mystart-nav').focus();
+                        } else {
+                            $(this).parents('ul').prev('.sw-mystart-nav').focus();
+                        }
+                    } else {
+                        $(this).parent('li').prev('li').find('a').first().focus();
+                    }
+                } else if (e.keyCode == 40) { //key down
+                    e.preventDefault();
+
+                    if ($(this).parent('li').next('li').length == 0) {
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
+                            $(this).parents('ul').parents('.sw-mystart-nav').focus();
+                        } else {
+                            $(this).parents('ul').prev('.sw-mystart-nav').focus();
+                        }
+                    } else {
+                        $(this).parent('li').next('li').find('a').first().attr('tabIndex', 0);
+                        $(this).parent('li').next('li').find('a').first().focus();
+                    }
+                } else if (e.keyCode == 27 || e.keyCode == 37) { // escape key or key left
+                    e.preventDefault();
+                    hideMyStartBarMenu();
+                } else if (e.keyCode == 32) { //enter key
+                    e.preventDefault();
+                    window.location = $(this).attr('href');
+                } else {
+                    var found = false;
+
+                    $(this).parent('div').nextAll('li').find('a').each(function() {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            $(this).focus();
+                            found = true;
+                            return false;
+                        }
+                    });
+
+                    if (!found) {
+                        $(this).parent('div').prevAll('li').find('a').each(function() {
+                            if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                                $(this).focus();
+                                return false;
+                            }
+                        });
+                    }
+                }
+            });
+        }
+
+        // Hide menu if click or focus occurs outside of navigation
+        $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function(e) { 
+            if (e.keyCode == 9) {
+                // If the user tabs out of the navigation hide all menus
+                hideMyStartBarMenu();
+            }
+        });
+
+        /*$(document).click(function() { 
+            hideMyStartBarMenu();
+        });*/
+
+        // try to capture as many custom MyStart bars as possible
+        $('.sw-mystart-button').find('a').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#sw-mystart-inner').click(function(e) {
+            e.stopPropagation();
+        });
+
+        $('ul.sw-dropdown-list').blur(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-mypasskey').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-sitemanager').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-myview').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-signin').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-register').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        // button click events
+        $('div.sw-mystart-button.home a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.pw a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.manage a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('#sw-mystart-account').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).addClass('clicked-state');
+                $('#sw-myaccount-list').show();
+            }
+        });
+
+        $('#sw-mystart-mypasskey a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.signin a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.register a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+    });
+
+    function hideMyStartBarMenu() {
+        $('.sw-dropdown').attr('aria-hidden', 'true').css('display', 'none').find('a').attr('tabIndex', -1);
+        $('#sw-mystart-account').removeClass("clicked-state");
+    }
+
+    // ADA CHANNEL NAV
+    $(document).ready(function() {
+        var settings = {
+            menuHoverClass: 'hover'
+        };
+
+        // Add ARIA role to menubar and menu items
+        $('[id="channel-navigation"]').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+
+        var top_level_links = $('[id="channel-navigation"]').find('> li > a');
+
+        // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
+        $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
+
+        // Adding aria-haspopup for appropriate items
+        $(top_level_links).each(function() {
+            if ($(this).next('ul').length > 0)
+                $(this).parent('li').attr('aria-haspopup', 'true');
+        });
+
+        $(top_level_links).focus(function() {
+            //hide open menus
+            hideChannelMenu();
+
+            if ($(this).parent('li').find('ul').length > 0) {
+                $(this).parent('li').addClass(settings.menuHoverClass).find('ul').css('display', 'block');
+            }
+        });
+
+        // Bind arrow keys for navigation
+        $(top_level_links).keydown(function(e) {
+            if (e.keyCode == 37) { //key left
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).parent('li').prev('li').length == 0) {
+                    $(this).parents('ul').find('> li').last().find('a').first().focus();
+                } else {
+                    $(this).parent('li').prev('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 38) { //key up
+                e.preventDefault();
+
+                if ($(this).parent('li').find('ul').length > 0) {
+                    $(this).parent('li').addClass(settings.menuHoverClass).find('ul').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+            } else if (e.keyCode == 39) { //key right
+                e.preventDefault();
+
+                // This is the last item
+                if ($(this).parent('li').next('li').length == 0) {
+                    $(this).parents('ul').find('> li').first().find('a').first().focus();
+                } else {
+                    $(this).parent('li').next('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 40) { //key down
+                e.preventDefault();
+
+                if ($(this).parent('li').find('ul').length > 0) {
+                    $(this).parent('li')
+                         .addClass(settings.menuHoverClass)
+                         .find('ul').css('display', 'block')
+                         .attr('aria-hidden', 'false')
+                         .find('a').attr('tabIndex', 0)
+                         .first().focus();
+                }
+            } else if (e.keyCode == 13 || e.keyCode == 32) { //enter key
+                // If submenu is hidden, open it
+                e.preventDefault();
+
+                $(this).parent('li').find('ul[aria-hidden=true]').attr('aria-hidden', 'false').addClass(settings.menuHoverClass).find('a').attr('tabIndex', 0).first().focus();
+            } else if (e.keyCode == 27) { //escape key
+                e.preventDefault();
+                hideChannelMenu();
+            } else {
+                $(this).parent('li').find('ul[aria-hidden=false] a').each(function() {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        return false;
+                    }
+                });
+            }
+        });
+
+        var links = $(top_level_links).parent('li').find('ul').find('a');
+
+        $(links).keydown(function(e) {
+            if (e.keyCode == 38) {
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).parent('li').prev('li').length == 0) {
+                    $(this).parents('ul').parents('li').find('a').first().focus();
+                } else {
+                    $(this).parent('li').prev('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 40) {
+                e.preventDefault();
+
+                if ($(this).parent('li').next('li').length == 0) {
+                    $(this).parents('ul').parents('li').find('a').first().focus();
+                } else {
+                    $(this).parent('li').next('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 27 || e.keyCode == 37) {
+                e.preventDefault();
+
+                $(this).parents('ul').first().prev('a').focus().parents('ul').first().find('.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('a').attr('tabIndex', -1);
+            } else if (e.keyCode == 32) {
+                e.preventDefault();
+                window.location = $(this).attr('href');
+            } else {
+                var found = false;
+
+                $(this).parent('li').nextAll('li').find('a').each(function() {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        found = true;
+                        return false;
+                    }
+                });
+
+                if (!found) {
+                    $(this).parent('li').prevAll('li').find('a').each(function() {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            $(this).focus();
+                            return false;
+                        }
+                    });
+                }
+            }
+        });
+
+        function hideChannelMenu() {
+            $('li.sw-channel-item.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('ul').css('display', 'none').find('a').attr('tabIndex', -1);
+        }
+
+        // Hide menu if click or focus occurs outside of navigation
+        $('[id="channel-navigation"]').find('a').last().keydown(function (e) {
+            if (e.keyCode == 9) {
+                // If the user tabs out of the navigation hide all menus
+                hideChannelMenu();
+            }
+        });
+
+        $('[id="channel-navigation"]').find('a').first().keydown(function (e) {
+            if (e.keyCode == 9) {
+                // hide open MyStart Bar menus
+                hideMyStartBarMenu();
+            }
+        });
+
+        /*$(document).click(function() {
+            hideChannelMenu();
+        });*/
+
+        $('[id="channel-navigation"]').click(function (e) {
+            e.stopPropagation();
+        });
     });
     </script>
-    
+
     <!-- Page -->
     
-    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 /* GroupBegin Custom Fonts */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 @font-face {
 	font-family: 'schoolio';
@@ -167,29 +623,34 @@ h1 {
 	font-family: 'News Gothic W01', sans-serif;
 	font-size: 2.4rem;
 	line-height: 2.7rem;
+	text-transform: none;
 }
 h1 span {
 	font-family: 'NewsGothicNo.2W01-Light 710401', sans-serif;
 	font-size: 2.6rem;
 	line-height: 2.7rem;
+	text-transform: none;
 }
 h2 {
 	font-family: 'NewsGothicNo.2W01-Light 710401', sans-serif;
 	font-size: 2rem;
 	line-height: 2.2rem;
 	margin-bottom: 0.4rem;
+	text-transform: none;
 }
 h3 {
 	font-family: 'NewsGothicMTW01-Condens', sans-serif;
 	font-size: 1.3rem;
 	line-height: 1.5rem;
 	margin: 10px 0px 5px;
+	text-transform: none;
 }
 h4 {
 	font-family: 'NewsGothicMTW01-Condens', sans-serif;
 	font-size: 1.1rem;
 	line-height: 1.4rem;
 	margin: 10px 0px 5px;
+	text-transform: none;
 }
 h5 {
 	font-family: 'NewsGothicBTW01-Condens', sans-serif;
@@ -217,9 +678,10 @@ p {
 	font-size: 1rem;
 	line-height: 1.3rem;
 	margin: 0.5rem 0;
+	text-transform: none;
 }
 p span {
-	font-family:'NewsGothicNo.2W01-Mediu 710407';, sans-serif;
+	font-family:'NewsGothicNo.2W01-Mediu 710407', sans-serif;
 }
 ol, ul {
 	padding: 0px 0px 0px 20px;
@@ -231,11 +693,13 @@ ol li, ul li {
 	line-height: 1.3rem;
 	margin-bottom: 0.4rem;
 	/*margin-left: -1.1rem;*/
+	text-transform: none;
 }
 li span {
 	font-family:'NewsGothicNo.2W01-Mediu 710407';, sans-serif;
 	font-size: 1rem;
 	line-height: 1.3rem;
+	text-transform: none;
 }
 li:first-child {
 	margin-top: -0.4rem;
@@ -2429,7 +2893,8 @@ a.call-to-action {
                 
                 
                 
-                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                
+                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 /* GroupBegin Global */
 html {
 	font-size: 90%;
@@ -2666,7 +3131,8 @@ html {
                 
                 
                 
-                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                
+                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 /* GroupBegin Global */
 html {
 	font-size: 85%;
@@ -2884,7 +3350,8 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
                 
                 
                 
-                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                
+                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 /* GroupBegin Global */
 .show480 {
 	display: block;
@@ -3149,7 +3616,8 @@ span.ui-toggle {
                  
                  
                  
-                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                 
+                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 /* GroupBegin Global */
 .show320 {
 	display: block;
@@ -3255,6 +3723,7 @@ h1 span {
 	font-size: 1.9rem;
 	line-height: 2.0rem;
 }             
+                
                 
                 
                 
@@ -3854,70 +4323,70 @@ ga('send', 'pageview');
     </script>
 <!-- End of Async HubSpot Analytics Code -->
 <script src="//fast.wistia.com/static/integrations-hubspot-v1.js" async=""></script>
-    
+
     <!-- App Preview -->
     
-	
-	
-	<style type="text/css">
-		/* HOMEPAGE EDIT THUMBNAIL STYLES */
-		
-		div.region {
+
+
+    <style type="text/css">
+        /* HOMEPAGE EDIT THUMBNAIL STYLES */
+
+        div.region {
 		    
-		}
-		
-		div.region span.homepage-thumb-region-number {
-		    font: bold 100px verdana;
-		    color: #fff;  
-		}
-		
-		div.homepage-thumb-region {
-		    background: #264867; /*dark blue*/
-		    border: 5px solid #fff;
-		    text-align: center;
-		    padding: 40px 0 40px 0;
-		    display: block;
-		}
-		div.homepage-thumb-region.region-1 {
-		    background: #264867; /*dark blue*/
-		}
-		div.homepage-thumb-region.region-2 {
-		    background: #5C1700; /*dark red*/
-		}
-		div.homepage-thumb-region.region-3 {
-		    background: #335905; /*dark green*/
-		}
-		div.homepage-thumb-region.region-4 {
-		    background: #B45014; /*dark orange*/
-		}
-		div.homepage-thumb-region.region-5 {
-		    background: #51445F; /*dark purple*/
-		}
-		div.homepage-thumb-region.region-6 {
-		    background: #3B70A0; /*lighter blue*/
-		}
-		div.homepage-thumb-region.region-7 {
-		    background: #862200; /*lighter red*/
-		}
-		div.homepage-thumb-region.region-8 {
-		    background: #417206; /*lighter green*/
-		}
-		div.homepage-thumb-region.region-9 {
-		    background: #D36929; /*lighter orange*/
-		}
-		div.homepage-thumb-region.region-10 {
-		    background: #6E5C80; /*lighter purple*/
-		}
-		
-		/* END HOMEPAGE EDIT THUMBNAIL STYLES */
-	</style>
-	
-	<style type="text/css" media="print">
-       .noprint {
-           display: none !important;
-       }
+        }
+
+            div.region span.homepage-thumb-region-number {
+                font: bold 100px verdana;
+                color: #fff;
+            }
+
+        div.homepage-thumb-region {
+            background: #264867; /*dark blue*/
+            border: 5px solid #fff;
+            text-align: center;
+            padding: 40px 0 40px 0;
+            display: block;
+        }
+            div.homepage-thumb-region.region-1 {
+                background: #264867; /*dark blue*/
+            }
+            div.homepage-thumb-region.region-2 {
+                background: #5C1700; /*dark red*/
+            }
+            div.homepage-thumb-region.region-3 {
+                background: #335905; /*dark green*/
+            }
+            div.homepage-thumb-region.region-4 {
+                background: #B45014; /*dark orange*/
+            }
+            div.homepage-thumb-region.region-5 {
+                background: #51445F; /*dark purple*/
+            }
+            div.homepage-thumb-region.region-6 {
+                background: #3B70A0; /*lighter blue*/
+            }
+            div.homepage-thumb-region.region-7 {
+                background: #862200; /*lighter red*/
+            }
+            div.homepage-thumb-region.region-8 {
+                background: #417206; /*lighter green*/
+            }
+            div.homepage-thumb-region.region-9 {
+                background: #D36929; /*lighter orange*/
+            }
+            div.homepage-thumb-region.region-10 {
+                background: #6E5C80; /*lighter purple*/
+            }
+
+        /* END HOMEPAGE EDIT THUMBNAIL STYLES */
     </style>
-    
+
+    <style type="text/css" media="print">
+        .noprint {
+            display: none !important;
+        }
+    </style>
+
     
 
 <!-- Begin Schoolwires Traffic Code --> 
@@ -3947,21 +4416,26 @@ ga('send', 'pageview');
 
 </script>
 
-<!-- End Schoolwires Traffic Code -->  
- 
+<!-- End Schoolwires Traffic Code --> 
+
     
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+</head>
 <body>
 
-<!-- off-canvas menu enabled-->
+    <!-- ADA Skip Nav -->
+    <div class="sw-skipnav-outerbar">
+        <a href="#sw-maincontent" id="skipLink" class="sw-skipnav">Skip to Main Content</a>
+    </div>
 
+    <!-- off-canvas menu enabled-->
+    
 
-	
+    
 
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.schoolwires.com/Static/V2_08_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.schoolwires.com/Static/V2_12_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -4017,13 +4491,13 @@ ga('send', 'pageview');
 <div id="sw-mystart-outer" class="noprint">
 <div id="sw-mystart-inner">
 <div id="sw-mystart-left">
-<div class="sw-mystart-button home"><a href="http://www.schoolwires.com/Domain/4" alt="District Home" title="Return to the homepage on the district site."><span>District Home<div id="sw-home-icon"></div>
+<div class="sw-mystart-nav sw-mystart-button home"><a tabindex="0" href="http://www.schoolwires.com/Domain/4" alt="District Home" title="Return to the homepage on the district site."><span>District Home<div id="sw-home-icon"></div>
 </span></a></div>
 </div>
 <div id="sw-mystart-right">
-<div class="sw-mystart-button signin"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
-<div class="sw-mystart-button register"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=10&amp;SiteID=4" title="Register for this site."><span>Register</span></a></div>
-<div id="sw-mystart-search">
+<div id="ui-btn-signin" class="sw-mystart-button signin"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
+<div id="ui-btn-register" class="sw-mystart-button register"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=10&amp;SiteID=4" title="Register for this site."><span>Register</span></a></div>
+<div id="sw-mystart-search" class="sw-mystart-nav">
 <script type="text/javascript">
 $(document).ready(function() {
     $('#sw-search-input').keyup(function(e) {        if (e.keyCode == 13) {
@@ -4036,7 +4510,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_08_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_12_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -4046,7 +4520,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 <div id="gb-page" class="sp">
 	<div id="gb-content-outer">
 		<div id="gb-content" class="ui-clear">
-			<!-- Start Centricity Content Area --><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
+			<!-- Start Centricity Content Area --><a id="sw-maincontent" name="sw-maincontent"></a><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
 
 
 
@@ -4209,7 +4683,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1484 .ui-widget.app</div>
     <div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
@@ -4283,7 +4757,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1414 .ui-widget.app</div>
     <div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
@@ -4537,19 +5011,20 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <a href="/domain/73">
 <span>Solutions</span></a>
 <ul class="sw-channel-dropdown">
-<li class=""><a href="/domain/73"><span>Centricity2 Web hosting service</span></a></li>
+<li class=""><a href="/domain/73"><span>Centricity2 – website &amp; community management system</span></a></li>
 <li class=""><a href="/domain/74"><span>Mobile apps &amp; responsive design</span></a></li>
-<li class=""><a href="/domain/75"><span>Nimbus social &amp; collaborative learning</span></a></li>
-<li class=""><a href="/domain/76"><span>Synergy file sharing system</span></a></li>
-<li class=""><a href="/domain/77"><span>Assist service request system</span></a></li>
-<li class=""><a href="/domain/78"><span>Greenleaf virtual exchange program</span></a></li>
+<li class=""><a href="/domain/98"><span>Outreach – family notification suite</span></a></li>
+<li class=""><a href="/domain/75"><span>Nimbus – social &amp; collaborative learning</span></a></li>
+<li class=""><a href="/domain/76"><span>Synergy – file sharing system</span></a></li>
+<li class=""><a href="/domain/77"><span>Assist – service request system</span></a></li>
+<li class=""><a href="/domain/78"><span>Greenleaf – virtual exchange program</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
 <a href="/domain/83">
 <span>Service &amp; support</span></a>
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/83"><span>Service &amp; support</span></a></li>
-<li class=""><a href="/domain/86"><span>Gallery of client sites</span></a></li>
+<li class=""><a href="/domain/86"><span>Client sites showcase</span></a></li>
 <li class=""><a href="/domain/87"><span>Web design templates</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
@@ -4567,7 +5042,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/79"><span>About us</span></a></li>
 <li class=""><a href="/domain/97"><span>Partners</span></a></li>
-<li class=""><a href="/domain/91"><span>Careers</span></a></li>
+<li class=""><a href="http://www.blackboard.com/about-us/careers/open-positions/professional-opportunities.aspx"><span>Careers</span></a></li>
 </ul>
 </li><li class="sw-channel-item active">
 <a href="/domain/89">
@@ -4653,23 +5128,33 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <div id="sw-footer-links">
 <ul>
 <li><a title="Click to email the primary contact" href="mailto:rob.madgwick@schoolwires.com">Questions or Feedback?</a> | </li>
-<li><a href="http://www.schoolwires.com/privacy" target="_blank">Schoolwires Privacy Policy (Updated)</a> | </li>
+<li><a href="http://www.schoolwires.com/privacy" target="_blank">Blackboard Schoolwires Privacy Policy (Updated)</a> | </li>
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2014 Schoolwires, Inc. All rights reserved.</div>
-<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.schoolwires.com/Static/V2_08_01//GlobalAssets/Images/sw-footer-logo.png">
+<div id="sw-footer-copyright">Copyright © 2002-2015 Blackboard, Inc. All rights reserved.</div>
+<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires.">
+<img src="http://www.schoolwires.com/Static/V2_12_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires logo">
 </a></div>
 </div>
 </div>
 </div>
 <!-- END - STANDARD FOOTER -->
-  
-    <input type="hidden" id="hid-pageid" value="345">  
- 
+<script type="text/javascript">
+   $(document).ready(function(){
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=70a5f261-8abc-469e-8675-bf46b7eb6495&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=12%2f26%2f2015+2%3a37%3a42+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=207.241.237.211';
+      try {
+         $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
+      } catch(err) { 
+         // prevent site error for analytics
+      }
+   });
+</script>
+
+    <input type="hidden" id="hid-pageid" value="345">
 
 
+    
 
 <div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
 
@@ -4736,7 +5221,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     });
 </script>
 
-<div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
+    <div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -4767,84 +5252,85 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
 
     <script type="text/javascript">
+
 		$(document).ready(function() {
-			removeBrokenImages();
-			checkSidebar();
-			RemoveCookie();
-			
+            removeBrokenImages();
+            checkSidebar();
+            RemoveCookie();
+
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).find('ul').length == 0) {
-			        $(this).removeClass('collapsible');
-			    } 
-			});
-			
-			// find page nav state cookie and add open chevron
-			var arrValues = GetCookie('SWPageNavState').split('~');
+                if ($(this).find('ul').length == 0) {
+                    $(this).removeClass('collapsible');
+                }
+            });
+
+            // find page nav state cookie and add open chevron
+            var arrValues = GetCookie('SWPageNavState').split('~');
 
 			$.each(arrValues, function() {
-				if (this != '') {
-					$('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
-				}
-			});
+                if (this != '') {
+                    $('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                }
+            });
 
-			// find remaining sub menus and add closed chevron and close menu
+            // find remaining sub menus and add closed chevron and close menu
 			$('.navigation li > ul').each(function() {
-			    var list = $(this);
-			    
-			    if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
-			        // open sub for currently selected page                    
-			        list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
-			    } else {
-			        if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
-			            // open sub for page with auto expand
-			            list.siblings('div.expandable').remove();
-			            list.parent().prepend("<div class='bullet collapsible' />");
-			        }
-			    }
+                var list = $(this);
 
-				if (!list.siblings('div').hasClass('collapsible')) {
-				    // keep all closed that aren't already set to open
-					list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
-					ClosePageSubMenu(list.parent());
-				} else {
-					OpenPageSubMenu(list.parent());
-				}
-			});
-			
-			// remove bullet from hierarchy if no-bullet set
+                if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
+                    // open sub for currently selected page                    
+                    list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                } else {
+                    if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
+                        // open sub for page with auto expand
+                        list.siblings('div.expandable').remove();
+                        list.parent().prepend("<div class='bullet collapsible' />");
+                    }
+                }
+
+                if (!list.siblings('div').hasClass('collapsible')) {
+                    // keep all closed that aren't already set to open
+                    list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
+                    ClosePageSubMenu(list.parent());
+                } else {
+                    OpenPageSubMenu(list.parent());
+                }
+            });
+
+            // remove bullet from hierarchy if no-bullet set
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('collapsible');}
-			        $(this).children('div.collapsible').remove();
-			    }
-			});
+                    $(this).children('div.collapsible').remove();
+                }
+            });
 
 			$('.navigation li.expandable').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('expandable');}
-			        $(this).children('div.expandable').remove();
-			    }
-			});
-			
+                    $(this).children('div.expandable').remove();
+                }
+            });
+
 			$('.navigation li:not(.collapsible,.expandable,.no-bullet)').each(function() {
-			    $(this).prepend("<div class='bullet' />");
-			});
-		
+                $(this).prepend("<div class='bullet' />");
+            });
+
 			$('.navigation li.active').parents('ul').each(function() {
                 if (!$(this).hasClass('page-navigation')) {
                     OpenPageSubMenu($(this).parent());
                 }
             });
-		
-			// set click event for chevron
+
+            // set click event for chevron
             $(document).on('click', '.navigation div.collapsible', function() {
-				ClosePageSubMenu($(this).parent());
-			});
+                ClosePageSubMenu($(this).parent());
+            });
 
             $(document).on('click', '.navigation div.expandable', function() {
-				OpenPageSubMenu($(this).parent());
+                OpenPageSubMenu($(this).parent());
             });
-            
+
             // set navigation grouping links
             $(document).on('click', '.navigationgroup.collapsible > a', function() {
                 ClosePageSubMenu($(this).parent());
@@ -4852,261 +5338,271 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
             $(document).on('click', '.navigationgroup.expandable > a', function() {
                 OpenPageSubMenu($(this).parent());
-            });				
-			
-			//SW MYSTART DROPDOWNS
-            $(document).on('click', '.sw-mystart-dropdown', function() {
-			    $(this).children(".sw-dropdown").css("display","block");
-			});
-
-		    $(".sw-mystart-dropdown").hover(function() {}, function() {
-				$(this).children(".sw-dropdown").hide();
             });
 
-		    //SW ACCOUNT DROPDOWN
-            $(document).on('click', '#sw-mystart-account', function() {
-				$(this).children("#sw-myaccount-list").show();
-				$(this).addClass("clicked-state");
+            //SW MYSTART DROPDOWNS
+            $(document).on('click', '.sw-mystart-dropdown', function() {
+                $(this).children(".sw-dropdown").css("display", "block");
+            });
+
+		    $(".sw-mystart-dropdown").hover(function() {}, function() {
+                $(this).children(".sw-dropdown").hide();
+                $(this).blur();
+            });
+
+            //SW ACCOUNT DROPDOWN
+		    $(document).on('click', '#sw-mystart-account', function() {
+                $(this).children("#sw-myaccount-list").show();
+                $(this).addClass("clicked-state");
             });
 
 			$("#sw-mystart-account, #sw-myaccount-list").hover(function() {}, function() {
-				$(this).children("#sw-myaccount-list").hide();
-				$(this).removeClass("clicked-state");
-			});
-			   
-		   // set hover class for page and section navigation
-		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
-		        $(this).addClass('hover');
-		   }, function() {
-		        $(this).removeClass('hover');
-		   });
-
-		}); // end document ready
-		
-		function OpenPageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('expandable').addClass('collapsible');
-			    li.find('div:first').removeClass('expandable').addClass('collapsible');	
-			    li.find('ul:first').show();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function ClosePageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('collapsible').addClass('expandable');
-			    li.find('div:first').removeClass('collapsible').addClass('expandable');	 
-			    li.find('ul:first').hide();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function PageNavigationStateCookie() {
-		    var strCookie = "";
-
-			$('.pagenavigation li > ul').each(function() {
-			    var item = $(this).parent('li');
-				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
-					strCookie += $(this).parent().attr('id') + '~';
-				}
+                $(this).children("#sw-myaccount-list").hide();
+                $(this).removeClass("clicked-state");
+                $("#sw-myaccount").blur();
             });
 
-			SetCookie('SWPageNavState', strCookie);
-		}
-		
+            // set hover class for page and section navigation
+		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
+                $(this).addClass('hover');
+		   }, function() {
+                $(this).removeClass('hover');
+            });
+
+        }); // end document ready
+
+        function OpenPageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                if (li.hasClass('expandable')) {
+                    li.removeClass('expandable').addClass('collapsible');
+                }
+                if (li.find('div:first').hasClass('expandable')) {
+                    li.find('div:first').removeClass('expandable').addClass('collapsible');
+                }
+                li.find('ul:first').show();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function ClosePageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                li.removeClass('collapsible').addClass('expandable');
+                li.find('div:first').removeClass('collapsible').addClass('expandable');
+                li.find('ul:first').hide();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function PageNavigationStateCookie() {
+            var strCookie = "";
+
+			$('.pagenavigation li > ul').each(function() {
+                var item = $(this).parent('li');
+				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
+                    strCookie += $(this).parent().attr('id') + '~';
+                }
+            });
+
+            SetCookie('SWPageNavState', strCookie);
+        }
+
 		function checkSidebar(){
 		   $(".ui-widget-sidebar").each(function() {
 			   if($.trim($(this).html()) != ""){
-				   $(this).show();
-				   $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
-			   } 
-		   });
+                    $(this).show();
+                    $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
+                }
+            });
         }
 
 		function removeBrokenImages(){
-		   //REMOVES ANY BROKEN IMAGES
+            //REMOVES ANY BROKEN IMAGES
 		    $("span.img img").each(function() {
-		        if ($(this).attr("src") !== undefined) {
-		            $(this).parent().parent().show();
-		            $(this).parent().parent().siblings().addClass("has-thumb");
-		        } 
-		    });
-		}
+                if ($(this).attr("src") !== undefined) {
+                    $(this).parent().parent().show();
+                    $(this).parent().parent().siblings().addClass("has-thumb");
+                }
+            });
+        }
 
-		function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
-		    (userRegID === undefined ? userRegID = 0 : '');
-		    (isEdit === undefined ? isEdit = false : '');
-		    OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.schoolwires.com//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
-		}
+        function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
+            (userRegID === undefined ? userRegID = 0 : '');
+            (isEdit === undefined ? isEdit = false : '');
+            OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.schoolwires.com//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
+        }
 
-		function RemoveCookie() {
-		    // There are no sub page            
-		    if ($('.pagenavigation li li').length == 0) {
-		        //return false;
-		        PageNavigationStateCookie();
-		    }
-		}
-	</script>
-	
-	<script type="text/javascript">
+        function RemoveCookie() {
+            // There are no sub page            
+            if ($('.pagenavigation li li').length == 0) {
+                //return false;
+                PageNavigationStateCookie();
+            }
+        }
+    </script>
 
-	    function AddOffCanvasMenuHeightForSiteNav() {
-	        var sitenavulHeight = 0;
+    <script type="text/javascript">
 
-	        if ($('#sw-pg-sitenav-ul').length > 0) {
-	            sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSiteNav() {
+            var sitenavulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-sitenav-ul').length > 0) {
+                sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (sitenavulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(sitenavulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
 
-	    function AddOffCanvasMenuHeightForSelectSchool() {
-	        var selectschoolulHeight = 0;
+            // 360px is abount 5 li height
+            if (sitenavulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(sitenavulHeight + 360);
+            }
+        }
 
-	        if ($('#sw-pg-selectschool-ul').length > 0) {
-	            selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSelectSchool() {
+            var selectschoolulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-selectschool-ul').length > 0) {
+                selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(selectschoolulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
+
+            // 360px is abount 5 li height
+            if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(selectschoolulHeight + 360);
+            }
+        }
 
 	    $(document).ready(function() {
-	        if ($("#sw-pg-sitenav-a").length > 0) {
+            if ($("#sw-pg-sitenav-a").length > 0) {
                 $(document).on('click', '#sw-pg-sitenav-a', function() {
-	                if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-selectschool-a', function() {
-	                if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSelectSchool();
+                    if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSelectSchool();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-myaccount-a', function() {
-	                if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                    if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '.pg-list-bullet', function() {
-	                $(this).prev().toggle();
+                    $(this).prev().toggle();
 
-	                if ($(this).hasClass('closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($(this).hasClass('closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $(this).removeClass('closed');
-	                    $(this).addClass('open');
-	                } else {
-	                    $(this).removeClass('open');
-	                    $(this).addClass('closed');
-	                }
-	            });
+                        $(this).removeClass('closed');
+                        $(this).addClass('open');
+                    } else {
+                        $(this).removeClass('open');
+                        $(this).addClass('closed');
+                    }
+                });
 
                 $(document).on('mouseover', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
-	            });
-	        }
-	    });	
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
+                });
+            }
+        });
 
 
-</script>
+    </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script>
 
-<!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_08_01/GlobalAssets/Scripts/CheckScript.js"></script>
+    <!-- Begin swuc.CheckScript -->
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (01): 0.15625 Seconds -->
+    <!-- Server Load Time (02): 0.078127 Seconds -->
 
 
 
-<!-- off-canvas menu enabled-->
+    <!-- off-canvas menu enabled-->
+    
+
+    <!-- OnScreen Alert Dialog Start -->
+    <div id="onscreenalert-holder"></div>
+    <!-- OnScreen Alert Dialog End -->
 
 
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","e84461d315","246869","Z1MEZEtSVkoFBxIKX14ZJ2NpHEtQEAFJB1VWVxNcTR1ZShQc",15,171,new Date().getTime(),"5414E1CCE66728C","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+</body></html>
