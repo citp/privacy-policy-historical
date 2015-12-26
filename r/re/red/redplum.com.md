@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423101629id_/http%3A//www.redplum.com/info/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226173306id_/http%3A//www.redplum.com/info/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
-# Privacy - redplum.com
+# None
 
 Jump to:     Ad Choices     |     Safe Harbor Statement     |     Terms of Use
 
 ## VALASSIS PROPERTIES PRIVACY STATEMENT
 
-EFFECTIVE: December 22, 2013
+Last Review/Update: June 30, 2015
 
 This Privacy Statement applies to this website and to related websites, applications, services and mobile applications on or in which this Privacy Statement appears or is linked or referenced (collectively, the " **Valassis Properties** ").  The Valassis Properties are owned and/or operated by Valassis Communications, Inc. (" **Valassis"** ,"we" or "us").  We hope that this Privacy Statement helps clarify how we collect and process your information.
 
@@ -201,11 +201,13 @@ Windsor, CT 06095
 
 This privacy statement may be amended consistent with the requirements of Safe Harbor. When we do update the privacy statement, we will also revise the last updated date at the bottom of this document. Any material changes to this privacy statement will also be posted on the company's website [www.valassis.com.](http://www.valassis.com/)
 
-Last Updated: June 17, 2011
+Last Review/Update: June 30, 2015
 
 ### 14.   Safe Harbor Certification
 
-On June 27, 2011, Valassis Communications, Inc. along with its subsidiaries, received certification as to its adherence to the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework. For more information, please read the Valassis Communications, Inc. Safe Harbor Privacy Policy. Copies of our certifications will be listed under Valassis Communications, Inc. on the Safe Harbor List on the U.S. Department of Commerce Web site.
+Valassis Communications, Inc. along with its subsidiaries, received certification as to its adherence to the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework. For more information, please read the Valassis Communications, Inc. Safe Harbor Privacy Policy. Copies of our certifications will be listed under Valassis Communications, Inc. on the Safe Harbor List on the U.S. Department of Commerce Web site.
+
+Most Recent Certification: June 30, 2015
 
 DM_US 47942037-8.039667.0126 
 
