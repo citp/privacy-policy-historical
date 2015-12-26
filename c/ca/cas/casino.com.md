@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casino.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225923id_/http%3A//www.casino.com/about/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226073435id_/http%3A//www.casino.com/about/security-privacy.html) for the most accurate reproduction.*
 
 # Casino.com online casino Privacy policy - Security - Contact us
 
