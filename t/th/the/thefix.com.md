@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195957id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226151052id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fix
 
