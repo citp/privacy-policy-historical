@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmia.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601045356id_/http%3A//www.fashionmia.com/privacy-policy-i-14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmia.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226143207id_/http%3A//www.fashionmia.com/privacy-policy-i-14.html) for the most accurate reproduction.*
 
 # Privacy Policy - Be more stylish with Fashionmia.com
 
