@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133453id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226095151id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Oro Jackson
+
+[Dismiss Notice](https://web.archive.org/web/20151226095151id_/http://orojackson.com/pages/legal/account/dismiss-notice?notice_id=29 "Dismiss Notice")
+
+**Register now and join all the fun!**  
+What are you waiting for? [**Register**](http://orojackson.com/register/) or [**log-in**](http://orojackson.com/login/) now to join in on discussions and much more!
+
+Registered users enjoy an advertisement free experience on Oro Jackson. 
 
 **BY REGISTERING ON ORO JACKSON, YOU AGREE TO HAVE READ AND ACCEPTED THE PRIVACY POLICY MENTIONED ON THIS PAGE AND AGREE TO HAVE READ OUR[COMMUNITY GUIDELINES](http://orojackson.com/pages/rules/).**
 
@@ -75,6 +82,6 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 Published:
     Jul 12, 2011
 Page Views:
-    4,679
+    6,735
 
 [ ](http://orojackson.com/)
