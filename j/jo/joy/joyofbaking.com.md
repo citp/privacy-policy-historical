@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofbaking.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504224807id_/http%3A//www.joyofbaking.com/other/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofbaking.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226164526id_/http%3A//www.joyofbaking.com/other/privacypolicy.html) for the most accurate reproduction.*
 
 # Joyofbaking.com Privacy Policy
 
@@ -8,7 +8,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail and 
 
 With respect to cookies: We do not set any cookies. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail [here](https://web.archive.org/web/20150504224807id_/http%3A//www.joyofbaking.com/other/emailstephanie.html). 
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail [here](https://web.archive.org/web/20151226164526id_/http%3A//www.joyofbaking.com/other/emailstephanie.html). 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, Ad Server companies may collect information such as your domain type, your IP address and clickstream information. These companies may set cookies or use web beacons. For further information, consult the privacy policies of:
 
@@ -36,4 +36,4 @@ With respect to Traffic Auditing: In order to accurately measure the traffic and
 [ Quantcast](http://www.quantcast.com/privacy.jsp)   
 [ Google](http://www.google.com/privacy.html)
 
-If you feel that this site is not following its stated information policy, you may contact us by [clicking here](https://web.archive.org/web/20150504224807id_/http%3A//www.joyofbaking.com/other/emailstephanie.html).
+If you feel that this site is not following its stated information policy, you may contact us by [clicking here](https://web.archive.org/web/20151226164526id_/http%3A//www.joyofbaking.com/other/emailstephanie.html).
