@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121541id_/http%3A//www.hallmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226044202id_/http%3A//explore.hallmark.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Hallmark
 
-  * Hallmark's Privacy Statement 
+  * Hallmark’s Privacy Statement 
   * What information does Hallmark collect and why? 
   * Who does Hallmark share information with?
   * Your California Privacy Rights
@@ -26,9 +26,9 @@
 
 
 
-## Hallmark's Privacy Statement
+## Hallmark’s Privacy Statement
 
-Hallmark and its family of companies value you and respect your privacy. It has always been Hallmark's firm policy to conduct business with scrupulous respect for the law. We collect information to support our relationship with you, improve our product offering and to communicate about products, services, and promotions. Hallmark recognizes that we must maintain and use information responsibly. We may disclose information to companies that work with us and assist us with providing services to you. In addition, Hallmark Gold Crown retailers receive information to communicate with you and improve your shopping experience. Occasionally, Hallmark.com uses personal consumer information to market the products and services of Hallmark Cards, Inc., its subsidiaries; and on a limited basis, we may share your contact information with trusted business partners so that they may market their products and services to you.
+Hallmark and its family of companies value you and respect your privacy. It has always been Hallmark’s firm policy to conduct business with scrupulous respect for the law. We collect information to support our relationship with you, improve our product offering and to communicate about products, services, and promotions. Hallmark recognizes that we must maintain and use information responsibly. We may disclose information to companies that work with us and assist us with providing services to you. In addition, Hallmark Gold Crown retailers receive information to communicate with you and improve your shopping experience. Occasionally, Hallmark.com uses personal consumer information to market the products and services of Hallmark Cards, Inc., its subsidiaries; and on a limited basis, we may share your contact information with trusted business partners so that they may market their products and services to you.
 
 You can always find the most recent version of our privacy policy on this page.
 
@@ -41,23 +41,23 @@ You can always find the most recent version of our privacy policy on this page.
 
 We collect information you provide when you place an order, register with us, send an ecard, send us an email or call us, enter a sweepstakes or enroll in a club or service. This information may include:
 
-  * Your name 
-  * Your mailing address 
-  * Your email address 
-  * Your phone number 
-  * Your credit card number 
-  * Your Crown Rewards card 
+  * Your name
+  * Your mailing address
+  * Your email address
+  * Your phone number
+  * Your credit card number
+  * Your Crown Rewards card
   * Your Facebook Connect sign-in information
 
 
 
 ## Who does Hallmark share information with?
 
-We share personal customer information with our agents, representatives, trusted service providers, and contractors for limited purposes. Those purposes may be fulfilling customer orders; offering products and services in connection with our website; customer service; giving access to our partners' sites; or finishing credit card transactions. These third parties are not allowed to use this information. They can only fulfill orders and service your questions.
+We share personal customer information with our agents, representatives, trusted service providers, and contractors for limited purposes. Those purposes may be fulfilling customer orders; offering products and services in connection with our website; customer service; giving access to our partners’ sites; or finishing credit card transactions. These third parties are not allowed to use this information. They can only fulfill orders and service your questions.
 
 From time to time, we may share the contact information of our customers with carefully picked and trustworthy third parties so the third parties can promote their products and services. You can opt out from our sharing of your information for this particular purpose anytime by changing the preferences of your account at Hallmark.com. You can also call 1-800-HALLMARK and ask to be taken off our business partner promotions listing. Hallmark does not share email information.
 
-We may put the information you give us online at Hallmark.com with information you've given at Hallmark Gold Crown retail stores. We do this with the hope of making your shopping experience more enjoyable.
+We may put the information you give us online at Hallmark.com with information you’ve given at Hallmark Gold Crown retail stores. We do this with the hope of making your shopping experience more enjoyable.
 
 If you log in through Facebook Connect, information you provide to us may be shared with Facebook.
 
@@ -83,13 +83,13 @@ Hallmark.com uses cookies to provide features like auto-login and to determine w
 
 Like most websites, the servers that serve our website automatically identify your computer by its IP address. We log IP addresses and we use them to track things like the number of people that visit our website.
 
-If you sign in through Facebook Connect, we may use information supplied to us by Facebook in order to enhance your site experience. Depending on your Facebook settings, information you provide to us may be made available to your friends or those connected to you on Facebook. Facebook may access your basic information, including name, profile picture, networks, friends and other information you've shared with everyone; your photos and videos; and your friends' information including birthdays and photos.
+If you sign in through Facebook Connect, we may use information supplied to us by Facebook in order to enhance your site experience. Depending on your Facebook settings, information you provide to us may be made available to your friends or those connected to you on Facebook. Facebook may access your basic information, including name, profile picture, networks, friends and other information you’ve shared with everyone; your photos and videos; and your friends’ information including birthdays and photos.
 
 ## Does Hallmark use third parties?
 
-Hallmark uses OAS to procure, serve and/or facilitate serving advertisements. OAS may access, collect, obtain and use non-personally identifiable information ("Non-PII") about users visits by use of tracking pixels, cookies or other visitor identification technology that collects anonymous traffic data to procure and/or provide advertisements about goods and services that may be of interest to users. To learn more about OAS' information collection and protection practices, please visit http://www.247realmedia.com/EN-US/privacy-policy.html.
+Hallmark uses OAS to procure, serve and/or facilitate serving advertisements. OAS may access, collect, obtain and use non-personally identifiable information (“Non-PII”) about users visits by use of tracking pixels, cookies or other visitor identification technology that collects anonymous traffic data to procure and/or provide advertisements about goods and services that may be of interest to users. To learn more about OAS’ information collection and protection practices, please visit http://www.247realmedia.com/EN-US/privacy-policy.html.
 
-Additionally, Hallmark uses the services of AOL, MSN, DART, Yahoo! and Google for the serving of ads, promotions and other marketing messages. To do this, AOL, MSN, DART, Yahoo! and Google collect anonymous data from this site through the use of cookies. This anonymous data is also used to develop aggregate reports on our customer's reactions to ad campaigns and to learn more about our general audience so we may provide only the most relevant offers and promotions.
+Additionally, Hallmark uses the services of AOL, MSN, DART, Yahoo! and Google for the serving of ads, promotions and other marketing messages. To do this, AOL, MSN, DART, Yahoo! and Google collect anonymous data from this site through the use of cookies. This anonymous data is also used to develop aggregate reports on our customer’s reactions to ad campaigns and to learn more about our general audience so we may provide only the most relevant offers and promotions.
 
 To learn more about AOL, MSN, DART, Yahoo! and Google, including your ability to opt out of the AOL, MSN, DART, Yahoo! and Google systems, go to
 
@@ -105,7 +105,7 @@ To learn more about AOL, MSN, DART, Yahoo! and Google, including your ability to
 
 When you make a Hallmark.com account, your contact preferences automatically shows that you want to get promotional information from Hallmark about news on Hallmark products, services, and events. It also indicates that you would like to be told about special offers, products and free samples from Hallmark partners.
 
-If you do not want to be contacted by Hallmark for promotional purposes, you may change your preferences at anytime. Be sure you are signed in to your Hallmark.com account. Hover on the Hi statement in the purple bar. Select Profile and click on the Settings link at right of the page. A Communication Preferences box will appear. Uncheck the box next to the statement "Hallmark and its companies can contact me about special offers and promotions."
+If you do not want to be contacted by Hallmark for promotional purposes, you may change your preferences at anytime. Be sure you are signed in to your Hallmark.com account. Hover on the Hi statement in the purple bar. Select Profile and click on the Settings link at right of the page. A Communication Preferences box will appear. Uncheck the box next to the statement “Hallmark and its companies can contact me about special offers and promotions.”
 
 ## How do I access and change my personal information?
 
@@ -119,7 +119,7 @@ We seek high standards in credit card security to better protect the information
 
 ## How secure is my Hallmark.com account information?
 
-To protect your account information, Hallmark.com asks that you enter a valid user name and password before buying anything using your account information. We may also collect personal information to make purchasing easier for you in the future. For example, if you give us permission to store your billing information, you won't have to fill out the shipping and billing address each time you make a purchase on our site.
+To protect your account information, Hallmark.com asks that you enter a valid user name and password before buying anything using your account information. We may also collect personal information to make purchasing easier for you in the future. For example, if you give us permission to store your billing information, you won’t have to fill out the shipping and billing address each time you make a purchase on our site.
 
 Hallmark also has security measures to protect the loss, misuse, and change of your information. Only certain employees and agents of Hallmark.com have access to this information. This information is only used for completing your order.
 
@@ -149,7 +149,7 @@ Our privacy policy is regularly reviewed to make sure we continue to serve the p
 
 ## How do I contact Hallmark if I still have questions?
 
-You may contact us by using the "Contact Us" links in our "Customer Service" area. This information is used to respond directly to your questions or comments. We may also file your comments and share them with our customer care team to improve our service in the future. Your personal information will only be shared with third parties in the event that we need to follow up with specific order-related questions or comments. The third parties will not use your information for promotions or any other purposes.
+You may contact us by using the “Contact Us” links in our “Customer Service” area. This information is used to respond directly to your questions or comments. We may also file your comments and share them with our customer care team to improve our service in the future. Your personal information will only be shared with third parties in the event that we need to follow up with specific order-related questions or comments. The third parties will not use your information for promotions or any other purposes.
 
 If you still have questions or concerns about our privacy policy, please write us at:
 
