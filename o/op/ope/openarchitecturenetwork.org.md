@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629172350id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Open Architecture Network
+# Legal
 
-Architecture for Humanity (“AFH”) and the Open Architecture Network ("OAN") have created this statement to demonstrate our firm commitment to the privacy of our users. It discloses information gathering and dissemination practices for [http://openarchitecturenetwork.org](http://openarchitecturenetwork.org/ "http://openarchitecturenetwork.org"), the OAN's official Internet site. In this Privacy Policy statement, “we,” “us,” “its” and “ours” refers to the OAN and/or AFH as the context requires, and “you” and “your” refers to you. 
+* * *
 
-**Use of IP Addresses**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We use your IP address (i.e., execpc.com, aol.com or yourfirmname.com) to help diagnose problems with our server, and to administer various features of our site. Your IP address is also used to gather broad demographic information such as the name of your Internet service provider and its geographic location.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Use of “Cookies”**
 
-We may use “cookies” to track your interaction with the OAN. A “cookie” is a small text file that reports user and page activity. “Cookies” do not pose a threat to your computer, your web browser or software installed on your system. They do not contain viruses, and the information provided is not used beyond the general administration of our website. Information gathered through the use of “cookies” is not sold or provided to vendors, direct mail concerns, email list services, etc. Please note that we cannot control the use of “cookies” by sites linked to our site, and accordingly we are not responsible for the privacy practices or the content of such sites.
 
-**Online Registration Forms, Online Surveys, Workspaces and Project Areas**
-
-**Online Registration, Donation and Order Forms:** Registration, donation, and order forms operate in a secure environment using digital encryption technology. This software scrambles email transmissions from users to our customer service representatives. Information supplied via online registration forms and order forms is used only by us. It is not sold or provided to vendors, direct mail concerns, email list services, etc.
-
-**Online Surveys:** From time to time, we may conduct online surveys, which ask visitors for voluntary information on various topics of interest to us. Information supplied for online surveys is used only by us. It is not sold or provided to vendors, direct mail concerns, email list services, etc.
-
-**Workspaces and Project Areas:** Workspaces and Project Areas within the OAN may require username and password registration. This information is determined by each individual at the time of registration. You are asked to fill out a personal profile, which asks you to specify your name or an alias to register your account. Other fields provided for your email address and other personal data are entirely optional. You are not required to complete other fields in the form to participate in any of the discussion conferences.
-
-**Unsolicited Contacts:** Users of the OAN (including any Workspaces and/or Project Areas) should know that any information they disclose may be obtained by any other person(s). This may result in unsolicited mail or email being sent to you. We cannot control this occurrence and users are encouraged to consider this when posting information and/or completing their personal profile.
-
-**Delete/Deactivate**
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Contact us](https://web.archive.org/contact) if you would like to deactivate your account.
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/contact).
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
