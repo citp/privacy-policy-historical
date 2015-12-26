@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003315id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226031427id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kayfabe News
 
