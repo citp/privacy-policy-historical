@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capcomprotour.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203056id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capcomprotour.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226220119id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -10,9 +10,9 @@
 
 **CAPCOM USA ONLINE PRIVACY STATEMENT**
 
-Last updated May 28, 2015
+Last updated July 8, 2015
 
-Here is a [PDF version](https://web.archive.org/web/20150627203056id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202015.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20151226220119id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202015.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
@@ -31,12 +31,13 @@ This Privacy Policy and the ESRB certification seals shown on our websites confi
 **Q5.**What kinds of security measures do we take to safeguard your personally identifiable information?  
 **Q6.**How can you update your personal information and profile?  
 **Q7.**How can you ask questions, or send us comments, about this Privacy Policy?  
-**Q8.**How will you know if we amend this Privacy Policy?
+**Q8.**How will you know if we amend this Privacy Policy?  
+**Q9.**How is information treated when it is collected from non-US residents?
 
   
 
 
-## • What information does this Privacy Policy cover?
+## • Q1. What information does this Privacy Policy cover?
 
 This Privacy Policy applies only to information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Capcom USA through any other means. This Privacy Policy applies to use and sharing of information collected on and after the date that this Privacy Policy is posted.
 
@@ -253,6 +254,13 @@ privacy@esrb.org
 ## • Q8. How will you know if we amend this Privacy Policy?
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will send you a private message on Capcom-Unity.com and prominently post a notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the websites covered by the Privacy Policy after the posting will constitute your acceptance of and agreement to be bound by those changes.
+
+  
+(Back to top)
+
+## • Q9. How is information treated when it is collected from non-US residents?
+
+Personal information collected on our websites may be stored and processed in the United States. By using our websites you consent to any such transfer of information outside of your country. Capcom complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Capcom has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Capcom’s certification, please visit <http://www.export.gov/safeharbor/>.
 
   
 (Back to top)  
