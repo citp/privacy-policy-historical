@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foghop.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426110417id_/http%3A//foghop.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foghop.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226170237id_/http%3A//foghop.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games at Foghop.com - Play Free Online Games
 
