@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaldata.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105121000id_/http%3A//www.globaldata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaldata.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226210801id_/http%3A//www.globaldata.com/privacy) for the most accurate reproduction.*
 
 # GlobalData | Privacy Policy
 
@@ -156,4 +156,4 @@ We welcome any queries, comments or requests you may have regarding this Privacy
 
 John Carpenter House, John Carpenter Street, London EC4Y 0AN, UK.
 
-+44 (0)1204 387477
++44 (0)161 359 5813
