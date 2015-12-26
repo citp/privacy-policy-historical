@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622065429id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226063147id_/http%3A//www.coupondunia.in/privacy-policy/%3Fref%3Dfooter_link_privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Opt Out
-
-### Privacy Policy & Opt Out
+# CouponDunia - Promotion Codes, Coupon Codes, Coupons
 
 **What information do we collect?**
 
