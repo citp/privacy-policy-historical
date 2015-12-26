@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the stickeryou.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630152246id_/http%3A//www.stickeryou.com/2/about-stickeryou/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stickeryou.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226170219id_/http%3A//www.stickeryou.com/2/about-stickeryou/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head itemscope="" itemtype="http://schema.org/WebPage"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-48QC6"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"eabdc06c6a","applicationID":"2917673","transactionName":"MlZbYEpRCEUDBkNYVgscfVtMfgNCIQpZRUsKX1VRSh8lWxFKY1RUFV9YQF1gB1EH","queueTime":0,"applicationTime":169,"ttGuid":"63FCB30FF7B0FD64","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMCWVVUGwEJVVZUAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html><head itemscope="" itemtype="http://schema.org/WebPage">
     
     <title>Privacy Policy</title>
     <meta itemprop="name" content="Privacy Policy"><meta itemprop="description" content="This page features the privacy policy for StickerYou, outlining policies regarding our handling of your personal information"><meta itemprop="url" content="http://www.stickeryou.com/2/about-stickeryou/privacy-policy"><meta itemprop="image" content="http://d3ccuprjuqkp1j.cloudfront.net/GeneralImages/sylogo_4x3.png">
@@ -28,33 +28,33 @@
     <link rel="apple-touch-icon" sizes="120x120" href="https://d3ccuprjuqkp1j.cloudfront.net/GeneralImages/apple-touch-icon-120x120.png">
     <link rel="apple-touch-icon" sizes="152x152" href="https://d3ccuprjuqkp1j.cloudfront.net/GeneralImages/apple-touch-icon-152x152.png">
 
-    <link href="/2/content/css/sycore?v=v-BwkgORh8GlnWZMxFSMrtwnR5WSQrgF8pTfzzGamfA1" rel="stylesheet">
+    <link href="/2/content/css/sycore?v=_JFjf2TIujgwr2Hdnxx5HvSefQtw_gMduwhMfCui7lo1" rel="stylesheet">
 
     <link href="/2/plugins/bootstrap/css/style.css?v=LXaiTeiFpzSA_nbye0eLrkdNafSxdLeYmN7RF9a_HMg1" rel="stylesheet">
 
-    <link href="/2/content/css/responsive/style.css?v=h3Q3-kO4VT5UgEl_GEk9P-wF_v7mK72f4rysfu9e1V41" rel="stylesheet">
+    <link href="/2/content/css/responsive/style.css?v=176LzANFocWfOYObY7-fzRrxBV1uhWXaPUsa_3KoiUk1" rel="stylesheet">
 
     <link href="/2/plugins/kendo/styles?v=AvKsJlz24YfG5rgkvaI6m-TbaczNk-RFMWiAElYKnfE1" rel="stylesheet">
 
     <link href="/2/plugins/css/livechatcallout?v=QxBzuRPW_61u8VapcSOSIrxD2jaVT17rcqukhU4-5JQ1" rel="stylesheet">
 
-    <link href="/2/plugins/plugincsore?v=Nmea5vh8uSAYLr7OA5YTYBrJlhBovty-4q7KQcRyb2U1" rel="stylesheet">
+    <link href="/2/plugins/plugincsore?v=nc97rD9n0EAQFgJzmSo_bW-o3-QvyrLuh_6nm2MRgtY1" rel="stylesheet">
 
-    <link href="/2/Content/Css/Views/OrderOptions?v=2wKeQnDil9OfwxwlpztNDi9uUqERMMMXduDdnRRl8eo1" rel="stylesheet">
+    <link href="/2/Content/Css/Views/OrderOptions?v=2S02oLZ-RN1pL8IU8SF9kkUQNclwZ7v3nWuWLRiX1381" rel="stylesheet">
 
 
-    <script src="/2/bundles/frameworks?v=q6dsx9ZsJpebbDe75n-v5TcUjrIaYNBqggwO98ynM-k1"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-48QC6"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script src="/2/bundles/frameworks?v=7MXIpkj7Q-XaTmBb_AUedwYbnhV9L8-E9cZBremgfyo1"></script>
 
     <script src="/2/bundles/responsive?v=t3zW7_V4AXl0pHSDxrGeonxW-8jYt8-F623TSxaRjGE1"></script>
 
-    <script src="/2/bundles/sycore?v=pBIMD2_IBrb6Z_lkjNKnQyM3M0en-Kmqx1B5q1USN-s1"></script>
+    <script src="/2/bundles/sycore?v=rcIQbJEiWoiZnWtb4OLW-RfoUDXnfvKjVngiVjwhafU1"></script>
 
-    <script src="/2/bundles/stickermakercore?v=eZC6UFarORDFXNPV5tBcIG5iGggMnn76q-qHv2u01S81"></script>
+    <script src="/2/bundles/stickermakercore?v=uPOhcIdT2rVsteknx9MXkyXCjIJqneubQRbQzvFzVM41"></script>
 
-    <script src="/2/bundles/landingpages?v=1mjDbfT1pt1m-JPVUphpk9hkIzIxOUWLJ9jPUYNoDXc1"></script>
+    <script src="/2/bundles/landingpages?v=Opyq8xhRW2xHaK-DwtrOkGFJc8KwOpi7WO-wkzU1Deg1"></script>
 
     
-<script src="/2/bundles/responsivehome?v=s7E7_D1Yg5SbpjsysLfHsE7BsoeuF-swQ0kCQLr-v7Q1"></script>
+    <script src="/2/bundles/responsivehome?v=s7E7_D1Yg5SbpjsysLfHsE7BsoeuF-swQ0kCQLr-v7Q1"></script>
 
     
 
@@ -79,6 +79,7 @@
         var TemplateDataManager = new TemplateDataManagerClass();
         var ArtGallery = new ArtGalleryClass(ApiDataManager, TemplateDataManager);
     </script>
+    
 </head>
 <body>
     <div id="fb-root"></div>
@@ -91,6 +92,8 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
+    <script type="text/javascript">dataLayer = [{"ecomm_pagetype": "support","ecomm_prodid": "","ecomm_pname": "","ecomm_totalvalue": "","ecomm_email": ""}];</script>
+
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-48QC6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
     (function (w, d, s, l, i) {
@@ -98,18 +101,19 @@
     var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src ='//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-48QC6');
 </script>
-    
-<script></script>
+    <script type="text/javascript">dataLayer.push({"event": "remarketingTriggered"});</script>
 
     
+
+
 
     <header role="banner" id="header-banner">
     <div class="container">
         <div class="row" id="row-banner">
-            <h1 class="col-xs-6 col-sm-2 col-md-2" itemscope="" itemtype="http://schema.org/Organization">
+            <div class="col-xs-6 col-sm-2 col-md-2 logo" id="seller_info" itemid="seller_info" itemscope="" itemtype="http://schema.org/Organization">
                 <a href="http://www.stickeryou.com" itemprop="url"><span itemprop="name">StickerYou</span></a>
-				<meta itemprop="logo" content="http://d3ccuprjuqkp1j.cloudfront.net/GeneralImages/sylogo_4x3.png">
-            </h1>
+                <meta itemprop="logo" content="http://d3ccuprjuqkp1j.cloudfront.net/GeneralImages/sylogo_4x3.png">
+            </div>
 <!-- Nav column: start -->
 <nav class="col-xs-6 col-sm-10 col-md-10" id="col-nav-main">
 <div class="menu-icon"></div>
@@ -120,11 +124,11 @@
 <li><a href="/2/products/stickers/653">Stickers</a></li>
 <li><a href="/2/products/labels/654">Labels</a></li>
 <li><a href="/2/products/temporary-tattoos/601">Temporary Tattoos</a></li>
+<li><a href="/2/products/custom-decals/535">Custom Decals</a></li>
 <li><a href="/2/products/iron-ons/617">Iron-Ons</a></li>
-<li><a href="/2/products/wall-decals-floor-decals/490">Wall, Floor &amp; Window Decals</a></li>
 <li><a href="/2/products/magnets/634">Magnets</a></li>
 <li><a href="/2/about-stickeryou/shop">Shop by Interest</a></li>
-<li><a href="http://home.stickeryou.com">Make &amp; Print™</a></li>
+<li><a href="http://home.stickeryou.com/">Make &amp; Print™</a></li>
 </ul>
 </li>
 <li>
@@ -133,10 +137,11 @@
 <li><a href="/2/about-stickeryou/our-pricing">Pricing</a></li>
 <li><a href="/2/about-stickeryou/shipping">Shipping</a></li>
 <li><a href="/2/about-stickeryou/our-product-quality">Product Quality</a></li>
-<li><a href="/2/about-stickeryou/about-us">About Us</a></li>
-<li><a href="/2/about-stickeryou/custom-product-sales">Custom Products for Your Business</a></li>
+<li><a href="/2/about-stickeryou/custom-product-sales">Custom Products &amp; Art Services</a></li>
+<li><a href="/2/about-stickeryou/catalog">Free Samples &amp; Catalog</a></li>
 <li><a href="/2/about-stickeryou/marketing-with-stickeryou">Marketing with StickerYou</a></li>
-<li><a href="/2/blog/">Blog</a></li>
+<li><a href="/2/about-stickeryou/newsletter-sign-up">Blog &amp; Newsletter</a></li>
+<li><a href="/2/about-stickeryou/about-us">About Us</a></li>
 </ul>
 </li>
 <li>
@@ -187,34 +192,28 @@
                                         <li data-category="product-quality-specialty" data-catname="Tattoos, Iron-Ons &amp; Magnets" data-parent="Product Quality">
                                                 <a href="/2/about-stickeryou/product-quality-specialty">Tattoos, Iron-Ons &amp; Magnets</a>
                                         </li>
-                                        <li data-category="product-quality-wall-decals" data-catname="Custom Wall, Floor &amp; Window Decals" data-parent="Product Quality">
-                                                <a href="/2/about-stickeryou/product-quality-wall-decals">Custom Wall, Floor &amp; Window Decals</a>
-                                        </li>
-                                        <li data-category="product-quality-wall-decals-for-home" data-catname="Wall Decals for Home" data-parent="Product Quality">
-                                                <a href="/2/about-stickeryou/product-quality-wall-decals-for-home">Wall Decals for Home</a>
+                                        <li data-category="product-quality-custom-decals" data-catname="Custom Decals" data-parent="Product Quality">
+                                                <a href="/2/about-stickeryou/product-quality-custom-decals">Custom Decals</a>
                                         </li>
                                 </ul>
                         </li>
-                        <li data-category="about-us" data-catname="About Us">
-                                <a href="/2/about-stickeryou/about-us">About Us</a>
-                        </li>
-                        <li data-category="custom-product-sales" data-catname="Custom Products for Your Business">
-                                <a href="/2/about-stickeryou/custom-product-sales" class="toggle">Custom Products for Your Business</a>
+                        <li data-category="custom-product-sales" data-catname="Custom Products &amp; Art Services">
+                                <a href="/2/about-stickeryou/custom-product-sales" class="toggle">Custom Products &amp; Art Services</a>
                                 <i class="fa fa-caret-down"></i>
-                                <ul data-type="level_2" data-parent="Custom Products for Your Business">
-                                        <li data-category="our-art-services" data-catname="Art Services" data-parent="Custom Products for Your Business">
-                                                <a href="/2/about-stickeryou/our-art-services">Art Services</a>
-                                        </li>
-                                        <li data-category="catalog" data-catname="Free Samples &amp; Catalog" data-parent="Custom Products for Your Business">
-                                                <a href="/2/about-stickeryou/catalog">Free Samples &amp; Catalog</a>
-                                        </li>
-                                        <li data-category="setting-up-custom-files" data-catname="Setting Up Custom Files" data-parent="Custom Products for Your Business">
-                                                <a href="/2/about-stickeryou/setting-up-custom-files">Setting Up Custom Files</a>
-                                        </li>
-                                        <li data-category="specialorders" data-catname="Specialized Custom Products" data-parent="Custom Products for Your Business">
+                                <ul data-type="level_2" data-parent="Custom Products &amp; Art Services">
+                                        <li data-category="specialorders" data-catname="Specialized Custom Products" data-parent="Custom Products &amp; Art Services">
                                                 <a href="/2/about-stickeryou/specialorders">Specialized Custom Products</a>
                                         </li>
+                                        <li data-category="art-design-services" data-catname="Art &amp; Design Services" data-parent="Custom Products &amp; Art Services">
+                                                <a href="/2/about-stickeryou/art-design-services">Art &amp; Design Services</a>
+                                        </li>
+                                        <li data-category="setting-up-custom-files" data-catname="Setting Up Custom Files" data-parent="Custom Products &amp; Art Services">
+                                                <a href="/2/about-stickeryou/setting-up-custom-files">Setting Up Custom Files</a>
+                                        </li>
                                 </ul>
+                        </li>
+                        <li data-category="catalog" data-catname="Free Samples &amp; Catalog">
+                                <a href="/2/about-stickeryou/catalog">Free Samples &amp; Catalog</a>
                         </li>
                         <li data-category="marketing-with-stickeryou" data-catname="Marketing with StickerYou">
                                 <a href="/2/about-stickeryou/marketing-with-stickeryou" class="toggle">Marketing with StickerYou</a>
@@ -232,10 +231,37 @@
                                         <li data-category="school-fundraising" data-catname="School Fundraising" data-parent="Marketing with StickerYou">
                                                 <a href="/2/about-stickeryou/school-fundraising">School Fundraising</a>
                                         </li>
+                                        <li data-category="stickerpro" data-catname="StickerPro Reseller Program" data-parent="Marketing with StickerYou">
+                                                <a href="/2/about-stickeryou/stickerpro">StickerPro Reseller Program</a>
+                                        </li>
+                                        <li data-category="event-sponsorships" data-catname="Event Sponsorships" data-parent="Marketing with StickerYou">
+                                                <a href="/2/about-stickeryou/event-sponsorships">Event Sponsorships</a>
+                                        </li>
+                                        <li data-category="sports-sponsorships" data-catname="Sports Sponsorship" data-parent="Marketing with StickerYou">
+                                                <a href="http://www.stickeryou.com/2/about-stickeryou/sports-sponsorships">Sports Sponsorship</a>
+                                        </li>
                                 </ul>
                         </li>
-                        <li data-category="blog" data-catname="Blog">
-                                <a href="/2/blog">Blog</a>
+                        <li data-category="about-us" data-catname="About Us">
+                                <a href="/2/about-stickeryou/about-us" class="toggle">About Us</a>
+                                <i class="fa fa-caret-down"></i>
+                                <ul data-type="level_2" data-parent="About Us">
+                                        <li data-category="about-us" data-catname="About StickerYou" data-parent="About Us">
+                                                <a href="/2/about-stickeryou/about-us">About StickerYou</a>
+                                        </li>
+                                        <li data-category="blog" data-catname="StickerYou Blog" data-parent="About Us">
+                                                <a href="/2/blog">StickerYou Blog</a>
+                                        </li>
+                                        <li data-category="newsletter-sign-up" data-catname="Sign Up for Our Newsletter" data-parent="About Us">
+                                                <a href="/2/about-stickeryou/newsletter-sign-up">Sign Up for Our Newsletter</a>
+                                        </li>
+                                        <li data-category="Soundest-Marketing-Investment-You-Will-Ever-Make" data-catname="In the News" data-parent="About Us">
+                                                <a href="/2/about-stickeryou/Soundest-Marketing-Investment-You-Will-Ever-Make">In the News</a>
+                                        </li>
+                                        <li data-category="contest" data-catname="Contest" data-parent="About Us">
+                                                <a href="http://www.stickeryou.com/2/about-stickeryou/contest">Contest</a>
+                                        </li>
+                                </ul>
                         </li>
                         <li data-category="#" data-catname="Policies">
                                 <a href="#" class="toggle">Policies</a>
@@ -497,7 +523,7 @@ of this site, or your dealings with this Web site, you can contact us at:
 </p><p></p>
                 <div class="row margin-bottom-30">
                     <div class="col-xs-9 col-sm-6 col-md-5">
-                        <button type="button" name="cta" data-url="https://stickeryou.wufoo.com/forms/send-us-your-feedback/" class="action-button brand-blue-light medium block">Contact Us</button>
+                        <button type="button" name="cta" data-url="/2/support/post/get-in-touch-with-stickeryou" class="action-button brand-blue-light medium block">Contact Us</button>
                     </div>
                 </div>
         </div>
@@ -516,91 +542,81 @@ of this site, or your dealings with this Web site, you can contact us at:
     <div id="home-page-body-pusher"></div>
 
 <footer role="contentinfo" id="footer-full-width">
-<div class="container">
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-3 footer-column">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3 footer-column">
 
-<p>StickerYou Links</p>
-<ul>
-<li><a href="/2/about-stickeryou/about-us">About Us</a></li>
-<li><a href="/2/about-stickeryou/privacy-policy">Privacy Policy</a></li>
-<li><a href="/2/about-stickeryou/terms-of-service">Terms of Use</a></li>
-<li><a href="/2/company/quickquote">Quick Quote</a></li>
-<li><a href="http://stickeryou.affiliatetechnology.com/">Affiliate Program</a></li>
-</ul>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3 footer-column">
+                <p>StickerYou Links</p>
+                <ul>
+                        <li><a href="/2/about-stickeryou/about-us">About Us</a></li>
+                        <li><a href="/2/about-stickeryou/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/2/about-stickeryou/terms-of-service">Terms of Use</a></li>
+                        <li><a href="/2/company/quickquote">Quick Quote</a></li>
+                        <li><a href="http://stickeryou.affiliatetechnology.com/">Affiliate Program</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 footer-column">
 
-<p>Support</p>
-<ul>
-<li><a href="/2/support/post/frequently-asked-questions">FAQs</a></li>
-<li><a href="/2/about-stickeryou/quote">Get a Custom Quote</a></li>
-<li><a href="/2/about-stickeryou/catalog">Request Samples</a></li>
-<li><a href="/2/support/post/get-in-touch-with-stickeryou">Contact Us</a></li>
-</ul>
-</div>
-<div class="clearfix visible-sm"></div>
-<div class="col-xs-12 col-sm-6 col-md-3 footer-column">
+                <p>Support</p>
+                <ul>
+                        <li><a href="/2/support/post/frequently-asked-questions">FAQs</a></li>
+                        <li><a href="/2/about-stickeryou/quote">Get a Custom Quote</a></li>
+                        <li><a href="/2/about-stickeryou/catalog">Request Samples</a></li>
+                        <li><a href="/2/support/post/get-in-touch-with-stickeryou">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="clearfix visible-sm"></div>
+            <div class="col-xs-12 col-sm-6 col-md-3 footer-column">
 
-<p>Connect</p>
-<ul>
-<li><a href="/2/blog">Stickeryou Blog</a></li>
-</ul>
-<ul class="social-nav">
-<li><a href="https://www.facebook.com/stickeryou?v=wall" class="icon-nav facebook-square"></a></li>
-<li><a href="https://twitter.com/StickerYou" class="icon-nav twitter-square"></a></li>
-<li><a href="http://www.pinterest.com/stickeryou/" class="icon-nav pinterest-square"></a></li>
-<li><a href="http://www.youtube.com/StickerYou" class="icon-nav youtube-square"></a></li>
-</ul>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3 footer-column signup">
-<p>Subscribe for exclusive offers:</p>
-<div class="input-group input-group-search">
-<span class="input-group-btn">
-<button id="btnNewsletterSignup" class="btn btn-default btn-gray-dark btn-sm">Sign Me Up</button>
-</span>
-</div>
-<div class="payment-method-links">
-<div id="siteseal">
-<script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=7iIQOOFeBPmNpHEicMTKzGznLZWbJhx9nKXCpcEM53RYiPWOpdOWyWE"></script>
-</div>
-<div>
-<a href="#" onclick="javascript:window.open('https://www.paypal.com/ca/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');">
-<img src="/2/content/images/logos/PayPal_mark_50x34.gif" alt="PayPal" title="PayPal" border="0" height="33" width="50">
-</a>
-<img src="/2/content/images/logos/amex_logo.png" alt="American Express" title="American Express">
-<img src="/2/content/images/logos/visa-mastercard.png" alt="Visa &amp; Mastercard" title="Visa &amp; Mastercard" border="0">                        
-</div>
-</div>
-</div>
-<div id="newsletterSubscribeWindow">
-<img class="icon" src="/2/content/images/default/EmailIcon.png" alt="email icon" width="95" height="94">
-<p class="heading">Thank You!</p>
-<p>Please verify your email address by checking your email.<br>If you did not recieve an email, please check your<br> spam folder or re-submit your email address.</p>
-<button id="newsletterWindowClose" class="button-short">CLOSE</button>
-</div>
-</div>
-<div class="row">
-<div class="col-xs-12 col-sm-12 col-md-12">
-<ul class="footer-nav">
-<li>© 2015 StickerYou Inc.</li>
-</ul>
-</div>
-</div>
-</div>
+                <p>Connect</p>
+                <ul>
+                        <li><a href="/2/blog">Stickeryou Blog</a></li>
+                </ul>
+                <ul class="social-nav">
+                    <li><a href="https://www.facebook.com/stickeryou?v=wall" class="icon-nav facebook-square"></a></li>
+                    <li><a href="https://twitter.com/StickerYou" class="icon-nav twitter-square"></a></li>
+                    <li><a href="http://www.pinterest.com/stickeryou/" class="icon-nav pinterest-square"></a></li>
+                    <li><a href="http://www.youtube.com/StickerYou" class="icon-nav youtube-square"></a></li>
+                </ul>
+                <div class="input-group input-group-search">
+                    <span class="input-group-btn">
+                        <button id="btnNewsletterSignup" class="btn btn-default btn-block btn-gray-dark">Subscribe to Newsletter</button>
+                    </span>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 footer-column signup">
+                <div class="payment-method-links">
+                    <div id="siteseal">
+                        <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=7iIQOOFeBPmNpHEicMTKzGznLZWbJhx9nKXCpcEM53RYiPWOpdOWyWE"></script>
+                    </div>
+                    <div>
+                        <a href="#" onclick="javascript:window.open('https://www.paypal.com/ca/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');">
+                            <img src="/2/content/images/logos/PayPal_mark_50x34.gif" alt="PayPal" title="PayPal" border="0" height="33" width="50">
+                        </a>
+                        <img src="/2/content/images/logos/amex_logo.png" alt="American Express" title="American Express">
+                        <img src="/2/content/images/logos/visa-mastercard.png" alt="Visa &amp; Mastercard" title="Visa &amp; Mastercard" border="0">
+                    </div>
+                    <div>
+                        <a title="Click for the Business Review of StickerYou Inc, a Display Designers &amp; Producers in Toronto ON" href="https://www.bbb.org/kitchener/business-reviews/display-designers-and-producers/stickeryou-in-toronto-on-1310585#sealclick" target="_blank"><img alt="Click for the BBB Business Review of this Display Designers &amp; Producers in Toronto ON" style="border: 0;" src="https://seal-mwco.bbb.org/seals/blue-seal-120-61-stickeryouinc-1310585.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div id="newsletterSubscribeWindow">
+                <img class="icon" src="/2/content/images/default/EmailIcon.png" alt="email icon" width="95" height="94">
+                <p class="heading">Thank You!</p>
+                <p>Please verify your email address by checking your email.<br>If you did not recieve an email, please check your<br> spam folder or re-submit your email address.</p>
+                <button id="newsletterWindowClose" class="button-short">CLOSE</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <ul class="footer-nav">
+                    <li>© 2015 StickerYou Inc.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </footer>
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        $("#btnNewsletterSignup").live("click",function (event) {
-            event.preventDefault();
-            event.stopPropagation();
-
-            window.open('http://stickeryou.us1.list-manage1.com/subscribe?u=4084e2b0f4b6d329e3ec2ed0c&id=cd2ad4e8db', '_blank');
-        });
-    });
-
-</script>
     
 
 <script src="/2/bundles/newssignup?v=Mtmrn0k3HO4UBN_iejTQGW8FDmLYstUl1CaB-sQxHWM1"></script>
