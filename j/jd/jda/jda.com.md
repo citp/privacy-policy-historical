@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322234639id_/http%3A//www.jda.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226080553id_/http%3A//www.jda.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JDA Privacy/Legal Statement | JDA Software
 
@@ -18,7 +18,7 @@ The linked sites are not under the control of JDA and JDA is not responsible for
 This Web Site is controlled by JDA from its offices within the United States of America. JDA makes no representation that materials in the site are appropriate or available for use in other locations, and access to them from territories where their content is illegal is prohibited. Those who choose to access this Web Site from other locations do so on their own initiative and are responsible for compliance with applicable local laws. You may not use or export the Materials in violation of U.S. export laws and regulations.
 
 **TRADEMARK NOTICE**  
-Arthur, Decision Series, E3, Engage, Intactix, JDA, JDA Portfolio, Manugistics, MMS, Portfolio _Enabled_ , Timera, VistaCPG, and Win/DSS are registered trademarks with the United States Patent and Trademark Office, and Advertising and Promotion Management, _CategoryAdvisor_ , Intactix Knowledge Base, Intellect, JDALearn, JDA Intellect, JDA Marketplace, JDA Real Demand Chain Results, Performance Analysis by IDEAS, Planogram Converter, Planogram Generator, Portfolio, Portfolio BOS, Portfolio Infrastructure, Portfolio Knowledge Base, Portfolio Merchandise Management, Portfolio Merchandise Management System-I, Portfolio POS, Portfolio Registry, Portfolio Workforce Management, Real Demand Chain Results, and Trade Event Management are trademarks of JDA Software Group, Inc. Business Management Institute, BMI, Optimize on Demand, and Passport JDA are service marks of JDA Software Group, Inc. All other company and product names may be trademarks of their respective owners. The information contained herein is subject to change without notice.
+Arthur, Decision Series, E3, Engage, Intactix, JDA, JDA Portfolio, Manugistics, MMS, Portfolio _Enabled_ , Timera, VistaCPG, and Win/DSS are registered trademarks with the United States Patent and Trademark Office, and Advertising and Promotion Management, _CategoryAdvisor_ , Category Knowledge Base, Intellect, JDALearn, JDA Intellect, JDA Marketplace, JDA Real Demand Chain Results, Performance Analysis by IDEAS, Planogram Converter, Planogram Generator, Portfolio, Portfolio BOS, Portfolio Infrastructure, Portfolio Knowledge Base, Portfolio Merchandise Management, Portfolio Merchandise Management System-I, Portfolio POS, Portfolio Registry, Portfolio Workforce Management, Real Demand Chain Results, and Trade Event Management are trademarks of JDA Software Group, Inc. Business Management Institute, BMI, Optimize on Demand, and Passport JDA are service marks of JDA Software Group, Inc. All other company and product names may be trademarks of their respective owners. The information contained herein is subject to change without notice.
 
 **GENERAL**  
 JDA may revise these terms at any time by updating this posting. You should visit this page from time to time to review the then-current terms because they are binding on you. Certain provisions of these terms may be superseded by expressly designated legal notices or terms located on particular pages at this site. Copyright © 1999-2014 JDA Software Group, Inc. All Rights Reserved. All other trademarks and copyrights are the property of their respective holders.
@@ -53,7 +53,7 @@ By using our Web Site, you signify your assent to our Privacy Policy. If you do 
 If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with our Web Site, please contact [webmaster@jda.com](mailto:webmaster@jda.com).
 
 **ONLINE SOFTWARE LICENSE AND MAINTENANCE AGREEMENT**  
-[Click here](http://jda.com/Software-License-and-Maintenance-Agreement) to view the standard online Software License And Maintenance Agreements.
+[Click here](https://web.archive.org/company/software-license-and-maintenance-agreement) to view the standard online Software License And Maintenance Agreements.
 
 **OTHER JDA LEGAL LINKS  **  
 [Click here](https://web.archive.org/company/intactix-software-license-agreements) to view standard Intactix Software License Agreements.
