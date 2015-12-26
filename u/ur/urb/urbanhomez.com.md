@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanhomez.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616092813id_/http%3A//www.urbanhomez.com/cms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanhomez.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226214346id_/http%3A//www.urbanhomez.com/cms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy of www.UrbanHomez.com
+# 
 
 **Valion Infosystems Pvt. Ltd.** {hereinafter referred to as " **Valion** "} is committed to safeguarding its Users privacy. We request all our Users to read the following **'Privacy Policy** ' to understand how their personal & business information will be treated, as they make full use of our services to their benefit.
 
