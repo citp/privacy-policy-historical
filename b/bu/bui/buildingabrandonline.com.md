@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buildingabrandonline.com privacy policy that was archived on 2015-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150112084402id_/http%3A//www.empowernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingabrandonline.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226064051id_/http%3A//www.empowernetwork.com/privacy) for the most accurate reproduction.*
 
-# EmpowerNetwork.com Privacy Policy for the website
+# Welcome to Empower Network - Privacy Policy
 
 This site (the "Site") is owned by Empower Network, LLC, a Florida limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
@@ -35,7 +35,6 @@ We have implemented a number of security measures to help protect against the lo
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. In the event of substantive changes to this Privacy Policy, the new terms will be posted to the Site, you will be required to affirmatively assent to its terms, and you may also be notified by email. If any modification is unacceptable to you, your only recourse is not to use the Site and Service and to request an immediate termination of your membership. Your express consent or continued use of the Site or our Service following posting of a change notice or new Privacy Policy on the Site will constitute binding acceptance of the changes. 
 
 This site is owned and operated by **Empower Network, LLC**  
-146 Second Street North  
-St. Petersburg, Florida 33701  
-Suite 201  
+2840 West Bay Drive, #166  
+Belleair Bluffs, FL 33770  
 Effective Date: November 7, 2011 
