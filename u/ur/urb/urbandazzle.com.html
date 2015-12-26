@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the urbandazzle.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627162807id_/http%3A//www.urbandazzle.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urbandazzle.com privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226012547id_/http%3A//www.urbandazzle.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:addthis="http://www.addthis.com/help/api-spec" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8">
@@ -144,6 +144,16 @@ _gaq.push(['_trackPageview']);
     </noscript>
     <div class="page">
         
+<!-- Google Tag Manager -->
+<!-- <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K3L2V4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3L2V4');</script> -->
+<!-- End Google Tag Manager -->
+
 <!-- social icons -->
 <div class="social-icons">
     <div class="s-i"><a href="http://www.facebook.com/urbandazzle" target="_blank"><i class="fa fa-facebook"></i></a></div>
@@ -237,7 +247,7 @@ _gaq.push(['_trackPageview']);
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/water-glass.html">Water Glass</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/highball-glass.html">Highball Glass</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/collins.html">Collins</a></li>
-                                                                <li><a href="http://www.urbandazzle.com/drinkware/tumbler/double-old-fashioned.html">Double-Old Fashioned</a></li>
+                                                                <li><a href="http://www.urbandazzle.com/drinkware/tumbler/double-old-fashioned.html">Whisky Glasses</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/old-fashioned.html">Old Fashioned</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/beer-mugs.html">Beer Mugs</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/shot-glass.html">Shot Glass</a></li>
@@ -646,7 +656,7 @@ _gaq.push(['_trackPageview']);
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/water-glass.html">Water Glass</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/highball-glass.html">Highball Glass</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/collins.html">Collins</a></li>
-                                                                <li><a href="http://www.urbandazzle.com/drinkware/tumbler/double-old-fashioned.html">Double-Old Fashioned</a></li>
+                                                                <li><a href="http://www.urbandazzle.com/drinkware/tumbler/double-old-fashioned.html">Whisky Glasses</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/old-fashioned.html">Old Fashioned</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/beer-mugs.html">Beer Mugs</a></li>
                                                                 <li><a href="http://www.urbandazzle.com/drinkware/tumbler/shot-glass.html">Shot Glass</a></li>
@@ -1337,54 +1347,72 @@ _TConnecto.licenseKey = 'V9JJ8RVPINOLCFNK';
 var raframetemp = document.getElementById('raframe');
 if(raframetemp == null)
 {	
-	var raa_appid = "556385b084ae16680eabca63"; 
-	var raa_serverurl = (window.location.protocol == "https:")?"https://retailautomata.com:8443":"http://retailautomata.com:8080";
-	var raa_resourceurl = "urbandazzle/"; // e.g 'casadoro/'
-	var raa_prediction = 1;
 	
+	var raa_serverurl = "";	
+	
+	if(localStorage.getItem("raaresourceurl") === null)
+	{
+		raa_serverurl = (window.location.protocol == "https:")?"https://167.88.10.122:8443":"http://167.88.10.122:8080";
+		
+	}else {			
+		var date1 = new Date(localStorage.getItem("raaresourcecreated"));
+		var date2 = new Date();
+		var diff = date2.valueOf() - date1.valueOf();
+		var diffInHours = diff/1000/60/60;		
+		if(diffInHours > 1)
+		{			
+			localStorage.removeItem("raaresourceurl");	
+			localStorage.removeItem("raaresourcecreated");	
+			raa_serverurl = (window.location.protocol == "https:")?"https://167.88.10.122:8443":"http://167.88.10.122:8080";			
+		}
+		else
+		{
+			raa_serverurl = localStorage.getItem("raaresourceurl");
+		}	
+	}
+		
+   
+	var raa_resourceurl = raa_serverurl + "/ralib/magento/raa.js";	
+	var raa_second_serverurl = (window.location.protocol == "https:")?"https://www.rrjewels.com:8443":"http://www.rrjewels.com:8080";			
+	var raa_third_serverurl = (window.location.protocol == "https:")?"https://www.retailrecoanalytics.com:8443":"http://www.retailrecoanalytics.com:8080";	
+
+
+	var raa_resourcedir =  "urbandazzle";   
+	var raa_appid = "556385b084ae16680eabca63"; 
+	var raa_prediction = 1;	
 	var raa_clientip = "204.236.235.245";
+	var raa_enable = "1";
 	var raa_baseurl = "http://www.urbandazzle.com/";
 	var raa_base_currency = "INR";
 	var raa_current_currency = "INR";	
 	var raa_currency_rates = {"INR":[]};
+	var raa_store_id = "1";	
+
 	
-	function initiateRaa(timeout)
-	 {		
-		setTimeout(function()
-		{
-			try{							
-				 var raframe = document.getElementById('raframe');					
-				if(typeof raframe =="undefined" || typeof raframe =="null")
-				{
-					initiateRaa(1000);
-				}
-				else
-				{			
-					 raframe.contentWindow.raaConstants["APPID"] = raa_appid;
-					 raframe.contentWindow.raaConstants["SERVERURL"] = raa_serverurl;	
-					 raframe.contentWindow.raaConstants["RAA_PREDICTION"] = raa_prediction;
-					 raframe.contentWindow.raaConstants["RAA_DOM"] = window.document;	
-					 raframe.contentWindow.raaConstants["RAA_BASEURL"] = raa_baseurl;	
-					 raframe.contentWindow.raaConstants["CLIENTIP"] = raa_clientip;	
-					 raframe.contentWindow.raaConstants["BASE_CURRENCY"] = raa_base_currency;	
-					 raframe.contentWindow.raaConstants["CURRENT_CURRENCY"] = raa_current_currency;	
-					 raframe.contentWindow.raaConstants["CURRENCY_RATES"] = raa_currency_rates;	
-					 									
-					 var raanalytics = new raframe.contentWindow.raa();
-					 raanalytics.init();
-				}
-			}
-			catch(err)
-			{			
-				initiateRaa(1000);				
-			}					
-		},timeout);
+	function initiateRaa()
+	 {				
+		var raframe = document.getElementById('raframe');
+		 raframe.contentWindow.raaConstants["APPID"] = raa_appid;
+		 raframe.contentWindow.raaConstants["STOREID"] = raa_store_id;
+		 raframe.contentWindow.raaConstants["SERVERURL"] = raa_serverurl;	
+		 raframe.contentWindow.raaConstants["RAA_PREDICTION"] = raa_prediction;
+		 raframe.contentWindow.raaConstants["RAA_DOM"] = window.document;	
+		 raframe.contentWindow.raaConstants["RAA_BASEURL"] = raa_baseurl;	
+		 raframe.contentWindow.raaConstants["CLIENTIP"] = raa_clientip;	
+		 raframe.contentWindow.raaConstants["BASE_CURRENCY"] = raa_base_currency;	
+		 raframe.contentWindow.raaConstants["CURRENT_CURRENCY"] = raa_current_currency;	
+		 raframe.contentWindow.raaConstants["CURRENCY_RATES"] = raa_currency_rates;						 									
+		 var raanalytics = new raframe.contentWindow.raa();
+		 raanalytics.run();				
 	 } 	
 	
-	(function(){function a(a){var b,c,d=window.document.createElement("iframe");d.id="raframe";d.src="javascript:false",(d.frameElement||d).style.cssText="width: 0; height: 0; border: 0";var e=window.document.createElement("div");e.style.display="none";var f=window.document.createElement("div");e.appendChild(f),window.document.body.insertBefore(e,window.document.body.firstChild),f.appendChild(d);try{c=d.contentWindow.document}catch(g){b=document.domain,d.src="javascript:var d=document.open();d.domain='"+b+"';void(0);",c=d.contentWindow.document}return c.open()._l=function(){b&&(this.domain=b);var c=this.createElement("scr".concat("ipt"));c.src=a,this.body.appendChild(c);},c.write("<bo".concat('dy onload="document._l();">')),c.close(),d}var b="raa";window[b]=window[b]||function(a){(window[b].q=window[b].q||[]).push(a)},window[b].l=new Date;var c=function(d,e){if(!document.body)return setTimeout(function(){c(d,e)},30);e=e||{},window[b].o=e;var f=document.location.protocol,g=[raa_serverurl||"retailautomata.com",e.path||"/ralib/magento/"+ raa_resourceurl ,"raa.js"].join("");a(g)};window[b].init=c})();
-	
-	 raa.init(raa_appid);
-	 initiateRaa(500);	
+	(function(){function a(a){var b,c,d=window.document.createElement("iframe");d.id="raframe";d.src="javascript:false",(d.frameElement||d).style.cssText="width: 0; height: 0; border: 0";var e=window.document.createElement("div");e.style.display="none";var f=window.document.createElement("div");e.appendChild(f),window.document.body.insertBefore(e,window.document.body.firstChild),f.appendChild(d);try{c=d.contentWindow.document}catch(g){b=document.domain,d.src="javascript:var d=document.open();d.domain='"+b+"';void(0);",c=d.contentWindow.document}return c.open()._l=function(){b&&(this.domain=b);var c=this.createElement("scr".concat("ipt"));c.onerror=function(){try{localStorage.removeItem("raaresourceurl");localStorage.removeItem("raaresourcecreated");var xhr = (window.XMLHttpRequest)?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP");xhr.open('GET', raa_second_serverurl + "/RAService/isrunning", true);xhr.setRequestHeader("Content-type","application/x-www-form-urlencoded");xhr.onreadystatechange=function(){if(xhr.readyState == 4 ){if (xhr.status == 200){localStorage.setItem("raaresourceurl",raa_second_serverurl);localStorage.setItem("raaresourcecreated", new Date());}else{var xhr2 = (window.XMLHttpRequest)?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP");xhr2.open('GET', raa_third_serverurl + "/RAService/isrunning", true);xhr2.setRequestHeader("Content-type","application/x-www-form-urlencoded");xhr2.onreadystatechange=function(){if (xhr2.readyState == 4){if (xhr2.status == 200){localStorage.setItem("raaresourceurl",raa_third_serverurl);localStorage.setItem("raaresourcecreated", new Date());}}};xhr2.send();}}};xhr.send();}catch(err){console.log("err from raa script onerror event : " + JSON.stringify(err.message ));}};c.onload=function(){try{var raa_client_resourcedir = (raa_resourcedir.trim() == "")?"default":raa_resourcedir;var raa_client_resourceurl = raa_serverurl + "/ralib/magento/" + raa_client_resourcedir + "/raaclient.js";var script = window.document.createElement('script');script.setAttribute('src', raa_client_resourceurl);script.onload=function(){initiateRaa();};window.document.body.appendChild(script);}catch(err){console.log("err from raa script onload event : " + JSON.stringify(err.message ));}};c.src=a,this.body.appendChild(c);},c.write("<bo".concat('dy onload="document._l();">')),c.close(),d}var b="raa";window[b]=window[b]||function(a){(window[b].q=window[b].q||[]).push(a)},window[b].l=new Date;var c=function(d,e){if(!document.body)return setTimeout(function(){c(d,e)},30);e=e||{},window[b].o=e;var f=document.location.protocol,g=raa_resourceurl;a(g)};window[b].init=c})();
+
+	if(raa_enable == true)
+	{		
+	  raa.init(raa_appid);	 	  
+	}
+		
 }
 </script>
     </div>
