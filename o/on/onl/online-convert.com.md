@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052604id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226080317id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy of online-convert.com
 
@@ -34,7 +34,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## 8\. Closing your account
 
-In order to close your account and to delete your personal data at online-convert.com, please [Login](https://www.online-convert.com/login) , go to the user dashboard and select the option "Close account". 
+In order to close your account and to delete your personal data at online-convert.com, please [Login](https://www.online-convert.com/login), go to the user dashboard and select the option "Close account". 
 
 ## 9\. Cookies and Web Beacons
 
