@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeholdboro.k12.nj.us privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626103149id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeholdboro.k12.nj.us privacy policy that was archived on 2015-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226073742id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Privacy policy / Privacy policy</title>
@@ -15,48 +15,63 @@
     
     <!-- Begin swuc.GlobalJS -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580433300000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.schoolwires.com/Static/V2_10_01/";
+ staticURL = "http://www.schoolwires.com/Static/V2_12_01/";
  SessionTimeout = "0";
 </script>
 <!-- End swuc.GlobalJS -->
-    
-    
+
+
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01/App_Themes/SW/jQueryUI.css">
-    
-    
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Light.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Italic.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-Regular.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/OpenSans-SemiBold.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/webfonts/SchoolwiresMobile.css">
+
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
 
     
 
-   <!--  -->
-    
-<script type="text/javascript">
+    <!--  -->
+
+    <script type="text/javascript">
     $(document).ready(function() {
-        SetCookie('SWScreenWidth', screen.width);
-        SetCookie('SWClientWidth', document.body.clientWidth);
+            SetCookie('SWScreenWidth', screen.width);
+            SetCookie('SWClientWidth', document.body.clientWidth);
 
-        //If small browser window and responsive template and first load, reload to get the off-canvas menu
-        var isResponsiveTemplatePreInit = 'False';
-        var isResponsive = 'False';
+            //If small browser window and responsive template and first load, reload to get the off-canvas menu
+            var isResponsiveTemplatePreInit = 'False';
+            var isResponsive = 'False';
 
-        if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
-            window.location.reload(true);
-        } 
+            if (isResponsiveTemplatePreInit == 'False' && isResponsive == 'True' && document.body.clientWidth < 1024) {
+                window.location.reload(true);
+            }
 
-        $("div.ui-article:last").addClass("last-article");
-        $("div.region .app:last").addClass("last-app");
-    });
+            $("div.ui-article:last").addClass("last-article");
+            $("div.region .app:last").addClass("last-app");
+
+            // get on screen alerts
+            var isAnyActiveOSA = 'False';
+            var onscreenAlertCookie = GetCookie('Alerts');
+
+            if (onscreenAlertCookie == '' || onscreenAlertCookie == undefined) {
+                onscreenAlertCookie = "";
+            }
+            if (isAnyActiveOSA == 'True') {
+            GetContent(homeURL + "/cms/Tools/OnScreenAlerts/UserControls/OnScreenAlertDialogListWrapper.aspx?OnScreenAlertCookie=" + onscreenAlertCookie + "&SiteID=4", "onscreenalert-holder", 2, "OnScreenAlertCheckListItem();");
+            }
+        });
 
     // ADA SKIP NAV
     $(document).ready(function() {
@@ -76,18 +91,18 @@
     // ADA MYSTART
     $(document).ready(function () {
         var top_level_nav = $('.sw-mystart-nav');
- 
+
         // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
         // school dropdown
         $(top_level_nav).find('ul').find('a').attr('tabIndex', -1);
 
         // my account dropdown
         $(top_level_nav).next('ul').find('a').attr('tabIndex', -1);
- 
+
         $(top_level_nav).focus(function() {
             // hide open menus
             hideMyStartBarMenu();
- 
+
             // show school dropdown
             if ($(this).find('ul').length > 0) {
                 $(this).find('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
@@ -99,7 +114,7 @@
                 $('#sw-mystart-account').addClass("clicked-state");
             }
         });
- 
+
         // Bind arrow keys for navigation
         $(top_level_nav).keydown(function(e) {
             if (e.keyCode == 37) { //key left
@@ -161,7 +176,7 @@
                 });
             }
         });
-       
+
         // school dropdown
         var startbarlinks = $(top_level_nav).find('ul').find('a');
         bindMyStartBarLinks(startbarlinks);
@@ -169,7 +184,7 @@
         // my account dropdown
         var myaccountlinks = $(top_level_nav).next('ul').find('a');
         bindMyStartBarLinks(myaccountlinks);
- 
+
         function bindMyStartBarLinks(links) {
             $(links).keydown(function(e) {
                 e.stopPropagation();
@@ -189,7 +204,7 @@
                     }
                 } else if (e.keyCode == 40) { //key down
                     e.preventDefault();
-                    
+
                     if ($(this).parent('li').next('li').length == 0) {
                         if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
                             $(this).parents('ul').parents('.sw-mystart-nav').focus();
@@ -216,7 +231,7 @@
                             return false;
                         }
                     });
-                   
+
                     if (!found) {
                         $(this).parent('div').prevAll('li').find('a').each(function() {
                             if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
@@ -228,7 +243,7 @@
                 }
             });
         }
- 
+
         // Hide menu if click or focus occurs outside of navigation
         $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function(e) { 
             if (e.keyCode == 9) {
@@ -245,7 +260,7 @@
         $('.sw-mystart-button').find('a').focus(function() {
             hideMyStartBarMenu();
         });
-       
+
         $('#sw-mystart-inner').click(function(e) {
             e.stopPropagation();
         });
@@ -345,9 +360,9 @@
         };
 
         // Add ARIA role to menubar and menu items
-        $('#channel-navigation').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+        $('[id="channel-navigation"]').attr('role', 'menubar').find('li').attr('role', 'menuitem');
 
-        var top_level_links = $('#channel-navigation').find('> li > a');
+        var top_level_links = $('[id="channel-navigation"]').find('> li > a');
 
         // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
         $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
@@ -476,14 +491,14 @@
         }
 
         // Hide menu if click or focus occurs outside of navigation
-        $('#channel-navigation').find('a').last().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').last().keydown(function (e) {
             if (e.keyCode == 9) {
                 // If the user tabs out of the navigation hide all menus
                 hideChannelMenu();
             }
         });
 
-        $('#channel-navigation').find('a').first().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').first().keydown(function (e) {
             if (e.keyCode == 9) {
                 // hide open MyStart Bar menus
                 hideMyStartBarMenu();
@@ -494,12 +509,12 @@
             hideChannelMenu();
         });*/
 
-        $('#channel-navigation').click(function(e) {
+        $('[id="channel-navigation"]').click(function (e) {
             e.stopPropagation();
         });
     });
     </script>
-    
+
     <!-- Page -->
     
     <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
@@ -4308,70 +4323,70 @@ ga('send', 'pageview');
     </script>
 <!-- End of Async HubSpot Analytics Code -->
 <script src="//fast.wistia.com/static/integrations-hubspot-v1.js" async=""></script>
-    
+
     <!-- App Preview -->
     
-	
-	
-	<style type="text/css">
-		/* HOMEPAGE EDIT THUMBNAIL STYLES */
-		
-		div.region {
+
+
+    <style type="text/css">
+        /* HOMEPAGE EDIT THUMBNAIL STYLES */
+
+        div.region {
 		    
-		}
-		
-		div.region span.homepage-thumb-region-number {
-		    font: bold 100px verdana;
-		    color: #fff;  
-		}
-		
-		div.homepage-thumb-region {
-		    background: #264867; /*dark blue*/
-		    border: 5px solid #fff;
-		    text-align: center;
-		    padding: 40px 0 40px 0;
-		    display: block;
-		}
-		div.homepage-thumb-region.region-1 {
-		    background: #264867; /*dark blue*/
-		}
-		div.homepage-thumb-region.region-2 {
-		    background: #5C1700; /*dark red*/
-		}
-		div.homepage-thumb-region.region-3 {
-		    background: #335905; /*dark green*/
-		}
-		div.homepage-thumb-region.region-4 {
-		    background: #B45014; /*dark orange*/
-		}
-		div.homepage-thumb-region.region-5 {
-		    background: #51445F; /*dark purple*/
-		}
-		div.homepage-thumb-region.region-6 {
-		    background: #3B70A0; /*lighter blue*/
-		}
-		div.homepage-thumb-region.region-7 {
-		    background: #862200; /*lighter red*/
-		}
-		div.homepage-thumb-region.region-8 {
-		    background: #417206; /*lighter green*/
-		}
-		div.homepage-thumb-region.region-9 {
-		    background: #D36929; /*lighter orange*/
-		}
-		div.homepage-thumb-region.region-10 {
-		    background: #6E5C80; /*lighter purple*/
-		}
-		
-		/* END HOMEPAGE EDIT THUMBNAIL STYLES */
-	</style>
-	
-	<style type="text/css" media="print">
-       .noprint {
-           display: none !important;
-       }
+        }
+
+            div.region span.homepage-thumb-region-number {
+                font: bold 100px verdana;
+                color: #fff;
+            }
+
+        div.homepage-thumb-region {
+            background: #264867; /*dark blue*/
+            border: 5px solid #fff;
+            text-align: center;
+            padding: 40px 0 40px 0;
+            display: block;
+        }
+            div.homepage-thumb-region.region-1 {
+                background: #264867; /*dark blue*/
+            }
+            div.homepage-thumb-region.region-2 {
+                background: #5C1700; /*dark red*/
+            }
+            div.homepage-thumb-region.region-3 {
+                background: #335905; /*dark green*/
+            }
+            div.homepage-thumb-region.region-4 {
+                background: #B45014; /*dark orange*/
+            }
+            div.homepage-thumb-region.region-5 {
+                background: #51445F; /*dark purple*/
+            }
+            div.homepage-thumb-region.region-6 {
+                background: #3B70A0; /*lighter blue*/
+            }
+            div.homepage-thumb-region.region-7 {
+                background: #862200; /*lighter red*/
+            }
+            div.homepage-thumb-region.region-8 {
+                background: #417206; /*lighter green*/
+            }
+            div.homepage-thumb-region.region-9 {
+                background: #D36929; /*lighter orange*/
+            }
+            div.homepage-thumb-region.region-10 {
+                background: #6E5C80; /*lighter purple*/
+            }
+
+        /* END HOMEPAGE EDIT THUMBNAIL STYLES */
     </style>
-    
+
+    <style type="text/css" media="print">
+        .noprint {
+            display: none !important;
+        }
+    </style>
+
     
 
 <!-- Begin Schoolwires Traffic Code --> 
@@ -4401,10 +4416,10 @@ ga('send', 'pageview');
 
 </script>
 
-<!-- End Schoolwires Traffic Code -->  
- 
+<!-- End Schoolwires Traffic Code --> 
+
     
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+</head>
 <body>
 
     <!-- ADA Skip Nav -->
@@ -4412,15 +4427,15 @@ ga('send', 'pageview');
         <a href="#sw-maincontent" id="skipLink" class="sw-skipnav">Skip to Main Content</a>
     </div>
 
-<!-- off-canvas menu enabled-->
+    <!-- off-canvas menu enabled-->
+    
 
-
-	
+    
 
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.schoolwires.com/Static/V2_10_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.schoolwires.com/Static/V2_12_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -4495,7 +4510,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_10_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_12_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -5113,13 +5128,13 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <div id="sw-footer-links">
 <ul>
 <li><a title="Click to email the primary contact" href="mailto:rob.madgwick@schoolwires.com">Questions or Feedback?</a> | </li>
-<li><a href="http://www.schoolwires.com/privacy" target="_blank">Schoolwires Privacy Policy (Updated)</a> | </li>
+<li><a href="http://www.schoolwires.com/privacy" target="_blank">Blackboard Schoolwires Privacy Policy (Updated)</a> | </li>
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2015 Schoolwires, Inc. All rights reserved.</div>
-<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.schoolwires.com/Static/V2_10_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires Centricity2 logo">
+<div id="sw-footer-copyright">Copyright © 2002-2015 Blackboard, Inc. All rights reserved.</div>
+<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires.">
+<img src="http://www.schoolwires.com/Static/V2_12_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires logo">
 </a></div>
 </div>
 </div>
@@ -5127,7 +5142,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- END - STANDARD FOOTER -->
 <script type="text/javascript">
    $(document).ready(function(){
-      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=7a9ea33b-fb09-41b9-a3bd-849b2709466d&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=6%2f26%2f2015+6%3a31%3a49+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=207.241.237.211';
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=70a5f261-8abc-469e-8675-bf46b7eb6495&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=12%2f26%2f2015+2%3a37%3a42+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=207.241.237.211';
       try {
          $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
       } catch(err) { 
@@ -5135,11 +5150,11 @@ function LoadTaggedData(container, MIID, PMI, tag) {
       }
    });
 </script>
-  
-    <input type="hidden" id="hid-pageid" value="345">  
- 
+
+    <input type="hidden" id="hid-pageid" value="345">
 
 
+    
 
 <div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
 
@@ -5206,7 +5221,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     });
 </script>
 
-<div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
+    <div id="dialog-overlay-MyAccountSubscriptionOverlay-base" class="ui-dialog-overlay-base-modal"><div id="MyAccountSubscriptionOverlay" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;MyAccountSubscriptionOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-MyAccountSubscriptionOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-MyAccountSubscriptionOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-MyAccountSubscriptionOverlay-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5239,83 +5254,83 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <script type="text/javascript">
 
 		$(document).ready(function() {
-			removeBrokenImages();
-			checkSidebar();
-			RemoveCookie();
-			
+            removeBrokenImages();
+            checkSidebar();
+            RemoveCookie();
+
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).find('ul').length == 0) {
-			        $(this).removeClass('collapsible');
-			    } 
-			});
-			
-			// find page nav state cookie and add open chevron
-			var arrValues = GetCookie('SWPageNavState').split('~');
+                if ($(this).find('ul').length == 0) {
+                    $(this).removeClass('collapsible');
+                }
+            });
+
+            // find page nav state cookie and add open chevron
+            var arrValues = GetCookie('SWPageNavState').split('~');
 
 			$.each(arrValues, function() {
-				if (this != '') {
-					$('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
-				}
-			});
+                if (this != '') {
+                    $('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                }
+            });
 
-			// find remaining sub menus and add closed chevron and close menu
+            // find remaining sub menus and add closed chevron and close menu
 			$('.navigation li > ul').each(function() {
-			    var list = $(this);
-			    
-			    if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
-			        // open sub for currently selected page                    
-			        list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
-			    } else {
-			        if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
-			            // open sub for page with auto expand
-			            list.siblings('div.expandable').remove();
-			            list.parent().prepend("<div class='bullet collapsible' />");
-			        }
-			    }
+                var list = $(this);
 
-				if (!list.siblings('div').hasClass('collapsible')) {
-				    // keep all closed that aren't already set to open
-					list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
-					ClosePageSubMenu(list.parent());
-				} else {
-					OpenPageSubMenu(list.parent());
-				}
-			});
-			
-			// remove bullet from hierarchy if no-bullet set
+                if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
+                    // open sub for currently selected page                    
+                    list.parent().addClass('collapsible').prepend("<div class='bullet collapsible' />");
+                } else {
+                    if (list.parent().hasClass('collapsible') && !list.siblings('div').hasClass('collapsible')) {
+                        // open sub for page with auto expand
+                        list.siblings('div.expandable').remove();
+                        list.parent().prepend("<div class='bullet collapsible' />");
+                    }
+                }
+
+                if (!list.siblings('div').hasClass('collapsible')) {
+                    // keep all closed that aren't already set to open
+                    list.parent().addClass('expandable').prepend("<div class='bullet expandable' />");
+                    ClosePageSubMenu(list.parent());
+                } else {
+                    OpenPageSubMenu(list.parent());
+                }
+            });
+
+            // remove bullet from hierarchy if no-bullet set
 			$('.navigation li.collapsible').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('collapsible');}
-			        $(this).children('div.collapsible').remove();
-			    }
-			});
+                    $(this).children('div.collapsible').remove();
+                }
+            });
 
 			$('.navigation li.expandable').each(function() {
-			    if ($(this).hasClass('no-bullet')) {
+                if ($(this).hasClass('no-bullet')) {
 			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('expandable');}
-			        $(this).children('div.expandable').remove();
-			    }
-			});
-			
+                    $(this).children('div.expandable').remove();
+                }
+            });
+
 			$('.navigation li:not(.collapsible,.expandable,.no-bullet)').each(function() {
-			    $(this).prepend("<div class='bullet' />");
-			});
-		
+                $(this).prepend("<div class='bullet' />");
+            });
+
 			$('.navigation li.active').parents('ul').each(function() {
                 if (!$(this).hasClass('page-navigation')) {
                     OpenPageSubMenu($(this).parent());
                 }
             });
-		
-			// set click event for chevron
+
+            // set click event for chevron
             $(document).on('click', '.navigation div.collapsible', function() {
-				ClosePageSubMenu($(this).parent());
-			});
+                ClosePageSubMenu($(this).parent());
+            });
 
             $(document).on('click', '.navigation div.expandable', function() {
-				OpenPageSubMenu($(this).parent());
+                OpenPageSubMenu($(this).parent());
             });
-            
+
             // set navigation grouping links
             $(document).on('click', '.navigationgroup.collapsible > a', function() {
                 ClosePageSubMenu($(this).parent());
@@ -5323,263 +5338,271 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
             $(document).on('click', '.navigationgroup.expandable > a', function() {
                 OpenPageSubMenu($(this).parent());
-            });				
-			
-			//SW MYSTART DROPDOWNS
+            });
+
+            //SW MYSTART DROPDOWNS
             $(document).on('click', '.sw-mystart-dropdown', function() {
                 $(this).children(".sw-dropdown").css("display", "block");
-			});
+            });
 
 		    $(".sw-mystart-dropdown").hover(function() {}, function() {
-		        $(this).children(".sw-dropdown").hide();
-		        $(this).blur();
+                $(this).children(".sw-dropdown").hide();
+                $(this).blur();
             });
 
-		    //SW ACCOUNT DROPDOWN
+            //SW ACCOUNT DROPDOWN
 		    $(document).on('click', '#sw-mystart-account', function() {
-		        $(this).children("#sw-myaccount-list").show();
-		        $(this).addClass("clicked-state");
-		    });
+                $(this).children("#sw-myaccount-list").show();
+                $(this).addClass("clicked-state");
+            });
 
 			$("#sw-mystart-account, #sw-myaccount-list").hover(function() {}, function() {
-				$(this).children("#sw-myaccount-list").hide();
-				$(this).removeClass("clicked-state");
-				$("#sw-myaccount").blur();
-			});
-			   
-		   // set hover class for page and section navigation
-		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
-		        $(this).addClass('hover');
-		   }, function() {
-		        $(this).removeClass('hover');
-		   });
-
-		}); // end document ready
-		
-		function OpenPageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('expandable').addClass('collapsible');
-			    li.find('div:first').removeClass('expandable').addClass('collapsible');	
-			    li.find('ul:first').show();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function ClosePageSubMenu(li) {
-            if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('collapsible').addClass('expandable');
-			    li.find('div:first').removeClass('collapsible').addClass('expandable');	 
-			    li.find('ul:first').hide();
-
-			    PageNavigationStateCookie();
-            }
-		}
-		
-		function PageNavigationStateCookie() {
-		    var strCookie = "";
-
-			$('.pagenavigation li > ul').each(function() {
-			    var item = $(this).parent('li');
-				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
-					strCookie += $(this).parent().attr('id') + '~';
-				}
+                $(this).children("#sw-myaccount-list").hide();
+                $(this).removeClass("clicked-state");
+                $("#sw-myaccount").blur();
             });
 
-			SetCookie('SWPageNavState', strCookie);
-		}
-		
+            // set hover class for page and section navigation
+		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
+                $(this).addClass('hover');
+		   }, function() {
+                $(this).removeClass('hover');
+            });
+
+        }); // end document ready
+
+        function OpenPageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                if (li.hasClass('expandable')) {
+                    li.removeClass('expandable').addClass('collapsible');
+                }
+                if (li.find('div:first').hasClass('expandable')) {
+                    li.find('div:first').removeClass('expandable').addClass('collapsible');
+                }
+                li.find('ul:first').show();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function ClosePageSubMenu(li) {
+            if (li.prop('tagName').toLowerCase() == "li") {
+                li.removeClass('collapsible').addClass('expandable');
+                li.find('div:first').removeClass('collapsible').addClass('expandable');
+                li.find('ul:first').hide();
+
+                PageNavigationStateCookie();
+            }
+        }
+
+        function PageNavigationStateCookie() {
+            var strCookie = "";
+
+			$('.pagenavigation li > ul').each(function() {
+                var item = $(this).parent('li');
+				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
+                    strCookie += $(this).parent().attr('id') + '~';
+                }
+            });
+
+            SetCookie('SWPageNavState', strCookie);
+        }
+
 		function checkSidebar(){
 		   $(".ui-widget-sidebar").each(function() {
 			   if($.trim($(this).html()) != ""){
-				   $(this).show();
-				   $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
-			   } 
-		   });
+                    $(this).show();
+                    $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
+                }
+            });
         }
 
 		function removeBrokenImages(){
-		   //REMOVES ANY BROKEN IMAGES
+            //REMOVES ANY BROKEN IMAGES
 		    $("span.img img").each(function() {
-		        if ($(this).attr("src") !== undefined) {
-		            $(this).parent().parent().show();
-		            $(this).parent().parent().siblings().addClass("has-thumb");
-		        } 
-		    });
-		}
+                if ($(this).attr("src") !== undefined) {
+                    $(this).parent().parent().show();
+                    $(this).parent().parent().siblings().addClass("has-thumb");
+                }
+            });
+        }
 
-		function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
-		    (userRegID === undefined ? userRegID = 0 : '');
-		    (isEdit === undefined ? isEdit = false : '');
-		    OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.schoolwires.com//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
-		}
+        function LoadEventDetailUE(moduleInstanceID, eventDateID, userRegID, isEdit) {
+            (userRegID === undefined ? userRegID = 0 : '');
+            (isEdit === undefined ? isEdit = false : '');
+            OpenDialogOverlay("WindowMediumModal", { LoadType: "U", LoadURL: "http://www.schoolwires.com//site/UserControls/Calendar/EventDetailWrapper.aspx?ModuleInstanceID=" + moduleInstanceID + "&EventDateID=" + eventDateID + "&UserRegID=" + userRegID + "&IsEdit=" + isEdit });
+        }
 
-		function RemoveCookie() {
-		    // There are no sub page            
-		    if ($('.pagenavigation li li').length == 0) {
-		        //return false;
-		        PageNavigationStateCookie();
-		    }
-		}
-	</script>
-	
-	<script type="text/javascript">
+        function RemoveCookie() {
+            // There are no sub page            
+            if ($('.pagenavigation li li').length == 0) {
+                //return false;
+                PageNavigationStateCookie();
+            }
+        }
+    </script>
 
-	    function AddOffCanvasMenuHeightForSiteNav() {
-	        var sitenavulHeight = 0;
+    <script type="text/javascript">
 
-	        if ($('#sw-pg-sitenav-ul').length > 0) {
-	            sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSiteNav() {
+            var sitenavulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-sitenav-ul').length > 0) {
+                sitenavulHeight = parseInt($("#sw-pg-sitenav-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (sitenavulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(sitenavulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
 
-	    function AddOffCanvasMenuHeightForSelectSchool() {
-	        var selectschoolulHeight = 0;
+            // 360px is abount 5 li height
+            if (sitenavulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(sitenavulHeight + 360);
+            }
+        }
 
-	        if ($('#sw-pg-selectschool-ul').length > 0) {
-	            selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
-	        }
+        function AddOffCanvasMenuHeightForSelectSchool() {
+            var selectschoolulHeight = 0;
 
-	        var swinnerwrapHeight = 0;
+            if ($('#sw-pg-selectschool-ul').length > 0) {
+                selectschoolulHeight = parseInt($("#sw-pg-selectschool-ul").height());
+            }
 
-	        if ($('#sw-inner-wrap').length > 0) {
-	            swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
-	        }
+            var swinnerwrapHeight = 0;
 
-	        // 360px is abount 5 li height
-	        if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
-	            $("#sw-inner-wrap").height(selectschoolulHeight + 360);
-	        }
-	    }
+            if ($('#sw-inner-wrap').length > 0) {
+                swinnerwrapHeight = parseInt($("#sw-inner-wrap").height());
+            }
+
+            // 360px is abount 5 li height
+            if (selectschoolulHeight + 360 >= swinnerwrapHeight) {
+                $("#sw-inner-wrap").height(selectschoolulHeight + 360);
+            }
+        }
 
 	    $(document).ready(function() {
-	        if ($("#sw-pg-sitenav-a").length > 0) {
+            if ($("#sw-pg-sitenav-a").length > 0) {
                 $(document).on('click', '#sw-pg-sitenav-a', function() {
-	                if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-sitenav-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-sitenav-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-selectschool-a', function() {
-	                if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
-	                    AddOffCanvasMenuHeightForSelectSchool();
+                    if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
+                        AddOffCanvasMenuHeightForSelectSchool();
 
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-selectschool-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-selectschool-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '#sw-pg-myaccount-a', function() {
-	                if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
-	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
-	                } else {
-	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
-	                    $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
-	                }
-	            });
+                    if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
+                        $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-open');
+                    } else {
+                        $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-open');
+                        $("#sw-pg-myaccount-ul").addClass('sw-pgmenu-closed');
+                    }
+                });
 
                 $(document).on('click', '.pg-list-bullet', function() {
-	                $(this).prev().toggle();
+                    $(this).prev().toggle();
 
-	                if ($(this).hasClass('closed')) {
-	                    AddOffCanvasMenuHeightForSiteNav();
+                    if ($(this).hasClass('closed')) {
+                        AddOffCanvasMenuHeightForSiteNav();
 
-	                    $(this).removeClass('closed');
-	                    $(this).addClass('open');
-	                } else {
-	                    $(this).removeClass('open');
-	                    $(this).addClass('closed');
-	                }
-	            });
+                        $(this).removeClass('closed');
+                        $(this).addClass('open');
+                    } else {
+                        $(this).removeClass('open');
+                        $(this).addClass('closed');
+                    }
+                });
 
                 $(document).on('mouseover', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-selectschool', function() {
-	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
-	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
+                    $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-myaccount', function() {
-	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
-	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
+                    $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-sitenav', function() {
-	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
-	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
-	            });
+                    $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
+                    $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
+                });
 
                 $(document).on('mouseover', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
-	            });
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
+                });
 
                 $(document).on('mouseout', '#sw-pg-district', function() {
-	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
-	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
-	            });
-	        }
-	    });	
+                    $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
+                    $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
+                });
+            }
+        });
 
 
-</script>
+    </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script>
 
-<!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/CheckScript.js"></script>
+    <!-- Begin swuc.CheckScript -->
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_12_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (01): 0.0937506 Seconds -->
+    <!-- Server Load Time (02): 0.078127 Seconds -->
 
 
 
-<!-- off-canvas menu enabled-->
+    <!-- off-canvas menu enabled-->
+    
+
+    <!-- OnScreen Alert Dialog Start -->
+    <div id="onscreenalert-holder"></div>
+    <!-- OnScreen Alert Dialog End -->
 
 
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","e84461d315","246869","Z1MEZEtSVkoFBxIKX14ZJ2NpHEtQEAFJB1VWVxNcTR1ZShQc",15,93,new Date().getTime(),"EAD070EF2BD875A4","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+</body></html>
