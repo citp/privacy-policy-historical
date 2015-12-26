@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the forcedcashgifts.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025810id_/http%3A//forcedcashgifts.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedcashgifts.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# ForcedCashGifts - TURN $10 INTO $944350 THIS YEAR!
+# Legal
 
-| 
+* * *
 
-**Privacy Policy**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
->  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-> Protecting your privacy is important to us. We hope the following statement will help you understand how the ForcedCashGifts collects, uses and safeguards the personal information you provide to us on our site.
 
-> > **Names & Email Addresses & Other Personal Information Collected Online**  
->  When consumers browse our Web site, we may collect their information when they have filled out one of our forms or have contacted us? Personal information that is collected would be submitted by the consumer in regards to receiving a free report or participating in a survey. Personal information would also be collected from consumers who order from our website and it would also be collected from individuals who participate in our affiliate program.
 
-> **Your Collected Information Is Protected**  
->  Any personal information that is collected online through our website is always kept private. At no time will your personal information ever be shared, sold or viewed by a third party at anytime. We value your privacy and have taken measures to assure that your information remains private.
-
-> **Receiving Communications From Our Website**  
->  When personal information is collected from our website, the individual who has entered their information is agreeing to receive emails from our website from time to time. These emails may contain specials, newsletters, free reports, free giveaways, etc. When receiving these emails, the individual understands that they have granted us permission to send such emails when they have filled out our online forms, have purchased from us or have become a reseller of our website.
-
-> **Questions Regarding Our Privacy Policy**  
->  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20101226025810id_/http%3A//forcedcashgifts.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
-
-> **How We Protect Your Information Online**  
->  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Alertpay payment gateway. 
-
-> **Changes Made To Our Privacy Policy**  
->  From time to time, we make changes to our privacy policy. All changes to our privacy policy will be posted here, and it is the consumer's responsibility to frequently check our privacy policy for such changes.  
-  
----
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
