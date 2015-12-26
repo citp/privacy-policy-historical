@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132629id_/http%3A//www.wyndhamvacationrentals.com/vacation-rentals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226072600id_/http%3A//www.wyndhamvacationrentals.com/vacation-rentals/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ResortQuest by Wyndham Vacation Rentals
 
