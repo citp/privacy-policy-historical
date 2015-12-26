@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225545id_/http%3A//rap.genius.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226065810id_/http%3A//rap.genius.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Genius | Annotate the World
 
@@ -91,8 +91,8 @@ In the United States:
 
 Genius  
 Genius Media Group, Inc.  
-184 Kent Ave., #C702  
-Brooklyn, NY 11249
+92 Third Street  
+Brooklyn, NY 11231
 
 Alternatively, you may send us an email at [privacy@genius.com](mailto:privacy@genius.com) with the words "California Privacy Rights" in the subject line. 
 
@@ -102,8 +102,8 @@ If you have questions about this Policy, please contact us at [privacy@genius.co
 
 Genius  
 Genius Media Group, Inc.  
-184 Kent Ave., #C702  
-Brooklyn, NY 11249
+92 Third Street  
+Brooklyn, NY 11231
 
 ### 10\. LAST REVISION DATE
 
