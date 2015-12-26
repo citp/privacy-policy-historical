@@ -1,33 +1,17 @@
-> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227140753id_/http%3A//mobotalks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotalks.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226165626id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | MoboTalks
+# Legal
 
-**[Privacy Policy](http://mobotalks.com/privacy-policy/) for www.mobotalks.com**
+* * *
 
-MoboTalks.com values our readers privacy .How ever we do collect our readers information to improve our website and to collect statistics of visitors info for our website we use Google Analytics .We never share our readers information with third parties .Your privacy is very important to us.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-If you have any doubt concerned with our website [privacy policy](http://mobotalks.com/privacy-policy/) or software, please feel free to [contact us](http://mobotalks.com/contact-us/). Please read our Privacy Policy below to learn more about how we treat personally identifiable information, how it is protected and used.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Cookies and Web Beacons**
 
-www.mobotalks.com does not use cookies. Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Infolinks.
 
-**Copyright Policy**
-
-We don’t have any. You are free to use and copy any content from our site BUT, you must provide credit links on the pages you’ve copied or used our content.Note : Since we accept user submissions, If any of our Articles or content infringe your copyright, then [contact us](http://mobotalks.com/contact-us/) immediately at the email provided.
-
-**Third Party Advertising:**
-
-We use third party advertising companies to display advertisement on this site. They may use cookies to serve ads on this site and use information (not including your name, address, email address, or telephone number) about your visits in order to provide advertisements about goods and services of interest to you.
-
-Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
-
-**Internet Based advertising**
-
-Since Google sooner going to display ads based on interests of user,that is if you visit sports related websites regularly which have Google adsense ads ,you will be grouped as “sport enthusiast” category .This is Internet Advertising approach from Google for this they collect some info which do not include your name ,email-id,phone number, address or any such details .You may read about that [here.](http://adsense.blogspot.com/2009/03/driving-monetization-with-ads-that.html)
-
-**External Links:**
-
-This web site contains many links to other sites. Please be aware that we are not responsible for the privacy practices of any other sites. We encourage our users to read the privacy statements of each and every Web site that collects personally identifiable information.
-
->> **Contact US : mobotalks@gmail.com**
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
