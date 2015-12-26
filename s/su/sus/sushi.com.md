@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sushi.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509043519id_/http%3A//www.sushi.com/cms/privacy_policy/%23myTab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sushi.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226084323id_/http%3A//www.sushi.com/cms/privacy-policy/%23myTab) for the most accurate reproduction.*
 
-# Sushi | Order Food Online | Order Sushi Online | Sushi Restaurants | Sushi Delivery | Sushi Takeout
+# Best Japanese Sushi Restaurants, Best Sushi Rolls, Order Sushi Online, Delivery – Sushi.com
 
 #### Privacy Policy
 
