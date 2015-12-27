@@ -1,30 +1,50 @@
-> *The following text is extracted and transformed from the furnituredekho.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917020603id_/http%3A//furnituredekho.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furnituredekho.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227030702id_/http%3A//www.furnituredekho.com/home/page/22) for the most accurate reproduction.*
 
-# Furniture Dekho
+# Furniture Manufacturer,Supplier In Mumbai,Surat
 
-### Privacy Policy
+### Terms of Use
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Furniture Dekho website work and to keep it safe (details below). In formal terms, Furniture Dekho, acting itself and through its subsidiaries, is the "data controller" of your personal information. 
+Welcome to www.furnituredekho.com. These are the terms and conditions governing your use of the Site. By accessing Furniture Dekho either through the website or any other electronic device, you acknowledge, accept and agree to the following terms of the AUP, which are designed to make sure that Furniture Dekho works for everyone. This AUP is effective from the time you log in to Furniture Dekho. By accepting this AUP, you are also accepting and agreeing to be bound by the Privacy Policy and the Listing Policy.
 
-Collection 
+1\. Using Furniture Dekho.
 
-Information posted on Furniture Dekho is obviously publicly available. Our servers are located in Mumbai, India. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information:  
-• Email address, physical contact information, and (depending on the service used) sometimes financial information.  
-• Computer sign-on data, statistics on page views, traffic to and from Furniture Dekho and Ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site).  
-• Other information, including users IP address and standard web log information. 
+You agree and understand that www.furnituredekho.com is an internet enabled electronic platform that facilitates communication for the purposes of advertising and distributing information pertaining to goods and/ or services. You further agree and understand that we do not endorse, market or promote any of the listings, postings or information, nor do we at any point in time come into possession of or engage in the distribution of any of the goods and/ or services, you have posted, listed or provided information about on our site. While making use of Furniture Dekho classifieds and other services such as the discussion forums and feedback and other services interalia, you will post in the appropriate category or area and you agree that your use of the Site shall be strictly governed by this AUP including the policy for listing of your Classified which shall not violate the prohibited and restricted items policy.
 
-Access, Modification, and Deletion 
+2\. Eligibility
 
-You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at to review any personal information we store that is not available on Furniture Dekho. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. 
+Use of www.furnituredekho.com, either by registration or by any other means, is available only to persons, who are Citizens of the Republic of India, who are 18 yrs of age and above and persons who can enter into a legally binding contract, and or are not barred by any law for the time being in force. If you access Furniture Dekho, either by registration on the Site or by any other means, not as an individual but on behalf of a legal entity, you represent that you are fully authorized to do so and the listing, posting or information placed on the site on behalf of the legal entity is your responsibility and you agree to be accountable for the same to other users of the Site.
 
-Data Security 
+3\. Abuse of Furniture Dekho
 
-We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure. 
+You agree to inform us if you come across any listing or posting that is offensive or violates our listing policy or infringes any intellectual property rights by clicking on the following link to enable us to keep the site working efficiently and in a safe manner. We reserve the right to take down any posting, listing or information and or limit or terminate our services and further take all reasonable technical and legal steps to prevent the misuse of the Site in keeping with the letter and spirit of this AUP and the listing policy. In the event you encounter any problems with the use of our site or services you are requested to report the problem by clicking on this link.
 
-Confidentiality of Information 
+4\. Violations by User
 
-Users who use any of the features on Furniture Dekho agree and accept that they have been fully informed by Furniture Dekho that the use of features may lead to publication, to all users of Furniture Dekho, of any personal information posted by them while using any specific feature on Furniture Dekho. Users further agree that the authenticity of, and consequences from the posting by users of any personal information of themselves or any other person, are the sole responsibility of the user. Users further agree and accept that the terms of the Privacy Policy will be applicable to the use of all features, existing and new. However, the Users agree and accept that confidentiality of information posted on such features has been waived by the Users of such features themselves. 
+You agree that in the event your listing, posting or your information violates any provision of this AUP or the listing policy, we shall have the right to terminate and or suspend your membership of the Site and refuse to provide you or any person acting on your behalf, access to the Site.
 
-General 
+5\. Content
 
-We may update, upgrade, modify (partially &/or fully) this policy at any time, with updates taking effect when you next post or after 60 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to . 
+The Site contains content which includes Your Information, Furniture Dekho's information and information from other users. You agree not to copy, modify, or distribute such content (other than Your Information), Furniture Dekho's copyrights or trademarks. When you give us any content as part of Your Information, you are granting us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable right and license to use, reproduce, , publish, translate, distribute, perform and display such content (in whole or part) worldwide through the Site as well as on any of our affiliates or partners websites, publications and mobile platform. We need these rights with respect to the content in Your Information in order to host and display your content.
+
+6\. Liability
+
+You agree not to hold www.furnituredekho.com or any of its officers, employees, agents responsible or accountable for any of your listing, postings or information and nor shall we, our officers, employees or agents be liable for any misuse, illegal activity or third party content as most postings, listings or information are generated by various users directly and we do not have any role in the creation, publication or distribution of the posting, listing or information, nor are we in a position to have editorial control over the substance or content contained in the listings, postings, or information, save and except to the extent provided in sec 3 above.
+
+7\. Personal Information
+
+By using Furniture Dekho, you agree to the collection, transfer, storage and use of any personal information provided by you on the Site by Furniture Dekho. The data is stored and controlled on servers located in Mumbai, India as further described in our Privacy Policy.
+
+8\. What is the cancellation and refund policy
+
+If you have already purchased an ad or any of our premium service but due to some problem , service is not available, you can revoke the purchase under the 30 Day Cancellation after our verification. Cancellation and subsequent refund will also go through if we are unable to resolve a genuine technical fault within 2 business days from the the time you had reported the error. On a valid cancellation and refund request, we offer you ads Credit (store credit), which can be used to purchase fresh ads.
+
+9\. Third Party Content and Services
+
+Furniture Dekho may provide, on its site, links to sites operated by other entities. If the user decides to view this site, they shall do so at their own risk, subject to that site’s terms and conditions of use and privacy policy that may be different from those of this site. It is the user’s responsibility to take all protective measures to guard against viruses or other destructive elements they may encounter on these sites. Furniture Dekho makes no warranty or representation regarding, and do not endorse any linked website or the information appearing there on or any of the products or services described thereon.
+
+  
+10\. Featured Ads FurnitureDekho.com offers a service known as "Premium Ads" where users may pay a non-refundable fee to have their ads posted in selected locations on the Website, thus potentially increasing an ads' visibility. In order to purchase a Premium Ad, you may be required to transmit certain information through a third party service provider, Click & Buy, a Third Party Website, which may be governed by its own terms of use and other policies. FurnitureDekho.com makes no representation or guarantee as to the safety or security of the information transmitted to any Third Party Website, and your linking to any Third Party Website is completely at your own risk, and FurnitureDekho.com disclaims all liability related thereto.  
+Featured Ads are subject to the Terms listed herein, as well as additional terms of service, which can be viewed
+
+  
+
