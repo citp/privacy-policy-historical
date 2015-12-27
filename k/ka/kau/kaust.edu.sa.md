@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616144550id_/http%3A//www.kaust.edu.sa/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227195452id_/http%3A//www.kaust.edu.sa/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | King Abdullah University of Science and Technology (KAUST)
 
@@ -52,4 +52,4 @@ KAUST reserves the right to modify this Privacy Policy from time to time and suc
 
 ## Contact Information
 
-We welcome your comments concerning this Privacy Policy. If at any time, you have questions about KAUST's Privacy Policy, please contact the KAUST Digital team.
+We welcome your comments concerning this Privacy Policy. If at any time, you have questions about KAUST's Privacy Policy, please contact the KAUST Marketing Communication.
