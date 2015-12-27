@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithgateway.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505122103id_/http%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithgateway.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227162454id_/http%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HarperCollins Christian Publishing
 
