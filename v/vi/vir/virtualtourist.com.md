@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualtourist.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617014951id_/http%3A//www.virtualtourist.com/news/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualtourist.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227204312id_/http%3A//www.virtualtourist.com/news/privacy-statement) for the most accurate reproduction.*
 
 # privacy statement
 
