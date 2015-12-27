@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613061545id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034955id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
 
 # Jidaw Systems - Privacy Policy
 
 ## Privacy Policy
 
-[](http://marketing.net.jumia.com.ng/ts/i3556158/tsc?amc=aff.jumia.10968.14629.8394.10968&rmd=3&trg=http%3A//www.jumia.com.ng/%3Futm_source%3Daffiliation%26utm_medium%3Dbanner%26utm_campaign%3D8394)
+[ ](http://marketing.net.jumia.com.ng/ts/i3556158/tsc?amc=aff.jumia.10968.14629.23047&tst=!!TIMESTAMP!!)
 
  Thank you for visiting Jidaw.com and reviewing our privacy policy. Our Policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. The information we receive depends upon what you do when visiting our site. 
 
@@ -17,7 +17,7 @@ We will not disclose, sell or transfer any personal information to any third par
   
 Any addition demographic information collected is used solely by us to gain a better understanding of who our audience is and to respond to your requests and to provide better services to you, our clients.. Should you send us an email, we may also use your email address to respond to your feedback.
 
-[](http://marketing.net.jumia.com.ng/ts/i3556158/tsc?amc=aff.jumia.10968.14629.8394.10968&rmd=3&trg=http%3A//www.jumia.com.ng/%3Futm_source%3Daffiliation%26utm_medium%3Dbanner%26utm_campaign%3D8394)
+[ ](http://marketing.net.jumia.com.ng/ts/i3556158/tsc?amc=aff.jumia.10968.14629.23045&tst=!!TIMESTAMP!!)
 
 **Statistical Data:**  
 For site management, we will collect and store non-personal information (i.e.: the name of domain from which you access the Internet; the date and time you access our site; the Internet address of the web site from which you linked directly to our site; and the information you view while visiting our web site) about your visit. This information is collected for statistical purposes.
