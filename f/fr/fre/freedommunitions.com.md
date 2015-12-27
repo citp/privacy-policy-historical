@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedommunitions.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508220731id_/http%3A//www.freedommunitions.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedommunitions.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227190950id_/https%3A//www.freedommunitions.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20150508220731id_/http%3A//www.freedommunitions.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20151227190950id_/https%3A//www.freedommunitions.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
