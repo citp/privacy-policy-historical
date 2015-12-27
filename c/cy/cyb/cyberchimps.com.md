@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616223549id_/http%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227205355id_/http%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CyberChimps
 
@@ -56,16 +56,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the My Account page (http://cyberchimps.com/my-account/).
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
 
