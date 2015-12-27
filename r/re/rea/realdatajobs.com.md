@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realdatajobs.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052812id_/http%3A//www.realdatajobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdatajobs.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227224728id_/http%3A//www.realdatajobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Data Jobs
 
