@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070848id_/http%3A//www.daltonsbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227064520id_/http%3A//www.daltonsbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Daltonsbusiness.com needs to place cookies on your computer/device to make this website work properly. [__Learn more here__](https://web.archive.org/cookie-policy "Cookie policy")    Hide this message 
 
 **YOUR REGISTRATION ON USE OF THE CONTACT FORM**
 
@@ -62,3 +60,11 @@ Gainsborough House,
 2 Sheen Road,  
 Richmond  
 TW9 1AE
+
+**DaltonsBusiness.com Legal Disclaimer**
+
+Innovare Media Limited gives no warranties, either expressed or implied, in respect of any content on this site.
+
+In no event shall Innovare Media Limited be liable for any damages whatsoever including direct, indirect, incidental, consequential, loss of business profits or special damages, even if Innovare Media Limited has been advised of the possibility of such damages.
+
+Innovare Media Limited cannot guarantee the accuracy of the content of this site. Innovare Media Limited is reliant on its advertisers to report changes and availability of the content for sale on Daltonsbusiness.com. If you respond to any advertisement on the site, you will be entering into direct correspondence with the advertiser. Daltonsbusiness.com can accept no responsibility for any action that follows an enquiry.
