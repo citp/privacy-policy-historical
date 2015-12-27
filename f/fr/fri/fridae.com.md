@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fridae.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020522id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridae.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227225642id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
 
 # Fridae | Empowering LGBT Asia
-
-[ ](http://bit.ly/FridaeAppStore)
 
 | 
 
@@ -87,6 +85,4 @@ We have created this privacy statement in order to demonstrate our firm commitme
 >  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
 > 
 > If you have any questions concerning our privacy statement, the practices of our site, or your dealings with our Site, please contact:   
->  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)  
-  
----|---
+>  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
