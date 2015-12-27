@@ -1,78 +1,143 @@
-> *The following text is extracted and transformed from the blueapron.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317065933id_/https%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueapron.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227074039id_/https%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.*
 
 # Blue Apron: Fresh Ingredients, Original Recipes, Delivered to You
 
-**Effective as of March 8th, 2013**
+**_Last Updated: July 13, 2015_**
 
-We at Blue Apron, Inc. (“ _Blue Apron_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”) have created this privacy policy (this “ _Privacy Policy_ ”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy relates to the information collection and use practices of Blue Apron in connection with our online services (the “ _Services_ ”), which are made available to you through a variety of platforms, including our website http://www.blueapron.com (the “ _Website_ ”) and mobile application (collectively, the “ _Platform_ ”). 
+This Privacy Policy describes how information about you is collected, used and disclosed by Blue Apron, Inc. and our subsidiaries and other affiliates (collectively, “ _Blue Apron_ ,” “ _we_ ,” “ _us_ ” or “ _our_ ”) when you access or use the websites, mobile applications or blogs provided by us (collectively, the “ _Sites_ ”) or otherwise interact with us.
 
-By visiting our Website, accessing the Platform, and/or using our Services, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.  Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.
+Blue Apron reserves the right to change or modify this Privacy Policy at any time and in our sole discretion. If we make changes to this Privacy Policy, we will provide notice of such changes, such as by sending an email notification, providing notice through the Sites or updating the “Last Updated” date at the beginning of this Privacy Policy. We encourage you to review this Privacy Policy whenever you use or access the Sites or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-**The Information We Collect**
+_**Collection of Information**_
 
-1.         _Personal Information_
+**Information You Provide to Us**
 
-When you sign up to become a Subscriber, order a gift subscription, enter a contest, promotion, or sweepstakes, or sign up to receive our recipes, you will be required to provide us with personal information about yourself (collectively, the “ _Personal Information_ ”).  Such Personal Information for Subscribers may include your name, e-mail address, mailing address, and phone number.  We do not collect any Personal Information from you when you use the Services unless you provide us with the Personal Information voluntarily.    
+We collect information you provide directly to us. For example, we collect information when you register for a Blue Apron account, sign up for a subscription, participate in any interactive features of the Sites, subscribe to a newsletter or email list, participate in a survey, contest, promotion or event, order or purchase (either for yourself or for another person) meal ingredients or other products made available through the Sites (collectively, the “ _Products_ ”), apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us.
 
-2.         _Billing Information_
+The types of information we may collect from you include:
 
-When you sign up to become a Subscriber or order a gift subscription, you will be required to provide certain information in addition to the Personal Information noted above.  Such information may include a debit card number, credit card number, and similar information (collectively, the “ _Billing Information_ ”).  All transactions are processed by our third-party payment vendors.  We do not collect, store, or maintain any Billing Information.  Instead, it is collected and processed through these third-party vendors pursuant to the terms and conditions of their privacy policies and terms of use. 
+(a) **Account Information** , such as your name, email address, password, postal address, phone number, subscription, delivery and dietary preferences and any other information you choose to provide;
 
-3.         _Other Information_
+(b) **Transaction Information** , such as information about the Products you purchase, shipping and delivery information and information related to returns, refunds and cancellations. We may also collect and store limited payment information from you, such as payment card type and expiration date and the last four digits of your payment card number; however, we do not collect or store full payment card numbers and all transactions are processed by our third party payment processor.
 
-In addition to the Personal Information and the Billing Information noted above that you voluntarily provide to us, we may collect additional information (collectively, the “ _Other Information_ ”).  Such Other Information may include:
+(c) **Information About Others** , such as the names and email addresses of gift recipients when you purchase gifts through the Sites or invite friends or family to try the Sites or Products.
 
-            a.         _From Your Activity_.  Information that we automatically collect when you use the Services, such as your IP addresses, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website you visit, order information, and similar information concerning your use of the Services.  
+(d) **Other Information You Choose to Provide** , such as when you participate in a survey, contest, promotion or interactive area of the Sites or when you request technical or customer support.
 
-            b.         _From Cookies_.  Information that we collect using “cookie” technology.  Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit.  We use cookies to help us collect Other Information and to enhance your experience using the Services.  If you do not want the Platform to place a cookie on your hard drive or mobile device, you may be able to turn that feature off on your computer or mobile device.  Please consult your Internet browser’s documentation for information on how to do this.  However, if you decide not to accept cookies from us, the Services may not function properly.
+**Information We Collect Automatically**
 
-            c.         _From You_.  Additional information about yourself that you voluntarily provide to us, such as your hobbies, personal interests, household income range, number of children, gender, demographic information, and product and service preferences.   
+When you access or use the Sites, the types of information we may automatically collect about you include:
 
-            d.         _From Other Sources_.  Information that we collect or receive from other sources.
+(a) **Log Information** : When you visit the Sites, our servers automatically record certain log file information, such as your Internet Protocol (“ _IP_ ”) address, operating system, browser type and language, referring URLs, access times, pages viewed, links clicked and other information about your activities on the Sites.
 
-**The Information Collected by or Through Third-Party Advertising Companies**
+(b) **Mobile Device Information** : We collect information about the mobile device you use to access or use the Sites, including the hardware model, operating system and version, unique device identifiers, mobile network information and information about your use of our mobile applications. With your consent, we may also collect information about the location of your device and access and collect information from certain native applications on your device (such as your device’s camera, photo album and phonebook applications) to facilitate your use of certain features of the Sites. For more information about how you can control the collection of location information and/or our access to other applications on your device, please see “Your Choices” below.
 
-We may share Other Information about your activity on the Platform with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Platform and elsewhere.  These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes.  Pixel tags enable us, and these third-party advertisers, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site.
+(c) **Information Collected by Cookies and Other Tracking Technologies** : We and our service providers use various tracking technologies, including cookies and web beacons, to collect information about you when you interact with our Sites, including information about your browsing and purchasing behavior. Cookies are small data files stored on your hard drive or in device memory that help us improve the Sites and your experience, see which areas and features of the Sites are popular, and count visits. Web beacons are electronic images that may be used in the Sites or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see “Your Choices” below.
 
-**Accessing and Modifying Personal Information and Communication Preferences**
+**Information We Collect From Other Sources**
 
-If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by following the instructions found on the Platform.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Blue Apron marketing email.  Subscribers cannot opt out of receiving transactional e-mails related to their account.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
+We may also obtain information about you from other sources and combine that with information we collect directly. For example, we may collect information about you when you post content to our pages or feeds on third party social media sites, or if you use credentials (e.g., username and password) from a third party site to create or log into your Blue Apron account.
 
-**How We Use and Share the Information  **
+_**Use of Information**_
 
-We use the Personal Information, the Billing Information, and the Other Information to process transactions; provide you the Services; solicit your feedback; inform you about our products, services, upcoming events, recipes, and special promotions and those of our third-party marketing partners; administer and process contests, promotions, and sweepstakes; and improve our Services to you.  Also, we may share Personal Information, the Billing Information, and/or Other Information as described below.
+We may use information about you for various purposes, including to:
 
-·       We employ other companies and individuals to perform functions on our behalf.  Examples include food services, delivery services, marketing assistance, information technology support, and customer service.  These other companies will have access to the Personal Information, the Billing Information, and the Other Information only as necessary to perform their functions and to the extent permitted by law.
+(a) Provide, maintain and improve the Sites and Products;
 
-·       In order to administer our contests, promotions, and sweepstakes, we may share your Personal Information and Other Information with our third-party promotional and marketing partners.
+(b) Manage your account and send you related information, including confirmations, updates, technical notices, security alerts and support and administrative messages;
 
-·       In an ongoing effort to better understand our users and our Services, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Services.  This aggregate information does not identify you personally.  We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and Services to current and prospective business partners and to other third parties for other lawful purposes.
+(c) Respond to your comments, questions and requests and provide customer service;
 
-  * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, or similar event, the Personal Information, the Billing Information, and the Other Information may be part of the transferred assets.
-  * To the extent permitted by law, we may also disclose Personal Information, the Billing Information, and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the such Information is necessary or advisable, for example, to protect the rights, property, or safety of Blue Apron or others. 
+(d) Communicate with you about the Sites, Products, recipes, services, offers, surveys, events and other news and information we think may be of interest to you;
 
+(e) Monitor and analyze trends, usage and activities in connection with the Sites;
 
+(f) Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Blue Apron and others;
 
-**How We Protect Your Information**
+(g) Personalize and improve the Sites and provide advertisements, content and features that match your profile or interests;
 
-We take commercially reasonable steps to protect the Personal Information, the Billing Information, and the Other Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.  Please understand, however, that no security system is impenetrable.  We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Platform may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. 
+(h) Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
 
-**Important Notice to Non-U.S. Residents**
+(i) Link or combine with information we get from others to help understand your needs and provide you with a better experience; and
 
-The Platform and the Services are operated in the United States.  If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By using the Services and/or providing us with any information, you consent to this transfer. 
+(j) Carry out any other purpose for which the information was collected.
 
-**Children**
+Blue Apron is based in the United States, and the information we collect is governed by U.S. law. By accessing or using the Sites or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-We do not knowingly collect Personal Information from children under the age of 13 through the Services.  If you are under 13, please do not give us any Personal Information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Services without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
+_**Sharing of Information**_
 
-**External Websites**
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-The Platform may contain links to third-party websites.  Blue Apron has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links.  As such, we are not responsible for the content or the privacy policies of those third-party websites.  You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
+(a) With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;
 
-**Changes to This Privacy Policy**
+(b) We may make our postal address list available to certain third parties we believe may offer products or services of interest to you;
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time, and will post any changes on the Platform as soon as they go into effect.  By accessing the Platform or using the Services after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes.  Please refer back to this Privacy Policy on a regular basis.
+(c) When you participate in the interactive areas of the Sites or interact with us on third party social media sites, certain information that you provide may be displayed publicly, such as your name, photos and other information you choose to provide;
 
-**How to Contact Us**
+(d) In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process;
 
-If you have questions about this Privacy Policy, please e-mail us at [contact@blueapron.com](mailto:contact@blueapron.com?subject=Privacy%20policy). 
+(e) If we believe your actions are inconsistent with our [Terms of Use](https://www.blueapron.com/pages/terms) or other policies, or to protect the rights, property or safety of Blue Apron or others;
+
+(f) In connection with, or during negotiations of, any merger, acquisition, sale of assets or any business, other change of control transaction or financing;
+
+(g) Between and among Blue Apron and any current or future parent, subsidiary and/or affiliated company; and
+
+(h) With your consent or at your direction.
+
+We also may share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+_**Social Sharing Features**_
+
+The Sites may offer social sharing features and other integrated tools, such as the Facebook, Twitter and Pinterest buttons (e.g., “Like,” “Tweet” and “Pin It”), which let you share actions you take on the Sites with other media. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+_**Advertising and Analytics Services Provided by Others**_
+
+**Interest-Based Ads**
+
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Sites and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
+
+**Customized Ad Campaigns**
+
+We may also work with third party social media sites, such as Facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way. For more information about how you can opt out of customized campaigns, please see “Your Choices” below.
+
+_**Security**_
+
+Blue Apron takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to or from us over the Internet. In particular, email sent to or from the Sites may not be secure, and you should therefore take special care in deciding what information you send to us via email.
+
+_**Your Choices**_
+
+**Account Information**
+
+You may update, correct or modify information about you at any time by logging into your online account or by emailing us at [contact@blueapron.com](mailto:contact@blueapron.com). If you wish to deactivate your account, please email us at [contact@blueapron.com](mailto:contact@blueapron.com), but note we may continue to store information about you as required by law or for legitimate business purposes.
+
+**Location Information**
+
+With your consent, we may collect information about your actual location when you use our mobile applications. You may stop the collection of this information at any time by changing the settings on your mobile device, but note that some features of our mobile applications may no longer function if you do so.
+
+**Native Applications on Mobile Device**
+
+Some features of our mobile applications may require access to certain native applications on your mobile device, such as the camera and photo storage applications (e.g., to take and upload photos) and the phonebook application (e.g., to send invitations to your contacts to try the Sites or Products). If you decide to use these features, we will ask you for your consent prior to accessing the applications and collecting information. Note that you can revoke your consent at any time by changing the settings on your device.
+
+**Cookies**
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Sites.
+
+**Customized Campaigns**
+
+You may opt out of receiving our ads as part of a customized campaign conducted on third party social media sites, such as Facebook, by emailing us at [customizedads@blueapron.com](mailto:customizedads@blueapron.com).
+
+**Promotional Communications**
+
+You may opt out of receiving promotional communications from us by following the instructions in those communications or by emailing us at [contact@blueapron.com](mailto:contact@blueapron.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+
+**Push Notifications**
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device or within our mobile applications.
+
+**Your California Privacy Rights**
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident, you may request this information once per calendar year by writing to us at Blue Apron, Inc., Attn: General Counsel, 5 Crosby St., New York, NY 10013.
+
+_**Contact Us**_
+
+If you have any questions about this Privacy Policy, please contact us at [privacy@blueapron.com](mailto:privacy@blueapron.com).
