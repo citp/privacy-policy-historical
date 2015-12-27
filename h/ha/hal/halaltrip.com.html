@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the halaltrip.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630011700id_/http%3A//www.halaltrip.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halaltrip.com privacy policy that was archived on 2015-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227205914id_/http%3A//www.halaltrip.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy no-touch rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent js cssanimations csstransitions"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
         <meta name="apple-itunes-app" content="app-id=680194589">
@@ -10,14 +10,14 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
         <meta name="author" content="HalalTrip">
-                <link rel="stylesheet" type="text/css" href="/assets/d29c34ee/jui/css/base/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="/assets/ee10f152/select2.css">
-<script async="" charset="utf-8" src="//v2.zopim.com/?1jrSX1NGf4WOu57detCdYlW8JTETpMCb" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/assets/d29c34ee/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/d29c34ee/jquery.yiiactiveform.js"></script>
-<script type="text/javascript" src="/assets/ee10f152/select2.min.js"></script>
+                <link rel="stylesheet" type="text/css" href="/assets/30fe962d/jui/css/base/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="/assets/65d9ca98/select2.css">
+<script async="" charset="utf-8" src="//v2.zopim.com/?1jrSX1NGf4WOu57detCdYlW8JTETpMCb" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1514392005491221&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/assets/30fe962d/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/30fe962d/jquery.yiiactiveform.js"></script>
+<script type="text/javascript" src="/assets/65d9ca98/select2.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/modernizr.js"></script>
-<script type="text/javascript" src="/js/responsiveCarousel.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
 <script type="text/javascript" src="/js/classie.js"></script>
 <script type="text/javascript" src="/js/jquery.imagesloaded.min.js"></script>
 <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
@@ -61,7 +61,20 @@
     </head>
         <body class="home fixed-searchBar">
         <div id="fb-root"></div>
-        
+    <div id="appDeeplinking" class="smart_band_halaltrip" rel="" style="display:none;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="sm_band_mobile">
+                        <h4>Do you want to open this link in the HalalTrip Mobile App?</h4>
+                        <div class="action_div_band text-center">
+                            <input type="button" value="Cancel" onclick="checkUserInput(false)"><input type="button" value="Ok" onclick="checkUserInput(true)">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>   
     <header>
             <div class="container">
                 <div class="row">
@@ -90,6 +103,8 @@
 <!--                                        <li></li>-->
                                         <li><a href="/restaurants-all/">Restaurant Guides</a></li>
                                         <li><a href="/other/blog/">Blog</a></li>
+                                        <li><a href="/downloadable-halal-travel-guides/">Download Guide</a></li>
+                                        <li><a href="/wonderful-indonesia/">Destination</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="/foodspotter/">Halal Food Spotter</a><em class="sprite"></em></li>
@@ -98,6 +113,7 @@
                                     <ul class="drop-down">
                                         <li><a href="/prayertimes/can-you-reach-the-nearby-mosque/">Can You Reach The Mosque</a></li>
                                         <li><a href="/prayertimes/inflight/">InFlight Prayer Calc</a></li>
+                                        <li><a href="/prayertimes/qibla-direction/">Qibla Direction</a></li>
                                         <li><a href="/prayertimes/traveldua/">Travel Dua</a></li>
                                         <li><a href="/prayertimes/etiquettes/">Travel Etiquettes</a></li>
                                         
@@ -119,8 +135,8 @@
                 <ul class="nav nav-tabs bdr_none" id="myTab">
                     <li><a href="#Book_A_Hotel" data-toggle="tab">Book A Hotel</a></li>
                     <li><a href="#Book_A_Flight" data-toggle="tab">Book A Flight</a></li>
-                    <li><a href="#Tour_Packages" data-toggle="tab">Tour Packages</a></li>
-                    <li><a href="#City_Guide" data-toggle="tab">Where Do You Want To Go</a></li>
+                                        <li><a href="#Tour_Packages" data-toggle="tab">Tour Packages</a></li>
+                                        <li><a href="#City_Guide" data-toggle="tab">Where Do You Want To Go</a></li>
                 </ul>
             </div>
         </div>
@@ -131,25 +147,25 @@
             <fieldset>
                 <div class="tab-content">
                     <div class="tab-pane " id="Book_A_Hotel">
-        <form id="search-hotel-form" action="/hotel/search2/" method="post">        <fieldset>
+                                <form id="search-hotel-form" action="/hotel/search2/" method="post">        <fieldset>
             <div id="ht_search_block">
                 <div class="col-md-3 col-sm-3 clearfix">
                     <label>Where do you want to go ?</label>
-                    <input class="required form-control ui-autocomplete-input" placeholder="City Name" id="SearchForm_city_from" name="SearchForm[city_from]" type="text" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>                    <div class="errorMessage" id="SearchForm_city_from_em_" style="display:none"></div><!--                                    <input type="text" class="form-control" />-->
+                    <input class="required form-control" placeholder="City Name" id="SearchForm_city_from" name="SearchForm[city_from]" type="text">                    <div class="errorMessage" id="SearchForm_city_from_em_" style="display:none"></div><!--                                    <input type="text" class="form-control" />-->
                 </div>
                 <input id="for_city_id" name="SearchForm[city_from_id]" type="hidden">                <div class="col-md-2 col-sm-2 clearfix">
                     <label>Check In</label>
-                    <input class="required form-control datefield hasDatepicker" readonly="1" id="SearchForm_from" name="SearchForm[from]" type="text" size="10">                    <div class="errorMessage" id="SearchForm_from_em_" style="display:none"></div> 
+                    <input class="required form-control datefield" readonly="readOnly" id="SearchForm_from" name="SearchForm[from]" type="text">                    <div class="errorMessage" id="SearchForm_from_em_" style="display:none"></div> 
 <!--                                    <input type="text" class="form-control datefield" />-->
                 </div>
                 <div class="col-md-2 col-sm-2 clearfix">
                     <label>Check Out</label>
-                    <input class="required form-control datefield hasDatepicker" readonly="1" id="SearchForm_to" name="SearchForm[to]" type="text" size="10">                    <div class="errorMessage" id="SearchForm_to_em_" style="display:none"></div> 
+                    <input class="required form-control datefield" readonly="readOnly" id="SearchForm_to" name="SearchForm[to]" type="text">                    <div class="errorMessage" id="SearchForm_to_em_" style="display:none"></div> 
 <!--                                    <input type="text" class="form-control datefield" />-->
                 </div>
                 <div class="col-md-2 col-sm-2 clearfix">
                     <label>Currency</label>
-                    <span class="select-wrapper"><div class="custom-select">
+                    <div class="custom-select">
                     <select name="SearchForm[currency]" id="SearchForm_currency">
 <option value="USD">USD, U.S. Dollar</option>
 <option value="SGD">SGD, Singaporean Dollar</option>
@@ -204,12 +220,12 @@
 <option value="TL">TL, Turkish Lira</option>
 <option value="UAH">UAH, Ukaraine Hryvnia </option>
 <option value="VEF">VEF, Venezuelan Bolivar</option>
-</select>                </div><span class="holder">EUR, Euro</span></span>
+</select>                </div>
 <!--                                    <input type="text" class="form-control dropdown" />-->
                 </div>
                 <div class="col-md-1 col-sm-1 bp clearfix">
                     <label>Adults</label>
-                    <span class="select-wrapper"><div class="custom-select">
+                    <div class="custom-select">
                     <select class="form-control dropdown" name="SearchForm[adults]" id="SearchForm_adults">
 <option value="1">1</option>
 <option value="2">2</option>
@@ -221,7 +237,7 @@
 <option value="8">8</option>
 <option value="9">9</option>
 <option value="10">10</option>
-</select>                    <div class="errorMessage" id="SearchForm_adults_em_" style="display:none"></div>                    </div><span class="holder">1</span></span>
+</select>                    <div class="errorMessage" id="SearchForm_adults_em_" style="display:none"></div>                    </div>
                 </div>
                 <div class="col-md-2 col-sm-2">
                     <input class="btn btn-default" type="submit" name="yt0" value="Search"><!--                    <input type="submit" class="btn btn-default" value="Search">-->
@@ -237,7 +253,7 @@
  
                     </div>   
                     <div class="tab-pane " id="Book_A_Flight">
-<form id="search-flight-form" action="/flight-search/" method="post"><input value="roundtrip" name="SearchFlightForm[type]" id="SearchFlightForm_type" type="hidden"><div class="col-md-12 col-sm-12">
+                        <form id="search-flight-form" action="/flight-search/" method="post"><input value="roundtrip" name="SearchFlightForm[type]" id="SearchFlightForm_type" type="hidden"><div class="col-md-12 col-sm-12">
     <div class="toggle-tabs-home">
         <ul class="nav nav-tabs" id="myTab">
             <li id="roundtrip-tab" class="active"><a href="" data-toggle="tab">Round Trip</a></li>
@@ -249,27 +265,27 @@
             <div class="row flightSearch-fields">
                 <div class="col-md-4 col-sm-6">
                     <label>From Where?</label>
-                    <input class="required form-control flight-input ui-autocomplete-input" placeholder="City of Departure" id="SearchFlightForm_from_city_all" name="SearchFlightForm[from_city_all]" type="text" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                    <input class="required form-control flight-input" placeholder="City of Departure" id="SearchFlightForm_from_city_all" name="SearchFlightForm[from_city_all]" type="text">
 <div class="errorMessage" id="SearchFlightForm_from_city_all_em_" style="display:none"></div>                </div>
                 <div class="col-md-4 col-sm-6">
                     <label>Going To</label>
-                    <input class="required form-control flight-input ui-autocomplete-input" placeholder="City of Arrival" id="SearchFlightForm_to_city_all" name="SearchFlightForm[to_city_all]" type="text" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                    <input class="required form-control flight-input" placeholder="City of Arrival" id="SearchFlightForm_to_city_all" name="SearchFlightForm[to_city_all]" type="text">
 <div class="errorMessage" id="SearchFlightForm_to_city_all_em_" style="display:none"></div>                </div>
             </div>
             <div class="row">
                 <div class="col-md-2 col-sm-3">
                     <label>Departure</label>
-                    <input class="required form-control datefield hasDatepicker" readonly="1" id="SearchFlightForm_from" name="SearchFlightForm[from]" type="text" size="10">
+                    <input class="required form-control datefield" readonly="readOnly" id="SearchFlightForm_from" name="SearchFlightForm[from]" type="text">
 <div class="errorMessage" id="SearchFlightForm_from_em_" style="display:none"></div> 
                 </div>
                 <div class="col-md-2 col-sm-3" id="for-roundtrip">
                     <label>Return </label>
-                    <input class="required form-control datefield hasDatepicker" readonly="1" id="SearchFlightForm_to" name="SearchFlightForm[to]" type="text" size="10">
+                    <input class="required form-control datefield" readonly="readOnly" id="SearchFlightForm_to" name="SearchFlightForm[to]" type="text">
 <div class="errorMessage" id="SearchFlightForm_to_em_" style="display:none"></div> 
                 </div>
                 <div class="col-md-2 col-sm-3 clearfix">
                     <label>Currency</label>
-                    <span class="select-wrapper"><div class="custom-select">
+                    <div class="custom-select">
                         <select name="SearchFlightForm[currency]" id="SearchFlightForm_currency">
 <option value="USD">USD, U.S. Dollar</option>
 <option value="SGD">SGD, Singaporean Dollar</option>
@@ -316,21 +332,21 @@
 <option value="VND">VND, Vietnam Dong</option>
 <option value="TRY">TRY, Turkey Lira</option>
 <option value="AZN">AZN, Azerbaijani New Manats</option>
-</select>                    </div><span class="holder">EUR, Euro</span></span>
+</select>                    </div>
                 </div>
                 <div class="col-md-2 col-sm-3 clearfix">
                     <label>Class</label>
-                    <span class="select-wrapper"><div class="custom-select">
+                    <div class="custom-select">
                         <select class="form-control dropdown" name="SearchFlightForm[cabin_class]" id="SearchFlightForm_cabin_class">
 <option value="economy">Economy</option>
 <option value="business">Business</option>
 <option value="first">First</option>
 </select> 
-                        <div class="errorMessage" id="SearchFlightForm_cabin_class_em_" style="display:none"></div>                    </div><span class="holder">Economy</span></span>    
+                        <div class="errorMessage" id="SearchFlightForm_cabin_class_em_" style="display:none"></div>                    </div>    
                 </div>
                 <div class="col-md-2 col-sm-3 clearfix">
                     <label>Adult</label>
-                    <span class="select-wrapper"><div class="custom-select">
+                    <div class="custom-select">
                         <select class="form-control dropdown" name="SearchFlightForm[adults]" id="SearchFlightForm_adults">
 <option value="1">1</option>
 <option value="2">2</option>
@@ -342,7 +358,7 @@
 <option value="8">8</option>
 <option value="9">9</option>
 <option value="10">10</option>
-</select>                        <div class="errorMessage" id="SearchFlightForm_adults_em_" style="display:none"></div>                    </div><span class="holder">1</span></span>
+</select>                        <div class="errorMessage" id="SearchFlightForm_adults_em_" style="display:none"></div>                    </div>
 
                 </div>
                 <div class="col-md-2 col-sm-3 clearfix">
@@ -367,39 +383,44 @@
 </script>
  
                     </div>   
-                    <div class="tab-pane " id="Tour_Packages">
-        <form id="search-package-form" action="/halal-holiday-packages/" method="post">        <fieldset>
-            <div id="ht_search_block">
+                                        <div class="tab-pane " id="Tour_Packages">
+                                <form id="search-package-form" action="/halal-holiday-packages/" method="post">        <fieldset>
+            <div id="ht_search_block_package">
                 <div class="col-md-4 col-sm-4">
                                         <label>Where do you want to go ?</label>
-                    <div class="select2-container" id="s2id_country_id"><a href="javascript:void(0)" onclick="return false;" class="select2-choice select2-default" tabindex="-1">   <span>Select country</span><abbr class="select2-search-choice-close" style="display: none;"></abbr>   <div><b></b></div></a><input class="select2-focusser select2-offscreen" type="text"><div class="select2-drop select2-with-searchbox" style="display:none">   <div class="select2-search">       <input type="text" autocomplete="off" class="select2-input">   </div>   <ul class="select2-results">   </ul></div></div><select class="form-control select2-offscreen" id="country_id" name="Package[country_id]" tabindex="-1">
+                    <select class="form-control" id="country_id" name="Package[country_id]">
 <option value="" selected="selected"></option>
 <option value="4">Bosnia and Herzegovina</option>
-<option value="16">France</option>
-<option value="18">Italy</option>
+<option value="6">Canada</option>
+<option value="13">Spain</option>
+<option value="19">Japan</option>
+<option value="46">South Africa</option>
 <option value="52">Sri Lanka</option>
 <option value="57">Albania</option>
-<option value="80">Switzerland</option>
+<option value="62">Australia</option>
 <option value="84">China</option>
-<option value="98">United Kingdom</option>
+<option value="100">Georgia</option>
 <option value="106">Greece</option>
 <option value="112">Croatia</option>
-<option value="137">Morocco</option>
+<option value="115">Indonesia</option>
+<option value="118">India</option>
+<option value="122">Jordan</option>
 <option value="140">Montenegro</option>
 <option value="143">Macedonia</option>
-<option value="194">Uzbekistan</option>
+<option value="153">Maldives</option>
+<option value="155">Malaysia</option>
 <option value="369">Turkey</option>
 </select>                    <div class="errorMessage" id="Package_country_id_em_" style="display:none"></div><!--                                    <input type="text" class="form-control" />-->
                 </div>                
                 <div class="col-md-2 col-sm-2 scale_margin">
                                                             <label>Select City</label>
-                <div class="select2-container" id="s2id_city_id"><a href="javascript:void(0)" onclick="return false;" class="select2-choice select2-default" tabindex="-1">   <span>Select city</span><abbr class="select2-search-choice-close" style="display: none;"></abbr>   <div><b></b></div></a><input class="select2-focusser select2-offscreen" type="text"><div class="select2-drop select2-with-searchbox" style="display:none">   <div class="select2-search">       <input type="text" autocomplete="off" class="select2-input">   </div>   <ul class="select2-results">   </ul></div></div><select class="form-control select2-offscreen" id="city_id" name="Package[city_id]" tabindex="-1">
+                <select class="form-control" id="city_id" name="Package[city_id]">
 <option value="" selected="selected"></option>
 </select>                    <div class="errorMessage" id="Package_city_id_em_" style="display:none"></div><!--                                    <input type="text" class="form-control datefield" />-->
                 </div>
                  <div class="col-md-2 col-sm-2 scale_margin">
                                          <label>Select Category</label>
-                <div class="select2-container" id="s2id_category_id"><a href="javascript:void(0)" onclick="return false;" class="select2-choice select2-default" tabindex="-1">   <span>Select Category</span><abbr class="select2-search-choice-close" style="display: none;"></abbr>   <div><b></b></div></a><input class="select2-focusser select2-offscreen" type="text"><div class="select2-drop select2-with-searchbox" style="display:none">   <div class="select2-search">       <input type="text" autocomplete="off" class="select2-input">   </div>   <ul class="select2-results">   </ul></div></div><select class="form-control select2-offscreen" id="category_id" name="Package[category_id]" tabindex="-1">
+                <select class="form-control" id="category_id" name="Package[category_id]">
 <option value="" selected="selected"></option>
 <option value="1">All Category</option>
 <option value="2">Cultural</option>
@@ -437,12 +458,12 @@
     }
 </script>  
                     </div> 
-                    <div class="tab-pane " id="City_Guide">
+                                        <div class="tab-pane " id="City_Guide">
                         
 
 <div class="col-md-4 col-sm-6">
             <label>Where Do You Want To Go </label>
-            <input class="required form-control flight-input ui-autocomplete-input" placeholder="Where Do You Want To Go" id="where-do-you" type="text" name="query" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+            <input class="required form-control flight-input" placeholder="Where Do You Want To Go" id="where-do-you" type="text" name="query">
         </div>
         <form action="/city-guide-search/" method="GET">
             <input type="hidden" name="query" id="search-query">
@@ -496,15 +517,15 @@
 				<div class="bg_white round padding30 policy">
 					<h1>Privacy Policy</h1>
 					<p>
-						This privacy statement describes how we use the information you provide to us or we gather from you while you use the HalalTrip online services, as provided by Crescentrating Pte Ltd. (“CR” or “us” or “we”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. It is important that you have a comprehensive understanding of our information collection and usage practices. In your best interests, we advise that you read each provision of this Privacy Policy. By visiting, accessing or using the HalalTrip website (halaltrip.com), mobile applications and all associated services, features and content (“Service” or “Services”), you acknowledge agreement to this Privacy Policy. If we change our Privacy Policy, we will post those changes to this Privacy Policy. We retain the exclusive right to amend this Policy from time to time. If we make any substantial changes in the way that we use your personal information, we will notify you by posting a prominent announcement on our Site. We encourage you to periodically review this page for the latest information on our privacy practices.
+						This privacy statement describes how we use the information you provide to us or we gather from you while you use the HalalTrip online services, as provided by HalalTrip Pte Ltd. (“HT” or “us” or “we”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. It is important that you have a comprehensive understanding of our information collection and usage practices. In your best interests, we advise that you read each provision of this Privacy Policy. By visiting, accessing or using the HalalTrip website (halaltrip.com), mobile applications and all associated services, features and content (“Service” or “Services”), you acknowledge agreement to this Privacy Policy. If we change our Privacy Policy, we will post those changes to this Privacy Policy. We retain the exclusive right to amend this Policy from time to time. If we make any substantial changes in the way that we use your personal information, we will notify you by posting a prominent announcement on our Site. We encourage you to periodically review this page for the latest information on our privacy practices.
 					</p>
-					<h4>The information we collect</h4>
+                                        <h4>The information we collect</h4>
                                             <h3>When you register, we collect the following information:</h3>
                                             <ul class="list-group">
                                                 <li>Unique Identifiers such as user name, email address and password</li>
                                             </ul>
                                         
-                                            <h3>When you interact with us we collect the following usage information:</h3>
+                                            <h3>When you interact with us, we collect the following usage information:</h3>
                                             <ul class="list-group">
                                                 <li>What content you viewed, and which areas of our Service or Site you visited.</li>
                                                 <li>Device Information</li>
@@ -512,14 +533,12 @@
                                                 <li>Your current location</li>
                                                 <li>Your profile image</li>
                                                 <li>When you create a flight, they are stored in our database</li>
-                                                <li>When you share a dish all information you provide about the dish is stored on our database and made visible to the other users.</li>
+                                                <li>When you share a dish, restaurant or attractions, all information you provide is stored on our database and made visible to the other users.</li>
                                             </ul>
                                         
                                         <p>
-						If you contact us, we also collect the information you provide that details the nature of your question or problem to enhance the quality of our Service. If you invite a friend by email to our Service through the Service, we will send your friend an invitation email inviting him or her to visit the Service and/or Site. We store this information for the sole purpose of sending this invitation email. Your friend may contact us at 
-info@halaltrip.com to request that we remove this information from our database. 
-
-					</p>
+						If you contact us, we also collect the information you provide that details the nature of your question or problem to enhance the quality of our Service. If you invite a friend by email to our Service through the Service, we will send your friend an invitation email inviting him or her to visit the Service and/or Site. We store this information for the sole purpose of sending this invitation email. Your friend may contact us at info@halaltrip.com to request that we remove this information from our database. 
+                                        </p>
                                         
                                         <h4>We use this information to:</h4>
                                         <h3>Administer your account</h3>
@@ -598,7 +617,7 @@ info@halaltrip.com to request that we remove this information from our database.
                                 <div class="col col5">
                                     <h6>Subscribe to our newsletter!</h6>
                                     <p>Let us bring you the very latest Halal/Muslim Friendly Travel inspirations and deals straight to your inbox.</p>
-                                    <div class="subscriber-footer">
+                                    <div class="subscriber-footer" id="footer_newsletter">
         <!--                            	<input type="text" class="form-control">
                                         <input type="submit" value="Subscribe">-->
                                     <form id="subscribe-form" action="/privacy-policy/" method="post">
@@ -609,7 +628,7 @@ info@halaltrip.com to request that we remove this information from our database.
  
                                     </div>
                                     <div class="footer-social">
-                                        <ul>
+                                        <ul class="clearfix">
                                             <li class="fb"><a target="_blank" class="sprite" href="https://www.facebook.com/halaltrip"></a></li>
                                             <li class="twitter"><a target="_blank" class="sprite" href="http://twitter.com/HalalTrip"></a></li>
                                             <li class="pinit"><a target="_blank" class="sprite" href="https://pinterest.com/halaltrip"></a></li>
@@ -617,10 +636,15 @@ info@halaltrip.com to request that we remove this information from our database.
                                             <li class="youtube"><a target="_blank" class="sprite" href="https://www.youtube.com/user/halaltrip"></a></li>
                                             <li class="linkedin"><a target="_blank" class="sprite" href="https://www.linkedin.com/company/10010785"></a></li>
                                         </ul>
+                                        <div class="pay_logo">                                            
+                                            <img alt="MoasterCard_logo" src="/images/mastercard-logo.png">                                
+                                            <span>Strategic Payment Partner</span>
+                                        </div>
                                     </div>
 
                                 </div>
-                            </div>
+                                <a class="business-registration" href="/site/business/">Register your service to get a priority listing</a>
+                            </div>                            
                         </div>
                     </div>
                 </div>
@@ -724,8 +748,7 @@ info@halaltrip.com to request that we remove this information from our database.
                 } else {
                     $('html').removeClass('minimal');
                 }
-            });
-            $('#foodspotterhome').respCaro({overflow: false, visible: 4, itemMinWidth: 220, itemMargin: 20, autoRotate: 5000});
+            });          
             $(function() {
                 $('.masterTooltip').tooltip({
                     position: {
@@ -751,7 +774,18 @@ info@halaltrip.com to request that we remove this information from our database.
                 window.attachEvent("onload", downloadJSAtOnload);
             else window.onload = downloadJSAtOnload; */
         </script>     
-         
+     <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1514392005491221&version=v2.0";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+    </script>  
+ 
+        
         <!--Start of Zopim Live Chat Script-->
         <script type="text/javascript">
             window.$zopim || (function(d, s) {
@@ -773,9 +807,23 @@ info@halaltrip.com to request that we remove this information from our database.
                         type = 'text/javascript';
                 e.parentNode.insertBefore($, e)
             })(document, 'script');
+            
+             // add a hash to the URL when the user clicks on a tab
+                $('a[data-toggle="tab"]').on('click', function(e) {
+                    history.pushState(null, null, $(this).attr('href'));
+                });
+                
+                var homeurl = document.location.toString();
+                if (homeurl.match('#')) {
+                    //$('.searchCenter').css({ 'display': "block !important" });
+                    var newtab = homeurl.split('#');
+                    $('.nav-tabs a[href=#'+newtab[1]+']').trigger('click');
+                    //$('html, body').animate({ scrollTop: $('#'+newtab[1]).offset().top}, 0);
+                    //$("body").animate({ scrollTop: 0 }, "");
+                }  
         </script>
         <!--End of Zopim Live Chat Script-->
-    <script type="text/javascript" src="/assets/d29c34ee/jui/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/assets/30fe962d/jui/js/jquery-ui.min.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 jQuery(function($) {
@@ -914,40 +962,4 @@ if(jQuery.trim(value)!='' && !value.match(/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\
 /*]]>*/
 </script>
 
-<div id="sidr-main" class="sidr right"><div class="sidr-inner">
-                            <ul class="sidr-class-clearfix sidr-class-men">
-                                <li class="sidr-class-has-dropdown"><em class="sidr-class-sprite"></em><a class="sidr-class-isdropDown" href="javascript:void(0);"><img alt="plus-image" src="/images/plus_n.png"></a>
-                                    <ul class="sidr-class-drop-down sidr-class-p_align">
-                                        <li><a href="/add-mosque-masjid/">Add a Mosque</a></li>
-                                        <li><a href="/restaurant-add/">Add a Halal Restaurant</a></li>
-                                    </ul>
-                                </li>
-                                                                    <li class="sidr-class-greenlink"><a href="/site/login/">Login</a></li>
-                                    <li class="sidr-class-greenlink"><a href="/site/register/">Register</a><em class="sidr-class-sprite"></em></li>                                    
-<!--                                <li><em class="sprite"></em></li>-->
-                                <li class="sidr-class-has-dropdown"><a class="sidr-class-isdropDown" href="javascript:void(0);">Guides</a><em class="sidr-class-sprite"></em>
-                                    <ul class="sidr-class-drop-down">
-                                        <li><a href="/airport-all/">Airport Guides</a></li>
-                                        <li><a href="/attraction-all/">Attraction Guides</a></li>
-                                        <li><a href="/city-guide-all/">City Guides</a></li>
-                                        <li><a href="/mosque-all/">Mosque Guides</a></li>
-<!--                                        <li></li>-->
-                                        <li><a href="/restaurants-all/">Restaurant Guides</a></li>
-                                        <li><a href="/other/blog/">Blog</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="/foodspotter/">Halal Food Spotter</a><em class="sidr-class-sprite"></em></li>
-
-                                <li class="sidr-class-has-dropdown"><a class="sidr-class-isdropDown" href="/prayertimes/inflight/">Prayer guides</a><em class="sidr-class-sprite"></em>
-                                    <ul class="sidr-class-drop-down">
-                                        <li><a href="/prayertimes/can-you-reach-the-nearby-mosque/">Can You Reach The Mosque</a></li>
-                                        <li><a href="/prayertimes/inflight/">InFlight Prayer Calc</a></li>
-                                        <li><a href="/prayertimes/traveldua/">Travel Dua</a></li>
-                                        <li><a href="/prayertimes/etiquettes/">Travel Etiquettes</a></li>
-                                        
-                                    </ul>
-                                </li>                                    
-                                
-
-                            </ul>
-                        </div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 1; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-3" tabindex="0" style="z-index: 1; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-4" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
+</body></html>
