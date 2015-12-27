@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627130102id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227020045id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
 
-# BSO Privacy Policy | Robert Littal Presents BlackSportsOnline
+# BSO Privacy Policy | Black Sports Online
 
 BlackSportsOnline knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the BlackSportsOnline website, you are accepting the practices outlined in this Privacy Policy.  
 What Does This Privacy Policy Cover?
