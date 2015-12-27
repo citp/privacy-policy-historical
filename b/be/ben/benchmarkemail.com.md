@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benchmarkemail.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195408id_/http%3A//www.benchmarkemail.com/email-marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchmarkemail.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227094403id_/http%3A//www.benchmarkemail.com/email-marketing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Benchmark Email
 
@@ -6,17 +6,17 @@
 
 #### Privacy Policy for Benchmark Email
 
-Effective Date: 12/14/2012
+Effective Date: 6/30/2015
 
-[](http://privacy.truste.com/privacy-seal/Benchmark-Internet-Group/validation?rid=9e3387aa-5104-4306-8e12-0b31721a51fc "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Benchmark-Internet-Group/validation?rid=521da123-1edf-4e8e-ba62-a5b56ae3314a "TRUSTe European Safe Harbor certification")
 
-Welcome to Benchmark Email, owned and operated by Benchmark Internet Group, LLC (herein after referred to as "Benchmark," "company," "us," "we," and/or "our").
+Welcome to Benchmark Email, owned and operated by Benchmark Internet Group (herein after referred to as "Benchmark," "company," "us," "we," and/or "our").
 
 This document/page lays out our privacy policy in regards to information that we may collect on our website www.benchmarkemail.com and through the associated Benchmark Email Service. This includes personally identifiable info (personal data). The use of information collected through our Service shall be limited to the purpose of providing the service for which our customers have engaged us. Your data and privacy are of utmost importance to Benchmark, and this privacy policy was created to emphasize that. This policy will explain how we use and protect your personal data and any other information gathered with the service.
 
-Benchmark Internet Group has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements and the TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://www.benchmarkemail.com](http://www.benchmarkemail.com/) and the associated Services.
+The TRUSTe program covers only information that is collected, used and disclosed through this website, [http://www.benchmarkemail.com](http://www.benchmarkemail.com/) and service platform and does not cover information that may be collected through software downloaded from the website and mobile application.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@benchmarkemail.com](mailto:support@benchmarkemail.com). If you are not satisfied with our response you can contact TRUSTe here, <https://feedback-form.truste.com/watchdog/request>. 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request). 
 
 Benchmark Internet Group complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Benchmark has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Benchmark's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -58,31 +58,21 @@ In addition, if you contact us for more info on any of our partner programs, our
 
 Our website offers a publicly accessible blog and a member community forum. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Our community forum provides the ability to create a personal profile which gives you the option to submit additional personal and demographic information about yourself, such as age and personal interests. To request removal of your personal information from our blog or community forum, contact us at [support@benchmarkemail.com](mailto:support@benchmarkemail.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Also available through our forum, you can choose to use our referral feature to tell a friend about our site. We will ask you for your friend's name and email address. We will automatically send your friend a one-time email notifying him or her to the aspect of the site you wanted to share. Benchmark stores (or does not store) this information for the sole purpose of sending this one-time. Your friend may contact us at [support@benchmarkemail.com](mailto:support@benchmarkemail.com) to request that we remove this information from our database.
+Also available through our forum, you can choose to use our referral feature to tell a friend about our site. We will ask you for your friend's name and email address. We will automatically send your friend a one-time email notifying him or her to the aspect of the site you wanted to share. Benchmark stores this information for the sole purpose of sending this one-time. Your friend may contact us at [support@benchmarkemail.com](mailto:support@benchmarkemail.com) to request that we remove this information from our database. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
 We also may display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us about using the information listed below.
 
-#### Non-Personal, Non-Identifiable Data Collection
+#### Tracking Technologies
 
-When you use or interact with our services, we may collect non-identifiable data, which may include but is not limited to type of Internet browser, Internet Protocol (IP addresses), geographic location (approximate), a record of how you use our services and sites, and other data that cannot be used to identify you. We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+When you use or interact with our services, we may collect non-identifiable data, which may include but is not limited to type of Internet browser, Internet Protocol (IP addresses), geographic location (approximate), a record of how you use our services and sites, referring/exit pages, operating system, date/time stamp, and/or clickstream data and other data that cannot be used to identify you. We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-When you use our service or visit our site(s), we use something called a "cookie" that we place on your browser. This cookie can do anything from analyze how you use our service to automatically identifying you when you visit the site. This saves you time, because when a cookie is used, you may not need to enter in your password or login info over and over to use the service. Cookies are in no way linked to personally identifiable information.
+We at Benchmark and our partners, affiliates, or analytics or service providers (Google, AdRoll, Yahoo, Bing), use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
-In keeping with the EU Privacy and Electronic Communications Directive, here is a list of the cookies we use on Benchmark Email and a brief summary of what they do:
+We use cookies for our shopping cart, to remember users' settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-  * Benchmark Email session cookies: These cookies identify you as a logged-in user of the site and store preferences to enhance your user experience.
-  * Cookies with prefix "_utm": Google Analytics cookies help us track visitors to our site, as well as their behavior during their visit.
-  * Cookies with prefix "_km": KISSmetrics tracks user behavior across our site, including sales and free trial signups.
-  * Adroll: AdRoll is a retargeting system that helps us identify prior users and show them ads on different websites, helping us to recapture previous visitors.
-  * Sourcetracking: Helps us identify referring sites for our affiliate program.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-
-
-These cookies may be used to tailor content to you when you visit our service or other sites in the future. Cookies may last for one browser session or many, and may even be used for months or even years until they expire. If you'd like to remove, disable or prevent cookies from being installed on your machine, use the help section of your Internet browser to find out how you can make adjustments to your cookie settings. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. To save you time and to use our services to the fullest, we recommend that you keep your cookies turned on. Be advised, we may also be using HTML5 cookies in future updates to the service.
-
-The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media plug-ins) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies.
-
-Additionally, we employ a software technology called clear gifs (a.k.a. Web Beacons) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 #### What We Do with Your Information
 
@@ -115,7 +105,7 @@ Also, when you create or upload an email list and store it with our service, **w
 
 #### Regarding 3rd Party Data Processes through Our Email Service
 
-Benchmark collects information under the direction of our customers, and has no direct relationship with the individuals whose personal data it processes as part of providing the Service. 
+Benchmark collects information under the direction of our customers, and has no direct relationship with the individuals whose personal data it processes as part of providing the Service. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
 An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to the Benchmark customer they interact with directly (the data controller). If a Benchmark customer requests that we remove personally identifiable information on their behalf, we will respond to their request within 30 days. 
 
@@ -127,7 +117,7 @@ Benchmark does not sell or market your personal information to third parties.
 
 We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-Benchmark will only disclose your data, the content of your private communications, or the contact information of your recipients if required to do so by law, or as otherwise stated in this Statement, or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on Benchmark; (2) protect and defend the rights or property of Benchmark and others, including among other things to enforce our Terms of Service; (3) act under exigent circumstances to protect the personal safety of its members or the public; (4) to correct technical problems and malfunctions in how we provide our service to you and to technically process your information; (5) to take precautions against liability; (6) to respond to claims that information you have submitted to Benchmark has violated the rights or interests of a third party; or (7) as permitted by law or to provide information to law enforcement agencies. 
+Benchmark will only disclose your data, the content of your private communications, or the contact information of your recipients if required to do so by law, or as otherwise stated in this Statement, or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal or bankruptcy process served on Benchmark; (2) protect and defend the rights or property of Benchmark and others, including among other things to enforce our Terms of Service; (3) act under exigent circumstances to protect the personal safety of its members or the public; (4) to correct technical problems and malfunctions in how we provide our service to you and to technically process your information; (5) to take precautions against liability; (6) to respond to claims that information you have submitted to Benchmark has violated the rights or interests of a third party; or (7) as permitted by law or to provide information to law enforcement agencies. 
 
 Also, certain technical processing of email messages and their content that are required for: (1) sending and receiving messages; (2) conforming to connecting networks' technical requirements; (3) conforming to the limitations of the Service; or (4) other similar technical connecting requirements.
 
@@ -147,6 +137,10 @@ The security of personal information is important to us. When you enter sensitiv
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@benchmarkemail.com](mailto:support@benchmarkemail.com).
 
+#### Public Profile
+
+The profile you create on our site will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
+
 #### Links to Other Websites
 
 Benchmark Email's web site, or messages created with Benchmark, may contain links to other Websites. Benchmark is not responsible for the privacy practices or the content of such Websites. Third parties may independently collect information about you when you view ads or other communications from third parties through Benchmark products or services. If you submit personal information to any of those sites, your information is governed by their privacy policies. If you do not want those companies to collect information about you, please contact them directly. We encourage you to carefully read the privacy policy of any Web site you visit.
@@ -155,7 +149,7 @@ Additionally, our web site includes Social Media Features, such as the Facebook 
 
 #### Benchmark Policy Changes
 
-As with any business, we reserve the right to make changes to our privacy statement, polices and practices. Should this happen, we will notify you at least 30 days before those changes take place by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change. If these new policies and practices reflect something different than what we're already doing, we'll give you the choice, at least 30 days in advance of those changes, to either continue with us or cancel your service and go elsewhere. 
+As with any business, we reserve the right to make changes to our privacy statement, polices and practices. Should this happen, we will notify you or our Client at least 30 days before those changes take place by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change. If these new policies and practices reflect something different than what we're already doing, we'll give you the choice, at least 30 days in advance of those changes, to either continue with us or cancel your service and go elsewhere. 
 
 #### Contact Us 
 
