@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629010454id_/http%3A//www.cc.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227055919id_/http%3A//www.cc.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comedy Central
 
-****Last Modified: Dec. 17, 2014****
+****Last Modified: Nov. 2, 2015****
 
  ** ** **This is the privacy policy (" _Privacy Policy_ ") for [www.cc.com](http://www.cc.com/) and the other websites operated under the Comedy Central brand which link to this Privacy Policy (each, a " _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website** **offered in cooperation with the Comedy Central television channel or programming service (" _Comedy Central Channel_ ")**. **The** Comedy Central **Channel and the Sites (together, "** Comedy Central") **are provided by Viacom Media Networks (" _VMN_ "), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the " _Parent Companies_ "). ******
 
@@ -119,11 +119,11 @@
 
  ** ** **i. In Connection with Marketing and Promotional E-mail and Offers.******
 
- ** **You may "opt-out" of receiving marketing and promotional e-mails from us at any time by using the opt-out mechanism that is contained in each such email or unsubscribe through<http://exodus.comedycentral.com/site/unsubscribe_email>.Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an email, you are not opting out of receiving marketing and promotional e-mails from other VMN brands. Please see Section 4.a.ii below for your newsletter options.****
+ ** **You may "opt-out" of receiving marketing and promotional e-mails from us at any time by using the opt-out mechanism that is contained in each such e-mail. Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an e-mail, you are not opting out of receiving marketing and promotional e-mails from other VMN brands. Please see Section 4.a.ii below for your newsletter options.****
 
  ** ** **ii. In connection with Newsletters and other Editorial-based E-mails.******
 
- ** **To the extent the applicable Site offers newsletters or other editorial-based emails, to manage your newsletter preferences, you may follow the unsubscribe link in the applicable newsletter. Please note that when you opt-out of receiving any or all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see Section 4.a.i above for your marketing and promotional e-mail options.****
+ ** **To the extent the applicable Site offers newsletters or other editorial-based e-mails, you may “opt-out” of receiving any newsletter e-mail by using the opt-out mechanism that is contained in each such newsletter e-mail. Please note that when you opt-out of receiving any or all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see Section 4.a.i above for your marketing and promotional e-mail options.****
 
  ** ** **iii. In Connection with Wireless Marketing Services.** See " **Termination of Wireless Services by Users** " under the "Wireless Marketing Services and Associated Promotional Opportunities" Section for more information on how you may unsubscribe from receiving text messages.****
 
