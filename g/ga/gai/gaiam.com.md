@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429123100id_/http%3A//www.gaiam.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227071928id_/http%3A//www.gaiam.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Gaiam.com Privacy Policy - Gaiam
 
-This Gaiam.com Privacy Policy (" **Privacy Policy** ") governs your use of the Gaiam.com website (the " **Website** "), which is owned by Gaiam, Inc. (" **Gaiam** ").   We know how visitors like you value your privacy, and we have created this Privacy Policy to ensure that you understand our policies and procedures, what personal information you must provide if you wish to use certain portions of our Website and, ultimately, just how we use such personal information. This Privacy Policy is a part of and is incorporated into our Gaiam.com Terms and Conditions of Use. By accessing or using our Website, you accept, without limitation or qualification, the terms of this Privacy Policy.
+This Gaiam.com Privacy Policy (" **Privacy Policy** ") governs your use of the Gaiam.com website (the " **Website** "), which is owned by Gaiam Americas, Inc. (" **Gaiam** ").   We know how visitors like you value your privacy, and we have created this Privacy Policy to ensure that you understand our policies and procedures, what personal information you must provide if you wish to use certain portions of our Website and, ultimately, just how we use such personal information. This Privacy Policy is a part of and is incorporated into our Gaiam.com Terms and Conditions of Use. By accessing or using our Website, you accept, without limitation or qualification, the terms of this Privacy Policy.
 
 1\. Information Collected By Our Website
 
@@ -78,4 +78,4 @@ By using our Website and providing your personal information to us, you also aut
 
 We may amend our Privacy Policy at any time, without notice to you, by posting such revised Privacy Policy on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Any changes will only apply to information collected after the change is posted.
 
-_This Privacy Policy was last updated on September 17, 2012._
+_This Privacy Policy was last updated on May 26, 2015._
