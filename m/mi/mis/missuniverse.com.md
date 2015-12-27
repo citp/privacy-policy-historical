@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623143533id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227193758id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy was last updated on March 31, 2010.
 
-Introduction: The web sites which are located at the domains MissUniverse.com, MissUSA.com and MissTeenUSA.com (the "Sites") are operated by Miss Universe L.P., LLLP ("Miss Universe" or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Sites. These Sites are operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Sites, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com) or at the address at the end of this policy.
+Introduction: The web sites which are located at the domains MissUniverse.com, MissUSA.com and MissTeenUSA.com (the "Sites") are operated by IMG Universe LLC ("Miss Universe" or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Sites. These Sites are operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Sites, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [MissUniPrivacy@missuniverse.com](mailto:MissUniPrivacy@missuniverse.com) or at the address at the end of this policy.
 
 PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITES CAREFULLY. YOUR USE OF THEE SITES SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
