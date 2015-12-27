@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeldauniverse.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627024932id_/http%3A//www.zeldauniverse.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeldauniverse.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227060454id_/http%3A//zeldauniverse.net/privacy) for the most accurate reproduction.*
 
-# Legal Information and Privacy Policy | Zelda Universe
+# Legal Information and Privacy Policy - Zelda Universe
 
 All content on these pages is, unless otherwise specified, copyrighted by law to Zelda Universe. You may not use any part of this site without proper permission from the site owner. All characters and icons from the  _Zelda_  series are trademarks of Nintendo; this site is fan-made and fan-run, and is in no way affiliated with Nintendo.
 
