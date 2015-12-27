@@ -1,29 +1,38 @@
-> *The following text is extracted and transformed from the free-ocr.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021940id_/http%3A//www.free-ocr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ocr.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227042116id_/http%3A//www.free-ocr.com/privacy.html) for the most accurate reproduction.*
 
-# Free online OCR
+# Privacy - Free-ocr.com
 
-## Privacy Policy
+## PRIVACY POLICY
 
-Free OCR believes strongly in protecting the privacy of the personally information you share with us, please read through the following Policy before using Free OCR.
+### Personal Data Collected by us
 
-### Personal data
+In general, we collect only your IP address along with the dates and times of access, as this not avoidable due to the technical workings of a webserver. We do not link this information to any personally identifiable information. 
 
-We will not view the files that you upload using the Free OCR Service. Your files are deleted after processing.
+If you send us a donation through PayPal, we will get your personal data about your PayPal account but we do not store it.   
+If you send us a letter via our contact form, we do not store your name and email address.   
+We use the email address only to communicate with you. We will never share or resell your email address. 
 
-We may view your file`s information (file extensions, sizes etc. but not your file contents) to provide technical support.
+### Storage of User Files and generated Data
 
-### Cookies
+All submitted files or inputs as well as the converted output are deleted automatically after half an hour. No backups are made and only employees of t-reinhardt.ch are able to access your files. We keep the files for the sole purpose for giving you enough time to download them. We do not look at the files or mine any data from them. 
 
-We use cookies to store the number of submitted documents.
+### How we use Cookies
 
-### Third-party advertising
+We use cookies solely for functional purposes, without storing any user information. For example, we store information like selected input options to increase the usability of our site. We do not use cookies to track you. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
+However, Google Analytics, Google DoubleClick, and Google Adsense, which we are using on this site, do use cookies on our site to help analyse the web traffic or determine targeted advertisements based on your preferences, your visit on our sites and other sites on the internet. To opt out of Google’s use of cookies, please visit the Google ad and content network privacy policy. If you prefer not to use cookies at all, we recommend adjusting your browser settings accordingly. 
 
-### Visitor tracking
+## TERMS OF SERVICE
 
-Because we are a bit curious where our users come from and how the come here we use a third party visitor tracking tool.
+### Responsiblities for any Damages or Troubles
 
-### Changes to the privacy policy
+We are working hard to ensure that the services we offer are free of errors but we cannot guarantee that. As a user of this service you agree that t-reinhardt.ch will not be held responsible for any failure or error. 
 
-This Privacy Statement may be modified from time to time. Any change, update or modification we make will be effective immediately upon posting on our site(s). If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Continued access of our sites by you will constitute your acceptance of any changes or revisions to the Privacy Statement.
+### Copyright Issues
+
+Do not use our services and intellectual property for any form of infringement. 
+
+## DATE OF MODIFICATION
+
+2015-06-21  
+Changes to this terms and conditions will be indicated by a change of this page date of modification. 
