@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugefiles.net privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526182931id_/http%3A//hugefiles.net/pages/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugefiles.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192600id_/http%3A//hugefiles.net/pages/policy.html) for the most accurate reproduction.*
 
 # HugeFiles.net - Cloud storage for your HUGE Files
 
