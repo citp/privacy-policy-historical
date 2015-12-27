@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the highmark.com privacy policy that was archived on 2015-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150203201356id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the highmark.com privacy policy that was archived on 2015-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227092421id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Privacy</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Highmark is a national health and wellness company that serves 34.4 million people and is one of the largest health insurers in the United States. We take the issue of privacy very seriously. We want to assure users of our websites that their information is secure.">
-
+	<meta name="description" content="Highmark Inc. assures users that information is secure and maintained in confidence, consistent with applicable state and federal laws. ">
 	
 	<!-- CSS -->
 	<link rel="stylesheet" href="/hmk2/css/bootstrap.css">
@@ -35,39 +34,55 @@
 </head>
 <body id="other">
 <!-- BEGIN HEADER INCLUDE -->
-<a href="#content" class="sr-only">Skip to main content</a>
+<div id="skiptocontent">
+	<a href="#content">Skip to main content</a>
+</div>
 	
 <div class="topbar">
-	<div class="container">
-		<ul class="nav nav-pills pull-right">
-    	<li class="dropdown">
-        	<a href="#" data-toggle="dropdown" class="dropdown-toggle">Select Language<b class="caret"></b></a>
-        	<ul class="dropdown-menu">
-            	<li><a mporgnav="" href="https://espanol.highmark.com" onclick="return switchLanguage('es'); function switchLanguage(lang) { MP.SrcUrl=unescape('mp_js_orgin_url'); MP.UrlLang='mp_js_current_lang'; MP.init(); MP.switchLanguage(MP.UrlLang==lang?'en':lang); return false;}">Espanol</a></li>
-            	<li><a href="/hmk2/lep/italian.shtml">Italiano</a></li>
-            	<li><a href="/hmk2/lep/russian.shtml">Русский язык</a></li>
-            	<li><a href="/hmk2/lep/vietnamese.shtml">Tiếng Việt</a></li>
-            	<li><a href="/hmk2/lep/chinese.shtml">中文</a></li>
-            	<li class="divider"></li>
-            	<li><a href="/hmk2/pdf/languagesother.pdf" target="_blank">Other</a></li>
-        	</ul>
-    	</li>
-    	<li class="dropdown">
-        	<a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="small">A</span>A<b class="caret"></b></a>
-        	<ul class="dropdown-menu resizer">
-				<li class="smaller"><a href="#" class="smaller">Smaller</a></li>
-				<li class="regular"><a href="#" class="regular">Regular</a></li>
-				<li class="larger"><a href="#" class="larger">Larger</a></li>
-        	</ul>
-    	</li>
-    	<li class="dropdown needhelp">
-        	<a href="#" data-toggle="dropdown" class="dropdown-toggle">Need Help?<b class="caret"></b></a>
-        	<ul class="dropdown-menu">
-            	<li><a href="/hmk2/contact.shtml">Contact Us</a></li>
-        	</ul>
-    	</li>
-	</ul>
-	</div><!-- end container -->
+<div class="container">
+<ul class="nav nav-pills pull-right" role="tablist">
+
+	<li class="dropdown" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Select Color Contrast<b class="caret"></b></a>
+		<ul class="dropdown-menu colorSwitcher" role="menu">
+			<li id="default" role="presentation"><a href="javascript:;" onclick="javascript:changeColors('default');return false;" role="menuitem" tabindex="-1">Default | Reset to Default</a></li>
+			<li id="highContrast1" role="presentation"><a href="javascript:;" onclick="javascript:changeColors('highContrast1');return false;" role="menuitem" tabindex="-1">High Contrast 1</a></li>	
+			<li id="highContrast2" role="presentation"><a href="javascript:;" onclick="javascript:changeColors('highContrast2');return false;" role="menuitem" tabindex="-1">High Contrast 2</a></li>
+		</ul>
+	</li>
+
+	<li class="dropdown" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Select Language<b class="caret"></b></a>
+		<ul class="dropdown-menu" role="menu">
+			<li role="presentation"><a mporgnav="" href="https://espanol.highmark.com" onclick="return switchLanguage('es'); function switchLanguage(lang) { MP.SrcUrl=unescape('mp_js_orgin_url'); MP.UrlLang='mp_js_current_lang'; MP.init(); MP.switchLanguage(MP.UrlLang==lang?'en':lang); return false;}" lang="es" role="menuitem" tabindex="-1">Espanol</a></li>
+
+			<li role="presentation"><a href="/hmk2/lep/italian.shtml" lang="it" role="menuitem" tabindex="-1">Italiano</a></li>
+			<li role="presentation"><a href="/hmk2/lep/russian.shtml" lang="ru" role="menuitem" tabindex="-1">Русский язык</a></li>
+			<li role="presentation"><a href="/hmk2/lep/vietnamese.shtml" lang="vi" role="menuitem" tabindex="-1">Tiếng Việt</a></li>
+			<li role="presentation"><a href="/hmk2/lep/chinese.shtml" lang="zh" role="menuitem" tabindex="-1">中文</a></li>
+			<li class="divider" role="presentation"></li>
+			<li role="presentation"><a href="/hmk2/pdf/languagesother.pdf" target="_blank" role="menuitem" tabindex="-1">Other</a></li>
+		</ul>
+	</li>
+	
+	<li class="dropdown" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-label="Change text size" aria-haspopup="true" aria-expanded="false"><span class="small">A</span>A<b class="caret"></b></a>
+		<ul class="dropdown-menu resizer" role="menu">
+			<li id="smaller" role="presentation"><a href="#" class="smaller" role="menuitem" tabindex="-1">Smaller</a></li>
+			<li id="regular" role="presentation"><a href="#" class="regular" role="menuitem" tabindex="-1">Regular</a></li>
+			<li id="larger" role="presentation"><a href="#" class="larger" role="menuitem" tabindex="-1">Larger</a></li>
+		</ul>
+	</li>
+
+	<li class="dropdown needhelp" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Need Help?<b class="caret"></b></a>
+		<ul class="dropdown-menu" role="menu">
+			<li role="presentation"><a href="/hmk2/contact.shtml" role="menuitem" tabindex="-1">Contact Us</a></li>
+		</ul>
+	</li>
+	
+</ul><!-- end ul.nav-pills -->
+</div><!-- end container -->
 </div><!-- end topbar -->
 	
 	
@@ -75,319 +90,325 @@
 PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 -->
 	
-
-	<div class="container">
+<div class="container">
 	
-        <div class="row">
-            <div class="col-sm-7 col-md-9">
-                <a class="hmLogo" href="/hmk2/index.shtml"><img src="/hmk2/images/highmarkLogo.png" alt="Highmark logo"></a>
-            </div>
-            <div class="col-sm-5 col-md-3">
-                <form role="form" class="clearfix" name="siteSearch" id="siteSearch" action="https://secure.highmark.com/cwasch/results-hmk.jsp" method="GET">
-                	<input type="hidden" name="Action" value="Search">
-                	<input type="hidden" name="Collection" value="corphmcom">
-                	<input type="hidden" name="ResultStart" value="1">
-                	<input type="hidden" name="QueryMode" value="Internet">
-                	<input type="hidden" name="ResultMaxDocs" value="-1">
-                	<div class="row">
-                		<div class="col-lg-12">
-                			<div class="input-group">
-                				<label class="sr-only" for="QueryText">Search Highmark.com</label>	
-                				<input type="text" name="QueryText" id="QueryText" class="form-control input-sm" placeholder="Search Highmark.com">
-                				<span class="input-group-btn">
-                					<button class="btn btn-primary input-sm" type="submit"><span class="glyphicon glyphicon-search"></span></button>
-                				</span>
-                			</div><!-- /input-group -->
-                		</div><!-- /.col -->
-                	</div><!-- /.row -->
-                </form>
-            </div>
-        </div><!-- end .row -->
+<div class="row">
+<div class="col-sm-7 col-md-9">
+<a class="hmLogo" href="/hmk2/index.shtml"><img src="/hmk2/images/highmarkLogo.png" alt="Highmark Home"></a>
+</div>
+<div class="col-sm-5 col-md-3">
+<form role="form" class="clearfix" name="siteSearch" id="siteSearch" action="https://secure.highmark.com/cwasch/results-hmk.jsp" method="GET">
+<input type="hidden" name="Action" value="Search">
+<input type="hidden" name="Collection" value="corphmcom">
+<input type="hidden" name="ResultStart" value="1">
+<input type="hidden" name="QueryMode" value="Internet">
+<input type="hidden" name="ResultMaxDocs" value="-1">
+<div class="row">
+<div class="col-lg-12">
+<div class="input-group">
+<label class="sr-only" for="QueryText">Search Highmark.com</label>	
+<input type="text" name="QueryText" id="QueryText" class="form-control input-sm" placeholder="Search Highmark.com">
+<span class="input-group-btn">
+<button class="btn btn-primary input-sm" aria-label="Search" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+</span>
+</div><!-- /input-group -->
+</div><!-- /.col -->
+</div><!-- /.row -->
+</form>
+</div>
+</div><!-- end .row -->
 
 <div class="clearfix"></div>
 
 <div class="navbar navbar-default yamm" role="navigation">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" id="ui-collapse-696">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        <li class="home"><a href="/hmk2/index.shtml" id="homeTab"><span class="toggle-hidden">Home</span>&nbsp;</a></li>
-        <li class="dropdown yamm-fw">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="aboutTab">About Us</a>
-			<ul class="dropdown-menu">
-				<li>
-					<div class="yamm-content about">
-                    	<div class="row no-gutter">
-                      		<div class="col-md-12">  
-                      			<div class="col1 pull-left">
-                      				<div class="row1"></div>
-                      				<div class="row2 text-right"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
-                      				<div class="row3 bg"></div>
-                      			</div>
-                      			<div class="col2 pull-left">
-                      				<div class="row1"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
-                      				<div class="row2 gray"></div>
-                      				<div class="row3 gray">  
-                      					<div class="indent">  
-											<p class="hidden-xs hidden-ms">Learn more about Highmark and our affiliates and diversified business:</p>
-											<ul>
-												<li><a href="/hmk2/about/vision/index.shtml">Mission, Vision &amp; Values</a></li>
-												<li><a href="/hmk2/about/corpprofile/index.shtml">Corporate Profile</a></li>
-												<li><a href="/hmk2/about/careers.shtml">Careers</a></li>
-												<li><a href="/hmk2/about/ourBusinesses.shtml">Our Businesses</a></li>
-											</ul>
-										</div>
-									</div>
-                      			</div>
-                      			<div class="col3 pull-left">
-                      				<div class="row1"></div>
-                      				<div class="row2"></div>
-                      				<div class="row3 bg"> 
-                      					<div class="bigImg">
-                      						<div class="indent">     
-												<h2>About Us</h2>
-												<p>Highmark Inc. is a national, diversified health care partner serving members through its businesses in health insurance, dental insurance, vision care and reinsurance. Our mission is to make high-quality health care readily available, easily understandable and truly affordable in the communities we serve.</p>
-												<!-- <p><a href="" class="rightArrow">Get a summary here</a></p> -->
-											</div>
-										</div>
-									</div>
-                      			</div>
-                      			<div class="clearFloat"></div>
-                      		</div>
-                    	</div>
-                    </div>
-				</li>
-			</ul>
-		</li>
-        <li class="dropdown yamm-fw">
-        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="newsroomTab">Newsroom</a>
-			<ul class="dropdown-menu">
-				<li>
-					<div class="yamm-content newsroom">
-                    	<div class="row no-gutter">
-                      		<div class="col-md-12">  
-                      			<div class="col1 pull-left">
-                      				<div class="row1"></div>
-                      				<div class="row2 text-right"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
-                      				<div class="row3 bg"></div>
-                      			</div>
-                      			<div class="col2 pull-left">
-                      				<div class="row1"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
-                      				<div class="row2 gray"></div>
-                      				<div class="row3 gray">  
-                      					<div class="indent">  
-											<p class="hidden-xs hidden-ms">View current news releases, browse our press kits, and learn more about Highmark:</p>
-											<ul>
-												<li><a href="/hmk2/newsroom/2015/index.shtml">Press Releases</a></li>
-												<li><a href="/hmk2/newsroom/presskits/index.shtml">Press Kits</a></li>
-												<li><a href="/hmk2/newsroom/mediaCoverage.shtml">Media Coverage</a></li>
-												<li><a href="/hmk2/newsroom/socialMedia.shtml">Social Media</a></li>
-                                                <li><a href="/hmk2/newsroom/snapshot.shtml">Corporate Snapshot</a></li>
-												<li><a href="/hmk2/newsroom/weeklyCapitolHillReport/index.shtml">Weekly Capitol Hill Report</a></li>
-											</ul>
-										</div>
-									</div>
-                      			</div>
-                      			<div class="col3 pull-left">
-                      				<div class="row1"></div>
-                      				<div class="row2"></div>
-                      				<div class="row3 bg"> 
-                      					<div class="bigImg">
-                      						<div class="indent">     
-												<h2>Newsroom</h2>
-												<p>Guided by a corporate mission to make high-quality health care readily available, easily understandable and affordable, Highmark Inc. has taken a leadership role in providing innovative products, programs and services for our members, providers and the communities we serve.</p>
-												<!-- <p><a href="" class="rightArrow">Get a summary here</a></p> -->
-											</div>
-										</div>
-									</div>
-                      			</div>
-                      			<div class="clearFloat"></div>
-                      		</div>
-                    	</div>
-                    </div>
-				</li>
-			</ul>
-		</li>
-        <li class="dropdown yamm-fw">
-        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="responsibilityTab">Corporate Responsibility</a>
-			<ul class="dropdown-menu">
-				<li>
-					<div class="yamm-content responsibility">
-                    	<div class="row no-gutter">
-                      		<div class="col-md-12">  
-                      			<div class="col1 pull-left">
-                      				<div class="row1"></div>
-                      				<div class="row2 text-right"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
-                      				<div class="row3 bg"></div>
-                      			</div>
-                      			<div class="col2 pull-left">
-                      				<div class="row1"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
-                      				<div class="row2 gray"></div>
-                      				<div class="row3 gray">  
-                      					<div class="indent">  
-											<p class="hidden-xs hidden-ms">Learn more about our corporate commitment to communities:</p>
-											<ul>
-												<li><a href="/hmk2/responsibility/commitment.shtml">Our Commitment</a></li>
-												<li><a href="/hmk2/responsibility/giving/index.shtml">Corporate Giving</a></li>
-												<li><a href="/hmk2/responsibility/involvement/index.shtml">Community Involvement</a></li>
-												<li><a href="/hmk2/responsibility/seg/index.shtml">Sustainable, Eco-Friendly &amp; Green</a></li>
-												<li><a href="/hmk2/responsibility/diversity/index.shtml">Diversity &amp; Inclusion</a></li>
-												<li><a href="/hmk2/responsibility/communityImpact.shtml">Community Impact</a></li>
-											</ul>
-										</div>
-									</div>
-                      			</div>
-                      			<div class="col3 pull-left">
-                      				<div class="row1"></div>
-                      				<div class="row2"></div>
-                      				<div class="row3 bg"> 
-                      					<div class="bigImg">
-                      						<div class="indent">     
-												<h2>Corporate Responsibility</h2>
-												<p>For nearly 75 years, Highmark Inc. has had a longstanding commitment to the communities where we do business. We take our responsibilities related to diversity, sustainability, disparities and corporate leadership seriously because they directly link to the values of our company.</p>
-												<!-- <p><a href="" class="rightArrow">Get a summary here</a></p> -->
-											</div>
-										</div>
-									</div>
-                      			</div>
-                      			<div class="clearFloat"></div>
-                      		</div>
-                    	</div>
-                    </div>
-				</li>
-			</ul>
-		</li>
-      </ul>
-      <!-- Start a new UL here so that we can float-right the Blues' item -->
-      <ul class="nav navbar-nav" id="bluesItem">
-        <li class="dropdown yamm-fw blues">
-        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="bluesTab">CONSUMERS / MEMBERS / PROVIDERS</a>
-			<ul class="dropdown-menu">
-				<li>
-					<div class="yamm-content blues">
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li class="home"><a href="/hmk2/index.shtml" id="homeTab" aria-label="Home"><span class="toggle-hidden">Home</span>&nbsp;</a></li>
+<li class="dropdown yamm-fw">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="aboutTab" aria-haspopup="true" aria-expanded="false">About Us</a>
+<ul class="dropdown-menu" role="menu">
+<li role="presentation">
+<div class="yamm-content about">
+<div class="row no-gutter">
+<div class="col-md-12">  
+<div class="col1 pull-left">
+<div class="row1"></div>
+<div class="row2 text-right"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
+<div class="row3 bg"></div>
+</div>
+<div class="col2 pull-left">
+<div class="row1"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
+<div class="row2 gray"></div>
+<div class="row3 gray">  
+<div class="indent">  
+<p class="hidden-xs hidden-ms">Learn more about Highmark and our affiliates and diversified business:</p>
+<ul role="menu"><li role="presentation"><a href="/hmk2/about/vision/index.shtml" role="menuitem" tabindex="-1">Mission, Vision &amp; Values</a></li>
+<li role="presentation"><a href="/hmk2/about/corpprofile/index.shtml" role="menuitem" tabindex="-1">Corporate Profile</a></li>
+<li role="presentation"><a href="/hmk2/about/careers.shtml" role="menuitem" tabindex="-1">Careers</a></li>
+<li role="presentation"><a href="/hmk2/about/ourBusinesses.shtml" role="menuitem" tabindex="-1">Our Businesses</a></li>
+<li role="presentation"><a href="https://www.highmarkhealth.org/annualreport/index.shtml" target="_blank" role="menuitem" tabindex="-1">Annual Report</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col3 pull-left">
+<div class="row1"></div>
+<div class="row2"></div>
+<div class="row3 bg"> 
+<div class="bigImg">
+<div class="indent">  
+   
+<h2>About Us</h2>
+<p>Highmark Inc. is a national, diversified health care partner serving members through its businesses in health insurance, dental insurance, vision care and reinsurance. Our mission is to make high-quality health care readily available, easily understandable and truly affordable in the communities we serve.</p>
+
+<!-- <p><a href="" class="rightArrow">Get a summary here</a></p> -->
+
+</div>
+</div>
+</div>
+</div>
+<div class="clearFloat"></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="newsroomTab" aria-haspopup="true" aria-expanded="false">Newsroom</a>
+<ul class="dropdown-menu" role="menu">
+<li role="presentation">
+<div class="yamm-content newsroom">
+<div class="row no-gutter">
+<div class="col-md-12">  
+<div class="col1 pull-left">
+<div class="row1"></div>
+<div class="row2 text-right"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt="">
+</div>
+<div class="row3 bg"></div>
+</div>
+<div class="col2 pull-left">
+<div class="row1"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
+<div class="row2 gray"></div>
+<div class="row3 gray">  
+<div class="indent">  
+<p class="hidden-xs hidden-ms">View current news releases, browse our press kits, and learn more about Highmark:</p>
+
+<ul role="menu">
+<li role="presentation"><a href="/hmk2/newsroom/2015/index.shtml" role="menuitem" tabindex="-1">Press Releases</a></li>
+<li role="presentation"><a href="/hmk2/newsroom/presskits/index.shtml" role="menuitem" tabindex="-1">Press Kits</a></li>
+<li role="presentation"><a href="/hmk2/newsroom/socialMedia.shtml" role="menuitem" tabindex="-1">Social Media</a></li>
+<li role="presentation"><a href="/hmk2/newsroom/snapshot.shtml" role="menuitem" tabindex="-1">Corporate Snapshot</a></li>
+<li role="presentation"><a href="/hmk2/newsroom/weeklyCapitolHillReport/index.shtml" role="menuitem" tabindex="-1">Weekly Capitol Hill Report</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col3 pull-left">
+<div class="row1"></div>
+<div class="row2"></div>
+<div class="row3 bg"> 
+<div class="bigImg">
+<div class="indent">     
+<h2>Newsroom</h2>
+<p>Guided by a corporate mission to make high-quality health care readily available, easily understandable and affordable, Highmark Inc. has taken a leadership role in providing innovative products, programs and services for our members, providers and the communities we serve.</p>
+<!-- <p><a href="" class="rightArrow">Get a summary here</a></p> -->
+</div>
+</div>
+</div>
+</div>
+<div class="clearFloat"></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="responsibilityTab" aria-haspopup="true" aria-expanded="false">Corporate Responsibility</a>
+<ul class="dropdown-menu" role="menu">
+<li role="presentation">
+<div class="yamm-content responsibility">
+<div class="row no-gutter">
+<div class="col-md-12">  
+<div class="col1 pull-left">
+<div class="row1"></div>
+<div class="row2 text-right"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
+<div class="row3 bg"></div>
+</div>
+<div class="col2 pull-left">
+<div class="row1"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
+<div class="row2 gray"></div>
+<div class="row3 gray">  
+<div class="indent">  
+<p class="hidden-xs hidden-ms">Learn more about our corporate commitment to communities:</p>
+<ul role="menu">
+<li role="presentation"><a href="/hmk2/responsibility/commitment.shtml" role="menuitem" tabindex="-1">Our Commitment</a></li>
+<li role="presentation"><a href="/hmk2/responsibility/giving/index.shtml" role="menuitem" tabindex="-1">Corporate Giving</a></li>
+<li role="presentation"><a href="/hmk2/responsibility/involvement/index.shtml" role="menuitem" tabindex="-1">Community Involvement</a></li>
+<li role="presentation"><a href="/hmk2/responsibility/seg/index.shtml" role="menuitem" tabindex="-1">Sustainable, Eco-Friendly &amp; Green</a></li>
+<li role="presentation"><a href="/hmk2/responsibility/diversity/index.shtml" role="menuitem" tabindex="-1">Diversity &amp; Inclusion</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col3 pull-left">
+<div class="row1"></div>
+<div class="row2"></div>
+<div class="row3 bg"> 
+<div class="bigImg">
+<div class="indent">     
+
+<h2>Corporate Responsibility</h2>
+
+<p>For nearly 75 years, Highmark Inc. has had a longstanding commitment to the communities where we do business. We take our responsibilities related to diversity, sustainability, disparities and corporate leadership seriously because they directly link to the values of our company.</p>
+
+<!-- <p><a href="" class="rightArrow">Get a summary here</a></p> -->
+
+</div>
+</div>
+</div>
+</div>
+<div class="clearFloat"></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+
+<!-- Start a new UL here so that we can float-right the Blues' item -->
+<ul class="nav navbar-nav" id="bluesItem">
+<li class="dropdown yamm-fw blues">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" id="bluesTab" aria-haspopup="true" aria-expanded="false">CONSUMERS / MEMBERS / PROVIDERS</a>
+<ul class="dropdown-menu" role="menu">
+<li role="presentation">
+<div class="yamm-content blues">
 					
-						<div class="row no-gutter hidden-xs hidden-ms">
-							<div class="col-md-12">
-								<div class="row1">
-									<div class="col1"><img src="/hmk2/images/clearpix.gif" width="1"></div>
-									<div class="col2"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
-									<div class="col3"><img src="/hmk2/images/clearpix.gif" width="1"></div>
-								</div>
-								<div class="row2">
-									<div class="col1"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
-									<div class="col2 gray"><img src="/hmk2/images/clearpix.gif" width="1"></div>
-									<div class="col3"><img src="/hmk2/images/clearpix.gif" width="1"></div>
-								</div>
-							</div>
-						</div><!-- end row -->
-						<div class="row bg no-gutter">
-							<div class="col-md-12">
-								<div class="row3">
-									<div class="col1"><img src="/hmk2/images/clearpix.gif" width="1"></div>
-									<div class="col2 flag"></div>
-									<div class="col3"><img src="/hmk2/images/clearpix.gif" width="1"></div>
-								</div>
-								<div class="row4">
-									<div class="indent">
-										<div class="row">
+<div class="row no-gutter hidden-xs hidden-ms">
+<div class="col-md-12">
+<div class="row1">
+<div class="col1"><img src="/hmk2/images/clearpix.gif" width="1"></div>
+<div class="col2"><img src="/hmk2/images/header/navbar-dropdown-pointer.png" alt="" class="pointer"></div>
+<div class="col3"><img src="/hmk2/images/clearpix.gif" width="1"></div>
+</div>
+<div class="row2">
+<div class="col1"><img src="/hmk2/images/header/navbar-dropdown-corner.png" alt=""></div>
+<div class="col2 gray"><img src="/hmk2/images/clearpix.gif" width="1"></div>
+<div class="col3"><img src="/hmk2/images/clearpix.gif" width="1"></div>
+</div>
+</div>
+</div><!-- end row -->
+
+<div class="row bg no-gutter">
+<div class="col-md-12">
+<div class="row3">
+<div class="col1"><img src="/hmk2/images/clearpix.gif" width="1"></div>
+<div class="col2 flag"></div>
+<div class="col3"><img src="/hmk2/images/clearpix.gif" width="1"></div>
+</div>
+<div class="row4">
+<div class="indent">
+<div class="row">
 								
-											<div class="col-xs-12 col-ms-12 col-sm-4 col-md-4 col-lg-4"> 
-												<div class="box">
-													<h2>FOR CONSUMERS</h2>
-													<p class="hidden-xs hidden-ms hidden-sm">Discover a better health care experience:</p>
-													<ul>
-														<li><a href="http://discoverhighmark.com/individuals-families" target="_blank">You buy your own insurance for yourself and/or your family</a></li>
-														<li><a href="http://discoverhighmark.com/employer" target="_blank">Your employer provides your health coverage</a></li>
-														<li><a href="https://shop.highmark.com/medicare/#!/home" target="_blank">You are Medicare-eligible and buy your own coverage</a></li>
-														<li><a href="http://discoverhighmark.com/employer" target="_blank">You manage plans for a small or large business</a></li>
-														<li><a href="https://producer.highmark.com" target="_blank">You are a producer</a></li>
-													</ul>
-												</div><!-- end box -->
-											</div>
+<div class="col-xs-12 col-ms-12 col-sm-4 col-md-4 col-lg-4"> 
+<div class="box">
+<h2>FOR CONSUMERS</h2>
+<p class="hidden-xs hidden-ms hidden-sm">Discover a better health care experience:</p>
+<ul role="menu">
+<li role="presentation"><a href="http://discoverhighmark.com/individuals-families" target="_blank" role="menuitem" tabindex="-1">You buy your own insurance for yourself and/or your family</a></li>
+<li role="presentation"><a href="http://discoverhighmark.com/employer" target="_blank" role="menuitem" tabindex="-1">Your employer provides your health coverage</a></li>
+<li role="presentation"><a href="https://shop.highmark.com/medicare/#!/home" target="_blank" role="menuitem" tabindex="-1">You are Medicare-eligible and buy your own coverage</a></li>
+<li role="presentation"><a href="http://discoverhighmark.com/employer" target="_blank" role="menuitem" tabindex="-1">You manage plans for a small or large business</a></li>
+<li role="presentation"><a href="https://producer.highmark.com" target="_blank" role="menuitem" tabindex="-1">You are a producer</a></li>
+</ul>
+</div><!-- end box -->
+</div>
 									
-											<div class="col-xs-12 col-ms-12 col-sm-4 col-md-4 col-lg-4">
-												<div class="box">
-													<h2>FOR MEMBERS</h2>
-													<p class="hidden-xs hidden-ms hidden-sm">Check your member ID card to see which plan serves you.</p>
-													<ul>
-														<li><a href="https://www.highmarkbcbs.com" target="_blank">Highmark Blue Cross Blue Shield</a></li>
-														<li><a href="https://www.highmarkblueshield.com" target="_blank">Highmark Blue Shield</a></li>												
-														<li><a href="https://www.highmarkbcbswv.com" target="_blank">Highmark Blue Cross Blue Shield West Virginia</a></li>	
-														<li><a href="https://www.highmarkbcbsde.com" target="_blank">Highmark Blue Cross Blue Shield Delaware</a></li>
-													</ul>
-												</div><!-- end box -->
-											</div>
+<div class="col-xs-12 col-ms-12 col-sm-4 col-md-4 col-lg-4">
+<div class="box">
+
+<h2>FOR MEMBERS</h2>
+<p class="hidden-xs hidden-ms hidden-sm">Check your member ID card to see which plan serves you.</p>
+<ul role="menu">
+<li role="presentation"><a href="https://www.highmarkbcbs.com" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Cross Blue Shield</a></li>
+<li role="presentation"><a href="https://www.highmarkblueshield.com" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Shield</a></li>												
+<li role="presentation"><a href="https://www.highmarkbcbswv.com" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Cross Blue Shield West Virginia</a></li>	
+<li role="presentation"><a href="https://www.highmarkbcbsde.com" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Cross Blue Shield Delaware</a></li>
+</ul>
+</div><!-- end box -->
+</div>
 									
-											<div class="col-xs-12 col-ms-12 col-sm-4 col-md-4 col-lg-4">
-												<div class="box norule">
-													<h2>FOR PROVIDERS</h2>
-													<p>Provider Resource Center:</p>
-													<ul>
-														<li><a href="https://prc.highmark.com/rscprc/hbcbs/pub" target="_blank">Highmark Blue Cross Blue Shield</a></li>
-														<li><a href="https://prc.highmark.com/rscprc/hbs/pub" target="_blank">Highmark Blue Shield</a></li>												
-														<li><a href="https://prc.highmark.com/rscprc/hwvbcbs/pub" target="_blank">Highmark Blue Cross Blue Shield West Virginia</a></li>	
-														<li><a href="https://prc.highmark.com/rscprc/hdebcbs/pub" target="_blank">Highmark Blue Cross Blue Shield Delaware</a></li>
-													</ul>
-												</div><!-- end box -->
-											</div>
+<div class="col-xs-12 col-ms-12 col-sm-4 col-md-4 col-lg-4">
+<div class="box norule">
+<h2>FOR PROVIDERS</h2>
+<p>Provider Resource Center:</p>
+<ul role="menu">
+<li role="presentation"><a href="https://prc.highmark.com/rscprc/hbcbs/pub" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Cross Blue Shield</a></li>
+<li role="presentation"><a href="https://prc.highmark.com/rscprc/hbs/pub" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Shield</a></li>												
+<li role="presentation"><a href="https://prc.highmark.com/rscprc/hwvbcbs/pub" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Cross Blue Shield West Virginia</a></li>	
+<li role="presentation"><a href="https://prc.highmark.com/rscprc/hdebcbs/pub" target="_blank" role="menuitem" tabindex="-1">Highmark Blue Cross Blue Shield Delaware</a></li>
+</ul>
+</div><!-- end box -->
+</div>
 									
-										</div><!-- end row -->
-									</div><!-- end indent -->
-								</div><!-- end row4 -->
-							</div><!-- end col -->
-						</div><!-- end row -->
-					</div><!-- end yamm-content -->
-				</li>
-			</ul>
-        </li>
-      </ul>
-    </div><!-- end .navbar-collapse -->
+</div><!-- end row -->
+</div><!-- end indent -->
+</div><!-- end row4 -->
+</div><!-- end col -->
+</div><!-- end row -->
+</div><!-- end yamm-content -->
+</li>
+</ul>
+</li>
+</ul>
+</div><!-- end .navbar-collapse -->
 </div><!-- end navbar -->
-
-        <div class="row">
-            <div class="col-md-12">            
-                <div class="body-text">
+<div class="row">
+<div class="col-md-12">            
+<div class="body-text">
 <!-- end header include -->
-
 
 <h1>PRIVACY</h1>
 <div class="row">
 <div class="col-md-12">
 <a name="content"></a>
 
-<p class="deck">Highmark's Online Privacy Policy</p>
+<h2 class="deck">Highmark's Online Privacy Policy</h2>
 
 <p><a href="/hmk2/pdf/noticeofprivacy.pdf" target="_blank">View Notice of Privacy Practices</a><br>
-<a href="/hmk2/pdf/Highmark_Inc_CSI_Policy.pdf" target="_blank">View Policy Protecting Competitively Sensitive Information</a><br>
-<a href="/hmk2/pdf/tapestryHIEform.pdf" target="_blank">Tapestry HIE<sup><font size="1">SM</font></sup> Opt Out Form</a></p>
+<a href="/hmk2/pdf/Highmark_Inc_CSI_Policy.pdf" target="_blank">View Policy Protecting Competitively Sensitive Information</a></p>
            
 <p>At Highmark Inc. we take the issue of privacy very seriously. We want to assure Users of our websites (meaning any
 individual, including site visitors as well as those individuals who provide personal information via this website, herein referred to as  "User(s)") that their information is secure and maintained in confidence, consistent with applicable state and federal laws. Please read through the following pages, which describe our online privacy policy.</p>
 
 <h3>I. Information Collected Online</h3>
 
-<p><strong>A. General</strong><br>
-How you use the Highmark website will determine whether or not we need to collect information from you and how much information we collect.
+<h5 class="subHead">A. General</h5>
+<p>How you use the Highmark website will determine whether or not we need to collect information from you and how much information we collect.
 For many features, we do not require any information on who you are or ask questions about you. For some of our features, we need to either verify your identity through a login process, or collect sufficient information from you to provide the service of that feature.</p>
 
-<p> <strong>B. Email, product inquiry </strong><br>
-Highmark invites Users to send secure messages to Highmark regarding website accounts or Highmark's products or services. Highmark does not disclose secure messages to any non-affiliated third parties. The information provided through the use of these secure messages and feedback forms will be used by Highmark representatives or other appropriate third parties who need to view this information to respond to the inquiry.</p>
+<h5 class="subHead">B. Email, product inquiry </h5>
+<p>Highmark invites Users to send secure messages to Highmark regarding website accounts or Highmark's products or services. Highmark does not disclose secure messages to any non-affiliated third parties. The information provided through the use of these secure messages and feedback forms will be used by Highmark representatives or other appropriate third parties who need to view this information to respond to the inquiry.</p>
 
 <p>Highmark has established an online communications service
 for certain members to contact their physician's office regarding certain requests, such as a referral or prescription renewal. Other members also have the ability to discuss medical issues online with health coaches through the Blues On Call feature. Messages sent by or to members who choose to use these online services will be recorded in transaction logs, which may be reviewed to monitor the overall effectiveness of the services and the responsiveness of the physicians and health coaches.</p>
 
 <p>Highmark also invites Users to send emails and access products and services from non-related service providers through links on the Highmark pages. Users should also review the privacy polices contained on these websites for information regarding how the service providers use the information. </p>
 
-<p><strong>C. Use of cookies</strong><br>
-A cookie is a small piece of information about an Internet session that may be created when an individual accesses a website.</p>
+<h5 class="subHead">C. Use of cookies</h5>
+<p>A cookie is a small piece of information about an Internet session that may be created when an individual accesses a website.</p>
 
 <p>Cookies can contain a variety of information, including the name of the website that issued them, where on the site the User visited, passwords, and even User names and credit card numbers that have been supplied via forms. Note that most Web browsers can be modified by the User to prevent cookies from being attached to the User.</p>
 
@@ -413,34 +434,34 @@ research, classification purposes, marketing, or other purposes without permissi
 
 <h3>III. Access to Information Collected Online</h3>
 
-<p><strong>A. Employees</strong><br>
-Certain Highmark employees may be provided with information regarding Users in order to respond to the individual's needs and provide requested information regarding specific products or services. Certain employees will also be provided with information regarding Users in order to administer their or their group's benefit programs and to monitor the effectiveness of the online services. Highmark employees are required, by written confidentiality statements, corporate policies,
+<h5 class="subHead">A. Employees</h5>
+<p>Certain Highmark employees may be provided with information regarding Users in order to respond to the individual's needs and provide requested information regarding specific products or services. Certain employees will also be provided with information regarding Users in order to administer their or their group's benefit programs and to monitor the effectiveness of the online services. Highmark employees are required, by written confidentiality statements, corporate policies,
 and state or federal laws or regulations to maintain the confidentiality of personal information and to use strict standards of care in handling the information. Employees who do not conform to these confidentiality requirements are subject to disciplinary sanctions that may include dismissal.</p>
 
-<p><strong>B. Highmark diversified businesses</strong><br>
-Highmark may disclose personal information of its Users collected through its websites as permitted by law to diversified businesses along with non-related service providers that assist Highmark in meeting the needs of its customers.</p>
+<h5 class="subHead">B. Highmark diversified businesses</h5>
+<p>Highmark may disclose personal information of its Users collected through its websites as permitted by law to diversified businesses along with non-related service providers that assist Highmark in meeting the needs of its customers.</p>
 
 <p>Information collected by diversified businesses may also be shared with Highmark as permitted by law. All such information will be disclosed to respond to the individual's needs and to provide information about products or services offered by or through Highmark, Highmark's diversified businesses, and the non-related service providers. Personal information is treated with the same standards of confidentiality that Highmark applies to other confidential information. Highmark's diversified businesses are subject to Highmark's corporate policies regarding privacy and confidentiality and Highmark's non-related service providers and Business Associates are legally bound by contract to employ at least the same strict standards of confidentiality as employed by Highmark.</p>
 
-<p><strong>C. Third parties</strong><br>
-Other than as set forth above, Highmark does not transmit any personal information collected through its websites to any third party without the permission of the individual. Personal information may be transmitted, however, if there is a specific need to complete a transaction requested by the individual. Health plan administrators will have access to online enrollment applications, but not to other personal information collected online by Highmark.</p>
+<h5 class="subHead">C. Third parties</h5>
+<p>Other than as set forth above, Highmark does not transmit any personal information collected through its websites to any third party without the permission of the individual. Personal information may be transmitted, however, if there is a specific need to complete a transaction requested by the individual. Health plan administrators will have access to online enrollment applications, but not to other personal information collected online by Highmark.</p>
 
-<p><strong>D. Online communication services</strong><br>
-Highmark has access to messages sent by or to members who choose to use any online communications services (e.g. Blues On Call). Highmark will not release the content of specific messages to any third party without the member's consent, unless permissible or required under applicable state or federal law.</p>
+<h5 class="subHead">D. Online communication services</h5>
+<p>Highmark has access to messages sent by or to members who choose to use any online communications services (e.g. Blues On Call). Highmark will not release the content of specific messages to any third party without the member's consent, unless permissible or required under applicable state or federal law.</p>
 
 <h3>IV. Compliance Assurance</h3>
     
-<p><strong>A. Security</strong><br>
-Highmark uses commercially reasonable computer security technology selected and implemented to provide adherence to the security and privacy policies described in this online posting. Although we make reasonable efforts to protect your information from unauthorized use or alteration, you should be aware there is always some risk in sending information over the Internet.</p>
+<h5 class="subHead">A. Security</h5>
+<p>Highmark uses commercially reasonable computer security technology selected and implemented to provide adherence to the security and privacy policies described in this online posting. Although we make reasonable efforts to protect your information from unauthorized use or alteration, you should be aware there is always some risk in sending information over the Internet.</p>
 
-<p><strong>B. Account access</strong><br>
-Consistent with the requirements set forth under certain state and federal laws, Highmark grants access to personal information only to those employees, diversified businesses and third parties as required to provide healthcare products and services, or as you permit. All such employees, diversified businesses and third parties are subject to privacy policies, at least as restrictive as the policy described in this online document.</p>
+<h5 class="subHead">B. Account access</h5>
+<p>Consistent with the requirements set forth under certain state and federal laws, Highmark grants access to personal information only to those employees, diversified businesses and third parties as required to provide healthcare products and services, or as you permit. All such employees, diversified businesses and third parties are subject to privacy policies, at least as restrictive as the policy described in this online document.</p>
 
-<p><strong>C. Internal compliance program</strong><br>
-Highmark maintains an internal privacy compliance program to ensure compliance with this privacy policy. This program includes oversight of the compliance program by a Chief Privacy Officer whose function is to create, maintain, and enforce privacy procedures in accordance with this policy. Highmark also has a Chief Information Security Officer who oversees our information security systems and procedures. Additionally, our compliance programs include on-going employee training, on-going maintenance and updating of security systems and practices and maintenance of customer feedback and complaint resolution process. Highmark reserves the right to amend this policy at any time.</p>
+<h5 class="subHead">C. Internal compliance program</h5>
+<p>Highmark maintains an internal privacy compliance program to ensure compliance with this privacy policy. This program includes oversight of the compliance program by a Chief Privacy Officer whose function is to create, maintain, and enforce privacy procedures in accordance with this policy. Highmark also has a Chief Information Security Officer who oversees our information security systems and procedures. Additionally, our compliance programs include on-going employee training, on-going maintenance and updating of security systems and practices and maintenance of customer feedback and complaint resolution process. Highmark reserves the right to amend this policy at any time.</p>
 
-<p><strong>D. Questions and concerns</strong><br>
-If you have questions about this online privacy policy, or concerns regarding your personal information, please send us your question by clicking Contact Us from the bottom of any of our Web pages.</p>
+<h5 class="subHead">D. Questions and concerns</h5>
+<p>If you have questions about this online privacy policy, or concerns regarding your personal information, please send us your question by clicking Contact Us from the bottom of any of our Web pages.</p>
 
 <h3>V. Changes to Online Privacy Policy</h3>
 
@@ -457,76 +478,73 @@ If you have questions about this online privacy policy, or concerns regarding yo
         </div><!-- end div.row -->
     </div><!-- end container -->
     
-    <div class="footer">
-		<div class="container">
-			<div class="row">
+<div class="footer">
+<div class="container">
+<div class="row">
 			
-            		<div class="col-xs-12 col-ms-12 col-sm-5 col-md-5 col-lg-4">
-            			<a class="hmLogo" href="/hmk2/index.shtml"><img src="/hmk2/images/highmarkLogoWhite.png" alt="Highmark logo"></a><br>
+<div class="col-xs-12 col-ms-12 col-sm-5 col-md-5 col-lg-4">
+<a class="hmLogo" href="/hmk2/index.shtml"><img src="/hmk2/images/highmarkLogoWhite.png" alt="Highmark Home"></a><br>
 
-							<div class="row social hidden-print">			
-								<div class="col-xs-12 col-sm-12 col-md-12">
-									<a href="https://www.facebook.com/Highmark?rf=108106425883573" target="_blank" title="Like us on Facebook" data-toggle="popover" data-content="Click to get updates on Highmark on Facebook"><img src="/hmk2/images/social/facebook.png" alt="Facebook" border="0" align="baseline" class="icon" id="facebook"></a>
+<div class="row social hidden-print">			
+<div class="col-xs-12 col-sm-12 col-md-12">
 
-									<a href="https://twitter.com/highmark" target="_blank" title="Follow us on Twitter" data-toggle="popover" data-content="Click to get updates on Highmark on Twitter"><img src="/hmk2/images/social/twitter.png" alt="Twitter" border="0" align="baseline" class="icon" id="twitter"></a>
+<a href="https://www.facebook.com/Highmark?rf=108106425883573" target="_blank" title="Like us on Facebook" data-toggle="popover" data-content="Click to get updates on Highmark on Facebook"><img src="/hmk2/images/social/facebook.png" alt="Facebook" border="0" align="baseline" class="icon" id="facebook"></a>
+
+<a href="https://twitter.com/highmark" target="_blank" title="Follow us on Twitter" data-toggle="popover" data-content="Click to get updates on Highmark on Twitter"><img src="/hmk2/images/social/twitter.png" alt="Twitter" border="0" align="baseline" class="icon" id="twitter"></a>
 
 									<a href="http://www.youtube.com/highmarkhealthy" target="_blank" title="Subscribe to our YouTube channel" data-toggle="popover"><img src="/hmk2/images/social/youtube.png" alt="YouTube" border="0" align="baseline" class="icon" id="youtube"></a>
 
-									<a href="http://www.pinterest.com/highmark" target="_blank" title="Follow us on Pinterest" data-toggle="popover" data-content="Click to get updates on Highmark on Pinterest"><img src="/hmk2/images/social/pinterest.png" alt="Pinterest" border="0" align="baseline" class="icon" id="pinterest"></a>
+<a href="http://www.pinterest.com/highmark" target="_blank" title="Follow us on Pinterest" data-toggle="popover" data-content="Click to get updates on Highmark on Pinterest"><img src="/hmk2/images/social/pinterest.png" alt="Pinterest" border="0" align="baseline" class="icon" id="pinterest"></a>
 
-									<a href="http://instagram.com/highmark" target="_blank" title="Check us out on Instagram" data-toggle="popover" data-content="Click to get updates on Highmark on Instagram"><img src="/hmk2/images/social/instagram.png" alt="Instagram" border="0" align="baseline" class="icon" id="instagram"></a>
-                                                                        
-                                    <a href="https://www.linkedin.com/company/highmark" target="_blank" title="Connect with us on LinkedIn" data-content="Click to get updates on Highmark on LinkedIn"><img src="/hmk2/images/social/linkedin.png" alt="LinkedIn" border="0" align="baseline" class="icon" id="linkedin"></a>							
+<a href="http://instagram.com/highmark" target="_blank" title="Check us out on Instagram" data-toggle="popover" data-content="Click to get updates on Highmark on Instagram"><img src="/hmk2/images/social/instagram.png" alt="Instagram" border="0" align="baseline" class="icon" id="instagram"></a>
 
-									<a href="http://blog.highmark.com/" target="_blank" title="Visit the Highmark Blog" data-content="Click to get updates on Highmark on our blog"><img src="/hmk2/images/social/blog.png" alt="Highmark Blog" border="0" align="baseline" class="icon" id="blog"></a>
+<a href="https://www.linkedin.com/company/highmark" target="_blank" title="Connect with us on LinkedIn" data-content="Click to get updates on Highmark on LinkedIn"><img src="/hmk2/images/social/linkedin.png" alt="LinkedIn" border="0" align="baseline" class="icon" id="linkedin"></a>							
 
-									<a href="http://www.flickr.com/photos/68130792@N04/" target="_blank" title="Check us out on Flickr" data-toggle="popover" data-content="Click to get updates on Highmark on Flickr"><img src="/hmk2/images/social/flickr.png" alt="Flickr" border="0" align="baseline" class="icon" id="flickr"></a>
+<a href="http://blog.highmark.com/" target="_blank" title="Visit the Highmark Blog" data-content="Click to get updates on Highmark on our blog"><img src="/hmk2/images/social/blog.png" alt="Highmark Blog" border="0" align="baseline" class="icon" id="blog"></a>
 
-							</div><!-- end col -->
-						<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=highmark"></script>
-						</div><!-- end row -->
-					</div><!-- end col -->
+<a href="http://www.flickr.com/photos/68130792@N04/" target="_blank" title="Check us out on Flickr" data-toggle="popover" data-content="Click to get updates on Highmark on Flickr"><img src="/hmk2/images/social/flickr.png" alt="Flickr" border="0" align="baseline" class="icon" id="flickr"></a>
+
+</div><!-- end col -->
+</div><!-- end row -->
+</div><!-- end col -->
             		
-            		<div class="col-xs-6 col-ms-4 col-sm-2 col-md-2 col-lg-2 divider hidden-print">
-            			 <p>
-            			 	<a href="https://www.highmarkonhealthreform.com" target="_blank" "="">Health Care Reform</a><br>
-            			 	<a href="/hmk2/publicPolicy.shtml">Public Policy</a><br>
-            			 	<a href="/hmk2/procurement/index.shtml">Procurement</a><br>
-            			 	<a href="https://www.highmark.com/edi/index.shtml" target="_blank">EDI</a><br>
-            			 	<a href="/hmk2/fraud/index.shtml">Fraud Prevention</a><br>
-            			 	<a href="/hmk2/hipaa/index.shtml">HIPAA</a>
-            			 </p>
-            		</div>            		
-            		<div class="col-xs-6 col-ms-4 col-sm-2 col-md-2 col-lg-2 divider hidden-print">
-            			 <p>
-            			 	<a href="/hmk2/privacy.shtml">Privacy</a><br>
-            			 	<a href="/hmk2/terms.shtml">Terms of Service</a><br>
-            			 	<a href="/hmk2/texting.shtml">SMS Texting</a><br>
-            			 	<a href="/hmk2/contact.shtml">Contact Us</a><br>
-            			 	<a href="/hmk2/help.shtml">Help</a>
-            			 	<br>&nbsp;<br>
-            			 </p>
-            		</div>            		
-            		<div class="col-xs-12 col-ms-4 col-sm-3 col-md-3 col-lg-3 divider hidden-print">
-            			 <p><a href="http://discoverhighmark.com/individuals-families/" target="_blank"><strong>RECENTLY LOST YOUR GROUP HEALTH CARE COVERAGE?</strong><br>
-            			 	We can help.</a>
-            			 	<br>&nbsp;<br>
-            			 	<a href="http://www.highmarkdirect.com/" target="_blank" "="">Highmark Direct</a><br>
-            			 	<a href="https://www.highmarkhealth.org/hmk/index.shtml" target="_blank" "="">Highmark Health</a></p>
-            		</div>            		
-			</div><!-- end div.row -->
+<div class="col-xs-6 col-ms-4 col-sm-2 col-md-2 col-lg-2 divider hidden-print">
+
+<p><a href="https://www.highmarkonhealthreform.com" target="_blank">Health Care Reform</a><br>
+<a href="/hmk2/publicPolicy.shtml">Public Policy</a><br>
+<a href="/hmk2/procurement/index.shtml">Procurement</a><br>
+<a href="https://www.highmark.com/edi/index.shtml" target="_blank">Electronic Data Interchange</a><br>
+<a href="/hmk2/fraud/index.shtml">Fraud Prevention</a><br>
+<a href="/hmk2/hipaa/index.shtml">HIPAA</a></p>
+</div>            		
+
+<div class="col-xs-6 col-ms-4 col-sm-2 col-md-2 col-lg-2 divider hidden-print">
+<p><a href="/hmk2/privacy.shtml">Privacy</a><br>
+<a href="/hmk2/terms.shtml">Terms of Service</a><br>
+<a href="/hmk2/texting.shtml">SMS Texting</a><br>
+<a href="/hmk2/contact.shtml">Contact Us</a><br>
+<a href="/hmk2/help.shtml">Help</a>
+<br>&nbsp;<br>
+ </p>
+</div>            		
+<div class="col-xs-12 col-ms-4 col-sm-3 col-md-3 col-lg-3 divider hidden-print">
+<p><a href="http://discoverhighmark.com/individuals-families/" target="_blank"><strong>RECENTLY LOST YOUR GROUP HEALTH CARE COVERAGE?</strong><br>
+We can help.</a>
+<br>&nbsp;<br>
+<a href="http://www.highmarkdirect.com/" target="_blank" "="">Highmark Direct</a><br>
+<a href="https://www.highmarkhealth.org/hmk/index.shtml" target="_blank" "="">Highmark Health</a></p>
+</div>            		
+</div><!-- end div.row -->
 			
-			<div class="row legal">
-				<div class="col-md-12">
-					<script language="JavaScript" type="text/javascript">
-					<!--
-					addLegal();
-					// -->
-					</script><p>® Highmark is a registered mark of Highmark Inc.&nbsp;&nbsp;&nbsp; © 2012 Highmark Inc., All Rights Reserved</p><p>Highmark is an independent licensee of the Blue Cross Blue Shield Association, an association of Independent Blue Cross and Blue Shield Plans. The Blue Cross and Blue Shield symbols are registered marks of the Blue Cross and Blue Shield Association, an Association of Independent Blue Cross and Blue Shield Plans.</p><p>Highmark Blue Cross Blue Shield serves the 29 counties of western Pennsylvania. Highmark Blue Shield serves the 21 counties of central Pennsylvania and the Lehigh Valley as a full-service health plan. It also provides services in conjunction with Blue Cross of Northeastern Pennsylvania in northeastern Pennsylvania and Independence Blue Cross in southeastern Pennsylvania.</p>
-				</div>			
-			</div><!-- end div.row -->			
-		</div><!-- end container -->
-	</div><!-- end footer -->
+<div class="row legal">
+<div class="col-md-12">
+<script language="JavaScript" type="text/javascript">
+<!--addLegal();// -->
+</script>
+</div>			
+</div><!-- end div.row -->			
+</div><!-- end container -->
+</div><!-- end footer -->
 
 <!--Coremetrics -->
 <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script> 
@@ -534,6 +552,12 @@ If you have questions about this online privacy policy, or concerns regarding yo
 <script type="text/javascript">
 	coremetricsPageLoad();
 </script>
+
+<!-- MotionPoint EasyLink -->
+<!-- <script type="text/javascript" id="mpelid" src="//espanol.highmark.com/mpel/mpel.js"></script> -->
+
+<!-- Bootstrap Accessibility add-on -->
+<script src="/hmk2/scripts/bootstrap-accessibility-modified.js" type="text/javascript"></script>
 
 <!--Retina.js Image Swap -->
 <script type="text/javascript" src="/hmk2/scripts/retina.js"></script> 
