@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voyeurweb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630172407id_/http%3A//www.voyeurweb.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voyeurweb.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227193058id_/http%3A//www.voyeurweb.com/page/privacy-policy) for the most accurate reproduction.*
 
 # VoyeurWeb - Privacy Policy
 
