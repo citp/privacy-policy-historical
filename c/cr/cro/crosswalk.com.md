@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628221544id_/http%3A//www.salemwebnetwork.com/our-brands/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227193932id_/http%3A//www.salemwebnetwork.com/our-brands/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Salem Web Network
 
