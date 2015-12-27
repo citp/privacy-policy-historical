@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkenergy.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623130048id_/https%3A//sparkenergy.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkenergy.co.uk privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227052930id_/http%3A//sparkenergy.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # - Spark™ - Bringing Energy to Life
 
