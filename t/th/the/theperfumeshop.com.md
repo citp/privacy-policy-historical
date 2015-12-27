@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170805id_/http%3A//www.theperfumeshop.com/fcp/content/Privacy_and_Security/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227072411id_/http%3A//www.theperfumeshop.com/privacy-policy) for the most accurate reproduction.*
 
-# The Perfume Shop - Content
+# Privacy Policy | The Perfume Shop
 
-## Privacy Policy
+Website Privacy Policy  
+[Rewards Club Privacy Policy](https://web.archive.org/web/20151227072411id_/http%3A//www.theperfumeshop.com/tpsRewardsCardPrivacy)  
+[ROI Rewards Club Privacy Policy](https://web.archive.org/web/20151227072411id_/http%3A//www.theperfumeshop.com/tpsRewardsCardPrivacyROI)
 
-### Introduction
+## Introduction
 
-The Perfume Shop Limited (“we”, “us” or “our”) is a Data Controller for the purposes of the Data Protection Act 1998 (registration number: Z6128767). We will use the personal information you provide, on your behalf, for the purposes set out below. We are committed to protecting your privacy.   
-Please read this policy carefully as it explains how we use your personal information. If you have any questions about or comments on this policy, please contact us on 0800 98 88 660* before using www.theperfumeshop.com (“website”).
+The Perfume Shop Limited (“we”, “us” or “our”) is a Data Controller for the purposes of the Data Protection Act 1998 (registration number: Z6128767). We will use the personal information you provide, on your behalf, for the purposes set out below. We are committed to protecting your privacy. Please read this policy carefully as it explains how we use your personal information. If you have any questions about or comments on this policy, please contact us on 0800 98 88 660* before using www.theperfumeshop.com (“website”).
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. 
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes.
 
-### What information do we collect and why?
+## What information do we collect and why?
 
 In general, you can visit our website without giving us any information and we won’t know who you are. If you are one of our anonymous visitors, please bear in mind that we may still:
 
@@ -34,11 +35,11 @@ The main reason we use this information is to provide you with our products and 
 
 If you have opted-in to receive marketing from us then we will also use this information to send you communications (including extra point’s promotions if you’re a Rewards Club member). These will all be sent by The Perfume Shop but may contain offers and information from other companies that we think you may be interested in, including from our sister company Superdrug Stores plc. Rest assured, we will never share your details with other companies to let them send you their marketing directly. For more information on our marketing activities, see our Privacy Promise at the end of this policy.
 
-We may keep copies of any correspondence you send us including questions, feedback, complaints and any problems you have reported, as well as your registration history with us (including Rewards Club registration), competition submissions and responses to our online questionnaires. This is to allow us to respond to you if appropriate, and for our internal record keeping and product development. 
+We may keep copies of any correspondence you send us including questions, feedback, complaints and any problems you have reported, as well as your registration history with us (including Rewards Club registration), competition submissions and responses to our online questionnaires. This is to allow us to respond to you if appropriate, and for our internal record keeping and product development.
 
 Finally we may also use your information for market research and analysis purposes, but this will be on an anonymous basis (so no one will know who you are).
 
-### Who do we share this information with?
+## Who do we share this information with?
 
 We may share your information with:
 
@@ -50,45 +51,45 @@ We may share your information with:
 
 
 
-### How to get copies of or amend the information we have collected
+## How to get copies of or amend the information we have collected
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. We may charge a small fee for this (which will be no more than £10). If you would like a copy of the personal information we hold about you please write to Customer Services, Cypress House, The Gateway Centre, Coronation Road, Cressex Business Park, High Wycombe, HP12 3SU.
 
 If you need to update any details relating to your Rewards Club registration then you can either update them online at www.theperfumeshop.com, or by calling Customer Services on 0800 98 88 660*. If you think any other information we have about you is incorrect or incomplete, please call us on 0800 98 88 660 as soon as possible so we can correct or update your information.
 
-### Security
+## Security
 
 We are committed to ensuring that your information is secure. To prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect about you.
 
 We may link to other websites which are not within our control (including for example, the website of our sister company Superdrug Stores plc). Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you’re visiting.
 
-### Cookies
+## Cookies
 
 We use cookies on our website. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our website before. They are used to ensure that items are placed and remain in your Shopping Basket and that orders are processed correctly. Cookies make it easier for you to maintain your preferences on the website, and by seeing how you use our website we can try and tailor your experience to fit your preferences. We can also measure how easy our customers find our website to use, so that we can make it as easy as possible for you.
 
-You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may, however, prevent you from taking full advantage of the website and being able to make any purchases from the website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may, however, prevent you from taking full advantage of the website and being able to make any purchases from the website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting www.allaboutcookies.org.
 
-### Phishing
+## Phishing
 
 Phishing is the name given to attempts to steal personal details and financial account details from a website user. “Phishers” use fake or “spoof” emails to lead users to counterfeit websites where the user is tricked into entering their personal details, such as credit card numbers, user names and passwords. Please note that The Perfume Shop Limited will never send you emails asking for such details, and our staff will never ask you for your password.
 
 If you do receive an email like this, or are asked for your password by anyone claiming to work for us, please forward the email or report the incident by calling us on 0800 98 88 660* or by writing to us at Customer Services, Cypress House, The Gateway Centre, Coronation Road, Cressex Business Park, High Wycombe, HP12 3SU.
 
-### When you apply for a job with us
+## When you apply for a job with us
 
-When applying for a job with us through our website you will provide information about yourself, such as your CV. We will use this information to assess your suitability for employment by us and in any subsequent interviewing process. 
+When applying for a job with us through our website you will provide information about yourself, such as your CV. We will use this information to assess your suitability for employment by us and in any subsequent interviewing process.
 
 We will keep copies of the information you submit and any further correspondence in order to progress your job application and as a record of our employment and fair access processes. If you are a successful candidate then we will keep your information for the purpose of your employment with us. We may also keep information about unsuccessful candidates so that we can contact them in the future about other vacancies we think may be of interest.
 
 We sometimes employ external recruitment agents to help with the recruitment process. We will always retain control of your information (including CVs you may submit) and the recruitment agent must act in accordance with our instructions when using that information.
 
-### Our Privacy Promise
+## Our Privacy Promise
 
 If you have registered with us (including as a Rewards Club member) you can receive exclusive offers, bonus points and other promotions. As mentioned before, these will all be sent by The Perfume Shop but may contain offers and information from other companies that we think you may be interested in, including from our sister company Superdrug Stores plc.
 
 Rest assured, we won’t send you these, or any other marketing unless you have given us your consent to do so and we will never share your personal details with other companies to let them send you their marketing directly.
 
-### How to Unsubscribe
+## How to Unsubscribe
 
 You can unsubscribe from receiving any marketing from us at any point using one of two methods:
 
@@ -100,3 +101,54 @@ You can unsubscribe from receiving any marketing from us at any point using one 
 Please note that if you unsubscribe from us then you won’t receive any further marketing from The Perfume Shop; however if you have separately given your permission to receive marketing from other companies, for example Superdrug Stores plc, then you will still receive marketing from those companies unless you also unsubscribe from them. Please allow up to 3 working days for your new communication preferences to come into affect.
 
 * Calls to Customer Services are free from a BT landline but may incur a cost from mobile phones.
+
+Our Privacy Policy sets out the information that we will collect in connection with Rewards Club and how we will use it.
+
+## General
+
+  1. The Rewards Club cards are our property and must be returned to us on request, or destroyed when requested by us.
+  2. You are responsible for the security of the Rewards Club card issued on your account and all points issued. Please treat your Rewards Club card as securely as you would cash or a credit card, as we are not able to credit points which have been spent, whether or not by an unauthorised person.
+  3. If your Rewards Club card is lost, you should contact customer services on 0800 98 88 660*. You can collect a new Rewards Club card in-store and we will transfer your points across to that new Rewards Club card if they have not previously been spent.
+  4. We may close an account which has not been used in any rolling 24 month period.
+  5.     1. We may also immediately suspend or terminate the rights of any member and/or close an account if:
+    2. These terms and conditions are breached by you; or
+    3. we reasonably believe that you have acted in a manner not permitted by these terms and conditions; or
+    4. you engage in (or we reasonably suspect you of engaging in) any theft from or misconduct in connection with us or any supplier; or
+    5. you supply false or misleading information to us or we discover that you are not eligible to be a member of the Rewards Club; or
+    6. you are abusive or offensive to any member of our staff. 
+
+You can also close your account at any time by emailing us at onlineservices@theperfumeshop.com. If an account is closed for any reason, all rights to redeem the points from that account are lost.
+
+      1. We may make changes to these terms and conditions. If we decide to make material changes to these terms and conditions we will seek to give you reasonable notice first by email at the address you have given us. We may suspend or close the Rewards Club at any time but we will endeavour to give you as much notice as we reasonably can before we do so by email at the address you have given us.
+      2. If The Perfume Shop Limited is sold or transferred to another company we may transfer all of our rights and obligations under these terms and conditions without any further consent and may disclose or transfer all information we hold about you to a prospective or actual new owner. This disclosure or transfer will not alter your rights in respect of the use that can be made of information by that other company.
+      3. Our responsibilities with respect of the Rewards Club are as set out in these terms and conditions. These terms and conditions are subject to the laws of England and Wales (unless you live in Scotland, in which case they are subject to Scottish law or Northern Ireland, in which case they are subject to Northern Irish law).
+
+*Calls to customer services are free from a BT landline. Other providers (including mobile operators) may charge for these calls.
+
+## Privacy Policy and Data Protection
+
+Our Privacy Policy sets out the information that we will collect in connection with Rewards Club and how we will use it.
+
+## General
+
+      1. The Rewards Club cards are our property and must be returned to us on request, or destroyed when requested by us.
+      2. You are responsible for the security of the Rewards Club card issued on your account and all points issued. Please treat your Rewards Club card as securely as you would cash or a credit card, as we are not able to credit points which have been spent, whether or not by an unauthorised person.
+      3. If your Rewards Club card is lost, you should contact customer services on 0800 98 88 660*. You can collect a new Rewards Club card in-store and we will transfer your points across to that new Rewards Club card if they have not previously been spent.
+      4. We may close an account which has not been used in any rolling 24 month period.
+      5. We may also immediately suspend or terminate the rights of any member and/or close an account if: 
+        1. these terms and conditions are breached by you; or
+        2. we reasonably believe that you have acted in a manner not permitted by these terms and conditions; or
+        3. you engage in (or we reasonably suspect you of engaging in) any theft from or misconduct in connection with us or any supplier; or
+        4. you supply false or misleading information to us or we discover that you are not eligible to be a member of the Rewards Club; or
+        5. you are abusive or offensive to any member of our staff.
+
+You can also close your account at any time by emailing us at onlineservices@theperfumeshop.com. If an account is closed for any reason, all rights to redeem the points from that account are lost.
+
+      6. We may make changes to these terms and conditions. If we decide to make material changes to these terms and conditions we will seek to give you reasonable notice first by email at the address you have given us. We may suspend or close the Rewards Club at any time but we will endeavour to give you as much notice as we reasonably can before we do so by email at the address you have given us.
+      7. If The Perfume Shop Limited is sold or transferred to another company we may transfer all of our rights and obligations under these terms and conditions without any further consent and may disclose or transfer all information we hold about you to a prospective or actual new owner. This disclosure or transfer will not alter your rights in respect of the use that can be made of information by that other company.
+      8. Our responsibilities with respect of the Rewards Club are as set out in these terms and conditions. These terms and conditions are subject to the laws of England and Wales (unless you live in Scotland, in which case they are subject to Scottish law or Northern Ireland, in which case they are subject to Northern Irish law).
+
+*Calls to customer services are free from a BT landline. Other providers (including mobile operators) may charge for these calls.
+
+
+
