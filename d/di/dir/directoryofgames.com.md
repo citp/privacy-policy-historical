@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200717id_/http%3A//directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227042910id_/http%3A//directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Directory of Games - The greatest MMORPG games online
 
