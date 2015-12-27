@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angeltherapy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623081931id_/http%3A//www.angeltherapy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angeltherapy.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227042936id_/http%3A//www.angeltherapy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doreen Virtue | official Angel Therapy Web site
 
