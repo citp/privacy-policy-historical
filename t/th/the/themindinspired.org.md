@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themindinspired.org privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429172928id_/http%3A//www.themindinspired.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themindinspired.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227174426id_/http%3A//www.themindinspired.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
-### Privacy Policy:
+## Privacy Policy:
 
 The Mind Inspired (" **The Mind Inspired** ") operates themindinspired.org and may operate other websites. It is The Mind Inspired's policy to respect your privacy regarding any information we may collect while operating our websites.
 
