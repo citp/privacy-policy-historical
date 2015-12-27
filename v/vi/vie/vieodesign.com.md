@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vieodesign.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611000058id_/http%3A//www.vieodesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vieodesign.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227052702id_/http%3A//www.vieodesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.vieodesign.com%2Fprivacy-policy%2F&media=)
 
