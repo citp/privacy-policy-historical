@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivermarkcu.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316202233id_/https%3A//www.rivermarkcu.org/media/178345/Privacy2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivermarkcu.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227053043id_/https%3A//www.rivermarkcu.org/media/178345/Privacy2014.pdf) for the most accurate reproduction.*
 
 # FACTS
 
