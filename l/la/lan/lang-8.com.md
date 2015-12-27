@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lang-8.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009214956id_/http%3A//www.lang-8.com/register/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lang-8.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228000821id_/http%3A//lang-8.com/register/privacy) for the most accurate reproduction.*
 
-# Lang-8 is foreign language learning service
+# Lang-8: For learning foreign languages
 
 Lang-8, Inc (collectively, "us", "we" or "the Company") respects the privacy of users (“you” or “user”) who use the social networking site Lang-8 (“Lang-8” or “service”), and based on the below policy, we will strive to protect your personal information (as defined below) 
 
