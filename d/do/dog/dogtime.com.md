@@ -1,97 +1,200 @@
-> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229032341id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227194149id_/http%3A//www.totallyher.com/privacy/%3Fsite%3Ddogtime.com) for the most accurate reproduction.*
 
-# Privacy policy
+# TotallyHer
 
-We are committed to maintaining the privacy of personal information that you provide to us when using DogTime, CatTime, our Facebook applications, Save a Dog or Save a Cat, or any web sites or applications we provide or may provide on other web sites.We will refer to these sites collectively as "the Sites" and individually as a "Site." This Privacy Policy describes how we treat personal information received about you when you visit and applies to all of the Sites.By using the Sites, you consent to the terms and conditions of this Privacy Policy.
+**[dogtime.com](http://dogtime.com/) ****(the “Website”)**
 
-### **Information We Collect**
+  **Privacy Policy**
 
-When you register and at other times, we collect "Personal Information," such as your name, phone number, credit card or other billing information, email address, and home address. Personal Information can be used to contact or identify you. Secure Personal Information, once collected, is never shown on the web site. It may be emailed only to the address provided along with the Personal Information, but never to a different address even if that different address is believed to be a new address for the same person. We also collect "General Information," such as your zip code, pet name, breed and age, and individual preferences, when you register and when to administer and personalize your account. General Information, unless combined with other identifiers (for example, combining your zip code with your street address) is non-identifying.
+This privacy policy was last modified on September 4, 2014 (the “Effective Date”).
 
-### **How We Collect Information**
+TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [dogtime.com](http://dogtime.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-In addition to registration, we collect information in the following ways:
-
-Profiles and postings: We offer features that allow you to share your opinions and information with our readers, including both text and other media such as photographs. We will not share this information with other organizations. However, it will be visible to all users of our site. We may reuse and modify this information in other places on this site and other sites we own.
-
-Surveys: We may conduct occasional online surveys.For example, when you're within our web site, you may see a pop-up window offering you the opportunity of participating in a survey. These surveys are entirely voluntary, and you may easily decline to participate.
-
-Web site usage information: We automatically collect IP addresses and web site usage information from you when you visit our web site.This information helps us evaluate how our visitors and subscribers use and navigate our web site on an aggregate basis, including the number and frequency of visitors and subscribers to each Web page, and the length of their visits.
-
-Cookies:Like many web sites, the Sites use a standard technology called "cookies."A cookie is a small text file stored on your computer's hard drive or temporarily in your computer's memory, so that a site can deliver content appropriate for you.For example, when you choose a city to visit, you can then request a calendar of events.Our software determines which city's calendar to send by reading the cookie, which stores your city choice.When you return to the site at another time, the web site can take you directly to that city's main page. The Sites use cookies only to streamline the viewing experience, distinguish paid members from other viewers, and collect aggregate information about user behavior such as average length of a site visit.There is no way to use cookies to collect personal data from a personal computer.If you choose to disable cookies in your web browser certain features of the Sites may not work.
-
-### **How We Use Information Collected**
-
-We may use Personal Information in the following ways:
-
-  * To provide you the services offered on our Sites, complete your transactions and answer your questions. 
-  * To send you email notifications about our new or existing products and services, special offers, or to otherwise contact you.
-  * To contact you with our marketing partners' newsletters, marketing or promotional materials that may be of interest to you.
+  1. [Scope](http://www.totallyher.com/privacy/#scope)
+  2. [What information the Site collects](http://www.totallyher.com/privacy/#collect)
+  3. [How we use the information that we collect](http://www.totallyher.com/privacy/#info)
+  4. [Information sharing](http://www.totallyher.com/privacy/#share)
+  5. [Your choices](http://www.totallyher.com/privacy/#choices)
+  6. [Access](http://www.totallyher.com/privacy/#access)
+  7. [Confidentiality and security](http://www.totallyher.com/privacy/#security)
+  8. [Visitors from outside of the United States](http://www.totallyher.com/privacy/#visitors)
+  9. [Children under 13](http://www.totallyher.com/privacy/#children)
+  10. [Changes to the privacy policy](http://www.totallyher.com/privacy/#policy)
+  11. [Questions and suggestions](http://www.totallyher.com/privacy/#questions)
 
 
 
-We may use General Information in the following ways: 
+**Scope**
 
-  * To enhance existing features or develop new features, products and services.
-  * To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
-  * To evaluate how our visitors and subscribers use and navigate our web sites on an aggregate basis, including the number and frequency of visitors and subscribers to each Web page and the length of their visits.
+This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Company does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
 
-
-
-We may use Personal Information together with General Information in the following ways:
-
-  * To allow us to personalize the content and advertising that you and others see based on individual characteristics or preferences.
-  * To attempt to provide you with a better experience
-  * To improve the quality and value of the services we provide.
-  * To analyze and understand how our Sites and services are used.
-  * To deliver aggregated information to third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
+  2. **What information the Site collects**
 
 
 
-### **Your Ability to Choose**
+**Information you provide directly to us:**
 
-When you subscribe to one of the Sites, you can let us know that you do not wish to receive information about new features and special offers by opting out at the time you give us your Personal Information.
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
 
-You can add or update your Personal Information at any time by changing your Account Settings once you have logged in. You may review, update, correct or delete the Personal Information in your registration profile by changing the applicable information in your account settings or, for services we provide that are hosted on a social networking site, by changing the applicable information in your profile page. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+  * contact information, such as name and email address;
+  * username and password;
+  * information posted in community discussions and other interactive online features;
+  * search queries conducted on the Site; and
+  * correspondence you send to us.
 
-If you do not want us to pass cookies to your computer, you may use your web browser to disable cookies.However, certain functions of the Sites may not work if you choose to disable cookies.
 
-### **Information Sharing and Disclosure**
 
-Registration:When you register through a Site and submit your Personal Information to create a profile webpage or join one of the Sites, Site users may see your username and the other information about you.We may display your Personal Information in your profile page and elsewhere on the Sites according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Site users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. 
+**Information automatically collected when you visit and interact with the Site:**
 
-Service Providers:We may employ third party companies and individuals to facilitate the services we provide on our Sites, to provide those services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Sites) or to assist us in analyzing how our Sites are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+When you visit and interact with the Site, certain information may be collected automatically, including:
 
-### **Policy Modifications**
+  * your computer’s Internet Protocol (IP) address;
+  * your browser type and operating system;
+  * the web pages you were visiting immediately before and after you came to the Site;
+  * activities within community discussions;
+  * web pages and advertisements that you view, and links that you click on, within the Site;
+  * your bandwidth speed and information about the software programs that are installed on your computer;
+  * aggregated data about email click-through rates and user video viewing;
+  * standard server log information; and
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies.](http://dogtime.com/cookies)
 
-We may change this Privacy Policy from time to time.We will post prominently any changes here, so be sure to check back periodically.In addition, we will notify you of any change by email delivered to the email address in your personal profile.By using a Site, you consent that you are aware of that this Privacy Policy may change in the future.
 
-### **Third-Party Advertising**
 
-Our Sites include third-party advertising and links to other web sites.We do not send any Personal Information to these advertisers or web sites.These third-party advertisers or web sites may send or serve the advertisements that appear on our web site directly to your browser, and they may place or recognize a unique cookie on your browser.These companies may use information (excluding your name, zip code, or email address) about your visits to our Sites and other applications to provide advertisements on our Sites and other applications about goods and services that may be of interest to you.If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
+**Information we collect from other sources:**
 
-### Phishing
+We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-Identity theft and the practice currently known as "phishing" are of great concern to the Sites. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's web site.
+  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
+  * demographic data, such as age range, gender, and interests;
+  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
-### **Compliance with Laws and Law Enforcement**
 
-We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of the Sites or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
 
-### **Business Transfers**
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
 
-Any of our Sites may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+  3. **How we use the information that we collect**
 
-### Our Policy Toward Children
 
-The Sites are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-### **Comments and Questions**
+**Email Communications:**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [Contact DogTime.com](http://dogtime.com/contact) and clicking on the "Contact DogTime" link or mail us at:
+We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners’ products and services, and our email newsletters.
 
-Dogtime Media Inc.   
-27 Maiden Lane, Suite 700  
-San Francisco, CA 94108
+**Advertising:**
 
-Your California Privacy Rights beginning on January 1, 2005, California Civil Code Section 1798.83 permit our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write us at the above address.
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](http://dogtime.com/cookies).
+
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](http://dogtime.com/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
+
+**User Accounts:**
+
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums.  For more information on this process, please see the Site’s community rules, forum rules or comment policies about comment moderation guidelines.
+
+**Request Fulfillment:**
+
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
+
+**Statistical Analysis:**
+
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site’s functionality, and to better tailor our content and design to suit our visitors’ needs.
+
+**Enforcement:**
+
+We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://dogtime.com/termsofuse), and to otherwise protect our rights and the rights of our users.
+
+By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy.  In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+  4. **Information sharing**
+
+
+
+The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
+
+  * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.
+  * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personalinformation in public activities or submissions.
+  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://dogtime.com/termsofuse), or as otherwise required by law.
+  * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
+  * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+
+
+Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies.  Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies.](http://dogtime.com/cookies) and [third-party online advertising](http://dogtime.com/third-party).
+
+  5. **Your choices**
+
+
+
+**Deactivating your account**
+
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://dogtime.com/termsofuse).
+
+**[Cookies and other tracking technologies.](http://dogtime.com/cookies)**
+
+As discussed in the sections on [cookies and other tracking technologies.](http://dogtime.com/cookies) and [third-party online advertising](http://dogtime.com/third-party), some information is collected about you automatically through cookies and other tracking technologies.
+
+  * _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, youradchoices.ca/choices if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia .
+  * _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
+
+
+
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://dogtime.com/third-party) and visit the [NAI’s website](http://www.networkadvertising.org/choices/).
+
+**Do Not Track**
+
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.  To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/).
+
+**California Residents**
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to legal@evolvemediallc.com.
+
+  6. **Access**
+
+
+
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). Please include in your email the name of the Site to which you provided the information you wish to amend.
+
+  7. **Confidentiality and security**
+
+
+
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
+
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.
+
+  8. **Visitors from outside the United States**
+
+
+
+The Site’s offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
+
+  9. **Children under 13**
+
+
+
+Protecting the privacy of young children is especially important.  The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian.  If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.
+
+The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+
+If you believe that we might have any information from or about a child under 13, please contact us at legal@evolvemediallc.com.
+
+  1. **Changes to the privacy policy**
+
+
+
+We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+
+  1. **Questions and suggestions**
+
+
+
+If you have questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com), or send mail to:
+
+Evolve Media, LLC  
+5140 W. Goldleaf Circle, Third Floor  
+Los Angeles, CA   90056  
+Attn:  General Counsel
+
+monitoring_string = "0da17bb21a8d4e3e6438acab13dbc2ea" 
