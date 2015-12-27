@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripura.gov.in privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621125614id_/http%3A//tripura.gov.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripura.gov.in privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227055244id_/http%3A//tripura.gov.in/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripura State Portal
 
