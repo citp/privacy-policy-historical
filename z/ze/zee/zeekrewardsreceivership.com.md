@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235426id_/http%3A//www.zeekrewardsreceivership.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227120227id_/http%3A//www.zeekrewardsreceivership.com/privacy.pdf) for the most accurate reproduction.*
 
-# PRIVACY NOTICE
+# 
 
 PRIVACY NOTICE
 GCG PRIVACY NOTICE
@@ -162,7 +162,7 @@ III. QUESTIONS?
      Any questions regarding GCG’s Privacy Notice may be directed to Dan Lane,
      Vice President, Quality Assurance, at daniel.lane@gardencitygroup.com or to
      Stacey Fishbein, Associate General Counsel and GCG’s Privacy Officer,
-     Stacey.Fishbein@gardencitygroup.com. © 2013 GCG. All rights reserved.
+     Stacey.Fishbein@gardencitygroup.com. © 2015 GCG. All rights reserved.
                                                          Rev.1 April 9, 2007
                                                          Rev. 2 July 17, 2008
                                                          Rev. 3 September 30, 2009
