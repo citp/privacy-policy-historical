@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halaltrip.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011700id_/http%3A//www.halaltrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halaltrip.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227205914id_/http%3A//www.halaltrip.com/privacy-policy) for the most accurate reproduction.*
 
 # HalalTrip - Privacypolicy Home
 
-This privacy statement describes how we use the information you provide to us or we gather from you while you use the HalalTrip online services, as provided by Crescentrating Pte Ltd. (“CR” or “us” or “we”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. It is important that you have a comprehensive understanding of our information collection and usage practices. In your best interests, we advise that you read each provision of this Privacy Policy. By visiting, accessing or using the HalalTrip website (halaltrip.com), mobile applications and all associated services, features and content (“Service” or “Services”), you acknowledge agreement to this Privacy Policy. If we change our Privacy Policy, we will post those changes to this Privacy Policy. We retain the exclusive right to amend this Policy from time to time. If we make any substantial changes in the way that we use your personal information, we will notify you by posting a prominent announcement on our Site. We encourage you to periodically review this page for the latest information on our privacy practices. 
+This privacy statement describes how we use the information you provide to us or we gather from you while you use the HalalTrip online services, as provided by HalalTrip Pte Ltd. (“HT” or “us” or “we”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. It is important that you have a comprehensive understanding of our information collection and usage practices. In your best interests, we advise that you read each provision of this Privacy Policy. By visiting, accessing or using the HalalTrip website (halaltrip.com), mobile applications and all associated services, features and content (“Service” or “Services”), you acknowledge agreement to this Privacy Policy. If we change our Privacy Policy, we will post those changes to this Privacy Policy. We retain the exclusive right to amend this Policy from time to time. If we make any substantial changes in the way that we use your personal information, we will notify you by posting a prominent announcement on our Site. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 #### The information we collect
 
@@ -12,7 +12,7 @@ This privacy statement describes how we use the information you provide to us or
 
 
 
-### When you interact with us we collect the following usage information:
+### When you interact with us, we collect the following usage information:
 
   * What content you viewed, and which areas of our Service or Site you visited.
   * Device Information
@@ -20,7 +20,7 @@ This privacy statement describes how we use the information you provide to us or
   * Your current location
   * Your profile image
   * When you create a flight, they are stored in our database
-  * When you share a dish all information you provide about the dish is stored on our database and made visible to the other users.
+  * When you share a dish, restaurant or attractions, all information you provide is stored on our database and made visible to the other users.
 
 
 
