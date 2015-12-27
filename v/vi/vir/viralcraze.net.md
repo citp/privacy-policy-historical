@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralcraze.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629012715id_/http%3A//viralcraze.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralcraze.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192047id_/http%3A//viralcraze.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viral Craze
 
@@ -20,17 +20,17 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Viral Craze may collect and use Users personal information for the following purposes:
 
-  * _To run and operate our Site_  
+  *  _To run and operate our Site_  
 We may need your information display content on the Site correctly.
-  * _To improve customer service_  
+  *  _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _To personalize user experience_  
+  *  _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_  
+  *  _To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _To run a promotion, contest, survey or other Site feature_  
+  *  _To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_  
+  *  _To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
