@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316133108id_/http%3A//12manage.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192558id_/http%3A//www.12manage.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# 12manage - Privacy Policy
+# 12manage - Privacy and Cookie Policy
 
 ### Introduction:
 
@@ -220,7 +220,7 @@ If you have any questions or comments please email us at [info@12manage.com](mai
 
 12manage BV
 
-Attention of: Privacy Policy Issues
+Attention of: Privacy and Cookie Policy Issues
 
 Obrechtlaan 14
 
