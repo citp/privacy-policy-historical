@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycos.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629232038id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycos.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192540id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Lycos.com | About Lycos
 
