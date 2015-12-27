@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082704id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227211031id_/http%3A//www.generalmills.com/en/Company/privacy-policies/kids-privacy-policy-us) for the most accurate reproduction.*
 
 # General Mills: Privacy policy for child-directed sites
 
