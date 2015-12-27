@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinychat.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616222122id_/https%3A//tinychat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinychat.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192537id_/http%3A//tinychat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tinychat
 
