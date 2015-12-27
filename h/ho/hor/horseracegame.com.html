@@ -1,460 +1,284 @@
-<!--The following is the downloaded HTML source of the horseracegame.com privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618022441id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the horseracegame.com privacy policy that was archived on 2015-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227202112id_/http%3A//www.horseracegame.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head profile="http://gmpg.org/xfn/11"> 
-	<meta name="keywords" content="horse racing privacy, privacy solutions, race privacy, games security, privacy policy, game policy, game consumer protection, horse race privacy, privacy, security, my game privacy, computer game privacy">
-	<meta name="description" content="Before playing our games, whether online or through a download, it is important that the player first reads the privacy policy as well as other security information. Information on our computer games privacy and security policy is essential for the user to read and understand.">
- 
-	<title>Privacy Policy for Our Racing Games - Virtual Sports, Inc</title>
-	 
-	<link rel="shortcut icon" href="http://www.horseracegame.com/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="icon" href="http://www.horseracegame.com/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="author" href="https://plus.google.com/108605178358786376024/posts">
-<link rel="publisher" href="https://plus.google.com/108605178358786376024/posts">
-<meta name="google-site-verification" content="PFSA0qrE4Kk4wAeSC1RhUDV-EroXVJxMxPABWO5NpjY">
-<meta name="y_key" content="08e8325cfbba38a1">
-<meta name="msvalidate.01" content="9B4944FF4A8BAE16CB213638A800EFBB">
-<meta name="robots" content="index, follow">	
-	<!-- ########## CSS FILES ########## -->	
-	<!-- Main css --> 
-	<link href="new/styles/style.css" rel="stylesheet" type="text/css"> 
-	<link href="new/styles/reset.css" rel="stylesheet" type="text/css">	
-	<!-- Dropdown menu css -->
-	<link href="new/mainmenu/menu.css" rel="stylesheet" type="text/css">	
+<!DOCTYPE html><html lang="en"><head>
+	    
+            <title>HorseRaceGame.com - Play Free Virtual Horse Race Game Online</title>
+        
 	
-	<!-- ########## JAVASCRIPT FILES ########## -->	
-	<!-- Dropdown menus script --> 
-	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="new/topdropdown/jquery-1.2.3.min.js"></script>
-<script src="http://assets.pinterest.com/js/pinit.js?_=1582533575584"></script><script src="https://platform.twitter.com/widgets.js?_=1582533575590"></script></head> 
- 
-<body> 
+	    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+        <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 
-<style>
-#___plusone_0 {
-	width:74px!important;	
-}
-</style>
-<!-- Jquery header Slider css --> 
-<link rel="stylesheet" type="text/css" href="new/slideshows/slide01/slide_style.css">
-<link rel="stylesheet" type="text/css" href="new/communitylogin/communitylogin.css">
+	    <!-- Main css --> 
+	    <link rel="stylesheet" type="text/css" href="/stylesheets/stablestyle.css"> 
+	    <link rel="stylesheet" type="text/css" href="/stylesheets/reset.css">	
+        <link type="text/css" rel="stylesheet" href="/stylesheets/stablemenu.css">
+	    <!--[if lt IE 9]>
+		    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	    <![endif]-->
 
-<!-- Jquery header Slider script --> 
-<script type="text/javascript" src="new/slideshows/slide01/slider.js"></script>
-<script type="text/javascript" src="new/communitylogin/md5.js"></script>
-<script type="text/javascript"> 
-$(function() {
-	$("#navi ul").tabs("#panes > div", {
-	effect: 'fade', 
-	fadeOutSpeed: 500, 
-	rotate: true
-	}).slideshow({ 
-		 autoplay: true, 
-		 interval: 5000
-	}); 
- });  
- 
-function validateUser(){
-  var uname = $('#uname').val();
-  var upass = $('#upass').val();
-  if(uname == ''){
-    $('#error_msg').css('margin-left', '147px'); 
-    $('#error_msg').html("Username or e-mail address field is required.");
-    $('#social_media').css('margin-top', '4.5px');
-  }
-  else if(upass == ''){
-    $('#error_msg').css('margin-left', '296px');
-    $('#error_msg').html("Password field is required.");
-    $('#social_media').css('margin-top', '4.5px');
-  }
-  else{
-    $('#submit-span').html('<img style="width: 30px; height: 22px; margin-bottom:-6px;" src="/new/images/loading.gif">');
-    var md5Pass = $.md5(upass);
-    $('#error_msg').html('');
-    $('#error_msg').css('margin-left', '');  
-    $('#social_media').css('margin-top', '17px');
+        
+            <!-- Jquery md5 script --> 
+            <script type="text/javascript" src="/javascript/md5.js"></script>
+        
+            <script type="text/javascript">
+                function validateUser() {
+                    if (document.login.usernm.value == '') {
+                        document.getElementById("error_msg").innerHTML = 'email/username required';
+                        return false;
+                    }
+                    else if (document.login.userpw.value == '') {
+                        document.getElementById("error_msg").innerHTML = 'password required';
+                        return false;
+                    }
+                    else {
+                        document.login.userpw.value = md5(document.login.userpw.value);
+                        return true;
+                    }
+                }
+            </script>
+        
+
+        <script type="text/javascript">
+            function show_hide_userpane_points() 
+            {
+                if (document.getElementById("user_discount_dtl").style.display == 'inline') 
+                {
+                    document.getElementById("user_discount_dtl").style.display = 'none';
+                    document.getElementById("user_points_link").innerHTML = '[+]';
+                }
+                else 
+                {
+                    document.getElementById("user_discount_dtl").style.display = 'inline';
+                    document.getElementById("user_points_link").innerHTML = '[-]';
+                }
+
+                return false;
+            }
+        </script>
+
+        
+    </head>
+
     
-    $.ajax({
-      url : "communitylogin.php",
-      type: "POST",
-      data : "uname="+uname+"&upass="+md5Pass,
-      success: function(data, textStatus, jqXHR)
-      {
-           if(data > 0){ 
-             location.href = "http://www.horseracegame.com/community/usercheck/"+data;
-           }
-           else{
-             $('#error_msg').css('margin-left', '147px'); 
-             $('#error_msg').html('Sorry, unrecognized username or password.');
-             $('#submit-span').html('<input type="submit" class="form-submit" onclick="validateUser(); return false" tabindex="3" value="Log in" name="login">');
-             $('#social_media').css('margin-top', '4.5px');
-           }
-      },
-      error: function (jqXHR, textStatus, errorThrown)
-      {
-          $("#error_msg").html('Error occur..try again.');
-      }
-   });
-   
-  }  
-  
-  return false;
-}
-
-function show_hide_userpane_points() {
-	var disp_val = $('#user_discount_dtl').css('display');
-	if(disp_val == 'inline') {
-		$('#user_discount_dtl').css('display', 'none');
-		$('#user_points_link').html("[+]");
-	}
-	else {
-		$('#user_discount_dtl').css('display', 'inline');
-		$('#user_points_link').html("[-]");
-	}
-	return false;
-}
-
-</script>
-
-<!-- Load Social Media Buttons -->
-<script language="javascript" type="text/javascript">
-$(window).load(function() {
-// Handler for .ready() called.
-<!-- Facebook Like Button -->
-jQuery('<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/horseracingisfun&layout=button_count&show_faces=false&width=74&action=like&font&colorscheme=light&height=22" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:74px; height:20px;" allowTransparency="true"></iframe>').appendTo('#social_media');
-<!-- end facebook -->
-jQuery('<span>&nbsp;</span>').appendTo('#social_media');
-<!-- Pinterest -->
-$.ajax({
-  type: "GET",
-  url: "http://assets.pinterest.com/js/pinit.js",
-  dataType: "script"
-});
-jQuery('<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fpinterest.com%2Fhorseracing101&media=http%3A%2F%2Fassets.pinterest.com%2Fimages%2FPinExt.png" class="pin-it-button" count-layout="none" target="_blank"><img border="0" style="margin-bottom:3px;" align="absbottom" height="26" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>').appendTo('#social_media');
-<!-- /# end Pinterest -->
-jQuery('<span>&nbsp;</span>').appendTo('#social_media');
-<!-- Place this tag after the last +1 button tag. -->
-jQuery('<div class="g-plusone" data-href="https://plus.google.com/117606426810570561300"></div>').appendTo('#social_media');
-var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-po.src = 'https://apis.google.com/js/plusone.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-<!-- /# end Google+ -->
-jQuery('<span>&nbsp;&nbsp;&nbsp;</span>').appendTo('#social_media');
-<!-- Twitter -->
-$.ajax({
-  type: "GET",
-  url: "https://platform.twitter.com/widgets.js",
-  dataType: "script"
-});
-jQuery('<a href="https://twitter.com/share" class="twitter-share-button" data-related="horseracing101" data-lang="en" data-size="large" data-count="horizontal">Tweet</a>').appendTo('#social_media');
-<!-- /# end twitter -->
-});
-</script>
-<!-- End Social Media Buttons -->
-
-
-<script language="javascript" type="text/javascript">
-//<![CDATA[
-var tl_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
-"http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
-document.writeln('<scr' + 'ipt language="JavaScript" src="'+tl_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
-//]]>
-</script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
-
-
-
-<div id="wrapper_header"> 
- 
-	<div class="top"> 
-	
-		<div class="logo"> 
-		
-			<a href="index.php"><img src="new/images/logo.jpg" alt="Horse Race Game" title="Horse Race Game"></a>           
-					
-		</div><!-- /# end logo -->
-         <div id="loginform">
-        <div id="login-form">
-           <form action="/communitylogin.php" accept-charset="UTF-8" method="post">
-               <div id="register">
-                   <a href="http://www.horseracegame.com/community/user/register">Register for Free</a><br>
-                   <a href="http://www.horseracegame.com/community/user/password">Lost Password </a>
-               </div>
-               <div id="login-uname">
-                   <div class="userhead1">
-                       <label id="usrname">Username or e-mail address: </label>
-                       <input type="text" class="form-text" tabindex="1" value="" id="uname" name="name" maxlength="60">
-                   </div>
-               </div>
-               <div id="login-pass">
-                   <div id="edit-pass-1-wrapper" class="form-item">
-                       <label id="usrname">Password: </label>
-                       <input type="password" class="form-text" tabindex="2" maxlength="128" id="upass" name="pass"> 
-                       <span id="submit-span">
-                       <input type="submit" class="form-submit" onclick="validateUser(); return false" tabindex="3" value="Log in" name="login">
-                 </span>  </div>
-               </div>        
-               <div id="error_msg"></div>
-           </form>
-       </div>
-     </div>
-          <div id="social_media" class="social_media1"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/horseracingisfun&amp;layout=button_count&amp;show_faces=false&amp;width=74&amp;action=like&amp;font&amp;colorscheme=light&amp;height=22" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:74px; height:20px;" allowtransparency="true"></iframe><span>&nbsp;</span><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fpinterest.com%2Fhorseracing101&amp;media=http%3A%2F%2Fassets.pinterest.com%2Fimages%2FPinExt.png" class="pin-it-button" count-layout="none" target="_blank"><img border="0" style="margin-bottom:3px;" align="absbottom" height="26" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a><span>&nbsp;</span><div class="g-plusone" data-href="https://plus.google.com/117606426810570561300"></div><span>&nbsp;&nbsp;&nbsp;</span><a href="https://twitter.com/share" class="twitter-share-button" data-related="horseracing101" data-lang="en" data-size="large" data-count="horizontal">Tweet</a></div>   
-    	
-	</div><!-- /# end top -->	
-	
-	<div class="menu"> 
-			
-	        <div id="myslidemenu" class="jqueryslidemenu"> 
-			        
-	          <ul> 
-			      <li><a href="index.php">Home</a></li>
-				  
-				  <li><a href="about.php">About Us</a></li>
-		          
-				  <li><a href="features.php">Features</a></li> 
-					        
-			      <li><a href="quotes.php">Quotes</a></li>					       
-					        
-			      <li><a href="screens.php">Screens</a></li> 
-					        
-			      <li><a href="demo.php">Free Game</a></li> 
-					        
-			      <li><a href="tournaments.php">Tournaments</a></li>
-					        
-			      <li><a href="http://www.horseracegame.com/community" target="_blank">Community</a></li>
-				  
-				  <li><a href="contact.php">Contact Us</a></li>
-              </ul> 
-		    </div> 
-	  <!-- end #topnav --> 
-	  
-  </div><!-- /# end menu --> 
-	
-	
-	<div class="slider"> 
- 
-      <div id="feature">
- 
-		  <div id="panes"> 
-			
-			<div style="display: block; opacity: 0.122359;"> 
-			  
-				<img src="new/slideshows/slide01/game_01.jpg" alt="Horse Racing Games Free to Play" title="Horse Racing Games Free to Play">
-			  
-				<p> 
-				<strong>Horse Racing Games Free to Play</strong><br>   
-				
-				Free online horse racing games. Virtual racing excitement like you never thought possible. Play online or download our free racing games and take fantasy horse racing to the next level.
-				
-				<a href="http://www.horseracegame.com/dl.php" target="_blank" class="more_slider" title="Play online or download the free Horse Racing Fantasy Game Today!"></a></p>
-			</div><!-- /# end slide one -->
-   
-	 
-		 <div style="display: none;"> 
-		  
-			<img src="new/slideshows/slide01/game_02.jpg" alt="Horse Games You Will Love to Play" title="Horse Games You Will Love to Play"> 
-		  
-			<p align="left"> 
-			<strong>Horse Games You Will Love to Play</strong><br>
-			
-			Enjoy horse games online or download your favorite virtual games featuring top champion horses. Our virtual horse games allow you to breed, care for and manage your horse's career. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	
-			<a href="http://www.horseracegame.com/dl.php" target="_blank" class="more_slider" title="Play online or download the free Horse Racing Fantasy Game Today!"></a></p>
-		  </div><!-- /# end slide two -->
-	  
-   
-		  <div style="display: none;"> 
-		  
-			<img src="new/slideshows/slide01/game_03.jpg" alt="Free Racing Games for Horse Race Enthusiast" title="Free Racing Games for Horse Race Enthusiast"> 
-		  
-			<p> 
-			<strong>Free Racing Games for Horse Race Enthusiast</strong><br> 
-			
-			Immerse yourself in a full 3D world of online racing action. Test your game skills as you compete in an exciting world of fantasy racing for prizes and awards.
-	
-			<a href="http://www.horseracegame.com/dl.php" target="_blank" class="more_slider" title="Play online or download the free Horse Racing Fantasy Game Today!"></a>			</p> 
-		  </div><!-- /# end slide three --> 
-	  
-   
-		  <div style="display: none;">
-		  
-			<img src="new/slideshows/slide01/game_04.jpg" alt="Virtual Racing Games for Horse Lovers" title="Virtual Racing Games for Horse Lovers">
-		  
-			<p> 
-			<strong>Virtual Racing Games for Horse Lovers</strong><br> 
-				
-			Enter the exciting world of horse racing as a breeder, trainer, owner, jockey or bettor. Manage the career of your virtual horses while racing against thousands of others.
-			
-			<a href="http://www.horseracegame.com/dl.php" target="_blank" class="more_slider" title="Play online or download the free Horse Racing Fantasy Game Today!"></a></p> 
-		  </div><!-- /# end slide four -->
-		  
-		   <div style="display: none;"> 
-		  
-		   <img src="new/slideshows/slide01/game_05.jpg" alt="Online Horse Racing Action" title="Online Horse Racing Action"> 
-		  
-			<p> 
-			<strong>Online Horse Racing Action</strong><br> 
-				
-			Our PC horse and horse racing games provide the most realistic horse racing fun. Play our horse games online or download them free to your computer and maximize your horse racing game experience.
-	
-			<a href="http://www.horseracegame.com/dl.php" target="_blank" class="more_slider" title="Play online or download the free Horse Racing Fantasy Game Today!"></a>			</p> 
-		  </div><!-- /# end slide five --> 
-	</div><!-- /# end panes --> 
+        <body>
     
- 
-	  <div id="navi"> 
-	  
-			<ul> 
-		
-			  <li><a href="#" class="current"><img src="new/slideshows/slide01/game_01_small.jpg"></a></li> 
-			  
-			  <li><a href="#" class=""><img src="new/slideshows/slide01/game_02_small.jpg"></a></li> 
-			  
-			  <li><a href="#" class=""><img src="new/slideshows/slide01/game_03_small.jpg"></a></li> 
-			  
-			  <li><a href="#" class=""><img src="new/slideshows/slide01/game_04_small.jpg"></a></li> 
-			  
-			  <li><a href="#" class=""><img src="new/slideshows/slide01/game_05_small.jpg"></a></li> 
-	    </ul> 
-	  </div><!-- /# end navigator --> 
-	</div> 
-	  
-  </div><!-- /# end slideshow --> 
-  
-</div><!-- /# end header --> 
-<div id="wrapper_body"> 
- 
-	<div class="wrapper_center">
+        <div id="wrapper_header"> 
+	        <div class="top"> 
+                <table>
+                    <tbody><tr>
+                        <td width="699" valign="top">
+                            <table cellpadding="0" cellspacing="0">
+                                <tbody><tr height="40" valign="bottom">
+                                    <td><a href="/index.aspx"><img src="/images/logo.png" alt="Horse Race Game" title="Horse Race Game"></a></td>
+                                </tr>
 
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="page_heading">Privacy Statement for www.horseracegame.com</p>
-		<br>
-		<p>Virtual Sports, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: <a href="http://www.horseracegame.com" title="Horse Racing Fantasy">http://www.horseracegame.com</a>.</p>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Personal Information Collected</p>
-		<br>
-		<p>We collect the following personal information when registering for our free game: your first and last name, your email address, a user identification (user ID), year of birth, zip code (if you're a resident of the United States) and country.  We utilize only email addresses to communicate with our members. The amount of communication depends on the level of your engagement with our game and community.  Players can opt out or opt in for individual communications specifically associated with certain aspects of our game and community in which players are active.  In addition, a player can opt out of all email communications at any time.</p> 
-		<p>Our site links to our online store which uses an order form for customers to order products and services. During the ordering process we collect your name, mailing address, email address and telephone number (Contact Information) and your account or credit card information (Financial Information). Our online store will charge your credit card or account for the products and services you order. We use your name and address to ship your order if you selected the US Mail shipping option. We use your email address to send you download instructions and to inform you of program bug fixes, new product releases and new product offerings such as horse data files. We use your telephone number to contact you in the event of a problem with your order or your installation. You may opt-out of future contract from us; see the choice/opt-out section below.</p> 
-		<p>Occasionally we run online surveys, contests or promotions for additional products and services that we sell for ourselves or for third parties. You will be periodically contacted with these opportunities. If you wish to no longer receive these particular mailings from us, you have the option to opt out of general solicitation emails while still receiving general game communications.  Of course, at any time, a player can opt out of all communications by simply clicking on the Unsubscribe link at the bottom of each email communication we send.</p>
-		<p>Finally, unregistered users may request our Demonstration Version via email. In this case we only collect the email address of the requestor. Requestors may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
-		<p>Our site contains links to other sites. <a href="http://www.horseracegame.com">www.horseracegame.com</a> is not responsible for the privacy practices or the content of such Web sites.</p>
-        <p class="quote_text">Policy Changes</p>
-        <p><a href="http://www.horseracegame.com">HorseRaceGame</a> has the right to modify its privacy policy from time to time as long as those modifications do not include the direct disclosure of our customer's personal information we have collected to any unrelated third party.</p>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Security</p>
-		<br>
-		<p>Our site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Any personal information you provide is encrypted prior to transmission.  We utilize industry standard SSL encryption when accepting your credit card information during our online checkout process. In addition, we utilize the same encryption standard when transferring your credit card data to our internal fulfillment system.</p>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Confidentiality and Sharing of Information <em>(Revised 2/7/2003)</em></p>
-		<br>
-		<p>We will keep your Contact Information and Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property.</p>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Choice/Opt-Out</p>
-		<br>
-		<p>Our site allows our users to opt out of our email list by either clicking on the opt out selection on each and every email we send or by simply sending an email to <a href="mailto:support@horseracegame.com">support@horseracegame.com</a> with the subject 'Opt Me Out'.  All such requests are honored promptly, usually within 24 to 48 hours.</p>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Correct/Update of Information</p>
-		<br>
-		<p>Our site allows users to Contact us to specify changes to information previously provided.</p>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Contacting the Web Site</p>
-		<br>
-		<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact us electronically or write to:</p>
-		<center>
-		<blockquote style="width:255px; border:#333333 solid 1px; background-color:#EEE;"> 
-		<p align="left" style="padding:15px; font-weight:bold;">Privacy Questions<br>
-		Virtual Sports, Inc.<br>
-		11124 Kingston Pike, Suite 119-255<br>
-		Knoxville, TN  37934</p>
-		</blockquote>
-		</center>
-	</div>
-	
-	<div class="top_content">
-		<a href="http://www.horseracegame.com/dl.php" target="_blank" class="date2" title="Download the Free Horse Racing Fantasy Game Today!"></a>
-		<p class="quote_name">Glossary of Terms</p>
-		<br>
-		<p><strong>SSL Encryption</strong> - A method by which information transmitted across the Internet is scrambled to the point where it's virtually indecipherable by anyone who should intercept the data before it reaches its destination. Most all reputable online stores make use of SSL encryption to request credit card information and other sensitive data from their customers. Web pages where SSL encryption is activated are typically identified by a lock or key symbol displayed somewhere in your browser. Refer to your browser's documentation for the specific symbol and location.</p>
-	</div>
-	
-	</div>
- 
-</div><!-- /# end body --> 
+                                
+                                    <tr height="40" valign="bottom">
+                                        <td><div style="color:#FFFFFF">Current Time: 12/27/2015 8:21:10pm</div></td>
+                                    </tr>
+                                
+                            </tbody></table>
+                        </td>
 
-<div id="wrapper_footer2">
+                        <td width="1"></td>
 
-<div class="footer_shadow"> 
+                        <td width="300" valign="top">
+                            
+                                <form action="/login.aspx" method="post" name="login" id="login" onsubmit="return validateUser();">
+                                    <input type="hidden" name="prevpage" id="prevpage" value="/privacy.aspx">
+                                    <table width="300">
+				                        <tbody><tr>
+					                        <td width="1"></td>
+					                        <td width="298">
+						                        <table class="Arial9">
+                                                    <tbody><tr>
+                                                        <td width="298" colspan="3"><div id="register"><a href="/register.aspx">Register for Free</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<a href="/lostpassword.aspx">Lost Password</a></div></td>
+                                                    </tr>
+							                        <tr>
+								                        <td width="130" align="right"><font color="ffffff">email/stable name</font>&nbsp;</td>
+								                        <td width="168" colspan="2" align="left"><input style="border: 1px solid #000000" class="form-text" name="usernm" id="usernm" size="14" maxlength="50"></td>
+							                        </tr>
+							                        <tr>
+								                        <td width="130" align="right"><font color="ffffff">password</font>&nbsp;</td>
+                                                        <td><input style="border: 1px solid #000000" class="form-text" type="password" name="userpw" id="userpw" size="8" maxlength="20"></td>
+                                                        <td align="right"><input type="submit" class="form-submit" value="Login"></td>
+							                        </tr>
+                                                    <tr>
+								                        <td width="130" align="right"></td>
+                                                        <td width="168" colspan="3"><div id="error_msg"></div></td>
+                                                    </tr>
+						                        </tbody></table>
+					                        </td>
+					                        <td width="1"></td>
+				                        </tr>
+                                    </tbody></table>
+                                </form>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
 
-<div class="footer_shadow_center2"><img src="new/images/spacer.gif" alt=""></div>
+	        </div>
+            <!-- /# end top -->	
+        </div>
+        <!-- /# end header --> 
 
-</div><!-- /# end shadow effect -->
 
-<div class="copyright">
+        <div id="wrapper_outerbody"> 
+            <div id="wrapper_bodystablemenu"> 
+            <div class="wrapper_center"> 
+                <!-- MENU START -->
+                
+                
+                <div class="stablemenu_container">
+                    <nav class="stablemenu">
+                        <!-- MAIN LINKS START -->
+                        <ul>
+                            <!-- LINK START -->
+                            <li><a href="/index.aspx">Home</a>
+                                <!-- SUBMENU START -->
+                                <ul>
+                                    <li><a href="/index.aspx">Home</a></li>
+                                    <li><a href="/desktopclient.aspx">Desktop Client</a></li>
+                                </ul>
+                                <!-- SUBMENU END -->
+                            </li>
 
-<div class="copyright_center">
+                            
+                                <li><a href="/aboutus.aspx">About Us</a>
+                                    <!-- SUBMENU START -->
+                                    <ul>
+                                        <li><a href="/aboutus.aspx">About Us</a></li>
+                                    </ul>
+                                    <!-- SUBMENU END -->
+                                </li>
+                            
 
-<ul class="bottom_links">
-<li>
-<a href="index.php">Home</a> | <a href="about.php">About Us</a> | <a href="features.php">Features</a> | <a href="quotes.php">Quotes</a> | <a href="screens.php">Screenshots</a> | <a href="http://www.horseracegame.com/dl.php" target="_blank">Free Game</a> | <a href="free_stuff.php">Free Stuff</a> | <a href="links.php">Links</a> | <a href="community" target="_blank">Community</a> | <a href="tournaments.php">Tournament Play</a> | <a href="racinggames.php">Racing Games</a> | <a href="racehorse.php">Race Horse</a> | <a href="games.php">Games</a> | <a href="videos.php">Horse Racing Videos</a> | <a href="racetracks.php">Horse Racetracks</a> | <a href="history.php">Horse Racing History</a> | <a href="racing_events.php">Racing Events</a> | <a href="thoroughbred_pedigree.php">Thoroughbred Pedigree</a> | <a href="contact.php">Contact Us</a> | <a href="support.php">Support</a> | <a href="preakness_stakes.php">Preakness Stakes</a> | <a href="belmont_stakes.php">Belmont Stakes</a> | <a href="triple_crown.php">Triple Crown</a> | <a href="breeders_cup.php">Breeders' Cup</a> | <a href="uk_racing.php">UK Racing</a> | <a href="kentucky_derby.php">Kentucky Derby Information</a> | <a href="betting.php">Betting Info</a> | <a href="international_horse_racing.php">International Horse Racing</a> | <a href="community" target="_blank">Horse Racing News</a> | <a href="famous_race_horse.php">Famous Race Horses</a> | <a href="famous_horse_race.php">Famous Horse Races</a> | <a href="virtual_racing_games.php">Virtual Racing Games</a> | <a href="reviews.php">Game Reviews</a> | <a href="privacy.php">Privacy Policy</a></li>
-</ul>
+                            <li><a href="/help/index.aspx">Help</a>
+                                <!-- SUBMENU START -->
+                                <ul>
+                                    <li><a href="/help/index.aspx">Guide</a></li>
+                                    <li><a href="/contactus.aspx">Contact Us</a></li>
+                                </ul>
+                                <!-- SUBMENU END -->
+                            </li>
+                            <!-- LINK END -->
+                        </ul>
+                        <!-- MAIN LINKS END -->
+                    </nav>
+                </div>
+                <!-- MENU END -->
 
-<ul class="copyright_links">
+            </div>
+            <!-- center end -->
+            </div>
+        </div>
+        <!-- body end -->
 
-<li><a href="contact.php" title="Contact the developers of Horse Racing Fantasy">Contact us</a> and we will explain why our customers say this is the best of the horse racing games.<br>&nbsp;Copyright © 2006-2010 <a href="http://horseracegame.com" title="Horse Racing Game" rel="nofollow">HorseRaceGame.com,</a> All rights reserved.<br><br></li>
-</ul><!-- /# end copyright links -->
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/aboutus.css"> 
+
+<div id="wrapper_outerbody"> 
+    <div id="wrapper_body"> 
+	    <div class="wrapper_center">
+            <div class="block_post">
+                <img class="icon_horse" src="/images/icon_horse.png">
+                <div class="block_header">
+                    <div align="left">
+                        <span style="font-size: 22px; font-weight: bold;">
+                            Privacy Policy
+                        </span>
+                    </div>
+                    <img src="/images/block_headerfooter.png">
+                </div>
+                <br>
+                <div style="margin: 0px 10px 0px 10px;">
+                    This privacy policy covers the site www.HorseRaceGame.com. Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information. 
+                    <br><br>
+                    1. What personally identifiable information HorseRaceGame.com collects.<br>
+                    2. What personally identifiable information third parties collect through the Web site.<br>
+                    3. What organization collects the information.<br>
+                    4. How HorseRaceGame.com uses the information.<br>
+                    5. With whom HorseRaceGame.com may share user information.<br>
+                    6. What choices are available to users regarding collection, use and distribution of the information.<br>
+                    7. What types of security procedures are in place to protect the loss, misuse or alteration of information under HorseRaceGame.com control.<br>
+                    8. How users can correct any inaccuracies in the information.<br>
+                    <br><br>
+                    <b>Information Collection and Use</b><br>
+                    HorseRaceGame.com is the sole owner of the infomation collected on our web site. HorseRaceGame.com collects information at several different points on our Web site. 
+                    <br><br>
+                    Information is collected for the purpose of contacting the user in conjunction with participation and processing transactions on the site. A user must provide the clickstream information (internet protocol address, internet service provider, platform type, date/time stamp, operating system), http protocol information (last uri requested and browser type), interaction information (browser interaction such as when the mouse moves over an image), computer information (computer and browser information), content (email content and bulletin board postings), interactive data (account activity and searches performed), location data (current physical location), navigation and click-stream data (passive activity such as pages visited), purchase information (purchase payment method and other purchase information), state management mechanisms (data allowing a user to be tracked consistently), unique identifiers (login id or other id), computer information (computer and browser information), content (email content and bulletin board postings), financial information (financial account status and activity), interactive data (account activity and searches performed), location data (current physical location), navigation and click-stream data (passive activity such as pages visited), online contact information (email address), physical contact information (physical address and phone number), purchase information (purchase payment method and other purchase information), state management mechanisms (data allowing a user to be tracked consistently), unique identifiers (login id or other id), search terms (search text), transaction information (account transactions), user's name, user's birthdate, user's login information, user's home contact information, user's business contact information, 3rd party name, 3rd party birthdate, 3rd party home contact information and 3rd party business contact information. The reason we use this information is to complete the current transaction, enhance our site and product offerings and maintain and secure our site. We retain this information as stated by our business practices. 
+                    <br><br>
+                    <b>Cookies</b><br>
+                    A cookie is a piece of data stored on the user's computer tied to information about the user. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following the directions of the internet browser being used. You can set your browser to notify you to either accept or deny cookies. Our website uses cookies to enhance our site and our required to be able to login.
+                    <br><br>
+                    <b>Sharing Information - Legal Disclaimer</b><br>
+                    Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+                    <br><br>
+                    <b>Personally Identifiable Information</b><br>
+                    Personally identifiable information is not shared with any third parties. 
+                    <br><br>
+                    <b>Aggregate Information (non-personally identifiable)</b><br>
+                    Aggregate information is not shared with any third parties. 
+                    <br><br>
+                    <b>Data Security</b><br>
+                    HorseRaceGame.com has physical security in our facilities to protect against the loss, misuse, or alteration of information. Our company uses secure encryption technology (secure socket connection) for all sensitive financial or health data transmitted on our site. 
+                    <br><br>
+                    <b>Correcting/Updating/Deleting/Deactivating Personal Information</b><br>
+                    If a user's personally identifiable information changes such as zip code, phone, email or postal address they can change online, physical contact, and other information. If a user wishes to correct/update information not updateable online or no longer desires our service, they can notify us of what they desire by contacting us using any of the information in the Contact section of this policy. 
+                    <br><br>
+                    <b>Links and Advertisements</b><br>
+                    Our website contains links to other sites. We do not partner with or have special relationships with any ad server companies. We, HorseRaceGame.com, are not responsible for the privacy practices or the content of any other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+                    <br><br>
+                    <b>Changes to the Privacy Statement</b><br>
+                    The information you submit to us is controlled by the privacy policy in effect at the time you submit it. If we significantly change our policy, we will post a notice in a conspicuous place on our website notifying visitors of policy changes. 
+                    <br><br>
+                    <b>Data Retention Statement</b><br>
+                    We keep information about you and your purchases for as long as you remain our customer and will continue to retain this data for as long as we see fit. 
+                    <br><br>
+                    <b>Contact Information</b><br>
+                    You can contact us if you have questions about our privacy policy through the following link: <a href="/contactus.aspx">Contact Us</a>.
+                    <br><br>
+                    <b>Resolving Privacy Policy Disputes</b><br>
+                    If you think we have not followed our privacy policy in some way, we can be contacted through the following link: <a href="/contactus.aspx">Contact Us</a>.
+                    <br><br>
+                </div>
+            </div>
+            <br><br><br>
+        </div>
+        <!-- center end -->
+    </div>
+    <!-- body end -->
 </div>
 
-<div align="right" style="padding-right:10px;">
-  <script language="JavaScript" type="text/javascript">
-    TrustLogo("http://www.horseracegame.com/new/images/comodo_secure.png", "CL1", "none");
-  </script>
-  <a href="http://ssl.comodo.com" id="comodoTL">SSL Certificates</a>
-</div>
+    <div id="wrapper_footer"> 
+        <div class="footer_center"> 
+            <div class="footer_shadow"> 
+                <div class="footer_shadow_center"><img src="/images/spacer.gif" alt=""></div>
+            </div>
+            <!-- /# end shadow effect -->
 
-</div> 
+            <div class="copyright">
+                <div class="copyright_center">
+                    <ul class="bottom_links">
+                        <li><a href="/index.aspx">Home</a> | <a href="/aboutus.aspx">About Us</a> | <a href="/contactus.aspx">Contact Us</a> | <a href="/privacy.aspx">Privacy Policy</a> | <a href="/useragreement.aspx">User Agreement</a></li>
+                    </ul>
 
-</div><!-- /# end footer -->
+                    <ul class="copyright_links">
+                        <li><a href="/contactus.aspx" title="Contact the developers of Horse Racing Fantasy">Contact us</a> and we will explain why our customers say this is the best of the horse racing games.<br>&nbsp;Copyright © 2006-2015 <a href="/index.aspx" title="HorseRaceGame.com" rel="nofollow">HorseRaceGame.com</a>. All rights reserved.<br><br></li>
+                    </ul>
+                    <!-- /# end copyright links -->
+                </div>
+            </div>
+            <!-- /# end copyright -->
+        </div>
+        <!-- /# end footer center-->
+    </div>
+    <!-- /# end footer -->
 
-<img src="http://media.fastclick.net/w/tre?ad_id=21450;evt=13917;cat1=15847;cat2=15848" width="1" height="1" border="0">
+    
+	
 
-<img src="https://www.horseracegame.com/images/tracker.gif" style="border:0;padding:0;margin:0;width:1px;height:1px;">
-
-<img src="http://ad.retargeter.com/seg?add=68690&amp;t=2" width="1" height="1">
-
-<script type="text/javascript">
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-try {
-
-var pageTracker = _gat._getTracker("UA-12708598-1");
-
-pageTracker._trackPageview();
-
-} catch(err) {}</script> 
 
 </body></html>
