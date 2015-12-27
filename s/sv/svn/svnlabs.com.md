@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svnlabs.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523163925id_/http%3A//www.svnlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svnlabs.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227040134id_/http%3A//www.svnlabs.com/privacy-policy) for the most accurate reproduction.*
 
 # S V N Labs Softwares | Privacy Policy
 
