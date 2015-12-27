@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311195925id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227013104id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
 
 # Privacy
 
   * Thursday, October 29, 2009, 18:15
-  * 372 views
+  * 375 views
 
 
 
@@ -26,9 +26,6 @@ This site contains links to other sites. **Incredibleworld.net** **** **is not r
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by contact form.
-
-  * 
-
 
 #### About the Author
 
