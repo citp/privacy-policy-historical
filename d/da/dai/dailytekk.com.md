@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytekk.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531134436id_/http%3A//dailytekk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytekk.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227064649id_/http%3A//dailytekk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyTekk
 
@@ -62,6 +62,10 @@ DailyTekk has the discretion to update this privacy policy at any time. When we 
 ## Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Magnetic
+
+Please view Magnetic’s Privacy Policy. Magnetic code may at times be embedded on this site.
 
 ## Contacting us
 
