@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035132id_/http%3A//getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227182643id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Getty
 
@@ -83,12 +83,19 @@ Los Angeles CA 90049-1682
 
 Please provide your exact name and address and tell us if you want your name removed from our mailing list, the list we may share with other companies, or both.
 
-**Cookies**  
-A cookie is a piece of data we store on your computer's hard drive. This data contains information about you that we use to help make your visit to the Getty website easier. For example, one cookie we may store can remember what kind of video capability you have selected, so that you do not have to choose a bandwidth every time you watch a video. In addition, we have authorized various reputable companies to help us track cookies so that we can analyze how people are using the Getty website in order to continually offer the best possible experience for our visitors.
+**Cookies and Pixel Tags**  
+A cookie is a piece of data we store on your computer's hard drive. This data contains information about you that we use to help make your visit to the Getty website easier. For example, one cookie we may store can remember what kind of video capability you have selected, so that you do not have to choose a bandwidth every time you watch a video. In addition, we have authorized various reputable companies to help us track cookies so that we can analyze how people are using the Getty website in order to continually offer the best possible experience for our visitors. Pixel tags are small pieces of code that may place cookies or provide non personally-identifiable information such as IP address, time of website visit, or browser used.
 
-Neither the Getty nor any of the companies we work with will collect personally-identifiable information using cookies.
+In addition, the Getty engages third-party service providers who use cookies and pixel tags on our behalf. See "Third-Party Service Providers," below.
+
+Neither the Getty nor any of the companies we work with will collect personally-identifiable information using cookies or pixel tags.
 
 You do not have to accept any Getty cookies to enjoy and use the Getty website; if you reject all Getty cookies you will simply have to re-enter the preferences that we would otherwise record for you.
+
+Your iOS or Android device may provide a "Limit Ad Tracking" or "Opt out of interest-based advertising" setting that you can enable if you would like to limit ad tracking from pixel tags on mobile devices.
+
+**Third-Party Service Providers**  
+The Getty engages reputable third-party vendors in order to help us manage the Getty website and mobile applications, process transactions, better respond to the needs of our visitors, and enhance our marketing efforts. This includes third-party marketing partners who serve advertisements across the Internet and sometimes on the Getty website and mobile applications on the Museum's behalf. They may use information about your visits to the Getty website and mobile applications and other sites to personalize advertisements. 
 
 **Links to Other Web Sites**  
 This Web site contains links to other sites that are not owned or controlled by the Getty. We are not responsible for the content or privacy practices of other sites. This privacy statement applies only to this Web site.
