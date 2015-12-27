@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeprivacypolicy.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503115017id_/http%3A//www.freeprivacypolicy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeprivacypolicy.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227043357id_/http%3A//www.freeprivacypolicy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FreePrivacyPolicy.com - Privacy Policy
 
@@ -215,7 +215,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 FreePrivacyPolicy.com
 
-298 24th St., Suite 450 Ogden Utah, 84401 USA
+298 24th St., Suite 450   
+Ogden Utah, 84401 USA
 
 support@freeprivacypolicy.com
 
