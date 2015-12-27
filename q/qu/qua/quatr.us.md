@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422162938id_/http%3A//quatr.us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227051210id_/http%3A//quatr.us/privacypolicy.htm) for the most accurate reproduction.*
 
-# Quatr.us privacy policy
+# Quatr.us privacy policy - Quatr.us
 
-[](https://web.archive.org/web/20150422162938id_/http%3A//quatr.us/cartoons.htm)
+[](https://web.archive.org/web/20151227051210id_/http%3A//quatr.us/cartoons.htm)
 
 ## What information do we collect?
 
@@ -56,11 +56,27 @@ Portland State University
 Portland, OR 97207-0751  
 United States
 
-[an error occurred while processing this directive] 
-
 Also check out our cooking site at [Gevirts.com](http://www.gevirts.com/), and our children's site, [Kidipede](http://www.historyforkids.org/).
 
   
 
 
-* * *
+[](http://amzn.to/1jSkicp)
+
+[Professor Carr](https://www.pdx.edu/history/bio-carr)
+
+**Karen Eva Carr, PhD.**  
+Assoc. Professor Emerita, History  
+Portland State University
+
+Read more
+
+Professor Carr holds a B.A. with high honors from Cornell University in classics and archaeology, and her M.A. and PhD. from the University of Michigan in Classical Art and Archaeology. She has excavated in Scotland, Cyprus, Greece, Israel, and Tunisia, and she has been teaching history to university students for a very long time.
+
+[Professor Carr's PSU page](https://www.pdx.edu/history/bio-carr)
+
+Less
+
+**[Help support Quatr.us!](https://web.archive.org/donatequatrus.htm)**
+
+Quatr.us (formerly "History for Kids") is entirely supported by your generous donations and by our sponsors. Most donors give about $10. Can you [give $10 today](https://web.archive.org/donations.htm) to keep this site running? Or [give $50](https://web.archive.org/donations.htm) to sponsor a page?
