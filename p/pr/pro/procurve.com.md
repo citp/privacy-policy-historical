@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procurve.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234400id_/http%3A//www8.hp.com/us/en/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procurve.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227171026id_/http%3A//www8.hp.com/us/en/privacy/privacy.html) for the most accurate reproduction.*
 
 # Online privacy statement | HP® Official Site
 
@@ -18,11 +18,11 @@ HP complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Sa
 
 HP has also established a set of binding corporate rules (“BCR”), which have been approved by the majority of Data Protection Regulators in the EEA and Switzerland, effective June 2011. The BCRs ensure that personal data from the EEA is adequately protected while being processed by any of HP’s global entities.
 
-HP has received TRUSTe's APEC Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal and mobile applications that link to this privacy statement. HP’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System, including transparency, accountability, and choice regarding the collection and use of your personal information. The CBPR certification does not cover information that may be collected through downloadable software on third party platforms.
+HP has received TRUSTe's APEC Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. HP’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System, including transparency, accountability, and choice regarding the collection and use of your personal information. The CBPR certification does not cover information that may be collected through downloadable software on third party platforms.
 
 If you have an unresolved privacy or data use concern related to HP’s APEC Certification that we have not addressed satisfactorily, please contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) [](https://feedback-form.truste.com/watchdog/request)
 
-[ ](https://privacy.truste.com/privacy-seal/Hewlett-Packard/validation?rid=67797cbc-f6de-485c-a8a1-4137cf8ebe1e "Validate TRUSTe privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=e2864037-6873-4c1b-8a16-10a22e7b31eb "TRUSTe Privacy Certification")
 
   
 
@@ -196,8 +196,8 @@ Subscription communications include email newsletters, software updates, etc. th
 
   * Select the email 'opt out' or 'unsubscribe' link, or follow the opt-out instructions included in each email subscription communication.
   * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
-  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the [Subscriber's Choice web page](http://www8.hp.com/us/en/subscribe/index.html).
-  * Write to the [HP Privacy Office](http://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/) (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
+  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the [Subscriber's Choice web page](https://h41369.www4.hp.com/subhub.php?country=US&language=US).
+  * Write to the [HP Privacy Office](https://ssl.www8.hp.com/h41268/live/index.aspx?qid=11507) (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
 
   
 
@@ -206,13 +206,13 @@ Subscription communications include email newsletters, software updates, etc. th
 
 HP general communications provide information about products, services, and/or support. This may include new product or services information, special offers, or invitations to participate in market research or compliance reviews.
 
-You will often be able to use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
+You will often be able to use [HP Passport](https://hpp12.passport.hp.com/hppcf/login.do?TYPE=33554433&REALMOID=06-0005e03f-3c9d-1562-bd8c-a14d9144a903&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$nrFItGUrP4rn6tl84L%2fmZNZrF9DR%2f5Y%2fvIW%2f6XUi7RldT%2b%2bDTbpI0qztd80EWaYN&TARGET=$SM$HTTPS%3a%2f%2fpassport2%2ehp%2ecom%2fhppcf%2fmodifyuser%2edo%3fhpappid%3dprivacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
 
 If you are unable to use HP Passport, you may opt out of receiving these general communications by using one of the following methods:
 
   * Select the email 'opt out' or 'unsubscribe' link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
-  * Write to the [HP Privacy Office](http://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/) (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
+  * Write to the [HP Privacy Office](https://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/) (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
 
 
 
@@ -220,7 +220,7 @@ If you are unable to use HP Passport, you may opt out of receiving these general
 
 ### 7\. Access to and accuracy of your information
 
-HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the web page where you originally submitted your data and follow the instructions on that web page, use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) where enabled, or contact the [HP Privacy Office](http://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/). HP will respond to access requests within 30 days.
+HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the web page where you originally submitted your data and follow the instructions on that web page, use [HP Passport](https://hpp12.passport.hp.com/hppcf/login.do?TYPE=33554433&REALMOID=06-0005e03f-3c9d-1562-bd8c-a14d9144a903&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$nrFItGUrP4rn6tl84L%2fmZNZrF9DR%2f5Y%2fvIW%2f6XUi7RldT%2b%2bDTbpI0qztd80EWaYN&TARGET=$SM$HTTPS%3a%2f%2fpassport2%2ehp%2ecom%2fhppcf%2fmodifyuser%2edo%3fhpappid%3dprivacy) where enabled, or contact the [HP Privacy Office](https://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/). HP will respond to access requests within 30 days.
 
   
 
@@ -242,7 +242,7 @@ Credit card numbers are used only for processing payments and are not used for o
 
 ### 9\. Changes to this statement
 
-If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. This privacy policy was last updated on October 2014.
+If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. This privacy policy was last updated on November 2015.
 
   
 
@@ -251,40 +251,25 @@ If we modify our Privacy Statement, we will post the revised statement here, wit
 
 ### 10\. Contacting us & How To Make a Complaint
 
-We value your opinions. If you have comments or questions about our Privacy Statement, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the [HP Privacy Office](http://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/) or write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
+We value your opinions. If you have comments or questions about our Privacy Statement, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the [HP Privacy Office](https://h71045.www7.hp.com/rfg_formprocessor/privacy-feedback/us/en/) or write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
 
-HP has also committed to refer unresolved privacy complaints from E.U. citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: <http://www.bbb.org/us/safe-harbor-complaints>.[](http://www.bbb.org/us/safe-harbor-complaints)
+HP has also committed to refer unresolved privacy complaints from E.U. and Swiss citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: <http://www.bbb.org/us/safe-harbor-complaints>.[](http://www.bbb.org/us/safe-harbor-complaints)
 
   
 
 
- **Canada, Most of Latin American, and US:**  
-HP Privacy Mailbox  
-11445 Compaq Center Drive W.  
-Mailstop 040307  
-Houston, Texas 77070  
+**HP Inc.**  
+Office of General Counsel– ATTENTION PRIVACY  
+1501 Page Mill Road  
+Palo Alto, California 94304  
 USA
 
- **Mexico:**  
-Hewlett-Packard  
-Legal Department  
-Prolongación Reforma No. 700  
-Colonia Lomas de Santa Fe  
-México, D.F., C.P.01210
-
- **Europe, Middle East, and Africa:**  
-EMEA Privacy Office  
-Hewlett Packard  
-MS 250  
-1 Avenue du Canada  
-HP Les Ulis -91947 – France
-
- **Asia-Pacific and Japan:**  
-HP APJ Privacy Office  
-Hewlett Packard  
-PO Box 384  
-Concord West, NSW 2138  
-Australia
+**HP Inc.**  
+Office of General Counsel– ATTENTION PRIVACY  
+Av. Vasco de Quiroga #2999  
+Col. Santa Fe Peña Blanca  
+Del. Alvaro Obregon  
+C.P. 01210 México D.F.
 
   
 
@@ -345,7 +330,7 @@ HP contracts with service providers to place ads on websites owned by third part
 
 Most web browsers offer you the ability to inform websites and ad networks that you do not want your online activities tracked through a “Do Not Track” feature.
 
-You can learn more about network advertising and how to opt out by visiting [http://www.aboutads.info ](http://www.aboutads.info/).
+You can learn more about network advertising and how to opt out by visiting [http://www.aboutads.info/ ](http://www.aboutads.info/).
 
 Back to top
 
