@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myacrobatpdf.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627041910id_/http%3A//www.myacrobatpdf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myacrobatpdf.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227232436id_/http%3A//www.myacrobatpdf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Ebooks Download | Acrobat PDF Files
+# None
 
 **Privacy Statement**  
 The follows is the Privacy Statement for Myacrobatpdf.com
