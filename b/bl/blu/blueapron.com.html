@@ -1,11 +1,23 @@
-<!--The following is the downloaded HTML source of the blueapron.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317065933id_/https%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blueapron.com privacy policy that was archived on 2015-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227074039id_/https%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWZPFP"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3d6de21ce4","applicationID":"4571969","transactionName":"IFYNTUYJCVgHExZIBARcEBZHDgpD","queueTime":9,"applicationTime":241,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQCV1RWGwcFU1BbAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.com/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWZPFP"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3d6de21ce4","applicationID":"4571969","transactionName":"IFYNTUYJCVgHExZIBARcEBZHDgpD","queueTime":34,"applicationTime":57,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQCV1RWGwcFU1BbAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<link href="/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+<link href="/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+<link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+<link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+<link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+<link href="/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
 <link href="/favicon.ico" rel="shortcut icon">
 <title>Blue Apron: Fresh Ingredients, Original Recipes, Delivered to You</title>
 <meta content="Blue Apron makes cooking fun and easy. We'll provide you with all the ingredients that you need to make a delicious meal in exactly the right proportions." name="description">
@@ -14,18 +26,16 @@
 <meta content="268433919926057" property="fb:app_id">
 
 
-<link href="//media.blueapron.com/assets/new-design-helpers-24ee55eb84f7ae5c0371589b8531370c.css" media="screen" rel="stylesheet" type="text/css">
-<link href="//media.blueapron.com/assets/application-cd8acaec5a4d60de7a79d2b6e3c25c80.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//media.blueapron.com/assets/new-design-helpers-e8a6c6c03169a49785fd90e3116c7047.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//media.blueapron.com/assets/application-2fbb147a38384f4e39eed7bcba728374.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if lte IE 9]>
-<link href="//media.blueapron.com/assets/application-ie-de70a8e316d4874e33f2937209e56efe.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="//media.blueapron.com/assets/application-ie-99a07353b4cc6e633ec8a84d4f2907df.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="//cloud.typography.com/7214432/782582/css/fonts.css" media="all" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=Signika:400,600,700,300" media="all" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
 <script src="//media.blueapron.com/assets/json3-b5318e30c9369a182310e1a50793c34f.js" type="text/javascript"></script>
 <![endif]-->
 <script src="//cdn.optimizely.com/js/214661394.js" type="text/javascript"></script>
-<script src="//media.blueapron.com/assets/application-2a1cb9e69ecda7e2584537d27f6f4c0e.js" type="text/javascript"></script>
+<script src="//media.blueapron.com/assets/application-d682fe7a7e8e4d7bbd1f5866d83b60d8.js" type="text/javascript"></script>
 <script>
   //<![CDATA[
     //detect if the device is a tablet or not. If not, include viewport meta tag
@@ -34,16 +44,53 @@
     if(tabr){
     }
     else {
-        document.write('<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">');
+        document.write('<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0,">');
     }
+    (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-v1.8.3.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setIdentity track validateCode".split(" "), 0);
+    
+    branch.init('key_live_beisD6R9a2a4SJaAX3wWylhjamfM9kjy');
+    +function(l,y,t,i,c,s) {
+        l['LocalyticsGlobal'] = i;
+        l[i] = function() { (l[i].q = l[i].q || []).push(arguments) };
+        l[i].t = +new Date;
+        (s = y.createElement(t)).type = 'text/javascript';
+        s.src = '//web.localytics.com/v3/localytics.min.js';
+        (c = y.getElementsByTagName(t)[0]).parentNode.insertBefore(s, c);
+        var user,
+            user_id = "N/A",
+            plan_type = "N/A",
+            member_type = 'guest';
+        user = $.cookie('user_attributes') ? JSON.parse($.cookie('user_attributes')) : false;
+    
+        if (user) {
+          plan_type = user.is_family ? 'family' : '2p';
+          user_id = user.id;
+          if (user.is_active) {
+            member_type = user.is_wine_active ? 'meal_and_wine' : 'meal_only';
+          } else {
+            member_type = 'non_member';
+          }
+        }
+    
+        ll('setCustomDimension', 0, user_id);
+        ll('setCustomDimension', 1, member_type);
+        ll('setCustomDimension', 2, plan_type);
+    
+        var initCustomDimensions = {
+          customDimensions: [user_id, member_type, plan_type]
+        };
+    
+        ll('init', "6927255e09fd428a65f6af0-aecb7286-70ef-11e5-0ef0-00deb82fd81f", initCustomDimensions);
+    }(window, document, 'script', 'll');
   //]]>
 </script>
+
 <!--[if lte IE 7]>
 <script src="//media.blueapron.com/assets/modal-ie-c3aec7463eae338564a04869f8f120db.js" type="text/javascript"></script>
 <![endif]-->
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="wIz2REQZ6i6URD/vJ2QW2Hw6fSmohZtP4okxcuTImqY=" name="csrf-token">
+<meta content="lFAzxjA4ZUXZFDgtXGRSFqXCKazVCaCi3R5aWYgM5tI=" name="csrf-token">
 <link href="https://www.blueapron.com/pages/privacy" rel="canonical">
 
 </head>
@@ -52,15 +99,155 @@
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWZPFP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-KWZPFP');</script>
 <!-- End Google Tag Manager -->
 
-<header id="header-main">
+<div class="snap-drawers hide" id="snap-drawers-container">
+<div class="snap-drawer snap-drawer-left" id="left-drawer">
+<div class="nav-mobile">
+<h6 class="nav-mobile-title member-name logged-in"></h6>
+<ul class="nav-mobile-pills">
+<li class="logged-in">
+<a href="/account#deliverySchedule" id="nav_schedule">Delivery Schedule</a>
+</li>
+<li class="logged-in">
+<a href="/account#invites" id="nav_invites">Free Meals
+<span class="notification-big">
+<span class="notification">
+<span></span>
+</span>
+</span>
+</a></li>
+<li class="logged-out">
+<a href="/pages/sample-recipes" id="nav_on_the_menu">On The Menu</a>
+</li>
+<li class="logged-out">
+<a href="/pages/pricing" id="nav_pricing">Pricing</a>
+</li>
+<li><a href="/wine" id="nav_wine_mobile">Wine</a></li>
+<li>
+<a href="/market" id="nav_shop">Market</a>
+</li>
+<li class="user-canceled">
+<a href="/account#reactivate" id="nav_reactivate">Reactivate Account</a>
+</li>
+<li class="user-canceled">
+<a href="/account#announcements" id="nav_announcements">What's New</a>
+</li>
+<li class="logged-in">
+<a href="/account#setting" id="nav_setting">Account Settings</a>
+</li>
+<li class="logged-in">
+<a href="/account#deliveryHistory" id="nav_delivery_history">Delivery History</a>
+</li>
+<li class="logged-in">
+<a href="/account#recycle">How To Recycle</a>
+</li>
+<li class="sign-out-wrap logged-in">
+<a href="/users/sign_out" class="sign-out" data-method="delete" rel="nofollow">Log Out</a>
+</li>
+<li class="sign-in logged-out">
+<a href="/users/sign_in" class="portal-sign-in btn btn--full">Log In</a>
+</li>
+<li class="sign-up logged-out">
+<a href="/users/sign_up" class="btn btn--full btn--ghost" id="js-SignUpBtn">Sign Up</a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class="snap-drawer snap-drawer-right" id="right-drawer">
+<div class="marketplace-cart" id="js-MarketCart">
+<div class="cart-contents-area">
+<div class="cart-title-hldr">
+<h2 class="cart-title">
+<span class="icon icon-basket"></span>
+<span class="title-text">
+Your Blue Apron Basket
+<span class="basket-num hide"></span>
+</span>
+</h2>
+</div>
+<div class="cart-product-area">
+<div class="cart-btn-hldr" id="js-TopCartBtn">
+<div class="cart-btn">
+<span class="js-CloseCart continue-btn">
+<span class="arrow-icon"></span>
+Continue Browsing
+</span>
+</div>
+<div class="cart-btn js-CartCheckoutArea">
+<a href="/market/checkout" class="checkout-btn">Checkout</a>
+<span class="checkout-btn-disabled">Checkout</span>
+</div>
+</div>
+<div class="cart-items hldr" id="js-CartItemArea">
+Loading...
+</div>
+<div class="cart-btn-hldr">
+<div class="cart-btn">
+<span class="js-CloseCart continue-btn">
+<span class="arrow-icon"></span>
+Continue Browsing
+</span>
+</div>
+<div class="cart-btn js-CartCheckoutArea">
+<a href="/market/checkout" class="checkout-btn">Checkout</a>
+<span class="checkout-btn-disabled">Checkout</span>
+</div>
+</div>
+</div>
+<div class="cart-footer-hldr logged-out">
+<p class="sign-up">
+To manage your Blue Apron membership,
+<a href="/users/sign_in" target="_BLANK">Log in</a>
+or
+<a href="/users/sign_up" target="_BLANK">Sign up</a>
+here.
+</p>
+</div>
+</div>
+<div class="js-BackboneLoading backbone-loading">
+<span class="spinner-area">
+<span class="loader-txt">Updating Your Basket…</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+<div class="snap-content" id="body-wrap-container">
+<div class="js-CloseCart" id="cart-overlay"></div>
+<div id="body-wrap">
+<header class="ios-app-hide" id="header-main">
 <div class="container">
 <div class="pull-right small-hide" id="member-portal">
-<div class="welcome-bar logged-in">
+<div class="js-UserNav welcome-bar logged-in">
+<div class="member-name-hldr">
 <span class="member-name"></span>
-<a href="/users/sign_out" class="sign-out logged-in" data-method="delete" rel="nofollow">(Sign out)</a>
+<span class="user-nav-anchor">
+&nbsp;
+<span class="icon icon-caret"></span>
+<div class="user-nav-container hide" id="js-UserAccountNav">
+<div class="user-nav-box">
+<div class="arrow icon-dropdown-arrow"></div>
+<ul class="user-nav">
+<li class="nav-setting">
+<a href="/account#setting">Account Settings</a>
+</li>
+<li class="nav-deliveryHistory">
+<a href="/account#deliveryHistory">Delivery History</a>
+</li>
+<li class="nav-recycle">
+<a href="/account#recycle">How To Recycle</a>
+</li>
+<li class="nav-logout">
+<a href="/users/sign_out" class="sign-out" data-method="delete" rel="nofollow">Log Out</a>
+</li>
+</ul>
 </div>
-<a href="/account" class="my-acct logged-in hide js-AccountLink" id="my_account_nav_link">My Account</a>
-<span class="notification logged-in hide">
+</div>
+</span>
+</div>
+</div>
+<span class="notification" style="display:none;">
 <span></span>
 </span>
 <div class="sign-in logged-out">
@@ -72,19 +259,41 @@
 <div class="pull-left" id="logo">
 <a href="/"><img alt="Blue Apron" src="//media.blueapron.com/assets/logo/blue-apron-logo@2x-e88a5d59616ee9d85447839a90b8f9b0.png">
 </a></div>
-<button class="btn btn-navbar mobile-only" data-target=".nav-collapse" data-toggle="collapse" type="button">
-Menu
+<button class="js-sideNavOpenLeft mobile-only" id="nav-hamburger">
+<span class="ham1"></span>
+<span class="ham2"></span>
+<span class="ham3"></span>
 </button>
+<div class="mobile-only basket-area">
+<div class="js-BasketView basket-hldr">
+<span class="basket-ico"></span>
+<span class="basket-num">
+&nbsp;
+</span>
+</div>
+</div>
 <div class="nav-collapse collapse">
 <nav id="main-nav">
 <ul class="nav nav-pills header-nav">
-<li><a href="/pages/learn-more" id="nav_learn_more">Learn More</a></li>
-<li><a href="/pages/sample-recipes" id="nav_on_the_menu">On The Menu</a></li>
-<li class="logged-out"><a href="/pages/pricing" id="nav_pricing">Pricing</a></li>
-<li>
-<a href="/market" id="nav_shop">Market
-<span class="new-pill logged-in">New</span>
+<li class="logged-in"><a href="/account#deliverySchedule" id="nav_schedule">Delivery Schedule</a></li>
+<li class="logged-in">
+<a href="/account#invites" id="nav_invites">Free Meals
+<span class="notification-big">
+<span class="notification">
+<span></span>
+</span>
+</span>
 </a></li>
+<li class="logged-out"><a href="/pages/sample-recipes" id="nav_on_the_menu">On The Menu</a></li>
+<li class="logged-out"><a href="/pages/pricing" id="nav_pricing">Pricing</a></li>
+<li><a href="/wine" id="nav_wine">Wine</a></li>
+<li><a href="/market" id="nav_shop">Market</a></li>
+<li class="js-BasketView basket-hldr desktop-basket">
+<span class="basket-ico"></span>
+<span class="basket-num">
+&nbsp;
+</span>
+</li>
 
 </ul>
 <div class="mobile-portal mobile-only">
@@ -92,16 +301,16 @@ Menu
 <span class="notification logged-in hide">
 <span></span>
 </span>
-<a href="/users/sign_in" class="mobile-sign-in logged-out">Log in</a>
+<a href="/users/sign_in" class="mobile-sign-in logged-out">Log In</a>
 <a href="/users/sign_up" class="mobile-sign-in logged-out">Sign Up</a>
-<a href="/users/sign_out" class="mobile-sign-out logged-in" data-method="delete" rel="nofollow">Sign out</a>
+<a href="/users/sign_out" class="mobile-sign-out logged-in" data-method="delete" rel="nofollow">Log Out</a>
 </div>
 </nav>
 </div>
 
 </div>
 </header>
-<div id="header-spacer"></div>
+<div class="ios-app-hide" id="header-spacer"></div>
 
 <div id="head-promo">
 <div class="container">
@@ -118,8 +327,17 @@ Menu
 ×
 </div>
 </div>
+<script>
+  //<![CDATA[
+    $(document).ready(function() {
+      if(!$.cookie("mobile_view") && MobileEsp.DetectIphoneOrIpod()) {
+        Blueapron.Branchio.iosBanner();
+      }
+    });
+  //]]>
+</script>
 
-<div id="main" role="main">
+<div class="pages_show_default-main" id="main" role="main">
 
 <section class="row-fluid basic-page" id="">
 <div class="bg-img"></div>
@@ -128,84 +346,147 @@ Menu
 <div class="page-info-in">
 <section>
 <h1>
-Privacy
+Privacy Policy
 </h1>
-<p align="center">
-	<strong>Effective as of March 8th, 2013</strong></p>
-<p>
-	We at Blue Apron, Inc. (“<u>Blue Apron</u>,” “<u>we</u>,” “<u>us</u>,” or “<u>our</u>”) have created this privacy policy (this “<u>Privacy Policy</u>”) because we know that you care about how information you provide to us is used and shared.&nbsp; This Privacy Policy relates to the information collection and use practices of Blue Apron in connection with our online services (the “<u>Services</u>”), which are made available to you through a variety of platforms, including our website http://www.blueapron.com (the “<u>Website</u>”) and mobile application (collectively, the “<u>Platform</u>”).&nbsp;</p>
-<p>
-	By visiting our Website, accessing the Platform, and/or using our Services, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.&nbsp; Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.</p>
-<p>
-	<strong>The Information We Collect</strong></p>
-<p>
-	1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Personal Information</u></p>
-<p>
-	When you sign up to become a Subscriber, order a gift subscription, enter a contest, promotion, or sweepstakes, or sign up to receive our recipes, you will be required to provide us with personal information about yourself (collectively, the “<u>Personal Information</u>”).&nbsp; Such Personal Information for Subscribers may include your name, e-mail address, mailing address, and phone number.&nbsp; We do not collect any Personal Information from you when you use the Services unless you provide us with the Personal Information voluntarily. &nbsp;&nbsp;&nbsp;</p>
-<p>
-	2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Billing Information</u></p>
-<p>
-	When you sign up to become a Subscriber or order a gift subscription, you will be required to provide certain information in addition to the Personal Information noted above.&nbsp; Such information may include a debit card number, credit card number, and similar information (collectively, the “<u>Billing Information</u>”).&nbsp; All transactions are processed by our third-party payment vendors.&nbsp; We do not collect, store, or maintain any Billing Information.&nbsp; Instead, it is collected and processed through these third-party vendors pursuant to the terms and conditions of their privacy policies and terms of use.&nbsp;</p>
-<p>
-	3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Other Information</u></p>
-<p>
-	In addition to the Personal Information and the Billing Information noted above that you voluntarily provide to us, we may collect additional information (collectively, the “<u>Other Information</u>”).&nbsp; Such Other Information may include:</p>
-<p>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>From Your Activity</u>.&nbsp; Information that we automatically collect when you use the Services, such as your IP addresses, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website you visit, order information, and similar information concerning your use of the Services. &nbsp;</p>
-<p>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>From Cookies</u>.&nbsp; Information that we collect using “cookie” technology.&nbsp; Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit.&nbsp; We use cookies to help us collect Other Information and to enhance your experience using the Services.&nbsp; If you do not want the Platform to place a cookie on your hard drive or mobile device, you may be able to turn that feature off on your computer or mobile device.&nbsp; Please consult your Internet browser’s documentation for information on how to do this.&nbsp; However, if you decide not to accept cookies from us, the Services may not function properly.</p>
-<p>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>From You</u>.&nbsp; Additional information about yourself that you voluntarily provide to us, such as your hobbies, personal interests, household income range, number of children, gender, demographic information, and product and service preferences. &nbsp;&nbsp;</p>
-<p>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>From Other Sources</u>.&nbsp; Information that we collect or receive from other sources.</p>
-<p>
-	<strong>The Information Collected by or Through Third-Party Advertising Companies</strong></p>
-<p>
-	We may share Other Information about your activity on the Platform with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Platform and elsewhere.&nbsp; These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes.&nbsp; Pixel tags enable us, and these third-party advertisers, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site.</p>
-<p>
-	<strong>Accessing and Modifying Personal Information and Communication Preferences</strong></p>
-<p>
-	If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by following the instructions found on the Platform.&nbsp; In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Blue Apron marketing email.&nbsp; Subscribers cannot opt out of receiving transactional e-mails related to their account.&nbsp; We will use commercially reasonable efforts to process such requests in a timely manner.&nbsp; You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.</p>
-<p>
-	<strong>How We Use and Share the Information&nbsp;</strong></p>
-<p>
-	We use the Personal Information, the Billing Information, and the Other Information to process transactions; provide you the Services; solicit your feedback; inform you about our products, services, upcoming events, recipes, and special promotions and those of our third-party marketing partners; administer and process contests, promotions, and sweepstakes; and improve our Services to you.&nbsp; Also, we may share Personal Information, the Billing Information, and/or Other Information as described below.</p>
-<p style="margin-left:.5in;">
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We employ other companies and individuals to perform functions on our behalf.&nbsp; Examples include food services, delivery services, marketing assistance, information technology support, and customer service. &nbsp;These other companies will have access to the Personal Information, the Billing Information, and the Other Information only as necessary to perform their functions and to the extent permitted by law.</p>
-<p style="margin-left:.5in;">
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In order to administer our contests, promotions, and sweepstakes, we may share your Personal Information and Other Information with our third-party promotional and marketing partners.</p>
-<p style="margin-left:.5in;">
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In an ongoing effort to better understand our users and our Services, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Services. &nbsp;This aggregate information does not identify you personally. &nbsp;We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and Services to current and prospective business partners and to other third parties for other lawful purposes.</p>
-<ul>
-	<li>
-		As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, or similar event, the Personal Information, the Billing Information, and the Other Information may be part of the transferred assets.</li>
-	<li>
-		To the extent permitted by law, we may also disclose Personal Information, the Billing Information, and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the such Information is necessary or advisable, for example, to protect the rights, property, or safety of Blue Apron or others.&nbsp;</li>
-</ul>
-<p>
-	<strong>How We Protect Your Information</strong></p>
-<p>
-	We take commercially reasonable steps to protect the Personal Information, the Billing Information, and the Other Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. &nbsp;Please understand, however, that no security system is impenetrable. &nbsp;We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Platform may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.&nbsp;</p>
-<p>
-	<strong>Important Notice to Non-U.S. Residents</strong></p>
-<p>
-	The Platform and the Services are operated in the United States.&nbsp; If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.&nbsp; By using the Services and/or providing us with any information, you consent to this transfer.&nbsp;</p>
-<p>
-	<strong>Children</strong></p>
-<p>
-	We do not knowingly collect Personal Information from children under the age of 13 through the Services. &nbsp;If you are under 13, please do not give us any Personal Information. &nbsp;We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Services without their permission. &nbsp;If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.</p>
-<p>
-	<strong>External Websites</strong></p>
-<p>
-	The Platform may contain links to third-party websites.&nbsp; Blue Apron has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links.&nbsp; As such, we are not responsible for the content or the privacy policies of those third-party websites.&nbsp; You should check the applicable third-party privacy policy and terms of use when visiting any other websites.</p>
-<p>
-	<strong>Changes to This Privacy Policy</strong></p>
-<p>
-	This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.&nbsp; We may change this Privacy Policy from time to time, and will post any changes on the Platform as soon as they go into effect.&nbsp; By accessing the Platform or using the Services after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes.&nbsp; Please refer back to this Privacy Policy on a regular basis.</p>
-<p>
-	<strong>How to Contact Us</strong></p>
-<p>
-	If you have questions about this Privacy Policy, please e-mail us at <a href="mailto:contact@blueapron.com?subject=Privacy%20policy">contact@blueapron.com</a>.&nbsp;</p>
+<p><strong><em>Last Updated: July 13, 2015</em></strong></p>
+
+<p>This Privacy Policy describes how information about you is collected, used and disclosed by Blue Apron, Inc. and our subsidiaries and other affiliates (collectively, “<u>Blue Apron</u>,” “<u>we</u>,” “<u>us</u>” or “<u>our</u>”) when you access or use the websites, mobile applications or blogs provided by us (collectively, the “<u>Sites</u>”) or otherwise interact with us.</p>
+
+<p>Blue Apron reserves the right to change or modify this Privacy Policy at any time and in our sole discretion. If we make changes to this Privacy Policy, we will provide notice of such changes, such as by sending an email notification, providing notice through the Sites or updating the “Last Updated” date at the beginning of this Privacy Policy. We encourage you to review this Privacy Policy whenever you use or access the Sites or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.</p>
+
+<p><em><strong>Collection of Information</strong></em></p>
+
+<p><strong>Information You Provide to Us</strong></p>
+
+<p>We collect information you provide directly to us. For example, we collect information when you register for a Blue Apron account, sign up for a subscription, participate in any interactive features of the Sites, subscribe to a newsletter or email list, participate in a survey, contest, promotion or event, order or purchase (either for yourself or for another person) meal ingredients or other products made available through the Sites (collectively, the “<u>Products</u>”), apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us.</p>
+
+<p>The types of information we may collect from you include:</p>
+
+<p style="margin-left: 40px;">(a)<strong> Account Information</strong>, such as your name, email address, password, postal address, phone number, subscription, delivery and dietary preferences and any other information you choose to provide;</p>
+
+<p style="margin-left: 40px;">(b)<strong> Transaction Information</strong>, such as information about the Products you purchase, shipping and delivery information and information related to returns, refunds and cancellations. We may also collect and store limited payment information from you, such as payment card type and expiration date and the last four digits of your payment card number; however, we do not collect or store full payment card numbers and all transactions are processed by our third party payment processor.</p>
+
+<p style="margin-left: 40px;">(c)<strong> Information About Others</strong>, such as the names and email addresses of gift recipients when you purchase gifts through the Sites or invite friends or family to try the Sites or Products.</p>
+
+<p style="margin-left: 40px;">(d)<strong> Other Information You Choose to Provide</strong>, such as when you participate in a survey, contest, promotion or interactive area of the Sites or when you request technical or customer support.</p>
+
+<p><strong>Information We Collect Automatically</strong></p>
+
+<p>When you access or use the Sites, the types of information we may automatically collect about you include:</p>
+
+<p style="margin-left: 40px;">(a)<strong> Log Information</strong>: When you visit the Sites, our servers automatically record certain log file information, such as your Internet Protocol (“<u>IP</u>”) address, operating system, browser type and language, referring URLs, access times, pages viewed, links clicked and other information about your activities on the Sites.</p>
+
+<p style="margin-left: 40px;">(b)<strong> Mobile Device Information</strong>: We collect information about the mobile device you use to access or use the Sites, including the hardware model, operating system and version, unique device identifiers, mobile network information and information about your use of our mobile applications. With your consent, we may also collect information about the location of your device and access and collect information from certain native applications on your device (such as your device’s camera, photo album and phonebook applications) to facilitate your use of certain features of the Sites. For more information about how you can control the collection of location information and/or our access to other applications on your device, please see “Your Choices” below.</p>
+
+<p style="margin-left: 40px;">(c)<strong> Information Collected by Cookies and Other Tracking Technologies</strong>: We and our service providers use various tracking technologies, including cookies and web beacons, to collect information about you when you interact with our Sites, including information about your browsing and purchasing behavior. Cookies are small data files stored on your hard drive or in device memory that help us improve the Sites and your experience, see which areas and features of the Sites are popular, and count visits. Web beacons are electronic images that may be used in the Sites or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see “Your Choices” below.</p>
+
+<p><strong>Information We Collect From Other Sources</strong></p>
+
+<p>We may also obtain information about you from other sources and combine that with information we collect directly. For example, we may collect information about you when you post content to our pages or feeds on third party social media sites, or if you use credentials (e.g., username and password) from a third party site to create or log into your Blue Apron account.</p>
+
+<p><em><strong>Use of Information</strong></em></p>
+
+<p>We may use information about you for various purposes, including to:</p>
+
+<p style="margin-left: 40px;">(a) Provide, maintain and improve the Sites and Products;</p>
+
+<p style="margin-left: 40px;">(b) Manage your account and send you related information, including confirmations, updates, technical notices, security alerts and support and administrative messages;</p>
+
+<p style="margin-left: 40px;">(c) Respond to your comments, questions and requests and provide customer service;</p>
+
+<p style="margin-left: 40px;">(d) Communicate with you about the Sites, Products, recipes, services, offers, surveys, events and other news and information we think may be of interest to you;</p>
+
+<p style="margin-left: 40px;">(e) Monitor and analyze trends, usage and activities in connection with the Sites;</p>
+
+<p style="margin-left: 40px;">(f) Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Blue Apron and others;</p>
+
+<p style="margin-left: 40px;">(g) Personalize and improve the Sites and provide advertisements, content and features that match your profile or interests;</p>
+
+<p style="margin-left: 40px;">(h) Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;</p>
+
+<p style="margin-left: 40px;">(i)&nbsp;Link or combine with information we get from others to help understand your needs and provide you with a better experience; and</p>
+
+<p style="margin-left: 40px;">(j) Carry out any other purpose for which the information was collected.</p>
+
+<p>Blue Apron is based in the United States, and the information we collect is governed by U.S. law. By accessing or using the Sites or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.</p>
+
+<p><em><strong>Sharing of Information</strong></em></p>
+
+<p>We may share information about you as follows or as otherwise described in this Privacy Policy:</p>
+
+<p style="margin-left: 40px;">(a) With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;</p>
+
+<p style="margin-left: 40px;">(b) We may make our postal address list available to certain third parties we believe may offer products or services of interest to you;</p>
+
+<p style="margin-left: 40px;">(c) When you participate in the interactive areas of the Sites or interact with us on third party social media sites, certain information that you provide may be displayed publicly, such as your name, photos and other information you choose to provide;</p>
+
+<p style="margin-left: 40px;">(d) In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process;</p>
+
+<p style="margin-left: 40px;">(e) If we believe your actions are inconsistent with our <a href="https://www.blueapron.com/pages/terms">Terms of Use</a> or other policies, or to protect the rights, property or safety of Blue Apron or others;</p>
+
+<p style="margin-left: 40px;">(f) In connection with, or during negotiations of, any merger, acquisition, sale of assets or any business, other change of control transaction or financing;</p>
+
+<p style="margin-left: 40px;">(g) Between and among Blue Apron and any current or future parent, subsidiary and/or affiliated company; and</p>
+
+<p style="margin-left: 40px;">(h) With your consent or at your direction.</p>
+
+<p>We also may share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
+
+<p><em><strong>Social Sharing Features</strong></em></p>
+
+<p>The Sites may offer social sharing features and other integrated tools, such as the Facebook, Twitter and Pinterest buttons (e.g., “Like,” “Tweet” and “Pin It”), which let you share actions you take on the Sites with other media. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
+
+<p><em><strong>Advertising and Analytics Services Provided by Others</strong></em></p>
+
+<p><strong>Interest-Based Ads</strong></p>
+
+<p>We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Sites and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>.</p>
+
+<p><strong>Customized Ad Campaigns</strong></p>
+
+<p>We may also work with third party social media sites, such as Facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way. For more information about how you can opt out of customized campaigns, please see “Your Choices” below.</p>
+
+<p><em><strong>Security</strong></em></p>
+
+<p>Blue Apron takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to or from us over the Internet. In particular, email sent to or from the Sites may not be secure, and you should therefore take special care in deciding what information you send to us via email.</p>
+
+<p><em><strong>Your Choices</strong></em></p>
+
+<p><strong>Account Information</strong></p>
+
+<p>You may update, correct or modify information about you at any time by logging into your online account or by emailing us at <a href="mailto:contact@blueapron.com">contact@blueapron.com</a>. If you wish to deactivate your account, please email us at <a href="mailto:contact@blueapron.com">contact@blueapron.com</a>, but note we may continue to store information about you as required by law or for legitimate business purposes.</p>
+
+<p><strong>Location Information</strong></p>
+
+<p>With your consent, we may collect information about your actual location when you use our mobile applications. You may stop the collection of this information at any time by changing the settings on your mobile device, but note that some features of our mobile applications may no longer function if you do so.</p>
+
+<p><strong>Native Applications on Mobile Device</strong></p>
+
+<p>Some features of our mobile applications may require access to certain native applications on your mobile device, such as the camera and photo storage applications (e.g., to take and upload photos) and the phonebook application (e.g., to send invitations to your contacts to try the Sites or Products). If you decide to use these features, we will ask you for your consent prior to accessing the applications and collecting information. Note that you can revoke your consent at any time by changing the settings on your device.</p>
+
+<p><strong>Cookies</strong></p>
+
+<p>Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Sites.</p>
+
+<p><strong>Customized Campaigns</strong></p>
+
+<p>You may opt out of receiving our ads as part of a customized campaign conducted on third party social media sites, such as Facebook, by emailing us at <a href="mailto:customizedads@blueapron.com">customizedads@blueapron.com</a>.</p>
+
+<p><strong>Promotional Communications</strong></p>
+
+<p>You may opt out of receiving promotional communications from us by following the instructions in those communications or by emailing us at <a href="mailto:contact@blueapron.com">contact@blueapron.com</a>. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.</p>
+
+<p><strong>Push Notifications</strong></p>
+
+<p>With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device or within our mobile applications.</p>
+
+<p><strong>Your California Privacy Rights</strong></p>
+
+<p>California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident, you may request this information once per calendar year by writing to us at Blue Apron, Inc., Attn: General Counsel, 5 Crosby St., New York, NY 10013.</p>
+
+<p><em><strong>Contact Us</strong></em></p>
+
+<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@blueapron.com">privacy@blueapron.com</a>.</p>
 
 </section>
 </div>
@@ -216,28 +497,43 @@ Privacy
 </section>
 
 
+</div>
+<div class="ios-app-hide" id="body-push"></div>
+</div>
 <div class="info-modal-contents hide" id="js-NewsletterModal" tabindex="-1">
 <div class="modal-inner newsletter-inner">
 <div class="modal-contents-hldr newsletter-content">
 <div class="recipe-img-wrap">
-<img alt="Introducing our Market" class="main-slide-img" src="//media.blueapron.com/assets/new-design/newsletter-popup-80bf50bd473ff83f8234db664580c96a.jpg">
+<img alt="Introducing our Market" class="main-content main-slide-img img-flex" src="//media.blueapron.com/assets/new-design/newsletter-popup-80bf50bd473ff83f8234db664580c96a.jpg">
+<img alt="Recipe cards" class="recipe-pdf-content main-slide-img img-flex hide" src="//media.blueapron.com/assets/new-design/learn-more/LEARNMORE-recipe-card-82ec28c2b397e36f6526c6788de9444e.png">
 </div>
 <div class="newsletter-form-hldr">
 <div class="newsletter-form-area">
 <h3 class="newsletter-title">
-Free recipes from Blue Apron!
+<span class="main-content">Free recipes from Blue Apron!</span>
+<span class="recipe-pdf-content hide">Join Blue Apron to receive a free PDF of this recipe.</span>
+<span class="recipe-pdf-content-complete hide">Thanks for subscribing!</span>
 </h3>
 <h5 class="newsletter-subtitle">
 Get our latest recipes &amp; cooking tips sent to your inbox every week.
 </h5>
-<form accept-charset="UTF-8" action="/newsletter/subscribe" class="simple_form new_newsletter_subscriber" id="recipe_newsletter_modal_form" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="wIz2REQZ6i6URD/vJ2QW2Hw6fSmohZtP4okxcuTImqY="></div><div class="control-group hidden"><div class="controls"><input class="hidden" id="newsletter_subscriber_source" name="newsletter_subscriber[source]" type="hidden" value="Modal"></div></div>
+<form accept-charset="UTF-8" action="/newsletter/subscribe" class="simple_form new_newsletter_subscriber" id="recipe_newsletter_modal_form" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="lFAzxjA4ZUXZFDgtXGRSFqXCKazVCaCi3R5aWYgM5tI="></div><div class="control-group hidden"><div class="controls"><input class="hidden" id="newsletter_subscriber_source" name="newsletter_subscriber[source]" type="hidden" value="Modal"></div></div>
 <label class="newsletter-subscriber-label" for="newsletter-subscriber">Enter your email address</label>
 <div class="input-wrap control-group">
 <input class="newsletter-subscriber" data-validate="{required: true, email: true, messages: {email: 'Invalid email'}}" name="newsletter_subscriber[email]" type="text">
 <button class="newsletter-subscriber-btn" type="submit">Join</button>
 </div>
+<p class="arl-blurb">
+By clicking Join, you agree to our
+<a href="/pages/terms" target="_blank">Terms of Use</a>
+and consent to our
+<a href="/pages/privacy" target="_blank">Privacy Policy.</a>
+</p>
 </form>
 
+<p class="recipe-pdf-content-complete recipe-pdf-holder hide">
+<a href="" target="_blank">Click here</a> to download a PDF of this recipe.
+</p>
 </div>
 </div>
 </div>
@@ -245,45 +541,121 @@ Get our latest recipes &amp; cooking tips sent to your inbox every week.
 </div>
 <script>
   //<![CDATA[
-    $(document).ready(function() {
-      var userAttributes = $.cookie('user_attributes');
-      if ((typeof userAttributes == 'undefined') || (userAttributes == null)) {
-        $('#recipe_newsletter_modal_form').validate({});
-        var params = location.search.replace('?', '').split('&');
-        if (_.contains(params, 'modal=true')) {
-          setTimeout(
-            function(){
-              $.fancybox( $("#js-NewsletterModal").html(), {
-                openEffect: 'elastic',
-                closeEffect: 'elastic',
-                wrapCSS: 'newsletter-modal',
-                padding: 0,
-                closeBtn: true,
-                margin: 10,
-                afterShow: function() {
-                  $('.new_newsletter_subscriber',".newsletter-modal").validate({});
-                  $(".modal-inner",".newsletter-modal").animate({"opacity":1},150);
-                },
-                beforeClose: function() {
-                  $(".modal-inner",".newsletter-modal").animate({"opacity":0},100);
-                }
-              });
-            },
-            100
-          );
-          var isModalSeen = $.cookie('recipe_newsletter_modal_seen');
-          if ((typeof isModalSeen == 'undefined') || (isModalSeen == null)) {
-            var cookie_defaults = {expires: 365, path: '/'};
-            $.cookie('recipe_newsletter_modal_seen', true, cookie_defaults);
-          }
+    window.NewsletterModal = {
+      defaults: {
+        openEffect: 'elastic',
+        closeEffect: 'elastic',
+        wrapCSS: 'newsletter-modal',
+        padding: 0,
+        closeBtn: true,
+        margin: 0,
+        afterShow: function() {
+          $('.new_newsletter_subscriber','.newsletter-modal').validate({});
+          $('.modal-inner','.newsletter-modal').animate({'opacity':1},150);
+        },
+        beforeClose: function() {
+          $('.modal-inner','.newsletter-modal').animate({'opacity':1},150);
         }
+      },
+      setSeenCookie: function() {
+        $.cookie('recipe_newsletter_modal_seen', true, {
+          expires: 365,
+          path:    '/'
+        });
+      },
+      setPdfSeenCookie: function() {
+        $.cookie('recipe_pdf_newsletter_modal_seen', true, {
+          expires: 365,
+          path:    '/'
+        });
+    
+        Blueapron.Analytics.trackEvent({
+          category: 'Recipe PDF Newsletter',
+          action:   'PDF Newsletter Modal Shown'
+        });
+      },
+      enableRecipePdf: function(modal) {
+        modal.find('.main-content').hide();
+        modal.find('.recipe-pdf-content').show();
+        modal.find('#newsletter_subscriber_source').val('Recipe PDF Modal')
+    
+        modal.find('form').on('submit', function(event) {
+          event.preventDefault();
+    
+          var form = $(event.currentTarget);
+    
+          if(!form.valid()) { return false; }
+    
+          var data = _.reduce(form.serializeArray(), function(data, i) {
+            data[i.name] = i.value;
+            return data;
+          }, {});
+    
+          var email = data['newsletter_subscriber[email]'];
+    
+          var done = function() {
+            var pdfUrl = $('.pdf-download-link').attr('href');
+            $('.recipe-pdf-holder a').attr('href', pdfUrl);
+    
+            $('.newsletter-title span').hide();
+            $('.recipe-pdf-content-complete').show();
+            $('.newsletter-form-area form').hide();
+            $('.newsletter-subtitle').hide();
+    
+            Blueapron.Analytics.trackEvent({
+              category: 'Recipe PDF Newsletter',
+              action:   'PDF Newsletter Subscribed',
+              note:     email
+            });
+    
+            $.cookie('newsletter_subscriber', true, { path: '/', expires: 365 });
+          };
+    
+          $.post('/newsletter/subscribe', data).done(done);
+    
+          return false;
+        });
+      },
+      show: function(opts) {
+        var modal = $('#js-NewsletterModal');
+    
+        setTimeout(function() {
+          var options = _.extend(window.NewsletterModal.defaults, opts);
+    
+          if(opts.recipePdf) {
+            options.beforeShow = function() {
+              window.NewsletterModal.enableRecipePdf(this.inner);
+            };
+    
+            window.NewsletterModal.setPdfSeenCookie();
+          } else {
+            window.NewsletterModal.setSeenCookie();
+          }
+    
+          $.fancybox(modal.html(), options);
+        }, 100);
+      }
+    };
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    $(function() {
+      var userAttributes = $.cookie('user_attributes');
+      if(userAttributes) {
+        return false;
+      }
+    
+      if(Blueapron.Utilities.getURLParameter('modal') == true) {
+        window.NewsletterModal.show();
       }
     });
   //]]>
 </script>
 
-<footer class="footer">
-<div class="container clearfix">
+<footer class="footer ios-app-hide">
+<div class="container" id="footer-content">
 <div class="row-fluid">
 <ul class="press-footer-logos">
 <li>
@@ -319,7 +691,7 @@ Follow Us
 Get free recipes
 </h3>
 <div class="footer-newsletter-form-hldr">
-<form accept-charset="UTF-8" action="/newsletter/subscribe" class="csrf-ajax" id="recipe_newsletter_footer_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="0CgCXGHXezbjWFu+TK8Hmwz73lRZ/vFlkzyoJFv1AoI="></div>
+<form accept-charset="UTF-8" action="/newsletter/subscribe" class="csrf-ajax" id="recipe_newsletter_footer_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="JS015yDqovzUbyEzYiIFRliw1IvBaz2/xFSR++Ggdcs="></div>
 <input id="newsletter_subscriber_source" name="newsletter_subscriber[source]" type="hidden" value="Footer newsletter form">
 <input id="newsletter_subscriber_receive_meat_fish" name="newsletter_subscriber[receive_meat_fish]" type="hidden" value="1">
 <input class="required email" data-validate="{required: true, email: true, messages: {email: 'Invalid email'}}" id="newsletter_subscriber_email" name="newsletter_subscriber[email]" placeholder="Email Address" type="text">
@@ -350,9 +722,9 @@ Get free recipes
 <a href="http://blog.blueapron.com">From the Blog</a>
 </h3>
 <div class="head clearfix">
-<a href="http://blog.blueapron.com/homemade-mango-fruit-roll-ups/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=homemade-mango-fruit-roll-ups" class="blog-preview-img"><img alt="3mango-roll-up-final-75x92" src="//dz6lfdxqpu2f9.cloudfront.net/wp-content/uploads/2015/03/3Mango-Roll-Up-Final-75x92.jpg">
+<a href="http://blog.blueapron.com/how-to-mince-garlic-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-mince-garlic-2" class="blog-preview-img"><img alt="Screen-shot-2015-12-21-at-5.17.44-pm-75x58" src="//dz6lfdxqpu2f9.cloudfront.net/wp-content/uploads/2015/12/Screen-Shot-2015-12-21-at-5.17.44-PM-75x58.png">
 </a><h4 class="blog-preview-text">
-<a href="http://blog.blueapron.com/homemade-mango-fruit-roll-ups/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=homemade-mango-fruit-roll-ups">Homemade Mango Fruit Roll-Ups</a>
+<a href="http://blog.blueapron.com/how-to-mince-garlic-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-mince-garlic-2">How-To: Mince Garlic</a>
 </h4>
 </div>
 </div>
@@ -374,9 +746,9 @@ Get free recipes
 <li><a href="/cookbook">Cookbook</a></li>
 <li><a href="/pages/meet-our-recent-partners">Suppliers</a></li>
 <li><a href="/gifts">Gifts</a></li>
-<li><a href="/pages/jobs">Jobs</a></li>
+<li><a href="/pages/our-team">Careers</a></li>
 <li><a href="/pages/press">Press</a></li>
-<li><a href="/pages/team">Team</a></li>
+<li><a href="/pages/our-team">Our Team</a></li>
 </ul>
 <div class="span4 col-md-4 col-xs-12 copy footer-copy">
 © Blue Apron, Inc. 2015
@@ -389,7 +761,8 @@ Get free recipes
 </footer>
 
 </div>
-<script src="//media.blueapron.com/assets/footer-d118e680f97c9ac49ba5317f3d625433.js" type="text/javascript"></script>
+<script src="//media.blueapron.com/assets/footer-d54c9d548c2fe7a0139a98b43ca45007.js" type="text/javascript"></script>
+<script src="//media.blueapron.com/assets/marketplace/cart-76bb56f23ba515a0fd60708116883811.js" type="text/javascript"></script>
 <script>
   //<![CDATA[
     var userLogged = $.cookie('user_attributes') ? true : false;
@@ -428,7 +801,7 @@ Get free recipes
     save_variation_not_logged = function(variation_id) {
       // If user is not logged in save variations the user participated in a cookie
       var variations = $.cookie('site_test_participated') ? $.cookie('site_test_participated').split(',') : [];
-      if(variations.indexOf(variation_id) == '-1') {
+      if(_.indexOf(variations,variation_id) == '-1') {
         variations.push(variation_id);
         $.cookie('site_test_participated', variations.join(), { path: '/' });
       }
@@ -441,7 +814,7 @@ Get free recipes
       var session_experiments = [];
       if (session_experiments.length > 0 && experiments.length > 0) {
         for(var i=0; i < session_experiments.length; i++) {
-          var index = experiments.indexOf(session_experiments[i]);
+          var index = _.indexOf(experiments,session_experiments[i]);
           experiments.splice(index, 1);
         }
       }
@@ -485,43 +858,45 @@ Get free recipes
 
 <script>
   //<![CDATA[
-    $(document).ready(function(){
-      /*
-       * Third party Facebook
-       */
+    /*
+     * Third party Facebook
+     */
     
-      // Facbook Like
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId      : '268433919926057',
-          version    : 'v2.0',
-          channelUrl : '//www.blueapron.com/channel.html', // Channel File
-          status     : true, // check login status
-          cookie     : true, // enable cookies to allow the server to access the session
-          xfbml      : true  // parse XFBML
-        });
+    // Facbook Like
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '268433919926057',
+        version    : 'v2.0',
+        channelUrl : '//www.blueapron.com/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
     
-        // Additional initialization code here
-        FB.Event.subscribe('edge.create', function(response) {
-          if(response.indexOf("projects") > 0) {
-            share_click_action(true, 'project-fb-widget-like');
-          }
-        });
+      // Additional initialization code here
+      FB.Event.subscribe('edge.create', function(response) {
+        if(_.indexOf(response,"projects") > 0) {
+          share_click_action(true, 'project-fb-widget-like');
+        }
+      });
     
-        FB.Event.subscribe('message.send', function(response) {
-          share_click_action(false, 'project-fb-widget-message');
-        });
-      };
+      FB.Event.subscribe('message.send', function(response) {
+        share_click_action(false, 'project-fb-widget-message');
+      });
+      // FB Auth status change callback
+      FB.Event.subscribe('auth.statusChange', window.fbAuthChange);
+      // FB object is ready
+      FB.Event.subscribe('xfbml.render', window.fbEnsureInit);
+    };
     
-      // Load the Facebook SDK Asynchronously
-      (function(d){
-         var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement('script'); js.id = id; js.async = true;
-         js.src = "//connect.facebook.com/en_US/sdk.js";
-         ref.parentNode.insertBefore(js, ref);
-       }(document));
-    });
+    // Load the Facebook SDK Asynchronously
+    (function(d){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.com/en_US/sdk.js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document));
   //]]>
 </script>
 
@@ -572,7 +947,8 @@ Get free recipes
   //]]>
 </script>
 
+<link href="//cloud.typography.com/7214432/782582/css/fonts.css" media="all" rel="stylesheet" type="text/css">
 
 
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+</body></html>
