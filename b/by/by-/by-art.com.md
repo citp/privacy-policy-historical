@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the by-art.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627012117id_/http%3A//www.by-art.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the by-art.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227053842id_/http%3A//www.by-art.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ If you decide to register one of our screen savers, you will need to contact one
 
 Advertisers.
 
-We use Google to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used, [click here](http://www.google.com/privacy_ads.html). 
+We use Google to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used, [click here](http://www.google.com/policies/privacy/partners/). 
 
 If you click on an advertised link, you will leave our site. Please check the corresponding privacy policy at advertised pages.
 
