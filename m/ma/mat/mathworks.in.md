@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202902id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227043518id_/http%3A//www.mathworks.com/company/aboutus/policies_statements/%3Fs_tid%3Dgf_priv) for the most accurate reproduction.*
 
 # Policies and Statements
 
@@ -26,7 +26,7 @@ MathWorks has further committed to refer unresolved privacy complaints under the
 
 ### 2\. How we use and collect your information
 
-We will not sell or rent your personal contact information to other companies. We will not disclose your personal contact information to other companies, except in the limited manner and for the limited purposes described below. The MathWorks Web site has several forms and additional collection methods that request contact, payment, and other information. Providing such information is optional, but you may be unable to complete certain transactions, obtain certain services, or access certain features of the MathWorks Web site or software without providing the requested information.
+We will not sell or rent your personal contact information to other companies. We will not disclose your personal contact information to other companies, except in the limited manner and for the limited purposes described below. The MathWorks Web site has several forms and additional collection methods that request contact, payment, and other information . Providing such information is optional, but you may be unable to complete certain transactions, obtain certain services, or access certain features of the MathWorks Web site or software without providing the requested information.
 
 Through Web forms and other online collection methods, we may ask you to provide some of the following information: 
 
@@ -93,18 +93,17 @@ We allow third-party companies, including a third-party social bookmarking servi
 
 ### 4\. How to remove or update your information
 
-MathWorks sends many types of e-mail and postal mail including printed and electronic newsletters (MathWorks News & Notes and MATLAB® Digest), and event announcements. You may choose not to receive these types of correspondence. 
+MathWorks sends many types of e-mail including electronic newsletters (MathWorks News & Notes and MATLAB® Digest), and event announcements. You may choose not to receive these types of correspondence. 
 
-You can remove your name from e-mail or postal mail lists: 
+You can remove your name from e-mail lists: 
 
-  * [Postal mailing list removal form](https://web.archive.org/company/aboutus/policies_statements/removalform.html)
   * [E-mail list removal form](https://go2.mathworks.com/preference-center)
 
 
 
 Note: If you are a licensed customer, you will continue to receive operational correspondence, such as e-mail notification of new releases and maintenance renewal notifications. 
 
-**Correct/update your contact information:** MathWorks is committed to keeping your information as accurate as possible, in order to provide the best service to you. If you have a [MathWorks Account](https://web.archive.org/accesslogin/), you may make the necessary changes to your information online. If you do not have an account, please contact us via e-mail at [service@mathworks.com](mailto:service@mathworks.com) or phone at 508-647-7000.
+**Correct/update your contact information:** MathWorks is committed to keeping your information as accurate as possible, in order to provide the best service to you. If you have a [MathWorks Account](https://web.archive.org/accesslogin/) , you may make the necessary changes to your information online. If you do not have an account, please contact us via e-mail at [service@mathworks.com](mailto:service@mathworks.com) or phone at 508-647-7000.
 
 ### 5\. How your information submitted to MATLAB® Central may be used
 
@@ -124,6 +123,6 @@ We may keep your information for as long as your account is active or as needed 
 
 MathWorks may make improvements or changes in the information, services, products, and other materials on the MathWorks Web site at any time without notice. MathWorks may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy. Notification of material changes to this Privacy Policy will be provided by noting a new "updated" date in connection with the Privacy Policy link that appears at the bottom of each page. 
 
-_If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please[contact us](https://web.archive.org/company/feedback/)._
+_If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please[contact us](https://web.archive.org/company/feedback/) ._
 
-Updated December 12, 2014
+Updated June 6, 2015
