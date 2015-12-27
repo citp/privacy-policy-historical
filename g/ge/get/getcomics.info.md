@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628215452id_/http%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227214925id_/http%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GetComics –
 
