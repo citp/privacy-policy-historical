@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425130007id_/http%3A//jadootv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227214123id_/http%3A//jadootv.com/privacy-policy) for the most accurate reproduction.*
 
 # Jadoo TV Privacy Policy | South Asian TV Channels Live
 
@@ -54,6 +54,10 @@ If you register to use our bulletin boards, please remember that anything you po
 
 During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL (“Secure Sockets Layer”), and other security technology. This guards against the interception of the information while it is on the Internet. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, and only our employees and agents with a need to know the information are given access. However, there is no such thing as “perfect security” on the Internet. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Third parties may unlawfully access transmissions or private communications. Please contact us if you have any information regarding unauthorized use of the Sites.
 
+### Social Network Advertising and Facebook.com Website Custom Audience Ads (WCA)
+
+The JadooTV and Facebook Web Custom Audience is a specific Interest-Based Ads program that matches people that have shown interest in JadooTV through our website with their Facebook user profile so that we may deliver relevant, interest-based ads on Facebook.com. To find out more about Facebook ads programs, please click [here](https://www.facebook.com/about/ads). You can opt-out of this program and all Interest-based advertising by sending an email to JadooTV Inc. at [privacy@jadootv.com](mailto:privacy@jadootv.com).
+
 ### Questions
 
-If you have questions about this Privacy Statement or our policies, please contact JadooTV Inc. at privacy@jadootv.com
+If you have questions about this Privacy Statement or our policies, please contact JadooTV Inc. at [privacy@jadootv.com](mailto:privacy@jadootv.com).
