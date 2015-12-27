@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesswolf.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032838id_/http%3A//businesswolf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesswolf.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227074805id_/http%3A//businesswolf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Business Wolf
 
