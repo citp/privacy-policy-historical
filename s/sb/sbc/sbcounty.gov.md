@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145451id_/https%3A//www.sbcounty.gov/main/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227060937id_/https%3A//www.sbcounty.gov/main/policy.asp) for the most accurate reproduction.*
 
 # County of San Bernardino, California - Official Web Site
 
