@@ -1,70 +1,75 @@
-> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620235512id_/http%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227153508id_/http%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which FREEYORK collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://freeyork.org website (“Site”). This privacy policy applies to the Site and all products and services offered by FREEYORK.
 
-We collect information from you when you register on our site.
+#### Personal identification information
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site fill out a form Subscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address,
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Users may, however, visit our Site anonymously.
 
-**What do we use your information for?**
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Any of the information we collect from you may be used in one of the following ways:
+#### Non-personal identification information
 
-To personalize your experience;
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-(your information helps us to better respond to your individual needs)
+#### Web browser cookies
 
-To improve our website;
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+#### How we use collected information
 
-To improve customer service;
+FREEYORK collects and uses Users personal information for the following purposes:
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To administer a content, promotion, survey or other Site feature_  
+To send Users information, they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-To process transactions;
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-To send periodic emails;
+#### How we protect your information
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**How do we protect your information?**
+#### Sharing your personal information
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-**Do we use cookies?**
+#### Third party websites
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites that have a link to our Site, is subject to that website\’s own terms and policies.
 
-We use cookies to understand and save your preferences for future visits.
+#### Advertising
 
-**Do we disclose any information to outside parties?**
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile nonpersonal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+#### Google Adsense
 
-**Terms and Conditions**
+Some of the ads may be served by Google. Google\’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non-personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at<http://www.google.com/privacy_ads.html>
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.freeyork.org
+#### Changes to this privacy policy
 
-**Your Consent**
+FREEYORK has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page, send you an email. We encourage Users to check frequently this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-By using our site, you consent to our privacy policy.
+#### Your acceptance of these terms
 
-**Contacting Us**
+By using this Site, you signify your acceptance of this policy and [terms of service](http://freeyork.org/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+#### Contacting us
 
-[www.freeyork.org](http://www.freeyork.org/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-str. Balonowa 41  
-Wroclaw, Poland
+FREEYORK
 
-[freeyork.org@gmail.com](https://web.archive.org/web/20150620235512id_/http://freeyork.org/privacy-policy/freeyork.org@gmail.com)
+http://freeyork.org
 
-This policy is powered by Trust Guard PCI compliance scans.
+support@freeyork.org
