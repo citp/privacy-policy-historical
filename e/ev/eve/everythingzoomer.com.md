@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingzoomer.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628232225id_/http%3A//www.everythingzoomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingzoomer.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227200117id_/http%3A//www.everythingzoomer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everything Zoomer
 
@@ -125,5 +125,3 @@ _Last Updated May 14, 2012._
   1. ZoomerMedia will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about ZoomerMedia privacy policies and procedures, any requests for access to records of your personal information and any other privacy related concerns or complaints to privacy@zoomermedia.ca.  If you contact ZoomerMedia by telephone, please note that telephone calls may be recorded for training or quality assurance purposes.
 
 
-
-[](http://www.everythingzoomer.com/category/featured/marketplace/)
