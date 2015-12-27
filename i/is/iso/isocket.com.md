@@ -1,90 +1,70 @@
-> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407074144id_/https%3A//www.isocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isocket.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034045id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
 
-# iSocket
+# Rubicon Project Privacy Dashboard and Opt-Out - Rubicon Project
 
-iSocket values your privacy. We make every reasonable effort to protect and respect your personal and sensitive information.
+Last Updated: October 21, 2015
 
-This document will describe how we handle information on the iSocket website. This Privacy Policy applies to iSocket.com and other related websites where this policy appears in the footer of the page.
+Our Privacy Dashboard is designed to assist you in understanding how we collect and use information about you and your device so that you can make informed decisions when using our website and interacting with our products and services.
 
-By agreeing to the Terms of Service and/or using this site, you expressly consent to our collection, storage, use and disclosure of the information as described in this Privacy Policy. 
+Only 22% of Internet Users regularly review privacy policies for the sites they visit. That is why this Dashboard does not look like other privacy policies you may have seen. Unlike the average privacy policy which is approximately 2,500 words, the Rubicon Project offers this simple summary.
 
-### Information Collected
+Like any summary, however, the Privacy Dashboard is not an exhaustive description of our privacy practices and should not be construed to define or limit the scope or extent of our Privacy Policies which can be found at the locations identified below.
 
-When you request information through our website and/or become a customer and sign up for an account, we may ask you for, and retain, the following information:
+**Rubicon Project Privacy Policy and Opt-Out**
 
-  * name
-  * email address
-  * address and phone number
-  * financial information, such as credit card or bank account numbers
-  * correspondence through our sites (either to other clients or to us)
+To read the full privacy policy governing:
 
-
-
-We also may collect other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to/from the sites, ad data, IP address and standard web log information, such as your browser type, operating system and the pages you accessed on our website.
-
-In addition, there are times when the iSocket team needs to verify your identity. We may ask you to provide additional information we can use to verify your identity, address, organization, billing and/or invoicing information. 
-
-We may also obtain information about you from third parties such as credit bureaus and identity verification services.
-
-### Use of Cookies
-
-A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. When you access iSocket.com, we, or third party companies we use to better understand how our website is used, may send one or more cookies to your computer that uniquely identifies your browser. We use these cookies sent to browser to recognize you and if you visit multiple pages on our site during the same session so we don't need to keep asking you for your password on every page. Once you log out or close your browser, this cookie will expire and will no longer interact with iSocket.com.
-
-We may also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account. Cookies are optional and most browsers allow you to block cookies from certain sites. However, by blocking cookies from iSocket.com, certain features and functions will not be able to be used.
-
-### Use of Information
-
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
-
-  * process transactions and send notices about your transactions
-  * resolve disputes, collect fees, and troubleshoot problems
-  * prevent potentially prohibited or illegal activities
-  * customize, measure, and improve our services and the content and layout of our website
-  * send you targeted marketing, service update notices, and promotional offers based on your communication preferences
-  * verify accuracy with third parties
+  * how we collect and use data on this corporate website, [click here](http://www.rubiconproject.com/privacy-policy).
+  * how we collect and use data through our advertising technology, [click here](http://www.rubiconproject.com/rubicon-project-yield-optimization-privacy-policy).
 
 
 
-### Sharing Information
+**Rubicon Project Opt-Out**
 
-To provide you our services, we may need to share some of your personal information with the entity that you are involved in a transaction with. If necessary to facilitate the transaction, we may share your contact information, number of transactions you have completed, and certain other information you have provided.
+To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/) and [here](http://buyercloud.rubiconproject.com/privacy/opt-out/).
 
-Disclosure of Personal Information
+**Data We Collect**
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+Rubicon Project collects personal information about its users that they voluntarily provide via email or via registration for certain services or newsletters.
 
-    
+Rubicon Project also collects information about you and your device in order to provide you with more relevant advertising. Some of this information, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere, but this data does not contain any “real world” identifiers such as your name, address, or contact details. When we collect this information through our advertising technology, we use it to help our customers deliver online advertising to you.
 
- **Vendors and other Service Providers:** We may use third party service providers for network, security, email, and hosting services. Suppliers and service providers are required by contract to keep confidential the information received on our behalf, and may not use it for any purpose other than to carry out the services they are performing for us.
+**How We Use The Information We Collect**
 
-    
+Rubicon Project uses the information that we collect to provide you with services that you have requested, and to enable our customers to deliver advertisements that we or they believe will be of most interest to you, as well as to prepare aggregate reports that summarize activity and performance.
 
- **Disclosure Required By Law:** Under certain circumstances personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. Also when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request or to any other third party with your prior consent to do so. If we are ever legally compelled to disclose your personal information to a third party, we will notify you with the contact information we have unless doing so would violate the law or a court order.
+**Data Sharing**
 
+Rubicon Project may share data with third parties for a variety of reasons, including our third-party advertiser customers, so that they can deliver targeted advertisements to you.
 
-Disclosure of Non-personal information
+**Changes**
 
-We may share with third parties or service providers non-personally identifiable information about your use of our website, which could include demographics, interests, and other online habits.
+We may change our privacy policies from time to time in order to reflect changes to our practices or for other operational, legal, or regulatory reasons. When we do, we will give you notice of any material changes by posting the revised privacy policy on this website and, where appropriate, by other means.
 
+**U.S.-E.U. Safe Harbor**
 
+We are a participant in the U.S.-E.U. Safe Harbor framework, and in this regard, may transfer certain personal information about you (either as a visitor to our website, or as a recipient of an advertisement delivered using our advertising technology) from the E.U. to the U.S. in compliance with the Safe Harbor Privacy Principles. For more information about the U.S.-E.U. Safe Harbor, please visit <http://export.gov/safeharbor/>. To see our certification, please click here: <https://safeharbor.export.gov/companyinfo.aspx?id=28228>. We additionally protect the information we transfer from the E.U. to the U.S. through inter-company agreements between our various entities.
 
+In accordance with the Safe Harbor Privacy Principles, we have designated JAMS, Inc. as our independent recourse mechanism to mediate any disputes or compliance regarding our compliance with the Safe Harbor. Such mediation will be governed by the JAMS International Mediation Rules. To submit a complaint to JAMS for mediation, please visit <http://www.jamsadr.com/file-safe-harbor-claim/>.
 
-### Children's Privacy
+**Contact**
 
-We do not knowingly collect personal information about children. Our systems are not designed for use by children under the age of 13. If we learn we have collected or obtained personal information of someone under 13, we will delete that information from our database. If you believe that this has occurred, please contact us at support@iSocket.com and put Privacy in the subject line.
+For more information, if you have questions, or if you would like to make a complaint, please contact Rubicon Project by email at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com), or by post using the details provided below:
 
-### Security
+**Residents outside of the European Economic Area**
 
-We take the security of our data and customer information seriously. We always take what we believe are reasonable precautions to protect against unauthorized access to our systems and to prevent data from being disclosed to unauthorized parties. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee absolute security.
+The Rubicon Project, Inc.  
+Attn: Privacy Officer  
+12181 Bluff Creek Drive, 4th Floor  
+Playa Vista, CA 90094
 
-### Access to your information
+**European Economic Area (EEA) residents**
 
-If you have an account, you can review your personal information logging in. If you'd like us to update, correct, or delete any information that you have provided to us on this website, please send your request to us at [support@iSocket](mailto:support@iSocket.com) and we will process your request within a reasonable period of time after receipt.
+The Rubicon Project Ltd.  
+Attn: Privacy Officer  
+2nd Level  
+25 Procter Street  
+London, WC1V 6NY  
+United Kingdom
 
-### Changes to this Policy
-
-This Privacy Policy was last updated on March 15, 2014. We will provide notice for 30 days whenever this Privacy Policy is changed in a material way, presenting the old and new content. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-### Contact
-
-If you have questions or concerns regarding this policy, you can contact us by email at [support@iSocket](mailto:support@iSocket.com), or by writing to us at iSocket c/o Privacy, 2 Shaw Alley, 2nd Floor, San Francisco, CA 94105.
+**Important note:**  The data controller of EEA residents’ personal information is The Rubicon Project Ltd at the above address. The Rubicon Project Ltd is registered with the UK Information Commissioner’s Office (registration no. ZA118130).
