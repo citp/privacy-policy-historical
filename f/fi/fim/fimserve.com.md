@@ -1,50 +1,70 @@
-> *The following text is extracted and transformed from the fimserve.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629091108id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fimserve.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034045id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Rubicon Project Privacy Dashboard and Opt-Out - Rubicon Project
 
-Last Updated: September 19, 2013
+Last Updated: October 21, 2015
 
-Our Privacy Dashboard is designed to assist you in understanding how we collect and use information you provide to us and to assist you in making informed decisions when using our website and our products and services.
+Our Privacy Dashboard is designed to assist you in understanding how we collect and use information about you and your device so that you can make informed decisions when using our website and interacting with our products and services.
 
 Only 22% of Internet Users regularly review privacy policies for the sites they visit. That is why this Dashboard does not look like other privacy policies you may have seen. Unlike the average privacy policy which is approximately 2,500 words, the Rubicon Project offers this simple summary.
 
 Like any summary, however, the Privacy Dashboard is not an exhaustive description of our privacy practices and should not be construed to define or limit the scope or extent of our Privacy Policies which can be found at the locations identified below.
 
-**Rubicon Project Privacy Policy and Opt-Out  
-**
+**Rubicon Project Privacy Policy and Opt-Out**
 
 To read the full privacy policy governing:
 
-  * how we collect and use data on our corporate website, [click here](http://www.rubiconproject.com/privacy-policy "Privacy Policy – Corporate Website").
-  * how we collect and use data, including for purposes of OBA, through our desktop ad platform, [click here](http://www.rubiconproject.com/rubicon-project-yield-optimization-privacy-policy "Rubicon Project Yield Optimization Privacy Policy").
+  * how we collect and use data on this corporate website, [click here](http://www.rubiconproject.com/privacy-policy).
+  * how we collect and use data through our advertising technology, [click here](http://www.rubiconproject.com/rubicon-project-yield-optimization-privacy-policy).
 
 
 
-******Rubicon Project Opt-Out**  
-To manage your consumer online profile with us and opt-out of anonymous affinity profiling, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/).
+**Rubicon Project Opt-Out**
 
-**Data We Collect**  
-Rubicon Project does not collect personally identifiable information (“PII”) except where users voluntarily provide such information via email or via registration for certain services or newsletters. If you are a Rubicon customer and want information about how we collect and use data about you, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/ "Consumer Online Profile and Opt-out").
+To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/) and [here](http://buyercloud.rubiconproject.com/privacy/opt-out/).
 
-Rubicon does collect non-personally identifiable information (“non-PII”) such as your IP address, domain names, referring website addresses, and some online Web browsing activity to deliver more relevant advertising.
+**Data We Collect**
 
-**How We Use Data**  
-Rubicon uses any non-PII collected to enable our platforms or partners to deliver targeted advertisements that we or they believe will be of most interest to you and to prepare aggregate reports that summarize activity and performance.
+Rubicon Project collects personal information about its users that they voluntarily provide via email or via registration for certain services or newsletters.
 
-**Data Sharing**  
-Rubicon does not share, rent, sell, or disseminate non-PII to third parties but does use this visitor information to enable our platforms or partners to deliver targeted advertisements that we or they believe will be of most interest to you.
+Rubicon Project also collects information about you and your device in order to provide you with more relevant advertising. Some of this information, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere, but this data does not contain any “real world” identifiers such as your name, address, or contact details. When we collect this information through our advertising technology, we use it to help our customers deliver online advertising to you.
 
-**Changes**  
-We may change our Privacy Policies at any time by posting the revised Privacy Policy on the website and if such changes are material, a notice of the changes will also be posted along with the revised Privacy Policy.
+**How We Use The Information We Collect**
 
-**Contact**  
-For more information, or if you have questions, please contact the Rubicon Project at our corporate headquarters at:
+Rubicon Project uses the information that we collect to provide you with services that you have requested, and to enable our customers to deliver advertisements that we or they believe will be of most interest to you, as well as to prepare aggregate reports that summarize activity and performance.
 
-Rubicon Project  
+**Data Sharing**
+
+Rubicon Project may share data with third parties for a variety of reasons, including our third-party advertiser customers, so that they can deliver targeted advertisements to you.
+
+**Changes**
+
+We may change our privacy policies from time to time in order to reflect changes to our practices or for other operational, legal, or regulatory reasons. When we do, we will give you notice of any material changes by posting the revised privacy policy on this website and, where appropriate, by other means.
+
+**U.S.-E.U. Safe Harbor**
+
+We are a participant in the U.S.-E.U. Safe Harbor framework, and in this regard, may transfer certain personal information about you (either as a visitor to our website, or as a recipient of an advertisement delivered using our advertising technology) from the E.U. to the U.S. in compliance with the Safe Harbor Privacy Principles. For more information about the U.S.-E.U. Safe Harbor, please visit <http://export.gov/safeharbor/>. To see our certification, please click here: <https://safeharbor.export.gov/companyinfo.aspx?id=28228>. We additionally protect the information we transfer from the E.U. to the U.S. through inter-company agreements between our various entities.
+
+In accordance with the Safe Harbor Privacy Principles, we have designated JAMS, Inc. as our independent recourse mechanism to mediate any disputes or compliance regarding our compliance with the Safe Harbor. Such mediation will be governed by the JAMS International Mediation Rules. To submit a complaint to JAMS for mediation, please visit <http://www.jamsadr.com/file-safe-harbor-claim/>.
+
+**Contact**
+
+For more information, if you have questions, or if you would like to make a complaint, please contact Rubicon Project by email at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com), or by post using the details provided below:
+
+**Residents outside of the European Economic Area**
+
+The Rubicon Project, Inc.  
 Attn: Privacy Officer  
 12181 Bluff Creek Drive, 4th Floor  
 Playa Vista, CA 90094
 
-Phone: 310.207.0272
+**European Economic Area (EEA) residents**
 
-Contact us by e-mail at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com).
+The Rubicon Project Ltd.  
+Attn: Privacy Officer  
+2nd Level  
+25 Procter Street  
+London, WC1V 6NY  
+United Kingdom
+
+**Important note:**  The data controller of EEA residents’ personal information is The Rubicon Project Ltd at the above address. The Rubicon Project Ltd is registered with the UK Information Commissioner’s Office (registration no. ZA118130).
