@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevenus.net privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424230940id_/http%3A//thevenus.net/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevenus.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227040620id_/http%3A//thevenus.net/confidentiality) for the most accurate reproduction.*
 
 # Privacy Policy
 
