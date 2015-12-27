@@ -1,39 +1,99 @@
-> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023020853id_/http%3A//www.care.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227055635id_/http%3A//www.care.org/privacy-policy) for the most accurate reproduction.*
 
-# CARE Privacy Statement
+# Privacy Policy & Terms and Conditions | CARE
 
-**Credit Card Security**
+**Updated: October 1, 2015**
 
-CARE is grateful for the donations that help us continue our valuable work. It is very important to us that your personal information remain secure. When you donate to CARE online, your credit card information is secured by a reputable security company (PayPal, formerly known as Verisign). Also, your credit card number is used only for that particular transaction and is not stored. You will see the "closed" lock symbol in the lower part of your browser screen (often times it is yellow as well) when you are on our secure donation pages. You will also notice in your web site address bar that the domain name starts with an "https" on those donation pages. This means that information entered on those pages is encrypted for your security. This actually makes it more secure than using a credit card in physical form at a store for example. If you have any questions regarding the security of your credit card donation online, [please e-mail us](https://web.archive.org/feedback), or call **1-800-422-7385** for more information.
+We at CARE are grateful to all of our supporters including donors who help us do our work.  We believe that transparency with our supporters enhances the quality of our programs, accountability, and the trust placed in us. As such, we would like to share how we collect and use your personal information and how we intend to respect your privacy preferences.
 
-**Cookie Useage**
+**By accessing our website and/or submitting your personal information to us, you are agreeing that: (1) you will abide by the practice described in this Policy, and (2) CARE may use the information in accordance with this Policy. Further, if you reside outside the United States, you understand and agree that your personal information may be processed in countries (including the United States) where laws regarding processing of personal information may be less stringent than the laws in your country.**
 
-CARE uses cookies to facilitate authentication and personalization across our web systems. A cookie is a small amount of data that is sent to your Web browser from a Web server and stored on your computer's hard drive. CARE uses only anonymous information (such as IP address) to track how our online visitors use our website. This data is sometimes stored using cookies.
+## INFORMATION WE COLLECT AND WHY
 
-In addition, we occasionally use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our site and services. They may also use information about your transactions and visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag and cookies, which are industry standard technologies used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.akamai.com/html/policies/privacy_statement.html#policy_opt_out).
+The information we may collect includes information you provide us directly, as well as information provided by third parties or automatically through your use of our website. This information enables us to improve our work, communicate with you about our programs, respond to your inquiries and provide support, fulfill your requests and donations, and for other donor service purposes. We also use information to improve our understanding of your interests and better tailor the content and information that we may send or display to you, such as newsletters or other information we think may interest you.
 
-**Email Addresses**
+Information We Collect Directly From You. Personal information collected may include your name, postal address, telephone number(s), email address(s), or other information. We also request that you provide us with additional personal information, such as credit card information, on our online donation pages to properly enable donation transaction processing.
 
-We ask for your e-mail address on a number of pages within our site, but you may opt out of e-mail communications at any time by un-checking the box beneath where you entered in your e-mail address, by clicking the unsubscribe link that is included at the bottom of every e-mail communication from CARE, by selecting "No" when presented with whether or not you would like to receive email from CARE, or by [logging in and editing to your Personal Profile](http://my.care.org/profile) at any time and unchecking the box that indicates you would like to receive email located there. You may also call us at any time at 1-800-422-7385, or [e-mail us](https://web.archive.org/feedback), to be removed from our email distribution list.
+Information We Collect Automatically. We may automatically collect the following information about your use of our website through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time and number of times you visit our site and or use our services; and the referring URL, or the webpage that led you to our site, and the following: access time, browser type, device ID, domain name, IP address, page views, pages visited and referring URL.  We may combine this information with other information that we have collected about you, including, where applicable, your user name, name, and other personal information  For more information, please review “[Cookies and Other Tracking Mechanisms](http://www.care.org/privacy-policy/cookies)” for more information.
 
-**Other Personal Information**
+Information that We May Collect About You from Social Networking Sites. If you log into our Site using a social media service, you may be required to enter the email address, username, and/or password associated with that social media service. By logging in through a service, you could be granting us access to certain information hosted by the service, such as account information (this includes your name, profile picture, gender, networks, user IDs, list of friends, date of birth, contact information, email address, and any other information you have set to public on your account) and information posted on your feed or timeline. You will receive notification of and have the ability to consent to the specific information that would be shared through the sign-in process. We store the information that we receive from social media services with other information that we collect from you or receive about you.
 
-You are not required to provide any personal information on our Web site unless you choose to do so. We do ask for personal information on our online donation pages to properly enable donation transaction processing. We use this information to acknowledge receipt of your donation for tax purposes and to help prevent fraudulent donations. If you give a gift to CARE your name and address will be placed on our physical mailing list for occasional (quarterly) mail updates. If you do not wish to receive physical mail from CARE you may call us at any time at 1-800-422-7385, or [e-mail us](https://web.archive.org/feedback), to be removed. If you are making a donation in honor of or in memory of someone, we will not use their personal information for any purpose other than sending the acknowledgement card.
+## CARE’S INFORMATION SECURITY MEASURES
 
-We make postal addresses and telephone numbers available to other reputable nonprofit and commercial organizations. If you do not want us to share this information you may call us at any time at 1-800-422-7385, or [e-mail us](https://web.archive.org/feedback), to have your name removed. CARE does not share your e-mail address with any third parties unless explicitly mentioned at the time of e-mail opt-in.
+When you donate to CARE online, your credit card information is secured by an independent security company. Also, your credit card number is used only for that particular transaction and is not stored. You will see the "closed" lock symbol in the lower part of your browser screen (often times it is yellow as well) when you are on our secure donation pages. You will also notice in your web site(s) address bar that the domain name starts with an "https" on those donation pages. This means that information entered on those pages is encrypted for your security. This actually makes it more secure than using a credit card in physical form at a store for example. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. 
 
-**Opt Out**
+If you have any questions regarding the security of your credit card donation online, [please email us](http://www.care.org/feedback) at [info@care.org](mailto:info@care.org) or call 1-800-422-7385 for more information.
 
-CARE's site gives you the opportunity to opt out of receiving additional information from us. If you do not want to receive additional information, please uncheck the boxes, or select "No," at the point at which we request that information.
+## HOW PERSONAL INFORMATION IS SHARED
 
-In some cases, our website uses JavaScript to store and record your preferences. So we can ensure that we are capturing your communications preferences correctly, please enable JavaScript when visiting CARE's site. [Click here](http://www.care.org/help/javascript.asp) for directions on how to enable JavaScript on your web browser.
+We may share your information, including personal information, as follows:
 
-This site has links to other Web sites whose privacy policies may differ from ours. CARE is not responsible for the privacy practices or the content of these other Web sites.
+#### Social Media Users:
 
-Your privacy is very important to us. We rely on the good will and generosity of our supporters and want to make sure that your experience with CARE is as positive as possible. We do want to keep you abreast of the ongoing fight against poverty, but not at the expense of any personal information concerns. If you have concerns about your privacy with CARE, [please contact us here](https://web.archive.org/feedback) or call **1-800-422-7385**.
+We invite you to post content on our social media services, including your comments, pictures, and any other information that you would like to be available. If you post your own content, your posting may become public, and we cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy.  We have no control over how any social media service uses or discloses the personal information it collects about you. For information about how they may use and disclose your information, including any information you make public, please consult their respective privacy policies.
 
-As a CARE Online Community member, you can manage your personal communication preferences from CARE at any time by [logging into your Personal Profile page here](http://my.care.org/profile). If you are not a CARE Online Community member, [click here to join now](http://my.care.org/join)! 
+#### Third-Party Websites:
 
-**Federal and State Compliance**
+Our website and social media posts may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices or content of these other websites.
 
-**[Click here for Federal and State compliance notices](https://web.archive.org/about/legal_disclaimer.asp) ******
+#### Other Users:
+
+Your user name and any information that you post to our website or social media services, including, without limitation, reviews, comments, and text will be available to, and searchable by, all users of the site or service.
+
+#### Affiliates:
+
+We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
+
+#### Service Providers:
+
+We may disclose the information we collect from you to third party vendors, service providers, contractors, or agents who perform functions on our behalf.
+
+#### Other Organizations: 
+
+CARE may rent or exchange names, postal addresses, and telephone numbers to other organizations.  If you do not want us to share your personal information with third parties who may use such information for their own independent purposes, you may call us at 1-800-422-7385, or email us at [info@care.org](mailto:info@care.org). 
+
+#### Business Transfers:
+
+If we establish a new related entity, are acquired by or merged with another organization, or if substantially all of our assets are transferred to another organization, we may transfer the information we have collected from you to the other organization.
+
+#### In Response to Legal Process:
+
+We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
+
+#### To Protect Us and Others:
+
+We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which we are involved.
+
+#### Aggregate and De-Identified Information:
+
+We may share aggregate or de-identified information about users with third parties for marketing, advertising, research, or similar purposes.
+
+## YOU MAY ALWAYS CHANGE YOUR PREFERENCES BY CONTACTING US
+
+#### Email Opt-Out Procedures:
+
+We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any services you have requested or received from us.
+
+#### Update Profile Information:
+
+CARE may offer the ability for you to modify personal information that you have submitted by logging into your account and updating your profile information. In such case, please note that copies of information that you have updated, modified, or deleted may remain viewable in cached and archived pages of the Site for a period of time.
+
+#### Mailing List:
+
+If you give a gift to CARE your name and address will be placed on our physical mailing list for mail updates. If you do not wish to receive physical mail from CARE you may call us at any time at 1-800-422-7385, or [email us](http://www.care.org/feedback) at [info@care.org](mailto:info@care.org), to be removed. 
+
+#### Questions or Complaints:
+
+Finally, if you have questions about the privacy aspects of our services or would like to make a complaint, please contact us at 1-800-422-7385 or email us at [info@care.org](mailto:info@care.org).
+
+## CHILDREN UNDER 13
+
+Our services are not designed for children under 13. If we are made aware that a child under 13 has provided us with personal information, we will delete such information from our systems.
+
+## SPECIAL INFORMATION FOR CALIFORNIA RESIDENTS
+
+California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at 1-800-422-7385 or email us at [info@care.org](mailto:info@care.org).  Please allow up to thirty (30) days for a response.
+
+## CHANGES TO THIS POLICY
+
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [**_www.care.org/privacy-policy_**](http://www.care.org/privacy-policy) ** _.   _** If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
