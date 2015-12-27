@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looxy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408112011id_/http%3A//looxy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looxy.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227140351id_/http%3A//looxy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Dating | Looxy.com
 
@@ -12,11 +12,11 @@ If you have any questions about our privacy practices, please, contact us.
 
 ## 1\. LEGAL
 
-Our Policy applies to your use of the Looxy website at www.looxy.com (“Looxy” or the “site” which includes the mobile apps). We suggest you read it in conjunction with our Terms and Conditions of Use (the “Terms”). When you access or use Looxy, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
+Our Policy applies to your use of the Looxy/GetMeChat website at www.looxy.com, http://getmechat.com/ (“Looxy/GetMeChat ” or the “site” which includes the mobile apps). We suggest you read it in conjunction with our Terms and Conditions of Use (the “Terms”). When you access or use Looxy/GetMeChat , you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
 
 This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with Panama laws. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
 
-Looxy reserves the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information.
+Looxy/GetMeChat reserves the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information.
 
 IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS OR USE THE SITE.
 
@@ -24,7 +24,7 @@ IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS 
 
 We own and/or operate a number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Partner Sites.
 
-Looxy.com is operated by ZDates S.A., a company registered at Ricardo J. Alfaro Avenue, Century Tower Building, 905 office, Panama, Republic of Panama.
+Looxy.com/GetMeChat.com is operated by ZDates S.A., a company registered at Ricardo J. Alfaro Avenue, Century Tower Building, 905 office, Panama, Republic of Panama.
 
 ### 2.1. OUR COMPANY
 
@@ -96,7 +96,7 @@ Some features of the Services allow you to share your user experience with peopl
 
 ### 4.7. Information we collect when you activate premium account
 
-When you take advantage of Looxy’s premium features, we collect financial information necessary to process your payments as per your chosen payment method. Please note that we do not store any credit card or other payment card details. However, our payment service providers do (and are approved to do so by all applicable regulatory bodies).
+When you take advantage of Looxy’s//GetMeChat's premium features, we collect financial information necessary to process your payments as per your chosen payment method. Please note that we do not store any credit card or other payment card details. However, our payment service providers do (and are approved to do so by all applicable regulatory bodies).
 
 ## 5\. HOW WE USE YOUR INFORMATION
 
