@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneyworks.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509123901id_/http%3A//www.themoneyworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneyworks.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227092115id_/http%3A//www.themoneyworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheMoneyWorks
 
