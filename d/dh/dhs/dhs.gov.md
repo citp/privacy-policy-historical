@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110745id_/http%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228000146id_/http%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Homeland Security
 
@@ -28,7 +28,7 @@ The notice must address the following criteria:
 
 For the general contact information that may be submitted through [www.dhs.gov](http://www.dhs.gov/), we have completed a Privacy Impact Assessment (PIA) and System of Records Notice (SORN) providing details about the privacy protections and redress options available for the contact information we collect from the public. This information may be used to distribute information to you and to perform various administrative tasks.  For further information, please reference the privacy compliance documentation below:
 
-  * DHS/ALL/PIA-006 [Department of Homeland Security General Contact Lists](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_lists_20111215.pdf) Privacy Impact Assessment (June 15, 2007)
+  * DHS/ALL/PIA-006 [Department of Homeland Security General Contact Lists](https://web.archive.org/publication/general-contact-lists) Privacy Impact Assessment (June 15, 2007)
   * DHS/ALL-002 [Department of Homeland Security (DHS) Mailing and Other Lists](http://edocket.access.gpo.gov/2008/E8-28053.htm) System of Records Notice (November 25, 2008, 73 FR 71659)
 
 
@@ -82,14 +82,14 @@ There are two types of cookies, single session (temporary), and multi-session (p
 
 If you do not wish to have session or persistent cookies stored on your machine, you can [opt out or disable cookies](http://www.usa.gov/optout_instructions.shtml) in your browser. You will still have access to all information and resources at Department websites. However, turning off cookies may affect the functioning of some Department websites. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
 
-For additional information about the Department’s use of Google Analytics, please see our privacy impact assessment, DHS/ALL/PIA-033 [Google Analytics](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_ga.pdf) (June 9, 2011).
+For additional information about the Department’s use of Google Analytics, please see our privacy impact assessment, DHS/ALL/PIA-033 [Google Analytics](https://web.archive.org/publication/privacy-policy) (June 9, 2011).
 
 ### Third-Party Websites and Applications
 
 The Department uses social media websites and other kinds of third-party websites. The Department uses social media websites to engage in dialogue, share information and media, and collaborate with the public.  The Department may also use these websites to make information and services widely available, while promoting transparency and accountability, as a service for those seeking information about or services from the Department. The privacy policies for approved social media platforms are linked to the right of this privacy policy.  The Department has also published two Privacy Impact Assessments detailing the Department use of social media:
 
-  * DHS/ALL/PIA-031 [Use of Social Networking Interactions and Applications Communications/Outreach/Public Dialogue](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_socialnetworkinginteractions.pdf) (September 16, 2010)
-  * DHS/ALL/PIA-036 [Use of Unidirectional Social Media Applications](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhswide_unidirectionalsocialmedia.pdf) (March 8, 2011)
+  * DHS/ALL/PIA-031 [Use of Social Networking Interactions and Applications Communications/Outreach/Public Dialogue](https://web.archive.org/publication/privacy-policy) (September 16, 2010)
+  * DHS/ALL/PIA-036 [Use of Unidirectional Social Media Applications](https://web.archive.org/publication/privacy-policy) (March 8, 2011)
 
 
 
@@ -115,7 +115,7 @@ Our website contains links to international agencies, private organizations, and
 
 ### Privacy Policy Contact Information
 
-We welcome feedback if you have any questions regarding our privacy policy or the use of your information.  Any additional privacy questions should be directed to the [DHS Privacy Office](http://www.dhs.gov/privacy).  The Department’s privacy compliance materials are available at [Privacy Impact Assessments (PIA)](http://www.dhs.gov/files/publications/editorial_0511.shtm) and [Systems of Records Notices (SORN)](https://web.archive.org/system-records-notices-sorns).  For additional information about our Privacy Policy, or for general privacy inquiries, please contact us at [privacy@dhs.gov](mailto:privacy@dhs.gov), 202-343-1717 or mail us at:
+We welcome feedback if you have any questions regarding our privacy policy or the use of your information.  Any additional privacy questions should be directed to the [DHS Privacy Office](https://web.archive.org/privacy).  The Department’s privacy compliance materials are available at [Privacy Impact Assessments (PIA)](https://web.archive.org/privacy-impact-assessments) and [Systems of Records Notices (SORN)](https://web.archive.org/system-records-notices-sorns).  For additional information about our Privacy Policy, or for general privacy inquiries, please contact us at [privacy@dhs.gov](mailto:privacy@dhs.gov), 202-343-1717 or mail us at:
 
 Department of Homeland Security  
 Washington, D.C. 20528  
