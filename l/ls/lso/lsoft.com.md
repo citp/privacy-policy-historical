@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611073419id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227083551id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # L-Soft Privacy Policy
-
-* * *
 
 At L-Soft, we are committed to the protection of your privacy and personal data. As a subscriber of our email lists, visitor to our website, or customer of our products and services, you decide what information to give us. Any information that you provide will be held securely and in accordance with the legal regulations of data protection and electronic communication.
 
@@ -56,64 +54,17 @@ L-Soft welcomes your comments regarding these privacy statements. If you would l
 
 To reflect this feedback, we may occasionally amend this privacy policy; thus, we encourage you to periodically review this page for any updates on our commitment to protect your information and provide you with improved content on our website.
 
-### Legal Framework for Electronic Privacy
-
-Further information about email communication and data protection legislation:
-
-**1\. United States: CAN-SPAM Act of 2003**
-
-The CAN-SPAM Act took effect on January 1, 2004. The law, which supersedes and pre-empts provisions of many state laws, is essentially an opt-out law as opposed to the opt-in B2C component in the European Union.
-
-The CAN-SPAM Act:
-
-  * Bans false or misleading header information, including the "From" and routing information of the email message
-  * Prohibits deceptive subject lines that mislead the recipient about the contents of the email message
-  * Requires that email messages contain an opt-out mechanism and that these opt-out requests be honored
-  * Requires that commercial email be identified as an advertisement and include the sender's valid physical postal address
-
-
-
-**2\. European Union: Directive 2002/58/CE (Directive on Privacy and Electronic Communications)**
-
-The directive establishes an opt-in regime, which means that no direct marketing electronic mail can be legally sent to natural persons (B2C) without the express consent of the recipient, unless a pre-existing business or commercial relationship exists. Consent is, however, not mandated for marketing to legal entities (B2B).
-
-The Directive 2002/58/CE:
-
-  * Requires prior consent from the recipient before any email marketing messages can be sent to natural persons (B2C)
-  * Bans disguised or misleading sender information, including the "From" and routing information of the email message
-  * Requires that email messages contain an opt-out mechanism and that these opt-out requests be honored
-  * Requires that email messages contain a valid return address
-
-
-
-**3\. European Union: Further Information on EU Data Protection**
-
-Directive 95/46/CE of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data
-
-<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML>
-
-Directive 97/66/EC of the European Parliament and of the Council of 15 December 1997 concerning the processing of personal data and the protection of privacy in the telecommunications sector
-
-<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0066:EN:HTML>
-
-EU Directive 2006/24/CE of the European Parliament and of the Council of 15 March 2006 on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks, amending Directive 2002/58/CE
-
-<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0024:EN:HTML>
-
-First Council Directive 68/151/EEC of 9 March 1968 on co-ordination of safeguards which, for the protection of the interests of members and others, are required by Member States of companies within the meaning of the second paragraph of Article 58 of the Treaty, with a view to making such safeguards equivalent throughout the Community
-
-<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31968L0151:EN:HTML>
-
-Directive 2003/58/EC of the European Parliament and of the Council 15 July 2003 amending Council Directive 68/151/EEC, as regards disclosure requirements in respect of certain types of companies, which gives the public easier and faster access to information on companies
-
-<http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0058:EN:HTML>
-
   
   
 
 
 * * *
 
-[LISTSERV is a registered trademark](https://web.archive.org/corporate/legal.asp) licensed to L-Soft international, Inc.  
-All other trademarks, both marked and unmarked, are the property of their respective owners.  
+[LISTSERV is a registered trademark](https://web.archive.org/corporate/legal.asp) licensed to L-Soft international, Inc.
+
 See [Guidelines for Proper Usage of the LISTSERV Trademark](https://web.archive.org/corporate/trademark.asp) for more details.
+
+All other trademarks, both marked and unmarked, are the property of their respective owners.
+
+  
+
