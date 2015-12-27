@@ -1,46 +1,55 @@
-> *The following text is extracted and transformed from the boombox.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213223id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boombox.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227194034id_/http%3A//movementventures.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Movement Privacy Policy | Movement Ventures
 
-Updated: April 20, 2009
+This privacy policy of Movement Ventures, Inc. covers all of the products and sites we’ve created.  Your privacy is critically important to us. At Movement we have a few fundamental principles:
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
+In our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-## Personally Identifiable Information
+ If you have questions about deleting or correcting your personal data please contact our support team.
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+**  Site Visitors**
 
-## Non-Personally Identifiable Information
+Like most site operators, Movement collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Movement’s purpose in collecting non-personally identifying information is to better understand how Movement’s visitors use its website. From time to time, Movement may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
+ Movement also collects potentially personally-identifying information like Internet Protocol (IP) addresses.  Movement only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
+**Gathering of Personally-Identifying Information**
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+Certain visitors to Movement’s websites choose to interact with Movement in ways that require Movement to gather personally-identifying information. The amount and type of information that Movement gathers depends on the nature of the interaction. In each case, Movement collects such information only as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Movement. Movement does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-## Personally identifiable information
+**  Aggregated Statistics**
 
-We do not collect PII.
+Movement may collect statistics about the behavior of visitors to its websites. Movement may display this information publicly or provide it to others. However, Movement does not disclose personally-identifying information other than as described below.
 
-## Non-personally identifiable information
+**  Protection of Certain Personally-Identifying Information**
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+Movement discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Movement’s behalf or to provide services available at Movement’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Movement’s websites, you consent to the transfer of such information to them. Movement will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Movement discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Movement believes in good faith that disclosure is reasonably necessary to protect the property or rights of Movement, third parties or the public at large. If you are a registered user of a Movement website and have supplied your email address, Movement may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Movement and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Movement takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We do not collect PII.
+**  Payment Information**
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Movement uses secure services for online card payment transactions and does not record or store credit card information on its Site or servers.
 
-## Non-personally identifiable information
+**  Cookies**
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Movement uses cookies to help Movement identify and track visitors, their usage of the Movement website, and their website access preferences. Movement visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Movement’s websites, with the drawback that certain features of Movement’s websites may not function properly without the aid of cookies.
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+Movement also uses a first-party Google Analytics cookie in order to track usage of Movement’s websites and to provide a more relevant experience to our users.  Visitors can opt out of the Google Analytics features by using the Google Analytics Opt-out Browser Add-on available [here](https://tools.google.com/dlpage/gaoptout/).
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
+**  Business Transfers**
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+If Movement, or its assets, were acquired, or in the unlikely event that Movement goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Movement may continue to use your personal information as set forth in this policy.
+
+**  Privacy Policy Changes**
+
+Although most changes are likely to be minor, Movement may change its Privacy Policy from time to time, and in Movement’s sole discretion. Movement encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of any of Movement’s sites after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Change Log
+
+8/27/14 – Added paragraph about Google Analytics Cookies:  Movement also uses a first-party Google Analytics cookie in order to track usage of Movement’s websites and to provide a more relevant experience to our users.  Visitors can opt out of the Google Analytics features by using the Google Analytics Opt-out Browser Add-on available [here](https://tools.google.com/dlpage/gaoptout/).
