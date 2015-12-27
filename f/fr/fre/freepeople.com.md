@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628103404id_/http%3A//www.freepeople.com/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227032140id_/http%3A//www.freepeople.com/Privacy-Security) for the most accurate reproduction.*
 
 # Privacy and Security
 
