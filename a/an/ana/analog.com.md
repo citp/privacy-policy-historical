@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506071215id_/http%3A//www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227035513id_/http%3A//www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html) for the most accurate reproduction.*
 
 # Privacy_Security_Statement | Analog Devices
 
