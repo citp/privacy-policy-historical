@@ -1,32 +1,40 @@
-> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017193007id_/http%3A//howtospendit.ft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227032936id_/http%3A//help.ft.com/tools-services/financial-times-privacy-policy) for the most accurate reproduction.*
 
-# Privacy - How To Spend It
+# Financial Times privacy policy | FT Help | FT.com
 
-Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com "Click here to send an email to the Privacy Officer at privacy.officer@ft.com").
+Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com).
 
 Our sites contain links to third party sites which are not subject to this privacy policy. We recommend that you read the privacy policy of any such sites that you visit.
 
-### Information Collected
+**Information Collected**
 
-Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy. 
+Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy.
 
-Company: | The Financial Times Ltd  
----|---  
-Registered Office: | Number One Southwark Bridge, London SE1 9HL  
-Registered Number: | 227590  
-Data Protection Registration Number: | Z7087146  
-Company: | FT Personal Finance Ltd  
----|---  
-Registered Office: | Number One Southwark Bridge, London SE1 9HL  
-Registered Number: | 3855520  
-Data Protection Registration Number: | Z7670392  
-Company: | The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe  
----|---  
-Registered Office: | Number One Southwark Bridge, London SE1 9HL  
-Registered Number: | 1398449  
-Data Protection Registration Number: | ZVK463  
-  
-We collect personally identifiable information about you (your "Data") through:
+> Company:The Financial Times Ltd
+> 
+> Registered Office:Number One Southwark Bridge, London SE1 9HL
+> 
+> Registered Number: 879531
+> 
+> Data Protection Registration Number:Z7087146
+> 
+> Company:FT Personal Finance Ltd
+> 
+> Registered Office:Number One Southwark Bridge, London SE1 9HL
+> 
+> Registered Number:3855520
+> 
+> Data Protection Registration Number:Z7670392
+> 
+> Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
+> 
+> Registered Office:Number One Southwark Bridge, London SE1 9HL
+> 
+> Registered Number:139844
+> 
+> Data Protection Registration Number:ZVK463
+
+We collect personally identifiable information about you (your “Data”) through:
 
   * the use of enquiry and registration forms
   * your purchase of any our products or services
@@ -51,12 +59,9 @@ The elements of your Data that we collect may include:
 
 
 
-We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our [Cookies Policy](http://www.ft.com/cookiepolicy) for more details.
+We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/) for more details.
 
-Back to the top
-
-### Use and Disclosure of Personal Information
-
+**Use and Disclosure of Personal Information**  
 We use your Data for purposes which may include:
 
   * providing our users with a personalised service
@@ -68,11 +73,11 @@ We use your Data for purposes which may include:
   * providing you with information about products and services we offer (if you agree to receive such information)
   * sharing your Data with third party organisations who offer products or services which we feel may be of interest to you (if you agree to receive such information)
   * contacting you about specific recruitment opportunities if you register search criteria information on our recruitment sites.
-  * monitoring compliance with our [Terms and Conditions](http://www.ft.com/servicestools/help/terms) and [Copyright Policy](http://www.ft.com/servicestools/help/copyright)
+  * monitoring compliance with our [Terms and Conditions](http://help.ft.com/tools-services/ft-com-terms-and-conditions/) and [Copyright Policy](http://help.ft.com/tools-services/copyright-policy/)
 
 
 
-See our [Cookies Policy](http://www.ft.com/cookiepolicy "Click here to view the Use of Cookies section") for more details.
+See our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/) for more details.
 
 If you wish to receive information about FT group products or services or from other carefully selected organisations about products or services they offer, please indicate your preferences using the consent boxes when providing us with your Data.
 
@@ -89,80 +94,66 @@ We also use information in aggregate form (so that no individual user is identif
 
 We use technology on the registration, subscription and manage my account pages of some of our websites, which may record user movements, including page scrolling, mouse clicks and text entered. It will not record financial information such as credit or debit card details. The data we collect in this way helps us to identify usability issues, to improve the assistance and technical support we can provide to users and is also used for aggregated and statistical reporting purposes.
 
-Back to the top
+**Use of Cookies and Other Tracking Devices**
 
-### Use of Cookies and Other Tracking Devices
+Please refer to our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/).
 
-Please refer to our [Cookies Policy](http://www.ft.com/cookiepolicy "Click here to view the Use of Cookies section").
+**Security Policy**
 
-Back to the top
+Financial Times businesses have appropriate measures in place to ensure that our users’ Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. User Data may be transferred outside the FT group to data processors such as fulfilment houses but they will act only on our instructions to provide the services required.
 
-### Security Policy
-
-Financial Times businesses have appropriate measures in place to ensure that our usersâ€™ Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. User Data may be transferred outside the FT group to data processors such as fulfilment houses but they will act only on our instructions to provide the services required.
-
-Back to the top
-
-### Transfer of Data
+**Transfer of Data**
 
 The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the FT sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your Data to third party organisations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to any transfer of your Data to organisations based outside the European Economic Area.
 
-Back to the top
+**User Access and Control of Data**
 
-### User Access and Control of Data
+If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact help@ft.com visit the “Contact Us” section of our website (excluding Investors Chronicle, FDI Intelligence, FT Adviser, Exec-Appointments, MBA-Direct.com, Non-execs.com, Ignites Europe and Mandatewire.com websites).
 
-If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact [help@ft.com](mailto:help@ft.com) visit the "[Contact Us](http://www.ft.com/servicestools/help/contactus)" section of our website (excluding Investors Chronicle, FDI Intelligence, FT Adviser, Exec-Appointments, MBA-Direct.com, Non-execs.com, Ignites Europe and Mandatewire.com websites).
+Investors Chronicle
 
-_Investors Chronicle_
+If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact ic.cs@ft.com, visit manage account or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
 
-If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact [ic.cs@ft.com](mailto:ic.cs@ft.com), visit [manage account](https://www.investorschronicle.co.uk/my-account "www.investorschronicle.co.uk") or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
+FDI Intelligence
 
-_FDI Intelligence_
+If you are a user of FDI products and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact fdiintelligence@ft.com, visit manage my account or ph +44 (0)20 7775 6896.
 
-If you are a user of FDI products and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact [fdiintelligence@ft.com](mailto:fdiintelligence@ft.com), visit [manage my account](https://www.fdiintelligence.com/user/login) or ph +44 (0)20 7775 6896.
+FT Adviser
 
-_FT Adviser_
+If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact ftadviser.enquiries@ft.com, phone 0845 456 1516 or visit manage my account
 
-If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact [ftadviser.enquiries@ft.com](mailto:ftadviser.enquiries@ft.com), phone 0845 456 1516 or visit [manage my account](http://www.ftadviser.com/myAccount)
-
-_Exec-Appointments, MBA-Direct.com and Non-execs.com_
+Exec-Appointments, MBA-Direct.com and Non-execs.com
 
 If you wish to amend any of the Data that we hold about you or update your marketing preferences, please sign into your account below and go to your personal profile or phone +44 (0) 207 873 4909.
 
-[exec-appointments.com](http://www.exec-appointments.com/Executive/Account.aspx) account
+exec-appointments.com account
 
-[mba-direct.com](http://www.mba-direct.com/Executive/EditAccount.aspx) account
+mba-direct.com account
 
-[non-execs.com](http://www.non-execs.com/executive/account.asp) account
+non-execs.com account
 
-_Ignites Europe_
+Ignites Europe
 
-If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please visit the â€œ[Preferences](http://www.igniteseurope.com/user/preferences "www.igniteseurope.com")â€ or â€œ[Contact Us](http://www.igniteseurope.com/user/email)â€ section of our website or phone UK +44 (0) 20 7775 6668 or US +1 212 542 1245.
+If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please visit the “Preferences” or “Contact Us” section of our website or phone UK +44 (0) 20 7775 6668 or US +1 212 542 1245.
 
 Calls made to these numbers may be recorded for training and quality control purposes.
 
-_Mandatewire_
+Mandatewire
 
-If you wish to amend any of the date which we hold about you, or update your marketing preferences, please contact [contact.mandatewire@ft.com](mailto:contact.mandatewire@ft.com) or phone (UK)+44 (0)20 7775 6080 or (NYC) +1212-542-1245
+If you wish to amend any of the date which we hold about you, or update your marketing preferences, please contact contact.mandatewire@ft.com or phone (UK)+44 (0)20 7775 6080 or (NYC) +1212-542-1245
 
-_All users_
+All users
 
-In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting the Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com) or writing to:
+In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting the Privacy Officer by e-mail at privacy.officer@ft.com or writing to:
 
 Company Secretary The Financial Times Ltd Number One Southwark Bridge London SE1 9HL United Kingdom
 
 We may charge the statutory allowable fee for provision of this information.
 
-Back to the top
-
-### Children Under 14
+**Children Under 14**
 
 We do not intentionally collect any information on children under 14 years of age. We will undertake to delete any details of such users where a parent or guardian has notified us that any such details have been obtained.
 
-Back to the top
-
-### Changes to this Policy
+**Changes to this Policy**
 
 This policy is effective from 22nd May 2012. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.enhancements.
-
-Back to the top
