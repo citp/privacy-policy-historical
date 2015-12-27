@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatfallstribune.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619184844id_/http%3A//static.greatfallstribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatfallstribune.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227010256id_/http%3A//static.greatfallstribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Falls Tribune
 
