@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yasni.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619034917id_/http%3A//www.yasni.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yasni.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227061634id_/http%3A//www.yasni.com/privacy) for the most accurate reproduction.*
 
 # No.1 Free People Search - Yasni.com
 
@@ -76,6 +76,8 @@ In order to structure this website in a user-friendly manner, we use Google Anal
 ### Other tracking pixels & cookies
 
 Tracking pixels and cookies are used in particular to control the display of advertising on our website. A tracking pixel is an image file or a link to a graphic file, which is integrated into the HTML code of our respective web page. It enables us, or marketing agencies, to collect data concerning website visits where this may be relevant for the display of advertising materials. We do not use this technology to establish any reference to individuals. The use of tracking pixels is usually accompanied by the deployment of cookies by the provider of the relevant analytical process. If you have set your browser to restrict the use of cookies accordingly or if you use “blocking tools“, then the data collected in connection with the tracking pixel can again not be used to establish any direct reference to any individual. 
+
+How Google uses collected data: <http://www.google.com/intl/en/policies/privacy/partners/>
 
 ### Changes to Data Protection Information
 
