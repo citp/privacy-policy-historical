@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btbroadbandoffice.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055226id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btbroadbandoffice.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
@@ -15,14 +15,14 @@ Back to top
 When you order a phone service from us, we ask for your name, address, contact number, including mobile, and email address. We also ask for details on how you want to pay. That's so we can provide you with the service, charge you for it and let you know if we make changes to it. We also use your personal information to check your identity if you get in touch with us.
 
 When you first order a phone service from us, or buy certain new services, we run a credit check on you. To do that we give some of your personal information to credit reference agencies.  
-[Read more about our credit checking processes](https://web.archive.org/web/20141120055226id_/http://home.bt.com/pages/navigation/privacypolicy.html?page=Legals).
+[Read more about our credit checking processes](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Legals).
 
 When you sign up, we'll ask if you want your details in the Phone Book and other directories – like those online. If you agree, we'll publish your details and share your information with other communications providers who provide directory services. Ex-directory numbers are not included.
 
 Unless you tell us not to, we will, from time to time, contact you to tell you about products or services we think you might be interested in. We might do this through the post, online, using push notifications via apps, or on the phone.
 
 When you use your phone we keep a record – including the number you call, the time and the length of the call so we charge you the right amount on your bill. Unless you tell us not to we may also use this information to tell you about products and services we think may be of interest to you.  
-[Read more about your choices on marketing](https://web.archive.org/web/20141120055226id_/http://home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
+[Read more about your choices on marketing](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
 
 If we think there's been crime, fraud, misuse of, or damage to, our network, we'll use this information for our internal investigations and any subsequent prosecution(s).
 
@@ -34,13 +34,17 @@ Back to top
 BT6500 Nuisance Call  
 Blocker phones**
 
-When you order TV products or services from us, we ask for your name, address, contact number, including mobile, and email address. We also ask for details on how you want to pay. We might also need your direct debit or credit card details to charge you for the service, and information about your devices and viewing cards so we can provide you with the service.
+When you order TV products or services from us, we ask for your name, address, your preferred contact number, including your mobile and email address. We also ask for details on how you want to pay, such as your direct debit or credit card details, and information about your devices and viewing cards so we can provide you with the service.
 
-Unless you tell us not to, we may take details of the devices you use, channels and programmes you watch, adverts and services you access – for example how you view, record or fast forward them – to provide you with personalised services. Those services could be things like viewing recommendations and tailored advertising.
+Other information we may collect about your use of our TV services include details of the devices you use, the channels, programmes and adverts you watch on them, the services you access, how long you watch and what actions you take when doing so, such as how you view, record or fast forward programmes.
 
-You can opt out of personalised content suggestions any time by calling 0800 111 4567. If you do that, we'll still recommend content to you – but it won't be based on what you like to watch.
+We keep a record of the content that you buy and download, the IP addresses and mac addresses of devices you view from and your user IDs and device passwords and pin codes for parental controls.
 
-If you opt out of personal recommendations, you may still get general content recommendations and adverts.
+We need this information to be able to provide you with services which you have asked for on the devices you want to view our programmes and content on. This data also helps us to improve our services and the programmes we buy and make for your viewing pleasure. 
+
+We use your data to provide you with personalised services such as viewing recommendations. You can manage your choices regarding what you see when viewing content on our Apps by visiting the App store you have downloaded from.
+
+If you opt out of personal recommendations on Apps, you may still get general content recommendations and adverts.
 
 Where you take our TV services through our partners we share your information to help provide you with the service – and sometimes for marketing, but only if you've told us that's okay.
 
@@ -52,7 +56,7 @@ Broadband or BT Infinity**
 When you order broadband from us, or sign up to use BT Wi-fi, we ask for your name, address, contact number, including mobile, and email address. We also ask for details on how you want to pay. We might also need your direct debit or credit card details to charge you for the service.
 
 We'll use your contact details to tell you about changes to our service; for example if we upgrade your line, or when there's a new technology (like fibre optic) in your neighbourhood. Unless you tell us not to, we will, from time to time, contact you to tell you about products or services we think you might be interested in. We might do this through the post, online, using push notifications via apps, or on the phone.  
-[Read more about your choices on marketing](https://web.archive.org/web/20141120055226id_/http://home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
+[Read more about your choices on marketing](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
 
 Where you use our wi-fi partners' services, we share your information to help provide you with the service – and sometimes for marketing (but only if you've told us that's okay.)
 
@@ -72,8 +76,38 @@ Back to top
 online with BT Family  
 Protection**
 
+When you order a mobile phone service from us, we ask for your name, title, address, date of birth and gender. We also ask for contact details including a phone number, email address and your current mobile number if you want to keep it. If you've already got a phone service with us, we ask for your BT ID number or account number too.
+
+As well as that we ask for details on how you want to pay, like your bank details or credit card number. (So we can charge you for the service.)
+
+If you're new to BT when you first order a mobile service from us, we run a credit check on you. To do that we give some of your personal information to credit reference agencies. [Read more about our credit checking processes](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Legals).
+
+We also use your personal information to check your identity if you get in touch with us.
+
+Unless you tell us not to, we'll also use this information to tell you about products and services we think you might be interested in. We might do that by post, online, using push notifications via apps, or on the phone. [Read more about your choices on marketing](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
+
+If you come to us through a third party site, like uSwitch, we might need to match your order to the information they give us if we need to pay them.
+
+When you use your mobile, we record certain things about that use. They include the amount you spend, the numbers you call or text (but not the content of the text), the numbers that call or text you, and the location of the cell that you make a call from (but that's kept anonymous). We also record the time and the length of all incoming and outgoing services like calls, texts and picture messages (MMS) while you're in the UK and abroad.
+
+We keep information on the BT apps you use and websites you visit, including your browsing history and IP address. [Read more about browsing history here](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Cookies).
+
+We record how much data you use, any extra spending outside of your plan and what you spend in your apps. That's so we can charge you the right amount on your bill, tell you if you're getting close to your usage limit, fix faults, and send you other messages about your service.
+
+We keep information about the mobile phone or tablet you use with the BT Mobile service, including the device ID (also known as IMEI), the features on it (like whether it uses 3G or 4G), the type and model, and the operating system. This helps us understand how you're using BT Mobile and improve the overall service we give you.
+
+We don't share your personal information, except with the third parties we work with to deliver your mobile (and related) services. We might occasionally share information more widely to profile basic demographic data but it'll be anonymous and brought together with other customers' data.
+
+We sometimes gather and pass on information about customers' interests, preferences and lifestyle, which we can work out from their interactions with us or get from third parties. But we always keep this data totally anonymous.
+
+If we think there's been crime, fraud, misuse of, or damage to, our network, we'll use this information for our internal investigations and any prosecution(s) that might follow. We might also need to use it for managing traffic on the network, for emergency services or tracing malicious or nuisance calls.
+
+The law says we have to keep certain information about how you use our services for 12 months, even if you stop using BT Mobile. Law enforcement agencies could use this information to detect crime and protect national security. We only ever disclose information to them when we're legally required to.
+
+Back to top
+
 "My BT" lets you manage your account with us, including getting your bills online. When you create a "My BT" account on bt.com, we ask you for information so we can check your identity when you sign in. We also ask you if we can use some of your account information to tell you about products or services we think you might be interested in  
-[Read more about your choices on marketing.](https://web.archive.org/web/20141120055226id_/http://home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
+[Read more about your choices on marketing.](https://web.archive.org/web/20151228182424id_/http%3A//home.bt.com/pages/navigation/privacypolicy.html?page=Marketing).
 
 We collect information about how you use our website to keep improving the way it works. We count how many people visit our websites, where they come from, when they visit, how long they stay and what pages they look at. We sometimes use data like this in bulk and anonymously to give us insights into new products and services our customers might like and how our advertising performs. We also look at the browser, OS and devices you use to make sure you get a good online experience however you access our websites.
 
@@ -147,7 +181,7 @@ We also provide information when the law says we have to such as in response to 
 
 We may monitor and record our communications with you, including e-mails and phone conversations. Information which we collect may then be used for training purposes, quality assurance, to record details about the products and services you order from us or ask us about, and in order to meet our legal and regulatory obligations generally.
 
-We regularly review our privacy policy. The last update was on 18th September 2013.
+We regularly review our privacy policy. The last update was in November 2015.
 
 ### Accessing your information
 
