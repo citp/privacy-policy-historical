@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140535id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228205353id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | InstaMed
 
