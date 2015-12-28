@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219001357id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228191209id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Tmart
 
@@ -43,6 +43,8 @@ If you no longer wish to receive the promotional communications from Tmart.com, 
 
 **Company Info**
 
-Address：TMART LIMITED UNIT 01A 10/F CARNIVAL COMMERCIAL BLDG 18 JAVA RD NORTH POINT HK  
-Company registration number:  52276817-000-05-12-0   TEL：+852 8197 7220  
+Address： TMART LIMITED UNIT 01A 10/F CARNIVAL COMMERCIAL BLDG 18 JAVA RD NORTH POINT HK
+
+Company registration number： 52276817-000-05-12-0   TEL：+852 8197 7220
+
 Email Address：service@tmart.com
