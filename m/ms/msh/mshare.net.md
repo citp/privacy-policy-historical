@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mshare.net privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418080206id_/https%3A//www.mshare.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mshare.net privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228225244id_/http%3A//www.inmoment.com/privacy-policy) for the most accurate reproduction.*
 
 # InMoment Privacy Policy
 
