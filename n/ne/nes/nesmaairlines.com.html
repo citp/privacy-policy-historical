@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nesmaairlines.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629024944id_/http%3A//nesmaairlines.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nesmaairlines.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228175944id_/http%3A//nesmaairlines.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head><meta http-equiv="content-type" content="text/html;charset=UTF-8">
 
@@ -32,7 +32,7 @@
 <script type="text/javascript" src="http://nesmaairlines.com/assets/frontEnd/js/responsiveslides.min.js"></script>
 <link href="http://nesmaairlines.com/assets/frontEnd/css/responsiveslides.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">
-            $(function () {
+           /*$(function () {
                 $("#lang").selectbox();
                 $("#lang").change(function () {
                     var lang = $("#lang").val();
@@ -41,17 +41,41 @@
                         window.location.reload();
                     });
                 });
-            });
+            });*/
+			
+			/*function changelang(lang){
+				
+				 $.post("http://nesmaairlines.com/lang/toggle", {'lang': lang},
+                    function (ret) {
+                        window.location.reload();
+                    });
+				}*/
         </script>
+<script>
+    function eng()
+    {
+        window.location = 'http://nesmaairlines.com/lang/toggleTele/privacy--/eng';
+    }
+
+    function arb()
+    {
+        window.location = 'http://nesmaairlines.com/lang/toggleTele/privacy--/arb';
+    }
+</script>
 </head>
 <body>
 <!--[if lt IE 7]><div class="alert">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</div><![endif]-->
 <div class="container" style="position:relative">
+<div class="tel">+966920003232</div>
 <div id="langchoice" class="lang_select">
-<select name="lang" id="lang">
+<style>.lang_select,body.ar .lang_select{background:none!important;}.styled-select{width:100px;height:22px;overflow:hidden;overflow:-moz-hidden-unscrollable;border:2px double #989798;border-radius:8px;display:inline-block;position:relative;}.styled-select select{background:url(../../../assets/images/img-slector4.gif) no-repeat right white;-webkit-appearance:none;line-height:15px;width:100px;border:0;height:22px;position:absolute;left:0;top:0;appearance:none;-moz-appearance:none;-webkit-appearance:none;padding-left:10px;font-style:italic;padding-top:1px;}body.ar .lang_select .styled-select select{background:url(../../../assets/images/img-slector2.gif) no-repeat left white;-webkit-appearance:none;width:100px;border:0;height:22px;position:absolute;left:0;top:0;appearance:none;text-align:right;-moz-appearance:none;-webkit-appearance:none;padding-right:10px;font-style:italic;direction:rtl;padding-top:1px;}</style>
+ 
+<div class="styled-select">
+<select name="lang" id="lang" onchange="arb();">
 <option selected="" value="eng">English</option>
 <option value="arb">عربي</option>
 </select>
+</div>
 </div>
 </div>
 <header class="banner" role="banner">
@@ -68,7 +92,6 @@
 <li class="menu-booking"><a href="http://nesmaairlines.com/booking">Booking</a></li>
 <li class="menu-flying-with-nesma"><a href="http://nesmaairlines.com/flying_with_nesma_about">Flying with Nesma</a></li>
 <li class="menu-information"><a href="http://nesmaairlines.com/information">Information</a></li>
-<li class="menu-services"><a href="http://nesmaairlines.com/services">Services</a></li>
 <li class="menu-contact-us"><a href="http://nesmaairlines.com/contact">Contact Us</a></li>
 </ul>
 </nav>
@@ -92,70 +115,288 @@
             </script>
  
 <div class="container" style="margin-bottom:10px"><img style="width:100%;" src="http://nesmaairlines.com/uploads/content/7964_7024.png" alt=""></div>
-</header><div class="wrap container" role="document">
+</header>
+<style type="text/css">.callbacks_nav{position:absolute;-webkit-tap-highlight-color:rgba(0,0,0,0);top:52%;left:0;opacity:0.7;z-index:3;text-indent:-9999px;overflow:hidden;text-decoration:none;height:61px;width:38px;background:transparent url("http://nesmaairlines.com/assets/images/themes.gif") no-repeat left top;margin-top:-45px;}.callbacks_nav:active{opacity:1.0;}.callbacks_nav.next{left:auto;background-position:right top;right:0;}</style>
+<script type="text/javascript">
+
+    jQuery(document).ready(function () {
+
+      $("#slider").responsiveSlides({
+
+        auto: true,
+
+        pager: false,
+
+        nav: true,
+
+        speed: 500,
+
+        namespace: "callbacks"                                    
+
+    });
+
+  });
+/*                            setTimeout(function(){ $("#iframe").append('<iframe src="https://nesma-stage.crane.aero/web/RezvEntry.xhtml?language=EN" width="300" height="440" scrolling="no" frameBorder="0"></iframe>'); }, 1000);
+*/
+</script>
+<div class="wrap container" role="document">
 <div class="content row">
 <aside class="sidebar span4" role="complementary">
-<section class="widget-1 widget-first widget execphp-3 widget_execphp"><div class="widget-inner"> <div class="execphpwidget"><iframe src="https://nesma.crane.aero/Common/MemberRezvEntry.jsp?activeLanguage=EN" width="300" height="440" scrolling="no" frameborder="0"></iframe>
+<section class="widget-1 widget-first widget execphp-2 widget_execphp"><div class="widget-inner"> <div class="execphpwidget">
+<div class="iframe-holder" id="iframe">
+<link rel="stylesheet" type="text/css" href="http://keith-wood.name/css/jquery.calendars.picker.css">
+<script id="script" src="https://nesma.crane.aero/web//FlightSearchAPI?language=en"></script>
+<script type="text/javascript" src="http://keith-wood.name/js/jquery.calendars.js"></script>
+<script type="text/javascript" src="http://keith-wood.name/js/jquery.calendars.plus.js"></script>
+<script type="text/javascript" src="http://keith-wood.name/js/jquery.plugin.js"></script>
+<script type="text/javascript" src="http://keith-wood.name/js/jquery.calendars.picker.js"></script>
+<script>var selectAnOption = "Select an Option";</script>
+<link href="https://nesma.crane.aero/web//plugins/chosen/chosen.bootstrap.css" rel="stylesheet">
+<script src="https://nesma.crane.aero/web//plugins/chosen/chosen.jquery.js"></script>
+<script>
+            /**
+                RezvEntry Sample
+                **/
+                function setRange(dates){
+                    if (this.id == 'departureDate') { 
+                        $('#returnDate').calendarsPicker('option', 'minDate', dates[0] || null); 
+                    } 
+                    else { 
+                        $('#departureDate').calendarsPicker('option', 'maxDate', dates[0] || null); 
+                    } 
+                }
+                $(document).ready(function(){
+
+                    window.flightSearch = new FlightSearch();
+                    
+                    flightSearch.dateFormat = "dd/MM/yyyy";
+                    flightSearch.actionURL = "https://nesma.crane.aero/web//RezvEntry.xhtml";
+                    flightSearch.init();
+                    $("[type='date']").each(function(){
+                        if($(this).prop("type") == "date")
+                         $(this).prop("type","text");
+                     $(this).calendarsPicker({ showOnFocus:true, onSelect: setRange, showTrigger: $('<span class="datepicker-trigger calendars-trigger"></span>'), dateFormat: "dd/mm/yyyy", minDate: 0,calendar: $.calendars.instance('gregorian','en')});
+                 });
+                    $(".chosen-select").trigger('chosen:updated');
+                    $('#multiDepPortArea ').on('click', '*', function() {
+                     $("#multiArrPortArea .chosen-select").val('').trigger("chosen:updated");
+                 })
+                    $(".button.widget").click(function () {
+                        var forElem = $(this).parent().find(".chosen-select");
+                        setTimeout(function () {
+                            forElem.trigger("chosen:open.chosen");
+                        }, 160);
+                    });
+                    if($.browser.msie){ 
+                        $('<style>#multiDepPortArea:before {content: "";border-top: 2px solid #959DA0;width: 278px;position: absolute;margin-top: -10px;margin-left: 0;}</style>').appendTo(".iframe-holder")};
+                    });
+
+$(document).on("click", ".size", function () {
+    $(".size").removeClass("selected");
+    $(this).addClass("selected");
+});
+
+$(document).ready(function () {
+    $(".default").addClass("selected");
+});
+
+</script>
+<style>.ar #btnSearchArea input{text-align:center;}.sort select option{background:rgba(1,1,1,1);color:#fff;text-shadow:0 1px 0 rgba(0,0,0,0.4);}.calendars-month-header select,.calendars-month-header input{height:1.4em;border:none;width:80px;font-size:12px;height:100%;padding:0px;}.chosen-drop{margin-top:-27px!important;}.chosen-container{width:242px!important;}.chosen-single{line-height:25px!important;height:26px!important;font-size:13.1999998092651px;}.chosen-container-single .chosen-search{padding:0px!important;}#departureDate,#returnDate,#openDepartureDate,#openReturnDate{border:none;width:223px;line-height:20px;height:25px;background:none;background-color:#fff;color:#474a4b;padding:1px 10px;font-weight:normal;cursor:pointer;border:1px solid #cbcbcb;font-size:11px;}#departureDate:focus,#returnDate:focus,#openDepartureDate:focus,#openReturnDate:focus{border-color:#1161a6;outline:0;}.search-box select{padding:5px 10px;height:auto;width:242px;}.search-box a.button{float:left;padding:0;width:35px;height:27px;background:#474a4b;}.state-default,.search-box .hasDatepicker{border:none;width:202px;height:23px;line-height:23px;background:none;background-color:#fff;color:#474a4b;padding:2px 10px;font-weight:normal;}.state-default .icon{background-image:url("../../assets/frontEnd/img/up-arrow.png");}.button-icon-only .icon,.button-text-icon-primary .icon,.button-text-icon-secondary .icon,.button-text-icons .icon,.button-icons-only .icon{position:absolute;margin-left:-1px;margin-top:-3px;}.search-box .icon-triangle-1-s{}.search-box .icon{width:24px;height:22px;}.search-box .icon{display:block;text-indent:-99999px;overflow:hidden;background-repeat:no-repeat;}.button-icon-only .button-text,.button-icons-only .button-text{padding:.4em;text-indent:-9999999px;}.button .button-text{display:block;line-height:normal;}.search-box ul,.search-box ul li{margin:0;padding:0;}.search-box ul li{list-style:none;display:block;clear:both;height:26px;margin-bottom:10px;width:100%;}.search-box img{vertical-align:middle;float:left;border:0;}.search-box div.sort{width:93px;float:left;margin-bottom:5px;}.sort select{border:none;width:96%;line-height:23px;background:none;background-color:#fff;color:#474a4b;padding:4px 5px;font-weight:normal;float:left;font-size:12px;}.search-box .main{display:inline-block;background-color:#e9e9e7;font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;width:280px;}.search-box ul li#tripTypeArea label{font-weight:bold;}.block-title{display:block;height:27px;line-height:27px;width:100%!important;background-color:#474a4b;color:#fff;padding:0 4px;text-align:center;text-decoration:none;font-size:15px;border:none;font-weight:bold;background-image:none;cursor:pointer;}.datepicker-trigger.calendars-trigger{display:inline-block;background:#474a4b;padding:13px 0px;width:35px;float:left;height:2px;}.datepicker-trigger.calendars-trigger:after{content:"";position:absolute;font-size:16px;margin-left:4px;margin-top:-14px;background-image:url('http://nesmaairlines.com/assets/frontEnd/img/glyphicons-halflings-white.png');background-position:-185px -112px;height:22px;width:22px;}.chosen-placeholder{width:88%!important;}#tripTypeArea{width:280px;}.block-title.big{font-size:1.5em;text-align:left;}.search-box{display:inline-block;padding:18px 10px!important;background-color:#e9e9e7;font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal;width:280px!important;}.search-box h2,.search-box a.block-title{height:26px;line-height:26px;padding:2px 6px;background-color:#474a4b;color:#fff;font-weight:normal;width:96%!important;cursor:pointer;}.size{height:30px;padding:4px;border:1px solid #474A4B;border-left:0;text-align:center;float:left;cursor:pointer;transition:all .1s linear;margin-bottom:10px;}.size:first-child{border-left:1px solid #474A4B;border-top-left-radius:4px;border-bottom-left-radius:4px;}.size:last-child{border-top-right-radius:4px;border-bottom-right-radius:4px;}.size:hover{background-color:#474A4B;color:#e9e9e7;}.size.selected{background-color:#474A4B;color:#e9e9e7;}.size label{vertical-align:middle;display:table-cell;height:32px!important;width:100%!important;text-align:center;cursor:pointer;line-height:15px;float:none!important;}.size-1{width:270px;}.size-1 label{width:270px!important;}.size-2{width:130px;}.size-2 label{width:130px!important;}.size-3{width:83px;}.size-3 label{width:83px!important;}.size-4{width:60px;}.size-4 label{width:60px!important;}#multiDepPortArea{padding-top:10px;}#multiDepPortArea:before{content:"";border-top:2px solid #959DA0;width:278px;position:absolute;margin-top:-10px;margin-left:-36px;}.calendars-popup{z-index:100000000000;}.chosen-container .chosen-results li.highlighted{background:#0078a3 url(https://nesma.crane.aero/Common/css/ui-darkness/images/ui-bg_glass_40_0078a3_1x400.png) 50% 50% repeat-x!important;color:#ffffff!important;}.chosen-container-single .chosen-single{border-bottom-left-radius:0!important;border-bottom-right-radius:0!important;border:1px solid #cbcbcb!important;color:#555!important;height:23px!important;overflow:hidden;position:relative;text-decoration:none;white-space:nowrap;box-shadow:none!important;background-color:#fff!important;}.chosen-container .chosen-drop{border-color:transparent!important;}.chosen-container-single .chosen-single span{padding-left:6px;}.chosen-container,.chosen-container-single .chosen-single{font-size:13px!important;}.chosen-container .chosen-results li.active-result{background:#000000 url(https://nesma.crane.aero/Common/css/ui-darkness/images/ui-bg_inset-soft_25_000000_1x100.png);color:#fefefe!important;}.chosen-container .chosen-results{background:#000000 url(https://nesma.crane.aero/Common/css/ui-darkness/images/ui-bg_inset-soft_25_000000_1x100.png);}.chosen-container .chosen-results .no-results{background:#000;color:#fefefe;}@media (max-width: 600px) {.search-box .main{padding-left:10px;}}</style>
+<div class="search-box">
+<h2 class="block-title big">Book Your Flight</h2>
+<div class="main">
+<ul>
+<li id="tripTypeArea">
+<div class="size size-3 default" for="tripType1">
+<input type="radio" id="tripType1" value="ONE_WAY" onclick="flightSearch.selectTripType(this.value)" style="display:none;">
+<label for="tripType1">One Way</label>
+</div>
+<div class="size size-3" for="tripType2">
+<input type="radio" id="tripType2" value="ROUND_TRIP" onclick="flightSearch.selectTripType(this.value)" style="display:none;">
+<label for="tripType2">Round Trip</label>
+</div>
+<div class="size size-3" for="tripType3">
+<input type="radio" id="tripType3" value="MULTI_DIRECTIONAL" onclick="flightSearch.selectTripType(this.value)" style="display:none;">
+<label for="tripType3">Multi City</label>
+</div>
+</li>
+<li id="depPortArea">
+<select id="depPort" placeholder="Select city" onchange="flightSearch.selectDepPort(this.value); $('#arrPort').trigger('chosen:updated')" class="chosen-select"></select>
+<a title="Show All Items" class="button widget state-default button-icon-only corner-right button-icon" role="button" aria-disabled="false"><span class="button-icon-primary icon icon-triangle-1-s"></span><span class="button-text"></span></a>
+</li>
+<li id="arrPortArea">
+<select id="arrPort" placeholder="Select city" onchange="flightSearch.selectArrPort(this.value)" class="chosen-select"></select>
+<a title="Show All Items" class="button widget state-default button-icon-only corner-right button-icon" role="button" aria-disabled="false"><span class="button-icon-primary icon icon-triangle-1-s"></span><span class="button-text"></span></a>
+</li>
+<li id="departureDateArea">
+<input type="date" placeholder="Departure date" id="departureDate" readonly="readonly" onchange="flightSearch.selectDepartureDate(this.value); $('#returnDate').calendarsPicker('option', 'minDate', this.value) ">
+</li>
+<li id="openDepartureDateArea">
+<label for="openDepartureDate">Departure date</label>
+<a title="Show All Items" class="button widget state-default button-icon-only corner-right button-icon" role="button" aria-disabled="false"><span class="button-icon-primary icon icon-triangle-1-s"></span><span class="button-text"></span></a>
+</li>
+<li id="multiDepPortArea">
+<select id="multiDepPort" placeholder="Select city" onchange="flightSearch.selectMultiDepPort(this.value); $('#arrPort').trigger('chosen:updated')" class="chosen-select"></select>
+<a title="Show All Items" class="button widget state-default button-icon-only corner-right button-icon" role="button" aria-disabled="false"><span class="button-icon-primary icon icon-triangle-1-s"></span><span class="button-text"></span></a>
+</li>
+<li id="multiArrPortArea">
+<select id="multiArrPort" placeholder="Select city" onchange="flightSearch.selectMultiArrPort(this.value)" class="chosen-select"></select>
+<a title="Show All Items" class="button widget state-default button-icon-only corner-right button-icon" role="button" aria-disabled="false"><span class="button-icon-primary icon icon-triangle-1-s"></span><span class="button-text"></span></a>
+</li>
+<li id="returnDateArea">
+<input type="date" placeholder="Return date" id="returnDate" readonly="readonly" onchange="flightSearch.selectReturnDate(this.value)">
+</li>
+<li id="openReturnDateArea">
+<input type="text" id="openReturnDate" disabled="disabled" value="Open Ticket for 12 months">
+<a title="Show All Items" class="button widget state-default button-icon-only corner-right button-icon" role="button" aria-disabled="false"><span class="button-icon-primary icon icon-triangle-1-s"></span><span class="button-text"></span></a>
+</li>
+<li>
+<div id="adultArea" class="sort">
+<select placeholder="Adult" id="adult"></select>
+</div>
+<div id="childArea" class="sort">
+<select placeholder="Child" id="child"></select>
+</div>
+<div id="infantArea" class="sort">
+<select placeholder="Infant" id="infant"></select>
+</div>
+<div id="soldierArea" class="sort">
+<select placeholder="Soldier" id="soldier"></select>
+</div>
+<div id="studentArea" class="sort">
+<select placeholder="Student" id="student"></select>
+</div>
+</li>
+<li id="btnSearchArea">
+<input type="submit" id="btnSearch" value="FIND IT" onclick="flightSearch.search()" class="block-title">
+</li>
+</ul>
+</div>
+<a class="block-title big" href="https://nesma.crane.aero/web/PNRSearch.xhtml?language=en" target="_blank" style="">
+Manage booking</a>
+</div>
+</div>
 <div class="homepromo promo1">
-<a href="http://nesmaairlines.com/information/destinations"><script type="text/javascript">
-                                jQuery(document).ready(function () {
-                                    jQuery("#layerslider_1").layerSlider({
-                                        width: '300px',
-                                        height: '175px',
-                                        responsive: false,
-                                        responsiveUnder: 0,
-                                        sublayerContainer: 0,
-                                        autoStart: true,
-                                        pauseOnHover: false,
-                                        firstLayer: 1,
-                                        animateFirstLayer: true,
-                                        randomSlideshow: false,
-                                        twoWaySlideshow: true,
-                                        loops: 0,
-                                        forceLoopNum: true,
-                                        autoPlayVideos: true,
-                                        autoPauseSlideshow: 'auto',
-                                        youtubePreview: 'maxresdefault.jpg',
-                                        keybNav: true,
-                                        touchNav: true,
-                                        skin: 'defaultskin',
-                                        skinsPath: 'http://blogswizards.com/nesmaairline/wp-content/plugins/LayerSlider/skins/',
-                                        globalBGColor: '#f2f2f2',
-                                        navPrevNext: false,
-                                        navStartStop: false,
-                                        navButtons: false,
-                                        hoverPrevNext: false,
-                                        hoverBottomNav: false,
-                                        thumbnailNavigation: 'hover',
-                                        tnWidth: 100,
-                                        tnHeight: 60,
-                                        tnContainerWidth: '60%',
-                                        tnActiveOpacity: 35,
-                                        tnInactiveOpacity: 100,
-                                        imgPreload: true,
-                                        yourLogo: false,
-                                        yourLogoStyle: 'left: 10px; top: 10px;',
-                                        yourLogoLink: false,
-                                        yourLogoTarget: '_self',
-                                        cbInit: function (element) {
-                                        },
-                                        cbStart: function (data) {
-                                        },
-                                        cbStop: function (data) {
-                                        },
-                                        cbPause: function (data) {
-                                        },
-                                        cbAnimStart: function (data) {
-                                        },
-                                        cbAnimStop: function (data) {
-                                        },
-                                        cbPrev: function (data) {
-                                        },
-                                        cbNext: function (data) {
-                                        }
-                                    });
-                                });
-                                </script>
+<a href="http://nesmaairlines.com/information/destinations">
+<script type="text/javascript">
+
+            jQuery(document).ready(function () {
+
+                jQuery("#layerslider_1").layerSlider({
+
+                    width: '300px',
+
+                    height: '175px',
+
+                    responsive: false,
+
+                    responsiveUnder: 0,
+
+                    sublayerContainer: 0,
+
+                    autoStart: true,
+
+                    pauseOnHover: false,
+
+                    firstLayer: 1,
+
+                    animateFirstLayer: true,
+
+                    randomSlideshow: false,
+
+                    twoWaySlideshow: true,
+
+                    loops: 0,
+
+                    forceLoopNum: true,
+
+                    autoPlayVideos: true,
+
+                    autoPauseSlideshow: 'auto',
+
+                    youtubePreview: 'maxresdefault.jpg',
+
+                    keybNav: true,
+
+                    touchNav: true,
+
+                    skin: 'defaultskin',
+
+                    skinsPath: 'LayerSlider/skins/',
+
+                    globalBGColor: '#f2f2f2',
+
+                    navPrevNext: false,
+
+                    navStartStop: false,
+
+                    navButtons: false,
+
+                    hoverPrevNext: false,
+
+                    hoverBottomNav: false,
+
+                    thumbnailNavigation: 'hover',
+
+                    tnWidth: 100,
+
+                    tnHeight: 60,
+
+                    tnContainerWidth: '60%',
+
+                    tnActiveOpacity: 35,
+
+                    tnInactiveOpacity: 100,
+
+                    imgPreload: true,
+
+                    yourLogo: false,
+
+                    yourLogoStyle: 'left: 10px; top: 10px;',
+
+                    yourLogoLink: false,
+
+                    yourLogoTarget: '_self',
+
+                    cbInit: function (element) {
+
+                    },
+
+                    cbStart: function (data) {
+
+                    },
+
+                    cbStop: function (data) {
+
+                    },
+
+                    cbPause: function (data) {
+
+                    },
+
+                    cbAnimStart: function (data) {
+
+                    },
+
+                    cbAnimStop: function (data) {
+
+                    },
+
+                    cbPrev: function (data) {
+
+                    },
+
+                    cbNext: function (data) {
+
+                    }
+
+                });
+
+
+
+});
+
+</script>
 <div id="layerslider_1" style="width: 300px; height: 175px; margin: 0px auto; ">
 <div class="ls-layer" style="slidedirection: left; slidedelay: 4000; durationin: 1500; durationout: 1500; easingin: easeInOutQuint; easingout: easeInOutQuint; delayin: 0; delayout: 0;">
 <img class="ls-s2 px1" src="http://nesmaairlines.com/assets/frontEnd/images/parallax1.png" style="position: absolute; top: 18px; left: px; slidedirection : left; slideoutdirection : right;  durationin : 1500; durationout : 1500; easingin : easeInOutQuint; easingout : easeInOutQuint; delayin : 0; delayout : 0; showuntil : 0; z-index:999999999999999999999;">
@@ -196,8 +437,9 @@
 </div>
 </a>
 </div>
-<a href="http://nesmaairlines.com/information/baggage"><img src="http://nesmaairlines.com/assets/frontEnd/images/baggage_Ad_EN-01.png" alt=""></a>
-</div></div></section>
+</div>
+</div>
+</section>
 </aside>
 <div class="main span8" role="main">
 <div class="inch">
@@ -225,8 +467,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 <p>5 El Madina Street, El Nozha El Gedida,<br>
 Cairo<br>
 Egypt<br>
-info@nesmaairlines.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script><br>
+info@nesmaairlines.com<br>
 (+202) 2621 7591</p>
 </div>
 </div>
@@ -263,7 +504,7 @@ info@nesmaairlines.com<script cf-hash="f9e31" type="text/javascript">
 <div class="row">
 <div class="span9">
 <a href="https://www.facebook.com/pages/%D9%86%D8%B3%D9%85%D8%A7-%D9%84%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86/208920075827546?" target="_blank"><img src="http://nesmaairlines.com/assets/frontEnd/assets/facebook.png" alt=""></a>
- 
+<a href="http://instagram.com/nesmaairlines" target="_blank"><img src="http://nesmaairlines.com/assets/frontEnd/assets/instagram.png" alt=""></a>
 <a href="https://twitter.com/NesmaAirlines1" target="_blank"><img src="http://nesmaairlines.com/assets/frontEnd/assets/twitter.png" alt=""></a>
 </div>
 <div class="span3 footertext">
