@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172021id_/http%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228165039id_/http%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
 
-# Privacy – SQLBI
+# Privacy - SQLBI
 
 ### Privacy Policy of [sqlbi.com](http://www.sqlbi.com/)
 
