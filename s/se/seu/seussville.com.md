@@ -1,197 +1,222 @@
-> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605094256id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228190147id_/http%3A//www.randomhouse.com/about/privacy.html%23children) for the most accurate reproduction.*
 
-# Random House - Privacy Policy
+# Privacy Policy | Penguin Random House
 
-_Last Changes to Privacy Policy: December 20, 2013_
+###### Effective Date of Privacy Policy: February 9, 2015
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Random House network of websites including the randomhouse.com website; our divisional and imprint websites (e.g., bantam-dell.atrandom.com, crownpublishing.com, fodors.com, knopfdoubleday.com, livinglanguage.com, primagames.com); genre websites hosted and maintained by us (e.g., suvudu.com, booksforbetterliving.com, wordandfilm.com); Random House author sites hosted and maintained by us; all email newsletters published by Random House, including on behalf of our authors; all apps published by Random House; and all other interactive features, services, and communications provided by Random House (collectively, "Sites"), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Random House LLC. (collectively, "Random House" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. 
+Penguin Random House LLC (“PRH”, “we”, “us”, or “our”) respects your concerns about privacy and values the relationship we have with you. This Privacy Policy describes our privacy practices with respect to information collected through our websites, applications, and any other online service that links to this Privacy Policy, including any websites and online services we operate on behalf of our authors (collectively referred to as the “Sites”). By using our Sites, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes.
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Sites. It does not apply to information that you may submit to us offline, or to Sites maintained by other companies or organizations to which we may link or who may link to us. 
+Please click on one of the links below to jump to the listed section:
 
-**By visiting our Sites, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments.**
-
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at [ecustomerservice@randomhouse.com](mailto:ecustomerservice@randomhouse.com). 
-
-  * Controllers of Personal Information
-  * What Information About Me Is Collected and Stored?
-  * Is Personal Information Collected From Children?
-  * How Do We Use Your Information?
-  * Who Do We Provide Your Information To?
-  * What Steps Are Taken To Keep Personal Information Secure?
-  * Your Obligations to Keep Your Access Rights Secure
-  * What Happens When I Link To or From Another Website?
-  * What About Contests and Sweepstakes?
-  * Public Areas, Chat Rooms, Reviews, and Community Areas
+  * What Information We Collect About You
+  * How We Use Your Information
+  * Who We Share Your Information With
+  * Social Media
+  * Children’s Privacy Policy
+  * Security of Your Personal Information
+  * Third Party Content and Links To Third Party Websites
+  * Public Areas, Forums, Reviews, and Community Areas
   * Governing Law
   * Assignment
   * Notice to Non-US Users
-  * Changes to This Policy
-  * How Do I Opt-Out or Correct Information About Me
+  * Changes to This Privacy Policy
+  * How To Opt-Out or Correct Your Information
   * Your California Privacy Rights
-  * Do Not Track Practices
+  * How To Contact Us
 
 
 
-**Controllers of Personal Information**  
-Any personal information provided to or to be gathered by Random House is controlled primarily by Random House LLC, 1745 Broadway, New York, NY 10019. 
+#### What Information We Collect About You
 
-**What Information About Me Is Collected and Stored?**  
-We collect two basic types of information from you in conjunction with your use of the Sites, personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you subscribe, order, complete a survey, register for a Site or any part thereof, enter a contest, upload content, participate in a community, or provide your e-mail address. Personal information is any information that can individually identify you and includes your name, e-mail address, telephone number, postal address, credit card, billing and contact information. Non-personal information includes information that does not personally identify you but may include tracking and usage information about your location, demographics, use of the Sites and the Internet. 
+We collect two basic types of information from you in conjunction with your use of the Sites: (1) personal information, which is any information that individually identifies you (e.g., your name, email address, telephone number, postal address, credit card information) and (2) non-personal information, which is information that does not personally identify you but may include information about your interests, demographics (e.g., age, gender, 5-digit zip code) and use of the Sites. We collect this information in the following ways:
 
-__Personal Information__  
-As a general matter, you can browse the Sites without submitting your personal information to us. However, there are a number of circumstances in which you may supply us with your personal information. The following lists the most common ways in which we may collect your personal information. 
+##### Information You Provide Directly To Us:
 
-  * Registration for an account on the Sites
-  * Sign up to receive e-mail newsletters from us
-  * Request for customer service or other assistance
-  * Participation in surveys, panels, or market research
-  * Participation in special events and promotions
-  * Purchases on the Sites
-  * Entry in contests or sweepstakes
-  * Participation on social media accounts involving Random House, our books and our brands
-  * Participation in communities, chat rooms, and other interactive services
-  * Submission of user generated content on any part of the Sites that permit it
-  * Submission of a job application
-  * Any other place on the Sites where you knowingly volunteer personal information
+We may ask you to provide your personal information, demographic information or information about your preferences or interests when you:
+
+  * Register for an account on the Sites
+  * Sign up to receive email newsletters from us
+  * Make a purchase on the Sites
+  * Enter a contest or sweepstakes
+  * Participate in surveys or special promotions
+  * Participate on social media accounts involving our authors, books or brands
+  * Participate in communities or forums on the Sites
+  * Submit user generated content on any part of the Sites that permit it
+  * Knowingly volunteer information on any other part of the Sites (e.g., request for customer service, submit a job application)
 
 
 
-__Collection of Personal Information From Social Media Sites__  
-When you interact with any Random House property page or account on a social media platform, such as Facebook, Twitter, Google+, Tumblr, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or "handle." However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms. 
+##### Information Collected Using Technology:
 
-__Non-Personal Information__  
-In addition, when you interact with the Sites, our servers may keep an activity log that does not identify you individually ("Non-Personal Information"). Generally, we collect and store the following categories of Non-Personal Information: 
+In addition to any information you provide directly to us, we and our third party service providers may use a variety of technologies that automatically collect certain non-personal information when you interact with the Sites or emails sent to you, including the following:
 
-  * Demographic data such as age, gender, and five digit zip code as part of collecting personal information
-  * Device information about your computer, mobile device, or other device that you use to access the Sites. This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
-  * Usage information about your use of the Sites. This information includes a reading history of the pages you view. We use this information to provide you a more customized experience on the Sites.
-  * Additional "traffic data" such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses.
-  * Your search terms and search results.
-  * Other information regarding our users' use of the Sites.
+###### Device Information
 
+We may collect certain information about your computer or other device that you use to access the Sites, including IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
 
+###### Usage Information
 
-__Collection of Your Source IP Address/Location Information__  
-We collect and store your device's source IP address which may disclose the location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data. 
+We may log certain information about your use of the Sites (e.g., log files, clickstream data, a reading history of the pages you view, your search terms and search results) and additional “traffic data” (e.g., time of access, date of access, software crash reports, session identification number, access times, referring website addresses).
 
-In addition, in some cases the Sites can deliver content based on your current location if you choose to enable that feature. If you enable that feature, your current location will be stored locally on your device which will be used by the Sites to serve you certain content tied to your location. If you elect to have your location-based searches saved to your history, we will store such information on our servers. 
+###### Location Information
 
-__Collection of Personal and Non-Personal Information From Other Sources__  
-We also may collect and store information about you that we receive from other sources to, among other things, enable us to update and correct the information contained in our database and to better customize your experience on the Sites. 
+Some of our applications may deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information.
 
-__Use of Cookies, Flash Cookies and Web Beacons__  
-Like many websites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We use cookies to track use of our Sites and online services. We may also use cookies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this cookie policy. 
+###### Cookies, Flash Cookies and Web Beacons
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Information on cookies and how to disable them provided by the Interactive Advertising Bureau"). 
+Like many websites, we use cookies, flash cookies, web beacons or similar technologies. “Cookies” are small text files that are stored on your computer or other device when you visit certain online pages that record your preferences and actions. We use cookies for a variety of purposes, including remembering you and your preferences, tracking your use of our Sites, and facilitating your payment transactions. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. However, please note that refusing a cookie may limit your access to the Sites.
 
-We may also use web beacons or flash cookies. A web beacon or flash cookie (also known as "action tags", "tracer tags", or "single-pixel gifs") is an invisible graphic on a web page that is programmed only to collect non-personal information about your use of a given website. We do not collect personally identifiable information, such as names, e-mail addresses and phone numbers, through such web beacons without your express permission. 
+A “flash cookie” is a data file placed on your device via the Adobe Flash plug-in, which may be built-in or downloaded by you to your computer or other device. Flash cookies may be used for various purposes, such as enabling a Flash feature and remembering your preferences. If you choose to adjust your Flash privacy settings in your device, some features of the Sites may not function properly. For more information about the privacy choices Adobe offers, visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
 
-We work with third-party advertising companies who also may utilize flash or enhanced cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not use this technology to collect personally identifiable information about you or have access to or use your name, address, e-mail address, telephone number or other personal information from us. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partners by opting out please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>. 
+A “web beacon” (also known as an “action tag”, “tracer tag”, or “single-pixel GIF”) is an invisible graphic that is programmed only to collect non-personal information about your use of our Sites or emails sent to you. Web beacons may be used for a number of purposes, including counting visitors to the Sites, monitoring how users navigate the Sites, counting how many emails were opened or how many links were viewed, and providing you with content customized to your interests.
 
-**Is Personal Information Collected From Children?**  
-Random House respects the privacy of children and we are committed to complying with the Children's Online Privacy Protection Act (COPPA). This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA. By providing your consent, you agree that we may collect, use, and disclose your child's personal information consistent with this Privacy Policy. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child's personal information in connection with the transaction for which it was originally collected, you may email us at ecustomerservice@randomhouse.com. Please note that the Site may link to other websites and online services operated by third parties, including authors whose books we publish that are not Random House author sites hosted and maintained by us. These websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party sites or applications to which your child provides personal information. For tips on protecting your child's privacy online, please see the U.S. Federal Trade Commission's brochure on this topic: [www.onguardonline.gov](http://www.onguardonline.gov/)
+###### Targeted Advertising
 
-**How Do We Use Your Information?**  
-We use the information we learn from you to help us personalize and continually improve your experience on the Sites. We may use your Personal and Non-Personal Information in the following ways: 
+We may allow third parties to use cookies, web beacons and similar technologies to better understand your behavior and browsing activities, so that we can serve you targeted advertising while you are on our Sites and display our ads to you when you visit other third party sites. For example, we work with third party network advertisers who may set these technologies to better provide advertisements about goods and services that may be of interest to you. We do not control these third party technologies, and they are not subject to this Privacy Policy. We do not authorize these third party network advertisers to use this technology to collect personal information about you and they do not have access to your personal information from us. They may, however, track your Internet usage anonymously (that is, without being able to identify you personally) over time and across other websites in their networks beyond our Sites. To learn more about the use of this information or to opt out of having this information used by our third party network advertisers, please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-__General Uses__
+##### California Do Not Track Notice
+
+Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on the Sites for these purposes.
+
+##### Collection of Information From Other Third Party Sources
+
+We may also collect personal and non-personal information about you from other sources to, among other things, enable us to supplement the information contained in our database and to better customize your experience with PRH.
+
+#### How We Use Your Information
+
+We use the information we learn about you to help us personalize and continually improve your experience with PRH. We may use your personal and non-personal information in the following ways:
+
+##### General Uses
 
   * Provide you with the products and services you request
   * Post your user generated content to our Sites as you request
   * Communicate with you about your account or transactions with us and send you information about features on our Sites
   * Communicate with you about changes to our policies
-  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
-  * Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by e-mail or other another medium
-  * Provide you with advertising including advertising based on your activity on our Sites or activity on third party sites and applications
+  * Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by email or another medium
+  * Personalize content and experiences on our Sites and within emails sent to you, including providing you recommendations based on your preferences
+  * Serve you targeted advertising, both on our Sites and elsewhere online, based on information we previously collected from you, including your activity on the Sites or activity on third party sites and applications
   * Administer our loyalty programs
   * Administer contests, sweepstakes, promotions, and surveys
   * Optimize or improve our products, services and operations
   * Detect, investigate, and prevent activities that may violate our policies or be illegal
-  * Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns
+  * Perform statistical, demographic, and marketing analyses of users of the Sites and recipients of our emails, including browsing and purchasing patterns
 
 
 
-__Combination of Your Personal Information__  
-We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by Random House LLC. and may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or from third party sources to enhance and check the accuracy of your customer records. 
+##### Combination of Your Information
 
-__Use of Your Location Information__  
-We use your location information to: 
+When you use more than one of our Sites, we may match information collected from you through each of those Sites and combine that information into a single user record. We may also use and/or combine information we collect off-line or from third party sources to enhance and check the accuracy of your user records.
 
-  * Provide you with the products and services you request
-  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
-  * Personalize your newsletters, offers and promotions for our products and services, third party products and services, or special events
-  * Personalize the advertising you receive, including advertising based on your activity on our Sites or activity on third party sites and applications
-  * Optimize or improve our products, services and operations
-  * Detect, investigate, and prevent activities that may violate our policies or be illegal
-  * Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns
+#### Who We Share Your Information With
+
+##### Personal Information
+
+Except as disclosed in this Privacy Policy, we do not use or disclose your personal information to any companies not part of the PRH family of companies. Although, as disclosed below, we may provide your personal information to our business partners, in no event will we sell or rent your personal information as part of a customer list or similar transaction without your express permission.
+
+###### Third Party Service Providers
+
+We have third party service providers that perform functions on our behalf, such as hosting, billing, marketing, analytics, customer service, fraud protection, etc. These entities have access to your personal information only as needed to perform their functions and they are obligated to maintain the confidentiality and security of that personal information. They are obligated not to use, sell, distribute or alter this information in any way other than to provide the requested services to the Sites.
+
+###### Third Parties With Whom We Do Business
+
+We may share your personal information with certain third parties with whom we do business, such as our authors or promotional co-sponsors, so that they can provide you with special offers, promotional materials, and similar materials that may be of interest to you. Although our treatment of your personal information is governed by this Privacy Policy, the third party’s treatment of your personal information will be governed by its privacy policy. You may withdraw your consent to our sharing of your personal information with such third parties at any time by sending us an email at privacy@penguinrandomhouse.com.
+
+###### Authors Whose Websites We Manage
+
+We manage certain author Sites on behalf of our authors. In those cases, we may transfer personal information collected from the Sites to the authors if they take over management of the Sites (in which case, such sites are no longer controlled by us). Under such circumstances we will use reasonable efforts to direct the author to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Nevertheless, we cannot ensure that the author will have the same privacy practices as described in this Privacy Policy and such author site will not be subject to the terms of this Privacy Policy.
+
+###### Corporate Parents and Affiliates
+
+We may share your personal information with our corporate parents and other affiliated entities for a variety of purposes, including business, operational and marketing purposes.
+
+###### Other Third Parties When Required By Law or In Emergency Situations
+
+We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public.
+
+##### Non-Personal Information
+
+Nothing in this Privacy Policy is intended to restrict our use of your non-personal information, and we may disclose or share non-personal information in any manner that we deem appropriate or necessary.
+
+#### Social Media
+
+Our Sites may provide you with the ability to register, log into, “like” or otherwise interact with third party social media services, including, but not limited to, Facebook, Instagram, Twitter, Pinterest, YouTube, and other social media services. These features may enable integration and/or access to your social media accounts. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your personal information on these services will be used. If you choose to log on to or submit information through any of these social media services, your personal information will be subject to the applicable social media service’s terms and conditions and your current privacy settings on such social media service. By accessing any social media service, you will be assuming the risk that the personal information you provide on that service may be viewed and/or used by third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
+
+In addition, by choosing to log in to our Sites using your credentials from a social media service, you are asking that service to send us certain information from your account with the service, and you authorize us to collect, store and use such information in accordance with this Privacy Policy.
+
+#### Children’s Privacy Policy
+
+PRH respects the privacy of children and we are committed to complying with the Children’s Online Privacy Protection Act (COPPA). This Children’s Privacy Policy describes our practices with respect to the collection of personal information from children under the age of 13. This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA.
+
+##### What Information We Collect and How We Use It
+
+We do not require children to share any personal information in order to participate on this Site. On occasion, however, we may collect personal information, such as an email address from a child as part of an activity, in accordance with COPPA. For example:
+
+  * **Email address:** We may collect a child’s email address in order to respond to a one-time request from the child, such as if the child asks us or one of our authors a question. In such case, we promptly delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose.
+  * **Send-a-friend:** In the case of send-a-friend email or card, we only collect a child’s first name and the friend’s email address to send the friend the email or card. We do not store the friend’s email address for any longer than reasonably necessary to send the email or card to the friend.
+  * **Email newsletters:** We may collect a child’s email address if the child wishes to sign up for our email newsletters. In such instance, the child will be asked to provide his or her email address and the email address of his or her parent/guardian. We will send the child’s parent/guardian a notification email informing them of the child’s request to receive the newsletter by email on an ongoing basis and give the parent/guardian the option to have his or her child’s information removed from our newsletter database. If the newsletter is declined, we will not send the newsletter and will delete any related personal information collected in the sign-up process from our files. If the newsletter is not declined, we will send the newsletter. All newsletters contain instructions so that the recipient may unsubscribe at any time.
+  * **Contests or Sweepstakes:** We may collect a child’s email address to enter the child in a sweepstakes or contest or to notify the child that he or she has won or lost a contest or sweepstakes or contest. We will not keep the child’s email address after the promotion or use the child’s email address for any other purpose other than for the promotion. For certain promotions, we may ask that a child give us his/her parent’s email address so we can obtain more personalized information for prize fulfillment purposes if the child wins the promotion or to notify the parent if we need more than the child’s email address to enter the child in the promotion. In the latter event, parents will be sent a notice along with instructions on how they may provide their consent for their child to participate in such promotion.
 
 
 
-**Who Do We Provide Your Information To?**  
-Except as disclosed in this Privacy Policy, we do not use or disclose information about your Personal Information collected online to any companies not part of the Random House family of companies. Although, as disclosed below, we may provide your information to our partners, in no event will we sell or rent your Personal Information as part of a customer list or similar transaction. 
+We may also collect anonymous information automatically from your child’s computer or device, such as the frequency with which the child visits our Site and the pages visited, to support the internal operations of the Site. We collect this information so we can understand and monitor usage of the Site, customize content on the Site and improve the performance of the Site. This information is collected using technologies such as cookies, flash cookies, web beacons, and similar technologies. This information is not used to behaviorally target children and we do not permit behavioral targeting on any of our Sites that are directed to children.
 
-__Third-Party Agents__  
-We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, billing, marketing, analytics, customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. 
+##### Special Circumstances for Information Sharing and Security
 
-__Business Partners and Third Parties__  
-We may share your Personal Information with our business partners or co-marketers from time to time. We may also share your Personal Information with third parties that provide products and services that we think you may be interested in. Although our treatment of your Personal Information is governed by this Privacy Policy, the business partner or third party's treatment of your Personal Information will be governed by the business partner or third party's privacy policy. You may withdraw your consent to our sharing of your Personal Information with business partners and third parties at any time by following the opt-out process described below. 
+We may share children’s personal information with “Third Party Service Providers” and “Other Third Parties When Required by Law” as disclosed above (see “Who We Share Your Information With“).
 
-__Emergency Situations__  
-We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public. 
+##### Parent’s Rights
 
-__Use of Non-Personal Information__  
-We may disclose or share Non-Personal Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary. Among other things, we will disclose Non-Personal Information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose Non-Personal Information to our partners and other third parties about how our users collectively use the Sites. 
+Under COPPA, you have the right to review and have any of your child’s information deleted from our records. You also have the right to tell us to stop collecting or using your child’s personal information. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information in connection with the transaction for which it was originally collected, you may email us at [privacy@penguinrandomhouse.com](mailto:privacy@penguinrandomhouse.com). For tips on protecting your child’s privacy online, please see the U.S. Federal Trade Commission’s brochure on this topic: [www.onguardonline.gov](http://www.onguardonline.gov/).
 
-**What Steps Are Taken To Keep Personal Information Secure?**  
-We are concerned about ensuring the security of your Personal Information. We exercise great care in providing secure transmission of your information from your device to our servers. Personal Information collected by our Sites is stored in secure operating environments that are not available to the public. Our security procedures mean that we may occasionally request proof of identity before we disclose your Personal Information to you. Please understand, however, that while we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. 
+#### Security of Your Personal Information
 
-**Your Obligations to Keep Your Access Rights Secure**  
-You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by a Website's registration form (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Random House has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Random House has the right to suspend or terminate your account and refuse any and all current or future use of the Sites (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. 
+PRH takes reasonable steps to help protect and secure your personal information. However, please remember that no data storage or data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, PRH cannot ensure or warrant the security of any information you transmit to us. Therefore, you understand, acknowledge and agree that you transmit your personal information to our Sites at your own risk.
 
-**What Happens When I Link To or From Another Website?**  
-These Sites may contain links to other websites operated by affiliates of Random House or third parties. Please be advised that the practices described in this Privacy Policy for Random House do not apply to information gathered through these other websites. We are not responsible for the actions and privacy policies of third parties and other websites. 
+#### Third Party Content and Links to Third Party Websites
 
-**What About Contests and Sweepstakes?**  
-When we run a contest or sweepstakes relating to our Sites, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy. In conjunction with your entry in such contest or sweepstakes, Personal Information will be collected only if you voluntarily submit it to. 
+Our Sites may contain content hosted or served by third parties or link to websites operated by affiliates of PRH or third parties. Please be advised that the practices described in this Privacy Policy for PRH do not apply to information gathered by these third parties. We are not responsible for the actions and privacy policies employed by any third party, and our hosting of third party content or linking to third party websites does not constitute an endorsement of the content or business practices of those third parties.
 
-**Public Areas, Chat Rooms, Reviews, and Community Areas**  
-Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private. Please consult the applicable guidelines, if any, for use of our chat rooms and other community areas for more information. 
+#### Public Areas, Forums, Reviews, and Community Areas
 
-**Governing Law**  
-These Sites are published in the United States. We attempt to protect the Personal Information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to the Random House services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to Random House. 
+Please remember that any information you share in public areas, such as forums, message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any personal information that you expect to keep private. Please consult our [Terms of Use](https://web.archive.org/terms/) and the applicable guidelines, if any, for use of our forums and other community areas for more information.
 
-**Assignment**  
-We may change our ownership or corporate organization while providing the Sites and services. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy. 
+#### Governing Law
 
-**Notice to Non-US Users**  
-If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America. 
+These Sites are published in the United States. We attempt to protect the personal information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to PRH’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to PRH.
 
-**Changes to This Policy**  
-As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not, however, materially change our policies and practices to make them less protective of Personal Information we have previously collected from you without your express consent. 
+#### Assignment
 
-**How Do I Opt-Out or Correct Information About Me**  
-You may always opt-out of receiving future e-mail messages and newsletters from Random House. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. To do so, you can send us a message at [listmaster@randomhouse.com](mailto:listmaster@randomhouse.com). 
+We may change our ownership or corporate organization while providing the Sites. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot ensure that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
 
-**Your California Privacy Rights**  
-California Civil Code Section 1798.83 permits customers of Random House who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [ecustomerservice@randomhouse.com](mailto:ecustomerservice@randomhouse.com). 
+#### Notice to Non-US Users
 
-**Do Not Track Practices**  
-As of the date of this privacy policy listed above, we cannot honor web browser “do-not-track” signals because we use third party vendors who do not honor such signals. While we collect personally identifiable information from you as described earlier in this privacy policy, we do not collect personally identifiable information from you to monitor your online activities across third party websites or online services and over time (also known as behavioral advertising or interest-based advertising). We do not use or allow third parties to collect personally identifiable information from you on the Sites in order to monitor your online activities across third party websites or online services and over time (also known as behavioral advertising or interest-based advertising). For more information about behavioral advertising or interest-based advertising and for further information on how to opt out from such advertising (and what “opting-out” does and doesn’t do), click <http://www.networkadvertising.org/choices/#completed>
+If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us on the Sites, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
 
-**CONTACT US**
+#### Changes to This Privacy Policy
+
+As our Sites continue to develop, we may add new services and features to them. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy, this document will be updated accordingly. If we make a material change in the way we use your personal information, we will provide prominent notice of the change on the Sites. We will not, however, materially change our policies and practices to make them less protective of personal information we have previously collected from you without your express consent.
+
+#### How To Opt-Out or Correct Your Information
+
+You may always opt-out of receiving future commercial emails and newsletters from PRH. We provide you with the opportunity to opt-out of receiving such communications from us by clicking on the “unsubscribe” link within the email you receive. You may also opt out of receiving further communications from us or correct your information by sending us a message at unsubscribe@penguinrandomhouse.com. Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial messages.
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers of PRH who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@penguinrandomhouse.com.
+
+#### How To Contact Us
 
 If you have any questions about this Privacy Policy, you may contact us as follows:
 
 **By mail:**  
 Online Privacy  
 Attn: Customer Service  
-Random House LLC  
+Penguin Random House  
 1745 Broadway  
-New York, NY 10019 
+New York, NY 10019
 
 **Phone:**  
-(800) 793-2665  
+(800) 793-2665
 
-
-**Email:**   
-ecustomerservice@randomhouse.com 
+**Email:**  
+[privacy@penguinrandomhouse.com](mailto:privacy@penguinrandomhouse.com)
