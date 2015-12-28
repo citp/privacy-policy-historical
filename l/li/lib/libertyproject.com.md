@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyproject.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629185752id_/http%3A//www.libertyproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyproject.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228154738id_/http%3A//www.libertyproject.com/privacy-policy) for the most accurate reproduction.*
 
 # The Liberty Project
 
