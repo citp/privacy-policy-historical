@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitie.edu privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221024745id_/http%3A//www.nitie.edu/NITIE%2520PRIVACY%2520POLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitie.edu privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228145447id_/http%3A//www.nitie.edu/NITIE%2520PRIVACY%2520POLICY.pdf) for the most accurate reproduction.*
 
 # NITIE PRIVACY POLICY 014/01/c
 
