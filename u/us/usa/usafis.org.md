@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622054700id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175231id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | USAFIS - Green Card DV Lottery Program
 
 ### Privacy Protection Commitment by Usafis Organization
 
-Usafis.org is committed to safeguarding your privacy while providing our Secure [Green Card](http://www.usafis.org/) Lottery online application services. We encourage you to periodically review this statement as it may change from time to time at our sole discretion. This Privacy Policy statement explains the personal information gathering and use practices of Usafis Organization. Questions concerning your personal information should be directed to our Privacy Officer by e-mail at [privacy@Usafis.org](mailto:privacy@Usafis.org)
+Usafis.org is committed to safeguarding your privacy while providing our Secure [Green Card](http://www.usafis.org/) Lottery online application services. We encourage you to periodically review this statement as it may change from time to time at our sole discretion. This Privacy Policy statement explains the personal information gathering and use practices of Usafis Organization. Questions concerning your personal information should be directed to our Privacy Officer by e-mail at [privacy@usafis.org](mailto:privacy@Usafis.org)
 
 #### **Information Collected**
 
@@ -55,13 +55,13 @@ Usafis.org includes links to different sites. Please note that when ‘clicking�
 
 #### **Access to Data and Contact Info**
 
-You may request a correction to or a copy of the personal information we hold about you by contacting the Privacy Officer at [privacy@Usafis.org](mailto:privacy@Usafis.org) or writing to:
+You may request a correction to or a copy of the personal information we hold about you by contacting the Privacy Officer at [privacy@usafis.org](mailto:privacy@Usafis.org) or writing to:
 
 Privacy Officer  
-Usafis Organization  
-306 W. 38th Street, Suite 800  
-New York NY 10018  
-USA
+USAFIS Organization  
+One Penn Plaza, Suite 6199  
+New York NY 10119  
+UNITED STATES
 
 #### **Changes to this Policy**
 
