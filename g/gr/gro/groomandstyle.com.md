@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the groomandstyle.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101347id_/http%3A//groomandstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groomandstyle.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228094513id_/http%3A//groomandstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Last Updated: 6th June, 2014
 
 We are as concerned about your privacy as you are and we make it our business to be as transparent as possible about how we handle the information we collect which is actually not that much.
 
