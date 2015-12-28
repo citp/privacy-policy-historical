@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the socialreport.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002234id_/http%3A//www.socialreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreport.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228132458id_/http%3A//www.socialreport.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Social Report – Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Social Report
 
 ### What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 Any of the information we collect from you may be used in one of the following ways: 
 
@@ -23,11 +21,11 @@ Any of the information we collect from you may be used in one of the following w
 
 ### How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+After a transaction, your private information (credit card number, billing address) will not be kept on file for more than 60 days.
 
 ### Do we disclose any information to outside parties?
 
@@ -35,9 +33,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits.
 
 ### Third party links
 
