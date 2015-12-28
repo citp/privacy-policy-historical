@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhinospike.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326182224id_/https%3A//rhinospike.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinospike.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228041219id_/https%3A//rhinospike.com/about/privacy) for the most accurate reproduction.*
 
 # RhinoSpike : Privacy Policy
 
