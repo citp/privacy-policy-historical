@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopit.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621195805id_/http%3A//www.promopit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopit.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228194428id_/http%3A//www.promopit.com/privacy_policy) for the most accurate reproduction.*
 
 # PromoPit - Digital product marketplace
 
