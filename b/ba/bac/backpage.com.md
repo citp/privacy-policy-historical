@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617062735id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228221009id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # backpage.com
 
 **Privacy Policy  
 Last Revised: _June 1, 2015_**
 
-Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
 **Acceptance of Privacy Policy**
 
@@ -42,9 +42,11 @@ Please note that if you post any of your personal information on the Site, such 
 
 **Collection of Non-Personal Information Using Cookies**
 
-We automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Sites.  Non-personal information includes without limitation your Internet Protocol (“IP”) address, cookie information (as described below), the pages you request, type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site, and the content you accessed. 
+We and certain service providers operating on our behalf collect information about your activity on our Site using tracking technologies such as cookies. This tracking data is used for many purposes, including, for example, to (i) deliver relevant content based on your preferences, usage patterns and location; (ii) monitor and evaluate the use and operation of our Site; and (iii) analyze traffic on our Site and on the sites of third parties. 
 
-“Cookies” are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
+Non-personal information collected includes, without limitation, your Internet Protocol (“IP”) address, the pages you request, the type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome or Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site and the content you accessed. We may also collect your geolocation information when you visit our Site, including location information either provided by a mobile device interacting with our Site, or associated with your IP address, where we are permitted by law to process this information. 
+
+Advertisers and third parties also may collect information about your activity on our Site and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see on third-party sites and applications, but does not identify you personally. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers. You may also choose to control targeted advertising you receive within applications by using your mobile device settings (for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads). We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
 
 **Communication from the Site/Opt-Out**
 
@@ -60,20 +62,26 @@ If you are a California resident and have provided personal information to the S
 
 We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at [support@backpage.com](mailto:support@backpage.com) or mailing your request to:
 
-Backpage.com LLC  
+backpage.com LLC  
 PO Box 192307   
 Dallas, TX 75219 USA
 
-International - not for correspondence  
-Classified Solutions Ltd.  
-The East Stable Thrales End Farm  
-Harpenden, United Kingdom, AL5 3NS
-
-Payment Solutions BV.  
-Zuidplein 116 - 1077XV,  
-Amsterdam, Netherlands 
-
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
+
+**Contact Us:**
+
+Email: [Contact us](http://posting.www.backpage.com/classifieds/Contact)   
+Telephone: +44 1929290057
+
+International Correspondence:   
+Payment Solutions BV.   
+Zuidplein 116, Tower H, Level 14,   
+1077XV, Amsterdam, Netherlands 
+
+US Correspondence:  
+backpage  
+PO Box 192307   
+Dallas, TX USA 75219
 
 **Children**
 
