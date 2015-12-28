@@ -1,25 +1,25 @@
-<!--The following is the downloaded HTML source of the boards.ie privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630145916id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boards.ie privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228175159id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 				<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>Boards.ie - Now Ye're Talkin'</title>
-		<link rel="icon" href="https://c0.b-static.net/www/i/favicon_16.ico?v=1" type="image/x-icon">
-		<link rel="stylesheet" type="text/css" media="screen" href="https://c0.b-static.net/www/css/themes/default/boards-www.css?v=484">
-<link rel="stylesheet" type="text/css" media="screen" href="https://c0.b-static.net/www/css/themes/default/content.css?v=484">
+		<link rel="icon" href="http://b-static.net/www/i/favicon_16.ico?v=1" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" media="screen" href="http://b-static.net/www/css/themes/default/boards-www.css?v=492">
+<link rel="stylesheet" type="text/css" media="screen" href="http://b-static.net/www/css/themes/default/content.css?v=492">
 		<script type="text/javascript" async="" src="//pool.distilled.ie/js/pool.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-		<script type="text/javascript" src="https://c0.b-static.net/www/js/boards-www.js?v=484"></script>
-				<!--[if lte IE 9]><link rel="stylesheet" href="https://c0.b-static.net/www/css/themes/default/ie9.css?v=484"/><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="https://c0.b-static.net/www/css/themes/default/ie8.css?v=484"/><![endif]-->
+		<script type="text/javascript" src="http://b-static.net/www/js/boards-www.js?v=492"></script>
+				<!--[if lte IE 9]><link rel="stylesheet" href="http://b-static.net/www/css/themes/default/ie9.css?v=492"/><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://b-static.net/www/css/themes/default/ie8.css?v=492"/><![endif]-->
 		<script type="text/javascript">
 		var params = {
 			site: 'www.boards.ie',
 			mainsite: 'www.boards.ie',
-			staticdomain: 'c0.b-static.net/www',
+			staticdomain: 'b-static.net/www',
 			modutilsdomain: 'modutils.boards.ie',
 			cookiedomain: '.boards.ie',
-			version: '484',
+			version: '492',
 			theme: 'default',
 			trackpage: 'terms/privacy',
 			js_vars: '[]',
@@ -56,7 +56,7 @@
 			// BT-3: Retarget Daft users who were logged in.
 			googletag.pubads().setTargeting('advertiser', '0');
 			googletag.pubads().setTargeting('stylename', 'default');
-			googletag.pubads().setTargeting('tiling', '3');
+			googletag.pubads().setTargeting('tiling', '0');
 			googletag.pubads().setTargeting(
 				'upc',
 				'0'
@@ -84,27 +84,7 @@
 			<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body class="body-override">
 		<div id="wrapper" class="inner-page">
-			<script type="text/javascript">
-	$(document).ready(function() {
-		$('.notify-close').click(function() {
-						$("#notify-container").hide();
-		});
-	});
-</script>
-
-<div id="notify-container">
-	<div>
-		<span class="notify-text">
-			<a href="/content/privacy#cookie-policy">Boards.ie uses cookies. By continuing
-							to browse this site you are agreeing to our use of cookies.
-							Click here to find out more</a>
-		</span>
-		<span class="notify-close">
-			<a title="Dismiss this notification">x</a>
-		</span>
-	</div>
-</div>
-<div class="nav-area">
+			<div class="nav-area">
 	<ul id="nav">
 		<li class="first"><a href="http://www.boards.ie/vbulletin/forumdisplay.php?f=241">Talk to...</a></li>
 		<li><a href="http://www.boards.ie/vbulletin/forumdisplay.php?f=241">Boards.ie</a></li>
@@ -827,6 +807,22 @@
 				<li><a href="http://www.boards.ie/content/about-us">About Us</a></li>
 				<li><a href="http://www.boards.ie/contact">Contact Us</a></li>
 				<li id="view_on_touch"><a onclick="$.cookie('force_device', 'mobile', { path:'/', domain: Boards.domains.cookiedomain, expires: 365 }); return true;" href="" title="Touch Site">Touch Site</a></li>
+				<li>
+					<a class="toggle-beta" href="">Turn Beta On</a>
+			   </li>
+<script type="text/javascript">
+(function($){
+    $('.toggle-beta').on('click', function() {
+        var options = { path:'/', domain: Boards.domains.cookiedomain, expires: 365 };
+
+        $.cookie('beta', 'userv1', options);
+
+        Boards.Analytics.trackEvent("click/BetaSite/On", 'click', 'Turn beta site on');
+
+        return true;
+    });
+}(jQuery));
+</script>
 
 							</ul>
 			<p>Copyright © 2000 - 2015 Boards.ie Limited (Hosted by <a href="http://www.digiweb.ie">Digiweb Hosting</a>)</p>
@@ -845,6 +841,7 @@
 		</div>
 	</div>
 </div>
+
 <!-- Google Analytics Autotrack JS -->
 <script type="text/javascript">
 	Boards.on('libloaded_Analytics', function() {
