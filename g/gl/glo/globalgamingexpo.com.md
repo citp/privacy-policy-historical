@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202010621id_/http%3A//www.globalgamingexpo.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228204525id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Gaming Expo
 
@@ -6,7 +6,7 @@ Reed Exhibitions and Global Gaming Expo respect the information provided by our 
 
 ## US Policy
 
-Global Gaming Expo is produced and managed by Reed Exhibitions (RX-US), a division of Reed Elsevier, Inc. This privacy policy applies to all RX-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at [www.reedexpo.com](http://www.reedexpo.com/).
+Global Gaming Expo is produced and managed by Reed Exhibitions (RX-US), a division of RELX Group. This privacy policy applies to all RX-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at [www.reedexpo.com](http://www.reedexpo.com/).
 
 ## Our Customers
 
@@ -38,6 +38,60 @@ A "cookie" is a bit of data sent by a website through the browser to the compute
 
 If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site's features and information.
 
+## What are “cookies”?
+
+“Cookies” (also known as HTTP cookies, web cookies or browser cookies) are simply small pieces of data, which are stored as text files on your computer, whenever you visit certain websites. Their typical purpose is to help sites remember particular actions you may have done there in the past. For example, cookies may track when you have logged into a site, visited certain pages or clicked certain buttons.
+
+Websites maintained by Reed Exhibitions Limited© (RX) use cookies to improve your user experience. In many cases, cookies are even essential for certain features of a site.
+
+For example, we use cookies to: 
+  * Remember when you have logged into a site.
+  * Remember your user preferences, searches and favourites.
+  * Track your usage of a site, via WebAbacus© and Google Analytics©.
+  * Track the success of our marketing campaigns. Additionally, RX websites have a small set of carefully selected third-party providers.
+
+These third-parties use cookies to: 
+  * Target more relevant advertisements to you (DoubleClick™, 6-degrees©)
+  * Enable social media sharing (AddThis©, Facebook©, Twitter©, YouTube©)
+  * Ensure better service delivery (Ooyala®) You can view a full list of all cookies used by RX websites in the “What cookies do we use and why?” section.
+
+
+
+## Are cookies harmful?
+
+Cookies cannot harm you or your computer. They cannot contain viruses, cannot install harmful software and cannot damage your computer in any way. Although RX uses cookies to gather encrypted information to improve your user experience, this information is never personally identifiable. We do not use cookies to store any sensitive information, such as name, address or contact details.
+
+Despite this, if you do wish to disable or remove cookies, please see the “Help” section of your browser or mobile device. Each browser or device handles the management of cookies differently, so you will need to refer to your appropriate “Help” documentation. However, as mentioned, please be aware that cookies are essential for certain features of an RX site to work properly.
+
+## Why are we telling you this?
+
+The information provided here on the use of cookies on RX websites demonstrates our compliance with recent cookie legislation. We also want you, as a valued RX website user, to fully understand your privacy, how cookies affect you and to be entirely comfortable with your RX website experience.
+
+We trust that this information eases any concerns you may have had about your privacy and safety with cookies. BY CONTINUING TO USE OUR WEBSITE, YOU AGREE TO BE SUBJECT TO THE TERMS OF THIS COOKIES POLICY AND OUR USE OF COOKIES AS DISCLOSED IN THIS POLICY.
+
+## What cookies do we use and why?
+
+The following shows the full list of platform cookies, used throughout all RX websites.
+
+Name | Owner | Duration | Purpose  
+---|---|---|---  
+__utma | Google Analytics | 2 years | Google Analytics© is another analytics solution, which provides information about your activity on an RX website. As with WebAbacus?, this helps us to understand what works on the site and better tailor it to your needs. This cookie is used to determine unique visitors to an RX website. It is updated with each page view.  
+_utmb | Google Analytics | 30 minutes | This is another Google Analytics© cookie. It is used to establish a user session with an RX website.  
+_utmc | Google Analytics | None | This is another Google Analytics© cookie. It determines whether or not a new session has been created.  
+_utmz | Google Analytics | 6 months | This is another Google Analytics© cookie. It is used to identify how you arrived at the site, whether via a direct method, a referring link, a website search or a campaign, such as an advertisement or email link. This cookie is used to calculate search engine traffic, advertisement campaigns and page navigation. It is updated with each page view.  
+.EPiServerLogin | Reed Exhibitions | Session | This cookie is set when you log into an RX website. It remembers that you are logged in, as you navigate through the site?s pages.  
+[HOST]_trackingData | Reed Exhibitions | 14 days | Similar to the campaigns.site.[THIS SITE] cookie, if you have arrived at an RX website via one of our marketing campaigns, this cookie stores the campaign?s information and reports its success to us.  
+campaigns.site.[THIS SITE] | Reed Exhibitions | 1 hour | If you have arrived at an RX website via one of our marketing campaigns, this cookie stores the campaign?s information and reports its success to us.  
+novaState | Reed Exhibitions | Session | This cookie helps an RX website to remember your preferences. For example, if you view a site in a chosen language, every page within your session is then displayed in this language. As another example, if you add an exhibitor to your Show Planner, this is recorded by the cookie so that this exhibitor will be displayed in your planner, the next time you visit.  
+showcookiecompliance | Reed Exhibitions | Permanent | This cookie is set when you dismiss the "Privacy and Cookies" message, displayed at the bottom of an RX website. Once set, it ensures you will not be shown this message again.  
+url referrer | Reed Exhibitions | Session | If you have arrived at an RX website via one of our marketing campaigns, this cookie helps us report on the webpage from which you arrived.  
+voviciSurvey_invitationDateTime | Reed Exhibitions | 60 minutes | This is another Vovici© cookie. It ensures that a survey is only served to you, after you have been on the site for more than two minutes.  
+voviciSurvey_noInvitations | Reed Exhibitions | 10 years | Vovici© is the company used by RX to supply website surveys, often to elicit feedback on the websites themselves. This cookie remembers when you have completed a survey and prevents it from being served to you again.  
+webtolead.site.[THIS SITE] | Reed Exhibitions | 1 Year | When you have: Submitted a request to attend, exhibit or advertise at an RX show OR Provided your details in order to access premium content on an RX site. This cookie remembers that you have already done so and ensures that you do not have to re-submit your request or re-enter your details.  
+f_hash  | Feathr  | 2 Years  | Feathr is an analytics and digital marketing solution. Feathr helps us determine which content is most active, and associates individuals with the content they consume. This cookie helps Feathr determine whether or not the visitor and page view represent legitimate traffic or potentially come from a bot or search engine crawler.   
+f_id  | Feathr  | 2 Years  | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.   
+f_opt_out  | Feathr  | 5 Years  | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.   
+  
 ## Policy Changes
 
 RX-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.
@@ -50,6 +104,3 @@ Reed Exhibitions
 US Privacy Administrator/Database Dept  
 383 Main Ave.  
 Norwalk, CT 06851
-
-  
-
