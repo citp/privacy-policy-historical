@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dewalt.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626043945id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalt.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228165021id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.*
 
 # DEWALT | Power Tools, Contractor Tools and Accessories
 
