@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwire-travel.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021516id_/http%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire-travel.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228044713id_/http%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
 
 # Privacy policy | Hotwire.com
 
