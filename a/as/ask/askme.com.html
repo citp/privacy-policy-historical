@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the askme.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623204653id_/http%3A//www.askme.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askme.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228182024id_/http%3A//www.askme.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://chuknu.sokrati.com/1980/tracker.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-53RHX7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4PU1VRGwcCUFVVBAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-53RHX7"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
         <!--  Meta tags included here-->
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
-      	
+        
         <meta property="og:title" content="Privacy Policy | Askme.com">
         <meta property="og:url" content="http://www.askme.com/privacy-policy">
         <meta property="og:site_name" content="Askme">
@@ -14,67 +14,113 @@
         <meta name="twitter:url" content="http://www.askme.com/privacy-policy">
         <meta name="twitter:title" content="Privacy Policy | Askme.com">
         <meta name="twitter:description" content="">
-        <meta name="robots" content="index, follow">
+        <meta name="robots" content="noodp,noydir">
         
         <!--  Head title included here-->
         <title>Privacy Policy | Askme.com</title>
 
-       
-        
+
+
+
         <!-- canonical url -->
                         <link rel="canonical" href="http://www.askme.com/privacy-policy">
                 
                 <!-- canonical url -->
-                
+        
                 <!-- Google Tag Manager -->
-        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53RHX7"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-53RHX7');</script>
-        <!-- End Google Tag Manager -->
-                
-                 <script src="//assets.adobedtm.com/b38ddee68ec3a9dd3a40f1cf1c98879d99c18bf4/satelliteLib-748f2863df751a0b528ff155fa973187244776f3.js"></script>
-                
-        <!-- Start Alexa Certify Javascript -->
-        <script type="text/javascript">
-        _atrk_opts = { atrk_acct:"31Ubl1awEti24B", domain:"askme.com",dynamic: true};
-        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-        </script>
-        <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=31Ubl1awEti24B" style="display:none" height="1" width="1" alt="" /></noscript>
-        <!-- End Alexa Certify Javascript -->
-        
-         <!--Dns Prefetch-->
-        <link rel="dns-prefetch" href="http://static.askme.com/">
-        <link rel="dns-prefetch" href="http://Stocks.askme.com/">
-        <link rel="dns-prefetch" href="http://img.getit.in/">
-        <link rel="dns-prefetch" href="http://www.getithotdeals.in/image/">
-        <!--Dns Prefetch-->
-        
-                               
-        <!-- favicon -->
-        <link rel="shortcut icon" href="http://static.askme.com/images/favicon/favicon-48.png">
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.askme.com/images/favicon/favicon-144.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.askme.com/images/favicon/favicon-114.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.askme.com/images/favicon/favicon-72.png">
-        <link rel="apple-touch-icon-precomposed" href="http://static.askme.com/images/favicon/favicon-57.png">
-        <!-- /favicon -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53RHX7"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-53RHX7');</script>
+    <!-- End Google Tag Manager -->
+    
+        <script src="//assets.adobedtm.com/b38ddee68ec3a9dd3a40f1cf1c98879d99c18bf4/satelliteLib-748f2863df751a0b528ff155fa973187244776f3.js"></script>
+    <script>
+        //Generic declaration of the data layer
+        var datalayer = {};
+    </script>
+    
+    <script type="text/javascript">
+        var PHP_CURRENT_PAGE_TYPE = "Privacy Policy";
+        var base_url = "http://www.askme.com";
+        var PHP_GTM_STATUS = "1";
+        var PHP_DTM_STATUS = "1";
+        var PHP_MIXEDPANEL_STATUS = "0";
+        var PHP_ANALYTICS_STATUS = "0";
+        var PHP_MIXPANEL_TOKEN = "5b083016065a3869061d4764aa64d36";
+        var PHP_WEBENGAGECONF_STATUS = "0";
+        var PHP_GEOLOCATION_STATUS = " 1";
+        var PHP_ASKMEAPI_SERVICE_URL = "http://www.askme.com/askmeapi/service/service.ashx";
+        var PHP_PIWIK_STATUS = "1";
+        var PHP_PIWIK_ID = "11";
+        var PHP_PIWIK_URL = "//piwikaskme.erlpaas.com/";
+        var USER_SERVICE_URL = "https://id.askme.com";
+        var GUID = '';
+        var VisitID = '';
+        var PHP_CITY = 'Delhi';
+        var GUID = PHP_SESSION_ID = "";
 
-        <!--  Head Css included here-->
-               
-        
-          	        <link media="all" type="text/css" rel="stylesheet" href="http://static.askme.com/css/v1_styles.css">
+        var PHP_VISIT_ID = "";
+        var PHP_REF_URL = 'http://www.askme.com/';
+
+        var PHP_POSTADD_HREF = "http://www.askme.com/Delhi/adpost";
+        var PHP_POSTREVIEW_HREF = "http://www.askme.com/Delhi/post-review";
+        var PHP_ASKME_REFERER = "1"; 
+    </script>
+
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = {atrk_acct: "31Ubl1awEti24B", domain: "askme.com", dynamic: true};
+        (function() {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=31Ubl1awEti24B" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+
+    <!--Dns Prefetch-->
+    <link rel="dns-prefetch" href="http://static.askme.com/">
+    <link rel="dns-prefetch" href="http://Stocks.askme.com/">
+    <link rel="dns-prefetch" href="http://img.getit.in/">
+    <link rel="dns-prefetch" href="http://www.getithotdeals.in/image/">
+    <!--Dns Prefetch-->
+
+            
+    <!-- favicon -->
+    <link rel="shortcut icon" href="http://static.askme.com/images/favicon/favicon-48.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.askme.com/images/favicon/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.askme.com/images/favicon/favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.askme.com/images/favicon/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="http://static.askme.com/images/favicon/favicon-57.png">
+    <!-- /favicon -->
+
+    <!--  Head Css included here-->
  
-                
-                <link media="all" type="text/css" rel="stylesheet" href="http://static.askme.com/css/askme-common.css">
- 
         
+    <link href="http://static.askme.com/mcss/57a099d2e024f233ecee0beda6a5a3641450703303.css" rel="stylesheet">
+
+
+    
 <link media="all" type="text/css" rel="stylesheet" href="http://static.askme.com/css/blog.min.css?modified=1433568048">
 
-<link media="all" type="text/css" rel="stylesheet" href="http://static.askme.com/css/video_upload.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://static.askme.com/css/customblog.css">
 
+<link href="http://static.askme.com/mcss/1f25159f21a0a785d8571e70baaf521f1432903441.css" rel="stylesheet">
 
 <style>
     .divider{
@@ -95,50 +141,56 @@
 
 </style>
 
-        <!-- Head js included here-->
+            <script src="http://static.askme.com/mjs/4d71052da8645652ca009f74e13c91011446470592.js"></script>
 
-    </head>
-    <body>
-        <!-- Content of body included here-->
-        <!-- error messages -->
+        
+    <!-- Head js included here-->
+        <link rel="publisher" href="https://plus.google.com/+askme04444444444">
+</head>
+<body>
+    <!-- Content of body included here-->
+    <!-- error messages -->
 
- 
-<!-- error messages --> 
-
-<!-- success messages --> 
- 
 <!-- error messages -->
-<style> 
+
+<!-- success messages -->
+<!-- error messages -->
+<style>
     /*Adde by Srinivas Reddy*/
     #rel-area-fld { position:relative;}
-    .nh-slct-area { position:relative;} 
-    #rel-area-fld ul#ui-id-2 { position:absolute;} 
-    .nhead-top-links .scroll-pane{max-height:190px !important;} 
+    .nh-slct-area { position:relative;}
+    #rel-area-fld ul#ui-id-2 { position:absolute;}
+    .nhead-top-links .scroll-pane{max-height:190px !important;}
 </style>
 <!--Header  Content starts here / UI By Srinivas Reddy G -->
 <div class="askme-container nhead-top-links"><!--askme-container header-bg-new-->
     <div class="askme-inner-new-container">
         <ul class="nh-links-list" id="logged_in">
             <!--top-user-control-nav-->
-            <li> <a class="login-mp" href="http://www.askme.com/user/login" id="login_open">Sign in</a> </li>
-            <li> <a class="register-mp" href="http://www.askme.com/user/register">Register</a> </li>
-            <li>
-                <a id="postad" href="http://www.askme.com/kolkata/adpost" title="Post an Ad" target="_blank">Advertise </a> </li>
-            <li> <a href="http://www.askme.com/kolkata/post-review" id="postreview" target="_blank" title="Ask me Review">Write a Review </a> </li>
-        </ul>
+                           <li> <a class="login-mp" href="https://id.askme.com/login?rurl=http://www.askme.com/user/login?askmeRef=http://www.askme.com/privacy-policy" id="login_open">Sign in</a> </li>
+                <li> <a class="register-mp" href="https://id.askme.com/register?rurl=http://www.askme.com/user/login?askmeRef=http://www.askme.com/privacy-policy">Register</a> </li>
+                                <li> <a href="https://id.askme.com/login?rurl=http://www.askme.com/user/login?askmeRef=http://www.askme.com/user/rewards">Askme Rewards</a> </li>
+                <li> <a class="invite" href="https://id.askme.com/invite">Invite &amp; Earn</a> </li>
+                <li><a href="http://www.askme.com/rewards/faq">About Rewards</a></li>
+                        <li>
+            
+                            <a id="postad" href="https://id.askme.com/login?rurl=http://www.askme.com/user/login?askmeRef=http://www.askme.com/delhi/adpost" title="Post an Ad" target="_blank">Advertise</a>
+            
+            </li><li> <a href="http://www.askme.com/delhi/post-review" id="postreview" target="_blank" title="Ask me Review">Write a Review </a> </li>
+                    </ul>
         <div class="askme-row">
-            <div class="nh-askme-logo"><!--left-logo--> 
+            <div class="nh-askme-logo"><!--left-logo-->
                 <a href="http://www.askme.com" title="Ask me"> </a> </div>
             <div class="nh-search-box"><!---rights-logos-serch-->
-                <input type="hidden" name="hidcity" id="hidcity" value="Kolkata">
+                            <input type="hidden" name="hidcity" id="hidcity" value="Delhi">
                 <!--                <form method="GET" action="http://www.askme.com/privacy-policy" accept-charset="UTF-8" class="search nocsrf" id="frmsearch" name="frmsearch">-->
 
-                <div class="nh-search-word"><!--item-name--> 
+                <div class="nh-search-word"><!--item-name-->
                     <input placeholder="Find Restaurants, Spas, Saloons etc." id="query" name="sPattern" type="text" value=""> </div>
                 <div class="nh-search-city head-dtop ask_srch2"><!--locality-name-->
-                    <input type="text" value="Kolkata" name="headerCity1" id="headerCity1" class="ask_srch1">
-                    <input type="hidden" value="Kolkata" name="city_value" id="city_value">
-                    <input type="hidden" name="sCity" id="sCity" value="Kolkata">
+                    <input type="text" value="Delhi" name="headerCity1" id="headerCity1" class="ask_srch1">
+                    <input type="hidden" value="Delhi" name="city_value" id="city_value">
+                    <input type="hidden" name="sCity" id="sCity" value="Delhi">
                     <div class="loader2">
                         <div id="dvLoading"></div>
                     </div>
@@ -168,15 +220,48 @@
                 <div class="nh-serch-btn"><!--top-serach-button-->
                     <button id="askme_button" onkeydown="submitForm(e)"><span class="srch-btn"></span></button>
                 </div>
-                <!--                    </form>--> 
+                <!--                    </form>-->
             </div>
             <div class="nh-askme-bazaar-logo"> <a href="http://www.askmebazaar.com/?utm_source=askme&amp;utm_medium=web&amp;utm_campaign=webtraffic" id="askme_bazaar" target="_blank" title="Ask me Bazaar"></a> </div>
         </div>
     </div>
 </div>
-<!--Header  Content Ends  here --> 
 
+<!-- Google Organisation Script, START -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "legalName": "AskMe.com",
+    "url": "http://www.askme.com",
+    "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "telephone": "+91-4444444444",
+            "contactType": "customer service"
+        }
+    ],
+    "logo": "http://static.askme.com/images/new-baap-logo.png",
+    "sameAs": [
+        "https://www.facebook.com/askme04444444444",
+        "https://twitter.com/ASKMEIndia",
+        "https://plus.google.com/+askme04444444444",
+        "https://www.youtube.com/user/askme04444444444",
+        "https://www.linkedin.com/company/getit-infoservices-p-ltd",
+        "https://instagram.com/askmeindia/",
+        "https://www.pinterest.com/askmelifestyle",
+        "http://askmecom.tumblr.com",
+        "https://myspace.com/askme04444444444"
+    ]
+}
+</script>
+<!-- Google Organisation Script, END -->
 
+<!-- Pinterest Account verification -->
+<meta name="p:domain_verify" content="5c54aaf34b876f1516b76ba65c08d5e8">
+<!-- Pinterest Account verification -->
+
+<!--Header  Content Ends  here -->
 
 
 <div id="fb-root"></div>
@@ -188,7 +273,11 @@
 
 <div style="text-align:justify"><p>This document is published in accordance with the provisions of Rule 4(1) of the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 which requires the publishing of a privacy policy for handling of or dealing in personal information including sensitive personal data or information.</p><p>This Site is owned and operated by Getit Infoservices Private Limited, a company incorporated under the provisions of the (Indian) Companies Act, 1956, having its registered office at 8B, Bahadur Shah Zafar Marg, 1st Floor, ITO, New Delhi -110002 (hereinafter referred to as "<strong>Getit</strong>" "<strong>we</strong>" "<strong>us</strong>" or "<strong>our</strong>").</p><p>Any reference to "you" or "your" in this privacy policy ("<strong>Privacy Policy</strong>"), means you as a user of our site ("<strong>Site</strong>") as an advertiser and/or viewer browsing the Site ("<strong>User</strong>")  for: (i) listing your business and Products; or (ii) carry out online search for Products and to contact the Users that provide the Products. Products shall mean "products manufactured and/or distributed by the User's listed on the Site" and the afore-mentioned services of listing and search provided by Getit on the Site, along with other services as may be included and modified from time to time, shall together be referred to as "<strong>Services</strong>".</p><p>As a User, your access to and use of the Site is conditional upon your acceptance of and continued compliance with this Privacy Policy. By using the Site, you agree to be bound by this Privacy Policy and all rules, guidelines, policies, terms and conditions applicable to a Service being provided by Getit ("<strong>Policies</strong>"),  as may be modified by Getit from time to time, unconditionally and at all times and further agree and confirm that you consent to providing Getit information about yourself for the purpose set out below and you understand that such collection, storage and handling is lawful, necessary and permissible under applicable laws.</p><p>Each capitalized term not defined but used in this Privacy Policy shall have the same meaning as ascribed to such term in the Terms and Conditions <em>(defined below)</em>.</p><h3>1. Requirement for collection of information</h3><p>The information collected is relevant and necessary to understand you or your online browsing search pattern, including businesses and locations searched. The information is collected with an intention to provide you with a customized site experience, provide updated information, related transaction information, provide help regarding usage of the Site or any of our other advertiser-focused websites or new services and special offers we think you might be interested in, carry out follow ups, to assist with customer service or technical support issues, troubleshoot problems, measure gauge for surveys on your interest in the Products listed, enforce the Terms and Conditions and other related policies or to prevent fraud and unlawful use. It may be noted that Getit has strict guidelines with respect to unauthorized access to information provided by the User (as enumerated below).</p><h3>2. Collection of Information</h3><p>Our Privacy Policy contains provisions regarding collection, storage and handling of personal and non-personal information that you share on the Site. These could include mandatory or voluntary disclosures that you make while and for using the Site. Personal Information is data that can be used to uniquely identify or contact a single person (<span style="font-weight: normal;">"</span>Personal Information"). Personal Information for the purposes of this Privacy Policy shall include, but not be limited to, your name, address, telephone number, date of birth, gender, e-mail address, images, videos etc. provided by you whilst using the Site and/ or availing the Services.</p><p>By accessing, browsing and continuing to use/browse the Site or by clicking on "Register" or "Submit" icons or other relevant icons/ buttons on the Site, you accept the terms of this Privacy Policy, and the fact that we store and process your Personal Information in accordance with this Privacy Policy.</p><p>If you submit a comment or feedback on any business featured on the Site and/or any of the Services offered on the Site, we may (but are not obliged to) publish your comment online or offline to promote our business, products and services. We will collect your name which will be displayed next to your comment, and e-mail address, which will not be published, but which we may use to contact you in relation to your comment. From time to time, we may ask you for your opinion on our Services. When we do surveys wherein we may use cookies or other on-device storage and may combine the information collected by those cookies or other on-device storage with your answers. We will make sure that the survey results do not identify you, or anyone else who fills in our surveys.</p><p>What we know about you we get mostly from you. But we may also have to find out more about you from other sources in order to verify the information submitted by you, and to make sure that what we know about you is correct and complete. This kind of verification is primarily done in order to address various security concerns, and to ensure that you comply with the provisions of applicable laws, and the terms and conditions available on the Site ("<strong><span style="text-decoration: underline;">Terms and Conditions</span></strong>") and other terms and conditions as may be prescribed by us from time to time. We do not collect personally identifiable information (including Personal Information) about you, expect when you specifically provide such information on a voluntary basis.</p><h3>3. Usage of Information Collected</h3><p>Getit is sensitive towards your information including your Personal Information and non-personal information (email, business details, demographic location and address, age, name, phone number etc.,) provided at the time of registering with Getit or otherwise while availing the Services on the Site.</p><p>We use information about you to help us provide you with a more personalized service which is tailored to suit your needs.</p><p><strong>Your personal information may be used by us to:</strong></p><p>monitor, develop and improve the Site, Services and your experience;</p><p>assist in and administer the provision of Services to you;</p><p>process and deal with any complaints or enquiries made by or about you;</p><p>investigate any suspected breach of the <a href="http://www.itv.com/Termsandconditions/default.html">Terms and Conditions </a> or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.</p><p><strong>Where and only where requested/agreed by you, we will:</strong></p><p>i send you and keep you updated with information by email, telephone (including SMS) or mail about existing and new services and special offers from us;</p><p>ii send you information by email, telephone or mail about related products or services of selected third parties that may be of interest to you; and</p><p>iii use the information for marketing and for market research purposes, including internal demographic studies, to provide, optimize and personalize our services and to send you newsletters and information about the products and services.</p><p>The information is readily available on the Site and only viewable by you by logging on to the Site. You, at all times have the option not to provide any personal or other information about you without agreeing to register with Getit and otherwise withdraw your consent by communicating the same to us in the manner in the Terms and Conditions and the Policies. Upon withdrawal Getit will have no obligations towards you nor will it be liable for the Services and products provided till the time you had consented to retain the information with Getit. Please note that if you "do not agree" to, or "opt out" from, providing personal or other information requested by us, you may not be able to access certain areas of the Site and/or avail certain Services and/or Indirect Services. However, it may be noted that Getit reserves the right to send service related and your specific and preferred transaction related communication without offering you the facility to opt-out. You can update your Account Details <em>(defined below)</em>, Personal Information and other information at any time. At your request, Getit can also cancel your registration and remove/block your Personal Information from its database/ Site. However, this information may remain in our archive even after deletion or termination of your account as required by law and the handling of the same is in accordance with the provisions of the applicable law and as intimated by the government agency from time to time.</p><h3>4. Use of information for marketing</h3><p>In line with any permission given by you to us, we may send you direct marketing communications about our own, or selected third party services and disclose your information to other organizations who may send direct marketing communications to you. You can change your marketing preferences if you are registered with us. In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.</p><h3>5. Use of Cookies</h3><p>By using Getit, our servers (hosted by a third party service provider) may collect information indirectly and automatically about your activities on the Site by way of cookies. Cookies are pieces of information that a site sends to your computer or other media device while you are viewing or interacting with the site. We use cookies and other such devices to compile anonymous, aggregated statistics that allow us to understand how users use our Site and to help us improve the structure of our Site (we cannot identify you personally in this way). Further it allows us to understand who has seen which pages and advertisements on the Site, to determine how frequently particular such pages and advertisements are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. We may combine your visitor session information or other information collected through cookies and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what category/nature of businesses and locations you prefer or are likely to be of interest to you. This information is not linked to your Personal Information and is maintained distinctly.</p><p>You may also get cookies from our advertisers. We do not control these cookies, and once you have clicked on the advertisement and left the Site, our Privacy Policy no longer applies. Getit is not responsible for collecting cookies through Linked Sites (<em>defined below</em>), neither is it liable for misuse of the information you provide to Linked Sites.</p><p>It is clarified that we store information only in the manner contained herein and in accordance with the provisions of applicable law.</p><p>You can change your web browsers settings to accept or not to accept cookies. Getit may use third-party service providers to serve ads on its behalf across the internet and sometimes on the Site. Such third party service providers may collect anonymous information about your visits to the Site and the Products listed on the Site. Personally identifiable information is not linked to data collected from this source.</p><p>Getit could use log file including internet protocol addresses, browser type, internet service provider, referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the Site, track user movement and gather broad demographic information for aggregate use. These are not linked to information identifiable personally.</p><h3>6. Information Sharing</h3><p>For any payments on the Site, Getit uses online payment gateway operated by third party and the information that you provide at the time of making a purchase on the Site is held and stored with third party payment gateway operator authorised at multiple points. The payment gateway operator may also have access to your online purchase history/details that you make from the Site. These payment gateways are digitally encrypted, thereby providing the highest possible degree of privacy and care available, currently. Whilst we are unable to guarantee 100% (one hundred percent) security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. Also, you are responsible for protecting against unauthorised access to your password and to your computer. We will not be liable for the disclosure and dissemination of Personal Information to third parties which you as prudent Users put up on the Site, and available to the other Users of the Site.</p><p>Kindly note that we do not store extremely sensitive information like your credit card information on our database.</p><p>Getit, handles all information in accordance with the provisions of the applicable law as made applicable from time to time and only for the duration lawfully required, thereunder. Getit may disclose aggregated information, including to aggregators, about the use of the Site without Personal Information. Getit implements standard measures to protect against unauthorized access to and unlawful interception of Personal Information. However, Getit feels prudent to inform you that no internet site can fully eliminate security risks and enforcement of privacy laws are at a developing stage in some parts of the world.</p><h3>7. Storage of Information</h3><p>Getit does not rent, sell or share your personal or sensitive information and does not disclose any of your Personal Information to third parties unless you have granted Getit the permission to do so. However, we may pass your Personal Information to other third parties in the following scenarios:</p><p>i. To help us process questions you may have about a business listed on the Site, service, registration or other inquiry you may have;</p><p>ii. To confirm or correct what we know about you;</p><p>iii. We may pass your Personal Information to our employees, contractors, suppliers and/or agents to administer the Services provided to you by us now or in the future;</p><p>iv. To help us or law enforcement agencies prevent fraud, money laundering, terrorism and other crimes. Also, we may disclose your Personal Information to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of this Privacy Policy and or the breach of other terms and conditions otherwise relating to you or otherwise where required by law and we will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity of or locate anyone breaching this Privacy Policy or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders.</p><p>v. If you call our customer care call centre, we may pass your Personal Information to our call centre to allow them to deal with your call more efficiently;</p><p>vi. Assisting an agency in undertaking information for us;</p><p>vii. If another organization is engaged by us to perform tasks on our behalf;</p><p>viii. Compliance with an audit on our business;</p><p>ix. If we sell all or any part of our business or merge with another company;</p><p>x. If it is necessary for legal proceedings and when we believe in good faith that any applicable law ,regulation, government, regulatory or other authority, agency or officer requires it or to protect the safety or security of users of the Site;</p><p>xi. If we use third party processors to administer and process your Personal Information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of the Site or Services;</p><p>xii. To obtain advice from third parties such as auditors or legal advisors.</p><p>In addition to the above, disclosures may also be made if it was clearly stated at the time of registration and, where required, if you have given permission for this. Generally, we will disclose only the information we consider reasonably necessary to disclose. Also, some general statistical information about the Site user base, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying you.</p><p>Further it may be noted that we may share your information with the associates of Getit. An associates for the purposes of this Privacy Policy shall mean a company in which Getit directly or indirectly, owns or controls, or is owned or controlled by, or is under common ownership or control with Getit; wherein 'Own' means the beneficial ownership of or the ability to direct the voting of more than 20% (twenty percent) of the total share capital or rights to distributions on account of equity of Getit and 'Control' shall include the right to appoint majority of the directors or to control the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shareholding or management rights or shareholders agreements or voting agreements or in any other manner.</p><h3>8. Third Party Sites</h3><p>Please note that this policy does not cover any third party Sites to which we provide links in the Site, nor does it cover advertisers. They may have their own privacy policies and/or terms and conditions of use. Getit provides third-party advertisements and only links to third party sites through the Site ("Linked Site"), but does not provide any Personal Information to these third-party sites or advertisers.</p><p>Getit clarifies that the Linked Sites are operated by third parties and are not under control of or affiliation or association of Getit unless specifically expressed by Getit. Getit is not responsible for any form of transmission, material received from any Linked Site. We are not liable and do not represent anything regarding the privacy practices and policies adopted by the Linked Sites and their owners/ operators. Also, we are not in a position to control or guarantee the accuracy, integrity, or quality of the information, data, text, software, music, sound, photographs, graphics, videos, messages or other relevant materials available on the Linked Sites.</p><p>Providing the Linked Sites on Getit does not imply or convey any endorsement by Getit in any manner or of the contents of the Linked Site. You are aware that the information you provide on the Linked Sites shall be governed by policies of the Linked Sites which you review. Getit does not have power or authority to prevent misuse of your information through the Linked Sites or advertisers.</p><p>Linked Sites and advertisers may use technology to send the advertisements on Getit directly to your browser because of which the Linked Site or advertisers automatically receive your internet protocol address. They may use cookies, JavaScript, web beacons and other technologies to measure the effectiveness of their advertisements and to personalize advertising content. Getit has no access or control over cookies or other features of the Linked Sites or advertisers and are not governed by this Privacy Policy.</p><h3>9. Security Practices</h3><p>Getit strives to ensure the security, integrity protection and privacy of your Personal Information against unauthorized access or unauthorized alteration, disclosure or destruction. We follow stringent security techniques and requirements for handling sensitive and personal information. These techniques and requirements are fully compliant with the guidelines set forth under law. Our servers are accessible only to authorized personnel. Your information logged under this Privacy Policy is shared with respective personnel only on need to know basis and/ or to provide the services you have requested. All representatives handling information under these provisions are under contractual confidentiality obligation with Getit. While, we take every step to safeguard the confidentiality of your personal information, by using this Site, you agree and confirm that Getit is not liable for any disclosure due to errors in transmission or unauthorized acts of third parties or Linked Sites.</p><p>Notwithstanding the foregoing, you must keep account details, including your username and password ("<strong>Account Details</strong>") confidential at all times, and should not reveal the same to any third parties. You must take appropriate security measures to prevent unauthorized disclosure of your Account Details (including logging out from your account at the end of each session), and you must notify us immediately if your Account Details becomes known to any unauthorized user. You are solely responsible for maintaining the confidentiality of your Account Details, and all activities that occur under your account(s). Any breach of these terms and conditions by anyone to whom you disclose your account details, including your username and password will be treated as if the breach had been committed by you, and will not relieve you of your obligations under the Terms and Conditions.</p><p>Notwithstanding anything contained herein, Getit shall not be liable for any loss, damage or misuse of your Personal Information due to a force majeure event. A force majeure event for the purposes of this Privacy Policy shall mean any event that is beyond reasonable control of Getit and shall include, without limitation, sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorised access to computer data and storage device, computer viruses breach of security and encryption or any other cause beyond the control of Getit.</p>	<h3>10. Acceptance to terms</h3><p>By registering with Getit and using the Services you are deemed to have agreed to the terms of this Policy. This Policy should be at all times read along with the Terms and Conditions. The Policy applies to all information, including Personal Information and Account Details.</p><p>By using the Services, you agree and acknowledge that your Personal Information may be transferred across national boundaries and stored and processed in any the country around the world. You acknowledge that in the process of providing the Services under the Site, some activities relating to handling of information collected under the Policy may be done by Getit's trusted third party vendors or agents, web hosting providers, communication services, and web analytic providers.</p><h3>11. Changes to this policy</h3><p>We may change this Privacy Policy from time to time and we will post the latest version on the Site. You are expected to keep visiting the Site and reading the Terms and Conditions and the Policies at regular intervals to keep yourself updated.</p><h3>12. Amendments to Privacy Policy</h3><p>We reserve the right, in our sole discretion, to change, modify, add or delete portions of this Privacy Policy at any time without notice, and it is your responsibility to review this Privacy Policy from time to time, in order to keep track and take note of the changes. Your use of the Site following any amendment of this Privacy Policy will signify and constitute your consent to and acceptance of such revised this Privacy Policy. We will not file or store a copy of these terms for each interaction on transaction by you via the Site. We therefore recommend that you save a copy of this Privacy Policy for future reference, and ensure that such copies can be reliably verified as being effective (i.e. published on the Site) on a particular date.</p><h3>13. Contact details</h3><p>Thank you for reading our Privacy Policy and thank you for choosing our Site as your reliable source of news and views on the internet. If you have any questions about anything contained in the Privacy Policy, you can email us with any questions, queries or complaints at [<a href="mailto:help@getitbazaar.com">help@Getit.com</a>].</p><h3>14.Disputes</h3><p>Any disputes over inter alia collection, storage and handling of Personal Information will be governed by this Privacy Policy, Terms and Conditions and by the laws of India and courts of New Delhi shall have exclusive jurisdiction. For any communication under this Privacy Policy please contact Getit on [<a href="mailto:help@getitbazaar.com">help@Getit.com</a>]</p></div>
         </div>
-        <div class="fb-comments" data-href="http://www.askme.com/privacy-policy" data-numposts="15" data-colorscheme="light" data-width="100%"></div>
+        <!-- fb comment -->
+        <!-- <div class="fb-comments" data-href="http://www.askme.com/privacy-policy" data-numposts="15" data-colorscheme="light" data-width="100%"></div> -->
+         <!-- fb comment -->
+        <!-- disquss comment -->
+                <!-- disquss comment -->
     </div>
 </div>
 
@@ -206,28 +295,33 @@
             </div>
             <div class="main_upl_form">
                 <div id="upl_overlay"></div>
-            <form method="POST" action="http://www.askme.com/videosuploadpost" accept-charset="UTF-8" name="videosupload" id="videosupload" enctype="multipart/form-data"><input name="_token" type="hidden" value="m6ygJa3aM7nOUe1wguexEUHcnX6VSZPCNlQutwGY">
-            <div class="upload_div_popup" style="display:block;">
-                <!-- <input id="photos" required="1" name="videos" type="file"> -->
+                
+            <form method="POST" action="http://www.askme.com/videosuploadpost" accept-charset="UTF-8" name="videosupload" id="videosupload" enctype="multipart/form-data"><input name="_token" type="hidden" value="eDQnD0UV5sbNAHEw39CeJ3QrwBaGivbTl0AEJt5n">
+            <div class="popup_left_block">
+            <div class="pop-up-input-filed pop_up_video">
+                    <input id="video_url" class="" placeholder="Please Enter Video URL" name="video_url" type="text" value="">
+                </div> 
+            	<div class="remove_or"><h4><span> OR</span> </h4></div>
+                <div class="upload_div_popup" style="display:block;">
+                    <!-- <input id="photos" required="1" name="videos" type="file"> -->
+    
+                    <input id="photos" name="videos" type="file"> 
+    
+                    <div class="file_upload">
+                        <img src="http://static.askme.com/images/upload_video_icon.png">
+    
+                        <h3>Select file to Upload</h3>
+    
+                        <!--<p>upload the video files</p>-->
+                        <span id="uploadFileName"></span>
+                    </div>
 
-                <input id="photos" name="videos" type="file"> 
-
-                <div class="file_upload">
-                    <img src="http://static.askme.com/images/upload_video_icon.png">
-
-                    <h3>Select file to Upload</h3>
-
-                    <p>upload the video files</p>
-                    <span id="uploadFileName"></span>
                 </div>
+                <a class="clear_file" onclick="reset($('#photos'))">X Reset file</a>
             </div>
 
+			<span class="popup_seprator"></span>
             <div class="main_popup">
-            <div class="remove_or"><h4><span> OR</span> </h4></div>
-
-                <div class="pop-up-input-filed pop_up_video">
-                    <input id="video_url" class="" placeholder="Please Enter Video URL" name="video_url" type="text" value="">
-                </div>  
                 <div class="pop-up-input-filed">
                     <input id="mob_no" placeholder="Mobile No *" maxlength="10" required="1" name="mob_no" type="text" value="">
                 </div>
@@ -235,319 +329,136 @@
                     <input id="email_id" placeholder="Email (optional)" name="email_id" type="text" value="">
                 </div>
                 <div class="pop-up-input-filed">
-                    <input id="full_name" placeholder="Full Name" required="1" name="full_name" type="text" value="">
+                    <input id="full_name" placeholder="Full Name *" required="1" name="full_name" type="text" value="">
                 </div>
             </div>
-
+			<div class="buttonset">
             <div class="pop-up-submit-button">
                 <button id="submit" name="submit" type="submit" class="call_to_bt">submit</button>
             </div>
-            </form>
+            
+            </div></form>
             </div>
     <!--        <div class="ajax_load video_loader_poup" style="display:none;"><img src="http://static.askme.com/images/712.GIF"></div>-->
 
 
 
         </div>
-    </div>
-    <div class="upload_more_pop" style="display:none;">
+        <div class="upload_more_pop" style="display:none;">
         <div id="success_message"></div>
     </div>
+    </div>
+    
 </div>
+    <!-- Footer Section included here-->
+        <!--Footer Content starts here -->
+    <!--Top places block Starts  here -->
 
 
-        <!-- Footer Section included here-->
-                <!--Footer Content starts here -->
-        <!--Top places block Starts  here -->
-
-<div class="ftr-tp-srch-bg askme-container fist-one"> 
+<div class="ftr-tp-srch-bg askme-container fist-one fatFooter">
     <div class="askme-inner-new-container more-less">
-        <div class="askme-row ftr-top-srchs frst-blck more-block ">
-            <h5 class="frst-blck"> Top places </h5>
-                                    <div class="btms-links-block ">
+        <div class="askme-row ftr-top-srchs more-block frst-blck">
+            <h5 class="frst-blck"> TOP CITIES </h5>
+                        <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/top-places-to-eat-in-mumbai-by-rocky-mayur?ref=Privacy Policy" class="top-places-anchor-tag" title="Top Places to Eat in Mumbai"> Top Places to Eat in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/top-places-to-eat-in-pune-by-rocky-mayur?ref=Privacy Policy" class="top-places-anchor-tag" title="Top Places to Eat in Pune"> Top Places to Eat in Pune </a> </li>
-                                        <li> <a href="http://www.askme.com/top-places-to-eat-in-delhi-ncr-by-rocky-mayur?ref=Privacy Policy" class="top-places-anchor-tag" title="Top Places to Eat in Delhi"> Top Places to Eat in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/top-places-to-eat-in-goa-by-rocky-mayur?ref=Privacy Policy" class="top-places-anchor-tag" title="Top Places to Eat in Goa"> Top Places to Eat in Goa </a> </li>
-                                        <li> <a href="http://www.askme.com/the-food-heroes-of-india-by-rocky-mayur?ref=Privacy Policy" class="top-places-anchor-tag" title="The Food Heroes of India"> The Food Heroes of India </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/haridwar?ref=blog" class="fat-footer-property-anchor-tag" title="Haridwar"> Haridwar </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/udaipur?ref=blog" class="fat-footer-property-anchor-tag" title="Udaipur"> Udaipur </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/aurangabad?ref=blog" class="fat-footer-property-anchor-tag" title="Aurangabad"> Aurangabad </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/chennai?ref=blog" class="fat-footer-property-anchor-tag" title="Chennai"> Chennai </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/hyderabad?ref=blog" class="fat-footer-property-anchor-tag" title="Hyderabad"> Hyderabad </a> </li>
                                     </ul>
             </div>
                         <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/top-5-summer-getaways-in-india-by-vir-sanghvi?ref=Privacy Policy" class="top-places-anchor-tag" title="Top 5 Summer Getaways in India"> Top 5 Summer Getaways in India </a> </li>
-                                        <li> <a href="http://www.askme.com/top-5-summer-destinations-5-hours-away-from-india-by-vir-sanghvi?ref=Privacy Policy" class="top-places-anchor-tag" title="Top 5 Summer Destinations 5 Hours Away From India"> Top 5 Summer Destinations 5 Hours Away From India </a> </li>
-                                        <li> <a href="http://www.askme.com/5-essential-summer-travel-tips-by-vir-sanghvi?ref=Privacy Policy" class="top-places-anchor-tag" title="5 Essential Summer Travel Tips"> 5 Essential Summer Travel Tips </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/restaurants-multi-cuisine?ref=Privacy Policy" class="top-places-anchor-tag" title="Restaurants in Delhi"> Restaurants in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/dental-clinics?ref=Privacy Policy" class="top-places-anchor-tag" title="Dental Clinics in Delhi"> Dental Clinics in Delhi </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/jaipur?ref=blog" class="fat-footer-property-anchor-tag" title="Jaipur"> Jaipur </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/tirupati?ref=blog" class="fat-footer-property-anchor-tag" title="Tirupati"> Tirupati </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/pune?ref=blog" class="fat-footer-property-anchor-tag" title="Pune"> Pune </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/coimbatore?ref=blog" class="fat-footer-property-anchor-tag" title="Coimbatore"> Coimbatore </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/mysore?ref=blog" class="fat-footer-property-anchor-tag" title="Mysore"> Mysore </a> </li>
                                     </ul>
             </div>
                         <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/delhi/taxi-cab-services?ref=Privacy Policy" class="top-places-anchor-tag" title="Taxi/Cab Services in Delhi"> Taxi/Cab Services in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/hotel-budget?ref=Privacy Policy" class="top-places-anchor-tag" title="Budget Hotels in Delhi"> Budget Hotels in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/cars-new?ref=Privacy Policy" class="top-places-anchor-tag" title="New Cars in Delhi"> New Cars in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/cell-phone-accessories?ref=Privacy Policy" class="top-places-anchor-tag" title="Mobile Phones in Delhi"> Mobile Phones in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/doctors-general-medicine?ref=Privacy Policy" class="top-places-anchor-tag" title="Doctors General Medicine in Delhi"> Doctors General Medicine in Delhi </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/visakhapatnam?ref=blog" class="fat-footer-property-anchor-tag" title="Visakhapatnam"> Visakhapatnam </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/indore?ref=blog" class="fat-footer-property-anchor-tag" title="Indore"> Indore </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/mumbai?ref=blog" class="fat-footer-property-anchor-tag" title="Mumbai"> Mumbai </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/lucknow?ref=blog" class="fat-footer-property-anchor-tag" title="Lucknow"> Lucknow </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/delhi?ref=blog" class="fat-footer-property-anchor-tag" title="Delhi"> Delhi </a> </li>
                                     </ul>
             </div>
                         <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/mumbai/restaurants-multi-cuisine?ref=Privacy Policy" class="top-places-anchor-tag" title="Restaurants in Mumbai"> Restaurants in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/dental-clinics?ref=Privacy Policy" class="top-places-anchor-tag" title="Dental Clinics in Mumbai"> Dental Clinics in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/taxi-cab-services?ref=Privacy Policy" class="top-places-anchor-tag" title="Taxi/Cab Services in Mumbai"> Taxi/Cab Services in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/hotel-budget?ref=Privacy Policy" class="top-places-anchor-tag" title="Budget Hotels in Mumbai"> Budget Hotels in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/cars-new?ref=Privacy Policy" class="top-places-anchor-tag" title="New Cars in Mumbai"> New Cars in Mumbai </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/bangalore?ref=blog" class="fat-footer-property-anchor-tag" title="Bangalore"> Bangalore </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/guwahati?ref=blog" class="fat-footer-property-anchor-tag" title="Guwahati"> Guwahati </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/madurai?ref=blog" class="fat-footer-property-anchor-tag" title="Madurai"> Madurai </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/nagpur?ref=blog" class="fat-footer-property-anchor-tag" title="Nagpur"> Nagpur </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/chandigarh?ref=blog" class="fat-footer-property-anchor-tag" title="Chandigarh"> Chandigarh </a> </li>
                                     </ul>
             </div>
                         <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/mumbai/cell-phone-accessories?ref=Privacy Policy" class="top-places-anchor-tag" title="Mobile Phones in Mumbai"> Mobile Phones in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/doctors-general-medicine?ref=Privacy Policy" class="top-places-anchor-tag" title="Doctors General Medicine in Mumbai"> Doctors General Medicine in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/restaurants-multi-cuisine?ref=Privacy Policy" class="top-places-anchor-tag" title="Restaurants in Bangalore"> Restaurants in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/dental-clinics?ref=Privacy Policy" class="top-places-anchor-tag" title="Dental Clinics in Bangalore"> Dental Clinics in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/taxi-cab-services?ref=Privacy Policy" class="top-places-anchor-tag" title="Taxi/Cab Services in Bangalore"> Taxi/Cab Services in Bangalore </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block ">
-                <ul>
-                                        <li> <a href="http://www.askme.com/bangalore/hotel-budget?ref=Privacy Policy" class="top-places-anchor-tag" title="Budget Hotels in Bangalore"> Budget Hotels in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/cars-new?ref=Privacy Policy" class="top-places-anchor-tag" title="New Cars in Bangalore"> New Cars in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/cell-phone-accessories?ref=Privacy Policy" class="top-places-anchor-tag" title="Mobile Phones in Bangalore"> Mobile Phones in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/doctors-general-medicine?ref=Privacy Policy" class="top-places-anchor-tag" title="Doctors General Medicine in Bangalore"> Doctors General Medicine in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/restaurants-multi-cuisine?ref=Privacy Policy" class="top-places-anchor-tag" title="Restaurants in Chennai"> Restaurants in Chennai </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block ">
-                <ul>
-                                        <li> <a href="http://www.askme.com/chennai/dental-clinics?ref=Privacy Policy" class="top-places-anchor-tag" title="Dental Clinics in Chennai"> Dental Clinics in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/taxi-cab-services?ref=Privacy Policy" class="top-places-anchor-tag" title="Taxi/Cab Services in Chennai"> Taxi/Cab Services in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/hotel-budget?ref=Privacy Policy" class="top-places-anchor-tag" title="Budget Hotels in Chennai"> Budget Hotels in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/cars-new?ref=Privacy Policy" class="top-places-anchor-tag" title="New Cars in Chennai"> New Cars in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/cell-phone-accessories?ref=Privacy Policy" class="top-places-anchor-tag" title="Mobile Phones in Chennai"> Mobile Phones in Chennai </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block ">
-                <ul>
-                                        <li> <a href="http://www.askme.com/chennai/doctors-general-medicine?ref=Privacy Policy" class="top-places-anchor-tag" title="Doctors General Medicine in Chennai"> Doctors General Medicine in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/restaurants-multi-cuisine?ref=Privacy Policy" class="top-places-anchor-tag" title="Restaurants in Hyderabad"> Restaurants in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/dental-clinics?ref=Privacy Policy" class="top-places-anchor-tag" title="Dental Clinics in Hyderabad"> Dental Clinics in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/taxi-cab-services?ref=Privacy Policy" class="top-places-anchor-tag" title="Taxi/Cab Services in Hyderabad"> Taxi/Cab Services in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/hotel-budget?ref=Privacy Policy" class="top-places-anchor-tag" title="Budget Hotels in Hyderabad"> Budget Hotels in Hyderabad </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block ">
-                <ul>
-                                        <li> <a href="http://www.askme.com/hyderabad/cars-new?ref=Privacy Policy" class="top-places-anchor-tag" title="New Cars in Hyderabad"> New Cars in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/cell-phone-accessories?ref=Privacy Policy" class="top-places-anchor-tag" title="Mobile Phones in Hyderabad"> Mobile Phones in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/doctors-general-medicine?ref=Privacy Policy" class="top-places-anchor-tag" title="Doctors General Medicine in Hyderabad"> Doctors General Medicine in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/restaurants-multi-cuisine?ref=Privacy Policy" class="top-places-anchor-tag" title="Restaurants in Kolkata"> Restaurants in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/dental-clinics?ref=Privacy Policy" class="top-places-anchor-tag" title="Dental Clinics in Kolkata"> Dental Clinics in Kolkata </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block ">
-                <ul>
-                                        <li> <a href="http://www.askme.com/kolkata/taxi-cab-services?ref=Privacy Policy" class="top-places-anchor-tag" title="Taxi/Cab Services in Kolkata"> Taxi/Cab Services in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/hotel-budget?ref=Privacy Policy" class="top-places-anchor-tag" title="Budget Hotels in Kolkata"> Budget Hotels in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/cars-new?ref=Privacy Policy" class="top-places-anchor-tag" title="New Cars in Kolkata"> New Cars in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/cell-phone-accessories?ref=Privacy Policy" class="top-places-anchor-tag" title="Mobile Phones in Kolkata"> Mobile Phones in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/doctors-general-medicine?ref=Privacy Policy" class="top-places-anchor-tag" title="Doctors General Medicine in Kolkata"> Doctors General Medicine in Kolkata </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/goa?ref=blog" class="fat-footer-property-anchor-tag" title="Goa"> Goa </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/varanasi?ref=blog" class="fat-footer-property-anchor-tag" title="Varanasi"> Varanasi </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/gurgaon?ref=blog" class="fat-footer-property-anchor-tag" title="Gurgaon"> Gurgaon </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/kolkata?ref=blog" class="fat-footer-property-anchor-tag" title="Kolkata"> Kolkata </a> </li>
+                                        <li id="TOP CITIES"> <a href="http://www.askme.com/ahmedabad?ref=blog" class="fat-footer-property-anchor-tag" title="Ahmedabad"> Ahmedabad </a> </li>
                                     </ul>
             </div>
                     </div>
-
     </div>
 </div>
 
-<!--Top places block   Ends  here --> 
-<!--Top Ads block   Starts  here -->
-<div class="askme-row ftr-srch-dif-bg">
+<div class="askme-row ftr-srch-dif-bg  last-one fatFooter">
     <div class="askme-inner-new-container more-less">
-        <div class="askme-row ftr-top-srchs more-block">
-            <h5> Top Ads </h5>
-                                    <div class="btms-links-block">
+        <div class="askme-row ftr-top-srchs more-block ">
+            <h5 class="frst-blck"> TRENDING SEARCHES IN DELHI </h5>
+                        <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/delhi/ads/used-cars?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Cars Ads in Delhi"> Used Cars Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/ads/mobile-phones-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Mobile Phones &amp; Accessories Ads in Delhi"> Mobile Phones &amp; Accessories Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/ads/used-computers?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Computers Ads in Delhi"> Used Computers Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/ads/laptops?ref=Privacy Policy" class="top-ads-anchor-tag" title="Laptops Ads in Delhi"> Laptops Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/ads/matrimonial?ref=Privacy Policy" class="top-ads-anchor-tag" title="Matrimonial Ads in Delhi"> Matrimonial Ads in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/restaurants-multi-cuisine?ref=blog" class="fat-footer-property-anchor-tag" title="Restaurants in Delhi"> Restaurants in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/dental-clinic?ref=blog" class="fat-footer-property-anchor-tag" title="Dentist in Delhi"> Dentist in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/packers-movers-domestic?ref=blog" class="fat-footer-property-anchor-tag" title="Packers and Movers in Delhi"> Packers and Movers in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/hospitals-private?ref=blog" class="fat-footer-property-anchor-tag" title="Hospitals in Delhi"> Hospitals in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/astrologers?ref=blog" class="fat-footer-property-anchor-tag" title="Astrologers in Delhi"> Astrologers in Delhi </a> </li>
                                     </ul>
             </div>
-
-                        <div class="btms-links-block">
+                        <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/delhi/ads/household-items?ref=Privacy Policy" class="top-ads-anchor-tag" title="Household Items Ads in Delhi"> Household Items Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/ads/camera-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Camera &amp; Accessories Ads in Delhi"> Camera &amp; Accessories Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/ads/furniture?ref=Privacy Policy" class="top-ads-anchor-tag" title="Furniture Ads in Delhi"> Furniture Ads in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/used-cars?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Cars Ads in Mumbai"> Used Cars Ads in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/mobile-phones-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Mobile Phones &amp; Accessories Ads in Mumbai"> Mobile Phones &amp; Accessories Ads in Mumbai </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/search/apollo-hospital?ref=blog" class="fat-footer-property-anchor-tag" title="Apollo Hospital in Delhi"> Apollo Hospital in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/search/fortis-hospital?ref=blog" class="fat-footer-property-anchor-tag" title="Fortis Hospital Delhi"> Fortis Hospital Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/architects?ref=blog" class="fat-footer-property-anchor-tag" title="Architects in Delhi"> Architects in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/doctors-general-medicine?ref=blog" class="fat-footer-property-anchor-tag" title="Doctors in Delhi"> Doctors in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/search/max-hospital?ref=blog" class="fat-footer-property-anchor-tag" title="Max Hospitals in Delhi"> Max Hospitals in Delhi </a> </li>
                                     </ul>
             </div>
-
-                        <div class="btms-links-block">
+                        <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/used-computers?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Computers Ads in Mumbai"> Used Computers Ads in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/laptops?ref=Privacy Policy" class="top-ads-anchor-tag" title="Laptops Ads in Mumbai"> Laptops Ads in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/matrimonial?ref=Privacy Policy" class="top-ads-anchor-tag" title="Matrimonial Ads in Mumbai"> Matrimonial Ads in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/household-items?ref=Privacy Policy" class="top-ads-anchor-tag" title="Household Items Ads in Mumbai"> Household Items Ads in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/camera-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Camera &amp; Accessories Ads in Mumbai"> Camera &amp; Accessories Ads in Mumbai </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/interior-decorator-designers?ref=blog" class="fat-footer-property-anchor-tag" title="Interior Designers in Delhi"> Interior Designers in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/caterers-wedding-events?ref=blog" class="fat-footer-property-anchor-tag" title="Caterers in Delhi"> Caterers in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/courier-service-domestic?ref=blog" class="fat-footer-property-anchor-tag" title="Courier Services in Delhi"> Courier Services in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/tours-travel-operators-domestic?ref=blog" class="fat-footer-property-anchor-tag" title="Travel Agents in Delhi"> Travel Agents in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/hotels-budget?ref=blog" class="fat-footer-property-anchor-tag" title="Hotels in Delhi"> Hotels in Delhi </a> </li>
                                     </ul>
             </div>
-
-                        <div class="btms-links-block">
+                        <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/mumbai/ads/furniture?ref=Privacy Policy" class="top-ads-anchor-tag" title="Furniture Ads in Mumbai"> Furniture Ads in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/used-cars?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Cars Ads in Bangalore"> Used Cars Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/mobile-phones-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Mobile Phones &amp; Accessories Ads in Bangalore"> Mobile Phones &amp; Accessories Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/used-computers?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Computers Ads in Bangalore"> Used Computers Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/laptops?ref=Privacy Policy" class="top-ads-anchor-tag" title="Laptops Ads in Bangalore"> Laptops Ads in Bangalore </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/management-schools?ref=blog" class="fat-footer-property-anchor-tag" title="BBA Colleges in Delhi"> BBA Colleges in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/coaching-centres-professional?ref=blog" class="fat-footer-property-anchor-tag" title="Coaching Institutes in Delhi"> Coaching Institutes in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/management-schools?ref=blog" class="fat-footer-property-anchor-tag" title="MBA Colleges in Delhi"> MBA Colleges in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/hospitals-oncology?ref=blog" class="fat-footer-property-anchor-tag" title="Cancer Hospitals in Delhi"> Cancer Hospitals in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/search/holy-family-hospital?ref=blog" class="fat-footer-property-anchor-tag" title="Holy Family Hospital Delhi"> Holy Family Hospital Delhi </a> </li>
                                     </ul>
             </div>
-
-                        <div class="btms-links-block">
+                        <div class="btms-links-block ">
                 <ul>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/matrimonial?ref=Privacy Policy" class="top-ads-anchor-tag" title="Matrimonial Ads in Bangalore"> Matrimonial Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/household-items?ref=Privacy Policy" class="top-ads-anchor-tag" title="Household Items Ads in Bangalore"> Household Items Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/camera-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Camera &amp; Accessories Ads in Bangalore"> Camera &amp; Accessories Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/ads/furniture?ref=Privacy Policy" class="top-ads-anchor-tag" title="Furniture Ads in Bangalore"> Furniture Ads in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/ads/used-cars?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Cars Ads in Chennai"> Used Cars Ads in Chennai </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/hotels-luxury?ref=blog" class="fat-footer-property-anchor-tag" title="5 Star Hotels in Delhi"> 5 Star Hotels in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/private-colleges-universities?ref=blog" class="fat-footer-property-anchor-tag" title="Colleges in Delhi"> Colleges in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/real-estate-agents-dealers?ref=blog" class="fat-footer-property-anchor-tag" title="Property Dealers in Delhi"> Property Dealers in Delhi </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/engineer-college?ref=blog" class="fat-footer-property-anchor-tag" title="Delhi College of Engineering"> Delhi College of Engineering </a> </li>
+                                        <li id="TRENDING SEARCHES IN DELHI"> <a href="http://www.askme.com/delhi/eye-hospitals?ref=blog" class="fat-footer-property-anchor-tag" title="Eye Hospitals in Delhi"> Eye Hospitals in Delhi </a> </li>
                                     </ul>
             </div>
-
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/chennai/ads/mobile-phones-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Mobile Phones &amp; Accessories Ads in Chennai"> Mobile Phones &amp; Accessories Ads in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/ads/used-computers?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Computers Ads in Chennai"> Used Computers Ads in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/ads/laptops?ref=Privacy Policy" class="top-ads-anchor-tag" title="Laptops Ads in Chennai"> Laptops Ads in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/ads/matrimonial?ref=Privacy Policy" class="top-ads-anchor-tag" title="Matrimonial Ads in Chennai"> Matrimonial Ads in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/ads/household-items?ref=Privacy Policy" class="top-ads-anchor-tag" title="Household Items Ads in Chennai"> Household Items Ads in Chennai </a> </li>
-                                    </ul>
-            </div>
-
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/chennai/ads/camera-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Camera &amp; Accessories Ads in Chennai"> Camera &amp; Accessories Ads in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/ads/furniture?ref=Privacy Policy" class="top-ads-anchor-tag" title="Furniture Ads in Chennai"> Furniture Ads in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/used-cars?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Cars Ads in Hyderabad"> Used Cars Ads in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/mobile-phones-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Mobile Phones &amp; Accessories Ads in Hyderabad"> Mobile Phones &amp; Accessories Ads in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/used-computers?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Computers Ads in Hyderabad"> Used Computers Ads in Hyderabad </a> </li>
-                                    </ul>
-            </div>
-
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/laptops?ref=Privacy Policy" class="top-ads-anchor-tag" title="Laptops Ads in Hyderabad"> Laptops Ads in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/matrimonial?ref=Privacy Policy" class="top-ads-anchor-tag" title="Matrimonial Ads in Hyderabad"> Matrimonial Ads in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/household-items?ref=Privacy Policy" class="top-ads-anchor-tag" title="Household Items Ads in Hyderabad"> Household Items Ads in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/camera-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Camera &amp; Accessories Ads in Hyderabad"> Camera &amp; Accessories Ads in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/ads/furniture?ref=Privacy Policy" class="top-ads-anchor-tag" title="Furniture Ads in Hyderabad"> Furniture Ads in Hyderabad </a> </li>
-                                    </ul>
-            </div>
-
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/used-cars?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Cars Ads in Kolkata"> Used Cars Ads in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/mobile-phones-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Mobile Phones &amp; Accessories Ads in Kolkata"> Mobile Phones &amp; Accessories Ads in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/used-computers?ref=Privacy Policy" class="top-ads-anchor-tag" title="Used Computers Ads in Kolkata"> Used Computers Ads in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/laptops?ref=Privacy Policy" class="top-ads-anchor-tag" title="Laptops Ads in Kolkata"> Laptops Ads in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/matrimonial?ref=Privacy Policy" class="top-ads-anchor-tag" title="Matrimonial Ads in Kolkata"> Matrimonial Ads in Kolkata </a> </li>
-                                    </ul>
-            </div>
-
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/household-items?ref=Privacy Policy" class="top-ads-anchor-tag" title="Household Items Ads in Kolkata"> Household Items Ads in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/camera-accessories?ref=Privacy Policy" class="top-ads-anchor-tag" title="Camera &amp; Accessories Ads in Kolkata"> Camera &amp; Accessories Ads in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/ads/furniture?ref=Privacy Policy" class="top-ads-anchor-tag" title="Furniture Ads in Kolkata"> Furniture Ads in Kolkata </a> </li>
-                                    </ul>
-            </div>
-
-            
-        </div>
-
+                    </div>
     </div>
-
-</div>
-
-<!--Top Ads block   Ends  here --> 
-<!--Top Deals block   starts  here -->
-<div class="askme-container ftr-tp-srch-bg last-one"> 
-    <div class="askme-inner-new-container more-less">
-
-        <div class="askme-row ftr-top-srchs more-block">
-            <h5> Top Deals </h5>
-                                    <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/delhi/deals/shopping?ref=Privacy Policy" class="top-deals-anchor-tag" title="Shopping Deals in Delhi"> Shopping Deals in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/deals/electronics?ref=Privacy Policy" class="top-deals-anchor-tag" title="Electronics Deals in Delhi"> Electronics Deals in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/deals/holiday-travel?ref=Privacy Policy" class="top-deals-anchor-tag" title="Holiday &amp; Travel Deals in Delhi"> Holiday &amp; Travel Deals in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/deals/health-beauty?ref=Privacy Policy" class="top-deals-anchor-tag" title="Health &amp; Beauty Deals in Delhi"> Health &amp; Beauty Deals in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/delhi/deals/eating-out?ref=Privacy Policy" class="top-deals-anchor-tag" title="Food Deals in Delhi"> Food Deals in Delhi </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/delhi/deals/vehicles?ref=Privacy Policy" class="top-deals-anchor-tag" title="Vehicles Deals in Delhi"> Vehicles Deals in Delhi </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/deals/shopping?ref=Privacy Policy" class="top-deals-anchor-tag" title="Shopping Deals in Mumbai"> Shopping Deals in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/deals/electronics?ref=Privacy Policy" class="top-deals-anchor-tag" title="Electronics Deals in Mumbai"> Electronics Deals in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/deals/holiday-travel?ref=Privacy Policy" class="top-deals-anchor-tag" title="Holiday &amp; Travel Deals in Mumbai"> Holiday &amp; Travel Deals in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/deals/health-beauty?ref=Privacy Policy" class="top-deals-anchor-tag" title="Health &amp; Beauty Deals in Mumbai"> Health &amp; Beauty Deals in Mumbai </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/mumbai/deals/eating-out?ref=Privacy Policy" class="top-deals-anchor-tag" title="Food Deals in Mumbai"> Food Deals in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/mumbai/deals/vehicles?ref=Privacy Policy" class="top-deals-anchor-tag" title="Vehicles Deals in Mumbai"> Vehicles Deals in Mumbai </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/deals/shopping?ref=Privacy Policy" class="top-deals-anchor-tag" title="Shopping Deals in Bangalore"> Shopping Deals in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/deals/electronics?ref=Privacy Policy" class="top-deals-anchor-tag" title="Electronics Deals in Bangalore"> Electronics Deals in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/deals/holiday-travel?ref=Privacy Policy" class="top-deals-anchor-tag" title="Holiday &amp; Travel Deals in Bangalore"> Holiday &amp; Travel Deals in Bangalore </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/bangalore/deals/health-beauty?ref=Privacy Policy" class="top-deals-anchor-tag" title="Health &amp; Beauty Deals in Bangalore"> Health &amp; Beauty Deals in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/deals/eating-out?ref=Privacy Policy" class="top-deals-anchor-tag" title="Food Deals in Bangalore"> Food Deals in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/bangalore/deals/vehicles?ref=Privacy Policy" class="top-deals-anchor-tag" title="Vehicles Deals in Bangalore"> Vehicles Deals in Bangalore </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/deals/shopping?ref=Privacy Policy" class="top-deals-anchor-tag" title="Shopping Deals in Chennai"> Shopping Deals in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/deals/electronics?ref=Privacy Policy" class="top-deals-anchor-tag" title="Electronics Deals in Chennai"> Electronics Deals in Chennai </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/chennai/deals/holiday-travel?ref=Privacy Policy" class="top-deals-anchor-tag" title="Holiday &amp; Travel Deals in Chennai"> Holiday &amp; Travel Deals in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/deals/health-beauty?ref=Privacy Policy" class="top-deals-anchor-tag" title="Health &amp; Beauty Deals in Chennai"> Health &amp; Beauty Deals in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/deals/eating-out?ref=Privacy Policy" class="top-deals-anchor-tag" title="Food Deals in Chennai"> Food Deals in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/chennai/deals/vehicles?ref=Privacy Policy" class="top-deals-anchor-tag" title="Vehicles Deals in Chennai"> Vehicles Deals in Chennai </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/deals/shopping?ref=Privacy Policy" class="top-deals-anchor-tag" title="Shopping Deals in Hyderabad"> Shopping Deals in Hyderabad </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/hyderabad/deals/electronics?ref=Privacy Policy" class="top-deals-anchor-tag" title="Electronics Deals in Hyderabad"> Electronics Deals in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/deals/holiday-travel?ref=Privacy Policy" class="top-deals-anchor-tag" title="Holiday &amp; Travel Deals in Hyderabad"> Holiday &amp; Travel Deals in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/deals/health-beauty?ref=Privacy Policy" class="top-deals-anchor-tag" title="Health &amp; Beauty Deals in Hyderabad"> Health &amp; Beauty Deals in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/deals/eating-out?ref=Privacy Policy" class="top-deals-anchor-tag" title="Food Deals in Hyderabad"> Food Deals in Hyderabad </a> </li>
-                                        <li> <a href="http://www.askme.com/hyderabad/deals/vehicles?ref=Privacy Policy" class="top-deals-anchor-tag" title="Vehicles Deals in Hyderabad"> Vehicles Deals in Hyderabad </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/kolkata/deals/shopping?ref=Privacy Policy" class="top-deals-anchor-tag" title="Shopping Deals in Kolkata"> Shopping Deals in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/deals/electronics?ref=Privacy Policy" class="top-deals-anchor-tag" title="Electronics Deals in Kolkata"> Electronics Deals in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/deals/holiday-travel?ref=Privacy Policy" class="top-deals-anchor-tag" title="Holiday &amp; Travel Deals in Kolkata"> Holiday &amp; Travel Deals in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/deals/health-beauty?ref=Privacy Policy" class="top-deals-anchor-tag" title="Health &amp; Beauty Deals in Kolkata"> Health &amp; Beauty Deals in Kolkata </a> </li>
-                                        <li> <a href="http://www.askme.com/kolkata/deals/eating-out?ref=Privacy Policy" class="top-deals-anchor-tag" title="Food Deals in Kolkata"> Food Deals in Kolkata </a> </li>
-                                    </ul>
-            </div>
-                        <div class="btms-links-block">
-                <ul>
-                                        <li> <a href="http://www.askme.com/kolkata/deals/vehicles?ref=Privacy Policy" class="top-deals-anchor-tag" title="Vehicles Deals in Kolkata"> Vehicles Deals in Kolkata </a> </li>
-                                    </ul>
-            </div>
-            
-        </div>
-    </div> 
 </div>
 
 <!--Top Deals block   Ends  here -->
@@ -560,9 +471,9 @@
                 <div class="footer-sections">
                     <p class="footer-section-title">Askme.com</p>
                     <ul class="footer-links-1">
-                        <!-- <li>
-                            <a href="http://www.askme.com" title="Home">Home</a>
-                        </li> -->
+                         <li>
+                            <a href="http://www.askme.com/loyalty-terms-conditions" title="Askme Rewards Loyalty Terms &amp; Conditions">Askme Rewards - <br> Loyalty Terms &amp; Conditions</a>
+                        </li>
                         <li>
                             <a href="http://www.askme.com/about-us" title="About us">About us</a>
                         </li>
@@ -572,23 +483,27 @@
                         <li>
                             <a href="http://www.askme.com/contact" title="Contact us">Contact us</a>
                         </li>
-                    </ul>
-                    <ul class="footer-links-2">
-                        <li>
-                            <a href="http://www.askme.com/mobileapps" title="Mobile Apps">Mobile Apps</a>
-                        </li>
-                        <li>
-                            <a href="http://www.askme.com/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a>
-                        </li>
                         <li>
                             <a href="http://www.askme.com/privacy-policy" title="Privacy Policy">Privacy Policy</a>
                         </li>
                         <li>
                             <a href="http://www.askme.com/refund-policy" title="Refund Policy">Refund Policy</a>
                         </li>
+                    </ul>
+                    <ul class="footer-links-2">
                         <li>
-                            <a href="http://www.askme.com/sitemap" title="Site Map">Site map</a>
+                            <a href="http://www.askme.com/mobileapps" title="Mobile Apps">Mobile Apps</a>
                         </li>
+                        <li>
+                            <a href="http://www.askme.com/trending-searches" title="Trending Searches">Trending Searches</a>
+                        </li>
+                        <li>
+                            <a href="http://www.askme.com/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a>
+                        </li>
+
+                       <!--  <li>
+                            <a href="http://www.askme.com/sitemap" title="Site Map">Site map</a>
+                        </li> -->
                     </ul>
                 </div>
 
@@ -651,8 +566,8 @@
 
                 <div class="askme-row footer-sections">
                     <p class="footer-section-title">
-                        Follow Us : 
-                         <!-- Talk us( It's allright, we like it ! )  -->
+                        Follow Us :
+                        <!-- Talk us( It's allright, we like it ! )  -->
                         <span class="ftr-fb-icon">
                             <a href="https://www.facebook.com/askme04444444444" title="Facebook" target="_blank">
                                 <i class="fa fa-facebook"></i>
@@ -662,26 +577,25 @@
                             <a href="https://twitter.com/ASKMEIndia" title="Twitter" target="_blank">
                                 <i class="fa fa-twitter"></i>
                             </a>
-                        </span> 
+                        </span>
                         <span class="ftr-youtube-icon">
                             <a href="http://www.youtube.com/user/askme04444444444" title="Youtube" target="_blank">
                                 <i class="fa fa-play"></i>
                             </a>
                         </span>
                         <span class="ftr-gplus-icon">
-                            <a href="https://plus.google.com/+askme04444444444?prsrc=3" rel="publisher" title="Googleplus" target="_blank" style="text-decoration:none;"> 
+                            <a href="https://plus.google.com/+askme04444444444?prsrc=3" rel="publisher" title="Googleplus" target="_blank" style="text-decoration:none;">
                                 <i class="fa fa-google-plus"></i>
                             </a>
                         </span>
                     </p>
-                   
+
                 </div>
 
             </div>
 
             <div class="footer-app-promo-section">
                 <div class="apps-logs">
-                    <img src="http://static.askme.com/images/new-baap-logo.png" height="66" width="228" alt="The Baap of all apps">
 
                     <ul>
                         <li>
@@ -703,9 +617,9 @@
                         </li>
                     </ul>
 
-                    <p class="miss-call">
+<!--                    <p class="miss-call">
                         <img src="http://static.askme.com/images/footer-miss-call-icon.png" height="19" width="23" alt="">
-                        Missed Call Number: <a>7859884841</a></p>
+                        Missed Call Number: <a>7859884841</a></p>-->
                 </div>
 
                 <div class="footer-qr-code">
@@ -717,265 +631,19 @@
 </div>
 <!--Footer for all pages-->
 <!--Footer js-->
-<script src="http://static.askme.com/js/all-minified.js"></script>
-
-<script src="http://static.askme.com/js/common.js"></script>
-
-<script src="http://static.askme.com/js/global.js"></script>
-
-<script src="http://static.askme.com/js/owl.carousel.2.0.js"></script>
+    <script src="http://static.askme.com/mjs/c8130629e2c3495d2617594fdba8e74c10081699938.js"></script>
 
 
 <!--Footer related javascript-->
 <script type="text/javascript">
-    /*****************************
-     * 
-     * popular city
-     * 
-     /***************************/
-
-    $("#headerCity1").focus(function() {
-        $("#headerCity1").val('');
-        $('#popular_city').css('display', 'block');
-    });
-    $("#headerCity1").keyup(function() {
-        $('#popular_city').css('display', 'none');
-    });
-    $('body').on("click", function() {
-        if (!$('#headerCity1').is(":focus")) {
-            if ($('#popular_city').is(":visible")) {
-                $('#popular_city').css('display', 'none');
-            }
-        }
-    });
-
-    $(".popular_city").on("click", function() {
-        $('#headerCity1').val("");
-        var city = $(this).text();
-        $('#popular_city').css('display', 'none');
-        $('#headerCity1').val(city);
-        $('#city_value').val(city);
-        $('#sCity').val(city);
-        $('#hidcity').val(city);
-        $('#sCityArea').val("");
-        $('#sCityArea').attr('placeholder', 'locality');
-        var base_url = "http://www.askme.com";
-        $("#postad").attr('href', base_url + "/" + city + "/adpost");
-        $("#postreview").attr('href', base_url + "/" + city + "/post-review");
-        redirect_url(city.toLowerCase(), "Privacy Policy");
-    });
-
-    /******************************
-     * 
-     *  city auto complete
-     *
-     /*****************************/
-
-
-    $('#headerCity1').autocomplete({
-        minLength: 2,
-        minChars: 0,
-        delay: 0,
-        autoFocus: true,
-        source: function(request, response) {
-            var request;
-            $.ajax({
-                url: 'http://www.askme.com/askmeapi/service/service.ashx',
-                dataType: 'json',
-                data: {Searchtext: request.term, method: 'ascity'},
-                success: function(data)
-                {
-                    response(data);
-                }
-            });
-        },
-        select: function(event, ui) {
-            $('#headerCity1').val(ui.item.value);
-            $('#city_value').val(ui.item.value);
-            $('#sCity').val(ui.item.value);
-            $('#hidcity').val(ui.item.value);
-            //ga('send', 'event', 'City Track', ui.item);
-            var base_url = "http://www.askme.com";
-            var city = $('#city_value').val();
-            $("#postad").attr('href', base_url + "/" + city + "/adpost");
-            $("#postreview").attr('href', base_url + "/" + city + "/post-review");
-            redirect_url(city.toLowerCase(), "Privacy Policy");
-
-        }
-    }).on('blur', function(event) {
-        $('#headerCity1').val($('#city_value').val());
-        $('#dvLoading').hide();
-    }).data("ui-autocomplete")._renderItem = function(ul, item) {
-        $('#dvLoading').hide();
-        ul.addClass('askme_srch ui-controls-new-in');
-        ul.addClass('scroll-pane');
-        $("<li></li>")
-                .addClass(item.customClass) //item based custom class to li here
-                .append("<a href='javascript:void(0)'>" + item.value + "</a>")
-                .data("ui-autocomplete-item", item)
-                .appendTo(ul);
-
-        return $(".ask_srch2").append(ul);
-
-    };
-    $('#headerCity1').blur(function() {
-        var city = $('#city_value').val();
-        $('#headerCity1').val(city);
-    });
-    $(function() {
-        $('.scroll-pane').jScrollPane();
-    });
-</script> 
-<script>
-    $.widget("custom.catcomplete", $.ui.autocomplete, {
-        _renderMenu: function(ul, items) {
-            var that = this,
-                    currentCategory = "";
-            $.each(items, function(index, item) {
-                if (item.category != currentCategory) {
-                    ul.append("<li class='ui-autocomplete-category'>" + item.category + "</li>");
-                    currentCategory = item.category;
-                }
-                that._renderItemData(ul, item);
-            });
-        }
-    });
-</script> 
-<script>
-
-    var is_home = 0;
-    $(document).ready(function() {
-
-        $("input[id=query]").on("keyup", function() {
-            $(this).catcomplete({
-                source: function(request, response) {
-                    $.getJSON("http://www.askme.com/askmeapi/service/service.ashx?Searchtext=" + request.term + "&method=askeywordcompany&city=" + $('#sCity').val(), function(data) {
-                        response($.map(data, function(value, key) {
-                            var count = 1;
-                            var count1 = 1;
-                            return $.map(value, function(value1, key1) {
-                                var keys = '';
-                                if (key == 'keyword')
-                                {
-                                    count++;
-                                    keys = 'Category';
-                                    if (count <= 7)
-                                    {
-                                        return {
-                                            label: value1,
-                                            category: keys
-                                        };
-                                    }
-                                }
-                                else if (key == 'company')
-                                {
-                                    count1++;
-                                    keys = 'Business Names';
-                                    if (count1 <= 7)
-                                    {
-                                        return {
-                                            label: value1,
-                                            category: keys
-                                        };
-                                    }
-                                }
-                            });
-                        }));
-                    });
-                },
-                minLength: 2,
-                delay: 100
-            });
-        });
-
-        $("input[id=sCityArea]").on("keyup", function() {
-            $(this).autocomplete({
-                source: function(request, response) {
-                    var request;
-                    $.ajax({
-                        url: 'http://www.askme.com/askmeapi/service/service.ashx',
-                        dataType: 'json',
-                        data: {Searchtext: request.term, method: 'asarea', city: $('#sCity').val()},
-                        success: function(data)
-                        {
-                            $('#rel-area-fld').append($('ul#ui-id-2'));
-                            $('#ui-id-2.ui-autocomplete').addClass('scroll-pane');
-                            response(data);
-                            $('.scroll-pane').jScrollPane();
-                        }
-                    });
-                },
-            });
-        });
-
-        if (window.location.hash && window.location.hash == '#_=_') {
-            window.location.hash = '';
-        }
-
-        $("#flashmessage").delay(5000).fadeOut();
-
-    });
-
+    var PHP_POSTADD_HREF = "http://www.askme.com/delhi/adpost";
+    var PHP_POSTREVIEW_HREF = "http://www.askme.com/delhi/post-review";
+    var USER_SERVICE_URL = "https://id.askme.com";
+    var PHP_404CITY_URL = base_url ;
 
 </script>
-<script type="text/javascript">
-        /*************************
-         * 
-         *  more business description 
-         */
-        /***********************/
-        var showChar = 240;
-        var ellipsestext = "...";
-        var moretext = "more <i class='fa fa-angle-double-right'></i>";
-        var lesstext = "less <i class='fa fa-angle-double-left'></i>";
-        $('.businessDesc').each(function() {
-            var content = $(this).html().trim(); 
-            if (content.length > showChar) {
-                var c = content.substr(0, showChar); 
-                var h = content.substr(showChar - 1, content.length - showChar);
-    var html = c + '<span class="moreellipses">' + ellipsestext + ' </span><span class="morecontent"><span>' + h + '</span>  <a href="" class="morelink">' + moretext + '</a></span>';
-                    $(this).html(html); 
-            }
-        });
+<script src="http://static.askme.com/mjs/99a9e1bdbb963d762364e3f91ab127691446472498.js" file="header_web"></script>
 
-        /*************************
-         * 
-         *  more link  
-         */
-        /***********************/
-        $(".morelink").click(function() {
-            if ($(this).hasClass("less")) {
-                $(this).removeClass("less");
-                $(this).html(moretext);
-            } else {
-                $(this).addClass("less");
-                $(this).html(lesstext);
-            }
-            $(this).parent().prev().toggle();
-            $(this).prev().toggle();
-            return false;
-        });
-</script>
-<script type="text/javascript">
-    $.ajax({
-        type: "POST",
-        url: '/logged',
-        dataType: 'json',
-        success: function(data) {
-            if (data.result == 'true')
-            {
-
-                var home_page_data = "";
-                $("#logged_in").html('');
-                $("#logged_in").html('<li class="user-details-name">Welcome ' + data.name + '</li>');
-                $("#logged_in").append('<li>' + '<a href="' + data.mylist + '">' + 'My list' + '</a>' + '</li>' + '<li>' + '<a href="' + data.myaccount + '">' + 'My account' + '</a>' + '</li>' + '<li>' + '<a href="' + data.logout + '">' + 'Logout' + '</a>' + '</li>');
-                if (home_page_data != 'homepage' || home_page_data == "") {
-                    $("#logged_in").append('<li><a id="postad" href="http://www.askme.com/kolkata/adpost" title="Post an Ad" target="_blank" >Post an Ad</a></li><li><a id="postreview" href="http://www.askme.com/kolkata/post-review" title="Ask me Review" target="_blank" > Post a Review</a></li>');
-                }
-            }
-        }
-    });
-</script>
     <script type="text/javascript">
         $(document).ready(function() {
             $('.bloggtm').on('click', function() {
@@ -994,10 +662,12 @@
      $('.blog-video-upload').on('click', function(e) {
                 // Prevents the default action to be triggered.
                 e.preventDefault();
+                 $('.landing_image_web , .landing_image_mobile').bPopup().close()
                 var GTM = "1";
                 if(GTM == 1){
                     dataLayer.push({'event': 'BlogVideoUploadClick'});
                 }
+                    $('.upload_div_popup,.remove_or,.pop_up_video').show();
                     $(".progress").hide();
                     $('#uploadFileName').html('');
                     $('#error_message').html('');
@@ -1011,7 +681,9 @@
                     positionStyle: 'absolute' //'fixed' or 'absolute'
                 });
      });
-
+     
+               
+    
 
     $(document).ready(function() {
     var owl = $('.blogslider');
@@ -1049,8 +721,7 @@
     });
 
 </script>
-
-<script src="http://static.askme.com/js/jquery.form.min.js"></script>
+<script src="http://static.askme.com/mjs/baafd33dbcb14a2adea238ac93e2fef41432903441.js"></script>
 
 <script type="text/javascript">
 
@@ -1061,10 +732,18 @@
     $(document).ready(function()
     {
 
-        $('input[type=file]').change(function(e){
-              $('#error_message').html('');
-              $('#uploadFileName').html(e.target.files[0].name);
+        $('input[type=file]').change(function(e) {
+            $('#error_message').html('');
+            $('.clear_file').show();
+            $('#uploadFileName').html(e.target.files[0].name);
         });
+
+        window.reset = function (e) {
+            e.wrap('<form>').closest('form').get(0).reset();
+            $('#uploadFileName').html('');
+            $('.clear_file').hide();
+            e.unwrap();
+        }
         //We can even provide options to ajaxForm to get callbacks like success,error, uploadProgress and beforeSend
         var options = {
             //beforeSend : this function called before form submission
@@ -1074,6 +753,22 @@
             beforeSubmit: function()
             {
                 var data = true;
+                if (!$('.upload_div_popup').is(':visible') && $('#video_url').val() == '') {
+                    alert("Please Enter video url");
+                    return false;
+                }
+
+
+                if ($('#video_url').val() == '' && $('#photos').val() == '') {
+                    alert("Upload Either video or Enter video url");
+                    return false;
+                }
+
+                if ($('#video_url').val() != '' && $('#photos').val() != '') {
+                    alert("Upload Either video or Enter video url");
+                    return false;
+                }
+
                 var regex = /^[0-9]*(?:\.\d{1,2})?$/;    // allow only numbers [0-9]
                 if (!regex.test($('#mob_no').val())) {
                     alert('Please enter valid mobile number');
@@ -1091,6 +786,16 @@
                         return false;
                     }
                 }
+
+                var videos_url = $('#video_url').val();
+                if ($('#video_url').val() != '') {
+                    var myRegExp = /^(?:(?:https?|ftp):\/\/)(?:\S+(?::\S*)?@)?(?:(?!10(?:\.\d{1,3}){3})(?!127(?:\.\d{1,3}){3})(?!169\.254(?:\.\d{1,3}){2})(?!192\.168(?:\.\d{1,3}){2})(?!172\.(?:1[6-9]|2\d|3[0-1])(?:\.\d{1,3}){2})(?:[1-9]\d?|1\d\d|2[01]\d|22[0-3])(?:\.(?:1?\d{1,2}|2[0-4]\d|25[0-5])){2}(?:\.(?:[1-9]\d?|1\d\d|2[0-4]\d|25[0-4]))|(?:(?:[a-z\u00a1-\uffff0-9]+-?)*[a-z\u00a1-\uffff0-9]+)(?:\.(?:[a-z\u00a1-\uffff0-9]+-?)*[a-z\u00a1-\uffff0-9]+)*(?:\.(?:[a-z\u00a1-\uffff]{2,})))(?::\d{2,5})?(?:\/[^\s]*)?$/i;
+                    if (!myRegExp.test(videos_url)) {
+                        alert('Please enter valid video link');
+                        return false;
+                    }
+                }
+
                 var GTM = "1";
                 if(GTM == 1){
                     dataLayer.push({'event': 'BlogVideoUploadSubmit'});
@@ -1099,13 +804,14 @@
             },
             beforeSend: function()
             {
-
-                $(".progress").show();
-                //clear everything
-                $('#upl_overlay').addClass('upl_overlay');
-                $("#bar").width('0%');
-                $("#message").html("");
-                $("#percent").html("0%");
+                if ($('#video_url').val() == '') {
+                    $(".progress").show();
+                    //clear everything
+                    $('#upl_overlay').addClass('upl_overlay');
+                    $("#bar").width('0%');
+                    $("#message").html("");
+                    $("#percent").html("0%");
+                }
 
             },
             //uploadProgress : this function called when the upload is in progress
@@ -1120,9 +826,11 @@
             {
 
                 if (data.success == 1) {
-                    $(".progress").hide();
-                    $('#upl_overlay').removeClass('upl_overlay');
-                    $('.mod-inner-bg').css('border','0px');
+                    if ($('#video_url').val() == '') {
+                        $(".progress").hide();
+                        $('#upl_overlay').removeClass('upl_overlay');
+                    }
+                    $(".mod-inner-bg").css({"border": "0px", "float": "right"});
                     $('#main-blog-popup').hide();
                     $("#success_message").html("<p>" + data.msg + "</p>");
                     $('.upload_more_pop').show();
@@ -1135,11 +843,13 @@
             complete: function(data)
             {
                 $(".progress").hide();
-                $('#upl_overlay').removeClass('upl_overlay');
+                if ($('#video_url').val() == '') {
+                    $('#upl_overlay').removeClass('upl_overlay');
+                }
             },
             error: function()
             {
-                $("#error_message").html("<p> ERROR: unable to upload files</p>");
+                $("#error_message").html("<p> Error occured. Please try again later</p>");
 
             }
 
@@ -1147,7 +857,27 @@
         ////where myForm is the form id
         $("#videosupload").ajaxForm(options);
 
+        /*//to hide div of select file and or para
+        $('.pop_up_video').on('click', function() {
+            $('.upload_div_popup,.remove_or').hide();
+        });
+
+*/
+
     });
+
+
+    /*
+     $('.videosupload').on('click', function() {
+     $('.progress').hide();
+     });*/
+</script>
+<script type="text/javascript">
+      $(document).ready(function() {
+       $('.landing_image_web').bPopup({
+                    positionStyle: 'absolute' //'fixed' or 'absolute'
+       });
+       });
 </script>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -1156,266 +886,105 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<!--Footer jssection ends here-->
-    <script type="text/javascript">
-        function getCookie(cname) {
-            var name = cname + "=";
-            var ca = document.cookie.split(';');
-            for (var i = 0; i < ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0) == ' ')
-                    c = c.substring(1);
-                if (c.indexOf(name) != -1)
-                    return c.substring(name.length, c.length);
-            }
-            return "";
-        }
-        city = getCookie('city').split('+').join(' ');
-        city = city.charAt(0).toUpperCase() + city.substr(1);
-        cityarea = decodeURI(getCookie('cityarea').split('+').join(' '));
-        cityarea = cityarea.split('-').join(' ');
-        //cityarea = cityarea.charAt(0).toUpperCase() + cityarea.substr(1);
-
-        cityId = getCookie('cityId');
-
-        if (city == '' || city == null || city == 'undefined') {
-            if (geoPosition.init()) {
-                geoPosition.getCurrentPosition(success_callback, error_callback, {
-                    timeout: 10000,
-                    enableHighAccuracy: false
-                });
-            } else {
-                document.getElementById('result').innerHTML = '<span class="error">Functionality not available</span>';
-            }
-        } else {
-
-            $("#city_name").html('<div id="city_name">' + '<a id="search_city">' + city + '</a>' + '</div>');
-            $("#hidcity").val(city);
-            $('#headerCity1').val(city);
-            $('#city_value').val(city);
-            $('#sCity').val(city);
-            if (cityarea != '') {
-                $('#sCityArea').val(cityarea.toLowerCase().replace(/^(.)|(\s|\-)(.)/g,
-                        function(c) {
-                            return c.toUpperCase();
-                        }));
-            }
-            $('#hidcity').val(city);
-            $("#deals_data_city").html(city);
-            $("#adds_data_city").html(city);
-
-        }
-
-        function success_callback(p) {
-            var latitude = parseFloat(p.coords.latitude);
-            var longitude = parseFloat(p.coords.longitude);
-
-            $.ajax({
-                type: "get",
-                url: '/geolocation',
-                data: '&lat=' + latitude + '&long=' + longitude,
-                success: function(data) {
-                    if (data.city_name != '') {
-                        $("#city_name").html('<div id="city_name">' + '<a id="search_city">' + data.city_name + '</a>' + '</div>');
-                        $('#headerCity1').val(data.city_name);
-                        $('#city_value').val(data.city_name);
-                        $('#sCity').val(data.city_name);
-                        $('#hidcity').val(data.city_name);
-
-                        var cityarea = data.cityarea;
-                        if (typeof cityarea !== "undefined" && cityarea != '') {
-                            cityarea = cityarea.split('-').join(' ');
-                            $('#sCityArea').val(cityarea.toLowerCase().replace(/^(.)|(\s|\-)(.)/g,
-                                    function(c) {
-                                        return c.toUpperCase();
-                                    }));
-                        }
-                            var base_url = "http://www.askme.com";
-                        $('#postad').attr('href', base_url + "/" + data.city_name.toLowerCase() + "/adpost");
-                        $('#postreview').attr('href', base_url + "/" + data.city_name.toLowerCase() + "/post-review");
-
-                    } else
-                    {
-                        var city_name = 'Delhi';
-                        $("#city_name").html('<div id="city_name">' + '<a id="search_city">' + city_name + '</a>' + '</div>');
-                        $('#headerCity1').val(city_name);
-                        $('#city_value').val(city_name);
-                        $('#sCity').val(city_name);
-                        $('#hidcity').val(city_name);
-                        var cityarea = "";
-                        $('#sCityArea').val(cityarea);
-                    }
-                }
-            });
-
-        }
-
-        function error_callback(p) {
-
-            var latitude = '';
-            var longitude = '';
-            $.ajax({
-                type: "get",
-                url: '/geolocation',
-                data: '&lat=' + latitude + '&long=' + longitude,
-                success: function(data) {
-                    if (data.city_name != '') {
-                        var city = data.city_name;
-                        $("#city_name").html('<div id="city_name">' + '<a id="search_city">' + data.city_name + '</a>' + '</div>');
-                        $('#headerCity1').val(data.city_name);
-                        $('#city_value').val(data.city_name);
-                        $('#sCity').val(data.city_name);
-                        $('#hidcity').val(data.city_name);
-                            var base_url = "http://www.askme.com";
-                        $('#postad').attr('href', base_url + "/" + data.city_name.toLowerCase() + "/adpost");
-                        $('#postreview').attr('href', base_url + "/" + data.city_name.toLowerCase() + "/post-review");
-
-
-                    }
-                }
-            });
-        }
-    </script>
-
-<script>
-
-    var page_type = 'Privacy Policy';
-
-    /* accordion for footer links */
-    $(function() {
-
-        if ($(window).width() < 600) {
-            // The height of the content block when it's not expanded
-            var adjustheight = 155;
-            // The "more" link text
-            var moreText = " View More  ";
-            // The "less" link text
-            var lessText = "View Less ";
-
-            // Sets the .more-block div to the specified height and hides any content that overflows
-            $(".more-less .more-block").css('height', adjustheight).css('overflow', 'hidden');
-
-            // The section added to the bottom of the "more-less" div
-            $(".more-less").append('<p class="continued"></p><a href="#" class="adjust"></a>');
-
-            $("a.adjust").text(moreText);
-
-            $(".adjust").toggle(function() {
-                $(this).parents("div:first").find(".more-block").css('height', 'auto').css('overflow', 'visible');
-                // Hide the [...] when expanded
-                $(this).parents("div:first").find("p.continued").css('display', 'none');
-                $(this).text(lessText);
-                $(this).addClass('uparrow');
-            }, function() {
-                $(this).parents("div:first").find(".more-block").css('height', adjustheight).css('overflow', 'hidden');
-                $(this).parents("div:first").find("p.continued").css('display', 'block');
-                $(this).text(moreText);
-                $(this).removeClass('uparrow')
-
-            });
-        }
-    });
-    /* accordion for footer links */
-</script>
-<!-- start Analytics -->
- 
 <script type="text/javascript">
-    (function() {
-        var a = document.createElement('script');
-        a.type = 'text/javascript';
-        a.async = true;
-        a.src = ('https:' == document.location.protocol ? 'https://' : 'http://cdn.') + 'chuknu.sokrati.com/1980/tracker.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(a, s);
-    })();
+    var PHP_GEOLOCATION_STATUS = " 1";
+    var PHP_WEBENGAGECONF_STATUS = "0";
+    var WEBENGAGE = "~c2ab3c53";
+    var page_type = PHP_CURRENT_PAGE_TYPE;
 </script>
 
-
-    <script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><div id="_webengage_script_tag"></div>
     <script type="text/javascript">
-        var _weq = _weq || {};
-        _weq['webengage.licenseCode'] = '~c2ab3c53';
-        _weq['webengage.widgetVersion'] = "4.0";
-
-        (function(d) {
-            var _we = d.createElement('script');
-            _we.type = 'text/javascript';
-            _we.async = true;
-            _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
-            var _sNode = d.getElementById('_webengage_script_tag');
-            _sNode.parentNode.insertBefore(_we, _sNode);
-        })(document);
+        var PHP_SESS_HAS_LOGIN_STATUS = "";
+        var PHP_SESS_GET_LOGIN_STATUS = "";
+        var PHP_SESS_HAS_FB_STATUS = "";
+        var PHP_SESS_GET_FB_STATUS = "";
+        var PHP_SESS_HAS_GPLUS_STATUS = "";
+        var PHP_SESS_GET_GPLUS_STATUS = "";
+        if (((PHP_SESS_HAS_LOGIN_STATUS) && (PHP_SESS_GET_LOGIN_STATUS == 1)) ||
+            ((PHP_SESS_HAS_FB_STATUS) && (PHP_SESS_GET_FB_STATUS == 1)) || ((
+                PHP_SESS_HAS_GPLUS_STATUS) && (PHP_SESS_GET_GPLUS_STATUS == 1))) {
+                var PHP_SESSION_EMAIL = '';
+                    }
     </script>
-   
 
 <script type="text/javascript">
     function pixel_fire(event)
     {
-        var url = "http://pixel.everesttech.net/px2/479?px_evt=t&ev_" + event + "=1&ev_transid=" + "3430c771d62f0912fc56ff432f6e5a14f7c57541";
+        var url = "http://pixel.everesttech.net/px2/479?px_evt=t&ev_" + event + "=1&ev_transid=" + "47b61b059bf30cb2fe746b95134d9ad96357565b";
         var elem = document.createElement("img");
         elem.setAttribute("src", url);
         elem.setAttribute("height", '1');
         elem.setAttribute("width", '1');
         document.body.appendChild(elem);
     }
+
+    var PHP_PREVIUOS_URL                = "http://www.askme.com/";
+    var PHP_REGISTER_URL                = "http://www.askme.com/user/register";
+    var PHP_SESS_REG_STATUS             = "";
+    var PHP_SESS_GET_STATUS             = "";
+    var PHP_SESS_HAS_FB_STATUS          = "";
+    var PHP_SESS_GET_FB_STATUS          = "";
+
+    var PHP_SESS_HAS_GPLUS_STATUS       = "";
+    var PHP_SESS_GET_GPLUS_STATUS       = "";
+
+    var PHP_SESS_HAS_LOGIN_STATUS       = "";
+    var PHP_SESS_GET_LOGIN_STATUS       = "";
+
+    var PHP_SESS_HAS_CLAIM_BUSS_STATUS  = "";
+    var PHP_SESS_GET_CLAIM_BUSS_STATUS  = "";
+
+    var PHP_SESS_HAS_LEADFORM_STATUS    = "";
+    var PHP_SESS_GET_LEADFORM_STATUS    = "";
+
+    var PHP_KEYWORD                     = "";
+
+    var PHP_FA_CAT_NAME                 = "";
+    var PHP_FA_LISTING_ID               = "";
+    var PHP_AD_TITLE                    = "";
+    var PHP_DEAL_ID                     = "";
+    var PHP_LISTING_LOCATION_ID         = "";
+    var PHP_ASKME_NOTIFICATION_STATUS   = "1";
+
 </script>
-    <script type="text/javascript">
-        $(document).ready(function() {
 
-            $('#postad').on('click', function() {
-                dataLayer.push({'event': 'PostAnAd'});
-            });
+ <!--  if user submit form and came from register page and status is 1  -->
+    
+    <!--  if user click on fb button and came from register page and status is 1 -->
+    
+    <!-- if user click on google button and came from register page and status is 1 -->
+    
+    <!-- if user submit form and came from login page and status is 1 -->
+    
+    <!-- if user click on fb button and came from login page and status is 1 -->
+    
+   <!--  if user click on google button and came from login page and status is 1 -->
+    
+    <!--  if claim business status is 1 -->
+    
+    <!--  if lead generation form status is 1 -->
+    
 
-            $('#postreview').on('click', function() {
-                dataLayer.push({'event': 'PostReview'});
-            });
 
-            $('#login_open').on('click', function() {
-                dataLayer.push({'event': 'SignIn'});
-            });
 
-            $('.register-mp').on('click', function() {
-                dataLayer.push({'event': 'Register'});
-            });
+<div id="_webengage_script_tag"></div>
+ <script src="http://static.askme.com/mjs/1622c3388caa1f1aa80064e1e6a47c631450262290.js"></script>
 
-            $('#askme_bazaar').on('click', function() {
-                dataLayer.push({'event': 'BazaarClick'});
-            });
 
-            $('#ovistore').on('click', function() {
-                dataLayer.push({'event': 'OVIStoreClick'});
-            });
-
-            $('#playstore').on('click', function() {
-                dataLayer.push({'event': 'GooglePlayStoreClick'});
-            });
-
-            $('#appstore').on('click', function() {
-                dataLayer.push({'event': 'AppStoreClick'});
-            });            
-            
-            $('.top-places-anchor-tag').on('click', function() {
-                var href = $(this).attr('href');
-                dataLayer.push({'event': 'TopPlaces','url': href});
-            });
-
-            $('.top-ads-anchor-tag').on('click', function() {
-                var href = $(this).attr('href');
-                dataLayer.push({'event': 'TopAds','url': href});
-            });
-
-            $('.top-deals-anchor-tag').on('click', function() {
-                var href = $(this).attr('href');
-                dataLayer.push({'event': 'TopDeals', 'url': href});
-            });
-
-        });
-
-    </script>
 <script type="text/javascript">_satellite.pageBottom();</script>
-        <!--Footer Content ends here -->
-        
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a401cddad9","applicationID":"4244735","transactionName":"NQMDZEVRCxdQVkEKCwxJNEJeHwwKVVBNTRQKFg==","queueTime":0,"applicationTime":296,"atts":"GUQAEg1LGBk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
+<noscript><p><img src = "//piwikaskme.erlpaas.com/piwik.php?idsite=11" style = "border:0;" alt = "" / ></p></noscript>
+
+<!-- askme notification code starts-->
+<iframe width="1px" height="1px" style="display:none" src=" http://cxaskmeapi.erlpaas.com/askmenotification/token.php"></iframe>
+<script src=" http://cxaskmeapi.erlpaas.com/askmenotification/Notification.js" type="text/javascript"></script>
+<div id="showNotification" class="show_notif"></div>
+        <script src="http://static.askme.com/mjs/b1553c63842d00da73fb0273f9e7f21c1449571639.js"></script>
+
+
+<!-- askme notification code  ends-->
+    <!--Footer Content ends here -->
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a401cddad9","applicationID":"10366170","transactionName":"NQMDZEVRCxdQVkEKCwxJNEJeHwwKVVBNTRQKFg==","queueTime":0,"applicationTime":391,"atts":"GUQAEg1LGBk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
 
 </body></html>
