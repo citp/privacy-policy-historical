@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kitchenaid.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628170503id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kitchenaid.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228014528id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" xml:lang="en" class="dj_gecko dj_ff3 dj_contentbox dj_webkit dj_contentbox" lang="en"><head>
 	<title>
@@ -39,9 +39,10 @@
 	<!-- BEGIN CommonJSToInclude.jspf --><!-- BEGIN WHRORNCommonJSToInclude.jspf -->
 
 <script type="text/javascript">
-var absoluteURL = "http://www.kitchenaid.com/webapp/wcs/stores/servlet/";
+var absoluteURL = "https://www.kitchenaid.com/webapp/wcs/stores/servlet/";
 var imageDirectoryPath = "/wcsstore/NARStorefrontAssetStore/";
 var styleDirectoryPath = "images/colors/color2/";
+var STORE_NAME = 'KAD_US_B2C';
 
 //Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
 //Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
@@ -153,9 +154,7 @@ var currentprotocol = document.location.protocol;
 	<script type="text/javascript" src="/javascript/wt_capi.js"></script>
 <!--END Add Web Tracking Code to Whirlpool and Maytag-->
 	<script type="text/javascript" src="/wcsstore/NARStorefrontAssetStore/javascript/gtmHelper.js"></script>
-<!-- END WHRORNCommonJSToInclude.jspf -->
-	<script type="text/javascript" src="/wcsstore/NARStorefrontAssetStore/javascript/gtmHelper.js"></script>
-	<!-- END CommonJSToInclude.jspf -->
+	<!-- END WHRORNCommonJSToInclude.jspf --><!-- END CommonJSToInclude.jspf -->
 	
 	<script type="text/javascript" src="/wcsstore/NARStorefrontAssetStore/javascript/MessageHelper.js"></script>
 		
@@ -163,21 +162,20 @@ var currentprotocol = document.location.protocol;
 </head>
 
 <body class="desktop">
-    <!-- Google Tag Manager --><!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id='GTM-W5NL5J'"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-W5NL5J');</script>
-	<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id='GTM-W5NL5J'"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-W5NL5J');</script>
+			<!-- End Google Tag Manager -->
 
         <script type="text/javascript">
-                <!-- Do not try putting this under a dojo.addonload, since dojo.back: Not initialised, You should call dojo.back.init() from a <script> block that lives
- inside the <body> tag to prevent bugs on IE. -->
+                /*<!-- Do not try putting this under a dojo.addonload, since dojo.back: Not initialised, You should call dojo.back.init() from a <script> block that lives inside the <body> tag to prevent bugs on IE. -->*/
                 dojo.require("dojo.back");
                 dojo.back.init();
-        </script>
+        </script><iframe style="border:0;width:1px;height:1px;position:absolute;visibility:hidden;bottom:0;right:0;" name="dj_history" id="dj_history" src="/wcsstore/dojo131/dojo/resources/iframe_history.html"></iframe>
         <!-- BEGIN StoreCommonUtilities.jspf -->
 <input id="closebutton" type="hidden" value="CLOSE">
 
@@ -217,6 +215,8 @@ if (document.referrer){
 
 
 	var mobileCookie = document.cookie && document.cookie.indexOf("mobileBrowser") >= 0;
+    /* KA, Rosetta, Release Date: July Release -- Start
+     * FS - WM-2219 disable spinner with responsive-check class */
 	if(mobileCookie){
 		var dom = document.domain.split('.');
 		while (dom.length > 2){
@@ -228,9 +228,18 @@ if (document.referrer){
 				var gifLocation = "/images/template/ka-loading-red.gif";
 			
 		var message = 'You Are Being Redirected To The Desktop Site...';
-		$('body').append('<div class="takeover-message-wrapper"><div class="takeover-message-content"><img src="'+gifLocation+'" title="loading" alt="loading" /><p>'+message+'</p></div></div>');
-	}
 
+		$(document).ready(function () {
+			if ($('.responsive-check').length){
+                console.log('responsive');
+			}else{
+			
+	          $('body').append('<div class="takeover-message-wrapper"><div class="takeover-message-content"><div id="loading"><div id="loading-center"><div id="loading-center-absolute"><div class="object_move" id="object_move_1"></div><div class="object" id="object_one"></div><div class="object" id="object_two"></div><div class="object" id="object_three"></div><div class="object" id="object_four"></div><div class="object" id="object_five"></div><div class="object" id="object_six"></div><div class="object" id="object_seven"></div><div class="object" id="object_eight"></div></div></div></div><p>'+message+'</p></div></div>');              
+	              
+			}
+		});
+	}
+	/*KA, Rosetta, Release Date: July Release -- End */
 	$(document).ready(function () {
         var messageTimer = setInterval(function () { removeMessage() }, 3000);
 
@@ -243,8 +252,8 @@ if (document.referrer){
  
 <div id="fDiv"></div>
 
-<!-- END StoreCommonUtilities.jspf --><!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN WHRORNHeaderDisplay.jspf --><!-- Gladiator Phase 2 Change START 12/25 --><!-- HOST: [NAR-server3] -->
-<!-- GENERATED: [CachedORNHeaderDisplay.jsp, Sun Jun 28 06:56:22 EDT 2015] -->
+<!-- END StoreCommonUtilities.jspf --><!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN WHRORNHeaderDisplay.jspf --><!-- Gladiator Phase 2 Change START 12/25 --><!-- HOST: [NAR-server4] -->
+<!-- GENERATED: [CachedORNHeaderDisplay.jsp, Tue Dec 22 01:48:44 EST 2015] -->
   
 
 
@@ -341,18 +350,21 @@ function clearText(thefield){
 </script>
 
 
-
-
 <div id="header_search">
+
 	<form name="CatalogSearchForm" action="/webapp/wcs/stores/servlet/WHRORNAjaxCatalogSearchView" method="get" id="CatalogSearchForm">
+		
 	  	<input type="hidden" name="storeId" value="10202" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
 		<input type="hidden" name="catalogId" value="10552" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
 		<input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
 		<input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
 		
 		<input type="text" name="searchTerm" placeholder="SEARCH" id="search-text" class="search-textbox ">
-		<button onclick="fireFloodlight('2625291','kad650','kad-l508');" id="search-submit" type="submit">Ok</button>
+		
+			<button onclick="fireFloodlight('2625291','kad650','kad-l508');" id="search-submit" type="submit">Ok</button>
+				
 	</form>
+	
 </div>
 
 		<script type="text/javascript">
@@ -371,13 +383,12 @@ function clearText(thefield){
 		<div id="header_sub_nav_1"> 
 			<ul>
 				
-
-		<li class="first">
-			<a class="first" href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-l508');">SIGN IN</a>
-			OR
-			<a href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-m646');">CREATE ACCOUNT</a>
-		</li>
-	<!-- /* R2 WishList functionality starts March 03 2011 */ --><!--  <li class="first"></li> -->
+			<li class="first">
+				<a class="first" href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-l508');">SIGN IN</a>
+				OR
+				<a href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10552&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10202" onclick="fireFloodlight('2625291','kad650','kad-m646');">CREATE ACCOUNT</a>
+			</li>
+		<!-- /* R2 WishList functionality starts March 03 2011 */ --><!--  <li class="first"></li> -->
 				
 				<li><a id="wishListHeaderAnchor" href="https://www.kitchenaid.com/webapp/wcs/stores/servlet/InterestItemDisplay?catalogId=10552&amp;listId=.&amp;langId=-1&amp;storeId=10202" onmouseover="refreshMiniWishListDropdown();" onclick="">???HEADER_WISH_LIST???</a>					
 					
@@ -400,10 +411,9 @@ function clearText(thefield){
 						<div id="outerCartContainer" style="display: block;">
 							<div dojotype="dojo.dnd.Target" jsid="miniShopCart_dndTarget" id="miniShopCart_dndTarget" accept="item, product, package, bundle" class="dojoDndContainer dojoDndTarget">
 								<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" onmouseover="showMiniShopCartDropDown('placeHolder','quick_cart_container','orderItemsList');" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" title="" class="dijitContentPane">
-									<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- GENERATED: [MiniShopCartDisplay, Sun Jun 28 06:56:22 EDT 2015] -->
+									<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- GENERATED: [MiniShopCartDisplay, Tue Dec 22 01:48:44 EST 2015] -->
 
 <!-- If we get here from a generic error this service will fail so we need to catch the exception -->
-
 <a href="http://www.kitchenaid.com/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10552&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10202&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay" onkeypress="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');" onclick="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');">
 		<span id="miniShopCartLeftCorner" class="left_corner">
 			CART
@@ -458,8 +468,7 @@ function clearText(thefield){
    <div class="header-sub-nav-options">
       <ul class="header-options">
          <li class="shop-utility-link"><a href="/shop/">SHOP</a></li>
-         <li><a href="/promotions/">SPECIAL OFFERS</a></li>
-         <li><a href="/shop/more-ways-to-shop-1/outlet-3/102020231/">OUTLET</a></li>
+        <li><a href="/shop/more-ways-to-shop-1/outlet-3/102020231/">OUTLET</a></li>
          <li><a id="chatLink" href="/customer-service/live-chat/">LIVE CHAT</a></li>
          <li><a href="/find-a-store/">FIND A RETAILER</a></li>
          <li><a href="/contact-us/">CONTACT US</a></li>
@@ -476,7 +485,7 @@ function clearText(thefield){
    <div class="navbar-inner">
       <div class="navbar-menu-wrapper mobile" data-open="false"><a class="nav-close" href="javascript:void(0)"><img src="/images/template/menu.png" alt="Menu"></a><a class="nav-open" href="javascript:void(0)"><img src="/images/template/nav-close.png" alt="Close"></a></div>
       <div class="brand"><a href="/"><img title="KitchenAid" src="/wcs/images/img_logo.png" alt="KitchenAid"></a></div>
-      <div class="navbar-retailer-wrapper mobile"><a href="/where-to-buy/"><button id="WhereToBuyBtn" class="btn btn-navbar">Stores</button></a></div>
+      <div class="navbar-retailer-wrapper mobile"><a href="/find-a-store/"><button id="WhereToBuyBtn" class="btn btn-navbar">Stores</button></a></div>
       <div class="navbar-search-wrapper mobile"><button id="SearchBtn" class="btn btn-navbar btn-search">Search</button></div>
       <div class="nav-retailer">
          <div class="retailer-field-wrapper">
@@ -509,18 +518,19 @@ function clearText(thefield){
                      <li data-target="reset" class="active-bar-container">
                         <div class="active-bar"></div>
                      </li>
+                     <li class="blackstainless-list-item" data-target="blackstainless-list"><a href="/major-appliances/black-stainless-steel/" name="/major-appliances/black-stainless-steel/">Black Stainless</a></li> 
                      <li class="cooktops-list-item" data-target="cooktops-list"><a href="/major-appliances/cooktops/" name="/major-appliances/cooktops/">Cooktops</a></li> 
                      <li class="wall-ovens-list-item" data-target="wall-ovens-list"><a href="/major-appliances/wall-ovens/" name="/major-appliances/wall-ovens/">Wall Ovens</a></li>
                      <li class="refrigerators-list-item" data-target="refrigerators-list"><a href="/major-appliances/refrigerators/" name="/major-appliances/refrigerators/">Refrigerators</a></li>
-                     <li class="undercounter-refrigerators-list-item" data-target="undercounter-refrigerators-list"><a href="/shop/major-appliances-1/refrigerators-3/102020356/" name="/shop/major-appliances-1/refrigerators-3/102020356/">Undercounter<br>Refrigerators</a></li>
+                     <li class="undercounter-refrigerators-list-item" data-target="undercounter-refrigerators-list"><a href="/brand_major-appliances_undercounter-refrigerators.content.html" name="/brand_major-appliances_undercounter-refrigerators.content.html">Undercounter<br>Refrigerators</a></li>
                      <li class="ranges-list-item" data-target="ranges-list"><a href="/major-appliances/ranges/" name="/major-appliances/ranges/">Ranges</a></li>
-                     <li class="microwaves-list-item" data-target="microwaves-list"><a href="/shop/major-appliances-1/microwaves-3/102020037/" name="/shop/major-appliances-1/microwaves-3/102020037/">Microwaves</a></li>
+                     <li class="microwaves-list-item" data-target="microwaves-list"><a href="/major-appliances/microwaves/" name="/major-appliances/microwaves/">Microwaves</a></li>
                      <li class="dishwasers-list-item" data-target="dishwashers-list"><a href="/major-appliances/dishwashers/" name="/major-appliances/dishwashers/">Dishwashers</a></li>
-                     <li class="disposers-compactors-list-item" data-target="disposers-compactors-list"><a href="/shop/major-appliances-1/disposers-and-compactors-3/102020299/" name="/shop/major-appliances-1/disposers-and-compactors-3/102020299/">Disposers <br>&amp; Compactors</a></li>
+                     <li class="disposers-compactors-list-item" data-target="disposers-compactors-list"><a href="/major-appliances/disposers-and-compactors/" name="/major-appliances/disposers-and-compactors/">Disposers <br>&amp; Compactors</a></li>
                      <li class="warming-drawers-list-item" data-target="warming-drawers-list"><a href="/shop/major-appliances-1/warming-drawers-3/102020057/" name="/shop/major-appliances-1/warming-drawers-3/102020057/">Warming Drawers</a></li>      
-                     <li class="hoods-vents-list-item" data-target="hoods-vents-list"><a href="/shop/major-appliances-1/hoods-and-vents-3/102020029/" name="/shop/major-appliances-1/hoods-and-vents-3/102020029/">Hoods &amp; Vents</a></li>
+                     <li class="hoods-vents-list-item" data-target="hoods-vents-list"><a href="/major-appliances/hoods-and-vents/" name="/major-appliances/hoods-and-vents/">Hoods &amp; Vents</a></li>
                      <li class="grills-list-item" data-target="grills-list"><a href="/major-appliances/grills/" name="/major-appliances/grills/">Grills</a></li>
-                     <li class="water-filters-list-item" data-target="water-filters-list"><a target="_blank" href="https://everydropwater.com/" name="https://everydropwater.com/">Water Filters</a></li>
+                     <li class="water-filters-list-item" data-target="water-filters-list"><a target="_blank" href="/major-appliances/water-filters/" name="/major-appliances/water-filters/">Water Filters</a></li>
                      <li class="majors-accessories-list-item desktop" data-target="majors-accessories-list">Accessories</li>
                      <li class="submenu tertiary majors-accessories-list-item" data-target="majors-accessories-list">
                         <span>Accessories</span>
@@ -544,6 +554,10 @@ function clearText(thefield){
                      <li data-target="refrigerators-accessories-image"><a href="/shop/accessories-1/refrigerators-3/102020075/">Refrigerators</a></li>
                      <li data-target="wall-ovens-accessories-image"><a href="/shop/accessories-1/wall-ovens-3/102020301/">Wall Ovens</a></li>
                   </ul>
+                  <ul class="secondary-categories blackstainless-list">
+                     <li data-target="see-all-blackstainless-image"><a href="/shop/major-appliances-1/black-stainless-suite-3/102020358/">See All Black Stainless Suites</a></li>
+                     <li data-target="see-all-blackstainless-image"><a href="/major-appliances/black-stainless-steel/">Discover More</a></li>
+                  </ul>
                   <ul class="secondary-categories cooktops-list">
                      <li data-target="see-all-cooktops-image"><a href="/shop/major-appliances-1/cooktops-3/102020008/">See All Cooktops</a></li>
                      <li data-target="gas-cooktops-image"><a href="/shop/major-appliances-1/cooktops-3/102020008+4294965147/">Gas</a></li>
@@ -566,6 +580,7 @@ function clearText(thefield){
                      <li data-target="undercounter-refrigerator-image"><a href="/shop/major-appliances-1/refrigerators-3/102020356+105000260/">Undercounter Refrigerators</a></li>
                      <li data-target="double-drawer-refrigerator-image"><a href="/shop/major-appliances-1/refrigerators-3/102020356+105000261/">Double Drawer Refrigerator</a></li>
                      <li data-target="ice-maker-image"><a href="/shop/major-appliances-1/refrigerators-3/102020356+105000264/">Ice maker</a></li>
+                     <li data-target="undercounter-refrigerator-image"><a href="/brand_major-appliances_undercounter-refrigerators.content.html">Discover More</a></li>
                   </ul>
                   <ul class="secondary-categories ranges-list">
                      <li data-target="see-all-ranges-image"><a href="/shop/major-appliances-1/ranges-3/102020042/">See All Ranges</a></li>
@@ -578,6 +593,7 @@ function clearText(thefield){
                      <li data-target="built-in-microwaves-image"><a href="/shop/major-appliances-1/microwaves-3/102020037+4294967096/">Built-In</a></li>
                      <li data-target="countertop-microwaves-image"><a href="/shop/major-appliances-1/microwaves-3/102020037+4294966994/">Countertop</a></li>
                      <li data-target="hood-combnation-microwaves-image"><a href="/shop/major-appliances-1/microwaves-3/102020037+4294967074/">Microwave Hood Combination</a></li>
+                      <li data-target="microwaves-learn-more-image"><a href="/major-appliances/microwaves/">Discover More</a></li>
                   </ul>
                   <ul class="secondary-categories warming-drawers-list">
                      <li data-target="see-all-warming-drawers-image"><a href="/shop/major-appliances-1/warming-drawers-3/102020057/">See All Warming Drawers</a></li>
@@ -613,14 +629,14 @@ function clearText(thefield){
                   <ul class="secondary-categories water-filters-list ">
                      <li class="water-filters-list-item">
                         <p>Go to:</p>
-                        <a target="_blank" href="https://everydropwater.com/"><span>Go to EveryDropWater.com</span><img alt="Refrigerator Water Filters" title="Refrigerator Water Filters" src="/images/rwd-navigation/water-filters.jpg"></a>
+                        <a target="_blank" href="/major-appliances/water-filters/"><span>Go to Water Filters</span><img alt="Refrigerator Water Filters" title="Refrigerator Water Filters" src="/images/rwd-navigation/water-filters.jpg"></a>
                      </li>
                   </ul>
                   <ul class="secondary-categories grills-list ">
                      <li data-target="all-grills-image"><a href="/major-appliances/grills/">See All Grills</a></li>
                   </ul>
                   <ul class="product-image-navigation">
-                     <li><a href="#"><img title="KitchenAid" src="/images/rwd-navigation/sprite-major-appliances.jpg" alt="KitchenAid"></a></li>
+                     <li style="margin-left:-10px;"><a href="#"><img title="KitchenAid" src="/images/rwd-navigation/sprite-major-appliances.jpg" alt="KitchenAid"></a></li>
                   </ul>
                </li>
                <li class="submenu countertop-appliances-menu-item main-nav-content">
@@ -642,8 +658,8 @@ function clearText(thefield){
                      <li data-target="stand-mixer-attachments-list"><a href="/countertop-appliances/stand-mixer-attachments/" name="/countertop-appliances/stand-mixer-attachments/">Stand Mixer<br>Attachments</a></li>
                      <li data-target="food-processors-list"><a href="/countertop-appliances/food-processors/" name="/countertop-appliances/food-processors/">Food Processors</a></li>
                      <li data-target="coffee-products-list"><a href="/countertop-appliances/coffee-products/" name="/countertop-appliances/coffee-products/">Coffee Products</a></li>
- 		               <li data-target="Juicers-products-list"><a href="/countertop-appliances/juicers/" name="/countertop-appliances/juicers/">Juicers</a></li>
- 		               <li data-target="Soda-stream-products-list"><a href="/countertop-appliances/sparkling-beverage-maker/" name="/countertop-appliances/sparkling-beverage-maker/">Sparkling Beverage<br>Maker by SodaStream®</a></li>
+                     <li data-target="Juicers-products-list"><a href="/countertop-appliances/juicers/" name="/countertop-appliances/juicers/">Juicers</a></li>
+                     <li data-target="Soda-stream-products-list"><a href="/countertop-appliances/sparkling-beverage-maker/" name="/countertop-appliances/sparkling-beverage-maker/">Sparkling Beverage<br>Maker by SodaStream®</a></li>
                      <li data-target="blenders-list"><a href="/countertop-appliances/blenders/" name="/countertop-appliances/blenders/">Blenders</a></li>
                      <li data-target="hand-blenders-list"><a href="/countertop-appliances/hand-blenders/" name="/countertop-appliances/hand-blenders/">Hand Blenders</a></li>
                      <li data-target="hand-mixers-list"><a href="/countertop-appliances/hand-mixers/" name="/countertop-appliances/hand-mixers/">Hand Mixers</a></li>
@@ -653,7 +669,7 @@ function clearText(thefield){
                      <li data-target="waffle-bakers-list"><a href="/countertop-appliances/waffle-bakers/" name="/countertop-appliances/waffle-bakers/">Waffle Bakers</a></li>
                      <li data-target="electric-kettles-list"><a href="/kitchenware/kettles/" name="/kitchenware/kettles/">Electric Kettles</a></li>
                      <li data-target="commerical-products-list"><a href="/countertop-appliances/commercial-products/" name="/countertop-appliances/commercial-products/">Commercial Products</a></li>
-                     <li data-target="microwaves-countertop-list"><a href="/shop/major-appliances-1/microwaves-3/102020037/" name="/shop/major-appliances-1/microwaves-3/102020037/">Microwaves</a></li>
+                     <li data-target="microwaves-list-countertop"><a href="/major-appliances/microwaves/" name="/major-appliances/microwaves/">Microwaves</a></li>
                      <li class="submenu tertiary countertop-accessories-list-item" data-target="countertop-accessories-list">
                         <span>Accessories</span>
                         <ul>
@@ -663,6 +679,7 @@ function clearText(thefield){
                            <li><a href="/shop/accessories-1/food-processors-3/102020106/" name="/shop/accessories-1/food-processors-3/102020106/">Food Processors</a></li>
                            <li><a href="/shop/accessories-1/hand-blenders-3/102020107/" name="/shop/accessories-1/hand-blenders-3/102020107/">Hand Blenders</a></li>
                            <li><a href="/shop/accessories-1/stand-mixers-3/102020102/" name="/shop/accessories-1/stand-mixers-3/102020102/">Stand Mixers</a></li>
+                           <li><a href="/shop/accessories-1/microwaves-3/102020095/" name="/shop/accessories-1/microwaves-3/102020095/">Microwaves</a></li>
                         </ul>
                      </li>
                   </ul>
@@ -710,7 +727,7 @@ function clearText(thefield){
                   </ul>
 
                   <ul class="secondary-categories Soda-stream-products-list">
-                     <li data-target="Soda-stream-subcat-image"><a href="/shop/countertop-appliances-1/Sparkling-Beverage-Makers-3/102020339/">Shop All Sparkling Beverage Maker By Sodastream</a></li>
+                     <li data-target="Soda-stream-subcat-image"><a href="/shop/countertop-appliances-1/Sparkling-Beverage-Makers-3/102020339/">Shop All Sparkling Beverage Maker By Sodastream®</a></li>
                      <li data-target="discover-more-image"><a href="/countertop-appliances/juicers/">Discover More</a></li>
                   </ul>
 
@@ -761,11 +778,14 @@ function clearText(thefield){
                      <li data-target="all-commerical-image"><a href="/shop/countertop-appliances-1/commercial-products-3/102020128/">Shop All Commercial Products</a></li>
                      <li data-target="discover-more-image"><a href="/countertop-appliances/commercial-products/">Discover More</a></li>
                   </ul>
-                  <ul class="secondary-categories countertop-parts-list"></ul>
-                  <ul class="secondary-categories microwaves-countertop-list">
-                     <li data-target="all-microwaves-image"><a href="/shop/major-appliances-1/microwaves-3/102020037/">Shop All Microwaves</a></li>
-                     <li data-target="discover-more-image"><a href="/shop/major-appliances-1/microwaves-3/102020037/">Discover More</a></li>
+                  <ul class="secondary-categories microwaves-list-countertop">
+                     <li data-target="see-all-microwaves-image-countertop"><a href="/shop/major-appliances-1/microwaves-3/102020037/">See All Microwaves</a></li>
+                     <li data-target="built-in-microwaves-image-countertop"><a href="/shop/major-appliances-1/microwaves-3/102020037+4294967096/">Built-In</a></li>
+                     <li data-target="countertop-microwaves-image-countertop"><a href="/shop/major-appliances-1/microwaves-3/102020037+4294966994/">Countertop</a></li>
+                     <li data-target="hood-combnation-microwaves-image-countertop"><a href="/shop/major-appliances-1/microwaves-3/102020037+4294967074/">Microwave Hood Combination</a></li>
+                      <li data-target="microwaves-learn-more-image-countertop"><a href="/major-appliances/microwaves/">Discover More</a></li>
                   </ul>
+                  <ul class="secondary-categories countertop-parts-list"></ul>
                   <ul class="secondary-categories culinary-bundles-list" style="height: 643px;">
                      <li data-target="discover-more-image"><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Color_Your_Kitchen_Suites">Color Your Kitchen Suites</a></li>
                       <li data-target="discover-more-image"><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Any_Day_Maker_Sets">Any Day Maker Sets</a></li>
@@ -791,7 +811,9 @@ function clearText(thefield){
                      <li class="kitchenware-list-item" data-target="kitchen-culinary-bundles-list"><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Start_The_Kitchen_Sets" name="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Start_The_Kitchen_Sets">Culinary Bundles</a></li>
                      <li class="kitchenware-list-item" data-target="bakeware-list"><a href="/kitchenware/bakeware/" name="/kitchenware/bakeware/">Bakeware</a></li>
                      <li class="kitchenware-list-item" data-target="cookware-list"><a href="/kitchenware/cookware/" name="/kitchenware/cookware/">Cookware</a></li>
+                     <li class="kitchenware-list-item" data-target="cutlery-list"><a href="/brand_small-appliances_cutlery_overview.content.html" name="/brand_small-appliances_cutlery_overview.content.html">Cutlery</a></li>
                      <li class="kitchenware-list-item" data-target="kettles-list"><a href="/kitchenware/kettles/" name="/kitchenware/kettles/">Kettles</a></li>
+<li class="kitchenware-list-item" data-target="roasters-list"><a href="/shop/kitchenware-1/roasters-2/roasters-3/102020371/" name="/shop/kitchenware-1/roasters-2/roasters-3/102020371/">Roasters</a></li>
                   </ul>
                   <ul class="secondary-categories bakeware-list ">
                      <li data-target="all-bakeware-image"><a href="/shop/kitchenware-1/Bakeware-2/Bakeware-3/102020174/">Shop All Bakeware</a></li>
@@ -808,11 +830,17 @@ function clearText(thefield){
                      <li data-target="tri-ply-cookware-image"><a href="/shop/kitchenware-1/cookware-2/cookware-3/102020335+105000557/">Tri-Ply</a></li>
                      <li data-target="discover-more-image"><a href="/kitchenware/cookware/">Discover More</a></li>
                   </ul>
+                  <ul class="secondary-categories cutlery-list ">
+                     <li data-target="all-cutlery-image"><a href="/shop/Kitchenware-1/Cutlery-2/Cutlery-3/102020263/">Shop All Cutlery</a></li>
+                  </ul>
                   <ul class="secondary-categories kettles-list ">
                      <li data-target="kithenware-all-tea-kettles-image"><a href="/shop/kitchenware-1/kettles-2/kettles-3/102020218/">Shop All Tea Kettles</a></li>
                      <li data-target="kithenware-kettles-pro-line-image"><a href="/shop/countertop-appliances-1/pro-line-3/102020165/">Pro Line<sup>®</sup> Series Electric Kettle</a></li>
                      <li data-target="kithenware-all-electric-kettles-image"><a href="/shop/countertop-appliances-1/countertop-appliances-2/electric-kettles-3/102020253/">Shop All Electric Kettles</a></li>
                      <li data-target="discover-more-image"><a href="/kitchenware/kettles/">Discover More</a></li>
+                  </ul>
+<ul class="secondary-categories roasters-list ">
+                     <li data-target="/wcs/images/img_logo.png"><a href="/shop/kitchenware-1/roasters-2/roasters-3/102020371/">Shop All Roasters</a></li>
                   </ul>
                   <ul class="secondary-categories kitchen-culinary-bundles-list" style="height: 208px;">
                      <li data-target="discover-more-image"><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Color_Your_Kitchen_Suites">Color Your Kitchen Suites</a></li>
@@ -830,12 +858,14 @@ function clearText(thefield){
                         <div class="active-bar"></div>
                      </li>
                      <li class="mobile"><a href="/customer-service/" name="/customer-service/">See all Service &amp; Support</a></li>
-                     <li><a href="/customer-service/manuals/" name="/customer-service/manuals/">Manuals &amp; Literature</a></li>
-                     <li><a href="/customer-service/my-appliances/" name="/customer-service/my-appliances/">My Appliances</a></li>
-                     <li><a href="/customer-service/faqs/" name="/customer-service/faqs/">Product Help</a></li>
-                     <li><a href="/customer-service/register-products/" name="/customer-service/register-products/">Register Products</a></li>
-                     <li><a href="http://kitchenaidpartsonline.partsquik.com/" target="_blank" name="http://kitchenaidpartsonline.partsquik.com/">Replacement Parts</a></li>
-                     <li><a href="/customer-service/schedule-service/" name="/customer-service/schedule-service/">Schedule Service</a></li>
+                     <li><a class="keep-links" href="/customer-service/manuals/" name="/customer-service/manuals/">Manuals &amp; Literature</a></li>
+                     <li><a class="keep-links" href="/customer-service/my-appliances/" name="/customer-service/my-appliances/">My Appliances</a></li>
+                     <li><a class="keep-links" href="/customer-service/faqs/" name="/customer-service/faqs/">Product Help</a></li>
+                     <li><a class="keep-links" href="/quickstart/" name="/quickstart/">Quickstart</a></li>
+                     <li><a class="keep-links" href="https://register.kitchenaid.com/" name="https://register.kitchenaid.com/">Register Products</a></li>
+                     <li><a class="keep-links" href="/jump-page_replacement-parts.content.html" name="/jump-page_replacement-parts.content.html">Replacement Parts</a></li>
+                     <li><a class="keep-links" href="/customer-service/schedule-service/" name="/customer-service/schedule-service/">Schedule Service</a></li>
+<li><a href="/jump-page_extended-service-plans.content.html" name="/jump-page_extended-service-plans.content.html">Service Plans</a></li>
                   </ul>
                </li>
                <li class="submenu culinary-inspirations-menu-item main-nav-content">
@@ -845,11 +875,12 @@ function clearText(thefield){
                         <div class="active-bar"></div>
                      </li>
                      <li class="mobile"><a href="/culinary-inspiration/" name="/culinary-inspiration/">See All Culinary Inspiration</a></li>
-                     <li><a href="http://blog.kitchenaid.com/" target="_blank" name="http://blog.kitchenaid.com/">Blog: The Kitchenthusiast</a></li>
-                     <li><a href="/experience-retail-center/" name="/experience-retail-center/">Experience Retail Center</a></li>
-                     <li><a href="/culinary-inspiration/kitchen-gallery/" name="/culinary-inspiration/kitchen-gallery/">Kitchen Gallery</a></li>
-                     <li><a href="/culinary-inspiration/partners-and-events/" name="/culinary-inspiration/partners-and-events/">Partners &amp; Events</a></li>
-                     <li><a href="https://cookforthecure.kitchenaid.com/" name="https://cookforthecure.kitchenaid.com/">Cook For The Cure</a></li>
+                     <li><a class="keep-links" href="http://blog.kitchenaid.com/" target="_blank" name="http://blog.kitchenaid.com/">Blog: The Kitchenthusiast</a></li>
+                     <li><a class="keep-links" href="/experience-retail-center/" name="/experience-retail-center/">Experience Retail Center</a></li>
+                     <li><a class="keep-links" href="/culinary-inspiration/kitchen-gallery/" name="/culinary-inspiration/kitchen-gallery/">Kitchen Gallery</a></li>
+                     <li><a class="keep-links" href="/culinary-inspiration/partners-and-events/" name="/culinary-inspiration/partners-and-events/">Partners &amp; Events</a></li>
+                     <li><a class="keep-links" href="https://cookforthecure.kitchenaid.com/" name="https://cookforthecure.kitchenaid.com/">Cook For The Cure</a></li>
+           <li><a href="/promotions/" name="/promotions/">Special Offers</a></li>
                   </ul>
                </li>
                <li class="find-retailer-menu-item"><a href="/find-a-store/">Find a Retailer</a></li>
@@ -880,7 +911,7 @@ function clearText(thefield){
                   </ul>
                </div>
                <div class="nav-copyright-links">
-                  <div><sup>®</sup> /™©2014 KitchenAid. All rights reserved. The design of the stand mixer is a trademark in the U.S. and elsewhere.</div>
+                  <div><sup>®</sup> /™©<script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 KitchenAid. All rights reserved. The design of the stand mixer is a trademark in the U.S. and elsewhere.</div>
                </div>
             </div>
          </div>
@@ -1020,61 +1051,68 @@ dojo.addOnLoad(function() {
 		<div class="main-content-wrapper-bottom"></div>
 	</div>
 	
-	<!-- Footer Start Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN FooterDisplay.jspf --><!-- Gladiator Phase 2 START 12/26 --><!-- JSP File Name: CachedFooterDisplay.jsp --><!-- GENERATED: [CachedFooterDisplay, Sun Jun 28 06:56:22 EDT 2015] -->
+	<!-- Footer Start Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN FooterDisplay.jspf --><!-- Gladiator Phase 2 START 12/26 --><!-- JSP File Name: CachedFooterDisplay.jsp --><!-- GENERATED: [CachedFooterDisplay, Tue Dec 22 01:48:45 EST 2015] -->
 <!-- search functionality in footer for swash --><!-- search functionality ends for swash --><!-- Gladiator Phase 2 START 12/18 --><div id="footer-container">
    <div class="footer-header"></div>
    <div id="footer-nav">
       <div id="footer-nav-level-one">
          <ul>
             <li class="header"><a href="/major-appliances/">Major Appliances</a></li>
-            <li><a href="/major-appliances/cooking-products/">Cooking Products</a></li>
+            <li><a href="/major-appliances/black-stainless-steel/">Black Stainless</a></li>
+            <li><a href="/major-appliances/cooktops/">Cooktops</a></li>
+            <li><a href="/major-appliances/wall-ovens/">Wall Ovens</a></li>
+            <li><a href="/major-appliances/refrigerators/">Refrigerators</a></li>
+            <li><a href="/major-appliances/undercounter-refrigerators/">Undercounter Refrigerators</a></li>
+            <li><a href="/major-appliances/ranges/">Ranges</a></li>
+            <li><a href="/major-appliances/microwaves/">Microwaves</a></li>
             <li><a href="/major-appliances/dishwashers/">Dishwashers</a></li>
             <li><a href="/major-appliances/disposers-and-compactors/">Disposers &amp; Compactors</a></li>
-            <li><a href="/major-appliances/grills/">Grills</a></li>
+            <li><a href="/shop/major-appliances-1/warming-drawers-3/102020057/">Warming Drawers</a></li>
             <li><a href="/major-appliances/hoods-and-vents/">Hoods &amp; Vents</a></li>
-            <li><a href="/major-appliances/refrigerators/">Refrigerators</a></li>
+            <li><a href="/major-appliances/grills/">Grills</a></li>
             <li><a href="/major-appliances/water-filters/">Water Filters</a></li>
             <li class="shop-footer"><a href="/shop/">Shop Kitchenaid</a></li>
          </ul>
          <ul>
             <li class="header"><a href="/countertop-appliances/">Countertop Appliances</a></li>
-            <li><a href="/countertop-appliances/blenders/">Blenders</a></li>
-            <li><a href="/countertop-appliances/coffee-products/">Coffee Products</a></li>
-            <li><a href="/countertop-appliances/commercial-products/">Commercial Products</a></li>
-            <li><a href="/countertop-appliances/countertop-ovens/">Countertop Ovens</a></li>
-            <li><a href="/kitchenware/kettles/">Electric Kettles</a></li>
+            <li><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Color_Your_Kitchen_Suites">Culinary Bundles</a></li>
+            <li><a href="/countertop-appliances/pro-line/">Pro Line<sup>®</sup> Series</a></li>
+            <li><a href="/countertop-appliances/stand-mixers/">Stand Mixers</a></li>
+            <li><a href="/countertop-appliances/stand-mixer-attachments/">Stand Mixer Attachments</a></li>
             <li><a href="/countertop-appliances/food-processors/">Food Processors</a></li>
+            <li><a href="/countertop-appliances/coffee-products/">Coffee Products</a></li>
+            <li><a href="/countertop-appliances/juicers/">Juicers</a></li>
+            <li><a href="/countertop-appliances/sparkling-beverage-maker/">Sparkling Beverage<br>Made By Sodastream®</a></li>
+            <li><a href="/countertop-appliances/blenders/">Blenders</a></li>
             <li><a href="/countertop-appliances/hand-blenders/">Hand Blenders</a></li>
             <li><a href="/countertop-appliances/hand-mixers/">Hand Mixers</a></li>
-            <li><a href="/shop/major-appliances-1/microwaves-3/102020037/">Microwaves</a></li>
-            <li><a href="/countertop-appliances/pro-line/">Pro Line<sup>®</sup> Series</a></li>
-            <li><a href="/countertop-appliances/slow-cookers/">Slow Cookers</a></li>
-            <li><a href="/countertop-appliances/stand-mixer-attachments/">Stand Mixer Attachments</a></li>
-            <li><a href="/countertop-appliances/stand-mixers/">Stand Mixers</a></li>
+            <li><a href="/countertop-appliances/slow-cookers/">Slow Cookers and Multi-cookers</a></li>
+            <li><a href="/countertop-appliances/countertop-ovens/">Countertop Ovens</a></li>
             <li><a href="/countertop-appliances/toasters/">Toasters</a></li>
             <li><a href="/countertop-appliances/waffle-bakers/">Waffle Bakers</a></li>
-			<li><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Color_Your_Kitchen_Suites">Culinary Bundles</a></li>
+            <li><a href="/kitchenware/kettles/">Electric Kettles</a></li>
+            <li><a href="/countertop-appliances/commercial-products/">Commercial Products</a></li>
+            <li><a href="/shop/major-appliances-1/microwaves-3/102020037/">Microwaves</a></li>
          </ul>
          <ul>
             <li class="header"><a href="/kitchenware/">Kitchenware</a></li>
+            <li><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Start_The_Kitchen_Sets">Culinary Bundles</a></li>
             <li><a href="/kitchenware/bakeware/">Bakeware</a></li>
-            <li><a href="/kitchenware/bakeware/baking-sheets/">Baking Sheets</a></li>
-            <li><a href="/kitchenware/bakeware/pizza-pans/">Pizza Pans</a></li>
-            <li><a href="/kitchenware/bakeware/cookie-sheets/">Cookie Sheets</a></li>
             <li><a href="/kitchenware/cookware/">Cookware</a></li>
+            <li><a href="/kitchenware/cutlery/">Cutlery</a></li>
             <li><a href="/kitchenware/kettles/">Kettles</a></li>
-            <li><a href="/kitchenware/kettles/red-kettles/">Red Kettles</a></li>
-            <li><a href="/kitchenware/kettles/enamel-kettles/">Enamel Kettles</a></li>
-			<li><a href="/webapp/wcs/stores/servlet/WHRKADBundleListView?storeId=10202&amp;catalogId=10552&amp;langId=-1&amp;identifier=SC_Culinary_Bundles_Start_The_Kitchen_Sets">Culinary Bundles</a></li>
+<li><a href="/shop/kitchenware-1/roasters-2/roasters-3/102020371/">Roasters</a></li>
          </ul>
          <ul>
             <li class="header"><a href="/customer-service/">Service &amp; Support</a></li>
             <li><a href="/customer-service/manuals/">Manuals &amp; Literature</a></li>
             <li><a href="/customer-service/my-appliances/">My Appliances</a></li>
             <li><a href="/customer-service/faqs/">Product Help</a></li>
-            <li><a href="/customer-service/register-products/">Register Products</a></li>
-            <li><a href="http://kitchenaidpartsonline.partsquik.com/">Replacement Parts</a></li>
+            <li><a class="keep-links" href="/quickstart/">Quickstart</a></li>
+            <li><a href="https://register.kitchenaid.com/">Register Products</a></li>
+            <li><a href="/jump-page_replacement-parts.content.html">Replacement Parts</a></li>
             <li><a href="/customer-service/schedule-service/">Schedule Service</a></li>
+ <li><a href="/jump-page_extended-service-plans.content.html">Service Plans</a></li>
          </ul>
          <ul>
             <li class="header"><a href="/culinary-inspiration/">Culinary Inspiration</a></li>
@@ -1082,6 +1120,8 @@ dojo.addOnLoad(function() {
             <li><a href="/experience-retail-center/">Experience Retail Center</a></li>
             <li><a href="/culinary-inspiration/kitchen-gallery/">Kitchen Gallery</a></li>
             <li><a href="/culinary-inspiration/partners-and-events/">Partners and Events</a></li>
+            <li><a href="https://cookforthecure.kitchenaid.com/">Cook for the Cure</a></li>
+            <li><a href="/promotions/">Special Offers</a></li>
             <li class="header">
                <p>Connect With Us</p>
             </li>
@@ -1143,7 +1183,7 @@ dojo.addOnLoad(function() {
 <!--  AddThis code --><!-- END LayoutContainerBottom.jspf --><!-- Footer Start End -->
 
 
-<div class="dijitDialog dijitContentPane" tabindex="-1" wairole="dialog" waistate="labelledby-progress_bar_dialog_title" role="dialog" aria-labelledby="progress_bar_dialog_title" id="progress_bar_dialog" widgetid="progress_bar_dialog" title="" style="visibility: hidden; position: absolute; top: -9999px;">
+<div class="dijitDialog dijitContentPane" tabindex="-1" wairole="dialog" waistate="labelledby-progress_bar_dialog_title" role="dialog" aria-labelledby="progress_bar_dialog_title" id="progress_bar_dialog" widgetid="progress_bar_dialog" style="visibility: hidden; position: absolute; top: -9999px;" title="">
 	<div dojoattachpoint="titleBar" class="dijitDialogTitleBar">
 	<span dojoattachpoint="titleNode" class="dijitDialogTitle" id="progress_bar_dialog_title"></span>
 	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel, onmouseenter: _onCloseEnter, onmouseleave: _onCloseLeave" title="Cancel">
