@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3dsystems.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625023539id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsystems.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228084622id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | www.3dsystems.com
+# Privacy Policy | 3D Systems
 
 3D Systems is committed to protecting the privacy of its web site users, and preventing unauthorized use of the information it collects. Below please review an outline of our privacy policy:
 
@@ -18,4 +18,4 @@ We also monitor customer traffic patterns and site usage to help us develop a we
 
 3D Systems' may use the information collected to provide notifications about important functionality changes to our web site, new services, and/or special offers we think you'll find valuable. If you would rather not receive this information, please e-mail us at: [moreinfo@3dsystems.com](mailto:moreinfo@3dsystems.com)
 
-3D Systems does not sell, trade, rent, or otherwise distribute the information collected to others.
+3D Systems does not sell, trade, rent, or otherwise distribute the collected information with the exception that we may share collected information with our subsidiaries, representatives, distributors, or partners.
