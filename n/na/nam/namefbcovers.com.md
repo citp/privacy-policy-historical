@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namefbcovers.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234904id_/http%3A//namefbcovers.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namefbcovers.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228173357id_/http%3A//namefbcovers.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NameFbCovers.com
 
-This Privacy Policy governs the manner in which NameFbCovers collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.namefbcovers.com](https://web.archive.org/web/20150609234904id_/http%3A//namefbcovers.com/www.namefbcovers.com)"). This privacy policy applies to the Site and all products and services offered by NameFbCovers.
+This Privacy Policy governs the manner in which NameFbCovers collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("[www.namefbcovers.com](https://web.archive.org/web/20151228173357id_/http%3A//namefbcovers.com/www.namefbcovers.com)"). This privacy policy applies to the Site and all products and services offered by NameFbCovers.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
