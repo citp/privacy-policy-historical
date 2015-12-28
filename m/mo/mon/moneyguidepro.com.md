@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407100045id_/http%3A//www.moneyguidepro.com/home/privacy%3FhideToolbar%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228205404id_/http%3A//www.moneyguidepro.com/ifa/home/privacy%3FhideToolbar%3DFalse) for the most accurate reproduction.*
 
 # Financial Planning Software - MoneyGuidePro
 
