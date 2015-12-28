@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150302id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228221624id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -21,8 +21,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
-
-## Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact:
 
