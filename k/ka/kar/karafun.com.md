@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062437id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228134627id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -29,7 +29,7 @@ RECISIO commits itself to protecting the personal information you provide, and w
 If you send us correspondence, including emails and faxes, we may retain such information in the records of your account. We may also retain customer service correspondence in order to measure and improve our customer service and to investigate potential fraud and violations of our Terms of Service. 
 
 **Cookies**  
-Cookies are small amounts of data sent to your computer. They may be used to store or recall some information such as your password or user name so that you do not need to re-enter that data each time you use our Website. Please note that your browser could be configured to accept or reject cookies, or notify you when a cookie is set. However, you must enable cookies from RECISIO to use some of the services on our Website. 
+Cookies are small amounts of data sent to your computer. They may be used to store or recall some information such as your password or username so that you do not need to re-enter that data each time you use our Website. Please note that your browser could be configured to accept or reject cookies, or notify you when a cookie is set. However, you must enable cookies from RECISIO to use some of the services on our Website. 
 
 **Account and personal information modification**  
 You always have the right to access your personal information, the right to rectify or to complete it if it is inaccurate or incomplete, the right to oppose without expenses to its use in order to address your commercial requests and, more generally, the right to oppose to any treatment form. 
