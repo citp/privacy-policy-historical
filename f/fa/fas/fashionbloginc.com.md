@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbloginc.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218163655id_/http%3A//www.marquisoffashion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbloginc.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228060612id_/http%3A//www.marquisoffashion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -125,3 +125,5 @@ The Website Owner shall not be responsible for and disclaims all liability for a
 Use of the Website
 
 The Website Owner does not make any warranty or representation that information on the website is appropriate for use in any jurisdiction. By accessing the website, you warrant and represent to the Website Owner that you are legally entitled to do so and to make use of information made available via the website.
+
+[](http://www.pinterest.com/pin/create/button/)
