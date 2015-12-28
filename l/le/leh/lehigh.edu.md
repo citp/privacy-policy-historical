@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173607id_/http%3A//www4.lehigh.edu/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228124138id_/http%3A//www1.lehigh.edu/about/privacy) for the most accurate reproduction.*
 
-# Lehigh University: About Lehigh: Privacy Policy
+# Privacy Policy | About Lehigh | Lehigh University | Lehigh University
 
-[About](https://web.archive.org/about)  >  Privacy Policy  
+## You are here
+
+[About](https://web.archive.org/about) > Privacy Policy
+
+About Lehigh
 
 This Overall Privacy Statement discloses the privacy practices for the entire Lehigh University Web site.
 
@@ -14,4 +18,4 @@ As stated above, Lehigh University uses information that visitors voluntarily pr
 
 Lehigh University uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information where appropriate only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. Lehigh University also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
 
-Before you can transmit a postcard, you are required to read and agree to the terms in the [Terms of Use: Lehigh University Web Site Service Agreement](http://www4.lehigh.edu/about/serviceagreement.aspx).
+Before you can transmit a postcard, you are required to read and agree to the terms in the [Terms of Use: Lehigh University Web Site Service Agreement](https://web.archive.org/about/serviceagreement).
