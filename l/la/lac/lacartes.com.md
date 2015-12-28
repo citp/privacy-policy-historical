@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2015-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150101004334id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228230908id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At LACARTES we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel.
+
+Cookies  
+We use cookies when you visit our site. There are four main types of cookies – here’s how and why we use them.  
+(1) Site functionality cookies – these cookies allow you to navigate the site and use our features, such as “Add to Cart”  
+(2) Site analytics cookies – these cookies allow us to measure and analyse how our customers use the site, to improve both its functionality and your shopping experience.  
+(3) Customer preference cookies – when you are browsing or shopping on Lacartes, these cookies will remember your preferences (like your language or location), so we can make your shopping experience as seamless as possible, and more personal to you.  
+(4) Targeting or advertising cookies – these third party advertising cookies are used to deliver ads relevant to you. 
+
+By using our site, you consent to our use of cookies on your device and accessing them when you visit the site in the future. If you want to delete any cookies that are already on your computer, the “help” section in your browser should provide instructions on how to locate the file or directory that stores cookies. Further information about cookies can be found at www.aboutcookies.org. Please note that by deleting or disabling future cookies, your user experience may be affected and you might not be able to take advantage of certain functions of our site.
 
 Information We Collect from You  
 We collect traffic data, weblogs, location data, and any other communication can be collected. These details come from your visit to our site and any resource tools you use while on the site.
