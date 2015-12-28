@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medibank.com.au privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629063631id_/http%3A//www.medibank.com.au/legal-information.aspx%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medibank.com.au privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228063211id_/http%3A//www.medibank.com.au/legal-information.aspx%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<title>Medibank Privacy Policy and Legal Information</title>
@@ -22,7 +22,7 @@
 	<!-- END OT3 global-healthcover.css -->
 
 	<!-- remember to condense javascript plugins on deployment! -->
-	<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=12"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2P578"></script><script src="legal-information/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2P578"></script><script src="legal-information/js/jquery-1.6.2.min.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		//javascript to pass the search txtQuery to funnelback 
 		function SearchURL() {
@@ -47,7 +47,7 @@
 
 </head>
 
-<body>
+<body style="width: 100%;">
 <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P2P578"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -779,208 +779,6 @@
 <!-- END .footer-container -->
 
 
-<!-- LIVE CHAT NEW -->
-<div style="display:none;">
-	<div id="voice-AP-sales-offline"></div>
-	<div id="chat-AP-sales-health-insurance"></div>
-	<div id="voice-AP-sales-health-insurance"></div>
-</div>
-<!-- END LIVE CHAT NEW -->
-
-
-<script type="text/javascript">
-    // wait for live person to load and then monkey with it
-    jQuery(function ($) {
-        LP.defer();
-        $(window).on('resize', function () {
-            LP.resize();
-        });
-    });
-
-    var LP = {
-        iLoop: 0,
-        iTry: 0,
-        iDefault: 0,
-        ready: false,
-        show: function () {
-            if (LP.ready === true) {
-                LP.iLoop = 0;
-                $("iframe[id^=LPMiframe-]").contents().find("#lp_switch").click();
-            }
-            else {
-                LP.iLoop++;
-                setTimeout(function () {
-                    if (LP.iLoop <= 600) {// run up to 600 times
-                        LP.show();
-                        LP.ready = false;
-                    }
-                }, 50);
-            }
-        },
-        defer: function () {
-            if ($(".LPMcontainer").length > 0 && $("iframe[id^=LPMiframe-]").contents().find("#lp_slideout").length > 0) {
-                LP.iTry = 0;
-                //LP.display();
-                LP.checkForDefault();
-            }
-            else {
-                setTimeout(function () {
-                    LP.iTry++;
-                    if (LP.iTry <= 600) {// run up to 600 times
-                        LP.defer();
-                    }
-                }, 50);
-            } // every 50 milliseconds
-        },
-        checkForDefault: function () { // do we have just a default value?
-
-            if ($("#chat-AP-sales-health-insurance").children("div").attr("class") !== 'default') {
-                LP.display();
-            }
-            else {
-                setTimeout(function () {
-                    LP.iDefault++;
-                    if (LP.iDefault <= 600) {// run up to 600 times
-                        LP.checkForDefault();
-                    }
-                }, 50); // every 50 milliseconds
-            }
-        },
-        resize: function () {
-            $side_btn_width = 41;
-            $(".LPMcontainer").css("width", "50%");
-            $(".LPMcontainer iframe").css("width", "100%");
-            $(".LPMcontainer iframe, .LPMcontainer").css("height", "100%");
-            if ($("iframe[id^=LPMiframe-]").contents().find("#lp_switch").hasClass("is-open") === false) {
-                $(".LPMcontainer").css("margin-right", -($(".LPMcontainer").width() - $side_btn_width));
-            }
-        },
-        display: function () {
-            LP.resize();
-            var $iframe = $("iframe[id^=LPMiframe-]").contents();
-
-            $iframe.find("#lp_switch").click(function () {
-                if ($(this).hasClass("is-open")) {
-                    $(".LPMcontainer").animate({ marginRight: -($(".LPMcontainer").width() - $side_btn_width) }, 500);
-                    $(this).removeClass("is-open");
-                }
-                else {
-                    $(".LPMcontainer").animate({ marginRight: 0 }, 500);
-                    $(this).addClass("is-open");
-                    LP.choose();
-                }
-            });
-
-            //HOVER
-            $iframe.find("#lp_switch").mouseenter(function () {
-                $(this).addClass("is-hover");
-            });
-            $iframe.find("#lp_switch").mouseleave(function () {
-                $(this).removeClass("is-hover");
-            });
-
-            // CLOSE
-            $iframe.find(".close").click(function () {
-                $(".LPMcontainer").animate({ marginRight: -($(".LPMcontainer").width() - $side_btn_width) }, 500);
-                $iframe.find("#lp_switch").removeClass("is-open");
-            });
-
-            LP.choose();
-            LP.ready = true;
-        },
-        // SHOW CORRECT OPTION TO USER
-        choose: function () {// WHICH OPTION TO PRESENT TO USER
-            var $voiceSales = false;
-            var $chatSales = false;
-            var $schedule = false;
-            var $chat_class, $voice_img, $voiceOffline_img;
-            var $iframe = $("iframe[id^=LPMiframe-]").contents();
-
-            // get the div
-            var $chat = $("#chat-AP-sales-health-insurance");
-            var $voice = $("#voice-AP-sales-health-insurance"); // callback
-            var $voiceOffline = $("#voice-AP-sales-offline"); // schedule call
-
-            // get the image address
-            if ($chat.children("div").attr("class") !== undefined) {
-                $chat_class = $chat.children("div").attr("class");
-            }
-            if ($("img", $voice) !== undefined) {
-                $voice_img = $("img", $voice).attr("src");
-            }
-            if ($("img", $voiceOffline) !== undefined) {
-                $voiceOffline_img = $("img", $voiceOffline).attr("src");
-            }
-
-            if ($chat_class === 'online') {
-                $chatSales = true;
-            }
-            if ($voice_img === 'http://www.medibank.com.au/res/img/logos/medibank-logo-header.png') {
-                $voiceSales = true;
-            }
-            //console.log($voiceSales + '|' + $chatSales + '|' + $schedule );
-
-            // update the container to show
-            if ($chatSales === true) {
-                //$($chat).click();
-                $iframe.find("#chat").show();
-                $iframe.find("#callback").hide();
-                $iframe.find("#schedule").hide();
-                // add click event to button
-                $iframe.find("#btn-chat").click(function () {
-                    $("a", $chat).click();
-                });
-            }
-            else {
-                if ($voiceSales === true) { // callback
-                    $iframe.find("#chat").hide();
-                    $iframe.find("#callback").show();
-                    $iframe.find("#schedule").hide();
-
-                    $iframe.find("#btn-callback").click(function () {
-                        var telno = $iframe.find('#clicktocall-telephone').val().replace(/[()+\-\s]/g, '');
-                        if (/^[0-9]{10,}$/.test(telno)) {
-                            $iframe.find('#callback input').removeClass("error");
-                            $iframe.find('#callback .errors').text('Unrecognised telephone number.').addClass('hide');
-                            // invoke click to call
-                            var $textinput = $('input[type=text]', $voice);
-                            $textinput.val(telno);
-                            $('a > img', $voice).click();
-                            //$iframe.find("#lp_switch").click();
-                            $(".LPMcontainer").animate({ marginRight: -($(".LPMcontainer").width() - $side_btn_width) }, 500);
-                            $iframe.find("#lp_switch").removeClass("is-open");
-                        }
-                        else {
-                            $iframe.find('#callback input').addClass("error");
-                            $iframe.find('#callback .errors').text('Unrecognised telephone number.').removeClass('hide');
-                        }
-                    });
-
-                }
-                else { // show schedule a callback
-                    //$voiceOffline = true;
-
-                    $iframe.find("#chat").hide();
-                    $iframe.find("#callback").hide();
-                    $iframe.find("#schedule").show();
-
-                    // fire the click
-                    $iframe.find("#btn-schedule").click(function (e) {
-                        e.preventDefault();
-                        $('a > img', $schedule).click(function (e) { e.preventDefault(); }); // stop default action
-                        $('a > img', $schedule).click();
-                        //$iframe.find("#lp_switch").click();
-                    });
-
-                    // HIDE IFRAME
-                    //$(".LPMcontainer").hide();
-                }
-            }
-        }
-    };
-</script>
-
-
 
 			<!-- Footer END -->
 			<!-- remember to condense javascript plugins on deployment! -->		
@@ -1014,7 +812,7 @@
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=12';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
