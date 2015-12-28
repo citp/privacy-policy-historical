@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scrabblefinder.com privacy policy that was archived on 2015-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150122010005id_/http%3A//www.scrabblefinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabblefinder.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175415id_/http%3A//www.wordfind.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for ScrabbleFinder.com
+# Privacy Policy for Wordfind.com
 
-Thank you for visiting ScrabbleFinder.com. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+Thank you for visiting wordfind.com. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
 Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
@@ -21,6 +21,8 @@ We may share information with governmental agencies or other companies assisting
 ### Commitment to Data Security
 
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://networkadvertising.org.
 
 ### Privacy Contact Information
 
