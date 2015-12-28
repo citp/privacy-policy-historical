@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuneupmedia.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407145114id_/http%3A//www.tuneupmedia.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneupmedia.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228101526id_/http%3A//www.tuneupmedia.com/policies) for the most accurate reproduction.*
 
 # TuneUp Policies - Privacy | Fix Mislabeled Song Info, Add Album Art & More
 
