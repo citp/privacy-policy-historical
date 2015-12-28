@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625222403id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228200330id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
 
-# Eurex - Privacy policy
+# Eurex Exchange - Privacy policy
 
-Eurex Frankfurt AG is aware of the significance of personal data, which is entrusted to Eurex. We attach great importance to data protection and data safety when it comes to the utilization of our services. Therefore, we are committed to protect your privacy and treat your data as confidential. We therefore wish to provide you with information as to which of your personal data we collect and for which purposes these data shall be used with this document.
+Eurex Frankfurt AG appreciates the importance of personal data. As with all our business processes, the protection of your privacy when processing personal data is an important concern to which we pay special attention. Personal data are collected, processed and used in accordance with those national data protection regulations of the country in which the responsible company (data controller) is located. We therefore wish to provide you with information as to which of your personal data we collect and for which purposes these data shall be used with this document.
 
 The privacy/data protection information in the following Section A refer to your use of our App, while the privacy/data protection information in the following Section B refer to your use of our internet pages. The following Section C contains joint regulations related to the use of our App and our Internet pages.
 
@@ -31,7 +31,7 @@ We also do not create any personal user profiles. General information such as wh
   
 3\. Transfer of data to third parties
 
-Due to statutory requirements, we shall be entitled to transfer your personal data to third parties in certain cases. This will be the case, for instance, if there is a suspicion of a criminal offence or the abuse of our services offered in this App. In this event, we shall be entitled to transfer your personal data to the criminal prosecution authority. Otherwise, your personal data will be stored exclusively in our database and on our servers, or on those of our commissioned data processing providers, unless you were notified that the respective personal data is shared with other companies such as cooperation or advertising partners on condition that you explicitly agreed to such transfers of your personal data. 
+Due to statutory requirements, we shall be entitled to transfer your personal data to third parties in certain cases. This will be the case, for instance, if there is a suspicion of a criminal offence or the abuse of our services offered in this App. In this event, we shall be entitled to transfer your personal data to the criminal prosecution authority. Otherwise, your personal data will be stored exclusively in our database and on our servers, or on those of our commissioned data processing providers, unless you were notified that the respective personal data is shared with other companies such as cooperation or advertising partners on condition that you explicitly agreed to such transfers of your personal data.
 
   
 4\. Webtrekk web analysis service
@@ -43,7 +43,7 @@ Most of the cookies used are so-called “Session Cookies”, which are stored o
 Section B: Privacy/Data Protection Information concerning the utilisation of our internet pages
 
   
-Please note that the internet pages of Eurex Frankfurt AG may contain links to the websites of other providers, to which this privacy/data protection information does not extend.
+Please note that the websites of Eurex Frankfurt AG may include, however, links to other third party websites, which are not covered by this privacy policy.
 
   
 1\. Collection and processing of personal data
@@ -56,18 +56,18 @@ When you visit our internet pages, our web servers will only store the shortened
   
 Pursuant to § 15 Section 3 of the German Telemedia Act, website visitors are entitled to object to the storage of their visitor data, so that this data will no longer be recorded on this website in the future. If you object to the data storage, a cookie called “webtrekkOptOut” will be placed by the domain webtrekk.net for purposes of exemption from the web controlling process. Technically, the withdrawal notice will remain effective until the aforementioned cookie is deleted.
 
-3\. Use and transfer of personal data and appropriation for a particular purpose
+3\. Use, disclosure of personal data and specification of purpose
 
   
-We shall treat all data as confidential, whether it is stored automatically or made available by youand will not pass on or sell such data to third parties outside of Group Deutsche Börse. We shall use your personal data exclusively for the purpose of answering your questions and inquiries, making available the services requested by you or for internal statistical purposes.  
-The transmission of personal data to government institutions and authorities will not take place automatically, but only in certain cases in accordance with the applicable financial market laws (such as the German Stock Exchange Act and the German Securities Trading Act).
+We will ensure your privacy and will not disclose your personal data to third parties except such disclosure is permitted by law or has been explicitly agreed upon by you. It may be necessary for us to disclose your personal data to other entities within the Deutsche Börse Group in order to fulfil our legal obligations undertaken by us in your favour. We will under no circumstances sell your personal data to third parties. This privacy policy refers to all your personal data regardless of whether they are collected in the course of your use of our website or with your prior consent. We only use your data for internal, statistical purposes , to answer an inquiry or to provide a requested service.  
+We will not disclose your personal data to governmental authorities except in cases where it is required by the effective financial laws, for example but not limited to Stock Exchange Act (Börsengesetz) or Securities Trading Act (Wertpapierhandelsgesetz).
 
   
-4\. Collection, use and processing of other data
+4\. Use, disclosure of personal data and processing of additional data
 
   
 In certain circumstances, the advertising published on the websites of Eurex Frankfurt AG may place small files – so-called cookies – on your computer, in order to adjust advertising for products and services based on your individual interests. These cookies collect data on the utilization of the websites in anonymized form and do not permit the drawing of conclusions in respect to your person.  
-If you do not wish to have your anonymous information linked to visits of the corresponding pages, you are entitled to inactivate the cookie option in your browser. For this purpose, please comply with the specifications of your browser manufacturer.
+If you do not wish to have your anonymous information linked to visits of the corresponding pages, you are entitled to inactivate the cookie option in your browser. Please refer to the specifications of your browser producer. Further information on how to change your browser setting can be found here:
 
   
 Section C: Joint regulations for the utilisation of our App and internet pages
