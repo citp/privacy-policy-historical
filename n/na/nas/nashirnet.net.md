@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nashirnet.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628120609id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashirnet.net privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228083617id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
 
-# National Computer Systems Co. - NashirNet - Privacy Policy
+# Privacy Policy
 
   1. [NashirNet](https://web.archive.org/)
   2. Privacy Policy
