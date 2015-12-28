@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectknow.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316025934id_/http%3A//www.projectknow.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectknow.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228190520id_/http%3A//www.projectknow.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -15,6 +15,8 @@ Using this website constitutes agreement with the terms of this Privacy Policy. 
   * **Outside sources of information—** We do not collect information about our visitors from sources outside of ProjectKnow.com, such as public records or private organizations.
 
 
+
+## Shared Information 
 
 ProjectKnow.com may share the information we gather with select companies and organizations so that they may use it for their own marketing and promotional uses. While ProjectKnow.com seeks to share personally-identifying information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you prefer that we not share your information with third parties, you may “opt out” by contacting us with that request.
 
@@ -54,9 +56,7 @@ ProjectKnow.com will use reasonable means to protect the privacy of the informat
     * You should carefully word your email messages to communicate clearly, yet briefly, the information you intend to convey.
     * You are responsible for correcting any unclear or incorrect information.
     * ProjectKnow.com reserves the right to save your emails and include them or the information contained within them in your medical record.
-
-Email may not be the sole form of communication with which ProjectKnow.com will communicate with you. Should ProjectKnow.com decide that it is in your best interest to discontinue email communication with you, ProjectKnow.com will notify you that it no longer intends to communicate with you by email.
-
+Email may not be the sole form of communication with which ProjectKnow.com will communicate with you. Should ProjectKnow.com decide that it is in your best interest to discontinue email communication with you, ProjectKnow.com will notify you that it no longer intends to communicate with you by email. 
 
 
 
