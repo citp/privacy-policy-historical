@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxanimal.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424141146id_/http%3A//www.maxanimal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxanimal.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228074833id_/http%3A//www.maxanimal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MaxAnimal
 
@@ -23,6 +23,10 @@ Gazer Media may, from time to time, contact you on behalf of external business p
 Gazer Media may keep track of the websites and pages our users visit within MaxAnimal, in order to determine what MaxAnimal services are most popular. The data is used to deliver customized content and advertising within MaxAnimal to customers whose behavior indicates that they are interested in a particular subject area.
 
 Gazer Media will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: **(a)** conform to the edicts of the law or comply with legal process served on MaxAnimal or the site; **(b)** protect and defend the rights or property of Gazer Media; and, **(c)** act under exigent circumstances to protect the personal safety of users of MaxAnimal, or the public.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+The link for click here is [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ###  **Security of your Personal Information**
 
