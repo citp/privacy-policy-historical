@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallstcheatsheet.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221024611id_/http%3A//wallstcheatsheet.com/privacy-policy/%3Fref%3DFL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstcheatsheet.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228051902id_/http%3A//www.cheatsheet.com/privacy-policy/%3Fref%3DFL) for the most accurate reproduction.*
 
-# Privacy Policy | Wall St. Cheat Sheet
+# Privacy Policy | The Cheat Sheet
 
 **What information do we collect?**
 
@@ -51,6 +51,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**Third party cookies**
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information on this website and elsewhere on the internet and use that information to provide measurement services and target ads. You may opt out opt-out of the collection and use of information for ad targeting at www.aboutads.info/choices.
+
 **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
@@ -63,13 +67,13 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 1/10/2013.
+This policy was last modified on 4/15/2013.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://wallstcheatsheet.com/contact
+http://www.cheatsheet.com/contact
 
 PO Box 8912  
 Asheville, NC 28814  
