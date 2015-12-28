@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214042809id_/https%3A//www.navyfederal.org/pdf/publications/NFCU_198_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228185658id_/https%3A//www.navyfederal.org/pdf/publications/NFCU_198_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
