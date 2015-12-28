@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the treepodia.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425164118id_/http%3A//treepodia.com/En/docroot/Documents/Treepodia_Website_and_Platform_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treepodia.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228180808id_/http%3A//www.treepodia.com/En/docroot/Documents/Treepodia_Website_and_Platform_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
              Treepodia Website and Ecommerce Video Platform - Privacy Policy
-                                  Updated: December 17, 2012
+                                  Updated: December 10, 2015
 Treepodia's Ecommerce Video Platform (the "Platform"), provided by Treepodia Ltd.
 ("Treepodia", "we" or "us") through Treepodia's website (www.treepodia.com, the "Website")
 as well as through Treepodia's clients' websites ("Third Party Websites", and together with the
@@ -169,6 +169,9 @@ notify you by placing a post regarding those changes on any of the Websites, the
 and/or by other means, as per our sole discretion. We reserve the right to modify this Policy at
 any time, so please review it frequently. Changes to this Policy are binding and effective when
 they are posted on this page.
+Opting Out
+You may opt out of Treepodia's use of cookies by visiting the Treepodia advertising opt-out
+page.
 Contacting Us
 If you have any questions about this Policy, our information practices, or your dealings with us,
 you can contact us at info@treepodia.com.
