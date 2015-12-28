@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140311id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228210853id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for ITV services – ITV
 
@@ -35,6 +35,8 @@ What information we collect about you depends which of our Services you are usin
   * other data to ensure and check compliance with the [**Terms of Use**](http://www.itv.com/terms) and/or otherwise as required by law.
 
 
+
+The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ##  When and how do you collect information? 
 
@@ -98,7 +100,7 @@ We may pass information about you to other parties as follows:
   * to third parties authorised by us and acting on our behalf such as our employees, contractors, suppliers and/or agents including without limitation our customer care teams to administer the Services provided to you by us now or in the future;
   * where we have your consent to do so, for marketing communications (see section on "Marketing Communications" above);
   * as part of general statistical information about the Services’ user base, sales patterns, traffic volumes and related matters. These details will not include information personally identifying you;
-  * to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence, unlawful activity or suspected breach of the [**Terms of Use**](http://www.itv.com/terms) and or the breach of other terms and conditions or otherwise where required by law. We will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity or location of or any other information about anyone breaching any relevant terms and conditions or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders;
+  * to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence, unlawful activity or suspected breach of the [**Terms of Use**](http://www.itv.com/terms) and or the breach of other terms and conditions or otherwise where required by law or where we suspect harm or potential harm to others. We will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity or location of or any other information about anyone breaching any relevant terms and conditions or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders. We shall not be obliged to give you any further notice of this ;
   * where relevant, the user name and some profile information you voluntarily provide may be published on areas of the Services such as forums, chat rooms or pages where user submissions are displayed and this will be the identity by which you are known on those areas. Please always think carefully before disclosing information to other users or otherwise making your information publicly available;
   * if there are changes to our business (see section below on “Changes to our business”).
 
