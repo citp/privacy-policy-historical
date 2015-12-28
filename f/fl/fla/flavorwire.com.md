@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flavorwire.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627152440id_/http%3A//flavorwire.com/flavorwire-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavorwire.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228162103id_/http%3A//flavorwire.com/flavorwire-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flavorwire
 
-Posted on February 2, 2012
+Posted on February 2, 2012 3:12 pm
 
 **Personal Information**  
 In order to receive any of Flavorpill Productions’ publications, including Flavorpill (in all cities), Activate, Artkrush, Boldtype, Earplug, our Network Update, Design Update, or any of our publications, we need your email address. Flavorpill Productions will not disclose your email or any personal information to any third party without your consent.
