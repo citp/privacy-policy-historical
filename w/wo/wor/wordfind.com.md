@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordfind.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626013201id_/http%3A//www.wordfind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordfind.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175415id_/http%3A//www.wordfind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Wordfind.com
 
@@ -21,6 +21,8 @@ We may share information with governmental agencies or other companies assisting
 ### Commitment to Data Security
 
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://networkadvertising.org.
 
 ### Privacy Contact Information
 
