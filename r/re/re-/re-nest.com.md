@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re-nest.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629114812id_/http%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re-nest.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228052604id_/http%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apartment Therapy
 
@@ -6,7 +6,7 @@
 
 **PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective April 16, 2014. If you submitted personally identifiable information to us prior to April 16, 2014, and desire to opt-out of having that previously submitted personally identifiable information treated under the new policy, please contact us at** **legal@apartmenttherapy.com** **.**
 
-Welcome to apartmenttherapy.com (our " ** _Website_** "), an interactive online service operated by Apartment Therapy, LLC (" ** _us_** ", " ** _we_** " or " ** _our_** "). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov). 
+Welcome to apartmenttherapy.com (our " ** _Website_** "), an interactive online service operated by Apartment Therapy, LLC (" ** _us_** ", " ** _we_** " or " ** _our_** "). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov).](http://www.privacyprotection.ca.gov/)
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website (however accessed and/or used, whether via personal computers, mobile devices or otherwise). We have adopted this Privacy Policy (this " ** _Privacy Policy_** ") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. 
 
@@ -85,17 +85,21 @@ Notwithstanding anything herein to the contrary, we reserve the right to disclos
 
 We may offer sweepstakes, contests and other promotions through the Website that may require registration. By entering any sweepstakes, contest or promotion, you are agreeing to the official rules that govern that sweepstakes, contest or promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the sweepstakes, contest or promotion to use your name, voice and/or likeness in advertising or marketing associated with the sweepstakes, contest or promotion. If you choose to enter a sweepstakes, contest or promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such sweepstakes, contest or promotion, including, without limitation, in connection with winner selection, prize fulfillment and as required by law or permitted by the promotion’s official rules, such as on a winners list. 
 
-5. **Your California Privacy Rights**
+5. **Third-Party Email Promotions**
+
+Occasionally we'll send you an advertorial email from one of our advertisers. These advertorial features are clearly marked as such by the emails "From" line and the title at the top of the article itself. The content is paid for by our sponsors, and does not reflect the opinions of the our editorial staff. When you sign up for our emails, you are agreeing not only to get our content delivered to you for free, but these occasional advertorial emails from our partners. If you would prefer not to receive these emails, you can unsubscribe by [requesting to be unsubscribed here](mailto:help@apartmenttherapy.com?subject=Unsubscribe) and we will not send you any additional content or advertorial emails. 
+
+6. **Your California Privacy Rights**
 
 Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: 
 
 Apartment Therapy, LLC  
-270 Lafayette Street, Suite 1204  
+270 Lafayette Street, Suite 1300  
 New York, NY 10012  
 Attn: California Privacy Request  
 legal@apartmenttherapy.com 
 
-6. **Third Party Ad Server Networks:**
+7. **Third Party Ad Server Networks:**
 
 Our Website may use third parties such as network advertisers to serve advertisements on our Website and may use traffic measurement services to analyze traffic on our Website. Network advertisers are third parties that display advertisements based on your visits to our Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Our Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your computer and track certain behavioral information regarding users of your computer via an IP address or other device identifier. These third party cookies and other technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons and other third party technologies are governed by each third party’s specific privacy policy, not this one. 
 
