@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtranslator.net privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526005046id_/http%3A//www.imtranslator.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtranslator.net privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228122805id_/http%3A//www.imtranslator.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy of Smart Link Corporation.
 
@@ -12,7 +12,7 @@ Questions regarding our privacy policy should be directed to:
 **Smart Link Corporation  
 Phone: (949) 552 1599   
 Fax: (949) 552 1699   
-[Contact form](https://web.archive.org/web/20150526005046id_/http%3A//www.imtranslator.net/contacts.asp) **
+[Contact form](https://web.archive.org/web/20151228122805id_/http%3A//www.imtranslator.net/contacts.asp) **
 
 **Collected Information**  
 Whenever you visit our online services, Smart Link Corporation's web servers automatically collect and aggregate information from your web browser including your IP address, browser type, operating system, pages you access, date and time of your visit, Smart Link web sites cookie information and time spent on each web page. 
@@ -39,7 +39,7 @@ No personal information is stored in the cookie.
 We operate secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse or alteration of your user data.
 
 **Third-Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
 
 **Third-Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
