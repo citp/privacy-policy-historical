@@ -1,120 +1,115 @@
-> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204034913id_/https%3A//privacy.truste.com/reseller/privacy-policy/Business-Opportunities-Inc/certified/68659f04-3bb6-4c18-b84e-48868d18c12a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228125751id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to business-opportunities.biz
+# Privacy Policy - Business Opportunities
 
-[](https://privacy.truste.com/privacy-seal/Business-Opportunities-Inc/validation?validationId=27293a0b-ad92-4a33-86ae-bd5969344890&referer=business-opportunities.biz)**Effective September 4, 2014**
+## Privacy Policy
 
-This privacy statement describes how **business-opportunities.biz** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
+Effective on June 20th 2015
 
-[
+This privacy policy describes how Business-Opportunities.biz owned and operated by Trend Partners LLC collects and uses the personal information you provide on our Web site: Business-Opportunities.biz. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-## Tracking On This Site »
+Business-Opportunities.biz has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites Business-Opportunities.biz. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@ Business-Opportunities.biz.
 
-](https://web.archive.org/web/20150204034913id_/https%3A//privacy.truste.com/reseller/privacy-policy/Business-Opportunities-Inc/certified/68659f04-3bb6-4c18-b84e-48868d18c12a#Tracking)
+### Collection and Use of Personal Information
 
-This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20150204034913id_/https%3A//privacy.truste.com/reseller/privacy-policy/Business-Opportunities-Inc/certified/68659f04-3bb6-4c18-b84e-48868d18c12a#Tracking)**
-
-* * *
-
-Business Opportunities Inc
-
-583 Donofrio Drive Suite 218 
-
-Madison, WI  53575
-
-United States
-
- **TRUSTe Dispute Resolution**  
-If a TRUSTe client has violated its privacy agreement you can file a complaint with [TRUSTe Dispute Resolution »](http://www.truste.com/watchdog)
-
-  
-
-
-[](https://privacy.truste.com/privacy-seal/Business-Opportunities-Inc/validation?validationId=27293a0b-ad92-4a33-86ae-bd5969344890&referer=business-opportunities.biz)
-
- **Effective on September 4, 2014**
-
-This privacy statement describes how **Business Opportunities Inc** collects and uses the personal information you provide on our Web site: [ business-opportunities.biz](http://business-opportunities.biz/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
- **Business Opportunities Inc** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@businessopportunities.biz](mailto:info@businessopportunities.biz). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
-
-We collect the following personal information from you:
+We collect the following personal information from you
 
   * Contact Information such as name, email address, mailing address, phone number
-  * Unique Identifiers such as user name, account number, password
 
 
 
- **We also collect the following information from you:**
+We also collect the following information from you
 
   * Information about your business such as company name, company size, business type
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system and store it in log files. We use this information to
 
- **We use this information to:**
-
-  * Assess your needs to determine suitable products or services
-  * Send product updates or warranty information
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Send you a catalog
   * Send you a newsletter
   * Send you marketing communications
-  * Improve our Web site and marketing efforts
   * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
 
 
 
- **Choice/Opt-Out**
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@businessopportunities.biz](mailto:info@businessopportunities.biz).
+### Choice/Opt-Out
 
- **Social Networks**
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at info@Business-Opportunities.biz
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network.
-
- **Information Obtained from Third Parties**
+### Information Obtained from Third Parties
 
 If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-We will share your information with third parties only in the ways that are described in this privacy statement.
+### Information Sharing
 
-We may disclose your personal information
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-  * as required by law, such as to comply with a subpoena, or similar legal process 
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Business Opportunities Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * if Business-Opportunities.biz is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
 
-We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at info@Business-Opportunities.biz.
 
-The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL).
+### Tracking Technologies
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
+Technologies such as: cookies, beacons, tags and scripts are used by Business-Opportunities.biz and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-If you have any questions about security on our Web site, you can contact us at [info@businessopportunities.biz](mailto:info@businessopportunities.biz)
+We use cookies for our cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@businessopportunities.biz](mailto:info@businessopportunities.biz). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We and third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy 
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@businessopportunities.biz](mailto:info@businessopportunities.biz). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
- **Correcting and Updating Your Personal Information**
+### Links to Other Web Sites
 
-To review and update your personal information to ensure it is accurate, contact us at [info@businessopportunities.biz](mailto:info@businessopportunities.biz).
+Our Site includes links to other Web sites whose privacy practices may differ from those of Business-Opportunities.biz. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
- **Notification of Privacy Statement Changes**
+### Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can contact us at info@Business-Opportunities.biz
+
+### Additional Policy Information
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at info@Business-Opportunities.biz. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@Business-Opportunities.biz.
+
+ **Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Business-Opportunities.biz. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Updating Your Personal Information
+
+Please note that users can not update or delete previously submitted information. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.
+
+### Notification of Privacy Statement Changes
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Business Opportunities Inc
-
-583 Donofrio Drive Suite 218 
-
-Madison, WI  53575
-
-United States
+**Business-Opportunities.biz**  
+582 Donofrio Drive Suite 212  
+Madison, WI 53575  
+Email: info@Business-Opportunities.biz  
+Phone: (608)492-1835
