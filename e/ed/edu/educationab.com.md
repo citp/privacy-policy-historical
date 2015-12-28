@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationab.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052703id_/http%3A//www.educationab.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationab.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228133109id_/http%3A//www.educationab.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy « Education Information and Education News
 
@@ -51,32 +51,3 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 **Notification of Change** s
 
 If we decide to change our terms of use, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-### Online Courses 
-
-[Inferential Statistics](http://www.educationab.com/inferential-statistics/)
-
-Description Although statistics can seem quite daunting, they are simply a way of summarising information and, as such, are useful in many aspects of life....
-
-[Understanding Health Insurance: A Guide To Professional Billing & Coding](http://www.educationab.com/understanding-health-insurance-a-guide-to-professional-billing-coding/)
-
-Description This quick yet comprehensive course will prepare you very well for anything that requires medical billing expertise. In brief, it covers: Interactive...
-
-[Chinese Seasonal Approach to Health](http://www.educationab.com/chinese-seasonal-approach-to-health/)
-
-Description Designed for the beginning herbalist, this course will explain the Chinese Five Seasons, their corresponding organs, food suggestions and exercises...
-
-[Health Insurance Portability and Accountability Act Training](http://www.educationab.com/health-insurance-portability-and-accountability-act-training/)
-
-Description Designed for everyone that deals with the healthcare industry, this course is targeted not only at Providers, Payers, Clearing Houses, but...
-
-[Cisco CCNA IP Routing Configuration](http://www.educationab.com/cisco-ccna-ip-routing-configuration/)
-
-Description This unit defines static and default routes, lists the commands that can be used to configure static and default routes, and discusses the...
-
-[Power Plant Operations Certificate](http://www.educationab.com/power-plant-operations-certificate/)
-
-Description This course is designed for people who seek entry-level operator’s job in a power plant. There are thousands of power plants in the United...
-
-
-
