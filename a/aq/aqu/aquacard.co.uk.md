@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627153247id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229004821id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | aqua
+# Privacy Policy
 
 ### Introduction
 
@@ -154,7 +154,7 @@ You have a right under the Consumer Credit Act 1974 to request credit reference 
 
 ### Contact from NewDay Group
 
-As part of the application process we ask whether we may contact you about our products and services. If you ticked yes, but no longer wish to receive such communications, please let us know by contacting aqua customer services on 0845 601 0436.
+As part of the application process we ask whether we may contact you about our products and services. If you ticked yes, but no longer wish to receive such communications, please let us know by contacting aqua customer services on 0333 220 2691.
 
 We want to make sure that we provide excellent customer service and we use various means of communication to do this including phone, post, email and sms.
 
@@ -162,7 +162,7 @@ We may contact you about services related to your credit card that we, or other 
 
 We will not send you marketing communications if you ask us not to and we will not provide information about you to companies outside the NewDay Group to use for their own marketing purposes.
 
-If you do not want to receive marketing from us, please contact us on 0845 601 0436.
+If you do not want to receive marketing from us, please contact us on 0333 220 2691.
 
 ### Recording phone calls
 
@@ -330,7 +330,7 @@ You can contact the Credit Reference Agencies currently operating in the UK; the
 
 
 
-Please contact aqua customer services on 0845 601 0436 if you want to receive details of the relevant fraud prevention agencies.
+Please contact aqua customer services on 0333 220 2691 if you want to receive details of the relevant fraud prevention agencies.
 
 ### Questions and Answers
 
