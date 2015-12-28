@@ -1,142 +1,163 @@
-> *The following text is extracted and transformed from the enterpriseefficiency.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050217id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterpriseefficiency.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228232327id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
-# UBM - UBM LLC Privacy Policy
+# Privacy Statement Regarding Customer and Online User Information | Dell
 
-Effective: November 1, 2013
+This Privacy Statement Regarding Customer and Online User Information (“Privacy Statement”) applies to Dell Inc. and its worldwide subsidiaries (“Dell,” "we" or "our"), but not to those Dell subsidiaries that have published their own privacy and security statements. This Privacy Statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with which you interact.
 
-**UPDATE**
+This Privacy Statement governs Personal Information we collect from our customers and online users ("you"), as well as information we automatically collect from your online visits (e.g. data collected via cookies). Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.
 
-## Scope
+For the purposes of this Privacy Statement, "Business partner" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services or information. "Personal Information" means information that identifies you, such as your name, telephone number and email address.
 
-This Privacy Policy covers information which you give us, UBM LLC ("UBM Tech" or "we"), about yourself and your professional background as you register for or attend our face-to-face events around the world, visit or participate in any of our web sites or online venues hosted on servers in the United States or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
+### Information We Collect
 
-Our business includes creating opportunities for you to connect with other companies either by accessing information and resources online or at face to face events. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to the other company's Privacy Policy if possible. Our Policy will govern our collection and use of information about you. In any case. we recommend that you find and read the other company's policy as well to learn how that company will treat the information about you.
+We may ask you to provide Personal Information when you 
 
-## Information That Identifies You
+  * Use our websites; 
+  * Request quotes, services, support, downloads, trials, whitepapers or information; 
+  * Place orders for products or services or register for events or webinars; 
+  * Apply for a credit card or financing; 
+  * Participate in surveys, sweepstakes or other promotional activities online or in any other venue; 
+  * Subscribe to newsletters, Dell programs, promotional emails or other materials; 
+  * Apply for a job, submit your resume/CV or create a candidate profile; or 
+  * Contact us.
 
-We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with our web sites, respond to our email campaigns, and participate in webinars or online events. We may also add data from external sources including your professional interests on web sites other than ours. We will add information about how you interact with our offerings, your subscriptions, the events you attend, the content you download or read, and the like.
 
-We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
 
-## Automatic Data Collection Technologies
+Personal Information we request may include your email address, name, home address and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for your Social Security number and other data to process your credit or financing request. Job applicants may be asked to provide information such as educational background, employment experience and job interest, and such information can be recorded and processed in different countries. We may also collect demographic information, such as your business or company information, age, gender, interests, and preferences. Forms that you choose to complete will indicate whether information requested is mandatory or voluntary.
 
-We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis.
+We may collect information about your visits to our websites, including the pages you view, the links and advertisements you click, search terms you enter, and other actions you take in connection with Dell websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
 
-Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
+In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information Dell obtains through other sources. We may also supplement the information we collect with information obtained from other parties, including our Business Partners and other third parties. 
 
-We gather date, time, certain information about a user's browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
+Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
 
-Please see [More Information About Cookies](https://web.archive.org/privacy-policy/#More_info), for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for targeted advertising or marketing.
+### How We Use Personal Information
 
-## How We Use Information That Identifies You
+Dell uses your Personal Information to:
 
-We use information about you: 
+  * Deliver the services and support or carry out the transactions you have requested; 
+  * Send communications to you, such as product safety information, your transaction status including order confirmations, information about particular Dell programs in which you have chosen to participate, information about products and services available from Dell and its subsidiaries, promotional offers and surveys; 
+  * Facilitate communications from Dell Business Partners; 
+  * Customize, analyze and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you; 
+  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you; 
+  * Prevent fraud and other prohibited or illegal activities; 
+  * Protect the security or integrity of our website(s), our business(es), or our products or services; or 
+  * Otherwise, as disclosed to you at the point of collection.
 
-  * to provide the services, publications, and information you request and to manage your account with us. 
-  * to deliver or display content that matches your professional interests and responsibilities. 
-  * to contact you with information about and invitations for products and services - ours and other companies - directed to your professional interests and responsibilities. 
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
-  * for any other purpose that we tell you about when you give us the information. 
 
 
+Personal Information collected may be stored and processed in the United States or any other country in which Dell or its subsidiaries or Business Partners maintain facilities.
 
-## Your Choices
+### Disclosing Personal Information
 
-You have a choice about and control over:
+We may share your Personal Information with subsidiaries or Business Partners to carry out transactions you request, or to make our business or that of our subsidiaries more responsive to your needs, which includes our subsidiaries providing you with information about Dell, and Dell-branded products and services. These communications may include requests relating to Dell and Dell-branded products or services or offers. We will only share your Personal Information with Business Partners who agree to protect your Personal Information and use it solely for the purposes set forth by Dell.
 
-**Connecting directly with other companies for marketing purposes**. In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company or companies. We will put you in direct contact when you choose to:
+In addition, Dell may share your Personal Information with participants in our sales and marketing chain, including but not limited to retailers, resellers, distributors, integrators, order fulfillers and some sales agents (“Channel Partners”), for the limited purposes of selling, marketing or providing support for Dell products and services. 
 
-  * Access a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company. If you have enabled our automatic recognition cookie, as described below, you need only click to download or register for the asset or opportunity. 
-  * Register for one of our virtual events with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor. 
-  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor . Badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
+We may also disclose your Personal Information in connection with law enforcement, fraud prevention or other legal action; as required by law or regulation; if Dell (or a part of Dell) is sold or merges with another company; or if Dell reasonably believes it is necessary to protect Dell, its customers or the public.
 
+Except as described above, we will not disclose your Personal Information to third parties for their own marketing purposes without your consent.
 
+### E.U. and Swiss Safe Harbor
 
-## Making information you provide public.
+In addition to Dell’s other data protection measures, **** Dell Cloud Clinical Archive (DCCA) services comply with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework **** as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. For provision of DCCA services to its clients, Dell has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Dell Cloud Clinical Archive Services certification, please visit <http://www.export.gov/safeharbor>. 
 
-  * We offer web sites that allow you to publish content. Many of these blog sites require that you have registered if you wish to comment. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
-  * Our online event venues also require that you be registered with UBM Tech and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices.
-  * Increasingly, we offer apps at our face to face events, allowing you to communicate and publish to others who have also downloaded the app.
-  * These apps and online communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
+[TRUSTe](https://feedback-form.truste.com/watchdog/request) serves as an independent third-party recourse to provide localized dispute resolution of consumer complaints about DCCA online data collection, as required for Safe Harbor compliance. Should you have any questions about DCCA’s Safe Harbor status, please contact us at [privacy@Dell.com](mailto:privacy@Dell.com). If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). To learn more about the Safe Harbor program, and to view the Dell Cloud Clinical Archive Services certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
+### How You Can Access Your Information
 
+Dell wants to help you keep your Personal Information accurate. To view or edit your Personal Information that has been stored online in your Dell account, please visit the [My Account ](https://www.dell.com/identity/v2/discovery?whr=urn:transaction)or [Premier Account ](http://premier.dell.com/)sections of the Dell.com website. For the security of your account, you will be required to sign in with your login ID and password. If you have any questions about the type of personal data we hold about you or if you wish to request deletion of personal data we hold about you, please send a written request to [privacy@dell.com](mailto:privacy@dell.com) or the postal address provided at the bottom of this Privacy Statement.
 
-## Receiving email marketing messages from us.
+### Selecting Your Communication Preferences and Opting Out of Marketing
 
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all UBM Tech email marketing you may click on this [UBM Tech-wide opt out link](http://reg.techweb.com/forms/GlobalOptOut), or you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
-  * Please note that you may receive email marketing messages from us about other companies' offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
+You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
+  * The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services; and 
+  * At any point you can also visit our [List Removal Page](https://ecomm.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com/content/topics/global.aspx/policy/en/country_specific&s=gen&~section=023&c=us&l=en) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
+  * When you save a cart while shopping online, you can choose to receive email reminders; 
+  * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include where applicable methods to allow you to express your preferences.
 
 
-**Whether your account information is up to date**. Please help us keep your account information up to date. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
 
-## More Information About Cookies
+Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.  
 
-**You also have choices about cookies:**
 
-**Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
+**
 
-  * to recognize you automatically when you return to any of our web sites or online offerings or registration pages.
-  * to understand your interests in content, both our own content and that of other companies, on or across our web sites.
-  * to control access to gated online events including webinars and virtual events. 
-  * to make an automated record of your interests within a virtual event. 
-  * to manage and follow up on email campaigns. 
+### How We Secure Your Personal Information
 
+** Dell takes all reasonable steps to protect your Personal Information from misuse, interference and loss, as well as unauthorized access, modification or disclosure. The ways we do this include:
 
+  * using encryption when collecting or transferring sensitive information, such as credit card details; 
+  * limiting physical access to our premises; 
+  * limiting access to the information we collect about you; 
+  * ensuring that we and our Business Partners have appropriate security safeguards to keep personal information secure; and 
+  * where required by law, destroying or de-identifying Personal Information
 
-You may use the tools in your browser to decline, disable, or delete any cookies.
 
-You may choose to be recognized automatically when you visit any UBM Tech online property or access any co-branded or sponsored content or opportunity, for example, a webinar. We hope this capability makes your experience with us easier. If you do not enable the automatic recognition cookie, or block it after you have allowed it, you will simply be asked to log in or register on every site and as you access or register to attend any co-branded or sponsored offering.
 
-We use two separate cookies to record your professional interests on our properties. The first records your behavior on our sites and any online offerings, primarily what content you read or download. The second allows us to manage email campaigns and to record your interests in email content. We use these two tracking cookies to tailor the marketing messages we send to you and to begin to personalize what you see when you visit our web sites. If you use your browser tools to block or disable either cookie then we will not be able to tailor your experience to your interests.
+### Collection and Use of Children's Personal Information
 
-You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
+Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites. If you are under 13 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian. 
 
-**Third party advertising cookies**. We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
+### How We and Our Partners Use Cookies and Web Beacons
 
-  * UBM LLC currently allows the following third party ad servers to serve ads on our web pages: AdRoll, ; [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy) and [Google AdSense](http://www.google.com/intl/en/privacy/ads/). Some companies, such as Bizo, Inc. and Google AdSense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
-  * We also use data supplied by a third party server, Madison Logic, to send marketing emails tailored to the interests of our registered users in content on websites other than our own. You may opt out of the Madison Logic cookie by using the [mechanism](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) it provides. Your continued use of our web sites will indicate your consent for our use of data collected by Madison Logic for email marketing purposes.
-  * Each of the third parties that serve ads to or advertising cookies on our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/). 
+#### How We and Our Partners Use Cookies
 
+Dell websites use Dell and third-party "cookies" to enable you to sign in to our services and to help personalize your online experience. We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
 
+A cookie is a piece of text that is placed on your computer's hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file. Many browsers are set to accept cookies by default. **** You have the ability to accept or decline cookies as you prefer. The Help portion of your web browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
+Cookies allow you to take advantage of some of Dell's essential features, including allowing you to save a Shopping Cart and remembering items in your Shopping Cart between visits. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Dell websites and services that depend on cookies.
 
-## Disclosure of Information About You
+#### Targeted Display Advertising by Dell and Others
 
-We reserve the right to disclose information about you to third parties in certain circumstances: to vendors that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
+Dell also works with advertising and personalization Business Partners that use cookies to help us display personalized content and appropriate advertising during your visits to Dell.com and other websites based on your visits to Dell.com. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns and with identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page. These cookies can be effective whether you are on Dell.com or another website.
 
-## Important Information
+[Learn more](http://www.dell.com/learn/us/en/uscorp1/policies-ads-and-emails?c=us&l=en&s=corp) about targeted advertising and how to opt out.
 
-UBM LLC is a subsidiary of UBM plc.
+#### “Do Not Track” Signals
 
-We collect and process information on servers around the world.
+Please note that while you may have the opportunity to opt-out of targeted advertising through the “Learn more” link above and you may be able to control the use of cookies through your web browser as described in the “How We and Our Partners Use Cookies” section above, some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Dell does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
+#### Targeted Email Marketing by Dell
 
-This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
+Some marketing you receive, including email marketing, may also be personalized based on your visits to Dell.com and your browsing and purchase history. In addition, when you click on some links in email marketing you receive, our email service provider may place a cookie on your browser. This type of cookie would be linked to your email address or IP address and used to gather information about the products and services you view and purchase on Dell.com. Information gathered may be used to personalize and customize future email marketing messages you receive. You may opt out of this use by clicking on the unsubscribe link provided in every personalized email marketing message you receive. 
 
-Please note that virtual events may mimic face-to-face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
+#### How We and Our Partners Use Web Beacons, Pixel Tags and Tracking Technology
 
-Our products, services, events and offerings are directed to professionals. If we create a special offering for children under the age of thirteen, we will also create privacy practices and policies appropriate for that age group.
+Dell or its Business Partners may use web beacons on our websites, in our email messages, in our advertisements on other websites, or in our advertisements in others' email messages. Similarly, third parties whose content or advertisements appear at Dell.com, or whose email messages Dell.com sends to our users, may also place web beacons in their advertisements or email messages for purposes of measuring the effectiveness of the content, advertisements or email messages.
 
-## Changes
+A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons help us measure the effectiveness of our website and our advertising in various ways. For example, web beacons may count the number of individuals who visit our website from a particular advertisement or who make a purchase from our website after viewing a particular advertisement or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened and determining how many times an email message is forwarded. We may combine the information that we collect through web beacons with other Personal Information we have collected from you. ****
 
-We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
+We may allow some of our Business Partners to compile individual or aggregated statistics from the use of web beacons on Dell.com by Dell, its agents or others, to determine the effectiveness of online marketing and to develop statistics on how often clicking on an advertisement results in a purchase or other action on the advertiser's site. Aggregate information may include demographic and usage information. No Personal Information about you is shared with Business Partners for this research.  
+ ****  
+You can make some web beacons unusable by rejecting cookies in your web browser as described in the How We and Our Partners Use Cookies section above.
 
-## How to Contact Us
+When you visit our websites or view one of our email messages, we may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our websites. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through web beacons, pixel tags, tracking links and similar technology in combination with your Personal Information to personalize your experience on Dell.com and to provide you with more useful and relevant advertisements.
 
-For questions about this Privacy Policy, please contact:
+#### Social Media Features
 
-[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com), or
+Our website includes social media features, including Facebook “Like” button and Twitter “Follow” button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-**UBM LLC**   
-Attn: UBM Legal  
-240 West 35th Street, 8th Floor   
-New York, New York, 10001
+### Links to Third-Party Websites and Services
 
-  * [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
-  * [Contact Us](http://legal.us.ubm.com/contact-us/)
-  * [WebMaster](mailto:webmaster@ubm-us.com)
+Please be aware that Dell provides links to other websites, which if you click on them may collect Personal Information about you. The information practices of those third-party websites linked to Dell.com are not covered by this Privacy Statement.
 
+### Changes to Our Privacy Statement Regarding Customer and Online User Information
 
+We will occasionally update this Privacy Statement. If we make changes to this Privacy Statement or make any material changes to how we use your Personal Information, we will revise this Privacy Statement to reflect such changes and revise the statement's effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how we are protecting your Personal Information.
+
+### Contacting Us
+
+If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
+
+Dell Inc.  
+Attention: Privacy  
+One Dell Way, RR1-61  
+Round Rock, Texas 78682  
+USA
+
+You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
+
+**Effective Date: July 17, 2015.**
