@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tegrity.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515124757id_/http%3A//www.tegrity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tegrity.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228090228id_/http%3A//www.mhhe.com/tegrity/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tegrity Lecture Capture
 
