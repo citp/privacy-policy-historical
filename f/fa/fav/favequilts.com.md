@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509174203id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228121311id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveQuilts.com
 
 **Privacy Policy / Your California Privacy Rights**  
-Revised and posted as of March 25, 2015
+Revised and posted as of November 9, 2015
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -64,6 +64,8 @@ We may use the collected PII and Non-PII for any legally permissible purpose in 
 We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.
 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Company allows firms including [Google](http://www.google.com/), [LiveRamp](http://www.liveramp.com/), [Datonics](http://www.datonics.com/), and [Magnetic](http://www.magnetic.com/) to monitor Company web sites and newsletters for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities. These firms may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Company users.  Users may go to each firm’s site/URL for information on what is being tracked. Users may go to each firm’s site for information on how to opt-in or opt-out of use of their information and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third-party tracking.
 
 **Pre-select/Pre-fill Offers**  
 Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.
@@ -138,7 +140,7 @@ Should the Company choose to sell or transfer business assets, it is possible th
 **COMPANY CUSTOMER CHOICES**
 
 **Marketing Communications and Unsubscribe Information**  
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.favequilts.com/section/subctr) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.favecrafts.com/section/subctr) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
 
 **Request for More Information**  
 As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL 60062.
