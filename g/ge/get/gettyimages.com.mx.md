@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.com.mx privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608073854id_/http%3A//www.gettyimageslatam.com/Pol%25C3%25ADticaDePrivacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.com.mx privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228201308id_/http%3A//www.gettyimageslatam.com/Pol%25C3%25ADticaDePrivacidad) for the most accurate reproduction.*
 
 # Getty Images Latin America Privacy Policy
 
