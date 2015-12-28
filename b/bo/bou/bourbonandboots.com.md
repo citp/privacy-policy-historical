@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201209id_/http%3A//www.bourbonandboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228061413id_/http%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy - Bourbon & Boots
+# Privacy – Bourbon & Boots
 
 We collect information from you when you register on our site or place an order.
 
@@ -69,12 +69,10 @@ By using our site, you consent to our [website’s privacy policy](http://www.fr
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email and update the Privacy Policy modification date below.
 
-This policy was last modified on 5/29/2015
+This policy was last modified on 6/24/2015
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the email link below.
-
-[Email Us](mailto:mprice@bourbonandboots.com)
+If there are any questions regarding this privacy policy you may contact us through our Contact Us Page.
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
