@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608055401id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228172929id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NewInternetOrder.com
+# Privacy Policy | NIO
 
 **What information do we collect?**
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the â€˜do we use cookies?â€™ section below for information about cookies and how we use them.
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the “do we use cookies?” section below for information about cookies and how we use them.
 
 **What do we use your information for?**
 
@@ -19,7 +19,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computerâ€™s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -49,7 +49,7 @@ We have created this email privacy policy to demonstrate our firm commitment to 
 
 _Why did you receive an email from us?_
 
-If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future (â€œopt-inâ€), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
 _How we protect your privacy_
 
@@ -72,3 +72,5 @@ By using our site, you consent to our privacy policy.
 **Changes to our Privacy Policy**
 
 We may amend this policy from time to time. Newest version of this document is always available under the http://newinternetorder.com/privacy/ address.
+
+Last updated on August 27th, 2015
