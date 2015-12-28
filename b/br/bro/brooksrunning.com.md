@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050620id_/http%3A//www.brooksrunning.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228235304id_/http%3A//www.brooksrunning.com/en_us/privacy/privacy-policy.html) for the most accurate reproduction.*
 
-# Brooks Sports, Inc. Privacy Policy
+# Privacy Policy | Brooks Running
 
 Brooks Sports, Inc. Privacy Policy
 
