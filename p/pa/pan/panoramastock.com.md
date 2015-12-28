@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134439id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228235606id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Panorama Stock - Privacy Policy
 
 Panorama Media respects your right to privacy. This privacy policy tells you about our practices with regards to any personal information we collect online.
 
-When you visit our website, we may require you to provide us with certain information. Common items may include, but are not limited to, your name, address, phone number, e-mail address, VAT number and credit card number. This information will be used for internal purposes only and more particularly to fulfil licensing transactions, download images, send you products and updates on our latest promotions and services. We may also use certain account information provided to us by authorized users to conduct credit inquiries. Panoramastock does not sell or lease information about its customers to third parties.
+When you visit our website, we may require you to provide us with certain information. Common items may include, but are not limited to, your name, address, phone number, e-mail address, VAT number and credit card number. This information will be used for internal purposes only and more particularly to fulfil licensing transactions, download images, send you products and updates on our latest promotions and services. We may also use certain account information provided to us by authorized users to conduct credit inquiries. age fotostock does not sell or lease information about its customers to third parties.
 
 By making this information available to Panorama Media you are agreeing to allow us to share this information with Panorama Media's partners, subsidiaries, affiliates, any third party content provider, necessary payment processors or third parties which services are required to carry out your order. We also reserve the right to disclose your personal information if required to do so by law or in order to comply with any legal process.
 
@@ -20,11 +20,11 @@ Only authorized employees have access to the databases that store user informati
 
 Use of cookies
 
-When you visitage Panorama Media website, we place a "cookie" in the hard drive of your computer. A "cookie" is a small piece of data that a website can store on your web browser and later retrieve. Cookies allow Panoramastock to make its website more useful by storing information about your preferences. For example, cookies enable this website to recognize the information you have consented to give us, such as the lightboxes you have created and determine what areas of the website are most of your interest. You can set your browser's option not to accept cookies, though as a result you may not then be able to access all of the features of Panoramastock site. 
+When you visitage Panorama Media website, we place a "cookie" in the hard drive of your computer. A "cookie" is a small piece of data that a website can store on your web browser and later retrieve. Cookies allow age fotostock to make its website more useful by storing information about your preferences. For example, cookies enable this website to recognize the information you have consented to give us, such as the lightboxes you have created and determine what areas of the website are most of your interest. You can set your browser's option not to accept cookies, though as a result you may not then be able to access all of the features of age fotostock site. 
 
 Links
 
-Please be aware that the Panoramastock web site may contain links to other sites that are covered by their own privacy policies. i Panorama Media's not responsible for the privacy practices of such other sites. We recommend that you read the privacy statements of each and every web site that collects personally identifiable information. 
+Please be aware that the age fotostock web site may contain links to other sites that are covered by their own privacy policies. i Panorama Media's not responsible for the privacy practices of such other sites. We recommend that you read the privacy statements of each and every web site that collects personally identifiable information. 
 
 Changes of PanoramaStock 's Online Privacy Policy
 
