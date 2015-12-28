@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608003345id_/https%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228011739id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="/css/actionButtons.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/forum.css" type="text/css">
   <link rel="stylesheet" type="text/css" href="/css/jquery.selectbox.css">
-  <link rel="stylesheet" href="/cssCG/main.css" type="text/css">
+  <link rel="stylesheet" href="/cssCG/main2.css" type="text/css">
   <link rel="stylesheet" href="/css/star_rating.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/dash.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/home.css" type="text/css">
@@ -171,7 +171,7 @@ ga('send', 'pageview');
 	 });
 
        $('img.lpImage,#actionShots img').bind('contextmenu', function(e){
-	   var ip = '204.236.235.245';	     var username = '';	 $.ajax({
+	   var ip = '207.241.237.209';	     var username = '';	 $.ajax({
 		 url: "/reportRightClick.php",
 	       dataType: 'json',
 	       data: {event: e.target.src, ip: ip, username:username}
@@ -343,7 +343,7 @@ ga('send', 'pageview');
        );
    }
 
-  function toggleFavorite(link, matId)
+window.toggleFavorite = (function(link, matId)
    {
      var targetMatId = matId;
      $.ajax({
@@ -381,7 +381,8 @@ ga('send', 'pageview');
 
        }
        );
-   }
+   });
+
    function publishChange(field, matId, newPriv)
    {
      var targetMatId = matId;
@@ -515,7 +516,7 @@ _gaq.push(['_setCustomVar',
           <ul>
 
 
-<li class="menu"><a href="https://www.lessonpix.com/login.php">Login/Register</a></li><li class="menu"><a href="/help.php">Help!</a></li>
+<li class="menu"><a href="https://lessonpix.com/login.php">Login/Register</a></li><li class="menu"><a href="/help.php">Help!</a></li>
 
 
 
