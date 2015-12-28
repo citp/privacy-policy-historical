@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpdedicated.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618003328id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpdedicated.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228134122id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lunarpages Web Hosting
 
