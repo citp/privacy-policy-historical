@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainestimator.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531220550id_/http%3A//www.intelium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainestimator.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228224840id_/http%3A//intelium.com/privacy.html) for the most accurate reproduction.*
 
 # Intelium.com - Intelium Corporate
 
@@ -29,4 +29,4 @@ Our data resides at a local data center facility on Intelium owned or leased ser
 
 * * *
 
-If you have any questions regarding our privacy policy please do not hesitate to [contact](https://web.archive.org/web/20150531220550id_/http%3A//www.intelium.com/contact.html) us. 
+If you have any questions regarding our privacy policy please do not hesitate to [contact](https://web.archive.org/web/20151228224840id_/http%3A//intelium.com/contact.html) us. 
