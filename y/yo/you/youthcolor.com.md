@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcolor.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174057id_/http%3A//www.youthcolor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcolor.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228231735id_/http%3A//www.youthcolor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.youthcolor.com
 
@@ -19,9 +19,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How We Use Collected Informations?**
 
 **www.youthcolor.com** collects and uses Users personal information for the following purposes :-  
-\- To improve our Site  
+– To improve our Site  
 We continuously strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To improve customer service  
+– To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.
 
 **How We Protect Your Information?**
@@ -57,9 +57,3 @@ If you have any questions regarding this privacy policy, the practices of this w
 **http://www.youthcolor.com**  
 Delhi  
 India
-
-#### Incoming search terms:
-
-  * [bate a kavi na tu vul na mp3](http://www.youthcolor.com/privacy-policy/ "bate a kavi na tu vul na mp3")
-
-
