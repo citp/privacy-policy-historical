@@ -1,190 +1,306 @@
-<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2015-01-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150101004334id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lacartes.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228230908id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <title>Privacy Policy</title>
-  <meta name="y_key" content="33aef49e552f67b6">
-  <meta name="msvalidate.01" content="B21D36E9CD44E453115C622E6F8F57A1">
-  <meta name="verify-v1" content="TYAOnZJgJVDjPIo9SjkZ0mrkxIPJLDoJLfao0bwDnRU=">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="title" content="Privacy Policy">
   <meta name="description" content="">
-  <meta name="keywords" content="">  
-    
-  <link href="http://www.lacartes.com/include/css/global_vajk_min_va07.css" rel="stylesheet" type="text/css">	
-  <link href="http://www.lacartes.com/include/css/ui_buttons_va3.css" rel="stylesheet" type="text/css">	
-  <link href="http://www.lacartes.com/include/css/shares-comments-va3.css" rel="stylesheet" type="text/css">	
-<link rel="stylesheet" href="http://www.lacartes.com/public/libs/jalerts/jquery.alerts.css">
-<link rel="stylesheet" href="http://www.lacartes.com/public/libs/jui/jquery-ui.min.css">
-
-    <link href="http://www.lacartes.com/include/css/help-articles.css" rel="stylesheet" type="text/css">
+  <meta name="keywords" content="">
   
-<script type="text/javascript">
-  baseUrl = 'http://www.lacartes.com/';  </script>
-   
-  <script src="http://www.lacartes.com/include/js/global-unified-va4.js" type="application/javascript"></script>
-<script src="http://www.lacartes.com/public/libs/jalerts/jquery.alerts-va2.js" type="application/javascript"></script>
-<script src="http://www.lacartes.com/public/libs/jui/jquery-ui.min.js" type="application/javascript"></script>
-
-
     
 
-<style type="text/css">
-    #header.vajk .headerBar { 
-        position:absolute\9; /* for IE 9 */ 
-        width:100%\9;
-    }
-    
+<link href="http://www.lacartes.com/include/css/global_full_va7.css?v=15" rel="stylesheet" media="screen">	
+<link href="http://www.lacartes.com/include/css/global-unified-va7.css?v=04" rel="stylesheet" media="screen">	
+
+
+
+<style>
+    /*
+    * fix for login/signup popup affected by jquery ui theme
+    */
+    .generic-popup-box.va7.ui-dialog-content.ui-widget-content { background-color:#fff; }
+    .generic-popup-box.ui-dialog-content.ui-widget-content .top-header { color:#fff; } /* quick fix for popup header. it's just actually hides the text.title still needs to be remove manually */
 </style>
 
+  <script src="http://www.lacartes.com/include/js/global-unified-va7.js" type="text/javascript"></script>
+    
+
 <script type="text/javascript">
-    $(function() { 
+  baseUrl = 'http://www.lacartes.com/';  
+    
+  uiSearch = { 
         
-        var $headerStickyBar   = $('#headerStickyBar');
+        variables : { },
+        baseUrl   : "/search",
         
-        /* clone quicksearchbox and create logo icon. this avoids redundant html contents */
-        if($headerStickyBar.find('.quickSearchBox').length == 0) { 
-            $('#header').find('.quickSearchBox').clone().prependTo($headerStickyBar.find('.navigationBar')).addClass('cloned'); 
-            $('<a class="logoIcon" title="Lacartes.com" href="'+baseUrl+'"><img style="height:40px;" src="/images/logo-icon.png" /></a>').prependTo($headerStickyBar.find('.navigationBar'));
-         }
+        Submit  : function(oForm) { 
+            
+            var segmentPairs = { };
+            var segments     = [];
+            
+            $(oForm).find('.optfield').each(function() {
+                
+                var val = $(this).val();
+                
+                if(!isEmpty(val) && val!=='-1' && val!=='0') {
                     
-        if($headerStickyBar.length > 0) {
-            $(window).scroll(function(e){ // scroll event
-                var windowTop = $(window).scrollTop(); // returns number 
-                                
-                if (windowTop >= 71){                     
-                    $headerStickyBar.addClass('activeSticky');
-                } else {
-                    $headerStickyBar.removeClass('activeSticky');
+                    var n = $(this).attr('name');
+                    var v = encodeURI(val.replace(/\s/g, '-'));
+                    
+                    segmentPairs[n] = [n,v];
                 }
-
             });
+            
+                        
+            for(var i=0; i<uiSearch.variables.length; i++) { 
+                k = uiSearch.variables[i];
+                if( segmentPairs.hasOwnProperty(k) ) { 
+                    segments.push( segmentPairs[k][0] );
+                    segments.push( segmentPairs[k][1] );
+                }
+            }
+                        
+            document.location.href = uiSearch.baseUrl + "/" + segments.join('/');
+            
         }
-        
-        $('.navMenus').find('li.hasSubmenu').hover(function() { 
-              var $subNavMenu = $(this).find('.subNavMenus');              
-              if($subNavMenu.hasClass('empty')) {                  
-                 var menuItem = $(this).attr('menuItem');                 
-                 $.get(
-                         '/ajax_utils/header-lazy-loading.php',
-                         { do : 'load_menu', item : menuItem },
-                         function(o) { 
-                            $subNavMenu.html(o);
-                            $subNavMenu.removeClass('empty');
-                         }    
-                    );                                  
-              }
-        });    
-    })
-</script>
+    }
+    
+    uiSearch.variables = ["w","q","c","c2","co","a","geo","d","sort","page"];
 
+</script>
+ 
 </head>
 
 <body>
 
-<div id="header" class="vajk">
-	<div class="headLine">
-            <div class="content-wrapper clearfix">                
-                <div class="logo"><a href="http://www.lacartes.com/"><img src="http://www.lacartes.com/images/lacartes-logo-vajk.png" title="Lacartes.com" alt="Lacartes.com"></a></div>    
-                <div class="quickSearchBox">               
-                    
-    
-    
-         
-
-<form class="quickSearchForm ui-autocomplete-search-field" action="/search">
-    <input type="hidden" name="what" value="business">
-        <input type="hidden" name="d" value="national">
-        
-    <input class="quickSearchText ui-autocomplete-field" type="text" placeholder="I'm looking for..." name="q" value="">
-    <button class="btnQuickSearchSubmit standard" type="submit"><img alt="Search" src="/images/search_glass.png"></button>
-    <img class="quickSearchLoading" style="right:11%" src="http://www.lacartes.com/images/ajax-loader.gif">    
-</form>                </div>    
-            </div>
-	</div>
-	<div id="headerStickyBar" class="headerBar">
+<div id="header" class="va7 fluid">	
+    <div class="headerBar">
             <div class="content-wrapper">
-                <div class="navigationBar">
-                    <div id="navigation">
-                        <ul class="navMenus">
-    <li><a href="http://www.lacartes.com/"><em>Home</em></a></li>
-    <li class="hasSubmenu" menuitem="marketplace">
-        <a href="/marketplace"><em>Marketplace</em><span class="arrow"></span></a>
-        <div class="submenu">
-            <div class="subNavMenus _2col empty">
-                <div class="loadingMenuWrapper"><img src="http://www.lacartes.com/images/ajax-loader.gif"></div>
-            </div>
-        </div>
-    </li>
-    <li class="hasSubmenu" menuitem="business">
-        <a href="/business"><em>Businesses</em><span class="arrow"></span></a>
-        <div class="submenu">
-            <div class="subNavMenus empty">
-                <div class="loadingMenuWrapper"><img src="http://www.lacartes.com/images/ajax-loader.gif"></div>
+            <div class="clearfix">    
+                <div class="hs-left">
+                    <div class="hs-t">
+                        <div class="hs-t-r">
+                            <div class="hs-t-c c-logo">
+                                <div class="logo"><a href="http://www.lacartes.com/"><img style="min-width:57px;" class="imgLogo" src="http://www.lacartes.com/images/lacartes-logo-vajk.png" title="Lacartes.com" alt="Lacartes.com"></a></div>                   
+                            </div>
+                            <div class="hs-t-c c-qs">
+                                <div class="qs-mobile-controls"><a class="mobileControlSearch control"><img src="/images/grapix/magnifier_va6.png"></a></div>
+                                <div id="headerQuickSearchMobileBox" class="quick-search-mobile-box">
+    
+     
+<form class="quickSearchForm" currentsearchwhat="businesses" action="/search">
+    <input class="optfield" type="hidden" name="w" value="businesses">
+    
+
+    <div class="t">
+        <div class="r">
+            <div class="c colFld qFld">
+                <div class="fieldBox fbh" style="position:relative;">                                            
+                    <div class="ui-autocomplete-search-field" style="position:relative;">
+                        <input class="quickSearchText ui-autocomplete-field ui-autocomplete-input optfield" type="text" placeholder="Search..." name="q" value="">
+                        <img class="quickSearchLoading" style="right:12.5%;top:7px;" src="http://www.lacartes.com/images/ajax-loader.gif">    
+                    </div>
+                    <div class="qsd">
+                        <div class="quickSearchDropdown ui-dropdown-widget">   
+                            <div class="dropdown-selector fbh">
+                                <div class="dropdown-control">
+                                    <div class="dropdown-control-selected">
+                                        <i class="dropdown-control-text">Businesses</i>
+                                        <span class="toggle-handle"></span>
+                                    </div>
+                                </div>
+                                <div class="ui-dropdown-context-menu state-auto-close" style="min-width:130px;">
+                                    <ul class="context-menu-items" itemfield="w">
+                                        
+                                        <li class="item"><a class="item-inline" itemid="businesses" itemlabel="Businesses"><span class="item-text">Businesses</span></a></li>
+                                        
+                                        <li class="item"><a class="item-inline" itemid="marketplace" itemlabel="Marketplace"><span class="item-text">Marketplace</span></a></li>
+                                        
+                                        <li class="item"><a class="item-inline" itemid="jobs" itemlabel="Jobs"><span class="item-text">Jobs</span></a></li>
+                                        
+                                        <li class="item"><a class="item-inline" itemid="photos" itemlabel="Photos"><span class="item-text">Photos</span></a></li>
+                                        
+                                        <li class="item"><a class="item-inline" itemid="videos" itemlabel="Videos"><span class="item-text">Videos</span></a></li>
+                                        
+                                    </ul>
+                                </div>    
+                            </div>
+                        </div>
+                    </div>
+                </div>    
+            </div>            
+            <div class="c btn">
+                <button class="btnQuickSearchSubmit standard" type="submit" onclick="uiSearch.Submit(this.form);return false;"><img alt="Search" src="/images/grapix/magnifier_va6.png"></button>            
             </div>
         </div>        
+    </div>
+</form>
+                                    
+<script type="text/javascript">
+
+    $(function() { 
+            $('.quickSearchDropdown .context-menu-items .item').find('a').click(function() { 
+                var $this = $(this);
+                
+                var itemId    = $(this).attr('itemId');
+                var itemLabel = $(this).attr('itemLabel');
+                
+                var fieldName = $(this).parents('.context-menu-items').attr('itemField');
+                
+                $(this).parents('form').get(0)[fieldName].value = itemId;
+                $(this).parents('.ui-dropdown-widget').find('.dropdown-control-text').text(itemLabel);
+                
+                var $quickSearchForm = $('.quickSearchForm');
+                
+                    $quickSearchForm.removeClass($quickSearchForm.attr('currentSearchWhat'));
+                    
+                    $quickSearchForm.addClass(itemId);
+                    $quickSearchForm.attr('currentSearchWhat', itemId);
+            });
+            
+    } )
+</script>                                    </div>
+                            </div>
+                                                    </div>                        
+                    </div>
+                </div>   
+   
+            </div>
+            </div>
+	</div>  
+        <div class="navigationBar">
+            <div class="content-wrapper clearfix">
+                <div id="navigation" class="float-left"><ul id="userPageNav" class="navMenus clearfix">
+    <li class="l-nav-menu" menuitem="business">
+        <a class="h-nav-menu ic business" href="/business"><em>Local Businesses</em></a>
     </li>
-    <li class="hasSubmenu" menuitem="jobs">
-        <a href="/jobs"><em>Jobs</em><span class="arrow"></span></a>
-        <div class="submenu">
-            <div class="subNavMenus _2col empty">
-                <div class="loadingMenuWrapper"><img src="http://www.lacartes.com/images/ajax-loader.gif"></div>
+    
+    <li class="l-nav-menu" menuitem="marketplace">
+        <a class="h-nav-menu ic marketplace" href="/marketplace"><em>Marketplace</em></a>
+    </li>
+    
+    <li class="l-nav-menu">
+        <a class="h-nav-menu ic community" href="/community"><em>Community</em></a>        
+    </li>    
+    
+    <li class="l-nav-menu" menuitem="jobs">
+        <a class="h-nav-menu ic jobs" href="/jobs"><em>Jobs</em></a>
+    </li>
+      
+</ul></div>
+                <div class="hs-right userLoginLine">
+                                            
+                        <a class="btnLogin btn-user-login" href="/login">Login</a>&nbsp;&nbsp;<a class="btnSignup btn-user-login" href="/join">Signup</a>
+                                    </div>
             </div>
         </div>
-    </li>                                                            
-</ul>                    </div>
-                    
-                     
-                        <div id="userInfoNavigation">
-                            <div class="userLoginLine"><a href="/join">Login</a>&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;<a href="/join">Sign up</a></div>
-                        </div>
-                        
-                </div>
-                
-            </div>
-	</div>
+         
 </div>	
-<div id="page-body">
-<div id="main" class="">
+<div id="page-body" class="main fluid">
 
 
     
     <div id="page-wide">
                     
-            <div class="HelpInfoPage page_content footer-pad">
+            
+<style>
+    .HelpInfoPage { }
+    .HelpInfoPage .breadcrumb{ border-bottom:1px solid #dbdbdb; margin-bottom:20px; padding:10px 0;}
+    .HelpInfoPage .breadcrumb a { color:#004DB3; }
+	
+	.article-text-bold {
+		font-size: 13px;
+		font-weight: bold;
+		margin-top: 20px;
+	}
+	.legal-list {
+		  margin: 20px 0 20px 20px;
+	}
+	.div-panel {
+		margin-top: 20px;
+	}
+	.legal-stuff-content {
+		max-width: 900px;
+		margin-top: 20px;
+	}
+	.marginTop20 { margin-top:20px; }
+    
+    @media (max-width:600px) { 
+        .HelpInfoPage .content-wrapper { padding:0 10px; }
+    }
+	
+	.legal-stuff-content .bold { font-weight:bold; }
+    .content-box .legal-main-content {
+		padding-left: 258px;
+		margin-top: 20px;
+		font-size: 14px;
+	}
+	.legal-main-content .legal-left-sidebar {
+		float: left;
+		margin-left: -258px;
+		width: 238px;
+	}
+	.legal-main-content .legal-page-content {
+		float: left;
+		width: 100%;
+	}
+	ul.ul-menu {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+	}
+	.legal-left-sidebar .terms {
+		font-weight: bold;
+		padding: 10px 0;
+	}
+	.div-legal-menu .ul-menu {
+		background: #f2f2f2;
+		padding: 10px 15px;
+	}
+	.div-legal-menu .ul-menu > li > a{
+		border-top: 1px solid #dbdbdb;
+		padding: 7px 0;
+		display: block;
+		color: #000;		
+	}
+</style>
 
+<div class="HelpInfoPage page_content footer-pad">
+    
     <div class="content-wrapper clearfix">
-        
-        <div class="pagelet_left_sidebar menu-left-block">
-            
-            <div class="box-content">
-                <div class="menu-nav-wrapper">
-                    <div class="menu-header">LEGAL STUFFS</div>
-                    <ul class="menu-navs">
                         
-                        <li class="menu selected"><a class="block-link" href="http://www.lacartes.com/legal-stuff/privacy-policy"><span class="menu_icon"><span class="label">Privacy Policy</span></span></a></li>                    
-                        
-                        <li class="menu"><a class="block-link" href="http://www.lacartes.com/legal-stuff/terms-conditions"><span class="menu_icon"><span class="label">Terms &amp; Conditions</span></span></a></li>                    
-                                                 
-                    </ul>
-                </div>
-            </div>
-            
-        </div>
-        
         <div class="content-block">
             
             <div class="content-box pad-content">
-                <div>  <a href="http://www.lacartes.com/">Home</a><span class="sep">&nbsp;&nbsp;&gt;&nbsp;</span>
-  <a href="http://www.lacartes.com/legal-stuff">Legal Stuff</a><span class="sep">&nbsp;&nbsp;&gt;&nbsp;</span>
-<span class="last-trail">Privacy Policy</span>
-</div>
-
-                            <h1 style="margin-top:20px;">Privacy Policy</h1>
                 
-                <div style="margin-top:10px">
-                    At LACARTES we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel.<br>
+                            
+                <div class="legal-main-content">
+					<div class="legal-left-sidebar">
+						<div class="div-legal-menu">
+	<ul class="ul-menu">
+		<li class="terms">TERMS &amp; CONDITIONS</li>
+		<li><a href="/legal-stuff/terms-conditions">General Terms of Use</a></li>
+		<li><a href="/legal-stuff/marketplace-terms-conditions">Marketplace</a></li>
+		<li><a href="/legal-stuff/businesses-terms-conditions">Local Businesses</a></li>
+		<li><a href="/legal-stuff/privacy-policy">Privacy &amp; Cookies</a></li>
+	</ul>
+</div>					</div>
+					<div class="legal-page-content">
+						<h1>Privacy Policy</h1>
+													At LACARTES we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel.<br>
+<br>
+Cookies<br>
+We use cookies when you visit our site.  There are four main types of cookies – here’s how and why we use them.<br>
+(1)   Site functionality cookies – these cookies allow you to navigate the site and use our features, such as “Add to Cart”<br>
+(2)   Site analytics cookies – these cookies allow us to measure and analyse how our customers use the site, to improve both its functionality and your shopping experience.<br>
+(3)   Customer preference cookies – when you are browsing or shopping on Lacartes, these cookies will remember your preferences (like your language or location), so we can make your shopping experience as seamless as possible, and more personal to you.<br>
+(4)   Targeting or advertising cookies – these third party advertising cookies are used to deliver ads relevant to you.  <br>
+<br>
+By using our site, you consent to our use of cookies on your device and accessing them when you visit the site in the future.  If you want to delete any cookies that are already on your computer, the “help” section in your browser should provide instructions on how to locate the file or directory that stores cookies.  Further information about cookies can be found at www.aboutcookies.org.  Please note that by deleting or disabling future cookies, your user experience may be affected and you might not be able to take advantage of certain functions of our site.<br>
+<br>
 <br>
 Information We Collect from You<br>
 We collect traffic data, weblogs, location data, and any other communication can be collected. These details come from your visit to our site and any resource tools you use while on the site.<br>
@@ -216,6 +332,7 @@ Legal requirements may mean a sharing of your information.<br>
 <br>
 Third Party Links<br>
 Links might be discovered on our site that belongs to third parties. Any third party website on our site has a privacy policy. You should check their terms. We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links.
+											</div>
                 </div>
                 
             </div>
@@ -228,292 +345,843 @@ Links might be discovered on our site that belongs to third parties. Any third p
     </div>
 
 
-</div></div> 
+</div> 
 
-<div id="footer">
-	<div class="content-wrapper">
-                                
-		<div style="position:relative;min-height: 35px;">	
-                    
-                    <style type="text/css">
-                        
-                        .pref-currency-location .ui_btn_filter_location{ display:inline-block; padding-left:19px; }
-                        .pref-currency-location .ui_btn_filter_location.icon_filter_location{
-                            background:url(/include/css/img/icon_globe_16.png) no-repeat left top;
-                        }
+<style type="text/css">
+ 
 
-                        .pref-currency-location .ui_btn_filter_location.icon_filter_currency{
-                            background:url(/include/css/img/icon-dollar-16.png) no-repeat left 1px;
-                            padding-left:16px;
-                        }
-                        
-                        #footer .pref-currency-location .ui_btn_filter_location .lbl, #footer .pref-currency-location .ui_btn_filter_location { line-height:1.6; }
-                    </style>
+.jump-top {
+    position: fixed;
+    bottom: 60px;
+    right: 15px;
+    z-index:300;
+    opacity: 0;
+    -webkit-transition: opacity 1s ease;
+}
+
+.jump-top.visible { opacity: 1; }
+
+.jump-top .arrow-w { 
+    display: block;
+    background: rgba(144, 144, 144, 0.88);
+    width: 35px;
+    height: 35px;
+    border-radius: 3px;
+    padding:5px;
+}
+
+#footer .links-w { float:right; text-align: center; margin-bottom:10px; }
+#footer .payment-options-w { float:left; margin-top:-6px; }
+#footer .payment-options-w ul { display:inline-block; }
+#footer .payment-options-w ul li { float:left; }
+#footer .links-w ul { display:inline-block; }
+
+</style>
                     
-                    
-                    <div class="pref-currency-location" style="position:absolute;left:26px;">
-                        <a class="ui_btn_filter_location icon_filter_location" onclick="openLocCurDialog();"><span class="lbl">United States</span></a>
-                        &nbsp;&nbsp;&nbsp;
-                        <a class="ui_btn_filter_location icon_filter_currency" onclick="openLocCurDialog();"><span class="lbl">US$ US Dollar</span></a>
-                    </div>
-                    
-		</div>
-			
-                <div class="">
-                    
-<div class="links_block">
-    <div class="l">
-        <a class="bold" href="/about" title="About Lacartes">About Lacartes</a>
-        <br>
-        <a class="bold" href="/business-solutions" title="Business Solutions">Business Solutions</a>
-        <br>
-        <a class="bold" href="http://www.lacartes.com/contact-us">Contact Us</a>            
-    </div>
+<div id="footer" class="fluid">
     
-    <div class="l">
-        <a class="bold" href="http://www.lacartes.com/business" title="See All Businesses">Business Directory</a>
-        <br>
-        <a href="http://www.lacartes.com/business-locations" title="Browse Businesses by Location">Browse Locations</a>
-        <br>
-        <a class="bold" href="http://www.lacartes.com/post/business" title="Create A Free Business Page For Your Company">Add Your Business Free</a>                        
-    </div>
-    
-    <div class="l">
-        <a class="bold" href="http://www.lacartes.com/jobs" title="See All Jobs Listed On Lacartes">Job Directory</a>
-        <br>
-        <a href="http://www.lacartes.com/jobs/locations" title="Browse Jobs by Location">Browse Locations</a>            
-        <br>
-        <a href="http://www.lacartes.com/jobs/categories" title="Browse Jobs by Category">Browse Categories</a>
-        <br>    
-    </div>
-	
-    <div class="l">
-        <a href="http://www.lacartes.com/terms" target="_blank" rel="nofollow">Term of Use</a>
-        <br>
-        <a href="http://www.lacartes.com/privacy" target="_blank" rel="nofollow">Privacy Policy</a>
-        <br>
-        <strong>Lacartes.com © all rights reserved</strong>
-    </div>    
-</div>                </div>
-                
-                            
-						
-		<div class="footer-banner">
-		
-			<!-- ValueClick Media 468x60 and 728x90 Banner CODE for LaCartes -->
-			<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:35159,media_id:1,media_type:5,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=35159&m=1&tp=5&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:35159,media_id:1,media_type:5,version:"1.1"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=35159&m=1&tp=5&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=35159&amp;m=1&amp;tp=5&amp;d=j&amp;t=n&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=35159&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=35159&m=1&tp=5&d=s&c=1&vcm_acv=1.1" width=728 height=90 border=1></a></noscript>
-			<!-- ValueClick Media 468x60 and 728x90 Banner CODE for LaCartes -->
-		
-		</div>
+	<div class="content-wrapper clearfix">
+            <div class="payment-options-w">
+                <ul class="nol">
+                    <li><img src="/images/credit-cards-v6.png"></li>
+                    <li style="margin-top:-2px"><img src="/images/paypal-v6.png"></li>
+                </ul>
+            </div> 			
+            <div class="links-w">
+                    <ul class="nol links footer-content">
+    <li>
+        <a href="/about" title="About Lacartes">About Lacartes</a>
+    </li>   
+    <li>
+        <a href="/business-solutions" title="Business Solutions">Business Solutions</a>
+    </li>    
+    <li>
+        <a href="/post">Add Listing</a>
+    </li>
+    <li>
+        <a href="/legal-stuff" target="_blank" rel="nofollow">Legal Stuff</a>
+    </li>
+    <li>
+        <a href="http://www.lacartes.com/contact-us">Contact Us</a>                    
+    </li>    
+</ul>            </div>
 
 	</div>
+                
+        <div class="bottom-liner footer-content">
+            Lacartes.com © all rights reserved
+            <br>
+            This website is best viewed using Internet Explorer 9 , Chrome , Safari and newer browsers.
+        </div>
+              
+        <div class="footer-banner">
+                            
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for LaCartes -->
+<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:35159,media_type:5,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=35159&tp=5&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:35159,media_type:5,version:"1.1"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=35159&tp=5&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=35159&amp;tp=5&amp;d=j&amp;t=n&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=35159&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=35159&tp=5&d=s&c=1&vcm_acv=1.1" width=728 height=90 border=1></a></noscript>
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for LaCartes -->
+                        
+        </div> 
+    
 </div> 
+ 
+	<style>
+		#footer-cookie {
+			text-align: center;
+			padding: 15px 10px;
+			font-size: 14px;
+			position: fixed;
+			bottom: 0;
+			width: 100%;
+			color: #fff;
+			background-color: rgba(0, 0, 0, 0.8);
+		}
+		#footer-cookie .cookie-btn {
+			background-color: #000;
+			color: #fff;
+			padding: 5px 10px;
+		}
+		#footer-cookie .cookie-btn:hover { text-decoration: none; }
+	</style>
+	<div id="footer-cookie">
+		<span>Cookies help us deliver our services. By using this Site you consent to our use of cookies.</span>
+		<span style="margin-left:5px;" id="cookie-btn-ok"><a class="cookie-btn" href="javascript:void(0);">OK</a></span>
+		<span style="margin-left:5px;"><a class="cookie-btn" href="/legal-stuff/privacy-policy" target="_blank">Learn more</a></span>
+	</div>
+	<script>
+		$(function() { 
+			$('#cookie-btn-ok').click(function() {
+				$.get( 
+					'/ajax_utils/users/user_action.php',
+					{ 'do' : 'save_cookie' },
+					function(o) { 
+						$('#footer-cookie').toggle('fast');
+					}    
+				); 
+			});
+		});
+	</script>
+<a class="jump-top jumpTop" href="#header" title="Back to top"><span class="arrow-w"><svg enable-background="new 0 0 24 24" viewBox="0 0 24 24"><polyline fill="none" points="3,15.5 12,6.5 21,15.5 " stroke="#fff" stroke-miterlimit="10" stroke-width="2"></polyline></svg></span></a>
 
-
-<div class="jqmWindow" id="dialogMessageCompose" style="display:none">
-    <div class="dialog-loading"></div>
-</div>
-
-
-
-<style>
     
-    /* marketplace popup filter location */
-    #uiDialogLocationCurrencyFilter { }
-    #uiDialogLocationCurrencyFilter .ui-tabs{ 
-        border:0px none; 
-        border-radius:0; 
-        margin: 0;
-        padding: 0;
-        position:relative;
-    }
-    #uiDialogLocationCurrencyFilter .ui-tabs .ui-tabs-nav{ 
-        border:0px none;
-        border-radius: 0;
-        background: inherit;
-    }
-
-    #uiDialogLocationCurrencyFilter .ht { font-size:14px;margin-bottom:7px; }
-
-    #uiDialogLocationCurrencyFilter .list li {  margin-bottom:3px; }
-    #uiDialogLocationCurrencyFilter ul.list.countries { }
-    #uiDialogLocationCurrencyFilter .list.countries li { line-height: 1.5; }
-    #uiDialogLocationCurrencyFilter .list.countries .col { width:130px; }
-    #uiDialogLocationCurrencyFilter .list.currencies li { 
-        margin-bottom: 15px;
-        width: 187px;
-    }
-    #uiDialogLocationCurrencyFilter ul.list.currencies .cs { display:inline-block; font-weight:bold; width:35px; }
-    #uiDialogLocationCurrencyFilter ul.list.currencies .l { display:inline-block;}
-
-    #uiDialogLocationCurrencyFilter ul.list a {
-        display: inline-block;
-        padding: 2px 7px;        
-        border-radius: 3px;
-    }
-
-    #uiDialogLocationCurrencyFilter ul.list a.selected, #uiDialogLocationCurrencyFilter ul.list a.selected:hover { 
-        background:#888;
-        color:white;
-        font-weight:bold;
-    }
-    #uiDialogLocationCurrencyFilter ul.list a:hover {
-        background: #F2F2F2;
-        text-decoration:none;
-    }
-
-    #uiDialogLocationCurrencyFilter .resultFilterFooter {
-        border-top:1px solid #dbdbdb;
-        padding:10px 20px;
-        background:#f2f2f2;
-    }
-    /* marketplace popup filter location end */
-
-    .uiTabLocationCurrencyFilter { }
-    .uiTabLocationCurrencyFilter.ui-tabs-nav li { 
-        margin: 0px 0px -1px -1px;
-        border: 1px solid #DBDBDB;
-        border-bottom: 0px none;
-        box-sizing: content-box;
-        border-radius: 1px;
-        padding:0;
-    }
+<style type="text/css">    
     
-    .uiTabLocationCurrencyFilter.ui-tabs-nav li:focus, .uiTabLocationCurrencyFilter.ui-tabs-nav li.ui-tabs-active.ui-state-active:focus, .uiTabLocationCurrencyFilter.ui-tabs-nav li a { 
-        box-shadow:none!important;
-        outline:none!important;
-    }
-    .uiTabLocationCurrencyFilter.ui-tabs-nav li a.ui-tabs-anchor{ 
-        font-weight: bold;
-        padding: 8px 25px;
-        font-size: 12px;
-    }
-    
-    .uiTabLocationCurrencyFilter.ui-tabs-nav li.ui-tabs-active { padding-bottom: 0px; }
-    .uiTabLocationCurrencyFilter.ui-tabs-nav li.ui-tabs-active a.ui-tabs-anchor {
-        color:#D65800!important;
-    }
+	#uiDialogSignupVa7 .uig-button.btn-green { text-transform:UPPERCASE } 
+		                        
+        .dialogSignupForm.va7 { padding:0 89px; }
+        
+        .dialogSignupForm.va7 .labelHeader { font-size:20px; font-weight: bold;  }
+                    
+        .dialogSignupForm.va7 .signupFormFields { position: relative; }
+        .dialogSignupForm.va7 .signupFormFields .fieldLine { text-align: center; margin:20px 0; position: relative; }
+        .dialogSignupForm.va7 .signupFormFields label.fieldLine { 
+            display: inline-block;
+            width: 93%;
+            text-align: left;
+            border: 1px solid #DBDBDB;
+            border-radius: 3px;
+            padding: 2px 10px;
+            margin: 12px 0 0 0;
+        } 
+
+        .dialogSignupForm.va7 .signupFormFields label.fieldLine .l { 
+            float: left;
+            font-weight: bold;
+            width: 12%;
+            margin-top: 5px;
+            text-align: center;
+        }
+                
+        .dialogSignupForm.va7 .signupFormFields .uiField {  
+            display:block; 
+            width: 100%;
+            padding: 20px 10px 20px 50px;
+            box-sizing: border-box;
+            height:auto;
+            border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+        }
+                        
+        .dialogSignupForm.va7 .signupFormFields .fieldIcon {             
+            background-repeat: no-repeat;
+            display:block;
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            font-size: 0;
+            top: 20px;
+            left: 20px;
+        }
+        
+        .dialogSignupForm.va7 .signupFormFields .fieldIcon.mail-icon { 
+            background-image: url(/images/grapix/ol-login-contact-16.png);
+        }
+        
+        .dialogSignupForm.va7 .signupFormFields .fieldIcon.password-icon {             
+            background-image: url(/images/grapix/ol-login-lock-16.png);
+        }
+
+        .dialogSignupForm.va7 .signupFormFields label.fieldLine .uiField { 
+            border: none;
+            margin-left: 18%;
+            box-sizing: border-box;
+            width: 85% ; 
+            height: auto;
+            padding: 8px;
+        }
+        
+        .dialogSignupForm.va7 .signupFormFields .signup-next-step-form label.fieldLine .l { width:30%; }
+        
+        .dialogSignupForm.va7 .signupFormFields .signup-next-step-form label.fieldLine .uiField { 
+            margin-left: 31%;
+            width: 70%;
+        }
+        
+        .dialogSignupForm.va7 .fieldLine.alft {  text-align: left;  }
+        
+        .dialogSignupForm.va7 .signupFormFields .ui-btn-signup { 
+            display: block;
+            width: 100%; }
+        
+        .dialogSignupForm.va7 .overlay-loading { display:none; }
+        
+        .dialogSignupForm.va7 a.inherit { color: #004DB3; }
+        
+        .dialogSignupForm.va7 .signupFormFields .errorMsgLine .errorMsg {
+            color: #F00;
+        }
+        
+        .dialogSignupForm.va7 .overlay-loading { 
+            position: absolute;
+           width:100%;
+           height: 100%;
+           background: rgba(255, 255, 255, 0.60);
+           top: 0;
+           left: 0;
+           z-index: 100;
+           display: none;
+        }
+     
+        .captcha-ctr.g-recaptcha {
+            height: 78px;
+            transform: scale(1.0);
+            transform-origin: 0;
+            -webkit-transform: scale(1.0);
+            transform: scale(1.0);
+            -webkit-transform-origin: 0 0;
+            transform-origin: 0 0;
+        }
+        
+        /*.captcha-ctr { width:304px; margin:auto; }*/
+        
+        .ui-dialog.ui-widget.pos-fixed { position: fixed!important; }
+        
+        .screen-signup .pop-ln { display:none; }
+        .screen-login .pop-sup { display:none; }
+        
+        @media (max-width:600px) { 
+            #uiDialogSignupVa7 { width:300px; }
+            .dialogSignupForm.va7 { padding:0 10px; }
+            .captcha-ctr.g-recaptcha div div { margin:auto; }
+            .captcha-ctr.g-recaptcha > div:last-child{  width:100%; overflow:hidden; }
+        }
 </style>
 
+<div id="uiDialogSignupVa7" class="generic-popup-box responsive va7 pos-fixed" style="display:none;" role="dialog">
+    <div class="top-header"><span class="close-button" onclick="$(this).parents('.generic-popup-box').dialog('close');"><i class="x"></i></span></div>
+    <div class="content">
 
-<div id="uiDialogLocationCurrencyFilter" style="display: none;z-index:99999999">                
-    <div class="generic-popup-box" style="width:850px;">
-        <div class="content empty" style="padding:0;">
+        <div class="dialogSignupForm va7 screen-signup">
+                <form method="post" action="/join">    
+                    <input type="hidden" name="scr" value="dialog">
+                    <input type="hidden" name="action" value="register">
+                    <input type="hidden" name="ver" value="va6">
+                    <input type="hidden" name="success_action">
+                    <input type="hidden" name="success_return_url">
+                    
+                    <div class="signupFormFields">
+                        <div class="signupFormFieldsInner">
+                            <div class="fieldLine alft">
+                                <div class="pop-sup"><span class="labelHeader">FREE SIGN UP</span></div>
+                                <div class="pop-ln"><span class="labelHeader">LOGIN TO LACARTES</span></div>
+                            </div> 
+														
+                            <div class="fieldLine">
+                                <span class="fieldIcon mail-icon"></span>
+                                <input id="loginEmail" class="uiField rset mail-icon" type="text" name="email" autocomplete="off" placeholder="Enter email" value="">
+                            </div> 
+							
+                            <div class="fieldLine">
+                                <span class="fieldIcon password-icon"></span>
+                                <input id="loginPassword" class="uiField password-icon  rset" type="password" autocomplete="off" name="password" placeholder="Enter password">
+                            </div>
+																
+                            <div id="dialogPopupCaptchaFieldLine" style="display:none;text-align: left" class="fieldLine">                               
+                                <label for="loginCaptcha"><span class="l">Verification</span><input id="loginCaptcha" class="uiField" type="text" name="captcha" placeholder="Verification code"></label>
+                            </div>
+                            
+                            <div class="fieldLine pop-sup" id="gRecaptchaLine">
+                                <div class="g-recaptcha captcha-ctr" id="widgetpopupform_resp"></div>
+                            </div>
+                            
 
-            <div id="tabs">
-                <div class="top-header">
-                    <span style="top:8px;" class="close-button" onclick="$('#uiDialogLocationCurrencyFilter').dialog('close');"><i class="x">X</i></span>
-                    <ul class="uiTabLocationCurrencyFilter" style="margin-bottom:-9px;">
-                      <li><a href="#tabs-location">Location</a></li>
-                      <li><a href="#tabs-currency">Currency</a></li>
-                    </ul>
-                </div>
-                <div id="tabs-location">
-                    <div class="tab-content-panel" style="overflow-y:scroll;overflow-x:hidden;height:400px;">
-                        <div style="width:300px;margin:auto;text-align:center;margin-top:20%;">
-                            <img src="http://www.lacartes.com/images/ajax-loader.gif">
-                            <br>
-                            <span class="g b">Wait... Loading contents...</span>
-                        </div>
+                            <div class="fieldLine errorMsgLine"><span class="errorMsg"></span></div>
+
+                            <div class="fieldLine  pop-sup"><input class="ui-btn-signup uig-button btn-green pop-sup" type="button" value="Sign up" onclick="this.form.action.value='register';DialogRegister.Reset_attemptctr() ;DialogRegister.Submit(this.form)"></div>                            
+                            
+                            <div class="fieldLine  pop-ln"><input class="ui-btn-signup uig-button btn-green pop-ln" type="button" value="Log in" onclick="this.form.action.value='login';DialogRegister.Reset_attemptctr() ;DialogRegister.Login(this.form)"></div>  
+                            
+                            <div class="fieldLine">
+                                <div class="pop-sup">Already have an account? <a class="inherit" href="#login" onclick="return DialogRegister.ToggleScreenForm('login');return false;">Log in</a></div>
+                                <div class="pop-ln">                                    
+                                    <a href="/user-reset-password" class="inherit">Forgot password?</a>
+                                    <br>                                        
+                                    Don't have an account? <a href="#signup" onclick="return DialogRegister.ToggleScreenForm('signup');return false;" style="color:#0070c0;">Sign up </a>
+                                </div>
+                            </div>
+                            
+                            <div class="fieldLine">
+                                By clicking sign up you confirm you have read and agreed to our <a class="inherit" href="/legal-stuff/terms-conditions" target="_blank">terms of service</a> and <a class="inherit" href="/legal-stuff/privacy-policy" target="_blank">privacy policy</a>
+                            </div>
+                                
+                            </div>
+                            <div class="overlay-loading"><img style="position: relative;top:45%;left:45%;" src="http://www.lacartes.com/images/ajax-loader.gif"></div>                            						
                     </div>
-                </div>
-                <div id="tabs-currency">
-                    <div class="tab-content-panel">
-                        <div style="width:300px;margin:auto;padding:30px 0;text-align:center;">
-                            <img src="http://www.lacartes.com/images/ajax-loader.gif">
-                            <br>
-                            <span class="g b">Wait... Loading contents...</span>
-                        </div>
-                    </div>
-                </div>
-              </div>
-              <div class="resultFilterFooter">
-              <form id="formCLC" method="post" action="/members/loccur">
-                  <input type="hidden" name="do" value="changeLocationCurrency">                  
-                  <input type="hidden" name="cur" value="USD">
-                  <input type="hidden" name="co" value="US">
-                  <div class="clearfix pref-currency-location">
-                      <div class="float-left filter-option-box" style="padding-top:8px;"><span class="ui_btn_filter_location icon_filter_location"><span class="uiCurrentCountryLabel">United States</span> / <span class="uiCurrentCurrencyLabel">US$ US Dollar</span></span></div>
-                      <div class="float-right">
-                          <input type="submit" class="uig-button btn-green" value="Submit">
-                      </div>
-                  </div>
-              </form>        
-              </div>       
-       </div>
-    </div>
-</div> 
+                </form>
+				
+            </div>
+			            
+    </div>        
+</div>
+
+                    
+<script src="https://www.google.com/recaptcha/api.js?onload=renderWidgetCaptcha_popup&amp;render=explicit" async="" defer="">   </script> 
 
 <script type="text/javascript">
     
+    var login_attemp=0;
+    var widgetpopupform_resp;
+    reCaptchakey ='6LdcuQoTAAAAAKqlWEjWVswnacaJxaAqCV1lt6lq';
+	
+    function renderWidgetCaptcha_popup(){	
+                widgetpopupform_resp = grecaptcha.render('widgetpopupform_resp', {
+                    'sitekey' : reCaptchakey,
+                    'theme'   : 'light'
+            });
+    }
+        
     $(function() { 
         
-        $('#tabs').tabs();
-        
-        $('#uiDialogLocationCurrencyFilter').dialog( { 
-            width : 870,
-            modal : true,
+        $('#uiDialogSignupVa7').dialog( { 
+            width : 500, //500,
+            modal:true,
             autoOpen: false,
-            dialogClass : 'uiNoHeaderDialog',
-            position: { my : "center top", at : "center top+7%", of : 'body' },
-        } ) 
+            dialogClass : 'uiNoHeaderDialog pos-fixed',
+            //position: { my : "center top", at : "center top+80", of : 'body' },
+            responsive : true,
+            showTitleBar: false,
+            showCloseButton: false
+        }); 
     
-    
-        //$('.list.currencies li').find('a').click(function() { 
-        $('body').on('click', '.list.currencies li a', function(e) { 
+        $(".btnSignup").click(function(e) { 
+            
+            e.preventDefault();
+            
+            DialogRegister.ToggleScreenForm('signup');
+            $('#uiDialogSignupVa7').dialog('open');
+            
+        } );
         
-            var currencyLabel = $(this).attr('itemcurrencylabel');
-            var currencyCode = $(this).attr('itemcurrencycode');
+        $(".btnLogin").click(function(e) { 
             
-            $('.uiCurrentCurrencyLabel').text(currencyLabel);
+            e.preventDefault();
+            DialogRegister.ToggleScreenForm('login');
+            $('#uiDialogSignupVa7').dialog('open');
             
-            $('.list.currencies').find('li a.selected').removeClass('selected');
-            $(this).addClass('selected');
-            
-            $('#formCLC').find('[name="cur"]').val(currencyCode);
-        });
+        } );
         
-        //$('.list.countries li').find('a').click(function() { 
-        
-        $('body').on('click', '.list.countries li a', function(e) { 
-            var countryLabel   = $(this).attr('itemCountryLabel');
-            var countryCode    = $(this).attr('itemCountryCode');
-            
-            $('.uiCurrentCountryLabel').text(countryLabel);
-            
-            $('.list.countries').find('li a.selected').removeClass('selected');
-            $(this).addClass('selected');
-            
-            $('#formCLC').find('[name="co"]').val(countryCode);
-        });
-    
     })
-    
-    function openLocCurDialog() { 
-        $('#uiDialogLocationCurrencyFilter').dialog('open');
-        
-        var $dialog = $('#uiDialogLocationCurrencyFilter');
-        
-        if($dialog.find('.content').hasClass('empty')) { 
             
-            $.getJSON(
-                    '/members/loccur',
-                    { do : 'load' },
-                    function(o) { 
-                        $dialog.find('.content').removeClass('empty');
+    DialogRegister = { 
+        
+        ToggleScreenForm : function(scrForm) { 
+            if(scrForm == 'login') { 
+                $('.dialogSignupForm.va7').removeClass('screen-signup').addClass('screen-login');
+            }
+            else { 
+                $('.dialogSignupForm.va7').removeClass('screen-login').addClass('screen-signup');
+            }
+        },
+        
+        Submit : function(oForm) { 
+            
+            if(!isValidEmail(oForm.email.value)) { 
+                jAlert("Please enter a valid email");
+                return false;
+            }
+            
+            if(isEmpty(oForm.password.value)) { 
+                jAlert("Please enter your password");
+                return false;
+            }            
+			 
+            if(DialogRegister.Check_captcha(widgetpopupform_resp) < 1){
+                    jAlert("Please verify you are not a robot");
+                    return false;
+            } 
+			
+            $(oForm).find('.overlay-loading').show();
+            
+            $.post(
+                    $(oForm).attr('action'),
+                    $(oForm).serialize(),
+                    function(res) {                         
                         
-                        $('#tabs-location').find('.tab-content-panel').html(o.locations);
-                        $('#tabs-currency').find('.tab-content-panel').html(o.currencies);
-                    }
-            );            
+                        if(parseInt(res.error) > 0) { 
+                            login_attemp++;
+                            $(oForm).find('.overlay-loading').hide();
+                            $(oForm).find('.errorMsg').text(res.errorMsg);
+                            $(oForm).find('.errorMsgLine').show();
+                            
+                            if(res.errorCode == 3) { 
+                                //$(".fieldLine.g-recaptcha").show();
+                                $('#gRecaptchaLine').show();
+                            } else { 
+                                $('#dialogPopupCaptchaFieldLine').hide();
+                            }
+                            
+                            if(res.error == 2) document.location.href = res.redirectUrl;
+                            
+                        } else { 						
+							 
+                            //$(".popuploginform_storage").html($(oForm).find('.signupFormFieldsInner').html() );						
+                            
+                            $(oForm).find('.overlay-loading').hide();
+                            $(oForm).find('.signupFormFieldsInner').html(res.form_contents);							
+                            
+                            //$(".pop-sup.p-xtra").hide();
+                            //$(".signupFormFields.va2").css("padding-bottom",'40px');
+                        }
+                    },
+                    'json'
+                );        
+        },
+        
+        RegisterUpdate : function(oForm) {             
+            if(isEmpty(oForm.full_name.value)) { 
+                jAlert("Please enter your name");
+                return false;
+            }
+            
+            $(oForm).find('.overlay-loading').show();
+            
+            $.post(
+                    "/ajax_utils/users/update_user_info.php",
+                    $(oForm).serialize(),
+                    function(res) {                         
+                        
+                        if(parseInt(res.error) > 0) { 
+                            
+                            $(oForm).find('.overlay-loading').hide();
+                            $(oForm).find('.errorMsg').text(res.errorMsg);
+                            $(oForm).find('.errorMsgLine').show();
+                            
+                            if(res.error == 2) document.location.href = res.redirectUrl;
+                            
+                        } else { 
+                            //document.location.href = res.redirectUrl;
+                            document.location.reload();
+                        }
+                    },
+                    'json'
+                );        
+        },
+        
+        Login  : function(oForm) {
+            
+            if(!isValidEmail(oForm.email.value)) { 
+                jAlert("Please enter a valid email");
+				oForm.email.focus();
+                return false;
+            }
+            
+            if(isEmpty(oForm.password.value)) { 
+                jAlert("Please enter your password");
+				oForm.password.focus();
+                return false;
+            }
+			
+            if(login_attemp>2){
+                
+                if(DialogRegister.Check_captcha(widgetpopupform_resp) < 1){
+                        jAlert("Please verify you are not a robot"); 
+                        return false;
+                } 
+            }
+            
+            $(oForm).find('.errorMsgLine').hide();
+            $(oForm).find('.errorMsg').text('');
+            
+            $(oForm).find('.overlay-loading').show();
+            
+			
+            $.post(
+                    $(oForm).attr('action'),
+                    $(oForm).serialize(),
+                    function(res) {                         
+                        
+                        if(parseInt(res.error) > 0) {
+                            
+                            login_attemp++;
+							
+                            $(oForm).find('.overlay-loading').hide();
+                            $(oForm).find('.errorMsg').text(res.errorMsg);
+                            $(oForm).find('.errorMsgLine').show();
+                            
+                            if(res.errorCode == 3) { 
+                                /*$('#dialogPopupCaptchaFieldLine').show();*/
+                                $('#gRecaptchaLine').show();
+                            } else { 
+                                $('#dialogPopupCaptchaFieldLine').hide();
+                            }
+                            
+                            if(login_attemp>2){								
+                                    a=setTimeout(function(){									
+                                        //$('.g-recaptcha').show();
+                                        $('#gRecaptchaLine').show();
+                                    },300);								
+                            }
+							
+                            if(res.error == 2) document.location.href = res.redirectUrl;
+                            
+                        } else { 
+                            
+                            if(oForm.success_action.value == 'form_cart_submit') {
+                                $('#formCart').submit();
+                            } else {
+                                document.location.reload();
+                            }
+                        }
+                    },
+                    'json'
+                );
+        },
+        
+        Open :  function() { 
+            $('#uiDialogSignupVa7').dialog('open');
+        },
+		  
+        Resetre_captcha :function(widget){
+                grecaptcha.reset(widget);
+        },
+
+        Reset_attemptctr :function(){					 
+        },
+		
+        Check_captcha :function(widget){
+                var veryfy=jQuery.trim( grecaptcha.getResponse(widget)  );
+
+                return veryfy.length ;			
         }
     }
+    
+</script>        
+   
+<script src="http://www.lacartes.com/public/libs/jalerts/jquery.alerts-va2.js" type="text/javascript"></script>
+<script src="http://www.lacartes.com/public/libs/jui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://www.lacartes.com/include/js/ui-dropdown-widget-va4.js" type="text/javascript"></script>
+<script type="text/javascript" src="/include/js/jquery_ui/jquery.dialogOptions.js?v=va2"></script>
 
-</script>                       
+  
+
+
+ 
+
+    
+<script type="text/javascript">
+    $(function() { 
+                                
+        $('.navMenus').find('li.hasSubmenu').hover(function() { 
+              var $subNavMenu = $(this).find('.subNavMenus');              
+              if($subNavMenu.hasClass('empty')) {                  
+                 var menuItem  = $(this).attr('menuItem'); 
+                 var menuTab   = $(this).parents('.navMenus').attr('menuTab');
+                 var listType  = $(this).parents('.navMenus').attr('list');
+                 
+                 $.get(
+                         '/ajax_utils/header-lazy-loading.php',
+                         { 'do' : 'load_tab_menu', item : menuItem, tab : menuTab, list : listType },
+                         function(o) { 
+                            $subNavMenu.html(o);
+                            $subNavMenu.removeClass('empty');
+                         }    
+                    );                                  
+              }
+        }); 
+		
+        $('.mobileControlMenu').click(function() { 
+            
+            var $this = $(this);
+            
+            if($('.mobileControlSearch').hasClass('active')) { 
+                $('#headerQuickSearchMobileBox').slideUp('fast', function() { 
+                    $('.mobileControlSearch').removeClass('active');
+                } );
+            }
+            
+            if($this.hasClass('active')) {
+                $('#navigation').slideUp('fast', function() { 
+                    $this.removeClass('active');
+                } );
+            } else { 
+                $('#navigation').slideDown('fast', function() { 
+                    $this.addClass('active');
+                } );
+            }
+                        
+                        
+        });
+        
+        $('.mobileControlSearch').click(function() { 
+            var $this = $(this);
+            
+            if($('.mobileControlMenu').hasClass('active')) { 
+                $('#navigation').slideUp('fast', function() { 
+                    $('.mobileControlMenu').removeClass('active');
+                } );
+            }
+            
+            if($this.hasClass('active')) {
+                $('#headerQuickSearchMobileBox').slideUp('fast', function() { 
+                    $this.removeClass('active');
+                } );
+            } else { 
+                $('#headerQuickSearchMobileBox').slideDown('fast', function() { 
+                    $this.addClass('active');
+                } );
+            }
+            
+        });
+        
+        
+        // footer currency/country selection
+        
+        $('.prefCurrentLocation.ui-dropdown-widget .context-menu-items .item').find('a').click(function() { 
+                
+                var $this = $(this);
+                
+                var itemField = $this.parents('.context-menu-items').attr('itemField');
+                var itemValue = $this.attr('itemId');
+                var itemLabel = $this.attr('itemLabel');
+                
+                $this.parents('.prefCurrentLocation.ui-dropdown-widget').find('.dropdown-control-text').text(itemLabel);
+                
+                $.post(
+                    "/members/loccur",
+                    { 'do' : 'changeLocationCurrency', xhrUpdate : 1, field : itemField, value : itemValue },
+                    function() { window.location.reload(); }
+                )
+                
+        } );
+        
+    })
+    
+                
+            
+    $(function() { 
+        
+        $('a.jumpTop').bind('click',function(event){
+            var $anchor = $(this);
+
+            $('html, body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top
+            }, 500,'easeInOutExpo');
+            
+            event.preventDefault();
+        });
+        
+        // jump top visiblity when scrolling
+        $(window).scroll(function(e){ // scroll event
+            var windowTop = $(window).scrollTop(); // returns number 
+
+            if (windowTop >= 100){                     
+                $('a.jumpTop').addClass('visible');
+            } else {
+                $('a.jumpTop').removeClass('visible');
+            }
+            
+            if( $('#mobileFooterStickyAd').length > 0 ) {
+                
+                if(windowTop + $(window).height() >= $(document).height() - 50 ) {
+                    $('#mobileFooterStickyAd').css({ 'position' : 'static' }); 
+                } else { 
+                    $('#mobileFooterStickyAd').css({ 'position' : 'fixed' }); 
+                }
+            }
+
+        });
+    })
+    
+    
+    Comment = new function() { 
+        var _self = this;
+        
+        this.Post = function(opts, btn) { 
+            var $post_block = $(btn).parents('.member-comment-post');
+            var $story  = $post_block.find('.text.story');
+
+            if(isEmpty($story.val())) return false;
+
+            opts.story = $story.val();
+            opts.action = 'post';
+
+            if(!$post_block.hasClass('no-hide')) {
+                $post_block.fadeOut(); // close the box immediately
+            }
+            
+            $(btn).attr('disabled');
+            $story.attr('disabled');
+
+            $.ajax( {
+                url  : '/members/comments_va2',
+                type : 'POST',
+                dataType : 'json',
+                data : opts,
+                success : function(response) {
+
+                    $(btn).removeAttr('disabled');
+                    $story.removeAttr('disabled');
+                    $story.val('');
+
+                    if(response && response.error) {
+                        jAlert(response.error);
+                        return;
+                    } else if (response.block) {
+                        var $context = $(btn).parents('.comment-context');                
+
+                        $context.find('.member-comment-count').first().text(response.count);
+                        $(response.block).hide().appendTo($context.find('.comment-feeds')).slideDown();
+                        
+                    }
+                }
+            } );
+        }
+		
+		this.Post2 = function(opts, btn) {
+            var $post_block = $(btn).parents('.member-comment-post');
+            var $story  = $post_block.find('.text.story');
+
+            if(isEmpty($story.val())) return false;
+
+            opts.story = $story.val();
+            opts.action = 'comment';
+			var $reply = opts.reply;
+			var $entity = opts.id;
+
+            if(!$post_block.hasClass('no-hide')) {
+                $post_block.fadeOut(); // close the box immediately
+            }
+            
+            $(btn).attr('disabled');
+            $story.attr('disabled');
+
+            $.ajax( {
+                url  : '/members/comments_va2',
+                type : 'POST',
+                dataType : 'json',
+                data : opts,
+                success : function(response) {
+
+                    $(btn).removeAttr('disabled');
+                    $story.removeAttr('disabled');
+                    $story.val('');
+
+                    if(response && response.error) {
+                        jAlert(response.error);
+                        return;
+                    } else if (response.block) {
+						var $context = $(btn).parents('.comment-context');                
+						if($reply == 1) {
+							$(response.block).hide().appendTo('#reply-block-'+$entity).slideDown();
+						} else {
+							$context.find('.member-comment-count').first().text('('+response.count+')');
+							if(response.count == 1) {
+								$context.find('.review-comment-title').first().html('<div class="review-count-title">'+response.count+' COMMENT</div>');
+							} else {
+								$context.find('.review-comment-title').first().html('<div class="review-count-title">'+response.count+' COMMENTS</div>');
+							}
+							$(response.block).hide().appendTo($context.find('.comment-feeds')).slideDown();
+						}
+                        
+                    }
+                }
+            } );
+        }
+        
+        this.Delete = function(id, btn) { 
+            
+            var $context = $(btn).parents('.comment-entry');
+            $context.fadeOut();
+            $.getJSON(
+                "/members/comments_va2",
+                "action=delete&id="+id,
+                function(response) {
+
+                    if(response.count)
+                        $context.parents('.comment-context').find('.member-comment-count').first().text(response.count);
+                        $context.remove();
+                }
+            );
+        
+        }
+		
+		this.Delete2 = function(id, btn) { 
+            
+            var $context = $(btn).parents('.comment-entry');
+			var $context2 = $(btn).parents('.comment-context');
+            $context.fadeOut();
+            $.getJSON(
+                "/members/comments_va2",
+                "action=delete&id="+id,
+                function(response) {
+					$context.remove();
+					var numItems = $context2.find('.comment-panel').length;
+
+					if(numItems > 0) {
+						$context2.find('.member-comment-count').first().text('('+numItems+')');
+						if(numItems == 1) {
+							$context2.find('.review-comment-title').first().html('<div class="review-count-title">'+numItems+' COMMENT</div>');
+						} else {
+							$context2.find('.review-comment-title').first().html('<div class="review-count-title">'+numItems+' COMMENT</div>');
+						}
+					} else {
+						$context2.find('.member-comment-count').first().text('');
+						$context2.find('.review-comment-title').html('');
+					}
+                }
+            );
+        
+        }
+		
+		this.DeleteReview = function(id, btn) { 
+            $.getJSON(
+                "/business/reviews",
+                "action=delete_review&id="+id,
+                function(response) {
+					if(response.success) location.reload();
+                }
+            );
+        
+        }
+    }
+    
+</script>
+
+
 
 <script type="text/javascript">
     var DEFER = { };
-        DEFER.srcs = ["http:\/\/www.lacartes.com\/include\/js\/member-post.js","http:\/\/www.lacartes.com\/include\/js\/search-suggestion-va9.js","http:\/\/www.lacartes.com\/include\/js\/privacy-opts.js","http:\/\/www.lacartes.com\/include\/js\/user_share.js"];
+        DEFER.srcs = ["http:\/\/www.lacartes.com\/include\/js\/member-post.js","http:\/\/www.lacartes.com\/include\/js\/search-suggestion-va9.js","http:\/\/www.lacartes.com\/include\/js\/privacy-opts.js","http:\/\/www.lacartes.com\/include\/js\/user_share_va602.js"];
     
     $(function() {
         for(var i in DEFER.srcs) {
@@ -525,5 +1193,7 @@ Links might be discovered on our site that belongs to third parties. Any third p
     
 </script>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55d9c7d60af77112" async="async"></script>
+    
 
 </body></html>
