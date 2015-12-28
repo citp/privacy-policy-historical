@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fapality.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628003759id_/http%3A//fapality.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapality.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228131827id_/http%3A//fapality.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy policy
 
 **Updated Jun 01, 2015**
 
