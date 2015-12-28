@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607001832id_/http%3A//en-corporate.canada.travel/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228071257id_/http%3A//en.destinationcanada.com/privacy-policy-0) for the most accurate reproduction.*
 
-# Privacy Policy | Canadian Tourism Commission
+# Privacy Policy | www.DestinationCanada.com
 
 **1\. INTRODUCTION**
 
