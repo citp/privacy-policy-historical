@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leadloans.co.uk privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425082910id_/http%3A//leadloans.co.uk/index.php/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadloans.co.uk privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228140201id_/http%3A//leadloans.co.uk/index.php/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Pay Day Loans Lender In UK
 
-##  [ Privacy Policy](http://leadloans.co.uk/index.php/privacy-policy-1)
+##  [ Privacy Policy](http://www.leadloans.co.uk/index.php/privacy-policy-1)
 
 In this day and age it's extremely important for companies to keep tight control of their clients personal information. We are a registered data controller under the Data Protection Act and, as such, are duty bound to keep your data safe and secure at all times.
 
