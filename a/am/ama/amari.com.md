@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amari.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180641id_/http%3A//www.amari.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amari.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228124534id_/http%3A//www.amari.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement for Amari.com. Site security, information collected, cookies etc. Amari Hotels and Resorts
 
-Amari, the owner of [www.amari.com](http://www.amari.com/) is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing, please [send an enquiry](https://web.archive.org/enquiry.aspx)
+Amari, the owner of [www.amari.com](http://www.amari.com/) is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing, [please send an enquiry](https://web.archive.org/enquiry.aspx)
 
 ### Information collected
 
@@ -12,7 +12,7 @@ We may collect additional information in connection with your participation in a
 
 ### Use of your information and your preferences
 
-We will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about Amari Hotels and Resorts and services or those of other carefully selected companies, which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes.
+We will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about Amari Hotels and Resorts and services or those of other carefully selected companies, which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes. 
 
 We like to hear your views to help us improve our service. From time to time, we may contact you by post, email, telephone or fax to ask your opinions. If you do not wish to be contacted for this purpose, please “uncheck” the box, when you fill out your details on the member registration form.
 
@@ -34,17 +34,12 @@ Most browsers allow you to turn off the cookie function. If you want to know how
 
 Third party vendors, including Google, show our ads on sites on the internet and serve these ads based on a user’s prior visits to our website.
 
-We also use analytic data to inform and optimize our ad campaigns based on your prior visits to our website. You may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/ads/preferences/plugin/ "Google advertising opt-out page").
+We also use analytic data to inform and optimize our ad campaigns based on your prior visits to our website. You may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/settings/ads/plugin).
 
-Additionally, you may opt out of our use of Google Analytics by visiting the Google Analytics Opt-out page. 
+Additionally, you may opt out of our use of Google Analytics by visiting the Google Analytics Opt-out page.
 
-For complete information on Google’s privacy policy, please visit this [page](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "Information on Google").
+For complete information on Google’s privacy policy, please visit this [page](http://www.google.com/policies/privacy/).
 
-### Access rights
+### Access rights 
 
 You have a right to access the personal data that is held about you. To obtain a copy of the personal information amari.com holds about you, please write to us at the following address:
-
-**ONYX Hospitality Group**  
-847 Petchburi Road, Pratunam, Rajthevi, Bangkok 10400, Thailand
-
-Alternatively, please [send an enquiry](https://web.archive.org/enquiry.aspx)
