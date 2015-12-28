@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503180253id_/http%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228174536id_/http%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha Bank
 
 **  
 On-Line Privacy Policy**
 
-Mutual of Omaha Bank (“Mutual of Omaha”) respects the privacy of visitors of mutualofomahabank.com, mutualofomahaebank.com and all sites linking to this On-Line Privacy Policy (“Policy”) (collectively “sites”). This Policy explains how Mutual of Omaha collects, uses and shares information about you from our sites and the choices that you can make about the way your information is collected, used and shared. Mutual of Omaha encourages you to read this Policy and those of all web sites you visit. 
+Mutual of Omaha Bank (“Mutual of Omaha”) respects the privacy of visitors of mutualofomahabank.com, mutualofomahaebank.com and all sites linking to this On-Line Privacy Policy (“Policy”) (collectively “sites”). This Policy explains how Mutual of Omaha collects, uses and shares information about you from our sites and the choices that you can make about the way your information is collected, used and shared. Mutual of Omaha encourages you to read this Policy and those of all web sites you visit.In addition to this Policy, Mutual of Omaha’s written Consumer Privacy Notice further describes how we handle your personal information (defined below) shared with us, such as when you apply for or purchase our services. If you would like to view this Privacy Notice, please click on the link below: 
 
-In addition to this Policy, Mutual of Omaha’s written Consumer Privacy Notice further describes how we handle your personal information (defined below) shared with us, such as when you apply for or purchase our services. If you would like to view this Privacy Notice, please click on the link below: 
-
-  * [Consumer Privacy Notice ](https://web.archive.org/~/media/files/master%20privacy%20notice_%2010-23-14.pdf)
+  * [](https://web.archive.org/~/media/files/master%20privacy%20notice_%2010-23-14.pdf)[](https://web.archive.org/~/media/files/master%20privacy%20notice%20_10-23-14.htm)[Consumer Privacy Notice ](https://web.archive.org/~/media/files/master%20privacy%20notice_%2010-23-14.pdf)
 
 
 
@@ -25,7 +23,7 @@ There are two types of information collected on our sites: Personally Identifiab
 
 ####  Personally Identifiable Information 
 
-####  Personally Identifiable Information (“personal information”) is information that identifies you as an individual, such as your name, mailing address, email address, age range, etc. Personal information is only obtained when you voluntarily provide the information to us. Mutual of Omaha does not, nor do we permit any other party, to collect personal information from our sites’ visitors over time and across third party web sites. 
+#### Personally Identifiable Information (“personal information”) is information that identifies you as an individual, such as your name, mailing address, email address, age range, etc. Personal information is only obtained when you voluntarily provide the information to us. Mutual of Omaha does not, nor do we permit any other party, to collect personal information from our sites’ visitors over time and across third party web sites. 
 
 ####  Non-Personally Identifiable Information 
 
@@ -39,7 +37,7 @@ Mutual of Omaha uses personal information it collects on our sites to better und
 
 Mutual of Omaha collects on-line data when you provide information to us or through the use of web technology (an example would be form submissions). 
 
-####  Information Collected Through You 
+####  Information Collected Through You
 
 If you choose to use certain services on our sites, we may require you to provide contact and identity information. Where possible, we indicate which fields are required and which fields are optional. If you choose not to use a particular service or feature, you do not have to provide the requested contact or identity information. 
 
@@ -63,7 +61,7 @@ We may use embedded pixel technologies on selected pages for the purposes of ide
 
 ####  Who we share personal information with
 
-In the normal course of business, we may share personal information you provide to us on our sites among Mutual of Omaha and its affiliated companies, including our insurance affiliates and with select third parties as permitted or required by law. Please see the Consumer Privacy Notice in the link above for more information on how Mutual of Omaha may share information with affiliates and third parties. 
+In the normal course of business, we may share personal information you provide to us on our sites among Mutual of Omaha and its affiliated companies, including our insurance affiliates and with select third parties as permitted or required by law. Please see the Consumer Privacy Notice in the link above for more information on how Mutual of Omaha may share information with affiliates and third parties.
 
 **Disclosure of personal information for legal purposes and protection of Mutual of Omaha and others:**
 
@@ -93,9 +91,7 @@ If for some reason you believe that our sites have not adhered to this Policy, p
 
 **Changes to the Policy**
 
-Mutual of Omaha reserves the right to modify or amend this Policy at any time. Your continued use of our sites after we post any changes to this Policy on our sites will constitute your acceptance of those changes, so please check the Policy periodically for updates. 
-
-The latest revision to this Policy occurred in July 2014. Changes to this Policy will not affect our use of previously provided personal information. 
+Mutual of Omaha reserves the right to modify or amend this Policy at any time. Your continued use of our sites after we post any changes to this Policy on our sites will constitute your acceptance of those changes, so please check the Policy periodically for updates.The latest revision to this Policy occurred in July 2014. Changes to this Policy will not affect our use of previously provided personal information. 
 
 **Contacting us**
 
