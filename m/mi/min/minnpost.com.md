@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the minnpost.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630103433id_/http%3A//www.minnpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minnpost.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228234456id_/https%3A//www.minnpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MinnPost
 
- It is important to MinnPost.com that visitors to our site understand what information we gather about them, how we use it, and how we work to protect it.  By using our website, and/or signing up for services such as membership or our newsletter, you consent to information practices outlined in our [Terms of Use](https://web.archive.org/web/20150630103433id_/http%3A//www.minnpost.com/terms-of-use) and Privacy Policy. ****
+ It is important to MinnPost.com that visitors to our site understand what information we gather about them, how we use it, and how we work to protect it.  By using our website, and/or signing up for services such as membership or our newsletter, you consent to information practices outlined in our [Terms of Use](https://web.archive.org/web/20151228234456id_/https%3A//www.minnpost.com/terms-of-use) and Privacy Policy. ****
 
 ####  **Information Collection**
 
