@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622073905id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228182507id_/https%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Smartsheet
+# Smartsheet Privacy Policy | Smartsheet
 
 Updated policy: Effective on December 5, 2014
 
@@ -10,7 +10,7 @@ This privacy statement describes how Smartsheet.com, Inc. (“Smartsheet”) col
 
 Smartsheet, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.smartsheet.com and does not cover information that may be collected through our mobile applications or mobile sites.
 
-If you have questions or concerns regarding this policy, please contact us [here](https://web.archive.org/contact). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have questions or concerns regarding this policy, please contact us [here](https://web.archive.org/contact#other). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## Collection and Use of Personal Information
 
@@ -48,23 +48,23 @@ We are based in the United States and the information we collect is governed by 
 
 ## Our Service
 
-We provide a work collaboration service from our Web Properties (the “Service”) that permits users to share information with each other by creating, uploading, and attaching information to shared "sheets" stored and accessed through our Web Properties. Our use and distribution of information that you submit or upload to these shared sheets, including any personal information you submit to sheets, is described in our [User Agreement](https://web.archive.org/sites/default/files/Smartsheet%20User%20Agreement%20%28November%2016%202013%29.pdf) (or other subscription agreement you entered into with us, if any). This Policy does not apply to personal information that you uploaded to sheets.
+We provide a work collaboration service from our Web Properties (the “Service”) that permits users to share information with each other by creating, uploading, and attaching information to shared "sheets" stored and accessed through our Web Properties. Our use and distribution of information that you submit or upload to these shared sheets, including any personal information you submit to sheets, is described in our [User Agreement](https://web.archive.org/user-agreement) (or other subscription agreement you entered into with us, if any). This Policy does not apply to personal information that you uploaded to sheets.
 
 ## Choice/Opt-Out for Communications from Us
 
-Customers can opt out of being contacted by us by following the opt-out instructions located in the e-mails we may send you, by changing your privacy settings in the Service, or by [contacting us](https://web.archive.org/contact) at any time.
+Customers can opt out of being contacted by us by following the opt-out instructions located in the e-mails we may send you, by changing your privacy settings in the Service, or by [contacting us](https://web.archive.org/contact#other) at any time.
 
 However, Smartsheet reserves the right to send its existing customers certain communications relating to the Service as part of our commercial relationship with you, such as service announcements and administrative messages, without offering the opportunity to opt out of receiving them. If you do not wish to receive them, you have the option to cancel your account by logging in to your Smartsheet account, accessing the Account Admin menu, and clicking the Cancel Account link.
 
 ## Information Sharing
 
-Except as provided for in our [User Agreement](https://web.archive.org/files/UserAgreement.pdf) (or other subscription agreement you entered into with us, if any) and this Policy, we do not disclose your personal information to third parties without your consent.
+Except as provided for in our [User Agreement](https://web.archive.org/user-agreement) (or other subscription agreement you entered into with us, if any) and this Policy, we do not disclose your personal information to third parties without your consent.
 
 We do not sell any of your personal information to third parties or allow third parties to use it for their marketing purposes. Smartsheet uses third-party intermediaries to manage payment processing. These intermediaries are solely links in the distribution chain, and are not permitted to store, retain, or use the information provided except for purposes of payment processing.
 
 We may share your information with third party vendors, consultants and other service providers who are working on our behalf and require access to your information to carry out that work, such as to process billing, provide customer support, etc. For example, we may use third party data centers to host our Web Properties or to store documents uploaded to our application. We obtain appropriate contractual and technical protections to limit these service providers’ use and disclosure of your personal information.
 
-We release personal information if we believe we must do so to comply with the law, to enforce our [User Agreement](https://web.archive.org/files/UserAgreement.pdf) (or other subscription agreement you entered into with us, if any), or to protect the rights and safety of Smartsheet, our customers, and our individual users.
+We release personal information if we believe we must do so to comply with the law, to enforce our [User Agreement](https://web.archive.org/user-agreement) (or other subscription agreement you entered into with us, if any), or to protect the rights and safety of Smartsheet, our customers, and our individual users.
 
 If Smartsheet is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a prominent notice on our Web site of any change in ownership that affects your personal information, as well as any choices you may have regarding your personal information.
 
@@ -80,13 +80,13 @@ We use Google AdWords and other trusted partners to manage our advertising in or
 
 ## Additional Policy Information
 
-**Blogs/Community**
+ **Blogs/Community**
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@smartsheet.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Data Retention**
 
-We will retain your personal information that you provide to us for as long as needed to provide you services or as described in our [User Agreement](https://web.archive.org/files/UserAgreement.pdf) (or other subscription agreement you entered into with us, if any). We will retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your personal information that you provide to us for as long as needed to provide you services or as described in our [User Agreement](https://web.archive.org/user-agreement) (or other subscription agreement you entered into with us, if any). We will retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Import Contacts**
 
@@ -102,7 +102,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 **Security**
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL/TLS). We make every reasonable effort to protect your personal information, but no company, including Smartsheet, can guarantee the absolute security of Internet communications. If you have any questions please refer to our [Security Policy](https://web.archive.org/security), or you can contact us at support@smartsheet.com.
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL/TLS). We make every reasonable effort to protect your personal information, but no company, including Smartsheet, can guarantee the absolute security of Internet communications. If you have any questions please refer to our [Security Policy](https://web.archive.org/security), or you can contact us at [support@smartsheet.com](mailto:support@smartsheet.com).
 
 **Single Sign-On (SSO)**
 
@@ -126,7 +126,7 @@ We Self-Certify Compliance With:
 [ ](http://www.export.gov/safeharbor/ "European Safe Harbor certification")  
 [ ](https://privacy.truste.com/privacy-seal/Smartsheet,-Inc-/validation?rid=fc25c0bf-a7a4-425b-a6c0-77cb0b376cf2 "Validate TRUSTe privacy certification")
 
-Smartsheet complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Smartsheet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Smartsheet’s certification, please visit <http://www.export.gov/safeharbor/>
+Smartsheet complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Smartsheet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Smartsheet’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Notification of Privacy Statement Changes
 
@@ -134,4 +134,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Information
 
-Questions regarding our Policy or the practices concerning our Web Properties should be directed [here](https://web.archive.org/contact) as a security question, or by regular mail addressed to Smartsheet.com, Inc., Attn: Privacy Administrator, 10500 NE 8th Street, Suite 2000, Bellevue WA 98004.
+Questions regarding our Policy or the practices concerning our Web Properties should be directed [here](https://web.archive.org/contact#other) as a security question, or by regular mail addressed to Smartsheet.com, Inc., Attn: Privacy Administrator, 10500 NE 8th Street, Suite 2000, Bellevue WA 98004.
