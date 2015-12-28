@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotiaimmigration.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175311id_/http%3A//novascotia.ca/govt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotiaimmigration.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228203559id_/http%3A//novascotia.ca/govt/privacy) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement | novascotia.ca
 
