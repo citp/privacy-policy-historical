@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affilorama.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622053657id_/http%3A//www.affilorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affilorama.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175324id_/http%3A//www.affilorama.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Affilorama
 
 #### Overview
 
-_Last updated: 26 April 2014_
+_Last updated: 26 July 2015_
 
 We respect the privacy of our customers and users. This privacy policy is designed to help you understand what personal information we gather through your use of our website, software, and services and to help you understand what Affilorama does with that information. Please read our privacy policy and our [Terms of Use](https://web.archive.org/terms). In summary, our privacy policy lets you know that:
 
