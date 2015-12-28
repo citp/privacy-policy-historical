@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319190507id_/http%3A//www.cvisiontech.com/legal/general/privacy.html%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228223552id_/http%3A//www.cvisiontech.com/legal/general/privacy.html%3Flang%3Deng) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - CVISION Technologies
 
-This is the web site of **CVISION Technologies**. 
+This is the web site of **CVISION Technologies**.
 
 Our postal address is   
 **118-35 Queens Blvd. 14th Floor  
 Forest Hills, NY 11375**
 
 We can be reached via e-mail at [info@cvisiontech.com](mailto:info@cvisiontech.com)  
-or you can reach us by telephone at 718-793-5572 
+or you can reach us by telephone at 718-793-5572
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -31,14 +31,12 @@ Please provide us with your name and phone number. We will be sure your name is 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
 Upon request we provide site visitors with access to a description of information that we maintain about them.
 
-Consumers can have this information corrected by calling us at the above telephone number. 
+Consumers can have this information corrected by calling us at the above telephone number.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-Generated in 0.54736 Seconds
