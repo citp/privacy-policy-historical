@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexway.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531064103id_/http%3A//corporate.nexway.com%3Fpage_id%3D1014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexway.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228222217id_/http%3A//corporate.nexway.com/legal-notice-privacy) for the most accurate reproduction.*
 
 # Nexway | Legal notice & Privacy
 
