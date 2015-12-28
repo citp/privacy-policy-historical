@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperium.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509054758id_/http%3A//www.adperium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperium.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228120534id_/http%3A//www.adperium.com/privacy) for the most accurate reproduction.*
 
 # Adperium Privacy Policy
 
