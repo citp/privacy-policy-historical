@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000032id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229005144id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Verio Privacy Policy
 
 ## Privacy Policy for Customer and Visitor Information
 
 * * *
+
+**As of May 26, 2015, _Endurance International Group_ acquired the non-Cloud(n) retail Verio business and consenting viaVerio Channel Partners and assumed the privacy policy for these accounts. If you are a non-Cloud(n) retail Verio customer or a viaVerio Channel Partner, look for more information in your inbox over the next few months. If you have any questions, please email us at [transition@verio-inc.com](mailto:transition@verio-inc.com).**
 
 Verio, a business unit of NTT America, Inc.  
 Effective: April 1, 2015
