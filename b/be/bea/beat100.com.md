@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beat100.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616031230id_/http%3A//www.beat100.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beat100.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228030805id_/http%3A//www.beat100.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Network Privacy Policy | BEAT100.com
 
@@ -38,7 +38,7 @@ _Other things to Remember   _
 
 ·         Some activities you have undertaken will show up on your friends’ pages and other pages you may visit.
 
-·         If other users tag you in multimedia, this tag can be removed. You van alos choose who sees when you have been tagged, etc in **privacy settings** (LINK)
+·         If other users tag you in multimedia, this tag can be removed. You can also choose who sees when you have been tagged, etc in **privacy settings** (LINK)
 
 ·         Some of your information may be copied or distributed by other users despite your account being deleted.
 
@@ -60,7 +60,7 @@ _Other things to Remember   _
 
 5.2 From time to time, Beat 100 may contact you with service related information. You can decide to not receive these emails in **profile settings.**
 
-5.3We allow your friends to see your information to make it easier for them to connect with you.
+5.3 We allow your friends to see your information to make it easier for them to connect with you.
 
 6) _How we share your Information_
 
