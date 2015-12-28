@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigaom.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013743id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaom.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228054237id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gigaom
 
@@ -8,7 +8,7 @@ By visiting Gigaom, viewing our content or research, viewing any of our program
 
 ### What Does This Privacy Policy Cover?
 
-This Privacy Policy is part of Gigaom’s [Terms of Service](https://gigaom.com/terms-and-conditions/) and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by Gigaom, including information obtained when you access or log in to Gigaom, and/or register for content or events provided by Gigaom.
+This Privacy Policy is part of Gigaom’s [Terms of Service](http://gigaom.com/terms-and-conditions/) and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by Gigaom, including information obtained when you access or log in to Gigaom, and/or register for content or events provided by Gigaom.
 
 This Privacy Policy does not apply to the practices of companies that Gigaom does not own or control, or to individuals whom Gigaom does not employ or manage, including any of the third parties to which Gigaom may disclose user information as set forth in this Policy.
 
@@ -201,8 +201,8 @@ Gigaom
 ATTN: Privacy
 
 Knowingly Corporation  
-538 W. 21st Street #54600  
-Houston, TX 77008
+401 Congress Ave, Suite 1540  
+Austin, TX 78701
 
 ### Effective Date of this Privacy Policy
 
