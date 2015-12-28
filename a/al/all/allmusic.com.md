@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507114024id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228125452id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All Media Network Property | AllMusic
+# Privacy Policy | AllMusic
 
 Review All Media Network, LLC's ("AMN") legal and privacy notices for details on how we collect, use and protect your personal information on the website. 
 
