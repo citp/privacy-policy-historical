@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plndr.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630015027id_/http%3A//www.plndr.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plndr.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228173635id_/http%3A//www.plndr.com/%23privacy) for the most accurate reproduction.*
 
 # Plndr - Clothing. Accessories. Plunder.
 
@@ -101,12 +101,6 @@ In the event PLNDR goes through a business transition, such as a merger, acquisi
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you by email and/ or by means of a notice on the PLNDR home page.
 
 If you have any questions or suggestions regarding this Privacy Policy or any PLNDR product or service, please contact us at:
-
-Toll Free: 1-866-937-5637
-
-Outside USA: 1-617-695-1778
-
-Fax: 1-617-542-1072 
 
 Email: [questions@plndr.com](mailto:questions@plndr.com)
 
