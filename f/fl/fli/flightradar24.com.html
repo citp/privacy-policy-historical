@@ -1,0 +1,1112 @@
+<!--The following is the downloaded HTML source of the flightradar24.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228050531id_/http%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4EVlVSGwsBVFVUBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+		<meta name="keywords" content="flightradar, flight, radar, plane, tracker, spotter, live, coverage, airplane, air, traffic, real, time">
+		<meta name="description" content="Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features!">
+		<meta http-equiv="author" content="Flightradar24">
+		<meta http-equiv="content-language" content="en">
+
+		<meta name="apple-itunes-app" content="app-id=382069612">
+		<meta name="google-play-app" content="app-id=com.flightradar24pro">
+
+		<meta name="twitter:card" content="app">
+		<meta name="twitter:site" content="@flightradar24">
+		<meta name="twitter:description" content="Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features!">
+		<meta name="twitter:app:name:iphone" content="Flightradar24">
+		<meta name="twitter:app:id:iphone" content="382069612">
+		<meta name="twitter:app:name:ipad" content="Flightradar24">
+		<meta name="twitter:app:id:ipad" content="382069612">
+		<meta name="twitter:app:name:googleplay" content="Flightradar24">
+		<meta name="twitter:app:id:googleplay" content="com.flightradar24pro">
+
+
+		<meta name="twitter:app:url:ipad" content="fr24://privacy-policy">
+		<meta name="twitter:app:url:iphone" content="fr24://privacy-policy">
+		<meta name="twitter:app:url:googleplay" content="http://www.flightradar24.com/privacy-policy">
+
+		<meta name="viewport" content="initial-scale=1,width=device-width,user-scalable=no,maximum-scale=1.0">
+
+		<title>Privacy policy - Flightradar24.com - Live flight tracker!</title>
+
+		<link href="http://cdn.flightradar24.com/css/jquery.ui.theme.css?1450644816" rel="stylesheet">
+		<link href="http://cdn.flightradar24.com/css/jquery.ui.slider.css?1450644816" rel="stylesheet">
+		<link href="http://cdn.flightradar24.com/css/jquery.jscrollpane.css?1450644816" rel="stylesheet">
+		<link href="http://cdn.flightradar24.com/css/jquery.smartbanner.css?1450644816" rel="stylesheet">
+		<link href="http://cdn.flightradar24.com/css/screen_new.css?1450644816" rel="stylesheet" type="text/css">
+		<link rel="shortcut icon" href="http://cdn.flightradar24.com/images/favicon.png">
+		<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href="http://cdn.flightradar24.com/css/bootstrap.min.css?1450644816" media="screen" rel="stylesheet" type="text/css">
+		<link href="http://cdn.flightradar24.com/css/pages/nav-top.css?1450644816" media="screen" rel="stylesheet" type="text/css">
+
+				<script type="text/javascript" src="//maps.google.com/maps/api/js?v=3.17&amp;language=en&amp;libraries=weather,places"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+		
+		<!--[if IE]>
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/jquery.xdomainrequest.js?1450644816"></script>
+		<![endif]-->
+
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/bootstrap.min.js?1450644816"></script>
+
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/nite-overlay.js?1450644816"></script>
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/timeline.min.js?1450644816"></script>
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/tracks.js?1450644816"></script>
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/airport_page.js?1450644816"></script>
+
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+			<script src="http://cdn.flightradar24.com/js/jquery.ui.selectmenu.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/jquery.hashchange.min.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/jquery.mousewheel.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/mwheelIntent.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/jquery.jscrollpane.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/jquery.history.min.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/jquery.jsonrpc.js?1450644816"></script>
+		<script src="http://cdn.flightradar24.com/js/jquery.smartbanner.js?1450644816"></script>
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/prototypes.js?1450644816"></script>
+		<script type="text/javascript" src="http://cdn.flightradar24.com/js/Fr24/Navigation.js?1450644816"></script>
+
+					<script>
+			var static_version = '1450644816';
+			var simple_mode = false;
+			var refresh_rate = 8000;
+			var NavigationManager;
+
+			$().ready(function() {
+
+				$.smartbanner && $.smartbanner({
+					'icon': 'http://cdn.flightradar24.com/images/apps/icon_72px_android_flightradar24.png',
+					//'force': 'ios',
+					'scale': 1,
+					//'daysHidden': 0,
+					'author': 'Flightradar24 AB',
+					'title': 'Flightradar24',
+					'price': 'Available Now'
+				});
+
+			});
+
+			var g_iecompat = false;
+
+			if (/(Trident|MSIE)/.test(navigator.userAgent)) {
+				g_iecompat = "Edge";
+			}
+
+			var g_ClientInEurope = false;
+		</script>
+
+	
+	
+
+
+	</head>
+	<body id="about" class=" desktop">
+			
+<div class="bootstrap">
+	<nav id="navContainer" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="nav-container-bar">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navTopMain">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/"></a>
+				</div>
+
+				<ul class="nav navbar-nav navbar-left navbar-collapse collapse" id="navTopMain">
+
+															
+					<li class="dropdown">
+
+						<a id="navTopApps" href="/apps" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="fa fa-mobile"></span>
+							&nbsp;Apps&nbsp;
+						</a>
+
+						<ul class="dropdown-menu">
+
+														
+							<li>
+								<a id="navTopAppsApps" href="/apps" target="">
+									<span class="fa fa-mobile"></span>
+									&nbsp;&nbsp;Apps&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAppsIos" href="https://itunes.apple.com/app/flightradar24-pro/id382069612?mt=8&amp;uo=4&amp;at=10lti3" target="_blank">
+									<span class="fa fa-apple"></span>
+									&nbsp;&nbsp;iOS&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAppsAndroid" href="https://play.google.com/store/apps/details?id=com.flightradar24pro" target="_blank">
+									<span class="fa fa-android"></span>
+									&nbsp;&nbsp;Android&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAppsWindowsPhone" href="http://windowsphone.com/s?appId=6341514f-ad9d-43de-a579-34086c4180e7" target="_blank">
+									<span class="fa fa-windows"></span>
+									&nbsp;&nbsp;Windows Phone&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAppsWindowsEight" href="http://apps.microsoft.com/webpdp/app/flightradar24/78aff9eb-bd99-426c-a142-35882315222d" target="_blank">
+									<span class="fa fa-windows"></span>
+									&nbsp;&nbsp;Windows 8&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAppsMac" href="https://itunes.apple.com/app/flightradar24/id439632992?mt=12" target="_blank">
+									<span class="fa fa-apple"></span>
+									&nbsp;&nbsp;Mac&nbsp;
+								</a>
+							</li>
+
+														
+						</ul>
+					</li>
+
+																									
+					<li class="dropdown">
+
+						<a id="navTopAddCoverage" href="/increase-coverage" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="fa fa-signal"></span>
+							&nbsp;Add coverage&nbsp;
+						</a>
+
+						<ul class="dropdown-menu">
+
+														
+							<li>
+								<a id="navTopAddCoverageAddCoverage" href="/add-coverage" target="">
+									<span class="fa fa-signal"></span>
+									&nbsp;&nbsp;Add coverage&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAddCoverageSoftware" href="/apply-for-receiver" target="">
+									<span class="fa fa-inbox"></span>
+									&nbsp;&nbsp;Apply for receiver&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAddCoverageHardware" href="/share-your-data" target="">
+									<span class="fa fa-share-alt"></span>
+									&nbsp;&nbsp;Share your data&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAddCoverageHostEquipment" href="/raspberry-pi" target="">
+									<span class="fa fa-laptop"></span>
+									&nbsp;&nbsp;Raspberry Pi&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAddCoverageShareStatistics" href="/share-statistics" target="">
+									<span class="fa fa-bar-chart"></span>
+									&nbsp;&nbsp;Statistics&nbsp;
+								</a>
+							</li>
+
+														
+						</ul>
+					</li>
+
+																									
+					<li class="dropdown">
+
+						<a id="navTopDataHistory" href="/data" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="fa fa-database"></span>
+							&nbsp;Data / History&nbsp;
+						</a>
+
+						<ul class="dropdown-menu">
+
+														
+							<li>
+								<a id="navTopDataHistoryDataHistory" href="/data" target="">
+									<span class="fa fa-database"></span>
+									&nbsp;&nbsp;Data / History&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopDataHistoryAirline" href="/data/airplanes" target="">
+									<span class="fa fa-plane"></span>
+									&nbsp;&nbsp;Airline fleet&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopDataHistoryAirports" href="/data/airports" target="">
+									<span class="fa fa-map-marker"></span>
+									&nbsp;&nbsp;World airports&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopDataHistoryFlights" href="/data/flights" target="">
+									<span class="fa fa-calendar"></span>
+									&nbsp;&nbsp;Flights history&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopDataHistoryPinned" href="/data/pinned" target="">
+									<span class="fa fa-thumb-tack"></span>
+									&nbsp;&nbsp;Pinned flights&nbsp;
+								</a>
+							</li>
+
+																												
+						</ul>
+					</li>
+
+																									
+					<li class="dropdown">
+
+						<a id="navTopSocial" href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="fa fa-thumbs-o-up"></span>
+							&nbsp;Social&nbsp;
+						</a>
+
+						<ul class="dropdown-menu">
+
+														
+							<li>
+								<a id="navTopSocialBlog" href="/blog" target="">
+									<span class="fa fa-wordpress"></span>
+									&nbsp;&nbsp;Blog&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopSocialForum" href="http://forum.flightradar24.com" target="_blank">
+									<span class="fa fa-users"></span>
+									&nbsp;&nbsp;Forum&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopSocialChat" href="http://chat.flightradar24.com" target="_blank">
+									<span class="fa fa-comments-o"></span>
+									&nbsp;&nbsp;Chat&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopSocialFacebook" href="https://facebook.com/flightradar24" target="_blank">
+									<span class="fa fa-facebook"></span>
+									&nbsp;&nbsp;Facebook&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopSocialTwitter" href="https://twitter.com/flightradar24" target="_blank">
+									<span class="fa fa-twitter"></span>
+									&nbsp;&nbsp;Twitter&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopSocialGooglePlus" href="https://plus.google.com/114766975667752614326" target="_blank">
+									<span class="fa fa-google-plus"></span>
+									&nbsp;&nbsp;Google+&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopSocialInstagram" href="http://instagram.com/flightradar24" target="_blank">
+									<span class="fa fa-instagram"></span>
+									&nbsp;&nbsp;Instagram&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopSocialVk" href="https://vk.com/flightradar24_live" target="_blank">
+									<span class="fa fa-vk"></span>
+									&nbsp;&nbsp;VK&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopSocialContact" href="/contact-us" target="">
+									<span class="fa fa-envelope"></span>
+									&nbsp;&nbsp;Contact us&nbsp;
+								</a>
+							</li>
+
+														
+						</ul>
+					</li>
+
+																									
+					<li class="dropdown">
+
+						<a id="navTopPress" href="/press" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="fa fa-bullhorn"></span>
+							&nbsp;Press&nbsp;
+						</a>
+
+						<ul class="dropdown-menu">
+
+														
+							<li>
+								<a id="navTopPressPress" href="/press" target="">
+									<span class="fa fa-bullhorn"></span>
+									&nbsp;&nbsp;Press&nbsp;
+								</a>
+							</li>
+
+														
+						</ul>
+					</li>
+
+																									
+					<li class="dropdown">
+
+						<a id="navTopAbout" href="/about" class="dropdown-toggle" data-toggle="dropdown">
+							<span class="fa fa-info"></span>
+							&nbsp;About&nbsp;
+						</a>
+
+						<ul class="dropdown-menu">
+
+														
+							<li>
+								<a id="navTopAboutAbout" href="/about" target="">
+									<span class="fa fa-info"></span>
+									&nbsp;&nbsp;About&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAboutContact" href="/contact-us" target="">
+									<span class="fa fa-envelope-o"></span>
+									&nbsp;&nbsp;Contact us&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAboutHowItWorks" href="/how-it-works" target="">
+									<span class="fa fa-globe"></span>
+									&nbsp;&nbsp;How it works&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAboutFaq" href="/faq" target="">
+									<span class="fa fa-book"></span>
+									&nbsp;&nbsp;FAQ&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAboutCareers" href="/careers" target="">
+									<span class="fa fa-suitcase"></span>
+									&nbsp;&nbsp;Careers&nbsp;
+								</a>
+							</li>
+
+																					
+							<li class="divider"></li>
+
+																					
+							<li>
+								<a id="navTopAboutPrivacy" href="/privacy-policy" target="">
+									<span class="fa fa-shield"></span>
+									&nbsp;&nbsp;Privacy policy&nbsp;
+								</a>
+							</li>
+
+																					
+							<li>
+								<a id="navTopAboutTerms" href="/terms-and-conditions" target="">
+									<span class="fa fa-gavel"></span>
+									&nbsp;&nbsp;Terms and conditions&nbsp;
+								</a>
+							</li>
+
+														
+						</ul>
+					</li>
+
+															
+				</ul>
+
+
+			</div>
+
+			<ul class="nav navbar-nav navbar-right">
+
+				
+				<li id="premiumOverlay" class="dropdown noclose">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						<span class="fa fa-user"></span><span class="premium-menu-title">&nbsp;&nbsp;Premium</span> 					</a>
+					<ul id="fr24_SignInDropdown" class="dropdown-menu noclose">
+						<ul class="smooth-tab-group">
+							<li class="active">
+								<div data-toggle="tab" href="#fr24_LoginSettings" class="smooth-tab attach-bottom">
+									<div class="tab-sweep toleft"></div>
+									<div class="tab-content">Member Sign In</div>
+									<div class="tab-sweep toright"></div>
+								</div>
+							</li>
+						</ul>
+						<!-- Tab panes -->
+						<div class="tab-content">
+							<div class="tab-pane active clearfix" id="fr24_LoginSettings">
+
+								
+								<p class="info-text">Get access to exclusive website features and our smartphone apps by subscribing to Premium. <a href="/premium">Find out more</a>.
+								</p><p id="fr24_SignInErrorMessage" class="alert alert-danger"></p>
+
+								<form action="/" method="post">
+									<ul class="signInForm">
+										<li><input id="fr24_SignInEmail" type="text" name="email" placeholder="Email"></li>
+										<li><input id="fr24_SignInPassword" type="password" name="password" placeholder="Password"></li>
+									</ul>
+									<input id="fr24_SignInRemember" type="checkbox" name="remember" value="1"> <label for="remember">Remember me</label>
+									<a href="/premium/forgot.php" class="forgot-password">Forgot password?</a>
+								</form>
+
+								
+							</div>
+							<div class="tab-controls clearfix">
+
+								
+								<button id="fr24_SignIn" type="button" class="btn btn-success pull-right">Sign in</button>
+
+								
+							</div>
+						</div>
+					</ul>
+				</li>
+
+				
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						<span class="fa fa-cog"></span> <span id="fr24_SettingsFilterJewel" class="badge hide"></span>
+					</a>
+					<ul id="fr24_SettingsDropdown" class="dropdown-menu settings noclose">
+
+						<ul class="smooth-tab-group">
+							<li class="active">
+								<div data-toggle="tab" href="#mapsettings" class="smooth-tab attach-bottom">
+									<div class="tab-sweep toleft"></div>
+									<div class="tab-content">Map</div>
+									<div class="tab-sweep toright"></div>
+								</div>
+							</li>
+							<li>
+								<div data-toggle="tab" href="#layoutsettings" class="smooth-tab attach-bottom">
+									<div class="tab-sweep toleft"></div>
+									<div class="tab-content">Layers</div>
+									<div class="tab-sweep toright"></div>
+								</div>
+							</li>
+							<li>
+								<div data-toggle="tab" href="#timesettings" class="smooth-tab attach-bottom">
+									<div class="tab-sweep toleft"></div>
+									<div class="tab-content">Units</div>
+									<div class="tab-sweep toright"></div>
+								</div>
+							</li>
+							<li>
+								<div data-toggle="tab" href="#visibilitysettings" class="smooth-tab attach-bottom">
+									<div class="tab-sweep toleft"></div>
+									<div class="tab-content">Visibility</div>
+									<div class="tab-sweep toright"></div>
+								</div>
+							</li>
+							<li>
+								<div data-toggle="tab" href="#fr24_FilterSettings" class="smooth-tab attach-bottom">
+									<div class="tab-sweep toleft"></div>
+									<div class="tab-content">Filters</div>
+									<div class="tab-sweep toright"></div>
+								</div>
+							</li>
+						</ul>
+						<!-- Nav tabs
+						<ul class="nav nav-tabs">
+							<li class="active"><a data-toggle="tab" href="#mapsettings">Map</a></li>
+							<li><a data-toggle="tab" href="#layoutsettings">Style</a></li>
+							<li><a data-toggle="tab" href="#timesettings">Units</a></li>
+							<li><a data-toggle="tab" href="#visibilitysettings">Visibility</a></li>
+							<li><a data-toggle="tab" href="#fr24_FilterSettings">Filters</a></li>
+						</ul> -->
+						<li>
+						<!-- Tab panes -->
+						<div class="tab-content">
+							<div class="tab-pane active clearfix" id="mapsettings">
+
+								<h5 class="pull-left short-label">Map style</h5>
+								<div id="fr24_mapType" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle pull-right" data-toggle="dropdown" value="2" data-source="map_type">
+										Terrain <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="terrain">Terrain</a></li>
+										<li><a href="#" data-value="roadmap">Roadmap</a></li>
+										<li><a href="#" data-value="simple_style">Greyscale</a></li>
+										<li><a href="#" data-value="radar_style">Radar (blue)</a></li>
+										<li><a href="#" data-value="radar_style2">Radar (dark)</a></li>
+										<li><a href="#" data-value="satellite">Satellite</a></li>
+										<li><a href="#" data-value="hybrid">Hybrid</a></li>
+									</ul>
+								</div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left short-label">Brightness</h5>
+								<span class="fa fa-sun-o pull-right"></span>
+								<div class="pull-right slider-container">
+									<div id="fr24_Brightness" data-source="map_fade"></div>
+								</div>
+								<span class="fa fa-circle pull-right"></span>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show night line</h5>
+								<div id="fr24_showNightLine" class="toggle on pull-right" data-source="map_night"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left short-label">Show airports</h5>
+								<div id="fr24_showAirports" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="2" data-source="map_airports">
+										Auto <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="2">Auto</a></li>
+										<li><a href="#" data-value="1">On</a></li>
+										<li><a href="#" data-value="0">Off</a></li>
+									</ul>
+								</div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Aircraft size</h5>
+								<div id="fr24_aircraftSize" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="auto" data-source="map_aircraft_size">
+										Auto <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="auto">Auto</a></li>
+										<li><a href="#" data-value="small">Small</a></li>
+										<li><a href="#" data-value="normal">Medium</a></li>
+										<li><a href="#" data-value="large">Large</a></li>
+									</ul>
+								</div>
+
+								<div class="clearfix"></div>
+
+								<h5 id="fr24_showAircraftLabelsHeading" class="pull-left" data-toggle="popover" data-content="Labels appear when there are less than 250 aircraft on map. The second and third row will appear only when the map is zoomed in.">Aircraft labels</h5>
+
+								<div id="fr24_showAircraftLabels" class="toggle off pull-left" data-source="map_labels"><div class="handle"></div></div>
+
+								<div id="fr24_labelGroup" class="pull-right">
+									<div id="fr24_aircraftLabel1" class="btn-group btn-label">
+										<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="cs" data-source="map_label_1">
+											 Callsign <span class="caret"></span>
+										</button>
+										<ul class="dropdown-menu" role="menu">
+											<li><a href="#" data-value="cs">Callsign</a></li>
+											<li><a href="#" data-value="reg">Registration</a></li>
+											<li><a href="#" data-value="flight">Flight Number</a></li>
+										</ul>
+									</div>
+
+									<div id="fr24_aircraftLabel2" class="btn-group btn-label">
+										<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="" data-source="map_label_2">
+											 - Row 2 <span class="caret"></span>
+										</button>
+										<ul class="dropdown-menu" role="menu">
+											<li><a href="#" data-value="">- Row 2</a></li>
+											<li><a href="#" data-value="acreg">Type &amp; Registration</a></li>
+											<li><a href="#" data-value="altspeed">Altitude &amp; Speed</a></li>
+											<li><a href="#" data-value="tofrom">To &amp; From</a></li>
+											<li><a href="#" data-value="ac">Type</a></li>
+											<li><a href="#" data-value="reg">Registration</a></li>
+											<li><a href="#" data-value="flight">Flight Number</a></li>
+											<li><a href="#" data-value="alt">Altitude</a></li>
+											<li><a href="#" data-value="speed">Speed</a></li>
+										</ul>
+									</div>
+
+									<div id="fr24_aircraftLabel3" class="btn-group btn-label">
+										<button type="button" class="btn btn-default dropdown-toggle disabled premium-content" data-toggle="dropdown" value="" data-source="map_label_3">
+											<span class="fa fa-lock"></span> - Row 3 <span class="caret"></span>
+										</button>
+										<ul class="dropdown-menu" role="menu">
+											<li><a href="#" data-value="">- Row 3</a></li>
+											<li><a href="#" data-value="acreg">Type &amp; Registration</a></li>
+											<li><a href="#" data-value="altspeed">Altitude &amp; Speed</a></li>
+											<li><a href="#" data-value="tofrom">To &amp; From</a></li>
+											<li><a href="#" data-value="ac">Type</a></li>
+											<li><a href="#" data-value="reg">Registration</a></li>
+											<li><a href="#" data-value="flight">Flight Number</a></li>
+											<li><a href="#" data-value="alt">Altitude</a></li>
+											<li><a href="#" data-value="speed">Speed</a></li>
+										</ul>
+									</div>
+
+									<div id="fr24_aircraftLabel4" class="btn-group btn-label">
+										<button type="button" class="btn btn-default dropdown-toggle premium-content disabled" data-toggle="dropdown" value="" data-source="map_label_4">
+											 <span class="fa fa-lock"></span> - Row 4 <span class="caret"></span>
+										</button>
+										<ul class="dropdown-menu" role="menu">
+											<li><a href="#" data-value="">- Row 4 -</a></li>
+											<li><a href="#" data-value="acreg">Type &amp; Registration</a></li>
+											<li><a href="#" data-value="altspeed">Altitude &amp; Speed</a></li>
+											<li><a href="#" data-value="tofrom">To &amp; From</a></li>
+											<li><a href="#" data-value="ac">Type</a></li>
+											<li><a href="#" data-value="reg">Registration</a></li>
+											<li><a href="#" data-value="flight">Flight Number</a></li>
+											<li><a href="#" data-value="alt">Altitude</a></li>
+											<li><a href="#" data-value="speed">Speed</a></li>
+										</ul>
+									</div>
+								</div>
+
+							</div>
+							<div class="tab-pane clearfix" id="layoutsettings">
+
+								<h5 class="pull-left" data-toggle="popover" data-content="Google have discontinued the cloud layer service. We are currently exploring alternative solutions.">Show clouds <span class="fa fa-exclamation-triangle"></span></h5>
+								<div id="fr24_showClouds" class="toggle off pull-right disabled" disabled-data-source="map_clouds"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="Google have discontinued the weather layer service. We are currently exploring alternative solutions.">Show weather <span class="fa fa-exclamation-triangle"></span></h5>
+								<div id="fr24_showWeather" class="toggle off pull-right disabled" disabled-data-source="map_weather"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show oceanic tracks</h5>
+								<div id="fr24_showNDB" class="toggle off pull-right premium-content disabled" data-source="map_tracks"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show trail tool tip</h5>
+								<div id="fr24_showNDB" class="toggle off pull-right premium-content disabled" data-source="map_track_tooltip"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+
+
+								<h5 class="pull-left">Show restricted areas </h5>
+								<div id="fr24_showRestricted" class="toggle on pull-right" data-source="map_ash_clouds"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show VOR</h5>
+								<div id="fr24_showVOR" class="toggle off pull-right premium-content disabled" data-source="map_vor"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show NDB</h5>
+								<div id="fr24_showNDB" class="toggle off pull-right premium-content disabled" data-source="map_ndb"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show left menu bar</h5>
+								<div id="fr24_showLeftMenuBar" class="toggle on pull-right premium-content disabled" data-source="map_sidebar_closed"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show statistics</h5>
+								<div id="fr24_showStats" class="toggle on pull-right premium-content disabled" data-source="menu_stats"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left medium-label">Show delay stats</h5>
+                                <div id="fr24_showDelayStatsContinent" class="btn-group pull-right">
+                                    <button type="button" class="btn btn-default dropdown-toggle disabled premium-content" data-toggle="dropdown" value="0" data-source="menu_delay_stats_continent">
+                                        <span class="fa fa-lock"></span>&nbsp;Global <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu" role="menu">
+                                    	<li><a href="#" data-value="-1">Hidden</a></li>
+                                        <li><a href="#" data-value="0">Global</a></li>
+                                        <li><a href="#" data-value="3">Asia</a></li>
+                                        <li><a href="#" data-value="5">Europe</a></li>
+                                        <li><a href="#" data-value="6">North America</a></li>
+                                        <li><a href="#" data-value="4">Oceania</a></li>
+                                        <li><a href="#" data-value="7">South America</a></li>
+                                    </ul>
+                                </div>
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show twitter posts</h5>
+								<div id="fr24_showTwitter" class="toggle on pull-right premium-content disabled" data-source="menu_twitter"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show social media</h5>
+								<div id="fr24_showSocialMedia" class="toggle on pull-right premium-content disabled" data-source="menu_socialmedia"><div class="handle"><span class="fa fa-lock"></span></div></div>
+
+							</div>
+							<div class="tab-pane clearfix" id="timesettings">
+
+								<h5 class="pull-left" data-toggle="popover" data-content="when possible">Local time <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_showLocalTime" class="toggle on pull-right" data-source="clock_local"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="when possible">12-hour clock <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_show12HourClock" class="toggle on pull-right" data-source="clock_12h"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Temperature</h5>
+								<div id="fr24_unitTemperature" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="c" data-source="unit_temp">
+										°C <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="c" data-label="°C">Celsius °C</a></li>
+										<li><a href="#" data-value="f" data-label="°F">Farenheit °F</a></li>
+									</ul>
+								</div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Speed</h5>
+								<div id="fr24_unitSpeed" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="kt" data-source="unit_speed">
+										Knots <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="kt">Knots</a></li>
+										<li><a href="#" data-value="kmh">Km/h</a></li>
+										<li><a href="#" data-value="mph">Mph</a></li>
+									</ul>
+								</div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Altitude</h5>
+								<div id="fr24_unitAltitude" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="ft" data-source="unit_alt">
+										Feet <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="ft">Feet</a></li>
+										<li><a href="#" data-value="m">Meters</a></li>
+									</ul>
+								</div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Distance</h5>
+								<div id="fr24_unitDistance" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="km" data-source="unit_dist">
+										Km <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="km">Km</a></li>
+										<li><a href="#" data-value="miles">Miles</a></li>
+										<li><a href="#" data-value="nm">Nm</a></li>
+									</ul>
+								</div>
+
+							</div>
+
+							<div class="tab-pane clearfix" id="visibilitysettings">
+								<h4 class="clearfix">Data sources</h4>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="GPS based aircraft tracking technology.">ADS-B (Live) <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_showADSB" class="toggle on pull-right" data-source="show_adsb_traffic"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="Time difference of arrival based aircraft tracking technology.">MLAT (Live) <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_showMLAT" class="toggle on pull-right" data-source="show_mlat_traffic"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="GPS based tracking technology of light aircraft, helicopters and gliders.">FLARM (Live) <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_showFLARM" class="toggle on pull-right" data-source="show_flarm_traffic"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="FAA provides stream containing positions (delayed 5 minutes) for all aircraft in US and Canada.">FAA ASDI <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_showFAA" class="toggle on pull-right" data-source="show_faa_traffic"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left" data-toggle="popover" data-content="An aircraft's position can be estimated for up to 60 minutes after coverage has been lost.">Estimations <span class="fa fa-info-circle"></span></h5>
+								<div id="fr24_showEstimated" class="btn-group pull-right">
+									<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="15" data-source="show_estimated_traffic">
+										15 mins <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="#" data-value="0">Off</a></li>
+										<li><a href="#" data-value="5">5 mins</a></li>
+										<li><a href="#" data-value="15">15 mins</a></li>
+										<li><a href="#" data-value="30">30 mins</a></li>
+										<li><a href="#" data-value="60">60 mins</a></li>
+									</ul>
+								</div>
+
+								<span class="clearfix"></span>
+
+								<h4>Type of Traffic</h4>
+
+								<h5 class="pull-left">Show aircraft in air</h5>
+								<div id="fr24_showAirbornTraffic" class="toggle on pull-right" data-source="show_airborn_traffic"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show aircraft on ground</h5>
+								<div id="fr24_showGroundTraffic" class="toggle on pull-right" data-source="show_ground_traffic"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show ground vehicles</h5>
+								<div id="fr24_showVehicles" class="toggle on pull-right" data-source="show_vehicles"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+								<h5 class="pull-left">Show gliders</h5>
+								<div id="fr24_showGliders" class="toggle on pull-right" data-source="show_gliders"><div class="handle"></div></div>
+							</div>
+
+						 	<div class="tab-pane" id="fr24_FilterSettings">
+								<h5 class="pull-left">Enable filtering</h5>
+								<div id="fr24_enableFilters" class="toggle on pull-right" data-source="map_enable_filters"><div class="handle"></div></div>
+
+								<div class="clearfix"></div>
+
+						 		<h5 class="pull-left">Add new filter</h5>
+						 		<div class="filter-group btn-group pull-left">
+									<button id="fr24_FilterType" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="callsign">
+										<span class="callsign-code colour-code"></span>Callsign <span class="caret"></span>
+									</button>
+									<ul class="dropdown-menu" role="menu">
+									  <li><a href="#" data-toggle="popover" data-content="Type the beginning of the callsigns you want to display. For example, if you want to display all British Airways aircraft, type <strong>BAW</strong>." data-value="callsign"><span class="callsign-code colour-code"></span>Callsign</a></li>
+									  <li><a href="#" data-toggle="popover" data-content="Choose if you want to display inbound, outbound, or both inbound/outbound flights for a specific airport" data-value="airport"><span class="airport-code colour-code"></span>Airport</a></li>
+									  <li><a href="#" data-toggle="popover" data-content="Use the handlers to select the range of altitudes you want to display." data-value="altitude"><span class="altitude-code colour-code"></span>Altitude</a></li>
+									  <li><a href="#" data-toggle="popover" data-content="Use the handlers to select the range of speeds you want to display" data-value="speed"><span class="speed-code colour-code"></span>Speed</a></li>
+									  <li><a href="#" data-toggle="popover" data-content="Type the ICAO designator, or the beginning of it, of the aircraft type you want to display. For example, if you want to display all Boeing 747's, type <strong>B74</strong>." data-value="aircraft"><span class="aircraft-code colour-code"></span>Aircraft</a></li>
+									  <li><a href="#" data-toggle="popover" data-content="Type the beginning of the registrations you want to display. For example, if you want to display all Swedish aircraft, type <strong>SE</strong>." data-value="reg"><span class="registration-code colour-code"></span>Registration</a></li>
+									  <li><a href="#" data-toggle="popover" data-content="Select one or more radars that you want to display." data-value="radar"><span class="radar-code colour-code"></span>Radar</a></li>
+									</ul>
+								</div>
+
+								<div id="fr24_FilterOptions">
+									<div id="fr24_FilterBy_callsign" class="show">
+										<input class="form-control" type="text" placeholder="eg. SAS107">
+									</div>
+									<div id="fr24_FilterBy_airport">
+										<input class="form-control pull-left" type="text" placeholder="eg. ARN">
+
+										<div class="filter-group btn-group pull-right">
+											<button id="fr24_FilterAirportDirection" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" value="inout">
+												In/Out <span class="caret"></span>
+											</button>
+											<ul class="dropdown-menu" role="menu">
+											  <li><a href="#" data-value="inout">In/Out</a></li>
+											  <li><a href="#" data-value="in">In</a></li>
+											  <li><a href="#" data-value="out">Out</a></li>
+											 </ul>
+										</div>
+									</div>
+									<div id="fr24_FilterBy_altitude">
+										<div class="slider-container">
+											<div id="fr24_FilterAltitude"></div>
+										</div>
+									</div>
+									<div id="fr24_FilterBy_speed">
+										<div class="slider-container">
+											<div id="fr24_FilterSpeed"></div>
+										</div>
+									</div>
+									<div id="fr24_FilterBy_aircraft">
+										<input class="form-control" type="text" placeholder="eg. B74">
+									</div>
+									<div id="fr24_FilterBy_reg">
+										<input class="form-control" type="text" placeholder="eg. SE">
+									</div>
+									<div id="fr24_FilterBy_radar">
+										<input class="form-control" type="text" placeholder="eg. T-F5M">
+									</div>
+								</div>
+
+								<button id="fr24_FilterAdd" type="button" class="btn btn-success pull-right add"><span class="fa fa-plus"> </span></button>
+
+								<div class="clearfix"></div>
+
+								<h5>Active filters <span id="fr24_SettingsFilterRemainingJewel" class="badge fade"></span></h5>
+
+								<ul id="fr24_FilterList" class="filter-list"><li>none</li></ul>
+							</div>
+						</div>
+						<div class="tab-controls clearfix">
+							<button type="button" class="btn btn-danger pull-left dropdown-toggle" id="fr24_SettingsResetButton">Reset to default</button>
+						</div>
+					</li></ul>
+				</li>
+			</ul>
+			<span id="fr24_NavTopClock"></span>
+		</div>
+
+			</nav>
+</div>
+
+
+<script type="text/javascript">
+	$().ready(function() {
+		NavigationManager = new Fr24.Navigation();
+		NavigationManager.Initialise();
+	});
+</script>
+<div id="content">
+
+    
+    <nav class="secondary" style="margin-top: 0;">
+        <ul>
+            <li><a href="/about" class="">About</a></li>
+            <li><a href="/how-it-works" class="">How it works</a></li>
+            <li><a href="/faq" class="">FAQ</a></li>
+            <li><a href="/contact-us" class="">Contact us</a></li>
+    	    <li><a href="/careers" class="">Careers</a></li>
+            <li><a href="/privacy-policy" class="active">Privacy policy</a></li>
+            <li><a href="/terms-and-conditions" class="">Terms and Conditions</a></li>
+            <br class="clear">
+        </ul>
+    </nav>
+
+
+            <article>
+
+            <h2>Privacy policy</h2>
+
+            <h4>We are committed to protecting and respecting your privacy. This commitment guides our handling of any personal data we collect from you, or that you provide us with.</h4>
+
+            <p>The location function used in our smartphone apps is only used to provide you with easy access to your current location on the map.</p>
+
+            <p>In the instances when you have to register for one of our services, this is to let us provide personalized services and communicate separately with you. Your information will never be shared with a third-party.</p>
+
+            <p>We store all user information in secure databases protected via a variety of access controls. This data is accessed only for the purposes specified in this privacy policy.</p>
+
+            <p>Like most web sites, we use small bits of data called cookies stored on users' computers. Cookies are parcels of text sent by a server to a web browser and then sent back unchanged by the client each time it accesses that server. Cookies are saved on your computer and do not harm or damage your system in any way. Furthermore they make your navigation easier as they save your settings. For example, if you set an aircraft filter and leave the website, the cookie will remember this so that the filter is enabled next time you return. You are able to view and control cookies through your web browser.</p>
+
+            <p>Flightradar24 and its partners use cookies to deliver targeted advertisements on an anonymous basis- we do not pass on any personal data to 3rd parties. Information gathered by cookies may be shared with our advertising partners to help measure the effectiveness of an advertising campaign.</p>
+
+            <p>By using Flightradar24 you are giving consent to cookies being used.</p>
+
+            <p>If you have any questions regarding Flightradar24 and your privacy, please <a href="/contact-us">contact us</a>.</p>
+        </article>
+
+   
+</div>
+
+<script type="text/javascript">
+function recordOutboundLink(link, category, action) {
+  if(!category || category == '') {
+      category = 'Outbound Links';
+  }
+  if(!action || action == '') {
+      action = $(link).attr("href");
+  }
+
+ // try {
+ //   _gaq.push(['._trackEvent', category ,  action ]);
+    //setTimeout('document.location = "' + link.href + '"', 100)
+ // }catch(err){}
+}
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-51622-13']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<footer style="padding-bottom: 30px;">
+    <p>© 2015 Flightradar24 AB | Please use our <a href="/contact-us">contact form</a> to get in touch with us.</p>    
+</footer>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44da5e8aa5","applicationID":"8104627","transactionName":"NgAHbBMDXkMCUUMNWg9KMEoITVFSDEdDSkUJFQ==","queueTime":0,"applicationTime":19,"atts":"GkcEGlsZTU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+</body></html>
