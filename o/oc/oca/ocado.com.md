@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405024247id_/https%3A//www.ocado.com/webshop/content/ws5/customerServices/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228181151id_/https%3A//www.ocado.com/webshop/content/ws5/customerServices/policies/privacypolicy) for the most accurate reproduction.*
 
 # Ocado: devoted to your shopping
 
