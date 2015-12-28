@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haathichiti.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125080152id_/http%3A//www.haathichiti.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haathichiti.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228044739id_/http%3A//www.haathichiti.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies - Haathichiti.com
+# Privacy Policies
 
 ## Privacy Policies For Haathichiti.com.
 
@@ -22,19 +22,19 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Haathichiti.com collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience
+– To personalize user experience
 
 we may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-\- To improve our Site
+– To improve our Site
 
 we continually strive to improve our website offerings based on the information and feedback we receive from you.
 
-\- To improve customer service
+– To improve customer service
 
 your information helps us to more effectively respond to your customer service requests and support needs.
 
-\- To send periodic emails
+– To send periodic emails
 
 the email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
@@ -61,5 +61,3 @@ Haathichiti.com has the discretion to update this privacy policy at any time. Wh
 ### Your Acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-If you have any question regarding our website then you can contact us at vkverma93@gmail.com.
