@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the match.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624003033id_/http%3A//www.match.com/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228041924id_/http%3A//www.match.com/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
 # Match.com - Find Singles with Match.com's Online Dating Personals Service
 
@@ -8,7 +8,7 @@ Match.com, L.L.C., as regards users originating from within the United States, a
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
-## Last Updated: February 5, 2014InfoWeCollectHeader
+## Last Updated: February 5, 2014Information we collect about you
 
 We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
@@ -23,13 +23,13 @@ We use various technologies to collect information from your device and about yo
   * **Information collected automatically.** We automatically collect information from your browser or device when you visit our website or application. This information could include your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (See "Cookies"below ),and the referring website address. 
   * **Cookies and Use of Cookie Data.** When you visit our website or application, we may assign your device one or more  cookies,to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Match.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Match.com advertising during your visits to other websites. To opt-out of Match.com data collection for targeted advertising on other sites, click here [Opt Out Now](http://media.match.com/optout.html). Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies , please note that you may not be able to sign in or use some of the interactive features offered on our website . 
   * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
-  * **Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies and ad networks, and other third parties to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
+  * **Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies and ad networks, and other third parties to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
 
 
 ## How we use the information we collect
 
-We may use information that we collect about you to: 
+We may use information that we collect about you to : 
 
   * deliver our products and services, and manage our business; 
   * manage your account and provide you with customer support; 
@@ -39,8 +39,8 @@ We may use information that we collect about you to:
   * perform ad tracking and website or mobile application analytics; 
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
   * enforce or exercise any rights in our terms and conditions ; 
-  * perform functions as otherwise described to you at the time of collection;and 
-  * register you with and display your profile on other online dating and other social websites owned by IAC, such as websites operated by People Media, [chemistry.com](http://www.chemistry.com/) and [ okcupid.com](http://www.okcupid.com/).
+  * perform functions as otherwise described to you at the time of collection; and 
+  * register you with and display your profile on other online dating and other social websites owned by IAC, such as websites operated by People Media, [chemistry.com](http://www.chemistry.com/) and [ okcupid.com](http://www.okcupid.com/). 
 
 
 
