@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194841id_/http%3A//www.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228125503id_/http%3A//www.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
