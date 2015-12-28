@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teaser-trailer.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520211628id_/http%3A//teaser-trailer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaser-trailer.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229003357id_/http%3A//teaser-trailer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
