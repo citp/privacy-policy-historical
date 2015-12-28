@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144308id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228122347id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy | HysterSisters
 
@@ -54,7 +54,7 @@ Since the Website is not designed specifically for children, HysterSisters does 
 
 California Civil Code Section 1798.83 permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:  
 HysterSisters  
-2436 S. I-35 E. Suite 376-184  
+1800 S. Loop 288 Suite 396-184  
 Denton, Texas 76205 
 
 By using the Website, you expressly consent to the use and disclosure of information as described in this Privacy Policy. Your continued use of the Website after the effective date of any modification to the Privacy Policy will be deemed to be your agreement to the changed terms. 
@@ -66,4 +66,4 @@ Denton, Texas 76205
 
 _The effective date of this Privacy Policy is July 1, 2009. This Website is intended for viewing within the United States._
 
-Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-10-2009 - 06:50 AM 
+Page Created at 06-08-2003 - 07:00 AM, Last Modified 07-10-2009 - 07:50 AM 
