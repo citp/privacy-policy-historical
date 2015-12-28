@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myfico.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623195456id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfico.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228175513id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head id="ctl00_Head1">
 
@@ -15,6 +15,8 @@
     <meta http-equiv="Content-Language" content="en-us">
     <meta name="robots" content="all">
     <meta http-equiv="imagetoolbar" content="false">
+    <meta name="google-play-app" content="app-id=com.myfico">
+    <link rel="apple-touch-icon" href="https://secure.myfico.com/static/images/icons/com.myfico.png">
     <meta name="copyright" content="Copyright (c) 2001-2015 Fair Isaac Corporation. All rights reserved.">
     <link rel="shortcut icon" href="/favicon.ico">
     <meta property="og:image" content="http://www.myfico.com/Images/myFICO_Icon_NEW_100x100.png">
@@ -39,13 +41,15 @@
   
     
 
+  
       <script type="text/javascript" src="/Include/jquery-1.8.2.min.js"></script>
     
-    <script type="text/javascript" src="/Include/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/Include/newsHover.js"></script>
-    <script type="text/javascript" src="/Include/iframeResizer.contentWindow.js"></script>
-	<script type="text/javascript" src="/Include/analyticsModule.js"></script>
-    <script language="javascript" type="text/javascript">
+    <script src="/Include/jquery.cookie.js"></script>
+    <script src="/Include/newsHover.js"></script>
+    <script src="/Include/iframeResizer.contentWindow.js"></script>
+	<script src="/Include/analyticsModule.js"></script>
+    <script src="/Include/myficoConstants.js"></script>
+    <script type="text/javascript">
       //<![CDATA[
       var cot_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.com/trustlogo/javascript/cot.js" :
       "http://www.trustlogo.com/trustlogo/javascript/cot.js";
@@ -166,10 +170,16 @@
       'FicoIdUlta': getProductCookie('FicoIdUlta') == '' ? 'false' : 'true',
       'Fico3bmm': getProductCookie('Fico3bmm') == '' ? 'false' : 'true',
       'Fico3bma': getProductCookie('Fico3bma') == '' ? 'false' : 'true',
+      'FicoUlt3bm': getProductCookie('FicoUlt3bm') == '' ? 'false' : 'true',
+      'FicoUlt3ba': getProductCookie('FicoUlt3ba') == '' ? 'false' : 'true',
+      'FicoEss1bm': getProductCookie('FicoEss1bm') == '' ? 'false' : 'true',
+      'FicoEss1ba': getProductCookie('FicoEss1ba') == '' ? 'false' : 'true',
       'hasSw': (getProductCookie('FicoSwm') == '' ? false : true) | (getProductCookie('FicoSwa') == '' ? false : true) ? 'true' : 'false',
       'hasIdBas': (getProductCookie('FicoIdBasm') == '' ? false : true) | (getProductCookie('FicoIdBasa') == '' ? false : true) ? 'true' : 'false',
       'hasUlt': (getProductCookie('FicoIdUltm') == '' ? false : true) | (getProductCookie('FicoIdUlta') == '' ? false : true) ? 'true' : 'false',
-      'has3bm': (getProductCookie('Fico3bmm') == '' ? false : true) | (getProductCookie('Fico3bma') == '' ? false : true) ? 'true' : 'false'
+      'has3bm': (getProductCookie('Fico3bmm') == '' ? false : true) | (getProductCookie('Fico3bma') == '' ? false : true) ? 'true' : 'false',
+      'hasFicoUlt3b': (getProductCookie('FicoUlt3bm') == '' ? false : true) | (getProductCookie('FicoUlt3ba') == '' ? false : true) ? 'true' : 'false',
+      'hasFicoEss1b': (getProductCookie('FicoEss1bm') == '' ? false : true) | (getProductCookie('FicoEss1ba') == '' ? false : true) ? 'true' : 'false'
   }]);
 
 
@@ -216,7 +226,7 @@
           <li id="login"><a href="https://www.myfico.com/SystemAccess/Login.aspx">Log In</a></li>
           <li id="support">
               <!--<a href="http://myfico.custhelp.com/app/answers/list/">Support</a>-->
-              <a href="javascript:void(0)" onclick="window.open('http://myfico.custhelp.com/app/answers/list/', '_self')">Support</a>
+              <a href="javascript:void(0)" onclick="window.open('http://myfico.custhelp.com/app/answers/list/', '_top')">Support</a>
           </li>
           
             <li id="lang">
@@ -237,8 +247,7 @@
     
       <div id="logo">
         <a href="http://www.myfico.com" title="Go to the home page">
-          <img src="http://www.myfico.com/images/chrome/branding_logo.png" id="logo-myfico" alt="myFICO" width="131" height="41"></a>
-        
+          <img src="http://www.myfico.com/images/logo-myFICO.png" id="logo-myfico" alt="myFICO"></a>
       </div>
     
     
@@ -251,14 +260,13 @@
           <li id="ctl00_ctrlHeader_liProducts"><a href="/Products/Products.aspx" id="ctl00_ctrlHeader_lnkProducts" class="mprod LTContentElem" data-loc="TopNav" data-prop="TopNav:POP"><span class="mblock mprod">compare our<br>
             <span class="mBold">PRODUCTS</span></span></a>
               <ul>
-                <li class="header">Credit &amp; Identity Monitoring</li>
-                <li class="item"><a href="/Products/ScoreWatch/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:SW"><span class="arrow">›</span>1 Bureau FICO Score and Credit Monitoring</a></li>
-                <li class="item"><a href="/Products/FICO-3-Bureau-Credit-Monitoring/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:3BCM"><span class="arrow">›</span>3 Bureau FICO Scores and Credit Monitoring</a></li>
-                <li class="item"><a href="/Products/FICO-Identity-Ultimate/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:IDU"><span class="arrow">›</span>3 Bureau FICO Scores, Credit and Identity Monitoring </a></li>
+                <li class="header">Credit Monitoring</li>
+                <li class="item"><a href="/Products/FICO-Essentials-1B/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:SW"><span class="arrow">›</span>1 Bureau FICO Scores and Credit Monitoring</a></li>
+                <li class="item"><a href="/Products/FICO-Ultimate-3B/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:3BCM"><span class="arrow">›</span>3 Bureau FICO Scores, Credit &amp; Identity Monitoring</a></li>
                 <li class="divider"></li>
                 <li class="header">One-Time Reports and Scores</li>
-                <li class="item"><a href="/Products/FICOOne/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:Singles"><span class="arrow">›</span>1 Bureau Credit Report and FICO Score</a></li>
-                <li class="item"><a href="/Products/FICO-Score-3-Report-View/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:3B"><span class="arrow">›</span>3 Bureau Credit Report and FICO Scores</a></li>
+                <li class="item"><a href="/Products/FICO-Score-1B-Report/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:Singles"><span class="arrow">›</span>1 Bureau Credit Report and FICO Scores</a></li>
+                <li class="item"><a href="/Products/FICO-Score-3B-Report/" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:3B"><span class="arrow">›</span>3 Bureau Credit Report and FICO Scores</a></li>
                 <li class="divider"></li>
                 <li class="item" id="compareAllProducts"><a href="/Products/Products.aspx" class="LTContentElem" data-loc="TopNav" data-prop="TopNav:Compare" style="color:#000 !important; text-transform:uppercase; font:bold 12px/1.5 'Ubuntu', arial, sans-serif;">COMPARE ALL PRODUCTS</a></li>
               </ul>
@@ -270,7 +278,7 @@
           <li id="ctl00_ctrlHeader_liSavingsCenter"><a href="/SavingsCenter/Credit-Cards.aspx?qsid=Cards_All_Site_Nav1" id="ctl00_ctrlHeader_lnkSavings" class="msavings"><span class="mblock msavings">find my savings &amp;<br>
             <span class="mBold">CREDIT CARDS</span></span></a></li>
           <li id="ctl00_ctrlHeader_liForums"><a href="/Forum/Redirect.aspx" id="ctl00_ctrlHeader_lnkForum" class="mcommunity"><span class="mblock mcommunity">connect with the<br>
-            <span class="mBold">connect with the COMMUNITY</span></span></a></li>
+            <span class="mBold">COMMUNITY</span></span></a></li>
         </ul>
       </div>
     
@@ -278,7 +286,6 @@
     
 
   </div>
-  <img src="/images/chrome/sticky-header-shadow.png" alt="" id="stick-shadow">
 </div>
 
 
@@ -329,11 +336,15 @@
 
           <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="MjA2ODUzNzUxMADTWeByVedzIsSp32g/3JP42SE+xfgJyYi/ydHoFiaermxWBUu+fm6HlHqz5++e+cEjQJ4s9jTtUDvMQOLvDWH68r8GSLMk+5tmfCEic77z4uUED6Df6+Lmb6T5r5Ot/nfrwBXN4GC4kgGdtA9uac2dCKBY3reEn0PdonWyD3HV3PNN/8zpHnBuYWXFEyOkqljTjPh7ZOuVkrUKhwkCTfujfqD6CCNrwAJ5s1iY7ic+/TqUjltM4chQMhlnUqAcpZrNVTVwFliFSDV2T3OutA3bpbjcGo3XuhwTgrTGjO4HLJAtZt0bc/vXOAgZH8+TYIuhB0PK6vWaxqP1JjytCj+kU5G6GVWTHVYTr44JEA3/hgqg8EfVR9u6eIz5hpykqCNkV6/mSPsK5yDU1wDJy1cRTqAY4AkxBDuGqAu0JoiWKeqR9z6WOmGRP3oKbQ8ktAZRQWPnuDt7p+pV5ZF4Oz/G6768KU55rtRBVHQyIAlqD4kOn57iC9ALj8DmduOcRiYxzOynn1pdYmlI1zvc/eXgvgKp1uUIOuVrjqwXXteAb/1mB/dTUa/OswsLO4DdSjSqJgMFUqD7IeiC1+yZq5KtsmSP66Dd+fVTGc623wlRicaeDL3NEi4ySNpWlJAe+lab+BYn80ruKTBZfHnjHwIYKn7GMZQT3FXMUmYpkqWcY2tLYn83gjYZds2myuicg6oeIoK4+bYeqAnKtBfo2X+t4vKFPDl8ISmO67glEX3zt+jwzt0yob/Sp5cBxf0KSAWeFx/FEWaQVv/5cZ8wpNwY3EZvjRFn+vrN6IJ8sgJ7Je/jqL8gc6bus9VN1oisz7LV5y4x+/rnWcsrt8moTjIoDH/YGEdSovVUmRUZLCB27BS1dKB7q9rPpSS7t//wXR71N3IaUtudZS8L7aCVnEB8">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="NzU4MDMwNzc3AHH4PevPNJgk/y7ynisqXnfMBy4qkIWdpHeTCTTT4mhZ3AEKqqiek2ZbGsrAgR89f2JOX/lze+sSEQa/10akAam7O1rSIDhiLzYyRO9YzpH/BWFNPeSidSbiIJkafT9IgUlVij9oKt1HCqVgdGvW3aztDxlHHwsp8ehy/lVqMxHlTk4usCXVq1H0KYkD7sUUzgzEogYNy0lM864k/GD5qtly0fzKQiUgYa98l8GO1P4xo3vVLtsyl/8R4y3C8gqmHo3C5HfIbnZK+XZvv4cQs1gi120iGHCLYLbUt0jH8jouD5FoKv7ljhg1ekI0nFwV4wd8MX7hVgFuKAWbmIhTTA5gbUee3lzPchcmTPSrd8s7nHngPrarNsdgVITGiiQ9c27G7eszBn2dRA+2OByeldJNkRBivaXYWin6RaVkLKfRUCG4N7oNS/5sxDbcPcnN5HJ0tBzfneufDSonsF45KEYHFzm4v4Ehzq+n8f94QssHlEVhMkwH5LokQ9KKWRcYuXB9519KQypYEhKTwMS0O1MRx4r7bPCmaSx5Qna7pM6BKaqZQ86vN1kdQtCZJzZOLIT4RZERAF8lyUZ2+H54OGNWhZExzcq2XMpkPtNYrp0mR5IRi31Q6RZ+uw/TKcOMB4PiD1MyyNlIutfudWRDsaOXG40N/9Q5nlnTdPvbv8VBcOYI29JZ18owqmy4URIv8YLBcPnWnEqgLD6yvSodRi5l8s3ohAfY5+X+hg8Po99te4X+rksF52BimmhOFoKNx32I/MRqauE7UcbCP+vN1UxMdN/fG2/NpN8E80Wg3RwGxbuFNnkBJU5p8W4yTOZsOXj7DnjgnTWONZdYCX0GEC8kzOzswNTIilihb2FwI2mSq2tpMoswQViWcrHdDcJ8GdmlPPInxKkzLZdUUo4UKew=">
 </div>
 
+<div>
 
-            <input type="hidden" value="Server_03" id="trace_servername">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D67500FF">
+</div>
+
+            <input type="hidden" value="Server_07" id="trace_servername">
             
 
             
@@ -627,7 +638,7 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
       <div style="height: 60px; margin-top: 26px;" class="ftr_seal_verisign"> <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.myfico.com&amp;lang=en" target="_blank" rel="nofollow"><img scale="0" src="/images/store/vseal.gif" alt="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications."></a> </div>
       <div class="ftr_seal_bbb" style=""> <a style="padding: 0px; margin: 0px;" title="Fair Isaac Corporation is a BBB Accredited Financial Service in San Rafael, CA" href="//bbb.org/greater-san-francisco/business-reviews/financial-services/fair-isaac-corporation-in-san-rafael-ca-37316#bbbseal" class="sehzbum" id="bbblink" target="_blank"> <img width="300" height="57" alt="Fair Isaac Corporation is a BBB Accredited Financial Service in San Rafael, CA" src="//seal-goldengate.bbb.org/logo/sehzbum/fair-isaac-corporation-37316.png" id="Img5" style="padding: 0px; border: none;"></a> </div>
     </div>
-    <div style="width: 320px; float: left; margin-top: 40px;" class="ft_4up_vst_m ft_4up_size"><img src="/images/lp/logo-FICO-Score-the-score-lenders-use-med.png" alt="FICO Score"></div>
+    <div style="width: 320px; float: left; margin-top: 40px;" class="ft_4up_vst_m ft_4up_size"><img src="/images/logo-FICO-Score-lockup-xl.png" alt="FICO Score" style="width: 249px; height: 71px; margin-top: 10px;"></div>
     <div style="float: left; width: 240px; text-align: left; position: relative; top: 13px; left: 20px;" class="trusted_mob_app"><img style="display: none;" alt="Your FICO Score has..."></div>
     <div style="float: left; width: 420px; text-align: left; display: none;" class="trusted_mob_con">
       <p style="font-family: Ubuntu; font-size: 16px; color: rgb(49, 53, 55);" class="ftr_font3">Take your FICO Score with you on any mobile device &amp; receive notifications when changes have been detected.</p>
@@ -666,9 +677,9 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
         </div>
       
       <div style="margin: 0 auto; width: 960px;display:none" id="siteinfo_1_3up">
-        <div style="width: 300px; float: left; position: relative; top: 38px; left: 45px;" class="trusted_3up_b"> <img alt="The score lenders use" src="/images/lp/logo-FICO-Score-the-score-lenders-use-med.png"> </div>
-        <div class="ft_4up_vst_m ft_4up_size" style="width: 249px; float: left; margin-top: 9px; background: url(/images/lp/footer/icon-exclusive-trust-M.png) no-repeat scroll center top transparent; margin-right: 51px; font-size: 12px; line-height: 19px; text-align: center; margin-bottom: 27px; margin-left: 27px;">
-          <p style="margin: 70px 0px 10px; width: 250px; position: relative; top: 0px;"> <span style="position: relative; top: 1px;"><b>An Industry Standard</b> – FICO Scores are used in more than 90% of lending decisions</span></p>
+        <div style="width: 300px; float: left; position: relative; top: 38px; left: 45px;" class="trusted_3up_b"> <img src="/images/logo-FICO-Score-lockup-xl.png" alt="FICO Score" style="width: 249px; height: 71px; margin-top: 10px;"> </div>
+        <div class="ft_4up_vst_m ft_4up_size" style="width: 249px; float: left; margin-top: 9px; background: url(/images/lp/footer/icon-exclusive-trust-M.png) no-repeat scroll center top transparent; margin-right: 51px; font-size: 12px; line-height: 19px; text-align: center; margin-bottom: 7px; margin-left: 27px;">
+          <p style="margin: 70px 0px 10px; width: 250px; position: relative; top: 8px; font-size: 12px; font-weight: 400; line-height: 22px;"> <span style="position: relative; top: 1px;"><b>An Industry Standard</b> – FICO Scores are used in more than 90% of lending decisions</span></p>
         </div>
         <div style="height: 60px; margin-top: 26px; width: 97px; float: left; position: relative; top: -10px;" class="ftr_seal_verisign"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.myfico.com&amp;lang=en" target="_blank" rel="nofollow"><img scale="0" src="/images/store/vseal.gif" alt="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications."></a></div>
         <div style="margin: 50px 0 0!important;" class="ftr_seal_bbb"> <a style="padding: 0px; margin: 0px;" title="Fair Isaac Corporation is a BBB Accredited Financial Service in San Rafael, CA" href="http://www.bbb.org/greater-san-francisco/business-reviews/financial-services/fair-isaac-corporation-in-san-rafael-ca-37316#bbbseal" class="sehzbum" id="bbblink" target="_blank"> <img width="300" height="57" alt="Fair Isaac Corporation is a BBB Accredited Financial Service in San Rafael, CA" src="//seal-goldengate.bbb.org/logo/sehzbum/fair-isaac-corporation-37316.png" id="Img6" style="padding: 0px; border: none;"></a> </div>
@@ -680,12 +691,14 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
       <div id="siteinfo_1b">
         <div class="siteinfo">
           <!-- Deploy test -->
-          <div id="hSocialmedia"><span class="ntext">FOLLOW US</span> <img src="http://www.myfico.com/images/chrome/new-social.png" width="152" height="31" border="0" alt="Social Media" usemap="#social-media">
+          <div id="hSocialmedia"><span class="ntext">CONNECT WITH US</span> <img src="http://www.myfico.com/images/chrome/new-social.png" border="0" alt="Social Media" usemap="#social-media">
             <map name="social-media">
               <area shape="rect" coords="0,0,30,30" href="https://www.facebook.com/myFICO" target="_blank" alt="Facebook">
               <area shape="rect" coords="42,0,72,30" href="http://twitter.com/myfico" target="_blank" alt="Twitter">
-              <area shape="rect" coords="82,0,112,30" href="http://pinterest.com/myfico/" target="_blank" alt="Pinterest">
-              <area shape="rect" coords="122,0,152,30" href="http://gplus.to/myfico" target="_blank" alt="Google+" rel="publisher">
+              <area shape="rect" coords="82,0,112,30" href="https://plus.google.com/+myfico/posts" target="_blank" alt="Google+" rel="publisher">
+              <area shape="rect" coords="82,0,112,30" href="https://plus.google.com/+myfico/posts" target="_blank" alt="Google+" rel="publisher">
+              <area shape="rect" coords="121,0,154,30" href="https://itunes.apple.com/us/app/myfico-mobile/id714626557?mt=8" target="_blank" alt="Apple App Download">
+              <area shape="rect" coords="161,0,193,30" href="https://play.google.com/store/apps/details?id=com.myfico&amp;hl=en" target="_blank" alt="Android App Download">
             </map>
             <div id="newsletterSignUp"> <span class="ntext subscribe">SUBSCRIBE TO myFICO EMAIL <a href="javascript:;" id="newsLHelp" rel="newsletter"><img class="clearFloat" src="http://www.myfico.com/images/chrome/q_mark.png" alt=""></a>
               <div id="newsletter-box">Sign up today to receive special offers, access valuable information, and get educational resources to help you manage your credit health.<br>
@@ -724,7 +737,8 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
             <span><a href="http://www.myfico.com/CreditEducation/CreditScores.aspx">Credit scores</a></span> | 
             <span><a href="http://www.myfico.com/CreditEducation/CreditReports.aspx">Credit reports</a></span> | 
             <span><a href="http://blog.myfico.com">myFICO Blog</a></span> | 
-            <span><a href="http://www.myfico.com/affiliates/affiliate.aspx">Affiliates</a></span>       
+            <span><a href="http://www.myfico.com/affiliates/affiliate.aspx">Affiliates</a></span> | 
+            <span><a href="/mobile-apps/">myFICO mobile</a></span>       
             </div>
             </div>
             <!-- /Popular Links -->       
