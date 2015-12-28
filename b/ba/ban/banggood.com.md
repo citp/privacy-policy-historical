@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banggood.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622113337id_/http%3A//www.banggood.com/Security-And-Privacy_hl34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banggood.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229003504id_/http%3A//www.banggood.com/Security-And-Privacy_hl34) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ By using Banggood.com you authorize us to collect, store and use your personal i
 . Assist you in a customer service enquiries;  
 . Send you promotional material;  
 . Identify you on our forums;  
-. Assist in calculating commissions for; [affiliate](https://web.archive.org/web/20150622113337id_/http%3A//Affiliates-Program_hl23), [dropship](https://web.archive.org/web/20150622113337id_/http%3A//Drop-ship-Program_hl18), [wholesale](https://web.archive.org/web/20150622113337id_/http%3A//Wholesale-Program_hl45) or [review programs](https://web.archive.org/web/20150622113337id_/http%3A//Banggood-Review-Program_hl33);  
+. Assist in calculating commissions for; [affiliate](https://web.archive.org/web/20151229003504id_/http%3A//Affiliates-Program_hl23), [dropship](https://web.archive.org/web/20151229003504id_/http%3A//Drop-ship-Program_hl18), [wholesale](https://web.archive.org/web/20151229003504id_/http%3A//Wholesale-Program_hl45) or [review programs](http://www.banggood.com/Banggood-Review-Club_hl55);  
 . Verify your identity with our payment partners.
 
 ## ________What information do we collect and store?
@@ -49,7 +49,7 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 ## ________Questions or Concerns
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/web/20150622113337id_/http%3A//Contact-Us_hi111)" link in the side menu. Or through the following methods:  
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/web/20151229003504id_/http%3A//Contact-Us_hi111)" link in the side menu. Or through the following methods:  
  **Tel** : (+0852)-35903678     
 **Email** : cservice@banggood.com.  
  **Contact Address** :  
@@ -58,4 +58,4 @@ Questions regarding our Privacy Policy, or other policy related material can be 
 CAUSEWAY BAY,  
 HK  
  **Phone** :+86852-35903678(Office time: 9:00am to 6:00pm GMT + 08:00)  
- This page is related to ,[ Affiliates](https://web.archive.org/web/20150622113337id_/http%3A//Affiliates-Program_hl23), [Dropshipping](https://web.archive.org/web/20150622113337id_/http%3A//Drop-ship-With-Banggood_hl18), [Fashion Bloggers](https://web.archive.org/web/20150622113337id_/http%3A//affiliate_blogger.php), [Wholesale](http://www.buyalleasy.com/), [My Account](https://web.archive.org/web/20150622113337id_/http%3A//login.php)
+ This page is related to ,[ Affiliates](https://web.archive.org/web/20151229003504id_/http%3A//Affiliates-Program_hl23), [Dropshipping](https://web.archive.org/web/20151229003504id_/http%3A//Drop-ship-With-Banggood_hl18), [Wholesale](http://www.buyalleasy.com/), [My Account](https://web.archive.org/web/20151229003504id_/http%3A//login.php)
