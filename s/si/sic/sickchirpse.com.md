@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sickchirpse.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517090703id_/http%3A//www.sickchirpse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickchirpse.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228053844id_/http%3A//www.sickchirpse.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Sick Chirpse
+# PRIVACY POLICY
 
 SICK CHIRPSE LIMITED (“We”) are committed to protecting and respecting your privacy.
 
