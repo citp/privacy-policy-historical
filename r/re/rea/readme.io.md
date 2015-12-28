@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042551id_/http%3A//readme.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228181344id_/https%3A//readme.io/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy · ReadMe.io
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ReadMe.io may collect and use Users personal information for the following purposes:
 
-  * **To improve customer service**
+  *  **To improve customer service**
 
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
@@ -40,7 +40,7 @@ We may use the information Users provide about themselves when placing an order 
 
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
-  * **To send periodic emails**
+  *  **To send periodic emails**
 
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
@@ -67,7 +67,7 @@ ReadMe.io has the discretion to update this privacy policy at any time. When we 
 
 ## Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/tos.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Contacting us
 
