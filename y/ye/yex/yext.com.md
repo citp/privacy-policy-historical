@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052627id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228231406id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yext
 
 [](https://privacy.truste.com/privacy-seal/Yext-Inc/validation?rid=44c17d39-6603-4c0d-8082-1867846e7e3a)
 
-(Last Updated: April 2, 2015)
+(Last Updated: September 28, 2015)
 
-This Privacy Policy (this "Privacy Policy") discloses the privacy practices for [www.yext.com](http://www.yext.com/) and all other internet properties (collectively, the 'Sites') belonging to Yext, Inc. or any of its subsidiaries ("Yext", "us" or "we"). We understand the importance that Internet users place on privacy and have designed this Privacy Policy to disclose and describe our information-gathering and dissemination practices. You agree to this Privacy Policy, in its entirety, when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. Please note that we reserve the right to review and update this Privacy Policy from time to time by posting a notice on the homepage and updating the effective date of this Privacy Policy.  If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Sites prior to the change becoming effective. If you use a Site after the amended Privacy Policy has been posted, you will be deemed to have agreed to the amended Privacy Policy.
+This Privacy Policy (this "Privacy Policy") discloses the privacy practices for [www.yext.com](http://www.yext.com/) and all other internet properties (collectively, the 'Sites') belonging to Yext, Inc. or any of its subsidiaries ("Yext", "us" or "we"). For information about our privacy practices for Yext mobile applications, please visit the [Yext App Privacy Policy](http://www.yext.com/pdf/app_privacy_policy.pdf). For information about our privacy practices for our Xone service, please visit the [Xone Privacy Policy](http://www.yext.com/xone-privacy-policy/).
+
+We understand the importance that Internet users place on privacy and have designed this Privacy Policy to disclose and describe our information-gathering and dissemination practices. You agree to this Privacy Policy, in its entirety, when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. Please note that we reserve the right to review and update this Privacy Policy from time to time by posting a notice on the homepage and updating the effective date of this Privacy Policy.  If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Sites prior to the change becoming effective. If you use a Site after the amended Privacy Policy has been posted, you will be deemed to have agreed to the amended Privacy Policy.
 
 ### This Privacy Policy addresses the following:
 
