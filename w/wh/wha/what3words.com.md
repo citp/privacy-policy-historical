@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the what3words.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607195416id_/http%3A//what3words.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what3words.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228125545id_/http%3A//what3words.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | what3words
 
