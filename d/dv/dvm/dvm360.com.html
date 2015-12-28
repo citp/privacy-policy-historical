@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the dvm360.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230014008id_/http%3A//dvm360.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dvm360.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228124615id_/http%3A//www.dvm360.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwECUlRSGwcDVFdVAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html lang="en-US" class="js"><!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta http-equiv="Cache-control" content="public">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="canonical" href="http://www.dvm360.com/privacy-policy">
 <link rel="shortcut icon" href="/sites/default/files/dvm360_favicon.ico" type="image/x-icon">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var p='privacypolicy';
-document.write('<' + 'script type="text/javascript" src="//oascentral.advanstar.com/RealMedia/ads/adstream_mjx.ads/veterinary.com/' + p + '/1324991974@x10,x30,x20,x70?"><' + '/script>');
+document.write('<' + 'script type="text/javascript" src="//oascentral.advanstar.com/RealMedia/ads/adstream_mjx.ads/veterinary.com/' + p + '/26395271@x10,x30,x20,x70?"><' + '/script>');
 //--><!]]>
-</script><script type="text/javascript" src="//oascentral.advanstar.com/RealMedia/ads/adstream_mjx.ads/veterinary.com/privacypolicy/1324991974@x10,x30,x20,x70?"></script>
+</script><script type="text/javascript" src="//oascentral.advanstar.com/RealMedia/ads/adstream_mjx.ads/veterinary.com/privacypolicy/26395271@x10,x30,x20,x70?"></script>
 
 <!-- scriptjunkie pinterest_pin_it_code --><!-- Please call pinit.js only once per page -->
 <script type="text/javascript" async="" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script><!--/scriptjunkie pinterest_pin_it_code -->
@@ -32,77 +32,75 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1479416332329403&amp;ev=PixelInitialized" /></noscript><!--/scriptjunkie facebook_team -->
+<!-- scriptjunkie chartbeat_header --><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><!--/scriptjunkie chartbeat_header -->
     <title>Privacy Policy</title>
     
 <style type="text/css" media="all">
-  @import "/sites/all/modules/contributed/block_edit/block_edit.css?g";
-  @import "/sites/all/modules/custom/admin_components/kickapps_common.css?g";
-  @import "/sites/all/modules/custom/admin_components/component_common.css?g";
-  @import "/sites/all/modules/custom/admin_components/components_common.css?g";
-  @import "/modules/node/node.css?g";
-  @import "/modules/poll/poll.css?g";
-  @import "/modules/system/defaults.css?g";
-  @import "/modules/system/system.css?g";
-  @import "/modules/system/system-menus.css?g";
-  @import "/modules/user/user.css?g";
-  @import "/sites/all/modules/contributed/apachesolr_autocomplete/apachesolr_autocomplete.css?g";
-  @import "/sites/all/modules/contributed/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.css?g";
-  @import "/sites/all/modules/contributed/modalframe/css/modalframe.parent.css?g";
-  @import "/sites/all/modules/contributed/cck/theme/content-module.css?g";
-  @import "/sites/all/modules/contributed/ctools/css/ctools.css?g";
-  @import "/sites/all/modules/contributed/date/date.css?g";
-  @import "/sites/all/modules/contributed/domain/domain_nav/domain_nav.css?g";
-  @import "/sites/all/modules/contributed/facet_search/facet_search.css?g";
-  @import "/sites/all/modules/contributed/filefield/filefield.css?g";
-  @import "/sites/all/modules/contributed/fivestar/css/fivestar.css?g";
-  @import "/sites/all/modules/contributed/nice_menus/nice_menus.css?g";
-  @import "/sites/all/themes/dvm360/nice-menu-custom.css?g";
-  @import "/sites/all/modules/contributed/views/css/views.css?g";
-  @import "/sites/all/modules/contributed/views_gallery/views_gallery.css?g";
-  @import "/sites/all/modules/contributed_update/apachesolr_searchbytype/searchbytype.css?g";
-  @import "/sites/all/modules/custom/admin_components/autolist/autolist.css?g";
+  @import "/sites/all/modules/contributed/block_edit/block_edit.css?d";
+  @import "/sites/all/themes/css/component_common.css?d";
+  @import "/sites/all/themes/css/components_common.css?d";
+  @import "/modules/node/node.css?d";
+  @import "/modules/poll/poll.css?d";
+  @import "/modules/system/defaults.css?d";
+  @import "/modules/system/system.css?d";
+  @import "/modules/system/system-menus.css?d";
+  @import "/modules/user/user.css?d";
+  @import "/sites/all/modules/contributed/apachesolr_autocomplete/apachesolr_autocomplete.css?d";
+  @import "/sites/all/modules/contributed/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.css?d";
+  @import "/sites/all/modules/contributed/modalframe/css/modalframe.parent.css?d";
+  @import "/sites/all/modules/contributed/cck/theme/content-module.css?d";
+  @import "/sites/all/modules/contributed/ctools/css/ctools.css?d";
+  @import "/sites/all/modules/contributed/date/date.css?d";
+  @import "/sites/all/modules/contributed/domain/domain_nav/domain_nav.css?d";
+  @import "/sites/all/modules/contributed/facet_search/facet_search.css?d";
+  @import "/sites/all/modules/contributed/filefield/filefield.css?d";
+  @import "/sites/all/modules/contributed/fivestar/css/fivestar.css?d";
+  @import "/sites/all/modules/contributed/nice_menus/nice_menus.css?d";
+  @import "/sites/all/themes/dvm360/nice-menu-custom.css?d";
+  @import "/sites/all/modules/contributed/views/css/views.css?d";
+  @import "/sites/all/modules/contributed/views_gallery/views_gallery.css?d";
+  @import "/sites/all/modules/contributed_update/apachesolr_searchbytype/searchbytype.css?d";
+  @import "/sites/all/modules/custom/admin_components/autolist/autolist.css?d";
+  @import "/sites/all/modules/custom/desktop_image/desktop.css?d";
 </style>
 <style type="text/css" media="all">
-  @import "/sites/all/modules/custom/desktop_image/desktop.css?g";
-  @import "/sites/all/modules/custom/event_custom/event_custom.css?g";
-  @import "/sites/all/modules/contributed/cck/modules/fieldgroup/fieldgroup.css?g";
-  @import "/modules/comment/comment.css?g";
-  @import "/sites/all/themes/dvm360/style.css?g";
-  @import "/sites/all/themes/dvm360/css/main.css?g";
+  @import "/sites/all/modules/custom/event_custom/event_custom.css?d";
+  @import "/sites/all/modules/contributed/cck/modules/fieldgroup/fieldgroup.css?d";
+  @import "/modules/comment/comment.css?d";
+  @import "/sites/all/themes/dvm360/style.css?d";
+  @import "/sites/all/themes/dvm360/css/main.css?d";
 </style>
 <style type="text/css" media="print">
-  @import "/sites/all/themes/dvm360/print.css?g";
+  @import "/sites/all/themes/dvm360/print.css?d";
 </style>
 
-    <script type="text/javascript" src="/sites/all/modules/contributed/jquery_update/replace/jquery.min.js?g"></script>
-<script type="text/javascript" src="/misc/drupal.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/admin_components/js/jquery.showLoading.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/admin_components/js/style-form.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/authcache/js/authcache.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/ahah_action/ahah_action.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/apachesolr_autocomplete/apachesolr_autocomplete.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.js?g"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.core.min.js?g"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.dialog.min.js?g"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.draggable.min.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/modalframe/js/parent.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/automodal/automodal.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/block_edit/block_edit.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/cron/poormanscron/poormanscron.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/fivestar/js/fivestar.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/google_analytics/googleanalytics.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/superfish/js/superfish.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/superfish/js/jquery.bgiframe.min.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/superfish/js/jquery.hoverIntent.minified.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/nice_menus.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/admin_components/articlepackage/articlepkgbullet.js?g"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/article_issue_rellink/email_print.js?g"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.accordion.min.js?g"></script>
-<script type="text/javascript" src="/sites/all/themes/dvm360/js/styleform.js?g"></script>
-<script type="text/javascript" src="/sites/all/themes/dvm360/js/general.js?g"></script>
+    <script type="text/javascript" src="/sites/all/modules/contributed/jquery_update/replace/jquery.min.js?d"></script>
+<script type="text/javascript" src="/misc/drupal.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/admin_components/js/jquery.showLoading.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/admin_components/js/style-form.js?d"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
+<script type="text/javascript" src="/sites/all/modules/contributed/authcache/js/authcache.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/apachesolr_autocomplete/apachesolr_autocomplete.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.js?d"></script>
+<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.core.min.js?d"></script>
+<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.dialog.min.js?d"></script>
+<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.draggable.min.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/modalframe/js/parent.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/automodal/automodal.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/block_edit/block_edit.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/fivestar/js/fivestar.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/google_analytics/googleanalytics.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/superfish/js/superfish.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/superfish/js/jquery.bgiframe.min.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/superfish/js/jquery.hoverIntent.minified.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/contributed/nice_menus/nice_menus.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/admin_components/articlepackage/articlepkgbullet.js?d"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/article_issue_rellink/email_print.js?d"></script>
+<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.accordion.min.js?d"></script>
+<script type="text/javascript" src="/sites/all/themes/dvm360/js/styleform.js?d"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
+<script type="text/javascript" src="/sites/all/themes/dvm360/js/general.js?d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "apachesolr_autocomplete": { "path": "/apachesolr_autocomplete" }, "automodal": { ".automodal": { "autoFit": true, "draggable": true, "width": 600, "height": 400, "automodalClose": true, "automodalReload": false } }, "block_edit": { "hover_links": 1 }, "cron": { "basePath": "/poormanscron", "runNext": 1419914404 }, "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 } });
+jQuery.extend(Drupal.settings, { "basePath": "/", "apachesolr_autocomplete": { "path": "/apachesolr_autocomplete" }, "automodal": { ".automodal": { "autoFit": true, "draggable": true, "width": 600, "height": 400, "automodalClose": true, "automodalReload": false } }, "block_edit": { "hover_links": 1 }, "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 } });
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -150,7 +148,7 @@ function myredirect(myval) {
      }
 //--><!]]>
 </script>
-  </head>
+  <style type="text/css">.a2a_menu, .a2a_menu * { -moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;float:none;margin:0;padding:0;height:auto;width:auto;}.a2a_menu { border-radius: 6px;display:none;direction:ltr;background:#FFF;font: 14px Arial,Helvetica,sans-serif;color:#000;line-height:12px;border: 1px solid #CCC;vertical-align:baseline;overflow:hidden;}.a2a_mini {min-width:200px;position:absolute;width: 300px;z-index:9999997;}.a2a_overlay {display: none;background: #CCC; _height: expression( ((e=document.documentElement.clientHeight)?e:document.body.clientHeight)+"px" ); _width: expression( ((e=document.documentElement.clientWidth)?e:document.body.clientWidth)+"px" ); filter: alpha(opacity=50); opacity: .7;position: fixed;_position: absolute; top: 0;right: 0;left: 0;bottom: 0;z-index: 9999998;-webkit-animation: a2aFadeInOverlay .14s ease-out;animation: a2aFadeInOverlay .14s ease-out;}.a2a_full {background: #FFF;height: auto;height: calc(320px);top: 15%;_top: expression(40+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+"px"); left: 50%;margin-left: -320px; position: fixed;_position: absolute; text-align: center;width: 640px;z-index: 9999999; -webkit-animation: a2aFadeIn .14s ease-in;    animation: a2aFadeIn .14s ease-in;}.a2a_full_header,.a2a_full_services,.a2a_full_footer {border: 0;margin: 0;padding: 12px;box-sizing: border-box;}.a2a_full_header {padding-bottom: 8px;}.a2a_full_services {height: 280px; overflow-y: scroll;padding: 0 12px;-webkit-overflow-scrolling: touch;}.a2a_full_services .a2a_i {display: inline-block;float: none;width: 181px;width: calc(33.334% - 18px);}div.a2a_full_footer {font-size: 9px;text-align: center;padding: 6px 12px;}div.a2a_full_footer a,div.a2a_full_footer a:visited {display: inline;font-size: 9px;padding: 6px 12px; }div.a2a_full_footer a:hover {background: none;border: 0;color: #0166FF;}div.a2a_full_footer a span.a2a_i_a2a_sm {display: inline-block;padding-left: 14px;vertical-align: bottom;}@-webkit-keyframes a2aFadeIn {from { opacity: 0; }  to { opacity: 1; }}@keyframes a2aFadeIn {from { opacity: 0; }  to { opacity: 1; }}@-webkit-keyframes a2aFadeInOverlay {from { opacity: 0; }  to { opacity: .7; }}@keyframes a2aFadeInOverlay {from { opacity: 0; }  to { opacity: .7; }}@media (max-width: 639px) {.a2a_full {top: 15%;left: 0;margin-left: auto;width: 100%;}}@media (min-width: 318px) and (max-width: 437px) {.a2a_full .a2a_full_services .a2a_i {width: calc(50% - 18px);}}@media (max-width: 317px) {.a2a_full .a2a_full_services .a2a_i {width: calc(100% - 18px);}}@media (max-height: 436px) {.a2a_full {bottom: 40px;height: auto;top: 40px;}}.a2a_menu a{color:#0166FF;text-decoration:none;font:14px Arial,Helvetica,sans-serif;line-height:14px;height:auto;width:auto;outline:none;-moz-outline:none;}.a2a_menu a:visited{color:#0166FF}.a2a_menu a:hover,.a2a_menu a:active,.a2a_menu a.a2a_i:focus,.a2a_tabs div:hover{color:#2A2A2A;border:1px solid #EEE;background-color:#EEE;text-decoration:none}.a2a_menu span,.a2a_img{background:url(https://web.archive.org/web/20151002005721/https://static.addtoany.com/menu/icons.27.png) no-repeat;border:0;display:block;line-height:16px}.a2a_menu span.a2a_i_find { height:16px;left: 8px;position:absolute;top: 7px;width:16px;}.a2a_menu span.a2a_i_find svg {background-color: #FFF;}.a2a_menu span.a2a_i_find svg path {fill: #CCC;}#a2a_menu_container{display:inline-block} #a2a_menu_container{_display:inline} .a2a_menu_title_container {padding: 6px 8px;}.a2a_menu_find_container {border: 1px solid #CCC;border-radius: 6px;padding: 2px 24px 2px 0;position: relative;text-align: left;}.a2a_cols_container{border-bottom-right-radius:8px;border-top-right-radius:8px}.a2a_cols_container .a2a_col1{overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}.a2a_menu input, .a2a_menu input[type="text"]{display:block;background-image:none;box-shadow:none;line-height:100%;margin:0;overflow:hidden;padding:0;-moz-box-shadow:none;-webkit-box-shadow:none;-webkit-appearance:none} .a2a_menu_title_container input.a2a_menu_title {background-color: #FFF;border: 0;color: #2A2A2A;font: inherit;margin: 0;padding: 0;width: 99%;}.a2a_menu_find_container input.a2a_menu_find {background-color: transparent;_background-color: #FFF;border: 0;color: #2A2A2A;font-size: 16px;height: 20px;line-height: 20px;left: 28px;outline: 0;padding: 2px 0;position: relative;width: 99%;}.a2a_clear{clear:both} .a2a_img, .a2a_svg { display:block; overflow:hidden; }.a2a_img{height:16px;line-height:16px;width:16px;}.a2a_svg{height:32px;line-height:32px;width:32px;}.a2a_default_style a{float:left;line-height:16px;padding:0 2px}.a2a_default_style a:hover .a2a_img,.a2a_default_style a:hover .a2a_svg,.a2a_floating_style a:hover .a2a_img,.a2a_floating_style a:hover .a2a_svg { opacity: .7;}.a2a_default_style .a2a_svg, .a2a_floating_style .a2a_svg { border-radius:14% ;} .a2a_default_style .a2a_img, .a2a_default_style .a2a_dd, .a2a_default_style .a2a_svg{float:left}.a2a_default_style .a2a_img_text{margin-right:4px}.a2a_default_style .a2a_divider{border-left:1px solid #000;display:inline;float:left;height:16px;line-height:16px;margin:0 5px}.a2a_kit a{cursor:pointer}.a2a_floating_style { background-color: #fff; border-radius: 6px; padding: 4px; position: fixed; z-index: 9999995; }.a2a_vertical_style a { display: block; padding: 4px; }.a2a_floating_style.a2a_default_style { bottom: 0; }.a2a_floating_style.a2a_default_style a { padding: 4px; }.a2a_nowrap{white-space:nowrap}.a2a_note{margin:0 auto;padding:9px;font-size:12px;text-align:center}.a2a_note .a2a_note_note{margin:0;color:#2A2A2A}.a2a_wide a{display:block;margin-top:3px;border:1px solid #EEE;padding:3px;text-align:center}.a2a_tabs{float:left;margin:0 0 3px} .a2a_tabs a,.a2a_tabs div{margin:1px;background-color:#EEE; border:1px solid #EEE; font-size:11px; padding:6px 12px ; white-space:nowrap} .a2a_tabs a span, .a2a_tabs div span{display:inline-block;padding-left:20px;height:auto;width:auto} .a2a_tabs_default a span, .a2a_tabs_default div span{height:auto;max-width:99px;overflow:hidden;padding-left:20px;width:auto;_width:expression(this.clientWidth > 99? "97px" : "auto");}.a2a_tabs a, .a2a_tabs a:visited, .a2a_tabs a:hover, .a2a_tabs div, .a2a_tabs div:hover{cursor:pointer;border-bottom:1px solid #EEE;color:#2A2A2A;border-bottom-left-radius:0;-webkit-border-bottom-left-radius:0;-moz-border-radius-bottomleft:0;border-bottom-right-radius:0;-webkit-border-bottom-right-radius:0;-moz-border-radius-bottomright:0}a.a2a_tab_selected, a.a2a_tab_selected:visited,a.a2a_tab_selected:hover,a.a2a_tab_selected:active,a.a2a_tab_selected:focus, div.a2a_tab_selected,div.a2a_tab_selected:hover{color:#0166FF;background-color:#FFF;border:1px solid #CCC;border-bottom:1px solid #FFF}a.a2a_i,i.a2a_i{display:block;float:left;border:1px solid #FFF;padding:6px 8px;text-align:left;white-space:nowrap;width:132px;}a.a2a_i span, a.a2a_more span {overflow: hidden;padding: 0 0 0 21px;text-overflow: ellipsis;}a.a2a_sss:hover {border-left: 1px solid #CCC;}a.a2a_menu_show_more_less{border-bottom:1px solid #FFF;border-left:0;border-right:0;margin:6px 0 0;padding:6px}a.a2a_menu_show_more_less span{display:inline-block;height:16px;margin:0 auto;vertical-align:bottom;} iframe.a2a_shim {background-color: transparent;border: 0;bottom: 0;filter: alpha(opacity=0); height: 100%;left: 0;right: 0;top: 0;position: absolute;width: 100%;z-index: 9999996;_height: expression( ((e=document.documentElement.clientHeight)?e:document.body.clientHeight)+"px" ); _width: expression( ((e=document.documentElement.clientWidth)?e:document.body.clientWidth)+"px" ); }.a2a_dd img {border:0;-ms-touch-action:manipulation;}.a2a_i_a2a{background-position:0 0!important}.a2a_i_a2a_sm{background-position:0 -17px!important}.a2a_i_agregator{background-position:0 -34px!important}.a2a_i_aim{background-position:0 -51px!important}.a2a_i_allvoices{background-position:0 -68px!important}.a2a_i_amazon{background-position:0 -85px!important}.a2a_i_aol{background-position:0 -102px!important}.a2a_i_app_net{background-position:0 -119px!important}.a2a_i_arto{background-position:0 -136px!important}.a2a_i_baidu{background-position:0 -153px!important}.a2a_i_bebo{background-position:0 -170px!important}.a2a_i_bibsonomy{background-position:0 -187px!important}.a2a_i_bitty{background-position:0 -204px!important}.a2a_i_blinklist{background-position:0 -221px!important}.a2a_i_blogger{background-position:0 -238px!important}.a2a_i_bloglines{background-position:0 -255px!important}.a2a_i_blogmarks{background-position:0 -272px!important}.a2a_i_bloomberg_current{background-position:0 -289px!important}.a2a_i_bookmark{background-position:0 -306px!important}.a2a_i_bookmarks_fr{background-position:0 -323px!important}.a2a_i_box{background-position:0 -340px!important}.a2a_i_buddymarks{background-position:0 -357px!important}.a2a_i_buffer{background-position:0 -374px!important}.a2a_i_care2{background-position:0 -391px!important}.a2a_i_chrome{background-position:0 -408px!important}.a2a_i_citeulike{background-position:0 -425px!important}.a2a_i_dailyrotation{background-position:0 -442px!important}.a2a_i_default{background-position:0 -459px!important}.a2a_i_delicious{background-position:0 -476px!important}.a2a_i_designfloat{background-position:0 -493px!important}.a2a_i_diaspora{background-position:0 -510px!important}.a2a_i_digg{background-position:0 -527px!important}.a2a_i_diigo{background-position:0 -544px!important}.a2a_i_dzone{background-position:0 -561px!important}.a2a_i_email{background-position:0 -578px!important}.a2a_i_evernote{background-position:0 -595px!important}.a2a_i_facebook{background-position:0 -612px!important}.a2a_i_fark{background-position:0 -629px!important}.a2a_i_feed{background-position:0 -646px!important}.a2a_i_feedblitz{background-position:0 -663px!important}.a2a_i_feedbucket{background-position:0 -680px!important}.a2a_i_feedly{background-position:0 -697px!important}.a2a_i_feedmailer{background-position:0 -714px!important}.a2a_i_find{background-position:0 -731px!important}.a2a_i_fireant{background-position:0 -748px!important}.a2a_i_firefox{background-position:0 -765px!important}.a2a_i_flipboard{background-position:0 -782px!important}.a2a_i_folkd{background-position:0 -799px!important}.a2a_i_friendfeed{background-position:0 -816px!important}.a2a_i_funp{background-position:0 -833px!important}.a2a_i_gmail{background-position:0 -850px!important}.a2a_i_google{background-position:0 -867px!important}.a2a_i_google_plus{background-position:0 -884px!important}.a2a_i_hatena{background-position:0 -901px!important}.a2a_i_instapaper{background-position:0 -918px!important}.a2a_i_itunes{background-position:0 -935px!important}.a2a_i_jamespot{background-position:0 -952px!important}.a2a_i_jumptags{background-position:0 -969px!important}.a2a_i_khabbr{background-position:0 -986px!important}.a2a_i_kindle{background-position:0 -1003px!important}.a2a_i_klipfolio{background-position:0 -1020px!important}.a2a_i_line{background-position:0 -1037px!important}.a2a_i_linkagogo{background-position:0 -1054px!important}.a2a_i_linkatopia{background-position:0 -1071px!important}.a2a_i_linkedin{background-position:0 -1088px!important}.a2a_i_livejournal{background-position:0 -1105px!important}.a2a_i_mail_ru{background-position:0 -1122px!important}.a2a_i_mendeley{background-position:0 -1139px!important}.a2a_i_meneame{background-position:0 -1156px!important}.a2a_i_miro{background-position:0 -1173px!important}.a2a_i_mixi{background-position:0 -1190px!important}.a2a_i_my_msn{background-position:0 -1207px!important}.a2a_i_myspace{background-position:0 -1224px!important}.a2a_i_netlog{background-position:0 -1241px!important}.a2a_i_netvibes{background-position:0 -1258px!important}.a2a_i_netvouz{background-position:0 -1275px!important}.a2a_i_newsalloy{background-position:0 -1292px!important}.a2a_i_newsisfree{background-position:0 -1309px!important}.a2a_i_newstrust{background-position:0 -1326px!important}.a2a_i_newsvine{background-position:0 -1343px!important}.a2a_i_nowpublic{background-position:0 -1360px!important}.a2a_i_odnoklassniki{background-position:0 -1377px!important}.a2a_i_oknotizie{background-position:0 -1394px!important}.a2a_i_oldreader{background-position:0 -1411px!important}.a2a_i_orkut{background-position:0 -1428px!important}.a2a_i_outlook{background-position:0 -1445px!important}.a2a_i_outlook_com{background-position:0 -1462px!important}.a2a_i_pdf{background-position:0 -1479px!important}.a2a_i_phonefavs{background-position:0 -1496px!important}.a2a_i_pinboard{background-position:0 -1513px!important}.a2a_i_pinterest{background-position:0 -1530px!important}.a2a_i_plurk{background-position:0 -1547px!important}.a2a_i_pocket{background-position:0 -1564px!important}.a2a_i_podnova{background-position:0 -1581px!important}.a2a_i_print{background-position:0 -1598px!important}.a2a_i_printfriendly{background-position:0 -1615px!important}.a2a_i_protopage{background-position:0 -1632px!important}.a2a_i_pusha{background-position:0 -1649px!important}.a2a_i_rapidfeeds{background-position:0 -1666px!important}.a2a_i_reddit{background-position:0 -1683px!important}.a2a_i_rediff{background-position:0 -1700px!important}.a2a_i_segnalo{background-position:0 -1717px!important}.a2a_i_share{background-position:0 -1734px!important}.a2a_i_sina_weibo{background-position:0 -1751px!important}.a2a_i_sitejot{background-position:0 -1768px!important}.a2a_i_slashdot{background-position:0 -1785px!important}.a2a_i_springpad{background-position:0 -1802px!important}.a2a_i_startaid{background-position:0 -1819px!important}.a2a_i_stumbleupon{background-position:0 -1836px!important}.a2a_i_stumpedia{background-position:0 -1853px!important}.a2a_i_symbaloo{background-position:0 -1870px!important}.a2a_i_technotizie{background-position:0 -1887px!important}.a2a_i_thefreedictionary{background-position:0 -1904px!important}.a2a_i_thefreelibrary{background-position:0 -1921px!important}.a2a_i_tuenti{background-position:0 -1938px!important}.a2a_i_tumblr{background-position:0 -1955px!important}.a2a_i_twiddla{background-position:0 -1972px!important}.a2a_i_twitter{background-position:0 -1989px!important}.a2a_i_typepad{background-position:0 -2006px!important}.a2a_i_viadeo{background-position:0 -2023px!important}.a2a_i_vk{background-position:0 -2040px!important}.a2a_i_wanelo{background-position:0 -2057px!important}.a2a_i_webnews{background-position:0 -2074px!important}.a2a_i_whatsapp{background-position:0 -2091px!important}.a2a_i_winksite{background-position:0 -2108px!important}.a2a_i_wists{background-position:0 -2125px!important}.a2a_i_wordpress{background-position:0 -2142px!important}.a2a_i_xerpi{background-position:0 -2159px!important}.a2a_i_xing{background-position:0 -2176px!important}.a2a_i_y18{background-position:0 -2193px!important}.a2a_i_yahoo{background-position:0 -2210px!important}.a2a_i_yim{background-position:0 -2227px!important}.a2a_i_yoolink{background-position:0 -2244px!important}.a2a_i_youmob{background-position:0 -2261px!important}</style></head>
   <body>
     <div class="wrapper">
       <div id="maincontainer">
@@ -179,13 +177,15 @@ function myredirect(myval) {
           </div>  <!--top-advertisement -->
                 <div class="container">
           <header id="header">
-            <nav class="topmenu">
-              <ul class="nav-links"><li class="menu-1549 first"><a href="http://veterinarynews.dvm360.com/news-center" title="">Home of dvm360 magazine</a></li>
+        <nav class="topmenu">
+          <p class="mobilesitelink">
+              <span>&gt;&gt;</span><a href="/mt/mobile/node/27170">Mobile Site</a>          </p>
+                      <ul class="nav-links"><li class="menu-1549 first"><a href="http://veterinarynews.dvm360.com/news-center" title="">Home of dvm360 magazine</a></li>
 <li class="menu-1551"><a href="http://veterinarymedicine.dvm360.com/medicine-center" title="">Veterinary Medicine</a></li>
 <li class="menu-1550"><a href="http://veterinarybusiness.dvm360.com/" title="">Veterinary Economics</a></li>
 <li class="menu-1552"><a href="http://veterinaryteam.dvm360.com/team-center" title="">Firstline</a></li>
 <li class="menu-1553 last"><a href="http://www.thecvc.com" title="">The CVC Group</a></li>
-</ul>            </nav> <!--topmenu -->
+</ul>                  </nav> <!--topmenu -->
             <div class="header-banner">
               <h1 id="logo">
                 <a href="http://www.dvm360.com/" title=""><img src="/sites/default/files/dvm360_logo.png" alt="" id="logo"></a>              </h1> <!--logo -->
@@ -194,7 +194,7 @@ function myredirect(myval) {
 <div><div id="search" class="container-inline">
   <div class="form-item" id="edit-search-theme-form-1-wrapper">
  <label for="edit-search-theme-form-1">Find it all here. </label>
- <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="Enter keyword or phrase" onblur="if (this.value == '') {this.value = 'Enter keyword or phrase';}" onfocus="if (this.value == 'Enter keyword or phrase') {this.value = '';} ;" class="form-text">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text apachesolr-autocomplete unprocessed  form-autocomplete" placeholder="Enter keyword or phrase" autocomplete="off">
 </div>
 <input type="submit" name="op" id="edit-submit" value="go!" class="form-submit">
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
@@ -230,30 +230,28 @@ function myredirect(myval) {
 <div id="block-nice_menus-1" class="componentBlock clear-block block block-nice_menus">
 
 
-  <div class="content content-2col-holder"><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-1554 menu-path-veterinarynewsdvm360com- first  odd "><a href="http://veterinarynews.dvm360.com/" title="">News</a></li>
+  <div class="content content-2col-holder"><ul class="nice-menu nice-menu-down sf-js-enabled" id="nice-menu-1"><li class="menu-1554 menu-path-veterinarynewsdvm360com- first  odd "><a href="http://veterinarynews.dvm360.com/" title="">News</a></li>
 <li class="menu-1555 menu-path-node-27136 even "><a href="http://veterinarymedicine.dvm360.com/medicine-center" title="">Medicine</a></li>
 <li class="menu-8145 menu-path-veterinarybusinessdvm360com- odd "><a href="http://veterinarybusiness.dvm360.com/" title="">Business</a></li>
 <li class="menu-1556 menu-path-node-27138 even "><a href="http://veterinaryhospitaldesign.dvm360.com/hospital-design-center" title="">Hospital design</a></li>
-<li class="menu-1557 menuparent menu-path-marketplacedvm360com- odd "><a href="http://marketplace.dvm360.com/" title="">Marketplace</a><ul><li class="menu-88784 menu-path-marketplacedvm360com-community-browseaspcid251 first  odd "><a href="http://marketplace.dvm360.com/community/browse.asp?cid=251" title="">Products</a></li>
-<li class="menu-88785 menu-path-marketplacedvm360com-community-browseaspcid43 even "><a href="http://marketplace.dvm360.com/community/browse.asp?cid=43" title="">Services</a></li>
-<li class="menu-88786 menu-path-marketplacedvm360com-community-browseaspcid130 odd "><a href="http://marketplace.dvm360.com/community/browse.asp?cid=130" title="">Education</a></li>
-<li class="menu-88787 menu-path-marketplacedvm360com-community-browseaspcid293 even  last "><a href="http://marketplace.dvm360.com/community/browse.asp?cid=293" title="">Real estate</a></li>
+<li class="menu-1557 menuparent menu-path-marketplacedvm360com- odd "><a href="http://marketplace.dvm360.com/" title="">Marketplace</a><ul style="display: none; visibility: hidden;"><li class="menu-88784 menu-path-marketplacedvm360com-products first  odd "><a href="http://marketplace.dvm360.com/products" title="">Products</a></li>
+<li class="menu-88785 menu-path-marketplacedvm360com-companies even  last "><a href="http://marketplace.dvm360.com/companies" title="">Companies</a></li>
 </ul>
 </li>
-<li class="menu-1558 menuparent menu-path-node-306783 even "><a href="/follow-dvm360-twitter-facebook-and-pinterest" title="">Community</a><ul><li class="menu-88788 menu-path-taxonomy-term-51717 first  odd "><a href="/videos-dvm360">Videos</a></li>
+<li class="menu-1558 menuparent menu-path-node-306783 even "><a href="/follow-dvm360-twitter-facebook-and-pinterest" title="">Community</a><ul style="display: none; visibility: hidden;"><li class="menu-88788 menu-path-taxonomy-term-51717 first  odd "><a href="/videos-dvm360">Videos</a></li>
 <li class="menu-91726 menu-path-facebookcom-dvm360 even "><a href="http://www.facebook.com/dvm360" title="Like dvm360 on Facebook">Facebook</a></li>
 <li class="menu-91727 menu-path-twittercom-dvm360 odd "><a href="http://www.twitter.com/dvm360" title="Follow us on Twitter">Twitter</a></li>
 <li class="menu-91728 menu-path-pinterestcom-dvm360 even  last "><a href="http://www.pinterest.com/dvm360" title="Follow dvm360 on Pinterest">Pinterest</a></li>
 </ul>
 </li>
-<li class="menu-1677 menu-path-marketplacedvm360com-employment-defaultasp odd "><a href="http://marketplace.dvm360.com/employment/default.asp" title="">Jobs</a></li>
-<li class="menu-88792 menuparent menu-path-taxonomy-term-23340 even "><a href="/veterinary-ce-continuing-education" title="">CE</a><ul><li class="menu-88793 menu-path-thecvccom first  odd "><a href="http://www.thecvc.com" title="">CVC</a></li>
+<li class="menu-1677 menu-path-marketplacedvm360com-products-veterinarian-positions odd "><a href="http://marketplace.dvm360.com/products/veterinarian-positions" title="">Jobs</a></li>
+<li class="menu-88792 menuparent menu-path-taxonomy-term-23340 even "><a href="/veterinary-ce-continuing-education" title="">CE</a><ul style="display: none; visibility: hidden;"><li class="menu-88793 menu-path-thecvccom first  odd "><a href="http://www.thecvc.com" title="">CVC</a></li>
 <li class="menu-88794 menu-path-taxonomy-term-23340 even "><a href="/veterinary-ce-continuing-education" title="">CE center</a></li>
 <li class="menu-88795 menu-path-veterinarycalendardvm360com-event_calendar odd "><a href="http://veterinarycalendar.dvm360.com/event_calendar" title="">Calendar of events</a></li>
 <li class="menu-88796 menu-path-taxonomy-term-23216 even  last "><a href="http://veterinarycalendar.dvm360.com/vetsymposium-0" title="">Vetsymposium</a></li>
 </ul>
 </li>
-<li class="menu-88780 menuparent menu-path-thecvccom odd  last "><a href="http://www.thecvc.com" title="">CVC</a><ul><li class="menu-88781 menu-path-thecvccom-dc first  odd "><a href="http://www.thecvc.com/dc" title="">Washington, D.C.</a></li>
+<li class="menu-88780 menuparent menu-path-thecvccom odd last "><a href="http://www.thecvc.com" title="">CVC</a><ul style="display: none; visibility: hidden;"><li class="menu-88781 menu-path-thecvccom-vb first  odd "><a href="http://www.thecvc.com/vb" title="">Virginia Beach</a></li>
 <li class="menu-88782 menu-path-thecvccom-kc even "><a href="http://www.thecvc.com/kc" title="">Kansas City</a></li>
 <li class="menu-88783 menu-path-thecvccom-sd odd  last "><a href="http://www.thecvc.com/sd" title="">San Diego</a></li>
 </ul>
@@ -299,31 +297,31 @@ function myredirect(myval) {
 
   <div class="content content-2col-holder"><div class="accordion-menu-3 accordion-menu-name-news-center-left-nav accordion-menu-source-menu-newscenter">
   <li class="accordion-header accordion-header-1 first no-children odd menu-mlid-8376"><a href="http://veterinarynews.dvm360.com/news-center" title="">News</a></li>
-<div class="accordion-content-1"></div>
+<div class="accordion-content-1" style="display: none;"></div>
 <li class="accordion-header accordion-header-2 no-children even menu-mlid-8379"><a href="http://veterinarynews.dvm360.com/breaking-news" title="">Top headlines</a></li>
-<div class="accordion-content-2"></div>
+<div class="accordion-content-2" style="display: none;"></div>
 <li class="accordion-header accordion-header-3 no-children odd menu-mlid-89225"><a href="http://veterinarynews.dvm360.com/recalls">Recalls</a></li>
-<div class="accordion-content-3"></div>
+<div class="accordion-content-3" style="display: none;"></div>
 <li class="accordion-header accordion-header-4 no-children even menu-mlid-89226"><a href="http://veterinarynews.dvm360.com/market-trends" title="">Market trends</a></li>
-<div class="accordion-content-4"></div>
+<div class="accordion-content-4" style="display: none;"></div>
 <li class="accordion-header accordion-header-5 no-children odd menu-mlid-89227"><a href="http://veterinarynews.dvm360.com/medical-news" title="">Medical news</a></li>
-<div class="accordion-content-5"></div>
+<div class="accordion-content-5" style="display: none;"></div>
 <li class="accordion-header accordion-header-6 no-children even menu-mlid-89228"><a href="http://veterinarynews.dvm360.com/practice-news" title="">Practice news</a></li>
-<div class="accordion-content-6"></div>
+<div class="accordion-content-6" style="display: none;"></div>
 <li class="accordion-header accordion-header-7 no-children odd menu-mlid-89229"><a href="http://veterinarynews.dvm360.com/educational-news" title="">Education news</a></li>
-<div class="accordion-content-7"></div>
+<div class="accordion-content-7" style="display: none;"></div>
 <li class="accordion-header accordion-header-8 no-children even menu-mlid-89234"><a href="http://veterinarynews.dvm360.com/regulatory-news" title="">Regulatory news</a></li>
-<div class="accordion-content-8"></div>
+<div class="accordion-content-8" style="display: none;"></div>
 <li class="accordion-header accordion-header-9 no-children odd menu-mlid-89231"><a href="http://veterinarynews.dvm360.com/equine-news" title="">Equine news</a></li>
-<div class="accordion-content-9"></div>
+<div class="accordion-content-9" style="display: none;"></div>
 <li class="accordion-header accordion-header-10 no-children even menu-mlid-89230"><a href="http://veterinarynews.dvm360.com/association-news-0" title="">Association news</a></li>
-<div class="accordion-content-10"></div>
+<div class="accordion-content-10" style="display: none;"></div>
 <li class="accordion-header accordion-header-11 no-children odd menu-mlid-89232"><a href="http://veterinarynews.dvm360.com/politics" title="">Politics</a></li>
-<div class="accordion-content-11"></div>
+<div class="accordion-content-11" style="display: none;"></div>
 <li class="accordion-header accordion-header-12 no-children even menu-mlid-89233"><a href="http://veterinarynews.dvm360.com/law-and-ethics-0" title="">Law and ethics</a></li>
-<div class="accordion-content-12"></div>
-<li class="accordion-header accordion-header-13 last has-children odd menu-mlid-8395"><a href="http://veterinarynews.dvm360.com/sourceissues" title="">dvm360 magazine</a></li>
-<div class="accordion-content-13"><ul class="menu hide-at-first"><li class="leaf first"><a href="http://veterinarynews.dvm360.com/sourceissues" title="">Current and past issues</a></li>
+<div class="accordion-content-12" style="display: none;"></div>
+<li class="accordion-header accordion-header-13 last has-children odd menu-mlid-8395"><a href="http://veterinarynews.dvm360.com/sourceissues" title=""><span>dvm360 magazine</span></a></li>
+<div class="accordion-content-13" style="display: none;"><ul class="menu hide-at-first"><li class="leaf first"><a href="http://veterinarynews.dvm360.com/sourceissues" title="">Current and past issues</a></li>
 <li class="leaf last"><a href="http://veterinarynews.dvm360.com/contact-dvm360-magazine" title="">Contact us</a></li>
 </ul></div>
 </div>
@@ -346,7 +344,7 @@ function myredirect(myval) {
     </script></div></div>
 </div>            </div> <!-- left-panel  -->
             <article class="col3" id="article">
-		                                                                <h2 class="pagetitle">Privacy Policy</h2>            			  			                              <div id="node-27170" class="node">
+		                                                                <h2 class="pagetitle">Privacy Policy</h2>            			  			                              <div id="node-27170" class="node node-page">
 
 
   <div class="content clear-block" style="clear:left;word-wrap: break-word;">
@@ -391,7 +389,7 @@ function myredirect(myval) {
 <div id="block-autolist-23348" class="componentBlock clear-block block block-autolist">
 
 
-  <div class="content content-2col-holder"><div class="autolist-cvc"><div class="content-2col noborder " style=";width:100% !important;"><h3 style="background-color:#6ea219;color:#FFFFFF;font-family:gudea;font-size:13px !important;font-weight:bold;">Hot topics on dvm360</h3><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4 class="first-title"><a href="/vetcetera-complex-topic-canine-fear-related-aggression" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">Vetcetera: The complex topic of canine fear-related aggression</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Dec 07, 2014</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinarymedicine.dvm360.com/reality-tv-and-veterinarian-discussing-mainstream-dog-training-advice-with-clients" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">Reality TV and the veterinarian: Discussing mainstream dog training advice with clients</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Dec 07, 2014</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinarynews.dvm360.com/blog-election-results-pose-obstacles-veterinary-prescription-law" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">Blog: Election results pose obstacles for veterinary prescription law</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 10, 2014</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinarynews.dvm360.com/war-between-shelters-veterinarians-needs-end" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">The war between shelters, veterinarians needs to end</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 01, 2014</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinarybusiness.dvm360.com/7-steps-better-relationships-between-veterinarians-and-rescue-groups" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">7 steps to a better relationship between veterinarians and rescue groups</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 01, 2014</h5></div></div><div class="morelink"><span>|</span><a href="/autolist/95/more" style="font-weight:bold; list-style-type:none;">More</a><span>|</span></div></div></div></div>
+  <div class="content content-2col-holder"><div class="autolist-cvc"><div class="content-2col noborder " style=";width:100% !important;"><h3 style="background-color:#6ea219;color:#FFFFFF;font-family:gudea;font-size:13px !important;font-weight:bold;">Hot topics on dvm360</h3><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4 class="first-title"><a href="/vets-confess-people-piss-us" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">Vets confess: People piss us off.</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Dec 02, 2015</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinaryteam.dvm360.com/avoid-2-am-foodie-call" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">Avoid the 2 a.m. foodie call</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 24, 2015</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinarynews.dvm360.com/new-possible-cushing-s-treatments-work-root-cause" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">New possible Cushing’s treatments work at root cause</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 12, 2015</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="http://veterinarymedicine.dvm360.com/feline-posture-visual-dictionary" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">Feline posture: A visual dictionary</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 04, 2015</h5></div></div><div class="content-2col-content-holder" style=""><div class="content-2col-content"><h4><a href="/f-word-dvm360-leadership-challenge" style="color:#165d9e;font-family:gudea;font-size:14px;line-height:15px;font-weight:bold;">The F-word: A dvm360 Leadership Challenge</a></h4><h5 class="date" style="color:#83868C;font-family:gudea;font-size:10px;"> Nov 01, 2015</h5></div></div><div class="morelink"><span>|</span><a href="/autolist/95/more" style="font-weight:bold; list-style-type:none;">More</a><span>|</span></div></div></div></div>
 </div></div>
                           </article> <!-- category_rightContainer  -->
             <aside id="aside">
@@ -451,7 +449,7 @@ function myredirect(myval) {
 <li class="leaf"><a href="http://veterinarynews.dvm360.com/regulatory-news" title="">Regulatory news</a></li>
 <li class="leaf"><a href="http://veterinarynews.dvm360.com/medical-news" title="">Medical news</a></li>
 <li class="leaf"><a href="/photo-gallery" title="">Photo galleries</a></li>
-<li class="leaf last"><a href="/dvm360-five" title="">The dvm360 Five</a></li>
+<li class="leaf last"><a href="/videos-dvm360" title="">Videos</a></li>
 </ul></div>
 </div>
 <div id="block-menu-menu-node" class="componentBlock clear-block block block-menu">
@@ -493,18 +491,18 @@ function myredirect(myval) {
 <li class="leaf"><a href="http://veterinaryteam.dvm360.com/team-center-working-yourself-0" title="">Working on yourself</a></li>
 <li class="leaf"><a href="http://veterinaryteam.dvm360.com/audio-and-video-technicians" title="">Audio and video</a></li>
 <li class="leaf"><a href="http://veterinarybusiness.dvm360.com/forms" title="">Forms</a></li>
-<li class="leaf last"><a href="/gallery/all/list" title="">Cartoons</a></li>
+<li class="leaf last"><a href="http://www.dvm360.com/cartoons" title="">Cartoons</a></li>
 </ul></div>
 </div>
 <div id="block-menu-menu-modernmedicincom" class="componentBlock clear-block block block-menu">
 
 
   <div class="content content-2col-holder"><ul class="menu"><li class="leaf first"><a href="http://www.thecvc.com" title="">The CVC Group</a></li>
-<li class="leaf"><a href="http://thecvc.com/dc" title="">Washington, D.C.</a></li>
-<li class="leaf"><a href="http://thecvc.com/kc" title="">Kansas City</a></li>
-<li class="leaf"><a href="http://thecvc.com/sd" title="">San Diego</a></li>
+<li class="leaf"><a href="http://thecvc.com/vb" title="">CVC Virginia Beach</a></li>
+<li class="leaf"><a href="http://thecvc.com/kc" title="">CVC Kansas City</a></li>
+<li class="leaf"><a href="http://thecvc.com/sd" title="">CVC San Diego</a></li>
 <li class="leaf"><a href="http://www.thecvc.com/calendar" title="">CVC dates</a></li>
-<li class="leaf"><a href="http://www.dvm360media.com/dvm360media/cathome/catHome5.jsp?categoryId=47305" title="">Exhibitors</a></li>
+<li class="leaf"><a href="http://www.dvm360media.com/exhibit" title="">Exhibitors</a></li>
 <li class="leaf"><a href="http://www.thecvc.com/e-mail-signup/" title="">Info packet</a></li>
 <li class="leaf last"><a href="http://www.thecvc.com/e-mail-signup/" title="">E-mail alerts</a></li>
 </ul></div>
@@ -536,7 +534,7 @@ function myredirect(myval) {
 
   <div class="content content-2col-holder"><ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
 <li class="leaf"><a href="/contact-us" title="">Contact Us</a></li>
-<li class="leaf"><a href="/about-us" title="">Advanstar Communications</a></li>
+<li class="leaf"><a href="/about-us" title="">UBM Life Sciences</a></li>
 <li class="leaf"><a href="/disclaimer" title="">Disclaimer</a></li>
 <li class="leaf"><a href="http://veterinarycalendar.dvm360.com/event_calendar" title="">Meeting Calendar</a></li>
 <li class="leaf"><a href="/site-map" title="">Site Map</a></li>
@@ -545,7 +543,7 @@ function myredirect(myval) {
 <li class="leaf last"><a href="/linking-and-rss-policy" title="">Linking And Rss Policy</a></li>
 </ul></div>
 </div>              </div>
-                            <p>© 2014 Advanstar Communications, Inc. All rights reserved.<br>Reproduction in whole or in part is prohibited.<br>Please send any technical comments or questions to our webmasters.</p>
+                            <p>© 2015 Advanstar Communications, Inc. All rights reserved.<br>Reproduction in whole or in part is prohibited.<br>Please send any technical comments or questions to our webmasters.</p>
             </div> <!-- footer-bottom-column copyrights-->
           </footer> <!-- footer-->
         </div> <!-- container-->
@@ -574,10 +572,60 @@ if (s_code) document.write(s_code)
   if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
 //--></script>
 <noscript>
-  <a href="http://www.omniture.com" title="Web Analytics"><img src="/7039327" style="height:1px;width:1px;border:0 none;" alt="" /></a>
+  <a href="http://www.omniture.com" title="Web Analytics"><img src="/819724" style="height:1px;width:1px;border:0 none;" alt="" /></a>
 </noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.30 -->
-<script type="text/javascript">
+<!-- scriptjunkie km_domain_tracking_all_su --><script type="text/javascript"> 
+var domain = window.location.hostname;
+var TrackerKey;
+  switch (domain) {
+	  case "veterinarybusiness.dvm360.com":
+		  TrackerKey = "a6ec7feb-e6b1-46c0-ab1c-ee73e1d76094";
+		  break;
+	  case "veterinarycalendar.dvm360.com":
+		  TrackerKey = "3cdec1fb-feaf-48d9-9e1f-281964244d59";
+		  break;
+	  case "veterinaryhospitaldesign.dvm360.com":
+		  TrackerKey = "9f03b258-417c-45e4-87eb-9685445c3881";
+		  break;
+	  case "veterinarymedicine.dvm360.com":
+		  TrackerKey = "8a4ada14-0727-49a0-aa5d-369de5af3aba";
+		  break;
+	  case "veterinarynews.dvm360.com":
+		  TrackerKey = "21a7363b-9e42-48ec-9f4f-9cfff320933a";
+		  break;
+	  case "veterinaryteam.dvm360.com":
+		  TrackerKey = "dc06011f-afb6-4fbc-99f9-c21aad47ff4c";
+		  break;
+	  case "dvm360.com":
+		  TrackerKey = "566d8d07-dbc1-460a-be6d-509791214f45";
+		  break;
+	  case "www.dvm360.com":
+	  TrackerKey = "566d8d07-dbc1-460a-be6d-509791214f45";
+	  break;
+  }
+var url = 'http://webservices.ecn5.com/ECN_tracker.js'; 
+var script = document.createElement('script'); 
+script.setAttribute('src', url); 
+script.setAttribute('type', 'text/javascript'); 
+document.body.appendChild(script);
+</script><script src="http://webservices.ecn5.com/ECN_tracker.js" type="text/javascript"></script>
+<!--/scriptjunkie km_domain_tracking_all_su --><!-- scriptjunkie chartbeat_footer --><script type="text/javascript">
+  var _sf_async_config = { uid: 61738, domain: 'dvm360.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><!--/scriptjunkie chartbeat_footer --><script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery(function() {
  if (jQuery.accordion) { jQuery('.accordion-menu-3').accordion({ collapsible:true, event:mousedown, animated: 'slide', autoHeight: false, clearStyle: false, fillSpace: false, header: 'li', navigation: false, alwaysOpen: false, cookie: { path: '/' }, active: false });
@@ -600,8 +648,8 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-15617451-1"]);_gaq.push(["_s
   
 <!-- Authcache Footer JSON -->
 <script type="text/javascript">
-var authcacheFooter = { "info": { "page_render": 1442.45, "cache_render": "-1", "cache_uid": 0, "cache_inc": "cacherouter.inc (apc)", "cache_time": 1419903609, "node_author": "admin" }, "ajax": { "q": "node/27170" } };
+var authcacheFooter = { "info": { "page_render": 1539.53, "cache_render": "-1", "cache_uid": 0, "cache_inc": "cacherouter.inc (apc)", "cache_time": 1451306437, "node_author": "admin" }, "ajax": { "q": "node/27170" } };
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"03067ecabc","applicationID":"4306773","transactionName":"MV0HMhNUXxZWARYLVggXJAUVXF4LGAwNBlw5SAQBBGpHDFIV","queueTime":0,"applicationTime":1444,"ttGuid":"","agentToken":"","atts":"HRoERFtOTBg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+<div style="position: static;"><div class="a2a_overlay" id="a2apage_overlay"></div><div class="a2a_menu a2a_full" id="a2apage_full"><div class="a2a_full_header"><div id="a2apage_find_container" class="a2a_menu_find_container"><input id="a2apage_find" class="a2a_menu_find" type="text" onclick="a2a.focus_find()" onkeyup="a2a.do_find()" autocomplete="off" title="Find any service"><span id="a2apage_find_icon" class="a2a_i_find" onclick="a2a.focus_find()"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="8 8 16 16"><path fill="#0166FF" d="M21.636,20.553l-3.291-3.291c0.536-0.753,0.858-1.667,0.858-2.661c0-2.542-2.061-4.602-4.602-4.602C12.06,9.999,10,12.059,10,14.601c0,2.541,2.06,4.602,4.602,4.602c0.994,0,1.907-0.32,2.659-0.856l3.291,3.29c0.401,0.402,0.968,0.486,1.268,0.184C22.119,21.521,22.036,20.953,21.636,20.553z M14.602,17.9c-1.823,0-3.3-1.477-3.3-3.3s1.477-3.3,3.3-3.3s3.3,1.477,3.3,3.3S16.424,17.9,14.602,17.9z"></path></svg></span></div></div><div class="a2a_full_services" id="a2apage_full_services"><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_facebook">Facebook</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_twitter">Twitter</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_google_plus">Google+</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_pinterest">Pinterest</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_linkedin">LinkedIn</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_email">Email</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_stumbleupon">StumbleUpon</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_reddit">Reddit</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_wordpress">WordPress</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_tumblr">Tumblr</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_delicious">Delicious</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_digg">Digg</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_google">Google Bookmarks</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_yahoo">Yahoo Bookmarks</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_whatsapp">WhatsApp</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_evernote">Evernote</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_line">Line</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_wanelo">Wanelo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_app_net">App.net</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_buffer">Buffer</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_xing">XING</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_bebo">Bebo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_orkut">Orkut</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_mixi">Mixi</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_vk">VK</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_pocket">Pocket</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_gmail">Google Gmail</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_mendeley">Mendeley</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_yahoo">Yahoo Mail</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_pinboard">Pinboard</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_outlook_com">Outlook.com</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_box">Box.net</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_aol">AOL Mail</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_instapaper">Instapaper</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_y18">Hacker News</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_springpad">Springpad</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_myspace">MySpace</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_flipboard">Flipboard</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_arto">Arto</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_aim">AIM</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_yim">Yahoo Messenger</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_mail_ru">Mail.Ru</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_plurk">Plurk</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_diaspora">Diaspora</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_fark">Fark</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_blogger">Blogger Post</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_typepad">TypePad Post</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_kindle">Kindle It</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_sina_weibo">Sina Weibo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_baidu">Baidu</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_netlog">Netlog</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_citeulike">CiteULike</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_jumptags">Jumptags</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_funp">FunP</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_phonefavs">PhoneFavs</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_xerpi">Xerpi</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_netvouz">Netvouz</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_diigo">Diigo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_bibsonomy">BibSonomy</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_blogmarks">BlogMarks</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_startaid">StartAid</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_khabbr">Khabbr</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_meneame">Meneame</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_yoolink">Yoolink</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_bookmarks_fr">Bookmarks.fr</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_technotizie">Technotizie</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_newsvine">NewsVine</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_friendfeed">FriendFeed</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_protopage">Protopage Bookmarks</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_blinklist">Blinklist</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_webnews">Webnews</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_segnalo">Segnalo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_pusha">Pusha</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_youmob">YouMob</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_slashdot">Slashdot</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_allvoices">Allvoices</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_jamespot">Jamespot</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_twiddla">Twiddla</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_linkagogo">LinkaGoGo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_nowpublic">NowPublic</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_livejournal">LiveJournal</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_linkatopia">Linkatopia</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_buddymarks">BuddyMarks</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_viadeo">Viadeo</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_wists">Wists</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_sitejot">SiteJot</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_dzone">DZone</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_care2">Care2 News</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_bitty">Bitty Browser</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_odnoklassniki">Odnoklassniki</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_symbaloo">Symbaloo Feeds</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_folkd">Folkd</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_newstrust">NewsTrust</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_amazon">Amazon Wish List</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_printfriendly">PrintFriendly</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_tuenti">Tuenti</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_rediff">Rediff MyPage</span></a><i class="a2a_i"></i><i class="a2a_i"></i></div><div class="a2a_full_footer"><a href="https://web.archive.org/web/20151002005721/http://www.addtoany.com" title="Share Buttons" target="_blank"><span class="a2a_i_a2a_sm">AddToAny</span></a></div></div><div id="a2apage_dropdown" class="a2a_menu a2a_mini" onmouseover="a2a.onMouseOver_stay()" onmouseout="a2a.onMouseOut_delay()" style="display:none"><div id="a2apage_title_container" class="a2a_menu_title_container" style="display:none"><input id="a2apage_title" class="a2a_menu_title"></div><div class="a2a_mini_services" id="a2apage_mini_services"><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_facebook">Facebook</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_twitter">Twitter</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_google_plus">Google+</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_pinterest">Pinterest</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_linkedin">LinkedIn</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_email">Email</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_stumbleupon">StumbleUpon</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_reddit">Reddit</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_wordpress">WordPress</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_tumblr">Tumblr</span></a></div><div id="a2apage_cols_container" class="a2a_cols_container"><div class="a2a_col1" id="a2apage_col1"></div><div id="a2apage_2_col1" style="display:none"><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_gmail">Google Gmail</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_yahoo">Yahoo Mail</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_outlook_com">Outlook.com</span></a><a rel="nofollow" class="a2a_i" href="/" target="_blank"><span class="a2a_i_aol">AOL Mail</span></a><a rel="nofollow" class="a2a_i a2a_emailer" href="/" target="_blank" id="a2apage_any_email"><span class="a2a_i_email">Any email</span></a><a rel="nofollow" class="a2a_i a2a_emailer a2a_email_client" href="/" target="" id="a2apage_email_client"><span class="a2a_i_email">Email app</span></a></div><div class="a2a_clear"></div></div><div class="a2apage_wide a2a_wide"><a href="" id="a2apage_show_more_less" class="a2a_menu_show_more_less a2a_more" onmouseover="img=this.firstChild;if(a2a.c.color_arrow_hover=='fff'){if(img.className.indexOf('_wt')==-1)img.className+='_wt'}else img.className=img.className.replace(/_wt/,'')" onmouseout="img=this.firstChild;if(a2a.c.color_arrow=='fff'){if(img.className.indexOf('_wt')==-1)img.className+='_wt'}else img.className=img.className.replace(/_wt/,'')" title="Show all"><span class="a2a_i_a2a">More…</span></a></div></div><div style="height: 1px; width: 1px; position: absolute; z-index: 100000; top: 0px; visibility: hidden;"><iframe id="a2apage_sm_ifr" height="1" width="1" title="AddToAny Utility Frame" transparency="true" allowtransparency="true" frameborder="0" src="https://web.archive.org/web/20151002005721/https://static.addtoany.com/menu/sm11.html#type=page&amp;event=load&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151228124615id_%2Fhttp%253A%2F%2Fwww.dvm360.com%2Fprivacy-policy&amp;referrer=" style="height: 1px; width: 1px; border: 0px; left: 0px; top: 0px; position: absolute; z-index: 100000;"></iframe></div></div><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
