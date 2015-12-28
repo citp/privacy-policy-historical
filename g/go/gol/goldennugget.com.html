@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623060725id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228214130id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Golden Nugget Las Vegas | Privacy Policy</title>
@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="fonts/FunctionProBold/stylesheet.css" media="screen">
 <link rel="stylesheet" href="fonts/FunctionProBoldCondensed/stylesheet.css" media="screen">
 <link rel="stylesheet" href="fonts/FunctionProMediumCondensed/stylesheet.css" media="screen">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TJL7PG"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.6.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TJL7PG"></script><script type="text/javascript" src="js/jquery-1.6.min.js"></script>
 <script type="text/javascript" src="js/easy.js"></script>
 
 <script type="text/javascript" src="js/interior_page.js"></script>
@@ -26,9 +26,97 @@
 						   
 	})
 </script>
+
+<span>View in <a onclick="redirectToApp()" href="javascript:;">Mobile</a> | <b>Desktop</b></span><script>
+    var app_url = "http://login.smbmarketing.com/mobile/?appcode=cacosta";
+    app_url = app_url + "&goBack=true";
+    var ba_is_mobile_browser = (navigator.userAgent.match(/iPhone/i)||navigator.userAgent.match(/(up.browser|up.link|mmp|symbian|smartphone|midp|wap|vodafone|o2|pocket|kindle|mobile|pda|psp|treo)/i)||navigator.userAgent.match(/iPod/i)||navigator.userAgent.match(/operamini/i)||navigator.userAgent.match(/blackberry/i)||navigator.userAgent.match(/(palmos|palm|hiptop|avantgo|plucker|xiino|blazer|elaine)/i)||navigator.userAgent.match(/(windowsce; ppc;|windows ce; smartphone;|windows ce;iemobile)/i)||navigator.userAgent.match(/android/i))&&!navigator.userAgent.match(/iPad/i);
+        
+        var queryParams = getQueryParams(document.location.search); 
+    if(queryParams && (queryParams.setDesktopCookie == 1)) {
+                //if there's a query param to set cookie set it (since we can't set them on another domain for this domain)
+        setCookie("viewmode","desktop");    
+    }
+
+    var ba_desktop_cookie = getCookie("viewmode");
+    var ba_is_mobile = ba_is_mobile_browser && (ba_desktop_cookie != "desktop");
+    
+    function redirectToApp() {
+        window.location = app_url;
+    }
+
+    function getQueryParams(qs) {
+        qs = qs.split("+").join(" ");
+
+        var params = {}, tokens,
+        re = /[?&]?([^=]+)=([^&]*)/g;
+
+        while (tokens = re.exec(qs)) {
+        params[decodeURIComponent(tokens[1])]
+            = decodeURIComponent(tokens[2]);
+        }
+
+        return params;
+    }
+
+    function getCookie(name)    {
+        var re = new RegExp(name + "=([^;]+)");
+        var value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : null;
+    }
+
+    function setCookie(key,value) {
+      document.cookie = key+"="+value;
+    }
+
+    if (ba_is_mobile) {
+            var viewmodeCookie = getCookie("viewmode");
+                if(viewmodeCookie == null) {
+            //if it's mobile and there's no cookie set, redirect to mobile site
+            redirectToApp();    
+        }   
+    }
+
+        //create the html elements on the page
+    var ba_view_elem = document.createElement("SPAN");
+    var ba_view_text = document.createTextNode("View in ");
+    ba_view_elem.appendChild(ba_view_text);
+
+    var ba_mobile_elem = document.createElement("A");
+    ba_mobile_elem.setAttribute("onclick", "redirectToApp()");
+    ba_mobile_elem.setAttribute("href", "javascript:;");
+    var ba_mobile_text = document.createTextNode("Mobile");
+    ba_mobile_elem.appendChild(ba_mobile_text);
+    ba_view_elem.appendChild(ba_mobile_elem);
+
+        var ba_view_text = document.createTextNode(" | ");
+    ba_view_elem.appendChild(ba_view_text);
+
+        var ba_desktop_elem = document.createElement("B");
+
+        var ba_desktop_text = document.createTextNode("Desktop");
+        ba_desktop_elem.appendChild(ba_desktop_text);
+
+        ba_view_elem.appendChild(ba_desktop_elem);
+
+        var ba_curTag = document.currentScript
+        var ba_parent_elem = ba_curTag.parentNode;
+        ba_parent_elem.insertBefore(ba_view_elem, ba_curTag);
+</script>
+
 </head>
 
 <body class="play sitemap">
+ <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJL7PG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJL7PG');</script>
+<!-- End Google Tag Manager -->
+ 
 <!--wapper start-->
 <div class="wapper ">
 
@@ -111,9 +199,13 @@
             <li class="level1_first">
                           <a href="play_24karatclub.asp">24K Select Club</a>
             </li>
+
+<!--  
 <li class="level1_first">
               <a href="http://www.goldennuggetpoker.net/?ref=GNVegas" target="_blank">Play Online Poker Free</a>
             </li> 
+-->
+
 <!--           
 <li>
               <a href="play_jackpotwinners.asp">Jackpot Winners</a>
@@ -262,7 +354,7 @@
           <li class="meet_planameeting">
             <a href="meet_planameeting.asp">Plan a Meeting</a>
           </li>
- <li class="meet_planameeting">
+ <li class="meet_businesscenter">
             <a href="meet_businesscenter.asp">Business Center</a>
           </li>
  <li class="last specialoccasions_weddings">
@@ -293,14 +385,13 @@
           <a href="show.asp">Shows</a>
         </div>
         <ul>
-                   
- <li class="first show_52fridays">
+         
+
+          
+ 	<li class="first show_52fridays">
             <a href="show_52fridays.asp">52 Fridays Concert Series</a>
           </li>
 
-	<li class="show_moreno">
-            <a href="show_moreno.asp">Frankie Moreno</a>
-          </li>
 
           <li class="show_gordiebrown">
             <a href="show_gordiebrown.asp">Gordie Brown</a>
@@ -432,7 +523,7 @@
 		calendarwindow.focus();
 	}
 	</script>
-	<form action="https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP%28A2560%29:;CTBAR;;;;;010;?/" method="post" name="resform" id="resform" onsubmit="changeAction()">
+	<form action="https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP%28A2560%29:;CTBAR;;;;;;?/" method="post" name="resform" id="resform" onsubmit="changeAction()">
 	<input type="hidden" name="HotelID" value="14207">
 	<input type="hidden" name="LanguageID" value="1">
 	<input type="hidden" name="Rooms" value="1">
@@ -501,7 +592,7 @@ function getLinkerUrl(url) {
 		strDate = strDate + String(dteCheckIn.getFullYear()).substring(4, 2);
 		newAction = newAction + strDate + ";";
 		newAction = newAction + document.resform.length_select.value + ";";
-		newAction = newAction + document.resform.adults_select.value + ";;010;?/";
+		newAction = newAction + document.resform.adults_select.value + ";;;?/";
 		
 		//document.resform.action = newAction;
 		_gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
@@ -521,6 +612,7 @@ function getLinkerUrl(url) {
 		<div class="occasions_block">
 			<a href="specialoccasions.asp"></a>
 		</div>
+
 		<div class="events_block">
 			<a href="upcomingevents.asp"></a>
 		</div>
@@ -542,6 +634,19 @@ function getLinkerUrl(url) {
 			<a href="http://secure.goldennugget.com"></a>
 		</div>
 -->
+
+<!-- 
+Landrys gift Card
+<div style="margin-top:10px; margin-left:auto; margin-right:auto; margin-bottom:10px;">
+		<p style="text-align:center;">
+		<a href="http://www.landrysinc.com/giftcards/default.asp" target="_blank"><img src="images/deals/GNLC-GiftCard-BannerAd.jpg" alt="Gift Card"></a>
+		</p>	
+	</div>
+
+-->
+
+
+
 
 <div style="margin-top:10px; margin-left:auto; margin-right:auto; margin-bottom:10px;">
 		<p style="text-align:center;">
@@ -596,24 +701,54 @@ function getLinkerUrl(url) {
             Golden Nugget <strong>Laughlin</strong>
           </a>
         </li>
+		<li>
+          <a href="pdf/property_map.pdf" target="_blank">Las Vegas Property Map</a>
+        </li>
+
+<!--<li>
+          <a href="http://www.goldennugget.com/">
+            Golden Nugget <strong>Homepage</strong>
+          </a>
+        </li>-->
+
       </ul>
+
+
+
+
+
 	
       <div class="block gift_icon">
         <div class="word">
           <div>golden nugget</div>
-          <a href="https://landrys.cashstar.com/gift-card/plastic/?sbc=GOLDEN-NUGGET" target="_blank">
+          <a href="https://landrysinc.cashstar.com/gift-card/plastic/?fp=DD4QRFZZT" target="_blank">
             Gift Cards <span>»</span>
           </a>
         </div>
       </div>
+
+<!--
       <div class="block fun_icon">
         <div class="word">
           <div>ONLINE POKER</div>
           <a href="http://www.goldennuggetpoker.net/?ref=GNVegas" target="_blank">
-            PLAY FREE <span>»</span>
+            PLAY FREE<span>&raquo;</span>
           </a>
         </div>
       </div>
+-->
+
+
+<div class="block fun_icon">
+        <div class="word">
+ <div style="font-size:12px;">OTHER PROPERTIES</div>
+          <a href="http://www.goldennugget.com" style="font-size:12px;">
+            GOLDEN NUGGET<br>HOMEPAGE
+          </a>
+        </div>
+      </div>
+
+
     </div>
 
     <div class="footer_bottom">
@@ -622,29 +757,25 @@ function getLinkerUrl(url) {
           <a href="press.asp" target="_self">press</a>
         </li>
         <li>
-          <a href="http://careers.goldennugget.com" target="_blank">careers</a>
+          <a href="http://careers.goldennugget.com" target="_blank">Careers</a>
         </li>
-        <li>
-          <a href="contactus.asp" target="_self">contact us</a>
-        </li>
-<li>
-          <a href="faq.asp" target="_self">FAQ'S</a>
-        </li>
-        <li>
-          <a href="sitemap.asp" target="_self">site map</a>
-        </li>
-<li>
+		<li>
           <a href="privacy.asp" target="_self">Privacy Policy</a>
         </li>
-
-<li>
-          <a href="executives.asp" target="_self">Executive Staff</a>
+		<li>
+          <a href="play_24kterms.asp" target="_self">24K Select Terms &amp; Conditions</a>
         </li>
-<li>
-          <a href="pdf/property_map.pdf" target="_blank">Property Map</a>
+		<li>
+          <a href="sitemap.asp" target="_self">Site Map</a>
         </li>
-<li>
-          <a href="http://www.goldennugget.com/LasVegas/play_responsiblegaming.asp" target="_blank">Gambling Problem? Call 1-800-GAMBLER</a>
+        <li>
+          <a href="contactus.asp" target="_self">Contact Us</a>
+        </li>
+		<li>
+          <a href="faq.asp" target="_self">FAQ'S</a>
+        </li>
+		<li>
+          <a href="http://www.goldennugget.com/LasVegas/play_responsiblegaming.asp" target="_blank" style="color: #bdbdbd;">Gambling Problem? Call 1-800-GAMBLER</a>
         </li>
 
 </ul>
@@ -659,144 +790,6 @@ function getLinkerUrl(url) {
   
 </div>
 <!--wapper end-->
- <script src="http://gldngt.netmng.com/?aid=185" type="text/javascript" defer="defer"></script>
 
-
-<!-- Turned off Google tag and put in Cendyn version on Sept 11 2013 -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12187959-1");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
-} catch(err) {}</script> 
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-12187959-1']);
-  _gaq.push(['_setDomainName', 'goldennugget.com']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-<!-- Cendyn Master Tag -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJL7PG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TJL7PG');</script>
-<!-- End Cendyn Master Tag -->
-
-
-<!-- Google Code for Remarketing Las Vegas Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1051359142;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "e7l7CNqZwgIQpu-p9QM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1051359142/?label=e7l7CNqZwgIQpu-p9QM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-<!-- Value Click retargeting pixel -->
-<img src="http://media.fastclick.net/w/tre?ad_id=26915;evt=19585;cat1=25535;cat2=25536;rand=[CACHEBUSTER]" width="1" height="1" border="0">
-
-<!-- Adara retargeting pixel -->
-<script type="text/javascript" src="http://tag.yieldoptimizer.com/ps/ps?t=s&amp;p=1242&amp;pg=gn"></script>
-
-<script type="text/javascript">
-$(document).ready(function() {
-    $( "div.book_now a" ).click(function() {
-        var BookingName = 'BookNow_Click';
-                                var originalUrl = jQuery(this).attr('href');
-        _gaq.push(['_trackEvent', 'Reservations', 'Check_Availability', BookingName]);
-                                
-                                //Wait for google analytics to load tracking if necessary
-                                setTimeout(function () {
-                                document.location.href = getLinkerUrl(originalUrl);
-                                }, 100);
-                                return false;
-    });
-});
-
-function getLinkerUrl(url) {
-                var tracker = _gat._getTrackerByName();
-                var linkerUrl = tracker._getLinkerUrl(url);
-                return linkerUrl;
-}
-</script>
-
-<!-- Added 2.14.14 -->
-<script type="text/javascript">
-jQuery( document ).ready(function() {
-
-jQuery( "a[href='javascript:slidelink()']" ).click(function(event) {
- _gaq.push(['_trackEvent', 'Upcoming_Events_LV', 'WhiskeyFest']);
-});
-jQuery( "a[href='play_24karatclub.asp']" ).has("img[src*='24k']").click(function(event) {
- _gaq.push(['_trackEvent', 'Karat_Member_Login_LV', 'Click_To_Login']);
-});
-jQuery( "a[href='show_gordiebrown.asp']").has("img[src*='gordie']").click(function(event) {
- _gaq.push(['_trackEvent', 'Upcoming_Shows_LV', 'Gordie_Brown']);
-});
-jQuery( "div.fb a" ).click(function(event) {
- _gaq.push(['_trackEvent', 'SocialMedia_LV', 'Click_To_Connect', 'FaceBook']);
-});
-jQuery( "div.ytb a" ).not("a[href*='#']").click(function(event) {
- _gaq.push(['_trackEvent', 'SocialMedia_LV', 'Click_To_Connect', 'Youtube']);
-});
-jQuery( "div.tw a" ).click(function(event) {
- _gaq.push(['_trackEvent', 'SocialMedia_LV', 'Click_To_Connect', 'Twitter']);
-});
-//Right Column
-jQuery( "div.col_right a" ).click(function(event) {
-switch (jQuery(this).attr('href'))
-{
-case "specials.asp":
-	_gaq.push(['_trackEvent', 'Email_Sign_Up_LV', 'Click_To_SignUp']);
-	break;
-case "specialoccasions.asp":
-	_gaq.push(['_trackEvent', 'Special_Occasions_LV', 'Click_For_Details']);
-	break;
-case "upcomingevents.asp":
-	_gaq.push(['_trackEvent', 'Upcoming_Events_LV', 'Click_For_Details']);
-	break;
-case "/lakecharles/default.asp":
-	_gaq.push(['_trackEvent', 'LakeCharles_SignUp_LV', 'Click_For_Details']);
-	break;
-case "play_24karatclub.asp":
-	_gaq.push(['_trackEvent', 'Karat_Member_Login_LV', 'Click_To_Login']);
-	break;
-default:
-
-}
-});
-
-});
-</script> 
 
 </body></html>
