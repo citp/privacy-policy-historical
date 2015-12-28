@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622051304id_/http%3A//www.skyteam.com/en/General-information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228133043id_/http%3A//www.skyteam.com/en/General-information/Privacy-Policy) for the most accurate reproduction.*
 
 # SkyTeam - Privacy Policy
 
@@ -30,7 +30,7 @@ SkyTeam does not knowingly collect personal identifiable data from children unde
 
 6               **Cookies**
 
-6.1         Please consult our [cookie policy](https://web.archive.org/en/general-information/cookie-policy/)  for information on SkyTeam's use of cookies, tags and similar technologies.
+6.1         Please consult our [cookie policy](https://web.archive.org/General-information/Cookie-policy/)  for information on SkyTeam's use of cookies, tags and similar technologies.
 
 7               **Links to other websites**
 
