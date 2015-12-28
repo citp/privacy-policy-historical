@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627010254id_/http%3A//www.pfizer.com/general/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228154611id_/http%3A//www.pfizer.com/general/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN"><html lang="en" dir="ltr" version="HTML+RDFa 1.1" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">
-    <meta http-equiv="X-UA-Compatible" content="IE=8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYEU15QGwEIUlRQBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<link href="/sites/default/themes/pfizer_com/images/apple-touch/touch-icon-iphone-precomposed.png" rel="apple-touch-icon-precomposed">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-<link href="/sites/default/themes/pfizer_com/images/apple-touch/apple-touch-icon-72×72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72×72">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYEU15QGwEIUlRQBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<link rel="shortcut icon" href="http://www.pfizer.com/sites/default/themes/pfizer_com/favicon.ico" type="image/vnd.microsoft.icon">
 <link href="/sites/default/themes/pfizer_com/images/apple-touch/apple-touch-icon-114×114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114×114">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<link href="/sites/default/themes/pfizer_com/images/apple-touch/touch-icon-iphone-precomposed.png" rel="apple-touch-icon-precomposed">
 <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-<![endif]--><meta name="description" content="Privacy Policy">
+<![endif]--><link href="/sites/default/themes/pfizer_com/images/apple-touch/apple-touch-icon-72×72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72×72">
+<meta name="description" content="Privacy Policy Effective December 16, 2013">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="http://www.pfizer.com/general/privacy">
 <link rel="shortlink" href="http://www.pfizer.com/node/2035">
     <title>Privacy Policy | Pfizer: One of the world's premier biopharmaceutical companies</title>
-    <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all">
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__oqz51gq-_JtPWcBOlSAfQw1b_5kXix_9Qk-qH76YFes__f2y9RXXwOimjYW3p8XnvJn2HqdGt1tZR1Uc7JWCETH0__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all">
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__t1rxlP07peZWrVXTjW3XiLCH3IOzCFk2l39jFDgPlE0__kTwCKrOvQyDB-ZlxVlikTcX6JuBDditBZWJHuY0cE-s__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all">
+    <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__nRZdV3FJKTcxCuSC59AaLXzYy2jC0-YGblKO_mpcPNU__edKAHVvc4BB7J6IDUyPRiGTuM9ONRh_IrUrsDCmh_Hk__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__t1rxlP07peZWrVXTjW3XiLCH3IOzCFk2l39jFDgPlE0__kTwCKrOvQyDB-ZlxVlikTcX6JuBDditBZWJHuY0cE-s__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all">
 <style type="text/css" media="all">
 <!--/*--><![CDATA[/*><!--*/
 .link-792 .pfizer-menu-breadcrumb-border{background-color:#75d1e0;}
@@ -91,28 +92,48 @@
 </style>
 
 <!--[if lt IE 10]>
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__XMNf7DmkKGeCNVhewRNjSM8Vj-yg1tQwmV0bAA9gLgQ__Whubzdv9zyTyeqdpEpouWE1QVQ0tGlMpbn3eJpTuHog__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__XMNf7DmkKGeCNVhewRNjSM8Vj-yg1tQwmV0bAA9gLgQ__Whubzdv9zyTyeqdpEpouWE1QVQ0tGlMpbn3eJpTuHog__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all" />
 <![endif]-->
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__ODPiZ5cZkq7ouyyjpkq6A5E_1HHtJpUgUl08TiiTWvw__uMX8r5yapcFov7io9-mDUh-HtRPNfsM3f4bvApLh3Rw__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all">
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__bZ9sLWpLAwub8x2zlMHLhRik2QAljMx1vjPiScetQBY__KWTNtsSnv6L5_5FL5CtXsWZlyX8Cg1P6qLsklgT8GwU__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__VZiijyoZegRn9W4MQYCvip6LJMl6RYGbxcaFnnIunt0__y5Oto4KtCjltj7PJvGGoiNil7GMFMt1toDthPOTR2tk__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__bZ9sLWpLAwub8x2zlMHLhRik2QAljMx1vjPiScetQBY__2LpsRTaoe7_WRVox82BwTUbutx-p_f2A3qn0nUFZcCo__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all">
 
 <!--[if (lt IE 9)&(!IEMobile)]>
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__uJa1FmsZ4dQu0uEYm9waQn8dLQkX5OOb5FwXQj2K-xM__X7z-9RMciM7miaPXT_5uwO0GtrYWosIF6IVAuYiyttc__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__uJa1FmsZ4dQu0uEYm9waQn8dLQkX5OOb5FwXQj2K-xM__HmuFvP9QmlLo3-PEz5K8ISftyiOk6CzfEwzvsCWYfqs__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all" />
 <![endif]-->
 
 <!--[if gte IE 9]><!-->
-<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__jxv5k0xunpKwtprlfNZmXtWUKsPjNpIwIabg7TjHASc__kZ6lpucjnZkkozylijfYUIifYkcqUr2-DR4l3rLoPd4__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.css" media="all">
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__u9gWewF25spTee1ndkgJCSJGxzjJ1uvueoZoa_XX9jU__hCiKKadHWERB7F56xF243jpaP8K8KIdQjD_og4t7SAs__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.css" media="all">
 <!--<![endif]-->
     <!--[if IE 8]>
     <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/pfizer_com/css/ie8.css" />
     <![endif]-->
-    <script type="text/javascript" src="/sites/default/files/advagg_js/js__UiO29A8qiU-liB_96gCC8E9JKDzRn317nHrd6s0stps__AwigsEBkeDuYYEcio1o-kRLmSuICds4-G7yNidtd27A__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__wbf-BIlDpz-a7rdcLbOqFB4ita9OWL19_RZRVTuZQfE__k3PClidVEt6mXTMu60eSLyb6d_VcRexdlVEEptALgQQ__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
+    <script type="text/javascript" src="/sites/default/files/advagg_js/js__UiO29A8qiU-liB_96gCC8E9JKDzRn317nHrd6s0stps__JjoPzCkzYa71IxBF0sXb6yVSB5ojjxYZ6gppRP-xCds__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js___eYyY3kerXt72rZrXhEGDvkxZV5Q9cRs4BIAWg1-PGE__2xmYvGkcPTzoqARhhN6SiVHoiblfnvXA9GU5pJKdL8Y__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
 <script type="text/javascript" src="//admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__2nAIczGLmgV5Cf1pymT5Wyj-zYsc8kounBlmJhKcvPI__SiZImD7yD5YPt5udTo1-UIaOYpwtqve9OCzYjt73gSc__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__JPvKtQME-qJ3xYOOJFgFCU0lDFMCw_2sKl-tcReqnLM___Iu5V8asQmgD4AdLHa2DZkZqJd-Uaqa6Dx1BeoMf5LQ__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+      // close script tag for SecKit protection
+      //--><!]]>
+      </script>
+      <script type="text/javascript" src="/sites/all/modules/security/seckit/js/seckit.document_write.js"></script><!--
+      <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/sites/all/modules/security/seckit/css/seckit.no_body.css" />
+      <!-- stop SecKit protection -->
+      <noscript>
+      <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/sites/all/modules/security/seckit/css/seckit.noscript_tag.css" />
+      <div id="seckit-noscript-tag">
+        <h1>Sorry, you need to enable JavaScript to visit this website.</h1>
+      </div>
+      </noscript>
+      <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+      // open script tag to avoid syntax errors
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__oo8PkpaQeARSCStRmc0BNk0r1PPiICUn6LF5voPE76o__tZNDsQ4f6EsHdCKFDKqOhOXstd4mFVUu_L2pABoGDXw__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
 <script type="text/javascript" src="//api.conductrics.com/owner_mogKgZkWT/-/web-actions?apikey=api-ySaOHwHNEUJkVaONksBJqCKE"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__I2x1reKa23zSO_TyRBeBdmMUG8Ra09cg-dEBmYN-nbw__tSv_GxFuM2wZl7h21SrXzOVD5Izowe58Wf6vTiZ_v5I__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f46556005652c4a"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__I2x1reKa23zSO_TyRBeBdmMUG8Ra09cg-dEBmYN-nbw__tSv_GxFuM2wZl7h21SrXzOVD5Izowe58Wf6vTiZ_v5I__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-51c9e8762beffff0"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery(function(){
@@ -124,19 +145,344 @@ dropShadows: false}).supposition().find('ul').bgIframe({opacity:false});
 });
 //--><!]]>
 </script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__ATL26s2NMjo_-9U-wEyaa7Lwy718Y-I8rPfgjBCx12A__fwGZzm650BEGThUODx7CzO0KdP3i4oRQWIC81cEXiUQ__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__5LsOlO5ugNoV1Jgtwj7Wppa9KoJgtaGiCIjRFvYkNBU__QSuhFeWvqG2-y8vHiewHQmI8VkvYo-a_lQYaGWP-kAE__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__ATL26s2NMjo_-9U-wEyaa7Lwy718Y-I8rPfgjBCx12A__qmYfKTiWy5OW6PjVYLJ9bFGXdS4naZNmtqqUfWL06JI__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__5LsOlO5ugNoV1Jgtwj7Wppa9KoJgtaGiCIjRFvYkNBU__QSuhFeWvqG2-y8vHiewHQmI8VkvYo-a_lQYaGWP-kAE__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pfizer_com","theme_token":"DKTf5uj5gIbrxVT4XGm8kXpcn8XNf1yOTCsq_90Nd_c","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/default\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/default\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/default\/modules\/updated\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"sites\/default\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/default\/modules\/features\/pfe_pfizercom_funded_initative\/funded_initiatives.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/default\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/default\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/default\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/default\/modules\/contrib\/nice_menus\/nice_menus.css":1,"sites\/default\/modules\/contrib\/nice_menus\/nice_menus_default.css":1,"sites\/default\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/default\/libraries\/superfish\/css\/superfish.css":1,"sites\/default\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/default\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/default\/modules\/updated\/print\/css\/printlinks.css":1,"sites\/default\/libraries\/superfish\/style\/pomegranate.css":1,"sites\/default\/themes\/pfizer_com\/css\/pages\/general.css":1,"sites\/default\/themes\/pfizer_com\/css\/pages\/general-privacy.css":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"20":1,"21":1,"22":1,"23":1,"24":1,"25":1,"26":1,"27":1,"28":1,"29":1,"30":1,"31":1,"32":1,"33":1,"34":1,"35":1,"36":1,"37":1,"38":1,"39":1,"40":1,"41":1,"42":1,"43":1,"44":1,"45":1,"46":1,"47":1,"48":1,"49":1,"50":1,"51":1,"52":1,"53":1,"54":1,"55":1,"56":1,"57":1,"58":1,"59":1,"60":1,"61":1,"62":1,"63":1,"64":1,"65":1,"66":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"sites\/default\/themes\/omega\/omega\/static-pages.css":1,"sites\/default\/themes\/pfizer_com\/css\/medical-information.css":1,"sites\/default\/themes\/pfizer_com\/css\/theme-refactoring.css":1,"sites\/default\/themes\/pfizer_com\/css\/pfizer-menu.css":1,"sites\/default\/themes\/pfizer_com\/css\/pfizer-msds.css":1,"sites\/default\/themes\/pfizer_com\/css\/pfizer-distributors.css":1,"sites\/default\/themes\/pfizer_com\/css\/pfizer-press-releases.css":1,"sites\/default\/themes\/pfizer_com\/css\/pages\/news.css":1,"sites\/default\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/default\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/default\/themes\/pfizer_com\/css\/alpha-reset.css":1,"sites\/default\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/default\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/default\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/default\/themes\/pfizer_com\/css\/omega-visuals.css":1,"sites\/default\/themes\/pfizer_com\/css\/static-pages.css":1,"sites\/default\/themes\/pfizer_com\/css\/email_contact.css":1,"sites\/default\/themes\/pfizer_com\/css\/omega-text.css":1,"sites\/default\/themes\/pfizer_com\/css\/global.css":1,"ie::normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default.css":1,"ie::normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default-normal.css":1,"ie::normal::sites\/default\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default.css":1,"normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default-normal.css":1,"sites\/default\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1},"js":{"sites\/default\/modules\/custom\/pfizer_social\/js\/facebook_app.js":1,"sites\/default\/modules\/custom\/pfizer_social\/js\/google_plusone.js":1,"sites\/default\/themes\/pfizer_com\/js\/menu.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/default\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/default\/modules\/features\/pfe_pfizercom_content_types\/pfe_distributors\/js\/pfe_distributors.js":1,"sites\/default\/modules\/custom\/pfizer_msds\/js\/pfizer_msds.js":1,"sites\/default\/modules\/custom\/pfizer_menu\/js\/pfizer_menu.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/default\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/default\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/default\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/default\/modules\/contrib\/nice_menus\/nice_menus.js":1,"sites\/default\/modules\/custom\/omniture_integration\/js\/s_code.js":1,"sites\/default\/modules\/custom\/omniture_integration\/js\/omniture_quicktabs.js":1,"sites\/default\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/default\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/default\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/default\/libraries\/superfish\/superfish.js":1,"sites\/default\/libraries\/superfish\/supersubs.js":1,"sites\/default\/libraries\/superfish\/supposition.js":1,"sites\/default\/libraries\/superfish\/sftouchscreen.js":1,"sites\/default\/modules\/custom\/pfizer_setttings\/js\/pfizer_settings.js":1,"sites\/default\/modules\/custom\/pfizer_setttings\/js\/a_button_fix.js":1,"\/\/api.conductrics.com\/owner_mogKgZkWT\/-\/web-actions?apikey=api-ySaOHwHNEUJkVaONksBJqCKE":1,"sites\/default\/modules\/custom\/pfizer_social\/js\/addthis_config.js":1,"\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=xa-4f46556005652c4a":1,"sites\/default\/themes\/pfizer_com\/js\/global.js":1,"sites\/default\/themes\/pfizer_com\/js\/font.js":1,"sites\/default\/themes\/pfizer_com\/js\/jquery.formalize.js":1,"sites\/default\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1}},"googleCSE":{"cx":"012390703595722449228:rtvx5nj8aua","language":"","resultsWidth":600,"domain":"www.google.com"},"nice_menus_options":{"delay":"800","speed":"normal"},"pfizer_settings":{"base_url":"http:\/\/www.pfizer.com","WebFontLoaderWebFontConfigID":48775},"pfizerSocial":{"facebookAppID":"381683431973478"},"extlink":{"extTarget":"_blank","extTargetValue":"_blank","extClass":"ext","extImgClass":0,"extSubdomains":1,"extExclude":"(((pfizer|addthis|pfizercareers|pfizerpro|phahelps|pfizerhelpfulanswers|pfizerupdate|pfizerrxpathways)\\.com)|((pfizermedinfo\\..)|(pfizermedicalinformation\\..)|(pfizerpro\\..)|(misubmission\\..)))","extInclude":"(getold)\\.com","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":"You are now leaving www.pfizer.com. Links to sites outside of Pfizer are provided as a resource to the viewer. Pfizer accepts no responsibility for the content of linked sites.","mailtoClass":"mailto"},"omega":{"layouts":{"primary":"normal","order":["normal"],"queries":{"normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+jQuery.extend(Drupal.settings, {
+    "basePath": "\/",
+    "pathPrefix": "",
+    "ajaxPageState": {
+        "theme": "pfizer_com",
+        "theme_token": "tDCygmcn5eUi6LpcFbHS6S8DhSFdLmmMkri2s0TjEAk",
+        "css": {
+            "modules\/system\/system.base.css": 1,
+            "modules\/system\/system.menus.css": 1,
+            "modules\/system\/system.messages.css": 1,
+            "modules\/system\/system.theme.css": 1,
+            "modules\/comment\/comment.css": 1,
+            "sites\/default\/modules\/updated\/date\/date_api\/date.css": 1,
+            "sites\/default\/modules\/updated\/date\/date_popup\/themes\/datepicker.1.7.css": 1,
+            "modules\/field\/theme\/field.css": 1,
+            "sites\/default\/modules\/contrib\/google_cse\/google_cse.css": 1,
+            "modules\/node\/node.css": 1,
+            "sites\/default\/modules\/features\/pfe_pfizercom_funded_initative\/funded_initiatives.css": 1,
+            "modules\/poll\/poll.css": 1,
+            "modules\/search\/search.css": 1,
+            "modules\/user\/user.css": 1,
+            "sites\/default\/modules\/contrib\/youtube\/css\/youtube.css": 1,
+            "sites\/default\/modules\/contrib\/extlink\/extlink.css": 1,
+            "sites\/default\/modules\/updated\/views\/css\/views.css": 1,
+            "sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css": 1,
+            "sites\/default\/modules\/contrib\/ctools\/css\/ctools.css": 1,
+            "sites\/default\/modules\/contrib\/nice_menus\/nice_menus.css": 1,
+            "sites\/default\/modules\/contrib\/nice_menus\/nice_menus_default.css": 1,
+            "sites\/default\/modules\/contrib\/panels\/css\/panels.css": 1,
+            "sites\/default\/libraries\/superfish\/css\/superfish.css": 1,
+            "sites\/default\/libraries\/superfish\/css\/superfish-vertical.css": 1,
+            "sites\/default\/libraries\/superfish\/css\/superfish-navbar.css": 1,
+            "sites\/default\/modules\/updated\/print\/css\/printlinks.css": 1,
+            "sites\/default\/libraries\/superfish\/style\/pomegranate.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pages\/general.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pages\/general-privacy.css": 1,
+            "0": 1,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 1,
+            "6": 1,
+            "7": 1,
+            "8": 1,
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1,
+            "51": 1,
+            "52": 1,
+            "53": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1,
+            "63": 1,
+            "64": 1,
+            "65": 1,
+            "66": 1,
+            "public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css": 1,
+            "sites\/default\/themes\/omega\/omega\/static-pages.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/medical-information.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/theme-refactoring.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pfizer-menu.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pfizer-msds.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/fonts.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pfizer-distributors.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pfizer-press-releases.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/pages\/news.css": 1,
+            "sites\/default\/themes\/omega\/alpha\/css\/alpha-mobile.css": 1,
+            "sites\/default\/themes\/omega\/alpha\/css\/alpha-alpha.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/alpha-reset.css": 1,
+            "sites\/default\/themes\/omega\/omega\/css\/omega-branding.css": 1,
+            "sites\/default\/themes\/omega\/omega\/css\/omega-menu.css": 1,
+            "sites\/default\/themes\/omega\/omega\/css\/omega-forms.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/omega-visuals.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/static-pages.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/email_contact.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/omega-text.css": 1,
+            "sites\/default\/themes\/pfizer_com\/css\/global.css": 1,
+            "ie::normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default.css": 1,
+            "ie::normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default-normal.css": 1,
+            "ie::normal::sites\/default\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css": 1,
+            "normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default.css": 1,
+            "normal::sites\/default\/themes\/pfizer_com\/css\/pfizer-com-alpha-default-normal.css": 1,
+            "sites\/default\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css": 1
+        },
+        "js": {
+            "sites\/default\/modules\/custom\/pfizer_social\/js\/facebook_app.js": 1,
+            "sites\/default\/modules\/custom\/pfizer_social\/js\/google_plusone.js": 1,
+            "sites\/default\/themes\/pfizer_com\/js\/menu.js": 1,
+            "misc\/jquery.js": 1,
+            "misc\/jquery.once.js": 1,
+            "misc\/drupal.js": 1,
+            "sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js": 1,
+            "sites\/default\/modules\/contrib\/google_cse\/google_cse.js": 1,
+            "sites\/default\/modules\/features\/pfe_pfizercom_content_types\/pfe_distributors\/js\/pfe_distributors.js": 1,
+            "sites\/default\/modules\/custom\/pfizer_msds\/js\/pfizer_msds.js": 1,
+            "sites\/default\/modules\/custom\/pfizer_menu\/js\/pfizer_menu.js": 1,
+            "sites\/default\/modules\/contrib\/extlink\/extlink.js": 1,
+            "\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js": 1,
+            "sites\/default\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js": 1,
+            "sites\/default\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js": 1,
+            "sites\/default\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js": 1,
+            "sites\/default\/modules\/contrib\/nice_menus\/nice_menus.js": 1,
+            "sites\/default\/modules\/custom\/omniture_integration\/js\/s_code.js": 1,
+            "sites\/default\/modules\/custom\/omniture_integration\/js\/omniture_quicktabs.js": 1,
+            "sites\/default\/modules\/contrib\/panels\/js\/panels.js": 1,
+            "sites\/default\/libraries\/superfish\/jquery.hoverIntent.minified.js": 1,
+            "sites\/default\/libraries\/superfish\/jquery.bgiframe.min.js": 1,
+            "sites\/default\/libraries\/superfish\/superfish.js": 1,
+            "sites\/default\/libraries\/superfish\/supersubs.js": 1,
+            "sites\/default\/libraries\/superfish\/supposition.js": 1,
+            "sites\/default\/libraries\/superfish\/sftouchscreen.js": 1,
+            "sites\/default\/modules\/custom\/pfizer_settings\/js\/pfizer_settings.js": 1,
+            "sites\/default\/modules\/custom\/pfizer_settings\/js\/a_button_fix.js": 1,
+            "\/\/api.conductrics.com\/owner_mogKgZkWT\/-\/web-actions?apikey=api-ySaOHwHNEUJkVaONksBJqCKE": 1,
+            "sites\/default\/modules\/custom\/pfizer_social\/js\/addthis_config.js": 1,
+            "\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-51c9e8762beffff0": 1,
+            "sites\/default\/themes\/pfizer_com\/js\/global.js": 1,
+            "sites\/default\/themes\/pfizer_com\/js\/font.js": 1,
+            "sites\/default\/themes\/pfizer_com\/js\/jquery.formalize.js": 1,
+            "sites\/default\/themes\/omega\/omega\/js\/omega-mediaqueries.js": 1
+        }
+    },
+    "googleCSE": {
+        "cx": "012390703595722449228:rtvx5nj8aua",
+        "language": "",
+        "resultsWidth": 600,
+        "domain": "www.google.com"
+    },
+    "nice_menus_options": {
+        "delay": "800",
+        "speed": "normal"
+    },
+    "pfizer_settings": {
+        "base_url": "http:\/\/www.pfizer.com",
+        "WebFontLoaderWebFontConfigID": 48775
+    },
+    "pfizerSocial": {
+        "facebookAppID": "381683431973478"
+    },
+    "extlink": {
+        "extTarget": "_blank",
+        "extClass": "ext",
+        "extLabel": "(link is external)",
+        "extImgClass": 0,
+        "extSubdomains": 1,
+        "extExclude": "(((pfizer|addthis|pfizercareers|pfizerpro|phahelps|pfizerhelpfulanswers|pfizerupdate|pfizerrxpathways)\\.com)|((pfizermedinfo\\..)|(pfizermedicalinformation\\..)|(pfizerpro\\..)|(misubmission\\..)))",
+        "extInclude": "(getold)\\.com",
+        "extCssExclude": ".views-field-field-non-pfizer-products-2",
+        "extCssExplicit": "",
+        "extAlert": "_blank",
+        "extAlertText": "You are now leaving www.pfizer.com. Links to sites outside of Pfizer are provided as a resource to the viewer. Pfizer accepts no responsibility for the content of linked sites.",
+        "mailtoClass": "mailto",
+        "mailtoLabel": "(link sends e-mail)"
+    },
+    "omega": {
+        "layouts": {
+            "primary": "normal",
+            "order": [
+                "normal"
+            ],
+            "queries": {
+                "normal": "all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"
+            }
+        }
+    }
+});
 //--><!]]>
 </script>
   </head>
-  <body class="html not-front not-logged-in page-node page-node- page-node-2035 node-type-page page-general page-general-privacy context-general omega-mediaqueries-processed responsive-layout-normal"><div id="omega-media-query-dummy"><style media="all">#omega-media-query-dummy { position: relative; z-index: -1; }</style><!--[if (lt IE 9)&(!IEMobile)]><style media="all">#omega-media-query-dummy { z-index: 0; }</style><![endif]--><style media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">#omega-media-query-dummy { z-index: 0; }</style></div>
+  <body class="html not-front not-logged-in page-node page-node- page-node-2035 node-type-page page-general page-general-privacy context-general mobile-menu-processed omega-mediaqueries-processed responsive-layout-normal"><div id="omega-media-query-dummy"><style media="all">#omega-media-query-dummy { position: relative; z-index: -1; }</style><!--[if (lt IE 9)&(!IEMobile)]><style media="all">#omega-media-query-dummy { z-index: 0; }</style><![endif]--><style media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">#omega-media-query-dummy { z-index: 0; }</style></div>
     <div id="skip-link">
       <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
     </div>
-        <div class="page clearfix" id="page">
+        <div class="mobile-menu"><div class="mobile-menu-inner"><ul class="main-menu-wrapper"><li class="level-1 link-792 item-0 pm-not-hovered pfizer-menu-item-wrapper first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/about" title="About Pfizer" class="pfizer-menu-item-parent">About Us</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/about/leadership_and_structure/leadership_structure" title="">Leadership &amp; Structure</a><ul class="menu"><li class="first collapsed"><a href="/about/leadership_and_structure/meet_executive_leaders" title="">Meet Our Executives</a></li>
+<li class="leaf"><a href="/about/leadership_and_structure/meet_board" title="">Meet Our Board</a></li>
+<li class="leaf"><a href="/about/leadership_and_structure/company_fact_sheet">Company Fact Sheet</a></li>
+<li class="last leaf"><a href="/about/leadership_and_structure/executive_speeches">Executive Speeches</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/about/corporate_compliance/corporate_compliance">Corporate Compliance</a><ul class="menu"><li class="first leaf"><a href="/about/corporate_compliance/code_of_conduct">Code of Conduct</a></li>
+<li class="last leaf"><a href="/about/corporate_compliance/ethical_sales_and_marketing">Sales &amp; Marketing Compliance</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/about/history/history">History</a><ul class="menu"><li class="first collapsed"><a href="/about/history/timeline">Timeline</a></li>
+<li class="last collapsed"><a href="/about/history/gallery_leaders">Gallery of Leaders</a></li>
+</ul></li><li class="leaf"><a href="/about/accolades/accolades" title="">Accolades</a></li></ul><ul class="sub-list menu"><li class="expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/about/corporate_governance/corporate_governance">Corporate Governance</a><ul class="menu"><li class="first leaf"><a href="/about/corporate_governance/corporate_governance_principles" title="">Principles</a></li>
+<li class="leaf"><a href="/about/corporate_governance/corporate_governance_fact_sheet">Fact Sheet</a></li>
+<li class="collapsed"><a href="/about/corporate_governance/board_committees_charters" title="">Board Committees &amp; Charters</a></li>
+<li class="collapsed"><a href="/about/corporate_governance/board_policies">Board Policies</a></li>
+<li class="leaf"><a href="/about/corporate_governance/business_ethics_conduct">Business Conduct and Ethics</a></li>
+<li class="leaf"><a href="/about/corporate_governance/corporate_governance_faqs">Corporate Governance FAQs</a></li>
+<li class="last leaf"><a href="/about/corporate_governance/contact_directors">Contact Our Directors</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="last expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/about/diversity" title="">Diversity</a><ul class="menu"><li class="first leaf"><a href="/about/diversity/vision" title="">Vision</a></li>
+<li class="leaf"><a href="/about/diversity/purpose" title="">Business Purpose</a></li>
+<li class="leaf"><a href="/about/diversity/community" title="">Culture &amp; Community</a></li>
+<li class="last leaf"><a href="/b2b/suppliers/supplier_diversity" title="">Supplier Diversity</a></li>
+</ul></li></ul>        </div></li><li class="level-1 link-759 item-1 pm-not-hovered pfizer-menu-item-wrapper"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/products" title="Pfizer Products" class="pfizer-menu-item-parent">Products</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/products/hcp/healthcare" title="">Authorized Distributors</a><ul class="menu"><li class="first leaf"><a href="/products/hcp/pfizer_authorized_distributors">Pfizer Authorized Distributors</a></li>
+<li class="collapsed"><a href="/products/hcp/greenstone_authorized_distributors">Greenstone Authorized Distributors</a></li>
+<li class="leaf"><a href="/products/hcp/pantoprazole_authorized_distributors">Pantoprazole Authorized Distributors</a></li>
+<li class="last leaf"><a href="/products/hcp/resource_center">Resource Center</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="leaf first"><a href="/products/medical-information/medical-information">Medical Information</a></li><li class="leaf"><a href="/products/msds/material_safety_data_sheets">Material Safety Data Sheets</a></li><li class="last leaf"><a href="/products/counterfeit" title="">Counterfeiting</a></li></ul>        </div></li><li class="level-1 link-1272 item-2 pm-not-hovered pfizer-menu-item-wrapper"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/research" title="Pharmaceutical Research &amp; Development at Pfizer" class="pfizer-menu-item-parent">Research</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/research/therapeutic_areas" title="">Therapeutic Areas</a><ul class="menu"><li class="first leaf"><a href="/research/therapeutic_areas/immunology_and_inflammation" title=""> Immunology &amp; Inflammation</a></li>
+<li class="leaf"><a href="/research/therapeutic_areas/cardiovascular_and_metabolic_diseases" title="">CV &amp; Metabolic Diseases</a></li>
+<li class="leaf"><a href="/research/therapeutic_areas/oncology" title="">Oncology</a></li>
+<li class="leaf"><a href="/research/therapeutic_areas/vaccines" title="">Vaccines</a></li>
+<li class="leaf"><a href="/research/therapeutic_areas/neuroscience_and_pain" title="">Neuroscience &amp; Pain</a></li>
+<li class="last leaf"><a href="/research/therapeutic_areas/rare_disease" title="">Rare Disease</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/research/clinical_trials" title="">Clinical Trials</a><ul class="menu"><li class="first leaf"><a href="/research/clinical_trials/phases_of_development" title="">What Are Clinical Trials?</a></li>
+<li class="leaf"><a href="/research/clinical_trials/policies_positions_and_case_studies" title="">How We Conduct Trials</a></li>
+<li class="leaf"><a href="/research/clinical_trials/clinical_innovation" title="">Clinical Innovation</a></li>
+<li class="collapsed"><a href="/research/clinical_trials/trial_data_and_results" title="">Trial Data &amp; Results</a></li>
+<li class="leaf"><a href="/research/clinical_trials/find_a_trial">Find a Trial</a></li>
+<li class="last collapsed"><a href="/research/pmc/post_marketing_commitments">Post Marketing Commitments</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/research/rd_partnering" title="">R&amp;D Partnering</a><ul class="menu"><li class="first leaf"><a href="/research/rd_partnering/working_in_rd" title="">Working in R&amp;D</a></li>
+<li class="leaf"><a href="/research/rd_partnering/rd_ecosystem" title="">R&amp;D Ecosystem</a></li>
+<li class="leaf"><a href="/research/rd_partnering/centers_for_therapeutic_innovation" title="">Centers for Therapeutic Innovation</a></li>
+<li class="leaf"><a href="/research/rd_partnering/investigator_initiated_research" title="">Investigator-Initiated Research</a></li>
+<li class="leaf"><a href="/research/rd_partnering/compound_transfer_program" title=""> Compound Transfer Program</a></li>
+<li class="leaf"><a href="/research/rd_partnering/careers" title="">Careers</a></li>
+<li class="leaf"><a href="/research/rd_partnering/post_doc_program" title="">Post-doc Program</a></li>
+<li class="last leaf"><a href="/research/rd_partnering/partnering" title="">Partnering</a></li>
+</ul></li><li class="leaf"><a href="/research/compassionate_use">Compassionate Use and Expanded Access</a></li></ul><ul class="sub-list menu"><li class="last expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/research/science_and_technology" title="">Science &amp; Technology</a><ul class="menu"><li class="first leaf"><a href="/research/science_and_technology/rd_vision" title="">R&amp;D Vision</a></li>
+<li class="leaf"><a href="/research/science_and_technology/meet_our_scientists" title="">Meet Our Scientists</a></li>
+<li class="collapsed"><a href="/research/science_and_technology/product_pipeline" title="">Product Pipeline</a></li>
+<li class="leaf"><a href="/research/science_and_technology/operating_model" title="">Operating Model</a></li>
+<li class="leaf"><a href="/research/science_and_technology/rd_platforms" title="">R&amp;D Platforms</a></li>
+<li class="leaf"><a href="/research/science_and_technology/biosimilars" title="">Biosimilars</a></li>
+<li class="last collapsed"><a href="/research/science_and_technology/rd_locations" title="">R&amp;D Locations</a></li>
+</ul></li></ul>        </div></li><li class="level-1 link-793 item-3 pm-not-hovered pfizer-menu-item-wrapper"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/responsibility" title="Corporate Social Responsibility" class="pfizer-menu-item-parent">Responsibility</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/responsibility/global_health/global_health" title="">Global Health Programs</a><ul class="menu"><li class="first leaf"><a href="/responsibility/global_health/global_health_fellows">Global Health Fellows</a></li>
+<li class="leaf"><a href="/responsibility/global_health/international_trachoma_initiative">International Trachoma Initiative</a></li>
+<li class="leaf"><a href="/responsibility/global_health/malaria_efforts" title="">Malaria Efforts</a></li>
+<li class="leaf"><a href="/responsibility/global_health/pfizer_malaria_partnership">Mobilize Against Malaria</a></li>
+<li class="leaf"><a href="/responsibility/global_health/infectious_diseases_institute">Infectious Diseases Institute</a></li>
+<li class="last leaf"><a href="/responsibility/global_health/diflucan_partnership_program">Diflucan Partnership</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/responsibility/grants_contributions/grants_and_contributions" title="">Grants &amp; Contributions</a><ul class="menu"><li class="first collapsed"><a href="/responsibility/grants_contributions/transparency_in_grants">Transparency in Grants</a></li>
+<li class="leaf"><a href="/responsibility/grants_contributions/lobbying_and_political_contributions">Lobbying &amp; Political Contributions</a></li>
+<li class="collapsed"><a href="/responsibility/grants_contributions/independent_grants">Independent Grants for Learning &amp; Change</a></li>
+<li class="collapsed"><a href="/responsibility/grants_contributions/medical_and_academic_partnerships" title="">Medical &amp; Academic Partnerships</a></li>
+<li class="leaf"><a href="/responsibility/grants_contributions/health_care_charitables">Health Care Charitables</a></li>
+<li class="last leaf"><a href="/responsibility/grants_contributions/special_events">Special Events</a></li>
+</ul></li><li class="leaf"><a href="/responsibility/transparency" title="">Transparency</a></li></ul><ul class="sub-list menu"><li class="expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/responsibility/working_with_hcp/working_with_hcp" title="">Working With Health Care Professionals</a><ul class="menu"><li class="first leaf"><a href="/responsibility/working_with_hcp/research_development">Research and Development</a></li>
+<li class="leaf"><a href="/responsibility/working_with_hcp/professional_advising" title="">Professional Advising and Consulting</a></li>
+<li class="leaf"><a href="/responsibility/working_with_hcp/expert_led_forums">Expert-Led Forums</a></li>
+<li class="leaf"><a href="/responsibility/working_with_hcp/in_office_info_sessions">In-Office Information Sessions</a></li>
+<li class="collapsed"><a href="/responsibility/working_with_hcp/policies_practices">Policies and Practices</a></li>
+<li class="last collapsed"><a href="/responsibility/working_with_hcp/payments_to_hcp">Payments to Health Care Professionals</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/responsibility/protecting_environment/protecting_the_environment">Protecting the Environment</a><ul class="menu"><li class="first collapsed"><a href="/responsibility/protecting_environment/supplier_ehs">Supplier EHS</a></li>
+<li class="leaf"><a href="/responsibility/protecting_environment/ehs_governance">EHS Governance</a></li>
+<li class="leaf"><a href="/responsibility/protecting_environment/key_performance_indicators">Key Performance Indicators</a></li>
+<li class="collapsed"><a href="/responsibility/protecting_environment/green_journey">Pfizer's Green Journey</a></li>
+<li class="last collapsed"><a href="/responsibility/protecting_environment/product_stewardship">Product Stewardship</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="last expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/responsibility/workplace_responsibility/workplace_responsibility">Workplace Responsibility</a><ul class="menu"><li class="first leaf"><a href="/responsibility/workplace_responsibility/hiv_aids_workplace_policy">HIV/AIDS Workplace Policy</a></li>
+<li class="collapsed"><a href="/responsibility/workplace_responsibility/health_and_safety">Health and Safety</a></li>
+<li class="last leaf"><a href="/responsibility/workplace_responsibility/human_rights_statement">Human Rights Statement</a></li>
+</ul></li></ul>        </div></li><li class="level-1 link-795 item-4 pm-not-hovered pfizer-menu-item-wrapper"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health" title="Health &amp; Wellness" class="pfizer-menu-item-parent">Health</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health/medicine_safety/medicine_safety" title="">Medicine Safety</a><ul class="menu"><li class="first leaf"><a href="/health/medicine_safety/medicine_safety_education">Medicine Safety Education</a></li>
+<li class="leaf"><a href="/health/medicine_safety/medicine_safety_at_pfizer">Medicine Safety At Pfizer</a></li>
+<li class="last leaf"><a href="/health/medicine_safety/reporting_adverse_events">Reporting Adverse Events</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health/financial_assistance_programs/patient_assistance_programs" title="">Patient Assistance Programs</a><ul class="menu"><li class="first last leaf"><a href="/health/financial_assistance_programs/government_programs">Government Programs</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health/vaccines/index" title="">Vaccines</a><ul class="menu"><li class="first leaf"><a href="/health/vaccines/legacy_of_achievement">Legacy of Achievement</a></li>
+<li class="leaf"><a href="/health/vaccines/developing_world">In the Developing World</a></li>
+<li class="last leaf"><a href="/health/vaccines/meet_our_vaccines_leaders">Meet Our Vaccines Leaders</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health/senior_health/index" title="">Senior Health</a><ul class="menu"><li class="first collapsed"><a href="/health/senior_health/medicare_resources/index">Medicare Resources</a></li>
+<li class="leaf"><a href="/health/senior_health/taking_medicines">Taking Your Medications Correctly</a></li>
+<li class="last leaf"><a href="/health/senior_health/vitamins">Vitamins &amp; Your Health</a></li>
+</ul></li><li class="leaf"><a href="http://gethealthystayhealthy.com/" title="" class="ext" target="_blank">GetHealthy StayHealthy.com<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health/biosimilars" title="">Biosimilars</a><ul class="menu"><li class="first leaf"><a href="/health/biosimilars/biologics_and_biosimilars" title="">Biologics &amp; Biosimilars</a></li>
+<li class="leaf"><a href="/health/biosimilars/pfizer_heritage" title="">Pfizer Heritage</a></li>
+<li class="last leaf"><a href="/health/biosimilars/anatomy_of_a_market_leader" title="">Anatomy of a Market Leader</a></li>
+</ul></li><li class="leaf"><a href="/health/caregiving">Caregiving</a></li></ul><ul class="sub-list menu"><li class="last expanded first"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/health/literacy" title="">Health Literacy</a><ul class="menu"><li class="first collapsed"><a href="/health/literacy/patients_and_families">Patients and Families</a></li>
+<li class="collapsed"><a href="/health/literacy/healthcare_professionals">Healthcare Professionals</a></li>
+<li class="last collapsed"><a href="/health/literacy/public_policy_researchers/overview_of_health_literacy_and_clear_health_communication">Public Policy/Researchers</a></li>
+</ul></li></ul>        </div></li><li class="level-1 link-1754 item-5 pm-not-hovered pfizer-menu-item-wrapper"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/investors" title="" class="pfizer-menu-item-parent">Investors</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/investors/shareholder_services/shareholder_services">Shareholder Services</a><ul class="menu"><li class="first leaf"><a href="/investors/shareholder_services/shareholder_faqs">Stock FAQs</a></li>
+<li class="leaf"><a href="/investors/shareholder_services/advisory_information_for_investors" title="">Advisory Information</a></li>
+<li class="leaf"><a href="/investors/shareholder_services/investor_dashboard" title="">Investor Dashboard</a></li>
+<li class="leaf"><a href="/investors/shareholder_services/cost_basis_calculator" title="">Cost Basis Calculator</a></li>
+<li class="last leaf"><a href="/investors/shareholder_services/shareholder_services" title="">Hospira Transaction</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/investors/sec_filings" title="">SEC filings</a><ul class="menu"><li class="first last leaf"><a href="/investors/sec_filings/form10q_filings">Interactive Data Filings (XBRL)</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="leaf first"><a href="/investors/presentations" title="">Presentations</a></li><li class="leaf"><a href="/investors/financial_reports/financial_reports" title="">Financial Reports</a></li><li class="leaf"><a href="/investors/ceo_cfo_certifications/ceo_cfo_certifications" title="">CEO/CFO Certifications </a></li><li class="leaf"><a href="/investors/prospective" title="">Prospective Investors</a></li><li class="last leaf"><a href="/investors/hospira_tax_information">Hospira Exchange Offer Tax Information</a></li></ul>        </div></li><li class="level-1 link-1756 item-6 pm-not-hovered pfizer-menu-item-wrapper last"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/news" title="" class="pfizer-menu-item-parent">News</a><div class="col pm-below">
+          <ul class="sub-list menu"><li class="first expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/news/press-release" title="">Press Releases</a><ul class="menu"><li class="first leaf"><a href="/news/press-release/press-releases-archive" title="">Press Release Archive</a></li>
+<li class="last leaf"><a href="/news/press-release/press-statement-archive" title="">Press Statements</a></li>
+</ul></li><li class="expanded"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/news/press_kits/press_kits">Press Kits &amp; Downloads</a><ul class="menu"><li class="first leaf"><a href="/news/press_kits/value_of_medicines">Value of Medicines</a></li>
+<li class="leaf"><a href="/news/press_kits/press_kit" title="">Company Press Kit</a></li>
+<li class="leaf"><a href="/news/press_kits/vaccines_press_kit" title="">Vaccines Press Kit</a></li>
+<li class="leaf"><a href="/news/press_kits/get_old" title="">Get Old Press Kit</a></li>
+<li class="leaf"><a href="/news/press_kits/breast_cancer">Breast Cancer: A Story Half Told</a></li>
+<li class="last leaf"><a href="/news/press_kits/palbociclib" title="">Palbociclib Resources</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="leaf first"><a href="/news/featured_stories" title="">Features</a></li><li class="leaf"><a href="/news/info_for_journalists/information_journalists" title="">Frequently Requested Info</a></li><li class="leaf"><a href="/news/social_media/social_media" title="">Social Media</a></li><li class="leaf"><a href="/news/video-gallery" title="">Video Gallery</a></li><li class="last leaf"><a href="/news/contact/contact_pfizer">Contact Media Relations</a></li></ul>        </div></li></ul><ul id="superfish-12" class="sf-menu menu-c sf-horizontal sf-style-pomegranate sf-total-items-4 sf-parent-items-2 sf-single-items-2"><li id="menu-1752-12" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://www.pfizerpro.com/" title="" class="sf-depth-1 ">Health Professionals</a></li><li id="menu-1753-12" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="http://pfizercareers.com/" title="" class="sf-depth-1 ">Careers</a></li><li id="menu-1755-12" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/partnering" title="" class="sf-depth-1  menuparent">Partners</a><ul><li id="menu-1337-12" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/partnering/partnership_highlights" class="sf-depth-2 ">Partnership Highlights</a></li><li id="menu-866-12" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/partnering/contacts" class="sf-depth-2 ">Contacts</a></li><li id="menu-867-12" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/partnering/business_development_leaders" class="sf-depth-2 ">Business Developments Leaders</a></li><li id="menu-778-12" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/partnering/events" class="sf-depth-2 ">Events Pfizer is Attending</a></li><li id="menu-1674-12" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/partnering/partnering_with_pfizer_contact_us" class="sf-depth-2 ">Submit Your Opportunities</a></li><li id="menu-1769-12" class="last even sf-item-6 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/partnering/areas_of_interest" title="" class="sf-depth-2  menuparent">Areas of Interest</a><ul><li id="menu-1411-12" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/biopharmaceuticals" class="sf-depth-3 ">Biopharmaceuticals</a></li><li id="menu-1412-12" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/consumer_healthcare" class="sf-depth-3 ">Consumer Healthcare</a></li><li id="menu-1415-12" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/core_therapeutic_areas" class="sf-depth-3 ">Core Therapeutic Areas</a></li><li id="menu-1413-12" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/innovation" class="sf-depth-3 ">Innovation</a></li><li id="menu-1416-12" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/research_and_development" class="sf-depth-3 ">Research &amp; Development</a></li><li id="menu-1414-12" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/venture_investments" class="sf-depth-3 ">Venture Investments</a></li></ul></li></ul></li><li id="menu-19871-12" class="active-trail last even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent hover"><span class="nav-click"><i class="nav-arrow"></i></span><a href="/contact/contact_us_support" title="" class="sf-depth-1  menuparent">Contact Us</a><ul><li id="menu-1725-12" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/contact/faqs" class="sf-depth-2 ">Frequently Asked Questions</a></li><li id="menu-2621-12" class="active-trail last even sf-item-2 sf-depth-2 sf-no-children hover active-hover"><a href="/general/privacy" title="" class="sf-depth-2  active">Privacy Policy</a></li></ul></li></ul></div></div><div class="page clearfix" id="page">
       <header id="section-header" class="section section-header">
   <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
   <div id="zone-user" class="zone zone-user clearfix container-12">
@@ -170,67 +516,67 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	<script>function getResults() {var sterm = document.searchform.q.value; if(sterm=='Search' || sterm==''){sterm='pfizer'; } url = '/search/google/' + sterm; window.location.assign(url); return false; } </script>
 	<div id="country_finder" style="top: 45px; right:27%; clip: rect(0px, auto, auto, 0px); visibility: hidden;">
 		<!-- <div class="country_finder_content"> -->
-		<ul style="display:inline;float:left;width:23%; padding-left:10px; padding-top:5px;">
+		<ul style="display:inline;float:left;width:23%; padding-left:10px; padding-top:5px; box-sizing:border-box;">
 			<li class="col-one">
 				<a href="http://www.pfizer.com.ar">Argentina</a></li>
 			<li class="col-one">
 				<a href="http://www.pfizer.com.au">Australia</a></li>
 			<li class="col-one">
-				<a href="http://www.pfizer.at">Austria</a></li>
+				<a href="http://www.pfizer.at" class="ext" target="_blank">Austria<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-one">
-				<a href="http://www.pfizer.be">Belgium</a></li>
+				<a href="http://www.pfizer.be" class="ext" target="_blank">Belgium<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-one">
 				<a href="http://www.Pfizer.com.br">Brazil</a></li>
 			<li class="col-one">
-				<a href="http://www.pfizer.ca">Canada</a></li>
+				<a href="http://www.pfizer.ca" class="ext" target="_blank">Canada<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-one">
 				<a href="http://www.pfizer.com.cn">China</a></li>
 			<li class="col-one">
 				<a href="http://www.pfizer.com.co">Colombia</a></li>
 			<li class="col-one">
-				<a href="http://www.pfizer.cz">Czech Republic</a></li>
+				<a href="http://www.pfizer.cz" class="ext" target="_blank">Czech Republic<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-one">
-				<a href="http://www.pfizer.dk">Denmark</a></li>
+				<a href="http://www.pfizer.dk" class="ext" target="_blank">Denmark<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-one">
-				<a href="http://www.pfizer.fi">Finland</a></li>
+				<a href="http://www.pfizer.fi" class="ext" target="_blank">Finland<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 		</ul>
-		<ul style="display:inline;float:left;width:23%;padding-top:5px;">
+		<ul style="display:inline;float:left;width:23%;padding-top:5px; box-sizing:border-box;">
 			<li class="col-two">
-				<a href="http://www.pfizer.fr">France</a></li>
+				<a href="http://www.pfizer.fr" class="ext" target="_blank">France<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.de">Germany</a></li>
+				<a href="http://www.pfizer.de" class="ext" target="_blank">Germany<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.gr">Greece</a></li>
+				<a href="http://www.pfizer.gr" class="ext" target="_blank">Greece<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
 				<a href="http://www.pfizer.com.hk">Hong Kong</a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.hu">Hungary</a></li>
+				<a href="http://www.pfizer.hu" class="ext" target="_blank">Hungary<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizerindia.com">India</a></li>
+				<a href="http://www.pfizerindia.com" class="ext" target="_blank">India<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizerpeduli.com">Indonesia</a></li>
+				<a href="http://www.pfizerpeduli.com" class="ext" target="_blank">Indonesia<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.ie">Ireland</a></li>
+				<a href="http://www.pfizer.ie" class="ext" target="_blank">Ireland<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.co.il">Israel</a></li>
+				<a href="http://www.pfizer.co.il" class="ext" target="_blank">Israel<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.it">Italy</a></li>
+				<a href="http://www.pfizer.it" class="ext" target="_blank">Italy<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-two">
-				<a href="http://www.pfizer.co.jp">Japan</a></li>
+				<a href="http://www.pfizer.co.jp" class="ext" target="_blank">Japan<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 		</ul>
-		<ul style="display:inline;float:left;width:30%;padding-top:5px;">
+		<ul style="display:inline;float:left;width:29%;padding-top:5px; box-sizing:border-box;">
 			<li class="col-three">
-				<a href="http://www.pfizerkorea.co.kr">Korea</a></li>
+				<a href="http://www.pfizerkorea.co.kr" class="ext" target="_blank">Korea<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-three">
 				<a href="http://www.pfizer.com.my">Malaysia/Singapore</a></li>
 			<li class="col-three">
 				<a href="http://www.pfizer.com.mx">Mexico</a></li>
 			<li class="col-three">
-				<a href="http://www.pfizer.nl">Netherlands</a></li>
+				<a href="http://www.pfizer.nl" class="ext" target="_blank">Netherlands<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-three">
-				<a href="http://www.pfizer.co.nz">New Zealand</a></li>
+				<a href="http://www.pfizer.co.nz" class="ext" target="_blank">New Zealand<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-three">
-				<a href="http://www.pfizer.no">Norway</a></li>
+				<a href="http://www.pfizer.no" class="ext" target="_blank">Norway<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 			<li class="col-three">
 				<a href="http://www.pfizer.com.pk">Pakistan</a></li>
 			<li class="col-three">
@@ -238,33 +584,35 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 			<li class="col-three">
 				<a href="http://www.pfizer.com.pl">Poland</a></li>
 			<li class="col-three">
-				<a href="http://www.pfizer.pt">Portugal</a></li>                       
+				<a href="http://www.pfizer.pt" class="ext" target="_blank">Portugal<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>                       
 			<li class="col-three">
-				<a href="http://www.pfizer.ro/">Romania</a></li>
+				<a href="http://www.pfizer.ro/" class="ext" target="_blank">Romania<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 		</ul>
-		<ul style="display:inline;float:left;padding-top:5px;">
+		<ul style="display:inline;float:left;padding-top:5px; box-sizing:border-box;">
 			<li>
 				<ul style="padding-top:0;">
                                         <li class="col-four">
-						<a href="http://www.pfizer.ru">Russia</a></li>
+						<a href="http://www.pfizer.ru" class="ext" target="_blank">Russia<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.sk">Slovakia</a></li>
+						<a href="http://www.pfizer.sk" class="ext" target="_blank">Slovakia<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.co.za">South Africa</a></li>
+						<a href="http://www.pfizer.co.za" class="ext" target="_blank">South Africa<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.es">Spain</a></li>
+						<a href="http://www.pfizer.es" class="ext" target="_blank">Spain<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.se">Sweden</a></li>
+						<a href="http://www.pfizer.se" class="ext" target="_blank">Sweden<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.ch">Switzerland</a></li>
+						<a href="http://www.pfizer.ch" class="ext" target="_blank">Switzerland<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
 						<a href="http://www.pfizer.com.tw">Taiwan</a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.co.th">Thailand</a></li>
+						<a href="http://www.pfizer.co.th" class="ext" target="_blank">Thailand<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 					<li class="col-four">
 						<a href="http://www.pfizer.com.tr">Turkey</a></li>
 					<li class="col-four">
-						<a href="http://www.pfizer.co.uk">United Kingdom</a></li>
+						<a href="http://www.pfizer.co.uk" class="ext" target="_blank">United Kingdom<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
+                                        <li class="col-four">
+						<a href="http://www.pfizer.ua" class="ext" target="_blank">Ukraine<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li>
 				</ul>
 			</li>
 		</ul>
@@ -277,7 +625,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
               <h2 class="block-title">Audience navigation</h2>
             
     <div class="content clearfix">
-      <ul id="superfish-12" class="sf-menu menu-c sf-horizontal sf-style-pomegranate sf-total-items-4 sf-parent-items-2 sf-single-items-2 sf-js-enabled"><li id="menu-1752-12" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://www.pfizerpro.com/" title="" class="sf-depth-1 ">Health Professionals</a></li><li id="menu-1753-12" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="http://pfizercareers.com/" title="" class="sf-depth-1 ">Careers</a></li><li id="menu-1755-12" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/partnering" title="" class="sf-depth-1  menuparent sf-with-ul">Partners<span class="sf-sub-indicator"> »</span></a><ul style="float: none; width: 18em; display: none; visibility: hidden;"><li id="menu-1337-12" class="first odd sf-item-1 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/partnership_highlights" class="sf-depth-2 " style="float: none; width: auto;">Partnership Highlights</a></li><li id="menu-866-12" class="middle even sf-item-2 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/contacts" class="sf-depth-2 " style="float: none; width: auto;">Contacts</a></li><li id="menu-867-12" class="middle odd sf-item-3 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/business_development_leaders" class="sf-depth-2 " style="float: none; width: auto;">Business Developments Leaders</a></li><li id="menu-778-12" class="middle even sf-item-4 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/events" class="sf-depth-2 " style="float: none; width: auto;">Events Pfizer is Attending</a></li><li id="menu-1674-12" class="middle odd sf-item-5 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/partnering_with_pfizer_contact_us" class="sf-depth-2 " style="float: none; width: auto;">Submit Your Opportunities</a></li><li id="menu-1769-12" class="last even sf-item-6 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest" title="" class="sf-depth-2  menuparent sf-with-ul" style="float: none; width: auto;">Areas of Interest<span class="sf-sub-indicator"> »</span></a><ul style="left: 18em; float: none; width: 18em; display: none; visibility: hidden;"><li id="menu-1411-12" class="first odd sf-item-1 sf-depth-3 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest/biopharmaceuticals" class="sf-depth-3 " style="float: none; width: auto;">Biopharmaceuticals</a></li><li id="menu-1412-12" class="middle even sf-item-2 sf-depth-3 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest/consumer_healthcare" class="sf-depth-3 " style="float: none; width: auto;">Consumer Healthcare</a></li><li id="menu-1415-12" class="middle odd sf-item-3 sf-depth-3 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest/core_therapeutic_areas" class="sf-depth-3 " style="float: none; width: auto;">Core Therapeutic Areas</a></li><li id="menu-1413-12" class="middle even sf-item-4 sf-depth-3 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest/innovation" class="sf-depth-3 " style="float: none; width: auto;">Innovation</a></li><li id="menu-1416-12" class="middle odd sf-item-5 sf-depth-3 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest/research_and_development" class="sf-depth-3 " style="float: none; width: auto;">Research &amp; Development</a></li><li id="menu-1414-12" class="last even sf-item-6 sf-depth-3 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/partnering/areas_of_interest/venture_investments" class="sf-depth-3 " style="float: none; width: auto;">Venture Investments</a></li></ul></li></ul></li><li id="menu-19871-12" class="active-trail last even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/contact/contact_us_support" title="" class="sf-depth-1  menuparent sf-with-ul">Contact Us<span class="sf-sub-indicator"> »</span></a><ul style="float: none; width: 18em; display: none; visibility: hidden;"><li id="menu-1725-12" class="first odd sf-item-1 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/contact/faqs" class="sf-depth-2 " style="float: none; width: auto;">Frequently Asked Questions</a></li><li id="menu-2621-12" class="active-trail last even sf-item-2 sf-depth-2 sf-no-children" style="white-space: normal; float: none; width: 100%;"><a href="/general/privacy" title="" class="sf-depth-2  active" style="float: none; width: auto;">See Our Updated Privacy Policy</a></li></ul></li></ul>    </div>
+      <ul id="superfish-12" class="sf-menu menu-c sf-horizontal sf-style-pomegranate sf-total-items-4 sf-parent-items-2 sf-single-items-2"><li id="menu-1752-12" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://www.pfizerpro.com/" title="" class="sf-depth-1 ">Health Professionals</a></li><li id="menu-1753-12" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="http://pfizercareers.com/" title="" class="sf-depth-1 ">Careers</a></li><li id="menu-1755-12" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/partnering" title="" class="sf-depth-1  menuparent">Partners</a><ul><li id="menu-1337-12" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/partnering/partnership_highlights" class="sf-depth-2 ">Partnership Highlights</a></li><li id="menu-866-12" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/partnering/contacts" class="sf-depth-2 ">Contacts</a></li><li id="menu-867-12" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/partnering/business_development_leaders" class="sf-depth-2 ">Business Developments Leaders</a></li><li id="menu-778-12" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/partnering/events" class="sf-depth-2 ">Events Pfizer is Attending</a></li><li id="menu-1674-12" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/partnering/partnering_with_pfizer_contact_us" class="sf-depth-2 ">Submit Your Opportunities</a></li><li id="menu-1769-12" class="last even sf-item-6 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/partnering/areas_of_interest" title="" class="sf-depth-2  menuparent">Areas of Interest</a><ul><li id="menu-1411-12" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/biopharmaceuticals" class="sf-depth-3 ">Biopharmaceuticals</a></li><li id="menu-1412-12" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/consumer_healthcare" class="sf-depth-3 ">Consumer Healthcare</a></li><li id="menu-1415-12" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/core_therapeutic_areas" class="sf-depth-3 ">Core Therapeutic Areas</a></li><li id="menu-1413-12" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/innovation" class="sf-depth-3 ">Innovation</a></li><li id="menu-1416-12" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/research_and_development" class="sf-depth-3 ">Research &amp; Development</a></li><li id="menu-1414-12" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/partnering/areas_of_interest/venture_investments" class="sf-depth-3 ">Venture Investments</a></li></ul></li></ul></li><li id="menu-19871-12" class="active-trail last even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/contact/contact_us_support" title="" class="sf-depth-1  menuparent">Contact Us</a><ul><li id="menu-1725-12" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/contact/faqs" class="sf-depth-2 ">Frequently Asked Questions</a></li><li id="menu-2621-12" class="active-trail last even sf-item-2 sf-depth-2 sf-no-children"><a href="/general/privacy" title="" class="sf-depth-2  active">Privacy Policy</a></li></ul></li></ul>    </div>
   </div>
 </section>  </div>
 </div>  </div>
@@ -289,7 +637,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div>  </div>
 </div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
   <div id="zone-menu" class="zone zone-menu clearfix container-12">
-    <div class="grid-12 region region-menunew" id="region-menunew">
+    <a class="toggleMenu"><img src="/sites/default/themes/pfizer_com/images/menu_trans.png"></a><div class="grid-12 region region-menunew" id="region-menunew">
   <div class="region-inner region-menunew-inner">
     <section class="block block-pfizer-menu block-pm-power-main-menu block-pfizer-menu-pm-power-main-menu odd" id="block-pfizer-menu-pm-power-main-menu">
   <div class="block-inner clearfix">
@@ -304,7 +652,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -321,36 +669,30 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                       <div class="link-text"><a href="/about">About Us<span class="delimiter">»</span></a></div>
           
                       <div class="field field-name-field-menu-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Discover who we are and what we stand for.</p>
-<p><a href="#">Meet Pfizer.</a></p>
+<p><a href="/about">Meet Pfizer.</a></p>
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/about/leadership_and_structure/leadership_structure" title="">Leadership &amp; Structure</a><ul class="menu"><li class="first collapsed"><a href="/about/leadership_and_structure/meet_executive_leaders" title="">Meet Our Executives</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/about/leadership_and_structure/leadership_structure" title="">Leadership &amp; Structure</a><ul class="menu"><li class="first collapsed"><a href="/about/leadership_and_structure/meet_executive_leaders" title="">Meet Our Executives</a></li>
 <li class="leaf"><a href="/about/leadership_and_structure/meet_board" title="">Meet Our Board</a></li>
 <li class="leaf"><a href="/about/leadership_and_structure/company_fact_sheet">Company Fact Sheet</a></li>
 <li class="last leaf"><a href="/about/leadership_and_structure/executive_speeches">Executive Speeches</a></li>
-</ul></li>
-<li class="expanded"><a href="/about/corporate_compliance/corporate_compliance">Corporate Compliance</a><ul class="menu"><li class="first leaf"><a href="/about/corporate_compliance/code_of_conduct">Code of Conduct</a></li>
+</ul></li><li class="expanded"><a href="/about/corporate_compliance/corporate_compliance">Corporate Compliance</a><ul class="menu"><li class="first leaf"><a href="/about/corporate_compliance/code_of_conduct">Code of Conduct</a></li>
 <li class="last leaf"><a href="/about/corporate_compliance/ethical_sales_and_marketing">Sales &amp; Marketing Compliance</a></li>
-</ul></li>
-<li class="expanded"><a href="/about/history/history">History</a><ul class="menu"><li class="first collapsed"><a href="/about/history/timeline">Timeline</a></li>
+</ul></li><li class="expanded"><a href="/about/history/history">History</a><ul class="menu"><li class="first collapsed"><a href="/about/history/timeline">Timeline</a></li>
 <li class="last collapsed"><a href="/about/history/gallery_leaders">Gallery of Leaders</a></li>
-</ul></li>
-<li class="leaf"><a href="/about/accolades/accolades" title="">Accolades</a></li>
-<li class="expanded"><a href="/about/corporate_governance/corporate_governance" title="">Corporate Governance</a><ul class="menu"><li class="first leaf"><a href="/about/corporate_governance/corporate_governance_principles" title="">Principles</a></li>
+</ul></li><li class="leaf"><a href="/about/accolades/accolades" title="">Accolades</a></li></ul><ul class="sub-list menu"><li class="expanded first"><a href="/about/corporate_governance/corporate_governance">Corporate Governance</a><ul class="menu"><li class="first leaf"><a href="/about/corporate_governance/corporate_governance_principles" title="">Principles</a></li>
 <li class="leaf"><a href="/about/corporate_governance/corporate_governance_fact_sheet">Fact Sheet</a></li>
 <li class="collapsed"><a href="/about/corporate_governance/board_committees_charters" title="">Board Committees &amp; Charters</a></li>
 <li class="collapsed"><a href="/about/corporate_governance/board_policies">Board Policies</a></li>
 <li class="leaf"><a href="/about/corporate_governance/business_ethics_conduct">Business Conduct and Ethics</a></li>
 <li class="leaf"><a href="/about/corporate_governance/corporate_governance_faqs">Corporate Governance FAQs</a></li>
 <li class="last leaf"><a href="/about/corporate_governance/contact_directors">Contact Our Directors</a></li>
-</ul></li>
-<li class="last expanded"><a href="/about/diversity" title="">Diversity</a><ul class="menu"><li class="first leaf"><a href="/about/diversity/vision" title="">Vision</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="last expanded first"><a href="/about/diversity" title="">Diversity</a><ul class="menu"><li class="first leaf"><a href="/about/diversity/vision" title="">Vision</a></li>
 <li class="leaf"><a href="/about/diversity/purpose" title="">Business Purpose</a></li>
 <li class="leaf"><a href="/about/diversity/community" title="">Culture &amp; Community</a></li>
 <li class="last leaf"><a href="/b2b/suppliers/supplier_diversity" title="">Supplier Diversity</a></li>
-</ul></li>
-</ul>        </div>
+</ul></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -362,7 +704,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -385,15 +727,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/products/hcp/healthcare" title="">Authorized Distributors</a><ul class="menu"><li class="first leaf"><a href="/products/hcp/pfizer_authorized_distributors">Pfizer Authorized Distributors</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/products/hcp/healthcare" title="">Authorized Distributors</a><ul class="menu"><li class="first leaf"><a href="/products/hcp/pfizer_authorized_distributors">Pfizer Authorized Distributors</a></li>
 <li class="collapsed"><a href="/products/hcp/greenstone_authorized_distributors">Greenstone Authorized Distributors</a></li>
 <li class="leaf"><a href="/products/hcp/pantoprazole_authorized_distributors">Pantoprazole Authorized Distributors</a></li>
-<li class="last leaf"><a href="/products/hcp/resource_center">Resource Center </a></li>
-</ul></li>
-<li class="leaf"><a href="/products/counterfeit_and_importation/counterfeit_importation" title="">Counterfeiting &amp; Importation</a></li>
-<li class="leaf"><a href="/products/medical-information/medical-information">Medical Information</a></li>
-<li class="last leaf"><a href="/products/msds/material_safety_data_sheets">Material Safety Data Sheets</a></li>
-</ul>        </div>
+<li class="last leaf"><a href="/products/hcp/resource_center">Resource Center</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="leaf first"><a href="/products/medical-information/medical-information">Medical Information</a></li><li class="leaf"><a href="/products/msds/material_safety_data_sheets">Material Safety Data Sheets</a></li><li class="last leaf"><a href="/products/counterfeit" title="">Counterfeiting</a></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -405,7 +743,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -426,22 +764,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/research/therapeutic_areas" title="">Therapeutic Areas</a><ul class="menu"><li class="first leaf"><a href="/research/therapeutic_areas/immunology_and_inflammation" title=""> Immunology &amp; Inflammation</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/research/therapeutic_areas" title="">Therapeutic Areas</a><ul class="menu"><li class="first leaf"><a href="/research/therapeutic_areas/immunology_and_inflammation" title=""> Immunology &amp; Inflammation</a></li>
 <li class="leaf"><a href="/research/therapeutic_areas/cardiovascular_and_metabolic_diseases" title="">CV &amp; Metabolic Diseases</a></li>
 <li class="leaf"><a href="/research/therapeutic_areas/oncology" title="">Oncology</a></li>
 <li class="leaf"><a href="/research/therapeutic_areas/vaccines" title="">Vaccines</a></li>
 <li class="leaf"><a href="/research/therapeutic_areas/neuroscience_and_pain" title="">Neuroscience &amp; Pain</a></li>
 <li class="last leaf"><a href="/research/therapeutic_areas/rare_disease" title="">Rare Disease</a></li>
-</ul></li>
-<li class="expanded"><a href="/research/science_and_technology" title="">Science &amp; Technology</a><ul class="menu"><li class="first leaf"><a href="/research/science_and_technology/rd_vision" title="">R&amp;D Vision</a></li>
-<li class="leaf"><a href="/research/science_and_technology/meet_our_scientists" title="">Meet Our Scientists</a></li>
-<li class="collapsed"><a href="/research/science_and_technology/product_pipeline" title="">Product Pipeline</a></li>
-<li class="leaf"><a href="/research/science_and_technology/operating_model" title="">Operating Model</a></li>
-<li class="leaf"><a href="/research/science_and_technology/rd_platforms" title="">R&amp;D Platforms</a></li>
-<li class="leaf"><a href="/research/science_and_technology/biosimilars" title="">Biosimilars</a></li>
-<li class="last collapsed"><a href="/research/science_and_technology/rd_locations" title="">R&amp;D Locations</a></li>
-</ul></li>
-<li class="expanded"><a href="/research/rd_partnering" title="">R&amp;D Partnering</a><ul class="menu"><li class="first leaf"><a href="/research/rd_partnering/working_in_rd" title="">Working in R&amp;D</a></li>
+</ul></li><li class="expanded"><a href="/research/clinical_trials" title="">Clinical Trials</a><ul class="menu"><li class="first leaf"><a href="/research/clinical_trials/phases_of_development" title="">What Are Clinical Trials?</a></li>
+<li class="leaf"><a href="/research/clinical_trials/policies_positions_and_case_studies" title="">How We Conduct Trials</a></li>
+<li class="leaf"><a href="/research/clinical_trials/clinical_innovation" title="">Clinical Innovation</a></li>
+<li class="collapsed"><a href="/research/clinical_trials/trial_data_and_results" title="">Trial Data &amp; Results</a></li>
+<li class="leaf"><a href="/research/clinical_trials/find_a_trial">Find a Trial</a></li>
+<li class="last collapsed"><a href="/research/pmc/post_marketing_commitments">Post Marketing Commitments</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="expanded first"><a href="/research/rd_partnering" title="">R&amp;D Partnering</a><ul class="menu"><li class="first leaf"><a href="/research/rd_partnering/working_in_rd" title="">Working in R&amp;D</a></li>
 <li class="leaf"><a href="/research/rd_partnering/rd_ecosystem" title="">R&amp;D Ecosystem</a></li>
 <li class="leaf"><a href="/research/rd_partnering/centers_for_therapeutic_innovation" title="">Centers for Therapeutic Innovation</a></li>
 <li class="leaf"><a href="/research/rd_partnering/investigator_initiated_research" title="">Investigator-Initiated Research</a></li>
@@ -449,15 +784,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf"><a href="/research/rd_partnering/careers" title="">Careers</a></li>
 <li class="leaf"><a href="/research/rd_partnering/post_doc_program" title="">Post-doc Program</a></li>
 <li class="last leaf"><a href="/research/rd_partnering/partnering" title="">Partnering</a></li>
-</ul></li>
-<li class="last expanded"><a href="/research/clinical_trials" title="">Clinical Trials</a><ul class="menu"><li class="first leaf"><a href="/research/clinical_trials/clinical_innovation" title="">Clinical Innovation</a></li>
-<li class="leaf"><a href="/research/clinical_trials/phases_of_development" title="">Phases of Development</a></li>
-<li class="leaf"><a href="/research/clinical_trials/policies_positions_and_case_studies" title=""> Policies, Positions &amp; Case Studies</a></li>
-<li class="collapsed"><a href="/research/clinical_trials/trial_data_and_results" title="">Trial Data &amp; Results</a></li>
-<li class="leaf"><a href="/research/clinical_trials/find_a_trial">Find a Trial</a></li>
-<li class="last collapsed"><a href="/research/pmc/post_marketing_commitments">Post Marketing Commitments</a></li>
-</ul></li>
-</ul>        </div>
+</ul></li><li class="leaf"><a href="/research/compassionate_use">Compassionate Use and Expanded Access</a></li></ul><ul class="sub-list menu"><li class="last expanded first"><a href="/research/science_and_technology" title="">Science &amp; Technology</a><ul class="menu"><li class="first leaf"><a href="/research/science_and_technology/rd_vision" title="">R&amp;D Vision</a></li>
+<li class="leaf"><a href="/research/science_and_technology/meet_our_scientists" title="">Meet Our Scientists</a></li>
+<li class="collapsed"><a href="/research/science_and_technology/product_pipeline" title="">Product Pipeline</a></li>
+<li class="leaf"><a href="/research/science_and_technology/operating_model" title="">Operating Model</a></li>
+<li class="leaf"><a href="/research/science_and_technology/rd_platforms" title="">R&amp;D Platforms</a></li>
+<li class="leaf"><a href="/research/science_and_technology/biosimilars" title="">Biosimilars</a></li>
+<li class="last collapsed"><a href="/research/science_and_technology/rd_locations" title="">R&amp;D Locations</a></li>
+</ul></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -469,7 +803,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -490,39 +824,33 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/responsibility/global_health/global_health" title="">Global Health Programs</a><ul class="menu"><li class="first leaf"><a href="/responsibility/global_health/global_health_fellows">Global Health Fellows</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/responsibility/global_health/global_health" title="">Global Health Programs</a><ul class="menu"><li class="first leaf"><a href="/responsibility/global_health/global_health_fellows">Global Health Fellows</a></li>
 <li class="leaf"><a href="/responsibility/global_health/international_trachoma_initiative">International Trachoma Initiative</a></li>
 <li class="leaf"><a href="/responsibility/global_health/malaria_efforts" title="">Malaria Efforts</a></li>
 <li class="leaf"><a href="/responsibility/global_health/pfizer_malaria_partnership">Mobilize Against Malaria</a></li>
 <li class="leaf"><a href="/responsibility/global_health/infectious_diseases_institute">Infectious Diseases Institute</a></li>
 <li class="last leaf"><a href="/responsibility/global_health/diflucan_partnership_program">Diflucan Partnership</a></li>
-</ul></li>
-<li class="leaf"><a href="/responsibility/transparency" title="">Transparency</a></li>
-<li class="expanded"><a href="/responsibility/grants_contributions/grants_and_contributions" title="">Grants &amp; Contributions</a><ul class="menu"><li class="first collapsed"><a href="/responsibility/grants_contributions/transparency_in_grants">Transparency in Grants</a></li>
+</ul></li><li class="expanded"><a href="/responsibility/grants_contributions/grants_and_contributions" title="">Grants &amp; Contributions</a><ul class="menu"><li class="first collapsed"><a href="/responsibility/grants_contributions/transparency_in_grants">Transparency in Grants</a></li>
 <li class="leaf"><a href="/responsibility/grants_contributions/lobbying_and_political_contributions">Lobbying &amp; Political Contributions</a></li>
 <li class="collapsed"><a href="/responsibility/grants_contributions/independent_grants">Independent Grants for Learning &amp; Change</a></li>
 <li class="collapsed"><a href="/responsibility/grants_contributions/medical_and_academic_partnerships" title="">Medical &amp; Academic Partnerships</a></li>
 <li class="leaf"><a href="/responsibility/grants_contributions/health_care_charitables">Health Care Charitables</a></li>
 <li class="last leaf"><a href="/responsibility/grants_contributions/special_events">Special Events</a></li>
-</ul></li>
-<li class="expanded"><a href="/responsibility/working_with_hcp/working_with_hcp" title="">Working With Health Care Professionals</a><ul class="menu"><li class="first leaf"><a href="/responsibility/working_with_hcp/research_development">Research and Development</a></li>
+</ul></li><li class="leaf"><a href="/responsibility/transparency" title="">Transparency</a></li></ul><ul class="sub-list menu"><li class="expanded first"><a href="/responsibility/working_with_hcp/working_with_hcp" title="">Working With Health Care Professionals</a><ul class="menu"><li class="first leaf"><a href="/responsibility/working_with_hcp/research_development">Research and Development</a></li>
 <li class="leaf"><a href="/responsibility/working_with_hcp/professional_advising" title="">Professional Advising and Consulting</a></li>
 <li class="leaf"><a href="/responsibility/working_with_hcp/expert_led_forums">Expert-Led Forums</a></li>
 <li class="leaf"><a href="/responsibility/working_with_hcp/in_office_info_sessions">In-Office Information Sessions</a></li>
 <li class="collapsed"><a href="/responsibility/working_with_hcp/policies_practices">Policies and Practices</a></li>
 <li class="last collapsed"><a href="/responsibility/working_with_hcp/payments_to_hcp">Payments to Health Care Professionals</a></li>
-</ul></li>
-<li class="expanded"><a href="/responsibility/protecting_environment/protecting_the_environment">Protecting the Environment</a><ul class="menu"><li class="first collapsed"><a href="/responsibility/protecting_environment/supplier_ehs">Supplier EHS</a></li>
+</ul></li><li class="expanded"><a href="/responsibility/protecting_environment/protecting_the_environment">Protecting the Environment</a><ul class="menu"><li class="first collapsed"><a href="/responsibility/protecting_environment/supplier_ehs">Supplier EHS</a></li>
 <li class="leaf"><a href="/responsibility/protecting_environment/ehs_governance">EHS Governance</a></li>
 <li class="leaf"><a href="/responsibility/protecting_environment/key_performance_indicators">Key Performance Indicators</a></li>
 <li class="collapsed"><a href="/responsibility/protecting_environment/green_journey">Pfizer's Green Journey</a></li>
 <li class="last collapsed"><a href="/responsibility/protecting_environment/product_stewardship">Product Stewardship</a></li>
-</ul></li>
-<li class="last expanded"><a href="/responsibility/workplace_responsibility/workplace_responsibility">Workplace Responsibility</a><ul class="menu"><li class="first leaf"><a href="/responsibility/workplace_responsibility/hiv_aids_workplace_policy">HIV/AIDS Workplace Policy</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="last expanded first"><a href="/responsibility/workplace_responsibility/workplace_responsibility">Workplace Responsibility</a><ul class="menu"><li class="first leaf"><a href="/responsibility/workplace_responsibility/hiv_aids_workplace_policy">HIV/AIDS Workplace Policy</a></li>
 <li class="collapsed"><a href="/responsibility/workplace_responsibility/health_and_safety">Health and Safety</a></li>
 <li class="last leaf"><a href="/responsibility/workplace_responsibility/human_rights_statement">Human Rights Statement</a></li>
-</ul></li>
-</ul>        </div>
+</ul></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -534,7 +862,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -547,7 +875,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="pfizer-menu-content-inner clearfix">
       
               <div class="col pm-secondary-image pm-description">
-                      <div class="field field-name-field-menu-secondary-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/health"><img typeof="foaf:Image" src="/sites/default/files/styles/pfizer_menu_secondary/public/Nav_Health_0.jpg?itok=ra_0Ubql" alt=""></a></div></div></div>          
+                      <div class="field field-name-field-menu-secondary-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/health"><img typeof="foaf:Image" src="/sites/default/files/styles/pfizer_menu_secondary/public/Health_Nav.jpg?itok=9gf0AFvq" alt=""></a></div></div></div>          
                       <div class="link-text"><a href="/health">Health<span class="delimiter">»</span></a></div>
           
                       <div class="field field-name-field-menu-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>At Pfizer, we believe it is very important for people to take a proactive approach to managing their health.</p>
@@ -555,30 +883,23 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/health/medicine_safety/medicine_safety" title="">Medicine Safety</a><ul class="menu"><li class="first leaf"><a href="/health/medicine_safety/medicine_safety_education">Medicine Safety Education</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/health/medicine_safety/medicine_safety" title="">Medicine Safety</a><ul class="menu"><li class="first leaf"><a href="/health/medicine_safety/medicine_safety_education">Medicine Safety Education</a></li>
 <li class="leaf"><a href="/health/medicine_safety/medicine_safety_at_pfizer">Medicine Safety At Pfizer</a></li>
 <li class="last leaf"><a href="/health/medicine_safety/reporting_adverse_events">Reporting Adverse Events</a></li>
-</ul></li>
-<li class="expanded"><a href="/health/financial_assistance_programs/patient_assistance_programs" title="">Patient Assistance Programs</a><ul class="menu"><li class="first last leaf"><a href="/health/financial_assistance_programs/government_programs">Government Programs</a></li>
-</ul></li>
-<li class="expanded"><a href="/health/vaccines/index" title="">Vaccines</a><ul class="menu"><li class="first leaf"><a href="/health/vaccines/legacy_of_achievement">Legacy of Achievement</a></li>
+</ul></li><li class="expanded"><a href="/health/financial_assistance_programs/patient_assistance_programs" title="">Patient Assistance Programs</a><ul class="menu"><li class="first last leaf"><a href="/health/financial_assistance_programs/government_programs">Government Programs</a></li>
+</ul></li><li class="expanded"><a href="/health/vaccines/index" title="">Vaccines</a><ul class="menu"><li class="first leaf"><a href="/health/vaccines/legacy_of_achievement">Legacy of Achievement</a></li>
 <li class="leaf"><a href="/health/vaccines/developing_world">In the Developing World</a></li>
 <li class="last leaf"><a href="/health/vaccines/meet_our_vaccines_leaders">Meet Our Vaccines Leaders</a></li>
-</ul></li>
-<li class="expanded"><a href="/health/senior_health/index" title="">Senior Health</a><ul class="menu"><li class="first collapsed"><a href="/health/senior_health/medicare_resources/index">Medicare Resources</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="expanded first"><a href="/health/senior_health/index" title="">Senior Health</a><ul class="menu"><li class="first collapsed"><a href="/health/senior_health/medicare_resources/index">Medicare Resources</a></li>
 <li class="leaf"><a href="/health/senior_health/taking_medicines">Taking Your Medications Correctly</a></li>
 <li class="last leaf"><a href="/health/senior_health/vitamins">Vitamins &amp; Your Health</a></li>
-</ul></li>
-<li class="leaf"><a href="http://gethealthystayhealthy.com/" title="">GetHealthy StayHealthy.com</a></li>
-<li class="expanded"><a href="/health/biosimilars" title="">Biosimilars</a><ul class="menu"><li class="first leaf"><a href="/health/biosimilars/biologics_and_biosimilars" title="">Biologics &amp; Biosimilars</a></li>
+</ul></li><li class="leaf"><a href="http://gethealthystayhealthy.com/" title="" class="ext" target="_blank">GetHealthy StayHealthy.com<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li><li class="expanded"><a href="/health/biosimilars" title="">Biosimilars</a><ul class="menu"><li class="first leaf"><a href="/health/biosimilars/biologics_and_biosimilars" title="">Biologics &amp; Biosimilars</a></li>
 <li class="leaf"><a href="/health/biosimilars/pfizer_heritage" title="">Pfizer Heritage</a></li>
 <li class="last leaf"><a href="/health/biosimilars/anatomy_of_a_market_leader" title="">Anatomy of a Market Leader</a></li>
-</ul></li>
-<li class="last expanded"><a href="/health/literacy" title="">Health Literacy</a><ul class="menu"><li class="first collapsed"><a href="/health/literacy/patients_and_families">Patients and Families</a></li>
+</ul></li><li class="leaf"><a href="/health/caregiving">Caregiving</a></li></ul><ul class="sub-list menu"><li class="last expanded first"><a href="/health/literacy" title="">Health Literacy</a><ul class="menu"><li class="first collapsed"><a href="/health/literacy/patients_and_families">Patients and Families</a></li>
 <li class="collapsed"><a href="/health/literacy/healthcare_professionals">Healthcare Professionals</a></li>
 <li class="last collapsed"><a href="/health/literacy/public_policy_researchers/overview_of_health_literacy_and_clear_health_communication">Public Policy/Researchers</a></li>
-</ul></li>
-</ul>        </div>
+</ul></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -590,7 +911,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -613,18 +934,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/investors/shareholder_services/shareholder_services" title="">Shareholder Services</a><ul class="menu"><li class="first leaf"><a href="/investors/shareholder_services/shareholder_faqs">Stock FAQs</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/investors/shareholder_services/shareholder_services">Shareholder Services</a><ul class="menu"><li class="first leaf"><a href="/investors/shareholder_services/shareholder_faqs">Stock FAQs</a></li>
 <li class="leaf"><a href="/investors/shareholder_services/advisory_information_for_investors" title="">Advisory Information</a></li>
 <li class="leaf"><a href="/investors/shareholder_services/investor_dashboard" title="">Investor Dashboard</a></li>
-<li class="last leaf"><a href="/investors/shareholder_services/cost_basis_calculator" title="">Cost Basis Calculator</a></li>
-</ul></li>
-<li class="expanded"><a href="/investors/sec_filings" title="">SEC filings</a><ul class="menu"><li class="first last leaf"><a href="/investors/sec_filings/form10q_filings" title="">Interactive Data Filings (XBRL)</a></li>
-</ul></li>
-<li class="leaf"><a href="/investors/presentations" title="">Presentations</a></li>
-<li class="leaf"><a href="/investors/financial_reports/financial_reports" title="">Financial Reports</a></li>
-<li class="leaf"><a href="/investors/ceo_cfo_certifications/ceo_cfo_certifications" title="">CEO/CFO Certifications </a></li>
-<li class="last leaf"><a href="/investors/prospective" title="">Prospective Investors</a></li>
-</ul>        </div>
+<li class="leaf"><a href="/investors/shareholder_services/cost_basis_calculator" title="">Cost Basis Calculator</a></li>
+<li class="last leaf"><a href="/investors/shareholder_services/shareholder_services" title="">Hospira Transaction</a></li>
+</ul></li><li class="expanded"><a href="/investors/sec_filings" title="">SEC filings</a><ul class="menu"><li class="first last leaf"><a href="/investors/sec_filings/form10q_filings">Interactive Data Filings (XBRL)</a></li>
+</ul></li></ul><ul class="sub-list menu"><li class="leaf first"><a href="/investors/presentations" title="">Presentations</a></li><li class="leaf"><a href="/investors/financial_reports/financial_reports" title="">Financial Reports</a></li><li class="leaf"><a href="/investors/ceo_cfo_certifications/ceo_cfo_certifications" title="">CEO/CFO Certifications </a></li><li class="leaf"><a href="/investors/prospective" title="">Prospective Investors</a></li><li class="last leaf"><a href="/investors/hospira_tax_information">Hospira Exchange Offer Tax Information</a></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -636,7 +952,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
       <div class="pfizer-menu-item-content-wrapper">
                   <div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -659,22 +975,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></div></div>                  </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first expanded"><a href="/news/press-release" title="">Press Releases</a><ul class="menu"><li class="first leaf"><a href="/news/press-release/press-releases-archive" title="">Press Release Archive</a></li>
+          <ul class="sub-list menu"><li class="first expanded"><a href="/news/press-release" title="">Press Releases</a><ul class="menu"><li class="first leaf"><a href="/news/press-release/press-releases-archive" title="">Press Release Archive</a></li>
 <li class="last leaf"><a href="/news/press-release/press-statement-archive" title="">Press Statements</a></li>
-</ul></li>
-<li class="expanded"><a href="/news/press_kits/press_kits" title="">Press Kits &amp; Downloads</a><ul class="menu"><li class="first leaf"><a href="/news/press_kits/value_of_medicines" title="">Value of Medicines</a></li>
+</ul></li><li class="expanded"><a href="/news/press_kits/press_kits">Press Kits &amp; Downloads</a><ul class="menu"><li class="first leaf"><a href="/news/press_kits/value_of_medicines">Value of Medicines</a></li>
 <li class="leaf"><a href="/news/press_kits/press_kit" title="">Company Press Kit</a></li>
 <li class="leaf"><a href="/news/press_kits/vaccines_press_kit" title="">Vaccines Press Kit</a></li>
 <li class="leaf"><a href="/news/press_kits/get_old" title="">Get Old Press Kit</a></li>
-<li class="leaf"><a href="/news/press_kits/breast_cancer" title="">Breast Cancer: A Story Half Told</a></li>
+<li class="leaf"><a href="/news/press_kits/breast_cancer">Breast Cancer: A Story Half Told</a></li>
 <li class="last leaf"><a href="/news/press_kits/palbociclib" title="">Palbociclib Resources</a></li>
-</ul></li>
-<li class="leaf"><a href="/news/featured_stories" title="">Features</a></li>
-<li class="leaf"><a href="/news/video-gallery" title="">Video Gallery</a></li>
-<li class="leaf"><a href="/news/social_media/social_media" title="">Social Media</a></li>
-<li class="leaf"><a href="/news/info_for_journalists/information_journalists" title="">Frequently Requested Info</a></li>
-<li class="last leaf"><a href="/news/contact/contact_pfizer" title="">Contact Media Relations</a></li>
-</ul>        </div>
+</ul></li></ul><ul class="sub-list menu"><li class="leaf first"><a href="/news/featured_stories" title="">Features</a></li><li class="leaf"><a href="/news/info_for_journalists/information_journalists" title="">Frequently Requested Info</a></li><li class="leaf"><a href="/news/social_media/social_media" title="">Social Media</a></li><li class="leaf"><a href="/news/video-gallery" title="">Video Gallery</a></li><li class="last leaf"><a href="/news/contact/contact_pfizer">Contact Media Relations</a></li></ul>        </div>
           </div>
   </div>
               </div>
@@ -688,7 +997,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
     <div class="content clearfix">
       <div class="pfizer-menu-bar-child"><div class="pfizer-menu-breadcrumb-wrapper">
-  <div class="pfizer-menu-breadcrumb">
+  <div class="pfizer-menu-breadcrumb" style="margin: 0px -193px; padding: 0px 193px;">
     <div class="pfizer-menu-breadcrumb-inner">
               <div class="pm-breadcrumb-title">You are currently here:</div>
         <div class="pm-breadcrumb-content"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div></div>
@@ -707,9 +1016,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                   </div>
       
               <div class="col pm-below">
-          <ul class="menu"><li class="first leaf"><a href="/contact/faqs">Frequently Asked Questions</a></li>
-<li class="last leaf"><a href="/general/privacy" title="" class="active">See Our Updated Privacy Policy</a></li>
-</ul>        </div>
+          <ul class="sub-list not-full-1 menu"><li class="first leaf"><a href="/contact/faqs">Frequently Asked Questions</a></li></ul><ul class="sub-list not-full-1 menu"><li class="last leaf first"><a href="/general/privacy" title="" class="active">Privacy Policy</a></li></ul>        </div>
           </div>
   </div>
 </div>
@@ -724,8 +1031,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div></header>    
       <section id="section-content" class="section section-content">
     <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">
-<div id="zone-content" class="zone zone-content clearfix container-12">
-<div class="grid-12 region region-content" id="region-content">
+    <div id="zone-content" class="zone zone-content clearfix container-12">
+              <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><span class="inline odd first"><a href="/">Home</a></span> <span class="delimiter">»</span> <span class="inline even last">Privacy</span></div>                  <div class="grid-12 region region-content" id="region-content">
   <div class="region-inner region-content-inner">
     <a id="main-content"></a>
                         <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
@@ -742,12 +1049,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>
 	Privacy Policy</h1>
 <p><a name="Top" id="Top"></a></p>
-<div style="background-color: #FDE5C6; border-top: 10px solid #F8971D; padding: 20px 20px 10px;">
-<h4>
-		<em>IMPORTANT: We have updated and improved our Privacy Policy. We hope you find it clearer and easier to read. It includes new information on <a href="/general/privacy#CookiesTools">“Online Behavioral Advertising”</a> which enables us to provide you with tailored content and offers of interest. We also updated the information we provide on our <a href="/general/privacy#six">Security Policies</a> and clarified that there is no guarantee of security. </em></h4>
-</div>
 <div id="intcontentcenter">
-<p>&nbsp;</p>
 <p><b>Effective December 16, 2013</b></p>
 <p>Pfizer respects your privacy and understands that health is a very personal and private subject. This Privacy Policy describes the personal information Pfizer collects about you on the website from which you linked (<em><strong>“Site”</strong></em>); how we use that information; how we protect it; and the choices you may make with respect to your personal information. When we refer to ourselves as <em><strong>"we" </strong></em>or <em><strong>"Pfizer," </strong></em>we mean our entire company including the affiliates within our family of companies, <em>e.g.</em>, a subsidiary. Your visit to the Site is subject to this Privacy Policy and to our Terms of Use.</p>
 <p>Our Site may contain links to third-party websites/ content/ services that are not owned or controlled by Pfizer. Pfizer is not responsible for how these properties operate or treat your personal information so we recommend that you read the privacy policies and terms associated with these third party properties carefully.</p>
@@ -835,27 +1137,27 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <h2>
 		Cookies and Other Tools</h2>
 <p>Pfizer and its business partners collect information about you by using cookies, tracking pixels and other technologies (collectively, <em><strong>“Tools”</strong></em>). We use this information to better understand, customize and improve user experience with our websites, services and offerings as well as to manage our advertising. For example, we use web analytics services that leverage these Tools to help us to understand how visitors engage with and navigate our Site, <em>e.g.</em>, how and when pages in a site are visited and by how many visitors. We are also able to offer our visitors a more customized, relevant experience on our sites using these Tools by delivering content and functionality based on your preferences and interests. If you have provided us with personal information, <em>e.g.</em>, through a registration or a request for certain materials, we may associate this personal information with information gathered through the Tools. This allows us to offer increased personalization and functionality.</p>
-<p>Your web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to your browser. If your browser is set to reject cookies, websites that are cookie-enabled will not recognize you when you return to the website, and some website functionality may be lost. The Help section of your browser may tell you how to prevent your browser from accepting cookies. To find out more about cookies, visit <a href="http://www.aboutcookies.org" target="_blank">www.aboutcookies.org</a>.</p>
+<p>Your web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to your browser. If your browser is set to reject cookies, websites that are cookie-enabled will not recognize you when you return to the website, and some website functionality may be lost. The Help section of your browser may tell you how to prevent your browser from accepting cookies. To find out more about cookies, visit <a href="http://www.aboutcookies.org" target="_blank" class="ext">www.aboutcookies.org<span class="ext"><span class="element-invisible"> (link is external)</span></span></a>.</p>
 <p><a class="tou" href="#Top">Top</a></p>
 <p>&nbsp;</p>
 <p><a name="five" id="five"></a></p>
 <h2>
 		Online Behavioral Advertising and the Advertising Option Icon <img align="texttop" alt="Advertising Option Icon" src="/files/images/AdOptionIcon.gif"></h2>
-<p>Pfizer hopes to deliver to you advertising for products and services you need or want. There are many ways to do this in the online advertising world. For example, Pfizer partners with websites with whom you have shared your interests, conditions and concerns directly and asks that they serve our ads to users who have expressed an interest in Pfizer products or health conditions that our products treat. We may also partner with advertising companies to serve you ads based on your web browsing activity, purchases and/or interests. Some techniques for delivering content based on your interests are referred to as online behavioral advertising (<em><strong>“OBA”</strong></em>). You can read more about OBA at a site offered by the advertising industry’s Digital Advertising Alliance (<em><strong>“DAA”</strong></em>), <a href="http://www.aboutads.info/" target="_blank">aboutads.info.</a></p>
-<p>We want it to be easy for you to understand how we and our business partners use information to serve ads tailored for you and to opt-out from targeting based on OBA. To this end, we have licensed the DAA Advertising Options icon, <img alt="Advertising Option Icon" src="/files/images/AdOptionIcon.gif" style="float: none !important; padding: 0 !important;">, and agreed to adhere to the DAA Self-Regulatory Program for OBA. We also provide you with an easy-to-use means of opting-out from the use of your information for OBA. In addition, we offer plain English explanations of our practices in this Privacy Policy, in our Ad Choices Notice (displayed on our Sites on which data is collected for OBA purposes),&nbsp;and in our ads served using OBA. If you have any questions about our use of OBA or participation in the DAA Self-Regulatory Program, please do not hesitate to contact us at <a href="mailto:privacy.officer@pfizer.com">Privacy.Officer@pfizer.com</a>.</p>
-<p>In addition to the browser options and opt-out choices described in this policy, we are monitoring the development of do not track ("DNT") options for consumers and will consider adoption of this standard when it is finalized. At this time, we do not change our practices in response to DNT browser settings. For information about DNT, visit <a href="http://www.allaboutdnt.org" target="_blank">www.allaboutdnt.org.</a></p>
+<p>Pfizer hopes to deliver to you advertising for products and services you need or want. There are many ways to do this in the online advertising world. For example, Pfizer partners with websites with whom you have shared your interests, conditions and concerns directly and asks that they serve our ads to users who have expressed an interest in Pfizer products or health conditions that our products treat. We may also partner with advertising companies to serve you ads based on your web browsing activity, purchases and/or interests. Some techniques for delivering content based on your interests are referred to as online behavioral advertising (<em><strong>“OBA”</strong></em>). You can read more about OBA at a site offered by the advertising industry’s Digital Advertising Alliance (<em><strong>“DAA”</strong></em>), <a href="http://www.aboutads.info/" target="_blank" class="ext">aboutads.info.<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></p>
+<p>We want it to be easy for you to understand how we and our business partners use information to serve ads tailored for you and to opt-out from targeting based on OBA. To this end, we have licensed the DAA Advertising Options icon, <img alt="Advertising Option Icon" src="/files/images/AdOptionIcon.gif" style="float: none !important; padding: 0 !important;">, and agreed to adhere to the DAA Self-Regulatory Program for OBA. We also provide you with an easy-to-use means of opting-out from the use of your information for OBA. In addition, we offer plain English explanations of our practices in this Privacy Policy, in our Ad Choices Notice (displayed on our Sites on which data is collected for OBA purposes),&nbsp;and in our ads served using OBA. If you have any questions about our use of OBA or participation in the DAA Self-Regulatory Program, please do not hesitate to contact us at <a href="mailto:privacy.officer@pfizer.com" class="mailto">Privacy.Officer@pfizer.com<span class="mailto"><span class="element-invisible"> (link sends e-mail)</span></span></a>.</p>
+<p>In addition to the browser options and opt-out choices described in this policy, we are monitoring the development of do not track ("DNT") options for consumers and will consider adoption of this standard when it is finalized. At this time, we do not change our practices in response to DNT browser settings. For information about DNT, visit <a href="http://www.allaboutdnt.org" target="_blank" class="ext">www.allaboutdnt.org.<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></p>
 <p><a class="tou" href="#Top">Top</a></p>
 <p>&nbsp;</p>
 <p><a name="six" id="six"></a></p>
 <h2>
 		Security Policies</h2>
-<p>We use technical, administrative and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use. No such measure is ever 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information. Users are responsible for maintaining the secrecy of their own passwords. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at <a href="mailto:privacy.officer@pfizer.com">Privacy.Officer@pfizer.com</a>.</p>
+<p>We use technical, administrative and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use. No such measure is ever 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information. Users are responsible for maintaining the secrecy of their own passwords. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at <a href="mailto:privacy.officer@pfizer.com" class="mailto">Privacy.Officer@pfizer.com<span class="mailto"><span class="element-invisible"> (link sends e-mail)</span></span></a>.</p>
 <p><a class="tou" href="#Top">Top</a></p>
 <p>&nbsp;</p>
 <p><a name="seven" id="seven"></a></p>
 <h2>
 		Your Privacy Choices and Updates</h2>
-<p>You may always update your personal information and your preferences. Limited communications may be necessary in order for you to participate in a particular program or service. Different programs and services may offer different phone numbers, links or preference managers that allow you to inform us of your updates and choices, including opting out of particular communications. These contact options are typically available on our Sites or in the emails or texts we send but you may always contact our Privacy Officer for assistance at <a href="mailto:privacy.officer@pfizer.com">Privacy.Officer@pfizer.com</a> if you have any difficulty finding these tools or otherwise updating your information or preferences.</p>
+<p>You may always update your personal information and your preferences. Limited communications may be necessary in order for you to participate in a particular program or service. Different programs and services may offer different phone numbers, links or preference managers that allow you to inform us of your updates and choices, including opting out of particular communications. These contact options are typically available on our Sites or in the emails or texts we send but you may always contact our Privacy Officer for assistance at <a href="mailto:privacy.officer@pfizer.com" class="mailto">Privacy.Officer@pfizer.com<span class="mailto"><span class="element-invisible"> (link sends e-mail)</span></span></a> if you have any difficulty finding these tools or otherwise updating your information or preferences.</p>
 <p><a class="tou" href="#Top">Top</a></p>
 <p>&nbsp;</p>
 <p><a name="eight" id="eight"></a></p>
@@ -917,7 +1219,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     </div>
     <div class="shareButton">
       <span id="share">
-        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4f46556005652c4a">
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-51c9e8762beffff0">
           <img class="shareBG" src="/sites/default/themes/pfizer_com/images/Add-This-Blue.png">
         </a>
       </span>
@@ -934,7 +1236,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     </div>
   </div>
 </div>      </div>
-</div>  </div>
+</div>    </div>
   </div>
 <div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
   <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
@@ -1044,8 +1346,13 @@ pageTracker._trackPageview();
 var s_code=s.t();if(s_code)document.write(s_code);
 //--><!]]>
 </script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__7LCdn-fNCfT54CCTynYFzONePz_X4DaHTuu9PRbvjWI__gSLoZMtrr4rLo3dmrj2NRZ-1FckTcqohIdusnW4WQKU__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
-<script type="text/javascript" src="/sites/default/files/advagg_js/js__r6lzksGz26cEHc3uv8v5bQVpwefXypTX3bsTTue6fG4__SWe0DYUt09W3ACd6QoBomavIyLVY_tqn15gOPm_2Q_k__B1NX6EJfyIG6Rm_mPJ2Xwq5d2flmchDFkvgR23CYZ6g.js"></script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5f7dd2ba14","applicationID":"2865227","transactionName":"bgZQZkcHXENWARdZC1dMc1FBD11eGBICVwFmDlNcVAFXQmgMDFQBZhVbV0I5QlFQBw==","queueTime":0,"applicationTime":617,"ttGuid":"","agentToken":"","atts":"QkFTEA8dT00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__7LCdn-fNCfT54CCTynYFzONePz_X4DaHTuu9PRbvjWI__gSLoZMtrr4rLo3dmrj2NRZ-1FckTcqohIdusnW4WQKU__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__r6lzksGz26cEHc3uv8v5bQVpwefXypTX3bsTTue6fG4__SWe0DYUt09W3ACd6QoBomavIyLVY_tqn15gOPm_2Q_k__SRP8CU9uW2xAfp6gJpoocyxDI-mxiQdG9WnsBSsOMcc.js"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5f7dd2ba14","applicationID":"2865227","transactionName":"bgZQZkcHXENWARdZC1dMc1FBD11eGBICVwFmDlNcVAFXQmgMDFQBZhVbV0I5QlFQBw==","queueTime":0,"applicationTime":1523,"atts":"QkFTEA8dT00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
 
 </body></html>
