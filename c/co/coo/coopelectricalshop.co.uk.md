@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053727id_/http%3A//www.coopelectricalshop.co.uk/eStore/Content/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228181810id_/http%3A//www.coopelectricalshop.co.uk/eStore/Content/Privacy) for the most accurate reproduction.*
 
 # Buy Electrical Appliances Online At The Co-operative Electrical
 
@@ -90,7 +90,12 @@ To obtain a copy of the personal information we hold on you, please write to the
 **Security  
 ** With over 150 years experience on the high street with a name you can trust we understand the importance of security when entering your credit card details on the internet.  
 At Co-operative Electrical Shop we use secure server software which encrypts all your personal information which prevents it from being accessed or read by any third party. You can check that you are in a secure area of our site by looking at in the browser at the bottom of the page and you will see a padlock. In addition you will see that the our website address now starts with https://  
-From time to time a notice may appear on your screen alerting you to the fact that you are moving from a secure server to one which is not secure. Do not be alarmed by this. The secure part is where we take personal or credit card details from you and is covered by our security guarantee.  
+From time to time a notice may appear on your screen alerting you to the fact that you are moving from a secure server to one which is not secure. Do not be alarmed by this. The secure part is where we take personal or credit card details from you and is covered by our security guarantee.
+
+**Credit/ Debit Card Details  
+** Credit/debit card details are encrypted to minimize the possibility of unauthorized access or disclosure.  
+We only accept orders from Web browsers that permit communication through Transport Layer Security (TLS 1.1) protocol. Valid Web Browsers include: Microsoft Internet Explorer, version 10 and above; Google Chrome above version 28, and Mozilla Firefox version 22 or higher. This TLS protocol ensures that you cannot inadvertently place an order through an unsecured connection. Your complete credit card number is transferred to this secure machine across a proprietary one-way interface. This computer is not accessible by network or modem and the number is not stored anywhere else.
+
 If you would prefer to place an order over the telephone please call us on 0800 28 00 111* or alternately email us on [sales@coop.co.uk](mailto:sales@coop.co.uk) with your telephone number and a time it is suitable for us to call and we will contact you.
 
 Days
@@ -117,7 +122,7 @@ Sunday
 
 | 
 
-9.00am to 4.00pm  
+Closed  
   
 Bank Holidays 
 
