@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195524id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175500id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProductReview.com.au
 
@@ -64,7 +64,7 @@ If you wish to submit a review, comment, question, or report certain content you
 
 ProductReview does not sell or rent personal information to any third party. We may disclose your personal information to the police, government, or regulatory authorities, as required by law. 
 
-Your profile and contributions on ProductReview will be publicly viewable and identifiable via your display name and your chosen location (City). ProductReview will neither share your email address nor first and last names with other members, nor will we display them in any public manner, unless you expressly choose to have us do so. 
+Your profile and contributions on ProductReview will be publicly viewable and identifiable via your nickname and your chosen location (City). ProductReview will neither share your email address nor first and last names with other members, nor will we display them in any public manner, unless you expressly choose to have us do so. 
 
 We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally. 
 
