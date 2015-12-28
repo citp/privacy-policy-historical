@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appstorerankings.net privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103233350id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstorerankings.net privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228171303id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
 
-# Sensor Tower - App Marketing and Mobile SEO Keyword Optimization for iPhone and iPad Privacy
+# Privacy Policy - Sensor Tower
 
 ## SensorTower is committed to protecting your privacy.
 
@@ -21,6 +21,7 @@ We may collect the following information when your register on or fill out a for
   2. E-mail address
   3. Application Names
   4. Keywords
+  5. If you elect, we may also collect Aggregate Data, as such term is defined in our Terms of Service. We will use such Aggregate Data only in an anonymized manner for commercial purposes.
 
   
 
@@ -53,3 +54,6 @@ In order to prevent any unauthorised access or disclosure of the personal inform
 * * *
 
 The Site may contain links to other websites of interest. We cannot be responsible for the protection and privacy of any information which you provide while visiting such sites; such sites are not goverened by this privacy statement.
+
+**Date of Last Update.**  
+This policy was last updated on November 19, 2015.
