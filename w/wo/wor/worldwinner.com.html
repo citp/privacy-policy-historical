@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldwinner.com privacy policy that was archived on 2015-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150523234607id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldwinner.com privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228113538id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js" lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -16,7 +16,12 @@
 <link rel="image_src" href="http://www.gsn.com/dynamic/images/skin/template/gsn_logo.jpg">
 
 
-<link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/dynamic/html/css/gsn-combined.min.712310e2.css">
+<link rel="stylesheet" type="text/css" media="screen" charset="utf-8" href="http://www.gsn.com/dynamic/html/css/dynamic.lib.min.e0f742d9.css">
+<link rel="stylesheet" type="text/css" media="screen" charset="utf-8" href="http://www.gsn.com/dynamic/html/css/dynamic.app.min.edd14c51.css">
+
+
+<link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/dynamic/html/css/gsn-combined.min.c24b82b8.css">
+<link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="http://www.gsn.com/dynamic/html/css/gsn-combined.ads.min.8da4dec9.css">
 
 
 <link rel="stylesheet" type="text/css" media="screen" title="" charset="utf-8" href="/cgi/nosession/css/jquery.cluetip.css">
@@ -58,8 +63,12 @@
   var gsn_captcha_key = gsnConfig.gsn_captcha_key;
 </script>
 
+<script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/dynamic.lib.min.cb87e647.js"></script>
+<script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/dynamic.app.min.2555d797.js"></script>
+<script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/dynamic.template.min.c732e642.js"></script>
 
-<script src="http://www.gsn.com/dynamic/html/js/gsn-combined.min.ca711c4e.js"></script>
+
+<script src="http://www.gsn.com/dynamic/html/js/gsn-combined.min.5b84d69d.js"></script>
 
 <script type="text/javascript" src="http://www.gsn.com/dynamic/common/js/jquery/jquery.tipped.js"></script>
 <script type="text/javascript" src="http://www.gsn.com/dynamic/common/js/jquery/jquery.tipped.skins.js"></script>
@@ -92,7 +101,7 @@
 
 
 
-<script type="text/javascript" src="http://www.gsn.com/dynamic/html/gsn-grunt/jsgc.min.cc1ad4d2.js"></script>
+<script type="text/javascript" src="http://www.gsn.com/dynamic/html/gsn-grunt/jsgc.min.94977ada.js"></script>
 
 
 <script> 
@@ -100,7 +109,7 @@ var jsgcAdCounter = 0;
 jsgc.configure(
             {
                 flashElementId: 'GSN',
-                session_id: '8c19cb75489773c16497b6f1f3dd2d11',
+                session_id: '56d98713b426431bd848c252d7384265',
                 game_id: '',
                 mini_game_id: '4000',
                 username: '',
@@ -181,7 +190,6 @@ jsgc.configure(
 
 // Use postMessage to talk cross domain and resize iframes accordingly.
 // this is used to change from login/forgot to register and back.
-// It's additionally used to talk from Gigya back to the top level of an iframed stack.
 window.addEventListener('message', function(e) {
     /*console.log("message received: " + e);
     console.log(e);*/
@@ -195,14 +203,6 @@ window.addEventListener('message', function(e) {
         case 'reloadSelf':
             location.reload();
         break;
-        case 'postSocialSSO':
-            var redirect = 'https://www.gsn.com/cgi/account/social_sso.pl';
-            var form = '';
-            $.each( data, function( key, value ) {
-                form += '<input type="hidden" name="'+key+'" value="'+value+'">';
-            });
-            $('<form action="' + redirect + '" method="POST">' + form + '</form>').appendTo($(document.body)).submit();
-        break;
     }
 }, false);
 
@@ -211,15 +211,6 @@ window.addEventListener('message', function(e) {
 
 
 
-
-
-<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_VDlRq7_j7iruy-2g0e8z-o1llZ6KAugUh2nEOBOvrB7MJhbo7VfBt3U3Zvg9PwF0"></script>
-<script type="text/javascript">
-var conf=
-{
-    enabledProviders: 'facebook,google'
-}
-</script>
 
 
 <script type="text/javascript">
@@ -244,7 +235,6 @@ var trivia_onload = false;
         var node = document.getElementsByTagName("script")[0];
         node.parentNode.insertBefore(gads, node);
     })();
-
     window.videoAds = window.videoAds || {};
     window.adsGPT   = window.adsGPT || {};
     window.videoAds.deferredAdsMediation = new $j.Deferred();
@@ -298,7 +288,7 @@ $(document).ready(function() {
 
 <script type="text/javascript" async="" src="http://s.dpmsrv.com/dpm_4cd66dfabbd964f8c6c4414b07cdb45dae692e19.min.js"></script></head>
 
-<body>
+<body class="other_privacy">
 
 
 <!--BEGIN QUALTRICS SITE INTERCEPT-->
@@ -319,7 +309,7 @@ try{(new g(100,"r","QSI_S_ZN_bszbBXdfzzynPV2","//siteintercept.qualtrics.com/WRS
 
          
 <script type="text/javascript">js_dept_id="other";js_section_id="corporate";js_title_id="other";js_page_id="privacy";</script>
-<script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/question.js"></script>
+<script type="text/javascript" src="http://www.gsn.com/dynamic/html/js/question.js?v=20150710a"></script>
 <div id="question_box"></div>  
 <div id="question_outer"></div>  
 
@@ -440,29 +430,27 @@ schedulerSWF.write("allmedia_2246Wrapper");
         })();
     }
 window.adsGPT.loadedGPTLibrary = true;
-</script>
+window.adsGPT.setLogLevel('error');
+window.adsGPT.toggleSRAMode = 1 || 0;
 
 
 
 
 
 
-<script type="text/javascript">
-    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_ragep":"null","ad_accten":"null","ad_mp":"null"}');
+
+    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_mpt":"mpt=null","ad_ragep":"null","ad_accten":"accten=null","ad_mp":"mp=null"}');
     window.adsGPT.isMobile     = window.adsGPT.isMobile     || false;
     window.adsGPT.gptPageBlackList = window.adsGPT.gptPageBlackList || false;
-</script>
 
-
-<script type="text/javascript">
     (function() {
         var config          = JSON.parse('{"adSync":0,"adRefresh":"0","adSizes":"728x90","adContainer":"topadbanner","adSizesResponsive":""}');
-        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":2,"ghub":"null","sf":null,"prz":null,"pos":"top","pgid":"privacy","kw":"null","rid":"null","rpov":"null","regi":"n","ra21":"null","title":"other","rgen":"null","rcb":"null","rzip":"null","sect":"corporate"}');
+        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":2,"ghub":"null","sf":null,"pvid":"n","prz":null,"pos":"top","pgid":"privacy","kw":"null","rid":"null","rpov":"null","rlog":"n","regi":"n","rmkt":"null","ra21":"null","title":"other","rgen":"null","rcb":"null","rzip":"null","sect":"corporate"}');
         config.demographics = window.adsGPT.demographics;
         window.adsGPT.createTag(config);
-    }());
-</script>
+    })();
 
+</script>
 
 
 </span>
@@ -834,7 +822,7 @@ window.adsGPT.loadedGPTLibrary = true;
 
 
 
-<div class="clear">&nbsp;</div>
+<div class="clear"></div>
 
 
 
@@ -851,6 +839,7 @@ window.adsGPT.loadedGPTLibrary = true;
 
 </div>
 </div>
+
 
 
 
@@ -887,29 +876,27 @@ window.adsGPT.loadedGPTLibrary = true;
         })();
     }
 window.adsGPT.loadedGPTLibrary = true;
-</script>
+window.adsGPT.setLogLevel('error');
+window.adsGPT.toggleSRAMode = 1 || 0;
 
 
 
 
 
 
-<script type="text/javascript">
-    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_ragep":"null","ad_accten":"null","ad_mp":"null"}');
+
+    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_mpt":"mpt=null","ad_ragep":"null","ad_accten":"accten=null","ad_mp":"mp=null"}');
     window.adsGPT.isMobile     = window.adsGPT.isMobile     || false;
     window.adsGPT.gptPageBlackList = window.adsGPT.gptPageBlackList || false;
-</script>
 
-
-<script type="text/javascript">
     (function() {
         var config          = JSON.parse('{"adSync":0,"adRefresh":"0","adSizes":"280x320","adContainer":"oodletunities","adSizesResponsive":""}');
-        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":3,"ghub":"null","sf":null,"prz":null,"pos":"null","pgid":"rail","kw":"null","rid":"null","rpov":"null","regi":"n","ra21":"null","title":"rail","rgen":"null","rcb":"null","rzip":"null","sect":"other"}');
+        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":3,"ghub":"null","sf":null,"pvid":"n","prz":null,"pos":"null","pgid":"rail","kw":"null","rid":"null","rpov":"null","rlog":"n","regi":"n","rmkt":"null","ra21":"null","title":"rail","rgen":"null","rcb":"null","rzip":"null","sect":"other"}');
         config.demographics = window.adsGPT.demographics;
         window.adsGPT.createTag(config);
-    }());
-</script>
+    })();
 
+</script>
 
 
 </p>
@@ -944,29 +931,27 @@ window.adsGPT.loadedGPTLibrary = true;
         })();
     }
 window.adsGPT.loadedGPTLibrary = true;
-</script>
+window.adsGPT.setLogLevel('error');
+window.adsGPT.toggleSRAMode = 1 || 0;
 
 
 
 
 
 
-<script type="text/javascript">
-    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_ragep":"null","ad_accten":"null","ad_mp":"null"}');
+
+    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_mpt":"mpt=null","ad_ragep":"null","ad_accten":"accten=null","ad_mp":"mp=null"}');
     window.adsGPT.isMobile     = window.adsGPT.isMobile     || false;
     window.adsGPT.gptPageBlackList = window.adsGPT.gptPageBlackList || false;
-</script>
 
-
-<script type="text/javascript">
     (function() {
         var config          = JSON.parse('{"adSync":0,"adRefresh":"0","adSizes":"728x90","adContainer":"bottomadbanner","adSizesResponsive":""}');
-        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":7,"ghub":"null","sf":null,"prz":null,"pos":"bottom","pgid":"privacy","kw":"null","rid":"null","rpov":"null","regi":"n","ra21":"null","title":"other","rgen":"null","rcb":"null","rzip":"null","sect":"corporate"}');
+        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":7,"ghub":"null","sf":null,"pvid":"n","prz":null,"pos":"bottom","pgid":"privacy","kw":"null","rid":"null","rpov":"null","rlog":"n","regi":"n","rmkt":"null","ra21":"null","title":"other","rgen":"null","rcb":"null","rzip":"null","sect":"corporate"}');
         config.demographics = window.adsGPT.demographics;
         window.adsGPT.createTag(config);
-    }());
-</script>
+    })();
 
+</script>
 
 
 
@@ -1044,7 +1029,7 @@ window.adsGPT.loadedGPTLibrary = true;
 			</h6>
 			<ul>
                 <li><a href="http://corp.gsn.com/">Press</a></li>
-                <li><a href="http://www.gsn.com/careers/">Careers - TV</a></li>
+                <li><a href="http://www.gsntvcareers.com/">Careers - TV</a></li>
 				<li><a href="http://gsntv.com/schedule/">Schedule</a></li>
 			</ul>
 		</div>
@@ -1095,7 +1080,7 @@ window.adsGPT.loadedGPTLibrary = true;
 
 
 
-<div id="conad_1x1-oop">
+<div id="conad_1x1">
 
 <script type="text/javascript">
     if(!window.adsGPT.loadedGPTLibrary) {
@@ -1112,29 +1097,34 @@ window.adsGPT.loadedGPTLibrary = true;
         })();
     }
 window.adsGPT.loadedGPTLibrary = true;
-</script>
+window.adsGPT.setLogLevel('error');
+window.adsGPT.toggleSRAMode = 1 || 0;
+
+    window.addEventListener('message', function(e) { 
+        if ( e.data === "siteskin" ) {
+            if ( e.origin === "http://s0.2mdn.net" ) {
+                window.adsUtil.siteskinContentCrop($, "other");
+            }
+        }
+    });
 
 
 
 
 
 
-<script type="text/javascript">
-    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_ragep":"null","ad_accten":"null","ad_mp":"null"}');
+    window.adsGPT.demographics = window.adsGPT.demographics || JSON.parse('{"ad_rage":"null","ad_rgage":"null","ad_mpt":"mpt=null","ad_ragep":"null","ad_accten":"accten=null","ad_mp":"mp=null"}');
     window.adsGPT.isMobile     = window.adsGPT.isMobile     || false;
     window.adsGPT.gptPageBlackList = window.adsGPT.gptPageBlackList || false;
-</script>
 
-
-<script type="text/javascript">
     (function() {
-        var config          = JSON.parse('{"adSync":0,"adRefresh":"0","adSizes":"1x1","adContainer":"conad_1x1-oop","adSizesResponsive":""}');
-        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":10,"dcopt":"ist","ghub":"null","sf":null,"prz":null,"pos":"bottom","pgid":"privacy","kw":"null","rid":"null","rpov":"null","regi":"n","ra21":"null","title":"other","rgen":"null","rcb":"null","rzip":"null","sect":"corporate"}');
+        var config          = JSON.parse('{"adSync":0,"adRefresh":"0","adSizes":"1x1","adContainer":"conad_1x1","adSizesResponsive":""}');
+        config.params       = JSON.parse('{"dept":"other","radid":"null","rst":"null","tile":10,"dcopt":"ist","ghub":"null","sf":null,"pvid":"n","prz":null,"pos":"bottom","pgid":"privacy","kw":"null","rid":"null","rpov":"null","rlog":"n","regi":"n","rmkt":"null","ra21":"null","title":"other","rgen":"null","rcb":"null","rzip":"null","sect":"corporate"}');
         config.demographics = window.adsGPT.demographics;
         window.adsGPT.createTag(config);
-    }());
-</script>
+    })();
 
+</script>
 
 
 
@@ -1202,6 +1192,11 @@ FB.init("a5c2116542c2134d3e9f46d3f2792ea5", "/cgi/xd_receiver.htm");
 
     <img src="http://a.tribalfusion.com/i.cid?c=525243&amp;d=30&amp;page=landingPage" width="1" height="1" border="0">
 
+<img src="//dbg52463.moatads.com?a=a65038d084ed4c959204888e89915a07" style="display:none;">
+<img src="//d5i9o0tpq9sa1.cloudfront.net?a=a65038d084ed4c959204888e89915a07" style="display:none;">
+
+<script type="text/javascript" src="//sync.yashi.com/ad153dc01c3a7e3862720ddb33e8b70ec9da03edc712c91c9dff7ee0a"></script><noscript><img src="//sync.yashi.com/ad153dc01c3a7e3862720ddb33e8b70ec9da03edc712c91c9dff7ee0a&p=1" height="1" width="1" alt="" /></noscript>
+
 
 
 
@@ -1241,4 +1236,4 @@ $j(loginElements).on("click", function(e) {
 
 
 
-<script type="text/javascript" src="//siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_bszbBXdfzzynPV2&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150523234607id_%2Fhttp%253A%2F%2Fwww.gsn.com%2Fcgi%2Fcorporate%2Fprivacy.html&amp;t=1580520192012"></script></body></html>
+<script type="text/javascript" src="//siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_bszbBXdfzzynPV2&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151228113538id_%2Fhttp%253A%2F%2Fwww.gsn.com%2Fcgi%2Fcorporate%2Fprivacy.html&amp;t=1580520191463"></script></body></html>
