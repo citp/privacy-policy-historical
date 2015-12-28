@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065510id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228082347id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
 
 # North Point Ministries
 
@@ -6,7 +6,7 @@
 
 ### Internet Privacy Policy
 
-**Published March  2014**
+**Published October 2015**
 
 At North Point Ministries (NPM), we respect the privacy of our website visitors. We do use information you provide to better serve you, but we also recognize that this information belongs to you and that we must treat it accordingly. The following statement spells out our privacy policy in more detail. The policy applies to northpointministries.org and other sites on the World Wide Web owned and operated by NPM. If there are material changes to this policy in the future, information concerning any such change will be posted on this Web page.
 
@@ -22,7 +22,7 @@ NPM may place an electronic "cookie" in the browser files of a guest's computer.
 
 ### Our Use of Analytics
 
-NPM may use Google Analytics to help us gather details about the use of our websites. Google Analytics is a Web analytics tool that helps website owners understand how visitors engage with their sites. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. For more information, please visit <http://www.google.com/policies/privacy/>.
+NPM may use Google Analytics to help us gather details about the use of our websites. Google Analytics is a Web analytics tool that helps website owners understand how visitors engage with their sites. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. For more information, please visit <http://www.google.com/policies/privacy/>.
 
 ### Internet Communication
 
@@ -34,8 +34,12 @@ By using this site, you signify your consent to NPM's online privacy policy. If 
 
 ### Credit Card/Payment Information Policy - How We Protect Credit Card Numbers
 
-**Published March 2014**
+**Published October 2015**
 
 NPM may collect credit card information in the course of business on our sites. We strive to protect the confidentiality and security of this information in our possession, custody, or control by (i) limiting access to card numbers, and (ii) maintaining reasonable safeguards to protect against the loss, misuse, or unlawful disclosure of card numbers. No credit card information is stored or logged on any system housed at NPM—this information is passed straight to our payment processor and always communicated over encrypted communication channels.
+
+### Refund Policy
+
+Donations and gifts to the various churches of ("The Merchant") North Point Ministries (North Point, Buckhead, Browns Bridge, Woodstock City, Gwinnett, and Decatur City) are considered to be non-refundable. The refund policy for specific events, or for goods, or services received, is determined according to the nature of event, good or service.
 
 [home](https://web.archive.org/)
