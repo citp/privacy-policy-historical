@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518172109id_/http%3A//www.eurail.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228032834id_/http%3A//www.eurail.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eurail.com
+# Privacy and Cookie Policy | Eurail.com
 
-At Eurail.com, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by Eurail.com. The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
+At Eurail.com, we're committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by Eurail.com. The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
 Eurail.com adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union’s Directive on Data Protection and the U.S. Department of Commerce.
 
