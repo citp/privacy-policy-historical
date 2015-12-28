@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panopta.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619005744id_/http%3A//www.panopta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopta.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228123505id_/http%3A//www.panopta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Panopta
 
