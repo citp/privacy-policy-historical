@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desialert.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608114023id_/http%3A//desialert.com/privacy-policy-copyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desialert.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228204046id_/http%3A//desialert.com/privacy-policy-copyrights) for the most accurate reproduction.*
 
 # Privacy Policy & CopyRights - Desi Alerts
 
