@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627210642id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2015-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228105707id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@
 		<!--[if !IE]><!-->
 	
 		
-		<link rel="stylesheet" href="http://heart.gcstatic.com/d/heart.co.uk/css/combined/heart-minified__5f09b28b.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://heart.gcstatic.com/d/heart.co.uk/css/combined/heart-minified__126991c0.css" media="screen" type="text/css">
 		
 	
 		<!--<![endif]-->
@@ -39,7 +39,7 @@
 	<!--[if IE 7]>
 	
 		
-		<link rel="stylesheet" href="http://heart.gcstatic.com/d/heart.co.uk/css/combined/ie7-minified__a62aba3d.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://heart.gcstatic.com/d/heart.co.uk/css/combined/ie7-minified__0b353a8a.css" media="screen" type="text/css">
 		
 	<![endif]-->
 	
@@ -48,7 +48,7 @@
 	<!--[if gt IE 7]>
 	
 		
-		<link rel="stylesheet" href="http://heart.gcstatic.com/d/heart.co.uk/css/combined/ie8-minified__44109e48.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://heart.gcstatic.com/d/heart.co.uk/css/combined/ie8-minified__11b61603.css" media="screen" type="text/css">
 		
 	<![endif]-->
 	
@@ -63,7 +63,7 @@
 		<!--[if !IE]><!-->
 	
 		
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N7KJ77"></script><script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/js/combined/heart-minified__f3a32aeb.js"></script>
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N7KJ77"></script><script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/js/combined/heart-minified__c5a1ba1c.js"></script>
 		
 	
 		<!--<![endif]-->
@@ -82,7 +82,7 @@
 	<!--[if (IE 7)|(IE 8)]>
 	
 		
-		<script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/js/combined/heart-ie8-minified__3946c209.js"></script>
+		<script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/js/combined/heart-ie8-minified__0a09ad9a.js"></script>
 		
 	<![endif]-->
 	
@@ -91,7 +91,7 @@
 	<!--[if gte IE 9]>
 	
 		
-		<script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/js/combined/heart-minified__f3a32aeb.js"></script>
+		<script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/js/combined/heart-minified__c5a1ba1c.js"></script>
 		
 	<![endif]-->
 	
@@ -125,6 +125,20 @@
 		
 			<meta content="121299401215070" property="fb:page_id">
 		
+			<meta property="parsely-link" content="http://www.heart.co.uk/privacy-policy/">
+		
+			<meta content="/" property="parsely-section">
+		
+			<meta content="Global Radio Privacy Policy" property="parsely-title">
+		
+			<meta property="parsely-post-id" content="503">
+		
+			<meta property="parsely-pub-date" content="2010-01-05T09:34:06">
+		
+			<meta property="parsely-type" content="frontpage">
+		
+			<meta content="privacy-policy" name="sailthru.tags">
+		
 
 		
 	
@@ -135,6 +149,9 @@
 }
 .scotland #header #site_title h1, .scotland #header #site_title p {
     background-image: url(http://dsa.musicradio.com/stationlogos/heart-scotland.gif);
+}
+.mod.featured_videos .video_placeholder {
+    margin: 0 0 1em 0;
 }</style>
 		
 	
@@ -212,7 +229,7 @@
 //    get the urlencoded string to pass in the streaming request
 //    first build_streaming_params is a fallback in case the second one contains a syntax error
 gusto.build_streaming_params = function() {
-    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1435435603;");
+    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1451300226;");
 };
 //    this comes from app settings for ukrp
 gusto.streaming_params_cookie_name = 'ukrp_streamparams';
@@ -256,16 +273,23 @@ gusto.build_streaming_params = function() {
     var params = [];
     
         try {
-            params.push('awsparams=' + stitch('', "p0:" + gusto.udb_user.grid + ";p1:" + gusto.udb_user.gender + ";p2:" + gusto.udb_user.age_segment + ";"));
+            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1451300226;"));
         } catch(e) {
-            param_error('awsparams');
+            param_error('amsparams');
         }
         
     
         try {
-            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1435435603;"));
+            params.push('listenerid=' + stitch('', adswizzListenerId));
         } catch(e) {
-            param_error('amsparams');
+            param_error('listenerid');
+        }
+        
+    
+        try {
+            params.push('awparams=' + stitch('', "p0:" + gusto.udb_user.grid + ";p1:" + gusto.udb_user.gender + ";p2:" + gusto.udb_user.age_segment + ";"));
+        } catch(e) {
+            param_error('awparams');
         }
         
     
@@ -277,6 +301,43 @@ gusto.build_streaming_params = function() {
 	</head>
 	<body class="js">
 
+		<!-- START krux interchange tag -->
+<script type="text/javascript">
+// code for retrieving the Krux user id and segments from either local storage or a cookie
+window.Krux || ((Krux = function() {Krux.q.push(arguments);}).q = []);
+
+(function() {
+	function retrieveKruxValue(key) {
+		var ret = "";
+		// check for value in local storage
+		if (window.localStorage) {
+			ret = window.localStorage.getItem(key);
+		} 
+		if (ret != undefined && ret != "") {
+			return ret;
+		}
+		// check for value in cookie
+		if (navigator.cookieEnabled) {
+			ret = document.cookie.match(key + '=([^;]*)');
+			ret = (ret && unescape(ret[1])) || "";
+		} 
+		return ret;
+	}
+	var kruxUserId = "";
+	// there are two possible variables that hold the krux user id - try them both
+	kruxUserId = retrieveKruxValue('kxuser');
+	if (kruxUserId == undefined || kruxUserId == "") {
+		kruxUserId = retrieveKruxValue('kxkuid');
+	}
+	Krux.user = kruxUserId;
+	Krux.segments = retrieveKruxValue('kxsegs') && retrieveKruxValue('kxsegs').split(',') || [];
+	
+})();
+
+// used in _ad_tech.html
+window.krux_adtech_param = ';kvkrx=' + window.Krux.segments.join(":");
+</script>
+<!-- END krux interchange tag -->
 		
 
 
@@ -458,21 +519,9 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	               
 	           </li>
 		
-		       <li class="childless">
-	               
-	                   <a href="/tv/">TV</a>
-	               
-	           </li>
-		
 		       <li>
 	               
-	                   <a href="/win/">Win</a>
-	               
-	           </li>
-		
-		       <li>
-	               
-	                   <a href="/photos/">Photos</a>
+	                   <a href="/news/">News</a>
 	               
 	           </li>
 		
@@ -490,13 +539,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 		
 		       <li>
 	               
+	                   <a href="/photos/">Quirky</a>
+	               
+	           </li>
+		
+		       <li>
+	               
 	                   <a href="/events/">Events</a>
 	               
 	           </li>
 		
 		       <li>
 	               
-	                   <a href="/news/">News</a>
+	                   <a href="/win/">Win</a>
 	               
 	           </li>
 		
@@ -506,9 +561,15 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	               
 	           </li>
 		
+		       <li class="childless">
+	               
+	                   <a href="/offers-games-bingo-holidays-cash-breaks/">Bingo</a>
+	               
+	           </li>
+		
 		       <li class="last childless">
 	               
-	                   <a href="/offers-games-bingo-holidays-cash-breaks/">Offers</a>
+	                   <a href="/tv/">TV</a>
 	               
 	           </li>
 		
@@ -543,10 +604,16 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3314055|0|3466|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3314055|0|3466|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3314055|0|3466|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264329"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3314055|0|3466|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265633"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|3314055|0|3466|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|3314055|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 		</div>
 	
@@ -570,10 +637,16 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264330"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265634"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256586|0|168|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2256586|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     </div>
 
@@ -608,10 +681,16 @@ gusto.no_btn_html = $('<a href="/javascript-required/" class="eyebrow_btn_discar
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264331"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265637"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2332317|0|454|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2332317|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 </div>
 	
@@ -641,6 +720,8 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
         
         
             
+                
+                    <img src="http://assets3.heart.co.uk/2008/35/computer-keyboard-1220362686-article-0.jpg" alt="email" width="244" height="130">
                 
             
         
@@ -845,99 +926,92 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
             
 
 <ul>
-	
-
-	
-    
-	<li class="first odd">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-    
-    Bizarre Inc
     
 
-				
-			</span>
-			
-				I'm Gonna Get You
-			
-		</p>
-		<p class="time"><a href="/on-air/last-10-songs/">
-        22:03
+    
+    
+    <li class="first odd">
+        <p class="track">
+            <span class="track_artist">
+                
+    
+        <a class="first" href="/showbiz/artists/bruno-mars/">Bruno Mars</a>
+    
+
+
+            </span>
+            
+                Grenade
+            
+        </p>
+        <p class="time"><a href="/on-air/last-10-songs/">
+        10:46
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/im-gonna-get-you/id1002435693?i=1002438023&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/grenade/id576670451?i=576670458&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
+    <li class="">
+        <p class="track">
+            <span class="track_artist">
+                
     
-    Bucketheads
+        <a class="first" href="/showbiz/artists/madonna/">Madonna</a>
     
 
-				
-			</span>
-			
-				The Bomb!
-			
-		</p>
-		<p class="time"><a href="/on-air/last-10-songs/">
-        21:55
+
+            </span>
+            
+                True Blue
+            
+        </p>
+        <p class="time"><a href="/on-air/last-10-songs/">
+        10:34
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/the-bomb/id830797389?i=830797505&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/true-blue/id80815611?i=80815275&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="odd">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
+    <li class="odd">
+        <p class="track">
+            <span class="track_artist">
+                
     
-    Inner City
+           Christina Aguilera
     
 
-				
-			</span>
-			
-				Big Fun
-			
-		</p>
-		<p class="time"><a href="/on-air/last-10-songs/">
-        21:52
+
+            </span>
+            
+                Genie In A Bottle
+            
+        </p>
+        <p class="time"><a href="/on-air/last-10-songs/">
+        10:27
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/big-fun/id724913797?i=724914276&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/genie-in-a-bottle/id250503961?i=250504014&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
+    <li class="">
+        <p class="track">
+            <span class="track_artist">
+                
     
-    Supermen Lovers
+           Ed Sheeran
     
 
-				
-			</span>
-			
-				Starlight
-			
-		</p>
-		<p class="time"><a href="/on-air/last-10-songs/">
-        21:48
+
+            </span>
+            
+                Thinking Out Loud
+            
+        </p>
+        <p class="time"><a href="/on-air/last-10-songs/">
+        10:18
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/starlight/id436869755?i=436871029&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/thinking-out-loud/id858517827?i=858517873&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
 </ul>
+
 
             
             
@@ -957,8 +1031,8 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
         <div id="on_tv" class="facet">
             <div class="show_details">
                 
-                <h3><span>On TV: </span>Sexiest Videos: Guess The Year!</h3>
-                <p>8:45pm - 10:30pm</p>
+                <h3><span>On TV: </span>Heart's Happy Hour: All 90s</h3>
+                <p>10am - 11am</p>
                 
             <p class="listen"><a href="/tv/player/" class="cta watch_tv_player" rel="nofollow">Watch heart TV</a></p>
             </div>
@@ -969,96 +1043,92 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
                 
 
 <ul>
-	
-
-	
-    
-	<li class="first odd">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-    <a class="first" href="/showbiz/artists/madonna/">Madonna</a>
     
 
-				
-			</span>
-			
-				Vogue
-			
-		</p>
-		<p class="time">
-        22:01
+    
+    
+    <li class="first odd">
+        <p class="track">
+            <span class="track_artist">
+                
+    
+           Heavy D &amp; The Boyz 
+    
+
+
+            </span>
+            
+                Now That We Found Love
+            
         </p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/vogue/id329519270?i=329519299&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
-
-	<li class="">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-    
-    Salt N Pepa
-    
-
-				
-			</span>
-			
-				Let's Talk About Sex
-			
-		</p>
-		<p class="time">
-        21:57
+        <p class="time">
+        10:44
         </p>
-		<p class="download"><a href="http://itunes.apple.com/gb/album/lets-talk-about-sex/id381688898?i=381689334&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/now-that-we-found-love-feat./id482093420?i=482093421&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="odd">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-    <a class="first" href="/showbiz/artists/rihanna/">Rihanna</a>
+    <li class="">
+        <p class="track">
+            <span class="track_artist">
+                
+    
+           Ultra Nate
     
 
-				
-			</span>
-			
-				Te Amo
-			
-		</p>
-		<p class="time">
-        21:53
+
+            </span>
+            
+                Free
+            
         </p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/te-amo/id338914834?i=338915473&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="time">
+        10:27
+        </p>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/free/id923367119?i=923367125&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-    <a class="first" href="/showbiz/artists/kylie-minogue/">Kylie Minogue</a>
+    <li class="odd">
+        <p class="track">
+            <span class="track_artist">
+                
+    
+           Shania Twain
     
 
-				
-			</span>
-			
-				Spinning Around
-			
-		</p>
-		<p class="time">
-        21:50
+
+            </span>
+            
+                That Don't Impress Me Much
+            
         </p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/spinning-around/id726386030?i=726386166&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="time">
+        10:17
+        </p>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/that-dont-impress-me-much/id27988069?i=27988097&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
+
+    <li class="">
+        <p class="track">
+            <span class="track_artist">
+                
+    
+           The Rembrandts
+    
+
+
+            </span>
+            
+                I'll Be There For You
+            
+        </p>
+        <p class="time">
+        10:03
+        </p>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/ill-be-there-for-you-long/id318037497?i=318037530&amp;uo=4&amp;at=10lwHC&amp;ct=Heart_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
 </ul>
+
             
             
             </div>
@@ -1076,10 +1146,16 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264346"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265656"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256589|0|170|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2256589|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 </div><div class="mod no_header commercial ad_promo">
 	
@@ -1088,40 +1164,64 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264351"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265659"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318779|0|91|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2318779|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 	<script type="text/javascript">
 <!--
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264352"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265660"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318780|0|91|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2318780|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 	<script type="text/javascript">
 <!--
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264353"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265662"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318781|0|91|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2318781|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 	<script type="text/javascript">
 <!--
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264355"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265668"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318782|0|91|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2318782|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 </div>
 
@@ -1150,7 +1250,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 	    
 
      
-        <img src="http://assets9.heart.co.uk/2015/23/sky-true-detective-colin-farrell-500x266-1433844148-editorial-promo-0.jpg" alt="sky, true detective">
+        <img src="http://assets6.heart.co.uk/2015/44/sky-cinderella-1446926035-editorial-promo-0.jpg" alt="sky, cinderella">
     
 
 	<span class="headline">
@@ -1170,7 +1270,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 	</h3>
 
 	
-		<p class="abstract">Discover this season's unmissable TV like True Detective, and win Sky TV free for a year</p>
+		<p class="abstract">Discover Sky's Christmas Movies including Cinderella - and your chance to win Sky TV free for a year</p>
 	
 </article>
 
@@ -1207,12 +1307,12 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 
 	<h3>
 	    
-        <a href="/photos/celebrity-photos/celebrity-bridesmaids-cheap-dresses-weddings/" class="">
+        <a href="/photos/celebrity-photos/tattooed-celebs/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.heart.co.uk/2015/25/celebrity-bridesmaids-canvas-1435072765-editorial-promo-1.jpg" alt="Celebrity Bridesmaids Canvas" height="75" width="100">
+        <img src="http://assets4.heart.co.uk/2015/51/louis-tomlinson-tattoo-instagram--1450949022-editorial-promo-0.png" alt="Louis Tomlinson tattoo Instagram " height="75" width="100">
     
 
 	<span class="headline">
@@ -1224,7 +1324,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
             
         
         
-		Celebrity Bridesmaids: Stars Take A Backseat </span>
+		Celebrity Tattoos: Stars Getting Inked</span>
 
     
 	    
@@ -1252,12 +1352,12 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 
 	<h3>
 	    
-        <a href="/photos/celebrity-photos/new-couples/" class="">
+        <a href="/photos/celebrity-photos/outrageous-weirdest-expensive-celebrity-gifts-2014/" class="">
 	    
 	    
 
      
-        <img src="http://assets2.heart.co.uk/2015/21/taylor-swift-and-calvin-harris--1432890960-editorial-promo-0.jpg" alt="Taylor Swift and Calvin Harris " height="75" width="100">
+        <img src="http://assets7.heart.co.uk/2015/51/lady-gaga-horse-instagram-1450869174-editorial-promo-0.png" alt="Lady Gaga Horse Instagram" height="75" width="100">
     
 
 	<span class="headline">
@@ -1269,7 +1369,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
             
         
         
-		New Celebrity Couples: Who's Dating Who?</span>
+		Completely Over-The-Top Celebrity Gifts!</span>
 
     
 	    
@@ -1302,7 +1402,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 	    
 
      
-        <img src="http://assets9.heart.co.uk/2015/05/britney-spears-and-charlie-ebersol-super-bowl-2015-1422871500-editorial-promo-2.jpg" alt="Britney Spears and Charlie Ebersol Super Bowl 2015" height="75" width="100">
+        <img src="http://assets4.heart.co.uk/2015/31/jenson-button-and-jessica-button-1438933435-editorial-promo-0.jpg" alt="Formula One driver Jenson Button and his wife Jess" height="75" width="100">
     
 
 	<span class="headline">
@@ -1342,237 +1442,12 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 
 	<h3>
 	    
-        <a href="/photos/celebrity-photos/celebrity-children-parents-footsteps/" class="">
-	    
-	    
-
-     
-        <img src="http://assets4.heart.co.uk/2015/21/celebrity-offspring-canvas-1432657016-editorial-promo-0.jpg" alt="Celebrity Offspring Canvas" height="75" width="100">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Gallery</em>
-              
-            
-        
-        
-		Celebrity Children Following In Their Parents' Footsteps</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/photos/weird-wonderful/star-wars-wool-iconic-scenes/" class="">
-	    
-	    
-
-     
-        <img src="http://assets9.heart.co.uk/2015/20/needles-and-wool-remake-star-wars-1432208682-editorial-promo-0.jpg" alt="Weird And Wonderful" height="75" width="100">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Gallery</em>
-              
-            
-        
-        
-		Star Wars: Iconic Scenes Recreated In Wool</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/photos/celebrity-photos/celebrities-who-married-quickly-shotgun-weddings/" class="">
-	    
-	    
-
-     
-        <img src="http://assets2.heart.co.uk/2015/25/shotgun-weddings-canvas-1435061797-editorial-promo-0.jpg" alt="shotgun weddings canvas" height="75" width="100">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Gallery</em>
-              
-            
-        
-        
-		Shotgun Celebrity Weddings: A-Listers Who Married Quickly</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/photos/celebrity-photos/celebrity-first-tweets/" class="">
-	    
-	    
-
-     
-        <img src="http://assets1.heart.co.uk/2015/21/first-celebrity-tweets-mega-canvas-1432821418-editorial-promo-0.jpg" alt="First Celebrity Tweets Mega Canvas" height="75" width="100">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Gallery</em>
-              
-            
-        
-        
-		Celebrities' First Ever Tweets! What Did They Say?</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/photos/celebrity-photos/celebrities-regret-breakup-famous-splits/" class="">
-	    
-	    
-
-     
-        <img src="http://assets9.heart.co.uk/2015/21/one-who-got-away-canvas-1432820994-editorial-promo-1.jpg" alt="One who got away canvas" height="75" width="100">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Gallery</em>
-              
-            
-        
-        
-		The One That Got Away! Stars Who Regret Their Break Up</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery cycle_start cycle_end  ">
-
-	<h3>
-	    
         <a href="/photos/celebrity-photos/celebrity-haircuts/" class="">
 	    
 	    
 
      
-        <img src="http://assets6.heart.co.uk/2015/25/frankie-bridge-new-hair-colour-instagram-1435307944-editorial-promo-0.png" alt="Frankie Bridge" height="75" width="100">
+        <img src="http://assets8.heart.co.uk/2015/51/perrie-edwards-1450776605-editorial-promo-0.jpg" alt="Perrie Edwards" height="75" width="100">
     
 
 	<span class="headline">
@@ -1584,7 +1459,232 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
             
         
         
-		Top Of The Chops! Celebrity Hair 'Do-Overs</span>
+		Top Of The Chops! Celebrity Hair Do-Overs</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/photos/celebrity-photos/best-dressed-baby-bumps/" class="">
+	    
+	    
+
+     
+        <img src="http://assets7.heart.co.uk/2015/51/marvin-humes-and-emma-willis-1450775891-editorial-promo-0.jpg" alt="Marvin Humes and Emma Willis" height="75" width="100">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Gallery</em>
+              
+            
+        
+        
+		Best Dressed Celebrity Baby Bumps</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/photos/celebrity-photos/parents/" class="">
+	    
+	    
+
+     
+        <img src="http://assets4.heart.co.uk/2015/32/hugh-grant-at-the-man-from-uncle-premiere-1439286664-editorial-promo-0.jpg" alt="Hugh Grant Film Premiere" height="75" width="100">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Gallery</em>
+              
+            
+        
+        
+		Celebrity Parents: New Mums &amp; Dads</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/photos/celebrity-photos/strange-bizarre-celebrity-pregnancy-cravings/" class="">
+	    
+	    
+
+     
+        <img src="http://assets9.heart.co.uk/2015/49/celebrity-pregnancy-cravings-canvas--1449588069-editorial-promo-0.jpg" alt="Celebrity pregnancy cravings canvas" height="75" width="100">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Gallery</em>
+              
+            
+        
+        
+		The Most Bizarre Celebrity Pregnancy Cravings </span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/photos/celebrity-photos/mini-mes/" class="">
+	    
+	    
+
+     
+        <img src="http://assets9.heart.co.uk/2015/51/gwyneth-paltrow-daughter-guitar-instagram-1450695088-editorial-promo-0.png" alt="gwyneth paltrow daughter guitar instagram" height="75" width="100">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Gallery</em>
+              
+            
+        
+        
+		Celebrity Mini-Mes: Famous Parents And Their Little Doubles</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/photos/celebrity-photos/celebrity-fathers-sexy-men-spoilt-children/" class="">
+	    
+	    
+
+     
+        <img src="http://assets9.heart.co.uk/2015/51/dwayne-johnson-and-baby-daughter--1450693633-editorial-promo-0.png" alt="Dwayne Johnson and baby daughter " height="75" width="100">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Gallery</em>
+              
+            
+        
+        
+		Daddy Cool! The Hunky Stars Who Adore Their Offspring!</span>
 
     
 	    
@@ -1612,12 +1712,12 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 
 	<h3>
 	    
-        <a href="/showbiz/movies/bad-film-hair-dos-styles-mullet-afro-big-hair-80s/" class="">
+        <a href="/photos/celebrity-photos/celebrity-wedding-dresses/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.heart.co.uk/2015/23/worst-movie-barnets-canvas-1434031291-editorial-promo-1.jpg" alt="Worst Movie Barnets Canvas" height="75" width="100">
+        <img src="http://assets2.heart.co.uk/2015/51/christine-bleakley-wedding-dress-pa-4-1450688155-editorial-promo-0.jpg" alt="christine bleakley frank lampard wedding PA" height="75" width="100">
     
 
 	<span class="headline">
@@ -1629,7 +1729,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
             
         
         
-		Bad Hair Day: The Worst Movie Barnets Of All Time</span>
+		The Most Beautiful Celebrity Wedding Dresses </span>
 
     
 	    
@@ -1672,7 +1772,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 <!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
 
 
-<article class="grid_2 last first_row cycle_start cycle_end  ">
+<article class="grid_2 first_row cycle_start cycle_end  ">
 
 	<h3>
 	    
@@ -1704,6 +1804,49 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 		<p class="abstract">Get a 200% Welcome Bonus. Deposit £10, get £30 to play! T&amp;C's apply. 
 
 </p>
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 last cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="http://www.latestinbeauty.com/heart?utm_source=HEART&amp;utm_medium=Small%20Homepage%20Pod&amp;utm_campaign=HEART15" class="">
+	    
+	    
+
+     
+        <img src="http://assets8.heart.co.uk/2015/38/beauty-box-1442820678-editorial-promo-0.jpg" alt="Beauty Box">
+    
+
+	<span class="headline">
+		
+		    
+              
+            
+        
+        
+		Heart Beauty Essentials – Seasonal Saviours</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		<p class="abstract">Full of products we know you’ll love. Ready for the pampering?</p>
 	
 </article>
 
@@ -2093,10 +2236,16 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264377"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265691"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256587|0|225|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2256587|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
 </div>
 
@@ -2105,10 +2254,16 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 if (navigator.appVersion.indexOf("MSIE 6") != -1) {}
 else {
-document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+	var local_krux_adtech_param = '';
+	if(window.krux_adtech_param) {
+		local_krux_adtech_param = window.krux_adtech_param;
+	} else if(parent.window.krux_adtech_param) {
+		local_krux_adtech_param = parent.window.krux_adtech_param;
+	}
+	document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 }
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=603;misc=1580400264378"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580400265693"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256588|0|16|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2256588|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript></div>
 
 <!-- Cookie Law Bar -->
@@ -2135,9 +2290,32 @@ var s_account="GlobalRHeartcouk";
 <script type="text/javascript" src="http://heart.gcstatic.com/d/heart.co.uk/apps/sitecatalyst/js/sctl_heart.js"></script>
 
 
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+<script language="JavaScript" type="text/javascript">
+<!--
+
+    var events = [];
+    var last_logged_in_state = sessionStorage.last_logged_in_state || "not_signed_in";
+    var current_logged_in_state = gusto.udb_user.grid ? "signed_in" : "not_signed_in";
+    var registration_context = "";
+
+    if(last_logged_in_state != current_logged_in_state) {
+        var login_or_out = (current_logged_in_state == 'signed_in') ? "event9" : "event10";
+        events.push(login_or_out);
+        if(current_logged_in_state == 'signed_in') {
+            var action = (gusto.tracking_registration_done) ? "register" : "sign_in";
+            registration_context  = (sessionStorage.registration_context || 'HRT:unknown:') + action;
+        }
+        sessionStorage.registration_context = "";
+    };
+
+    if(gusto.tracking_login_form_displayed && gusto.tracking_registration_form_displayed) {
+        // the only place you can register, that isn't the register page, is a competition
+        // there may be other places in the future
+        sessionStorage.registration_context = 'HRT:competition:';
+    }
+
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
     s.pageName="HRT/HRT/privacy policy";
     s.prefix="HRT/HRT";
     s.channel="HRT";
@@ -2159,9 +2337,9 @@ the next lines. */
     s.prop15="";
     s.prop16="";
     s.prop17="";
-    s.prop18="";
+    s.prop18=current_logged_in_state;
     s.prop19="";
-    s.prop20="";
+    s.prop20=registration_context;
     s.prop21="";
     s.prop22="";
     s.prop23="v3";
@@ -2170,7 +2348,7 @@ the next lines. */
     s.prop26="";
     s.prop27="";
     s.prop45="";
-    s.prop46= (gusto && (gusto.udb_user)) ? gusto.udb_user.grid : "";
+    s.prop46= (gusto && (gusto.udb_user.grid)) ? gusto.udb_user.grid : "not_signed_in";
     s.products="646-2318779;646-2318780;646-2318781;646-2318782;646-2256589;646-2332317;646-2256586;646-3314055;646-2256587;646-2256588";
     /* Conversion Variables */
     s.campaign="";
@@ -2192,9 +2370,9 @@ the next lines. */
     s.eVar15="";
     s.eVar16="";
     s.eVar17="";
-    s.eVar18="";
+    s.eVar18=current_logged_in_state;
     s.eVar19="";
-    s.eVar20="";
+    s.eVar20=registration_context;
     s.eVar21="";
     s.eVar22="";
     s.eVar23="";
@@ -2202,11 +2380,24 @@ the next lines. */
     s.eVar25="";
     s.eVar45="";
     s.eVar46="";
+    s.eVar50=(gusto && (gusto.udb_user.grid)) ? gusto.udb_user.grid : "not_signed_in";
     /* Hierarchy Variables */
     s.hier1="article, 503";
     s.hier2="HRT/HRT/privacy policy";
     /* Stream Tracking Variables */
     s.Media.autotrack=true;
+
+
+    if(gusto.tracking_login_form_displayed) {
+        events.push("event11");
+    }
+    if(gusto.tracking_registration_done) {
+        events.push("event3");
+    }
+
+    // if you see event2 while debugging, that's a page view event
+    s.events = events.join(",")
+    sessionStorage.last_logged_in_state = s.prop18;
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code);//--></script>
