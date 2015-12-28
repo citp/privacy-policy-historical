@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316072319id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228012502id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
 
 # LocalCircles - Social Media for Communities, Governance and Urban Daily Life
 
@@ -14,11 +14,11 @@ When you sign up for the site, you are required to provide your gender, name, em
 
 ### Information You Share to Create or Join a Circle.
 
-Joining a Neighborhood Circle requires that you share your address, building/apartment number, how long you have been living in that house/apartment, and optionally, if you hold an official position. Joining a School Circle requires you to enter information about your child that goes to that school. Joining a Work Circle requires you to provide your title at work, the company or group that you work in, and your expertise. We provide you with options for hiding some of your profile information. However, to ensure authenticity to the Circle members, some of the fields such as your name in all types of Circles, your address in a Neighborhood Circle, your child’s information in a School Circle, your title and company in a Work Circle cannot be hidden and is visible to all the Circle members in that Circle.
+Joining an Interest Circle requires you to share your location. Joining a Neighborhood Circle requires that you share your address, building/apartment number, how long you have been living in that house/apartment, and optionally, if you hold an official position. Joining a School Circle requires you to enter information about your child that goes to that school. Joining a Work Circle requires you to provide your title at work, the company or group that you work in, and your expertise. We provide you with options for hiding some of your profile information. However, to ensure authenticity to the Circle members, some of the fields such as your name in all types of Circles, your address in a Neighborhood Circle, your child’s information in a School Circle, your title and company in a Work Circle cannot be hidden and is visible to all the Circle members in that Circle.
 
 ### Information You Choose to Share.
 
-Information you choose to share in your Circles on LocalCircles could be your picture, family pictures, family information, work information, phone number, interests, posts, resources, classifieds, events, ratings, reviews, and local businesses submitted by you etc. In some cases, we may limit your ability to edit or remove your or any other content from LocalCircles.
+Information you choose to share in your Circles on LocalCircles could be your picture, family pictures, family information, work information, phone number, interests, posts, resources, classifieds, events, ratings, reviews, and entities submitted by you etc. In some cases, we may limit your ability to edit or remove your or any other content from LocalCircles.
 
 ### Information We Automatically Collect.
 
@@ -26,7 +26,7 @@ Our systems automatically collect a variety of information about our users such 
 
 ### Information We Receive from Others or Third-Parties.
 
-Our users are allowed to invite other members that they believe belong to that local community. If they choose to invite you with your email address, we retain that email address and send you an invitation from that Circle member. We may also send you occasional reminders to join the Circles that you were invited to. Sometimes, to start a location-based Circle, we may work with neighborhoods, schools, work places, or interest clubs, Government authorities, or may obtain information directly from the public domain. In some of these cases, your information may not come from you or one of your local associates. If you are not a member and would like us to delete your non-public information, please contact us at support@localcircles.com.
+Our users are allowed to invite other members that they believe belong should get access to a particular circle. If they choose to invite you with your email address, we retain that email address and send you an invitation from that Circle member. We may also send you occasional reminders to join the Circles that you were invited to. Sometimes, to start a location-based Circle, we may work with neighborhoods, schools, work places, or interest clubs, Government authorities, partners who want to build a circle or in some cases we may obtain your information directly from the public domain. In some of these cases, your information may not come from you or one of your associates. If you are not a member and would like us to delete your non-public information, please contact us at [support@localcircles.com](mailto:support@LocalCircles.com).
 
 ### Notifications and Other Messages:
 
@@ -43,6 +43,8 @@ We give your information to the people and companies that help us provide the se
 In all of these cases our partners must agree to only use your information consistent with the agreement we enter into with them, as well as this privacy policy.
 
 We may allow a potential acquirer or merger partner to review our database, although we would restrict their use and disclosure of this data during the diligence phase.
+
+We never share your contact details with marketers so you do not receive from any third party offers/emails/SMS as a result of signing up with LocalCircles.
 
 ### Offers for Goods and Services:
 
@@ -62,9 +64,9 @@ You can delete your account by contacting us at support@localcircles.com from th
 
 ### Respecting the Privacy of Your Circles.
 
-Circles at LocalCircles are closed social networks, where members are allowed to interact among themselves. For this reason, access to information that’s available in a Circle is strictly restricted to the members of that Circle. For example, we don't let public web search engines (such as Google) index member-submitted Content.
+The local circles at LocalCircles are closed social or community networks, where members are allowed to interact among themselves. For this reason, access to information that’s available in a Circle is strictly restricted to the members of that Circle. For example, we don't let public web search engines (such as Google) index member-submitted Content in any of the local circles. For these local circles, you should not share information about one member of your Circle or information about any interactions of that member to anyone outside that Circle without taking explicit permission from that member.
 
-You should not share information about one member of your Circle or information about any interactions of that member to anyone outside that Circle without taking explicit permission from that member. You are also not allowed to gather information from LocalCircles manually or using automated web tools. Violating these terms may result in revocation of your account privileges including a permanent ban from our website.
+LocalCircles itself operates many community circles i.e. (National, City, Cause and Governance circles are considered public circles for larger public good) and hence the activity in these circles may be shared with other social media sites, print or TV media. In most, cases these community circles are used by our members to create broader awareness about particular issues or provide feedback to Government/Organizations. For these community circles, you are welcome to share information about a member of your Circle or information about any interactions outside the circle with social media, print or TV media. You are not allowed to gather information from LocalCircles manually through posts or comments or using automated web tools. Soliciting people’s contact details for business/promotional activities is not permissible. Violating these terms may result in revocation of your account privileges including a permanent ban from our website.
 
 ### Abiding by the Law.
 
@@ -89,7 +91,7 @@ We reserve the right to change this Privacy Policy at any time. If we make chang
 ### For any questions on this Privacy Policy, we encourage to contact us at:
 
 LocalCircles.com, Inc.,  
-1556 Halford Ave, Suite 290, Santa Clara CA 95051.   
+5255 Stevens Creek Blvd, Suite 276 Santa Clara CA 95051.   
 Email: [support@LocalCircles.com](mailto:support@LocalCircles.com). 
 
-This policy was last updated on January 1st, 2013. 
+This policy was last updated on January 1st, 2015. 
