@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627214508id_/http%3A//www.trailfinders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228035716id_/http%3A//www.trailfinders.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Trailfinders the Travel Experts
 
 Trailfinders Ltd, and, on our behalf, comScore are committed to protecting the privacy of trailfinders.com users and the overall integrity of the internet.
 
-These guidelines have been developed to comply with the [Data Protection Act 1998](http://www.ico.gov.uk/ "Information on the Data Protection Act 1998").
+These guidelines have been developed to comply with the [Data Protection Act 1998](http://ico.org.uk/ "Information on the Data Protection Act 1998").
 
 Trailfinders Ltd and comScore take the following measures to protect our users' privacy as follows:
 
