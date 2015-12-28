@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockstardreams.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506212535id_/http%3A//rockstardreams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstardreams.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228230938id_/http%3A//www.rockstardreams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rock Star Dreams
+# Privacy Policy - Rockstardreams.com
 
 **What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
