@@ -1,112 +1,197 @@
-> *The following text is extracted and transformed from the simplemoneysystem.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001139id_/http%3A//www.pureleverage.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplemoneysystem.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228185826id_/http%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy – Privacy & Terms – Google
 
-PRIVACY POLICY
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-AGREEMENT
+Our Privacy Policy explains: 
 
-PureLeverage.com owns and/or operates a network of websites offering a variety of products and services. In addition, PureLeverage.com collects consumer data from various other sources outlined in this Privacy Policy. This Privacy Policy applies to all information collected by PureLeverage.com. By using our website or submitting information to us, you consent to the use and sharing of information collected or submitted as described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use or visit any of PureLeverage websites or web pages, and do not disclose any information to us. 
-
-PRIVACY POLICY CHANGES
-
-This Privacy Policy gives you an overview of PureLeverage practices regarding the type of information collected, how we collect your information, how we use your information, how we share your information, and various other important facts about our privacy practices. Note that this Privacy Policy may change from time to time, and we reserve the right to change this Privacy Policy at anytime. It is your responsibility to periodically revisit this Privacy Policy to review any changes. In order to track any changes to this Privacy Policy, we will include historical revision dates at the top of this document. We may also notify you by e-mail to the e-mail address you provided to us during registration via a PureLeverage.com website. It is your responsibility to provide us with your most current e-mail address. You may request that we refrain from using your personal information by [clicking here](http://pureleverage.com/unsubscribe/unsubscribe.php) to unsubscribe. 
-
-TYPE OF INFORMATION COLLECTED
-
-We collect and merge non-personally identifiable information ("Non-PII") and personally identifiable information ("PII") through the various sources discussed below. For your reference, PII means any information that may be used to identify an individual, including but not limited to name, address, telephone number, or e-mail address. Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address. 
-
-HOW WE COLLECT YOUR INFORMATION
-
-  1. **Websites:** We collect information about you via a PureLeverage website when you provide it in connection with a request for a product, service or information. For example, if you decide to place an order or complete a registration form, we may ask you for, but not limited to, the following information: First and last name, delivery address, billing address, e-mail address, telephone number, date of birth, gender, mother's maiden name and/or payment information. We also collect information through web server applications. This information includes, but is not limited to your referring URL, browser type, Internet protocol ("IP") address, and the date and time. 
-  
-
-  2. **Advertisements:** Additionally, we collect information about you when you complete a questionnaire on one of our advertisements included on our websites or web pages. The advertisements present opportunities for consumers to acquire our services or gain access to other opportunities we can provide. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, IP address, and payment information; as well as other information about your interests. 
-  
-
-  3. **Marketing Partners:** In some cases, we contract marketing partners who are website publishers to host one of our websites or web pages on our behalf, if you sign up on one of these hosted websites or web pages our marketing partners may submit all or a portion of the information that you submitted on the registration form to PureLeverage. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, IP address, and payment information; as well as other information about your interests. 
-  
-
-  4. **Data Partners:** We may receive information about you, including but not limited to your e-mail address, name, mailing address, telephone number, date of birth, gender, and IP address from third-party data partners that sell or contract us to manage consumer data on their behalf. 
-  
-
-  5. **Service Providers:** We may use third-party data houses to append additional information to the information you have provided us. This information may include, but is not limited to phone number and e-mail address. In addition, we may acquire information from service providers to validate the information you provided. 
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
 
 
-HOW WE USE YOUR INFORMATION
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
 
-We may use your information collected for any legally permissible purpose at our sole discretion, including but not limited to those uses described in this Privacy Policy. 
+## Information we collect
 
-PureLeverage may always use the personal information that you provide to: (1) fulfill your request for a product, information or other service; (2) respond to an e-mail or request; (3) send information to you about additional goods or services, deliver to you our newsletter or surveys, product information, usage tips or promotions; (4) help improve our website(s) or services; (5) to service your account, verify your identity, and provide customer service; or (6) customize visitors' experiences at our website(s). PureLeverage may also use your personal information for any marketing and survey purpose on behalf of itself and its affiliates and subsidiaries. 
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
 
-We may use your information for ad serving purposes. For example we may show ads to you based on your IP address, demographics, phone number, or other information we collected about you. We reserve the right to decline all current and future transactions through any data points at our own discretion which may include the use of currently and previously collected information. 
+We collect information in the following ways: 
 
-Your acceptance of the terms and conditions of this website constitutes your express written consent to receive telemarketing calls from third-party marketers, including by means of a pre-recorded message and automated voice dialing. Your consent will be effective regardless of whether the number you have provided: (a) is a home, business, or cell phone line; and/or (b) is or will be registered on any state or federal Do-Not-Call (DNC) list, and shall remain in effect until you revoke your consent by [clicking here](http://pureleverage.com/unsubscribe/unsubscribe.php) to unsubscribe. 
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
 
-When submitting your credit card to us or one of our advertisers, you are consenting to allowing us to pre-authorize your credit or debit card to determine your ability to pay for any product or service that you may be interested. 
+  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
 
-We may use your information for on-line and off-line marketing purposes, including but not limited to text messaging, e-mail marketing, telemarketing, and direct mail. 
+    * **[Device information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
 
-  1. **SMS, Wireless and Other Mobile Offers.** Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. These should be obvious in the context of the offering at the time you sign up. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third-parties. 
+We collect [device-specific information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
 
+    * **Log information**
 
+When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
 
-HOW WE SHARE YOUR INFORMATION
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-We may share your information with affiliated companies, including a parent company, subsidiaries, and non-related management companies. PureLeverage may disclose personal information to third-party agents and independent contractors that help us conduct our marketing and survey efforts. Further, PureLeverage may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to PureLeverage. Furthermore, we may sell, license, or share your information with third-parties for various marketing purposes, including but not limited to telemarketing, e-mail marketing, text messaging, and direct mail. Such third parties may include, but are not limited to Media Network, Inc., Shoppingbag, BigRewards, and HotSurveys. If you would like to be removed from these programs, [click here](http://pureleverage.com/unsubscribe/unsubscribe.php) and follow the opt-out instructions. 
+When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
 
-We, or other authorized vendors, may also present offers to purchase products from marketing partners on a PureLeverage operated site or a vendor operated site. Finally, if PureLeverage or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets. If PureLeverage chooses to sell or transfer its assets, PureLeverage may choose to retain a copy of your information post sale or merger. 
+    * **Unique application numbers**
 
-We may provide your information to our various marketing partners that drive consumers to our websites or web pages. They may utilize this information to target the ads they serve to you. 
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-When you participate on one of our advertiser forms, we will transfer the information you submitted to the applicable advertiser. 
+    * **Local storage**
 
-Additionally, PureLeverage will use or disclose your personal information under the following circumstances: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with a PureLeverage website; (3) we believe you will harm the property or rights of a PureLeverage website.s customers; or (4) we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, chargeback resolutions, situations involving potential threats to the physical safety of any person, or as otherwise required by law. 
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
 
-We may also collect, store or accumulate certain non-personally identifiable information concerning your use of a PureLeverage website, such as information regarding which of our pages are most popular. Information gathered may be used in aggregate form for internal business purposes, such as generating statistics and developing marketing plans. We may share or transfer such aggregate, non-personally identifiable information with or to our affiliates, licensees and partners. 
+    * **Cookies and similar technologies**
 
-TECHNOLOGY
-
-Some information is collected automatically while you are using a PureLeverage website. It is important to note that PureLeverage must store this information in order to ensure you receive optimal service while using a PureLeverage website. This type of information could include: 
-
-  1. **Log Files:** PureLeverage uses log files to track member usage and engagement and to gauge the effectiveness of our different services. We use your IP address to help diagnose problems with our server and to administer the website. Log file information may include, but not limited to: (1) IP Addresses; (2) browser type; (3) number of page views; (4) log-in frequency; and (5) page or section accesses. 
-  
-
-  2. **Cookies:** PureLeverage may use cookies, which are electronic pieces of information stored on your computer, to allow us to recognize you when you return to a PureLeverage website and to provide you with customized services and information. 
-  
-
-  3. **Clear Gifs:** PureLeverage uses clear gifs, which are tiny graphics with a unique identifier (similar in function to cookies), to track the online movements of the web users. Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers. 
-  
+We [and our partners](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
 
 
 
-CHILDREN
 
-PureLeverage websites are not intended or designed to attract users under the age of 18. We do not collect personally identifiable data from any person we know to be under the age of 18 and instruct users under 18 not to send us any information. It is possible that by fraud or deception we may receive information pertaining to children under the age of 18. We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children.s Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact we will delete the information about the child referenced from our files when you click here to contact us. 
+Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
 
-SECURITY
+## How we use information we collect
 
-We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside of PureLeverage. However, perfect security does not exist on the Internet. Therefore, we cannot ensure or warrant the security of your information. You acknowledge and assume this risk when communicating with and providing information to PureLeverage. 
+We use the information we collect from all of our services to [provide](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-Your information may be stored and processed in the United States or any other country in which PureLeverage sites or its affiliates, subsidiaries or agents maintain facilities, and by using a PureLeverage site, you consent to any such transfer of information outside of your country. 
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-OTHER LINKS
+If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
 
-PureLeverage websites may contain links that direct you to websites owned and operated by other companies. PureLeverage does not control, and assumes no responsibility for the content, privacy policies or practices of any third-party websites, which may employ cookies and/or collection personal information. In addition, 7min will not and cannot censor or edit the content of any third-party website that you visit. 
+When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-OPT-OUT
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
 
-By completing the registration form on one of the PureLeverage website or web pages you consented to receiving marketing communications from us and our third-party marketing partners, if you decide that you do not want to receive these marketing communications you may opt-out of receiving them at any time by [clicking here](http://pureleverage.com/unsubscribe/unsubscribe.php) to unsubscribe. 
+Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
 
-CALIFORNIA PRIVACY RIGHTS
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
 
-Under California's "Shine the Light" law, we provide a method for consumers to "opt-out" of having their information shared with third-parties. [Click here](http://pureleverage.com/unsubscribe/unsubscribe.php) to unsubscribe. 
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-CONTACTING US
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-If you have any questions regarding our Privacy Policy, click here to contact us. 
+## Transparency and choice
 
-LIMITATION OF LIABILITY
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTES THAT ARISE OVER YOUR PRIVACY WILL BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IN ADDITION, YOU AGREE THAT PureLeverage LIABLITY WILL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY PureLeverage. 
+  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. 
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
+  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
+  * [Take information](http://www.dataliberation.org/) associated with your Google Account out of many of our services. 
+  * [Choose](https://plus.google.com/settings/endorsements) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
+
+## Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+## Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our [affiliates](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+[non-personally identifiable information](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Payments](http://wallet.google.com/files/privacy.html?hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+
+
+
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/technologies/product-privacy/). 
+
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/), including: 
+
+  * Information about our [technologies and principles](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20151228185826id_/http://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+
+
