@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234117id_/http%3A//beprepared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228191935id_/http%3A//beprepared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
