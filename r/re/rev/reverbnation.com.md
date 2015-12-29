@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629025028id_/http%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023559id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
-You are using an **outdated** browser. Please [upgrade your browser](http://browsehappy.com/) to improve your ReverbNation experience. 
+You are using an **outdated** browser. Please [upgrade your browser](http://browsehappy.com/) to improve your ReverbNation experience. 
 
 #### Revised as of November 19, 2014
 
@@ -18,7 +18,7 @@ This Privacy Policy applies to the collection of personal information from users
 
 #### YOUR CONSENT TO THIS PRIVACY POLICY
 
-This Privacy Policy is incorporated into and subject to our [General Terms and Conditions](http://www.reverbnation.com/termsandconditions) that apply to use of this Site. By using the Services and this Site, you consent to our [General Terms and Conditions](http://www.reverbnation.com/termsandconditions) and Privacy Policy, including our use and disclosure of your personal information as stated in this Privacy Policy, whether or not you register with the Site.
+This Privacy Policy is incorporated into and subject to our [General Terms and Conditions](https://www.reverbnation.com/termsandconditions) that apply to use of this Site. By using the Services and this Site, you consent to our [General Terms and Conditions](https://www.reverbnation.com/termsandconditions) and Privacy Policy, including our use and disclosure of your personal information as stated in this Privacy Policy, whether or not you register with the Site.
 
 #### INFORMATION COLLECTED AND USED BY REVERBNATION 
 
@@ -102,7 +102,7 @@ ReverbNation user accounts are secured by user-created passwords. ReverbNation t
 
 #### SHARING AND DISCLOSURE OF INFORMATION REVERBNATION COLLECTS
 
-Except as otherwise described in this Privacy Policy, ReverbNation will not disclose personal information to any third party unless it believes that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by ReverbNation, whether or not a response is required by applicable law; (2) to enforce the [General Terms and Conditions](http://www.reverbnation.com/termsandconditions) or to protect our rights; or (3) to protect the safety of members of the public and users of the Services. ReverbNation reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of ReverbNation or substantially all of its assets to that successor in interest. ReverbNation takes your privacy very seriously. ReverbNation does not sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared internally within ReverbNation. There are also times when ReverbNation may make certain personal information about you available to companies that ReverbNation has a strategic relationship with or that perform work for ReverbNation to provide products and services to you on our behalf. For example, these companies may help us process information, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with ReverbNation’s policies. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on the Site.
+Except as otherwise described in this Privacy Policy, ReverbNation will not disclose personal information to any third party unless it believes that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by ReverbNation, whether or not a response is required by applicable law; (2) to enforce the [General Terms and Conditions](https://www.reverbnation.com/termsandconditions) or to protect our rights; or (3) to protect the safety of members of the public and users of the Services. ReverbNation reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of ReverbNation or substantially all of its assets to that successor in interest. ReverbNation takes your privacy very seriously. ReverbNation does not sell or rent your contact information to other marketers. To help us provide superior service, your personal information may be shared internally within ReverbNation. There are also times when ReverbNation may make certain personal information about you available to companies that ReverbNation has a strategic relationship with or that perform work for ReverbNation to provide products and services to you on our behalf. For example, these companies may help us process information, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with ReverbNation’s policies. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on the Site.
 
 We may also share information about you with your SNS contacts when you and they use the same social features of our applications.
 
@@ -146,6 +146,6 @@ Durham, NC 27702
 
 #### DISPUTES
 
-Any disputes regarding this Privacy Policy are subject to our [General Terms and Conditions](http://www.reverbnation.com/termsandconditions) and will be governed by the laws of the State of North Carolina, applicable to agreements made and performed there.
+Any disputes regarding this Privacy Policy are subject to our [General Terms and Conditions](https://www.reverbnation.com/termsandconditions) and will be governed by the laws of the State of North Carolina, applicable to agreements made and performed there.
 
 © 2014 eMinor Incorporated. All rights reserved.
