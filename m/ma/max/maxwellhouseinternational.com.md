@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxwellhouseinternational.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100250id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxwellhouseinternational.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229074949id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Kraft Site Privacy Notice - Kraft Recipes
 
@@ -19,10 +19,6 @@ We may provide contests, sweepstakes and games that you can enter. We use the in
 #### E-mail
 
 When you ask us to send you recipes, cooking ideas, or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.
-
-#### Kraft First Taste
-
-If you sign up through Kraft First Taste, we may ask you for certain information so we can provide you with the communications and offers you requested, including communications about new products and services.
 
 #### Ratings and Other Interactive Features
 
@@ -97,7 +93,7 @@ This website may contain links to other websites. We provide these links solely 
 
 ### Your Choices
 
-Our website allows you to opt out of certain information gathering and sharing, or to opt out of certain products, services or features. You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the “Your Profile” section of the site. If you’re not registered with our site, you can change your preferences by [clicking here](https://web.archive.org/registration/contextualsignuplogin.aspx). If you prefer, you can cancel your registration altogether. [E-mail](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=) us if you wish to take this action.
+Our website allows you to opt out of certain information gathering and sharing, or to opt out of certain products, services or features. You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the “Your Profile” section of the site. If you’re not registered with our site, you can change your preferences by [clicking here](https://web.archive.org/registration/useroptout.aspx). If you prefer, you can cancel your registration altogether. [E-mail](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=) us if you wish to take this action.
 
 If you wish to limit how third parties use your email address to send you targeted advertising through social media on our behalf, contact us [here](https://web.archive.org/registration/useroptout.aspx). Please allow 10 days for your email to be removed from our marketing database.
 
