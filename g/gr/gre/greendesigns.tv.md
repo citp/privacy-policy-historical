@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendesigns.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607040956id_/http%3A//www.greendesigns.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendesigns.tv privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229145138id_/http%3A//www.greendesigns.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GreenDesigns
 
