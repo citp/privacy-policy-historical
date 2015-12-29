@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203811id_/http%3A//www.roomkey.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063233id_/http%3A//www.roomkey.com/privacystatement.html) for the most accurate reproduction.*
 
 # Room Key - Privacy Statement
 
@@ -23,6 +23,8 @@ Any information you provide directly or indirectly to us (other than personally 
 The information we collect is used for various business purposes. For example, we may use the information collected to enhance our Site to make it easier, faster and more effective to use. In addition, we may use information to customize a user’s Site experience to better suit the user’s needs, and to develop our services. Additionally, cookies provide us information about how many people visit our Site, when they visit and how they use our Site. We may also use the information collected to collaborate with other businesses in order to drive relevant content to you. Information collected may result in your viewing of particular advertising tailored to your interests based on your activities on our Site and a shopping experience customized to you in content and services.
 
 Our goal is to provide you with the most recent and compelling information to help you qualify your hotel booking decisions. To that end we may email you about destinations and/or hotels that may interest you, based on the information you have provided — whether directly or indirectly.  With each email you receive, you will have the opportunity to choose not to receive future email correspondence.  We also may share similar content with you via social media channels, like Facebook, if you have provided us with your social media contact information.
+
+We use a marketing company to manage our advertising on other sites. This marketing company may use technologies such as cookies, clear gifs, and tags to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by visiting <http://preferences-mgr.truste.com/>. We use Google AdSense to publish ads on other sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/settings/ads>. 
 
 ###### WE MAY SHARE YOUR INFORMATION
 
@@ -62,4 +64,4 @@ If you are a resident of the State of California, you have the right to, on an a
 
 This Privacy Policy is incorporated by reference in and is a part of our Terms of Use Agreement. If you have questions about our privacy practices, please contact us at 214-219-3200 or [feedback@roomkey.com](mailto:feedback@roomkey.com).
 
-_Effective as of July 5, 2013._
+_Effective as of November 5, 2015._
