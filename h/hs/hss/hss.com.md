@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the hss.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418104716id_/http%3A//www.hss.com/index.php%3Ff%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hss.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229230117id_/http%3A//www.hss.com/hire/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# HSS Hire › Privacy Policy
+# Cookies & Privacy Policy
 
 #### Privacy
 
 At HSS, we understand and respect your concerns regarding security and the privacy of any information you supply while visiting our web site. If you have questions about this privacy policy or concerns about personal information you have supplied please contact HSS customer service or [webmaster@hss.com](mailto:webmaster@hss.com).
 
-HSS adheres to strict accounts security and privacy practices, covering these areas:- 
+HSS adheres to strict accounts security and privacy practices, covering these areas:-
 
-  * Personal Information; 
-  * Payment Information; 
-  * Cookies; 
-  * Email 
+  * Personal Information;
+  * Payment Information;
+  * Cookies;
+  * Email
 
 
 
@@ -25,16 +25,16 @@ HSS also aggregates your website activity so that we may better understand the u
 
 #### Cookies
 
-When you visit a HSS website, a small file called a cookie will be saved on your computer's hard drive. Cookies allow HSS to make its web site more useful by storing information about your preferences. For example, cookies make it easier for you to log on and use the website during future visits. Cookies do not personally identify an Internet user, although they do identify a user's computer. 
+When you visit a HSS website, a small file called a cookie will be saved on your computer's hard drive. Cookies allow HSS to make its web site more useful by storing information about your preferences. For example, cookies make it easier for you to log on and use the website during future visits. Cookies do not personally identify an Internet user, although they do identify a user's computer.
 
 Most web browsers automatically accept cookies but, if you wish, you can set your browser to prevent it from accepting cookies. The 'help' portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, by disabling cookies, you may not be able to access all of the features on the site.
 
 HSS websites may issue Cookies for the following purposes:
 
-  * Analytics – allow us to monitor how people use the website and optimize our content accordingly to improve user experience
-  * Login settings and preferences – in order for us to remember your preferences after logging in
-  * Remarketing – in order for us to re-advertise to you when you are browsing other websites
-  * Email marketing – in order for us to tailor our email messages to make them more relevant based on how you use the website
+  * Analytics - allow us to monitor how people use the website and optimize our content accordingly to improve user experience
+  * Login settings and preferences - in order for us to remember your preferences after logging in
+  * Remarketing - in order for us to re-advertise to you when you are browsing other websites
+  * Email marketing - in order for us to tailor our email messages to make them more relevant based on how you use the website
 
 
 
