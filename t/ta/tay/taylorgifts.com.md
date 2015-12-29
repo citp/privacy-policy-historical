@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082650id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033731id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Taylor Gifts' Privacy Policy
 
@@ -7,8 +7,8 @@ In over 60 years in the Direct Marketing business, Taylor Gifts, Inc. has adhere
 The policies below are applicable to www.taylorgifts.com. Questions or comments regarding this policy should be directed to:
 
 Taylor Gifts, Inc.  
-600 Cedar Hollow Road  
-Paoli, PA 19301  
+P.O. Box 4007  
+Pottstown, PA 19464  
 E-mail: tgcustomerservice@taylorgifts.com  
 Telephone: (800) 829-1133
 
