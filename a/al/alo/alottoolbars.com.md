@@ -1,227 +1,92 @@
-> *The following text is extracted and transformed from the alottoolbars.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222191945id_/http%3A//www.alot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alottoolbars.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229034421id_/http%3A//alot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-### Welcome to alot.com!
+Thank you for visiting Alot.com. Alot.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. Our site may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. Alot.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. 
 
-Here at alot.com we deliver highly relevant search results to our users while maintaining the most professional service standards. This means we are dedicated to treating you with care and respect.
+###  How We Gather Information and Technologies We Use 
 
-We encourage anyone using [www.alot.com](http://www.alot.com/) (our "Site") to make educated decisions about their online practices. To help you do so, this Privacy Policy details important information that will help answer questions regarding personal privacy in relation to the use of our Site. You should also review our ["Terms of Use"](http://www.alot.com/terms-of-use) before using this Site.
+At Alot.com you can visit many pages on our site without physically taking any steps to provide information. Like most Web sites, we do collect information automatically and through the use of electronic tools that may be transparent to our visitors. This section provides information about the information we collect and how the technologies we utilize work. 
 
-### The Information alot.com Collects:
+  * **Cookies.**
 
-When this Privacy Policy uses the term "personal information," we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.
+We use "cookies." The cookies we place on your computer are very small text files that uniquely identify your browser and may be sent to your computer or mobile device. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. We use cookies to improve the quality of Alot.com. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. They also allow us to optimize Alot.com to make sure that we are delivering the best possible experience to our users. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly. To learn more about controlling browser cookies visit: <http://www.aboutcookies.org/Default.aspx?page=1>. 
 
-We do not collect any personal information other than (i) in those cases where you are required to submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Toolbar or Appbar, where personal information is contained in http/https requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). The Discover feature also collects certain other types of data such as: anonymous client identifier, timestamp, ip address, port, http/https request method, server response code (http/https status code returned), user agent, mime type, and the browser language.
+Additionally, we allow third parties that display advertisements, search listings, and other content on portions of Alot.com to set and access their cookies on your computer or device and any cookies are subject to the applicable third parties privacy policies and not ours. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to Alot.com and other unaffiliated Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We also partner with a limited number of interest-based advertising companies to serve ads and/or collect certain information when you visit our websites. Interest-based advertising companies may use cookies to collect non-personally identifiable information during your visit to our websites in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this 'interest-based advertising' practice or to opt-out of this use of your anonymous information, you can go to the National Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-_Log File Information:_ Using alot.com may result in us receiving non-personal performance and usage information, such as browser type, default language setting, Internet Protocol (IP) address, platform type, the date and time of your request, number of clicks within our environment, an anonymous/random identifier, page views and/or the amount of time spent on our particular pages. We may use this type of information to power the services, identify problems, assess performance and to improve the quality and design of our Site.
+  * **Device Information.**
 
-_Cookies:_ We do use "cookies." The cookies we place on your computer are very small text files. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. We may also use cookies to administer promotion, sweepstakes, or other contests sponsored by alot.com or an affiliate of alot.com. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly.
+We collect information regarding the Internet browser, computer, tablet, mobile phone, smartphone or other device utilized to access Alot.com to ensure that Alot.com is optimized for those devices. 
 
-We allow third parties that display advertisements, search listings, and other content on portions of our Site to set and access their cookies on your computer and any cookies are subject to the third parties privacy policies and not ours. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+  * **Internet Protocol Addresses.**
 
-We partner with a limited number of behavioral advertising companies to serve ads and/or collect certain information when you visit our websites. Behavioral advertising companies may use cookies to collect non-personally identifiable information during your visit to our websites in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this 'behavioral advertising' practice or to opt-out of this use of your anonymous information, you can go to the National Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp>.
+Internet browsers automatically transmit information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version of your computer. This information is utilized to optimize Alot.com. 
 
-_Search Revenue_ : We do collect statistical search data. This data does not contain any personally identifying information and is passed through to our search partner for billing purposes.
+  * **Location Information.**
 
-_Children’s Privacy Protection_ : The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. ALOT does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through registration or any other means to ALOT represents to us that he or she is 13 years of age or older. If ALOT learns that Personal Information has been collected from a user under 13 years of age on or through ALOT products, then ALOT will take the appropriate steps to cause this information to be deleted.
+On some of our mobile applications we may (or may enable a third party to) request your geolocation information. If allowed, we (or the third party) may use this information to supply you with location specific advertisements, offers and functionality. Additionally, we may (or may enable a third party to) capture geolocation information (such as IP address data) when you access Alot.com, and may use that geo-location information to targets ads, offers and functionality. 
 
-If you are the parent or legal guardian of a child under 13 who has become an ALOT member, please contact ALOT at [customerservice@alot.com](mailto:customerservice@alot.com) to have that child's account terminated and information deleted.
+  * **Analytics.**
 
-### Information alot.com Discloses
+We use third party information, reports and analysis about the usage and browsing patterns of users of Alot.com. We allow the third party analytics companies to include web beacons and cookies on Alot.com. The collected information includes search terms, search parameters, click-throughs by users, and other similar information. We utilize this information to improve Alot.com and make sure we are delivering relevant content to our users. The Analytics we use do not identify individual users of Alot.com. 
 
-We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com to administer the promotion, sweepstakes, or contest. This may include sharing such information with a third party service provider that we may use to administer such promotions, sweepstakes, or contests. In addition, if you opt-in to use the Discover feature of our ALOT Toolbar or Appbar, we may use and/or share data collected by the Discover feature with third parties. You consent to the use, processing, and/or sharing of this data by us and by such third parties.
+  * **Log Files.**
 
-There is certain non-personal information, as described above, that we may collect and combine with the non-personal information of other individuals (i.e. to aggregate data). Given the nature of this impersonal information, there are no restrictions under this Privacy Policy upon the right of alot.com to aggregate your information, and ALOT may use and/or share with third parties the resulting aggregate usage data in any way.
+We may also automatically log certain anonymous information about visitors to Alot.com, including, but not limited to, where the user came from to visit our site, IP address, search terms utilized, browser type and a reading history of the pages viewed. 
 
-alot.com will disclose any information it can access on a user when it believes in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena or if we believe, in our sole discretion, that such a disclosure will help to (a) enforce our Terms of Use or any other posted rules or policies; (b) protect your safety or security, including the safety and security of property that belongs to you; and/or (c) protect the safety and security of our Site, alot.com, its parent, affiliates and subsidiaries and/or third parties, including the safety and security of property that belongs to alot.com or third parties.
+  * **Web Beacons.**
 
-This Privacy Policy shall not be construed as preventing us from complying with any court order, court authorized discovery, agency authorized discovery of your information, or any other legal requirement.
+We (or our third party partners) may use web beacons. Web beacons communicate information from your Internet browser to a web server. We (or our third party partners) use web beacons for a variety of purposes, including to analyze the use of Alot.com and in conjunction with cookies to provide content and ads that are more relevant to you. 
 
-### Security of Your Personal Information
+  * **Other.**
 
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect user information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our reasonable efforts, no security measures are impenetrable and any connection or information transmitted to alot.com will be at your own risk.
+As new technologies develop we may implement and/or test them on Alot.com. We only utilize technologies as permitted by law. 
 
-### Links
 
-alot.com delivers search results that link to any variety of web properties whose information practices are different than our own. We may also place links to other websites at alot.com. alot.com only controls information practices at its own site and visitors should consult any other sites' privacy policies when navigating off of the alot.com domain, as we have no control over information that is collected or shared by third parties. alot.com is, therefore, not responsible for the privacy practices or the content of such third party websites.
 
-Information you share off of our domain with any website we link to is not collected by alot.com and alot.com will not be responsible for any such information.
 
-### Changes and Updates to this Privacy Policy
+###  What we do with the information we collect 
 
-alot.com may, at its discretion, change this Privacy Policy periodically and changes will be reflected by the "Last Updated" reference below. Please revisit this page to stay aware of any changes.
+We will use your information only as permitted by law. We use the information we collect to: optimize Alot.com, including ensuring that the site is accessible to your device; ensure the site is available in the appropriate language; customize the advertising and content available to you; improve our product offerings and services; optimize our marketing campaigns; conduct research; supply our third party partners with aggregate and/or anonymous information to help them enhance their own products, data, or analytics; and provide anonymous reporting for internal and external clients. 
 
-### Contact Information:
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-If you have any questions or concerns about this alot.com Privacy Policy or its implementations please contact us at the following address:
+###  Affiliated Sites, Linked Sites and Advertisements 
 
-alot.com  
-Attention: Privacy Issues  
-143 Varick Street  
-New York, NY 10013  
-[customerservice@alot.com](mailto:customerservice@alot.com)
+Alot.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on Alot.com page, certain content that is actually created or hosted by a third party. Also, through Alot.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Alot.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-**Last Updated:** April 26 th, 2012
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Alot.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
-At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personal information (i.e., information that does not include your name, address, email address or telephone number) about your visits to this and other Web sites in an effort to provide advertisements about goods and services that may be of interest to you. To learn more about third-party advertising or to opt-out of such advertising, you can visit both the [ Network Advertising Initiative ](http://www.networkadvertising.org/) and the [ Digital Advertising Alliance ](http://www.aboutads.info/). 
 
-### POLICY OVERVIEW
+In addition to the above, we have implemented at Alot.com certain "Google Analytics" features that support display advertising, including re-targeting. Visitors to Alot.com may opt out of Google Analytics, customize the Google Display Network ads by using the [Google Ad Preferences Manager](https://www.google.com/settings/u/0/ads/) and learn more about how google serves ads by viewing its [Customer Ads Help Center](https://support.google.com/ads/?hl=en). If you do not wish to participate in Google Analytics, you may also download the [Google Analytics pt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
-We want you to feel comfortable downloading and using our products. We understand that your trust depends on us respecting your privacy and safeguarding any information we may be able to access.
+### Communication with Contributors
 
-We encourage anyone using ALOT software (the "ALOT Toolbar") to make educated decisions about their online practices. To help you do so, this ALOT Toolbar Privacy Policy ("Privacy Policy") details important information that will help answer questions regarding personal privacy in relation to our ALOT Toolbar. Also, this Privacy Policy is incorporated with and subject to the alot.com [Terms of Use](http://www.alot.com/toolbar/terms).
+Alot.com Contributors provide content to Alot.com. Contributors are independent contractors and not employees of Alot.com. If you contact a Contributor via e-mail or otherwise then that communication is independent of Alot.com and is not governed by this Privacy Policy. Alot.com is not responsible for the actions of our Contributors or how they may use information you have provided to them. Any communications with a Contributor are not confidential or subject to any other privilege. 
 
-alot.com's principle revenue is earned through the ALOT Toolbar's advertising functions. Generally, sites pay to get certain placement within keyword search results. If a user clicks an ad, the advertiser pays our search partner for the click and we share in that revenue.
+###  Our Parent Company 
 
-alot.com's web and toolbar web search are powered by our search partner. Your search queries are passed to our search partner's servers to produce the results that are returned. Also, our toolbars may provide the ability to perform quick access searches of a variety of sites related to the themes of the respective toolbars. Your search queries are passed along to these sites to generate the results that are returned to you. Note that these sites will generally have their own privacy policies that are not under the control of alot.com.
+Alot.com is a wholly-owned subsidiary of Inuvo, Inc. We share information we collect with Inuvo, Inc. to better understand our users and to improve the content delivered across the Inuvo, Inc. network. 
 
-### Practices
+###  Minors 
 
-  * Our software is installed only with your permission
-  * We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Toolbar, where personal information is contained in the http/https requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). 
-  * We allow you to disable certain search features if you feel they are not valuable to you. We allow you to disable the Discover feature of the ALOT Toolbar.
-  * We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.
-  * We brand each of our products and provide you with links to our customer service department.
-  * We are proud of our software and our business and are happy to be up front with our users as to what we do.
+Alot.com does not knowingly solicit or collect information from visitors under thirteen (13) years of age. Alot.com encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
 
+###  Compliance with legal process 
 
+We may disclose information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our websites; or (4) protect the personal safety or property of our users or the public. 
 
-### Data Collection
+###  Changes in Privacy Policy 
 
-When this Privacy Policy uses the term "personal information" we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.
+Alot.com reserves the right to change or update this Privacy Policy at any time by posting a notice at the Site explaining that we are changing our Privacy Policy. 
 
-We do not collect personal information other than personal information that is submitted by a user to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com. In addition, we need to collect some non-personal data to power our products and monitor our performance. Here is exactly what we do:
+### Users from outside the United States
 
-  * We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an alot.com affiliate to administer the promotion, sweepstakes, or contest. In addition, we may use a third party service provider to administer promotions, sweepstakes, or contests, and we may share your personal information with such third party service provider.
-  * We collect information that is already available to every website you visit. Examples include Internet Protocol (IP) address, browser version, language and other browser and connection information.
-  * We use a unique ID in order to know how many people use our products and to allow us and third parties to better target advertisements. This ID is not personally identifying; it is a completely random number. We may use and/or share our unique non-personally identifying ID with third parties.
-  * We track clicks on our toolbars and on our sites in order to optimize the toolbar and our offerings.
-  * We collect search data that is not correlated to particular users at our search site and via the ALOT Toolbar which is used to monitor and optimize our business performance. We may also share aggregated information with others.
-  * If you opt-in to use the Discover feature of the ALOT Toolbar, we may use and/or share data collected by the Discover feature with third parties. You consent to the use, processing, and/or sharing of this data by us and by such third parties. If you opt-in to the Discover feature, you may thereafter opt-out of such feature at any time by navigating to the ALOT Toolbar preferences dialogue and deselecting the Discover option. We use reasonable measures to scrub and filter out any personal information collected via the Discover feature. Personal information submitted for promotions, sweepstakes, or other contests is never linked to anonymous data collected via the Discover feature.
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+Visitors to Alot.com from outside the United States will have their data transferred to and stored in our servers in the U.S. By using Alot.com, international users are consenting to our use and collection of their data as described herein. 
 
+###  Contacting the Site 
 
+We listen to or read, as applicable, every message sent to us and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy or the practices of Alot.com, please feel free to contact us at [ info@alot.com ](mailto:info@alot.com). 
 
-Note that you may choose to provide your zip code or other location information to enable us to present the local weather forecast for your area when using our weather products. You may be required to provide your name and email address when submitting comments or support issues via the support pages of the alot.com site.
-
-The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. ALOT does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through registration or any other means to ALOT represents to us that he or she is 13 years of age or older. If ALOT learns that Personal Information has been collected from a user under 13 years of age on or through ALOT products, then ALOT will take the appropriate steps to cause this information to be deleted.
-
-If you are the parent or legal guardian of a child under 13 who has become an ALOT member, please contact ALOT at [customerservice@alot.com](mailto:customerservice@alot.com) to have that child's account terminated and information deleted.
-
-### Cookies
-
-You download our cookies when you visit our sites and download our software. Our cookies are stored on your hard drive and communicate with our servers only when you are visiting our websites/search sites or are using the ALOT Toolbar, including any of its search features or tools.
-
-We use cookies (a) to hold user specific data and information that maintain your personal settings and allow us to deliver more relevant content and information; (b) to determine where you got our software in order to monitor the effectiveness of our marketing campaigns; (c) to monitor aggregate metrics such as total number of visitors and pages viewed; and (d) to track your status as a new or existing user. We may also use cookies to administer promotion, sweepstakes, or other contests sponsored by alot.com or an affiliate of alot.com.
-
-Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser's settings. Note that blocking cookies may result in some features not being able to function properly.
-
-We allow third parties that display advertisements, search listings, and other content on portions of our Site to set and access their cookies on your computer and any cookies are subject to the third parties privacy policies and not ours.
-
-### Links
-
-The URLs displayed as search results or other sites linked to by us on the ALOT Toolbar or otherwise are developed by people over whom alot.com exercises no authority. These other sites may place their own cookies on your computer, collect data or solicit personal information without our knowledge or control. Please be aware that alot.com is not responsible for the privacy practices or content of such websites. We encourage you to read the privacy policies and terms of use of such websites.
-
-### Updating
-
-Our product is dynamic in much the same way as a web page. Some files reside on your computer and some reside on our servers. Bug fixes, new features and updates may be made to the product without notice. Should any new product, feature or software modification require us to modify this Privacy Policy, the updated privacy policy will appear at this same web address.
-
-### Changes to this Privacy Policy & Court Orders
-
-Please note this Privacy Policy is subject to change from time to time, so please review it frequently. Our current privacy policy will always be made available at this page. The policy version will be noted at the bottom of the page.
-
-This Privacy Policy shall not be construed as preventing us from protecting our rights or from complying with any court order, court authorized discovery, agency authorized discovery of any information we may have access to, or any other legal requirement. We may provide information to third parties in compliance thereof.
-
-### How to Contact Us
-
-If you have any questions or concerns about this Privacy Policy or its implementations please contact us at the following address:
-
-alot.com  
-Attention: Privacy Issues  
-143 Varick Street  
-New York, NY 10013  
-[customerservice@alot.com](mailto:customerservice@alot.com)
-
-**Last Updated:** April 26th, 2012
-
-At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.
-
-### POLICY OVERVIEW
-
-We want you to feel comfortable downloading and using our products. We understand that your trust depends on us respecting your privacy and safeguarding any information we may be able to access.
-
-We encourage anyone using ALOT software (the "ALOT Appbar") to make educated decisions about their online practices. To help you do so, this ALOT Appbar Privacy Policy ("Privacy Policy") details important information that will help answer questions regarding personal privacy in relation to our ALOT Appbar. Also, this Privacy Policy is incorporated with and subject to the alot.com [Terms of Use](http://www.alot.com/appbar/terms).
-
-alot.com's principle revenue is earned through the ALOT Appbar's advertising functions. Generally, sites pay to get certain placement within keyword search results. If a user clicks an ad, the advertiser pays our search partner for the click and we share in that revenue.
-
-alot.com's web and appbar web search are powered by our search partner. Your search queries are passed to our search partner's servers to produce the results that are returned. Also, our appbars may provide the ability to perform quick access searches of a variety of sites related to the themes of the respective appbars. Your search queries are passed along to these sites to generate the results that are returned to you. Note that these sites will generally have their own privacy policies that are not under the control of alot.com.
-
-### Practices
-
-  * Our software is installed only with your permission
-  * We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Discover (formerly Site Metrics) feature of our ALOT Appbar, where personal information is contained in the http/https requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). 
-  * We allow you to disable certain search features if you feel they are not valuable to you. We allow you to disable the Discover feature of the ALOT Appbar.
-  * We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.
-  * We brand each of our products and provide you with links to our customer service department.
-  * We are proud of our software and our business and are happy to be up front with our users as to what we do.
-
-
-
-### Data Collection
-
-When this Privacy Policy uses the term "personal information" we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.
-
-We do not collect personal information other than personal information that is submitted by a user to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com. In addition, we need to collect some non-personal data to power our products and monitor our performance. Here is exactly what we do:
-
-  * We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an alot.com affiliate to administer the promotion, sweepstakes, or contest. In addition, we may use a third party service provider to administer promotions, sweepstakes, or contests, and we may share your personal information with such third party service provider.
-  * We collect information that is already available to every website you visit. Examples include Internet Protocol (IP) address, browser version, language and other browser and connection information.
-  * We use a unique ID in order to know how many people use our products and to allow us and third parties to better target advertisements. This ID is not personally identifying; it is a completely random number. We may use and/or share our unique non-personally identifying ID with third parties.
-  * We track clicks on our appbars and on our sites in order to optimize the appbar and our offerings.
-  * We collect search data that is not correlated to particular users at our search site and via the ALOT Appbar which is used to monitor and optimize our business performance. We may also share aggregated information with others.
-  * If you opt-in to use the Discover feature of the ALOT Appbar, we may use and/or share data collected by the Discover feature with third parties. You consent to the use, processing, and/or sharing of this data by us and by such third parties. If you opt-in to the Discover feature, you may thereafter opt-out of such feature at any time by navigating to the ALOT Appbar preferences dialogue and deselecting the Discover option. We use reasonable measures to scrub and filter out any personal information collected via the Discover feature. Personal information submitted for promotions, sweepstakes, or other contests is never linked to anonymous data collected via the Discover feature.
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-
-
-
-Note that you may choose to provide your zip code or other location information to enable us to present the local weather forecast for your area when using our weather products. You may be required to provide your name and email address when submitting comments or support issues via the support pages of the alot.com site.
-
-The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. ALOT does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through registration or any other means to ALOT represents to us that he or she is 13 years of age or older. If ALOT learns that Personal Information has been collected from a user under 13 years of age on or through ALOT products, then ALOT will take the appropriate steps to cause this information to be deleted.
-
-If you are the parent or legal guardian of a child under 13 who has become an ALOT member, please contact ALOT at [customerservice@alot.com](mailto:customerservice@alot.com) to have that child's account terminated and information deleted.
-
-### Cookies
-
-You download our cookies when you visit our sites and download our software. Our cookies are stored on your hard drive and communicate with our servers only when you are visiting our websites/search sites or are using the ALOT Appbar, including any of its search features or tools.
-
-We use cookies (a) to hold user specific data and information that maintain your personal settings and allow us to deliver more relevant content and information; (b) to determine where you got our software in order to monitor the effectiveness of our marketing campaigns; (c) to monitor aggregate metrics such as total number of visitors and pages viewed; and (d) to track your status as a new or existing user. We may also use cookies to administer promotion, sweepstakes, or other contests sponsored by alot.com or an affiliate of alot.com.
-
-Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser's settings. Note that blocking cookies may result in some features not being able to function properly.
-
-We allow third parties that display advertisements, search listings, and other content on portions of our Site to set and access their cookies on your computer and any cookies are subject to the third parties privacy policies and not ours.
-
-### Links
-
-The URLs displayed as search results or other sites linked to by us on the ALOT Appbar or otherwise are developed by people over whom alot.com exercises no authority. These other sites may place their own cookies on your computer, collect data or solicit personal information without our knowledge or control. Please be aware that alot.com is not responsible for the privacy practices or content of such websites. We encourage you to read the privacy policies and terms of use of such websites.
-
-### Updating
-
-Our product is dynamic in much the same way as a web page. Some files reside on your computer and some reside on our servers. Bug fixes, new features and updates may be made to the product without notice. Should any new product, feature or software modification require us to modify this Privacy Policy, the updated privacy policy will appear at this same web address.
-
-### Changes to this Privacy Policy & Court Orders
-
-Please note this Privacy Policy is subject to change from time to time, so please review it frequently. Our current privacy policy will always be made available at this page. The policy version will be noted at the bottom of the page.
-
-This Privacy Policy shall not be construed as preventing us from protecting our rights or from complying with any court order, court authorized discovery, agency authorized discovery of any information we may have access to, or any other legal requirement. We may provide information to third parties in compliance thereof.
-
-### How to Contact Us
-
-If you have any questions or concerns about this Privacy Policy or its implementations please contact us at the following address:
-
-alot.com  
-Attention: Privacy Issues  
-143 Varick Street  
-New York, NY 10013  
-[customerservice@alot.com](mailto:customerservice@alot.com)
-
-**Last Updated:** April 26th, 2012
+Last updated: July 22, 2015 
