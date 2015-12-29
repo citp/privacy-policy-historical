@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-insight.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627153544id_/http%3A//www.game-insight.com/en/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-insight.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229215238id_/http%3A//www.game-insight.com/en/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,6 +83,8 @@ We may pass aggregated information to third parties about how our users use our 
 6.3 All of the major browsers offer tips and guidance for managing the cookies available on your browser. There are also lots of different third party browser plugins and extensions available which you can download to make it easier to see and control your cookies. 
 
 6.4 You can find out more about internet advertising by visiting the following websites:[www.allaboutcookies.org](http://www.allaboutcookies.org/), [www.yourchoicesonline.eu](http://www.yourchoicesonline.eu/), and [www.networkadvertising.org](http://www.networkadvertising.org/). Some of these sites enable you to opt out of online behavioural advertising and other tracking cookies (in addition to the control settings on your browser). 
+
+6.5 You can find the full text of our Cookie policy [here](http://www.game-insight.com/en/site/cookiepolicy). 
 
 7\. **LINKS**
 
