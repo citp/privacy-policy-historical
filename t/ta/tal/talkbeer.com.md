@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the talkbeer.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501193944id_/http%3A//www.talkbeer.com/community/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbeer.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033856id_/http%3A//www.talkbeer.com/community/help/privacy) for the most accurate reproduction.*
 
 # Privacy | TalkBeer - Craft beer news, info, discussion and trading.
 
-[](https://web.archive.org/web/20150501193944id_/http://www.talkbeer.com/community/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20151229033856id_/http://www.talkbeer.com/community/help/privacy/misc/quick-navigation-menu "Open quick navigation")
 
 **TalkBeer - Craft beer news, info, discussion and trading.**
 
-[Home](http://www.talkbeer.com/) [Help](https://web.archive.org/web/20150501193944id_/http://www.talkbeer.com/community/help/privacy/help/) >
+[Home](http://www.talkbeer.com/) [Help](https://web.archive.org/web/20151229033856id_/http://www.talkbeer.com/community/help/privacy/help/) >
 
 **Privacy Policy**
 
@@ -77,10 +77,10 @@ TalkBeer will not sell, distribute or lease your personally identifiable inform
 
 If you discover any of the information TalkBeer holds for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made.
 
-[](https://web.archive.org/web/20150501193944id_/http://www.talkbeer.com/community/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20151229033856id_/http://www.talkbeer.com/community/help/privacy/misc/quick-navigation-menu "Open quick navigation")
 
 **TalkBeer - Craft beer news, info, discussion and trading.**
 
-[Home](http://www.talkbeer.com/) [Help](https://web.archive.org/web/20150501193944id_/http://www.talkbeer.com/community/help/privacy/help/) >
+[Home](http://www.talkbeer.com/) [Help](https://web.archive.org/web/20151229033856id_/http://www.talkbeer.com/community/help/privacy/help/) >
 
 [ ](http://www.talkbeer.com/)
