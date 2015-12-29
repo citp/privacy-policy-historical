@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the buffalorumblings.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626105131id_/http%3A//www.voxmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalorumblings.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229020423id_/http%3A//www.voxmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vox Media
 
 [Vox Media](https://web.archive.org/ "Vox Media home")
-
-Latest News: Vox Media is a launch partner for News, Apple’s new native reader app. [Read more.](http://www.theverge.com/2015/6/8/8746289/apple-tktk-looks-like-flipboard-and-replaces-newsstand-on-your-iphone)
-
-delete
 
 ## Updated as of May 2014
 
