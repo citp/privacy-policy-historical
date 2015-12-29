@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627141055id_/http%3A//company.wizards.com/policies/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229042815id_/http%3A//company.wizards.com/policies/web/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | company.wizards.com
 
