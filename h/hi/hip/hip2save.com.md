@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623202005id_/http%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040056id_/http%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Hip2Save
 
-[](http://hip2save.com/wp-content/uploads/2010/10/H2SLogo.jpg)
+LAST UPDATED ON OCTOBER 26, 2015
+
+This Privacy Policy is in all respects subject to and governed by the Hip2Save TERMS OF USE & AFFILIATE DISCLOSURE available [here](http://hip2save.com/about-me/disclosure-policy).
 
 At Hip2Save, we are committed to protecting your privacy – as a first-time visitor or regular reader of this website. To our readers, we offer this pledge:
 
@@ -19,8 +21,6 @@ When you enter our website, we automatically collect and store certain informati
 • The time and length of your visit.
 
 • The pages of our site you visit.
-
-• Data on searches you perform.
 
 This information is used for administrative and technical purposes. Such purposes could include counting the number of visitors to our site and individual pages within the site, determining referral sources to our website, assessing the technology used to access our site, and assisting with site maintenance.
 
@@ -60,8 +60,8 @@ We reserve the right to change this Privacy Policy without providing advance not
 If you have any questions about our Privacy Policy, please feel free to contact us at:
 
 HIP Happenings LLC  
-112 SW 8th Ave., Suite 301-005  
-Amarillo TX 79101  
-Email: info@hip2save.com
+1712 N 13th Street  
+Boise, ID 83702  
+Email: bryn@hip2save.com
 
-_This policy was lasted updated on May 27, 2011._
+_This policy was lasted updated on October 26, 2015_
