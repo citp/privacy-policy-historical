@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013227id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229220032id_/https%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
 
 # Hookah-Shisha.com Privacy Policy. A secure hookah site you can trust and build confidence in. at Hookah-Shisha.com
 
