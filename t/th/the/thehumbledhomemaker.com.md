@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehumbledhomemaker.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002820id_/http%3A//thehumbledhomemaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehumbledhomemaker.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229075803id_/http%3A//thehumbledhomemaker.com/privacy) for the most accurate reproduction.*
 
-# Privacy - The Humbled Homemaker
+# Privacy | The Humbled Homemaker
 
 Your privacy is important. To better protect your privacy, I provide this notice explaining my online information practices and the choices you can make about the way your information is collected and  
 used.
