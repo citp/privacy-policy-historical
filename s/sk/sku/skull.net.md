@@ -1,108 +1,27 @@
-> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410190922id_/http%3A//skull.net/t/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229130606id_/http%3A//www.ebusinessdomains.com/privacy) for the most accurate reproduction.*
 
-# Skull.net | Privacy Policy
+# Privacy Policy
 
-This Privacy Policy is effective as of December 10, 2009.
+Widest Media (eBusinessDomains.com) is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
-  
-Skull.net knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Skull.net website located at [www.Skull.net](http://www.skull.net/) and any linked pages, features, content, or application services offered from time to time by Skull.net in connection therewith (the “Site”) and using Skull.net services (the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+### Consumer Information
 
-  
-This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+During the process of delivering our content and information to you, we may collect some personally identifiable information about you such as name, address, phone number, or e-mail address. We may also obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This non-personally identifiable information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads.
 
-  
-This policy does not apply to the practices of third parties that Skull.net does not own or control, including but not limited to third party services you access though Skull.net, or to individuals that Skull.net does not employ or manage.
+When you place a domain name or website for sale on our site, we may collect certain personal information to identify you, and to assist you in selling your site. We will not disclose your personal information to third parties without your permission, except in the following circumstances: (i) to protect ourselves from liability; or (ii) to respond to a legal process or comply with the law.
 
-Information Collected Upon Registration
+### Cookies
 
-  
-If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Skull.net. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.
+eBusinessDomains.com, as well as most sites on the Internet, use cookies to enhance your experience on the Internet. Generally, we cannot use these cookies to personally identify you in any way. The only time we can use cookies to personally identify you is when you use the password-protected areas of eBusinessDomains.com and you choose to enable cookie identification. Basically, we use cookies to allow you to enjoy our site more and to make your visit to our site easier. While we believe that cookies enhance your Internet experience, they are not required to use our site.
 
-Additional Information
+If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser’s Help documentation for more information.
 
-  
-Your full user name and your photo, if you decide to upload one, are displayed to people on the Skull.net Site. Once a member, you may provide additional information in the profile section, including but not limited to your bio, your location, as well as your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional.
+### Third Party Ads
 
-  
-**Log Data**
+At times Widest Media works with third parties that serve ads to and on eBusinessDomains.com. Some of these third parties may also use cookies in conjunction with their ads. Widest Media may also work with advertisers who may collect information that you would voluntarily provide to them. Please refer to those advertisers individual privacy policies for information on how they manage the privacy of information.
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
+### Opting Out
 
-  
-**Cookies**
+If, at any time, you no longer wish to receive the information you originally requested to receive from us, please contact us and we will remove your information from our system.
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Skull.net may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Services. A session cookie enables certain features of the Site and our Service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
-
-  
-**Web Site Tracking, Reporting**
-
-Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. Skull.net (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. Please keep in mind that none of this information is personally identifiable.
-
-  
-**Banner Ads**
-
-The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. Skull.net is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers. Skull.net does not sponsor, endorse or guarantee any products or services advertised by third parties on its site.
-
-**Information Sharing and Disclosure**
-
-Information about our users is important to our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
-
-**Service Providers**
-
-We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
-
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
-
-  
-**Information You Post**
-
-When you post a pic through Skull.net, information about you, including user profile information, may be visible to other users. If you post personal information online that is accessible to the public, that information becomes publicly available and can be collected and used by others and redistributed through the internet and other media channels. You may receive unsolicited messages from other parties in return.
-
-  
-**Business Transfers**
-
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Skull.net, or substantially all of its assets, were acquired, or in the unlikely event that Skull.net goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Skull.net may continue to use your personal information as set forth in this policy.
-
-  
-**Compliance with Laws and Law Enforcement**
-
-Skull.net cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Skull.net or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
-
-  
-**Non-UK Users**
-
-If you are not a resident of the United States, you understand and agree that Skull.net stores and processes your information on computers located in the United States, and by providing any data to Skull.net, you consent to the transfer of such information to the United States.
-
-  
-**Security Precautions**
-
-Skull.net has security measures in place to help protect against the loss, misuse and alteration of the information under our control. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and make all commercially reasonable efforts to do so, Skull.net cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-This privacy policy does not apply to any information, including such photographs, that you submit for use in publicly available areas. We ask that you do not submit any personal information, including contact information or financial information, for display in public areas, as other people who use the Services will see it. If you submit such information for display in public areas, Skull.net cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed.
-
-**  
-Links to Other Websites**
-
-The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-  
-**Our Policy Towards Children**
-
-The Site is not directed to persons under 16. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 16. If we become aware that a child under 16 has provided us with personal identifiable Information, we will delete such information from our system.
-
-  
-**Questions or Concerns**
-
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:
-
-  
-Email:  
-Skullnetwork @ googlemail.com
-
-  
-Address:  
-Skull.net  
-PO Box 61105  
-London  
-E3 2YG  
-United Kingdom
+If you have any additional questions or concerns about our dedication to consumer privacy, please do not hesitate to contact us.
