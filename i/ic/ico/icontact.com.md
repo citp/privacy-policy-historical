@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195153id_/http%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023500id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iContact
 
@@ -23,7 +23,7 @@ Although the majority of our customers are businesses, some of the Customer Regi
 
 We may use the information we collect and maintain, including any personal data, for the following purposes:
 
-  * If you have provided your contact information to us, we may use such information to contact you for marketing and promotional purposes by various means, including regular mail, email or telephone. To learn how to opt out of receiving marketing communications from us, please go to the section below entitled "How Can You Stop Receiving Marketing Communications?"
+  * If you have provided your contact information to us, we may use such information to contact you for marketing and promotional purposes by various means, including regular mail, email or telephone. To learn how to opt out of receiving marketing communications from us, please go to the section below entitled “How Can You Stop Receiving Marketing Communications?“
   * To process orders, requests and payments, and to communicate with our customers about their accounts or any requests, orders or payments;
   * To provide requested services to our customers, including sending or facilitating the delivery of emails on behalf of and at the request of our customers. (In such cases, our customers are responsible for the content and delivery of such communications.)
   * To respond to any inquiries submitted to us and to provide technical support to customers and Site visitors.
@@ -122,7 +122,7 @@ The majority of our customers are businesses; however, some the information we c
 
 We may also receive personal data about individual Customer Message Recipients (defined above), from or on behalf of iContact’s customers. We process personal data about Customer Message Recipients only on behalf of and under the direction of our customers, and the collection, use and disclosure of such data is subject to the customer’s privacy policy, not this one.
 
-For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). For complaints, please see the section below entitled "How Do You Submit a Question or Complaint?"
+For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). For complaints, please see the section below entitled “How Do You Submit a Question or Complaint?“
 
 #### What About Children Under 13?
 
