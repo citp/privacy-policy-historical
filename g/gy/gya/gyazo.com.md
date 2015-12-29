@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623194913id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyazo.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023225id_/https%3A//gyazo.com/doc/privacy) for the most accurate reproduction.*
 
 # Gyazo - Privacy Policy
 
