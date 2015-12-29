@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoestore.net privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428214137id_/http%3A//seoestore.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoestore.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229142412id_/http%3A//seoestore.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | SEOeStore
 
