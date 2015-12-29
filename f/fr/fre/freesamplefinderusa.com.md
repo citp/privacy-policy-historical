@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freesamplefinderusa.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623072242id_/http%3A//freesamplefinderusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesamplefinderusa.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229142258id_/http%3A//www.freesamplefinderusa.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D25%26Itemid%3D240) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://freesamplefinderusa.com/privacy-policy)
+##  [ Privacy Policy](https://web.archive.org/index.php?option=com_content&view=article&id=25:privacy-policy&catid=2&Itemid=240)
 
 **Privacy Policy**
 
@@ -72,11 +72,11 @@ We use commercially reasonable efforts to prevent unauthorized access or disclos
 
 **OPTING-OUT**
 
-Users may opt-out from receiving future offers from us by following the Opt-Out instructions contained in the marketing communication or by [clicking here](http://freesamplefinderusa.com/2013-10-23-11-05-53).  If you receive offers or other communications from our third party marketing partners and would like to opt-out from future communications from them, you should contact them directly.  A third party’s use of Information is subject to their privacy policy and  we have no control or responsibility over their use.
+Users may opt-out from receiving future offers from us by following the Opt-Out instructions contained in the marketing communication or by [clicking here](https://web.archive.org/web/20151229142258id_/http%3A//www.freesamplefinderusa.com/2013-10-23-11-05-53).  If you receive offers or other communications from our third party marketing partners and would like to opt-out from future communications from them, you should contact them directly.  A third party’s use of Information is subject to their privacy policy and  we have no control or responsibility over their use.
 
 **ACCESS TO INFORMATION**
 
-All users who provide their Information to us may modify and correct their Information.  To update or delete your Information, please [contact](http://freesamplefinderusa.com/2013-10-23-11-05-53) the Privacy Officer by submitting form [here](http://contact.samplesandsavings.com/contact.aspx).
+All users who provide their Information to us may modify and correct their Information.  To update or delete your Information, please [contact](https://web.archive.org/web/20151229142258id_/http%3A//www.freesamplefinderusa.com/2013-10-23-11-05-53) the Privacy Officer by submitting form [here](http://contact.samplesandsavings.com/contact.aspx).
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -90,6 +90,6 @@ The California “Shine the Light” law permits users who are California reside
 
 We may change this Policy at any time. If we make material changes to this Policy, we will post a notice on our Websites and update the revision date which is at the top.  Revisions that expand the types or the scope of our use of the Information we collect will be effective 30 days after posting to a Website and will apply to all Information we collect after the effective date.  Your access and use of a Website following a revision will be deemed your acceptance of such revision. Users should periodically visit this page to review the current policies with regard to Information.
 
-**Questions, Suggestions or to Contact Us:**   If you have any questions, comments, complaints, or suggestions regarding our Privacy Policy or our website, please contact us at [Contact US page](http://freesamplefinderusa.com/2013-10-23-11-05-53) or www.FreeSampleFinderUSA.com   – Privacy Officer, 128 Court Street, 3rd Floor, White Plains, NY  10601.
+**Questions, Suggestions or to Contact Us:**   If you have any questions, comments, complaints, or suggestions regarding our Privacy Policy or our website, please contact us at [Contact US page](https://web.archive.org/web/20151229142258id_/http%3A//www.freesamplefinderusa.com/2013-10-23-11-05-53) or www.FreeSampleFinderUSA.com   – Privacy Officer, 128 Court Street, 3rd Floor, White Plains, NY  10601.
 
 Policy Last Revised: January 28, 2015
