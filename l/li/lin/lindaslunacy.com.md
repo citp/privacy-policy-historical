@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindaslunacy.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614034149id_/http%3A//lindaslunacy.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindaslunacy.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229152533id_/http%3A//lindaslunacy.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Linda's Lunacy
 
@@ -23,3 +23,5 @@ For more info, see the[ FTC’s Guides Concerning the Use of Endorsements and Te
 We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission. This privacy policy is subject to change without notice.
 
 **We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
+
+If you have any questions, please email Linda at lindaslunacy@gmail.com,
