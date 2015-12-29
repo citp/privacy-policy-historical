@@ -1,103 +1,136 @@
-> *The following text is extracted and transformed from the entrepreneurindia.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162312id_/http%3A//www.entrepreneur.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneurindia.in privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229210911id_/http%3A//www.entrepreneur.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Entrepreneur.com Online Privacy Statement
 
-(The policies stated within this document are applicable to Entrepreneur.com and other sites owned and operated by Entrepreneur.com Inc. on the World Wide Web.)
+#### 1\. _Your Privacy is Serious Business to Us!_
 
-#### Your Privacy Is Serious Business To Us!
+Maintaining the privacy of our website visitors is very important to us. Because we gather information about you, you need to know: 
 
-The privacy of our visitors and members is very important to us. Since we do gather information about you, we provide this privacy statement to enable you to understand the terms and conditions associated with the collection of this data, as well as how we use it and how you can correct or change it. In addition, we make to you the following pledge:
+  * The kinds of information we collect and why we collect it;
+  * How we use that information; and
+  * How you can update that information or limit or control how it is used. 
 
-#### The Entrepreneur.com Privacy Pledge
 
-1\. Unless you otherwise agree (as indicated below), the information you give us or that we collect about you will not be shared with any third party, except with those third parties providing services to us ("our service providers") and then only in the form of statistical information which has been aggregated with other user information for the purposes of our own website research and development in an effort to better serve your needs.
 
-2\. We will never contact you without your permission, and we will immediately terminate any communications with you upon request.
+We've tried to keep it as simple as possible, but if you're not familiar with any of the terms used or have any questions, contact us at **_[memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com)_** (“our website”) **.** Your privacy matters to us at Entrepreneur Media, Inc. (“EMI”), so whether you are new to our websiteor are a regular or longtime visitor, it is important that you take the time to carefully read our Privacy Policy, so you can understand our practices as relates to your information. 
 
-#### Electronic Newsletters
+We will ask for your consent before using your information in any manner and for any purpose other than as described in this Privacy Policy.
 
-You can choose to subscribe to one of our FREE electronic newsletters. These newsletters are distributed through our service provider. To subscribe, simply check the box for each newsletter you wish to receive, provide your e-mail address and zip code and then submit. From time-to-time, you may be asked to provide additional information such as job title, number of employees, country of origin, and type of business. As a subscriber to our newsletter, you also agree to receive advertisements, promotions, and special communications from Entrepreneur and its partners. You can remove yourself from our newsletter e-mail lists by simply following the "Unsubscribe" directions included in each newsletter you receive or send an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com) . Please be assured that the information you give us or that we collect about you in connection with your subscription to our electronic newsletters will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+**2. _The Kinds of Information W_** ** _e Collect_**. 
 
-#### Special Offers
+We collect information to provide better services to all of our website visitors, including determining what types of editorial content and the products and services offered on our website which are of the most interest and relevant to you. 
 
-You can also choose to subscribe to our "special offer" lists and provide you with information and valuable offers by e-mail from us and our partners. Subscription to these lists is completely voluntary, and you may unsubscribe at any time. To subscribe, simply check the box for each category of interest, provide your e-mail address and zip coden then submit. From time-to-time, you may be asked to provide additional information such as job title, number of employees, country of origin, and type of business. Offers you receive through this subscription will be identified in the message header as part of your participation in the Entrepreneur.com list. To unsubscribe, simply follow the directions provided in the footer of the e-mail or send an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com) . We want you to receive only those offers of interest to you. Please be assured that the information you give us or that we collect about you in connection with your subscription to our special offers will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+> We basically collect information about you from the following two sources: 
+> 
+> a.      **The** **Information you give us (“EMI Profile”).** For example, many of our services require you create an account. When you do, we'll ask for personal information, like your name, email address, telephone number, and, if you are purchasing products or services on our website, such purchase information as the products or services purchased, the dates of purchase and the purchase price,. . 
+> 
+> b.       **The information we collect from your use of our website.** This information relates generally to what editorial and advertising content you view, and the products and services you use that we and our third-party providers offer. This information includes: 
+>
+>> (i)       _Device Information_ , We collect information about the devices you use to access our website, information concerning your device, such as hardware settings, browser type, browser language, the date and time of your request and referral URL.  
+>  .   
+>  (ii)    _Log Information_. When you visit our website, we automatically collect and store certain information in **_server logs_** , which automatically record certain information when you visit our website, including the following: 
+>>
+>>> (a)    details about how you have used our website, such as your search queries. 
+>>> 
+>>> (c)    your **_IP address_** , which is the number assigned to every Internet-connected device such as a tablet or smartphone and used to identify the geographic location of that device. 
+>>> 
+>>> (d)   **_cookies_** that may uniquely identify your browser and collect information about how our visitors interact with our website, as well as help us identify problems such as error messages from certain pages. . A **_cookie_** is a small file containing a string of characters that is sent to your computer when you visit our website. When you visit our website any time thereafter, the cookie allows our website to recognize your browser and to store information about your user preferences and other personal   
+>  information. 
+> 
+> (iii)    _Location information_. When you visit our website, we may collect and process information about your actual location. We use various technologies to determine location, including IP address. 
+> 
+> (iv)   _Local_ _storage_. We may collect and store information (including personal information) locally on your device, using mechanisms such as **_browser_** ** _web storage_** (including HTML 5), which allows for data to be stored on a browser even after the browser has been closed and the reopened, and **_application_** ** _data_** ** _caches_** , which allow for data to be stored on your device, enabling an application to run without an Internet connection and to load content faster. . 
+> 
+> (v)    _Collection and Storage technologies_. We and our partners use various technologies to collect and store information when you visit the EMI website, and this may include using cookies ****or other technologi es to identify your browser or device. We also use these technologies to collect and store information when you visit our website and interact with the content and products and services we offer, such as advertising services.
 
-#### Franchise & Business Opportunity Lead Submission
+**3.    _How We Use I_** ** _nformation W_** ** _e Collect_** **.** ****
 
-The information, which you voluntarily provide in responding to those franchise and business opportunity advertisers conducting recruitment campaigns on our site ("lead information"), will only be shared with those specific franchise and/or business opportunity advertisers you have selected for the purpose of receiving additional information about them. Please be assured that, except for those franchise and/or business opportunity advertisers you have selected, the information you give us or that we collect about you in connection with this lead generation program will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+We use the information we collect from our website visitors, in order to provide you with more meaningful editorial and advertising content and to offer you relevant products and services, as well as to maintain, protect and improve your overall experience. In particular, you may choose (i) to subscribe to any of our electronic newsletters or (ii) to receive “special offers” by EMI and its various service providers, (iii) to receive franchise and business opportunity information from selected advertisers, (iv) to submit questions or comments in response to editorial content on our website, or (v) to purchase books and related publications offered on our affiliated website at _bookstore.entrepreneur.com_ (the “Bookstore Website”). In each of those instances you will be asked to provide, and we will collect and store, certain personal information such as email address, zip code, telephone number, and in some instances information about your business. In the case of purchases made through the Bookstore Website, we will also collect and store additional information about those purchases, including titles purchased, quantity and dates of purchases, the method of payment, and other information provided such as billing and shipping addresses (if different). By providing that information, you agree that it can be used by EMI and its various advertisers and other service providers to send you promotions and other communications concerning business opportunities, products or services. You can remove yourself from any such electronic newsletters and otherwise stop receiving any further promotions and other commercial communications by following the “unsubscribe” directions included with each newsletter or, in all of the above instances, by sending an email with the word “unsubscribe” in the subject line to _unsubscribe@entrepreneur.com._   
 
-#### Expert Columnist Lead Submission
+We may use the name you provide for your EMI Profile across all of the services we offer that require a EMI Account, which is where the information you provide is maintained. In addition, we may replace past names associated with your EMI Account, so that you are represented consistently across all our services.
 
-The information, which you voluntarily provide in responding to certain columnists on our site, will only be shared with those columnists you have selected for the purpose of receiving additional information about their products or services. Please be assured that, except for those columnists you have selected, the information you give us or that we collect about you in connection with this lead generation program will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+When you contact EMI, we keep a record of your communications to help solve any issues you might be facing. We may use your email address to inform you about the products and services offered through our website, such as letting you know about upcoming changes or improvements. 
 
-#### _Ask Entrepreneur_ Submissions
+We use information collected from cookies ****and other technologies, like ** _pixel tags_** _,_ to improve your user experience and the overall quality of our services. You can reset your browser to reject all cookies or to indicate when a cookie is being sent. But you need to know that you may not be able to access or use some features and services on our website without cookies. A **_pixel tag_**  is a type of technology which is placed on a website or within an email and used for the purpose of tracking activity on a website and is often used in combination with cookies.
 
-The information, which you voluntarily provide in submitting questions for those expert columnists participating in the _Ask Entrepreneur_ program, will only be shared with the specific columnists to whom your questions have been assigned. Please be assured that, except for the columnists to whom your questions have been assigned, the information you give us or that we collect about you in connection with this program will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+**4.   _The Advertising on Our Website_.**
 
-#### _Entrepreneur Assist_ Registration
+Advertising on our website makes it possible for us to offer you the information and products/services free of charge. We take seriously and make every effort to make sure that that advertising is safe, unobtrusive and as relevant as possible. 
 
-The information you voluntarily provide in registering to access the _Entrepreneur Assist_ suite of interactive resources will only be shared with the named co-sponsor of this service, which may use such information to apprise you of its goods and/or services. Please be assured that, except for any co-sponsor of the _Entrepreneur Assist_ service, the information you give us or that we collect about you in connection with your registration for this service will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+Cookies are used to make that advertising as relevant as possible to the needs and interests of our website visitors, and more valuable to our advertisers in being able to show our visitors more relevant ads. Cookies are also used to avoid you seeing the same ad multiple times and to detect and prevent click fraud. We use AdSense, Google Analytics and other DoubleClick services (collectively, “Google® Services”), which help us manage and improve our website and help our advertisers better understand and track user interaction with their ads. When you visit a location on our website which includes one or more of these ads, various cookies may be sent to your browser. 
 
-#### SmallBizBooks.com, & Entrepreneur Press Registration
+We may use other technologies, including Flash and HTML5, which provide the functionality for such displays as interactive advertising. We may also use your IP address to select and provide advertising targeted to that address, in order to improve the relevance of the ads you see and to measure and report to advertisers non-personal statistical information about geographical location of those website visitors who are viewing their ads.
 
-You will be required to register in order to make purchases at our online stores, SmallBizBooks.com and EntrepreneurPress.com. To register, you're required to supply your name and shipping address, phone number, a username and password. Optional information includes the name of your company and a fax number. The information gathered from this process ("registration information") is stored in the SmallBizBooks.com and EntrepreneurPress.com databases and is also saved to a cookie. This allows SmallBizBooks.com and EntrepreneurPress.com members to enter the site without having to login each time. When you make a purchase at SmallBizBooks.com or EntrepreneurPress.com, your credit card information is secured using 128-bit SSL encryption technology. Please be assured that the registration information you give us or that we collect about you will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+The advertising you see on our website is determined by a number of factors relating to relevance, including (i) your approximate geographical location base on you IP address and (ii) the subject matter you may be viewing on our website. For example, if you are viewing an article about physical health, you may see ads concerning exercise equipment. 
 
-#### Contests And Sweepstakes
+**5. _Privacy_** ** _and Choice_** **.** ****
 
-All contests and sweepstakes on any of our websites are conducted in accordance with applicable federal and state laws. The information you voluntarily provide by participating in any such contest or sweepstakes event will be used to verify participant identity and to contact winners, and may be shared with named co-sponsors, which may use such information to apprise you of their goods and/or services. Please be assured that, except to the extent shared with co-sponsors, the information you give us or that we collect about you in connection with your participation in any such contest or sweepstakes event will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+People have different concerns about privacy. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how that information is used. You may set your browser in its “options” or “preferences” feature in order to warn you before accepting cookies or to disable all cookies entirely. However, it is important to understand that many of the services we provide on our website and to our website visitors may not function properly if your cookies are disabled. . 
 
-#### Usage Reports
+**6. _The Information_** ** _You Share_** ** __**
 
-In order to better understand traffic patterns on any site owned and operated by Entrepreneur.com, we analyze our site activity to obtain overall usage statistics. These usage statistics provide us with certain information obtained through the use of cookies and from data within the browser string (information contained in every user's browser). Information we collect from the browser string includes domain name, browser type, operating system, geographic origin, referring domain and MIME type. Cookies allow us to track behavior on the site to determine content preferences and usage patterns. This information is for internal consumption and is only shared with third parties on a statistically aggregated basis. No specific or personally identifiable information collected through this process is ever shared with a third party. 
+Our website allows visitors to share information with others, such as comments on editorial content and information shared via social media. When you share information it may as a result become accessible to others, through such mechanisms as search engines. We cannot be responsible for how others with whom you may share information may use that information. (See Paragraph 10 below—The Scope of Our privacy Policy.) ****
 
-#### E-Mail Data Analysis
+**7. _U_** ** _pdating_** ** _Your Personal_** ** _Information_** **.**
 
-From time-to-time, we provide our e-mail lists (newsletters & special offers) to our service providers, which in turn provide us with specialized services, such as e-mail message deployment, merge-purge (identifying and removing duplicate addresses) of lists, statistical analysis and other data processing. Please be assured that the information you give us or that we collect about you in connection with your subscription to our electronic newsletters and/or special offers will not be shared with any third party, except with our service providers and then for the purposes stated in the above Privacy Pledge. 
+It is our policy that, whenever you visit our website, you should be able to access your **_personal_** ** _informatio_** ** _n_** , which is information identifying you such as name, email address, billing information or any other information which can reasonably be expected to identify you. If that information is incorrect, we try to provide you ways to update it quickly or to delete it - unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
 
-#### Cookies
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, which would be extremely impractical (for instance, requests concerning information residing on backup systems). 
 
-All sites owned and operated by Entrepreneur.com use cookies. A cookie is a small data file written to your hard drive. Cookies allow us to understand user behavior so we can more effectively develop information and programs to serve you better. Our third-party ad serving company, delivers a one-time cookie to your hard drive in order to better track ad impressions and click-through rates generated by your activity on our websites. Advertisers require information regarding ad impressions and click-through rates, and by providing them with this information, we are able to keep our websites free to our visitors. Please be assured that, except for sharing impressions and click-through rates with our third-party advertisers, the information you give us or that we collect about you in connection with our use of cookies will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge. 
+Where we can provide information access and correction, we will do so at no cost to you, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our website, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-If you're concerned about the use of cookies, you have the option to set your browser to warn you before accepting cookies, or to turn off cookies entirely. The options to warn or disable cookies can be found in the "Options" or "Preferences" feature of your browser. You do not need to enable cookies in oder to use any site owned and operated by Entrepreneur.com, Inc.
+**8.   _The Information W_** ** _e Share_** ** __**
 
-#### Links to Other Sites
+> We do not share personal information with companies, organizations and individuals outside of EMI, unless one of the following circumstances applies: 
+> 
+> a.   We will share personal information with companies, organizations or individuals outside of EMI when we have your opt-in or other consent to do so. . 
+> 
+> b.  We will share personal information with companies, organizations or individuals outside of EMI if   
+>  we have a good-faith belief that access, use, preservation or disclosure of that information is reasonably necessary to: 
+>
+>> (i) comply with applicable law, regulations, legal process or enforceable governmental request.
+>> 
+>> (ii) enforce any of our applicable Terms of Service, including any potential violations.
+>> 
+>> (iii) detect, prevent, or otherwise address fraud, security or technical issues.
+>> 
+>> (iv) protect against harm to the rights, property or safety of our website visitors or service providers, as well as the general public and EMI as required or permitted by law. 
 
-Please be aware that when you're on Entrepreneur.com or any site owned by Entrepreneur.com, or when you receive an e-mail message from us on behalf of a marketer according to permission granted through our opt-in process for newsletters and special offers, you could be directed to other sites that are beyond our control, such as the marketer's site. There may also be links to other sites from Entrepreneur.com pages or from the e-mail message we send you that take you outside Entrepreneur.com. These other sites may send their own cookies to visitors, collect data or solicit personal information. The privacy policies of these other sites may be significantly different from this privacy policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. 
+We may share your **** information publicly and with our partners such as third-party content providers, advertisers or connected sites, but in a manner which does **_not_** reveal your personally-identifiable information and which is **_aggregated with other user information_** to show usage of EMI and third-party products and services offered on our website and trends based on such categories as age, gender, geographical origination and other demographic characteristics. . 
 
-**NOTICE:** [Click here](http://www.ftc.gov/bcp/edu/pubs/articles/naps22.pdf) for important information about safe surfing from the Federal Trade Commission. 
+**9.   _The Protection of Your Information_.**
 
-#### Third-Party E-Mail Collection
+We work hard to protect the information provided by, or collected about, our website visitors from unauthorized access, or alteration, disclosure or destruction. In particular: 
 
-In addition to Entrepreneur.com visitors providing permission to receive newsletters and special offers, we do work with various marketing partners to promote our newsletters and special offers to their visitors. Each promotion on third-party sites is branded under Entrepreneur.com. 
+a. We encrypt much of that information using SSL.
 
-#### Security
+b. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to our systems and the information collected and stored therein
 
-Protecting the security of your personal information is very important to us. When we store information you've provided to us, that information is protected by security measures that include "firewalls" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), "intrusion detection systems" (a combination of computer hardware and software that helps detect any unauthorized visitors), "secure socket layer" (data encryption used when transmitting certain information such as personal information from a form or a transaction within SmallBizBooks.com or EntrepreneurPress.com) and other security measures such as secure storage. Unfortunately, no data transmission over the internet or data repository can be guaranteed to be 100% secure. As a result, while Entrepreneur.com strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction or inadvertent disclosure of your personal information. 
+c. We restrict access to personal information to those of our employees, contractors and agents, who need to know that information in order to process it for us, who are subject to the obligation of strict confidentiality as relates to that information, and who will be subject to discipline, including termination, if they violate that obligation. 
 
-#### Reporting Unsolicited E-Mail
+**10.   _The Scope of Our Privacy Policy_.**
 
-Despite our concerted efforts to prevent unsolicited (spam) e-mail relayed through Entrepreneur.com servers, unsolicited e-mail may sometimes get through. Entrepreneur.com NEVER sends unsolicited or spam e-mail. We view spam as a serious violation of privacy and a misuse of the internet in general. If you receive an unsolicited e-mail with a domain of Entrepreneur.com, please send it immediately to [abuse@entrepreneur.com](mailto:abuse@entrepreneur.com) . Upon receipt of the e-mail, we will do our utmost to track down the offender and take any actions necessary to stop spam messages. 
+Our Privacy Policy applies to all of the services offered by EMI through its website. However, our Privacy Policy does **_not_** apply to the any of the following: 
 
-#### Correcting Information
+a. services offered by other companies or individuals on non-EMI websites, including any such websites which may be referenced on or linked from the EMI Website. 
 
-You can correct or update any information you have provided to Entrepreneur.com by following the instructions in any electronic newsletter or offering we send, or you may correct your information by sending an e-mail to [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com) . 
+b. the information collected by, and information practices of, other companies, organizations or individuals, who advertise our website, editorial or advertising content, or any of the products or services offered on our website, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
 
-#### Deactivating
+**11. _Handling Complaints from Our Website Visitors and Regulatory Authorities_.**
 
-Any user receiving our electronic newsletter or who receives regular offers from our partners may opt out of our email list at any time by simply following the instructions to "Unsubscribe" within each newsletter or offering or send an an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com). 
+We regularly review our compliance with this Privacy Policy Statement and with any and all industry-recommended best practices, as well as applicable laws and regulations. When we receive a formal written complaint, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the 
 
-#### Changes to the Entrepreneur Privacy Policy
+transfer of personal data that we cannot resolve with our website visitors directly. 
 
-This privacy policy may be modified from time to time. If there is a significant change, we will indicate on our sites that our privacy policy has changed and provide a link to the new policy. 
+**12.   _Privacy Policy Revisions and Updates_.**
 
-#### Contacting Entrepreneur
+Our Privacy Policy may be revised from time to time, in which case the Privacy Policy Statement you view will be the most current version and the date of the latest such revision will be identified at the beginning that Statement. 
 
-Should you have any questions, concerns or suggestions, you may contact Entrepreneur.com by e-mail at [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com) or at the following address: 
+**13.   _Contacting Us_.**
 
-Entrepreneur.com Inc.  
-Privacy Policy Issues  
-18061 Fitch  
-Irvine, CA 92614  
-(949) 261-2325
+If you have any questions, concerns or suggestions, you may contact us at _[memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com)_ or at the following address:
 
-Effective Date: November 6, 2007
+Entrepreneur Media, Inc.  
+Attn.: Privacy Policy Issues  
+18061 Fitch Avenue  
+Irvine, CA 92614 
