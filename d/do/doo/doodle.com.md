@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195521id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023841id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doodle
 
@@ -10,11 +10,11 @@ This Privacy Policy describes how Doodle handles the data it has access to.
 
 ### Overview
 
-When you use Doodle, you send pieces of data to Doodle; this can be a name, an e-mail address, or information relating to your appointment. Other data is generated implicitly by your use of Doodle, e.g. log data.
+When you use Doodle, you send pieces of data to Doodle; this can be a name, an e-mail address, or information relating to your appointment. Other data is generated implicitly by your use of Doodle, e.g. log data. We use this information for internal analytical purposes to improve the product for you. Furthermore we employ other companies to perform tasks on our behalf and may need to share this information with them to provide services to you. We do not sell your data to third parties.
 
 ### Log data
 
-Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.
+Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, analytics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.
 
 Doodle also uses KISSmetrics and Google Analytics to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy> and <http://www.google.com/privacy>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. In addition Doodle uses New Relic to monitor its servers. New Relic, Inc's privacy policy can be found at <http://newrelic.com/privacy>. 
 
@@ -36,7 +36,7 @@ Doodle's paid services ([Premium Doodle](http://doodle.com/premium)) are ad-free
 
 ### Outdated and completed polls
 
-You can delete outdated or completed (or, in fact, any) polls manually at any time using the admin link. When deleting a poll, that poll’s information will be deleted from the Doodle databases. Furthermore, outdated polls are automatically deleted from time to time, but no earlier than 30 days after the last date in the poll, or 30 days after the last access to a poll without dates.
+You can delete outdated or completed (or, in fact, any) polls manually at any time using the admin link. When deleting a poll, that poll’s information will be deleted from the Doodle application databases but may be archived in some other form for internal analytical purposes to improve the product for you. Log data will not be deleted. Furthermore, outdated polls are automatically deleted from time to time, but no earlier than 30 days after the last date in the poll, or 30 days after the last access to a poll without dates.
 
 ### Inactive accounts
 
@@ -88,6 +88,6 @@ Doodle may share personal information with other companies or individuals only i
 
 ### Changes
 
-Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [doodle.com/privacy-policy](https://web.archive.org/privacy-policy).
+Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [doodle.com/privacy-policy](https://web.archive.org/privacy-policy). 
 
-April 8 2015
+September 2 2015
