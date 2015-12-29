@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livebucks.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826102840id_/http%3A//gammae.com/livebucks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebucks.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229094048id_/http%3A//gammae.com/livebucks/privacy.php) for the most accurate reproduction.*
 
 # LiveBucks Affiliate Network program | Privacy
 
