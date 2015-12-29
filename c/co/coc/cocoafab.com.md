@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocoafab.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195614id_/http%3A//cocoafab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocoafab.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229045934id_/http%3A//cocoafab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cocoa Media Group, LLC | CocoaFab
 
@@ -72,7 +72,7 @@ As discussed in the section titled Cookies and Web Beacons, some information is 
 
 You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set.  Please note that you may need to renew these settings if you delete your cookies after these preferences are made.  These settings also may not apply if you are using a different computer or Internet browser. If you use other computers or browsers and want to adjust your cookies settings for interest-based ads on any of those sites, you will need to repeat this process for each computer or browser.
 
-Many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
+Many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://www.networkadvertising.org/optout_nonppii.asp.
 
 If you opt out of these technologies, you will continue to see advertising displayed on our Site(s), but the advertising may not be targeted to your interests.
 
@@ -89,3 +89,5 @@ If you have any questions or concerns about the online privacy statement for thi
 From time to time, we may update this privacy statement. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
 
 The Privacy Statement posted on this site was updated September 2012.
+
+﻿
