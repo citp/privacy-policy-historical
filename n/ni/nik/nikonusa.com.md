@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213102id_/http%3A//www.nikonusa.com/en/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229173307id_/http%3A//www.nikonusa.com/en/about-nikon/privacy-policy.page) for the most accurate reproduction.*
 
 # Nikon Privacy Policy
 
@@ -42,6 +42,7 @@ _Effective November 7, 2013_
 [www.nikonusa.com/digital-brochure/D810](http://www.nikonusa.com/digital-brochure/d810/);  
 [www.nikonusa.com/digital-brochure/D750](http://www.nikonusa.com/digital-brochure/d750/);  
 [nikon360project.com](http://www.nikon360project.com/);  
+[www.fanfocussweeps.com](https://www.fanfocussweeps.com/);  
 (collectively "NIKON Websites"); 
 
 (b) NIKON’s social media properties on Third Party Websites (as defined in Section 6 below), e.g., NIKON’s branded pages on Facebook, Twitter, YouTube, Flickr and/or Vimeo, Google+, Instagram; and
@@ -68,7 +69,7 @@ NIKON does not sell, rent or lease any of your personally identifiable informati
 Information security is important at NIKON, and while no security measure is perfect or impenetrable and we cannot guarantee the security of the information that you provide to us, you can be assured that we maintain physical, electronic and administrative measures and safeguards and periodically review these security measures and safeguards to protect your personally identifiable information from unauthorized or inappropriate access and use.
 
 **8\. Our Commitment To Children's Privacy**   
-Our Communication Points are not directed at children, and we do not knowingly solicit or collect personal information from or about children under the age of thirteen. Should any parent or guardian discover that his/her child has provided personal information to NIKON, please e-mail [webmaster@nikon.net](mailto:webmaster@nikon.net) to have such information deleted from our records. 
+Our Communication Points are not directed at children, and we do not knowingly solicit or collect personal information from or about children under the age of thirteen. Should any parent or guardian discover that his/her child has provided personal information to NIKON, please e-mail [webmaster@nikon.net](mailto:webmaster@nikon.net) to have such information deleted from our records.
 
 **9\. How To Access or Update Your Information  
 **You can access, edit, delete and update any personally identifiable information that you provided to us through the Communication Points by visiting your profile page on [www.nikonusa.com](https://secure.nikonsso.com/). We use this procedure to better safeguard your personally identifiable information. 
@@ -76,14 +77,12 @@ Our Communication Points are not directed at children, and we do not knowingly s
 To protect your privacy and security, we will also take steps to verify your identity before granting you access to edit or update your personally identifiable information.
 
 **10\. Your Privacy Preferences Regarding Personally Identifiable Information-Opting In/Out  
-**NIKON may use your personally identifiable information to send you information about NIKON products, services, promotions, events, firmware or software updates, and service advisories, as well as how to get more enjoyment from your NIKON products and photography, and any other purposes described in this Privacy Policy, unless you inform NIKON that you do not wish to receive such information by contacting us at [Nikon Email Preferences](https://support.nikonusa.com/ci/documents/detail/2/eof) or by opting out at the appropriate Communication Site or by email communication. In addition, in the event you have opted out but in the future desire to receive information from NIKON, you may opt in by contacting us at [Nikon Email Preferences](https://support.nikonusa.com/ci/documents/detail/2/eof). 
+**NIKON may use your personally identifiable information to send you information about NIKON products, services, promotions, events, firmware or software updates, and service advisories, as well as how to get more enjoyment from your NIKON products and photography, and any other purposes described in this Privacy Policy, unless you inform NIKON that you do not wish to receive such information by contacting us at [Nikon Email Preferences](https://support.nikonusa.com/ci/documents/detail/2/eof) or by opting out at the appropriate Communication Site or by email communication. In addition, in the event you have opted out but in the future desire to receive information from NIKON, you may opt in by contacting us at [Nikon Email Preferences](https://support.nikonusa.com/ci/documents/detail/2/eof).
 
 **11\. Changes in Policy**  
 By visiting any of the Communication Points, or otherwise providing NIKON with your information, you consent to our collection and use of your information as set forth in this Privacy Policy. NIKON reserves the right to modify or supplement this Privacy Policy, including our collection and use and related business practices, at any time by posting updated text on our NIKON Websites. Changes to this Privacy Policy are effective at the time they are posted to our NIKON Websites. For this reason, it is your responsibility and NIKON encourages you to review this Privacy Policy each time you visit any of our NIKON Websites.
 
 **12\. How To Contact Us**   
-If you have any questions, comments or concerns with respect to our privacy practices or this Privacy Policy statement, please feel free to contact us at [webmaster@nikon.net](mailto:webmaster@nikon.net).    
+If you have any questions, comments or concerns with respect to our privacy practices or this Privacy Policy statement, please feel free to contact us at [webmaster@nikon.net](mailto:webmaster@nikon.net). 
 
-
-Back to Top  
-
+Back to Top
