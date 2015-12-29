@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630074334id_/http%3A//www.movieweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229215355id_/http%3A//movieweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MovieWeb
 
