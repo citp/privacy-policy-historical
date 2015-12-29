@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net2dish.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903024656id_/http%3A//www.net2dish.com/satellite-internet-access/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net2dish.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229141859id_/http%3A//www.net2dish.com/satellite-internet-access/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy TicoSAT Web site Direcway satellite internet access lowest price guarantee satellite internet access
 
