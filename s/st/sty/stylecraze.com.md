@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421060506id_/http%3A//www.stylecraze.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229221347id_/http%3A//www.stylecraze.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
-“Privacy can be invaded” this statement describes how the personal information collected through our websites or our mobile apps is protected. The terms “we” and “us” refer to STYLECRAZE BEAUTY CARE PVT. LTD. which is part of the Terms of Use, which governs your use of the webistes and mobile apps, and is located here.
+“Privacy can be invaded” this statement describes how the personal information collected through our websites or our mobile apps is protected. The terms “we” and “us” refer to Incnut Digital PVT LTD. which is part of the Terms of Use, which governs your use of the webistes and mobile apps, and is located here.
 
-STYLECRAZE BEAUTY CARE PVT. LTD.
+Incnut Digital PVT LTD.
 
-(»Provider«) values the privacy of those who use our websites or our mobile applications and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with the Stylecraze websites or mobile applications such as when you are using our applications or purchase our products and services, or communicate with our employees and representatives.
+values the privacy of those who use our websites or our mobile applications and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with the Stylecraze websites or mobile applications such as when you are using our applications or purchase our products and services, or communicate with our employees and representatives.
 
 BY INSTALLING, USING OR OTHERWISE ACCESSING STYLECRAZE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY CEASE AND DESIST USE OF THE WEBSITE AND/OR APPLICATIONS. Provider reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued use of Stylecraze will signify your acceptance of the changes to this Privacy Policy.
 
@@ -16,7 +16,7 @@ BY INSTALLING, USING OR OTHERWISE ACCESSING STYLECRAZE, YOU AGREE TO THIS PRIVAC
 
  ** ** You will be asked to provide us certain information related to You (“Personal Information”). Personal Information includes, without limitation: (1) “Contact Data” (such as Your name and email address,); and (2) “Demographic Data” (such as Your gender, birthday, zip code, country, height, weight, lifestyle and exercise frequency). The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile, delivering software updates and special offers as well as provide convenient and personalized user access and improve the features and usability of our products. Registered users can view and change their personal information at any time by entering the website or mobile applications.
 
-Except as otherwise provided in this Privacy Policy, and under the following circumstances, Provider will keep Your Personal Information private, and will not share it with third parties.
+Except as otherwise provided in this Privacy Policy, and under the following circumstances, Provider will keep Your Personal Information private, and will not share it with third parties except when the information is collected for the explicit reason of lead generation for various health, beauty and wellness services wherein the information collected will be shared with authorized partners of IncNut Digital so that these partners can give you personalized offers.
 
 You are under no obligation to provide Personal Information, with the caveat that your refusal to do so may prevent you from using certain of the services. ** **
 
@@ -44,7 +44,7 @@ You can invite your friends to join the websites/apps by providing their contact
 
  ** ** For Websites – We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, requested URL, browser language, referring URL, and the date and time of your visits. We use this type of information to administer the Site and provide the better service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site or to manage or improve the Site.
 
-For Mobile Apps -  We automatically store information related to your use of the apps, such as the screens you view, your mobile type, your OS type, referring apps/URLs, and the date and time of your visits. We use this type of information to administer the apps and provide the better service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the mobile apps or to manage or improve the apps.
+For Mobile Apps –  We automatically store information related to your use of the apps, such as the screens you view, your mobile type, your OS type, referring apps/URLs, and the date and time of your visits. We use this type of information to administer the apps and provide the better service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the mobile apps or to manage or improve the apps.
 
  **Cookies**
 
@@ -125,9 +125,7 @@ We suggest you read the privacy policies on all such third party websites. ** *
 
  **Children’s privacy**
 
-The websites and the mobile apps are intended for general audiences and is not directed to children under 13. Provider does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Provider becomes aware that it has collected personally identifiable information from a child under the age of 13 without parental consent, Provider will take steps to remove such information and terminate the child’s account. If you become aware that your child has provided us with personal information without your consent, please contact us at [sangramsimha@stylecraze.com](mailto:sangramsimha@stylecraze.com). ** **
-
- **Consent to receive email from DietPoint**
+The websites and the mobile apps are intended for general audiences and is not directed to children under 13. Provider does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Provider becomes aware that it has collected personally identifiable information from a child under the age of 13 without parental consent, Provider will take steps to remove such information and terminate the child’s account. If you become aware that your child has provided us with personal information without your consent, please contact us at **sangramsimha@incnut.com**. ** **
 
 By registering with the Website and/or Applications, You thereby consent to receive periodic email communications from Provider regarding the Services, new product offers, promotions and other matters. As part of registration, You may also elect to receive periodic newsletters. You may opt-out of receiving newsletters at any time by (a) following the unsubscribe instructions contained in each newsletter; or (b) changing the email preferences in your account.
 
@@ -143,7 +141,7 @@ Plot #12, HUDA Techno Layout,
 Hi-Tech City, Hyderabad – 500081  
 Telangana, India
 
-or contact us via email at **[sangramsimha@stylecraze.com](mailto:sangramsimha@stylecraze.com)** ** **
+or contact us via email at **sangramsimha@incnut.com**
 
  **MODIFICATIONS TO THIS STATEMENT** **:**
 
