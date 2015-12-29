@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the all-moto-brands.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530010738id_/http%3A//all-moto-brands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-moto-brands.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229074341id_/http%3A//all-moto-brands.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All motorcycle brands.
+# Privacy Policy - All motorcycle brands.
 
 all-moto-brands.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
