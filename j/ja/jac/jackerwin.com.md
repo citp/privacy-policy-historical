@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072617id_/http%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229011944id_/http%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Jack Erwin - Privacy Policy
+# Privacy Policy – Jack Erwin
 
 #### Section 1: What do we do with your information?
 
