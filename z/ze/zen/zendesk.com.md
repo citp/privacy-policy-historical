@@ -1,142 +1,237 @@
-> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2015-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150124153316id_/http%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033037id_/https%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zendesk
 
-Effective as of January 5, 2015. For a prior version of our Privacy Policy, [click here](https://web.archive.org/company/privacy-retro2015).
+See our [Help Center article](https://support.zendesk.com/hc/en-us/articles/212874767) for information on the recent European Court of Justice ruling on Safe Harbor.
 
-At Zendesk, we respect and protect the privacy of visitors to our website, [www.zendesk.com](http://www.zendesk.com/), together with the other websites that Zendesk, Inc. (“Zendesk”) operates (collectively, the “Zendesk Websites”), and our customers who use our on-demand customer service support platform tools and services offered on the Zendesk Websites (together with the Zendesk Websites, the “Service”). This Privacy Policy (“Policy”) explains how we collect and use visitors’ and customers’ information, particularly personal information, as part of the Service.  The information Zendesk collects and uses is limited to the purpose for which our customers engage Zendesk and other purposes expressly described in this Policy.  Any discussion of your use of the Service in this Policy is meant to include your visits and other interactions with the Zendesk Websites, whether or not you are a user of Zendesk’s on-demand customer service support platform. Capitalized terms used in this Privacy Policy and not defined herein shall have the meaning attributed to them in our [Terms of Service](https://www.zendesk.com/company/terms).
+Effective as of October 1, 2015, we have an updated Privacy Policy that applies to both Zendesk and Zopim. For a prior version of Zendesk’s Privacy Policy, click [here](https://web.archive.org/company/zendesk-privacy-retro/). For a prior version of Zopim’s Privacy Policy, click [here](https://web.archive.org/company/zopim-privacy-retro/).
 
-**Privacy Certifications**
+**Intro**
 
-To mark its commitment to privacy, Zendesk has entered into a number of voluntary data privacy programs, including the TRUSTe® Privacy Certification Programs, and the U.S. – EU and the U.S. – Swiss Safe Harbor Frameworks. We have received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website www.zendesk.com and our Service. The use of information collected through our Service shall be limited to the purpose of providing the Service for which you have engaged Zendesk.
+This Privacy Policy (“Policy”) is effective as of October 1, 2015, and explains what information we collect about you and why, what we do with that information, how we share it, and how we handle the personal information created, inputted, submitted, posted, transmitted, stored or displayed by you, your Agents and End-Users when accessing and using our Services. Certain terms that are capitalized in this policy are defined and have the meaning applied in our Terms of Service.
 
-Zendesk has certified compliance with the U.S. – EU and U.S. – Swiss Safe Harbor Frameworks as set forth by the United States Department of Commerce.  Zendesk and the other entities that comprise the Zendesk Group are committed to adherence to the principles set forth in these frameworks regarding the collection, use and retention of personal information from EU member countries and Switzerland as well as related principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Zendesk’s certification, please visit <http://www.export.gov/safeharbor/>. If you have questions or complaints regarding our Policy or practices, please contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com). If you are not satisfied with our response or we do not respond to your query within thirty (30) days, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+For the purposes of this Policy, our “Services” refer to the on-demand customer service solution made available by Zendesk, Inc. (the, “Zendesk Service”) and the hosted online communication service made available by Zopim Technologies Pte Ltd online (the, “Zopim Service”), as more completely described in our [Terms of Service](https://www.zendesk.com/company/terms/). Each Service shall also include Deployed Associated Services.
+
+Click [_here_](https://www.zendesk.com/company/zendesk-privacy-retro/) for a prior version of the Zendesk Privacy Policy and [_here_](https://www.zendesk.com/company/zopim-privacy-retro/) for a prior version of the Zopim Privacy Policy.
+
+If there are any material changes to this Policy, you will be notified by email, through the Service, or by posting a prominent notice on our Websites prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of our Services or Websites constitutes your agreement to be bound by such changes to this Policy. Your only remedy, if you do not accept the terms of this Policy, is to discontinue use of our Service and our Websites.
+
+**Information Covered By This Policy**
+
+We respect and protect the privacy of visitors to our Websites and users of our Services. This Policy explains the what, how and why of the personal information that we collect when you visit our Websites or when you use our Services. 
+
+The personal information collected and used by Zendesk, Inc., and its subsidiaries and affiliates, including its subsidiary Zopim Technologies PTE LTD (collectively, the “Zendesk Group” or “we” or “us” or “our”) is limited to the purpose for which our subscribers engage any member of the Zendesk Group and other purposes expressly described in this Policy. 
+
+_What_ _t_ _his Policy_ _C_ _overs:_
+
+  * The websites that link to this Policy, including: [https://www.zendesk.com](https://www.zendesk.com/); [https://www.zopim.com](https://www.zopim.com/); and <https://www.zendesk.com/apps/> (collectively referred to as “Websites”).
+  * The Zendesk Marketplace, <https://www.zendesk.com/apps/>, which is an online marketplace for on-demand web applications utilized in conjunction with the Services. The Zendesk Group and third parties may post applications to the Zendesk Marketplace. When the Zendesk Group posts an application and the application links to this Policy, this Policy applies. When a third party posts an application, the privacy policy of the third party applies.
+  * The Zendesk Developer Portal, [https://developer.zendesk.com](https://developer.zendesk.com/), which enables Subscribers to create web applications and other integrations with the Zendesk Service platform. 
+  * The Services to which you have subscribed or registered.
+
+
+
+_What_ _Do We M_ _ean by Personal Information?_
+
+In this Policy, personal information means information relating to an identified or identifiable natural person. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Except as described in this Policy, the Zendesk Group will not give, sell, rent or loan any personal information to any third party.
+
+**Personal** **Information** **That You Provide to Us** **or That We Collect**
+
+_Account Information:_ __
+
+When you register for a Service, we ask for personal information such as your name, address, phone number, e-mail address, instant messaging ID, and credit card information, as well as certain related information like your company name and website name. We also collect personal information such as an email address and a name or alias from any individual authorized to use the Service through your Account as an Agent and/or administrator or an End-User that you authorize to log into and utilize the Service in connection with your Account. If you sign-up for a free trial account, you are not required to enter your credit card information unless and until you decide to continue with a paid subscription to the Service. A third-party intermediary is used to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information for any purpose except for credit card processing on our behalf. We refer to any information described above as “Account Information” for purposes of this Policy.
+
+By voluntarily providing us with Account Information, you hereby represent that you are the owner of such personal information or are otherwise authorized to provide it to us. 
+
+_Service Data_ _:_
+
+We collect and store information that is created, inputted, submitted, posted, transmitted, stored or displayed by you, your Agents and End-Users in the process of using our Services. Such information may include personal information or other sensitive information that you, your Agents or End-Users choose to include. We refer to any information described above as “Service Data” for purposes of this Policy. All Service Data is subject to our technical safeguards as more fully subscribed in our Terms of Service.
+
+_Cookies / Tracking Technologies_ ___From Your Use of Our Websites and Service_ _:_ __
+
+Our Services and Websites use cookies for a variety of purposes. These cookies may provide us with information, including personal information, other information about devices and networks you utilize to access our Websites and Services, and information regarding your interactions with and in our Websites and Services. For detailed information about the use of cookies in the Service (including information about how you can control cookies) and Websites, please read and review our Cookie Policy [here](https://www.zendesk.com/company/cookies/).
+
+Web beacons, tags and scripts may be used in our Websites, Services or in emails. These assist us in delivering cookies, counting visits to our Websites, understanding usage and campaign effectiveness and determining whether an email has been opened and acted upon. We may receive reports based on the use of these technologies by our service providers on an individual and aggregated basis.
+
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our Websites or to display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash to collect and store information. For further information on how to manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+
+_Log Files_ _From Your Use of Our_ _Websites and Service_ _s_ _:_ __
+
+As is true with most websites and services, we gather certain information automatically and store it in log files. This information includes internet protocol addresses, browser, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data as well as certain personal information such as user name, user email address and other information that may be included in open textual fields. Our application log files are subject to the same strict data security policies and procedures as apply to the application databases for our Services. We may combine this automatically collected log information with other information we collect about you. We do this to improve the Services that we offer you, to improve marketing, analytics, or Website functionality.
+
+_Analytics Information from_ _Your Use Of_ ___Our_ _Websites and Service_ _:_
+
+We collect analytics information when you use our Websites and Service to help us improve them. 
+
+We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on our Websites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads and you will continue to receive generic ads.
+
+In our Services, analytics information may consist of the feature and function of the Service being used, the associated domain name, the username and IP address of your Agent or End-User (which may include personal information if the personal information was incorporated into the username) and additional information required to detail the operation of the function and which parts of a Service are being affected. The analytics information we collect may include elements of Service Data related to the function the Agent or End-User is performing. As such, the analytics information we collect may include personal information or sensitive business information.
+
+_Communications_ _With Us_ _:_
+
+When you send an email or other communication to us, including support requests for our Services, we may collect the personal information that you provide us and may use it in order to process your inquiries, respond to your requests and improve our Services.
+
+You and your Agents may receive occasional marketing communications regarding our products and services. You can opt-out of receiving marketing communications from us please contact us at privacy@zendesk.com or follow the unsubscribe instructions included in our marketing communications.
+
+_Blogs and_ _Public Forums:_
+
+Our Websites and Services offer publicly accessible blogs or community forums. You should be aware that any information provided in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+The blog related to our Zopim Service is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to this blog. You will need to contact or login into the third party application if you want your personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their [privacy statement](http://automattic.com/privacy/).
+
+_Subscriber_ _Testimonials/Comments/Reviews/Feedback_ _:_
+
+From time to time, we post subscriber testimonials on our Websites that may contain personal information. We obtain the subscriber’s consent to post their names along with their testimonials. If subscribers wish to update or delete their testimonial, they can contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com).
+
+_Benchmark_ _ing_ __
+
+We regularly aggregate information related to the use of the Services and publish this information, as segmented by industry, geography and other metrics to provide qualitative insight on customer support metrics and other relevant insights through the Zendesk Benchmark. You have the choice whether to participate by enabling this benchmarking from within the settings in the Services. If you do not want to participate then you should not enable the benchmarking. At any time, you can change the settings in the Services so that benchmarking is not enabled.
+
+_Referrals_ _:_
+
+If you choose to use our referral service to tell a friend about our Services, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to visit the Website and will store this information for sending this initial email, the tracking the success of our referral program and other marketing activities. Your friend may contact us at privacy@zendesk.com to request that we remove his/her information from our database.
+
+_Other S_ _ubmissions_ _:_
+
+We collect other information, including personal information, that you submit to our Websites or as you participate in certain interactive features of our Services, participate in a survey, contest, promotion, sweepstakes, activity or event, apply for a job, request customer support, communicate with us via third party social media sites or otherwise communicate with us. Any information, including personal information that you submit through our Websites could be visible to the public unless submitted to a secure area in the Websites.
+
+_Social Media Widgets:_
+
+Our Websites include Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our Websites. These Features may collect your Internet protocol address, which page you are visiting on our Websites, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy statement of the company providing it.
+
+_Personal_ ___Information From Third Party Services_ _:_
+
+We also obtain other information, including personal information, from third parties and combine that with information we collect through our Websites and Services. For example, we may have access to certain information from a third party social media or authentication service if you log into our Services through the service or otherwise provide us with access to information from the service. Any access that we may have to such information from a third party social or authentication service is in accordance with the authorization procedures determined by that service. By authorizing us to connect with a third party service, you authorize us to access and store your name, email address(es), current city, profile picture URL, and other personal information that the third party service makes available to us, and to use and disclose it in accordance with this Policy. You should check your privacy settings on these third party services to understand and change the information sent to us through these services. For example, you can log in to our Websites and Service using sign-in services such as Facebook Connect or an Open ID provider. These third-party services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Facebook Connect (and other similar services) give you the option to post information about your activities on our Websites to your profile page to share with others within your network.
+
+_Single Sign-On:_
+
+You can log into the Zendesk Service using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Zendesk Service to your profile page to share with others within your network.
+
+**Other Information That You Provide Us or We Collect**
+
+In addition to personal information, we collect data and other information from visitors to our Websites and the users of our Services. This includes, among other things, anonymized information or aggregated data that the Zendesk Group may collect about a group or category of Services, features or users while you visit our Website or access the Services. We define this information as Usage Data. Usage Data helps us understand trends in usage of the Services so that we can better consider new features or otherwise tailor our Services. In addition to collecting and using Usage Data ourselves, the Zendesk Group may share Usage Data with third parties, including our subscribers, partners and service providers, for various purposes, including to help us better understand our subscribers’ needs and improve our Services as well as for advertising and marketing purposes. We may also publish Usage Data to provide relevant information about and to market the Services. 
+
+**How We** **Use** **Personal** **Information**
+
+_General Uses:_
+
+We use the personal information that we collect for a variety of purposes including to:
+
+  * Provide, operate, maintain, analyze, improve and promote our Services and tailor our Services to our subscribers’ needs;
+  * Enable you and your Agents and End Users to access and use our Services;
+  * Process and complete transactions, and send you related information, including purchase confirmations and invoices;
+  * Communicate with you, including responding to your comments, questions, and requests; providing customer service and support; 
+  * Provide you with information about services, features, surveys, newsletters, offers, promotions, contests and events; 
+  * Provide other news or information about us and our select partners; and sending you technical notices, updates, security alerts, and support and administrative messages;
+  * Monitor and analyze trends, usage, and activities in connection with our Services and for marketing or advertising purposes;
+  * Investigate and prevent fraudulent transactions, unauthorized access to our Services, and other illegal activities; and
+  * For other purposes about which we notify you.
+
+
+
+_Analysis of our Websites and Services_ _:_
+
+As indicated above, we use the information we collect (including log and configuration data) to understand how our Websites and Services are being configured and used, how they can be improved, and to develop new services, features and functionality. 
+
+**Sharing Personal Information**
+
+_Third-party service providers:_
+
+We share information, including personal information, with our third-party service providers (such as credit card processors, managed hosting providers, sub-processors of Service Data, and technology partners)) to provide the necessary hardware, software, networking, storage, and other services that we use to operate our Services and maintain a high quality user experience. We do not permit our service providers to use the personal information that we share with them for their marketing purposes or for any other purpose than in connection with the services they provide to us.
+
+_Other Services_ : 
+
+You may choose to make use of Other Services in conjunction with our Services. Other Services are third party products, applications, services, software, products, networks, systems, directories, websites, databases and information which our Service links to, or which You may connect to or enable in conjunction with the Services, including, without limitation, Other Services which may be integrated directly into your Account to which you grant access privileges to your Account. When access is granted, certain information in your Account is shared with the third party, including personal information. The Zendesk Group does not control the policies and procedures of these Other Services even though the Other Services may be available through our Service. This Policy does not cover the collection or use of information, including personal information, by Other Services, and we urge you to consider the privacy policies governing these Other Services.
+
+_Compliance with Laws and Law Enforcement Requests; Protection of Our Rights:_ __
+
+We disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+
+_Zendesk Group Sharing:_
+
+We may share information, including personal information, with any member of the Zendesk Group for the purposes stated in this Policy.
+
+_Consent:_
+
+We may share your personal information with third parties when we have your consent to do so.
+
+**Choice** **s**
+
+If you are a subscriber to the Services or authorized as an Agent under a subscriber’s account to the Services and would like to opt-out of getting marketing communications from us please contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com) or follow the unsubscribe instructions included in each marketing email. 
+
+We process and store Service Data on behalf of our subscribers. We have no direct relationship with the individuals with whom our subscribers may interact using the Services. If you are an individual interacting with a subscriber of our Service and would no longer like to be contacted by that subscriber, please contact that subscriber directly. 
+
+**Accessing** **and Updating Your Information**
+
+Subscribers may access, update or change Account Information they have provided by logging into the Service and providing such additional information where applicable. If you are a subscriber and would like to gain access to, or request deletion of information that the Zendesk Group has collected as “data controllers,” please contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com). We will respond to such queries within thirty (30) business days.
+
+Individuals seeking access to, or who would like to correct, amend, or delete Service Data should direct their queries to the applicable subscriber of the Service acting as the “data controller” for such information. If requested to remove individual’s data by our subscribers, we will respond within thirty (30) business days. Technical limitations may restrict or eliminate our ability to remove or delete certain Service Data from all systems.
+
+**English Version Controls**
+
+Non-English translations of this Policy are provided for convenience only. In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
+
+**Compliance** **and Safeguar** **ding Your Information**
 
 [](https://privacy.truste.com/privacy-seal/Zendesk,-Inc-/validation?rid=1047cf62-1ba0-48ce-aa09-4adf72432822 "TRUSTe European Safe Harbor certification")
 
-**What do we mean by Personal Information?**
+**TRUSTe.** To view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe certification covers our collection, use and disclosure of information we collect through our Websites: [www.zendesk.com](https://www.zendesk.com/) and [www.zopim.com](http://www.zopim.com/) and our Services. The use of information collected through our Services shall be limited to the purpose of providing the Services for which the subscriber has engaged us or as otherwise disclosed in this Policy.
 
-In this Policy, personal information means information or an information set that identifies or could be used by or on behalf of Zendesk to identify an individual and includes Personal Data as such term is defined in our Terms of Service. Except as described in this Policy, Zendesk will not give, sell, rent or loan any personal information to any third party.
+[We self-certify compliance with:](https://safeharbor.export.gov//list.aspx)
 
-Personal information does not include Usage Data which we define as encoded or anonymized information or aggregated data that we may collect about a group or category of services, features or users which does not contain personally identifying information. Usage Data helps us understand trends in usage of the Service so that we can better consider new features or otherwise tailor the Service. In addition to collecting and using Usage Data ourselves, we may share Usage Data with third parties, including our customers, partners and service providers, for various purposes, including to help us better understand our customers’ needs and improve the Service as well as for advertising and marketing purposes.  We do not share Usage Data with third parties in a way that would enable them to identify you personally.
+[](http://www.export.gov/safeharbor/)
 
-**How Do We Collect, Use and Share Your Personal Information and Other Information?**
+**European Safe Harbors.**
 
-_Information You Provide to Us_
+We provide our Services to subscribers located within the European Economic Area ("EEA") and Switzerland and, in so doing, process their Service Data, which may include personal information. We process Service Data in accordance with our subscribers’ instructions; and, we only access this information where reasonably necessary to provide our Services (for example, to respond to support requests), as authorized by our subscribers, as disclosed in this Policy, or where we believe necessary for compliance with law. In legal terms, this means we are a data "processor" with respect to Service Data and our EEA and Swiss subscribers are the data “controllers”. As the data controllers, our subscribers are responsible for complying with applicable EEA and Swiss data protection laws and must assist their customers and End-Users to exercise their data protection rights. As a data processor, we process this information in accordance with our subscribers’ instructions and have implemented security measures to protect against unauthorized and unlawful processing. Zendesk, Inc. complies with the [U.S.-EU and US-Swiss Safe Harbor Frameworks](http://www.export.gov/safeharbor/) developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries and Switzerland. We have certified, and TRUSTe has verified, that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. View our certification on the U.S. Department of Commerce’s [Safe Harbor website](https://safeharbor.export.gov/list.aspx).
 
-When you register for the Service, we ask for personal information such as your name, address, phone number, e-mail address and credit card information, as well as certain related information like your company name and website name.  We also collect personal information such as an email address and a name or alias of any Agents or End-Users you authorize to log into and utilize the Service in connection with your Account and a password from these Agents when they first access the Service.  If you sign-up for a free trial account, you are not required to enter your credit card information unless and until you decide to continue with a paid subscription to the Service.  A third-party intermediary is used to manage credit card processing.  This intermediary is not permitted to store, retain, or use your billing information for any purpose except for credit card processing on Zendesk’s behalf.
-
-Zendesk may use the personal information provided to operate the Service and tailor its customers’ needs, for billing, identification and authentication, to contact and communicate with you and your Agents about the Service and your and their use of the Service, send marketing materials (subject to your opt-out option), for research purposes, and to generally improve the content and functionality of the Service.
-
-Zendesk may also share personal information with its third-party service providers (such as its credit card processors and hosting partners) to provide the necessary hardware, software, networking, storage, and other services we use to operate the Service and maintain a high quality user experience. We do not permit our service providers to use the personal information that we share with them for their marketing purposes.
-
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Zendesk.
-
-_Log Files_
-
-As is true with most websites, Zendesk gathers certain information automatically and stores it in log files. This information includes internet protocol addresses browser, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data as well as certain personal information such as user name, user email address and other information that may be included in open textual fields. We generally use this information as we would Usage Data to analyze trends, administer and maintain the Service, or track activity within the Service. Our application log files are subject to the same strict data security policies and procedures as the application databases for our Service.
-
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
-
-_Cookies / Tracking Technologies_
-
-Technologies such as cookies, beacons, tags and scripts are used by Zendesk and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to keep an Agent or End-User logged into the Service and to remember relevant information when the Agent or End-User returns to the Service, to understand their preferences and improve their user experience, and track and analyze usage, navigational and other statistical information from visitors to the Zendesk Websites _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-You can generally accept or decline the use of cookies through a functionality built into your web browser.  To learn more how to control cookie settings through your browser:
-
-Click [here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about the “Private Browsing” setting and cookie setting in FireFox;
-
-Click [here](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) to learn more about “Incognito” and cookie setting in Chrome;
-
-Click [here](http://support.microsoft.com/kb/196955) to learn more about “InPrivate” and cookie setting in Internet Explorer; or
-
-Click [here](http://support.apple.com/kb/PH5000) to learn more about “Private Browsing” and cookie setting in Safari.
-
-If you want to learn more about cookies, or how to control or delete them, please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance. In addition, certain third party advertising networks, including Google, permit users to opt out of or customize preferences associated with your internet browsing.  To learn more about this feature from Google, click [here](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCjXTtGfXQdQk5AcU7L85tIzVSqvch_gmK_m5U07Bmx2UsZJEJQkW-d0b8jTKGLhDUUeCrIWASxSkiM1qfHdsShzcuNJCnbOzu1WqA89NKTk9ep07Gj8S2CXPkcjpfSUgTfvZGBshLICLUbp8J4auUvXXKD7eTt-VhbFrYUNgvM_Tp0K0bYLTIpLpICQOHkcCmOIeY93s0W5yuZ1XxESwVyaBrm28A).
-
-Many jurisdictions require or recommend that website operators inform users as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.  If you are a customer of Zendesk, it is your responsibility to inform the individuals with whom you interact using the Service, including your Agents and End- Users as to the types of cookies utilized in the Service and, as necessary, to obtain their consent.  You can find our more about each cookie by viewing our current cookie list.  In addition, if you require more specific information as to the nature of the cookies utilized in the Service for purposes of fulfilling these obligations, please contact us by email at [privacy@zendesk.com](mailto:privacy@zendesk.com).
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-
-_Other Information Sharing_
-
-In addition to the purposes described above, we disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
-
-We may share information, including personal information with any member of the Zendesk Group for the purposes stated herein.
-
-_Links to Other Websites_
-
-The Service contains links to websites and applications other than the Service, including websites and applications operated by affiliates and other third parties (“Third Party”). If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to read the privacy statements of Third Party websites and applications linked to the Service when you leave the service. This Policy applies only to information collected by the Service.
-
-_Public Forums_
-
-The Service (including the Zendesk Websites) offers publicly-accessible blogs or community forums.  You should be aware that any information provided in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-_Single Sign-On_
-
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-_Social Media Widgets_
-
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-**Customer Testimonials/Comments/Reviews/Feedback**
-
-From time to time, we post customer testimonials on the Zendesk Websites that may contain personal information. We obtain the customers’ consent to post their names along with their testimonials. If customers wish to update or delete your testimonial, they can contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com).
+If you have questions or complaints regarding our Policy or practices, please contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com). If you are not satisfied with our response or we do not respond to your query within thirty (30) days, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Protection of Information**
 
-Zendesk is committed to ensuring the security of your personal information. We utilize robust precautions to protect the confidentiality and security of the personal information within the Service, by employing technological, physical and administrative security safeguards, such as firewalls and carefully developed security procedures. For example, when you enter confidential information (such as login credentials or information submitted from within the Service) we encrypt the transmission of that information using secure socket layer technology (SSL). These technologies, procedures and other measures are used in an effort to ensure that your data is safe, secure, and only available to you and to those you authorized to access your data. However, no internet, e-mail or other electronic transmission is ever fully secure or error free, so you should take care in deciding what information you send to us in this way.
+We are committed to ensuring the security of your personal information. We utilize robust precautions to protect the confidentiality and security of the personal information within our Service, by employing technological, physical and administrative security safeguards, such as firewalls and carefully developed security procedures. For example, when you enter confidential information (such as login credentials or information submitted from within the Service). We encrypt the transmission of that information using secure socket layer technology (SSL). These technologies, procedures and other measures are used in an effort to ensure that your Service Data is safe, secure, and only available to you and to those you authorized to access your Service Data. However, no internet, e-mail or other electronic transmission is ever fully secure or error free, so you should take care in deciding what information you send to us in this way.
 
-**Safe Harbor Data Privacy Notice**
+**Data** **Hosting** **,** **Transfer** **,** ******and Retention**
 
-Zendesk has certified compliance with the U.S. – EU and U.S. – Swiss Safe Harbor Frameworks for protecting the privacy of data flowing from the European Economic Area (EEA) or Switzerland to the United States, as set forth by the US Department of Commerce. Zendesk and the other entities that comprise the Zendesk Group are committed to adherence to the principles set forth in these frameworks regarding the collection, use and retention of personal information from EU member countries and Switzerland as well as related principles of notice, choice, onward transfer, security, data integrity, access and enforcement.
+Unless we expressly agree otherwise, the Zendesk Group may host and process Service Data, including personal information, in the United States and in other countries through the Zendesk Group and third parties that we use to operate and manage our Service. Whenever we process personal information outside of the European Economic Area on behalf of our subscribers located in the EEA or Switzerland, we will continue to afford it adequate protection in accordance with the requirements of the European Data Protection Directive 95/46/EC.
 
-We frequently enter agreements with our customers located in the EEA to provide them access to our Service, which includes the processing of information relating their customers. In providing our Service, we do not own, control or direct the use of the information stored or processed on our platform at the direction of our customers, and in fact we are largely unaware of what information is being stored on our platform and only access such information as reasonably necessary to provide the Service (including to respond to support requests), as otherwise authorized by our customers or as required by law. We are the data processors and not the data controllers of the information on our platform for purposes of the EU Directive on Data Protection (Directive) and the Swiss Federal Act on Data Protection. Our EEA or Switzerland based customers, who control their customer data and send it to Zendesk for processing, are the “controllers” of that data and are responsible for compliance with the Directive. In particular, Zendesk’s customers are responsible for complying with the Directive and relevant data protection legislation in the relevant EEA member state before sending personal information to Zendesk for processing. We work with our customers to help them provide notice to their customers concerning the purpose for which personal information is collected.
-
-As the processors of personal information on behalf of our customers, we follow their instructions with respect to the information they control to the extent consistent with the functionality of our Service. In doing so, we implement technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information as more fully described above under the section above entitled, “Protection of Information”.
-
-**Hosting and Data Transfer**
-
-Unless we expressly agree otherwise (including through our Terms of Service), we may host and process data, including personal information, in the United States and in other countries through the Zendesk Group and third parties that we use to operate and manage the Service. When you access or use the Service, or otherwise provide information to us, you are consenting, on behalf of you and your authorized Agents or End-Users, (and representing that you have the authority to provide such consent) to the processing and transfer of information in and to the United States and other countries which may have different privacy laws from your or their country of residence.
-
-**Choice**
-
-We process and store information on behalf of our customers.  Zendesk has no direct relationship with the individuals with whom our customers may interact using the Service.  If you are an individual interacting with a customer of the Service and would no longer like to be contacted by that customer, please contact that customer directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the Terms of Service with our customers.
-
-If you are a Zendesk customer and would like to opt-out of getting marketing communications from Zendesk please contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com) or follow the unsubscribe instructions included in each marketing email. Requests to opt-out of transfers to our third-party vendors may also be submitted, but limitations on data sharing may make it difficult or impossible to provide the Service in this manner.
-
-**Correcting and Updating Your Information**
-
-Customers may update or change the personal information they have provided Zendesk by logging into the Service and providing such additional information where applicable.  If you are our customer and would like to gain access to, or request deletion of information we have collected as “data controllers,” please contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com).  We will respond to such queries within thirty (30) business days.
-
-Individuals seeking access to, or who would like to correct, amend, or delete data which may be stored in the Service should direct his query to the applicable Zendesk customer acting as the “data controller” for such information. If requested to remove individual’s data by our customer, we will respond within thirty (30) days.
-
-**Data Retention**
-
-Zendesk will retain personal information we process on behalf of our customers or collect directly from our customers for as long as needed to provide Service to our customers, subject to our compliance with this Policy.  We may further retain and use this personal information as necessary to comply with our legal obligations, maintain accurate accounting, financial and other operational records, resolve disputes, and enforce our agreements.  We have established internal policies for the deletion of data from customer accounts following termination of a customer’s subscription to the Service.
+We will retain Service Data that is processed on behalf of our subscribers in accordance with the instructions received from our subscribers for as long as needed to provide our Services to our subscribers, subject to compliance with this Policy. We may retain and use other personal information, including personal information we collect as a “data controller,” as necessary to comply with our legal obligations, maintain accurate accounting, financial and other operational records, resolve disputes, and enforce our agreements as described above. Our policy for the deletion of Service Data following termination or cancellation of a subscriber’s subscription to the Service can be found [here](https://support.zendesk.com/hc/en-us/articles/205190758-Data-retention-and-deletion-for-closed-accounts) or obtained by request to [privacy@zendesk.com](mailto:privacy@zendesk.com).
 
 **Children’s Personal Information**
 
-Zendesk does not knowingly collect any personal information from children under the age of 13.  If you are under the age of 13, please do not submit any personal information through our Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Policy by instructing their children never to provide personal information through our Service without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to Zendesk through our Service, please contact us, and we will use commercially reasonable efforts to delete that information.
-
-**Changes to the Privacy Policy**
-
-If we make any material changes to this Policy, we will notify you by email, through the Service, or by posting a prominent notice on the Zendesk Websites prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.  Your continued use of the Service constitutes your agreement to be bound by such changes to this Policy.  Your only remedy, if you do not accept the terms of this Policy, is to discontinue use of the Service.
+The Zendesk Group does not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through our Services without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us through our Services, please contact us, and we will use commercially reasonable efforts to delete that information. Subscribers are responsible for establishing policies for and compliance with applicable laws for the collection of personal information in connection with the use of our Services.
 
 **Business Transactions**
 
-Zendesk may assign or transfer this Policy, and your user account and related information and data, including any personal information, to any person or entity that acquires all or substantially all of the business, stock or assets of, or is merged with, Zendesk.
+The Zendesk Group may assign or transfer this Policy, and your Account and related information and data, including any personal information, to any person or entity that acquires all of our or substantially all of our business, stock or assets of, or with whom we merge.
 
 **Contact Us**
 
-If you have questions regarding this Policy or about the privacy practices of Zendesk, please contact us by email at [privacy@zendesk.com](mailto:privacy@zendesk.com), or at:
+If you have questions regarding this Policy or about the privacy practices of the Zendesk Group, please contact us by email at [privacy@zendesk.com](mailto:privacy@zendesk.com), or at:
 
 Zendesk, Inc.  
 Attn: Privacy Officer  
 1019 Market Street  
 San Francisco, CA 94103
+
+**Additional information for Japanese users** **:**
+
+You agree that you are responsible for notifying your customers using our Services about how the Zendesk Group may use your customers’ personal information as described in this Policy and obtaining prior consent from your customers to disclose their personal information to us.
+
+**Additional information for Brazilian users** **:**
+
+The personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, are collected, stored, used and/or processed in accordance with Brazilian Law No. 12,965/2014. By using our Services you expressly consent to the collection, use, storage and processing of your personal information by us as described.
+
+**Additional information for Australian users** **:**
+
+The personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, are collected, stored, used and/or processed in compliance with the Australian Privacy Act 1988 (Commonwealth) and the Australia Privacy Principles as we further detail here: [https://www.zendesk.com/company/anz-privacy](https://www.zendesk.com/company/anz-privacy/). 
+
+If you are dissatisfied with our handling of your complaint or do not agree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (OAIC) by contacting the OAIC using the methods listed on their website at [http://www.oaic.gov.au](http://www.oaic.gov.au/). Alternatively, you may request that we pass on the details of your complaint to the OAIC directly.
+
+**Additional information for** **New Zealand** **users** **:**
+
+The personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, are collected, stored, used and/or processed in compliance with the New Zealand’s Privacy Act (1993) and its 12 Information Privacy Principles (NZ IPPs) as we further detail here: [https://www.zendesk.com/company/anz-privacy](https://www.zendesk.com/company/anz-privacy/). 
+
+**Additional information for** **Singapore** **users** **:**
+
+The personal information collected, stored, used and/or processed by the Zendesk Group, as described in this Policy, is collected, stored, used and/or processed in compliance with the Zendesk Group’s obligations under the Personal Data Protection Act 2012 of Singapore (“PDPA”) as we further detail [here](https://www.zendesk.com/company/singapore-pdpa/). 
