@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217000320id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229084359id_/https%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge Privacy Policy
 
@@ -57,7 +57,7 @@ Your agreement to participate on this panel includes your agreement that we may 
 
 Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
 
-Our application will review the content of all web pages you visit and select e-mail header information from web based emails. We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages. In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. We will keep the information that our software collects for as long as there is a business need, and we will then dispose of it.
+Our application will review the content of all web pages you visit and select e-mail header information from web based emails. We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages. In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. We will keep the information that our software collects for 5 years or as long as there is a business need, and we will then dispose of it.
 
 How is the information collected? 
 
@@ -81,11 +81,11 @@ How is the collected information used?
   
 
 
-Market Research Reports: Applying concepts similar to those used by television-rating services, we use the information collected through our application and your survey responses, combined with information from other sources, to make statistically-based projections about current and future Internet user behavior and, more generally, to extrapolate data about potential economic trends. For certain commercial customers, we may provide individual-level information. We make this data available so that these customers may enhance their own understanding of Internet usage and online commercial trends. In all cases, we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers from the data being provided. 
+Market Research Reports: Applying concepts similar to those used by television-rating services, we use the information collected through our application and your survey responses, combined with information from other sources, to make statistically-based projections about current and future Internet user behavior and, more generally, to extrapolate data about potential economic trends. For certain commercial customers, we may provide individual-level information. We make this data available so that these customers may enhance their own understanding of Internet usage and online commercial trends. In all cases when providing these market research reports, we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers from the data being provided. 
 
 Our customers use our market research reports to: (i) modify online services and offerings; (ii) make more effective use of online data to understand both online and offline commercial behavior; and (iii) discern general economic trends and the business performance of specific entities for a wide range of business purposes including, but not limited to, identifying financial investment opportunities and understanding the value and interest in certain business enterprises.
 
-By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). When we do this, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it. 
+By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). We may also share information with Service Providers who help us enhance our data, such as providing additional demographic information. In either of these cases, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it. 
 
 As Required by Law: In rare cases, and as is done by any other business, if we are compelled to disclose certain information through a valid legal process, such as a court order, subpoena, or a search warrant, we would do so. However, we would comply by providing only the minimum information necessary. 
 
@@ -187,7 +187,7 @@ What are the other legal terms and conditions of participating in this program?
   
 
 
-Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement. 
+Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. **You acknowledge that you, TMRG and comScore agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding.** The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement. 
 
 Notwithstanding the above, we may apply to any court of competent jurisdiction for a temporary restraining order or other interim relief, as necessary without breach of this agreement and without abridgment of the powers of the arbitrator.
 
@@ -219,7 +219,7 @@ ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponso
 
 RelevantKnowledge does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <http://www.scorecardresearch.com/preferences.aspx>
 
-This Agreement is effective as of June 29, 2014.
+This Agreement is effective as of April 28, 2015.
 
 Whom can I contact if I have additional questions? 
 
@@ -237,4 +237,4 @@ USA
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1420
+LP 1515
