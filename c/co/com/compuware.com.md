@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428045332id_/http%3A//www.compuware.com/en_us/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229120004id_/http%3A//www.compuware.com/en_us/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Compuware Mainframe Solutions
+# Privacy Statement | Compuware
 
 **Compuware’s Commitment to Privacy**
 
@@ -67,7 +67,7 @@ You have the option of setting your browser to reject cookies. In most cases, if
 
 ### Opt-Out
 
-Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit www.compuware.com/unsubscribe or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
+Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
 
 ### Links to Other Websites
 
@@ -81,7 +81,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 
 ### European Union Safe Harbor Certification
 
-Compuware complies with the U.S. – EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
+Compuware complies with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
 
 ### Public Forums
 
@@ -172,7 +172,7 @@ You have the option of setting your browser to reject cookies. In most cases, if
 
 ### Opt-Out
 
-Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit www.compuware.com/unsubscribe or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
+Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel.
 
 ### Links to Other Websites
 
@@ -186,7 +186,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 
 ### European Union Safe Harbor Certification
 
-Compuware complies with the U.S. – EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
+Compuware complies with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
 
 ### Public Forums
 
