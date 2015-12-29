@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerprofessor.works privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321023424id_/http%3A//www.careerprofessor.works/%3Fpage_id%3D97%23access) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerprofessor.works privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229134527id_/http%3A//www.careerprofessor.works/%3Fpage_id%3D97%23access) for the most accurate reproduction.*
 
 # Privacy Policy | CareerProfessor.works
 
@@ -33,7 +33,7 @@ CareerProfessor collects data via webforms, surveys and the registration process
 
 CareerProfessor uses browser-IP-address information and anonymous-browser history to report information about site accesses and for profiling purposes. This information is used to improve web presentation and utilisation. IP address information may also be used for troubleshooting purposes.  
   
-CareerProfessor makes use of geolocation data to be able to provide users with information on their peers. You will be provided with a notice asking your permission before we ask for geolocation data.  
+CareerProfessor makes use of geolocation data to be able to provide users with information on their peers.  You will be provided with a notice asking your permission before we ask for geolocation data.  
 CareerProfessor may make use of “cookies” to gather additional information relating to internet usage. You are able to decline the cookies by changing the “accept cookies” setting on your web browser but please be aware that this will affect the functionality of CareerProfessor.  
 
 
