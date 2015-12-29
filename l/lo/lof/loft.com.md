@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loft.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201056id_/http%3A//www.loft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loft.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229173953id_/http%3A//www.loft.com/privacy) for the most accurate reproduction.*
 
 # Privacy: LOFT
 
@@ -109,7 +109,7 @@ We may enable users to submit their own content for blogs, customer reviews, dis
 
 If you want to change or review the information that we make available about you in your account profile, simply sign on to [www.anntaylor.com](http://www.anntaylor.com/) or [www.LOFT.com](http://www.loft.com/) and click on "My Account" on the navigation bar. You will then be able to change information stored in your account profile. Be sure to click "Save" when you complete your changes.
 
-You can also change or access this information by contacting our brands. For contact information, [click here](https://web.archive.org/web/20150623201056id_/http%3A//www.loft.com/FAQ16). Please be sure to include or have ready your full name, address, phone number and e-mail address.
+You can also change or access this information by contacting our brands. For contact information, [click here](https://web.archive.org/web/20151229173953id_/http%3A//www.loft.com/FAQ16). Please be sure to include or have ready your full name, address, phone number and e-mail address.
 
 **How do I unsubscribe or opt out?**
 
@@ -143,9 +143,22 @@ If you prefer not to receive marketing or promotional information from LOFT, ple
 
 You may also click the unsubscribe link found at the bottom of all LOFT marketing emails to be removed from future email marketing.
 
+LOU & GREY
+
+If you prefer not to receive marketing or promotional information from LOU & GREY, please contact us at 1-844-214-3434, [clientservices@LOUANDGREY.com](mailto:clientservices@LOUANDGREY.com?Subject=ATTNSeniorDirector) or LOU & GREY Client Services, ATTN: Senior Director, Client Contact 4079 Executive Parkway, 3rd Floor, Westerville, Ohio 43081. Please be sure to include your full name, email address, telephone number, mailing address and, specifically, what information you do not want to receive and from which brand, LOU & GREY or LOFT. For example: 
+
+  * "I prefer not to receive email marketing."
+  * "I prefer not to receive direct mail marketing."
+  * "I prefer not to receive telephone marketing calls."
+  * "I prefer not to receive mobile marketing messages."
+
+
+
+You may also click the unsubscribe link found at the bottom of all LOU & GREY marketing emails to be removed from future email marketing for the relevant brand. 
+
 **Sharing with advertising member networks or select companies**
 
-From time to time, we may share your information with members of advertising networks or select companies whose products or services may be of interest to you. These entities may have their own privacy policy in place to govern their treatment of your information. If you do not wish to have Ann Taylor or LOFT share your information with advertising member networks or select companies for their marketing purposes, you may:
+From time to time, we may share your information with members of advertising networks or select companies whose products or services may be of interest to you. These entities may have their own privacy policy in place to govern their treatment of your information. If you do not wish to have Ann Taylor, LOFT or LOU & GREY share your information with advertising member networks or select companies for their marketing purposes, you may:
 
   * email customer service at [clientservices@anntaylor.com](mailto:clientservices@anntaylor.com) or [clientservices@LOFT.com](mailto:clientservices@loft.com) with the phrase "no advertising member network or select company sharing" in the subject line; or
   * contact customer service by regular mail or by phone as described above.
@@ -156,7 +169,7 @@ Please be sure to include your full name, email address, telephone number and ma
 
 **What are cookies? Do the Sites use cookies or other technologies?**
 
-**Cookies.** Cookies are a browser feature that assign a unique identification to your computer or mobile device. Cookies are typically stored on your mobile device or computer's hard drive and are used by our Sites to help us recognize your browser as a previous visitor, personalize your shopping experience and save and remember any preferences or other actions that may have been set while your browser was visiting our Sites. For example, if you place items in your online shopping cart, we may use cookies to keep those items in your cart for your future access. We may also use cookies to recognize you when you return to our Sites, provide you with access to your account information, and understand your use of our Sites so we can improve the features of our Sites and tailor communications to you. We may also use a cookie to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Our cookies do not contain your name, address or any financial information.
+**Cookies.** Cookies are a browser feature that assign a unique identification to your computer or mobile device. Cookies are typically stored on your mobile device or computer's hard drive and are used by our Sites to help us recognize your browser as a previous visitor, personalize your shopping experience and save and remember any preferences or other actions that may have been set while your browser was visiting our Sites. For example, if you place items in your online shopping cart, we may use cookies to keep those items in your cart for your future access. We may also use technologies, such as cookies, to provide you with a more personalized online display advertising tailored to your interests. To opt out of Ann Taylor cookies used for this online advertising, click here.
 
 You can refuse cookies by turning them off in your Internet or mobile browser. In order to disable cookies, please consult your browser's help section for instructions. If you turn off cookies, however, you may not be able to use some of the features of our Sites, and you will not be able to purchase from our Sites, as we will not be able to track your online order. You may still place an order by calling us at 1-800-DIAL-ANN or 1-888-LOFT-444.
 
@@ -339,7 +352,7 @@ You can request that we "delete" your personal information from your account pro
 
 At various points on our Sites and during your shopping experience at our physical stores, you have the option to join our email lists and receive information about our products, services and offers. Also, if you provide us with your email address when you register online, update your account, log in, place an order, make a customer service inquiry, choose to receive our emails, request a catalog, participate in a sweepstakes, contest, promotion or survey, or apply for an ANN-branded credit card, you may automatically be added to our email list and receive marketing or promotional information from us.
 
-You can use the procedures described below to opt out of Ann Taylor marketing, LOFT marketing or sharing with advertising member networks or select companies. Your opt-out request may take up to 10 days to process, and you may receive communications from us in the meantime. Please note that if you make subsequent purchases from our Sites, we will confirm your order by e-mail, and we may need to contact you by phone, e-mail, or postal mail with other questions regarding your order.
+You can use the procedures described below to opt out of Ann Taylor marketing, LOFT marketing, LOU & GREY marketing or sharing with advertising member networks or select companies. Your opt-out request may take up to 10 days to process, and you may receive communications from us in the meantime. Please note that if you make subsequent purchases from our Sites, we will confirm your order by e-mail, and we may need to contact you by phone, e-mail, or postal mail with other questions regarding your order.
 
 **_Ann Taylor_**
 
@@ -367,11 +380,24 @@ If you prefer not to receive marketing or promotional information from LOFT, ple
 
 You may also click the unsubscribe link found at the bottom of all LOFT marketing emails to be removed from future email marketing.
 
+LOU & GREY
+
+If you prefer not to receive marketing or promotional information from LOU & GREY, please contact us at 1-844-214-3434, [clientservices@LOUANDGREY.com](mailto:clientservices@LOUANDGREY.com?Subject=ATTNSeniorDirector) or LOU & GREY Client Services, ATTN: Senior Director, Client Contact 4079 Executive Parkway, 3rd Floor, Westerville, Ohio 43081. Please be sure to include your full name, email address, telephone number, mailing address and, specifically, what information you do not want to receive and from which brand, LOU & GREY or LOFT. For example: 
+
+  * "I prefer not to receive email marketing."
+  * "I prefer not to receive direct mail marketing."
+  * "I prefer not to receive telephone marketing calls."
+  * "I prefer not to receive mobile marketing messages."
+
+
+
+You may also click the unsubscribe link found at the bottom of all LOU & GREY marketing emails to be removed from future email marketing for the relevant brand. 
+
 **_Sharing with advertising member networks or select companies_**
 
 From time to time, we may share your information with members of advertising networks or select companies whose products or services may be of interest to you, including, without limitation, select companies in the following categories: health and fitness, personal care, entertainment and recreation, food and beverages, pharmaceuticals, credit cards, banking and financing and charitable organizations. These entities may have their own privacy policy in place to govern their treatment of your information. If you do not wish to have Ann Taylor or LOFT share your information with advertising member networks or select companies for their marketing purposes, you may:
 
-  * email customer service at [clientservices@anntaylor.com](mailto:clientservices@anntaylor.com) or [clientservices@LOFT.com](mailto:clientservices@LOFT.com) with the phrase "no advertising member network or select company sharing" in the subject line; or
+  * email customer service at [clientservices@anntaylor.com,](mailto:clientservices@anntaylor.com) [clientservices@LOFT.com](mailto:clientservices@LOFT.com) or [clientservices@LOUANDGREY.com](mailto:clientservices@LOUANDGREY.com) with the phrase "no advertising member network or select company sharing" in the subject line; or
   * contact customer service by regular mail or by phone as described above.
 
 
@@ -380,7 +406,7 @@ Please be sure to include your full name, email address, telephone number and ma
 
 **What are cookies? Do the Sites use cookies or other technologies?**
 
-**_Cookies_**. Cookies are a browser feature that assign a unique identification to your computer or mobile device. Cookies are typically stored on your mobile device or computer's hard drive and are used by our Sites to help us recognize your browser as a previous visitor, personalize your shopping experience and save and remember any preferences or other actions that may have been set while your browser was visiting our Sites. For example, if you place items in your online shopping cart, we may use cookies to keep those items in your cart for your future access. We may also use cookies to recognize you when you return to our Sites, provide you with access to your account information, and understand your use of our Sites so we can improve the features of our Sites and tailor communications to you. We may also use a cookie to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Our cookies do not contain your name, address or any financial information.
+**_Cookies_**. Cookies are a browser feature that assign a unique identification to your computer or mobile device. Cookies are typically stored on your mobile device or computer's hard drive and are used by our Sites to help us recognize your browser as a previous visitor, personalize your shopping experience and save and remember any preferences or other actions that may have been set while your browser was visiting our Sites. For example, if you place items in your online shopping cart, we may use technologies, such as our own cookies to provide you with personalized online display advertising tailored to your interests. To opt out of Ann Taylor cookies used for this online advertising, click here. 
 
 You can refuse cookies by turning them off in your Internet or mobile browser. In order to disable cookies, please consult your browser's help section for instructions. If you turn off cookies, however, you may not be able to use some of the features of our Sites, and you will not be able to purchase from our Sites, as we will not be able to track your online order. You may still place an order by calling us at 1-800-DIAL-ANN or 1-888-LOFT-444.
 
