@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015658id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229151746id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HiConsumption
 
@@ -65,7 +65,8 @@ If you have any questions about this Policy, our practices related to this Site,
 
 Ian Rebello  
 HiConsumption LLC  
-1041 Market Street #182  
+303 A St.  
+Suite 307  
 San Diego, CA, 92101  
 HiConsumption [at] gmail (dot) com
 
