@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreahallyu.asia privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234759id_/http%3A//koreahallyu.asia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreahallyu.asia privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229055658id_/http%3A//koreahallyu.asia/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Korea Hallyu
 
@@ -84,5 +84,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://koreahallyu.asia/  
-Mapo-Gu, Nogosan-Dong 57-16, LeMeilleur Town 1, #1411, 121-807, Seoul, South Korea  
+#205-807 (Cheolsan-dong, Doduck Park Town), 101, Garimil-ro, Gwangmyeong-si, Gyeonggi-do, 14255, Rep. of KOREA  
 contact[at]koreahallyu.asia
