@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allmyfaves.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607235143id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allmyfaves.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229082039id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<title>All My Faves | My Homepage</title>
@@ -16,7 +16,7 @@
 	<link href="http://fonts.googleapis.com/css?family=Bevan" rel="stylesheet" type="text/css"> 
 	<link href="http://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
 	<link href="/css/amf-theme/jquery-ui-1.8.4.custom.css" media="screen" rel="stylesheet" type="text/css">	
-	<link rel="stylesheet" type="text/css" href="http://img2.minifav.net/css/basic.css?v3">
+	<link rel="stylesheet" type="text/css" href="/css/basic.css">
 	<link rel="stylesheet" type="text/css" href="http://img2.minifav.net/css/amf-theme/jquery-ui-1.8.4.custom.css">
 	<!--[if IE]> <link href="/css/ie.css" rel="stylesheet" /> <![endif]-->
 	
@@ -27,7 +27,7 @@
 	_gaq.push(['_setAccount', 'UA-1189116-1']);
 	_gaq.push(['_trackPageview']);
 	
-	_gaq.push(['_setCustomVar',1,'page','http://www.allmyfaves.com/policy/privacy/',3]); 
+	_gaq.push(['_setCustomVar',1,'page','http://www.allmyfaves.com/policy/privacy',3]); 
 		_gaq.push(['_setCustomVar',2,'user','guest',2]);
 
 		(function() {
@@ -692,7 +692,7 @@ All My Faves welcomes your continuous input regarding our Privacy Policy or our 
 	</li>
 	<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','travel']);" href="http://travel.allmyfaves.com/">Travel</a></li>
 	<br><br>
-	<!--<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','Holidays']);" href="http://holidays./"><span style="color:red">Gift </span><span style="color:green">Ideas</span></a></li>-->
+	<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','Holidays']);" href="http://holidays.allmyfaves.com/"><span style="color:red">Gift </span><span style="color:green">Ideas</span></a></li>
 </ul>
 <ul class="left">
 	<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','titleweek']);" href="http://week.allmyfaves.com/">Weekly Faves</a>
@@ -769,10 +769,10 @@ All My Faves welcomes your continuous input regarding our Privacy Policy or our 
 function showHomepageDialog(){
 	if (navigator.appName=="Microsoft Internet Explorer") {
 		document.body.style.behavior='url(#default#homepage)';
-		document.body.setHomePage('http://www.allmyfaves.com/policy/privacy/');
+		document.body.setHomePage('http://www.allmyfaves.com/policy/privacy');
 	} else {
 		$("#homepage_layer").dialog("open");
-		$("#homepage_Iframe").attr("src","/index/makehomepage/?url=http://www.allmyfaves.com/policy/privacy/");
+		$("#homepage_Iframe").attr("src","/index/makehomepage/?url=http://www.allmyfaves.com/policy/privacy");
 		return false;
 	}
 }
