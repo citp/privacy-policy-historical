@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055618id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023212id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy | Life is Short. Have an Affair.®
 
@@ -69,7 +69,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 To contact us concerning Privacy issues, please use the [Contact Form](https://www.ashleymadison.com/app/public/contactform.p?contactform=1). All other inquiries should be sent using our [Contact Us](https://www.ashleymadison.com/app/public/contactform.p) section.
 
 **Attn:** Privacy Officer  
-Avid Dating Life Inc.  
-(DBA The Ashley Madison Agency)  
-20 Eglinton Ave West, Suite 1200, P.O. Box 2055  
-Toronto, ON Canada  M4R 1K8
+Avid Life Media  
+PO Box 67027  
+Toronto, ON  
+M4P 1E4
