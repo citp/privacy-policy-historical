@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsage.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628192847id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dkingsage%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsage.org privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229135659id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dkingsage%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Gameforge
 
