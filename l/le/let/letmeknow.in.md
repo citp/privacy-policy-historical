@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letmeknow.in privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233124id_/http%3A//www.letmeknow.in/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letmeknow.in privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229234121id_/http%3A//www.letmeknow.in/index/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -9,7 +9,7 @@
 
 By using our website, you consent to our privacy policy.
 
-When you register on [letmeknow.in](https://web.archive.org/web/20150314233124id_/http%3A//www.letmeknow.in/index/www.letmeknow.in) website, we collect information from you i.e. your Name, Email, College/ Workplace details.
+When you register on [letmeknow.in](https://web.archive.org/web/20151229234121id_/http%3A//www.letmeknow.in/index/www.letmeknow.in) website, we collect information from you i.e. your Name, Email, College/ Workplace details.
 
  **  
 
