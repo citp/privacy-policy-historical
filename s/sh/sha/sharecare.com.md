@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405011400id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229050623id_/https%3A//www.sharecare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
 
@@ -161,12 +161,6 @@ You consent to our assignment of the information we have about you, including pe
 **Terms of Use**
 
 [Please read our terms of use](https://web.archive.org/static/terms) to understand the terms that apply to your use of our websites. By using our websites, you acknowledge that you have read our terms of use and consent to them. You further affirm your consent by becoming a registered member or submitting content or materials to or through our websites.
-
-Sharecare, Inc.  
-Attn: Privacy Officer  
-Terminus  
-3280 Peachtree Road NE, Suite 600  
-Atlanta, Georgia 30305 
 
 _These terms of use were last updated and posted on August 31, 2009_.
 
