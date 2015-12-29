@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615011117id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033747id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
 
 # Help - Privacy
 
