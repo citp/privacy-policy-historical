@@ -1,133 +1,116 @@
-> *The following text is extracted and transformed from the amcdead.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227021508id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcdead.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229012727id_/http%3A//www.amc.com/privacy) for the most accurate reproduction.*
 
-# Privacy – AMC
+# Privacy - AMC
 
-**AMC PRIVACY POLICY**
+**EFFECTIVE DATE: July 9th, 2015**
 
-Thank you for visiting amctv.com, an AMC Networks Inc. website ("the Website"). Your patronage means a lot to us. We understand that your privacy is important and we are committed to providing you with clear information about the data we collect, how we use that information and the safeguards we have in place to protect it.
+This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, “AMC” or “we” and sometimes “us”) collect about you and why, how we use and share that information, and the choices we offer.
 
-This Privacy Policy ("Policy") is effective as of January 28, 2013, for AMC Networks Inc. and its subsidiaries ("AMC", "we", "us", or "our"). It applies to the Website and all other Websites owned or operated by AMC, including, but not limited to, AMCNetworks.com, AMCtv.com, Filmsite.org, GuySpeak.com, IFC.com, IFCAdSales.com, IFCCenter.com, IFCFilms.com, Press.amcnetworks.com, SundanceChannel.com, SundanceSelects.com, SundanceNow.com, WEtv.com and Yeahtv.com, as well as other AMC services, features, applications or functions offered or made available on or through the Website or other services or applications, mobile applications, and/or social networking applications (collectively, "the Services"). Furthermore, the Policy applies regardless of the device used to access the Website and/or the Services (e.g., personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future).
+## **1.** **WHAT IS THE SCOPE OF THIS PRIVACY POLICY?**
 
-Please carefully review this Policy. Your use of any part of the Website or Services indicates your acceptance of this Policy and your consent to the collection, use and disclosure of your information in accordance with this Policy.
+This Privacy Policy (“Policy”) is incorporated into the [AMC Terms of Service](https://web.archive.org/terms) , and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
 
-As we update and expand our services, we reserve the right to modify this Policy at any time. Any changes will be posted here. Please check this page periodically for changes. Your continued use of the Website or Services after changes have been made to the Policy indicates your acceptance of the terms of any revisions to this Policy.
+## **2.** **WILL THIS POLICY EVER CHANGE?**
 
-INFORMATION COLLECTION
-    
+We may change this Policy from time to time.  If we make changes, we will notify you by posting the updated policy and revising the “Effective Date” above.  Use of the Services after the posted Effective Date means you accept the current version of the Policy, including any changes made prior to the posted Effective Date. If we make any material changes to this Policy, we will also notify you by email or by means of a notice on the Services. We encourage you to review the Policy whenever you use our Services to stay informed about our information practices and the choices available to you.
 
-When you register for an account, visit certain portions of the Website, use the Services, or participate in a promotion, contest or sweepstakes, you may be prompted to provide, on a voluntary basis, certain information about yourself such as: (i) name; (ii) email address; (iii) date of birth; (iv) mailing address; (v) telephone numbers; (vi) cable provider, and (vii) interests and hobbies. You are not required to provide any personally identifiable information to use our Website or Services, however, certain areas may not be accessible absent registration.
+## 3\. **WHAT INFORMATION IS COLLECTED FROM ME?**
 
-Certain third parties may join with us to offer Website activities or Services, features or promotions, such as contests or special events. By submitting personal information in conjunction with these joint activities, you are providing that information to both parties simultaneously. The co-sponsor or partner may maintain a separate privacy policy governing the collection, use, and disclosure of your personal information and this Policy does not cover their collection, use, and/or disclosure.
+**_Information you provide to us:_** **** We collect information that you submit to us. For example, the process of creating or editing your user profile on a Service may require you to provide us with a name, e-mail address, phone number, physical address, including zip code, password of your choice and cable provider.  When you personalize your profile and use the features of the Services, we will collect any information you voluntarily provide, and we may also request optional information to support your use of the Services, such as a profile picture and birthday.  Additionally, we collect any information that you voluntarily enter into any postings, comments or forums within the Services, including private messages you send to other users of the Services. And, if you send an e-mail to us, we will collect your e-mail address and the full content of your e-mail, including attached files and other information you choose to provide to us.
 
-Additionally, while visiting the Website or utilizing the Services, you may link to or view, as part of a frame on a page, certain content that is actually created or hosted by a third party, or you may be introduced to, or be able to access, information, websites, advertisements, features, promotions, contests or sweepstakes offered by other parties. Also, the Website or Services may link to certain third parties who offer services on our behalf. Your interaction with these third party sites and/or services is subject to the third parties' privacy policies. AMC is not responsible for and assumes no liability for the actions and policies of any third party business or entity. As such, you should review the applicable third party privacy policies prior to interacting with or providing your information to these third parties.
+**_Information We Collect Automatically From Your Devices:_** **  **When you use our Services, we may collect information about the device you use to access the Services, including hardware model, operating system and version, Internet Protocol (“IP”) address and other unique device identifiers, mobile network information and information about the device’s interaction with our Services.  We also collect information about how you use our Services, including your access times, browser types and language.  We may use this data alone or in aggregate form, as a statistical measure, but not in a manner that is intended to identify you personally.  This type of data enables us to understand how often individuals use parts of the Services so we can analyze and improve them.  To collect this information, we use cookies and web beacons, and may in the future use other similar technologies.  To learn more about how we automatically receive and record information when you interact with the Services, please review our [Cookies Policy](https://web.archive.org/cookies).  This policy covers only our use of cookies; it does not cover the use of cookies or other technologies by third parties.  However, options you have to control the use of third party cookies are explained in our [Cookies Policy](https://web.archive.org/cookies) .
 
-In some circumstances, we may receive information about you from third parties (e.g., service partners and advertisers that make features available through the Website or Services, service partners through whom we provide access to the Website or Services, marketing companies that create professional marketing lists or sell other marketing data, and other websites or applications that you have registered to use, or that people you know have registered to use, when we allow those websites or applications to interact through the Website or Service to provide personalized services to you). If so, we will treat that information in accordance with this Policy. 
+**_Location Information:_** **** We may collect different types of information about your location, including general information, such as the city, state and/or zip code associated with your IP Address, and, if you agree, more specific location information that is provided through the GPS functionality on mobile devices used to access the Services. We may use such location information to customize the Services, including advertising that is presented to you. For example, if you provide a zip code that indicates that you live in New York, the Services may be customized with New York-specific information, features, and advertisements. In order to do this, your location information may be passed along to our affiliates, agents, vendors or advertisers.  Options you have to control the automatic collection of location information are explained below under “What Are My Choices.” ****
 
-We may also use cookies, clear GIFs and other technologies to learn about how you interact with the Website, to provide you with better service, to improve your customer experience, and for internal research and reporting purposes. We also may collect anonymous data on Website activity, such as how many people visit the site, where they are located, what pages they visit, what sites they come from, how long they stay, what items they purchase, etc. Such data is collected on an aggregate, anonymous basis, through the use of Internet server logs, cookies, clear GIFs and other technologies. We may also take non-anonymous data and de-identify it so that it becomes anonymous either by itself or when aggregated. We may use any anonymous or aggregated data for any purpose, including for research and marketing purposes, and may also share such data with any third parties, such as advertisers.
+**_Information from Social Media Networks and Other Third Parties:_** **  **We may obtain information about you or your use of the Services from third parties and sources, such as our vendors, like web host providers, analytics providers or advertisers. You may also give us permission to access your information, including personally identifiable information from services offered by third parties, including social media networks.  For example, to access the Services, you may need to link your Facebook account to the Services, which allows us to obtain information from your Facebook account, such as your friends or contacts, profile picture, birthdate, gender, or other profile-related information and any other information you have opted to share with “everyone” on Facebook (or similar third party platform).  The information we obtain from third party services depends on your account/privacy settings with those third parties and the third parties’ privacy policies, so be sure to check those policies and to adjust your settings to meet your preferences. When you access the Services through social media networks and other third party platforms, you are authorizing AMC to collect, store and use such information and content in accordance with this Policy. If we combine or associate information from other sources with personal information that we collect through the Services, we will treat the combined information as personal information in accordance with this Policy.  Please keep in mind that any information provided to us by a third party may also be subject to that third party’s privacy policy.
 
-Please be careful and responsible whenever you are online. If you decide to post content on the Website or through the Services, such as on messages boards, in comments, through social networking services, or in other postings, that information is publicly available and may be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are outside the control of AMC and this Policy.
+**_Payment Information:_** If you purchase a product or service through the Services, our third party payment processors will collect the billing and financial information they need to process your charges. This may include your postal address, email address and financial information. AMC does not collect or store your financial information, like credit card numbers. However, AMC’s third party payment processors may share non-financial information with us related to your purchases, like your name, shipping address and items purchased in order to fulfill your order.
 
-INFORMATION USE
-    
+**_Aggregate and/or De-Identified Information:_** __ We may aggregate or de-identify certain information that we collect from you. Aggregate and/or de-identified information is designed so that we cannot identify you personally.
 
-By providing information on the Website or through the Services, you agree that personal information you provide may be used by AMC, its parents and affiliates for the purposes of that for which you provided it, communicating with you about your relationship or transactions with us, processing and responding to your inquiries, fulfilling your requests, offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, providing information that we believe will be of interest to you, internal research and reporting, improving and developing the content and features of the Website or Services, administering and troubleshooting the Services, enforcing the legal terms that govern your use of the Website and Services, and similar purposes. AMC's current affiliates include Cablevision Systems Corporation and its subsidiaries and The Madison Square Garden Company and its subsidiaries.
+## 4\. **HOW IS MY INFORMATION USED?**
 
-INFORMATION DISCLOSURE
-    
+In general, the information that you submit or share with us and that we collect is used in the following ways:
 
-From time to time, we may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services. We may also provide access to third parties who assist us in providing targeted advertising. Third parties who have such access may not use the information for any other purpose, including their own marketing.
-
-We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy. You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
-
-Finally, we also reserve the right to disclose and transfer all of the information collected at our sites, including personally identifiable information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
-
-INTERNATIONAL VISITORS
-    
-
-This Website is controlled, operated and administered entirely within the United States. If you visit one of our sites from a location outside the United States, please be advised that any information you provide may be processed in and transferred to the United States, where privacy protections may not be as comprehensive as those in the European Union or other locations. By using the Website or Services, you consent to this transfer and to the use of your personally identifiable data as described herein.
-
-YOUR CHOICES REGARDING MARKETING AND OPTING OUT 
-    
-
-If you have provided personally identifiable information on one of our Websites or through our Services and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at [privacy@amctv.com](mailto:privacy@amctv.com); or (iii) writing us at AMC Networks Inc., c/o AMC Network Entertainment LLC, 11 Penn Plaza, New York, NY 10001.
-
-UPDATING YOUR INFORMATION
-    
-
-To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email [privacy@amctv.com](mailto:privacy@amctv.com). If a member name and password were required to access the feature, you will need to provide such information to update your registration information.
-
-LINKS
-    
-
-You should note that the Website has business relationships with (and may provide hyperlinks to) unaffiliated third parties (e.g. sites that offer discounts for certain products, sell tickets, sell branded merchandise, etc.) and may provide links to the websites of such third parties so that they can offer you products and services. If you visit a third party site by clicking on such hyperlink found on our webpage, any information you provide is subject to that third party site's privacy policy; and we encourage you to review that website's privacy policy before providing any personally identifiable information. The entities controlling these third party websites are responsible for ensuring compliance with all applicable laws, regulations and rules.
-
-COOKIES
-    
-
-Data is gathered through the use of Internet server logs, clear GIFs and cookies. A web server log is a file where website activity is stored. A clear GIF (also known as "web beacons," "Internet tags," or "pixel tags") consists of lines of code that allow websites to summarize overall visitor usage patterns and to provide personalized services. A cookie is a small piece of information that a website sends to a visitor's computer, which is stored on his or her hard drive. AMC uses cookies to track repeat visits to our website and to identify our customers on other websites. These cookies do not store personally identifiable information, although information in cookies may be combined with other identifiable information that we maintain. You may be able to disable some cookies by changing your browser or Flash Player settings, although some portions of the Website may not function properly if you do so. 
-
-AMC and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and other websites and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information. For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or click here to link to Network Advertising Initiatives.
-
-CHILDREN'S PRIVACY POLICY 
-    
-
-AMC does not target this Website to children under the age of thirteen and we do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of thirteen except as permitted by law. If we discover we have received any information from a child under the age of thirteen in violation of this Policy, we will delete that information immediately. If you believe AMC has any information from or about anyone under the age of thirteen, please contact us at the address listed below.
-
-CALIFORNIA PRIVACY RIGHTS
-    
-
-Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable information to third parties for their direct marketing purposes. To make such a request, please send an email to the contact information below.
-
-CONTACTING US ABOUT THIS POLICY
-    
-
-Please do not hesitate to contact us with any questions, concerns, requests or comments by:
-
-Writing to us at:  
+  * for the purposes for which you provided such information;
+  * to enable your access to the Services;
+  * to provide, maintain, protect, develop and improve the Services, including through the use of statistical analysis;
+  * to customize the content and advertisements you receive from us and our trusted partners;
+  * to communicate with you, including via email, text messages, social media, mail and phone; and
+  * to offer you additional information, opportunities, promotions and functionality from us or on our behalf, or from our partners or our advertisers.
 
 
-**AMC Networks Inc. LLC**  
-11 Penn Plaza  
-New York, NY 10001  
-**Attention: AMC Network Entertainment LLC Privacy Coordinator**  
-[privacy@amctv.com](mailto:privacy@amctv.com)
-SECURITY
-    
 
-We have implemented commercially reasonable security measures to protect the personal information that we collect. Despite our efforts, however, no security measure is perfect or impenetrable. Please be aware that any communications to the Website or through the Services may be unlawfully intercepted or accessed by third parties and/or the Website or Services may be subject to hostile network attacks or administrative error. Accordingly, AMC cannot and does not guarantee that the information you provide is completely secure and safe from such risks.
+We may use aggregated and/or de-identified data or other data that is not personally identifiable for any purpose, including without limitation in statistical analysis to help us analyze patterns in the use of the Services.
 
-    
+By accessing and using the Services, you consent to our use of your information about you in the manner described in this Policy.  If you do not agree or do not consent to the use of your information in these ways, you should not use the Services.
 
-Copyright © 2013 AMC Network Entertainment LLC
+## **5.** **WHEN IS MY INFORMATION DISCLOSED?**
 
-Version: January 2013
+We do not disclose your information except in the limited circumstances described below.  By accessing and using the Services, you consent to us sharing your information under the circumstances described in this Policy.
 
-## amc shows on air
+**_With your consent_** **:** We may share or disclose your information if you ask or authorize us to do so.
 
-## amc shows archive
+**_Among group companies_** **:   **We may share your information with our affiliated and subsidiary companies and joint venture partners for the purposes of processing, analyzing or storing your information or otherwise as needed to provide the Services to you, in each case, consistent with the terms of this Policy.
 
-## watch full episodes
+**_To our trusted third party service providers_** **:** We engage third party service providers to perform a variety of services and functions for us.  We may share your information with such service providers subject to confidentiality obligations consistent with this Policy and on the condition that the third parties use your information only on our behalf and pursuant to our instructions.
 
-## webisodes
+**_Information shared via third party social buttons, widgets and other embedded content_** **:** Some of our Services carry embedded content controlled by third parties for services such as social sharing, commenting and displaying video or images.  When you interact with these services they may collect information from and about you and your interaction with their content, including the URL of the web page you are visiting.  This activity will be subject to the privacy policy of and your settings for the third party network or service.  Please be aware that they may track your activity, including through the use of cookies or similar technology, without you needing to interact with them.  If this concerns you, ensure you log out of their services before using ours.
 
-## more shows on amc
+**_To comply with legal requirements and to protect you, us, and others_** **:** Notwithstanding anything to the contrary in this Policy, we reserve the right to retain and disclose your information at our discretion if we believe in good faith that such retention and disclosure is necessary to: (a) comply with relevant laws or to respond to subpoenas, warrants or similar process served on us; (b) protect and defend our rights or property, you, or third parties; or (c) ensure the safety and security of our Services, systems and of our customers and third parties.
 
-## Stay current. Watch recent full episodes.
+**_In connection with a business transfer_** **:** In the event we go through a business transition such as a merger, acquisition by another company, bankruptcy, reorganization or sale of all or a portion of our assets, your information may be sold or transferred as part of that transaction. You acknowledge that such transfers may occur and are permitted by this Policy and that the new entity may continue to process your information as set forth in this Policy.
 
-[Learn more](http://www.amctv.com/full-episodes/learn-more)
+**_If the information has been aggregated, de-identified or otherwise does not identify you personally_** : **** We may share or disclose information that has been aggregated, de-identified, otherwise does not identify you or information that you choose to make public, such as your public user profile information.  For example, we may develop information concerning the Services’ users, using de-identification processes to help ensure that such information cannot reasonably be re-associated or connected with you as an individual.  This Policy does not limit our use or disclosure of de-identified information (i.e., information from which your name and any other personally identifying information has been removed) in any way, and we reserve the right to use and disclose such information to our partners, advertisers and any other third parties at our discretion.
 
-Now
+If you do not agree or do not consent to the disclosure of your information in any manner described above, you should not use the Services.
 
-### episode title
+## **6.** **WHAT ARE MY CHOICES?**
 
-description
+You may opt out of receiving interest-based advertising from us.  To find out more about our advertising and how to opt out, please see our [Cookies Policy](https://web.archive.org/cookies).  You may also choose to block cookies.  Learn more about cookies, how we use them and how to block them by reviewing our [Cookies Policy](https://web.archive.org/cookies).
 
-differs
+You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [privacy@amctv.com](mailto:privacy@amctv.com).  Despite your indicated e-mail marketing preferences, we may still send you relationship and/or transactional e-mails regarding the Services, including, for example, administrative confirmations and notices of updates to our Policy, if we choose to provide such notices to you in this manner.
 
-Next
+If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, do not agree to allow your device to share this information with us or disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. Your device manufacturer should provide instructions on how to disable GPS or other location-tracking functions.  If you initially consent to the collection of location information, you can subsequently stop our collection of location information at any time by changing the preferences on your mobile device or by uninstalling the application from your mobile device by following the standard uninstall process to remove applications from your device.
 
-### episode title
+## **7.** **HOW LONG DO YOU KEEP MY INFORMATION?**
 
-description
+We will hold your personal information on our systems for as long as necessary to provide the relevant Service to you or for so as long as reasonably required to satisfy the purpose for which you submitted the information.
 
-differs
+## **8.** **WHAT ABOUT LINKS TO THIRD PARTY WEBSITES?**
+
+Links to third party websites may be made available through the Services. Clicking on such advertisements and links will direct you to the website or application of a third party. We are not responsible for the privacy practices or the content of such websites. Any information you provide via those sites is subject to the Privacy Policies on those websites and is not covered by this Policy. We encourage you to read the privacy statements of each and every website you visit or application you use. This Policy applies solely to information collected by us through the Services and does not apply to third party websites or applications. The ability to access third party information from the Services and to link to other websites and locations from the Services is for your convenience and does not signify our endorsement of such third parties, their products, their services, their websites and locations or the content they make available on the Services or on their websites and locations.
+
+## **9.** **HOW IS MY INFORMATION PROTECTED?**
+
+We are committed to protecting the security of your information. We use a variety of industry-standard security technologies and procedures to help protect your information from unauthorized access, use or disclosure. These measures vary based on the sensitivity of the information that we collect. Even though we have taken significant steps to protect your information, no company, including us, can fully eliminate security risks associated with information. We cannot guarantee that our security measures will prevent every unauthorized attempt to access, use, or disclose your information.
+
+## **10.** **WHAT IF MY INFORMATION IS INCORRECT?**
+
+You have the right to request a copy of the information that we hold about you that identifies you personally. If you would like a copy of some or all of this information, please contact us at [privacy@amctv.com](mailto:privacy@amctv.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or to remove information that you think is inaccurate. We also provide you with tools and account settings to access or modify some of the information you provided to us and associated with your account.
+
+## 11\. **WHAT IS YOUR POLICY REGARDING CHILDREN?**
+
+AMC does not direct its Services to children under the age of thirteen (13) and does not knowingly collect information from such children.  We require all users of the Services to be at least thirteen (13) years old.  If we obtain actual knowledge that a user is under the age of thirteen (13), we will promptly delete all information associated with such account.  By using the Services, you are representing that you are at least thirteen (13) years old.
+
+## **12.** **MY CALIFORNIA LAW RIGHTS.**
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their “personal information” (as defined under the California Online Privacy Protection Act), if any, for their direct marketing purposes in the prior calendar year, as well as the type of “personal information” disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@amctv.com](mailto:privacy@amctv.com).
+
+## **13.** **GOVERNING LAW.**
+
+This Policy and all disputes arising hereunder or relating hereto shall be governed by, and will be construed under, the laws of the State of New York, U.S.A., without regard to choice of law principles.  Those who choose to access the Services from locations outside the United States do so on their own initiative, and are responsible for compliance with local laws if and to the extent local laws are applicable. AMC may limit the website’s availability, in whole or in part, concerning any person, geographic area or jurisdiction, at any time in its sole discretion.
+
+## **14.** **WHERE IS MY INFORMATION STORED AND PROCESSED?  **
+
+The information we collect from you through your use of the Services is stored and processed in the United States in compliance with New York State and United States law.  If you are not a United States citizen, do not use the Services.
+
+## **15.** **HOW CAN I CONTACT YOU?**
+
+If you have questions or concerns about our Policy, please contact us at: [info-amc@amctv.com](mailto:info-amc@amctv.com).
+
+## **16.** **SAFE HARBOR**
+
+AMC Network complies with the US/EU and US/Swiss Safe Harbor frameworks, as set forth by the U.S. Department of Commerce, for the collection, use and retention of personal information transferred from the EEA and Switzerland. More information regarding Safe Harbor can be found at: <http://www.export.gov/safeharbor>.
+
+© 2015 AMC Networks Inc. All rights reserved.
