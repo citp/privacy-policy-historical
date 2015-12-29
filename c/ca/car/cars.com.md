@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the cars.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619190941id_/http%3A//www.cars.com/go/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229024412id_/https%3A//www.cars.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Cars.com
+# Privacy Statement | Cars.com
 
-This website (the " ** _Site_** ") is operated by Cars.com, a division of Classified Ventures, LLC (" ** _Cars.com_** "). This Privacy Statement (the "Statement") describes Cars.com's collection, use and disclosure of information practices in connection with the Site. This Statement applies to the national version of the Site, located at [www.cars.com](http://www.cars.com/go/index.jsp), as well as to any versions of the Site that Cars.com operates, including versions or pages that Cars.com co-brands or private labels with its newspaper and broadcast affiliates, third-party distribution partners and other partners (collectively, " ** _Affiliates_** "). For example, you may have arrived at a co-branded version of the Site from an Affiliate's website, in which case, that Affiliate will be clearly identified at the top of the home page of this Site. In this Statement, Cars.com refers to those versions of the Site as " ** _Affiliate Versions_**." Please be aware that Cars.com may share any information you submit through this Site with Affiliates, as described below. During your visit to any Affiliate Version, the Affiliate may independently collect other information from you.
+This website (the " ** _Site_** ") is operated by Cars.com, LLC (" ** _Cars.com_** "). This Privacy Statement (the "Statement") describes Cars.com's collection, use and disclosure of information practices in connection with the Site. This Statement applies to the national version of the Site, located at [www.cars.com](https://web.archive.org/), as well as to any versions of the Site that Cars.com operates, including versions or pages that Cars.com co-brands or private labels with its newspaper and broadcast affiliates, third-party distribution partners and other partners (collectively, " ** _Affiliates_** "). For example, you may have arrived at a co-branded version of the Site from an Affiliate's website, in which case, that Affiliate will be clearly identified at the top of the home page of this Site. In this Statement, Cars.com refers to those versions of the Site as " ** _Affiliate Versions_**." Please be aware that Cars.com may share any information you submit through this Site with Affiliates, as described below. During your visit to any Affiliate Version, the Affiliate may independently collect other information from you.
 
 For purposes of clarification, this Statement also describes Cars.com's collection, use, and disclosure practices with respect to any personally identifiable information and Usage Data (as defined below) that is provided to Cars.com by any of its third-party distribution partners that display Cars.com vehicle listings.
 
-This Statement does not describe Cars.com's collection, use and disclosure of information through means other than this Site (e.g., off-line) or the collection, use and disclosure practices of any Affiliate or other third parties. For information on a third party's information collection, use and disclosure practices, please review the privacy policy on the applicable third party's website. Also, please note that this Site contains links to other websites. Cars.com is not responsible for the websites, content or privacy practices of any third party. By using this Site, you acknowledge that you have read this Statement and agree that you are subject to the Cars.com [Terms of Service](https://web.archive.org/go/about/tos.jsp?aff=national).
+This Statement does not describe Cars.com's collection, use and disclosure of information through means other than this Site (e.g., off-line) or the collection, use and disclosure practices of any Affiliate or other third parties. For information on a third party's information collection, use and disclosure practices, please review the privacy policy on the applicable third party's website. Also, please note that this Site contains links to other websites. Cars.com is not responsible for the websites, content or privacy practices of any third party. By using this Site, you acknowledge that you have read this Statement and agree that you are subject to the Cars.com [Terms of Service](https://web.archive.org/about/terms/).
 
-### 
-
-Collection of Personally Identifiable Information
+##### Collection of Personally Identifiable Information
 
 You are not required to provide any personally identifiable information to visit the Site. Cars.com automatically collects Usage Data (as described below) and may collect ZIP codes and other information in connection with your use of the Site (e.g., the type of car you are looking for). Cars.com collects personally identifiable information only when you make it available through your use of the Site. You may be required to provide personally identifiable information to use certain services on this Site, including, but not limited to, the "Email the Dealer/Seller" feature and to purchase and create a "Sell It Yourself" online classified listing (" ** _SIY Ad_** ") and account (" ** _SIY Account_** "). In addition, you may submit personally identifiable information through the Site in other ways, including: (a) participating in online surveys, promotions, contests and sweepstakes; (b) subscribing to newsletters, editorial content, or promotional content sent via email, (c) using the Site's "Feedback" and "More Information" forms; and (d) in connection with other products, services, features, or requests made available through the Site. We also publish toll-free phone numbers for many of the dealerships that list vehicles for sale on the Site. If you dial one of these phone numbers, Cars.com or a service provider operating on Cars.com's behalf may record the date, time and length of your call and the phone number from which the call originated, along with other information that may be captured. Any Usage Data (as defined in the next section) and/or personally identifiable information resulting from such calls may be used as described in this Statement. The types of personally identifiable information that you provide will depend on the nature of the submission, but could include your name, address, phone number, email address and credit card information. In the event that you purchase a SIY Ad in a print/online package through a newspaper Affiliate, the Affiliate is required to share your name, phone number and email address with Cars.com in order to allow Cars.com to process and maintain your ad.
 
-### 
-
-Passive Information Collection
+##### Passive Information Collection
 
 The Site automatically collects information and may also customize your visit through technical means, including the following:
 
@@ -28,30 +24,26 @@ The Site automatically collects information and may also customize your visit th
 
 Cookies allow Cars.com to recognize you when you visit the Site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of the Site's forms, it may be stored in a cookie so you do not have to enter it again on other forms on the Site. Cookies and web beacons can tell us what advertising you have seen on the Site, which allows Cars.com to offer you a more diverse selection of advertising information and may also be used together to measure the effectiveness of Cars.com advertising campaigns. Cookies, web beacons and IP addresses are also used to compile data regarding Site usage (e.g., what website you came from, what pages of the Site you visit, how long you were on the Site, what type of browser you are using, what website you went to). Web beacons may also be included in emails sent by Cars.com to determine when and if such emails are opened or forwarded. You can disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many of the Site's features will not work as well or at all. Anonymous information regarding use of our Site and services that is collected and/or aggregated by or on behalf of Cars.com through the use of such technical means or otherwise is referred to in this Statement as " ** _Usage Data_**."
 
-### 
-
-Information Use
+##### Information Use
 
 Personally Identifiable Information. Personally identifiable information collected by Cars.com through your use of the Site may be stored on servers or in a cookie on your computer and may be used by Cars.com for any of the following purposes:
 
->   * To confirm or fulfill a request that you make (e.g., in order to send you a price quote or other information you have requested, Cars.com may share your contact information with a participating Cars.com dealer and/or manufacturer).
->   * To follow up on any request that you have previously made (e.g., Cars.com may contact you to determine whether the dealer and/or manufacturer responded to your original request).
->   * To communicate with you regarding the Cars.com service (e.g., Cars.com may send you emails or call you to confirm a price quote request or to notify you that you have received a lead regarding a vehicle you have advertised or to request that you participate in a survey).
->   * To send promotional materials, newsletters or other content via email or otherwise. If you no longer wish to receive a particular email newsletter or other promotion from Cars.com, you must follow the opt-out instructions included in such email newsletters and promotions.
->   * To permit third parties (to whom Cars.com may disclose personally identifiable information specifically for direct marketing purposes) to send you promotional or informational messages, but only if you have first affirmatively agreed to receive such messages.
->   * To improve your user experience.
->   * To manage Cars.com's business and its relationships with Affiliates, customers, and other third parties to which Cars.com may disclose personally identifiable information pursuant to this Statement.
->   * For Site administration, analysis, research, development, optimization and other internal purposes, including, without limitation, to compile Usage Data.
-> 
+  * To confirm or fulfill a request that you make (e.g., in order to send you a price quote or other information you have requested, Cars.com may share your contact information and content interests with a participating Cars.com dealer and/or manufacturer).
+  * To follow up on any request that you have previously made (e.g., Cars.com may contact you to determine whether the dealer and/or manufacturer responded to your original request).
+  * To communicate with you regarding the Cars.com service (e.g., Cars.com may send you emails or call you to confirm a price quote request or to notify you that you have received a lead regarding a vehicle you have advertised or to request that you participate in a survey).
+  * To send promotional materials, newsletters or other content via email or otherwise. If you no longer wish to receive a particular email newsletter or other promotion from Cars.com, you must follow the opt-out instructions included in such email newsletters and promotions.
+  * To permit third parties (to whom Cars.com may disclose personally identifiable information specifically for direct marketing purposes) to send you promotional or informational messages, but only if you have first affirmatively agreed to receive such messages.
+  * To improve your user experience.
+  * To manage Cars.com's business and its relationships with Affiliates, customers, and other third parties to which Cars.com may disclose personally identifiable information pursuant to this Statement.
+  * For Site administration, analysis, research, development, optimization and other internal purposes, including, without limitation, to compile Usage Data.
+
 
 
 **Usage Data:** Usage Data is used by Cars.com for administrative, analytical, research, optimization and other purposes. For example, Cars.com may use statistical analyses of Usage Data in order to measure interest in the various areas of the Site, for development purposes and to inform advertisers and partners in aggregate and anonymous terms about consumers who click on their advertising or other messages. IP addresses are also used for systems administration and troubleshooting purposes.
 
 With respect to promotional materials and newsletters that Cars.com may send from time to time, Cars.com will not continue to send you such communications if you ask us not to, as described below in the Section entitled "Accessing, Changing or Deactivating Information Collected by Cars.com." However, you agree that Cars.com may send to you, and you cannot opt out of, communications of a transactional or relationship nature, including, but not limited to, communications regarding fraudulent or illegal activity, the status of your SIY Account, changes to this Statement or the Cars.com Terms of Service, as well as communications to confirm, fulfill and follow up on your SIY Account registration or a request submitted through the Site.
 
-### 
-
-Information Sharing
+##### Information Sharing
 
 Cars.com may share personally identifiable information that you provide with third parties in the following cases:
 
@@ -67,56 +59,62 @@ Cars.com may share personally identifiable information that you provide with thi
 
 Please note that the messages that Cars.com sends to you to confirm, fulfill or follow up on a request may incidentally include promotional material or other content from Cars.com or its partners. In the case of these messages, Cars.com is not sharing your personally identifiable information with those third parties. Cars.com reserves the right to share Usage Data with any third party for any reason.
 
-### 
+##### SIY Ads
 
-SIY Ads
+When purchasing an SIY Ad, it is important to note that any information you choose to include in an SIY Ad may be made publicly available via the Site and other media in which Cars.com vehicle listings are published, including third-party Web sites and print publications. You are required to include at least your phone number and, optionally, an email address to allow users to contact you regarding your SIY Ad. As such, you may receive unsolicited phone calls and emails from third parties. Except for required information, you should not include any contact or other information in an SIY Ad that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SIY Ad account, or to remove your SIY ads, you can use the interface available at <http://siy.cars.com/siy/editSignIn.jsp>.
 
-When purchasing an SIY Ad, it is important to note that any information you choose to include in an SIY Ad may be made publicly available via the Site and other media in which Cars.com vehicle listings are published, including third-party Web sites and print publications. You are required to include at least your phone number and, optionally, an email address to allow users to contact you regarding your SIY Ad. As such, you may receive unsolicited phone calls and emails from third parties. Except for required information, you should not include any contact or other information in an SIY Ad that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SIY Ad account, or deactivate your SIY Account, you can use the interface available at <http://siy.cars.com/siy/editSignIn.jsp>.
-
-### 
-
-Message Boards
+##### Message Boards
 
 Cars.com also may offer message boards, bulletin boards, chat rooms, comments areas or other forums (" ** _Forums_** ") on the Site for use by visitors who are 18 years of age or older. Any information you disclose when posting a message in these Forums may become public. You should not include any information in your posting that you do not want other parties to see or use. Moreover, if you post any messages in the Forums that include your email address or phone number you may receive unsolicited emails or calls from third parties.
 
-### 
-
-Email a Page
+##### Email a Page
 
 The Site offers you the ability to email certain pages of the Site to a friend or other third party. If you choose to use the "Email a Page" functionality, your name, email address and any message you are allowed to include will be visible to the recipient of the email. The "Email a Page" functionality is for informational purposes only and may not be used for any unlawful purpose, including any harassment or threats. Information collected by Cars.com through the "Email a Page" functionality shall be used in accordance with this Statement.
 
-### 
-
-Changes to this Statement
+##### Changes to this Statement
 
 Any changes to this Statement will be posted on the Site in this location and this Statement will be identified as "Updated". Your continued use of the Site after such notice constitutes acceptance of such changes. In the event of such changes, you can then choose to do nothing, modify the personally identifiable information in your SIY Account, change your email preferences or deactivate your SIY Account.
 
-### 
-
-Security
+##### Security
 
 Your personally identifiable information is one of our most valuable assets. We take steps to keep it physically secure in our data centers and it is accessible only to authorized personnel as needed to perform operations governed by this policy. In addition, when Cars.com collects credit card information from you, Cars.com uses Secure Socket Layer (SSL) encryption, the industry standard for protecting privacy in web transactions. Please keep in mind that despite these measures, Cars.com cannot guarantee or warrant 100 percent security of its servers and databases. Moreover, Cars.com cannot guarantee that personally identifiable information that you submit through the Site will not be intercepted or otherwise disclosed.
 
-### 
-
-Children
+##### Children
 
 Cars.com believes that it is especially important to protect children's privacy online. Cars.com does not knowingly collect or use any personally identifiable information from children under the age of 13 and Cars.com does not knowingly provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from visitors younger than 13 years old. No information should be submitted to or posted at Cars.com by visitors younger than 13 years old.
 
-### 
-
-Links
+##### Links
 
 This Site contains links to other sites. While Cars.com encourages our business partners to adopt privacy policies that build users' trust and confidence in the internet, Cars.com is not responsible for the privacy practices or the content of websites linked to the Site or any third-party products or services offered through the Site.
 
-### 
+##### Notice to California Residents – Your California Privacy Rights
 
-Collection of Information by Third Parties
+California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. 
 
-As noted above, Affiliates and other third parties may collect information about you and your use of the Site through the use of cookies, web beacons and other similar technologies. For example, we work with companies that collect statistical information regarding Site usage and provide related analytical services. We may work with third-party advertising companies that use cookies and web beacons to serve advertisements when you come to the Site and to generate statistics and metrics related to the delivery of such advertisements. We also may work with third-party advertising networks that use cookies, web beacons and other technologies to collect non-personally identifiable information about your visits to and interactions with this Site and other websites in order to provide targeted advertisements to you across their networks of websites (which may or may not include this Site). These third parties also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising and for other purposes.
+If you are a California resident and would like to make such a request, please submit your request in writing to: 
 
-If you would like more information about the information collection practices of some of these third-party advertising companies and learn which of these companies allow you to opt out of this type of information collection, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+Cars.com, LLC   
+Attn.: California Privacy Rights Requests   
+c/o: Legal Department   
+175 West Jackson   
+Chicago, Illinois 60604 
 
-If you have any questions about this Privacy Statement, please email us at [feedback@cars.com](mailto:feedback@cars.com?subject=\[about\]%20Privacy%20Statement) or use our [online feedback form](https://web.archive.org/go/about/us.jsp?section=H&content=cont&aff=national).
+##### Collection of Information by Third Parties
 
-©2010 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
+As noted above, Affiliates, Third parties who place advertisements on this website, and other service providers may collect and use information about your visits to and use of this website through the use of cookies, web beacons and other similar technologies. For example, we work with companies that collect statistical information regarding Site usage and provide related analytical services. We may work with third-party advertising companies that use cookies and web beacons to serve advertisements when you come to the Site and to generate statistics and metrics related to the delivery of such advertisements. We also may work with third-party advertising networks that use cookies, web beacons and other technologies to collect non-personally identifiable information about your visits to and interactions with this Site and other websites in order to provide targeted advertisements about goods and services of interest to you across their networks of websites (which may or may not include this Site). These third parties also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising and for other purposes. Also, our third-party service providers may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, mobile websites and/or mobile applications across your various devices, in order to provide content and advertisements about goods and services of interest to you across those various devices.
+
+If you would like to obtain more information about the practices of some of these parties, or if you would like to make choices about their use of your information, please click here:
+
+<http://www.aboutads.info/choices/>
+
+More information and additional consumer choice options may be found here:
+
+<http://www.networkadvertising.org/managing/opt_out.asp>
+
+Cars.com adheres to the Self-Regulatory Principles for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+If you have any questions about this Privacy Statement, please email us at [feedback@cars.com](mailto:feedback@cars.com?subject=Privacy%20Statement) or use our [online feedback form](https://web.archive.org/about/#contact-us).
+
+©2015 Cars.com, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
+
+Last updated on 10/28/15
