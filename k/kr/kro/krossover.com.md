@@ -1,101 +1,171 @@
-> *The following text is extracted and transformed from the krossover.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609221752id_/http%3A//www.krossover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krossover.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229160852id_/http%3A//www.krossover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Krossover
 
-Last Updated: March 1st, 2010
+Last updated as of October 2, 2015.
 
-Krossover Intelligence Inc. (“Krossover” or “we” or “us”) is committed to protecting your privacy. We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit the www.AppliedAcademics.com website located within the AppliedAcademics.com domain (“Website”) and use the Krossover services (the “Services”) provided through the Website, and to demonstrate our commitment to fair information practices and the protection of privacy. Your use of the Website and the Services is governed by this Privacy Policy and the [Terms of Use](http://krossover.com/terms-conditions.php).
+Krossover Intelligence Inc. and its affiliates (“Krossover” or “we” or “us”) respects your privacy and is committed to protecting the identity of visitors to the Krossover website (the “Website”) whether such visitors: (1) simply browse the Website without registering (each, a “Guest”); or (2) register (a “Member”) to use one of the various “Membership” accounts.  The terms “you”, “your”, and “user” refer to a Guest and Member. This Privacy Policy describes how we handle the information that we collect about and/or from you and your interaction with the Website each time you visit.  This Privacy Policy further explains, in general, what Personal Information and other information is collected on our Website, how the information is used and with whom we may share such information.
 
-  1. #### About This Privacy Policy and Our Services
+This Privacy Policy is incorporated into and is part of the Website’s Terms and Conditions (the “Terms”). Capitalized terms not defined herein shall have the same meaning as set forth in the Terms.  Please be sure to read this Privacy Policy before using the Website, registering or otherwise submitting information to Krossover. Our Privacy Policy may change from time to time, and if changes are made to this policy, we will notify you here, as well as by posting a notice on our Website and/or by e-mailing you.
 
-This Privacy Policy is only applicable to the Website and not to any other websites that you may be able to access from the Website (whether through an advertisement, service, or content link) or any website of Krossover’s partners, if any, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+**BY USING THE WEBSITE, EITHER AS A GUEST OR MEMBER, YOU SIGNIFY THAT YOU HAVE READ, UNDERSTOOD AND CONSENT TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND OUR TERMS AND THAT YOU GIVE US YOUR CONSENT TO COLLECT, PROCESS, USE, STORE, AND DISCLOSE PERSONAL INFORMATION THAT YOU SUBMIT OR CONVEY THROUGH YOUR USE OF THIS WEBSITE, IN ACCORDANCE WITH THIS PRIVACY POLICY.**
 
-While you may use some of the functionality of Krossover without registration, many of the content and Services on the Website require registration. If you use our Website without registering, the only information we collect will be Non-Personal Information through the use of Cookies or Web Beacons (please see Section 2). If you choose to register with our Website, we require you to submit certain information personally identifying you, including your first and last name, affiliated educational institution, affiliated sports team, e-mail address, username and password (collectively, “Personal Information”). You are responsible for ensuring the accuracy of the Personal Information you submit to Krossover. Inaccurate information will affect the information you receive when using our Website and our ability to contact you as described in this Privacy Policy.
+  1. **ABOUT THIS PRIVACY POLICY**
 
-  2. #### Information We Automatically Collect About You
 
-Even if you do not register with Krossover, we collect information other than Personal Information (“Non-Personal Information”) about your use of our Website.
 
-##### Cookies
+This Privacy Policy is only applicable to the Website and not to any other websites that you may be able to access from the Website (whether through an advertisement, service, or content link) or any website of Krossover’s partners, if any, each of which may have data collection, storage, and use practices and policies that may differ materially from this Privacy Policy.
 
-We use “cookies” to customize your experience on the Website and, if you create a password, to store your password so you do not have to re-enter it each time you visit the Website. “Cookies” are small computer files that are transferred to your computer’s hard drive that contain information such as your user ID, user preferences, the pages you’ve visited and the activities you’ve performed while using the Website. We do not link the information stored in cookies to any of your Personal Information you submit while on the Website. You may block cookies or delete cookies from your hard drive; however, by disabling cookies, you may not have access to all of the features of the Website. Some of our business partners also use cookies to provide us with anonymous data and information regarding your use of the Website. We do not have access or control over these cookies, our privacy policy does not cover the use of third party cookies.
+  2. **INFORMATION WE COLLECT ABOUT YOU**
 
-##### Web Beacons
 
-We or our third party tracking utility company also use “web beacons” to collect anonymous information about your use of our Website and the websites of selected sponsors and advertisers, and your use of emails, special promotions or newsletters we send to you. Web beacons are tiny graphic image files embedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user’s browser. The information collected by web beacons allows us to statistically monitor how many people are using our Website and selected sponsors’ and advertisers’ sites and opening our emails, and for what purposes. Our web beacons are not used to track your activity outside of our Website. We do not link Non-Personal Information from web beacons to Personal Information without your permission.
 
-##### Traffic Data
+We collect information about you so we can improve our Services and enhance your experience.  Any of the below activities with regard to the collection of Website usage information may be performed on our behalf by our service providers, including, for example, our analytics vendors, if any, and our email management partners, if any.  When analyzed, Website usage information helps us determine how visitors arrive at the Website, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
 
-We automatically track and collect the following categories of information when you visit our Website: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Website; (4) types of web browsers used to access the Website; (5) referring source which may have sent you to the Website; and (6) other information associated with the interaction of your browser and the Website (collectively “Traffic Data”). We do not link Non-Personal Information from Traffic Data to Personal Information without your permission.
+While you may access some of the Krossover Services without registration, many of the content and Services available on the Website require registration.  If you choose to register with our Website, we may require you to submit certain information personally identifying you, including your first and last name, title, home/business address, date of birth, jersey number, affiliated educational institution, affiliated sports team, e-mail address, username and password (collectively, “Personal Information”). “Personal Information” also includes “Personal Data” as that term is defined in Article 2 of the European Union Data Protection Directive.
 
-  3. #### Personal Information We Collect About You
+We may also ask you for account information we may require from time to time or for the purpose of authenticating yourself or your account if we have reason to believe, in our sole discretion, that you may be violating the Terms or for any other reason we deem necessary. You are responsible for ensuring the accuracy of the Personal Information you submit to Krossover. You can see, review and change your Personal Information by logging into your account and accessing the Account Settings link on the Website. Inaccurate information will affect the information you receive when using our Website and our ability to contact you as described in this Privacy Policy.
 
-##### Registration
+Even if you do not register with Krossover, we collect information other than Personal Information, as detailed below (“Non-Personal Information”), about your use of our Website.
 
-In order for you to access certain areas of the Website, we may require you to register and provide us with certain Personal Information. Personal Information includes Contact Data (such as your e-mail address, phone number and password). We use the Personal Information that you provide to respond to your questions, provide you the specific Services you select and send you emails about Website maintenance and updates. You may choose not to provide us with any Personal Information. In such case, you can still access and use parts of the Website; however you will not be able to access and use those portions of the Website that require your Personal Information and registration.
+**(a) Cookies and Other Technologies**.
 
-**Inquiries:**  Subject to the Privacy Policy, if you contact Krossover, we may use any of the information you submit in connection with your inquiry, or any Personal Information and Non-Personal Information when responding to your inquiries.
+We may utilize cookies and other technologies, such as, web beacons (also known as “clear gifs” and “pixel tags”) to recognize you, customize your experience, and provide advertisements. Cookies are small files placed on your computer, and they allow us to count the number of visitors to the Website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. For example, cookies allow us to save your log-in information so you do not have to re-enter it every time you visit our Website. We do not link cookies or web beacons to any Personal Information. We may also enable advertisers and ad servers to promote third party products and/or services by placing advertisements on the Website.  These advertisers and ad servers may use cookies and/or web beacons to monitor information related to advertisements. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Krossover and does not cover the use of cookies by any advertisers.  Most web browsers automatically accept cookies, but you do not have to accept them. To disable cookies, you should access the “help” tab on your browser or read the information that came with your browser software. However, your visit to our Website will be enhanced if cookies are not disabled.
 
-##### Email to You
+**(b) Information Collected Automatically.**
 
-We may use your contact data to send you information to contact you when necessary, including registration verification emails, and in conjunction with your use of certain Services. In some cases, when you click on a link in an e-mail, your browser may be momentarily directed to the website of a third party which, acting on behalf of Krossover (see Section 5 below), notes or “counts” your response to the e-mail before re-directing your browser to your selected destination; this re-direction process may not be apparent to you.
+We automatically receive and collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted, such as IP address or other similar unique device identifier, the URLs of websites you arrive at the Website from or leave the Website to go to, your type of browser and language, access times, the content of any undeleted cookies that your browser previously accepted from us, your operating system, your mobile provider, your mobile device, and your ISP. We may use such information to better understand how Krossover users use our Services, to analyze trends, administer the Website, prevent fraud, and gather broad demographic information, such as country of origin.  We may link this information with your Personal Information.    
 
-##### Market Research
+This Website uses Google Analytics to help us understand how users find and interact with the site. We never share any information we obtain from Google Analytics with any third parties for advertising or any other purpose unless compelled to do so by valid legal process. Google Analytics uses cookies to identify your computer by its Internet Protocol (IP) address.
 
-From time to time the Krossover market research department, or its operations contractors acting on its behalf, may conduct online research in order to gather feedback about our site and our sponsors through email invitations, pop-up surveys and online focus groups. When participating in a survey, we may ask you to submit Personal Information. This Personal Information is used for research purposes, and is not used for sales solicitations. When a survey is sponsored by a third party, aggregate information of the survey results is reported to the sponsor. Personal Information collected through market research will be used only by Krossover and its service providers and contractors and will not be given or sold to a third party without your consent or as otherwise permitted by this Privacy Policy. We will not knowingly accept survey responses from or conduct interviews with any person under the age of 18. In addition to collecting survey responses from our members, cookies may be used to authenticate respondents or to help you pick up where you left off in a survey. If you have cookies disabled you may not be able to participate in some studies. Cookies may be used to connect survey data with Krossover site usage characteristics. You will be notified when we would like to use cookies in this way and your consent will be requested for these cookies.
+**(c)** **Things you do and information you provide.**
 
-##### Updating You Personal Information
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create, share, message or otherwise communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a video was created. We also collect information about how you use our Services, such as the content you view or engage with or the frequency and duration of your activities.  
 
-You may update your Personal Information by logging into your account and clicking on the Account & Preferences link.
+**(d) Things others do and information they provide.**
 
-##### Children
+We collect content and information that other people provide or otherwise obtain when they use our Services, including information about you, such as when they share a video of you, send a message to you, or upload, sync or import information about you.
 
-We do not knowingly collect Personal Information from children under the age of 13.
+**(e) Your networks and connections.**
 
-  4. #### Krossover’s Use of Your Information
+We collect information about the people and groups you are connected to or otherwise affiliated with and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information from a device.
 
-We may use your contact data to send you information about Krossover or our products or Services, to contact you when necessary and in conjunction with your use of certain Services. We may use your Traffic Data to customize and tailor your experience on the Website, in emails and in other communications, displaying content that we think you might be interested in and according to your preferences.
+**(f) Information about payments.**
 
-  5. #### Information Collected by Third Parties Not Acting on Behalf of Krossover
+If you use our Services for purchases or financial transactions, we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details.
 
-Certain content and Services offered to you through our Website may be served on websites hosted and operated by a company other than Krossover (“Third Party Contractor Websites”). Krossover does not disclose your Personal Information to these Third Party Contractor Websites without your consent, but you should be aware that any information you disclose once you access these other websites is not subject to this Privacy Policy. Krossover does not endorse and is not responsible for the privacy practices of these Third Party Contractor Websites. You should review the privacy policy posted on any other website to understand how that Third Party Contractor Website collects and uses your personally identifiable information.
+See Section 3(d) for more information regarding the measures Krossover takes to protect your Personal and Non-Personal Information.
 
-  6. #### Links to Other Websites
+**(g) Device information.**
 
-The Website contains links to third party websites with which Krossover has no affiliation. Krossover does not share your personal information with those websites and is not responsible for their privacy practices. Some websites may have the look and feel of our Website. Please be aware that you may be on a different site and that this Privacy Policy only covers our Website. Should you decide to visit one of these third party websites, we suggest that you read its privacy policy.
+We collect information from and about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices.
 
-  7. #### Disclosure of Your Information
+**(h) Information from websites and apps that use our Services.**
 
-We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Personal Information and Traffic Data with our business partners who assist us by performing core services (such as website hosting, data storage and security) related to our operation of the Website and/or by making certain Services available to our users. Those business partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to and to provide you with Website related services.
+We collect information when you visit or use third-party websites and apps that use our Services. This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us.
 
-Lastly, we may transfer information about you to another company in connection with a merger, sale or acquisition by or of Krossover. In this event, we will use reasonable efforts to notify you before information about you is transferred and becomes subject to a different privacy policy. Krossover does not share, sell, rent or trade your Personal Information with any third parties for their promotional purposes.
+**(i) Information from third-party partners.**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website.
+We may receive information about you and your activities on and off the Website from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them.
 
-  8. #### Security
+  3. **KROSSOVER’S USE OF YOUR INFORMATION**
 
-The Personal Information we collect about you is stored on a secure, password-protected server and only authorized personnel have access to your information. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Information you submit to us on the Site and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet and no data storage method can be guaranteed to be safe 100% of the time.
 
-  9. #### Choice/Opt-out
 
-If you no longer wish to receive emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at gameon@krossover.com.
+We are passionate about creating engaging experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how:
 
-Or send a request via postal mail to:
+**(a) Provide, improve and develop Services.**
 
-Krossover Intelligence Inc.  
-101 West End Ave, Suite 6C,  
-New York, NY 10023  
-USA
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you are connected to and interested in on and off our Services.
 
-  10. #### Transfer and Storage of Data
+We conduct surveys and research, test features in development, and analyze the information we have to evaluate, customize and improve products and Services, develop new products or features, and conduct audits and troubleshooting activities.
 
-The Website is hosted on servers in the United States. Accordingly, if you are located outside of the United States, the Personal Information you provide to us will be transferred to the United States. By submitting your Personal Information, you consent to its transfer and storage in the United States and its use in accordance with the purposes for which it was originally collected.
+**(b) Communicate with you.**
 
-  11. #### Changes to This Privacy Policy
+We use your information to send you marketing communications, communicate with you about our Services, updates, promotional offers, and let you know about our policies and Terms. We also use your information to respond to you when you contact us, to provide customer support, and prevent potentially prohibited or illegal activities.  You may opt out of certain communications by following the procedures set forth in Section 5 below.
+
+**(c) Show and measure ads and services.**
+
+We use the information we have to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and Services. 
+
+**(d) Promote safety and security.**
+
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our Terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning.
+
+The information we collect is stored on a secure, password-protected server and only authorized personnel have access to your information. Krossover uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage and related technology required to run the Website and Krossover owns the code, databases and all rights therein. 
+
+We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Information you submit. Nevertheless, despite our best efforts, no transmission over the internet and no data storage method can be guaranteed to be safe 100% of the time. Krossover cannot guarantee that your end user data stored on our servers may not be accessed, disclosed, altered, or destroyed by breach of any of our industry standard physical, technical, or managerial safeguards. When you enter sensitive information (such as a credit card number) we encrypt such information using secure socket layer technology (SSL). The Krossover Website and software is hosted on servers in the United States. By using the Website, you consent to the transfer and storage of your information (including your Personal Information) in the United States and its use in accordance with the purposes for which it was originally collected.
+
+Your password is the key to your account. We urge to you to use unique numbers, letters and special characters, and to keep your password secure.  We recommend that you exit from your account at the end of each session, especially where you are accessing the Website on a public computer.  Immediately notify Krossover of any unauthorized use of your password or account or any other breach of security.  It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify Krossover if/when you desire to cancel your account on this Website. We are not responsible or liable for any loss or damage arising from your failure to comply with this or any other provision.
+
+Krossover will never request your password via email. If you receive an email or other correspondence requesting that you provide any sensitive information (including your Website password or credit card information) via email or to a Website that does not seem to be affiliated with our Website, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. You consent to our use of email as a means of such notification.
+
+**(e) Create Krossover Content**
+
+We may use the information to create Krossover Content, which may include all or part of your Posted Content, and which may then be posted on any Krossover Website, social media page or on such third party sites for promotional, instructional or other editorial purposes as described in our Terms.
+
+You specifically acknowledge that we have the right to publish all or part of your Posted Content (which may contain your Personal Information) to any Krossover Website or Krossover social media page or on such third party sites for such promotional, instructional or other editorial purposes as described in our Terms. 
+
+  4. **DISCLOSURE OF YOUR INFORMATION**
+
+
+
+We share certain categories of information we collect from you in the ways described in this Privacy Policy. Krossover may share certain information to website providers under contract who help with our business operations, including, without limitation, our employees, customer-support personnel, credit card processing companies (if you purchase anything the through the Website), and vendors that assist us in processing information or delivering items that you order (collectively “Vendors”) Vendors are governed by obligations to protect the confidentiality and security of such information. These Vendors are restricted from using the information for any purpose other than helping us to provide products these Services.
+
+Krossover may disclose your Personal Information, Non-Personal Information and any and all analytics and other data Krossover produces from your Posted Content to recruiters, coaches, accredited colleges and universities that you have indicated you are interested in attending, as well as other accredited colleges and universities that Krossover and/or third party service providers that have entered into a business relationship with Krossover believe may be of interest to you.  
+
+We may also disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Website in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+
+We reserve the right transfer information about you to another company in connection with a reorganization, merger, sale, acquisition or liquidation involving all or part of Krossover.
+
+We reserve the right to disclose your Personal Information and other personally identifiable information as required by law or to comply with a judicial proceeding, court order, or other legal process.  We may also disclose user information as necessary to enforce the Terms, in connection with investigations, or when we believe disclosure is necessarily incident to the provision of our Services or to the protection of the rights, property or safety of Krossover or others.
+
+Additionally, Krossover is a global enterprise, with affiliates worldwide. When you give your Personal Information to Krossover, it may be processed by Krossover in all countries in which Krossover has affiliates. Each of these countries has different privacy laws that afford varying levels of protection for your Personal Information. Regardless of the laws in place in these countries, Krossover will treat the privacy of your information in accordance with this Privacy Policy. By using this Website and/or providing us with your Personal Information, you (i) consent to the transfer, processing and/or storage of any Personal Information you provide, (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that the Website will collect, transfer to, process and/or store and deal with your Personal Information in accordance with this Privacy Policy and U.S. law. Consequently, you waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
+
+KROSSOVER SHALL HAVE NO LIABILITY FOR DISCLOSURE OF INFORMATION OBTAINED DUE TO ERRORS IN TRANSMISSION OR THE UNAUTHORIZED INTERVENTION OF THIRD PARTIES.  FURTHER, IF YOU POST ANY OF YOUR PERSONAL INFORMATION IN PUBLIC AREAS OF THE WEBSITE, SUCH AS MESSAGE BOARDS, AND OTHER PUBLIC FORUMS, SUCH INFORMATION MAY BE COLLECTED AND USED BY OTHERS OVER WHOM WE HAVE NO CONTROL. WE ARE NOT RESPONSIBLE FOR THE USE MADE BY THIRD PARTIES OF INFORMATION YOU POST OR OTHERWISE MAKE AVAILABLE IN PUBLIC AREAS OF THE WEBSITE.
+
+  5. **  DEACTIVATING ACCOUNT/OPT-OUT**
+
+
+
+Upon your request, or in the event we terminate your account in accordance with our Terms, we will deactivate your registered account within ten (10) days of Krossover’s receipt of such request. We may retain Personal Information, Posted Content and any other data produced by Krossover therefrom, from closed accounts to the extent necessary to comply with applicable law, prevent fraud, assist with any investigations, enforce our Terms, take actions we deem necessary to protect the integrity of the Website or our users, or as otherwise permitted by law.
+
+You have the right to “opt in” and “opt out” of certain of our uses of your Personal Information and may change your preferences regarding such uses at any time. For example, we may use your email for transactional and promotional purposes. Emails we send you may contain code that enables our database to track your usage of the emails we send you, such usage includes whether the email was opened and what links (if any) were clicked. If you do not want your Personal Information to be used for marketing purposes, you may write to us at privacy@krossover.com.
+
+If you no longer wish to receive emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at privacy@krossover.com.  However, we reserve the right to send you certain service announcements and administrative messages, without offering you an opportunity to opt out. In the case of an important message from us regarding your content, Posted Content, modifications to the Website, our Terms or this Privacy Policy, we reserve the right to contact you by email. 
+
+You may also opt out by sending a request via postal mail to:
+
+Krossover Intelligence Inc.
+
+148 West 24th Street
+
+New York, NY 10011
+
+  6. **CHILDREN**
+
+
+
+Krossover does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Website. The Website, including content available thereon, is not directed at children under the age of 13. In the event that we learn that we have collected Personal Information from a child under age 13 without parental consent, we will delete that information as quickly as possible.
+
+  7. **CALIFORNIA RESIDENTS**
+
+
+
+California Civil Code Section 1798.83 permits residents of the State of California to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses.  To make such a request, please email us at support@krossover.com or write us at: Krossover Intelligence Inc., Attn: Legal – California Privacy Compliance, 148 W 24th Street, Fl. 8, New York, NY 10011.
+
+  8. **US-European Union and US-Swiss Safe Harbor**
+
+
+
+Krossover complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Krossover has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view KROSSOVER’s certification, please visit[ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+
+  9. **  CHANGES TO THIS PRIVACY POLICY**
+
+
 
 We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy so please review it frequently. If we do, then we will notify you here, as well as by posting a notice on our Website and/or by e-mailing you. In all cases, use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
-Copyright © 2010 Krossover Intelligence Inc. All rights reserved.
-
-
-
+Copyright © 2015 Krossover Intelligence Inc. All rights reserved.
