@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebuzztrend.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015218id_/http%3A//thebuzztrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebuzztrend.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229145231id_/http%3A//thebuzztrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Buzz Trend
 
@@ -84,7 +84,7 @@ We have taken every reasonable step to safeguard and to help prevent the loss, m
 
 To opt-out from any of our direct promotions, please email support@Thebuzztrend.com
 
-Buzz Overload uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
+TheBuzzTrend.com uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
 
 **Changes to Policy**
 
