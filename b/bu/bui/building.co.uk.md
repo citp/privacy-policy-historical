@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the building.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122148id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the building.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229194748id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This Customer Privacy Policy governs the collection and use of personal informat
 
 UBM (UK) Ltd is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled. 
 
-For the purpose of the Data Protection Act 1998, the data controller is UBM (UK) Ltd of 240 Blackfriars Road, London SE1 8BF 9UY 
+For the purpose of the Data Protection Act 1998, the data controller is UBM (UK) Ltd of 240 Blackfriars Road, London SE1 8BF 
 
 By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer Privacy Policy.
 
