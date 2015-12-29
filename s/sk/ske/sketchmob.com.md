@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchmob.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193050id_/http%3A//sketchmob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchmob.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229171937id_/http%3A//sketchmob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sketchmob
 
@@ -46,4 +46,4 @@ Third Party Sites**
 
 Our Websites may contain links to or features from other websites. Our Privacy Policy only applies to the Sketchmob websites and we are not responsible for the privacy practices or the content of other websites. You should check the privacy policies of those sites before providing your personal information to them.
 
-© 2014 Sketchmob LLC, – All Rights Reserved. Last updated: September 29, 2013
+© 2015 Sketchmob LLC, – All Rights Reserved. Last updated: September 29, 2015
