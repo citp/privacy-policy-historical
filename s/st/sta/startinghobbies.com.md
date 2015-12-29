@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startinghobbies.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622015358id_/http%3A//startinghobbies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startinghobbies.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229062216id_/http%3A//startinghobbies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
