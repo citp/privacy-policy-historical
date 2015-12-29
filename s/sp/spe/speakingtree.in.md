@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623213711id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229073425id_/http%3A//www.speakingtree.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SpeakingTree
+# Privacy Policy of Speaking Tree
 
 Times Internet Limited, ("TIL") is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website www.speakingtree.in 
 
