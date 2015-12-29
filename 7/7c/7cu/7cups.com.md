@@ -1,29 +1,21 @@
-> *The following text is extracted and transformed from the 7cups.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627055620id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cups.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229200526id_/http%3A//www.7cups.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | 7CupsOfTea.com
+# Privacy Policy | 7 Cups
 
-### __ Embraced [__](https://web.archive.org/member/growthProgress.php "Member Levels")
-
-93 Growth Points to Next Level
-
-__Growth Points|  0  
----|---  
-__Compassion Hearts|  0  
-  
 * * *
 
-Welcome to 7CupsofTea.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. 
+Welcome to 7Cups.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. 
 
-This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at [info@7CupsofTea.com](mailto:info@7CupsofTea.com). 
+This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at [info@7Cups.com](mailto:info@7Cups.com). 
 
-You may not use 7CupsofTea.com if you do not agree to be bound by this Privacy Policy; you understand that 7CupsofTea.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7CupsofTea.com indicates that you accept any changes to the Privacy Policy. 
+You may not use 7Cups.com if you do not agree to be bound by this Privacy Policy; you understand that 7Cups.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. 
 
 Personal data is information that can be used to identify you as an individual.
 
-By registering on the 7CupsofTea.com service, you agree:
+By registering on the 7Cups.com service, you agree:
 
   1. To comply with the terms and conditions of this Privacy Policy, and
-  2. That 7CupsofTea.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7CupsofTea.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.
+  2. That 7Cups.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7Cups.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.
 
 
 
@@ -63,23 +55,23 @@ Pixel tags are small graphic images that are embedded in a web page or email for
 
 Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
 
-### Information that 7CupsofTea.com collects from Users requesting calls
+### Information that 7Cups.com collects from Users requesting calls
 
-When you request a chat or call on 7CupsofTea.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.
+When you request a chat or call on 7Cups.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.
 
 In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment. 
 
-7CupsofTea.com may also record your IP address when submitting information in order to combat online crime or fraud.
+7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud.
 
-### Information that 7CupsofTea.com collects from registered listeners
+### Information that 7Cups.com collects from registered listeners
 
-We collect information about you in a variety of ways. When you register with 7CupsofTea.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. 
+We collect information about you in a variety of ways. When you register with 7Cups.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. 
 
-7CupsofTea.com may also record your IP address when submitting information in order to combat online crime or fraud. 
+7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud. 
 
-7CupsofTea.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. 
+7Cups.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. 
 
-You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7CupsofTea.com by not registering with 7CupsofTea.com as a listener. You can also cancel your 7CupsofTea.com account.
+You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7Cups.com by not registering with 7Cups.com as a listener. You can also cancel your 7Cups.com account.
 
 ### Social Applications
 
@@ -95,7 +87,7 @@ Twitter App. is managed by Twitter, a company that complies with the Safe Harbor
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
 
-For content that is covered by intellectual property rights, like photos and videos you specifically grant 7CupsofTea.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7CupsofTea.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. 
+For content that is covered by intellectual property rights, like photos and videos you specifically grant 7Cups.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7Cups.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. 
 
 When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
 
@@ -115,8 +107,8 @@ You understand that we may not always identify paid services and communications 
 
 ### Child Protection
 
-7CupsofTea.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7CupsofTea.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7CupsofTea.com, at their sole discretion, can terminate that account.
+7Cups.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7Cups.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7Cups.com, at their sole discretion, can terminate that account.
 
 ### Consent and Changes
 
-As indicated above, you must accept the terms of this privacy policy to use 7CupsofTea.com. You understand and agree that 7CupsofTea.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7CupsofTea.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at [info@7CupsofTea.com](mailto:info@7CupsofTea.com).
+As indicated above, you must accept the terms of this privacy policy to use 7Cups.com. You understand and agree that 7Cups.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at [info@7Cups.com](mailto:info@7Cups.com).
