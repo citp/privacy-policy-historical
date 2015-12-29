@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627013721id_/http%3A//www.kayako.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229060258id_/http%3A//www.kayako.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy | Kayako - Live Chat & Helpdesk software
 
