@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucsb.edu privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151256id_/http%3A//www.policy.ucsb.edu/privacy-notification) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucsb.edu privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229053636id_/http%3A//www.policy.ucsb.edu/privacy-notification) for the most accurate reproduction.*
 
 # University of California, Santa Barbara Privacy Notification Statement
 
