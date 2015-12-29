@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyshangout.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611031418id_/http%3A//www.mommyshangout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyshangout.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229234940id_/http%3A//www.mommyshangout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mommy's Hangout/Atlanta Mommy Blogger/Jen Williams
 
