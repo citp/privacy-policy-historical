@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510122848id_/http%3A//www.waylandgames.co.uk/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229083228id_/http%3A//www.waylandgames.co.uk/content/2-privacy-policy) for the most accurate reproduction.*
 
 # Privacy, Shipping & Returns Policy - Wayland Games
 
@@ -41,7 +41,7 @@ Simiarly, we will not, without your express consent, share your personal informa
 
 ##### Using Your Personal Data
 
-There are many ways in which we can use your personal data to give you a better online shopping experience, from emailing you to let you know that your order has been despatched, to mproving your browsing experience by personalising the website. But any personal data you submit to our website will only be used as outlined in this privacy policy.
+There are many ways in which we can use your personal data to give you a better online shopping experience, from emailing you to let you know that your order has been despatched, to improving your browsing experience by personalising the website. But any personal data you submit to our website will only be used as outlined in this privacy policy.
 
 We may use your personal data to:
 
@@ -145,7 +145,7 @@ Aerosols cannot be sent by Air or surface shipping postage and can only be shipp
 
 ### Shipping Times
 
-When you place an order, the estimated dispatch time is shown on each item. We aim to get the orders packaged and out of the door as soon as possible. But at busy times and after public holidays, there can be a small backlog. Also bear in mind the delivery method selected does not impact the processing-packing-dispatch process. It is simply how quickly your order will be delivered from our warehouse.
+When you place an order, the estimated dispatch time varies according to the stock status. "In Stock" items are usually dispatched within 48 hours, "Available" items can take between 3 and 9 working days to arrive from the supplier and ship out. This is an average and some special items may take longer. We aim to get the orders packaged and out of the door as soon as possible. But at busy times and after public holidays, there can be a small backlog. Also bear in mind the delivery method selected does not impact the processing-packing-dispatch process. It is simply how quickly your order will be delivered from our warehouse.
 
 ##### Returns Policy
 
@@ -171,7 +171,7 @@ We often run Free Shipping promotions, which you can usually qualify for by spen
 
 Typically our Free Shipping promotional terms and conditions include:
 
-  * The promotion must be claimed by including the correct voucher code within a single order of goods that is priced at £40 or more.
+  * The promotion must be claimed by including the correct voucher code within a single order of goods that is priced at £30 or more.
   * The promotion will comprise free standard shipping on qualifying orders.
   * Bulky items, aerosols and paint are excluded. What constitutes a bulky item shall be at Wayland Games Limited's discretion.
   * Regretfully we are unable to offer free shipping under this promotion to destination addresses in Brazil and the Russian Federation. Any orders placed using this voucher destined for Brazil or the Russian Federation shall be cancelled and refunded.
