@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203829id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229024442id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.com
 
@@ -108,7 +108,7 @@ If you have any questions or concerns about this Privacy Policy, please e-mail u
 
 ****10\. BUSINESS TRANSFER****
 
-We may transfer or assign any customer information, including Personal Information, owned, under the control of, or received by the Company or its affiliates, in connection with a merger, divestiture, stock sale, restructuring, reorganization, dissolution or other sale or transfer of some of all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding. 
+We may transfer or assign any customer information, including Personal Information, owned, under the control of, or received by the Company or its affiliates, in connection with a merger, divestiture, stock sale, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding. 
 
 ****11\. LIMITATIONS ON LIABILITY****
 
