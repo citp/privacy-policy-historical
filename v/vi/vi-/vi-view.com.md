@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vi-view.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509013241id_/http%3A//vi-view.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vi-view.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229070054id_/http%3A//vi-view.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### TRUSTe's Trusted Download ProgramNew!
-
-Vi-View is certified as a Trusted Download Program by TRUSTe signifying that the Vi-View application has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Vi-View application, please contact us at [Flyingbird Technology Limited,FLAT/RM 110，KING‘S COMMERCIAL BUILDING，2-4 CHATHAM COURT，TSIM SHA TSUI，KL，Hong Kong.] or by email at [admin@vi-view.com] or by phone at [+852-27935511]. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=535&sealid=112)**.The TRUSTe Trusted Download program covers only Vi-View when downloaded from <http://vi-view.com/> and does not cover other applications such as Search App by Vi-View as a stand-alone application.
 
 As the fastest image viewer in the world, vi-view will be automatically set as your default image viewer. By selecting "Set mystart.vi-view.com as your homepage" checkbox on Vi-view installer primary notice, "Search App by Vi-View" extension will be installed to your Chrome. 
 
