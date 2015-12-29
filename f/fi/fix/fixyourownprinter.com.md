@@ -1,59 +1,67 @@
-> *The following text is extracted and transformed from the fixyourownprinter.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020205600id_/http%3A//fixyourownprinter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixyourownprinter.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229060244id_/http%3A//www.fixyourownprinter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - fixyourownprinter.com
+# FixYourOwnPrinter
 
-| 
+**What information do we collect?**  
+We collect information from you when you register on our site or subscribe to a post or newsletter. 
 
-### Privacy Statement
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. 
 
-This privacy statement discloses the privacy practices for www.fixyourownprinter.com.
+Google, as a third party vendor, uses cookies to serve ads on your site.   
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. ****
 
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site will notify you of:
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways: 
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
-  2. The organization collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under fixyourownprinter.com control
-  7. How you can correct any inaccuracies in the information
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 
 
- **Information Collection and Use**
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-fixyourownprinter.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. fixyourownprinter.com collects information from our visitors at several different points on our website.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
- **Order**
+**Do we use cookies?**  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-We request information from the visitor on our order form. Here a visitor must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the visitor.
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
- **Cookies**
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. We may anonymously share your location, excluding personally identifiable information, with third party advertisers to enhance your experience with more relevant, location-based offers. 
 
-We, ourselves, do not use cookies in any form on this site; however, some of our business partners may (for example, advertisers). However, we have no access to or control over these cookies.
+**Do we have affiliate relationships with the merchants on this site?**  
+We do have affiliate relationships with most of the merchants on FixYourOwnPrinter.com. This site accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. The compensation may influence the content on this website. 
 
- **Log Files**
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+ **  
+California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-We use IP addresses to analyze trends, administer the site, track visitor's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
- **Sharing**
+**Online Privacy Policy Only**  
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+**Your Consent**  
+By using our site, you consent to our privacy policy. 
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill visitors for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
- **Links**
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-This web site contains links to other sites. Please be aware that we at fixyourownprinter.com are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
- **Security**
-
-This website takes every precaution to protect our visitors' information. When visitors submit sensitive information via the website, your information is protected both online and off-line.
-
-When our registration/order form asks visitors to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just `surfing'.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect visitor-information off-line. All of our visitors' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.
-
- **Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes on our homepage so our visitors are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify visitors by way of an email. visitors will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+8342 Golden Eagle Road  
+Fort Collins, CO 80528  
+[fyop99@gmail.com](mailto:fyop99@gmail.com)
