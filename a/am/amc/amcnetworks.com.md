@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amcnetworks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608113356id_/http%3A//www.amcnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcnetworks.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229175332id_/http%3A//www.amcnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AMC Networks Inc.
 
-**EFFECTIVE DATE: FEBRUARY 25th, 2015**
+**EFFECTIVE DATE: July 24th, 2015**
 
 This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, “AMC” or “we” and sometimes “us”) collect about you and why, how we use and share that information, and the choices we offer.
 
@@ -108,5 +108,9 @@ The information we collect from you through your use of the Services is stored a
 ## **15.** **HOW CAN I CONTACT YOU?**
 
 If you have questions or concerns about our Policy, please contact us at: [privacy@amctv.com](mailto:privacy@amctv.com).
+
+## **16.** **SAFE HARBOR**
+
+AMC Network complies with the US/EU and US/Swiss Safe Harbor frameworks, as set forth by the U.S. Department of Commerce, for the collection, use and retention of personal information transferred from the EEA and Switzerland. More information regarding Safe Harbor can be found at: [http://www.export.gov/safeharbor. ](http://www.export.gov/safeharbor)
 
 © 2015 AMC Networks Inc. All rights reserved.
