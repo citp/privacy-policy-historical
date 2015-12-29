@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootmyandroid.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630060526id_/http%3A//rootmyandroid.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmyandroid.org privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229115549id_/http%3A//rootmyandroid.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Root My Android
 
