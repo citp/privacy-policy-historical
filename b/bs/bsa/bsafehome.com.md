@@ -1,37 +1,165 @@
-> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141715id_/http%3A//www.bsafehome.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022939id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | We are serious about your privacy | AVG
 
-**PRIVACY POLICY**  
+## Our Privacy Policy
 
+We (AVG Technologies NV and our affiliates) last changed our privacy policy on October 15th, 2015. If you’re interested to see what changed, please click here
 
-* * *
+## Why do you collect my data?
 
-Bsafe Online, Inc. (“Bsafe Online,” “We” or “Us”) is committed to respecting the privacy rights of visitors to the websites operated by Bsafe Online and its affiliated companies, including without limitation www.bsafe.com, www.bsafehome.com and www.bsafeonline.com (the “Sites”). Bsafe Online has adopted the privacy policies outlined below, which serve as the basis for our use of Your personal information in our business and advertiser relationships. This Privacy Policy is intended to comply with privacy laws applicable to Bsafe Online, its affiliated companies and the operation of the Sites. This Privacy Policy, however, does not cover Bsafe Online‘s or its affiliated companies’ offline privacy practices. 
+It’s simple. We provide products and services to help you secure your data, devices, and personal privacy. We use data to improve those products and services; provide support; send notifications, offers, and promotions; and to make money from our free offerings so that we can continue to offer them for free. 
 
-  * **INFORMATION COLLECTED.**  
-We collect two types of information about users: "Personal Information" (such as name, email address, mailing address, phone, credit card or debit card, personal preferences and other account-related information) and "Aggregate Information" (such as information about how many users log on to the Sites on a daily basis). Personal Information is collected online when users voluntarily submit non-public personal information on the Sites by establishing a customer account, requesting information, purchasing our products or services, receiving electronic notices or other similar communications and other similar activities. Aggregate Information is non-personally identifiable/anonymous information about You, such as age, gender, pages most frequently accessed by You or search terms entered by You. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information (for example, the number of people who logged into the Sites in a particular day). Aggregate Information does not personally identify a specific user. Your Personal Information will be retained for fulfillment of the intended purposes for which such Personal Information is collected. We will establish minimum and maximum retention periods based upon the type of information collected (i.e. sensitivity), the intended purposes and as otherwise may be legally required. For example, Bsafe Online will purge Your customer data no more than two (2) years after Your deactivation of a service. 
-  * **SECURITY:**  
-Bsafe Online maintains commercially reasonable safeguards to ensure the security, integrity and privacy of the Personal Information provided by You. Such security safeguards are intended to be appropriate to the sensitivity of the Personal Information collected. To the extent Bsafe Online transfers any Personal Information to third-parties, Bsafe Online will use commercially reasonable efforts to assure that such third-parties to whom We may transfer any Personal Information have knowledge of our Privacy Policy and provide sufficient protection of such Personal Information. In particular, Bsafe Online requires that a secure session be established using Secure Socket Layer (SSL) and Secure Electronic Transaction (SET) protocol when You submit Personal Information to Us through Your use of the Sites to establish an account, use the shopping cart, input credit card or debit card information for payment, and access certain product pages. 
-  * **COOKIES:**  
-The Sites may utilize a standard technology called a “cookie” to collect information about how the Site is used. A “cookie” is a small text file placed on your hard drive by our web page server. These cookies do not collect Personal Information, only Aggregate Information, and We do not combine Aggregate Information collected through cookies with other Personal Information to determine who You are or what Your e-mail address is. The Sites can access the Aggregate Information only from a cookie sent by the Sites. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, We cannot learn Your email address through the use of a cookie. The only way We would learn such Personal Information is if You specifically submit that Personal Information to Us, for example, by purchasing a product through our Sites, by entering a sweepstakes or promotion, by requesting information, etc. We use cookies to track usage of the Sites and further customize Your experience when You are visiting the Sites. By tracking usage, We can best determine what features of the Site best serve the users. Without cookies, the Sites would "forget" items that may be stored, such as purchases or schedule searches, when You go to a different page. The session information used by the Sites is deleted when Your browser is closed. We may use cookies to track banner advertisement usage. We do provide third parties with Aggregate Information about our users, such as “2,000 people viewed Your ad today,” as more fully set forth below. On those pages of the Sites not requiring Your registration, You may decline to accept cookies sent by the Sites by selecting an option on Your browser to reject cookies. However, some portions of the Sites may require registration in order to access those areas. In such case, We ask that You register and provide Us with basic information on our registration page. Cookies enable our server to know that You are a registered user; therefore, our registration system requires that You accept the cookies from the Sites. Other sites linked to the Site also may send cookies; however We do not control such activities. 
-  * **USE OF INFORMATION:**  
-Your privacy is important to us. We will use the Personal Information provided by You in accordance with good commercial practice and applicable law. If you provide Us with Your E-mail address, or have done so in the past, We may upon occasion send You e-mail offers. We may use information provided by You, for example, to provide a service, to ensure proper billing, to measure consumer interest in our various services and to inform You about various products and services offered on the Sites (including both our own products and the products of others). These offers may be based on information provided by You in Your initial transaction with Us, in surveys, from information that may indicate purchasing preferences and lifestyles, as well as information available from external sources such as census bureau data. These e-mail offers will come exclusively from Bsafe Online or its affiliated companies. All offers are carefully developed to ensure that they meet our standards. Our goal is to target offers to Site user who We believe will find them of value. The lists used to send You product and service offers are developed and managed under conditions designed to safeguard the security and privacy of Your Personal Information. By providing information using the Sites, You warrant to Bsafe Online that Your Personal Information is reliable for its intended uses, accurate, complete and correct, and that you will promptly notify use if such Personal Information is no longer current or correct. 
-  * **NO DISTRIBUTION.**  
-As a general policy, Bsafe Online does not share, sell or trade Personal information with third parties without permission from the user; however, We may provide Your Personal Information to third parties directly involved in the operation, performance, support and/or maintenance of the Sites and each product or service offered on the Sites, including our web site designers, hosts, service providers, technical consultants and business partners. Any Personal Information, however, will be used by such organizations only to perform their functions and/or to provide services in support of the Sites or as otherwise approved by You and for no other purpose. We reserve the right to assign or transfer Your Personal Information to any successor in interest to our business associated with the Sites by merger, reorganization, sale of assets or operation of law. Aggregate information may at times be shared with Bsafe Online business partners and other third parties. We also may divulge Personal Information if such information is required for us to comply with any valid legal process, such as a subpoena, search warrant, statute or court order, or if we reasonably believe that You have commit unlawful acts or acts that may endanger the health or safety of another user or of the general public. 
-  * **OPT-OUT/OPT-IN:**  
-Bsafe Online provides customers with an easy means to decline receiving e-mail offers. Although most customers tell Us that they appreciate receiving notice of these opportunities, We recognize the importance of providing You with the choice to “opt-out”. If You do not want Bsafe Online to send You any e-mail or postal mail about our products and services, You can opt out at the time by contacting our Privacy Officer at the Contact Address. Also, all e-mail offers sent by Bsafe Online will inform You as to how You can “opt-out” or decline receiving further e-mail offers. If, at a later date, You choose to have Your name removed from our database, You can do so by contacting our Privacy Officer at the Contact Address. However, with respect to any Personal Information that is sensitive in nature, we will require You to “opt-in” to having such Personal Information used or shared by Bsafe Online. 
-  * **CORRECTIONS TO PERSONAL INFORMATION COLLECTED ONLINE.**  
-Additionally, You may request to view the Personal Information collected about You through Your use of the Sites by accessing Your account or sending an e-mail to our Privacy Officer at the Contact Address. If You send Your request by email, we will send such Personal Information (or a summary thereof) for review to the email address on file for the account name in our database only. If at any time You wish to change, correct or update Your Personal Information, or have it removed from our database, You may do so by accessing Your account. You also may submit a change request to our Privacy Officer by sending an email to the Contact Address. 
-  * **ACCOUNTABILITY/CHALLENGING COMPLIANCE.**  
-We have designated our Privacy Officer, who can be contacted at the following address (“Contact Address”): By Mail: Privacy Officer, Bsafe Online, Inc., P.O. Box 1149 Fort Walton Beach, Florida 32548-11492; By Email: privacyofficer@bsafeonline.com. Our Privacy Officer is accountable for Bsafe Online’s compliance with this Privacy Policy. If You have any challenge concerning our compliance with this Privacy Policy or if You have any questions about Bsafe Online’s purposes for the collection and retention of your Personal Information, then please contact our Privacy Officer at the Contact Address and provide a description of your concerns sufficient in detail to permit the Privacy Officer to investigate your concerns and contact you. It is our intent to make available to You through Privacy Officer specific information about this Privacy Policy and our management of Your Personal Information as may be required by applicable law. 
-  * **CHILDREN:**  
-Bsafe Online does not knowingly solicit data from children or knowingly market to children. Bsafe Online is concerned about the safety of children and their use of the Internet. Therefore, in accordance with the U.S. Children's Online Privacy Protection Act of 1998, We do not knowingly request or solicit personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. In the event that We receive actual knowledge that We have collected such Personal Information without the requisite and verifiable parental consent, We will delete that information from our database as quickly as is reasonably practical. 
-  * **LINKED INTERNET SITES:**  
-You should be aware that other Internet sites to which You hyperlink from the Sites may contain privacy statements that differ from our Privacy Policy. Bsafe Online encourages You to read and understand such privacy policies and terms of use of any linked sites accessed by You. If You decide to access such linked sites and/or provide any personal information to such linked sites, You do so entirely at Your own risk. Bsafe Online is not responsible for such provisions, and expressly disclaims any and all liability related to such provisions. 
-  * **MISCELLANEOUS TERMS:**  
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Bsafe Online to intercept or access transmissions or private communications unlawfully. If You choose to visit the Sites, Your visit and any dispute over privacy is subject to this Privacy Policy, including but not limited to limitations of damages and application of the law of the State of Texas. UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO NEGLIGENCE, SHALL BSAFE ONLINE OR ITS AFFILIATES, CONTRACTORS AND CONSULTANTS BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THE SITES, EVEN IF BSAFE ONLINE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE EXCLUSIVE REMEDIES PROVIDED UNDER THIS PRIVACY POLICY FAIL OF THEIR ESSENTIAL PURPOSE. 
-  * **EFFECTIVE DATE AND CHANGES:**  
-This Privacy Policy is effective as of January 2001. This Privacy Policy was last modified on March 10, 2006. This Privacy Policy has been adopted with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, these policies are subject to change at any time and Bsafe Online expressly reserves the right to modify the terms of this Privacy Policy at any time and in our reasonable discretion, by posting a change notice to the home page of the Sites. Your continued use of the Sites following our posting of a change notice will constitute binding acceptance of this Privacy Policy and all changes thereto. 
+We use data that can identify you, called personal data, to: 
+
+  * Enable you to purchase and download products, obtain access to services and engage in offered activities;
+  * Provide you information about virus alerts, new and upgraded products and services, and other information you have requested;
+  * Provide you with service messages to your device;
+  * Alert you if we determine that your files, applications or emails are potentially malicious;
+  * Send you newsletters, informative emails or other information regarding AVG; and
+  * Provide you special opportunities, including offers relating to third-party products and services
 
 
+
+We use data that does not identify you, called non-personal data, for lots of purposes, including to improve our products and services and to help keep our free offerings free. In particular, we may use non-personal data to build anonymous data profiles and provide segmented marketing, generate aggregate statistical information, and to improve and administer our current products and create new products. 
+
+You can be assured that we protect the information we collect. By using our products or services, you agree to the collection, use and sharing of your data in accordance with this Privacy Policy. Unless the specific product states otherwise, all AVG products and services are included under this Privacy Policy. 
+
+If you are really interested in this privacy stuff, we’ve put together [a few videos](http://www.youtube.com/officialavg) and to help explain what we do, why we do it, and how. 
+
+## How do you collect my data?
+
+We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking services here. Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats. 
+
+## What do you collect that can identify me?
+
+Like many companies, some of the information we collect, known as personal data, can identify you. An example of personal data might be your name or email address. 
+
+Some personal data we collect only when you provide it to us. This information may include your name, address, email address, telephone number, and if you pay by credit card, your payment information. This may happen when you: 
+
+  * Create a user account, place an order, or register a product;
+  * Request product support or other services;
+  * Request information about products; or
+  * Participate in surveys.
+
+
+
+Some personal data we collect automatically when you use our website or products. This information may include some or all of the following types of information: 
+
+  * Your Internet Protocol ("IP") address;
+  * User and account names and related data;
+  * Phone number;
+  * SIM (Subscriber Identification Module) card number;
+  * Device ID numbers, including Machine ID, IMEI and/or MEID;
+  * AVG product license and identification numbers; and
+  * Geographic location based on GPS/Wi-Fi/communications network local information.
+
+
+
+Unless we need the data to retain its personally identifiable characteristics, we anonymize the data we collect and store it in a manner that does not identify you. For instance, when we collect your IP address, we may anonymize your IP address by obfuscating the last group of digits (e.g., changing 192.168.1.1 to 192.168.1.XXX). 
+
+## What do you collect that cannot identify me?
+
+We collect many types of data, called non-personal data that does not personally identify you. While we cannot list out each and every type of non-personal data that we collect, we’ve tried below to give you a general understanding of what types of non-personal data we collect and examples to help you see what we mean. 
+
+We collect non-personal data to improve our products and services, including: 
+
+  * data concerning potential malware threats to your device and the target of those threats, including copies of files or emails marked as potential malware, file names, cryptographic hash, vendor, size, date stamps, associated registry keys, etc.;
+  * information about how you use our products and their features, including information about your particular device, installation and uninstallation rates, language, technical parameters and manufacturer of a device, device security information (password attributes, encryption level), etc.; and
+  * information about where our products and services are used, including approximate location, zip code, area code, time zone, and the URL you came from to reach our products.
+
+
+
+We collect non-personal data to make money from our free offerings so we can keep them free, including: 
+
+  * Advertising ID associated with your device;
+  * Browsing and search history, including meta data;
+  * Internet service provider or mobile network you use to connect to our products; and
+  * Information regarding other applications you may have on your device and how they are used.
+
+
+
+Sometimes browsing history or search history contains terms that might identify you. If we become aware that part of your browsing history might identify you, we will treat that portion of your history as personal data, and will anonymize this information. We may also aggregate and/or anonymize personal data we collect about you. For instance, although we would consider your precise location to be personal data if stored separately, if we combined the locations of our users into a data set that could only tell us how many users were located in a particular country, we would not consider this aggregated information to be personally identifiable. 
+
+## Do you share my data?
+
+Yes, though when and how we share it depends on whether it is personal data or non-personal data. AVG may share non-personal data with third parties and may publicly display aggregate or anonymous information. 
+
+We do not sell or rent your personal data to third parties. 
+
+We may share certain personal data (as described below) with: 
+
+  * Any of our affiliated AVG companies;
+
+
+
+AVG is a global company, comprising many companies in many offices around the world. In order to do business around the globe, we may share your personal data across our offices and companies which may be in countries with different laws regarding the collection and use of personal data than the country we collected it from. 
+
+  * Search providers;
+
+
+
+Certain of our search providers may require us to share your full IP address with them in order to fulfill your search requests. Please note that the search providers have their own privacy policies that govern the privacy of these requests. We encourage you to read these privacy policies before deciding to use these services. 
+
+  * Selected AVG resellers, distributors and other partners performing services on our behalf.
+
+
+
+We may share some of your personal data, such as your email address, with certain selected resellers, distributors and other partners to enable them to contact you on our behalf about products, services or offers we believe are important to you or your business, to fulfill any terms under your licensing and service relationship with AVG, or to provide you local technical and customer support. 
+
+Lastly, we may share your personal data: 
+
+  * when necessary to deliver the product or service you require such as with a payment card provider who we use to process your credit card transaction;
+  * when authorized by law or necessary to comply with a valid legal process;
+  * when required to protect and defend the rights or property of AVG, including the security of our products and services;
+  * when necessary to protect the personal safety, property or other rights of the public, AVG or its customers or employees; or
+  * in connection with a sale of all or part of our business.
+
+
+
+If we are legally compelled to disclose your personal data to a third party, we will use commercially reasonable efforts to notify you in advance of a disclosure unless legally prohibited. If we are involved in a merger, acquisition or asset sale, we will abide by this Privacy Policy, and any affected users will be informed if we transfer any personal data to a third party or if personal data becomes subject to a different privacy policy as a result. 
+
+## What rights do I have over my data?
+
+You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with. 
+
+You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected). 
+
+You have the right to opt out of the use or collection of certain data, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/us-en/privacy-preferences). 
+
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/us-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts. 
+
+You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular: 
+
+  * We abide by this Privacy Policy at all times with respect to all data that we collect from you;
+  * We limit the use and disclosure of your personal data, and work to ensure that anyone with whom we share such information treats that information with the privacy and security it deserves; and
+  * We have put in place industry-accepted physical, technical and administrative practices to safeguard and secure the information we collect.
+
+
+
+## What changes have you recently made?
+
+We reserve the right to change this Privacy Policy at any time, and will indicate the date the Privacy Policy was most recently updated. If there have been significant changes, we will highlight any such changes, and will attempt to directly alert you when possible. We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+Changes to our privacy policy since the latest version include: 
+
+  * We’ve changed how we present our privacy policy to make it easier to understand and read.
+
+
+
+Follow [this link](https://web.archive.org/us-en/privacy-archive) to download the current privacy policy or access previous versions of the AVG Privacy Policy. 
+
+## How can I contact you?
+
+If have any questions about this policy or any of the above, please email us at [privacy@avg.com](mailto:privacy@avg.com) or see instructions in the product or service you are using. You may contact us by mail at: 
+
+AVG Netherlands BV   
+Gatwickstraat 9-39,    
+1043GL Amsterdam   
+The Netherlands 
+
+## Is there anything else I need to know?
+
+Periodically, our site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites. 
+
+We may also link to co-branded websites or products that are maintained by AVG Technologies and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.  
