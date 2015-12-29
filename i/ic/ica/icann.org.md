@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the icann.org privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516050116id_/http%3A//www.icann.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icann.org privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229171014id_/https%3A//www.icann.org/en/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ICANN
+# Resources - ICANN
 
-## [Help](https://web.archive.org/en/help)
-
-## Search
-
-Last Updated: 11 Oct 2012
+## Last Updated: 11 Oct 2012
 
 The Internet Corporation for Assigned Names and Numbers' ("ICANN") respects the protection and privacy of personal information. This statement ("Privacy Statement") sets out how ICANN will use and handle personal information provided by or collected from a user ("User") of its websites or services, including any mobile version of the websites, mobile applications, and other online services (collectively, the "Site").
 
@@ -81,10 +77,3 @@ If you have any questions about this Privacy Statement, please feel free to cont
 
 
 
-
-## Stay Connected
-  *[ICANN]: Internet Corporation for Assigned Names and Numbers
-  *[gTLD]: generic Top Level Domain
-  *[ ICANN]: Internet Corporation for Assigned Names and Numbers
-  *[IP]: Intellectual Property; or Internet Protocol
-  *[ISP]: Internet Service Provider
