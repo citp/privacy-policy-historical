@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423103005id_/http%3A//bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229090903id_/http%3A//bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
@@ -9,10 +9,16 @@ Toll Free
   * [Home](http://bookvip.com/)
   * [Hot Weekly Deals](http://bookvip.com/weeklydeals)
   * [All Vacation Deals](http://bookvip.com/vacationspecials)
+  * [All Inclusive Deals](http://bookvip.com/allinclusivedeals)
   * [About Us](http://bookvip.com/home/aboutus)
   * [Customer Video Reviews](http://bookvip.com/sitereviews)
 
 
+
+Over 1.2 Million Likes 
+
+1,222,795 Facebook Likes and counting.  
+People love our offers, you will too!
 
 **BookVIP.com Privacy Policy**
 
@@ -69,6 +75,14 @@ We take precautions to protect your information. When you submit sensitive infor
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+**Taxes & Fees**
+
+The taxes are tax recovery charges BookVIP.com pays to its vendors (e.g. hotels); We retain our service fees as compensation in servicing your travel reservation.
+
+**PREPAID HOTEL RESERVATIONS**
+
+You acknowledge that BookVIP.com pre-negotiate certain room rates with hotel suppliers to facilitate the booking of reservations. You also acknowledge that BookVIP.com provide you services to facilitate such booking of reservations for a consideration (the "facilitation fee"). The room rate displayed on the Website is a combination of the pre-negotiated room rate for rooms reserved on your behalf by BookVIP.com and the facilitation fee retained by BookVIP.com for their services. You authorize BookVIP.com to book reservations for the total reservation price, which includes the room rate displayed on the Website, plus tax recovery charges, service fees, and where applicable, taxes on BookVIP.com services. You acknowledge that except as provided below with respect to tax obligations on the amounts we retain for our services, BookVIP.com do not collect taxes for remittance to applicable taxing authorities. The tax recovery charges on prepaid hotel transactions are a recovery of the estimated taxes (e.g. sales and use, occupancy, room tax, excise tax, value added tax, etc.) that BookVIP.com pay to the hotel supplier for taxes due on the hotel's rental rate for the room. The hotel suppliers invoice BookVIP.com for certain charges, including tax amounts. The hotel suppliers are responsible for remitting applicable taxes to the applicable taxing jurisdictions. BookVIP.com does not act as co-vendors with the supplier with whom we book or reserve our customer's travel reservations.
 
 **Updates**
 
