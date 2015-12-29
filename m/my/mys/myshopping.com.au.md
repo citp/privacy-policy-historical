@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430055421id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229035440id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # MyShopping.com.au Privacy Policy
 
@@ -12,21 +12,25 @@ MyShopping Australial Pty Ltd owns and operates this site 'My Shopping'. We have
 
 ## Collecting personal information
 
-My Shopping collects aggregated, non-personal statistical information on site visitors such as:
+My Shopping collects aggregated, non-personal statistical information on site visitors such as: 
 
-* your server IP address;
-* the date and time of your visit to the site;
-* the pages you accessed and the documents downloaded;
-* the duration of your visit to the site;
-* the previous site you have visited;
-* the type of web browser you are using;
-* other information provided by your browser's HTTP headers
+  * your server IP address;
+  * the date and time of your visit to the site;
+  * the pages you accessed and the documents downloaded;
+  * the duration of your visit to the site;
+  * the previous site you have visited;
+  * the type of web browser you are using;
+  * other information provided by your browser's HTTP headers
+
+
 
 MyShopping also collects user submitted information such as:
 
-* My Shopping Club account information, including name and email address; 
-* location information, including city, state and postcode;
-* reviews, articles, responses, opinion and ratings of merchants, stores, products and services
+  * My Shopping Club account information, including name and email address; 
+  * location information, including city, state and postcode;
+  * reviews, articles, responses, opinion and ratings of merchants, stores, products and services
+
+
 
 Please note, when you voluntarily disclose personally identifiable information on the My Shopping site via reviews, messages, forums or postings, that information, along with any substantive information disclosed in your communication, can potentially be collected, correlated and used by third parties. 
 
@@ -42,22 +46,24 @@ If you wish to access and use My Shopping Club, you must register and create a u
 
 My Shopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other My Shopping users. To fulfill this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. My Shopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
 
-* establish a My Shopping Club user account;
-* contact you for any purpose related to your account or your use of the site;
-* verify your identity;
-* market products, services and special offers to you;
-* assist you to subscribe to any newsletter or other promotions we offer or may in the future offer and to manage and administer those services;
-* make changes to your profile;
-* respond to any queries or feedback you may have;
-* inform you of ways the information or services provided to you could be improved;
-* research and develop our services;
-* maintain and develop our business systems;
-* display and aggregate your postings, including ratings, opinions, articles, comments and reviews;
-* allow other users of the site to contact or send postings and messages to you;
-* gain a better understanding of your information service requirements; and
-* conduct appropriate checks for credit-worthiness or fraud.
+  * establish a My Shopping Club user account;
+  * contact you for any purpose related to your account or your use of the site;
+  * verify your identity;
+  * market products, services and special offers to you;
+  * assist you to subscribe to any newsletter or other promotions we offer or may in the future offer and to manage and administer those services;
+  * make changes to your profile;
+  * respond to any queries or feedback you may have;
+  * inform you of ways the information or services provided to you could be improved;
+  * research and develop our services;
+  * maintain and develop our business systems;
+  * display and aggregate your postings, including ratings, opinions, articles, comments and reviews;
+  * allow other users of the site to contact or send postings and messages to you;
+  * gain a better understanding of your information service requirements; and
+  * conduct appropriate checks for credit-worthiness or fraud.
 
-Telstra's digital advertising network is responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra's network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra here www.telstra.com.au/privacy/interest-based-advertising. General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising here www.youronlinechoices.com.au/opt-out. 
+
+
+Several advertising networks are responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. General information about interest based advertising is available from the industry website www.youronlinechoices.com.au 
 
 ## Transferring your personal information
 
