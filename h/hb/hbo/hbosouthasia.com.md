@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511184453id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230002928id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
 
-# HBO South Asia, Its Not TV, Its HBO - English Movie Channel India, Pakistan, Bangladesh, Maldives
+# Privacy Policy of HBO Southasia - English Movie Timings.
 
 Thank you for visiting the HBO South Asia site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
 
