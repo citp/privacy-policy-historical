@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628214942id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229030004id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
 
 # lynda.com Online Training Library®: Privacy
 
-We are lynda.com, Inc., located at 6410 Via Real, Carpinteria, CA 93013, USA **(referred to as “us”, “our”, “we”, “Company”, “lynda.com”)**. We are committed to protecting and respecting your privacy. This Privacy Policy describes the types of information we may collect from you or that you may provide to us when you visit the lynda.com websites located at [www.lynda.com](http://www.lynda.com/), [m.lynda.com](http://m.lynda.com/) and [www.video2brain.com](https://www.video2brain.com/) **(the “Websites”)** or the lynda.com mobile application **(“App”) (collectively, the “Services”)** , and our practices for collecting, using, maintaining, protecting and disclosing such information. This Privacy Policy applies to information we collect: (i) through our Services, (ii) in text and electronic messages between you and our Services, and (iii) via mobile applications you download from our Websites, which provide dedicated non-browser-based interactions between you and our Services. This Privacy Policy does not apply to any information collected by us offline or via third-party sites that may be accessed through hyperlinks on our Services.
+As announced on April 9, 2015, LinkedIn [acquired](https://press.linkedin.com/site-resources/news-releases/2015/linkedin-to-acquire-lyndacom) Lynda.com Inc. The references to Lynda.com Inc. below should be read as references to Lynda.com LLC.
 
-lynda.com has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signifying that this Privacy Policy and practices of lynda.com, have been reviewed by TRUSTe for compliance with TRUSTe’s [Web Privacy](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+We are Lynda.com, Inc., located at 6410 Via Real, Carpinteria, CA 93013, USA **(referred to as “us”, “our”, “we”, “Company”, “Lynda.com”)**. We are committed to protecting and respecting your privacy. This Privacy Policy describes the types of information we may collect from you or that you may provide to us when you visit the Lynda.com websites located at [www.lynda.com](http://www.lynda.com/), [m.lynda.com](http://m.lynda.com/) and [www.video2brain.com](https://www.video2brain.com/) **(the “Websites”)** or the Lynda.com mobile application **(“App”) (collectively, the “Services”)** , and our practices for collecting, using, maintaining, protecting and disclosing such information. This Privacy Policy applies to information we collect: (i) through our Services, (ii) in text and electronic messages between you and our Services, and (iii) via mobile applications you download from our Websites, which provide dedicated non-browser-based interactions between you and our Services. This Privacy Policy does not apply to any information collected by us offline or via third-party sites that may be accessed through hyperlinks on our Services.
 
-The TRUSTe program covers information collected through the websites [www.lynda.com](http://www.lynda.com/), [m.lynda.com](http://m.lynda.com/) and [www.video2brain.com](https://www.video2brain.com/), the lynda.com mobile application, and the service platform associated with this website.
+Lynda.com has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signifying that this Privacy Policy and practices of Lynda.com, have been reviewed by TRUSTe for compliance with TRUSTe’s [Web Privacy](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-We self-certify compliance with the following: the U.S. – E.U. Safe Harbor Framework and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. lynda.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the lynda.com certification, please visit <http://www.export.gov/safeharbor>.
+The TRUSTe program covers information collected through the websites [www.lynda.com](http://www.lynda.com/), [m.lynda.com](http://m.lynda.com/) and [www.video2brain.com](https://www.video2brain.com/), the Lynda.com mobile application, and the service platform associated with this website.
 
-lynda.com privacy practices described in this Policy comply with the APEC Cross Border Privacy Rules System.
+We self-certify compliance with the following: the U.S. – E.U. Safe Harbor Framework and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Lynda.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Lynda.com certification, please visit <http://www.export.gov/safeharbor>.
+
+Lynda.com privacy practices described in this Policy comply with the APEC Cross Border Privacy Rules System. Note:  As of August 2015, Lynda.com has allowed its TRUSTe certification under the APEC Cross Border Privacy Rule System to expire but otherwise maintains its compliance with the APEC Privacy Principles.
 
 If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), or by fax at 415-520-3420 or by mail to: TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact_us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
@@ -27,7 +29,7 @@ Please read the information below:
   5. Updating or correcting your personally identifiable information
   6. Canceling your account or deleting your personally identifiable information
   7. Choices regarding control of your personally identifiable information
-  8. Information related to data collected through the lynda.com platform service
+  8. Information related to data collected through the Lynda.com platform service
   9. Data Security
   10. Cookies
   11. Mobile Analytics
@@ -49,7 +51,7 @@ We collect several types of information about visitors and/or users of our Servi
 
 We may also collect your Internet Protocol (‘IP’) address. We use your IP address to diagnose problems with our servers, software, to administer our Services and to gather demographic information.
 
-We do not collect more Personally Identifiable Information than is reasonably necessary to participate in an activity on the Websites. If you are a school and you use a lynda.com service within the United States for children under the age of 13, you are responsible for obtaining consent from the parents/legal guardians of each child you wish to allow to participate in using any of our Services. A child using our Services will be able to participate in certain activities such as taking online educational and informational courses.
+We do not collect more Personally Identifiable Information than is reasonably necessary to participate in an activity on the Websites. If you are a school and you use a Lynda.com service within the United States for children under the age of 13, you are responsible for obtaining consent from the parents/legal guardians of each child you wish to allow to participate in using any of our Services. A child using our Services will be able to participate in certain activities such as taking online educational and informational courses.
 
 (b) Non-Personally Identifiable Information. We may collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information, that does not by itself identify a specific individual. Such information tells us about your equipment, browsing actions, the resources that you access and use through the Services, your operating system and browser type. Our third party ad servers will provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our Websites. The information that we collect automatically is ‘statistical’ in nature. It helps us to deliver a better and more personalized service to users, by enabling us to estimate usage patterns, customize our Services according to your individual preferences, and speed up your searches.
 
@@ -57,7 +59,7 @@ We do not collect more Personally Identifiable Information than is reasonably ne
 
 ## 2\. WHERE WE STORE DATA
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area **(“EEA”)**. It may also be processed by staff operating outside the EEA who work for us or for one of our service providers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. lynda.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area **(“EEA”)**. It may also be processed by staff operating outside the EEA who work for us or for one of our service providers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. Lynda.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
 ## 3\. HOW WE USE YOUR INFORMATION
 
@@ -85,15 +87,15 @@ We will share your Personally Identifiable Information with third parties only i
 
 (a) We provide some of our Services through contractual arrangements with service providers and other third parties. We and our service partners use your Personally Identifiable Information to operate our Websites and to deliver Services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on our Websites; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us deliver the services.
 
-(b) We will disclose Personally Identifiable Information in the following circumstances: (i) if it is required by law enforcement or judicial authorities, or to cooperate with a law enforcement investigation; (ii) if we have a good faith belief that we are required or permitted to do so by law or legal process; (iii) to protect the rights, reputation, property or safety of lynda.com or others; (iv) to defend or enforce our rights or your obligations; (v) if the disclosure is required by mandatory professional standards; (vi) to a 3rd party with your prior consent to do so; or (vii) if we are under a duty to disclose or share your Personally Identifiable Information in order to enforce or apply, or any contracts or agreement that may exist between you and lynda.com including this Privacy Policy and our Website Use Policy. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+(b) We will disclose Personally Identifiable Information in the following circumstances: (i) if it is required by law enforcement or judicial authorities, or to cooperate with a law enforcement investigation; (ii) if we have a good faith belief that we are required or permitted to do so by law or legal process; (iii) to protect the rights, reputation, property or safety of Lynda.com or others; (iv) to defend or enforce our rights or your obligations; (v) if the disclosure is required by mandatory professional standards; (vi) to a 3rd party with your prior consent to do so; or (vii) if we are under a duty to disclose or share your Personally Identifiable Information in order to enforce or apply, or any contracts or agreement that may exist between you and Lynda.com including this Privacy Policy and our Website Use Policy. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-(c) In the event that lynda.com decides to sell all or part of its stock or assets or enter into a merger, we reserve the right to include Personally Identifiable Information and Non-Personally Identifiable Information among the assets transferred to the acquiring or surviving company.
+(c) In the event that Lynda.com decides to sell all or part of its stock or assets or enter into a merger, we reserve the right to include Personally Identifiable Information and Non-Personally Identifiable Information among the assets transferred to the acquiring or surviving company.
 
 (d) We may provide Non-Personally Identifiable Information about our customers’ sales, traffic patterns, and related Website information to third party advertisers.
 
-(e) Parents are able to consent to the use of their child’s Personally Identifiable Information without having to consent to the Website’s disclosure of the child’s Personally Identifiable Information to third parties, as we do not share Personally Identifiable Information of children under the age of 13 with any third parties (other than those service partners who help us provide the lynda.com service to you).
+(e) Parents are able to consent to the use of their child’s Personally Identifiable Information without having to consent to the Website’s disclosure of the child’s Personally Identifiable Information to third parties, as we do not share Personally Identifiable Information of children under the age of 13 with any third parties (other than those service partners who help us provide the Lynda.com service to you).
 
-For a list of 3rd party trackers and the information that may be shared with or collected by such 3rd parties, please click here: [lynda.com 3rd parties](http://cdn.lynda.com/cms/asset/text/LDC3rdparties1671099996.pdf)
+For a list of 3rd party trackers and the information that may be shared with or collected by such 3rd parties, please click here: [Lynda.com 3rd parties](https://s3-us-west-1.amazonaws.com/ldc-enterprise/3rdparties.pdf)
 
 If you have any inquiries regarding our privacy practices, please contact us directly at [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com).
 
@@ -103,7 +105,7 @@ You may change any of your or your child’s Personally Identifiable Information
 
 You may also access, request deletion, and correct yours or your child’s personal information and privacy preferences by contacting [support@lynda.com](mailto:support@lynda.com) or by emailing us at [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com), or writing to us at:
 
-lynda.com, Inc.  
+Lynda.com, Inc.  
 6410 Via Real  
 Carpinteria, CA 93013  
  _Attn: Business Affairs_
@@ -112,9 +114,9 @@ Please include your or your child’s name, address, and e-mail address when you
 
 ## 6\. CANCELING YOUR ACCOUNT OR DELETING PERSONALLY IDENTIFIABLE INFORMATION
 
-If you are a lyndaPro member and would like to cancel your membership, log in to your account and go to My Account, Account + Billing. You can also contact your sales representatives or contact [support@lynda.com](mailto:support@lynda.com).
+If you are a LyndaPro member and would like to cancel your membership, log in to your account and go to My Account, Account + Billing. You can also contact your sales representatives or contact [support@lynda.com](mailto:support@lynda.com).
 
-If you are lyndaKiosk, lyndaClassroom, lyndaCampus or lyndaEnterprise and would like to cancel your membership, please contact your sales representatives or contact [support@lynda.com](mailto:support@lynda.com). To have any personally identifiable information deleted, please contact: [support@lynda.com](mailto:support@lynda.com).
+If you are LyndaKiosk, LyndaCampus, or LyndaEnterprise and would like to cancel your membership, please contact your sales representatives or contact [support@lynda.com](mailto:support@lynda.com). To have any personally identifiable information deleted, please contact: [support@lynda.com](mailto:support@lynda.com).
 
 We will retain your or your child’s information for as long as your account is active or as needed to provide you Services. If you wish to cancel your or your child’s account or request that we no longer use your information to provide you Services contact us at [support@lynda.com](mailto:support@lynda.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request to access within 30 days.
 
@@ -124,7 +126,7 @@ You can access some of the information that we collect about you or your child. 
 
 With respect to your communications preferences, you can unsubscribe from newsletters by following the instructions included in the newsletter you receive or you can log into your account and update your newsletter and email subscription options. If your e-mail address has changed and you would like to continue to receive newsletters, you will need to access your account and update your e-mail address information in your account and sign-up again for the newsletter. Occasionally we may send out e-mails concerning website disruptions.
 
-If you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only lynda.com (or agents working on behalf of us and under confidentiality agreements) will send you these direct mailings, and only if you did not later ‘opt-out’ of such offers.
+If you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Lynda.com (or agents working on behalf of us and under confidentiality agreements) will send you these direct mailings, and only if you did not later ‘opt-out’ of such offers.
 
 We do not send unsolicited commercial e-mails (“spam”). We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. Please note that we may not include the opt-out information in non-commercial Service e-mails (i.e., e-mails concerning your order, the Website Terms of Service, etc.).
 
@@ -132,9 +134,9 @@ You also have choices with respect to cookies, as described below. By modifying 
 
 ## 8\. INFORMATION RELATED TO DATA COLLECTED THROUGH THE LYNDA.COM PLATFORM SERVICE
 
-For certain services lynda.com collects information under the direction of its clients (e.g., an entity that subscribes to the Services for use by the entity’s personnel). In this respect, lynda.com acts as a data processor and has no direct relationship with the individuals whose Personally Identifiable Information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the relevant lynda.com client (the data controller). If the client makes a request to us to remove the data, we will respond to their request within 30 days.
+For certain services Lynda.com collects information under the direction of its clients (e.g., an entity that subscribes to the Services for use by the entity’s personnel). In this respect, Lynda.com acts as a data processor and has no direct relationship with the individuals whose Personally Identifiable Information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the relevant Lynda.com client (the data controller). If the client makes a request to us to remove the data, we will respond to their request within 30 days.
 
-lynda.com will retain Personally Identifiable Information we process on behalf of our clients for as long as needed to provide our services to our client. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Lynda.com will retain Personally Identifiable Information we process on behalf of our clients for as long as needed to provide our services to our client. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 9\. DATA SECURITY
 
@@ -200,13 +202,13 @@ Our Websites include Social Media Features, such as the _Add This_ button or int
 
 ## 17\. GIFT CERTIFICATES AND PLAYLISTS
 
-If you choose to send a gift certificate or playlist to an individual, we will ask you for the individual’s name and email address. We will automatically send a one-time email to the individual either with notice of their gift certificate along with an activation key or an invitation to visit the Websites. The recipient will be asked to create a user name and password to activate their subscription, and during this process, they will also be asked if they want to receive any newsletters or other emails from lynda.com. lynda.com stores name and email address of the recipient for the sole purpose of sending this one-time email and tracking the success of our referral program. The individual may contact us at [support@lynda.com](mailto:support@lynda.com) to request that we remove this information from our database.
+If you choose to send a gift certificate or playlist to an individual, we will ask you for the individual’s name and email address. We will automatically send a one-time email to the individual either with notice of their gift certificate along with an activation key or an invitation to visit the Websites. The recipient will be asked to create a user name and password to activate their subscription, and during this process, they will also be asked if they want to receive any newsletters or other emails from Lynda.com. Lynda.com stores name and email address of the recipient for the sole purpose of sending this one-time email and tracking the success of our referral program. The individual may contact us at [support@lynda.com](mailto:support@lynda.com) to request that we remove this information from our database.
 
 ## 18\. HOW DO YOU CONTACT US WITH QUESTIONS?
 
 If you have any questions about this Privacy Policy, the practices of or your dealings with our Websites, please contact us by sending a letter to:
 
-lynda.com, Inc.  
+Lynda.com, Inc.  
 6410 Via Real  
 Carpinteria, CA 93013  
  _Attn: Business Affairs_
