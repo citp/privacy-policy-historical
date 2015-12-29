@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621043142id_/http%3A//www.senheng.com.my/content/2-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022350id_/http%3A//www.senheng.com.my/content/2-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Senheng
 
