@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindsecretsexposed.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074652id_/http%3A//www.mindsecretsexposed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindsecretsexposed.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229165046id_/http%3A//www.mindsecretsexposed.com/privacy.php) for the most accurate reproduction.*
 
 # Mind Secrets Exposed 2.0 | The Art & Science Of Getting What You Want
 
