@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morgan.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200148id_/http%3A//www.morgan.edu/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morgan.edu privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230003136id_/http%3A//www.morgan.edu/privacy_statement.html) for the most accurate reproduction.*
 
-# Morgan State University - Privacy Statement
+# Privacy Statement
 
 Morgan State University (also referred to as "The University") believes in the privacy of information collected from visitors to our web site and we are committed to protecting that privacy. This Privacy Statement informs you on how we collect and use information about visitors to the Morgan State University web site.
 
