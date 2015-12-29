@@ -1,20 +1,23 @@
-<!--The following is the downloaded HTML source of the consumercomplaints.in privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623210347id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the consumercomplaints.in privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229071654id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Indian Consumer Complaints Forum</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--meta name="viewport" content="width=1200, initial-scale=1, user-scalable=yes"-->
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_EN/all.js#xfbml=1&amp;appId=1409592285942579"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/scripts/jquery.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/scripts/jquery.js"></script>
 <script type="text/javascript" src="/scripts/jquery-ui.js"></script>
 <script type="text/javascript" src="/scripts/jquery.form.js"></script>
 <script type="text/javascript">jQuery.noConflict();</script>
 
-<meta name="google-site-verification" content="bK5u7V62smrNELh9Xju7G2DYClJZOG8AI6lqaonDooo">
 <link type="text/css" rel="stylesheet" href="/loader.php?css=main,login,advapi,forms,pictext,registration,loader.php,pages,jquery-ui">
 <link type="text/css" rel="stylesheet" href="/css/new_header.css">
 <link type="text/css" rel="stylesheet" href="/css/style_new.css">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
 <link rel="Shortcut Icon" href="/favicon.ico">
 <link rel="alternate" type="application/rss+xml" href="/rss.php" title="RSS feed for this Page">
 </head>
@@ -23,36 +26,117 @@
 
 	  <div id="greyscreen"></div>
       <header id="top-head">
+	  <script>
+		function menu_search(active) {
+			if( active ) {
+				jQuery('body').append('<div class=srch-tap onclick=jQuery(\'#srch-cross\').trigger(\'click\') style=height:'+jQuery(document).height()+'px>');
+				jQuery('div.srch-resp').css('display','block'); 
+				jQuery('#resp-mag').attr('class','open');
+				jQuery('#srch-cross').attr('class','open');
+				jQuery('#search-form-top2 input').focus();
+				
+				jQuery('#top-head').removeClass('sidePanelOpen');
+			}else{
+				jQuery('div.srch-resp').css('display','none'); 
+				jQuery('div.srch-tap').remove(); 
+				jQuery('#resp-mag').removeAttr('class');
+				jQuery('#srch-cross').removeAttr('class');
+			}
+		}
+		function menu_sidebar() {
+			var obj = jQuery('#top-head');
+			var s = 'sidePanelOpen';
+			if( !obj.hasClass(s) ) {
+				obj.addClass(s);
+				
+				menu_search(0);
+			}else{
+				obj.removeClass(s);
+			}
+			return false;
+		}
+		
+		var didScroll;
+		var lastScrollTop = 0;
+		var delta = 5;
+		var navbarHeight = jQuery('header').outerHeight();
+
+		jQuery(window).on("scroll", function(event) {
+			if (jQuery('header').css('position') == 'fixed') didScroll = true;
+		});
+
+		setInterval(function() {
+			if (didScroll) {
+				hasScrolled();
+				didScroll = false;
+			}
+		}, 250);
+
+		function hasScrolled() {
+			var st = jQuery(this).scrollTop();
+			
+			if(Math.abs(lastScrollTop - st) <= delta)
+				return;
+			
+			if (st > lastScrollTop && st > navbarHeight){
+				jQuery('header').removeClass('header-nav-down').addClass('header-nav-up');
+			} else {
+				if(st + jQuery(window).height() < jQuery(document).height()) {
+					jQuery('header').removeClass('header-nav-up').addClass('header-nav-down');
+				}
+			}
+			
+			lastScrollTop = st;
+		}
+	  </script>
       <div id="header-content">
               <a href="http://www.consumercomplaints.in/"><img src="/img/newheader2/logo.png" alt="consumer complaints logo" id="logo"></a>
               <nav id="menu">
                     <a href="http://www.consumercomplaints.in/" id="home-btn" title="Home"><img src="/img/newheader2/home-btn.png" alt="Home button"></a>
-                    <a href="http://questions.consumercomplaints.in/" class="nav-link" title="Questions"><img src="/img/newheader2/questions.png" alt="Question icon" class="nav-icon">Questions</a>
-                    <a href="http://www.consumercomplaints.in/new_complaint/" class="nav-link" title="Add a Company"><img src="/img/newheader2/case.png" alt="Company icon" class="nav-icon">Add a Company</a>
+                    <a href="http://questions.consumercomplaints.in/" class="nav-link" title="Questions"><img src="/img/newheader2/questions_icon.png" alt="Question icon" class="nav-icon">Questions</a>
+                    <a href="http://www.consumercomplaints.in/faq/" class="nav-link" title="FAQ"><img src="/img/newheader2/questions.png" alt="Company icon" class="nav-icon">FAQ</a>
+					
                     <a href="http://www.consumercomplaints.in/new_complaint/" class="nav-link" title="Submit a Complaint"><img src="/img/newheader2/submit.png" alt="Paper icon" class="nav-icon">Submit a Complaint</a>
+					
                     <form id="search-form-top" name="search" action="http://www.consumercomplaints.in/" method="get">
                            <input type="text" placeholder="Search" class="top-search" name="search" value="">
-                           <a href="#" class="search-btn">
+                           <a href="#" class="search-btn" onclick="jQuery('#search-form-top').submit();return false;">
                            <img src="/img/newheader2/magnifier.png" alt="search" class="magnifier-icon">
                            </a>
                     </form>
               		
-	  		<a href="#" class="nav-link" title="Sign in" onclick="UserLogin.OnSuccess=function(){location.href=location.href};UserRegistration.OnSuccess=function(){location.href='http://www.consumercomplaints.in/new_complaint/'};return UserLogin.Show()"><img src="/img/newheader2/sign-in.png" alt="Sign In" class="nav-icon">Sign In</a>
+	  		<a href="#" class="nav-link" title="Sign in" onclick="UserLogin.OnSuccess=function(){location.reload()};UserRegistration.OnSuccess=function(){location.href='http://www.consumercomplaints.in/new_complaint/'};return UserLogin.Show()"><img src="/img/newheader2/sign-in.png" alt="Sign In" class="nav-icon">Sign In</a>
 	  
               </nav>
               <nav id="responsive">
+					<a href="#" id="resp-menu-href" onclick="return menu_sidebar()"><img src="/img/newheader2/menu.gif" alt="menu" id="resp-menu"></a>
                     <div class="mid-resp">
                           <a href="http://www.consumercomplaints.in/" id="home-top-link" class="link-resp-top" title="Home"><img src="/img/newheader2/home.png" alt="home" class="nav-icon-resp-top">Home</a>
-                          <a href="http://www.consumercomplaints.in/new_complaint/" id="add-company-top-link" class="link-resp-top" title="Add a Company"><img src="/img/newheader2/case.png" alt="Add a Company" class="nav-icon-resp-top">Add a Company</a>
-                           <a href="http://www.consumercomplaints.in/new_complaint/" id="submit-resp-top" class="link-resp-top" title="Submit a Complaint"><img src="/img/newheader2/submit.png" alt="Paper icon" class="nav-icon-resp-top">Submit a Complaint</a>
+                          <a href="http://www.consumercomplaints.in/faq/" id="add-company-top-link" class="link-resp-top" title="FAQ"><img src="/img/newheader2/questions.png" alt="FAQ" class="nav-icon-resp-top">FAQ</a>
+						  
+                          <a href="http://www.consumercomplaints.in/new_complaint/" id="submit-resp-top" class="link-resp-top" title="Submit a Complaint"><img src="/img/newheader2/submit.png" alt="Paper icon" class="nav-icon-resp-top">Submit<span> a</span> Complaint</a>
+						  
                     </div>
-                    <a href="#" id="resp-menu-href" onclick="jQuery('#top-head').addClass('sidePanelOpen');return false;"><img src="/img/newheader2/menu.gif" alt="menu" id="resp-menu"></a>
+					<div class="srch-resp">
+						<form id="search-form-top2" action="http://www.consumercomplaints.in/" method="get">
+							<input type="text" placeholder="Search" class="top-search" name="search" value="">
+							<a href="#" class="search-btn" onclick="jQuery('#search-form-top2').submit();return false;">
+								<img src="/img/newheader2/magnifier.png" alt="search" class="magnifier-icon">
+							</a>
+						</form>
+					</div>
+					<img src="/img/newheader2/cross.png" id="srch-cross" onclick="menu_search(0)">
+					<img src="/img/newheader2/mag.png" id="resp-mag" onclick="menu_search(1)">
               </nav>
+			  
+			  <div class="sidebar-panel-tap" onclick="return menu_sidebar()"></div>
               <div class="sidebar-panel">
+					
                     <a href="http://www.consumercomplaints.in/new_complaint/" class="nav-link-resp" id="submit-resp" title="Submit a Complaint"><img src="/img/newheader2/submit.png" alt="Paper icon" class="nav-icon-resp">Submit a Complaint</a>
+					
                     <a href="http://www.consumercomplaints.in/" class="nav-link-resp" id="home-sidebar-link" title="Home"><img src="/img/newheader2/home.png" alt="Home icon" class="nav-icon-resp">Home</a>
-                    <a href="http://questions.consumercomplaints.in/" class="nav-link-resp" id="question-sidebar-link" title="Questions"><img src="/img/newheader2/questions.png" alt="Question icon" class="nav-icon-resp">Questions</a>
-                    <a href="http://www.consumercomplaints.in/new_complaint/" class="nav-link-resp" id="add-company-sidebar-link" title="Add a Company"><img src="/img/newheader2/case.png" alt="Company icon" class="nav-icon-resp">Add a Company</a>
+                    <a href="http://questions.consumercomplaints.in/" class="nav-link-resp" id="question-sidebar-link" title="Questions"><img src="/img/newheader2/questions_icon.png" alt="Question icon" class="nav-icon-resp">Questions</a>
+                    <a href="http://www.consumercomplaints.in/faq/" class="nav-link-resp" id="add-company-sidebar-link" title="FAQ"><img src="/img/newheader2/questions.png" alt="FAQ" class="nav-icon-resp">FAQ</a>
                     <div class="separate-line"></div>
                     <form id="search-form-sidebar" name="search" action="http://www.consumercomplaints.in/" method="get">
                            <input type="text" placeholder="Search" class="top-search" name="search" value="">
@@ -62,41 +146,26 @@
                     </form>
                     <div class="separate-line"></div>
               		
-	  		<a href="#" class="nav-link-resp" title="Sign in" onclick="UserLogin.OnSuccess=function(){location.href=location.href};UserRegistration.OnSuccess=function(){location.href='http://www.consumercomplaints.in/new_complaint/'};return UserLogin.Show()"><img src="/img/newheader2/sign-in.png" alt="Sign In" class="nav-icon-resp">Sign In</a>
+	  		<a href="#" class="nav-link-resp" title="Sign in" onclick="UserLogin.OnSuccess=function(){location.reload()};UserRegistration.OnSuccess=function(){location.href='http://www.consumercomplaints.in/new_complaint/'};return UserLogin.Show()"><img src="/img/newheader2/sign-in.png" alt="Sign In" class="nav-icon-resp">Sign In</a>
 	  
                     <div class="copyrights-responsive">
                            <h3>© 2015 Consumer Complaints Forum</h3>
                            <p>If you have any constructive thoughts, creative ideas, or reasonable offers, please, contact us immediately via <a href="http://www.consumercomplaints.in/sendmail/cn0.html">E-mail</a></p>
                     </div>
-                    </div>
-                    <div id="overlay-sidebar" onclick="jQuery('#top-head').removeClass('sidePanelOpen');return false;"></div>
               </div>
+		</div>
       </header>
-      <script>
-//        jQuery(document).ready(function() {
-//              jQuery('#resp-menu-href').on('click', function() {
-//                  jQuery('#top-head').addClass('sidePanelOpen');
-//                  return false;
-//              });
-//              jQuery('#overlay-sidebar').on('click', function() {
-//                  jQuery('#top-head').removeClass('sidePanelOpen');
-//              });
-//              jQuery('.nav-link-resp').on('click', function() {
-//                  jQuery('#top-head').removeClass('sidePanelOpen');
-//              });
-//         });
-      </script>
+	
       
-      <div style="height:65px"></div>
-
-		<div style="padding:20px 20px 15px 20px;text-align:center;box-sizing:border-box;">
-          	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <div class="header-place"></div>
+	<div class="google-top-banner">
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- IN Top 0215 -->
 		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7643816519439245" data-ad-slot="9257850730" data-ad-format="auto"></ins>
 		<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-        </div>
+    </div>
 
  
 
@@ -104,7 +173,7 @@
 	  <div class="cols-wrapper">
 		<div class="cols">
 			<div class="col-main">
-				<div class="col-wrapper">
+				<div class="col-wrapper ">
 <script>
 function add_load(func) {
         var oldonload = window.onload;
@@ -275,51 +344,102 @@ information you have provided as described in this Privacy Policy. </p>
 	</div>
   
 	<div class="col-right">
-		
-	    	<div style="padding:5px 0px 10px 0px;" class="categories">
-   				<h3 style="text-align:center;">Share this page with others</h3>
-   				<div style="text-align:center">
-   					<table align="center"><tbody><tr><td style="vertical-align:top">
-   					
-	   				<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-url="http://www.consumercomplaints.in/">Tweet</a>
-   					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-   					
-   					</td><td style="vertical-align:top">
-   					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   					
-   					<div class="g-plusone" data-size="tall" style="background:none;" data-href="http://www.consumercomplaints.in/"></div>
-   					<script type="text/javascript">
-   					  (function() {
-   					      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				          po.src = 'https://apis.google.com/js/plusone.js';
-   				          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-   				      })();
-   				     </script>
-   				     
-   				     </td><td style="vertical-align:top">
-   				     &nbsp;&nbsp;
-   				     
-   				     <div class="fb-like" data-send="false" data-layout="box_count" data-width="1" data-show-faces="false" style="background:none;" data-href="http://www.consumercomplaints.in/"></div>
-   				     <div id="fb-root" style="background:none;"></div>
-   				     <script>(function(d, s, id) {
-   				       var js, fjs = d.getElementsByTagName(s)[0];
-   				       if (d.getElementById(id)) return;
-   				       js = d.createElement(s); js.id = id;
-   				       js.src = "//connect.facebook.net/en_EN/all.js#xfbml=1&appId=1409592285942579";
-   				       fjs.parentNode.insertBefore(js, fjs);
-   				     }(document, 'script', 'facebook-jssdk'));</script>
-   				     
-   				     </td></tr></tbody></table>
-   				</div>
-				<p class="lrg-bottom"></p>
-   			</div>
-  		
+			 <div class="right-social">
+				 <a href="https://www.facebook.com/sharer/sharer.php?app_id=286286518147184&amp;sdk=joey&amp;u=%url%&amp;display=popup&amp;ref=plugin&amp;src=share_button" class="facebook">0</a>
+				 <a href="https://plusone.google.com/share?url=%url%" class="google">0</a>
+				 <a href="https://twitter.com/share?text=%title%" class="twitter"></a>		 
+			</div>
+			<script> 
+					var social = {
+						selector: '.none',
+							
+						count: function(count) {
+							if( isNaN(count) ) return '0';
+							return count < 1000 ? count : (count/1000).toFixed(1) + 'k';
+						},
+								
+						google: function() {
+							var url = location.href;
+												
+							var params = [{
+								"method":"pos.plusones.get",
+								"id":"p",
+								"params":{
+									"nolog":true,
+									"id":url,
+									"source":"widget",
+									"userId":"@viewer",
+									"groupId":"@self"
+								},
+								"jsonrpc":"2.0",
+								"key":"p",
+								"apiVersion":"v1"
+							}];
+
+							jQuery.ajax({
+								url: "https://clients6.google.com/rpc?key=AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ",
+								type: "POST",
+								data: JSON.stringify(params),
+								contentType: "application/json; charset=utf-8",
+								dataType: "json",
+								success: function(data) {
+									try {
+										var cnt = data[0].result.metadata.globalCounts.count;
+										social.google_callback(social.count(cnt));
+									}catch(err) {console.log(err);}
+								}
+							});
+						},
+					
+						facebook: function() {
+							var url = location.href;
+							jQuery.getJSON('http://graph.facebook.com/?id='+encodeURIComponent(url), function (json){
+								var cnt = json.shares;
+								social.facebook_callback(social.count(cnt));
+							});
+						},
+
+						google_callback: function(cnt) {
+							jQuery(social.selector + ' .google').html(cnt);
+						},
+					
+						facebook_callback: function(cnt) {
+							jQuery(social.selector + ' .facebook').html(cnt);
+						},
+						
+						open: function() {
+							var ww = 520, wh = 350;
+							var wt = (screen.height / 2) - (wh / 2);
+							var wl = (screen.width / 2) - (ww / 2);
+							
+							var link = encodeURIComponent(location.href);
+							var title = encodeURIComponent(jQuery('title').html());
+							
+							var url = this.href;
+							url = url.replace('%url%', link);
+							url = url.replace('%title%', title);
+							
+							window.open(url, 'Share', 'top=' + wt + ',left=' + wl + ',toolbar=0,status=0,width='+ww+',height='+wh);
+							return false;
+						},
+						
+						init: function(selector) {
+							social.selector = selector;
+							jQuery(social.selector + ' a').on('click.social', social.open);
+							social.facebook();
+							social.google();
+						}
+
+					};
+	
+				jQuery(function() { social.init('.right-social'); }); 
+			</script>
+
    		
 
 		
 
 		<div style="text-align:center;padding:0 0 15px 0;">
-		
 		<!-- IN Right 0215r -->
 		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-7643816519439245" data-ad-slot="1455382337" data-ad-format="rectangle"></ins>
@@ -331,9 +451,12 @@ information you have provided as described in this Privacy Policy. </p>
 			
     	<div class="categories">
 		    <h3>Recently Discussed</h3>
-			<div><span class="small">(1 hours 2 minutes ago)</span><br><a href="http://www.consumercomplaints.in/reliance-telecommunication-balance-debit-from-account-c1089395">Reliance Telecommunication</a><br>balance debit from account</div><div><span class="small">(1 hours 13 minutes ago)</span><br><a href="http://www.consumercomplaints.in/croma-unethical-behaviour-c1091459">Croma</a><br>Unethical Behaviour</div><div><span class="small">(1 hours 24 minutes ago)</span><br><a href="http://www.consumercomplaints.in/manipal-hospital-unprofessional-behavior-by-doctor-girish-rai-c1091457">Manipal Hospital</a><br>Unprofessional behavior by doctor Girish rai</div><div><span class="small">(1 hours 26 minutes ago)</span><br><a href="http://www.consumercomplaints.in/flipkart-not-refunding-my-money-c896904">Flipkart</a><br>not refunding my money</div><div><span class="small">(1 hours 37 minutes ago)</span><br><a href="http://www.consumercomplaints.in/idea-fraudulently-over-charging-misbehaviour-and-disrupted-services-without-any-notice-c1083701">Idea</a><br>Fraudulently over charging, misbehaviour and disrupted services without any notice</div>
+			<div><span class="small">(0 minutes ago)</span><br><a href="http://www.consumercomplaints.in/airtel-overcharging-against-normal-call-being-made-from-my-mobile-no-9871306374-c1199481">Airtel</a><br>Overcharging against normal call being made from my mobile no 9871306374</div><div><span class="small">(1 minutes ago)</span><br><a href="http://www.consumercomplaints.in/way2online-retail-private-limited-no-respond-c1200743">Way2online Retail Private Limited</a><br>No respond</div><div><span class="small">(1 minutes ago)</span><br><a href="http://www.consumercomplaints.in/omex-enterprises-kolkata-fake-docuemnts-visa-adds-contact-documents-only-making-money-c1197066">Omex Enterprises Kolkata</a><br>Fake docuemnts visa/ adds/ contact documents, only making money</div><div><span class="small">(2 minutes ago)</span><br><a href="http://www.consumercomplaints.in/croma-32-inch-led-faulty-tv-models-c1199085">Croma 32 Inch Led</a><br>Faulty tv models</div><div><span class="small">(2 minutes ago)</span><br><a href="http://www.consumercomplaints.in/airtel-invoice-raised-for-the-services-not-rendered-and-fooling-the-customer-c1199365">Airtel</a><br>Invoice raised for the services not rendered and fooling the customer</div>
 		</div>
-			    
+		
+		    
+		
+		
 	    
 		
 		<div style="padding-top:10px;text-align:center;">
@@ -348,7 +471,7 @@ information you have provided as described in this Privacy Policy. </p>
  </div>
 </div>
 
-<div style="text-align:center;padding:15px">
+<div class="google-bottom-banner">
       <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- IN Bottom 0215r -->
 		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7643816519439245" data-ad-slot="2932115534" data-ad-format="auto"></ins>
@@ -367,11 +490,10 @@ information you have provided as described in this Privacy Policy. </p>
 					<a href="http://www.consumercomplaints.in/updated-complaints.html">Updated Complaints</a> |
 					<a href="http://www.consumercomplaints.in/terms-conditions.html">Terms of Use</a> |
 					<a href="http://www.consumercomplaints.in/privacy-policy.html">Privacy Policy</a> |
-					<a href="http://www.consumercomplaints.in/sendmail/cn0.html">Contact Us</a> |
 					<a href="https://plus.google.com/104775154577323626596" rel="publisher">Google+</a>
 					<br><br>
 					© 2015 <a href="http://www.consumercomplaints.in/">Consumer Complaints Forum</a><br>
-					If you have any constructive thoughts, creative ideas, or reasonable offers, please, contact us immediately via <a href="http://www.consumercomplaints.in/sendmail/cn0.html">E-mail</a>
+					If you have an inquiry, or any constructive thoughts, creative ideas, and reasonable offers, please, <a href="http://www.consumercomplaints.in/tickets/" target="_blank">contact us</a>
 					</span></td>
 				</tr>
 	</tbody></table>
@@ -532,32 +654,6 @@ var UserRegistration = {
 				'&email='+UserDialog.GetEncoded('UserRegistration_email') + 
 				'&password='+UserDialog.GetEncoded('UserRegistration_password') + 
 				'&code='+UserDialog.GetEncoded('UserRegistration_code');
-			if (jQuery('#business').get(0).checked) {
-				qStr += "&type=business";
-				qStr += "&company="+UserDialog.GetEncoded('UserRegistration_company');
-				qStr += "&country="+UserDialog.GetEncoded('UserRegistration_country');
-				qStr += "&city="+UserDialog.GetEncoded('UserRegistration_city');
-				qStr += "&address="+UserDialog.GetEncoded('UserRegistration_address');
-				qStr += "&pin="+UserDialog.GetEncoded('UserRegistration_pin');
-				qStr += "&website="+UserDialog.GetEncoded('UserRegistration_website');
-				
-				jQuery('#phone_container input').each(function( i ){
-					if (this.value) qStr += "&phone["+i+"]="+this.value;
-				});
-				jQuery('#mobile_container input').each(function( i ){
-					if (this.value) qStr += "&mobile["+i+"]="+this.value;
-				});
-				
-				qStr += "&services="+UserDialog.GetEncoded('UserRegistration_services');
-				for (var i = 1; i <= 7; i++) {
-					if (jQuery("input[name='UserRegistration_closed_"+i+"']").get(0).checked) {
-						qStr += "&hours["+i+"][closed]=true";
-					} else {
-						qStr += "&hours["+i+"][from]=" + jQuery("select[name='UserRegistration_hours_from_"+i+"']").val();
-						qStr += "&hours["+i+"][to]=" + jQuery("select[name='UserRegistration_hours_to_"+i+"']").val();
-					}
-				}
-			}
 //			alert(qStr);
 			mainPOSTRequest('/panel.php?action=register',qStr,'',this._register_reply);
 			this._loading(true);
@@ -584,6 +680,7 @@ var UserRegistration = {
 			jQuery('#UserRegistration_errors').html(data).show();
 		}else{
 			UserRegistration.Close();
+			
 			UserMail.OnSuccess = UserRegistration.OnSuccess;
 			UserMail.Show(document.getElementById('UserRegistration_email').value);
 		}
@@ -598,9 +695,9 @@ var UserMail = {
 	},
 	Hide : function () {
 		UserDialog.Close();
-		if(typeof(UserRegistration.OnSuccess)=='function')
+		if(typeof(this.OnSuccess)=='function')
 		{
-			UserRegistration.OnSuccess();
+			this.OnSuccess();
 		}
 	}
 };
@@ -707,12 +804,12 @@ var UserLogin = {
 		return false;
 	},
 	LoginByYahoo : function() {
-		var w = window.open('https://api.login.yahoo.com/WSLogin/V1/wslogin?appid=Mme7L27c&amp;appdata=415264735&amp;ts=1435093170&amp;sig=dec04e80d888f64c56dcb8bbc3efabbc&amp;send_userhash=1', 'yahooLoginWin', 'width=900,height=500,top=20,left='+(Math.round(jQuery(document).width()/2)-450));
+		var w = window.open('https://api.login.yahoo.com/WSLogin/V1/wslogin?appid=Mme7L27c&amp;appdata=427259532&amp;ts=1451373295&amp;sig=db571cd58baa0561823f885e8df59b1b&amp;send_userhash=1', 'yahooLoginWin', 'width=900,height=500,top=20,left='+(Math.round(jQuery(document).width()/2)-450));
 		w.focus();
 		return false;
 	},
 	LoginByGoogle : function() {
-		var w = window.open('https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=116406108886-pcnpi7cb0lgiftf45n7bghl492s0oc5h.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Fwww.consumercomplaints.in%2Flogin-google&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=914229614&access_type=online&approval_prompt=force', 'googleLoginWin', 'width=900,height=500,top=20,left='+(Math.round(jQuery(document).width()/2)-450));
+		var w = window.open('https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=116406108886-pcnpi7cb0lgiftf45n7bghl492s0oc5h.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Fwww.consumercomplaints.in%2Flogin-google&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=747239818&access_type=online&approval_prompt=force', 'googleLoginWin', 'width=900,height=500,top=20,left='+(Math.round(jQuery(document).width()/2)-450));
 		w.focus();
 		return false;
 	},
@@ -752,10 +849,13 @@ var UserFBLogin = {
 		return UserDialog.Close();
 	}
 };
+
+
 </script>
 <script type="text/javascript" src="/scripts/registration.js"></script>
 
 <script src="/loader.php?js=loadscript,ajax,js_search,basic"></script>
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -766,32 +866,5 @@ var UserFBLogin = {
   ga('create', 'UA-6753034-3', 'auto');
   ga('send', 'pageview');          
 </script>
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter30945646 = new Ya.Metrika({id:30945646,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/30945646" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
 
 </body></html>
