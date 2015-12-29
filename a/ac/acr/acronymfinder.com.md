@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309232103id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063630id_/https%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
-Acronym Finder has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Acronym Finder](http://www.acronymfinder.com/)
+Acronym Finder has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Acronym Finder](https://web.archive.org/)
 
 #### Information Automatically Logged
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and to help us verify [terms of use](http://www.acronymfinder.com/terms.htm) of this site.
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and to help us verify [terms of use](https://web.archive.org/terms.htm) of this site.
 
 #### Cookies
 
@@ -32,18 +32,18 @@ During your use of the Acronym Finder, you may have occasion to email us. If you
 
 Information you reveal to us in your email will not be revealed, discussed, sold, traded, published, or given to any other entity.
 
-Your name, email address, and/or web address may be placed on our [Contributors](http://www.acronymfinder.com/contributors.htm) page if we determine you have contributed to our site **and** you wish your information to appear there. You may choose to use a nickname or your real name, and use of your email or web address is purely optional. If you have asked for your name, email or web address to be placed on the Contributors page and later wish it to be removed, simply email us and we will remove it. In other words, you may maintain your privacy if you wish.
+Your name, email address, and/or web address may be placed on our [Contributors](https://web.archive.org/contributors.htm) page if we determine you have contributed to our site **and** you wish your information to appear there. You may choose to use a nickname or your real name, and use of your email or web address is purely optional. If you have asked for your name, email or web address to be placed on the Contributors page and later wish it to be removed, simply email us and we will remove it. In other words, you may maintain your privacy if you wish.
 
-**Any information** you reveal to us could be given to another entity if we believe or suspect you are violating the [terms of use](http://www.acronymfinder.com/terms.htm) of this site, violating the law, or otherwise misusing this site or its server.
+**Any information** you reveal to us could be given to another entity if we believe or suspect you are violating the [terms of use](https://web.archive.org/terms.htm) of this site, violating the law, or otherwise misusing this site or its server.
 
 #### Data Quality/Access
 
 This site gives users the following options for changing and modifying information previously provided:
 
-You can send email via our: [feedback form](http://www.acronymfinder.com/feedback.aspx)
+You can send email via our: [feedback form](https://web.archive.org/feedback.aspx)
 
 #### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via our:
 
-[Feedback form](http://www.acronymfinder.com/feedback.aspx)
+[Feedback form](https://web.archive.org/feedback.aspx)
