@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024949id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the name.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023830id_/https%3A//www.name.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,8 +36,8 @@ Name.com
 Second Floor   
 Denver, Colorado 80206   
 Email - support@Name.com   
-Phone - +1.720.249.2374   
-Fax - +1.303.399.3167 
+Phone - +1 720.249.2374   
+Fax - +1 303.399.3167 
 
 Use of our services or products constitutes understanding of and agreement to this policy. Name.com reserves the right to modify this, as well as any other policies and/or agreement at any time.
 
