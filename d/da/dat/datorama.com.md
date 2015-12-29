@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datorama.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324160203id_/http%3A//www.datorama.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datorama.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229034029id_/http%3A//datorama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Datorama
+# Privacy Policy | Datorama
 
 Datorama is committed to protecting the privacy of your information. This Privacy Policy describes our web site and platform privacy practices (“Privacy Policy”). This Privacy Policy applies to data collected by Datorama Inc and its subsidiaries (“Datorama”) through the Datorama.com web site, other webpages that we operate in which we post a direct link to this Privacy Policy, and the Datorama Platform (each a “Datorama Site”). By voluntarily using a Datorama Site and/or providing data or other information via a Datorama Site, you are indicating your consent to this Privacy Policy and agree to be bound by its terms.
 
