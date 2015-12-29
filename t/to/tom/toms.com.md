@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204028id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063645id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
 # TOMS : One for One
 
