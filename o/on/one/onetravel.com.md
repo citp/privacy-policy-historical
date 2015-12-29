@@ -1,100 +1,150 @@
-> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508035431id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063721id_/http%3A//www.onetravel.com/travel/privacy-policy) for the most accurate reproduction.*
 
 # OneTravel Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.onetravel.com&sealid=101)**INTRODUCTION** OneTravel is strongly committed to protecting your privacy.
+Effective Date: **10/20/2015**
 
-OneTravel has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+The following describes the Privacy Policy (as amended from time to time, the “Privacy Policy”) applicable to the information collected through the OneTravel.com website, the OneTravel.com mobile website, our iPhone, Android and other mobile applications and any other online communications and interfaces from OneTravel (the “Site” or “Sites”).
 
-Please read this privacy policy (“Privacy Policy”) to learn about our information collection and dissemination practices in connection with the OneTravel.com website (collectively, the “Site”). By visiting any section of the Site you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Site. 
+Introduction
 
-If you have questions or concerns regarding our privacy policy, you should first contact customer service at [cservice@OneTravel.com](mailto:mailto:cservice@CheapOair.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+## OneTravel is Strongly Committed to Protecting Your Privacy
 
-**OneTravel.com use of your private information.**  
-OneTravel is committed to providing fair information practices and adopts the highest degree of privacy policy in protecting customer’s private and personal information submitted to OneTravel in connection with purchasing travel products from OneTravel.
+At OneTravel ("We", "Us", or "Our") we value your trust. That is why we would like you to know what information about you may be collected when you use our Sites. We also want to make sure you understand how your information is protected and how it may be used. 
 
-If you purchase a product or service from us orregister for a competition or promotional offer on our website, we may request certain personally identifiable information from you. You must provide contact information such as first and last name, email, phone numbers, and shipping address , as well as financial information such as credit card number, card holders name and expiration date. Some information about you is required in order for you to register as a member, book travel itineraries, participate in a contest, ask us a question, or for other purposes in connection with your use of the website or our services. 
+Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the sites. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update it. By reviewing our Privacy Policy, agreeing to our Terms & Conditions and/or by visiting any portion of the Site you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Sites. 
 
-OneTravel uses and stores sensitive information such as credit card number, cardholder’s name, postal and billing address, and expiration date provided to us through our website or in any other way for billing purposes, and to fulfill your orders. We use your other personal information for the following general purposes: to provide you with travel services or other product that you purchase from us, to send your itinerary confirmation, vouchers, or service related notifications, to communicate with you as our customer, to provide you with special offers regarding products or services that may be of interest to you from our agents, service providers or marketing partners, to solicit information from you, to resolve any disputes, collect any due fees, to enforce our Terms and Conditions and to prevent or recover any potential or actual losses resulting from or related to any suspect criminal activity including but not limited to fraud or identity theft.
+If you have questions or concerns regarding our Privacy Policy, you should contact our customer service at [tlc@onetravel.com](mailto:tlc@onetravel.com).
 
-OneTravel does not sell, trade, share or rent your personal information to third parties without your prior consent, unless otherwise herein described.
+Information OneTravel Collects from You
 
-**E-mail communications and newsletters**  
-From time to time, we may notify you via email newsletter of any changes or additions to our site, and new offers and products from third parties that may be of interest to you. You may opt-out from our email newsletter by following the unsubscribe instructions in any email newsletter you receive from us.
+We receive, use and store information you provide to us while visiting Sites, including any information that can be used to personally identify you ("personally identifiable information" or "PII"). Such information may include your first and last name, your physical address, e-mail address, date of birth, geo-location, telephone number, and your billing information (including cardholder name, credit card number and expiration date).
 
-Other sites accessible through links on our Site have their own privacy policies and data collection practices. Please consult each site’s Privacy Policy before providing your personal information. OneTravel is not responsible for the actions of websites whose links are accessible through our Site or any actions of third parties that are not under OneTravel’s exclusive control.
+If you purchase a product or service from us or register for a sweepstakes, contest or any other promotional offer on the Sites, we may request certain additional personally identifiable information from you. Certain personally identifiable information about you is required in order for you to register as a member, book travel itineraries, participate in a contest or sweepstakes, ask us a question, or for other purposes in connection with your use of the Sites. 
 
-**OneTravel will not share your private information with any third party, except for the following situations and as outlined in this privacy policy:**
+In order to customize your user experience, prevent fraud and for compliance purposes, when you use the Sites, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID"). When you visit the Sites, we automatically collect your IP address, and web browser fingerprint. We may also collect information about your visit, such as itineraries viewed or searched and booking made.
 
-  * We may share your information with our trusted parent company, corporate affiliates and subsidiaries, including but not limited to CheapOstay.com and HotelPricer.com. Our parent company, all of our affiliates and subsidiaries share our commitment to protect your private information and comply with a policy at least as restrictive as our Privacy Policy. They will also comply with all federal and state regulations regarding the use of your private information.
-  * Your information may be shared with suppliers such as airlines, hotels, car rental partners, and/or activity providers who are directly involved in providing you with services or other products you purchased from our website.
-  * Third parties who provide corporate services or functions on our behalf, including credit card processing financial analysis, customer service, call center services, marketing services, contest organization and administration, and fraud prevention may have access to your private information. Such third party vendors have access to and may collect your information only as needed to perform their functions and are not permitted to share, sell, trade or use the information for any other purpose. They are also required to follow data security practices at least as restrictive as ours.
-  * In response to subpoenas, court orders, or other legal process, to protect or enforce our rights, and to defend against claims of any nature.
-  * When we reasonably believe in good faith that it is appropriate to prevent, investigate or take any actions against illegal activities including but not limited to fraud and identity theft and to defend our rights, property of any kind and safety of our company, affiliates or subsidiaries.
-  * As a result of a corporate transaction resulting in merger, consolidation, asset sale or when legally required to.
+You may also provide PII or non-personally identifiable information about other people, such as their name, date of birth and gender. Except as otherwise set forth in this Privacy Policy, the PII you provide about others is only used for the sole purpose of completing your request or for whatever reason it may have been provided. You must obtain the consent of such other person prior to providing us with any of their personally identifiable information. 
 
+We collect your location-based information for the purpose of customizing your experience and locating a place that you may be searching for in your area. We will only share this information with our mapping provider for the sole purpose of providing you the service.
 
+We may share your geo-location data with third parties for the purpose of them serving you ads for places (such as restaurants) in your area. If you do not wish to allow us to share your information in this manner please opt-out by contacting us at [tlc@onetravel.com](mailto:tlc@onetravel.com).
 
-Save for the above mentioned situations, you will be notified when your personal information will be shared with third parties and given an opportunity to choose not to share such information.
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at [tlc@onetravel.com](mailto:tlc@onetravel.com). 
 
-**Changing an updating your private information.**  
-You may access your private information through your account on our website, if you created one. You can close your account or change your personal information by sending us an e-mail at [cservice@OneTravel.com](mailto:cservice@OneTravel.com). We may retain some of your personal information for recordkeeping integrity or for statistical purposes.
+How OneTravel Uses Your PII
 
-**AGENTS**  
-Like many other sites, this Site uses cookies to personalize your experience by providing you with relevant information and advertising, and to speed up the member sign in process. Cookies are information sequences stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Site and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the member’s area.
+OneTravel uses and stores sensitive personally identifiable information such as financial information (credit card number, cardholder's name, and expiration date), postal and billing address, provided to us through our website, mobile application or in any other way for billing purposes, to fulfill your orders and as otherwise described in this Privacy Policy. We use your other personally identifiable information for the following general purposes: (i) to provide you with travel services or other products that you purchase from us, or to fulfil the purpose for which you provide it (ii) to send your itinerary confirmation, vouchers, or service related notifications, (iii) to communicate with you as our customer, (iv) to provide you with special offers regarding products or services that may be of interest to you from our agents, service providers or marketing partners, (v) to solicit information from you, (vi) to resolve any disputes, collect any due fees, (vii) to enforce our Terms and Conditions, (viii) to prevent or recover any potential or actual losses resulting from or related to any suspect criminal activity including but not limited to fraud or identity theft, (ix) to improve our website and services, (x) for any purpose disclosed by us to you at the time your personally identifiable information is collected, and (xi) as further disclosed in this Privacy Policy.
 
-A cookie may be placed on your browser by our advertising server. These cookies are used only for purposes of tracking the effectiveness of advertising served by us on our Site. No personal information about you is gathered by the use of these cookies. Anonymous cookies may be placed on your browser by our third-party advertising companies who may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information collected does not include your personal information. We are not responsible for the cookies used by third parties whose link is provided on the Site, nor are we to be held liable in any way with regards to the information you share with third parties whose link is provided on our Site. 
+Other than described in this Privacy Policy, OneTravel does not sell, trade, or rent your personally identifiable information to third parties without your prior consent.
 
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please [click here](http://preferences.truste.com/truste/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+E-mail Communications and Newsletters
 
-**THIRD PARTY TRACKING TECHNOLOGIES**  
-We use a third-party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate.
+From time to time, we may notify you via email newsletter of any changes or additions to the Sites, and new offers and products from third parties that may be of interest to you. You may opt-out from our email newsletter by following the unsubscribe instructions in any email newsletter you receive from us.
 
-We use an outside shipping company to ship paper tickets, and a credit card processing company to bill you for travel products. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+We will send you push notifications if you opt-in to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off. 
 
-**SECURITY**  
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this [link](http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/)]
+Other sites accessible through links on the Sites have their own privacy policies and data collection practices. Please consult each site's Privacy Policy before providing your personally identifiable information. OneTravel is not responsible for the actions of websites whose links are accessible through our Sites or any actions of third parties that are not under OneTravel's exclusive control.
 
-All of our secure servers use a high-grade encryption key (AES with 128 and 256 bit secret key) While secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time.
+With Whom OneTravel May Share Your PII:
+
+Other than in the cases set forth in this Privacy Policy, you will be notified when personally identifiable information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information: 
+
+  * We may share your personally identifiable information with our parent company, corporate affiliates and subsidiaries, including but not limited to CheapOair.com. Our parent company, all of our affiliates and subsidiaries share our commitment to protect your personally identifiable information and comply with a policy at least as restrictive as our Privacy Policy.
+  * Your personally identifiable information may be shared with our suppliers such as airlines, hotels, car rental partners, insurance suppliers, and/or activity, service providers or intermediaries (collectively, “Suppliers”) who are directly or indirectly involved in providing you with services or other products you purchased from our Sites. By making a reservation on our Sites or through our mobile application, you authorize us to disclose to such Suppliers the information they require to verify your identity, complete the booking and deliver the services or products you purchased. In certain cases, Suppliers may use your personally identifiable information to prevent fraud and improve their service or product. These Suppliers are not controlled by OneTravel and any personally identifiable information disclosed to them is subject to their own privacy policies. As such, please review the privacy policy of each Supplier whose products you purchase through our Sites or mobile application.
+  * We may also share your personally identifiable information with our business partners whose products or services may be offered on the Sites or who referred you to our Sites from another site. We encourage you to review the privacy policy of each website that referred you to our Sites or to which you are referred to from here.
+  * Third party vendors who provide corporate services or functions on our behalf, including credit card processing, credit card verification, financial analysis, a mapping service provider to provide a map of the location you are looking for or the location you are currently in, customer service, call center services, marketing services, contest organization and administration, and fraud prevention may have access to your personally identifiable information. Such third party vendors have access to and may collect your personally identifiable information only as needed to perform their functions and are not permitted to share, sell, trade or use your personally identifiable information for any other purpose. They are also required to follow restrictive data security practices. 
+  * We may access, preserve and share your personally identifiable information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share your personally identifiable information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. If the ownership or control of all or part of the Sites or our assets changes, we may transfer your personally identifiable information to the new owner.
+
+Cookies and Tracking Technologies
+
+Cookies are data files which can be stored on your computer’s hard drive, if your web browser allows it. Our Sites and mobile application use tracking technologies such as cookies, web beacons, tags and scripts for the following purposes: 
+
+  * To help us to recognize you as a previous visitor on the Sites. For example, if you have an account with OneTravel.com, we use cookies to store your login information, so you will not need to enter your credentials each time your browser visits us to login to your account.
+  * To enable us to customize your user experience with us, as well as the help customize ad content provided to you on other sites across the Internet. As an example, when you access a page on our Sites, a cookie is automatically set by us, our marketing partners or service providers to recognize your browser when you visit other websites and to present you with information and advertising content based on your apparent interests.
+  * To help research, test and measure our Site’s features and offerings, advertisements and related email campaigns.
+
+While most browsers include the option of preventing the browser from accepting new cookies, please note that if you refuse to accept cookies, you may not be able to access certain tools and functionalities offered by our Sites. 
+
+In addition to cookies, OneTravel may use Web Beacons and Local Shared Objects to monitor traffic patterns, to deliver or communicate with cookies, to understand if you were referred to us from an online advertisement, to help measure the effectiveness of our offerings and advertisements, to help us understand which emails from us have been opened and to track the visitor traffic and actions on our site and mobile application.
+
+As is true of most web sites, we gather certain information about you automatically and store it in our log files. This information may include, but is not limited to, internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and /or clickstream data. 
+
+We may combine this automatically collected log information with other information we collect about you. We collect and use this information to improve services we offer you, to improve our marketing, analytics, or site functionality.
+
+We may use Local Storage (LS) such as HTML5. Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
+
+If you reject cookies, you may still use the Sites, but your ability to use some features or areas of our Sites may be limited.
+
+We partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Sites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [ here](http://www.networkadvertising.org/choices/) and following the opt-out process. Please note this does not opt you out of being served generic ads. You will continue to receive generic ads.
+
+Mobile Analytics
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
+
+Security
+
+The security of your personally identifiable information is important to us. When you enter sensitive information (such as a credit card number, date of birth, and/or geo-location data) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [link](https://www.symantec.com/page.jsp?id=how-ssl-works)
+
+All of our secure servers use a high-grade encryption key (AES with 128 and 256 bit secret key). While the secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time.
 
 If you receive browser warnings when going from secure mode pages to non-SSL pages, it is most likely a warning that you are switching servers. As long as your data is entered on a secure mode page, it will only be transmitted to a secure server.
 
-We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.No method of transmission over the Internet, or method of electronic storage is 100% secure. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
+We follow accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. However, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. No method of transmission over the Internet, or method of electronic storage is 100% secure. We urge you to take every precaution to protect your personally identifiable information when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-If you have any questions about security on our Web site, you can send email us at [cservice@OneTravel.com](mailto:cservice@OneTravel.com?Subject=Lowest%20Fare%20Promise).
+If you have any questions about security on our Web site, you can send email us.
 
-**GOVERNMENT AND LEGAL**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.
+Visiting Our Website from Outside the United States
 
-We may amend this Privacy Policy at any time. All amended terms automatically take effect as of the date this Privacy Policy is updated and published on the Site. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective.
+If you are visiting our Sites from outside the United States, please be aware that your personally identifiable information and other information about you may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our Sites, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
-All the terms used herein are to be interpreted as defined under our [Terms and Conditions](http://www.onetravel.com/travel/terms-conditions.asp). 
+Access To Your PII
 
-**ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [cservice@OneTravel.com](mailto:cservice@OneTravel.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [tlc@onetravel.com](mailto:tlc@onetravel.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
-**PUBLIC FORUMS**  
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [cservice@OneTravel.com](mailto:cservice@OneTravel.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your personally identifiable information to provide you services contact us at tlc@onetravel.com. We will retain and use your personally identifiable information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**CHILDREN’S PRIVACY PROTECTION**  
-OneTravel understands the importance of protecting children’s privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.
+Public Forums
 
-**OPT-OUT**  
+Our Sites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+
+Children's Privacy Protection
+
+OneTravel understands the importance of protecting children’s privacy in the interactive online world. The Sites are not designed for, or intentionally targeted at, those under the age of 13. It is not our policy to intentionally collect or maintain information from anyone under the age of 13.
+
+Opt-Out
+
 We provide you the opportunity to ’opt-out’ of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form. However, we will still use your personally identifiable information to provide you with the services and products you purchased through our Site, including but not limited to sending you reservation and confirmation communications or vouchers.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting us at the address below.
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+You will be notified when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your personally identifiable information with that party.
+
+Frame
+
+Some of our Sites utilize framing techniques to serve content from our partners while preserving the look and feel of our site. Please be aware that you are providing your personally identifiable information to these third parties and not to www.onetravel.com. Such partners include www.onetravelindia.com and www.travelspot.us. 
+
+Survey
+
+We may use a third party service provider to conduct surveys, sweepstakes and contests. Such company will be prohibited from using your personally identifiable information for any purpose, other than conducting such survey, sweepstakes or contest. Except as allowed under this Privacy Policy, we will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+
+Social Media Widgets
+
+Our Sites includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+Single Sign-On
+
+You can log in to our Sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network.
 
 Customer Service,  
 **OneTravel.com,**  
-1050 East Flaming Road  
+1050 East Flamingo Road  
 Suite S302  
 Las Vegas, NV 89119  
-[cservice@OneTravel.com](mailto:cservice@OneTravel.com?Subject=Lowest%20Fare%20Promise)
+[tlc@onetravel.com](mailto:tlc@onetravel.com)
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint). [TRUSTe](https://www.truste.org/) will serve as a liaison with us to resolve your concerns.  
+Amendments
 
+We may amend this Privacy Policy at any time. All amended terms automatically take effect as of the date this Privacy Policy is updated and published on the Sites. Your continued use of the Sites following the posting of changes to this Privacy Policy will mean that you accept those changes. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on the Sites prior to the change becoming effective.
 
-  
-
+All the terms used herein are to be interpreted as defined under our Terms and Conditions.
