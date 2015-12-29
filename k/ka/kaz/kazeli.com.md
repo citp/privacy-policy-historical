@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazeli.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155933id_/http%3A//www.kazeli.com/index.cfm/id/58/lang/english/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazeli.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229112321id_/http%3A//www.kazeli.com/index.cfm/id/58/lang/english/privacypolicy) for the most accurate reproduction.*
 
 # Kazeli Web Office: Simple CRM, Website Design and Builder, Online File Storage, Business Network, Automatic Follow Up, Cloud Computing - Privacy Policy
 
@@ -8,7 +8,7 @@ Kazeli Holdings Ltd. is committed to respecting and protecting your privacy. By 
 
 **Who Controls my Information?**
 
-Any information provided to or gathered from www.kazeli.com is controlled by Kazeli Holding Ltd., headquartered at: 101 Acropolis Avenue, 3rd Floor, Strovolos, Nicosia 2012, Cyprus. Tel: +357 22 879865 Fax: +357 22 517397.
+Any information provided to or gathered from www.kazeli.com is controlled by Kazeli Holding Ltd., headquartered at: 2 Agias Elenis str., 6th floor, Stassinos Building, 1060 Nicosia - Cyprus. Tel: +357 22 879865 Fax: +357 22 517397.
 
 **What do I agree to by using this website?**
 
@@ -26,9 +26,11 @@ www.kazeli.com may work with other companies to provide offers and promotions th
 We receive and store any information you enter on our website or give us in any other way. The information we learn from customers helps us personalize and continually improve your experience at www.kazeli.com.
 
   * **Registration Information**  
-In order to provide you with the most fast, efficient and accurate service possible, kazeli.com requires the collection of certain personally identifiable information. The information that may be collected includes: name, address, e-mail address, telephone number, and information about your interests in and use of various products, programs, and services.
+In order to provide you with the most fast, efficient and accurate service possible, kazeli.com requires the collection of certain personally identifiable information. The information that may be collected includes: name, address, e-mail address, telephone number, and information about your interests in and use of various products, programs, and services.  
+
   * **Email Information**  
-In an effort to optimize our email communication with you we often receive a confirmation when you open e-mail from www.kazeli.com if your computer supports such capabilities. You may of course use the unsubscribe link found on the bottom of such email communications from us to remove your name from our mailing list.
+In an effort to optimize our email communication with you we often receive a confirmation when you open e-mail from www.kazeli.com if your computer supports such capabilities. You may of course use the unsubscribe link found on the bottom of such email communications from us to remove your name from our mailing list.  
+
   * **Cookies**  
 When you visit one www.kazeli.com, we may also store some information on your computer's hard drive in the form of a "Cookie". Cookies are text files that identify your computer to our server. We may use cookies to serve you better and more efficiently, and to personalize your experience at our Site. To do so, the cookies we use may record identifiable information pertaining to your preferences for viewing particular web pages. We may also use cookies to collect identifiable information to help us in analyzing trends, tracking user's movement, and gathering broad demographic information for aggregate use.
 
