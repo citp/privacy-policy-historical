@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323122012id_/http%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229140358id_/http%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tours & Things to do in Korea
+# Privacy Policy for Korea Travelers by One Day Korea
+
+You are here: [Home](http://www.onedaykorea.com/ "Korea Tour : Seoul City Tour, Package Tours by Korea Travel Agency") / Privacy Policy
+
+## Privacy Policy
 
 We see you as a valuable asset that we want to protect and safeguard. To show you our commitment, we have compiled this Privacy Policy page. It outlines everything our company does all the time to safeguard your privacy on this website. We reserve the right to add new services or features to this Privacy Policy in future. Kindly read it thoroughly.
 
@@ -63,3 +67,5 @@ If you want to cease being our member, you may contact us to delete/cancel your 
 
 Your data safety is our top priority.  
 We take serious and stern measures to hide and mask your personal information from prying eyes. Our servers are totally encrypted with the SSL or Secure Socket Layer technology. This technology plays the role of hiding data as it gets transmitted over the internet. Still we advise you to think carefully when deciding what to add to your account profile page. Should you have security concerns or questions, let us know.
+
+__
