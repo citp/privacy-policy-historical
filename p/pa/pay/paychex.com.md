@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205722id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229065445id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -114,3 +114,18 @@ This statement may be revised from time to time due to legislative changes, chan
 If you have any comments, concerns or questions about this Privacy Statement, please contact your service provider.
 
 Last revised date: August 27, 2014
+
+  * [About Us](http://www.paychex.com/corporate/about-us.aspx)
+  * [Office Locations](http://locations.paychex.com/)
+  * [Paychex History](http://www.paychex.com/corporate/history.aspx)
+  * [Privacy Statement](http://www.paychex.com/corporate/privacy.aspx)
+  * [Security Center](http://www.paychex.com/corporate/security/)
+  * [Paychex Community Foundation](http://www.paychex.com/corporate/community-foundation.aspx)
+  * [Paychex Golf](http://www.paychex.com/corporate/golf.aspx)
+
+
+
+  * [](http://www.paychex.com/ "Home")
+  * [](http://www.paychex.com/login/ "Login")
+
+
