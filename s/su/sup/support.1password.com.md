@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.1password.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203821id_/https%3A//www.agilebits.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.1password.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063248id_/https%3A//agilebits.com/store/privacy) for the most accurate reproduction.*
 
 # AgileBits Privacy Policy
 
@@ -38,6 +38,6 @@ Our business changes constantly, and our Privacy Notice and the Terms and Condit
 
 If you have additional questions, you can [contact us via email](https://agilebits.com/contact_us), or write to us at:
 
-> 208 Adelaide Street West  
->  Toronto, Ontario, M5H1W7  
+> 317 Adelaide Street West, Suite 910  
+>  Toronto, Ontario, M5V1P9  
 >  Canada
