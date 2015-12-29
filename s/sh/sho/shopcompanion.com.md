@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopcompanion.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226073426id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcompanion.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229060039id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy | SHOP.COM
 
@@ -20,8 +20,9 @@ This Privacy Policy covers the following information:
   3. The choices you have about the collection, use and sharing of your personally identifiable information.
   4. The types of security procedures we take to safeguard your personally identifiable information.
   5. How you may access, update and change personally identifiable information you've provided.
-  6. Other Information.
-  7. How you can ask questions, or send us comments about this Privacy Policy.
+  6. California Residents.
+  7. Other Information.
+  8. How you can ask questions, or send us comments about this Privacy Policy.
 
 
 
@@ -95,7 +96,18 @@ If you want to review, modify or correct any of this information, simply click o
 
 This Site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.
 
-#### 6\. Other Information
+#### 6\. CALIFORNIA RESIDENTS
+
+California Civil Code Section 1798.83, also known as the Shine The Light law, permits SHOP.COM customers who are California residents to request information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If you are a California resident you may submit your request for this information to:
+
+Email: [customerservice@shop.com](mailto:customerservice@shop.com)
+
+Regular mail:  
+SHOP MA, Inc  
+3301 NE 1st Ave.  
+Miami, FL 33137
+
+#### 7\. Other Information
 
   1. Child Use.  
 We do not knowingly collect personal information from, or sell products for purchase by, persons under the age of 18. We sell children's products for purchase by adults. Do not provide information to us, or purchase from this Site, if you are under the age of 18.
@@ -108,7 +120,7 @@ Our business changes constantly and our Privacy Policy will change accordingly. 
 
 If we decide to change our email practices, we will post those changes to the Site so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it.
 
-#### 7\. Questions, Comments, Contact Information Regarding our Privacy Policy
+#### 8\. Questions, Comments, Contact Information Regarding our Privacy Policy
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
 SHOP MA, Inc  
@@ -116,4 +128,4 @@ SHOP MA, Inc
 Miami, FL 33137  
 email: [customerservice@shop.com](mailto:customerservice@shop.com)
 
-Updated 06/14/13
+Updated 06/05/15
