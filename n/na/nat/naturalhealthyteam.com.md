@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealthyteam.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501212213id_/http%3A//www.naturalhealthyteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthyteam.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229135559id_/http%3A//www.naturalhealthyteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Healthy Team
 
