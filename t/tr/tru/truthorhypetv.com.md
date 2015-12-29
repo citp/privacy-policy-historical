@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthorhypetv.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527201101id_/http%3A//www.truthorhypetv.com/disclaimers/privacy%3Fid%3Dadmin) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthorhypetv.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229141427id_/http%3A//www.truthorhypetv.com/disclaimers/privacy%3Fid%3Dmlmmarketing) for the most accurate reproduction.*
 
 # TruthOrHypeTV
 
@@ -30,10 +30,8 @@ We reserve the right, at any time and without notice, to add to, change, update,
 
 This site is owned and operated by TruthOrHypeTV.com
 
-146 Second Street North
+2840 West Bay Drive
 
-St. Petersburg, Florida 33701
+FL 33770 USA
 
-Suite 201
-
-Effective Date: November 7, 2011
+#166 Belleair Bluffs,
