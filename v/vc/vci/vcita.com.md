@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511105815id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229215435id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
 
 # vCita - Privacy Policy
 
@@ -60,6 +60,14 @@ vCita may use personally identifiable information for the following purposes:
   * to take any action in any case of dispute, or legal proceeding of any kind between you and vCita, or between you and other users or third parties with respect to, or in relation with the Services or the Web-App.
 
 
+
+### Safe Harbor
+
+As a vCita user, your personal information may be maintained, processed and stored by vCita, our affiliates, and our service providers in the United States or other jurisdictions. vCita adheres to the Safe Harbor Privacy Principles according to the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework. The Safe Harbor program is intended to provide equivalent protections for personal data as exist in the EU and Switzerland. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor/>.
+
+If you have any questions about our Safe Harbor participation, please contact us using the information below. If you believe that vCita has not satisfactorily addressed your data privacy concerns related to the U.S.-EU Safe Harbor Privacy Principles or the U.S.-Swiss Safe Harbor Privacy Principals, and without prejudice to any other remedy you may enjoy, you may obtain dispute resolution services through [The DMA Safe Harbor Program](http://thedma.org/resources/compliance-resources/safe-harbor-program-guide/dma-safe-harbor-program-guide-for-european-and-swiss-consumers/).
+
+In relation to information of users collected and stored through the vCita Web-App (“Clients’ Data”), vCita serves as a data “Processor” (due to the technical hosting thereof) and not as a data “Controller” (as both such capitalized terms are defined in the European Data Protection Directive). The Experts controlling and operating the vCita Web-App shall be considered the controllers of such Clients’ Data and are responsible for complying with all laws and regulations as may be applicable to the collection and control of such Clients’ Data including privacy or data protection laws of all relevant jurisdictions. vCita cannot provide legal advice to Experts, but vCita recommends that all Experts that create and maintain websites using vCita platform should maintain clear and comprehensive privacy policies complying with the applicable laws and regulations.
 
 ### Important notice about privacy of persons under the age of 18
 
@@ -136,4 +144,4 @@ vCita is doing its utmost to comply with this Policy. If you have any questions,
 
 vCita may change and update the terms of this policy from time to time. Changes will take effect seven (7) days after their initial posting on the Website or the Web-App, unless vCita amends the policy to comply with legal requirements. In the latter cases the amendments will become effective as required, or ordered.
 
-Last Updated: February 27, 2013
+Last Updated: October 28, 2015
