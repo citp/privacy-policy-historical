@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnjavaonline.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200702id_/http%3A//www.learnjavaonline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnjavaonline.org privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229181750id_/http%3A//www.learnjavaonline.org/privacy) for the most accurate reproduction.*
 
 # Learn Java - Free Interactive Java Tutorial
 
