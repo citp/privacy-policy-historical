@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodemic.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704184158id_/http%3A//www.rodemic.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodemic.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229191709id_/http%3A//www.rode.com/privacypolicy) for the most accurate reproduction.*
 
 # RØDE Microphones - Privacy Policy
 
@@ -10,7 +10,7 @@ sets out the basis on which any personal information we collect from you, or tha
 **1\. Information we may collect from you**
 
 1.1 We may collect and process the following information about you:  
-(a) Information that you provide by filling in registration forms on the RØDE website www.rodemic.com (our “Site”). This may include personal details like Name, Address, Gender, Age, Employment, Telephone number, Email Address, and other relevant user information required and thereafter provided at the time of registering to use our Site, posting material or requesting further services; Information that you provide when you enter a competition or promotion, respond to an offer and when you report a problem with our Site;  
+(a) Information that you provide by filling in registration forms on the RØDE website www.rode.com (our “Site”). This may include personal details like Name, Address, Gender, Age, Employment, Telephone number, Email Address, and other relevant user information required and thereafter provided at the time of registering to use our Site, posting material or requesting further services; Information that you provide when you enter a competition or promotion, respond to an offer and when you report a problem with our Site;  
 (b) Information that you provide when you choose opt-in services;  
 (c) If you contact RØDE, we may keep a record of that correspondence;  
 (d) Information provided by you in surveys requested by RØDE for research purposes, whether or not you respond fully to them; and/or  
@@ -51,7 +51,7 @@ sets out the basis on which any personal information we collect from you, or tha
 **6\. Your rights**
 
 6.1 If you do not want RØDE to use your personal information as set out in herein, please tick the relevant boxes situated on the user registration form on which RØDE collects your information at the time of submission. This will allow you to opt-out of all or part of the uses of your personal information set out herein.   
-6.2 If you have provided information to RØDE and thereafter you wish to opt-out of all or part of the information set out herein, or to remove your details from the RØDE database, please email your request to [ privacy@rodemic.com ](mailto:privacy@rodemic.com). RØDE will do everything it can to adhere to your request. 
+6.2 If you have provided information to RØDE and thereafter you wish to opt-out of all or part of the information set out herein, or to remove your details from the RØDE database, please email your request to [ privacy@rode.com ](mailto:privacy@rode.com). RØDE will do everything it can to adhere to your request. 
 
 **7\. Links**
 
@@ -60,7 +60,7 @@ sets out the basis on which any personal information we collect from you, or tha
 **8\. Access/Changes to information**
 
 8.1 You have the right to access information held about you. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you. You also have the right to request the modification or updating of your information if at any time your circumstances change.   
-8.2 Please email any such requests to privacy@rodemic.com and RØDE will do everything it can to adhere to your request. 
+8.2 Please email any such requests to privacy@rode.com and RØDE will do everything it can to adhere to your request. 
 
 **9\. Testimonials**
 
