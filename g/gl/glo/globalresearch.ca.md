@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalresearch.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629162526id_/http%3A//globalresearch.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalresearch.ca privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229103627id_/http%3A//globalresearch.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Research - Centre for Research on Globalization
 
