@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528191719id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229210136id_/http%3A//www.citypages.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Minneapolis Privacy Policy
+# Privacy Policy | Latest Minneapolis & St. Paul News and Events | Minneapolis City Pages
 
-### City Pages, LLC
+### City Pages
 
 This Privacy Policy is effective as of February 15, 2012.
 
-This Privacy Policy describes the practices that City Pages, LLC ("City Pages") follows with respect to the collection, maintenance and use of information submitted on citypages.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of City Pages. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.
+This Privacy Policy describes the practices that City Pages ("City Pages") follows with respect to the collection, maintenance and use of information submitted on citypages.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of City Pages. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.
 
 If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes. We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.
 
@@ -86,8 +86,8 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@citypages.com](mailto:community@citypages.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@citypages.com](mailto:privacyadministrator@citypages.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
