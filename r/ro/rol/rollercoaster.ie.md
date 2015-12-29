@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollercoaster.ie privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145214id_/http%3A//www.rollercoaster.ie/Info/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoaster.ie privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229173016id_/http%3A//www.rollercoaster.ie/Info/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Rollercoaster.ie > Info > Privacy Statement
 
