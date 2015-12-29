@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iframehost.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602184419id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframehost.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229155221id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
 
-# Woobox Privacy Policy
+# Woobox Promotions Manager
 
 This policy was last modified June 13th 2013
 
