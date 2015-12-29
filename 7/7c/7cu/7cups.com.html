@@ -1,136 +1,353 @@
-<!--The following is the downloaded HTML source of the 7cups.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627055620id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7cups.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229200526id_/http%3A//www.7cups.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <title>Privacy Policy | 7CupsOfTea.com</title>
+        <title>Privacy Policy | 7 Cups</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+        
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-<link rel="stylesheet" href="/css/base.css?v=67" type="text/css">
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" type="text/css">
+<link rel="stylesheet" href="/design/dist/css/bootstrap.min.css?v=2.0">
+<link rel="stylesheet" href="/css/toastr.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/datepicker.css">
 
-    <!--[if lt IE 9]>
-      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
 
-<meta property="og:image" content="//d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">
+<!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+<meta property="og:image" content="//d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">    
+<meta name="twitter:image" content="http://d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">
+
 <meta name="apple-itunes-app" content="app-id=921814681">
-<!-- start Mixpanel -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js?onload=onLoadCallback"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1432303356990100"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">
-    (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
-    for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-    mixpanel.init("85e0ea5f00a1dcee410aa8340cc75e3a");    
-    mixpanel.identify('2349147');
-    </script>
-<!-- end Mixpanel -->        <style type="text/css">
+<link rel="icon" type="image/png" href="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/favicon.png">
+
+
+
+
+<style type="text/css">
+    .btn.btn-xs{
+        font-size:0.75em;
+        padding:0.15em 1em;
+    }
+    
+    .btn.btn-sm{
+        font-size:0.90em;
+        padding:0.25em 1em;
+    }
+    
+    .btn.btn-lg{
+        font-size:1.2em;
+        padding:0.5em 1.5em;
+    } 
+    
+    .btn.btn-xl{
+        font-size:1.4em;
+        padding:0.75em 1.5em;
+    }   
+    
+    .btn-primary.btn-outline{
+        background:none;
+        color:#1e90fe;
+        border:solid 1px #1e90fe;
+    }
+    
+    .btn-primary.btn-outline:hover{
+        background-color:#1e90fe;
+        color:#fff;
+    }
+    
+    .btn-danger.btn-outline{
+        background:none;
+        color:rgb(217,83,79);
+        border:solid 1px rgb(217,83,79);
+    }
+    
+    .btn-danger.btn-outline:hover{
+        background-color:rgb(217,83,79);
+        color:#fff;
+    }
+    
+    .btn-warning.btn-outline{
+        background:none;
+        color:#ec971f;
+        border:solid 1px #ec971f;        
+    }
+    
+    .btn-warning.btn-outline:hover{
+        background-color:#ec971f;
+        color:#fff;
+    }
+    
+    .btn-default.btn-outline{
+        background:none;
+        color:#666;
+        border:solid 1px #666;
+    }
+    
+    .btn-default.btn-outline:hover{
+        background-color:#666;
+        color:#fff;
+    }
+    
+    .btn-success.btn-outline{
+        background:none;
+        color:rgb(65,150,65);
+        border:solid 1px rgb(65,150,65);
+    } 
+    
+    .btn-success.btn-outline:hover{
+        background-color:rgb(65,150,65);
+        color:#fff;
+    }
+    
+    .btn-white.btn-outline{
+        background:none;
+        color:#fff;
+        border:solid 1px #fff;
+    } 
+    
+    .btn-white.btn-outline:hover{
+        background-color:#fff;
+        color:#666;
+    }
+    
+    
+    .alert-warning{
+        background-color: #d9983a;
+        color:#fff;
+    }
+    .alert-danger{
+        background-color: #cf3511;
+        color:#fff;
+    }
+    .alert-info{
+        background-color: #5cc8df;
+        color:#fff;        
+    }
+    
+    .btn-white{
+        background-color:#fff;
+        color:#666;
+    }
+    
+    .btn-grey{
+        background-color:#e6e6e6;
+        color:#333;
+    }
+    
+    .btn-grey:hover{
+        background-color:#999;
+        color:#333;
+    }
+    
+    #fullpage-spinner{
+        content: '';
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.7);   
+        z-index:3000
+    }  
+    
+    #fullpage-spinner > div{
+        color:#fff;
+        position: fixed;
+        z-index: 999;
+        height: 4em;
+        width: 4em;
+        overflow: show;
+        margin: auto;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+    
+    .shareIcon{
+        display:inline-block;
+        width:1.5em;  
+        vertical-align: middle;
+    }
+    
+    .shareIcon > div{
+        background-position: center center;
+        background-size: cover;
+        height:0;
+        width: 100%;
+        padding-bottom: 100%;
+        position:relative;
+    }
+    
+    .shareIcon > div > span.label{
+        position:absolute;
+        bottom:0;
+        right:0;
+        margin:0;
+        font-size:0.35em;
+    }
+    
+    .chatIconHolder{
+        padding-left:5px
+    }
+    
+    div.quizHolder > div.alert-default{
+        border: solid .0625rem #1e90fe;
+    }
+    
+    .widgetContent{
+        padding:1em;
+    }
+    
+    li.menualert-success b.alertHead{        
+        color:#5cb85c;
+    }
+} 
+</style>
+
+
+<!-- Start Event Tracking -->
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.2.0-min.gz.js"></script><script type="text/javascript">
+
+  var eventDetails = {"isGuest":true,"screenName":"niceNickel868","age":"teen"};
+window.activate = function () {  $.post("/connect/guestActivate.php", {id: 'lmZjeXudlp-dlLBsWFSTmg!!'}); window.activate=false;  };
+  window.tracker = (function (e) { var x = []; this.emit = function (i, d) {  if (x.indexOf(i) === -1) { if (window.activate) window.activate(); if (d == null) d = {}; for (var k in eventDetails) d[k] = eventDetails[k]; console.log('Tracking Event', i, d); amplitude.logEvent(i, d); } }; return this; })();
+
+
+  (function(e,t){var r=e.amplitude||{};var n=t.createElement("script");n.type="text/javascript";
+  n.async=true;n.src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.2.0-min.gz.js";
+  var s=t.getElementsByTagName("script")[0];s.parentNode.insertBefore(n,s);r._q=[];
+  function a(e){r[e]=function(){r._q.push([e].concat(Array.prototype.slice.call(arguments,0)));
+  }}var i=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties"];
+  for(var o=0;o<i.length;o++){a(i[o])}e.amplitude=r})(window,document);
+
+  amplitude.init("99900cb7735e0949d4ba78b888cba545");
+  amplitude.setUserId('9913313');
+  amplitude.setUserProperties({'age': 'teen'});
+
+  window.libraryState = '';
+
+  window.onerror = function (a,b,c,d) {
+        tracker.emit('jsError', {
+                message: a,
+                url: b,
+                line: c,
+                column: d,
+                agent: navigator.userAgent,
+		url: window.location.href,
+		libraries: window.libraryState
+        });
+        console.log('ERROR',a,b,c,d,navigator.userAgent);
+        return false;
+  };
+
+</script>
+<!-- End Event Tracking -->
+        <style type="text/css">
             #pageContent p{
                 margin-top:0;
             } 
         </style>
     </head>
     <body>
-        <div id="wrap">
-    <div class="navbar navbar-primary navbar-static-top" role="navigation" id="mainNavigation">
+        <nav class="navbar  navbar-fixed-top"><div class="container-responsive fh" style="padding-top:9px">
+                <div class="row fh">
+                    <div class="col-xs-12">
+                        <div class="text-right pull-right hidden-md-down" style="vertical-align:middle;height:2.5em;overflow:visible;"><a class="nav-link login-link" href="/login.php">Login</a>
+              <span class="dropdown">
+                <a class="nav-link last dropdown-toggle" href="#" data-toggle="dropdown">My Path</a>
+                <ul class="dropdown-menu">
+                    <li><a href="/member/">My Growth Path</a></li>
+                    <li><a href="/member/personalizedPaths.php">Personalized Paths</a></li>
+                    <li><a href="/exercises/mindfulness/?showlist=1">Mood Boosts</a></li>
+                    <li><a href="/supportGuides/selfHelpGuides.php">Self-Help Guides</a></li>                                                
+                </ul>
+              </span>
+              <div class="spacer fh hidden-sm-down pull-right"></div></div><div class="spacer fh hidden-md-down pull-left"></div><button class="navbar-toggler hidden-md-up pull-left" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2" style="margin-top:-2px; margin-right:1em;font-family:sans-serif">
+        <img src="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/i-need-help.png" class="lazyload" alt="Need Help? Try 7 Cups of Tea Online Therapy">
+      </button><a class="navbar-brand" href="/">
+        <img src="//s3-us-west-2.amazonaws.com/7cupstearesources/img/active-listeners-therapy.svg" alt="Free Help Chat, Online Therapy Counseling">
+      </a><div class="pull-right hidden-md-up newMessageCounter clearfix" style="position:relative;display:inline-block; margin-top:.1em;margin-right:.5em;display:none">   
+        <span data-toggle="modal" data-target="#messagesModal" hfdref="/member/connect/conversation.php"><i class="navMessages"></i></span>
+        <span class="alertCounter"></span>
+      </div><div class="collapse navbar-toggleable-sm sdubtle-box-shadow" id="exCollapsingNavbar2">
+            <ul class="nav navbar-nav"><li class="nav-item">
+                                        <a class="nav-link" href="/BrowseListeners/">Browse Listeners</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <div class="dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Help Yourself</a>
+                                            <ul class="dropdown-menu sub-menu">
+                                                <li><a href="/exercises/mindfulness/">Boost Your Mood</a></li>
+                                                <li><a href="/qa/">Questions &amp; Answers</a></li>
+                                                <li><a href="/supportGuides/selfHelpGuides.php">Self-Help Guides</a></li>
+                                                <li><a href="/forum/">Community Forum</a></li>
+                                                <li><a href="/connect/groupChatrooms.php">Group Support Chat</a></li>
+                                                <li><a href="/forum/Welcome_27/RulesofEngagement_27/RulesofEngagement_62/1/">Community Guidelines</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
 
-        <div class="container">
-            <div id="header-md-logo"><a href="/" class="hidden-xs hidden-sm"><img src="//d3twuufqrfygff.cloudfront.net/img/active-listeners-therapy.jpg" alt="Free Help Chat, Online Therapy Counseling" onmouseover="hoverLogo(this);" onmouseout="unhoverLogo(this);"></a></div>
+                                    <li class="nav-item">
+                                        <div class="dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">About</a>
+                                            <ul class="dropdown-menu sub-menu">
+                                                <li><a href="/about/about.php">About Us</a></li>
+                                                <li><a href="/about/howitworks.php">How It Works</a></li>
+                                                <li><a href="/about/faq.php">F.A.Q.</a></li>
+                                                <li><a href="/about/confidentiality.php">Confidentiality</a></li>
+                                                <li><a href="/about/faqBadgesCheers.php">Listener Reputation</a></li>
+                                                <li><a href="/about/memberReputation.php">Member Reputation</a></li>
+                                                <li><a href="/about/ourteam.php">Our Team</a></li>
+                                                <li><a href="/about/values.php">Our Values</a></li>
+                                                <li><a href="/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/">Our Mission</a></li>
+                                                <li><a href="/blog/">Blog</a></li>
+                                                <li><a href="/about/press.php">Press</a></li>
+                                                <li><a href="/about/linktous.php">Link to Us</a></li>
+                                                <li><a href="/partners/list.php">Partner Organization</a></li>
+                                                <li><a href="/communities/internships/">Graduate &amp; Undergraduate Internships</a></li>
+                                                <li><a href="/about/research.php">Research</a></li>
+                                            </ul>
+                                        </div>
+                                    </li><li class="nav-item">
+                                        <a class="nav-link specialnav" href="/backus/upgrade7cups.php" onclick="tracker.emit('ctaUpgrade',{location:'HeaderUpgrade'});">Subscribe</a>
+                                    </li><li class="nav-item">
+                                        <a class="nav-link" href="/listener/becomeListener.php">Become a Listener</a>
+                                    </li>
 
-            <div class="navbar-header visible-xs visible-sm row">
-                <div class="col-xs-10">
-                    <a id="header-xs-logo" href="/"><img src="//d3twuufqrfygff.cloudfront.net/img/7CupsOfTea-xs-logo.jpg" alt="Need help? Try 7 Cups of Tea Online Therapy"></a>
-                </div>
-                <div class="col-xs-2">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainMenuCollapse">
-                        <i class="fa fa-bars"></i>
-                    </button>
+                                    <li class="nav-item hidden-lg-up">
+                                        <a class="nav-link login-link" href="/login.php">Login</a>
+                                    </li>
+                                    
+                                    <li class="nav-item hidden-lg-up last">
+                                        <div class="dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">My Path</a>
+                                            <ul class="dropdown-menu"><li><a href="/member/">My Growth Path</a></li><li><a href="/member/personalizedPaths.php">Personalized Growth Paths</a></li><li><a href="/exercises/mindfulness/?showlist=1">Mood Boosts</a></li><li><a href="/supportGuides/selfHelpGuides.php">Self-Help Guides</a></li>      </ul>
+                                        </div>
+                                    </li>              </ul>
                 </div>
             </div>
-
-
-            <div id="mainMenuCollapse" class="collapse navbar-ex1-collapse navbar-collapse">
-                <ul class="nav navbar-nav">
-
-                    <li class="">
-                        <a href="/BrowseListeners/"><i class="fa fa-search"></i> Browse Listeners</a>
-                    </li>       
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-group"></i> Group Support <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/connect/groupChatrooms.php">Group Support Chat</a></li>
-                            <li><a href="/forum/">Support Forum</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <i class="fa fa-book"></i> <span class="hidden-sm hidden-md">Self Help</span> Guides <b class="caret"></b>
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/act-therapy-techniques/">Acceptance &amp; Commitment Therapy</a></li><li><a href="/alcohol-drug-abuse/">Alcohol/Drug Abuse</a></li><li><a href="/anxiety-help/">Anxiety</a></li><li><a href="/breakup-advice/">Breakup Advice</a></li><li><a href="/bullying/">Bullying</a></li><li><a href="/chronic-pain/">Chronic Pain</a></li><li><a href="/how-to-adjust-to-college-life/">College Life</a></li><li><a href="/depression-help-online/">Depression</a></li><li><a href="/eating-disorder-help/">Eating Disorders</a></li><li><a href="/how-to-get-motivated-to-exercise/">Exercise Motivation</a></li><li><a href="/family-stress/">Family Stress</a></li><li><a href="/how-to-deal-with-loneliness/">Loneliness</a></li><li><a href="/help-managing-emotions/">Managing Emotions</a></li><li><a href="/panic-attacks-help-online/">Panic Attacks</a></li><li><a href="/online-parenting-course/">Parenting Help</a></li><li><a href="/self-harm/">Self Harm</a></li><li><a href="/sleeping-well/">Sleeping Well</a></li><li><a href="/startup-support/">Startup Support</a></li><li><a href="/how-to-overcome-test-taking-anxiety/">Test Anxiety</a></li><li><a href="/trauamatic-experience-help/">Traumatic Experiences</a></li><li><a href="/work-related-stress/">Work Related Stress</a></li>                        </ul>
-                    </li>                  
-                </ul>
-
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="dropdown">
-                        <a href="/about/about.php" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-coffee"></i> About <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/about/about.php">About Us</a></li>
-                            <li><a href="/about/howitworks.php">How it Works</a></li>
-                            <li><a href="/about/faq.php">F.A.Q.</a></li>
-                            <li><a href="/about/confidentiality.php">Confidentiality</a></li>
-                            <li><a href="/about/faqBadgesCheers.php">Listener Reputation</a></li>  
-                            <li><a href="/about/memberReputation.php">Member Reputation</a></li>  
-                            <li><a href="/about/ourteam.php">Our Team</a></li>
-                            <li><a href="/about/values.php">Our Values</a></li>
-                            <li><a href="/blog/">Blog</a></li>
-                            <li><a href="/about/press.php">Press</a></li>
-                            <li><a href="/about/linktous.php">Link to Us</a></li>
-                            <li class="dropdown-submenu">
-                                <a href="/partners/list.php">Partner Organizations <b class="caret"></b></a>
-                                <ul class="dropdown-submenu-hide">
-<li><a href="/partners/ActiveMinds"><i class="fa fa-angle-right"></i> Active Minds</a></li><li><a href="/partners/AddictionBlog"><i class="fa fa-angle-right"></i> Addiction Blog</a></li><li><a href="/partners/BigElephant"><i class="fa fa-angle-right"></i> Big Elephant</a></li><li><a href="/partners/ConnectionActionProject"><i class="fa fa-angle-right"></i> Connection Action Project</a></li><li><a href="/partners/CounselingInsite"><i class="fa fa-angle-right"></i> Counseling Insite</a></li><li><a href="/partners/HelpEachOtherOut"><i class="fa fa-angle-right"></i> Help Each Other Out</a></li><li><a href="/partners/HopeRecoveryInc"><i class="fa fa-angle-right"></i> Hope Recovery, Inc.</a></li><li><a href="/partners/InternationalBipolarFoundation"><i class="fa fa-angle-right"></i> International Bipolar Foundation</a></li><li><a href="/partners/ListeningHearts"><i class="fa fa-angle-right"></i> Listening Hearts</a></li><li><a href="/partners/MiraclesOne"><i class="fa fa-angle-right"></i> MiraclesOne</a></li><li><a href="/partners/NAMISantaClara"><i class="fa fa-angle-right"></i> NAMI Santa Clara</a></li><li><a href="/partners/NMDUnited"><i class="fa fa-angle-right"></i> NMD United</a></li><li><a href="/partners/PaceYourselfLGBT"><i class="fa fa-angle-right"></i> Pace Yourself LGBT</a></li><li><a href="/partners/ProjectLETS"><i class="fa fa-angle-right"></i> Project LETS</a></li><li><a href="/partners/RealLifeCounselling"><i class="fa fa-angle-right"></i> Real Life Counselling</a></li><li><a href="/partners/SamvaidnaTheMentalHealthWelfareOrganization"><i class="fa fa-angle-right"></i> Samvaidna: The Mental Health Welfare Organization</a></li><li><a href="/partners/SelfInflictedFilm"><i class="fa fa-angle-right"></i> Self Inflicted Film</a></li><li><a href="/partners/selfinjurynet"><i class="fa fa-angle-right"></i> self-injury.net</a></li><li><a href="/partners/space"><i class="fa fa-angle-right"></i> space</a></li><li><a href="/partners/SuicideMentalHealthGroup"><i class="fa fa-angle-right"></i> Suicide/ Mental Health Group</a></li><li><a href="/partners/TheMindBrightFoundation"><i class="fa fa-angle-right"></i> The MindBright Foundation</a></li><li><a href="/partners/TheMommiesNetwork"><i class="fa fa-angle-right"></i> The Mommies Network</a></li><li><a href="/partners/TheNaturalDeathCentreCharity"><i class="fa fa-angle-right"></i> The Natural Death Centre Charity</a></li><li><a href="/partners/TheTwilightBrigade"><i class="fa fa-angle-right"></i> The Twilight Brigade</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="/communities/internships/">Graduate &amp; Undergraduate Internships</a></li>
-                        </ul>
-                    </li>
-                    <li class=""><a href="/listener/becomeListener.php"><i class="fa fa-heart"></i> Become a Listener</a></li><li class=""><a href="/login.php"><i class="fa fa-lock"></i> Create Account / Login</a></li>                </ul>
-            </div> 
         </div>
     </div>
-
-    <div style="position:relative;"><div style="position:absolute; background:url('/img/headerShadow.png') repeat-x top left; height:10px;width:100%;z-index:500"></div></div>
-
-    <div class="container" id="bodyContainer">        
-        <div class="row headline" style="min-height:100px"><div class="col-sm-5"><h1></h1></div><div class="col-sm-5 col-sm-offset-2"><div class="text-center hidden-xs" style="line-height:16px">
-                                    <div>
-                                        <h3 style="color:#333;font-size:20px;line-height:90%;margin:0;"><i class="fa fa-child awardYellow" style="color:#cc99a2;"></i> <span style="color:#cc99a2;">Embraced</span> <sup style="font-size:0.65em"><a style="color:#999;" href="/member/growthProgress.php" title="Member Levels" data-content="Members progress from one level to the next as they earn Growth Points during their journey at 7 Cups of Tea." data-toggle="popover"><i class="fa fa-info-circle"></i></a></sup></h3>                 
-                                        <div class="progress roundCorners" style="background-color:#fff;margin-top:5px;margin-bottom:5px;border:1px solid #e6e6e6;position:relative;">
-                                            <div class="progress-bar progress-bar-awardYellow" style="width:0%;background-color:#cc99a2;" role="progressbar"></div>
-                                            <span style="position:absolute;width:100%;top:0;left:0;color:#999;font-size:11px" class="font-sans">93 Growth Points to Next Level</span>
-                                        </div>
-                                    </div>
-
-                                    <table style="width:100%;font-size:13px;color:#999;font-weight:bold;" class="font-sans">
-                                      <tbody>                                  
-                                          <tr><td class="text-left"><i class="fa fa-male fa-fw growthGuy"></i> Growth Points</td><td class="text-right">0</td></tr>
-                                          <tr><td class="text-left"><i class="fa fa-heart fa-fw compassionHeart"></i> Compassion Hearts</td><td class="text-right">0</td></tr>
-                                      </tbody>
-                                    </table>
-                            </div></div></div>        <h1>7 Cups of Tea Privacy Policy</h1>
+</nav>        <div class="container">
+            <h1>7 Cups Privacy Policy</h1>
 <hr>
-<p>Welcome to 7CupsofTea.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. </p>
-<p>This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at <a href="mailto:info@7CupsofTea.com">info@7CupsofTea.com</a>. </p>
-<p>You may not use 7CupsofTea.com if you do not agree to be bound by this Privacy Policy; you understand that 7CupsofTea.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7CupsofTea.com indicates that you accept any changes to the Privacy Policy. </p>
+<p>Welcome to 7Cups.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. </p>
+<p>This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at <a href="mailto:info@7Cups.com">info@7Cups.com</a>. </p>
+<p>You may not use 7Cups.com if you do not agree to be bound by this Privacy Policy; you understand that 7Cups.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. </p>
 <p>Personal data is information that can be used to identify you as an individual.</p>
-<p>By registering on the 7CupsofTea.com service, you agree:</p>
+<p>By registering on the 7Cups.com service, you agree:</p>
 <ol>
     <li>To comply with the terms and conditions of this Privacy Policy, and</li>
-    <li>That 7CupsofTea.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7CupsofTea.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.</li>
+    <li>That 7Cups.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7Cups.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.</li>
 </ol>
 <p><strong>Personal Information Defined.</strong> 7 Cups of Tea considers “Personal Information” to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address, or phone number. 7 Cups of Tea does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.</p>
 <p><strong>Communications with 7 Cups of Tea.</strong> If you engage in a communication with 7 Cups of Tea related to 7 Cups of Tea’s Listening Platform or 7 Cups of Tea’s or Sites using 7 Cups of Tea’s chat, email, voice or other communication products or services made available to you by 7 Cups of Tea, or if you engage in a pre- or post-interaction survey (“Survey”) related to any such communication, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via 7 Cups of Tea’s communication products or services, you consent to 7 Cups of Tea collecting and processing such information for the purposes outlined in this Privacy Policy.</p>
@@ -150,15 +367,15 @@
 <p>Encryption is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption. </p>
 <p>Pixel tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied. </p>
 <p>Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.</p>
-<h3>Information that 7CupsofTea.com collects from Users requesting calls</h3>
-<p>When you request a chat or call on 7CupsofTea.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.</p>
+<h3>Information that 7Cups.com collects from Users requesting calls</h3>
+<p>When you request a chat or call on 7Cups.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.</p>
 <p>In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment. </p>
-<p>7CupsofTea.com may also record your IP address when submitting information in order to combat online crime or fraud.</p>
-<h3>Information that 7CupsofTea.com collects from registered listeners</h3>
-<p>We collect information about you in a variety of ways. When you register with 7CupsofTea.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. </p>
-<p>7CupsofTea.com may also record your IP address when submitting information in order to combat online crime or fraud. </p>
-<p>7CupsofTea.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. </p>
-<p>You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7CupsofTea.com by not registering with 7CupsofTea.com as a listener. You can also cancel your 7CupsofTea.com account.</p>
+<p>7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud.</p>
+<h3>Information that 7Cups.com collects from registered listeners</h3>
+<p>We collect information about you in a variety of ways. When you register with 7Cups.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. </p>
+<p>7Cups.com may also record your IP address when submitting information in order to combat online crime or fraud. </p>
+<p>7Cups.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. </p>
+<p>You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7Cups.com by not registering with 7Cups.com as a listener. You can also cancel your 7Cups.com account.</p>
 <h3>Social Applications</h3>
 <p>These services allow the web site to access the data on your profile in the social networks, and to interact through your post. These services are not activated automatically, but require express authorization by the user. </p>
 <h3>Facebook App</h3>
@@ -166,7 +383,7 @@
 <h3>Twitter App</h3>
 <p>Twitter App. is managed by Twitter, a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information in compliance with European security standards. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the User, by means of an appropriate authorization window.</p>
 <p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. </p>
-<p>For content that is covered by intellectual property rights, like photos and videos you specifically grant 7CupsofTea.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7CupsofTea.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. </p>
+<p>For content that is covered by intellectual property rights, like photos and videos you specifically grant 7Cups.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7Cups.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. </p>
 <p>When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).</p>
 <p>You will not create more than one personal profile. </p>
 <p>If we disable your account, you will not create another one without our permission.</p>
@@ -178,396 +395,712 @@
 <p>We will provide any mobile services for free, but please be aware that your carrier’s normal rates and fees, such as text messaging fees, will still apply. </p>
 <p>You understand that we may not always identify paid services and communications as such.</p>
 <h3>Child Protection</h3>
-<p>7CupsofTea.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7CupsofTea.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7CupsofTea.com, at their sole discretion, can terminate that account.</p>
+<p>7Cups.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7Cups.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7Cups.com, at their sole discretion, can terminate that account.</p>
 <h3>Consent and Changes</h3>
-<p>As indicated above, you must accept the terms of this privacy policy to use 7CupsofTea.com. You understand and agree that 7CupsofTea.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7CupsofTea.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at <a href="mailto:info@7CupsofTea.com">info@7CupsofTea.com</a>.</p>        </div>
-<div id="push"></div>
-</div>
-
-<footer>
-    <div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-8">
-                <div class="row">
-                <div class="col-sm-5">
-                    <h4>ABOUT US</h4>
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <a href="/about/howitworks.php">How it Works</a>
-                            <a href="/about/faq.php">FAQ</a>
-                            <a href="/about/confidentiality.php">Confidentiality</a>
-                            <a href="/partners/list.php">Partners</a>
-                            <a href="/about/press.php">Press</a>
-                            <a href="/about/about.php">Our Story</a>
-                            <a href="/about/jobs.php">Jobs</a>
-                            <a href="/why-do-i-feel-so-alone/">Feeling Alone</a>
-                            <a href="/es/">Español</a>
-                        </div>
-                        <div class="col-sm-6">
-                            <a href="/about/ourteam.php">Our Team</a>
-                            <a href="/about/values.php">Our Values</a>
-                            <a href="/forum/">Support Forum</a>
-                            <a href="/blog/">Blog</a>
-                            <a href="/about/linktous.php">Link to Us</a>
-                            <a href="/i-need-to-vent-to-someone/">Vent to Someone</a>
-                            <a href="/talk-to-strangers-online/">Talk to Strangers</a>
-                            <a href="/i-need-therapy/">I Need Therapy</a>
-                            <a href="/i-need-a-hug/">I Need A Hug</a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-sm-3">
-                    <h4>START CONNECTING</h4>
-                    <a href="/BrowseListeners/">Browse Listeners</a>
-                    <a href="/connect/groupChatrooms.php">Group Support Chat</a>
-                    <a href="/member/BecomeMember.php">Become a Member</a>
-                    <a href="/listener/becomeListener.php">Become a Listener</a>
-                    <a href="/partners/becomePartner.php">Become a Partner</a>
-                    <a href="/supportDesk.php">Support &amp; Feedback</a>
-                    <a href="/anonymous-chat/">Anonymous Chat</a>
-                    <a href="/depression-help-online/">Depression Chat</a>
-                    <a href="/depression-test/">Depression Test</a>
-                </div>
-
-                <div class="col-sm-3">
-                    <h4>TERMS</h4>
-                    <a href="/privacy.php" onclick="showPolicy('privacy');return false;">Privacy Policy</a>
-                    <a href="/memberAgreement.php" onclick="showPolicy('membertos');return false;">Member Terms of Service</a> 
-                    <a href="/listenerAgreement.php" onclick="showPolicy('listenertos');return false;">Listener Terms of Service</a> 
-                    <a href="/qa/">Q&amp;A</a>
-                </div>
-                    
-        
-                </div>
-                <div class="copyrightLine">
-                    <p>Copyright © 2015 7CupsOfTea.com. All rights reserved.&nbsp;&nbsp;|&nbsp;&nbsp;Find us on 
-                        <a href="https://www.facebook.com/7CupsOfTea" target="_blank">Facebook</a>, 
-                        <a href="https://twitter.com/7_Cups_of_Tea" target="_blank">Twitter</a> and 
-                        <a href="http://wehugtheinternet.tumblr.com/" target="_blank">Tumblr</a>
-                    </p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <h4>SHARE 7 CUPS OF TEA</h4>
-                <span class="st_facebook_custom st_button"><img src="//d3twuufqrfygff.cloudfront.net/img/st_facebook.gif" alt="Facebook"></span>
-                <span class="st_twitter_custom st_button"><img src="//d3twuufqrfygff.cloudfront.net/img/st_twitter.gif" alt="Twitter"></span>
-                <span class="st_tumblr_custom st_button"><img src="//d3twuufqrfygff.cloudfront.net/img/st_tumblr.gif" alt="Tumblr"></span>
-                <span class="st_pinterest_custom st_button"><img src="//d3twuufqrfygff.cloudfront.net/img/st_pinterest.gif" alt="Pinterest"></span>
-                <span class="st_googleplus_custom st_button"><img src="//d3twuufqrfygff.cloudfront.net/img/st_gplus.gif" alt="Goolge+"></span>
-                <span class="st_linkedin_custom st_button"><img src="//d3twuufqrfygff.cloudfront.net/img/st_linkedin.gif" alt="LinkedIn"></span>
-                <span class="st_sharethis_custom st_button" style="padding-right:0;"><img src="//d3twuufqrfygff.cloudfront.net/img/st_sharethis.gif" alt="ShareThis"></span>  
-                
-                <h4>DOWNLOAD OUR APP</h4>
-                    <a target="_blank" href="https://itunes.apple.com/us/app/7CupsOfTea/id921814681?ls=1&amp;mt=8" style="display:inline;margin-bottom:10px;"><img style="height:40px" alt="Download on the Apple App Store" src="//d3twuufqrfygff.cloudfront.net/img/appleDownload.png"></a> 
-                    <a target="_blank" href="http://play.google.com/store/apps/details?id=com.sevencupsoftea.app" style="display:inline;margin-bottom:10px;"><img style="height:40px" alt="Download on the Apple App Store" src="//d3twuufqrfygff.cloudfront.net/img/androidDownload.png"></a>
- 
-            </div>
+<p>As indicated above, you must accept the terms of this privacy policy to use 7Cups.com. You understand and agree that 7Cups.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7Cups.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at <a href="mailto:info@7Cups.com">info@7Cups.com</a>.</p> 
         </div>
         
-    </div>
+<div id="push"></div>
+
+<footer class="container-responsive footer lazyload" style="background-image:url(https://s3-us-west-2.amazonaws.com/7cupstearesources/img/footer-bg.png)">
+    <canvas class="stars" id="stars1"></canvas>
+    <canvas class="stars" id="stars2"></canvas>
+    <canvas class="stars" id="stars3"></canvas>
+    <div class="container footer-content">
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-12">
+                        <b>About Us</b>
+                        <ul>
+                            <li><a href="/about/howitworks.php">How it Works</a></li>
+                            <li><a href="/about/faq.php">FAQ</a></li>
+                            <li><a href="/about/confidentiality.php">Confidentiality</a></li>
+                            <li><a href="/partners/list.php">Partners</a></li>
+                            <li><a href="/about/press.php">Press</a></li>
+                            <li><a href="/about/about.php">Our Story</a></li>
+                            <li><a href="/about/jobs.php">Jobs</a></li>
+                            <li><a href="/about/research.php">Research</a></li>
+                            <li><a href="/why-do-i-feel-so-alone/">Feeling Alone</a></li>
+                            <li><a href="/es/">Español</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="hidden-xs-down" style="height:3em"></div>
+                        <ul>
+                            <li><a href="/about/ourteam.php">Our Team</a></li>
+                            <li><a href="/about/values.php">Our Values</a></li>
+                            <li><a href="/forum/">Support Forum</a></li>
+                            <li><a href="/blog/">Blog</a></li>
+                            <li><a href="/about/linktous.php">Link To Us</a></li>                            
+                            <li><a href="/i-need-to-vent-to-someone/">Vent To Someone</a></li>
+                            <li><a href="/talk-to-strangers-online/">Talk To Strangers</a></li>
+                            <li><a href="/i-need-therapy/">I Need Therapy</a></li>
+                            <li><a href="/i-need-a-hug/">I Need A Hug</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-12">
+                        <b>Start Connecting</b>
+                        <ul>
+                            <li><a href="/BrowseListeners/">Browse Listeners</a></li>
+                            <li><a href="/connect/groupChatrooms.php">Group Support Chat</a></li>
+                            <li><a href="/member/BecomeMember.php">Become a Member</a></li>
+                            <li><a href="/listener/becomeListener.php">Become a Listener</a></li>
+                            <li><a href="/partners/becomePartner.php">Become a Partner</a></li>
+                            <li><a href="/supportDesk.php">Support &amp; Feedback</a></li>
+                            <li><a href="/anonymous-chat/">Anonymous Chat</a></li>
+                            <li><a href="/depression-help-online/">Depression Chat</a></li>
+                            <li><a href="/bored-lonely-chat-room/">Bored &amp; Lonely Chat</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-xs-12">
+                        <b>Terms</b>
+                        <ul>
+                            <li><a href="/privacy.php" onclick="showPolicy('privacy');
+                                    return false;">Privacy Policy</a></li>
+                            <li><a href="/memberAgreement.php" onclick="showPolicy('membertos');
+                                    return false;
+                                    ">Member Terms of Service</a></li>
+                            <li><a href="/listenerAgreement.php" onclick="showPolicy('listenertos');
+                                    return false;">Listener Terms of Service</a></li>
+                            <li><a href="/qa">Q &amp; A</a></li>
+                            <li><a href="/depression-test/">Tests</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row row-xs-center 7cup-info">
+            <div class="col-md-6 col-xs-12">
+                <div class="mediaWrapper">
+                    <div class="media">
+                        <a href="/" class="media-left">
+                            <img src="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/7cups-app.png" class="media-object lazyload">
+                        </a>
+                        <div>
+                            <h4 class="media-heading">7 CUPS</h4>
+                            Available on IOS and Android
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div>
+                        <a target="_blank" href="https://itunes.apple.com/us/app/7CupsOfTea/id921814681?ls=1&amp;mt=8" style="display:inline;margin-bottom:10px;">
+                            <img style="height:40px" alt="Download on the Apple App Store" class="lazyload" src="//d3twuufqrfygff.cloudfront.net/img/appleDownload.png">
+                        </a>
+                        <a target="_blank" href="http://play.google.com/store/apps/details?id=com.sevencupsoftea.app" style="display:inline;margin-bottom:10px;">
+                            <img style="height:40px" alt="Download on the Apple App Store" class="lazyload" src="//d3twuufqrfygff.cloudfront.net/img/androidDownload.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-12">
+                <div style="padding:10px 0">
+                    <a href="/backus/back7cups.php" onclick="tracker.emit('ctaBack',{location:'FooterBackUs'});"><img src="/img/back-final.png" alt="Back 7 Cups"></a>
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-12 social-links clearfix">
+                <div class="pull-right" style="padding:10px 0">
+                    <a href="https://twitter.com/7cupsot" target="_blank" rel="nofollow"><img class="lazyload" src="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/twitter-logo.png"></a>
+                    <a href="https://www.facebook.com/7CupsOfTea" target="_blank" rel="nofollow"><img class="lazyload" src="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/facebook-logo.png"></a>
+                    <a href="http://wehugtheinternet.tumblr.com/" target="_blank" rel="nofollow"><img class="lazyload" src="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/tumbler-logo.png"></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 copyright text-center">
+                Copyright © 2015 7 Cups of Tea. All rights reserved.
+            </div>
+        </div>
     </div>
 </footer>
 
-<div id="bottomStatus">
-    <div class="container">
-        <div class="row"></div>
-    </div>
-</div>
 
-<div id="policyModal" class="modal fade" style="z-index:5000">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-body" style="padding:0">
-                <div id="policyBox" style="height:300px;overflow-y:scroll;padding:15px"></div>
+    <div id="bottomStatus">
+        <div class="container">
+            <div class="row"></div>
+        </div>
+    </div>
+
+    <div id="policyModal" class="modal fade" style="z-index:5000">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body" style="padding:0">
+                    <div id="policyBox" style="height:300px;overflow-y:scroll;padding:15px"></div>
+                </div>
+                <div class="modal-footer">
+                    <a href="#" class="btn btn-default" data-dismiss="modal">Close</a>
+                </div>
             </div>
-            <div class="modal-footer">
-                <a href="#" class="btn btn-default" data-dismiss="modal">Close</a>
+        </div>
+    </div>
+
+    <div id="personalReqModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h3 class="modal-title" style="padding-bottom:1em">Personal Conversation Requests</h3>
+                    <p>Personal requests go out to <strong>ONLY YOU</strong></p>
+                </div>
+                <div class="modal-body">
+                    <div class="reqModalHolder"></div>
+                    <div class="reqWaiting text-center"><i class="fa fa-spinner fa-spin fa-2x"></i></div>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div id="personalReqModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 class="modal-title">Personal Conversation Requests</h3>
-        <p>Personal requests go out to <strong>ONLY YOU</strong></p>
-      </div>
-        <div class="modal-body" style="padding:0">
-            <div class="reqModalHolder"></div>
-            <div class="reqWaiting text-center"><i class="fa fa-spinner fa-spin fa-4x"></i></div>
+    <div id="generalReqModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h3 class="modal-title" style="padding-bottom:1em">General Conversation Requests</h3>
+                    <p>
+                        General requests go out to <strong>ALL LISTENERS</strong>.</p>
+                    <p>Please <strong>SELECT REQUESTS FROM THE TOP</strong> or topics that you care about. Thank you!</p>
+                    <p>Current user wait time average <span class="waitTime label label-warning"></span>
+
+                    </p>
+                </div>
+                <div class="modal-body">
+                    <div class="reqModalHolder"></div>
+                    <div class="reqWaiting text-center"><i class="fa fa-spinner fa-spin fa-2x"></i></div>
+                </div>
+            </div>
         </div>
     </div>
-  </div>
-</div>
 
-<div id="generalReqModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 class="modal-title">General Conversation Requests</h3>
-        <p>
-            General requests go out to <strong>ALL LISTENERS</strong>.
-            <br>Please <strong>SELECT REQUESTS FROM THE TOP</strong> or topics that you care about. Thank you!
-            <br>Current user wait time average <span class="waitTime label label-warning"></span> 
-            
-        </p>
-      </div>
-        <div class="modal-body" style="padding:0">
-            <div class="reqModalHolder"></div>
-            <div class="reqWaiting text-center"><i class="fa fa-spinner fa-spin fa-4x"></i></div>
+    <div id="messagesModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h3 class="modal-title">New Messages</h3>
+                </div>
+                <div class="modal-body">
+                    <div class="messagesModalHolder"></div>
+                    <div class="messWaiting text-center"><i class="fa fa-spinner fa-spin fa-2x"></i></div>
+                </div>
+            </div>
         </div>
     </div>
-  </div>
-</div>
 
-<div id="messagesModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 class="modal-title">New Messages</h3>
-      </div>
-        <div class="modal-body" style="padding:0">
-            <div class="messagesModalHolder"></div>
-            <div class="messWaiting text-center"><i class="fa fa-spinner fa-spin fa-4x"></i></div>
+    <div id="multiModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body"></div>
+            </div>
         </div>
     </div>
-  </div>
-</div>
 
-<div id="multiModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-        <div class="modal-body"></div>
+    <div id="adModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h3 class="modal-title" style="font-weight:bolder;">Want to chat with someone about what you're going through?</h3>
+                </div>
+                <div id="qa-adModal" class="modal-body">
+
+                    <p style="text-align:center;margin-left:auto;margin-right:auto;"><span style="font-size:1.5em;"><strong>7 Cups Connects you to Caring People.</strong></span></p>
+                    <p style="text-align:center;margin-left:auto;margin-right:auto;"><span style="text-decoration:underline;">Free</span>, Anonymous and Confidential Online Text Chats with Trained Active Listeners.</p>
+                    <p style="text-align:center;margin-left:auto;margin-right:auto;"> <button id="adModal-cta" class="connectNowStartButton btn btn-cta btn-warning" style="font-weight:bold;padding:14px;margin-left:auto;margin-right:auto;background-color:#5cc8df;">Chat with an Online Listener Now</button>
+                        &nbsp;or&nbsp; 
+                        <button id="adModal-cta" class="connectNowStartButton btn btn-cta btn-primary" style="font-weight:bold;padding:14px;margin-left:auto;margin-right:auto;">Start with a Simple Exercise</button>
+                    </p>
+                    <p style="text-align:center;margin-left:auto;margin-right:auto;font-weight:bold;">2,038 listeners online right now</p>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
 
- 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/jquery.min.js">\x3C/script>')</script><script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/jquery.min.js">\x3C/script>')</script><script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.3/handlebars.min.js"></script>
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/jquery.ui.touch-punch.min.js"></script>
-<script type="text/javascript" src="/js/jquery.cookie.js?v=2"></script>
-<script type="text/javascript" src="/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/js/moment.js"></script>
-<script type="text/javascript" src="/js/desktop-notify.js"></script>
-<script type="text/javascript" src="/js/toastr.min.js"></script>
-<script type="text/javascript" src="/js/bootbox.min.js"></script>
-<script type="text/javascript" src="//d3twuufqrfygff.cloudfront.net/js/socket.io-0.12.2.js"></script>
-<script type="text/javascript" src="/js/soundManager/script/soundmanager2-nodebug-jsmin.js"></script>
-<script type="text/javascript">
-soundManager.setup({url:'/js/soundManager/swf/'});  
+        <script type="text/javascript" src="/design/dist/js/bootstrap.min.js?v=2.0"></script>
+    <script type="text/javascript" src="/js/tether.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/js/moment.js"></script>
+    <script type="text/javascript" src="/js/desktop-notify.js"></script>
+    <script type="text/javascript" src="/js/toastr.min.js"></script>
+    <script type="text/javascript" src="/js/bootbox.min.js"></script>
+    <script type="text/javascript" src="/js/soundManager/script/soundmanager2-nodebug-jsmin.js"></script>
+    <script type="text/javascript" src="/js/renderObjects.js"></script>
     
-var nodeURL = 'https://nodeproxy.7cupsoftea.com/';
-var userType = 'g';var userInfo = {
-                            userType:'g',
-                            userIDe:'lGJmfHuWmZ6dlLBqilqTxg!!'
-                          };</script>
-<script type="text/javascript" src="/connect/js/connectWatch.js?v=4.0"></script>
-<script type="text/javascript">
-   
-    var s3Base = '//d3twuufqrfygff.cloudfront.net/';
-    function ios(param)
-    {
-        var iframe = document.createElement("IFRAME");
-        iframe.setAttribute("src", "js-call:" + param);
-        document.documentElement.appendChild(iframe);
-        iframe.parentNode.removeChild(iframe);
-        iframe = null; 
-    }
+    <script type="text/javascript" src="/js/bootstrap-datepicker.js"></script>
+    <script type="text/javascript" src="https://nodeproxy.7cups.com/socket.io/socket.io.js"></script>
+    <script type="text/javascript" src="/js/pathObjects.js?v=5.2.1"></script>
+    <script type="text/javascript">
+        var templates = {};
+        var templatePlatform = 'desktop';
+        var templateVersion = 'base';
+    </script>
 
-    $(function() {
-        $('.dropdown-submenu > a').click(function(e) {
-            e.stopPropagation();
-            e.preventDefault();
-            $(this).parent().find('.dropdown-submenu-hide').slideToggle();
+
+    
+    
+
+    <script type="text/javascript">
+
+        $(function () {
+            $(".dropdown-menu > li > a.trigger").on("click", function (e) {
+                var current = $(this).next();
+                var grandparent = $(this).parent().parent();
+                if ($(this).hasClass('left-caret') || $(this).hasClass('right-caret'))
+                    $(this).toggleClass('right-caret left-caret');
+                grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+                grandparent.find(".sub-menu:visible").not(current).hide();
+                current.toggle();
+                e.stopPropagation();
+            });
+            $(".dropdown-menu > li > a:not(.trigger)").on("click", function () {
+                var root = $(this).closest('.dropdown');
+                root.find('.left-caret').toggleClass('right-caret left-caret');
+                root.find('.sub-menu:visible').hide();
+            });
+
+            soundManager.setup({url: '/js/soundManager/swf/'});
+	    $.cookie("tzoffset", currentTimezoneOffset(), {path: '/'});
 
         });
 
-       
-        $('body').tooltip({selector:'[data-toggle="tooltip"]',placement: 'auto top',container: 'body',trigger: 'hover click'});      
-        $('body').popover({selector:'[data-toggle=popover]',html: true,trigger: 'hover click',placement: 'auto top',container: 'body'});      
-    });
+        var nodeURL = 'https://nodeproxy.7cups.com/';
+    var userType = 'g';var userInfo = {
+                            userType:'g',
+                            userIDe:'lmZjeXudlp-dlLBsWFSTmg!!'
+                          };    </script>
+    <script type="text/javascript" src="/connect/js/connectWatch.js?v=5.1.15" defer=""></script>
+    <script type="text/javascript">
+        var s3Base = '//d3twuufqrfygff.cloudfront.net/';
 
-    function showPolicy(policy) {
-        switch (policy) {
-            case 'privacy':
-                var url = '/inc/privacyPolicy.html';
-                break;
-            case 'membertos':
-                var url = '/inc/memberTOS.html';
-                break;
-            case 'listenertos':
-                var url = '/inc/listenerTOS.html';
-                break;
-            case 'forumdisclaimer':
-                var url = '/inc/forumDisclaimer.html';
-                break;
+        function fastClickIt() {
+
+            if (typeof FastClick === 'undefined') {
+                initTimer = setTimeout(fastClickIt, 25);
+                return;
+            }
+
+            
+            if ('addEventListener' in document) {
+                document.addEventListener('DOMContentLoaded', function () {
+                    FastClick.attach(document.body);
+                }, false);
+            }
         }
 
-        $('#policyBox').load(url);
-        $('#policyModal').modal();
-    }
-    
-    function notesPop(openfolder) {
-        var viewportwidth = screen.width;
-        var viewportheight = screen.height;
-        var popWidth = Math.floor(viewportwidth*0.50); if(popWidth > 450) popWidth = 450;  
-        var popHeight = Math.floor(viewportheight*0.60);
-        var popLeft = viewportwidth-popWidth;
-        var url = (typeof(openfolder) != 'undefined') ? '/notes.php?f='+openfolder : '/notes.php';
-        var notePop = window.open(url,
-                                  "Personal Notes",
-                                  "width="+popWidth+",height="+popHeight+",left="+popLeft+",top=0,location=0,toolbar=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1");
-    }
-    
-    function delNotification(notifyID){ 
-        $.post('/ajax/notifications.php',{notifyID:notifyID,action:'remove'});
-        $('#menunotify'+notifyID).remove();        
-        $('#liNotify > a.dropdown-toggle > span.badge').html($('#liNotify > ul.dropdown-menu > li').length);
-        if($('#liNotify > ul.dropdown-menu').html() == ''){
-            $('#liNotify > ul.dropdown-menu').html('<li><span>(0) Notifications</span></li>');
-        }
-    }
+        fastClickIt();
 
-    function currentTimezoneOffset() {
-        var dt = new Date();
-        return (dt.getTimezoneOffset() * 60);
-    }
-    
-    function MemberAccountModal(optReason,backOnCancel){
-        backOnCancel = typeof(backOnCancel) != 'undefined' ? backOnCancel : false;
-        if(!$('#createMemberAccountModal').length){
-            $('body').append('<div class="modal" id="createMemberAccountModal"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal"><i class="fa fa-times-circle"></i></button><h2 class="modal-title">Create a Free Member Account</h2></div><div class="modal-body"><div class="text-center" style="padding:25px auto"><i class="fa fa-spinner fa-spin fa-5x"></i></div></div></div></div></div>');
-            $('#createMemberAccountModal .modal-body').load('/member/ajax/createAccountModal.php',function(){
-                if(typeof optReason !== 'undefined'){
-                    $('#createMemberAccountModal .modal-reason').html(optReason);
-                }
+        function ios(param)
+        {
+            var iframe = document.createElement("IFRAME");
+            iframe.setAttribute("src", "js-call:" + param);
+            document.documentElement.appendChild(iframe);
+            iframe.parentNode.removeChild(iframe);
+            iframe = null;
+        }
+
+        $(function () {
+            $(".datePicker").datepicker({
+                        format: "yyyy-mm-dd"
+                    });
+            
+            $('.dropdown-submenu > a').click(function (e) {
+                e.stopPropagation();
+                e.preventDefault();
+                $(this).parent().find('.dropdown-submenu-hide').slideToggle();
+
+            });
+
+
+            $('body').tooltip({selector:'[data-toggle="tooltip"]'});            
+           
+            $('body').on("mouseenter click", '[data-toggle="popover"]', function () {
+                var _this = $(this);
+                _this.popover({ 
+                    trigger: 'manual', 
+                    placement: 'top', 
+                    html: true, 
+                    container:'body', 
+                    title: _this.attr('data-title') || _this.attr('title'),
+                    constraints: [{pin: true, to: 'window', attachment: 'together'}]
+                }).popover('show');
+            }).on("mouseleave", '[data-toggle="popover"], .popover', function () {
+                var _this = $(this);
+                setTimeout(function () {
+                    if (!$(".popover:hover").length) {
+                        $(_this).popover("hide")
+                    }
+                }, 100);
             });
             
-            $('#createMemberAccountModal').on('hide.bs.modal', function (e) {
-                if($.cookie('mid')){
-                    alert('We will now log you into your new Member Account');
-                    
-                    if(typeof(ChatSession) !== 'undefined' && ChatSession.convID){
-                        window.location.href = '/member/connect/conversation.php?c=' + ChatSession.convID;                        
-                    }else if(backOnCancel){
-                        window.history.back();
-                    }else if(window.location.pathname === '/login.php'){
-                        window.location.href = '/member/';
-                    }else{
-                        console.log('reload');
-                        window.location.reload(true);
+            var userCardObj = {};
+            $('body').on("mouseenter click", '[data-usercard]', function () {
+                var _this = $(this);
+                _this.popover({ 
+                            trigger: 'manual', 
+                            placement: 'right', 
+                            html: true, 
+                            container:'body', 
+                            template: '<div class="popover"><div class="popover-arrow"></div><div class="popover-content" data-usercard-content="'+_this.attr('data-usercard')+'"></div></div>',
+                            constraints: [{pin: true, to: 'window', attachment: 'together'}],
+                            content: function () {
+                                    if (!userCardObj[_this.attr('data-usercard')]){
+                                        return '<i class="fa fa-spinner fa-spin"></i>';
+                                    }else{
+                                        return userCardObj[_this.attr('data-usercard')];
+                                    }
+                                }
+                        }).popover('show');
+                
+                if (!userCardObj[_this.attr('data-usercard')]) {
+                    $.get('/ajax/userCard.php?s=' + _this.attr('data-usercard'), function (html) {
+                        if(html){
+                            userCardObj[_this.attr('data-usercard')] = html;
+                            $('div[data-usercard-content="'+_this.attr('data-usercard')+'"]').html(html);
+                            tracker.emit('userCard', {card: _this.attr('data-usercard')});
+                        }
+                    });
+                }                
+            }).on("mouseleave", '[data-usercard], .popover', function () {
+                var _this = this;
+                setTimeout(function () {
+                    if (!$(".popover:hover").length) {
+                        $(_this).popover("hide");
                     }
-                }else if(backOnCancel){
-                    window.history.back();
-                }
+                }, 100);
             });
-       
+        });
+
+        function showPolicy(policy) {
+            switch (policy) {
+                case 'privacy':
+                    var url = '/inc/privacyPolicy.html';                    break;
+                case 'membertos':
+                    var url = '/inc/memberTOS.html';                    break;
+                case 'listenertos':
+                    var url = '/inc/listenerTOS.html';                    break;
+                case 'forumdisclaimer':
+                    var url = '/inc/forumDisclaimer.html';
+                    break;
+            }
+            
+            
+            $.get(url,function(html){
+                bootbox.dialog({
+                        message: html,
+                        title: '',
+                        size:'large',
+                        onEscape:true,
+                        backdrop: true,
+                        buttons: {
+                            cancel: {
+                                label: 'Close',
+                                className: 'btn-default',
+                            },
+                        }
+                    });                
+            });
         }
-        $('#createMemberAccountModal').modal('show');
-    }
 
-    $.cookie("tzoffset", currentTimezoneOffset(), {path: '/'});
-	
-</script>
+        function notesPop(openfolder) {
+            var viewportwidth = screen.width;
+            var viewportheight = screen.height;
+            var popWidth = Math.floor(viewportwidth * 0.50);
+            if (popWidth > 450)
+                popWidth = 450;
+            var popHeight = Math.floor(viewportheight * 0.60);
+            var popLeft = viewportwidth - popWidth;
+            var url = (typeof (openfolder) != 'undefined') ? '/notes.php?f=' + openfolder : '/notes.php';
+            var notePop = window.open(url,
+                    "Personal Notes",
+                    "width=" + popWidth + ",height=" + popHeight + ",left=" + popLeft + ",top=0,location=0,toolbar=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1");
+        }
+
+        function delNotification(notifyID) {
+            $.post('/ajax/notifications.php', {notifyID: notifyID, action: 'remove'});
+            $('#menunotify' + notifyID).remove();
+            $('#liNotify > a.dropdown-toggle > span.badge').html($('#liNotify > ul.dropdown-menu > li').length);
+            if ($('#liNotify > ul.dropdown-menu').html() == '') {
+                $('#liNotify > ul.dropdown-menu').html('<li><span>(0) Notifications</span></li>');
+            }
+                var curcount = $('.real-notifications > li').length;    
+                if(curcount > 0){
+                    $('.notificationHeaderButton .alertCounter').text(curcount);
+                }else{
+                    $('.notificationHeaderButton').closest('span.dropdown').remove()
+                }     
+        }
+        
+        function delSystemAlert(alertID) {
+            var hiddenAlerts = $.cookie('hiddenSystemAlerts') ? $.cookie('hiddenSystemAlerts') : '[]';
+                hiddenAlerts = JSON.parse(hiddenAlerts);
+                hiddenAlerts.push(alertID);
+                hiddenAlerts = JSON.stringify(hiddenAlerts);
+                $.cookie("hiddenSystemAlerts", hiddenAlerts, {path: '/', expires: 7});
+                $('.notification-menu .systemAlert-' + alertID).remove();  
+ 
+                var curcount = $('.real-notifications > li').length;    
+                if(curcount > 0){
+                    $('.notificationHeaderButton .alertCounter').text(curcount);
+                }else{
+                    $('.notificationHeaderButton').closest('span.dropdown').remove()
+                }     
+           
+        }
+
+        function currentTimezoneOffset() {
+            var dt = new Date();
+            return (dt.getTimezoneOffset() * 60);
+        }
+
+        function MemberAccountModal(optReason, backOnCancel) {
+            backOnCancel = typeof (backOnCancel) != 'undefined' ? backOnCancel : false;
+            if (!$('#createMemberAccountModal').length) {
+                $('body').append('<div class="modal" id="createMemberAccountModal"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal"><i class="fa fa-times-circle"></i></button><h2 class="modal-title">Create a Free Member Account</h2></div><div class="modal-body"><div class="text-center" style="padding:25px auto"><i class="fa fa-spinner fa-spin fa-5x"></i></div></div></div></div></div>');
+                $('#createMemberAccountModal .modal-body').load('/member/ajax/createAccountModal.php', function () {
+                    if (typeof optReason !== 'undefined') {
+                        $('#createMemberAccountModal .modal-reason').html(optReason);
+                    }
+                });
+
+                $('#createMemberAccountModal').on('hide.bs.modal', function (e) {
+                    if ($.cookie('mid')) {
+                        alert('We will now log you into your new Member Account');
+
+                        if (typeof (ChatSession) !== 'undefined' && ChatSession.convID) {
+                            window.location.href = '/member/connect/conversation.php?c=' + ChatSession.convID;
+                        } else if (backOnCancel) {
+                            window.history.back();
+                        } else if (window.location.pathname === '/login.php') {
+                            window.location.href = '/member/';
+                        } else {
+                            console.log('reload');
+                            window.location.reload(true);
+                        }
+                    } else if (backOnCancel) {
+                        window.history.back();
+                    }
+                });
+
+            }
+            $('#createMemberAccountModal').modal('show');
+        }
+
+    </script>
 
 
+
+
+    
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-38069426-1', '7cupsoftea.com');
+  ga('create', 'UA-38069426-1', '7cups.com');
     ga('send', 'pageview');
 </script>
-<!-- Begin ShareThis code -->
-<script type="text/javascript">
-    var switchTo5x = true;
-    var __st_loadLate=true;
-</script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">if(typeof(stLight) != 'undefined')stLight.options({publisher: "ur-69b019bb-682a-3df7-d6e9-83357ea065e0", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
-<!-- End ShareThis code -->    
+<div id="connectNowModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body text-center">
+                <div id="connectNowAgree" style="display:none">
+                    <div class="awardYellow" style="color:#73ccde"><i class="fa fa-circle"></i>—<i class="fa fa-circle-o"></i>—<i class="fa fa-circle-o"></i></div>
+                                        <h3 style="margin-top:1em;">Please select one:</h3>
+                    <div class="text-center"><button type="button" class="btn btn-simple btn-primary" onclick="connectNowAge('adult');" style="white-space:normal;margin-top:1.5em">
+                        I AM OVER 18 YEARS OLD
+                        <small style="color:#000;font-size:0.9em;display:block;font-weight:normal;">I am not in crisis, homicidal, suicidal, or abusing anyone and agree to 7 Cups Terms of Service &amp; Privacy Policy</small>
+                    </button></div>
+                    <div class="text-center"><button type="button" class="btn btn-simple btn-primary" onclick="connectNowAge('teen');" style="white-space:normal;margin-top:1.25em;">
+                        I AM 13-17 YEARS OLD &amp; HAVE PARENTAL CONSENT
+                        <small style="color:#000; font-size:0.9em;display:block;font-weight:normal;">I am not in crisis, homicidal, suicidal, or abusing anyone and agree to 7 Cups Terms of Service &amp; Privacy Policy</small>
+                    </button></div>
+                                    </div>
 
-<!-- Begin Facebook async code -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1432303356990100";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!-- End Facebook code -->
+                <div id="connectNowReady" style="display:none">
+                    <div class="awardYellow"><i class="fa fa-circle"></i>—<i class="fa fa-circle"></i>—<i class="fa fa-circle-o"></i></div>
+                    <h3>Your username for this chat session is</h3>
+                    <h2>niceNickel868</h2>
 
-<!-- Begin Async Google+ Code -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = '//apis.google.com/js/plusone.js?onload=onLoadCallback';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<!-- End Google+ code -->
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
+                    <h4 style="margin-top:4em">Ready to connect with a listener?</h4>
+                    <div><a href="/connect/" class="btn btn-success btn-lg">CONNECT ANONYMOUSLY <i class="fa fa-arrow-circle-right"></i></a></div>
+                    <button class="btn btn-link" onclick="connectNowLoad('#connectNowNotReady');" style="color:#d4d4d4;margin-top:15px">I’m not ready to connect</button>
+                </div>
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
+                <div id="connectNowCategory" style="display:none">
+                    <div class="awardYellow"><i class="fa fa-circle"></i>—<i class="fa fa-circle"></i>—<i class="fa fa-circle-o"></i></div>
+                    <h3>Please tell us what is on your mind so we can better match you with a listener:</h3>
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <a href="/connect/?cat=29" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">ADHD</a><a href="/connect/?cat=22" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Alcohol/Drug Abuse</a><a href="/connect/?cat=16" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;">Anxiety</a><a href="/connect/?cat=30" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Bipolar</a><a href="/connect/?cat=21" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;">Breakups</a><a href="/connect/?cat=10" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Bullying</a><a href="/connect/?cat=25" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Chronic Pain</a><a href="/connect/?cat=39" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">College Life</a><a href="/connect/?cat=3" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;">Depression</a><a href="/connect/?cat=41" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Disabilities</a><a href="/connect/?cat=31" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Domestic Violence</a><a href="/connect/?cat=12" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Eating Disorders</a><a href="/connect/?cat=28" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Exercise Motivation</a><a href="/connect/?cat=23" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Family Stress</a><a href="/connect/?cat=26" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Financial Stress</a><a href="/connect/?cat=32" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Forgiveness</a><a href="/connect/?cat=37" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Getting Unstuck</a><a href="/connect/?cat=33" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Grief</a><a href="/connect/?cat=17" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">LGBTQ+</a><a href="/connect/?cat=38" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Loneliness</a><a href="/connect/?cat=4" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;">Managing Emotions</a><a href="/connect/?cat=34" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Obsessive Compulsive Disorder</a><a href="/connect/?cat=13" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Panic Attacks</a><a href="/connect/?cat=18" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Parenting</a><a href="/connect/?cat=35" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Perinatal Mood Disorder</a><a href="/connect/?cat=19" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Self-Harm</a><a href="/connect/?cat=20" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Sleeping Well</a><a href="/connect/?cat=36" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Social Anxiety</a><a href="/connect/?cat=40" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Traumatic Experiences</a><a href="/connect/?cat=27" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Weight Management</a><a href="/connect/?cat=7" class="btn btn-lg btn-default btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px;display:none">Work Stress</a>                            <button onclick="$(this).hide();$(this).parent('div').find('a.btn').fadeIn();" class="btn btn-lg btn-success btn-block" style="margin-bottom:5px;border:none;font-weight:normal;padding:3px"><i class="fa fa-caret-down"></i> Show More <i class="fa fa-caret-down"></i></button>
 
-_qevents.push({
-qacct:"p-DEeMN3LrNa7V9"
-});
-</script>
+                        </div>                   
+                    </div>
+                </div>
+                                <div id="connectNowNotReady" style="display:none">
+                    <h3 style="font-weight:normal">Let’s help you get comfortable before your first chat</h3>
+                    <div><a href="/member/" class="btn btn-success btn-lg" style="margin-top:10px">Review Your Growth Path</a></div>
+                    <div><a href="/connect/groupChatrooms.php" class="btn  btn-lg btn-link" style="color:#d4d4d4;margin-top:10px">Join a Group Chat</a></div>
+                    <div><a href="/BrowseListeners/" class="btn  btn-lg btn-link" style="color:#d4d4d4;">Browse Listeners by Issue &amp; Language</a></div>
+                </div>
 
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-DEeMN3LrNa7V9.gif" border="0" height="1" width="1" alt="Quantcast"/>
+                <div id="connectNowHowItWorks" style="display:none" class="text-center font-serif">
+                    
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-comments-o fa-stack-1x" style="color:#178d9f"></i>
+                    </span>
+                    <h3>Connect anonymously with listeners through simple text chat.</h3>
+
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-search fa-stack-1x" style="color:#178d9f"></i>
+                    </span>
+                    <h3>You can also select listeners based on issue, language, or country.</h3>
+
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <img src="//d3twuufqrfygff.cloudfront.net/app/img/icon-award.png" style="position:absolute;left:19px;top:13px;width:27px;">
+                    </span>
+                    <h3>Learn skills like gratitude and breathing exercises to grow stronger.</h3>
+
+                    <button class="btn btn-lg btn-success" data-dismiss="modal" style="margin-top:15px">Got It!</button>
+                </div>
+
+                <div id="connectNowConnecting" style="display:none">
+                    <div class="text-center" style="padding:30px 0;"><h3 style="font-weight:normal">Connecting You to Your Private Room</h3></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-</noscript>
-<!-- End Quantcast tag -->
 
-<!-- preload logo hover image -->
 <script type="text/javascript">
-function hoverLogo(element) {
-    element.setAttribute('src', '//d3twuufqrfygff.cloudfront.net/img/i-need-help.gif');
-}
-function unhoverLogo(element) {
-    element.setAttribute('src', '//d3twuufqrfygff.cloudfront.net/img/active-listeners-therapy.jpg');
-}
-$.preloadImages = function() {
-  for (var i = 0; i < arguments.length; i++) {
-    $("<img />").attr("src", arguments[i]);
-  }
-}
-$.preloadImages("//d3twuufqrfygff.cloudfront.net/img/i-need-help.gif");
+    function connectNowLoad(loadID) {
+        switch (loadID) {
+            case '#connectNowAgree':
+                if (1 == 0) {
+                    window.location.href = '/connect/';
+                    loadID = '#connectNowConnecting';
+                    //loadID = '#connectNowCategory';
+                }
+                break;
+        }
+        $('#connectNowModal .modal-body > div').hide();
+        //$('.modal').not('#connectNowModal').modal('hide');
+        $('#connectNowModal').modal('show');
+        $(loadID).fadeIn();
+
+        ga('send', 'event', {'eventCategory': 'ConnectNowModal', 'eventAction': loadID});
+        tracker.emit('ConnectNowModal', {'Slide': loadID});
+    }
+
+    function connectNowAge(agegroup) {        
+        window.location.href = '/connect/?a='+agegroup;
+        connectNowLoad('#connectNowConnecting');
+        //$.post('/ajax/setGuestAge.php', {agegroup: agegroup});
+        //connectNowLoad('#connectNowCategory');        
+    }
+
+        $(function () {
+                $('body').on('click', '.connectNowStartButton', function () {
+            console.log('********************************************');
+
+            if ('g' == 'l') {
+                $('#multiModal .modal-body').html('<div class=\"text-center\"><h2>You are currently logged in as a listener.</h2><p>Please use another browser or logout to connect as a member or guest.<br />Thank you!</p><button class=\"btn btn-lg btn-primary\" type=\"button\" data-dismiss=\"modal\" aria-hidden=\"true\">OK</button></div>');
+                $('.modal').not('#multiModal').modal('hide');
+                $('#multiModal').modal('show');
+            } else {
+                ga('send', 'event', {'eventCategory': 'Button', 'eventAction': 'connectNowStartButton', 'eventLabel': '/privacy.php'});
+                tracker.emit('connectNowStartButton', {'Page': '/privacy.php'});
+                connectNowLoad('#connectNowAgree');
+            }
+        })
+
+        $('.connectNowStartButton').show();
+
+
+        $('#connectTermsAgreeAdult').click(function () {
+            $('#connectTermsAgreeTeen').prop('checked', false);
+        });
+
+        $('#connectTermsAgreeTeen').click(function () {
+            $('#connectTermsAgreeAdult').prop('checked', false);
+        });
+
+
+        $('#startChatRace').click(function () {
+            if ($('#connectTermsAgreeAdult').is(':checked')) {
+                window.location.href = '/connect/?a=adult';
+            } else if ($('#connectTermsAgreeTeen').is(':checked')) {
+                window.location.href = '/connect/?a=teen';
+            } else {
+                alert('Please agree to our terms by checking the appropriate box.');
+            }
+        });
+        
+        $('#connectNowCategory a').on('click',function () {
+            $(this).parent('div').html('<i class="fa fa-spin fa-spinner fa-2x"></i><br />Requesting Connection');
+        });
+
+            });
+        
 </script>
-<!-- end preload hover image -->
+
+        
+
+
+
+
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct: "p-DEeMN3LrNa7V9"
+        });
+    </script>
+
+    <noscript>
+    <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-DEeMN3LrNa7V9.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+
         
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-38069426-1', '7cupsoftea.com');
+  ga('create', 'UA-38069426-1', '7cups.com');
     ga('send', 'pageview');
-</script>    
+</script>
+    <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
 </body></html>
