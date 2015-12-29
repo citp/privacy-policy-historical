@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anypdftools.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616195130id_/http%3A//www.wondershare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypdftools.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229081836id_/http%3A//www.wondershare.com/privacy.html) for the most accurate reproduction.*
 
 # Wondershare Inc.-Privacy
 
@@ -24,4 +24,4 @@ In order to better understand what services are valuable to our customers, we us
 
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
 
-[Check the End User License Agreement>>](https://web.archive.org/web/20150616195130id_/http%3A//www.wondershare.com/company/end-user-license-agreement.html)
+[Check the End User License Agreement>>](https://web.archive.org/web/20151229081836id_/http%3A//www.wondershare.com/company/end-user-license-agreement.html)
