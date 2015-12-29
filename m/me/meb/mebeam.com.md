@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mebeam.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510094515id_/http%3A//viduality.com/page_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mebeam.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229012140id_/http%3A//viduality.com/page_privacy_policy.php) for the most accurate reproduction.*
 
-# Video faces | Privacy Policy
+# MeBeam
 
 **_Privacy Policy for Video faces_**  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pushthuyvun@gmail.com.   
