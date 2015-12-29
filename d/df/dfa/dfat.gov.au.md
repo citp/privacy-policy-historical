@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629021445id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229162415id_/http%3A//dfat.gov.au/about-us/about-this-website/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Department of Foreign Affairs and Trade
 
@@ -42,6 +42,7 @@ This Policy is relevant to people whose personal information is collected, store
   * People who have made enquiries or complaints to DFAT or our portfolio Ministers
   * Foreign diplomatic and consular staff (for protocol-related purposes) 
   * Current and former DFAT employees
+  * Other individuals whose personal information is provided in, or in connection with, a passport, scholarship, employment or other application
 
 
 
@@ -211,7 +212,7 @@ BARTON   ACT   0221
 
 From time to time, we will review and revise this Privacy Policy.  We reserve the right to amend this policy at any time and any amendments will be notified by posting an updated version on our website.
 
-​ _Last updated: 24 June 2015_
+​ _Last updated: 8 October 2015_
 
   
 
