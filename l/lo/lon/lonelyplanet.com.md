@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628210838id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229043145id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
 ## Lonely Planet Privacy policy
 
-_Last updated: 15 November 2013_
+_Last updated: 9 September 2015_
 
 At Lonely Planet, we understand that privacy is really important. So we have prepared this privacy policy to fill you in on who we are, how we collect and what we do with your personal information, and how you can find out more about our privacy philosophy and the personal information that we collect about you.
 
@@ -22,6 +22,7 @@ Other Lonely Planet privacy policies:
 
   * Newsletters
   * Online shop
+  * Mobile Applications
   * Feedback
   * Media activities
 
@@ -113,6 +114,22 @@ When using Lonely Planet's online shop, you may choose to supply Lonely Planet w
 We collect this information so that we can fulfill your order and speed your products directly to you. Without this information we would not be able to process your order or contact you if there are any issues. If you've asked to hear more about Lonely Planet we will use your personal information to send you what you've asked for.
 
 Rest assured, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to business partners who help us provide these services, such as credit card payment processing companies, and other companies in the Lonely Planet family including entities located in a different country to you. If you'd like to find out more, please read our [privacy policy](http://www.lonelyplanet.com/legal/privacy-policy).
+
+Back to top
+
+## Mobile Applications
+
+_Registration:_ When you register for a Lonely Planet application (App) you will be asked to provide certain basic information such as your name, email address and country. We collect this information for the purposes of administering the App and keeping in touch with you. 
+
+_Device data:_ When you use an App we may collect certain information automatically, such as the type of device you are using, the version of the operating system running of the device, the version and build of the App being used, anonymous usage statistics and crash reporting data, and unique identifier details for your device such as the IP address, MAC address, IMEI number, or advertising identifier. Unique identifiers are anonymised and we do not use this information to identify you as an individual. 
+
+_Location data:_ Some Apps may use location-based application programming interfaces that collect information about your location for the purpose of supporting the relevant functionality and analysis. Our Apps will only track your location with your consent. Real-time geolocation data may be used to display your location to you on a map, orient the App’s maps to be centered on your current location and sort potential activities based on their distance from your location at the time of request. This data will only be used locally on your device and will not be sent to or stored on a remote server or saved on your device, and will not be shared with third parties. This data may be cached on your device for short periods of time in order to improve user experience and make the App more responsive. 
+
+_Analytics:_ Where we automatically gather information without asking you to give it to us, we use that information to understand how the App is used by our community and to make sure any technical problems are reported to us. We use [Google Analytics](http://www.google.com/analytics/) to gather and process this data. For details about the information Google Analytics collects and how Google Analytics treats that information please visit their [Terms of Service](http://www.google.com/analytics/terms/us.html) and [Privacy Policy.](https://support.google.com/analytics/answer/6004245?hl=en)
+
+_Feedback and errors:_ Where you contact us to ask for help to resolve an issue we may ask for your name, your email address and any information you choose to give us as part of servicing your request, including a textural description of your issue, and screenshots of the issue you may be seeing in the App. We do this collection through a third-party tool embedded in the App known as [Helpshift](http://helpshift.com/). If you choose to share this information, that information will be governed by Helpshift's [Terms](https://www.helpshift.com/terms/) and [Privacy Policy](https://www.helpshift.com/privacypolicy/).
+
+_Third party services:_ We will only share your information with third parties if we have your consent to do so or when they are providing a service for us (like Google Analytics and Helpshift above). Our service providers will only use that information in accordance with our instructions and not for their own purposes.
 
 Back to top
 
