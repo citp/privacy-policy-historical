@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercedesbenzme.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411074208id_/http%3A//mercedesbenzme.com/en/footer/sub-footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedesbenzme.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040513id_/http%3A//mercedesbenzme.com/me/en/footer/sub-footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mercedes-Benz Middle East and Levant - Luxury Passenger Cars
+# Privacy Policy | Mercedes-Benz Middle East
 
 ## Privacy Statement
 
@@ -47,10 +47,10 @@ Germany
 
 [
 
-##  The all-new A-Class. Drive yourself. 
+##  The E-Class. Permanently Perfect. 
 
-Find Out More ](http://mercedesbenzme.com/en/sedans-coupes/a-class/) [
+Find Out More ](http://mercedesbenzme.com/me/en/sedans-coupes/e-class/) [
 
 ##  Enough said. Time to drive it. 
 
-Book a Test Drive ](http://mercedesbenzme.com/en/footer/contact-sales/book-a-test-drive/)
+Book a Test Drive ](http://mercedesbenzme.com/me/en/footer/contact-sales/book-a-test-drive/)
