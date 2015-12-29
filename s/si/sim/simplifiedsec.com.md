@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplifiedsec.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811184929id_/http%3A//www.simplifiedses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplifiedsec.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229153158id_/http%3A//www.simplifiedses.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
