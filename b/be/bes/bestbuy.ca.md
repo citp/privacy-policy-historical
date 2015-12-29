@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuy.ca privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617134430id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuy.ca privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229124154id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy Canada
 
@@ -117,9 +117,11 @@ Top
 We may use contact information collected in-store, online, or via our call centres to conduct occasional surveys and other customer research. These surveys are entirely voluntary and you may easily decline to participate. 
 
 **Our Web Sites  
-**Our Web Sites can be browsed anonymously. However, to engage in certain special features or functions of our Web Sites, or to order products and services from our Web Sites, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Web Sites that you choose to use, such as Customer Reviews.
+**Our Web Sites can be browsed anonymously. We use your browsing history and personal information to display interest-based advertising that is relevant to you. We place interest-based advertisements on our website as well as other third-party sites. The browsing history we use is collected by us and by third parties on our website. We may also share your anonymous browsing history from our website with third parties to provide relevant ads. They may combine this information with assumptions based on the other websites you have visited in order to tailor ads to you.
 
-If you choose to ship an order to a third party, you represent and warrant that you have obtained all necessary consents from the third party to permit Best Buy to collect, use, and disclose the third party’s personal information for the purposes of fraud prevention and processing and shipping the order.
+To engage in certain special features or functions of our Web Sites, or to order products and services from our Web Sites, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Web Sites that you choose to use, such as Customer Reviews.
+
+If you choose to ship an order to a third party, you represent and warrant that you have obtained all necessary consents from the third party to permit Best Buy to collect, use, and disclose the third party’s personal information for the purposes of fraud prevention and processing and shipping the order.  
 
 **Customer Reviews  
 **The Customer Review functionality is provided as a rating system that offers you the chance to share your thoughts on a product. These reviews are accessible to all Web Site visitors so please use discretion when posting information to them and do not post personal information.
