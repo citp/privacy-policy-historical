@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the thesportspost.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234207id_/http%3A//thesportspost.com/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportspost.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229224642id_/http%3A//thesportspost.com/privacy-policy) for the most accurate reproduction.*
 
-# Home - The Sports Post
+# Privacy Policy - The Sports Post
 
 The Sports Post knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers The Sports Post's treatment of personal information that The Sports Post gathers when you are on the The Sports Post website and when you use The Sports Post services. This policy does not apply to the practices of third parties that The Sports Post does not own or control, or to individuals that The Sports Post does not employ or manage.
-
-Information Collected by The Sports Post
+This Privacy Policy covers The Sports Post’s treatment of personal information that The Sports Post gathers when you are on the The Sports Post website and when you use The Sports Post services. This policy does not apply to the practices of third parties that The Sports Post does not own or control, or to individuals that The Sports Post does not employ or manage.
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our The Sports Post users:
 
 1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-2\. Automatic Information:
-
-We receive and store certain types of information whenever you interact with us. The Sports Post and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, The Sports Post cookie information, and the page you requested. The Sports Post uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+2\. Automatic Information:We receive and store certain types of information whenever you interact with us. The Sports Post and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, The Sports Post cookie information, and the page you requested. The Sports Post uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
 The Sports Post may collect and, on any page, display the total counts that page has been viewed.  
 Many companies offer programs that help you to visit websites anonymously. While The Sports Post will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 E-mail Communications
 
