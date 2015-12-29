@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaypage.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018004950id_/http%3A//www.usaypage.com/one/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaypage.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229053959id_/http%3A//www.usaypage.com/one/privacy.html) for the most accurate reproduction.*
 
 # USA YellowPages - 728 industries catalogue
 
