@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netfirms.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623195844id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netfirms.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229035012id_/http%3A//www.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -13,6 +13,49 @@
 <link rel="apple-touch-icon" href="http://images.netfirms.com/icons/apple-touch-icons/apple-touch-icon-netfirms.png">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
 <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/javascripts/jquery.js"></script><script src="https://use.typekit.com/qdz8bwk.js"></script><script>try{Typekit.load();}catch(e){}</script><script src="/generalAppC/javascripts/netfirms/thickbox.js"></script><script src="/generalAppC/javascripts/netfirms/nfscript.cmp"></script>
+
+
+<script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.netfirms.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
 <script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
@@ -51,7 +94,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -73,7 +120,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="webmail"><a href="/mail/index.bml?m=1">WebMail</a></li>
 <li class="support"><a href="/support/index.bml?s=1">Support</a></li>
 </ul>
-<div id="domain-search" class="hd-domain-search"><form action="/netfirms/domain-names/forward.cmp" method="POST"><input type="hidden" name="__token_timestamp__" value="1435089524"><input type="hidden" name="__token_val__" value="62544230a27ef7720378376f2052f5e1"><fieldset>
+<div id="domain-search" class="hd-domain-search"><form action="/netfirms/domain-names/forward.cmp" method="POST"><input type="hidden" name="__token_timestamp__" value="1451361013"><input type="hidden" name="__token_val__" value="e6d2d597ad08b5cf83145799929387b7"><fieldset>
 <input type="hidden" name="promos" value="cad_995domain01o"><label>Search for a <b>$9.95</b> domain name:</label><input type="text" value="your-domain.com" name="domainname" class="inputfix dname idleField"><input type="image" src="/images/templates/netfirms/graphics/c_gobut.png" class="go" value="search">
 </fieldset></form></div>
 <ul id="nav" class="nav">
@@ -87,7 +134,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div id="bd">
 <div id="navcomponent" class="yui-b">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
@@ -453,8 +499,8 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <div class="yui-u first social">
 <h3>Social Media</h3>
 <ul>
-<li><a href="http://www.facebook.com/netfirmsfans">Facebook</a></li>
-<li><a href="http://www.twitter.com/netfirms">Twitter</a></li>
+<li><a class="gtm_social" data-gtm-name="facebook" href="http://www.facebook.com/netfirmsfans">Facebook</a></li>
+<li><a class="gtm_social" data-gtm-name="twitter" href="http://www.twitter.com/netfirms">Twitter</a></li>
 <li>
 <span style="float: left; margin-right: .5em;">Google+</span><div style="float: left; "><div class="g-plusone" data-size="small" data-annotation="none" data-href="http://www.netfirms.com/"></div></div>
 <script type="text/javascript">
