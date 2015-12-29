@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the stuccu.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628231750id_/http%3A//www.stuccu.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229120022id_/http%3A//www.stuccu.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# stuccu.co.uk - Discover your next product
-
-## Privacy Policy
+# Privacy Policy | STUCCU.CO.UK
 
 This is the privacy policy ("Privacy Policy") that governs how we, Stuccu.co.uk "Stuccu.co.uk", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the website www.Stuccu.co.uk, and any other website that we operate (each, together with its sub-domains, content and services, a "Site"). 
 
-1.     Introduction. We have implemented this Privacy Policy because your privacy, and the privacy of other users, is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Site. "Personal Information" means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, a personal profile, an email address, a home or other physical address, or other contact information. 
+1.     Introduction . We have implemented this Privacy Policy because your privacy, and the privacy of other users, is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Site. "Personal Information" means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, a personal profile, an email address, a home or other physical address, or other contact information. 
 
-2.     User Agreement. This Privacy Policy forms part of our User Agreement which is available at [ http://Stuccu.co.uk/privacypolicy ](http://stuccu.co.uk/privacypolicy) ("User Agreement").Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
+2.     User Agreement . This Privacy Policy forms part of our User Agreement which is available at [ http://Stuccu.co.uk/privacypolicy ](http://stuccu.co.uk/privacypolicy) ("User Agreement").Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
 
-3.     Consent and Modification. You are not legally obligated to provide us Personal Information, and you hereby confirm that providing us Personal Information is at your own free will. By using the Site, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, at our discretion, to change this Privacy Policy at any time. Such change will be effective ten (10) days following posting of the revised Privacy Policy on the Site, and your continued use of the Site thereafter means that you accept those changes. 
+3.     Consent and Modification . You are not legally obligated to provide us Personal Information, and you hereby confirm that providing us Personal Information is at your own free will. By using the Site, you consent to the terms of this Privacy Policy and to our collection, processing and sharing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Site. We reserve the right, at our discretion, to change this Privacy Policy at any time. Such change will be effective ten (10) days following posting of the revised Privacy Policy on the Site, and your continued use of the Site thereafter means that you accept those changes. 
 
-4.     What Personal Information We Collect and How We Collect It. We do not currently require you to provide Personal Information in order to have access to general information available on the Site or to use the Site’s services. But, we do receive and/or collect Personal Information from you in the following ways: 
+4.     What Personal Information We Collect and How We Collect It.  We do not currently require you to provide Personal Information in order to have access to general information available on the Site or to use the Site’s services. But, we do receive and/or collect Personal Information from you in the following ways: 
 
 4.1.     “Contact Us” Information. If you send us a "Contact Us" request, whether by submitting an online form that we make available or by sending an email to an email address that we display, you may be required to provide us with certain information such as your our name and email for our Coupon-Alert service or our Product Price-Alert service. 
 
@@ -30,9 +28,25 @@ This is the privacy policy ("Privacy Policy") that governs how we, Stuccu.co.uk 
 
 5.3.     We may transfer your Personal Information to our local or foreign subsidiaries or affiliated companies for the purpose of storing or processing such information on our behalf. Such information may be transferred to other countries. We require that these parties agree to process such information in compliance with our Privacy Policy. 
 
-5.4.     We may share your Personal Information with our third party service providers and partners, but only to assist us with our business operations and to provide our Site to you and other users. Such information may be transferred to other countries. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Information. 
+5.4.     We may share your Personal Information with our third party service providers and partners, to assist us with our business operations and to provide our Site to you and other users. Such information may be transferred to other countries. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Information (see below). 
 
 5.5.     We may disclose your Personal Information or any information you submitted via the Site if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our User Agreement and EULA, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Stuccu.co.uk, our users, yourself or the public. 
+
+5.6.     Sharing the information. Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Stuccu.com, controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+
+    · Affiliated Businesses We Do Not Control. We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Stuccu.com or sell offerings to you at Stuccu.co.uk. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. 
+
+    · Third-Party Service Providers. We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+
+    · Business Transfers. As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Stuccu.com., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
+    · With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+
+    · Third Party Advertisers. We use third-party advertising companies to serve ads when you visit the Website. Our third parties partners are: 
+
+    · These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using [this tool](https://web.archive.org/optout), you can opt out of our cookies. 
+
+    · We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser. 
 
 6.     Use of Anonymous Information. We may use Anonymous Information (as defined below) or disclose it to third party service providers in order to improve our Site and enhance your experience with the Site. We may also disclose Anonymous Information (with or without compensation) to third parties, including advertisers and partners. "Anonymous Information" means information which does not enable identification of an individual user, such as aggregated information about the use of our Site. 
 
@@ -58,4 +72,4 @@ This is the privacy policy ("Privacy Policy") that governs how we, Stuccu.co.uk 
 
 17.     Commitment. We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Service to meet these demands. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at [contact@Stuccu.com](mailto:contact@Stuccu.com)
 
-Last updated: May 14, 2015 
+Last updated: August 17, 2015 
