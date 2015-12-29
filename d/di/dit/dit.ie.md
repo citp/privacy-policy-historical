@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423025213id_/http%3A//www.dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229135509id_/http%3A//www.dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
 
 # DIT Dublin Institute of Technology - Cookie Policy
 
@@ -206,7 +206,7 @@ Please note that should you decide to disable cookies within your browser, some 
 
 **Your Rights**
 
-Pursuant to the Data Protection Acts 1988 and 2003, you have a right to obtain a copy of the data held about you for a fee.  Also, if incorrect information is held about you, you have a right to request that this information is amended or erased.  Further information on your rights under the Data Protection legislation is available at <http://www.dit.ie/recordsmanagement/dataprotection/>. 
+Pursuant to the Data Protection Acts 1988 and 2003, you have a right to obtain a copy of the data held about you for a fee.  Also, if incorrect information is held about you, you have a right to request that this information is amended or erased.  Further information on your rights under the Data Protection legislation is available [here](http://www.dit.ie/officeofthesecretarytotheinstitute/recordsmanagement/dataprotection/). 
 
 This statement should not be construed as a contractual undertaking.  The Institute reserves the right to review and amend this statement at any time without notice and you should therefore re-visit this webpage from time to time.
 
