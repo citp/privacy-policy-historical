@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the amc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629213155id_/http%3A//www.amc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amc.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229012727id_/http%3A//www.amc.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AMC
 
-**EFFECTIVE DATE: MARCH 2nd, 2015**
+**EFFECTIVE DATE: July 9th, 2015**
 
 This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, “AMC” or “we” and sometimes “us”) collect about you and why, how we use and share that information, and the choices we offer.
 
 ## **1.** **WHAT IS THE SCOPE OF THIS PRIVACY POLICY?**
 
-This Privacy Policy (“Policy”) is incorporated into the AMC Terms of Service , and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
+This Privacy Policy (“Policy”) is incorporated into the [AMC Terms of Service](https://web.archive.org/terms) , and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
 
 ## **2.** **WILL THIS POLICY EVER CHANGE?**
 
@@ -107,6 +107,10 @@ The information we collect from you through your use of the Services is stored a
 
 ## **15.** **HOW CAN I CONTACT YOU?**
 
-If you have questions or concerns about our Policy, please contact us at: [privacy@amctv.com](mailto:privacy@amctv.com).
+If you have questions or concerns about our Policy, please contact us at: [info-amc@amctv.com](mailto:info-amc@amctv.com).
+
+## **16.** **SAFE HARBOR**
+
+AMC Network complies with the US/EU and US/Swiss Safe Harbor frameworks, as set forth by the U.S. Department of Commerce, for the collection, use and retention of personal information transferred from the EEA and Switzerland. More information regarding Safe Harbor can be found at: <http://www.export.gov/safeharbor>.
 
 © 2015 AMC Networks Inc. All rights reserved.
