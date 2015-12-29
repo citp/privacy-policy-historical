@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626172438id_/http%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229051019id_/http%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # Broadway World.com - Broadway's Premier Web Resource
 
@@ -14,4 +14,6 @@ If you choose to receive additional information other than your newsletters, thi
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
   
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>. 
+
 Thank you for making BroadwayWorld.com the web's premier theater resource and please let us know how we can serve you better! 
