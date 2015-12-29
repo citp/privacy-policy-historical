@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newsghana.com.gh privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630134817id_/http%3A//newsghana.com.gh/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsghana.com.gh privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229134929id_/http%3A//newsghana.com.gh/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies -
+# Privacy & Cookies | News Ghana
 
 **Privacy Policy:**
 
-Spyghana.com is committed to protecting your privacy when you visit our website. Because we gather certain types of information from our readers in order to fulfill their requests and better serve their surfing needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather and how it is used. Please read the Policy below and contact us if you have any questions.
+**News Ghana** (NewsGhana.com.gh) is committed to protecting your privacy when you visit our website. Because we gather certain types of information from our readers in order to fulfill their requests and better serve their surfing needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather and how it is used. Please read the Policy below and contact us if you have any questions.
 
 **Cookies:**
 
@@ -12,11 +12,11 @@ Our Web site uses cookies for the purpose of identifying you when you access our
 
 **Links:**
 
-Be aware that when you click on ad banners, you may be redirected to other sites not operated by Spyghana.com. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
+Be aware that when you click on ad banners, you may be redirected to other sites not operated by **News Ghana** (NewsGhana.com.gh) You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
 
 **General Information Collected:**
 
-When visiting our site, some general information is collected including: IP address (your computerâ€™s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
+When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
 **Third Party Service Providers:**
 
