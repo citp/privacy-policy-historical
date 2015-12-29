@@ -1,67 +1,48 @@
-> *The following text is extracted and transformed from the links2share.com privacy policy that was archived on 2013-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130220010300id_/http%3A//www.fun2enjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the links2share.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229090812id_/http%3A//links2share.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Links2Share
 
-**Our commitment to privacy**
+Links2Share.com has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “Links2Share.com” at http://links2share.com. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at getresultsonline.in@gmail.com with any questions.
 
-Fun2Enjoy.com (“Fun2Enjoy”, “we” or “our”) has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of Fun2Enjoy. Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site.
+ **Cookies**  
+A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. Most cookies are “session cookies,” which are automatically deleted whenever you leave a Web site, although some cookies remain on your computer until you remove them.
 
-**Our privacy policy in short**
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser(s) (i.e. Google, Tribal Fusion, Advertising.com, DoubleClick and/or others) may place or recognize a unique “cookie” on your browser.
 
-  * We will only use personal information you provide us according to the terms outlined in this document.
-  * In order to utilize the features and services offered through this Site, you must provide a limited amount of information.
-  * We will never provide personally identifiable information about you to third parties without your consent or unless we are required to do so by law.
+ **How We Use Cookies**  
+We use cookies  
+(1) to estimate the number of visitors to our Web site  
+(2) to measure general traffic patterns, and  
+(3) to personalize information and services we provide to you on the site.
 
+Companies that place ads on the Links2Share.com Web site — including, but not limited to Tribal Fusion, AOL Advertising.com, LiJit, BurstMedia (Blinx), Google, Advertising.com, DoubleClick and/or others — may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the Links2Share.com site may not function properly if your browser refuses our cookies. We may, from time to time, use cookies to store your zip code and email address for use with certain current or future services such as e-mail update list(s), showtimes e-mail services, local showtimes profiles, theater and movie preference profiles.
 
+ **Cookie Notification and Disabling**  
+Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Links2Share.com Web site may not function properly if your browser is set to reject cookies.
 
-**What information do we collect?**
+ **Demographic Information**  
+Demographic information may be collected on the web site. The information will only be shared with any third-parties in an aggregate format.
 
-During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information (“Personal Data”) from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.fun2enjoy.com/tos) posted on the Site.
+ **Log Files**  
+Links2Share.com, both using its own systems and the systems of others (such as Google or Quantcast, among others) automatically logs information such as IP addresses, ISPs, and browser type but does not link that information to personally identifying information. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
-In addition, we collect certain information, which cannot be used to personally identify any user, and which may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Site.
+ **Sharing of Information**  
+Links2Share.com is engaged in “powered by” relationships as more fully described herein. Links2Share.com does not share any personally identifiable information with third-parties, other than its partners as herein described, and will otherwise only share information in aggregate form. We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the website. .
+ **Cookies & 3rd Party Advertisements**  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/settings/ads?hl=en). We also track users information using Google Analytics. Users can optout by [clicking here](https://tools.google.com/dlpage/gaoptout). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/choices/) of several third party ad servers and networks cookies simultaneously.
 
-Any user providing personal data is certifying that he/she is over the age of 13. As such, we do not collect or maintain personal data from individuals we actually know are under 13 years of age, and no part of our Site is designed to attract people under 13. Protecting the privacy of children is very important to us. Thus, if we ever obtain knowledge that that a user is under 13, we will take steps to remove that user’s personal data from our databases and to prevent the user from utilizing the Site.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-**How do we use and disclose collected information?**
+ **Security**  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. Career9 periodically reviews web security and ensures that all policies and practices are adhered to within the company. But since the Internet cannot be made absolutely secure, Career9 assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
 
-Fun2Enjoy, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don’t have to re-enter them each time you visit our site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
+ **Notification of Changes**  
+Links2Share.com privacy practices may change periodically. Links2Share.com will notify users of changes only if the information collected from the user differs from that stated at the time of collection. Links2Share.com may also obtain the user’s consent by posting notice on the site.
 
-We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet service provider (ISP), chances are that your IP address varies each session? Thus making it effectively impossible for us to use your IP address (by itself) to determine who you are.
+ **Acceptance of Privacy Policy**  
+By using Links2Share.com, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
-In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. We also disclose aggregated user statistics in order to describe our services and reach to prospective partners, advertisers, and other third parties. However, aggregate data is not traceable to you specifically. We may use contractors to help us with our operations. Some or all of these contractors may access our databases of user information. These contractors will enter into an agreement with us that places restrictive provisions on their use and disclosure of all information they obtain through the relationship.
-
-**Information from Other Sites**
-
-We use Google Adsense and DoubleClick to display Ads on our website. Google may display Interest-based advertisements on your computer which will allow advertisers to show ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. “sports enthusiast”). To develop interest categories, Google Adsense will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, Google Adsense will add them to the “sports enthusiast” interest category.
-
-Google, as a third party vendor, uses cookies to serve ads on our website. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/managing/opt_out.asp) of several third party ad servers and networks cookies simultaneously.
-
-The Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again.
-
-Fun2Enjoy uses third party sites for hosting images. These sites may gather data from the referrer logs that identify where and how frequently user images being hosted on the respective sites are being displayed on Fun2Enjoy in order to provide more relevant advertising and monitor user bandwidth usage.
-
-Fun2Enjoy contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. Fun2Enjoy is not responsible for the privacy practices or the content of such other sites.
-
-**Security Precautions**
-
-Fun2Enjoy makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. Fun2Enjoy encourages our users to be smart about choosing when, and to whom to release information online.
-
-Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you’d expect — we use and disclose this information in a commercially reasonable business manner.
-
-**Our commitment to data security**
-
-This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, Fun2Enjoy assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
-
-**Mailing list subscriptions**
-
-Fun2Enjoy provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
-
-**Acceptance of Privacy Policy**
-
-By using Fun2Enjoy, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
-
-**How to Contact Us**
-
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us via admin.fun2enjoy@gmail.com
+ **How to Contact Us**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: Links2Share.com by Email: getresultsonline.in@gmail.com
