@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623215032id_/http%3A//www.capitalfm.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229071941id_/http%3A//www.capitalfm.co.ke/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Capital FM Kenya
+# Privacy Policy - Capital FM Kenya
 
 This Privacy Policy governs the manner in which Capital FM collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.capitalfm.co.ke website (“Site”). This privacy policy applies to the Site and all products and services offered by Capital FM.
 
