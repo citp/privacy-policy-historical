@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastedballs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134848id_/http%3A//www.toastedballs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastedballs.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229104150id_/http%3A//www.toastedballs.com/privacy) for the most accurate reproduction.*
 
 # Toasted Balls - Privacy
 
@@ -106,7 +106,7 @@ FVS_SHOW_COMMENTS
 
 This cookie is used to know if comments have to be shown or not.
 
-FVS_UNREGISTERED_USER_ID
+FVS_UNREGISTERED_VOTED_USER_ID
 
 10 years or login
 
