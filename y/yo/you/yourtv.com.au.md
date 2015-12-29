@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtv.com.au privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210224946id_/http%3A//advertising.ninemsn.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtv.com.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229085132id_/http%3A//mi9.com.au/privacy) for the most accurate reproduction.*
 
 # About
 
@@ -19,7 +19,7 @@ Uses of Information[Additional Details](http://advertising.ninemsn.com.au/articl
   * We use the information we collect to provide the services you request. Our services may include the display of personalised content and advertising.
   * We use your information to send you updates on new services, offers from our partners, newsletters which you have subscribed to and new competitions.
   * In order to help provide our services we occasionally provide information to other companies who work on our behalf.
-  * We may provide the information we collect to Ninemsn's Related Bodies Corporate (such as Nine Entertainment Co., Nine Network Australia Pty Ltd and Ticketek Pty Limited).
+  * We may provide the information we collect to Ninemsn's Related Bodies Corporate (such as Nine Entertainment Co. and Nine Network Australia Pty Ltd).
 
 Important Information[Additional Details](http://advertising.ninemsn.com.au/article.aspx?id=8363165)
 
