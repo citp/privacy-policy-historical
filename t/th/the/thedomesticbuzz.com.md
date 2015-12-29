@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedomesticbuzz.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622115925id_/http%3A//thedomesticbuzz.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedomesticbuzz.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229061126id_/http%3A//thedomesticbuzz.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — The Domestic Buzz
 
 **Website Visitors**  
 Like most website operators, I collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. My purpose in collecting non-personally identifying information is to better understand how visitors use the website. From time to time, I may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of the website.
