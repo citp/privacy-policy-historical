@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exec-appointments.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140015id_/http%3A//www.exec-appointments.com/staticpages/40/financial-times-career-management-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exec-appointments.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229213621id_/http%3A//www.exec-appointments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ If Your Data is accessed by or sent to recruiters via the FTCM Sites it is likel
 
 Contact Us
 
-If you have any queries or experience any problems with the FTCM Sites, please contact info@exec-appointments.com.
+If you have any queries or experience any problems with the FTCM Sites, please contact [contactus@exec-appointments.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=contactus@exec-appointments.com).
 
 Changes to this Policy
 
