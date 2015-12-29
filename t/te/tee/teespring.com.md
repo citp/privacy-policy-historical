@@ -1,110 +1,71 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042433id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229050124id_/http%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
 
 # About Teespring / Privacy Policy | Teespring
 
-This privacy policy describes how Teespring collects and uses the personal information you provide on our website teespring.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Welcome to Teespring! Teespring is a global company offering an internet-based service (the **“Teespring Service”** ) that allows campaign creators ( **“sellers”** ) to design certain products and promote the sale of those products to consumers ( **“buyers”** ) around the world through individual campaigns. This Privacy Policy applies to the Teespring Service, operated by Teespring, Inc. and its subsidiaries (collectively, **“Teespring”** ), and located at teespring.com (and other regional URLs).
 
-Teespring has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, teespring.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [visit our support page](https://web.archive.org/contact) or [contact support](http://answers.teespring.com/customer/portal/emails/new). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+This Privacy Policy describes how Teespring collects and uses the information we obtain when you use the Teespring Service. It also describes the choices available to you regarding our use of your Personal Information and how you can access and manage that information. This Privacy Policy is part of and is governed by our [Terms of Service](https://web.archive.org/policies/terms), which you accept in order to transact with us. Your acceptance of this Privacy Policy includes your consent to our use of cookies and other similar technologies as described in this document.
 
-### Collection and Use of Personal Information
+To note, our site may include links to other web sites whose privacy practices may differ from those of Teespring. Because the use of your information is governed by their privacy policies, we encourage you to read each policy carefully. We are not responsible for the policies or practices of any third party website or service.
 
-We collect the following personal information from you:
+Teespring has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, teespring.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [visit our support page](https://web.archive.org/contact) or [contact support](https://web.archive.org/email_us). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-  1. Contact Information such as name, email address, mailing address, phone number
-  2. Billing Information such as name and billing address
+ **Information You Provide to Us. “Personal Information”** means information that alone or in combination with other information may be used to readily identify, contact, or locate you. The Personal Information we collect will be different depending on your activities on the Teespring Service. For example, to register as a seller on our service, we will collect your name and email address. If you register using a sign-in service or a social media platform such as Facebook, we will collect the information needed to authenticate your account and any other information the platform provides in that process. If you launch a successful campaign, we may collect additional Personal Information as needed to send you and the applicable tax authorities an income tax reporting statement. If you make a purchase through the Teespring Service, we will collect your name, email address, shipping address and payment information such as credit card number and billing address.
 
+We may also collect Personal Information you provide about other people, such as their name and physical address (for example, when we ship a gift at your request). This Personal Information is used for the sole purpose of completing your request.
 
+ **Automated Technologies. “Site Information”** means information received and recorded on our server logs from your browser, including your IP address, browser type, the date and time of the use, the pages you visit, the page you came from and go to when leaving the Teespring Service, your operating system and information about your mobile device. We may combine this automatically collected log information with other information we collect about you. In addition, we also automatically collect Site Information when you access or use the Teespring Service. We (and our vendors) collect that information using cookies, pixel tags, web beacons, embedded web links, and similar technologies. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our service may be limited.
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on the Teespring Service use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-We use this information in a number of ways, including:
+ **Teespring Tools. “Performance Information”** means information we collect through certain tools that we provide to our sellers. Where a seller requests the use of a particular tool (e.g. an advertising analytics tool for use with ad platforms), then Teespring will collect additional data based on the operation of that tool (e.g. advertising conversion information from the applicable ad platform).
 
-  1. To fulfill your order and send you an order confirmation
-  2. To send product updates or warranty information
-  3. To respond to customer service requests
-  4. To administer your account
-  5. To respond to your questions and concerns
-  6. For marketing and promotional purposes, such as emails regarding discounts or special offers
-  7. For customer service purposes, such as contacting users to follow up on abandoned shopping carts
+ **Blog.** The Teespring Service may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@teespring.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
+ **Social Media Widgets.** The Teespring Service may include social media features, such as the Facebook like button and share buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the features to function properly. Certain social media features are hosted by the applicable provider (e.g. Facebook). Your interactions with these features are governed by the privacy policy of the company providing the features.
 
+ **Single Sign-On.** You can log into the Teespring Service using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Teespring Service to your profile page to share with others within your network.
 
-### Spread the word
+In general, we use Personal Information to provide the Teespring Service to you, including, to establish and administer your account, to fulfill your order and send you an order confirmation, to pay you any royalties earned and to respond to customer service requests.
 
-If you choose to use our emailer tool to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting them to visit Teespring. Teespring does not store this information and is only used for the sole purpose of sending this one-time email. Your friend may contact us to request that we remove this information from our database.
+We use Personal Information for marketing and promotional purposes, such as emails regarding discounts and other offers. You may opt-out of marketing emails at any time by using the opt-out link in the email. You may not opt-out of the transactional emails Teespring sends in connection with your use of the Teespring Service (e.g. email notification of individual account activity, such as shipment of an order, or broader account notifications such as changes to Teespring’s policies).
 
-### Facebook Connect or Open ID
+We use Site Information that we collect as described above for certain functions on the Teespring Service (e.g. authentication when you sign in, our shopping cart, etc.). We also use Site Information to help us understand how people use our service, including analyzing trends, administering the service, tracking users’ movements around the service and to gather demographic information about our user base as a whole. We may receive reports by our vendors on an individual as well as aggregated basis. We do this to improve our marketing and the services we offer you. We may also use Site Information to provide you with recommendations for other products you may wish to purchase and to target advertising for our products on third party sites. For that targeting, Teespring (or its vendors) may use cookies and web beacons to gather information about your activities on the Teespring Service in order to provide you advertising based upon your browsing activities on the Teespring Service.
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+We use Performance Information to analyze and better understand the characteristics of successful offerings and campaigns and to improve the performance of our sellers and the overall Teespring Service.
 
-### Information Sharing
+Teespring does not collect Personal Information about your online activities over time, across different web sites. Accordingly, Teespring does not currently respond to “do not track” browser requests.
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+Teespring processes Personal Information in the United States. Please note that you are agreeing to the transfer of your Personal Information to the United States and other locations throughout the world. Your Personal Information will be processed in accordance with this Privacy Policy. Teespring, Inc. participates in the Safe Harbor program maintained by the US Department of Commerce and the European Union and has certified that it adheres to the program’s privacy principles. To learn more about those principles and the program, visit [the U.S. Department of Commerce](http://www.export.gov/safeharbor/eu/eg_main_018365.asp).
 
-If you participate in a white-labeled enterprise campaign (identified by the enterprise having their logo in the top left of the campaign, as opposed to the Teespring logo) we may share your name, email address and order breakdown of size and quantity with the enterprise customers for the purposes of continued contact. This information is encrypted on the Teespring database and is only decrypted to send to the enterprise client securely. After this has been complete, the plain-text data is purged from the Teespring server. To opt out of this marketing, please contact the white-labeled enterprise customer.
+We will share information we collect, including your Personal Information, as needed to provide the Teespring Service to you. We will also share your Personal Information with your permission. Otherwise, we do not rent, sell or share your Personal Information with third parties and specifically will not share your Personal Information for their direct marketing purposes without your consent.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+ **Sellers.** We may share aggregate, anonymized Site Information, Performance Information or other information with our sellers to help them improve their performance through the Teespring Services. We will not share Personal Information with our sellers without your express consent.
 
-We may also disclose your personal information:
+ **Strategic Partners.** We may share aggregate, anonymized data with certain marketing and content licensing partners. Where a partner or agency compensates sellers directly, we will also share performance data with the partner to enable those payments.
 
-  1. As required by law such as to comply with a subpoena, or similar legal process
-  2. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
-  3. If Teespring is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
-  4. To any other third party with your prior consent to do so
+ **Vendors and Service Providers.** To provide you with the Teespring Service, we share information, including Personal Information, with third party vendors and service providers. For example, we provide Personal Information to companies that help us with our business activities, such as marketing, payment processing and fulfillment. We will use reasonable efforts to ensure those companies use your Personal Information only as necessary.
 
+ **As Required by Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information and content if we believe doing so is required or appropriate to comply with law enforcement requests, such as a court order or subpoena, or to protect our rights or the rights of others. Specifically, we may disclose your information to a complainant who alleges that your activities have violated their rights or policies (e.g. where your campaign or advertisement is the subject of an investigation). We may also disclose your information where you have alleged violation of your rights by another party.
 
+ **Merger, Sale or Other Asset Transfers.** If Teespring is involved in a merger, acquisition or sale of all or a portion of its assets, your Personal Information may be sold or transferred as part of that transaction, as permitted by law.
 
-### Cookies and Other Tracking Technologies
+If you would like to update or modify any Personal Information you have provided to us, you can do so in the account settings tab of your dashboard or by [contacting us](https://web.archive.org/email_us). For your protection, we will require some proof of your identity to obtain any Personal Information hosted on our site. Additionally, you may deactivate your account by [contacting us](https://web.archive.org/email_us). At your request, we will remove your Personal Information, provided we have no outstanding business or other obligation requiring such information.
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. We use another company to place cookies on your computer to collect non-personal information to compile aggregated statistics for us about visitors to our site.
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age without parental consent, and no part of the Teespring Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at privacy@teespring.com.
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Behavioral Targeting/Re-Targeting
+The security of your Personal Information is important to us and we take reasonable steps to ensure that it is treated accordingly. However, we cannot ensure the security of any information provided to us. We do not accept liability for unintentional disclosure.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+You agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Teespring Service. If we learn of a security system breach, we may attempt to notify you electronically by posting a notice on the Teespring Service or by sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (ie, to withdraw your consent from receiving electronic notice), please notify us at privacy@teespring.com.
 
-### Links to Other Web Sites
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Teespring. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
-
-### Analytics Data Gathering
-
-We use third party analytics tools, such as Google Analytics to measure traffic and website usage. One feature we use in Google Analytics is non-personally identifiable 3rd-party audience data (such as age, gender, and interests), which we use to improve our service.
-
-### Data Retention
-
-We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-### Deletion / Deactivation
-
-If your personal information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on our member information page or by contacting us by telephone or postal mail at the contact information listed below.
-
-### Security
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We also encrypt customer information in our database so that customers name and address is never stored in plain text. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. Please [contact us](https://web.archive.org/contact), if you have any questions about security on our Web site.
-
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL) and is processed by Authorize.net. If you choose to use a third party payment option, such as PayPal, to pay for your order, its privacy policy and security practices will apply to your information. We encourage you to read that privacy policy before providing your information.
-
-### Social Media Features and Widgets
-
-Our website includes Social Media Features, such as the Facebook Like button and Widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-### Testimonials
-
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can [contact support](http://answers.teespring.com/customer/portal/emails/new).
-
-### Notification of Privacy Policy Changes
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-### Contact Information:
+Teespring may periodically make changes to this Privacy Policy that will be posted on our website (teespring.com) or communicated to you through other reasonable means (e.g. email or mobile alerts). We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Teespring  
-3 Davol Square, Suite A350  
-Providence, RI 02903  
-Customer support: [contact here](http://answers.teespring.com/customer/portal/emails/new)  
-Telephone: 1-855-TEESPRING (1-855-833-7774)  
+460 Bryant St, Suite 200  
+San Francisco, CA 94107  
+Customer support: [contact here](https://web.archive.org/email_us)  
+Telephone: 1-855-TEESPRING (1-855-833-7774)
 
-
-_Updated March 6th, 2014_
+ _Updated August 10th, 2015_
