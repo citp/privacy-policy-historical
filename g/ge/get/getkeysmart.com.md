@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getkeysmart.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429054739id_/http%3A//getkeysmart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkeysmart.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229103833id_/http%3A//getkeysmart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KeySmart, for premium key holders, pocket organizers, & key ring solutions.
 
