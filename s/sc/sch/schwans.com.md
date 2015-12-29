@@ -1,23 +1,14 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511202538id_/http%3A//www.schwans.com/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230000650id_/http%3A//www.schwans.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# 
-
-  * [Home](https://web.archive.org/)
-  * »[About Us](https://web.archive.org/aboutus/service.aspx)
-  * »Privacy Policy
-
-
+# Schwan's
 
 **Postal Address:**  
 Schwan's Home Service, Inc.  
 C/O Home Service Internet Group  
 115 West College Drive  
-Marshall, MN 56258
+Marshall, MN 56258 
 
-Last updated: April 5, 2009
-
-  
-
+* * *
 
 ## Privacy
 
@@ -63,5 +54,4 @@ Schwan's Home Service, Inc. reserves the right to modify this privacy policy at 
 
 By using schwans.com, you consent to our use of your information as described in this Privacy Policy. As we implement new technology and introduce new services, we will update our Privacy Policy, so we encourage you to review it often. Any changes will be posted on this or a similar page of this Website. 
 
-  
-
+Email Marketing - If you would like to unsubscribe from our emails, please click the unsubscribe link in the bottom of our emails, or update your email preferences in our preference center.
