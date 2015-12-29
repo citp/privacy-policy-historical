@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbetterliving.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621205701id_/http%3A//onbetterliving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbetterliving.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229083008id_/http%3A//onbetterliving.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Better Living
 
