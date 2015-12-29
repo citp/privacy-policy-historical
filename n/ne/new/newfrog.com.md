@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newfrog.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625044905id_/http%3A//www.newfrog.com/help_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfrog.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229230131id_/http%3A//www.newfrog.com/help_privacy) for the most accurate reproduction.*
 
 # Privacy Concerns at Newfrog
 
@@ -6,7 +6,9 @@
   * What information may be collected?
   * How does Newfrog.com collect information about me?
   * How does Newfrog.com use my personal information?
+  * How to unsubscribe our email?
   * When will Newfrog.com change privacy policy?
+  * Questions or Concerns
 
 
 
@@ -48,6 +50,22 @@ Our website contains links to other sites (like tracking web). Please be aware t
 
 We need the information to process your orders and offer better services to you; we want to make it easier to tailor our products and services to your particular needs. We also want you to have the most enjoyable Internet and shopping experiences possible. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. However, if you do not like receive promotion emails from us, we will respect you wish.
 
+### How to unsubscribe our email?
+
+We use email to communicate news and special promotions to our members. If you'd rather not receive these messages, you can click the unsubscribe link on the email and you will be unsubscribed from the mail list immediately and without cost.
+
 ### When will Newfrog.com change privacy policy?
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage.
+
+### Questions or Concerns
+
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or through the following methods:
+
+**Live Chat** :[http://www.newfrog.com/livezilla/chat.php?acid=7faf8&ee=fw__](http://www.newfrog.com/livezilla/chat.php?acid=7faf8&ee=fw__)
+
+**Email** :[sales@newfrog.com](mailto:sales@newfrog.com?subject=Contact).
+
+**Telephone** : (+86)755-84525519
+
+**Contact Address** : Universal E-Business (Shenzhen) Co., Ltd 3rd Floor, Block 1 ,Xintianxia Industry ,Banxuegang Avenue, Longgang District,Shenzhen City, China (Office time: 9:00am to 6:00pm GMT + 08:00)
