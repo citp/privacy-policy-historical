@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203852id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229224740id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy & Cookie Policy
 
-**This Privacy and Cookie Policy was last updated on 1 June 2015.**
+**This Privacy and Cookie Policy was last updated on 4 November 2015.**
 
 1\. Data Controller  
 2\. Your rights  
@@ -14,14 +14,14 @@
 8\. Sensitive Personal Data  
 9\. Overseas Transfer of Data  
 10\. Product / service Providers Website  
-11\. Use of Cookies  
+11\. Use of Cookies and Analytical Data  
 12\. Law
 
 **1. Data Controller**
 
 comparethemarket.com is a trading name of BISL Limited, part of the BGL Group.
 
-The data controller is BISL Limited registered in England and Wales registered number 03231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough. In this Privacy Policy, ‘we’,’ us’ and ‘our’ means BISL Limited.
+The data controller is BISL Limited registered in England and Wales registered number 03231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough. In this Privacy Policy, ‘we’,’ us’ and ‘our’ means BISL Limited. Where data is provided to our partners  in relation to the  service you have requested, our partners may also be acting as data controllers.   If you would like more information about how any of our partners process data, you should read the privacy policy for the relevant partner which will be available on the partner’s website. 
 
 Back to top
 
@@ -55,7 +55,7 @@ We will use the information provided to us by you to search the websites of our 
 
 We may use your data to send you a confirmation email of your quote.
 
-To help improve our services we may also use your data for the purposes of marketing research and data analysis.
+To help improve our services we and our partners may also use your data (which may include data you have provided as part of your quotation or information we collect about how you use our website) for the purposes of marketing research and data analysis. This helps us and our partners to develop and improve the products and services that are offered.
 
 Data will also be used to track sales and to administer our reward scheme which may involve us sharing data which relates to the product that you have purchased with your product provider.  Your product provider may also provide us with any information that they hold relating to the product you have purchased for this purpose. Please read the Privacy & Cookie Policy for  [www.comparethemeerkat.com](http://www.comparethemeeerkat.com/) which contains further details regarding the reward scheme.   
 
@@ -71,10 +71,10 @@ Back to top
 
 **5.  Communicating with you**
 
-It is very important to us that we provide a serivce that meets the expectations of our customers and this section will explain how we and our partners will use your data to communicate with you.
+It is very important to us that we provide a service that meets the expectations of our customers and this section will explain how we and our partners will use your data to communicate with you.
 
 Quote Confirmation  
-When you obtain a quote with us, you will automatcially be sent confirmation of your quote by email or SMS so that you have a record of your quote and can easily retrieve your quote in the future. This is a standard part of the service that we offer and by using the service you agree to receive these communications.
+When you obtain a quote with us, you will automatically be sent confirmation of your quote by email or SMS so that you have a record of your quote and can easily retrieve your quote in the future. This is a standard part of the service that we offer and by using the service you agree to receive these communications.
 
 Updates from comparethemarket.com  
 Where you tell us you are happy to receive information from us we may send you communcations from comparethemarket.com which may include the following:-  
@@ -89,13 +89,13 @@ Depending on the contact preferences you select, we will communicate with you by
 
 We may also use your data to allow us to show your adverts while you are on-line that are relevant to you. Sometimes, we will use cookies to do this and you can find out more about this and how to turn off cookies by reading our [cookie ](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/)policy.
 
-If you don’t want to receive communications from us you can let us know at any time by contacting us at [feedback](https://web.archive.org/contact-us/) or you can select your contact preferences in Your Account.
+If you don’t want to receive communications from us you can let us know at any time by contacting us at [feedback](https://web.archive.org/contact-us-old/) or you can select your contact preferences in Your Account.
 
 Renewal Reminders  
-As part of our service, we may also contact you around 11 months after you have completed your quote in order to provide you with an indication of what your quotes could be for your next renewal. We will use the data that we hold on you in order to search the websites of our partners in order to do this. Some of our partners will carry out credit and data checks as part of this process (see paragraph 6 below for further information on the type of checks that may be undertaken).
+As part of our service, we may also contact you around the anniversary of when you completed your quote in order to provide you with an indication of what your quotes could be for your next renewal. We will use the data that we hold on you in order to search the websites of our partners in order to do this. Some of our partners will carry out credit and data checks as part of this process (see paragraph 6 below for further information on the type of checks that may be undertaken).
 
 Communications from our partners  
-With some of the comparison services we offer, you will have the option during the journey to select whether you would like to receive further communications from our partners (e.g. insurance providers, product providers or brokers) to discusss your quote further. 
+With some of the comparison services we offer, you will have the option during the journey to select whether you would like to receive further communications from our partners (e.g. insurance providers, product providers or brokers) to discuss your quote further. 
 
 Otherwise, we will not pass any of your information to our partners for marketing purposes and we have contractual arrangements in place with all our partners which prevent them using your information for this purpose. If you click through to our any of our partners’ websites, you will be subject to their Privacy Policy in relation to any communications you will receive from them which we recommend you read carefully.
 
@@ -103,7 +103,7 @@ Back to top
 
 **6\. Credit and data checks**
 
-Some of our product and service providers will carry out checks with credit reference and fraud prevention agencies in order to verify your identity, assess your application for a quotation or credit and offer you the best terms.  The checks may be against both public data (such as information from the electoral roll) and private data (such as your credit history) The providers do not make these checks purely because you are using our service, and may make them if you request a quote via any other source. As part of the quote process, some product providers will exchange information with various industry databases in order to verify the information that you have provided such as the Claims and Underwriting Exchange (CUE), the Hunter Database, the Motor Insurance Anti-Fraud and Theft Register or  the No Claims Discount Database.
+Some of our product and service providers will carry out checks with credit reference and fraud prevention agencies in order to verify your identity, assess your application for a quotation or credit and offer you the best terms.  The checks may be against both public data (such as information from the electoral roll) and private data (such as your credit history). The providers do not make these checks purely because you are using our service, and may make them if you request a quote via any other source. As part of the quote process, some product providers will exchange information with various industry databases in order to verify the information that you have provided such as the Claims and Underwriting Exchange (CUE), the Hunter Database, the Motor Insurance Anti-Fraud and Theft Register or the No Claims Discount Database.    Some insurance providers who offer products designed for students or graduates may also undertake additional checks against higher education sources to verify your student or graduate status.
 
 A record of the search will appear on your credit report. Some product providers may also carry out checks against data they already hold on you (or is held by the company whose brand they administer the product for, or members of their group of companies) such as data from existing products, account data or loyalty scheme data. They may use this data to help them assess and rate your application for a quote and determine your premiums.  They may also pass this data to their insurance underwriters for these purposes where applicable.
 
@@ -133,7 +133,7 @@ We are not responsible for the privacy policies and practices of other websites.
 
 Back to top
 
-**11. Use of cookies**
+**11. Use of cookies and Analytical Data**
 
 This website uses cookies. View our [cookies policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for a full list of the cookies that we use, third party cookies and how to disable them.
 
@@ -149,11 +149,11 @@ We use cookies, pixel tags or action tags for various purposes, including: 
 
 \- To assist in the provision of ads which are relevant to you when browsing the internet.
 
-We are continually looking to adopt and implement certain practices and technologies in order that we may improve your user experience. Please regularly check our Cookie Policy for full details of the cookies we are currently using.
+We are continually looking to  improve your user experience and so regularly adopt and implement new technologies to help us do this. Please regularly check our [Cookie Policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for full details of the cookies we are currently using.
 
-Third parties
+Analytical Data
 
-BISL Limited works with third parties to research certain usage and activities on our website on our behalf. No personal information about you is shared, however in the course of conducting this research these third parties may place a unique 'cookie' on your device.
+We carry out research and analysis into usage and activities on our website.   This is used to help us improve our service.   We may record any of your activity on our website including information such as which pages you visit and how you interact with the website.  We may ask a third party to record this information on our behalf and cookies may be used for this purpose, however only your first name will be recorded and no other personal information you enter on our website (such as your full name or contact details) will be recorded by the third party. 
 
 Celebrus Technologies
 
