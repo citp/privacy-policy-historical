@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techyyouth.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512054620id_/http%3A//techyyouth.com/79-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyyouth.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033936id_/http%3A//techyyouth.com/79-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechyYouth : Blog For Everyone
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Techyyouth collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To improve customer service  
+– To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.  
-\- To send periodic emails  
+– To send periodic emails  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
 **How we protect your information**
@@ -55,6 +55,3 @@ or feel free to mail us at
 **[prabhdeep17@gmail.com](http://facebook.com/techhyouth)**
 
 This document was last updated on May 31, 2012
-
-It's only fair to share...  
-0000000
