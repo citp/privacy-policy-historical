@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630001952id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040548id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Intellicast - Privacy Policy
 
