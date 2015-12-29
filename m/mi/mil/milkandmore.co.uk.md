@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607004018id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022347id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
 
 # milk&more Privacy Policy | Milk delivery service
 
@@ -124,4 +124,4 @@ All comments, queries or requests relating to our use of your information are we
 
 If you have any feedback about a **milk &more** product you have bought, please contact us by phone or via your **milk &more** account.
 
-**milk &more** is owned and operated by Dairy Crest Limited, trading as **milk &more**, a private limited company registered in England & Wales and our company number is 02085882 ("Dairy Crest"). The registered office address of Dairy Crest is Claygate House, Littleworth Road, Esher, Surrey, KT10 9PN. Our VAT number is 609276330.
+**milk &more** is owned and operated by Müller UK & Ireland Group LLP, trading as **milk &more**, a private limited partnership registered in England and our partnership number is OC384928 ("Müller UK & Ireland Group LLP"). The registered office address of Müller UK & Ireland Group LLP is Tern Valley Business Park, Shrewsbury Road, Market Drayton, Shropshire, TF9 3SQ. Our VAT number is GB687909563.
