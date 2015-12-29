@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204811id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229064426id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gossip Cop
 
@@ -28,7 +28,7 @@ Gossip Cop Media may use cookies. A cookie is a piece of data stored on the user
 
 **Third-Party Cookies**
 
-We use third-party advertising companies to serve ads and collect information when you visit Gossip Cop. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Gossip Cop has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to networkadvertising.org/choices
+We use third-party advertising companies to serve ads and collect information when you visit Gossip Cop. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Gossip Cop has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to networkadvertising.org/choices
 
 **Log Files**
 
@@ -52,7 +52,7 @@ Some of our business partners (i.e. advertisers), may use cookies on our site. G
 
 **Third-Party Advertising**
 
-The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to GossipCop.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to GossipCop.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
 
 **Information Collected Through Third-Party Sources**
 
