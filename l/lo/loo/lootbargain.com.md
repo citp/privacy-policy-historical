@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootbargain.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622130408id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootbargain.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229192856id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Loot Bargain
 
