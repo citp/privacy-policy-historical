@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dreamtheater.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510051801id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamtheater.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229181157id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roadrunner Records
 
+  * [Pre-order The Amity Affliction's Let The Ocean Take Me Deluxe Edition](http://smarturl.it/slf)
   * [Bad Seed Rising's A Place Called Home EP OUT NOW](http://smarturl.it/BADSEED_APCH)
   * [Download Stone Sour's Meanwhile In Burbank...](http://smarturl.it/ss-mib)
-  * [Killswitch Engage - Disarm The Descent Available Now On Vinyl](http://www.shopbenchmark.com/killswitchengage/)
   * [We Are Harlot's Debut Album OUT NOW](http://smarturl.it/weareharlot-itunes)
   * [Watch Wild Throne's 'War Is A Romance'](http://youtu.be/v753FQ12Bh8)
   * [Download Slipknot's .5: The Gray Chapter Now](http://smarturl.it/thegraychapter)
@@ -104,7 +104,7 @@ OTHER INFORMATION
 We and our third-party service providers may collect Other Information (defined above), such as:
 
   * Browser and device information
-  * Mobile App usage date
+  * Mobile App usage data
   * Server log files
   * Information collected through cookies, pixel tags and other technologies. If you are located within the EU please read our cookie policy at <http://www.wminewmedia.com/cookies_policy21062012.htm> for further details on our use of cookies.
   * Geographic location information
