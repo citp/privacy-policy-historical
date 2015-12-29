@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the cheapoair.ca privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623221047id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapoair.ca privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229072010id_/https%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en-us" lang="en-us" xmlns="http://www.w3.org/1999/xhtml"><head id="Head"><title>
 	CheapOair - Privacy Policy
-</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d840d2e0e2","applicationID":"1134250","transactionName":"ZgZbMBNTCERRARBYWV9MdwsTXwdbWRgBVWNDChZO","queueTime":0,"applicationTime":185,"ttGuid":"4D3D0D096C414416","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ8OVlRXGwIBV1VQAgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><meta content="text/javascript" http-equiv="Content-Script-Type"><meta content="text/css" http-equiv="Content-Style-Type"><meta id="MetaDescription" name="DESCRIPTION" content="Learn about privacy policy of CheapOair.ca."><meta id="MetaCopyright" name="COPYRIGHT" content="© 2015 Cheapoair.ca"><meta id="MetaAuthor" name="AUTHOR" content="GCMS-CA.CA"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style><link rel="stylesheet" type="text/css" href="//www.cheapoair.ca/cmshandlers/cmsresourcecombiner.ashx?gp=css&amp;tabid=604&amp;rt=css&amp;gcms-srv&amp;version=2015-06-16-05-57-43"><link rel="canonical" href="http://www.cheapoair.ca/privacy/">
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="text/javascript" http-equiv="Content-Script-Type"><meta content="text/css" http-equiv="Content-Style-Type"><meta id="MetaDescription" name="DESCRIPTION" content="Learn about privacy policy of CheapOair.ca."><meta id="MetaCopyright" name="COPYRIGHT" content="© 2015 Cheapoair.ca"><meta id="MetaAuthor" name="AUTHOR" content="GCMS-CA.CA"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style><link rel="stylesheet" type="text/css" href="//www.cheapoair.ca/cmshandlers/cmsresourcecombiner.ashx?gp=css&amp;tabid=604&amp;rt=css&amp;gcms-srv&amp;version=2015-10-19-15-04-53"><link rel="canonical" href="https://www.cheapoair.ca/privacy/">
 
 <style>.headerlnks { margin-top: 13px !important;}
 
@@ -63,7 +63,7 @@
               <li class="nav-main__menu nav-menu open"><a class="nav-main__link" href="/flights/"><span data-hover="Flights">Flights</span></a></li>
               <li class="nav-main__menu nav-menu hotels"><a class="nav-main__link" href="/hotels/"><span data-hover="Hotels">Hotels</span></a></li>
               <li class="nav-main__menu nav-menu cars"><a class="nav-main__link" href="/cars/"><span data-hover="Cars">Cars</span></a></li>
-			   <li class="nav-main__menu nav-menu vacations"><a class="nav-main__link" href="/staticpackages/"><span data-hover="Vacation Packages">Vacation Packages</span></a></li>
+			   <li class="nav-main__menu nav-menu vacations"><a class="nav-main__link" href="/vacations/"><span data-hover="Vacation Packages">Vacation Packages</span></a></li>
 			  <li class="nav-main__menu nav-menu cruises"><a class="nav-main__link" href="/cruises/"><span data-hover="Cruises">Cruises</span></a></li>
 			  <li id="topDealsMenu" class="nav-main__menu nav-main__menu--dropdown nav-menu"><a data-toggle="dropdown" class="nav-main__link" href="javascript:void(0)"><span data-hover="More">More</span></a></li>
 	      </ul>
@@ -273,7 +273,7 @@ display:none;
                         <li class="dropdown-menu__sub"><a class="dropdown-nav-main__link" href="//www.cheapoair.com/es-br" value="en-BR"><span class="lng-br"></span><span class="code">Brazil - Español</span></a></li>
                         <li class="dropdown-menu__sub"><a class="dropdown-nav-main__link" href="//www.cheapoair.com/es-bo" value="en-BO"><span class="lng-bo"></span><span class="code">Bolivia - Español</span></a></li>
                         <li class="dropdown-menu__sub"><a class="dropdown-nav-main__link" href="//www.cheapoair.com/es-ar" value="en-AR"><span class="lng-ar"></span><span class="code">Argentina - Español</span></a></li>
-                        <li class="dropdown-menu__sub"><a class="dropdown-nav-main__link" href="//www.cheapoair.com/es-mx" value="en-MX"><span class="lng-mx"></span><span class="code">México - Español </span></a></li>
+                        <li class="dropdown-menu__sub"><a class="dropdown-nav-main__link" href="//www.cheapoair.mx/" value="en-MX"><span class="lng-mx"></span><span class="code">México - Español </span></a></li>
                         <li class="dropdown-menu__sub"><a class="dropdown-nav-main__link" href="//www.cheapoair.com/es-do" value="en-DO"><span class="lng-do"></span><span class="code">República Dominicana - Español</span></a></li>
                         
                         
@@ -403,7 +403,7 @@ display:none;
         <div id="dnn_ctr4121_ContentPane" class="Normal c_contentpane">
         <!-- Start_Module_4121 --><div id="dnn_ctr4121_ModuleContent" class="ModCMSModulesFileExplorerC">
 	<!--Js for Banner Start-->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?gcms-srv">
+<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js?gcms-srv">
 </script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-3932154410558777");
@@ -604,276 +604,520 @@ GA_googleFillSlot("CAC_GE_OP_ATF_R_160x600_G_12Jan11");
         <div id="dnn_ctr3605_ContentPane" class="Normal c_contentpane">
         <!-- Start_Module_3605 --><div id="dnn_ctr3605_ModuleContent" class="ModDNNHTMLC">
 	<div id="dnn_ctr3605_HtmlModule_lblContent">
+	<div id="dnn_ctr3605_HtmlModule_lblContent">
 	<style>
 .blueHead, .blueHead h1{display:block;}
+.faqTop{background-color:#fff;}
 </style>
 
-<table width="810" border="0" cellspacing="0" cellpadding="0">
+<table width="810" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
-    <td bgcolor="#FFFFFF" width="810" valign="top" style="padding-top:15px;"><div class="clear"></div><div style="padding-top:0px;">
+    <td width="810" valign="top" bgcolor="#FFFFFF" style="padding-top:15px;"><div class="clear"></div><div style="padding-top:0px;">
         <div style="float: right; position: relative;">        
-	<div class="facebook-hover" style="display: none;">Follow us on Facebook and get updates from CheapOair.ca posted directly to your news feed<div class="arrow"></div></div>
-	<div class="icon-facebook" style="position: relative; display: inline;">
-            <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/CheapOairCA&amp;layout=button_count&amp;show_faces=true&amp;width=80&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+	<div style="display: none;" class="facebook-hover">Follow us on Facebook and get updates from CheapOair.ca posted directly to your news feed<div class="arrow"></div></div>
+	<div style="position: relative; display: inline;" class="icon-facebook">
+            <iframe frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:80px; height:21px;" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/CheapOairCA&amp;layout=button_count&amp;show_faces=true&amp;width=80&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21"></iframe>
      </div>
 <div style="position:relative; display:inline;">
-<a href="javascript:MM_openBrWindow('https://twitter.com/intent/user?region=screen_name&amp;screen_name=cheapoairca','Twitter','status=yes,scrollbars=yes,width=560,height=510');" style="font-family:Arial,Helvetica,sans-serif; font-size:10px; text-decoration:none; color:#666;">
-<img border="0" src="/portals/3/images/tweeter-follow.gif?gcms-srv" alt="Follow CheapOair.ca on Twitter"></a></div>
+<a style="font-family:Arial,Helvetica,sans-serif; font-size:10px; text-decoration:none; color:#666;" href="javascript:MM_openBrWindow('https://twitter.com/intent/user?region=screen_name&amp;screen_name=cheapoairca','Twitter','status=yes,scrollbars=yes,width=560,height=510');">
+<img border="0" alt="Follow CheapOair.ca on Twitter" src="/portals/3/images/tweeter-follow.gif?gcms-srv"></a></div>
 </div>
  <div style="display: inline; float: right; color: #075DBF; font-size: 14px; padding-right: 10px; padding-top: 0px;">Stay Connected: </div>   
-  </div><div class="clear"></div><table width="95%" cellpadding="0" cellspacing="0" align="center" border="0">
+  </div><div class="clear"></div><table width="95%" cellspacing="0" cellpadding="0" border="0" align="center">
         <tbody><tr>
-          <td width="85%" height="60" valign="middle" class="blueHead"><h1><img src="/portals/3/images/privacy.gif?gcms-srv" alt="CheapOair.ca Privacy Policy" width="32" height="32" vspace="0" align="absmiddle">&nbsp;&nbsp;&nbsp;Privacy 
-            Policy (Effective Date: January 09, 2015)</h1></td>
-
-
-          <td width="15%" rowspan="2" valign="middle"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.cheapoair.ca&amp;sealid=101" target="_blank"><img src="/portals/3/images/clickseal.gif?gcms-srv" alt="Click to Verify" vspace="15" border="0"></a></td>
+          <td width="85%" valign="middle" height="60" class="blueHead"><h1><img width="32" vspace="0" height="32" align="absmiddle" alt="CheapOair.ca Privacy Policy" src="/portals/3/images/privacy.gif?gcms-srv">&nbsp;&nbsp;&nbsp;Privacy 
+            Policy (Effective Date: 11/09/2015)</h1></td>
+          
+          
+          
           <!-- social link box -->
-
-   
-<!-- social link box end -->
-
+          
+          
+  <!-- social link box end -->
+          
         </tr>
         <tr>
-          <td height="30" class="fntdkBlue" style="padding-left:12px;">CheapOair.ca 
-            is strongly committed to protecting your privacy.</td>
-        </tr>
-        <tr>
-          <td colspan="2" class="contentBg brdrGrey"><p><span class="privacyText">This privacy policy applies to www.cheapoair.ca owned and operated by RSH Travel, Inc. (collectively, “We”, “Our”, “Us” and “CheapOair”). This privacy policy (“Privacy Policy”) discloses our information collection  and dissemination practices in connection with the CheapOair.ca  website (collectively, the “Site”). By using the Site you signify your acceptance  of the terms in this Privacy Policy. If you do not agree to this Privacy  Policy, you should not use the Site. </span></p>
-          RSH Travel Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.cheapoair.ca and does not cover information that may be collected through our mobile applications.
-          <br><br>
-          If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
-          <br><br>
-            We may amend this Privacy Policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.<br>
-            <br>
-            CheapOair is committed to providing fair information practices and adopts the  highest degree of privacy policy in protecting customer’s private and personal  information submitted to CheapOair in connection with purchasing travel  products from CheapOair.<br>
-            <span class="privacyText"><br>
-            If you purchase a product or service from us, we request certain personally  identifiable information from you on our order form. You must provide contact  information (such as name, email, date of birth, geo-location and shipping address) and financial  information (such as credit card number, expiration date).<br>
-            <br>
-CheapOair uses and stores sensitive information such as credit card number, cardholder's name and billing address, and expiration date provided to us through our website or in any other way for billing purposes, and to fulfill your orders. We collect, use and store your other personal information, including your e-mail address, for the following general purposes: to provide you with travel services or other product that you purchase from us, to send your itinerary confirmation, vouchers, or service related notifications, to communicate with you in general, to otherwise customize your experience with this website, to reward you as part of any reward and recognition program you choose to join, to solicit information from you, including through surveys and to resolve any disputes, collect any due fees, to enforce our Terms and Conditions and to prevent or recover any potential or actual losses resulting from or related to any suspect criminal activity including but not limited to fraud or identity theft.<br>
-            <br>
-            CheapOair does not sell, trade, share or rent your personal information to third parties others without your prior consent, other than as described under this policy. We keep your personal information private and secure in our databases and during transfer to our agents, affiliates, service providers and third party marketing partners. When you use our system, you are asked to provide your name, email address, date of birth and geo-location. We use this information to answer your questions and process your requests for services from us and/or for products or services from our agents, service providers and third party marketing partners. We may provide your personal information to companies that provide services to help us with our business activities such as a mapping service provider to provide a map of the location you are looking for or the location you are currently in or offering customer service. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.<br>
-            <br>
-We may share your information:
-<ul>
-<li>With our trusted parent company, corporate affiliates and subsidiaries, including but not limited to CheapOair.com. Our parent company, all of our affiliates and subsidiaries share our commitment to protect your private information and comply with a policy at least as restrictive as our Privacy Policy. </li>
-<li>With suppliers such as airlines, hotels, car rental partners, insurance suppliers, and/or activity, service providers or intermediaries  providers who are directly involved in providing you with services or other products you purchased from our website.</li>
-<li>With third parties who provide corporate services or functions on our behalf, including credit card processing financial analysis, customer service, call center services, marketing and advertising services, visitor online behavioral analysis, contest organization and administration, and fraud prevention. Such third party vendors have access to and may collect your information only as needed to perform their functions and are not permitted to share, sell, trade or use the information for any other purpose.</li>
-<li>As a result of a corporate transaction resulting in merger, consolidation, asset sale or when legally required to do so.</li>
-<li>In response to subpoenas, court orders, or other legal process, to protect or enforce our rights, and to defend against claims of any nature.</li>
-<li>When we reasonably believe in good faith that it is appropriate to prevent, investigate or take any actions against illegal activities including but not limited to fraud and identity theft and to defend our rights, property of any kind and safety of our company, affiliates or subsidiaries.</li>
-</ul>
-
-Save for the above mentioned situations, you will be notified when your personal information will be shared with third parties and given an opportunity to choose to opt-out from sharing your personal information.<br>
-            <br>
-            To keep you informed about our latest services, we may notify you via email  newsletter of any changes or new additions to our site. You may unsubscribe  from our email newsletter by following the unsubscribe instructions in any  email you receive from us.<br>
-            <br>
-            Other sites accessible through our Site have their own privacy policies and  data collection practices. If you submit personal information to any of those sites, your information is governed by their privacy policies. Please consult each site's privacy policy. CheapOair  is not responsible for the actions of third parties.</span></td>
-        </tr>
-        <tr>
-          <td colspan="2" valign="top">&nbsp;</td>
-        </tr>
-        <tr>
-          <td colspan="2" valign="top">
-          <br>
-          <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>COOKIES and TRACKING TECHONOLOGIES</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">Cookies are data files which can be stored on your computer’s hard drive, if your web browser allows it. CheapOair website and mobile application use tracking technologies such as cookies, web beacons, tags and scripts for the following purposes: 
-
-                  <ul>
-                  <li>To help us to recognize you as a previous visitor on our website. For example, if you have an account with CheapOair, we use cookies to store your login information, so you will not need to enter your credentials each time your browser visits us to login your account. </li>
-                  <li>To enable us to customize your user experience with us, as well as the help customize ad content provided to you on other sites across the Internet. As an example, when you access a page on our website, a cookie is automatically set by us, our marketing partners or service providers to recognize your browser when you visit other websites and to present you with information and advertising content based on your apparent interests. </li>
-                   <li>To help research, test and measure our website’s features and offerings, advertisements and related email campaigns.</li> 
-                   </ul> 
-While most browsers include the option of preventing the browser from accepting new cookies, please note that if you refuse to accept cookies, you may not be able to access certain tools and functionalities offered by our website.<br> <br> 
-
-In addition to cookies, Cheapoa may use Web beacons and Local Shared Objects to monitor traffic patterns, to deliver or communicate with cookies, to understand if you were referred to us from an online advertisement, to help measure the effectiveness of our offerings and advertisements, to help us understand which emails from us have been opened and to track the visitor traffic and actions on our site and mobile application.<br> <br> 
-
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and /or clickstream data. <br> <br> 
-
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve our marketing, analytics, or site functionality.
-
-
-
-                </span></td>
-              </tr>
-            </tbody></table>
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><b>LOG FILES</b></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.<br>
-                  <br>
-                  [We do not link this automatically collected data to other information we collect about you. Or
-We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.]</span></td>
-              </tr>
-            </tbody></table>
-            <br>
+          <td valign="top" colspan="2">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>Introduction</b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">The following describes the Privacy Policy (as amended from time to time, the "Privacy Policy") applicable to the information collected through the CheapOair.ca website, the CheapOair.ca mobile website, our iPhone, Android and other mobile applications and any other online communications and interfaces from CheapOair (the "Site" or "Sites").</span></td>
+                  </tr>
+                
+                </tbody></table>
             
-              <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><b>LOCAL STORAGE (HTML5)</b></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">We use Local Storage (LS) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML 5 to collect and store information.  Various browsers may offer their own management tools for removing HTML5 LSOs.</span></td>
-              </tr>
-            </tbody></table>
-            <br>
-              <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><b>BEHAVIORAL ADVERTISING</b></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank">here</a>. Please note this does not opt you out of being served ads. You will continue to receive generic ads.</span></td>
-              </tr>
-            </tbody></table>
-            <br>
+                <td colspan="2" class="faqTop">
+                  
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td width="50%" align="left"></td>
+                        <td width="50%" align="right">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  
+                  </td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>CheapOair is Strongly Committed to Protecting Your Privacy</b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">At CheapOair ("We", "Us", or "Our"), we value your trust. That is why we would like you to know what information about you may be collected when you use our Sites. We also want to make sure you understand how your information is protected and how it may be used.<br><br>
+                    
+                    Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the sites. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update it. By reviewing our Privacy Policy, agreeing to our Terms &amp; Conditions and/or by visiting any portion of the Site you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Sites.<br><br>
+                    If you have questions or concerns regarding our Privacy Policy, you should contact our customer service at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a>.
+                    </span></td>
+                  </tr>
+                
+                </tbody></table>
             
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><b>SECURITY</b></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><p>The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or geo-location data) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [ To learn more about SSL, follow this link <a href="http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html" target="_blank">http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html ]</a> ]<br>
-                    <br>
-                    All of our secure servers use a high-grade encryption key (RC4 with 128 bi t secret key).
-                    While secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time.<br>
-                    <br>
-                    If you receive browser warnings when going from secure mode pages to non-SSL pages, it is most likely a warning that you are switching servers. As long as your data is entered on a secure mode page, it will only be transmitted to a secure server.<br>
-                    <br>
-                    We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We urge you to take every precaution to protect you personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.<br>
-                    <br>
-                    To ensure that your credit, debit or charge card is not being used without your consent, we may validate your name, address and contact number supplied by you during the booking process against appropriate third party databases. By accepting these terms and conditions you agree and authorize us to carry out such verification checks as stated herein. In performing these checks, you acknowledge and concur that such personal information you provide to us may be disclosed to a registered Credit Reference Agency which may keep a record of such information in whole or in part. You can rest assured that this verification process is performed for the sole purpose to verify and confirm your identity, and that this process does not perform a credit check, and your credit rating will not be affected whatsoever. All information provided by you to us is securely processed in strict accordance with the Data Protection Act of 1998. <br>
-                    <br>
-                    If you have any questions about security on our Web site, you can send email us at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a></p></td>
-              </tr>
-            </tbody></table>
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><b>GOVERNMENT AND LEGAL </b></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">We reserve the right to disclose your personally  identifiable information as required by law and when we believe that disclosure  is necessary to protect our rights and/or comply with a judicial proceeding, protect your safety or the safety of others, investigate fraud, court order, to any other third party with your prior consent to do so,or legal process served on our Site.</span></td>
-              </tr>
-            </tbody></table>
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><b>ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION</b></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><br>
-                  <span class="privacyText">If your personally identifiable information  changes, or if you no longer wish to use our services, you may correct, update,  delete or deactivate it by emailing our </span> Customer Support at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a> or by contacting us by telephone or postal mail at the contact 
-                  information listed below. <br><br>We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</td>
-              </tr>
-            </tbody></table>
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>CHILDREN'S PRIVACY PROTECTION</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">CheapOair understands the importance of  protecting children's privacy in the interactive online world. The Site is not  designed for, or intentionally targeted at, children 13 years of age or  younger.&nbsp; It is not our policy to intentionally collect or maintain  information about anyone under the age of 13.</span></td>
-              </tr>
-            </tbody></table>
+                <td colspan="2" class="faqTop">
+                  
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td width="50%" align="left"></td>
+                        <td width="50%" align="right">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  
+                  </td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>Information CheapOair Collects from You</b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">We receive, use and store information you provide to us while visiting Sites, including any information that can be used to personally identify you ("personally identifiable information" or "PII"). Such information may include your first and last name, your physical address, e-mail address, date of birth, geo-location, telephone number, and your billing information (including cardholder name, credit card number and expiration date).<br><br>
+                    If you purchase a product or service from us or register for a sweepstakes, contest or any other promotional offer on the Sites, we may request certain additional personally identifiable information from you. Certain personally identifiable information about you is required in order for you to register as a member, book travel itineraries, participate in a contest or sweepstakes, ask us a question, or for other purposes in connection with your use of the Sites.<br><br>
+                    In order to customize your user experience, prevent fraud and for compliance purposes, when you use the Sites, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID"). When you visit the Sites, we automatically collect your IP address, and web browser fingerprint. We may also collect information about your visit, such as itineraries viewed or searched and booking made.<br><br>
+                    You may also provide PII or non-personally identifiable information about other people, such as their name, date of birth and gender. Except as otherwise set forth in this Privacy Policy, the PII you provide about others is only used for the sole purpose of completing your request or for whatever reason it may have been provided. You must obtain the consent of such other person prior to providing us with any of their personally identifiable information.<br><br>
+                    We collect your location-based information for the purpose of customizing your experience and locating a place that you may be searching for in your area. We will only share this information with our mapping provider for the sole purpose of providing you the service.
+                    We may share your geo-location data with third parties for the purpose of them serving you ads for places (such as restaurants) in your area. If you do not wish to allow us to share your information in this manner please opt-out by contacting us at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a>.<br><br>
+                    You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a>.
+                    </span></td>
+                  </tr>
+                
+                </tbody></table>
             
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>OPT-OUT</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">We provide you the opportunity to 'opt-out' of  having your personally identifiable information used for certain purposes when  we ask for this information. For example, if you purchase a travel product, but  do not wish to receive any additional marketing material from us, you can  indicate your preference in our order form.<br>
-                  <br>
-                  If you no longer wish to receive our newsletter and promotional communications,  you may opt-out of receiving them by following the instructions included in  each newsletter or communication, or by contacting us at the address below.<br>
-                  <br>
-                  You will be notified when your personal information is collected by any third  party that is not our agent/service provider, so you can make an informed  choice as to whether or not to share your information with that party.
-                  </span>
-                  </td></tr></tbody></table>
+                <td colspan="2" class="faqTop">
                   
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td width="50%" align="left"></td>
+                        <td width="50%" align="right"><a href="#top">top</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
                   
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+                  </td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>How CheapOair Uses Your PII</b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">CheapOair uses and stores sensitive personally identifiable information such as financial information (credit card number, cardholder's name, and expiration date), postal and billing address, provided to us through our website, mobile application or in any other way for billing purposes, to fulfill your orders and as otherwise described in this Privacy Policy. We use your other personally identifiable information for the following general purposes: (i) to provide you with travel services or other products that you purchase from us, or to fulfill the purpose for which you provide it (ii) to send your itinerary confirmation, vouchers, or service related notifications, (iii) to communicate with you as our customer, (iv) to provide you with special offers regarding products or services that may be of interest to you from our agents, service providers or marketing partners, (v) to solicit information from you, (vi) to resolve any disputes, collect any due fees, (vii) to enforce our Terms and Conditions, (viii) to prevent or recover any potential or actual losses resulting from or related to any suspect criminal activity including but not limited to fraud or identity theft, (ix) to improve our website and services, (x) for any purpose disclosed by us to you at the time your personally identifiable information is collected, and (xi) as further disclosed in this Privacy Policy.<br><br>
+                    Other than described in this Privacy Policy, CheapOair does not sell, trade, or rent your personally identifiable information to third parties without your prior consent.</span></td>
+                  </tr>
+                
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>BLOG</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [email].  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-                  </span>
-                  </td></tr></tbody></table>
+                <td colspan="2" class="faqTop">
                   
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td width="50%" align="left"></td>
+                        <td width="50%" align="right"><a href="#top">top</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
                   
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+                  </td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>E-mail Communications and Newsletters</b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">From time to time, we may notify you via email newsletter of any changes or additions to the Sites, and new offers and products from third parties that may be of interest to you. You may opt-out from our email newsletter by following the unsubscribe instructions in any email newsletter you receive from us.<br><br>
+                    We will send you push notifications if you opt-in to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off.<br><br>
+                    Other sites accessible through links on the Sites have their own privacy policies and data collection practices. Please consult each site's Privacy Policy before providing your personally identifiable information. CheapOair is not responsible for the actions of websites whose links are accessible through our Sites or any actions of third parties that are not under CheapOair's exclusive control.</span></td>
+                  </tr>
+                
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>SOCIAL MEDIA WIDGETS</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-                  </span>
-                  </td></tr></tbody></table>
+                <td colspan="2" class="faqTop">
                   
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td width="50%" align="left"></td>
+                        <td width="50%" align="right"><a href="#top">top</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
                   
-            <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+                  </td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>With Whom CheapOair May Share Your PII</b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">Other than in the cases set forth in this Privacy Policy, you will be notified when personally identifiable information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information:<br><br>
+                    <ul>
+                      <li>We may share your personally identifiable information with our parent company, corporate affiliates and subsidiaries, including but not limited to CheapOair.com. Our parent company, all of our affiliates and subsidiaries share our commitment to protect your personally identifiable information and comply with a policy at least as restrictive as our Privacy Policy.</li>
+                      <li>Your personally identifiable information may be shared with our suppliers such as airlines, hotels, car rental partners, insurance suppliers, and/or activity, service providers or intermediaries (collectively, "Suppliers") who are directly or indirectly involved in providing you with services or other products you purchased from our Sites. By making a reservation on our Sites or through our mobile application, you authorize us to disclose to such Suppliers the information they require to verify your identity, complete the booking and deliver the services or products you purchased. In certain cases, Suppliers may use your personally identifiable information to prevent fraud and improve their service or product. These Suppliers are not controlled by CheapOair and any personally identifiable information disclosed to them is subject to their own privacy policies. As such, please review the privacy policy of each Supplier whose products you purchase through our Sites or mobile application.</li>
+                      <li>We may also share your personally identifiable information with our business partners whose products or services may be offered on the Sites or who referred you to our Sites from another site. We encourage you to review the privacy policy of each website that referred you to our Sites or to which you are referred to from here.</li>
+                      <li>Third party vendors who provide corporate services or functions on our behalf, including credit card processing, credit card verification, financial analysis, a mapping service provider to provide a map of the location you are looking for or the location you are currently in, customer service, call center services, marketing services, contest organization and administration, and fraud prevention may have access to your personally identifiable information. Such third party vendors have access to and may collect your personally identifiable information only as needed to perform their functions and are not permitted to share, sell, trade or use your personally identifiable information for any other purpose. They are also required to follow restrictive data security practices.
+                        </li>
+                      <li>We may access, preserve and share your personally identifiable information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share your personally identifiable information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. If the ownership or control of all or part of the Sites or our assets changes, we may transfer your personally identifiable information to the new owner.</li>
+                      </ul></span></td>
+                  </tr>
+                
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>SURVEY</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">We may provide you the opportunity to participate in survey on our site.  If you participate, we will request certain personally identifiable information from you. Participation in this survey is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).<br>
-                  <br>
-                  We use this information [to . . . .]  Describe fully how the data collected is to be used, e.g., to, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email  newsletter.
-                  </span>
+                <td colspan="2" class="faqTop">
+                  
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td width="50%" align="left"></td>
+                        <td width="50%" align="right"><a href="#top">top</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  
+                  </td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody>
+                <tr>
+                  <td bgcolor="#ffffff" class="heading"><b>Cookies and Tracking Technologies </b></td>
+                  </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">Cookies are data files which can be stored on your computer's hard drive, if your web browser allows it. Our Sites and mobile application use tracking technologies such as cookies, web beacons, tags and scripts for the following purposes:<br><br>
+                    <ul>
+                      <li>To help us to recognize you as a previous visitor on the Sites. For example, if you have an account with CheapOair.com, we use cookies to store your login information, so you will not need to enter your credentials each time your browser visits us to login to your account.</li>
+                      <li>To enable us to customize your user experience with us, as well as the help customize ad content provided to you on other sites across the Internet. As an example, when you access a page on our Sites, a cookie is automatically set by us, our marketing partners or service providers to recognize your browser when you visit other websites and to present you with information and advertising content based on your apparent interests.</li>
+                      <li>To help research, test and measure our Site's features and offerings, advertisements and related email campaigns.</li>
+                      </ul>
+                
+                    While most browsers include the option of preventing the browser from accepting new cookies, please note that if you refuse to accept cookies, you may not be able to access certain tools and functionalities offered by our Sites. 
+                    <br><br>
+                    In addition to cookies, CheapOair may use Web Beacons and Local Shared Objects to monitor traffic patterns, to deliver or communicate with cookies, to understand if you were referred to us from an online advertisement, to help measure the effectiveness of our offerings and advertisements, to help us understand which emails from us have been opened and to track the visitor traffic and actions on our site and mobile application. 
+                    <br><br>
+                    As is true of most web sites, we gather certain information about you automatically and store it in our log files. This information may include, but is not limited to, internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and /or clickstream data. 
+                    <br><br>
+                    We may combine this automatically collected log information with other information we collect about you. We collect and use this information to improve services we offer you, to improve our marketing, analytics, or site functionality. 
+                    <br><br>
+                    We may use Local Storage (LS) such as HTML5. Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. 
+                    <br><br>
+                    If you reject cookies, you may still use the Sites, but your ability to use some features or areas of our Sites may be limited. 
+                    <br><br>
+                    We partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Sites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://www.networkadvertising.org/choices/">here</a> and following the opt-out process. Please note this does not opt you out of being served generic ads. You will continue to receive generic ads.
+                    </span></td>
+                  </tr>
+                
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><b>Mobile Analytics</b></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.</span></td>
+                  </tr>
+                </tbody></table>
+            <br>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><b>Security </b></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">The security of your personally identifiable information is important to us. When you enter sensitive information (such as a credit card number, date of birth, and/or geo-location data) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this <a href="https://www.symantec.com/page.jsp?id=how-ssl-works">link</a>.
+                    <br><br>All of our secure servers use a high-grade encryption key (AES with 128 and 256 bit secret key). While the secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time. 
+                    
+                    <br><br>
+                    If you receive browser warnings when going from secure mode pages to non-SSL pages, it is most likely a warning that you are switching servers. As long as your data is entered on a secure mode page, it will only be transmitted to a secure server. 
+                    <br><br>
+                    We follow accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. However, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. No method of transmission over the Internet, or method of electronic storage is 100% secure. We urge you to take every precaution to protect your personally identifiable information when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
+                    <br><br>If you have any questions about security on our Web site, you can send email us.
+                    </span></td>
+                  </tr>
+                
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><b>Visiting Our Website from Outside the United States </b></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg">If you are visiting our Sites from outside the United States, please be aware that your personally identifiable information and other information about you may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our Sites, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.</td>
+                  </tr>
+                
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><b>Access To Your PII </b></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at <a href="mailto:feedback@cheapoair.ca"> feedback@cheapoair.ca</a> or by contacting us by telephone or postal mail at the contact information listed below.<br> <br> We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your personally identifiable information to provide you services contact us at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a>. We will retain and use your personally identifiable information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</span></td>
+                  </tr>
+                
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><b>Public Forums </b></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><br>
+                    <span class="privacyText">Our Sites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.</span></td>
+                  </tr>
+                <tr>
+                  <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody><tr>
+                      <td width="50%" align="left"></td>
+                      <td width="50%" align="right"><a href="#top">top</a></td>
+                      </tr>
+                      </tbody></table></td>
+                  </tr>
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><strong>Children's Privacy Protection </strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">Persons under the age of 18 are not eligible to use any services on our Site.</span></td>
+                  </tr>
+                
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><strong>Opt-Out</strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form. However, we will still use your personally identifiable information to provide you with the services and products you purchased through our Site, including but not limited to sending you reservation and confirmation communications or vouchers.<br>
+                    <br>
+                    If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting us at the address below. <br>
+                    <br>
+                    You will be notified when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your personally identifiable information with that party.
+                    </span>
+                    </td></tr>
+                
+                </tbody></table>
+            
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><strong>Frame </strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">Some of our Sites utilize framing techniques to serve content from our partners while preserving the look and feel of our site. Please be aware that you are providing your personally identifiable information to these third parties and not to www.CheapOair.com. Such partners include www.CheapOairindia.com and www.travelspot.us.
+                    </span>
+                    </td></tr>
+                
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><strong>Survey </strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">We may use a third party service provider to conduct surveys, sweepstakes and contests. Such company will be prohibited from using your personally identifiable information for any purpose, other than conducting such survey, sweepstakes or contest. Except as allowed under this Privacy Policy, we will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+                    </span>
+                    </td></tr>
+                
+                </tbody></table>
+            
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><strong>Social Media Widgets </strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">Our Sites includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+                    </span>
+                    </td></tr>
+                
+                </tbody></table>
+            
+            
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
+              <tbody><tr>
+                <td bgcolor="#ffffff" class="heading"><strong>Single Sign-On </strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">You can log in to our Sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network.
+                    <br>
+                    <br>
+                    <strong>
+                      Customer Service,<br>
+                      CheapOair.ca<br>
+                      7100 Woodbine Avenue<br>
+                      Ste. 406<br>
+                      Markham, Ontario L3R 5J2<br>
+                      <a href="mailto:feedback@cheapoair.ca">Feedback@cheapoair.ca</a>
+                      
+                      </strong>
+                    </span>
                    </td></tr></tbody></table>
-                   
-                   
-                    <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>COLLECTION and USE of THIRD PARTY PERSONAL INFORMATION</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">You may also provide personal information about other people, such as their name, date of birth and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.<br>
-                  <br>
-                  </span>
-                   </td></tr></tbody></table>
-                   
-                   
-                    <br>
-            <table class="brdrGrey" cellspacing="0" cellpadding="0" width="100%" border="0">
+                <td colspan="2" class="faqTop"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td width="50%" align="left"></td>
+                    <td width="50%" align="right"><a href="#top">top</a></td>
+                    </tr>
+                    </tbody></table></td>
+                </tr>
+                </tbody></table>
+            
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="brdrGrey">
               <tbody><tr>
-                <td bgcolor="#ffffff" class="heading"><strong>GEO – LOCATION DATA</strong></td>
-              </tr>
-              <tr>
-                <td class="contentBg" valign="top"><span class="privacyText">We do not ask you for, access or track any location based information from your mobile device at any time while using our services.<br>
-                  <br>
-                 We collect your location based information for the purpose of [locating a place that you may be searching for in your area].  We will only share this information with our mapping provider for the sole purpose of providing you the service.  We may share your geo-location data with third parties for the purpose of them serving you ads for places (such as restaurants) in your area.  If you do not wish to allow us to share your information in this manner please opt-out by contacting us at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a>.<br>
-                  <br>
-                  You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a>.<br>
-                  <br>
-                  </span>
-                   
-                  
-                  
-                  
-                  
-                  
-                  <br>
-                  <br>
-                  <strong>Customer Service,<br>
-                  CheapOair.ca,<br>
-                  135 W 50th Street, Suite 500 <br>
-                  
-                  New York, NY 10020 <br>
-                  <a href="mailto:feedback@cheapoair.ca">feedback@cheapoair.ca</a></strong></td>
-              </tr>
-            </tbody></table>
+                <td bgcolor="#ffffff" class="heading"><strong>Amendments </strong></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="contentBg"><span class="privacyText">We may amend this Privacy Policy at any time. All amended terms automatically take effect as of the date this Privacy Policy is updated and published on the Sites. Your continued use of the Sites following the posting of changes to this Privacy Policy will mean that you accept those changes. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on the Sites prior to the change becoming effective.
+                    <br><br>
+                    All the terms used herein are to be interpreted as defined under our <a href="http://www.cheapoair.com/travel/travel_resources/terms.asp">Terms and Conditions</a>.
+                    </span>
+                    </td></tr>
+                
+                </tbody></table>
+            
+            
+            
             
             </td>
         </tr>
@@ -883,6 +1127,7 @@ We may combine this automatically collected log information with other informati
       </tbody></table></td>
   </tr>
 </tbody></table>
+</div>
 </div>
 
 </div><!-- End_Module_3605 --></div>
@@ -969,7 +1214,7 @@ GA_googleFillSlot("CAC_GE_OP_BTF_B_728x90_G_12Jan11");
                 <li><a href="/flights/" target="_blank">Cheap Flights</a></li>
                 <li><a href="/hotels/" target="_blank">Hotels</a></li>
                 <li><a href="/cars/" target="_blank">Car Rentals</a></li>
-				<li><a href="/staticpackages/" target="_blank">Vacation Packages</a></li>
+				<li><a href="/vacations/" target="_blank">Vacation Packages</a></li>
 				<li><a target="_blank" href="//www.cheapoair.ca/Default.aspx?tabid=7945">Group Travel</a></li>
              
                
@@ -1160,7 +1405,7 @@ Flights</a></li>
         <div id="dnn_ctr20458_ContentPane" class="Normal c_contentpane">
         <!-- Start_Module_20458 --><div id="dnn_ctr20458_ModuleContent" class="ModDNNHTMLC">
 	<div id="dnn_ctr20458_HtmlModule_lblContent">
-	<script type="text/javascript" src="http://www.cheapoair.ca/Portals/3/js/opt-js/signup-service-full.js?gcms-srv"> </script>
+	<script type="text/javascript" src="//www.cheapoair.ca/Portals/3/js/opt-js/signup-service-full.js?gcms-srv"></script>
 </div>
 
 </div><!-- End_Module_20458 --></div>
@@ -1174,9 +1419,9 @@ Flights</a></li>
         <input name="ScrollTop" type="hidden" id="ScrollTop">
         <input name="__dnnVariable" type="hidden" id="__dnnVariable">
         
-        <script type="text/javascript" src="//www.cheapoair.ca/cmshandlers/cmsresourcecombiner.ashx?gp=comm-js&amp;tabid=604&amp;rt=js&amp;gcms-srv&amp;version=2015-02-18-10-59-01"></script>
+        <script type="text/javascript" src="//www.cheapoair.ca/cmshandlers/cmsresourcecombiner.ashx?gp=comm-js&amp;tabid=604&amp;rt=js&amp;gcms-srv&amp;version=2015-08-03-08-49-45"></script>
     </form>
-     <script type="text/javascript">
+     <!--<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-20852452-1']);
@@ -1187,7 +1432,7 @@ Flights</a></li>
   })();
 
 </script>
-<script type="text/javascript" src="/js/fp-tracker-0.3.min.js?gcms-srv"></script>
+<script type="text/javascript" src="/js/fp-tracker-0.3.min.js?gcms-srv"></script>-->
 
 <!-- GTMS + Page Classification Start-->
 <script type="text/javascript">
@@ -1232,5 +1477,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <span id="spnTName" style="display:none">Privacy Policy</span>
 
   
-<!--Powered by GlobalCMS, on GCMS-1-NJ-23-80 -->
+<!--Powered by GlobalCMS, on GCMS-3-NJ-25-80 -->
 </body></html>
