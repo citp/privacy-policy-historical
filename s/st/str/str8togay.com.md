@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the str8togay.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172616id_/http%3A//str8togay.com/terms/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the str8togay.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229090029id_/http%3A//www.str8togay.com/terms/pp) for the most accurate reproduction.*
 
 # Str8 to Gay :: Privacy Policy
 
