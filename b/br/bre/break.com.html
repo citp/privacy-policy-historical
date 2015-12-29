@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the break.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623200328id_/http%3A//www.break.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the break.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229024831id_/http%3A//www.break.com/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head data-page-type="legal">
 		<title>Privacy</title>
 
+        
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KMD8Z3"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
+
 		
 		
-		<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KMD8Z3"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+		<script>
 
 
 			window.BUI = (window.BUI || {});
@@ -19,7 +22,7 @@
 				'DEEP_LINK_URL' : (''.length > 0) ? '' : 'unsupported',
 				'FB_ID' : '376604520810',
 				
-				'IS_INTERIM' : true,
+				
 				'ENV_URLS' : {
 					ADMINBREAK : 'http://admin2.break.com',
 					APIBREAKINC : 'http://api.breakinc.com',
@@ -37,11 +40,14 @@
 			};
 
 			
-				BUI.globals.experiments.push({dim : 17, expName : 'Taboola'});
+				BUI.globals.experiments.push({dim : 17, expName : 'Break'});
 				BUI.globals.experiments.push({dim : 14, expName : '4'});
 				BUI.globals.experiments.push({dim : 18, expName : 'NewNav'});
-				BUI.globals.experiments.push({dim : 19, expName : '2Preroll'});
 
+		    
+		    var expDimensionValue = window.canRunAds === undefined ? 'ad-blocked' : 'not-ad-blocked'; // canRunAds is defined in http://media5.break.com/campaigns/block-test/advertisement.js
+		    
+		    BUI.globals.experiments.push({dim : '20', expName : expDimensionValue });
 
 			BUI.swfPlayer = '//media1.break.com/break/swf/player12.swf';
 			// get the deeplink from backend (with a trick from Querystring to disable it).
@@ -70,19 +76,19 @@
 		
 
 		
-<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/layoutCssLight/062315_124607/">
+		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/layoutCssLight/121515_114921/">
 		
 		
 		
-	<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/legalCss/062315_124607/">
+	<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/legalCss/121515_114921/">
 
 		
 		
-<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/LightColorSchemeCss/062315_124607/">		
+		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/LightColorSchemeCss/121515_114921/">	
 		<script src="http://s.brkmd.com/Scripts/break/js/libs/modernizr-2.6.2-custom.min.js"></script>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/coreJsLight/062315_124607/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/coreJsLight/121515_114921/"></script>
 		
 
 		
@@ -125,14 +131,14 @@
 		</script>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutTopJs/062315_124607/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutTopJs/121515_114921/"></script>
 			
 		
 		
 
 		
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/brktrkrJs/062315_124607/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/brktrkrJs/121515_114921/"></script>
 
 		
 		
@@ -380,15 +386,44 @@
 
 		<!-- End GooglePublisherTags -->
 
-			<script src="//cdn.optimizely.com/js/1502169094.js"></script>
+		
 		<script src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
 
 
 		
 		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+		
+		
+<!-- Begin PageFair Monitor Javascript snipper -->
+<script type="text/javascript">
+	(function() {
+
+		
+
+		function async_load(script_url){
+			console.log(script_url);
+
+			var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+			var s = document.createElement('script'); s.src = protocol + script_url;
+			var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+		}
+		bm_website_code = '68ED6C24439E44E6';
+
+		
+		jQuery(document).ready(function(){
+			console.log('Ready 1');
+			async_load('asset.pagefair.com/measure.min.js')});
+		jQuery(document).ready(function(){
+			console.log('Ready 2');
+			async_load('asset.pagefair.net/ads.min.js')});
+	})();
+</script>
+<!-- End PageFair Monitor Javascript snipper -->
+
 	</head>
 	<body id="legal" class="legal">
-
+		
 <svg style="display:none">
 	<symbol id="dfy-search-icon" viewBox="0 0 32 32">
 		<path d="M31.277 27.909l-7.632-7.632c1.425-2.073 2.261-4.582 2.261-7.282 0-7.108-5.783-12.891-12.892-12.891s-12.891 5.783-12.891 12.891c0 7.108 5.783 12.891 12.891 12.891 2.701 0 5.209-0.836 7.283-2.261l7.632 7.632c0.463 0.462 1.068 0.693 1.674 0.693s1.211-0.231 1.674-0.693c0.924-0.924 0.924-2.423-0-3.347zM4.858 12.994c0-4.498 3.66-8.157 8.157-8.157s8.157 3.659 8.157 8.157-3.659 8.157-8.157 8.157c-4.498 0-8.157-3.659-8.157-8.157z"></path>
@@ -406,6 +441,7 @@
 			C30,25.48,21.689,21.814,19.463,21.461L19.463,21.461z"></path>
 	</symbol>
 </svg>
+
 
 
 		<div id="fb-root"></div>
@@ -466,7 +502,7 @@
 		<script id="tpl-brk-contact-form" type="text/template">
     <div class="ui-ContactForm--mask"></div>
     <form enctype="multipart/form-data" class="ui-ContactForm js-ContactForm"
-    action="http://api.breakmedia.com/site/feedback/submit" method="POST" target="post_target">
+    action="http://www.break.com/feedback/submit" method="POST" target="post_target">
         <div class="ui-ContactForm-frame">
 			<div class="ui-SvgIcon ui-Icon--closeCircle ui-ContactForm-closeButton js-ContactForm-close"></div>
             <h1>
@@ -533,7 +569,6 @@
 		<div id="wrap">
 			<!--[if lt IE 9]><div id="wrap-cap">&nbsp;</div><![endif]-->
 
-
 			<div id="ad-wrapper">
 				
 
@@ -584,11 +619,11 @@
 
 			<div id="container" class="clearfix ui-container">
 			
+				
 
 
 
-
-<script type="text/javascript" src="http://s.brkmd.com/combres.axd/authJs/062315_124607/"></script>
+<script type="text/javascript" src="http://s.brkmd.com/combres.axd/authJs/121515_114921/"></script>
 
 <header class="SiteNav">
 
@@ -612,60 +647,40 @@
 
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2863289" data-content-uri="http://www.break.com/video/beautiful-rugby-hardass-gets-nose-broken-2863289" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="2890649" data-content-uri="http://www.break.com/video/katy-perry-brings-out-the-worst-in-people-2890649" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/289/863/2863289/beautiful-rugby-hardass-gets-nose-broken-stays-in-to-deliver-two-more-mean-hits1_550x309.jpg" alt="Beautiful Rugby Hardass Gets Nose Broken, Stays In To Deliver Two More Mean Hits" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/649/890/2890649/so-church-got-awkward-this-weekend1_550x309.jpg" alt="So Church Got Awkward This Weekend" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Featured_1" href="http://www.break.com/video/beautiful-rugby-hardass-gets-nose-broken-2863289">Beautiful Rugby Hardass Gets Nose Broken, Stays In To Deliver Two More Mean Hits</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">18 days ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">230,390</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">10,549</span>
+				<a data-ga="Navigation:Featured_1" href="http://www.break.com/video/katy-perry-brings-out-the-worst-in-people-2890649">So Church Got Awkward This Weekend</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">3 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">188,685</span>
+				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">207</span>
 			</h1>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2863343" data-content-uri="http://www.break.com/video/this-mma-fight-seems-like-a-bad-idea-2863343" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="2888994" data-content-uri="http://www.break.com/video/diapers-may-be-the-only-thing-that-can-defeat-marine-2888994" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/343/863/2863343/this-mma-fight-seems-like-a-bad-idea1_550x309.jpg" alt="This MMA Fight Seems Like A Bad Idea" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/994/888/2888994/diapers-may-be-the-only-thing-that-can-defeat-a-marine1_550x309.jpg" alt="Diapers May Be The Only Thing That Can Defeat A Marine" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Featured_2" href="http://www.break.com/video/this-mma-fight-seems-like-a-bad-idea-2863343">This MMA Fight Seems Like A Bad Idea</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">17 days ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">366,939</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">5,804</span>
-			</h1>
-		</div>
-	</article>
-<!-- article:end -->
-
-	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2863345" data-content-uri="http://www.break.com/video/surprise-it-s-a-tire-2863345" data-title-sequence="1">
-
-        
-                    <img src="http://media11.break.com/dnet/media/345/863/2863345/suddenly-a-wild-tire-appears1_550x309.jpg" alt="Suddenly A Wild Tire Appears" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
-
-        <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
-    </div>
-
-		<div class="ui-ContentBottom">
-			<h1>
-				<a data-ga="Navigation:Featured_3" href="http://www.break.com/video/surprise-it-s-a-tire-2863345">Suddenly A Wild Tire Appears</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">17 days ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">125,077</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">1,444</span>
+				<a data-ga="Navigation:Featured_2" href="http://www.break.com/video/diapers-may-be-the-only-thing-that-can-defeat-marine-2888994">Diapers May Be The Only Thing That Can Defeat A Marine</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">3 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">57,095</span>
+				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">1</span>
 			</h1>
 		</div>
 	</article>
@@ -684,7 +699,7 @@
 	</ul>
 	<hr>
 
-	<div class="VideosNav-flyout-count"><span>634,883</span> viral videos (and counting)</div>
+	<div class="VideosNav-flyout-count"><span>365,767</span> viral videos (and counting)</div>
 	<a href="/content/surpriseme/" data-ga="Navigation:SurpriseMe" class="VideosNav-flyout-surprise">Surprise Me</a>
 </div>
 		</li>
@@ -692,69 +707,70 @@
             Original Series
 			
 <div class="SeriesNav-flyout">
+
 	<header class="SeriesNav-flyout-header">
 		<h2>Latest Episodes</h2>
 	</header>
 
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2867692" data-content-uri="http://www.break.com/video/honest-trailers-terminator-2-2867692" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="2988824" data-content-uri="http://www.break.com/video/speakeasy/constance-wu-internet-games-2988824" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/692/867/2867692/honest-trailers-terminator-21_550x309.jpg?147" alt="Honest Trailers: Terminator 2" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/824/988/2988824/constance-wu-internet-games1_550x309.png?78" alt="Constance Wu Gets Deep with Internet Games" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_1:" href="http://www.break.com/video/honest-trailers-terminator-2-2867692">Honest Trailers: Terminator 2</a>
+				<a data-ga="Navigation:Latest_1:Speakeasy" href="http://www.break.com/video/speakeasy/constance-wu-internet-games-2988824">Constance Wu Gets Deep with Internet Games</a>
 						</h1>
 			<p>
 
-			Before Terminator: Genisys hits theaters, relive the greatest Terminator fi...
+			Constance Wu sits down with Russel Peters and gives her best impromptu insp...
 			</p>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2863133" data-content-uri="http://www.break.com/video/cuts-dig-in-to-mighty-quinn-s-mega-bbq-ribs-2863133" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="2988365" data-content-uri="http://www.break.com/video/break-compilations-2591623/fresh-and-furry-breaking-videos-2988365" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/133/863/2863133/cuts-dig-in-to-mighty-quinn-s-mega-bbq-ribs1_550x309.jpg?184" alt="CUTS – Dig In to Mighty Quinn’s Mega BBQ Ribs" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/365/988/2988365/fresh-and-furry-breaking-videos1_550x309.png?6" alt="Fresh and Furry - Breaking Videos" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_2:" href="http://www.break.com/video/cuts-dig-in-to-mighty-quinn-s-mega-bbq-ribs-2863133">CUTS – Dig In to Mighty Quinn’s Mega BBQ Ribs</a>
+				<a data-ga="Navigation:Latest_2:Break Compilations" href="http://www.break.com/video/break-compilations-2591623/fresh-and-furry-breaking-videos-2988365">Fresh and Furry - Breaking Videos</a>
 						</h1>
 			<p>
 
-			More Grill Spectacular : http://bit.ly/1Hgg0Tv
+			Who knew a pug eating broccoli in slow motion could make your day? Check ou...
 			</p>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2866908" data-content-uri="http://www.break.com/video/comedian-hannibal-buress-the-next-action-hero-2866908" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="2988813" data-content-uri="http://www.break.com/video/epic-how-to-2810344/things-we-didnt-teach-you-in-2015-2988813" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/908/866/2866908/comedian-hannibal-buress-asks-why-speakeasy1_550x309.jpg?30" alt="Comedian Hannibal Buress: The Next Action Hero - Speakeasy" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/813/988/2988813/things-we-didnt-teach-you-in-2015-year-end-wrap-up-epic-how-to1_550x309.png" alt="Things We Didn't Teach You in 2015 (Year End Wrap Up!) - EPIC HOW TO " onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_3:" href="http://www.break.com/video/comedian-hannibal-buress-the-next-action-hero-2866908">Comedian Hannibal Buress: The Next Action Hero - Speakeasy</a>
+				<a data-ga="Navigation:Latest_3:Epic How To" href="http://www.break.com/video/epic-how-to-2810344/things-we-didnt-teach-you-in-2015-2988813">Things We Didn't Teach You in 2015 (Year End Wrap Up!) - EPIC HOW TO </a>
 						</h1>
 			<p>
 
-			Hannibal Buress (The Eric Andre Show, Broad City, Adult Swim, and the new s...
+			We're finally answering all of those super-weird-supervillain-esque questio...
 			</p>
 		</div>
 	</article>
@@ -870,23 +886,34 @@
 	</ul>
 	
 	<nav class="SubNav">
-					<a data-ga="Navigation:SubNav_today-for-you" href="http://www.break.com/">Today For You</a>
-					<a data-ga="Navigation:SubNav_most-popular" href="http://www.break.com/most-popular">Most Popular</a>
-					<a data-ga="Navigation:SubNav_funny" href="http://www.break.com/funny">Funny</a>
-					<a data-ga="Navigation:SubNav_heartwarming" href="http://www.break.com/heartwarming">Heartwarming</a>
-					<a data-ga="Navigation:SubNav_weird" href="http://www.break.com/weird">Weird</a>
-					<a data-ga="Navigation:SubNav_pranks-and-fails" href="http://www.break.com/pranks-and-fails">Pranks &amp; Fails</a>
-					<a data-ga="Navigation:SubNav_geeky" href="http://www.break.com/geeky">Geeky</a>
-					<a data-ga="Navigation:SubNav_animals" href="http://www.break.com/animals">Animals</a>
-					<a data-ga="Navigation:SubNav_enterainment" href="http://www.break.com/entertainment">Entertainment</a>
-					<a data-ga="Navigation:SubNav_sports" href="http://www.break.com/sports">Sports</a>
+                    <a data-ga="Navigation:SubNav_today-for-you" class="SubNavLink" href="http://www.break.com/">
+Today For You                    </a>
+                    <a data-ga="Navigation:" class="SubNavLink" href="http://sites.break.com/prank-it-fwd/?utm_source=funbar&amp;utm_campaign=PIF">
+                            <img src="http://s.brkmd.com/content/break/img/misc/prank-it-fwd.png" alt="Prank It Fwd" class="SubNavLink-thumb">                    </a>
+                    <a data-ga="Navigation:SubNav_most-popular" class="SubNavLink" href="http://www.break.com/most-popular">
+Most Popular                    </a>
+                    <a data-ga="Navigation:SubNav_funny" class="SubNavLink" href="http://www.break.com/360fly">
+360fly                    </a>
+                    <a data-ga="Navigation:SubNav_heartwarming" class="SubNavLink" href="http://www.break.com/heartwarming">
+Heartwarming                    </a>
+                    <a data-ga="Navigation:SubNav_weird" class="SubNavLink" href="http://www.break.com/weird">
+Weird                    </a>
+                    <a data-ga="Navigation:SubNav_pranks-and-fails" class="SubNavLink" href="http://www.break.com/pranks-and-fails">
+Pranks &amp; Fails                    </a>
+                    <a data-ga="Navigation:SubNav_geeky" class="SubNavLink" href="http://www.break.com/geeky">
+Geeky                    </a>
+                    <a data-ga="Navigation:SubNav_animals" class="SubNavLink" href="http://www.break.com/animals">
+Animals                    </a>
+                    <a data-ga="Navigation:SubNav_enterainment" class="SubNavLink" href="http://www.break.com/entertainment">
+Entertainment                    </a>
 		<div class="SubNav-moreTab">
 			More
 			<div class="SubNav-moreMenu">
 				<div class="SubNav-moreContent">
 					<div class="SubNav-MoreChannels">
+								<a class="SubNav-MoreChannels--extra" data-ga="Navigation:SubNav_animals" href="http://www.break.com/animals">Animals</a>
 								<a class="SubNav-MoreChannels--extra" data-ga="Navigation:SubNav_enterainment" href="http://www.break.com/entertainment">Entertainment</a>
-								<a class="SubNav-MoreChannels--extra" data-ga="Navigation:SubNav_sports" href="http://www.break.com/sports">Sports</a>
+								<a data-ga="Navigation:SubNav_sports" href="http://www.break.com/sports">Sports</a>
 								<a data-ga="Navigation:SubNav_saucy" href="http://www.break.com/saucy">Saucy</a>
 					</div>
 					<a data-ga="Navigation:SubNav_just-submitted" href="/videos/newest/just-submitted/">Just Submitted</a>
@@ -902,7 +929,7 @@
 		</form>
 	</div>	
 </header>
-				
+
 				
 
 
@@ -1196,7 +1223,7 @@
 	</div>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutBottomJsLight/062315_124607/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutBottomJsLight/121515_114921/"></script>
 
 		
 		
@@ -1327,7 +1354,7 @@
 			</div>
 		</script>
 
-		<!-- 2015-06-23 13:09 APP01 -->
+		<!-- 2015-12-28 18:48 APP07 -->
 		
 		<script type="text/javascript">
 			var _sf_async_config={};
@@ -1354,8 +1381,6 @@
 		</script>
 		
 		<img src="http://mtvn.demdex.net/event?d_sid=1741899" style="position:absolute;width:0;height:0">
-		
-		
 		
 		
 		
@@ -1388,6 +1413,6 @@
 </footer>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/contactFormJs/062315_124607/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/contactFormJs/121515_114921/"></script>
 	
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
