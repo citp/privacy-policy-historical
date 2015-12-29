@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the placesyoullsee.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145809id_/http%3A//www.placesyoullsee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placesyoullsee.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229184215id_/http%3A//www.placesyoullsee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and Cookie Policy
 
 We have created this privacy statement for http://www.placesyoullsee.com/ in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with http://www.placesyoullsee.com/. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
