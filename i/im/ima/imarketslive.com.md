@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419050951id_/http%3A//www.imarketslive.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229162631id_/http%3A//imarketslive.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
 
-# International Markets Live Inc. - Privacy Policy - iMarketsLive
+# - Privacy Policy - iMarketsLive
 
 **1.** International Markets Live, Inc. is the only operator collecting or maintaining personal information through the www.imarketslive.com website.
 
  **2.** A member (any visitor or other person making use of the website) may contact www.imarketslive.com using the following information:
 
 International Markets Live, Inc.  
-1271 Avenue of the Americas   
-Suite 4300  
-New York NY 10020  
+45 Rockefeller Plaza   
+Suite 2000  
+New York, NY 10111  
 United States  
 Email: info@imarketslive.com  
 Fax: 888-702-6441
@@ -33,8 +33,8 @@ Fax: 888-702-6441
 **2.** Personal information collected from members is not disclosed to third parties, except companies with which the web site is affiliated by common ownership. The site may retain third parties to review certain personal information to advise it on demographic and marketing related issues, typically on an aggregated basis, and only after such third parties have agreed to maintain the confidentiality, security, and integrity of any personal information obtained.  
  ****  
  **International Markets Live, Inc.**  
-1271 Avenue of the Americas   
-Suite 4300  
-New York NY 10020  
+45 Rockefeller Plaza   
+Suite 2000  
+New York, NY 10111  
 United States  
 Email: info@imarketslive.com
