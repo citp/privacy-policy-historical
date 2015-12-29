@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the intellicast.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630001952id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intellicast.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229040548id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head id="ctl00_ctl00_Head1"><script async="" src="http://ad.crwdcntrl.net/5/c=2215/pe=y/callback=jQuery110205035677514480115_1580351371555"></script><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
+<!DOCTYPE html><html class="no-js" lang="en"><head id="ctl00_ctl00_Head1"><script async="" src="http://ad.crwdcntrl.net/5/c=2215/pe=y/callback=jQuery110207151120716362698_1580351374184"></script><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Intellicast - Privacy Policy
 </title><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="Intellicast.com: The Authority in Expert Weather"><meta name="google-site-verification" content="Ty8E9HwyYpwnoH6SWxOoDkwWIpfXZbnXYxSKIJKinLw"><meta name="google-site-verification" content="OwqzWim3JgPf7WONV8sYyMir93oTT-JmWDKQW-IApCI"><meta name="verify-v1" content="bwhh8UmywoDXIeujVrNoVWPt5FmUdjfYgs0MgjMjouc="><meta name="msvalidate.01" content="2625493FFF704B18B25610DED3DC742E"><meta name="y_key" content="66d7db7fca59b234"><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.intellicast.com&quot; on &quot;1998.08.31T21:19-0800&quot; r (n 0 s 0 v 0 l 0))&quot;"><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="expires" content="0"><meta http-equiv="pragma" content="no-cache"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="http://images.intellicast.com/Styles/normalize.rexive.css" rel="stylesheet"><link href="http://images.intellicast.com/Styles/main_20150522.css" rel="stylesheet"><link href="http://images.intellicast.com/Styles/Stylesheet_20131220.css" rel="stylesheet">
   
@@ -16,14 +16,14 @@
   </script>
   <script type="text/javascript">
     // set global locationId
-    var locationId = '';
+    var locationId = 'USWA0395';
 	</script>
 
 	<!-- BEGIN New Ads -->
 	<script src="/Scripts/Vendor/twc-jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="http://d.imwx.com/services/pco"></script>
-  <script type="text/javascript" src="http://images.intellicast.com/Scripts/ads_20150217.js"></script>
-	<script type="text/javascript" src="http://d.imwx.com/managedfe/js/TWC/util/a21_dfpp.js"></script>
+	<script type="text/javascript" src="https://d.imwx.com/services/pco"></script>
+  <script type="text/javascript" src="http://images.intellicast.com/Scripts/ads_20150714.js"></script>
+  <script type="text/javascript" src="http://images.intellicast.com/Scripts/a21_dfpp.js"></script>
 	
 	
 
@@ -37,7 +37,7 @@
     var crtg_url = location.protocol + '//rtax.criteo.com/delivery/rta/rta.js?netId=' + escape(crtg_nid); crtg_url += '&cookieName=' + escape(crtg_cookiename); crtg_url += '&rnd=' + crtg_rnd; crtg_url += '&varName=' + escape(crtg_varname);
     var crtg_script = document.createElement('script'); crtg_script.type = 'text/javascript'; crtg_script.src = crtg_url; crtg_script.async = true;
     if (document.getElementsByTagName("head").length > 0) document.getElementsByTagName("head")[0].appendChild(crtg_script); else if (document.getElementsByTagName("body").length > 0) document.getElementsByTagName("body")[0].appendChild(crtg_script);
-  </script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2305&amp;cookieName=cto_weather&amp;rnd=90313807252&amp;varName=crtg_content" async=""></script>
+  </script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2305&amp;cookieName=cto_weather&amp;rnd=45228010655&amp;varName=crtg_content" async=""></script>
   <!-- END Criteo/WxEffects -->
 
   <!-- BEGIN Wxfx -->
@@ -49,7 +49,7 @@
   <script async="" src="http://tags.crwdcntrl.net/c/2215/cc.js?ns=_cc2215" id="LOTCC_2215"></script>
   <script>
     (function ($) {
-	    $(document).ready(function () {
+      $(document).ready(function () {
 		    var url1 = 'http://ad.crwdcntrl.net/5/c=2215/pe=y/callback=?';
 		    $.ajax({
 			    url: url1,
@@ -58,15 +58,18 @@
 			    type: 'GET',
 			    timeout: 5000,
 			    success: function (data) {
+			      var ids = getTWCIds();
+			      TWC.pco = TWC.initpco(jQuery, null, ids.pageId, "default", ids.siteId, locationId);
 				    if (TWC.pco.get('user.lotame') == null || typeof (TWC.pco.get('user.lotame')) == "undefined") {
 					    TWC.pco.setUser('lotame', {});
 				    }
 				    var lot_tpid, lot_abbr, lot_id, lotame;
 				    lotame = TWC.pco.get('user.lotame');
+				    lot_id = lotame.lot_id;
+				    lotame.lot_tpid = data && data.Profile && data.Profile.tpid;
+				    lotame.lot_pid = data && data.Profile && data.Profile.pid;
 				    lot_tpid = lotame.lot_tpid;
 				    lot_abbr = lotame.lot_abbr;
-				    lot_id = lotame.lot_id;
-				    lotame.lot_tpid = data.Profile.tpid;
 				    var audienceLength = data.Profile.Audiences.Audience.length;
 				    if (audienceLength > 0) {
 					    lot_abbr = '';
@@ -225,7 +228,15 @@
     (function () {
       var _recentLocations = [];
       
-      _recentLocations.push(1);
+      _recentLocations.push(5);
+      
+      _recentLocations.push("USWA0395");
+      
+      _recentLocations.push("USNV0049");
+      
+      _recentLocations.push("USPA1290");
+      
+      _recentLocations.push("USMI0229");
       
       _recentLocations = _recentLocations.join();
 
@@ -236,9 +247,9 @@
       }
       s.pageName = document.title;
       s.prop2 = s.evar4 = _brdcrmb.join(" > "); // sub section e.g. home > maps > regionmap
-      s.prop6 = s.evar6 = "::"; // city:state:country
-      s.prop8 = s.evar8 = ""; // dma id
-      s.prop9 = s.evar9 = ""; // zip code    
+      s.prop6 = s.evar6 = "Seattle:WA:US"; // city:state:country
+      s.prop8 = s.evar8 = "98101"; // dma id
+      s.prop9 = s.evar9 = "98158"; // zip code    
       s.evar23 = ""; // marketing campaigns
       s.evar24 = window.location.href; // full url
       //SiteCatalyst Beacon Parameter: event15 Page View Event
@@ -355,7 +366,7 @@
                 <li><a href="/Local/WxMap.aspx">Interactive Weather Map</a></li>
 								<li><a href="/Marine/Boating.aspx">Interactive Boating Map</a></li>
 								<li><a href="/Local/WxMapSm.aspx">Interactive Map (Small)</a></li>
-								<li><a href="/Local/MapFeedback.aspx">Map Feedback</a></li>
+								
 							</ul>
 						</li>
 						<li><a href="/National/Default.aspx" class="toggle-btn">National</a>
@@ -588,7 +599,7 @@
 								</li>
 								<li><a href="/Travel/Weather/Snow/Default.aspx">Ski &amp; Snow<i class="caret"></i></a>
 									<ul>
-										<li><a href="javascript:internalPageLink('/Local/WxMap.aspx?latitude=39&amp;longitude=-97&amp;zoomLevel=4&amp;opacity=1&amp;basemap=0014&amp;layers=0053');">Interactive Snow Cover</a></li>
+										<li><a href="javascript:internalPageLink('/Local/WxMap.aspx?latitude=47.6&amp;longitude=-122.32&amp;zoomLevel=8&amp;opacity=1&amp;basemap=0014&amp;layers=0053');">Interactive Snow Cover</a></li>
 										<li><a href="/Travel/Weather/Snow/Ski.aspx">Ski Conditions</a></li>
 										<li><a href="/Travel/Weather/Snow/Cover.aspx">Snow Cover</a></li>
 										<li><a href="/Travel/Weather/Snow/SNOWcast.aspx">SNOWcast</a></li>
@@ -672,13 +683,26 @@
 			<div class="container">
 				<div class="row">
 					<div class="user-location">
-						<a class="current-location toggle-btn" href="/Local/Weather.aspx?location=">
-							
+						<a class="current-location toggle-btn" href="/Local/Weather.aspx?location=USWA0395">
+							<span id="recentTemp"></span>Seattle, Washington<i class="caret"></i>
 						</a>
+						
+						<ul class="recent-locations">
+							<li class="header">Recent Locations</li> 
+							
+									<li><a href="/Local/Weather.aspx?location=USWA0395">Seattle, Washington</a></li>
+							
+									<li><a href="/Local/Weather.aspx?location=USNV0049">Las Vegas, Nevada</a></li>
+							
+									<li><a href="/Local/Weather.aspx?location=USPA1290">Pittsburgh, Pennsylvania</a></li>
+							
+									<li><a href="/Local/Weather.aspx?location=USMI0229">Detroit, Michigan</a></li>
+							
+						</ul>
 						
 					</div>
 					<div class="uni-time">
-						<strong>Universal Time:</strong>&nbsp;Tuesday, 30 Jun 2015, 00:19 
+						<strong>Universal Time:</strong>&nbsp;Tuesday, 29 Dec 2015, 04:05 
 					</div>
 				</div>
 			</div>
@@ -714,9 +738,14 @@
 
 	<div class="main container clearfix" id="content">
 		<form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RkZgTamtOCs4HE0lnb+ntGbDxiksQ=">
+</div>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="337EF9BA">
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="337EF9BA">
+</div>
 			
 <div style="clear:both;width:1000px;">
 <div id="leftColumn">
@@ -944,7 +973,7 @@ Andover, MA  01810<br>
 			<div class="help-links">
 				<div class="container">
 					<a href="/About/Default.aspx">About Us</a>
-					<a href="http://advertising.weather.com/contact/" target="_blank">Advertise with Us</a>
+					<a href="https://advertising.weather.com/contact/" target="_blank">Advertise with Us</a>
 					<a href="/About/Contact.aspx">Contact Us</a>
 					<a href="/Members/Default.aspx">Account</a>
 					<a href="/Help/Default.aspx">Help</a>
@@ -960,7 +989,7 @@ Andover, MA  01810<br>
 					<span>Partnered with <a href="http://www.wunderground.com" target="_blank">Weather Underground</a></span>
 					<span>Version 4.6.201311.1</span>
 				</div>
-				<!-- MACHINE NAME: ICAST-WEB1 -->
+				<!-- MACHINE NAME: ICAST-WEB4 -->
 			</div>
 		</footer>
 	
@@ -971,14 +1000,14 @@ Andover, MA  01810<br>
 	  pageTracker._trackPageview();
 	</script>
 	
-	<script type="text/javascript" src="http://tags.crwdcntrl.net/c/2217/cc.js?ns=_cc2217" id="LOTCC_2217"></script>
-	<script type="text/javascript" src="http://images.intellicast.com/Scripts/cc_wrapper_20130215.js"></script>
+	
+  <script type="text/javascript" src="http://images.intellicast.com/Scripts/cc_wrapper_20150811.js"></script>
 	<script type="text/javascript" src="http://images.intellicast.com/Scripts/core_20150225.js"></script>
   
   <script>
     var cod = {
-      latitude: '0',
-      longitude: '0',
+      latitude: '47.6',
+      longitude: '-122.32',
       unit: 'F'
     };
   </script>
