@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628210838id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229043145id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js supports-svg"><head>
     <title>Privacy Policy and Legal Information - Lonely Planet</title>
@@ -22,7 +22,7 @@ Lonely Planet Travel Guides and Travel Information
 <link href="https://www.lonelyplanet.com/favicon.ico" rel="icon" type="image/x-icon">
 <meta content="width=1024" name="viewport">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="jXfFZeOSr1YSs3eHRiRs+4S5vlRubZpjkSJeT1wL9jM=" name="csrf-token">
+<meta content="7G0jw2UVvB+HCV5vi7rJSyJsZ3B8KML+A1teYmB9O2A=" name="csrf-token">
 <!--[if lt IE 9]>
 <script>
   document.createElement('header');
@@ -46,6 +46,9 @@ Lonely Planet Travel Guides and Travel Information
   window.lp.tracking = window.lp.tracking || {};
   window.lp.supports = window.lp.supports || {};
   
+  // Setting up Adblock checker
+  window.lp.isAdblockActive = true;
+  
   // Allow apps to pass in requirejs configuration
   window.lp.require = {
     paths: {},
@@ -53,6 +56,7 @@ Lonely Planet Travel Guides and Travel Information
   }
   
   window.lp.analytics = window.lp.analytics || {
+    utag_data: {},
     dataLayer: {},
     eventBuffer: [],
     api: {
@@ -79,10 +83,11 @@ Lonely Planet Travel Guides and Travel Information
   }());
   
   window.lp.supports.woff2 = (function(){
-    if(!( "FontFace" in window)) { return false }
+    if (typeof window.FontFace != "function") return false;
   
     var f = new window.FontFace("t", 'url( "data:application/font-woff2," ) format( "woff2" )');
-    f.load();
+  
+    f.load().catch(function() {});
     return f.status == 'loading';
   }());
   
@@ -107,6 +112,10 @@ Lonely Planet Travel Guides and Travel Information
   };
 </script>
 
+<script>
+  // Alias for utag_data required by Tealium
+  window.utag_data = window.lp.analytics.utag_data;
+</script>
 <script>
   /*
   loadCSS: load a CSS file asynchronously.
@@ -163,17 +172,24 @@ Lonely Planet Travel Guides and Travel Information
 <script>
 
   // Allow DFP tracking
-  (function(){
-    function retrieve(n){
-      var m, k='kx'+n;
-      if (window.localStorage) {
-        return window.localStorage[k] || "";
-      }
-      return window.lp.getCookie(n) || "";
-    };
-    Krux.user = retrieve('user');
-    Krux.segments = retrieve('segs')  &&  retrieve('segs').split(',') ||  [];
-  })();
+  window.Krux||((Krux=function()
+    {Krux.q.push(arguments);}).q=[]);
+     (function(){
+     function retrieve(n){
+     var m, k='kx'+n;
+     if(window.localStorage){
+     return window.localStorage[k] || "";
+     }else if(navigator.cookieEnabled){
+     m = document.cookie.match(k+'=([^;]*)');
+     return (m && unescape(m[1])) || "";
+     }else{
+     return '';
+     }
+     }
+     Krux.user = retrieve('user');
+     Krux.segments = retrieve('segs') &&
+    retrieve('segs').split(',') || [];
+     })();
 
 </script>
 
@@ -209,7 +225,7 @@ var crtg_script=document.createElement('script');crtg_script.type='text/javascri
 if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
 else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
 })();
-</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=4008&amp;cookieName=crtg_lonely&amp;rnd=24464848809&amp;varName=crtg_content" async=""></script>
+</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=4008&amp;cookieName=crtg_lonely&amp;rnd=12487836476&amp;varName=crtg_content" async=""></script>
 
 <script type="text/javascript">
     var googletag = googletag || {};
@@ -222,10 +238,7 @@ else if(document.getElementsByTagName("body").length>0)document.getElementsByTag
     }
 </script>
 
-<script type="text/javascript">
-var crtg_split = crtg_content.split(';');
-for (var i=1;i<crtg_split.length;i++){ googletag.pubads().setTargeting ("" + (crtg_split[i-1].split('='))[0] + "", "" + (crtg_split[i-1].split('='))[1] + "");}
-</script>
+<script type="text/javascript" src="//a.postrelease.com/serve/load.js?async=true"></script>
 
 <script>
   // Google analytics
@@ -267,7 +280,7 @@ for (var i=1;i<crtg_split.length;i++){ googletag.pubads().setTargeting ("" + (cr
   (function() {
     var docElement = document.documentElement,
         activePath = "//assets.staticlp.com/assets/icons/active-572f9eefa63f9a373fdc42fcca914e6a.css",
-        criticalPath = "//assets.staticlp.com/assets/icons/critical-f76db27ce2f21b01c01a51a6c603c56b.css";
+        criticalPath = "//assets.staticlp.com/assets/icons/critical-991f9f786871bce50b983ccaa7adc9e5.css";
   
     function supportsSVG() {
       var hasBgSize = ("background-size" in docElement.style || "backgroundSize" in docElement.style),
@@ -290,7 +303,7 @@ for (var i=1;i<crtg_split.length;i++){ googletag.pubads().setTargeting ("" + (cr
   }());
 </script>
 <noscript>
-<link href='//assets.staticlp.com/assets/icons/critical-f76db27ce2f21b01c01a51a6c603c56b.css' rel='stylesheet'>
+<link href='//assets.staticlp.com/assets/icons/critical-991f9f786871bce50b983ccaa7adc9e5.css' rel='stylesheet'>
 </noscript>
 
 <script>
@@ -345,7 +358,7 @@ for (var i=1;i<crtg_split.length;i++){ googletag.pubads().setTargeting ("" + (cr
   }
 </script>
 
-<!--[if (gt IE 8) | (IEMobile)]><!--><link href="//assets.staticlp.com/assets/core_legacy-88b34da33f35385f0381b1faf2e6adfd.css" media="all" rel="stylesheet"><!--<![endif]--><!--[if (lt IE 9) & (!IEMobile)]><link href="//assets.staticlp.com/assets/core_legacy_ie-9c46dd92704bab2eea428d86b3855e71.css" media="all" rel="stylesheet" /><![endif]-->
+<!--[if (gt IE 8) | (IEMobile)]><!--><link href="//assets.staticlp.com/assets/core_legacy-31975c5658253e5037703c744b1b8b7b.css" media="all" rel="stylesheet"><!--<![endif]--><!--[if (lt IE 9) & (!IEMobile)]><link href="//assets.staticlp.com/assets/core_legacy_ie-a3136f431cf18780bd8d3721a93f60c0.css" media="all" rel="stylesheet" /><![endif]-->
 <link href="http://static.lonelyplanet.com/static-ui/style/app-core-legacy.css" media="screen,projection" rel="stylesheet">
 
 
@@ -450,50 +463,49 @@ Sign in</div></a>
 </div>
 <div class='js-user-signed-in-template'>
 <div class='nav__item nav__item--user nav__submenu__trigger js-user-signed-in'>
-<img class='nav__item--user-avatar js-user-avatar' data-src='{{avatar}}'>
-<span class='notification-badge notification-badge--unread-messages wv--inline-block is-hidden js-unread-feed-count'>0</span>
+<img alt='{{username}}' class='nav__item--user-avatar js-user-avatar' data-src='{{avatar}}' title=''>
 <span class='wv--hidden nav--offscreen__title'>{{username}}</span>
 <div class='user-feed nav__submenu js-user-feed'>
-<div class='user-feed__container nav--stacked nav__submenu__content icon--tapered-arrow-up--after icon--white--after icon--white--bordered'>
-<div class='user-feed__header js-user-feed-header'>
+<div class='user-feed__container nav--stacked nav__submenu__content icon--tapered-arrow-up--after icon--white--after icon--white--bordered' title=''>
+<div class='user-feed__header'>
 <div class='user-feed__username'>{{username}}</div>
 <div class='user-feed__email'>{{email}}</div>
 <div class='user-feed__buttons'>
-<a class='split--right icon--settings icon--body-grey js-user-settings' href='https://www.lonelyplanet.com/thorntree/forums/settings'></a>
+<a class='split--right icon--settings icon--body-grey' href='https://www.lonelyplanet.com/thorntree/forums/settings' title='Forum settings'></a>
 <div class='grid-wrapper--10'>
 <div class='col--one-half'>
-<a class='btn btn--linkblue btn--small btn--full-width js-user-profile' href='https://www.lonelyplanet.com/thorntree/profiles/{{profileSlug}}'>View Profile</a>
+<a class='btn btn--linkblue btn--small btn--full-width' href='https://www.lonelyplanet.com/thorntree/profiles/{{profileSlug}}'>View Profile</a>
 </div>
 <div class='col--one-half'>
-<a class='btn btn--linkblue btn--small btn--outline btn--full-width js-user-sign_out' href='https://auth.lonelyplanet.com/users/sign_out'>Sign Out</a>
+<a class='btn btn--linkblue btn--small btn--outline btn--full-width' href='https://auth.lonelyplanet.com/users/sign_out'>Sign Out</a>
 </div>
 </div>
 </div>
 </div>
-<div class='user-feed__content js-user-feed-content'>
+<div class='user-feed__content is-hidden'>
 <div class='nav__tabs'>
 <div class='grid-wrapper--0'>
 <div class='col--one-half'>
-<a class='btn btn--large btn--white nav__tabs__btn js-tab-trigger is-active' href='#js-user-feed-activities-list'>
+<a class='btn btn--large btn--white nav__tabs__btn js-tab-trigger is-active' href='#user-feed-activities'>
 Recent activity
-<span class='user-feed__content__unread-count js-unread-activities-count'></span>
+<span class='user-feed__content__unread-counter js-user-feed__activities__unread-counter'></span>
 </a>
 </div>
 <div class='col--one-half'>
-<a class='btn btn--large btn--white nav__tabs__btn js-tab-trigger' href='#js-user-feed-messages-list'>
+<a class='btn btn--large btn--white nav__tabs__btn js-tab-trigger' href='#user-feed-messages'>
 Messages
-<span class='user-feed__content__unread-count js-unread-messages-count'></span>
+<span class='user-feed__content__unread-counter js-user-feed__messages__unread-counter'></span>
 </a>
 </div>
 </div>
 </div>
 <div class='nav__tabs__content js-tabs-content'>
-<ul class='user-feed__list is-active' id='js-user-feed-activities-list'>
+<ul class='user-feed__activities user-feed__list js-user-feed__activities is-active' id='user-feed-activities'>
 <li class='activity-list__item--empty'>You have no recent activity.</li>
 </ul>
-<ul class='user-feed__list' id='js-user-feed-messages-list'>
+<ul class='user-feed__messages user-feed__list js-user-feed__messages' id='user-feed-messages'>
 <li class='activity-list__item--empty'>You have no private messages.</li>
-<li class='user-feed__footer user-feed__buttons js-user-feed-footer is-hidden'>
+<li class='user-feed__footer user-feed__buttons js-user-feed__messages__footer is-hidden'>
 <a class='btn btn--linkblue btn--full-width' href='https://www.lonelyplanet.com/thorntree/profiles/{{profileSlug}}/messages'>See all messages</a>
 </li>
 </ul>
@@ -509,7 +521,7 @@ My profile</div></a>
 <a class='js-nav-item nav__item nav__item--primary' href='https://www.lonelyplanet.com/thorntree/forums/settings' itemprop='url'><div class='nav__icon icon--settings--before icon--white--before wv--hidden--before nav__submenu__item__text' itemprop='name'>
 Settings</div></a>
 
-<a class='js-nav-item js-responsive-messages nav__item nav__item--primary' href='https://www.lonelyplanet.com/thorntree/profiles/{{profileSlug}}/messages' itemprop='url'><div class='nav__icon icon--envelope--before icon--white--before wv--hidden--before nav__submenu__item__text' itemprop='name'>
+<a class='js-nav-item nav__item nav__item--primary' href='https://www.lonelyplanet.com/thorntree/profiles/{{profileSlug}}/messages' itemprop='url'><div class='nav__icon icon--envelope--before icon--white--before js-user-feed__messages__unread-counter wv--hidden--before nav__submenu__item__text' itemprop='name'>
 Messages</div></a>
 
 <a class='js-nav-item nav__item nav__item--primary' href='https://www.lonelyplanet.com/thorntree/profiles/{{profileSlug}}/activities' itemprop='url'><div class='nav__icon icon--comment--before icon--white--before wv--hidden--before nav__submenu__item__text' itemprop='name'>
@@ -537,43 +549,43 @@ My account</div></a>
 <nav aria-label="Global navigation" class="wv--nav--inline nav--primary" id="js-nav--primary" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
 <h6 class="accessibility">Global navigation</h6>
 <div class="nav__submenu__trigger nav__item nav__item--primary">
-<a class="js-nav-item nav__item" href="http://www.lonelyplanet.com/places" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item" data-lpa-action="Destinations" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/places" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
 Destinations</div></a>
 <div class="nav__submenu">
 <div class="nav--stacked nav__submenu__content js-submenu icon--tapered-arrow-up--after icon--white--after">
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/best-in-travel" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Best in travel" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/best-in-travel" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Best in travel<span class="badge--pink nav__item__badge">
 Featured</span>
 </div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/africa" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Africa" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/africa" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Africa</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/antarctica" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Antarctica" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/antarctica-1007062" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Antarctica</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/asia" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Asia" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/asia" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Asia</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/caribbean" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Caribbean" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/caribbean" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Caribbean</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/central-america" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Central America" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/central-america" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Central America</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/europe" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Europe" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/europe" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Europe</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/middle-east" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Middle East" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/middle-east" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Middle East</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/north-america" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="North America" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/north-america" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 North America</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/pacific" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Pacific" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/pacific" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 Pacific</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/south-america" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="South America" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/south-america" itemprop="url"><div class=" nav__submenu__item__text" itemprop="name">
 South America</div></a>
 
 <div class="nav__submenu__button">
@@ -587,41 +599,41 @@ View countries
 
 </div>
 <div class="nav__submenu__trigger nav__item nav__item--primary">
-<a class="js-nav-item nav__item" href="http://www.lonelyplanet.com/inspiration" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item" data-lpa-action="Inspiration" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/inspiration" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
 Inspiration</div></a>
 <div class="nav__submenu">
 <div class="nav--stacked nav__submenu__content js-submenu icon--tapered-arrow-up--after icon--white--after">
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/adventure-travel" itemprop="url"><div class="nav__icon icon--adventure-travel--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Adventure travel" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/adventure-travel" itemprop="url"><div class="nav__icon icon--adventure-travel--before  nav__submenu__item__text" itemprop="name">
 Adventure travel</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/beaches" itemprop="url"><div class="nav__icon icon--beaches--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Beaches" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/beaches" itemprop="url"><div class="nav__icon icon--beaches--before  nav__submenu__item__text" itemprop="name">
 Beaches</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/budget-travel" itemprop="url"><div class="nav__icon icon--budget-travel--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Budget travel" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/budget-travel" itemprop="url"><div class="nav__icon icon--budget-travel--before  nav__submenu__item__text" itemprop="name">
 Budget travel</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/coasts-and-islands" itemprop="url"><div class="nav__icon icon--coasts-and-islands--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Coasts and islands" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/coasts-and-islands" itemprop="url"><div class="nav__icon icon--coasts-and-islands--before  nav__submenu__item__text" itemprop="name">
 Coasts and islands</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/family-travel" itemprop="url"><div class="nav__icon icon--family-travel--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Family travel" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/family-travel" itemprop="url"><div class="nav__icon icon--family-travel--before  nav__submenu__item__text" itemprop="name">
 Family travel</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/festivals-and-events" itemprop="url"><div class="nav__icon icon--festivals-and-events--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Festivals and events" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/festivals-and-events" itemprop="url"><div class="nav__icon icon--festivals-and-events--before  nav__submenu__item__text" itemprop="name">
 Festivals and events</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/food-and-drink" itemprop="url"><div class="nav__icon icon--food-and-drink--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Food and drink" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/food-and-drink" itemprop="url"><div class="nav__icon icon--food-and-drink--before  nav__submenu__item__text" itemprop="name">
 Food and drink</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/honeymoons-and-romance" itemprop="url"><div class="nav__icon icon--honeymoons-and-romance--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Honeymoons and romance" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/honeymoons-and-romance" itemprop="url"><div class="nav__icon icon--honeymoons-and-romance--before  nav__submenu__item__text" itemprop="name">
 Honeymoons and romance</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/luxury-travel" itemprop="url"><div class="nav__icon icon--luxury-travel--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Luxury travel" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/luxury-travel" itemprop="url"><div class="nav__icon icon--luxury-travel--before  nav__submenu__item__text" itemprop="name">
 Luxury travel</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/round-the-world-travel" itemprop="url"><div class="nav__icon icon--round-the-world-travel--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Round the world travel" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/round-the-world-travel" itemprop="url"><div class="nav__icon icon--round-the-world-travel--before  nav__submenu__item__text" itemprop="name">
 Round the world travel</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/wildlife-and-nature" itemprop="url"><div class="nav__icon icon--wildlife-and-nature--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Wildlife and nature" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/wildlife-and-nature" itemprop="url"><div class="nav__icon icon--wildlife-and-nature--before  nav__submenu__item__text" itemprop="name">
 Wildlife and nature</div></a>
 
 </div>
@@ -629,33 +641,33 @@ Wildlife and nature</div></a>
 
 
 </div>
-<a class="js-nav-item nav__item nav__item--primary" href="http://shop.lonelyplanet.com" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__item--primary" data-lpa-action="Shop" data-lpa-category="Global Navigation Click" href="http://shop.lonelyplanet.com" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
 Shop</div></a>
 
-<a class="js-nav-item nav__item nav__item--primary" href="http://www.lonelyplanet.com/thorntree" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__item--primary" data-lpa-action="Thorn Tree Forum" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/thorntree" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
 Thorn Tree Forum</div></a>
 
 <div class="nav__submenu__trigger nav__item nav__item--primary">
-<a class="js-nav-item nav__item" href="http://www.lonelyplanet.com/bookings/" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item" data-lpa-action="Bookings" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/bookings/" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
 Bookings</div></a>
 <div class="nav__submenu">
 <div class="nav--stacked nav__submenu__content js-submenu icon--tapered-arrow-up--after icon--white--after">
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/hotels" itemprop="url"><div class="nav__icon icon--hotel--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Hotels" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/hotels" itemprop="url"><div class="nav__icon icon--hotel--before  nav__submenu__item__text" itemprop="name">
 Hotels</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/flights/" itemprop="url"><div class="nav__icon icon--flights--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Flights" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/flights/" itemprop="url"><div class="nav__icon icon--flights--before  nav__submenu__item__text" itemprop="name">
 Flights</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/car-rental/" itemprop="url"><div class="nav__icon icon--car--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Car rental" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/car-rental/" itemprop="url"><div class="nav__icon icon--car--before  nav__submenu__item__text" itemprop="name">
 Car rental</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/adventure-tours/" itemprop="url"><div class="nav__icon icon--tour--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Adventure tours" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/adventure-tours/" itemprop="url"><div class="nav__icon icon--tour--before  nav__submenu__item__text" itemprop="name">
 Adventure tours</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/sightseeing-tours/" itemprop="url"><div class="nav__icon icon--activity--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Sightseeing tours" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/sightseeing-tours/" itemprop="url"><div class="nav__icon icon--activity--before  nav__submenu__item__text" itemprop="name">
 Sightseeing tours</div></a>
 
-<a class="js-nav-item nav__item nav__submenu__item" href="http://www.lonelyplanet.com/airport-transfers/" itemprop="url"><div class="nav__icon icon--transfers--before  nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__submenu__item" data-lpa-action="Airport transfers" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/airport-transfers/" itemprop="url"><div class="nav__icon icon--transfers--before  nav__submenu__item__text" itemprop="name">
 Airport transfers</div></a>
 
 </div>
@@ -663,7 +675,7 @@ Airport transfers</div></a>
 
 
 </div>
-<a class="js-nav-item nav__item nav__item--primary" href="http://www.lonelyplanet.com/travel-insurance" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
+<a class="js-nav-item nav__item nav__item--primary" data-lpa-action="Insurance" data-lpa-category="Global Navigation Click" href="http://www.lonelyplanet.com/travel-insurance" itemprop="url"><div class="wv--hidden--before nav__submenu__item__text" itemprop="name">
 Insurance</div></a>
 
 </nav>
@@ -712,7 +724,7 @@ Insurance</div></a>
 <a name="top"></a>
 <h2>Lonely Planet Privacy policy</h2>
 
-<p class="intro"><em>Last updated: <time datetime="2013-11-15">15 November 2013</time></em></p>
+<p class="intro"><em>Last updated: <time datetime="2015-09-08">9 September 2015</time></em></p>
 
 <p class="intro">At Lonely Planet, we understand that privacy is really important. So we have prepared this privacy policy to fill you in on who we are, how we collect and what we do with your personal information, and how you can find out more about our privacy philosophy and the personal information that we collect about you.</p>
 
@@ -730,6 +742,7 @@ Insurance</div></a>
 <ul class="anchorList">
   <li><a href="#newsletter">Newsletters</a></li>
   <li><a href="#shop">Online shop</a></li>
+  <li><a href="#mobile-applications">Mobile Applications</a></li>
   <li><a href="#feedback">Feedback</a></li>
   <li><a href="#media">Media activities</a></li>
 </ul>
@@ -805,6 +818,16 @@ Insurance</div></a>
 <p>We collect this information so that we can fulfill your order and speed your products directly to you. Without this information we would not be able to process your order or contact you if there are any issues.
 If you've asked to hear more about Lonely Planet we will use your personal information to send you what you've asked for.</p>
 <p>Rest assured, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to business partners who help us provide these services, such as credit card payment processing companies, and other companies in the Lonely Planet family including entities located in a different country to you. If you'd like to find out more, please read our <a href="http://www.lonelyplanet.com/legal/privacy-policy">privacy policy</a>.</p>
+<p><a href="#top">Back to top</a></p>
+
+<a name="mobile-applications"></a>
+<h2>Mobile Applications</h2>
+<p><i>Registration:</i> When you register for a Lonely Planet application (App) you will be asked to provide certain basic information such as your name, email address and country. We collect this information for the purposes of administering the App and keeping in touch with you. </p>
+<p><i>Device data:</i> When you use an App we may collect certain information automatically, such as the type of device you are using, the version of the operating system running of the device, the version and build of the App being used, anonymous usage statistics and crash reporting data, and unique identifier details for your device such as the IP address, MAC address, IMEI number, or advertising identifier. Unique identifiers are anonymised and we do not use this information to identify you as an individual. </p>
+<p><i>Location data:</i> Some Apps may use location-based application programming interfaces that collect information about your location for the purpose of supporting the relevant functionality and analysis.  Our Apps will only track your location with your consent. Real-time geolocation data may be used to display your location to you on a map, orient the App’s maps to be centered on your current location and sort potential activities based on their distance from your location at the time of request. This data will only be used locally on your device and will not be sent to or stored on a remote server or saved on your device, and will not be shared with third parties. This data may be cached on your device for short periods of time in order to improve user experience and make the App more responsive. </p>
+<p><i>Analytics:</i> Where we automatically gather information without asking you to give it to us, we use that information to understand how the App is used by our community and to make sure any technical problems are reported to us. We use <a href="http://www.google.com/analytics/">Google Analytics</a> to gather and process this data. For details about the information Google Analytics collects and how Google Analytics treats that information please visit their <a href="http://www.google.com/analytics/terms/us.html">Terms of Service</a> and <a href="https://support.google.com/analytics/answer/6004245?hl=en">Privacy Policy.</a></p>
+<p><i>Feedback and errors:</i> Where you contact us to ask for help to resolve an issue we may ask for your name, your email address and any information you choose to give us as part of servicing your request, including a textural description of your issue, and screenshots of the issue you may be seeing in the App. We do this collection through a third-party tool embedded in the App known as <a href="http://helpshift.com/">Helpshift</a>. If you choose to share this information, that information will be governed by Helpshift's <a href="https://www.helpshift.com/terms/">Terms</a> and <a href="https://www.helpshift.com/privacypolicy/">Privacy Policy</a>.</p>
+<p><i>Third party services:</i> We will only share your information with third parties if we have your consent to do so or when they are providing a service for us (like Google Analytics and Helpshift above). Our service providers will only use that information in accordance with our instructions and not for their own purposes.</p>
 <p><a href="#top">Back to top</a></p>
 
 <a name="feedback"></a>
@@ -1765,8 +1788,8 @@ eBooks</span></a>
 Pictorial &amp; gifts</span></a>
 <a class="js-nav-item nav__item nav__item--sitemap nav__item--footer" href="http://www.lonelyplanet.com/shop/phrasebooks" itemprop="url"><span itemprop="name">
 Phrasebooks</span></a>
-<a class="js-nav-item nav__item nav__item--sitemap nav__item--footer" href="http://www.lonelyplanet.com/shop/activity-guides" itemprop="url"><span itemprop="name">
-Activity guides</span></a>
+<a class="js-nav-item nav__item nav__item--sitemap nav__item--footer" href="http://www.lonelyplanet.com/shop/childrens-books" itemprop="url"><span itemprop="name">
+Lonely Planet Kids</span></a>
 <a class="js-nav-item nav__item nav__item--sitemap nav__item--footer" href="http://www.lonelyplanet.com/shop/special-offers" itemprop="url"><span itemprop="name">
 Special offers</span></a>
 </div>
@@ -1931,21 +1954,21 @@ Lonely Planet. All rights reserved. No part of this site may be reproduced witho
 <div class="split--right__inner nav--inline form--language media">
 <label class="nav__item form--language__label title--footer media__img">International</label>
 <div class="media__body">
-<form action="//www.lonelyplanet.com/international">
+<form action="//www.lonelyplanet.com/redirector">
 <div class="dropdown js-select-group-manager">
 <div aria-hidden="" class="dropdown__value js-select-overlay icon--chevron-down--after">
 English
 </div>
-<select class="dropdown__select js-select" data-form-submit="true" id="languageSelect" name="language">
-<option value="en">English</option>
-<option value="in">English (India)</option>
-<option value="de">Deutsch</option>
-<option value="fr">Français</option>
-<option value="es">Español</option>
-<option value="it">Italiano</option>
-<option value="ru">Русский</option>
-<option value="br">Português</option>
-<option value="cz">Czech</option>
+<select class="dropdown__select js-select" data-form-submit="true" id="languageSelect" name="url">
+<option value="www.lonelyplanet.com">English</option>
+<option value="www.lonelyplanet.in">English (India)</option>
+<option value="www.lonelyplanet.de">Deutsch</option>
+<option value="www.lonelyplanet.fr">Français</option>
+<option value="www.lonelyplanet.es">Español</option>
+<option value="www.lonelyplanetitalia.it">Italiano</option>
+<option value="www.lonelyplanet.ru">Русский</option>
+<option value="www.lonelyplanetbrasil.com.br">Português</option>
+<option value="www.lonelyplanet.cz">Česky</option>
 </select>
 
 </div>
@@ -2054,28 +2077,27 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <div class="pointer-cover" id="js-pointer-cover"></div>
 
 <div class="js-config is-hidden">
-<script async="" data-main="//assets.staticlp.com/assets/app_core_legacy-57580c859d0484dd01afa311d8edf2a3.js" src="//assets.staticlp.com/assets/requirejs/require-18d8ee671e47655b884e86dfe551fbf5.js" type="text/javascript"></script>
+<script async="" data-main="//assets.staticlp.com/assets/app_core_legacy-22547b29298f2cd088c5facc2a208430.js" src="//assets.staticlp.com/assets/requirejs/require-18d8ee671e47655b884e86dfe551fbf5.js" type="text/javascript"></script>
 </div>
 
     <div class="footerWrap">
       <script type="text/javascript">
-  var lp_info = {
-    airport_code: "",
-    atlas_taxonomy: "",
-    country_code:"",
-    country_code3:"",
-    country_name:"",
-    region:"",
-    lat:"",
-    lon:"",
-    area_code:"",
-    continent_code:""
-  }
+var lp_info = {
+  airport_code: "",
+  atlas_taxonomy: "",
+  country_code: "",
+  country_code3: "",
+  country_name: "",
+  region: "",
+  lat: "",
+  lon: "",
+  area_code: "",
+  continent_code: ""
+};
 </script>
 
 <!-- vendor -->
 <script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/vendor/underscore-min.js"></script><script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/vendor/date.js"></script><script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/vendor/jquery.datepicker.js"></script>
-
 <!-- lp lib -->
 <script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/_utils.js"></script><script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/landing-pages/kayak/airport_input_field.js"></script><script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/common-ui/lp_swipe.js"></script><script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/common-ui/lp_select.js"></script>
 <!-- dev only -->
