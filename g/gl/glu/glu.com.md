@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626173150id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229061955id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
 # Glu | The Leader in 3D Freemium Mobile Gaming
 
