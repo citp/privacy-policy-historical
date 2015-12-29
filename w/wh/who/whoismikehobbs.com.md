@@ -1,74 +1,97 @@
-> *The following text is extracted and transformed from the whoismikehobbs.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125102546id_/http%3A//whoismikehobbs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoismikehobbs.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229124455id_/http%3A//whoismikehobbs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing Strategies
+# Privacy Policy - Freedom Ventures, LLC
 
-**Your privacy is very important to us.** We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+**ONLINE PRIVACY POLICY AGREEMENT  **
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+Freedom Ventures, LLC, (), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Freedom Ventures, LLC of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards. 
 
-**Personal Information Our Company Collects and How It Is Used**
+**THEREFORE** , this Privacy Policy Agreement shall apply to Freedom Ventures, LLC , and thus it shall govern any and all data collection and usage thereof. Through the use of **www.myprosperityrocks.com** and any subsidiary website listed below you are herein consenting to the following data procedures expressed within this agreement. 
 
-Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service.
+            **Subsidiary Website:  
+              **www.pipelineprosperity.com **  
+**
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
+           www.whoismikehobbs.com 
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and services.  
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+           www.mikehobbs.ws 
 
-Also, with purchases, we supply our member’s contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser’s information to that third party.
+           www.freedomshortcut.com 
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information.
+           www.thefitnessfamily.com  
+              www.mikesvideotips.com  
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+**_  Collection of Information_** 
 
-If you order services or products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with.  
-Online Advertisements: Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+This website collects various types of information, such as:
 
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.
+ • Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested. 
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive.
+ • Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. 
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you.  
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+ Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
 
-Promotions: Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or cobranded with third parties. You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. Due to these third party relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to our company. Our company has no control over third parties’ use of this information.
+ We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service. 
 
-Additionally, personally identifiable information may be collected when you order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include but may not be limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Our sponsors or third parties may send you material that relates to our company’s services, products or activities.
+ It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. 
 
-Special Cases: It is our company’s policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses.  
-Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.  
-Notice of Compliance to Iowa Residents: Your Iowa Privacy Rights Under The Iowa Online Privacy Protection Act and the Iowa Business and Professions Code
+  ** _Use of Information Collected_**  
 
-This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company’s commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
+Freedom Ventures, LLC may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from www.myprosperityrocks.com and our subsidiaries . Freedom Ventures, LLC and our subsidiaries may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered. 
 
-Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service.
+ Freedom Ventures, LLC does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties. 
 
-See the section below entitled “Revisions To This Policy” for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company’s privacy policy for this Web site or online service.
+ Freedom Ventures, LLC may feel it necessary, from time to time, to make contact with you on behalf of other external business partners with regards to a potential new offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party. 
 
-The effective date of this privacy policy is listed at the end of this privacy policy under the heading, “Last updated.”
+ Freedom Ventures, LLC may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public. 
 
-For the purposes of this policy and Iowa compliance the following definitions apply:
+ Freedom Ventures, LLC may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to: 
 
-Depending on the visitor’s activity, in our commercial Web site or online service, the following “personally identifiable information” may be collected, in addition to information set forth in other sections of this document.
+ • Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Freedom Ventures, LLC and/or our website; 
 
-The term “personally identifiable information” means individually identifiable information about an individual consumer collected online by our company from an individual and maintained  
-by our company in an accessible form, and may include any of the following:
+ • Maintain, safeguard and/or preserve all the rights and/or property of Freedom Ventures, LLC; and 
 
-(1) A first and last name.  
-(2) A home or other physical address, including street name and name of a city or town.  
-(3) An e-mail address.  
-(4) A telephone number.  
-(5) A social security number.  
-(6) Any other identifier that permits the physical or online contacting of a specific individual.  
-(7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
+ • Perform under demanding conditions in an effort to safeguard the personal safety of users of www.myprosperityrocks.com and/or the general public. 
 
-Under Iowa Law SB 27, Iowa residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to Privacy@PrivacyRequest.com and please include the phrase “Iowa Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+  ** _Children Under Age of 13  _**
 
-“Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.  
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+Freedom Ventures, LLC does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website. 
 
-Our Company Commitment to Children’s Privacy. Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+  ** _Unsubscribe or Opt-Out  _**
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to mike@freedommike.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+
+  ** _Links to Other Web Sites  _**
+
+Our website does contain links to affiliate and other websites. Freedom Ventures, LLC does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+
+  _ **Security  **_
+
+Freedom Ventures, LLC shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user's personal information under our control. 
+
+  _ **Changes to Privacy Policy Agreement  **_
+
+Freedom Ventures, LLC reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at www.myprosperityrocks.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Freedom Ventures, LLC decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
+
+  _ **Acceptance of Terms  **_
+
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+
+  ** _How to Contact Us  _**
+
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address. 
+
+  **Email:** mike@freedommike.com 
+
+  **Telephone Number:** 435-574-9425 
+
+**  Mailing Address: **
+
+ Freedom Ventures, LLC 
+
+ 881 Baxter Drive, STE 100 
+
+ South Jordan, Utah 84095 
+
+ 11/01/2014 
