@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adp.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201057id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.in privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229030246id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Statement
 
 ADP's clients, associates, suppliers and visitors provide us with vast amounts of personal information. Protecting the privacy and security of this personal information is central to ADP's mission. 
 
@@ -8,9 +8,11 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 
 **ADP is also committed to transparency. We want individuals to understand how we collect and use personal information so they can interact with ADP with confidence. The links below can help you find the information you need about privacy and ADP. If you have any other questions, please contact us directly at[Privacy@ADP.com](mailto:Privacy@ADP.com). **
 
-> **Privacy Statement for Employer Services Clients**
+Effective date: December 1, 2015
+
+> **Privacy Statement for Clients and Client Employees**
 > 
-> ADP is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. We receive personal information from our clients about their current, prospective and former employees as well as employee dependents and family members, as needed to provide benefits. This notice explains our practices with regard to all of the personal information we receive from our Employer Services clients as a data processor. 
+> ADP is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. We receive personal information from our clients about their current, prospective and former employees as well as employee dependents and family members, as needed to provide benefits. This notice explains our practices with regard to all of the personal information we receive from our clients as a data processor. 
 > 
 > ADP will collect and process your personal information only as instructed or permitted by our client (the employer) or you. ADP will at all times maintain reasonable and appropriate security controls to protect your information. 
 > 
@@ -20,17 +22,11 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > 
 > If you have questions about your privacy rights, please contact your employer’s human resources department. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
 > 
-> **Privacy Statement for Medical Records Processing Clients**
-> 
-> ADP is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients in the healthcare industry. This notice explains our practices with regard to the protected health information we receive from our clients for medical records processing as a business associate under the US health privacy law known as HIPAA.
-> 
-> ADP will collect and process protected health information only as required or permitted by our business associate agreement and applicable laws, including the Health Insurance Portability and Accountability Act (HIPAA). ADP will at all times maintain reasonable and appropriate security controls to protect the information as required by the HIPAA Security Rule. 
-> 
-> If you have questions about privacy or security, please contact the HIPAA Privacy Official named in the Privacy Notice published by your healthcare provider or health insurance plan. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
-> 
 > **Safe Harbor Privacy Statement**
 > 
 > ADP, LLC and its US subsidiaries participate in the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Programs. We protect client human resources information received for processing from clients in the European Economic Area and Switzerland in accordance with the Safe Harbor Principles. We also protect all data processed by our Trusted Platform Security Infrastructure and related technologies in accordance with the Principles. Additionally, ADP, LLC protects all ADP associate information in accordance with the Safe Harbor Principles, and it has certified to the U.S.- E.U. and U.S.-Swiss Safe Harbor Frameworks for its own human resources data. To learn more about Safe Harbor and to view ADP's certification, please visit [ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+> 
+> In light of the recent European Court of Justice decision, ADP wants to reassure its clients, employees and others that it will continue to protect all personal information received from the European Economic Area and Switzerland in accordance with the Safe Harbor Principles as well as with the substantive provisions underlying the standard contractual clauses (also known as Model Clauses or Model Contracts). Although ADP is hopeful that the EU and US authorities will renew Safe Harbor in the coming months, we stand ready to execute model contracts with our clients upon request.
 > 
 > For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
 > 
