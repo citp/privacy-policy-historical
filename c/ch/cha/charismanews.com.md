@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060425id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229224058id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Charisma Magazine
 
 At Charisma Media, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy.
 
@@ -69,168 +69,188 @@ Lake Mary, FL 32746
 
 By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
 
-  * [
+_For a limited time, we are extending our celebration of the 40th anniversary of Charisma. As a special offer, you can get[40 issues of Charisma magazine for only $40!](https://secure.strangmagazines.com/~strangma/charisma/2015/40years/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=40th%20Anniversary)_
 
-#### Billy Graham's Daughter: We're Coming Close to the End of Human History as We Know It
-
-](http://www.charismamag.com/spirit/prophecy/23475-billy-graham-s-daughter-we-re-coming-close-to-the-end-of-human-history-as-we-know-it "Anne Graham Lotz")
-
-And God's judgment may not come like we expect, Anne Graham Lotz claims.
+**NEW from CHARISMA:** _Do you want to encounter the Holy Spirit and hear God speak to you? Increase your faith, discover freedom, and draw near to God![Click Here](https://secure.strangmagazines.com/~strangma/LITS/devotional/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=LITS)_
 
   * [
 
-#### What Nobody Is Saying About the Duggar Scandal
+#### Give Away the Word and Change Someone's Life
 
-](http://www.charismamag.com/life/women/23502-what-nobody-is-saying-about-the-duggar-scandal "Duggar family")
+](http://www.charismamag.com/blogs/the-strang-report/24539-help-us-give-away-free-mev-bibles-to-millions-in-need "Give Away the Word and Change Someone's Life")
 
-Josh Duggar's admission of molesting his sisters has made headlines. Yet here's one thing ...
-
-  * [
-
-#### 33 Things the Holy Spirit Does
-
-](https://secure.strangmagazines.com/~strangma/charisma/2014/print_2/?utm_campaign=12%20for%2015%20-%2033%20Things&utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article%20Mobile "33 Things the Holy Spirit Does")
-
-Though many Christians overlook the importance of the Holy Spirit, Scripture is clear about not only His vital role, but also His divine actions.
+For the cost of a fancy cup of coffee, you can supply a Bible to someone.
 
   * [
 
-#### Prophetic Dream: The Perfect Storm Is Upon America
+#### Faith Comes by Hearing What Is Told
 
-](http://www.charismamag.com/blogs/prophetic-insight/23457-prophetic-dream-the-perfect-storm-is-upon-america "America's perfect storm is coming. ")
+](http://www.charismapodcastnetwork.com/?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "Faith Comes by Hearing What Is Told")
 
-"As I looked up over the Atlantic Ocean, I noticed two enormous storms beginning to form. The ...
-
-  * [
-
-#### Why I'm for the Duggars
-
-](http://www.charismamag.com/life/women/23467-why-i-m-for-the-duggars "Josh and Anna Duggar")
-
-Here's why a woman who has experienced sexual abuse is for the Duggars.
+Get quality Christian content in a variety of programs including news, leadership, inspiring stories, women's topics, sports, and even more.
 
   * [
 
-#### 5 Reasons You Should Not Leave a Church
+#### 7 Ways Satan Tries to Destroy a Church
 
-](http://www.charismamag.com/spirit/church-ministry/23445-5-reasons-you-should-not-leave-a-church "Many church services are half empty. Many are leaving for all the wrong reasons.")
+](http://www.charismamag.com/spirit/church-ministry/25182-7-ways-satan-tries-to-destroy-a-church "Don't let Satan tear your congregation apart.")
 
-People are leaving or changing churches at a record pace—when should we NOT leave a church?
-
-  * [
-
-#### God Said: 'This Is Just a Taste of What Is Coming'
-
-](http://www.charismamag.com/blogs/fire-in-my-bones/23468-god-said-this-is-just-a-taste-of-what-is-coming "Bolivian ministry leader Fernando Villalobos shares during the recent Bold Venture men's retreat.")
-
-Last weekend, the Holy Spirit visited an interracial group of men gathered in Georgia.
+The enemy certainly loves to disrupt the work of God's people. Here's what you can do.
 
   * [
 
-#### The Isaiah 22:22 Prophetic Act That Breaks Down Barriers
+#### Rick Joyner: 5 Trends That Will Change the World in 2016
 
-](http://www.charismamag.com/blogs/the-plumb-line/23481-the-isaiah-22-22-prophetic-act-that-breaks-down-barriers "The key of David can open doors no man can shut.")
+](http://www.charismamag.com/blogs/prophetic-insight/25160-rick-joyner-5-trends-that-will-change-the-world-in-2016 "Expect Russian President Vladimir Putin to make huge waves in the Middle East in 2016.  ")
 
-As spiritual warriors, many of us have become experts at binding and loosing with the keys to the ...
-
-  * [
-
-#### WATCH: 9 Ways to Discern Between a True and False Prophet
-
-](http://www.charismamag.com/spirit/prophecy/23463-watch-9-ways-to-discern-between-a-true-and-false-prophet "Jim Bakker")
-
-The answer may be easier than you expect. 
-
-
-
+"A geopolitical shift has taken place at the end of 2015 that could change the world more than ...
 
   * [
 
-#### Struggling With Obesity: How to Move From the Dark to the Light
+#### How To Get Your Message Beyond Your Four Walls
 
-](http://www.charismamag.com/life/health/23473-struggling-with-obesity-how-to-move-from-the-dark-to-the-light "Has obesity kept you in the darkness long enough?")
+](https://secure.strangmagazines.com/~strangma/pastorsplatform/?utm_campaign=Pastors%20Platform%20Seminar&utm_source=charismamag.com&utm_medium=native%20ad "How To Get Your Message Beyond Your Four Walls")
 
-Here's how you can renounce your friendship with lies and the darkness of the enemy.
-
-  * [
-
-#### Why This Pastor's Kid Loves Her Parents
-
-](http://www.charismamag.com/life/women/23489-why-this-pastor-s-kid-loves-her-parents "Pastor Barb and Brent Rudoski of Faith Alive Church")
-
-Pastor's kids are usually the most wayward or rebellious towards their parents when they turn ...
+From blogging and social media to podcasting and book publishing, learn how these platforms can be used to reach a new audience.
 
   * [
 
-#### 33 Things the Holy Spirit Does
+#### How to Make a Fresh Start After Committing Sexual Sin
 
-](https://secure.strangmagazines.com/~strangma/charisma/2014/print_2/?utm_campaign=12%20for%2015%20-%2033%20Things&utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article%20Desktop "33 Things the Holy Spirit Does")
+](http://www.charismamag.com/life/men/25157-how-to-make-a-fresh-start-after-committing-sexual-sin "Repentance is the first step to redemption after sexual sin.")
 
-Though many Christians overlook the importance of the Holy Spirit, Scripture is clear about not only His vital role, but also His divine actions.
-
-  * [
-
-#### Beating Dementia: 'Two Weeks to a Younger Brain'
-
-](http://www.charismamag.com/life/health/23448-beating-dementia-two-weeks-to-a-younger-brain "Prevention can be the best medicine, but can dementia be slowed down and even reversed?")
-
-With dementia reaching epic proportions, UCLA's Dr. Gary Small details how to improve your ...
+Thankfully, if you've been guilty of any sexual sin, it's not the end of your story.
 
   * [
 
-#### 5 Practical Habits of Men in the Happiest Marriages
+#### Star Wars' Carrie Fisher Condemns Theater Banning Lord's Prayer Ad
 
-](http://www.charismamag.com/life/men/23460-5-practical-habits-of-men-in-the-happiest-marriages "Here are some steps you can take to ensure harmony in your marriage.")
+](http://www.charismamag.com/life/culture/25194-star-wars-carrie-fisher-condemns-theater-banning-lord-s-prayer-ad "Carrie Fisher called out those 'offended' by Lord's Prayer ad.")
 
-Here is a very practical approach men can use to ensure harmony in their marriage.
-
-  * [
-
-#### If You're Struggling to Trust God in Your Trial, Read This
-
-](http://www.charismamag.com/life/women/23456-if-you-re-struggling-to-trust-god-in-your-trial-read-this "woman in storm")
-
-Life can be overwhelming but with this one thing, you can live with faith when circumstances scream ...
+"Offended? ... People should get a life."
 
   * [
 
-#### Is Baptism Necessary for Salvation?
+#### Michael Snyder: Many Americans Will Die Waiting on a Pre-Tribulation Rapture
 
-](http://www.charismamag.com/spirit/church-ministry/23430-is-baptism-necessary-for-salvation "Baptism")
+](http://www.charismamag.com/spirit/prophecy/25165-michael-snyder-many-americans-will-die-waiting-on-a-pre-tribulation-rapture "Michael Snyder")
 
-There seems to be misunderstanding around Scriptures that relate to water baptism. What does the ...
-
-  * [
-
-#### 7 Reasons I'm Not a Christian Dominionist
-
-](http://www.charismamag.com/spirit/church-ministry/23465-7-reasons-i-m-not-a-christian-dominionist "Garden of Eden")
-
-Christian dominion theology has been under fire for decades. Joseph Mattera offers plenty of ...
+He says he's got the Scriptures to prove it. 
 
   * [
 
-#### Don't Quench the Spirit in the Next Move of God
+#### A Big Promise Takes Time—Don't Give Up
 
-](http://www.charismamag.com/blogs/fire-in-my-bones/23416-don-t-quench-the-spirit-in-the-next-move-of-god "Have we trivialized the Holy Spirit?")
+](http://www.charismamag.com/blogs/fire-in-my-bones/25199-a-big-promise-takes-time-don-t-give-up "God rewards big faith.")
 
-When the Spirit came in power in the 1960s, we made five fatal mistakes.
-
-  * [
-
-#### WATCH: By Building the Hadron Collider, Are Scientists Opening a Wormhole for Demons?
-
-](http://www.charismamag.com/spirit/spiritual-warfare/23425-watch-by-building-the-hadron-collider-are-scientists-opening-a-wormhole-for-demons "Tom Horn")
-
-"However, there's a reason God put them on the other side of that veil."
+If you are praying for something big, don't give up. The Christmas story reminds us that God ...
 
   * [
 
-#### The Key to Breaking the Rule of Fear in Your Life
+#### You Can Have a New Beginning in 2016—You Really Can
 
-](http://www.charismamag.com/life/women/23441-the-key-to-breaking-the-rule-of-fear-in-your-life "fear")
+](http://www.charismamag.com/blogs/the-plumb-line/25201-you-can-have-a-new-beginning-in-2016-you-really-can "You too can have a new beginning this year.")
 
-Teresa battled the bondage of fear until she did this one thing.
+Now is the time to determine that you will press past the past and move into the new thing God has ...
+
+  * [
+
+#### Little Girl's 'Dear Daddy' Video Goes Massively Viral
+
+](http://www.charismamag.com/life/women/25154-little-girl-s-dear-daddy-video-goes-massively-viral "If you care about the future of your children, please watch this video.")
+
+If you care about the future of your children, please watch this video.
+
+
+
+
+  * [
+
+#### Give Away the Word and Change Someone's Life
+
+](http://www.charismamag.com/blogs/the-strang-report/24539-help-us-give-away-free-mev-bibles-to-millions-in-need "Give Away the Word and Change Someone's Life")
+
+For the cost of a fancy cup of coffee, you can supply a Bible to someone.
+
+  * [
+
+#### Faith Comes by Hearing What Is Told
+
+](http://www.charismapodcastnetwork.com/?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "Faith Comes by Hearing What Is Told")
+
+Get quality Christian content in a variety of programs including news, leadership, inspiring stories, women's topics, sports, and even more.
+
+  * [
+
+#### Of Course Christians and Muslims Don't Worship the Same God
+
+](http://www.charismamag.com/life/culture/25190-of-course-christians-and-muslims-don-t-worship-the-same-god "To the Muslim, God \(Allah\) is too transcendent and "other" to be our friend. He is to worshiped and adored and obeyed, just as our heavenly Father is to be worshiped and adored and obeyed, but Muslims do not have "fellowship" with God as Christians do.")
+
+We do not worship the same God, which is why Muslims seek to convert Christians to Islam and ...
+
+  * [
+
+#### James W. Goll: How Angels Silently Aid Us
+
+](http://www.charismamag.com/blogs/a-voice-calling-out/15191-angels-unaware)
+
+James W. Goll shares from personal experience how God's angels are ready to come to our aid in ...
+
+  * [
+
+#### How To Get Your Message Beyond Your Four Walls
+
+](https://secure.strangmagazines.com/~strangma/pastorsplatform/?utm_campaign=Pastors%20Platform%20Seminar&utm_source=charismamag.com&utm_medium=native%20ad "How To Get Your Message Beyond Your Four Walls")
+
+From blogging and social media to podcasting and book publishing, learn how these platforms can be used to reach a new audience.
+
+  * [
+
+#### Is God Ignoring Your Prayers?
+
+](http://www.charismamag.com/life/women/25209-is-god-ignoring-your-prayers "She thinks that God isn't answering her prayers. Instead, God shows her this. ")
+
+She thinks that God isn't answering her prayers. Instead, God shows her this.
+
+  * [
+
+#### Be Free to Disappoint People
+
+](http://www.charismamag.com/life/women/25210-be-free-to-disappoint-people "Pleasing people at the cost of pleasing God is stressful. ")
+
+Pleasing people at the cost of pleasing God is stressful.
+
+  * [
+
+#### The 5 P's for Raising a Child in Faith
+
+](http://www.charismamag.com/life/men/25184-the-5-p-s-for-raising-a-child-in-faith "Raising children of faith in this society is not easy. Use these five P's to help you.")
+
+Raising children to have faith in God is difficult at best in the current climate. Yet it is the ...
+
+  * [
+
+#### Verses of Violence: Comparing the Bible and Quran
+
+](http://www.charismamag.com/spirit/world-religions/25156-verses-of-violence-comparing-the-bible-and-quran "Muslims praying. ")
+
+Dr. Michael Brown gives three ways we can respond to the challenge from Muslims. 
+
+  * [
+
+#### What to Do When Someone You Love Hurts You
+
+](http://www.charismamag.com/life/women/25202-what-to-do-when-someone-you-love-hurts-you "Restoration begins with this.")
+
+Restoration begins with this.
+
+  * [
+
+#### Meeting the Deliverer
+
+](http://www.charismamag.com/life/women/25075-meeting-the-deliverer)
+
+Here's how God broke the power of depression and the occult in my life.
 
   * [
 
@@ -242,11 +262,35 @@ Charisma's founder, Steve Strang writes about today's hottest topics affecting t
 
   * [
 
-#### How Do You Begin Your Prayer or Worship Time?
+#### How to Overcome Anxiety and Depression Naturally This Winter
 
-](http://www.charismamag.com/spirit/prayer/23411-how-do-you-begin-your-prayer-or-worship-time "How do you begin your worship time?")
+](http://www.charismamag.com/life/health/25144-how-to-overcome-anxiety-and-depression-naturally-this-winter "Sweet potatoes are chock full of antioxidants.")
 
-Starting off with this may simply make your time with God not only more effective but also more ...
+Many scientists call these the "Good Mood" foods.
+
+  * [
+
+#### What Your Friends Don't Want to Hear When The Devil Is Attacking
+
+](http://www.charismamag.com/blogs/the-plumb-line/25167-what-your-friends-don-t-want-to-hear-when-the-devil-is-attacking "The last thing you need when you are being spiritually attacked is friends like Job had.")
+
+A true friend does one thing instead.
+
+  * [
+
+#### Receive the fullest revelation of God through signs in the heavens.
+
+](http://shop.charismamag.com/collections/books/products/god-s-end-time-calendar-the-prophetic-meaning-behind-celestial-events-and-seasons?utm_source=Native%20Ad&utm_medium=shop.charismamag.com&utm_campaign=God%27s%20End%20Time%20Calendar%20Native%20Ad "Receive the fullest revelation of God through signs in the heavens.")
+
+God has set specific times for us to encounter his Holy presence and to discover His plan and purpose for us. Read Rod Parsley’s newest book for a glimpse of God’s unfailing mercy and power releasing upon the Earth during these end times.
+
+  * [
+
+#### Supernatural Signs and Wonders Break Out Among 1,000 Jews
+
+](http://www.charismamag.com/spirit/supernatural/25126-supernatural-signs-and-wonders-break-out-among-1-000-jews "What these men and women thought was a lecture on the supernatural soon became a powerful presentation about the kingdom of God.")
+
+The last time someone stood up and gave his testimony to this many Jews at once, it was Peter in ...
 
 
 
