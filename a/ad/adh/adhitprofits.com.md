@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195003id_/https%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023437id_/http%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Hit Profits : Privacy Policy
 
-[](https://trafficmonsoon.com/land.php?id=3&ref=ebizzz)
+[](https://trafficmonsoon.com/?ref=glenn1)
 
 ## Privacy Policy
 
