@@ -1,762 +1,284 @@
-<!--The following is the downloaded HTML source of the daveandbusters.com privacy policy that was archived on 2015-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150430033636id_/http%3A//www.daveandbusters.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daveandbusters.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229103618id_/http%3A//www.daveandbusters.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=1336402157+528614635"><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=1362446410+-907017858+1858396078+2080800137+1987009490+787524041+-423436955+-814855039+861986600+-1634385506+100443009+-386229961"></script><link rel="Shortcut Icon" href="../favicon.ico" type="image/x-icon"><title>Dave &amp; Busters  Eat, Drink, Play  Privacy Policy</title>
-<meta name="og:title" content="Dave &amp; Busters Restaurant, Bar and Arcade for Fun, Parties, Meetings and More!">
-<meta name="og:description" content="Find the New Mix of Fun at the all-new http://www.daveandbusters.com. Log on and find your nearest Dave and Busters or view the new menu and drinks! Plus you can check your Power Card balance and join Rewards to start receiving awesome offers.">
-<meta charset="utf-8"><link rel="icon" href="../favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
-	Dave &amp; Busters Restaurant, Bar and Arcade for Fun, Parties, Meetings and More!
-</title>
- 
- <!--Putting the following in a place holder, so it can be changed by a page if need be-->
- 
-    <meta name="description" content="Dave And Busters! The most fun you can have under one roof! ">
- 
-
- <!--Putting the following in a place holder, so it can be changed by a page if need be, ie for FB-->
-  
-    <meta property="og:url" content="http://www.daveandbusters.com/">
-    <meta property="og:image" content="http://www.daveandbusters.com/images/11001_thumb_DnB-logo.png">
-  <meta property="og:type" content="website">
-
- <!--[if (lt IE 9) & (!IEMobile)]>
- <link href="/css/ie8-style.common.css" rel="stylesheet" type="text/css" /><link href="/css/ie8-style.dnb.main.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!-- I want to test using normalize first before adding it to the site.
-        Waiting on a cross browser issue to arrise that could be solved with normalize /-->
-<!-- link href="/css/normalize.css" rel="stylesheet" type="text/css" /-->
-<link href="/css/style.common.css" rel="stylesheet" type="text/css"><link href="/css/style.dnb.main.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/css/modalstyles.css">
-<!--link rel="stylesheet" href="/css/fantacyfb.css" />-->
-<!-- script type="text/javascript" src="/js/jquery.js"></script> -->
-<!-- do we need to load jquery.js and jquery.min.js ??? /-->
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery.ui.min.js"></script>
-<script type="text/javascript" src="/js/jquery.slides.min.js"></script>
-<script type="text/javascript" src="/js/jquery.tinyscrollbar.min.js"></script>
-
-<script type="text/javascript">
-
-    if (!window.console) window.console = {};
-    if (!window.console.log) window.console.log = function () { };
-
-
-
-    // Set this value to set pre-activated submenu for sections.
-    // Accepetable Values: "daves-games", "busters-menu", "rewards". If no menu needs to be active, always set this to "none".
-    var subActiveMenu = "none";
-
-
-
-    $(document).ready(function () {
-
-       
-
-        $("a.locBoxTrigger").click(function () {
-            $(this).parent().slideUp(250);
-            $("#locationBox").slideDown(500, "easeOutQuad", function () {
-                $("#locationBox > *").fadeTo(250, 1);
-            });
-        });
-
-        $("a.closeLocBox").click(function () {
-            $("#locationBox > *").fadeTo(150, 0, "", function () {
-                $("#locationBox").slideUp(250);
-                $(".selectLocation").slideDown(500, "easeOutQuad");
-            });
-        });
-
-
-        //Placeholder Text Fallback - hope this doesn't fight with code somewhere else
-        if (!("placeholder" in document.createElement("input"))) {
-            $("input[placeholder], textarea[placeholder]").each(function () {
-                var val = $(this).attr("placeholder");
-                if (this.value == "") {
-                    this.value = val;
-                }
-                $(this).focus(function () {
-                    if (this.value == val) {
-                        this.value = "";
-                    }
-                }).blur(function () {
-                    if ($.trim(this.value) == "") {
-                        this.value = val;
-                    }
-                })
-            });
-
-            // Clear default placeholder values on form submit
-            $('form').submit(function () {
-                $(this).find("input[placeholder], textarea[placeholder]").each(function () {
-                    if (this.value == $(this).attr("placeholder")) {
-                        this.value = "";
-                    }
-                });
-            });
-        }
-
-        //Daves Games (active)
-        //chech html/home/index.html
-        // check   /html/home/HomePage.aspx
-        // check   dave.header.js
-        //check DAve.Public.master
-        /* if (subActiveMenu == "daves-games") {
-        $('.main-menu a.daves-games').addClass("active");
-        $('.sub-daves-games').stop(true, true).slideDown(250);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 250);
-        $('#locationBox').addClass("menuActive");
-        } else if (subActiveMenu == "none") {
-        $('.main-menu a.daves-games').parent().hover(
-        function () {
-        $('.sub-daves-games').stop(true, true).slideDown(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 200, "easeInQuad");
-        },
-        function () {
-        $('.sub-daves-games').stop(true, true).slideUp(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "75px" }, 100, "easeOutQuad");
-        });
-        } else {
-        $('.main-menu a.daves-games').parent().hover(
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideUp(100, function () {
-        $('.sub-daves-games').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        },
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.sub-daves-games').stop(true, true).slideUp(100, "", function () {
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        });
-        }*/
-
-        //Busters Menu
-        /* if (subActiveMenu == "busters-menu") {
-        $('.main-menu a.busters-menu').addClass("active");
-        $('.sub-busters-menu').stop(true, true).slideDown(250);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 250);
-        $('#locationBox').addClass("menuActive");
-        } else if (subActiveMenu == "none") {
-        $('.main-menu a.busters-menu').parent().hover(
-        function () {
-        $('.sub-busters-menu').stop(true, true).slideDown(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 200, "easeInQuad");
-        },
-        function () {
-        $('.sub-busters-menu').stop(true, true).delay(1000).slideUp(200);
-        $('.selectLocation').stop(true, true).delay(1000).animate({ "height": "75px" }, 100, "easeOutQuad");
-        });
-        } else {
-        $('.main-menu a.busters-menu').parent().hover(
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideUp(100, function () {
-        $('.sub-busters-menu').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        },
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.sub-busters-menu').stop(true, true).slideUp(100, "", function () {
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        });
-        }
-        */
-
-        //Busters Menu
-        /*  if (subActiveMenu == "specials") {
-        $('.main-menu a.specials').addClass("active");
-        $('.sub-specials').stop(true, true).slideDown(250);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 250);
-        $('#locationBox').addClass("menuActive");
-        } else if (subActiveMenu == "none") {
-        $('.main-menu a.specials').parent().hover(
-        function () {
-        $('.sub-specials').stop(true, true).slideDown(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 200, "easeInQuad");
-        },
-        function () {
-        $('.sub-specials').stop(true, true).delay(1000).slideUp(200);
-        $('.selectLocation').stop(true, true).delay(1000).animate({ "height": "75px" }, 100, "easeOutQuad");
-        });
-        } else {
-        $('.main-menu a.specials').parent().hover(
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideUp(100, function () {
-        $('.sub-specials').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        },
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.sub-specials').stop(true, true).slideUp(100, "", function () {
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        });
-        }*/
-
-        //Plan your event
-        /*if (subActiveMenu == "planYourEvent") {
-        $('.main-menu a.planYourEvent').addClass("active");
-        $('.sub-planYourEvent').stop(true, true).slideDown(250);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 250);
-        $('#locationBox').addClass("menuActive");
-        } else if (subActiveMenu == "none") {
-        $('.main-menu a.planYourEvent').parent().hover(
-        function () {
-        $('.sub-planYourEvent').stop(true, true).slideDown(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 200, "easeInQuad");
-        },
-        function () {
-        $('.sub-planYourEvent').stop(true, true).slideUp(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "75px" }, 100, "easeOutQuad");
-        });
-        } else {
-        $('.main-menu a.planYourEvent').parent().hover(
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideUp(100, function () {
-        $('.sub-planYourEvent').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        },
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.sub-planYourEvent').stop(true, true).slideUp(100, "", function () {
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        });
-        }*/
-
-        //Rewards
-        /*if (subActiveMenu == "rewardsZone") {
-        $('.main-menu a.rewardsZone').addClass("active");
-        $('.sub-rewardsZone').stop(true, true).slideDown(250);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 250);
-        $('#locationBox').addClass("menuActive");
-        } else if (subActiveMenu == "none") {
-        $('.main-menu a.rewardsZone').parent().hover(
-        function () {
-        $('.sub-rewardsZone').stop(true, true).slideDown(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "110px" }, 200, "easeInQuad");
-        },
-        function () {
-        $('.sub-rewardsZone').stop(true, true).slideUp(200);
-        $('.selectLocation').stop(true, true).animate({ "height": "75px" }, 100, "easeOutQuad");
-        });
-        } else {
-        $('.main-menu a.rewardsZone').parent().hover(
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideUp(100, function () {
-        $('.sub-rewardsZone').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        },
-        function () {
-        $('.search').stop(true, true).animate({ "padding-top": "55px" }, 100);
-        $('.sub-rewardsZone').stop(true, true).slideUp(100, "", function () {
-        $('.main-menu li a.active').parent().children('.subMenu').stop(true, true).slideDown(100);
-        $('.search').stop(true, true).animate({ "padding-top": "29px" }, 100);
-        });
-        });
-        }*/
-
-        //////        // Fix for active link trigger
-        //////        $(".sub-daves-games, .sub-busters-menu, .sub-specials, .sub-rewardsZone, .sub-planYourEvent").hover(
-        //////	function () {
-        //////	    $(this).parent().children("a").addClass("hovered");
-        //////	},
-        //////	function () {
-        //////	    $(this).parent().children("a").removeClass("hovered");
-        //////	});
-
-        var the_current_slide = 1;
-
-
-        /* the slideshow is getting initialized in widgets/Dave-Slider/HomePageSlider.js*/
-        /*$('#slides').slides({
-        preload: true,
-        pagination: true,
-        generatePagination: true,
-        play: 5000,
-        pause: 5000,
-        slideSpeed: 1000,
-        hoverPause: false,
-        slideEasing: "easeInOutQuad",
-        animationStart: function (current) {
-        $('#slideCaption').fadeOut(100).html("");
-        $(".dnbhomepage_link:eq(" + (the_current_slide - 1) + ")").removeClass("showover");
-                
-        },
-        animationComplete: function (current) {
-        $('#slideCaption').html($('div[rel="' + current + '"] .caption').html()).fadeIn(750);
-               
-        the_current_slide = current;
-        // #dnbNewlinks   .dnbhomepage_link:eq(current-1)  addclass("showover")
-        $(".dnbhomepage_link:eq(" + (current - 1) + ")").addClass("showover");
-        }
-        });*/
-        $('#slideCaption').fadeOut(0).html($('div[rel="1"] .caption').html()).fadeIn(750);
-
-        $('#footerSlides').slides({
-            preload: false,
-            pagination: false,
-            generatePagination: false,
-            play: 5000,
-            pause: 5000,
-            slideSpeed: 1500,
-            hoverPause: true,
-            slideEasing: "easeOutBounce"
-        });
-
-        $('.locBoxContainer').tinyscrollbar({
-            size: '260',
-            sizethumb: '60'
-        });
-
-        $("#locationBox").show(0).slideUp(0, function () {
-            $("#locationBox > *").fadeTo(0, 0);
-        });
-
-        $("a").click(function () {
-            if ($(this).blur()) $(this).blur();
-        });
-    });
-
-    $(document).ready(function () {
-        $('.utilityNav li').hover(
-		function () {
-		    //show its submenu
-		    $('.signinBox', this).slideDown(100);
-		},
-		function () {
-		    //hide its submenu
-		    $('.signinBox', this).slideUp(100);
-		}
-	);
-    });
-
-
-    function showRewardsZoneUserSubMenus(loggedin) {
-        if (loggedin == "true") {
-            $('.loginpages ').hide();
-        }
-    }
-</script>
-
-<script type="text/javascript" src="/js/jquery.reveal.js"></script>
-	<script type="text/javascript">
-	    $(document).ready(function () {
-	        //	    if the user comes for the first time,set the cookies and save it.
-	       //debugger;
-            //alert("hi")
-	        SetUserSurveyCookie();
-	    });
-
-	    function SetUserSurveyCookie() {
-
-	        //****** Vishu: This code is commented to NOT TO SHOW SURVEY LINKS ANYMORE.*****
-
-//	        alert(window.location.href);
-	        // debugger;
-	        //get the cookie and check if exist
-       var dnbusersurveycookieVar = getCookie("dnbusersurveycookie");
-              // alert(dnbusersurveycookieVar);
-        if (dnbusersurveycookieVar == undefined || dnbusersurveycookieVar == "") {
-//	            //if first time ,create cookie
-//	           // createCookie("dnbusersurveycookie", "userfirsttimeclicked", 365)
-	        //}
-        //else {
-            var url = window.location.pathname;
-            var myPageName = url.substring(url.lastIndexOf('/') + 1);
-
-	            //if the user denied survey,do not show the popup.
-            //if (dnbusersurveycookieVar == "userfirsttimeclicked" && dnbusersurveycookieVar != "surveydenied" && myPageName.toLowerCase() == "storeinformation.aspx") {
-            if (dnbusersurveycookieVar != "surveydenied") { //&& myPageName.toLowerCase() == "storeinformation.aspx"
-
-//	                if (window.location.href != "") {
-//	                //if first time ,create cookie
-//	                $('#modal').reveal({ // The item which will be opened with reveal
-//	                    animation: 'fade',                   // fade, fadeAndPop, none
-//	                    animationspeed: 600,                       // how fast animtions are
-//	                    closeonbackgroundclick: true,              // if you click background will modal close?
-//	                    dismissmodalclass: 'close'    // the class of a button or element that will close an open modal
-//	                });
-	            }
-             }
-    }
-
-	    function SurveyYesClick() {
-	        createCookie("dnbusersurveycookie", "surveydenied", "365");
-	        openNewWindow();
-
-	    }
-	    function SurveyNoClick() {
-	        createCookie("dnbusersurveycookie", "surveydenied", "365");
-
-	    }
-	    function openNewWindow() {
-	        popupWin = window.open('https://www.surveymonkey.com/s/5TF7JQ5',
- 'open_window',
- 'menubar, toolbar, location, directories, status, scrollbars, resizable, dependent, width=640, height=480, left=0, top=0')
-	    }
-	    function createCookie(name, value, days) {
-	        if (days) {
-	            var date = new Date();
-	            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-	            var expires = "; expires=" + date.toGMTString();
-	        }
-	        else var expires = "";
-	        document.cookie = name + "=" + value + expires + "; path=/";
-	    }
-	    function getCookie(c_name) {
-	        if (document.cookie.length > 0) {
-	            c_start = document.cookie.indexOf(c_name + "=");
-	            if (c_start != -1) {
-	                c_start = c_start + c_name.length + 1;
-	                c_end = document.cookie.indexOf(";", c_start);
-	                if (c_end == -1) {
-	                    c_end = document.cookie.length;
-	                }
-	                return unescape(document.cookie.substring(c_start, c_end));
-	            }
-	        }
-	        return "";
-	    }
-	</script>
-<style type="text/css">
+<!DOCTYPE html><html lang="en"><head>
+    <!-- Meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     
-/* Styles for screens that are atleast 768px; */
-@media only screen and (min-width: 30em) {
-    .pagination {list-style:none; margin:5px auto 0px auto; padding:0px; width:100px;display:none;}  
-    .pagination li{float:left; margin:3px;}  
-    .pagination li a{ width:11px; height:11px; display:block; background:url(../images/pagination-bullet.png) no-repeat; text-indent:9999px;}  
-    .pagination li a {background-position:0px 0px;}
-    .pagination li.current a {background-position:-11px 0px;}
-}
-</style>
-      <link href="/css/jquery-ui-1.8.14.custom.css" rel="stylesheet" type="text/css">
-   
-    <script src="/js/AutoComplete/ui/jquery-ui-1.8.14.js" type="text/javascript"></script>
-    <script src="/js/AutoComplete/ui/jquery.ui.core.js" type="text/javascript"></script>
-    <script src="/js/AutoComplete/ui/jquery.ui.widget.js" type="text/javascript"></script>
-    <script src="/js/AutoComplete/ui/jquery.ui.position.js" type="text/javascript"></script>
-    <script src="/js/AutoComplete/ui/jquery.ui.autocomplete.js" type="text/javascript"></script>
-    <script src="/js/AutoComplete/Autocomplete.js" type="text/javascript"></script>
-    
-    
-    <style type="text/css">
-        
-/* Styles for screens that are atleast 768px; */
-@media only screen and (min-width: 30em) {
-       
-        .black_overlay{
-display:none;
-position: absolute;
-top: 0%;
-left: 0%;
-width: 100%;
-height: 100%;
-background-color:black;
-z-index:1001;
--moz-opacity: 0.8;
-opacity:.80;
-filter: alpha(opacity=80);
-}
-.white_content {
-display:none;
-position: absolute;
-top: 25%;
-left: 18%;
-width: 650px;
-padding: 0px;
-border: 0px solid #a6c25c;
-background-color: white;
-z-index:1002;
-overflow: auto;
-}
-.headertext{
-font-family:Arial, Helvetica, sans-serif;
-font-size:14px;
-color:#f19a19;
-font-weight:bold;
-}
-.textfield
-{
-border:1px solid #a6c25c;
-width:135px;
-}
-.button2
-{
- background-color:#a6c25c;
- color:White;
- font-size:11px;
- font-weight:bold;
- border:1px solid #7f9db9;
- width:68px;
-}
+    <meta property="og:title" content="Dave &amp; Buster's   - Privacy Policy">
+    <meta property="og:url" content="http://www.daveandbusters.com/footer-pages/privacy-policy/">
+    <meta property="og:site_name" content="Dave &amp; Buster's">
+    <meta property="og:type" content="article">
+    <meta property="fb:app_id" content="835774683208770">
+    <meta property="article:published_time" content="11/10/2015 10:44:54 PM">
+    <meta property="twitter:card" content="Summary">
+    <meta property="twitter:url" content="http://www.daveandbusters.com/footer-pages/privacy-policy/">
+    <meta name="description" content="Dave &amp; Buster's   - Privacy Policy Information">
+    <meta property="og:image" content="http://www.daveandbusters.com/media/1071/ex03.jpg">
+
+	
+    <title>Dave &amp; Buster's   - Privacy Policy</title>
+    <!-- JS -->
+
+    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBDXN2"></script><script src="/DependencyHandler.axd?s=L3NjcmlwdHMvc2xpbW1hZ2Uuc2V0dGluZ3MuanM7L3NjcmlwdHMvc2xpbW1hZ2UuanM7L2pzL2pxdWVyeS9qcXVlcnkuanM7L2pzL2pxdWVyeS9zY3JvbGwtdG8uanM7L2pzL2Jvb3RzdHJhcC9ib290c3RyYXAuanM7L2pzL2pxdWVyeS9qcXVlcnkubW9iaWxlLnRvdWNoLmpzOy9qcy9zd2lwZXIvc3dpcGVyLmpxdWVyeS5qczsvanMvYW5ndWxhci9hbmd1bGFyLmpzOy9qcy9hbmd1bGFyL2FuZ3VsYXItc2FuaXRpemUuanM7L2pzL2FuZ3VsYXIvYW5ndWxhci1jb29raWVzLmpzOy9zY3JpcHRzL2RuYi5qczsvc2NyaXB0cy9kbmIubG9jYXRpb25zLmpzOy9zY3JpcHRzL2RuYi5tYXBzLmpzOy9zY3JpcHRzL2RuYi5jYXJvdXNlbC5qczsvc2NyaXB0cy9kbmIubWVudS1mYXZvcml0ZXMuanM7L3NjcmlwdHMvZG5iLm5hdmJhci5qczsvc2NyaXB0cy9kbmIudGFicy5qczsvc2NyaXB0cy9zZXJ2aWNlcy9kbmIuYXBpLmpzOy9zY3JpcHRzL3NlcnZpY2VzL2RuYi5wcmVmZXJlbmNlcy5qczsvc2NyaXB0cy9kbmIudmFsaWRhdGlvbnMuZGlyZWN0aXZlcy5qczsvc2NyaXB0cy9kaXJlY3RpdmVzL2RuYi5kYXRlLmRpcmVjdGl2ZS5qczsvc2NyaXB0cy9jb250cm9sbGVycy9kbmIudG9wbmF2bGlua3MuY29udHJvbGxlci5qczsvc2NyaXB0cy9jb250cm9sbGVycy9kbmIuY2FyZGJhbGFuY2UuY29udHJvbGxlci5qczsvc2NyaXB0cy9jb250cm9sbGVycy9kbmIucmVnaXN0ZXJjYXJkLmNvbnRyb2xsZXIuanM7L3NjcmlwdHMvY29udHJvbGxlcnMvZG5iLnNpZ25pbi5jb250cm9sbGVyLmpzOy9zY3JpcHRzL2NvbnRyb2xsZXJzL2RuYi5zaWdudXAuY29udHJvbGxlci5qczsvc2NyaXB0cy9jb250cm9sbGVycy9kbmIuZm9yZ290cG9pbnRzLmNvbnRyb2xsZXIuanM7L3NjcmlwdHMvY29udHJvbGxlcnMvZG5iLnVwZGF0ZXByb2ZpbGUuY29udHJvbGxlci5qczsvc2NyaXB0cy9jb250cm9sbGVycy9kbmIuZXZlbnRzdGFiLmNvbnRyb2xsZXIuanM7L3NjcmlwdHMvcGFyYWxsYXguanM7L3NjcmlwdHMvdmFsaWRhdG9yLmpzOy9zY3JpcHRzL2Jvb3RzdHJhcC1kYXRlcGlja2VyLmpzOy9zY3JpcHRzL2RuYi5hY2NvcmRpb24uanM7L3NjcmlwdHMvZG5iLnNjcm9sbC5qczsvc2NyaXB0cy9kbmIuYWNjZXNzaWJpbGl0eS5qczs&amp;t=Javascript&amp;cdv=1326383" type="text/javascript"></script><script src="https://maps.googleapis.com/maps/api/js?client=gme-daveandbustersinc&amp;libraries=geometry" type="text/javascript"></script>
+    <!-- CSS -->
+
+    <link href="/DependencyHandler.axd?s=L2Nzcy9kbmItY29yZS5jc3M7&amp;t=Css&amp;cdv=1326383" type="text/css" rel="stylesheet"><link href="/DependencyHandler.axd?s=L2Nzcy9kbmItaW50cm9zLmNzczs&amp;t=Css&amp;cdv=1326383" type="text/css" rel="stylesheet"><link href="/DependencyHandler.axd?s=L2Nzcy9kbmItbG9jYXRpb25zLmNzczs&amp;t=Css&amp;cdv=1326383" type="text/css" rel="stylesheet"><link href="/DependencyHandler.axd?s=L2Nzcy9kbmItc3R5bGUuY3NzOw&amp;t=Css&amp;cdv=1326383" type="text/css" rel="stylesheet"><link href="/DependencyHandler.axd?s=L2Nzcy9kbmItcGFydGlhbHMuY3NzOw&amp;t=Css&amp;cdv=1326383" type="text/css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="">
       
-        
-        #wrapper #headerContainer
-        {
-            height: 280px;
+      <div class="busy-overlay"></div>
+      <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TBDXN2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TBDXN2');</script>
+<!-- End Google Tag Manager -->
+      <script type="text/javascript" language="javascript">
+
+    /* SiteCatalyst code version: H.20.2.
+    Copyright 1997-2009 Omniture, Inc. More info available at
+    http://www.omniture.com */
+    /*updated by Ansira 20130116*/
+    /************************ ADDITIONAL FEATURES ************************
+    Plugins
+    */
+
+    var s_account = "dabprod"
+var s = s_gi(s_account)
+/************************** CONFIG SECTION **************************/
+/* You may add or alter any code config here. */
+/* Conversion Config */
+s.currencyCode = "USD"
+/* Link Tracking Config */
+s.trackDownloadLinks = true
+s.trackExternalLinks = true
+s.trackInlineStats = true
+s.linkDownloadFileTypes = "exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx,sis,sisx,deb,install" // added 20110707
+s.linkInternalFilters = "javascript:,daveandbusters.com,razordriven.com,bestsportsbarever.com" //updated 20121113
+s.linkLeaveQueryString = false
+s.linkTrackEvents = "None"
+s.linkTrackVars = "prop12,prop13,prop14,prop15,eVar12,eVar13,eVar14,eVar15"; //updated KMH 20130116
+
+/* Form Analysis Config (should be above doPlugins section) */
+s.formList = "EventPlanner"
+s.trackFormList = true
+s.trackPageName = true
+s.useCommerce = false
+
+s.varUsed = "prop10,prop16,prop17" // CHANGE TO THE CORRECT s.prop
+s.eventList = "" //Abandon,Success,Error
+
+/* Plugin Config */
+s.usePlugins = true
+function s_doPlugins(s) {
+    /* Add calls to plugins here */
+
+    /********************************************************************
+    *
+    * Commented example of how to use this is doPlugins function
+    *
+    *******************************************************************/
+
+    /*Set pageName to URL filepath - ADDED KMH 20130116*/
+    if (!s.pageName)
+        s.pageName = window.location.pathname;
+
+    /*Turn PageName to LowerCase - ADDED KMH 20130116*/
+    if (s.pageName)
+        s.pageName = s.pageName.toLowerCase();
+
+    s.hbx_lt = "auto" // manual, auto
+    s.setupLinkTrack("prop12,prop13,prop14,", "SC_LINKS");
+
+
+    /* Link Click - Page Link URL - ADDED KMH 20130116 */
+    if (s.prop14) {
+        //Modified by Vishu: TFS Workitem#156
+        //s.prop15 = s.prop15 + "|" + s.pageName;
+        s.prop15 = s.prop13 + "|" + s.pageName;
+        s.eVar15 = s.prop15 = s.prop15.toLowerCase();
+    }
+
+    if (s.prop12)
+        s.eVar12 = s.prop12;
+
+    if (s.prop13)
+        s.eVar13 = s.prop13;
+
+    if (s.prop14)
+        s.eVar14 = s.prop14;
+
+
+    /* Populate taxonomy */
+    if (s.pageName && s.pageName != '') {
+        var splitPageName = s.pageName.split("/");
+        s.eVar36 = s.prop4 = splitPageName[1] + "/" + splitPageName[2] + "/" + splitPageName[3] + "/" + splitPageName[4] + "/" + splitPageName[5];
+        s.eVar35 = s.prop3 = splitPageName[1] + "/" + splitPageName[2] + "/" + splitPageName[3] + "/" + splitPageName[4];
+        s.eVar34 = s.prop2 = splitPageName[1] + "/" + splitPageName[2] + "/" + splitPageName[3];
+        s.eVar33 = s.prop1 = splitPageName[1] + "/" + splitPageName[2];
+        s.channel = splitPageName[1];
+    }
+
+
+
+    // Plugin Example: getNewRepeat 1.0
+    //s.prop5=s.getNewRepeat();
+
+    s.prop18 = s.getNewRepeat();
+    s.eVar8 = s.prop18;
+
+    /* Individual ID - added 20110816 */
+    if (!s.prop29)
+        s.prop29 = s.getQueryParam('indvdl');
+    s.prop29 = s.getAndPersistValue(s.prop29, 's_prop29', 1825);
+
+    if (s.prop29)
+        s.evar29 = s.prop29;
+
+    /* External Campaigns */
+    if (!s.campaign)
+        s.campaign = s.getQueryParam('cmpid');
+
+    /* Campaign Tracking Code populated to Traffic Variable 33 - added 20120216 */
+    if (s.campaign)
+        s.prop33 = s.campaign;
+
+    /* Internal Campaigns */
+    if (!s.eVar4)
+        s.eVar4 = s.getQueryParam('intcmp');
+
+    /* Promotional Offer - sepromo added 20110707 - id added 20110725 */
+    if (!s.prop31)
+        s.prop31 = s.getQueryParam('sepromo');
+
+    if (!s.prop31)
+        s.prop31 = s.getQueryParam('id');
+
+    if (s.prop31)
+        s.eVar31 = s.prop31;
+
+    /* Displayed Phone Number - added 20110707 */
+    if (!s.prop32)
+        s.prop32 = s.getQueryParam('ad');
+    if (s.prop32)
+        s.eVar32 = s.prop32;
+
+    /* Page URL - added 20110707 */
+    if (!s.prop19)
+        s.prop19 = s.pageURL;
+    if (s.prop19)
+        s.eVar19 = s.prop19;
+
+
+    /* Site Search */
+    if (!s.prop5)
+        s.prop5 = s.getQueryParam('search'); //added 20110707
+    if (s.prop5) {
+        s.prop5 = s.prop5.toLowerCase();
+        s.eVar5 = s.prop5;
+        s.events = s.apl(s.events, "event13", ",", 2); //added 20110707			
+        var t_search = s.getValOnce(s.eVar5, 'ev5', 0);
+        if (t_search) {
+            s.events = s.apl(s.events, "event5", ",", 2);
         }
- }
-    </style>
+    }
+    //optional Search Orgination Page
+    s.prop11 = s.getPreviousValue(s.pageName, 'gpv_p11', 'event5');
 
-    <!-- This is for Slide Show -->
-    <link rel="stylesheet" href="../css/dave/nivo-gallery.css" type="text/css" media="screen">
-    <script type="text/javascript" src="../js/jquery.nivo.gallery.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('#gallery').nivoGallery();
-        });
-    </script>
-    <!-- End of script -->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    /* Direct Influence Pages */
+    s.eVar3 = s.pageName;
 
-<body>
-        <!-- Site catalyst script. Talk to Vishu before removing. -->
-    <script type="text/javascript" language="javascript">
-
-        /* SiteCatalyst code version: H.20.2.
-        Copyright 1997-2009 Omniture, Inc. More info available at
-        http://www.omniture.com */
-        /*updated by Ansira 20130116*/
-        /************************ ADDITIONAL FEATURES ************************
-        Plugins
-        */
-
-        var s_account = "dabprod"
-        var s = s_gi(s_account)
-        /************************** CONFIG SECTION **************************/
-        /* You may add or alter any code config here. */
-        /* Conversion Config */
-        s.currencyCode = "USD"
-        /* Link Tracking Config */
-        s.trackDownloadLinks = true
-        s.trackExternalLinks = true
-        s.trackInlineStats = true
-        s.linkDownloadFileTypes = "exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx,sis,sisx,deb,install" // added 20110707
-        s.linkInternalFilters = "javascript:,daveandbusters.com,razordriven.com,bestsportsbarever.com" //updated 20121113
-        s.linkLeaveQueryString = false
-        s.linkTrackEvents = "None"
-        s.linkTrackVars = "prop12,prop13,prop14,prop15,eVar12,eVar13,eVar14,eVar15"; //updated KMH 20130116
-
-        /* Form Analysis Config (should be above doPlugins section) */
-        s.formList = "EventPlanner"
-        s.trackFormList = true
-        s.trackPageName = true
-        s.useCommerce = false
-
-        s.varUsed = "prop10,prop16,prop17" // CHANGE TO THE CORRECT s.prop
-        s.eventList = "" //Abandon,Success,Error
-
-        /* Plugin Config */
-        s.usePlugins = true
-        function s_doPlugins(s) {
-            /* Add calls to plugins here */
-
-            /********************************************************************
-            *
-            * Commented example of how to use this is doPlugins function
-            *
-            *******************************************************************/
-
-            /*Set pageName to URL filepath - ADDED KMH 20130116*/
-            if (!s.pageName)
-                s.pageName = window.location.pathname;
-
-            /*Turn PageName to LowerCase - ADDED KMH 20130116*/
-            if (s.pageName)
-                s.pageName = s.pageName.toLowerCase();
-
-            s.hbx_lt = "auto" // manual, auto
-            s.setupLinkTrack("prop12,prop13,prop14,", "SC_LINKS");
+    /* Conversion Events - added 20110707  */
+    if (!s.prop24)
+        s.prop24 = s.events;
+    if (s.prop24)
+        s.eVar24 = s.prop24;
 
 
-            /* Link Click - Page Link URL - ADDED KMH 20130116 */
-            if (s.prop14) {
-                //Modified by Vishu: TFS Workitem#156
-                //s.prop15 = s.prop15 + "|" + s.pageName;
-                s.prop15 = s.prop13 + "|" + s.pageName;
-                s.eVar15 = s.prop15 = s.prop15.toLowerCase();
-            }
-
-            if (s.prop12)
-                s.eVar12 = s.prop12;
-
-            if (s.prop13)
-                s.eVar13 = s.prop13;
-
-            if (s.prop14)
-                s.eVar14 = s.prop14;
+    if (s.prop23)
+        s.eVar23 = s.prop23;
 
 
-            /* Populate taxonomy */
-            if (s.pageName && s.pageName != '') {
-                var splitPageName = s.pageName.split("/");
-                s.eVar36 = s.prop4 = splitPageName[1] + "/" + splitPageName[2] + "/" + splitPageName[3] + "/" + splitPageName[4] + "/" + splitPageName[5];
-                s.eVar35 = s.prop3 = splitPageName[1] + "/" + splitPageName[2] + "/" + splitPageName[3] + "/" + splitPageName[4];
-                s.eVar34 = s.prop2 = splitPageName[1] + "/" + splitPageName[2] + "/" + splitPageName[3];
-                s.eVar33 = s.prop1 = splitPageName[1] + "/" + splitPageName[2];
-                s.channel = splitPageName[1];
-            }
+    /* Visit Number - persist session value and assign eVar - ADDED KMH 20130116 */
+    s.eVar9 = s.prop34 = s.getVisitNum();
 
+    /* Days Since Last Visit - persist session value and assign eVar - ADDED KMH 20130116 */
+    s.eVar10 = s.prop35 = s.getDaysSinceLastVisit('s_prop35');
 
+    //Sitecatalyst and Sales force Integration
+    s.evar17 = s.prop37 = s.getQueryParam('cid');
+    //CreateCookie
+    if (s.evar17 != '' && s.evar17 != '')
+        createCookie("s_prop37", s.evar17, 30);
 
-            // Plugin Example: getNewRepeat 1.0
-            //s.prop5=s.getNewRepeat();
+    /* Store Location - updated KMH 20130405 */
+    if (!s.prop20)
+        s.prop20 = s.getQueryParam('StoreId');
 
-            s.prop18 = s.getNewRepeat();
-            s.eVar8 = s.prop18;
-
-            /* Individual ID - added 20110816 */
-            if (!s.prop29)
-                s.prop29 = s.getQueryParam('indvdl');
-            s.prop29 = s.getAndPersistValue(s.prop29, 's_prop29', 1825);
-
-            if (s.prop29)
-                s.evar29 = s.prop29;
-
-            /* External Campaigns */
-            if (!s.campaign)
-                s.campaign = s.getQueryParam('cmpid');
-
-            /* Campaign Tracking Code populated to Traffic Variable 33 - added 20120216 */
-            if (s.campaign)
-                s.prop33 = s.campaign;
-
-            /* Internal Campaigns */
-            if (!s.eVar4)
-                s.eVar4 = s.getQueryParam('intcmp');
-
-            /* Promotional Offer - sepromo added 20110707 - id added 20110725 */
-            if (!s.prop31)
-                s.prop31 = s.getQueryParam('sepromo');
-
-            if (!s.prop31)
-                s.prop31 = s.getQueryParam('id');
-
-            if (s.prop31)
-                s.eVar31 = s.prop31;
-
-            /* Displayed Phone Number - added 20110707 */
-            if (!s.prop32)
-                s.prop32 = s.getQueryParam('ad');
-            if (s.prop32)
-                s.eVar32 = s.prop32;
-
-            /* Page URL - added 20110707 */
-            if (!s.prop19)
-                s.prop19 = s.pageURL;
-            if (s.prop19)
-                s.eVar19 = s.prop19;
-
-
-            /* Site Search */
-            if (!s.prop5)
-                s.prop5 = s.getQueryParam('search'); //added 20110707
-            if (s.prop5) {
-                s.prop5 = s.prop5.toLowerCase();
-                s.eVar5 = s.prop5;
-                s.events = s.apl(s.events, "event13", ",", 2); //added 20110707			
-                var t_search = s.getValOnce(s.eVar5, 'ev5', 0);
-                if (t_search) {
-                    s.events = s.apl(s.events, "event5", ",", 2);
-                }
-            }
-            //optional Search Orgination Page
-            s.prop11 = s.getPreviousValue(s.pageName, 'gpv_p11', 'event5');
-
-            /* Direct Influence Pages */
-            s.eVar3 = s.pageName;
-
-            /* Conversion Events - added 20110707  */
-            if (!s.prop24)
-                s.prop24 = s.events;
-            if (s.prop24)
-                s.eVar24 = s.prop24;
-
-
-            if (s.prop23)
-                s.eVar23 = s.prop23;
-
-
-            /* Visit Number - persist session value and assign eVar - ADDED KMH 20130116 */
-            s.eVar9 = s.prop34 = s.getVisitNum();
-
-            /* Days Since Last Visit - persist session value and assign eVar - ADDED KMH 20130116 */
-            s.eVar10 = s.prop35 = s.getDaysSinceLastVisit('s_prop35');
-
-            //Sitecatalyst and Sales force Integration
-            s.evar17 = s.prop37 = s.getQueryParam('cid');
-            //CreateCookie
-            if (s.evar17 != '' && s.evar17 != '')
-                createCookie("s_prop37", s.evar17, 30);
-
-            /* Store Location - updated KMH 20130405 */
-            if (!s.prop20)
-                s.prop20 = s.getQueryParam('StoreId');
-
-            if (s.prop20) {
-                var pgNm = s.pageName;
-                if (pgNm == "/contactplanner/find-a-planner") {
-                    s.eVar20 = s.prop20;
-                    s.events = "event18";
-                }
-                else if (pgNm == "/contactplanner/click-to-contact") {
-                    s.eVar20 = s.prop20;
-                    s.events = "event22";
-                }
-                else {
-                    s.eVar20 = s.prop20;
-                    s.events = "event21";
-                }
-            }
-
-            /* Enhanced download tracking */
-            s.url = s.downloadLinkHandler();
-            if (s.url) {
-                s.setupLinkTrack("prop12,prop13,prop14", "SC_LINKS");
-                s.linkTrackVars = "prop12,prop13,prop14,eVar12,eVar13,eVar14,events";
-                s.linkTrackEvents = "event4";
-                s.eVar12 = s.prop12;
-                s.eVar13 = s.prop13 = "download-" + s.prop13;
-                s.eVar14 = s.url;
-                s.events = "event4";
-            }
-
-            s.setupFormAnalysis();
-
+    if (s.prop20) {
+        var pgNm = s.pageName;
+        if (pgNm == "/contactplanner/find-a-planner") {
+            s.eVar20 = s.prop20;
+            s.events = "event18";
         }
-        s.doPlugins = s_doPlugins
+        else if (pgNm == "/contactplanner/click-to-contact") {
+            s.eVar20 = s.prop20;
+            s.events = "event22";
+        }
+        else {
+            s.eVar20 = s.prop20;
+            s.events = "event21";
+        }
+    }
 
-        /************************** PLUGINS SECTION *************************/
-        /* You may insert any plugins you wish to use here.                 */
-        /*
-        * Plugin: getNewRepeat 1.0 - Return whether user is new or repeat
-        */
-        s.getNewRepeat = new Function(""
+    /* Enhanced download tracking */
+    s.url = s.downloadLinkHandler();
+    if (s.url) {
+        s.setupLinkTrack("prop12,prop13,prop14", "SC_LINKS");
+        s.linkTrackVars = "prop12,prop13,prop14,eVar12,eVar13,eVar14,events";
+        s.linkTrackEvents = "event4";
+        s.eVar12 = s.prop12;
+        s.eVar13 = s.prop13 = "download-" + s.prop13;
+        s.eVar14 = s.url;
+        s.events = "event4";
+    }
+
+    s.setupFormAnalysis();
+
+}
+s.doPlugins = s_doPlugins
+
+/************************** PLUGINS SECTION *************************/
+/* You may insert any plugins you wish to use here.                 */
+/*
+* Plugin: getNewRepeat 1.0 - Return whether user is new or repeat
+*/
+s.getNewRepeat = new Function(""
 + "var s=this,e=new Date(),cval,ct=e.getTime(),y=e.getYear();e.setTime"
 + "(ct+30*24*60*60*1000);cval=s.c_r('s_nr');if(cval.length==0){s.c_w("
 + "'s_nr',ct,e);return 'New';}if(cval.length!=0&&ct-cval<30*60*1000){s"
 + ".c_w('s_nr',ct,e);return 'New';}if(cval<1123916400001){e.setTime(cv"
 + "al+30*24*60*60*1000);s.c_w('s_nr',ct,e);return 'Repeat';}else retur"
 + "n 'Repeat';");
-        /*
-        * Plugin: setupLinkTrack 2.0 - return links for HBX-based link 
-        *         tracking in SiteCatalyst (requires s.split and s.apl)
-        */
-        s.setupLinkTrack = new Function("vl", "c", ""
+/*
+* Plugin: setupLinkTrack 2.0 - return links for HBX-based link 
+*         tracking in SiteCatalyst (requires s.split and s.apl)
+*/
+s.setupLinkTrack = new Function("vl", "c", ""
 + "var s=this;var l=s.d.links,cv,cva,vla,h,i,l,t,b,o,y,n,oc,d='';cv=s."
 + "c_r(c);if(vl&&cv!=''){cva=s.split(cv,'^^');vla=s.split(vl,',');for("
 + "x in vla)s._hbxm(vla[x])?s[vla[x]]=cva[x]:'';}s.c_w(c,'',0);if(!s.e"
@@ -780,48 +302,48 @@ width:135px;
 + "(t&&(h||l)){cva=s.split(cv,'^^');vla=s.split(vl,',');for(x in vla)s"
 + "._hbxm(vla[x])?s[vla[x]]=cva[x]:'';}else if(!t&&oc.indexOf('.tl(')<"
 + "0){s.c_w(c,cv,0);}else return ''");
-        s._IL = new Function("a", "var s=this;return a!='undefined'?a.length:0");
-        s._II = new Function("a", "b", "c", "var s=this;return a.indexOf(b,c?c:0)"
+s._IL = new Function("a", "var s=this;return a!='undefined'?a.length:0");
+s._II = new Function("a", "b", "c", "var s=this;return a.indexOf(b,c?c:0)"
 );
-        s._IS = new Function("a", "b", "c", ""
+s._IS = new Function("a", "b", "c", ""
 + "var s=this;return b>s._IL(a)?'':a.substring(b,c!=null?c:s._IL(a))");
-        s._LN = new Function("a", "b", "c", "d", ""
+s._LN = new Function("a", "b", "c", "d", ""
 + "var s=this;b=a.href;b+=a.name?a.name:'';c=s._LVP(b,'lid');d=s._LVP("
 + "b,'lpos');r"
 + "eturn[c,d]");
-        s._LVP = new Function("a", "b", "c", "d", "e", ""
+s._LVP = new Function("a", "b", "c", "d", "e", ""
 + "var s=this;c=s._II(a,'&'+b+'=');c=c<0?s._II(a,'?'+b+'='):c;if(c>-1)"
 + "{d=s._II(a,'&',c+s._IL(b)+2);e=s._IS(a,c+s._IL(b)+2,d>-1?d:s._IL(a)"
 + ");return e}return ''");
-        s._LS = new Function("a", ""
+s._LS = new Function("a", ""
 + "var s=this,b,c=100,d,e,f,g;b=(s._IL(a)>c)?escape(s._IS(a,0,c)):esca"
 + "pe(a);b=s._LSP(b,'%0A','%20');b=s._LSP(b,'%0D','%20');b=s._LSP(b,'%"
 + "09','%20');c=s._IP(b,'%20');d=s._NA();e=0;for(f=0;f<s._IL(c);f++){g"
 + "=s._RP(c[f],'%20','');if(s._IL(g)>0){d[e++]=g}}b=d.join('%20');retu"
 + "rn unescape(b)");
-        s._LSP = new Function("a", "b", "c", "d", "var s=this;d=s._IP(a,b);return d"
+s._LSP = new Function("a", "b", "c", "d", "var s=this;d=s._IP(a,b);return d"
 + ".join(c)");
-        s._IP = new Function("a", "b", "var s=this;return a.split(b)");
-        s._RP = new Function("a", "b", "c", "d", ""
+s._IP = new Function("a", "b", "var s=this;return a.split(b)");
+s._RP = new Function("a", "b", "c", "d", ""
 + "var s=this;d=s._II(a,b);if(d>-1){a=s._RP(s._IS(a,0,d)+','+s._IS(a,d"
 + "+s._IL(b),s._IL(a)),b,c)}return a");
-        s._TL = new Function("a", "var s=this;return a.toLowerCase()");
-        s._NA = new Function("a", "var s=this;return new Array(a?a:0)");
-        s._hbxm = new Function("m", "var s=this;return (''+m).indexOf('{')<0");
-        s._hbxln = new Function("h", "var s=this,n=s.linkNames;if(n)return s.pt("
+s._TL = new Function("a", "var s=this;return a.toLowerCase()");
+s._NA = new Function("a", "var s=this;return new Array(a?a:0)");
+s._hbxm = new Function("m", "var s=this;return (''+m).indexOf('{')<0");
+s._hbxln = new Function("h", "var s=this,n=s.linkNames;if(n)return s.pt("
 + "n,',','lnf',h);return ''");
-        /*
-        * Plugin: Form Analysis 2.1 (Success, Error, Abandonment)
-        */
-        s.setupFormAnalysis = new Function(""
+/*
+* Plugin: Form Analysis 2.1 (Success, Error, Abandonment)
+*/
+s.setupFormAnalysis = new Function(""
 + "var s=this;if(!s.fa){s.fa=new Object;var f=s.fa;f.ol=s.wd.onload;s."
 + "wd.onload=s.faol;f.uc=s.useCommerce;f.vu=s.varUsed;f.vl=f.uc?s.even"
 + "tList:'';f.tfl=s.trackFormList;f.fl=s.formList;f.va=new Array('',''"
 + ",'','')}");
-        s.sendFormEvent = new Function("t", "pn", "fn", "en", ""
+s.sendFormEvent = new Function("t", "pn", "fn", "en", ""
 + "var s=this,f=s.fa;t=t=='s'?t:'e';f.va[0]=pn;f.va[1]=fn;f.va[3]=t=='"
 + "s'?'Success':en;s.fasl(t);f.va[1]='';f.va[3]='';");
-        s.faol = new Function("e", ""
+s.faol = new Function("e", ""
 + "var s=s_c_il[" + s._in + "],f=s.fa,r=true,fo,fn,i,en,t,tf;if(!e)e=s.wd."
 + "event;f.os=new Array;if(f.ol)r=f.ol(e);if(s.d.forms&&s.d.forms.leng"
 + "th>0){for(i=s.d.forms.length-1;i>=0;i--){fo=s.d.forms[i];fn=fo.name"
@@ -833,11 +355,11 @@ width:135px;
 + "g():'';if(omd.indexOf('.fam(')<0&&okd.indexOf('.fam(')<0){el.s_famd"
 + "=md;el.s_fakd=kd;el.onmousedown=s.fam;el.onkeydown=s.fam}}}}}f.ul=s"
 + ".wd.onunload;s.wd.onunload=s.fasl;}return r;");
-        s.faos = new Function("e", ""
+s.faos = new Function("e", ""
 + "var s=s_c_il[" + s._in + "],f=s.fa,su;if(!e)e=s.wd.event;if(f.vu){s[f.v"
 + "u]='';f.va[1]='';f.va[3]='';}su=f.os[this.name];return su?su(e):tru"
 + "e;");
-        s.fasl = new Function("e", ""
+s.fasl = new Function("e", ""
 + "var s=s_c_il[" + s._in + "],f=s.fa,a=f.va,l=s.wd.location,ip=s.trackPag"
 + "eName,p=s.pageName;if(a[1]!=''&&a[3]!=''){a[0]=!p&&ip?l.host+l.path"
 + "name:a[0]?a[0]:p;if(!f.uc&&a[3]!='No Data Entered'){if(e=='e')a[2]="
@@ -852,7 +374,7 @@ width:135px;
 + "vu:ltv+','+f.vu}s[f.vu]=ym;s.usePlugins=false;var faLink=new Object"
 + "();faLink.href='#';s.tl(faLink,'o','Form Analysis');s[f.vu]='';s.us"
 + "ePlugins=up}return f.ul&&e!='e'&&e!='s'?f.ul(e):true;");
-        s.fam = new Function("e", ""
+s.fam = new Function("e", ""
 + "var s=s_c_il[" + s._in + "],f=s.fa;if(!e) e=s.wd.event;var o=s.trackLas"
 + "tChanged,et=e.type.toUpperCase(),t=this.type.toUpperCase(),fn=this."
 + "form.name,en=this.name,sc=false;if(document.layers){kp=e.which;b=e."
@@ -864,79 +386,79 @@ width:135px;
 + "1]=fn;f.va[3]=en;sc=true}if(sc){nface=en;nfacf=fn}}if(et==1&&this.s"
 + "_famd)return this.s_famd(e);if(et==2&&this.s_fakd)return this.s_fak"
 + "d(e);");
-        s.ee = new Function("e", "n", ""
+s.ee = new Function("e", "n", ""
 + "return n&&n.toLowerCase?e.toLowerCase()==n.toLowerCase():false;");
-        s.fage = new Function("e", "a", ""
+s.fage = new Function("e", "a", ""
 + "var s=this,f=s.fa,x=f.cnt;x=x?x+1:1;f.cnt=x;return x==a?e:'';");
-        /*
-        * Plugin: getQueryParam 2.1 - return query string parameter(s)
-        */
-        s.getQueryParam = new Function("p", "d", "u", ""
+/*
+* Plugin: getQueryParam 2.1 - return query string parameter(s)
+*/
+s.getQueryParam = new Function("p", "d", "u", ""
 + "var s=this,v='',i,t;d=d?d:'';u=u?u:(s.pageURL?s.pageURL:s.wd.locati"
 + "on);if(u=='f')u=s.gtfs().location;while(p){i=p.indexOf(',');i=i<0?p"
 + ".length:i;t=s.p_gpv(p.substring(0,i),u+'');if(t)v+=v?d+t:t;p=p.subs"
 + "tring(i==p.length?i:i+1)}return v");
-        s.p_gpv = new Function("k", "u", ""
+s.p_gpv = new Function("k", "u", ""
 + "var s=this,v='',i=u.indexOf('?'),q;if(k&&i>-1){q=u.substring(i+1);v"
 + "=s.pt(q,'&','p_gvf',k)}return v");
-        s.p_gvf = new Function("t", "k", ""
+s.p_gvf = new Function("t", "k", ""
 + "if(t){var s=this,i=t.indexOf('='),p=i<0?t:t.substring(0,i),v=i<0?'T"
 + "rue':t.substring(i+1);if(p.toLowerCase()==k.toLowerCase())return s."
 + "epa(v)}return ''");
-        /*
-        * Plugin: getValOnce 0.2 - get a value once per session or number of days
-        */
-        s.getValOnce = new Function("v", "c", "e", ""
+/*
+* Plugin: getValOnce 0.2 - get a value once per session or number of days
+*/
+s.getValOnce = new Function("v", "c", "e", ""
 + "var s=this,k=s.c_r(c),a=new Date;e=e?e:0;if(v){a.setTime(a.getTime("
 + ")+e*86400000);s.c_w(c,v,e?a:0);}return v==k?'':v");
-        /*
-        * Utility Function: split v1.5 - split a string (JS 1.0 compatible)
-        */
-        s.split = new Function("l", "d", ""
+/*
+* Utility Function: split v1.5 - split a string (JS 1.0 compatible)
+*/
+s.split = new Function("l", "d", ""
 + "var i,x=0,a=new Array;while(l){i=l.indexOf(d);i=i>-1?i:l.length;a[x"
 + "++]=l.substring(0,i);l=l.substring(i+d.length);}return a");
-        /*
-        * Plugin Utility: apl v1.1
-        */
-        s.apl = new Function("L", "v", "d", "u", ""
+/*
+* Plugin Utility: apl v1.1
+*/
+s.apl = new Function("L", "v", "d", "u", ""
 + "var s=this,m=0;if(!L)L='';if(u){var i,n,a=s.split(L,d);for(i=0;i<a."
 + "length;i++){n=a[i];m=m||(u==1?(n==v):(n.toLowerCase()==v.toLowerCas"
 + "e()));}}if(!m)L=L?L+d+v:v;return L");
-        /*
-        * Plugin: getPreviousValue_v1.0 - return previous value of designated
-        *   variable (requires split utility)
-        */
-        s.getPreviousValue = new Function("v", "c", "el", ""
+/*
+* Plugin: getPreviousValue_v1.0 - return previous value of designated
+*   variable (requires split utility)
+*/
+s.getPreviousValue = new Function("v", "c", "el", ""
 + "var s=this,t=new Date,i,j,r='';t.setTime(t.getTime()+1800000);if(el"
 + "){if(s.events){i=s.split(el,',');j=s.split(s.events,',');for(x in i"
 + "){for(y in j){if(i[x]==j[y]){if(s.c_r(c)) r=s.c_r(c);v?s.c_w(c,v,t)"
 + ":s.c_w(c,'no value',t);return r}}}}}else{if(s.c_r(c)) r=s.c_r(c);v?"
 + "s.c_w(c,v,t):s.c_w(c,'no value',t);return r}");
-        /*
-        * Plugin: downloadLinkHandler 0.5 - identify and report download links
-        */
-        s.downloadLinkHandler = new Function("p", ""
+/*
+* Plugin: downloadLinkHandler 0.5 - identify and report download links
+*/
+s.downloadLinkHandler = new Function("p", ""
 + "var s=this,h=s.p_gh(),n='linkDownloadFileTypes',i,t;if(!h||(s.linkT"
 + "ype&&(h||s.linkName)))return '';i=h.indexOf('?');t=s[n];s[n]=p?p:t;"
 + "if(s.lt(h)=='d')s.linkType='d';else h='';s[n]=t;return h;");
-        /*
-        * Utility Function: p_gh
-        */
-        s.p_gh = new Function(""
+/*
+* Utility Function: p_gh
+*/
+s.p_gh = new Function(""
 + "var s=this;if(!s.eo&&!s.lnk)return '';var o=s.eo?s.eo:s.lnk,y=s.ot("
 + "o),n=s.oid(o),x=o.s_oidt;if(s.eo&&o==s.eo){while(o&&!n&&y!='BODY'){"
 + "o=o.parentElement?o.parentElement:o.parentNode;if(!o)return '';y=s."
 + "ot(o);n=s.oid(o);x=o.s_oidt}}return o.href?o.href:'';");
-        /*
-        * Plugin: getAndPersistValue 0.3 - get a value on every page
-        */
-        s.getAndPersistValue = new Function("v", "c", "e", ""
+/*
+* Plugin: getAndPersistValue 0.3 - get a value on every page
+*/
+s.getAndPersistValue = new Function("v", "c", "e", ""
 + "var s=this,a=new Date;e=e?e:0;a.setTime(a.getTime()+e*86400000);if("
 + "v)s.c_w(c,v,e?a:0);return s.c_r(c);");
-        /*
-        * Plugin: Days since last Visit 1.1 - capture time from last visit
-        */
-        s.getDaysSinceLastVisit = new Function("c", ""
+/*
+* Plugin: Days since last Visit 1.1 - capture time from last visit
+*/
+s.getDaysSinceLastVisit = new Function("c", ""
 + "var s=this,e=new Date(),es=new Date(),cval,cval_s,cval_ss,ct=e.getT"
 + "ime(),day=24*60*60*1000,f1,f2,f3,f4,f5;e.setTime(ct+3*365*day);es.s"
 + "etTime(ct+30*60*1000);f0='Cookies Not Supported';f1='First Visit';f"
@@ -950,10 +472,10 @@ width:135px;
 + "+'_s',cval_ss,es);}}cval_s=s.c_r(c+'_s');if(cval_s.length==0) retur"
 + "n f0;else if(cval_s!=f1&&cval_s!=f2&&cval_s!=f3&&cval_s!=f4&&cval_s"
 + "!=f5) return '';else return cval_s;");
-        /*                                                                  
-        * Plugin: getVisitNum - version 3.0
-        */
-        s.getVisitNum = new Function("tp", "c", "c2", ""
+/*                                                                  
+* Plugin: getVisitNum - version 3.0
+*/
+s.getVisitNum = new Function("tp", "c", "c2", ""
 + "var s=this,e=new Date,cval,cvisit,ct=e.getTime(),d;if(!tp){tp='m';}"
 + "if(tp=='m'||tp=='w'||tp=='d'){eo=s.endof(tp),y=eo.getTime();e.setTi"
 + "me(y);}else {d=tp*86400000;e.setTime(ct+d);}if(!c){c='s_vnum';}if(!"
@@ -964,18 +486,18 @@ width:135px;
 + "ng(0,i);e.setTime(k);s.c_w(c,k+'&vn='+str,e);e.setTime(ct+1800000);"
 + "s.c_w(c2,'true',e);return str;}else {s.c_w(c,e.getTime()+'&vn=1',e)"
 + ";e.setTime(ct+1800000);s.c_w(c2,'true',e);return 1;}}");
-        s.dimo = new Function("m", "y", ""
+s.dimo = new Function("m", "y", ""
 + "var d=new Date(y,m+1,0);return d.getDate();");
-        s.endof = new Function("x", ""
+s.endof = new Function("x", ""
 + "var t=new Date;t.setHours(0);t.setMinutes(0);t.setSeconds(0);if(x=="
 + "'m'){d=s.dimo(t.getMonth(),t.getFullYear())-t.getDate()+1;}else if("
 + "x=='w'){d=7-t.getDay();}else {d=1;}t.setDate(t.getDate()+d);return "
 + "t;");
-        /*
-        *	Plug-in: crossVisitParticipation v1.7 - stacks values from
-        *	specified variable in cookie and returns value
-        */
-        s.crossVisitParticipation = new Function("v", "cn", "ex", "ct", "dl", "ev", "dv", ""
+/*
+*	Plug-in: crossVisitParticipation v1.7 - stacks values from
+*	specified variable in cookie and returns value
+*/
+s.crossVisitParticipation = new Function("v", "cn", "ex", "ct", "dl", "ev", "dv", ""
 + "var s=this,ce;if(typeof(dv)==='undefined')dv=0;if(s.events&&ev){var"
 + " ay=s.split(ev,',');var ea=s.split(s.events,',');for(var u=0;u<ay.l"
 + "ength;u++){for(var x=0;x<ea.length;x++){if(ay[u]==ea[x]){ce=1;}}}}i"
@@ -992,24 +514,24 @@ width:135px;
 + "]);a[g]=[arry[x][0],arry[x][1]];g++;}}var data=s.join(a,{delim:',',"
 + "front:'[',back:']',wrap:\"'\"});s.c_w(cn,data,e);var r=s.join(h,{deli"
 + "m:dl});if(ce)s.c_w(cn,'');return r;");
-        /*
-        * Plugin: exitLinkHandler 0.5 - identify and report exit links
-        */
-        s.exitLinkHandler = new Function("p", ""
+/*
+* Plugin: exitLinkHandler 0.5 - identify and report exit links
+*/
+s.exitLinkHandler = new Function("p", ""
 + "var s=this,h=s.p_gh(),n='linkInternalFilters',i,t;if(!h||(s.linkTyp"
 + "e&&(h||s.linkName)))return '';i=h.indexOf('?');t=s[n];s[n]=p?p:t;h="
 + "s.linkLeaveQueryString||i<0?h:h.substring(0,i);if(s.lt(h)=='e')s.li"
 + "nkType='e';else h='';s[n]=t;return h;");
 
-        /* WARNING: Changing any of the below variables will cause drastic
-        changes to how your visitor data is collected.  Changes should only be
-        made when instructed to do so by your account manager.*/
-        s.visitorNamespace = "daveandbusters"
-        s.dc = "122"
+/* WARNING: Changing any of the below variables will cause drastic
+changes to how your visitor data is collected.  Changes should only be
+made when instructed to do so by your account manager.*/
+s.visitorNamespace = "daveandbusters"
+s.dc = "122"
 
-        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-        var s_code = '', s_objectID; function s_gi(un, pg, ss) {
-            var c = "=fun`o(~){`Ps=^O~.substring(~#1 ~.indexOf(~;@z~`e@z~=new Fun`o(~.length~.toLowerCase()~`Ps#7c_il['+s^Zn+'],~=new Object~};s.~`YMigrationServer~"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = '', s_objectID; function s_gi(un, pg, ss) {
+    var c = "=fun`o(~){`Ps=^O~.substring(~#1 ~.indexOf(~;@z~`e@z~=new Fun`o(~.length~.toLowerCase()~`Ps#7c_il['+s^Zn+'],~=new Object~};s.~`YMigrationServer~"
 + ".toUpperCase~){@z~','~s.wd~);s.~')q='~=new Array~ookieDomainPeriods~.location~^LingServer~dynamicAccount~var ~link~s.m_~s.apv~BufferedRequests~=='~Element~)@zx^a!Object#VObject.prototype#VObject.pr"
 + "ototype[x])~etTime~visitor~$u@a(~referrer~s.pt(~s.maxDelay~}c#D(e){~else ~.lastIndexOf(~^xc_i~.protocol~=new Date~^xobjectID=s.ppu=$E=$Ev1=$Ev2=$Ev3=~#e+~=''~}@z~@ji=~ction~javaEnabled~onclick~Name"
 + "~ternalFilters~javascript~s.dl~@6s.b.addBehavior(\"# default# ~=parseFloat(~typeof(v)==\"~window~cookie~while(~s.vl_g~Type~;i#T{~tfs~s.un~;v=^sv,255)}~&&s.~o^xoid~browser~.parent~document~colorDept"
@@ -1085,868 +607,330 @@ width:135px;
 + "ist$g^R2=',tnt,pe#91#92#93,^c,^C,`t^u,`p,`z@G,^9@B,^9^k,@d`o^2,@5,p^S';@D+=^R2;@n@p@D,`G`Ivl_g=@D+',`N,`N^j,`NBase,fpC`L,@Q`T,#2,`Y^W,`Y^W#P`OSele`o,`OList,`OM#D,^LDow^MLinks,^L@K,^L@e,`Q@s^D,`QDow"
 + "^MFile^2s,`QEx`s,`QIn`s,`Q@gVa$l`Q@g^Ys,`Q`rs,@M,eo,_1_`a$zg@p^1,`G`Ipg=pg#L^1)`5!ss)`Hs()",
 w = window, l = w.s_c_il, n = navigator, u = n.userAgent, v = n.appVersion, e = v.indexOf('MSIE '), m = u.indexOf('Netscape6/'), a, i, s; if (un) { un = un.toLowerCase(); if (l) for (i = 0; i < l.length; i++) { s = l[i]; if (!s._c || s._c == 's_c') { if (s.oun == un) return s; else if (s.fs && s.sa && s.fs(s.oun, un)) { s.sa(un); return s } } } } w.s_an = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
-            w.s_sp = new Function("x", "d", "var a=new Array,i=0,j;if(x){if(x.split)a=x.split(d);else if(!d)for(i=0;i<x.length;i++)a[a.length]=x.substring(i,i+1);else while(i>=0){j=x.indexOf(d,i);a[a.length]=x.subst"
+    w.s_sp = new Function("x", "d", "var a=new Array,i=0,j;if(x){if(x.split)a=x.split(d);else if(!d)for(i=0;i<x.length;i++)a[a.length]=x.substring(i,i+1);else while(i>=0){j=x.indexOf(d,i);a[a.length]=x.subst"
 + "ring(i,j<0?x.length:j);i=j;if(i>=0)i+=d.length}}return a");
-            w.s_jn = new Function("a", "d", "var x='',i,j=a.length;if(a&&j>0){x=a[0];if(j>1){if(a.join)x=a.join(d);else for(i=1;i<j;i++)x+=d+a[i]}}return x");
-            w.s_rep = new Function("x", "o", "n", "return s_jn(s_sp(x,o),n)");
-            w.s_d = new Function("x", "var t='`^@$#',l=s_an,l2=new Object,x2,d,b=0,k,i=x.lastIndexOf('~~'),j,v,w;if(i>0){d=x.substring(0,i);x=x.substring(i+2);l=s_sp(l,'');for(i=0;i<62;i++)l2[l[i]]=i;t=s_sp(t,'');d"
+    w.s_jn = new Function("a", "d", "var x='',i,j=a.length;if(a&&j>0){x=a[0];if(j>1){if(a.join)x=a.join(d);else for(i=1;i<j;i++)x+=d+a[i]}}return x");
+    w.s_rep = new Function("x", "o", "n", "return s_jn(s_sp(x,o),n)");
+    w.s_d = new Function("x", "var t='`^@$#',l=s_an,l2=new Object,x2,d,b=0,k,i=x.lastIndexOf('~~'),j,v,w;if(i>0){d=x.substring(0,i);x=x.substring(i+2);l=s_sp(l,'');for(i=0;i<62;i++)l2[l[i]]=i;t=s_sp(t,'');d"
 + "=s_sp(d,'~');i=0;while(i<5){v=0;if(x.indexOf(t[i])>=0) {x2=s_sp(x,t[i]);for(j=1;j<x2.length;j++){k=x2[j].substring(0,1);w=t[i]+k;if(k!=' '){v=1;w=d[b+l2[k]]}x2[j]=w+x2[j].substring(1)}}if(v)x=s_jn("
 + "x2,'');else{w=t[i]+' ';if(x.indexOf(w)>=0)x=s_rep(x,w,t[i]);i++;b+=62}}}return x");
-            w.s_fe = new Function("c", "return s_rep(s_rep(s_rep(c,'\\\\','\\\\\\\\'),'\"','\\\\\"'),\"\\n\",\"\\\\n\")");
-            w.s_fa = new Function("f", "var s=f.indexOf('(')+1,e=f.indexOf(')'),a='',c;while(s>=0&&s<e){c=f.substring(s,s+1);if(c==',')a+='\",\"';else if((\"\\n\\r\\t \").indexOf(c)<0)a+=c;s++}return a?'\"'+a+'\"':"
+    w.s_fe = new Function("c", "return s_rep(s_rep(s_rep(c,'\\\\','\\\\\\\\'),'\"','\\\\\"'),\"\\n\",\"\\\\n\")");
+    w.s_fa = new Function("f", "var s=f.indexOf('(')+1,e=f.indexOf(')'),a='',c;while(s>=0&&s<e){c=f.substring(s,s+1);if(c==',')a+='\",\"';else if((\"\\n\\r\\t \").indexOf(c)<0)a+=c;s++}return a?'\"'+a+'\"':"
 + "a");
-            w.s_ft = new Function("c", "c+='';var s,e,o,a,d,q,f,h,x;s=c.indexOf('=function(');while(s>=0){s++;d=1;q='';x=0;f=c.substring(s);a=s_fa(f);e=o=c.indexOf('{',s);e++;while(d>0){h=c.substring(e,e+1);if(q){i"
+    w.s_ft = new Function("c", "c+='';var s,e,o,a,d,q,f,h,x;s=c.indexOf('=function(');while(s>=0){s++;d=1;q='';x=0;f=c.substring(s);a=s_fa(f);e=o=c.indexOf('{',s);e++;while(d>0){h=c.substring(e,e+1);if(q){i"
 + "f(h==q&&!x)q='';if(h=='\\\\')x=x?0:1;else x=0}else{if(h=='\"'||h==\"'\")q=h;if(h=='{')d++;if(h=='}')d--}if(d>0)e++}c=c.substring(0,s)+'new Function('+(a?a+',':'')+'\"'+s_fe(c.substring(o+1,e))+'\")"
 + "'+c.substring(e+1);s=c.indexOf('=function(')}return c;");
-            c = s_d(c); if (e > 0) { a = parseInt(i = v.substring(e + 5)); if (a > 3) a = parseFloat(i) } else if (m > 0) a = parseFloat(u.substring(m + 10)); else a = parseFloat(v); if (a >= 5 && v.indexOf('Opera') < 0 && u.indexOf('Opera') < 0) { w.s_c = new Function("un", "pg", "ss", "var s=this;" + c); return new s_c(un, pg, ss) } else s = new Function("un", "pg", "ss", "var s=new Object;" + s_ft(c) + ";return s"); return s(un, pg, ss)
-        }
-    </script>
+    c = s_d(c); if (e > 0) { a = parseInt(i = v.substring(e + 5)); if (a > 3) a = parseFloat(i) } else if (m > 0) a = parseFloat(u.substring(m + 10)); else a = parseFloat(v); if (a >= 5 && v.indexOf('Opera') < 0 && u.indexOf('Opera') < 0) { w.s_c = new Function("un", "pg", "ss", "var s=this;" + c); return new s_c(un, pg, ss) } else s = new Function("un", "pg", "ss", "var s=new Object;" + s_ft(c) + ";return s"); return s(un, pg, ss)
+}
+</script>
 
 <script language="JavaScript" type="text/javascript">
     <!--
     if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
-    -->
+-->
 </script>
 <noscript><img src="http://daveandbusters.122.2o7.net/b/ss/dabprod/1/H.25--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.25. -->
 
+      
+      <script>
+    // check the mockApiRest parameter in which case we load the dnb.api.mocks javascript to
+    // mock some API calls.
+    var mock = document.location.search.indexOf("mockRestApi=true") > -1;
+    if (mock) {
+        console.log("Loading the Mock Api");
+
+        // In order to mock the DnB Web Api, we need to load the angular-mocks.js and then the dnbApi-mocks.js
+        $.ajax({
+            url: '/js/angular/angular-mocks.js',
+            dataType: "script",
+            success: function () {
+                $.ajax({
+                    url: '/Scripts/services/dnb.api-mocks.js',
+                    dataType: "script",
+                    success: function () {
+                        angular.element(document).ready(function () {
+                            angular.bootstrap(document, ['dnbApiModuleMock', 'ngCookies', 'topNavLinksModule', 'loginModule', 'registerCardModule', 'cardBalanceModule', 'signUpModule', 'forgotPointsModule', 'updateProfileModule', 'eventsTabModule']);
+                        });
+                    }
+                });
+            }
+        });
+    }
+    else {
+        angular.element(document).ready(function () {
+            angular.bootstrap(document, ['ngCookies', 'topNavLinksModule', 'loginModule', 'registerCardModule', 'cardBalanceModule', 'signUpModule', 'forgotPointsModule', 'updateProfileModule', 'eventsTabModule']);
+        });
+    }
+</script>
+
+      
+<div class="header container-fluid">
+    <!-- Top Navbar -->
+    <div class="container menu">
+
+
+        <div class="logo">
+                <a href="/"><img src="/media/1023/logo_no_shadow.png" alt="Dave and Busters Logo"></a>
+        </div>
+        
+        <!-- login modal -->
+        <div class="modal signin fade" id="login-modal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+            <div class="modal-dialog">
+                <div class="dnb-loginmodal-container" ng-controller="SignInController">
+                    <div class="login-panel">
+
+                        <form name="signInForm" ng-submit="submitLogin()" ng-show="loginForm.show" novalidate="">
+                            <fieldset ng-disabled="loginForm.isProcessing">
+                                <input type="email" title="Email Address" name="user" placeholder="Email Address" ng-model="loginForm.email" ng-required="true">
+                                <input type="password" title="Password" name="pass" placeholder="Password" ng-model="loginForm.password" ng-required="true">
+
+                                <div class="message-error" ng-show="loginForm.showError &amp;&amp; (loginForm.errorMsg || signInForm.$invalid)">
+                                    <img src="/media/design/face-error.png" alt="">
+                                    <b>OOPS!</b>
+                                    <p>{{loginForm.errorMsg}}</p>
+                                    <p ng-show="signInForm.user.$invalid &amp;&amp; signInForm.pass.$invalid">Invalid Email Address and Password</p>
+                                    <p ng-show="signInForm.user.$invalid &amp;&amp; !signInForm.pass.$invalid">Invalid Email Address</p>
+                                    <p ng-show="!signInForm.user.$invalid &amp;&amp; signInForm.pass.$invalid">Invalid Password</p>
+                                </div>
+
+                                <input type="submit" name="login" class="btn btn-primary" value="Sign in">
+                            </fieldset>
+                        </form>
+
+                        <div class="login-help" ng-show="loginForm.show">
+                            <a href="/rewards" class="col-md-6 left">Create Account</a>
+                            <a href="#" ng-click="showForgotPassword()" class="col-md-6 right">Forgot Password</a>
+                        </div>
+                        <div class="message-forgot" ng-show="!loginForm.show">
+
+                            <form name="forgotPasswordForm" ng-submit="submitForgotPassword()" method="post" novalidate="">
+                                <fieldset ng-disabled="forgotPassForm.isProcessing">
+                                    <b>FORGOT PASSWORD?</b>
+                                    <input type="email" name="user" title="Email Address" placeholder="Email Address" ng-model="forgotPassForm.email" ng-required="true">
+
+                                    <div class="message-error" ng-show="forgotPassForm.showError &amp;&amp; (forgotPassForm.errorMsg || forgotPasswordForm.$invalid)">
+                                        <img src="/media/design/face-error.png" alt="">
+                                        <b>OOPS!</b>
+                                        <p>{{forgotPassForm.errorMsg}}</p>
+                                        <p ng-show="forgotPasswordForm.user.$invalid">Invalid Email Address</p>
+                                    </div>
+
+                                    <input type="submit" name="fogotPassword" class="btn btn-primary" value="Submit">
+                                </fieldset>
+                            </form>
+
+                        </div>
+
+                        <div class="message-success" ng-show="forgotPassForm.showOk">
+                            <img src="/media/design/success-message-check.png" alt="">
+                            <b>All set!</b>
+                            <p>Please check your email inbox to reset your password.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- end login modal -->
+
+
+        <div class=" dnb-user-menu">
+                    <div class="btn-group" role="group" ng-controller="TopNavLinksController">
+                        <a href="/locations" role="button" class="btn btn-default ">Locations</a>
+                        <a href="/careers" role="button" class="btn btn-default ">Careers</a>
+                        <a href="/gift-cards" role="button" class="btn btn-default ">Gift Cards</a>
+                        <a href="/power-cards" role="button" class="btn btn-default ">Power Cards</a>
+
+                <a href="javascript:void(0)" ng-click="displaySignInPopup()" role="button" class="btn btn-default sign-in-link" ng-class="showSignInPopup == true || showForgotPassword == true ? 'active' : ''">Sign In</a>
+        </div>
+
+
+        </div>
+
+        <!-- Main Navbar -->
+        <nav class="container navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button aria-label="Expand Mobile Menu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="icon-bar first-bar"></span>
+                        <span class="icon-bar second-bar"></span>
+                        <span class="icon-bar third-bar"></span>
+                    </button>
+                    <!-- <a class="navbar-brand" href="/">DnB</a> -->
+                </div>
+                <div id="navbar" class="navbar-collapse collapse main-menu">
+                    <ul class="nav navbar-nav">
+                                <li class="dropdown ">
+                                    <a href="/eat-drink/" role="button" aria-haspopup="true" aria-expanded="false">Eat &amp; Drink</a>
+                                    <div type="button" tabindex="0" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-label="Eat &amp; Drink submenu" aria-haspopup="true" aria-expanded="false">
+                                        <span class="caret"></span>
+                                    </div>
+                                    <ul class="dropdown-menu" role="group" aria-expanded="false">
+                                            <li><a href="/eat" class="submenu-item">EAT</a></li>
+                                            <li><a href="/drink" class="submenu-item">DRINK</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown ">
+                                    <a href="/play-games/" role="button" aria-haspopup="true" aria-expanded="false">Play Games</a>
+                                    <div type="button" tabindex="0" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-label="Play Games submenu" aria-haspopup="true" aria-expanded="false">
+                                        <span class="caret"></span>
+                                    </div>
+                                    <ul class="dropdown-menu" role="group" aria-expanded="false">
+                                            <li><a href="/play-games/in-store/" class="submenu-item">In-Store</a></li>
+                                            <li><a href="/play-games/on-the-go/" class="submenu-item">On the Go</a></li>
+                                    </ul>
+                                </li>
+                                    <li class=""><a href="/watch-sports/">Watch Sports</a></li>
+                                <li class="dropdown ">
+                                    <a href="/parties-events/" role="button" aria-haspopup="true" aria-expanded="false">Parties &amp; Events</a>
+                                    <div type="button" tabindex="0" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-label="Parties &amp; Events submenu" aria-haspopup="true" aria-expanded="false">
+                                        <span class="caret"></span>
+                                    </div>
+                                    <ul class="dropdown-menu" role="group" aria-expanded="false">
+                                            <li><a href="/company-events" class="submenu-item">Company Events</a></li>
+                                            <li><a href="/multi-location-events" class="submenu-item">Multi-Location Events</a></li>
+                                            <li><a href="/social-events" class="submenu-item">Social Events</a></li>
+                                            <li><a href="/kids-birthdays" class="submenu-item">Kids Birthdays</a></li>
+                                            <li><a href="/holiday-events" class="submenu-item">Holiday Events</a></li>
+                                            <li><a href="/parties-events-faq" class="submenu-item">FAQs</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown ">
+                                    <a href="/rewards/" role="button" aria-haspopup="true" aria-expanded="false">Rewards</a>
+                                    <div type="button" tabindex="0" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-label="Rewards submenu" aria-haspopup="true" aria-expanded="false">
+                                        <span class="caret"></span>
+                                    </div>
+                                    <ul class="dropdown-menu" role="group" aria-expanded="false">
+                                            <li><a href="/rewards-faq" class="submenu-item">Rewards FAQ</a></li>
+                                            <li><a href="/legal-rules-and-privacy" class="submenu-item">Legal Rules and Privacy</a></li>
+                                    </ul>
+                                </li>
+                    </ul>
+
+                    <div class="dnb-secondary-menu">
+                                <div class="btn-group" role="group" ng-controller="TopNavLinksController">
+                        <a href="/locations" role="button" class="btn btn-default ">Locations</a>
+                        <a href="/careers" role="button" class="btn btn-default ">Careers</a>
+                        <a href="/gift-cards" role="button" class="btn btn-default ">Gift Cards</a>
+                        <a href="/power-cards" role="button" class="btn btn-default ">Power Cards</a>
+
+                <a href="javascript:void(0)" ng-click="displaySignInPopup()" role="button" class="btn btn-default sign-in-link" ng-class="showSignInPopup == true || showForgotPassword == true ? 'active' : ''">Sign In</a>
+        </div>
+
+
+                    </div>
+                </div><!--/.nav-collapse -->
+            </div><!--/.container-fluid -->
+        </nav>
+    </div>
     
-      <script language="JavaScript" type="text/javascript">
-          /* You may give each page an identifying name, server, and channel on
-          the next lines. */
-          s.pageName = ""
-          s.server = ""
-          s.channel = ""
-          s.pageType = ""
-          s.prop1 = ""
-          s.prop2 = ""
-          s.prop3 = ""
-          s.prop4 = ""
-          s.prop5 = ""
-          /* Conversion Variables */
-          s.campaign = ""
-          s.state = ""
-          s.zip = ""
-          s.events = ""
-          s.products = ""
-          s.purchaseID = ""
-          s.eVar1 = ""
-          s.eVar2 = ""
-          s.eVar3 = ""
-          s.eVar4 = ""
-          s.eVar5 = ""
-          /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-          var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
-
-    <form method="post" action="/privacy/" id="aspnetForm">
-<div class="aspNetHidden">
-<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="1336402157,1362446410,-907017858,1858396078,2080800137,1987009490,787524041,-423436955,-814855039,861986600,528614635,-1634385506,100443009,-386229961">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkzNTc2NzEwMA9kFgJmD2QWAgIDEGRkFgQCAQ9kFghmDxYCHgVzdHlsZQUOZGlzcGxheTpibG9jazsWAgIBDw9kFgIeCm9uS2V5UHJlc3MFPWphdmFzY3JpcHQ6Y2xpY2ttYWluQnV0dG9uKGV2ZW50LCdjdGwwMF91Y0hlYWRlcl9idG5Hb01haW4nKTtkAgEPFgIfAAUmZGlzcGxheTpub25lO2NvbG9yOlJlZDtmb250LXNpemU6MTJweDtkAgMPFgIeBFRleHQFgRk8dWw+PGxpPjxhIGNsYXNzPSJsb2NhdGlvbiBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2xvY2F0aW9ucy9hbGxsb2NhdGlvbnMuYXNweCI+TG9jYXRpb25zPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJzcGVjaWFscyBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL01lbnUvIj5FYXQ8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1zcGVjaWFscyBzdWJNZW51Ij48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9vbmx5LWF0LWQtYW5kLWIvIj5Pbmx5IGF0IEQmYW1wO0I8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9FYXROUGxheUNvbWJvLyI+RWF0ICZhbXA7IFBsYXkgQ29tYm88L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9zdGFydGVycy1zbmFja3Mtc291cHMtc2FsYWRzLyI+U3RhcnRlcnM8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9lbnRyZWVzLyI+RW50cmVlczwvYT48L2xpPjxsaT48YSBjbGFzcz0iZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9tZW51L2J1cmdlcnMtYW5kLXNhbmR3aWNoZXMvIj5CdXJnZXJzICZhbXA7IFNhbmR3aWNoZXM8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS91bmRlci02MDAvIj5VbmRlciA2MDA8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9raWRzLW1lbnUvIj5LaWRzIE1lbnU8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvbWVudS9kZXNzZXJ0cy8iPkRlc3NlcnRzPC9hPjwvbGk+PC91bD48L2xpPjxsaT48YSBjbGFzcz0iZGF2ZXMtZ2FtZXMgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9tZW51L2RyaW5rcy8iPkRyaW5rPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJidXN0ZXJzLW1lbnUgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9nYW1lcy9nYW1lcy8iPlBsYXk8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1idXN0ZXJzLW1lbnUgc3ViTWVudSI+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2dhbWVzL25ldy1nYW1lcy8iPk91ciBHYW1lczwvYT48L2xpPjxsaT48YSBjbGFzcz0iZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9nYW1lcy93aW5uZXJzLWNpcmNsZS8iPldpbm5lcsq8cyBDaXJjbGU8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvZ2FtZXMvc2h1ZmZsZS1iaWxsaWFyZHMtbGFuZXMvIj5Cb3dsaW5nLCBCaWxsaWFyZHMsIFNodWZmbGVib2FyZDwvYT48L2xpPjwvdWw+PC9saT48bGk+PGEgY2xhc3M9InNwb3J0c0JhciBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2RhdmUvYnNiZWxhbmRpbmcuYXNweCI+U3BvcnRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJzcG9ydHNCYXIgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9vZmZlcnMvIj5Qcm9tb3M8L2E+PC9saT48bGk+PGEgY2xhc3M9InBsYW5Zb3VyRXZlbnQgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9ldmVudHMvcGxhbi15b3VyLWV2ZW50LyI+UGFydGllcyAmYW1wOyBFdmVudHM8L2E+PHVsIGNsYXNzPSJla2ZsZXhtZW51X3N1Ym1lbnVfaXRlbXNfaGlkZGVuIHN1Yi1wbGFuWW91ckV2ZW50IHN1Yk1lbnUiPjxsaT48YSBjbGFzcz0iZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9ldmVudHMvcGxhbi15b3VyLWV2ZW50L2NvcnBvcmF0ZS1ldmVudHMiPkNvbXBhbnkgRXZlbnRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzPSJla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2V2ZW50cy9wbGFuLXlvdXItZXZlbnQvc29jaWFsLWV2ZW50cyI+U29jaWFsIEV2ZW50czwvYT48L2xpPjxsaT48YSBjbGFzcz0iZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9ldmVudHMvcGxhbi15b3VyLWV2ZW50L1NwZWNpYWwtT2ZmZXJzLyI+U3BlY2lhbCBvZmZlcnM8L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvdmVudWUtaW5mb3JtYXRpb24uYXNweCI+VmVudWUgaW5mb3JtYXRpb248L2E+PC9saT48bGk+PGEgY2xhc3M9ImVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvQ29udGFjdFBsYW5uZXIuYXNweCI+Q29udGFjdCBhIHBsYW5uZXI8L2E+PC9saT48L3VsPjwvbGk+PGxpPjxhIGNsYXNzPSJyZXdhcmRzWm9uZSBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL3Jld2FyZHMvIj5SZXdhcmRzPC9hPjx1bCBjbGFzcz0iZWtmbGV4bWVudV9zdWJtZW51X2l0ZW1zX2hpZGRlbiBzdWItcmV3YXJkc1pvbmUgc3ViTWVudSI+PGxpIGNsYXNzPSJub2xvZ2lucGFnZSI+PGEgY2xhc3M9Im5vbG9naW5wYWdlIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvam9pbi1yZXdhcmRzL2Fib3V0cmV3YXJkcy8iPkFib3V0IFJld2FyZHM8L2E+PC9saT48bGkgY2xhc3M9Im5vbG9naW5wYWdlIj48YSBjbGFzcz0ibm9sb2dpbnBhZ2UgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9qb2luLXJld2FyZHMvZmFxLyI+RkFRUzwvYT48L2xpPjxsaSBjbGFzcz0ibm9sb2dpbnBhZ2UiPjxhIGNsYXNzPSJub2xvZ2lucGFnZSBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL2pvaW4tcmV3YXJkcy9ydWxlcy1hbmQtcG9saWNpZXMvIj5SdWxlcyAmYW1wOyBQb2xpY2llczwvYT48L2xpPjxsaSBjbGFzcz0ibG9naW5wYWdlcyIgc3R5bGU9ImRpc3BsYXk6bm9uZTsiPjxhIGNsYXNzPSJsb2dpbnBhZ2VzIGVrZmxleG1lbnVfYnV0dG9uIiBocmVmPSIvcG93ZXItY2FyZHMvUG9pbnRzQmFsYW5jZXNSZXN1bHRzLyI+UG9pbnRzICZhbXA7IEJhbGFuY2VzPC9hPjwvbGk+PGxpIGNsYXNzPSJsb2dpbnBhZ2VzIiBzdHlsZT0iZGlzcGxheTpub25lOyI+PGEgY2xhc3M9ImxvZ2lucGFnZXMgZWtmbGV4bWVudV9idXR0b24iIGhyZWY9Ii9yZXdhcmRzLXpvbmUvbXktcHJvZmlsZS8iPk15IFByb2ZpbGU8L2E+PC9saT48bGkgY2xhc3M9ImxvZ2lucGFnZXMiIHN0eWxlPSJkaXNwbGF5Om5vbmU7Ij48YSBjbGFzcz0ibG9naW5wYWdlcyBla2ZsZXhtZW51X2J1dHRvbiIgaHJlZj0iL3Jld3Jkcy16b25lL215LXByZWZlcmVuY2VzLyI+TXkgUHJlZmVyZW5jZXM8L2E+PC9saT48L3VsPjwvbGk+PC91bD5kAgYPDxYGHghDc3NDbGFzcwUHc2lnbk91dB8CBQdTSUdOIElOHgRfIVNCAgJkZAIFD2QWBAIBD2QWAgICD2QWAmYPZBYCAgEPFgIeBWNsYXNzBRBkcm9wem9uZSBQQkNsZWFyFgICAw8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgICAQ8WBB8FBQlQQlZpZXdpbmcfAAULd2lkdGg6MTAwJTsWAgIBD2QWAgIDDxYCHwYCAWQCAw9kFgICAg9kFgJmD2QWAgIBDxYCHwUFEGRyb3B6b25lIFBCQ2xlYXIWAgIDDxYCHwYCARYCZg9kFgICAQ8WBB8FBQlQQlZpZXdpbmcfAAULd2lkdGg6MTAwJTsWAgIBD2QWAgIDDxYCHwYCAWQYAwUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFGGN0bDAwJHVjSGVhZGVyJGJ0bkdvTWFpbgUbY3RsMDAkdWNIZWFkZXIkSW1hZ2VCdXR0b24xBWpjdGwwMCR1eENvbnRlbnRCb2R5JERyb3Bab25lNCRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDAkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFamN0bDAwJHV4Q29udGVudEJvZHkkRHJvcFpvbmUyJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMCRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZD68ZCQ/NXGYjn7eV2LjjXDkO7NgYt95EFvenPBHZWtY">
-</div>
-
-
-<script src="/ScriptResource.axd?d=iVwzOd2D4FybGaw3mF2lv7DPNR_KRDp7alLCIln2DVcguNYmdkUPrcq1o5llO3h8qR7_gDNCda3yB1L6Jcm4kFLumgu0576SvDCxVpnGeIWdIHf9mBIQ40BwAp6UzI9bdx9CkmOybIm3IMKBSnn4HM-Fp6yUSgSmvftQyRbCu-41&amp;t=ca758f3" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWC98DDr47xwII+TGhlrCPnOm4bgw+4fCgxZ25/OWRO+AmxNeKvh+0rIJzhnniN79D/Xjw93siO8mZ5dODPUdWj7B5pWUZVwZQYpIghhOCO72BKy9bvo7e9gL4FEQafYhHjEm17AyeFalOmeWHYxG7i">
-</div>
-   <div id="modal">
-	<div id="surveyheading">
-		<!--Are you sure you want to do that?--> Share your feedback with Dave &amp; Buster's
-	</div>
-
-	<div id="surveycontent">
-		<p>Thank you for visiting daveandbusters.com<br>
-We are conducting a quick survey to help us better <br> understand what our site visitors like and <br>to learn a little bit more about you.</p>
-
-		<a href="#" onclick="SurveyYesClick()" class="button green close"><img src="/images/modal_tick_blue.png">Yes, do it now!</a>
-
-		<a href="#" onclick="SurveyNoClick()" class="button red close"><img src="/images/modal_cross_orange.png">No, not now!</a>
-	</div>
-</div>
-    <div id="pageContainer">
-        <div id="wrapper">
-            <!-- begin header -->
-            <div id="headerContainer">
-              
-
-    <script type="text/javascript">
-        var subActiveMenu = 'none';
-        function locationSearchText(e, Text) {
-            if (e.value == Text) {
-                e.value = "";
-            }
-        }
-        function ChangeUserLocation() {
-            //debugger;
-            var currentStoreVar = $('#ctl00_ucHeader_currentStore');
-            var nocurrentStoreVar = $('#ctl00_ucHeader_nocurrentStore');
-            if (currentStoreVar.length > 0 && nocurrentStoreVar.length > 0) {
-                currentStoreVar[0].style.display = "none";
-                nocurrentStoreVar[0].style.display = "block";
-                return false;
-            }
-            else {
-                return false;
-            }
-        }
-        function clickmainButton(e, btnGo) {
-            // debugger;
-            var bt = document.getElementById(btnGo);
-            var code;
-
-            if (!e) var e = window.event
-            if (e.keyCode) code = e.keyCode;
-            else if (e.which) code = e.which; 
-            if (code == 13) {
-                if (window.event) {	   // IE 
-                    bt.click();
-                }
-                else {
-                    bt.click();
-                }
-
-                if (e.keyCode) {
-                    if (event != undefined) {
-                        event.keyCode = 0;
-                    }
-                }
-                else if (e.which) event.which = 0;
-
-                if (e.cancelable)
-                    e.preventDefault();
-
-                //e.cancelBubble is supported by IE - this will kill the bubbling process.
-                e.cancelBubble = true;
-                e.returnValue = false;
-
-                //e.stopPropagation works only in Firefox.
-                if (e.stopPropagation) {
-                    e.stopPropagation();
-                    e.preventDefault();
-                }
-
-                return false;
-            }
-        }
-        function CheckIfTextBoxisNull1() {
-//             debugger;
-            var textLocationSerarchBoc = $('#ctl00_ucHeader_textsearchfield');
-            if (textLocationSerarchBoc.val() == "" || textLocationSerarchBoc.val() == "City, state, or zip") {
-                // alert("enter search text.");
-                return false;
-            }
-            else {
-                //if the user text box contains space, put comma
-                var locationText = textLocationSerarchBoc.val();
-                var textWithoutComma = "";
-//                debugger;
-                if (hasWhiteSpace(locationText)) {
-                    //split the string and get city and state 
-                    var locaTextWithCity = locationText.substring(0, locationText.lastIndexOf(" "));
-                    var locaTextWithState = locationText.substring(locationText.lastIndexOf(" "));
-                    var matchingLocatnVar = MatchingLocationSearch(locaTextWithCity, locaTextWithState);
-                    //   textLocationSerarchBoc.val(matchingLocatnVar);
-                    if (matchingLocatnVar != "") {
-                        //redirect to search page.
-//                        alert(matchingLocatnVar);
-                        
-                        return false;
-                    }
-                    else {
-                        //do ordinary search
-                        return true;
-                    }
-                   
-                }
-                return true;
-            }
-        }
-        function hasWhiteSpace(s) {
-               return s.indexOf(' ') >= 0;
-        }
-        function MatchingLocationSearch(locaTextWithCity, locaTextWithState) {
-            var result = '';
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/locations/locationservice.asmx/GetMatchingLocationsForAuto",
-                data: "{'keyword':'" + locaTextWithCity + "'}",
-                dataType: "json",
-                async: true,
-                success: function (data) {
-                    //debugger;
-                    for (aProperty in data.d) {
-                        var locationName = data.d[aProperty];
-                        var actualLocationState = locationName.substring(locationName.lastIndexOf(",")+1);
-                        if (locaTextWithState.toLowerCase().trim() == actualLocationState.toLowerCase().trim()) {
-                            result = locationName;
-                            window.location.href = "/locations/default.aspx?search=" + result;
-                        }
-                    }
-                },
-                error: function (result) {
-                    //debugger;
-//                    alert(result);
-                }
+    <div class="dnb-location-widget is--collapsed">
+        </div>
+        <script>
+            $(document).ready(function () {
+                dnb.Locations.Closest.DownLoadHTML($(".dnb-location-widget"));
             });
-            return result;
-        }
-
-
-</script>
-<div class="logo">
-    <a href="/default.aspx">
-        <img src="/images/dave/DnB-logo.png" width="128" height="124" border="0" alt=""></a></div>
-			
-			<div class="selectLocation">
-    <div id="ctl00_ucHeader_nocurrentStore" class="search nocurrentStore" style="display:block;">
-        <input name="ctl00$ucHeader$textsearchfield" type="text" value="City, state, or zip" id="ctl00_ucHeader_textsearchfield" class="textLocation locationSearch searchinput ui-autocomplete-input" onfocus="locationSearchText(this,'City, state, or zip');" onkeypress="javascript:clickmainButton(event,'ctl00_ucHeader_btnGoMain');" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-        &nbsp;
-        <input type="image" name="ctl00$ucHeader$btnGoMain" id="ctl00_ucHeader_btnGoMain" src="/images/dave/search-submit.gif" onclick="return CheckIfTextBoxisNull1();" style="border-width:0px;height:24px;width:64px;">
-    </div>
-    <div id="ctl00_ucHeader_currentStore" class="search mystorednbMain" style="display:none;color:Red;font-size:12px;">
-      <div style="padding-top:5px;margin-right:5px;float:left">       <a id="ctl00_ucHeader_Mylocation" style="color:red"> <span id="ctl00_ucHeader_lblSearchHeading" class="locationSearch2" style="font-weight:bold;text-decoration:underline;"></span></a></div>
-
-
-        &nbsp;<div style="float:left">  
-         <input type="image" name="ctl00$ucHeader$ImageButton1" id="ctl00_ucHeader_ImageButton1" src="/images/change.gif" style="border-width:0px;height:24px;width:64px;">
-      </div>   </div>
-</div>			<div id="locationBox" style="display: none;">
-				<a href="javascript:;" class="closeLocBox" style="opacity: 0;">×</a>
-<div id="locBoxGraphic" style="opacity: 0;"><img src="../../../../images/location-poll-dnb.png" width="296" height="198" border="0"></div>
-				<div id="locBoxWrapper" class="clear" style="opacity: 0;">
-					<div id="locBox01" class="locBoxContainer floatLeft">
-						<img src="../../../../images/home-locbox-header-at-glance.png" width="185" height="40" border="0" class="clear">
-						<div class="scrollbar" style="height: 260px;">
-							<div class="track" style="height: 260px;">
-								<div class="thumb" style="height: 60px;">
-									<div class="end"></div>
-								</div>
-							</div>
-						</div>
-						<div class="viewport">
-							<div class="locBoxContent overview" style="top: 0px;">								
-								<div>
-									<p>
-										<strong>Hours</strong><br>
-										Sun-Thur:11:00am-Midnight<br>
-										Fri-Sat:11:00am-2:00am
-										<br><br>
-										<strong>Features</strong><br>
-										Billieards<br>
-										Shuffleboard
-										<br><br>
-										<strong>House Policies</strong><br>
-										Maximum 6 minors to 1 adult.
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="locBoxSep floatLeft"></div>
-					<div id="locBox02" class="locBoxContainer floatLeft">
-						<img src="../../../../images/home-locbox-header-specials.png" width="185" height="40" border="0" class="clear">
-						<div class="scrollbar" style="height: 260px;">
-							<div class="track" style="height: 260px;">
-								<div class="thumb" style="height: 60px;">
-									<div class="end"></div>
-								</div>
-							</div>
-						</div>
-						<div class="viewport">
-							<div class="locBoxContent overview" style="top: 0px;">
-								<div>
-									<p>
-										<strong>Happy Hour</strong><br>
-										Mon-Fr 4:30-7pm<br>
-										1/2 Price Cocktails<br>
-										Beer &amp; Wine Specials
-										<br><br>
-										<strong>Late Night Happy Hour</strong><br>
-										Sun-Thurs 9-11pm<br>
-										1/2 Price Cocktails<br>
-										Beer &amp; Wine Specials
-										<br><br>
-										<strong>Power Hour</strong><br>
-										Mon-Fr 4:30-7pm<br>
-										60 minutes of video<br>
-										game play for only $10
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="locBoxSep floatLeft"></div>
-					<div id="locBox03" class="locBoxContainer floatLeft">
-						<img src="../../../../images/home-locbox-header-events.png" width="185" height="40" border="0" class="clear">
-						<div class="scrollbar" style="height: 260px;">
-							<div class="track" style="height: 260px;">
-								<div class="thumb" style="height: 60px;">
-									<div class="end"></div>
-								</div>
-							</div>
-						</div>
-						<div class="viewport">
-							<div class="locBoxContent overview" style="top: 0px;">
-								<div>
-									<p>
-										<strong class="textunderline">Dallas Mavericks vs Houston</strong><br>
-										<strong class="textunderline">Rockets Watch Party</strong><br>
-										Wednesday, April18 7pm
-										<br><br>
-										<strong class="textunderline">Texas Rangers vs Oakland Athletics</strong><br>
-										<strong class="textunderline">Watch Party</strong><br>
-										Wednesday, May 16 7:05pm
-										<br><br>
-										<strong class="textunderline">Race For The Cure Carb Up</strong><br>
-										<strong class="textunderline">Post Party</strong><br>
-										May 26, 2012 4pm
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="changelocation clear" style="opacity: 0;">
-        <div class="labelText floatLeft">
-            <span class="textunderline">8021 Walnut Hill Lane</span> | Dallas , TX 75231 | 214-361-5553</div>
-        <input name="textLocation" type="text" class="floatLeft" id="textLocation" placeholder="City,state, or zip">
-        <input name="cmdLocation" type="image" id="cmdLocation" src="/images/dave/ui-button-change-location.png" alt="CHANGE LOCATION" align="left" style="boder:0">
-    </div>
-<br clear="all" style="opacity: 0;">
-			</div>
-			<div id="navContainer">
-				<div class="main-menu">
-                
-            <ul><li><a class="location ekflexmenu_button" href="/locations/alllocations.aspx">Locations</a></li><li><a class="specials ekflexmenu_button" href="/Menu/">Eat</a><ul class="ekflexmenu_submenu_items_hidden sub-specials subMenu"><li><a class="ekflexmenu_button" href="/menu/only-at-d-and-b/">Only at D&amp;B</a></li><li><a class="ekflexmenu_button" href="/menu/EatNPlayCombo/">Eat &amp; Play Combo</a></li><li><a class="ekflexmenu_button" href="/menu/starters-snacks-soups-salads/">Starters</a></li><li><a class="ekflexmenu_button" href="/menu/entrees/">Entrees</a></li><li><a class="ekflexmenu_button" href="/menu/burgers-and-sandwiches/">Burgers &amp; Sandwiches</a></li><li><a class="ekflexmenu_button" href="/menu/under-600/">Under 600</a></li><li><a class="ekflexmenu_button" href="/menu/kids-menu/">Kids Menu</a></li><li><a class="ekflexmenu_button" href="/menu/desserts/">Desserts</a></li></ul></li><li><a class="daves-games ekflexmenu_button" href="/menu/drinks/">Drink</a></li><li><a class="busters-menu ekflexmenu_button" href="/games/games/">Play</a><ul class="ekflexmenu_submenu_items_hidden sub-busters-menu subMenu"><li><a class="ekflexmenu_button" href="/games/new-games/">Our Games</a></li><li><a class="ekflexmenu_button" href="/games/winners-circle/">Winnerʼs Circle</a></li><li><a class="ekflexmenu_button" href="/games/shuffle-billiards-lanes/">Bowling, Billiards, Shuffleboard</a></li></ul></li><li><a class="sportsBar ekflexmenu_button" href="/dave/bsbelanding.aspx">Sports</a></li><li><a class="sportsBar ekflexmenu_button" href="/offers/">Promos</a></li><li><a class="planYourEvent ekflexmenu_button" href="/events/plan-your-event/">Parties &amp; Events</a><ul class="ekflexmenu_submenu_items_hidden sub-planYourEvent subMenu"><li><a class="ekflexmenu_button" href="/events/plan-your-event/corporate-events">Company Events</a></li><li><a class="ekflexmenu_button" href="/events/plan-your-event/social-events">Social Events</a></li><li><a class="ekflexmenu_button" href="/events/plan-your-event/Special-Offers/">Special offers</a></li><li><a class="ekflexmenu_button" href="/venue-information.aspx">Venue information</a></li><li><a class="ekflexmenu_button" href="/ContactPlanner.aspx">Contact a planner</a></li></ul></li><li><a class="rewardsZone ekflexmenu_button" href="/rewards/">Rewards</a><ul class="ekflexmenu_submenu_items_hidden sub-rewardsZone subMenu"><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/aboutrewards/">About Rewards</a></li><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/faq/">FAQS</a></li><li class="nologinpage"><a class="nologinpage ekflexmenu_button" href="/join-rewards/rules-and-policies/">Rules &amp; Policies</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/power-cards/PointsBalancesResults/">Points &amp; Balances</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/rewards-zone/my-profile/">My Profile</a></li><li class="loginpages" style="display:none;"><a class="loginpages ekflexmenu_button" href="/rewrds-zone/my-preferences/">My Preferences</a></li></ul></li></ul>
-			  </div>
-			</div>
-			<div class="utilityNav">
-			 <ul>
-                 
- 
-<!-- AddThis Button BEGIN -->
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f0b1bc61eeaf31c"></script> 
-
-<!--<ul class="buttons shareMenu">
-  <li><a id="btn1" class="share addthis_button" addthis:url="http://www.daveandbusters.com" href="http://www.daveandbusters.com">+ share</a>
-     </li></ul>-->
-
-<script type="text/javascript">
-//BS; Add addthis_config code per support article from AddThis.com 10/30/2013 
-
-var addthis_config = {
-    pubid: "xa-4f0b1bc61eeaf31c"
-}
-
-var addthis_ui_config =
-{
-   services_compact: 'email, twitter, facebook,google_plusone_share,pinterest'
-}
-
-var addthis_share = 
-{ 
-    templates: {
-                   twitter: 'Check out Dave and Busters New Mix of Fun - Find your nearest Dave and Busters {{url}} '
-               }
-}
-
-var addthis_share_config =
-{
-   url:"http://www.daveandbusters.com",
-    title: "Dave and Buster's New Mix of Fun (www.daveandbusters.com)",
-    description: "Find the New Mix of Fun at the all-new http://www.daveandbusters.com. Log on and find your nearest Dave and Busters or view the new menu and drinks! Plus you can check your Power Card balance and join Rewards to start receiving awesome offers.",
-    screenshot: "http://www.daveandbusters.com/images/11001_thumb_DnB-logo.png"
-}
-
-    addthis.button("#btn1", addthis_ui_config, addthis_share_config);
-
-</script>
-                 <li><a href="/power-cards/power-cards/" id="ctl00_ucHeader_powerCardsLink" class="powerCards">power cards</a></li>
-                 <li>
-                   <a id="ctl00_ucHeader_signInOut" class="signOut" href="javascript:__doPostBack('ctl00$ucHeader$signInOut','')">SIGN IN</a>
-                 </li>
-                 <li style="white-space:nowrap;"><a href="/giftcards" class="giftCards">gift cards</a></li>
-            </ul>
-			</div>
-                
-    
-
-    <script type="text/javascript" language="JavaScript">
-        Ektron.PBSettings = { 'dontClose': false }
-    </script>
-
-
-
-
-
-
-            </div>
-            <!-- end header -->
-            <!-- begin body -->
-            
-    
-    <div id="content">
-        <div id="contentHeader">
-            <div id="headLine">
-                
-
-<div id="ctl00_uxContentBody_DropZone2_updatepanel">
-	
-        <div id="ctl00_uxContentBody_DropZone2_dzcontainer" class="dropzone PBClear">
-            
-            
-                    <div id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
-                        <ul id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_column" class="columnwidgetlist">
-                            
-                            
-                                    <li class="PBItem">
-                                        <div id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_dropcontainer" class="widget">
-    <span id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
-    <div id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
-		
-            
-            <div class="content">
-                
-        
-        <div id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_CB">
-			<img alt="" width="825" height="141" src="/images/dave/foot-head-privacy-policy.png">
-		</div>
-        
-        
-        <span id="ctl00_uxContentBody_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
-    
-            </div>
-        
-	</div>
+        </script>
 </div>
-                                    </li>
-                                
-                        </ul>
+
+      <div class="dnb-main-container">
+          
+
+
+
+
+    <div class="container">
+    <div class="dnb-content-block row" id="dnb-row-1">
+                <div id="dnb-cell-1" class="col-sm-12 column dnbwidget-mainintrowidget">
+                    <div>
+                        
+    
+
+    
+        <div class="widget dnb-intro-headline-clean">
+
+                <noscript data-slimmage="" data-img-src="/media/1677/hero-sub-priv-pol.jpg?width=1366">
+                <img  src="/media/1677/hero-sub-priv-pol.jpg?width=1366"  class="hero-content slimmage" />
+            </noscript>
+    <div class="hero-copy">
+        <h2 class="headline">PRIVACY POLICY</h2>
+    </div>
+</div>
+    
+
+
                     </div>
-                
-        </div>
+                </div>
+    </div>
+    <div class="dnb-row-top-margin dnb-row-bottom-margin dnb-content-block row" id="dnb-row-2">
+                <div id="dnb-cell-2" class="col-sm-12 column dnbwidget-textwidgetparagraph">
+                    <div>
+                        
     
-</div>
 
-
-            </div>
-        </div>
-        <div id="aboutus" class="margintop-50">
-            
-            <div class="aumiddle-text">
-                
-
-<div id="ctl00_uxContentBody_DropZone4_updatepanel">
-	
-        <div id="ctl00_uxContentBody_DropZone4_dzcontainer" class="dropzone PBClear">
-            
-            
-                    <div id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
-                        <ul id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_column" class="columnwidgetlist">
-                            
-                            
-                                    <li class="PBItem">
-                                        <div id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_dropcontainer" class="widget">
-    <span id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
-    <div id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
-		
-            
-            <div class="content">
-                
-        
-        <div id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_CB">
-			<div><p>Effective Date: July 1, 2013</p>
-<p>We at Dave &amp; Buster's, Inc., along with our
-  affiliates, parents, subsidiaries and related companies (collectively,
-  "Dave &amp; Buster's"), respect your concerns about privacy. This
-  Privacy Notice applies to personal information we collect on daveandbusters.com
-  or any Web site owned, operated, licensed or controlled by Dave &amp;
-  Buster's (the "Web Sites") on which we have posted this Privacy
-  Notice.&nbsp; This Privacy Notice describes the types of personal information
-  we may collect on the Web Sites, how we may use the information, with whom we
-  may share it and the choices available to you regarding our use of the
-  information. We also describe the measures we take to safeguard the
-  information and communicate how to contact us about our privacy practices. </p>
-<p><strong>Information We Collect</strong><br>
-  We may collect and/or obtain certain personal
-  information (such as name and other contact details) through our Web Sites.
-  The types of personal information we may collect include: </p>
-<ul type="disc" style="list-style-type: disc;">
-<li style="list-style-type: disc;">Contact information,
-       such as your name, postal address, e-mail address, and telephone number</li>
-<li style="list-style-type: disc;">Names, postal
-       addresses, e-mail addresses and telephone numbers of others to whom you
-       ask us to send information</li>
-<li style="list-style-type: disc;">Username and password
-       to sign-up for and access the Dave &amp; Buster's Rewards program and
-       your online profile</li>
-<li style="list-style-type: disc;">Payment information
-       (such as payment card details, financial account information and billing
-       address)&nbsp; </li>
-<li style="list-style-type: disc;">Birth date</li>
-<li style="list-style-type: disc;">Information about your
-       education, work and military history, legal work eligibility status, and
-       other information relevant to specific jobs for which you may apply</li>
-<li style="list-style-type: disc;">Other personal information you may provide to
-       us </li>
-<li style="list-style-type: disc;">If you use our mobile applications,
-       information, such as your device ID, your location and stores near you
-       and visited by you, may be collected.</li>
-</ul>
-<p>In
-  addition, when you visit our Web Sites, we may collect certain information by
-  automated means, such as cookies and web beacons – geolocation
-  information. The information we collect in this manner includes IP addresses,
-  browser characteristics, device characteristics, operating system (e.g.
-  Windows, Mac), language preferences, referring URLs, information on actions
-  taken on our Site, and dates and times of Site visits. A "cookie"
-  is a text file that web sites send to a visitor's computer or other
-  Internet-connected device to uniquely identify the visitor's browser or to
-  store information or settings in the browser. A "web beacon," also
-  known as an Internet tag, pixel tag or clear GIF, links web pages to web
-  servers and their cookies and may be used to transmit information collected
-  through cookies back to a web server. Through these automated collection
-  methods, we obtain "clickstream data," which is a log of content on
-  which a visitor clicks while browsing a website. As the visitor clicks
-  through the website, a record of the action may be collected and stored. We
-  may link certain data elements we have collected through automated means,
-  such as your browser information, with other information we have obtained
-  about you to let us know, for example, whether you have opened an e-mail we
-  sent to you. Your browser may tell you how to be notified when you receive
-  certain types of cookies or how to restrict or disable certain types of
-  cookies. Please note, however, that without cookies you may not be able to
-  use all of the features of our Web Sites. </p>
-<p>If you use Site features operated by third-party
-  social networking services (such as Facebook), we may receive information you
-  have made available to those services, including the geographic location of
-  your mobile device and other information about you (such as name, email
-  address, gender, locale, time zone, languages, social media profile URL,
-  personal website URL, biographical information, birthday, photo, list of
-  devices, education history, work history, hometown, interests, current city,
-  political views, favorite athlete and teams, relationship status and
-  information, religion, name of significant other, and certain security
-  settings information) and your contacts on those services. Some of these
-  social networking services allow you to push content from our Web Sites to
-  your contacts or to pull information about your contacts so you can connect
-  with them on our Web Sites. Some of these services also will facilitate your
-  registration for our Web Sites or enhance or personalize your experience on
-  our Web Sites. You should make sure you understand the information your
-  third-party social networking services may make available to our Web Sites.
-  We may use and disclose the personal information we receive on our Web Sites
-  through third-party social networking services as described in this Privacy
-  Notice. </p>
-<p><strong>How We Use The Information We Obtain</strong><br>
-  We may use the information we obtain through the Web
-  Sites to: </p>
-<ul type="disc" style="list-style-type: disc;">
-<li style="list-style-type: disc;">Create and manage your
-       account;</li>
-<li style="list-style-type: disc;">Offer and provide
-       products and services to you;</li>
-<li style="list-style-type: disc;">Communicate about, and
-       administer your participation in, special events, programs, surveys, contests,
-       sweepstakes, and other offers or promotions;</li>
-<li style="list-style-type: disc;">Send information to
-       others;</li>
-<li style="list-style-type: disc;">Respond to and
-       communicate with you about your requests, questions and comments;</li>
-<li style="list-style-type: disc;">Manage your application
-       for employment with Dave &amp; Buster's and contact you in connection
-       with potential employment opportunities;</li>
-<li style="list-style-type: disc;">Process claims we
-       receive in connection with our products and services;</li>
-<li style="list-style-type: disc;">Operate, evaluate and
-       improve our business (including developing new products and services;
-       managing our communications; determining the effectiveness of our sales,
-       marketing and advertising; analyzing and enhancing our products,
-       services and Web Sites; and performing accounting, auditing, billing,
-       reconciliation and collection activities);</li>
-<li style="list-style-type: disc;">Perform data analyses
-       and other processing (including market and consumer research, trend
-       analysis, financial analysis, anonymization, encryption and tokenization
-       of personal information);</li>
-<li style="list-style-type: disc;">Protect against,
-       identify and prevent fraud and other criminal activity, claims and other
-       liabilities; and</li>
-<li style="list-style-type: disc;">Comply with and enforce
-       applicable legal requirements, relevant industry standards and our policies.</li>
-</ul>
-<p>In
-  addition, we may use information collected online through cookies, local
-  shared objects (also known as "Flash cookies"), web beacons and other
-  automated means for purposes such as (i) customizing our users’ visits to our
-  Web Sites, (ii) delivering content (including advertising) tailored to our
-  users’ interests and the manner in which our users browse our Web Sites, (iii)
-  marketing, (iv) demographic research and (v) managing our business. We may
-  supplement data we collect through automated means with information about
-  your location (such as your zip code) to provide you with content that may be
-  of interest to you. We also use this information to help diagnose technical
-  and service problems, administer our Web Sites, identify users of our Web Sites,
-  and gather demographic information about our users. We use clickstream data
-  to determine how much time users spend on web pages of our Web Sites, how
-  users navigate through our Web Sites, and how we may tailor our Web Sites to
-  better meet the needs of our users. To identify local shared objects on your
-  computer and adjust your settings, visit <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.
-  </p>
-<p>We may use third-party web analytics services on our
-  Web Sites, such as those of Google Analytics or Adobe Marketing Cloud. The
-  analytics providers that administer these services use technologies such as
-  cookies, web server logs and web beacons to help us analyze how visitors use
-  the Web Sites. The information collected through these means (including IP
-  address) is disclosed to these analytics providers, who use the information
-  to evaluate use of the Web Sites. To learn more about Google Analytics and
-  how to opt out, please visit <a href="http://www.google.com/analytics/learn/privacy.html">www.google.com/analytics/learn/privacy.html</a>.
-  To learn more about Adobe Marketing Cloud, please visit <a href="http://www.adobe.com/solutions/digital-analytics.html">http://www.adobe.com/solutions/digital-analytics.html</a>.&nbsp;
-  We may combine information we collect from you with information we receive
-  from third parties and use it for the purposes described in this Privacy
-  Notice. We also may use the information we obtain about you in other ways for
-  which we provide specific notice at the time of collection. </p>
-<p><strong>Interest-Based Advertising</strong><br>
-  On the Web Sites, we may collect information about
-  your online activities for use in providing you with advertising about
-  products and services tailored to your individual interests. This section of
-  our Privacy Notice provides details and explains how to exercise your
-  choices. </p>
-<p>You may see certain ads on other web sites based on
-  your visits to our Web Sites because we participate in advertising networks
-  administered by third-party vendors. Ad networks allow us to target our
-  messaging to users through demographic, interest-based and contextual means.
-  These networks track your online activities over time by collecting
-  information through automated means, including through the use of cookies,
-  web server logs and web beacons. The networks use this information to show
-  you advertisements that are tailored to your individual interests. The information
-  our ad network vendors collect includes information about your visits to web sites
-  that participate in the vendors' advertising networks, such as the pages or
-  advertisements you view and the actions you take on the web sites. This data
-  collection takes place both on the Web Sites and on third-party web sites
-  that participate in the ad networks. This process also helps us track the
-  effectiveness of our marketing efforts. To learn more about how to opt out of
-  ad network interest-based advertising, <a href="http://www.aboutads.info/choices/">click here.</a></p>
-<p><strong>Information We Share</strong><br>
-  We do not sell or otherwise share personal
-  information about you, except as described in this Privacy Notice. When you
-  post a comment on our Web Sites, third party social network services or blogs,
-  we may publish your name and/or user ID thereon with your comment. We share
-  personal information with third parties who perform services on our behalf
-  based on our instructions. These third parties are not authorized by us to
-  use or disclose the information except as necessary to perform services on
-  our behalf or comply with legal requirements. We also may share the personal
-  information we obtain with our affiliates, franchisees and joint marketing
-  partners. </p>
-<p>We also may disclose information about you (i) if we
-  are required to do so by law, regulation or legal process (such as a court
-  order or subpoena), (ii) in response to requests by government agencies, such
-  as law enforcement authorities, or (iii) when we believe disclosure is
-  necessary or appropriate to prevent physical harm or financial loss or in
-  connection with an investigation of suspected or actual illegal activity. We
-  reserve the right to transfer any information we have about you in the event
-  we sell or transfer all or a portion of our business or assets (including in
-  the event of a reorganization, dissolution or liquidation). </p>
-<p><strong>Your Options</strong><br>
-  We offer you certain choices about how we
-  communicate with you and what information we collect from you. To update your
-  preferences or ask us to remove your information from our newsletter e-mail
-  lists please sign into to your Rewards account <a href="https://www.daveandbusters.com/sign-in/sign-in/">https://www.daveandbusters.com/sign-in/sign-in/</a>
-  or submit a request, please contact us as specified in the How To Contact Us
-  section of this Privacy Notice.</p>
-<p><strong>Notice to California Residents</strong><br>
-  Subject to certain limits under California Civil
-  Code ¤ 1798.83, California residents may ask us to provide them with (i) a
-  list of certain categories of personal information that we have disclosed to
-  third parties for their direct marketing purposes during the immediately
-  preceding calendar year, and (ii) the identity of those third parties. To
-  make this request, California residents may contact us as specified in the
-  How to Contact Us section below.</p>
-<p><strong>Links To Other Web Sites</strong><br>
-  Our Web Sites may contain links to other web sites
-  for your convenience and information. These web sites may be operated by
-  companies not affiliated with Dave &amp; Buster’s. Linked web sites may have
-  their own privacy policies or notices, which we strongly suggest you review
-  if you visit any linked web sites. We are not responsible for the content of
-  any web sites that are not affiliated with Dave &amp; Buster’s, any use of
-  those web sites, or the privacy practices of those web sites.</p>
-<p><strong>How We Protect Personal Information</strong><br>
-  We maintain administrative, technical and physical
-  safeguards designed to protect the personal information you provide against
-  accidental, unlawful or unauthorized destruction, loss, alteration, access,
-  disclosure or use.&nbsp; Notwithstanding the aforementioned protections, Dave
-  &amp; Buster’s makes no representations, warranties or conditions or any
-  kind, express or implied, with respect thereto.</p>
-<p><strong>Children’s Privacy</strong><br>
-  Our Web Sites are not directed to children under the
-  age of thirteen and we do not knowingly collect personal information from
-  children under the age of thirteen on our Web Sites. If we become aware that
-  we have inadvertently received personal information from a visitor under the
-  age of thirteen on our Web Sites, we will delete the information from our
-  records.</p>
-<p><strong>Updates To Our Privacy Notice</strong><br>
-  This Privacy Notice may be updated periodically and without
-  prior notice to you to reflect changes in our personal information practices.
-  We will indicate at the top of the notice when it was most recently updated.</p>
-<p style=""><strong>Your Acceptance of These Terms </strong><br>
-  By using the Web Sites, you agree to our
-  Privacy Policy. We may also change the policy from time to time, so please be
-  sure to visit this site often to see if anything has changed. If we post
-  changes and you continue to use the site, you will be deemed to have agreed
-  to the changes. </p>
-<p><strong>How To Contact Us</strong><br>
-  If you have any
-  questions about this Privacy Notice, please contact Guest Relations by phone at
-  888-300-1515. You also may write to us at:</p>
-<address>Dave &amp; Buster’s, Inc.<br>
-  Attention: Guest Relations<br>
-  2481 Manana Drive</address><address>Dallas, Texas&nbsp; 75220 </address>
-
-
-
-
-&nbsp;</div>
-		</div>
-        
-        
-        <span id="ctl00_uxContentBody_DropZone4_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
     
-            </div>
-        
-	</div>
+        <div class="widget single-widget-paragraph dnb-widget-align-left">
+    <p>Effective Date: July 1, 2013<br><br>We at Dave &amp; Buster's, Inc., along with our affiliates, parents, subsidiaries and related companies (collectively, "Dave &amp; Buster's"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on daveandbusters.com or any Web site owned, operated, licensed or controlled by Dave &amp; Buster's (the "Web Sites") on which we have posted this Privacy Notice.&nbsp; This Privacy Notice describes the types of personal information we may collect on the Web Sites, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and communicate how to contact us about our privacy practices. <br><br><strong>INFORMATION WE COLLECT</strong><br> We may collect and/or obtain certain personal information (such as name and other contact details) through our Web Sites. The types of personal information we may collect include<br>• Contact information, such as your name, postal address, e-mail address, and telephone number<br>• Names, postal addresses, e-mail addresses and telephone numbers of others to whom you ask us to send information<br>• Username and password to sign-up for and access the Dave &amp; Buster's Rewards program and your online profile<br>• Payment information (such as payment card details, financial account information and billing address)&nbsp;• Birth date<br>• Information about your education, work and military history, legal work eligibility status, and other information relevant to specific jobs for which you may apply<br>• Other personal information you may provide to us<br>• If you use our mobile applications, information, such as your device ID, your location and stores near you and visited by you, may be collected.<br><br>In addition, when you visit our Web Sites, we may collect certain information by automated means, such as cookies and web beacons – geolocation information. The information we collect in this manner includes IP addresses, browser characteristics, device characteristics, operating system (e.g. Windows, Mac), language preferences, referring URLs, information on actions taken on our Site, and dates and times of Site visits. A "cookie" is a text file that web sites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain "clickstream data," which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an e-mail we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Web Sites. If you use Site features operated by third-party social networking services (such as Facebook), we may receive information you have made available to those services, including the geographic location of your mobile device and other information about you (such as name, email address, gender, locale, time zone, languages, social media profile URL, personal website URL, biographical information, birthday, photo, list of devices, education history, work history, hometown, interests, current city, political views, favorite athlete and teams, relationship status and information, religion, name of significant other, and certain security settings information) and your contacts on those services. Some of these social networking services allow you to push content from our Web Sites to your contacts or to pull information about your contacts so you can connect with them on our Web Sites. Some of these services also will facilitate your registration for our Web Sites or enhance or personalize your experience on our Web Sites. You should make sure you understand the information your third-party social networking services may make available to our Web Sites. We may use and disclose the personal information we receive on our Web Sites through third-party social networking services as described in this Privacy Notice.&nbsp;<br><br><strong>HOW WE USE THE INFORMATION WE OBTAIN<br></strong>We may use the information we obtain through the Web Sites to: <br>• Create and manage your account;<br>• Offer and provide products and services to you;<br>• Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;<br>• Send information to others;<br>• Respond to and communicate with you about your requests, questions and comments;<br>• Manage your application for employment with Dave &amp; Buster's and contact you in connection with potential employment opportunities;<br>• Process claims we receive in connection with our products and services;<br>• Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Web Sites; and performing accounting, auditing, billing, reconciliation and collection activities);<br>• Perform data analyses and other processing (including market and consumer research, trend analysis, financial analysis, anonymization, encryption and tokenization of personal information);<br>• Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and<br>• Comply with and enforce applicable legal requirements, relevant industry standards and our policies. In addition, we may use information collected online through cookies, local shared objects (also known as "Flash cookies"), web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Web Sites, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Web Sites, (iii) marketing, (iv) demographic research and (v) managing our business. We may supplement data we collect through automated means with information about your location (such as your zip code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, administer our Web Sites, identify users of our Web Sites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Web Sites, how users navigate through our Web Sites, and how we may tailor our Web Sites to better meet the needs of our users.<br><br>To identify local shared objects on your computer and adjust your settings, visit <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">here</a>. We may use third-party web analytics services on our Web Sites, such as those of Google Analytics or Adobe Marketing Cloud. The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Web Sites. The information collected through these means (including IP address) is disclosed to these analytics providers, who use the information to evaluate use of the Web Sites. To learn more about Google Analytics and how to opt out, please visit <a href="http://www.google.com/analytics/learn/privacy.html" target="_blank">here</a>. To learn more about Adobe Marketing Cloud, please visit <a href="http://www.adobe.com/solutions/digital-analytics.htm" target="_blank">here</a>.&nbsp; We may combine information we collect from you with information we receive from third parties and use it for the purposes described in this Privacy Notice. We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.<br><br> <strong>INTEREST-BASED ADVERTISING</strong><br> On the Web Sites, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Privacy Notice provides details and explains how to exercise your choices. You may see certain ads on other web sites based on your visits to our Web Sites because we participate in advertising networks administered by third-party vendors. Ad networks allow us to target our messaging to users through demographic, interest-based and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to web sites that participate in the vendors' advertising networks, such as the pages or advertisements you view and the actions you take on the web sites. This data collection takes place both on the Web Sites and on third-party web sites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn more about how to opt out of ad network interest-based advertising,&nbsp;<a href="http://www.aboutads.info/choices/" target="_blank">click here.<br><br></a> <strong>INFORMATION WE SHARE</strong><br> We do not sell or otherwise share personal information about you, except as described in this Privacy Notice. When you post a comment on our Web Sites, third party social network services or blogs, we may publish your name and/or user ID thereon with your comment. We share personal information with third parties who perform services on our behalf based on our instructions. These third parties are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share the personal information we obtain with our affiliates, franchisees and joint marketing partners. We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).<br><br> <strong>YOUR OPTIONS</strong><br> We offer you certain choices about how we communicate with you and what information we collect from you. To update your preferences or ask us to remove your information from our newsletter e-mail lists please sign into to your Rewards account&nbsp;<a href="https://www.daveandbusters.com/sign-in/sign-in/">here</a>&nbsp;or submit a request, please contact us as specified in the How To Contact Us section of this Privacy Notice.<br><br> <strong>NOTICE TO CALIFORNIA RESIDENTS</strong><br> Subject to certain limits under California Civil Code ¤ 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.&nbsp;<br><br> <strong>LINKS TO OTHER WEB SITES</strong><br> Our Web Sites may contain links to other web sites for your convenience and information. These web sites may be operated by companies not affiliated with Dave &amp; Buster’s. Linked web sites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked web sites. We are not responsible for the content of any web sites that are not affiliated with Dave &amp; Buster’s, any use of those web sites, or the privacy practices of those web sites.<br><br> <strong>HOW WE PROTECT PERSONAL INFORMATION</strong><br> We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.&nbsp; Notwithstanding the aforementioned protections, Dave &amp; Buster’s makes no representations, warranties or conditions or any kind, express or implied, with respect thereto.<br><br> <strong>CHILDREN'S PRIVACY</strong><br> Our Web Sites are not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on our Web Sites. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Web Sites, we will delete the information from our records.<br><br> <strong>UPDATES TO OUR PRIVACY NOTICE<br></strong>This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will indicate at the top of the notice when it was most recently updated.<br><br> <strong>YOUR ACCEPTANCE OF THESE TERMS&nbsp;</strong><br> By using the Web Sites, you agree to our Privacy Policy. We may also change the policy from time to time, so please be sure to visit this site often to see if anything has changed. If we post changes and you continue to use the site, you will be deemed to have agreed to the changes.<br><br> <strong>HOW TO CONTACT US</strong><br> If you have any questions about this Privacy Notice, please contact Guest Relations by phone at 888-300-1515. You also may write to us at: <br><em>Dave &amp; Buster’s, Inc.<br></em><em>Attention: Guest Relations<br></em><em>2481 Manana Drive<br></em><em>Dallas, Texas&nbsp; 75220</em></p>
 </div>
-                                    </li>
-                                
-                        </ul>
+    
+
+
                     </div>
-                
-        </div>
-    
-</div>
+                </div>
+    </div>
+    </div>
 
 
+
+      </div>
+      <footer class="footer">
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="btn-group dnb-footer-menu" role="group">
+                                <a href="/house-policies" role="button" class="btn btn-default">House Policies</a>
+                                <a href="/history" role="button" class="btn btn-default">History</a>
+                                <a href="/real-estate" role="button" class="btn btn-default">Real Estate</a>
+                            <a href="http://ir.daveandbusters.com/" target="&quot;_blank&quot;" role="button" class="btn btn-default">Investor Relations</a>
+                                <a href="/privacy-policy" role="button" class="btn btn-default">Privacy Policy</a>
+                                <a href="/terms-of-use" role="button" class="btn btn-default">Terms of Use</a>
+                                <a href="/contact" role="button" class="btn btn-default">Contact</a>
+                </div>
+                <div class="dnb-footer-logo">
+                                <noscript data-slimmage="" data-img-src="/media/1174/makeawish_logo.png?width=240">
+                <img  src="/media/1174/makeawish_logo.png?width=240" alt="Make A Wish Foundation" class=" slimmage" />
+            </noscript>
+
+                    <a href="/footer-pages/make-a-wish/">Learn more<span class="chevron-right"></span></a>
+                </div>
             </div>
-            
         </div>
-        
-        <br clear="all">
-    </div>
-
-            <!-- end body -->
+        <div class="row">
+            <div class="col-md-4 dnb-social-icons">
+                <div class="btn-group dnb-footer-menu" role="group">
+                                <a href="https://www.facebook.com/DaveAndBusters" role="button" class="btn btn-default" target="_blank"><img src="/media/1067/fb.png" alt="Facebook"></a>
+                                <a href="http://twitter.com/daveandbusters" role="button" class="btn btn-default" target="_blank"><img src="/media/1068/_twitter.png" alt="Twitter"></a>
+                                <a href="http://www.youtube.com/user/DaveAndBustersFun" role="button" class="btn btn-default" target="_blank"><img src="/media/1066/youtube.png" alt="YouTube"></a>
+                                <a href="http://www.instagram.com/daveandbusters" role="button" class="btn btn-default" target="_blank"><img src="/media/1069/instagram.png" alt="Instagram"></a>
+                </div>
+            </div>
         </div>
-    </div>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-48036620-1', 'daveandbusters.com');
-      ga('send', 'pageview');
-
-</script>
+        <div class="dnb-footer-text">
+            <p>©2015 Dave &amp; Buster’s. All Rights Reserved.</p>
+        </div>
+</footer>
 
 
-
-    
-<div id="footerContainer">
-	<div id="footer">
-
-
-				<!--Facebook -->
-				
-				<!--Twitter -->
-				
-                 
-				<!--Youtube -->
-				
-
-
-
-            <script type="text/javascript">
-
-                var _gaq = _gaq || [];
-                _gaq.push(['_setAccount', 'UA-41468245-1']);
-                _gaq.push(['_setDomainName', 'daveandbusters.com']);
-                _gaq.push(['_trackPageview']);
-
-                (function () {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-
-            </script>
-
-    <script type="text/javascript">
-                adroll_adv_id = "D3RJHH762ZGXPJ4UQJO74J";
-                adroll_pix_id = "Z2STD5QDNJC67ENJXBE75G";
-                (function () {
-                    var oldonload = window.onload;
-                    window.onload = function () {
-                        __adroll_loaded = true;
-                        var scr = document.createElement("script");
-                        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                        scr.setAttribute('async', 'true');
-                        scr.type = "text/javascript";
-                        scr.src = host + "/j/roundtrip.js";
-                        ((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                        if (oldonload) { oldonload() } 
-                    };
-                } ());
-    </script>
-
-
-		<ul class="footerNav">
-			<li><a href="/about-us" class="">about us</a></li>
-			<li><a href="/careers" class="">careers</a></li>
-			<li><a href="/policies" class="">house policies</a></li>
-			<li><a href="/terms" class="">terms of use</a></li>
-			<li><a href="/privacy" class="">privacy policy</a></li>
-            <li><a href="/cards" class="">POWER CARDS</a></li>
-			<li><a href="/contact" class="contactUs">contact us</a></li>
-			<li><a href="http://ir.daveandbusters.com" class="">investor relations</a></li>
-			<li><a href="/real-estate" class="">real estate</a></li>
-		</ul>
-		<div class="socialLinks">
-			<ul>
-				<li><img src="/images/dave/social-link-share.gif" width="32" height="36" alt=""></li>
-				<li><a href="http://www.facebook.com/DaveAndBusters" target="_blank"><img src="/images/dave/social-link-facebook.gif" width="35" height="36" alt=""></a></li>
-				<li><a href="http://www.twitter.com/daveandbusters" target="_blank"><img src="/images/dave/social-link-twitter.gif" width="36" height="36" alt=""></a></li>
-				<li><a href="http://www.youtube.com/user/DaveAndBustersFun" target="_blank"><img src="/images/dave/social-link-youtube.gif" width="35" height="36" alt=""></a></li>
-				<li><a href="http://www.instagram.com/daveandbusters" target="_blank"><img src="/images/dave/social-link-instagram.gif" width="35" height="36" alt=""></a></li>
-                
-			</ul>
-		</div>
-	</div>
-</div>
-
-
-        
-    </form>
-
-
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 986356757;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986356757/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<script type="text/javascript">
+  <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 40; top: 0px; left: 0px; display: none;"></ul></body></html>
+</body></html>
