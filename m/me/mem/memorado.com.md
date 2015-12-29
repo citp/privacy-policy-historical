@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorado.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418050839id_/http%3A//memorado.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorado.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040211id_/http%3A//memorado.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Memorado
 
@@ -16,7 +16,7 @@ Please read this privacy policy carefully so that you understand how we will tre
 
 Who we are:
 
-We are Memorado GmbH, incorporated at Alte Schönhauser Strasse 44, 10119 Berlin, Germany.
+We are Memorado GmbH, incorporated at Paul-Lincke-Ufer 39/40, 10999 Berlin, Germany.
 
 We will refer to these companies together as "Memorado", "we", "us" and/or "our".
 
