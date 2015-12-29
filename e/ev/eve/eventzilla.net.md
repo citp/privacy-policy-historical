@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504144100id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229055058id_/http%3A//eventzilla.net/privacy) for the most accurate reproduction.*
 
 # Online Event Registration, Management and Planning Software | Eventzilla
 
-This Privacy Policy governs the manner in which Thoughthub Solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.eventzilla.net](https://web.archive.org/web/20150504144100id_/http%3A//www.eventzilla.net/index.html) website ("Site"). This privacy policy applies to the Site and all products and services offered by Thoughthub Solutions.
+This Privacy Policy governs the manner in which Eventzilla Corporation collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.eventzilla.net](https://web.archive.org/web/20151229055058id_/http%3A//eventzilla.net/index.html) website ("Site"). This privacy policy applies to the Site and all products and services offered by Eventzilla Corporation.
 
 Personal identification information
 
@@ -24,7 +24,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 How we use collected information
 
-Thoughthub Solutions collects and uses Users personal information for the following purposes:
+Eventzilla Corporation collects and uses Users personal information for the following purposes:
 
 \- To personalize user experience
 
@@ -72,7 +72,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Changes to this privacy policy
 
-Thoughthub Solutions has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Eventzilla Corporation has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 * * *
 
@@ -90,7 +90,7 @@ please contact us at:
 
 [http://www.eventzilla.net](https://web.archive.org/home)
 
-2885 Sanford Ave, Grandville, MI 49418
+19C Trolley Square, Wilmington, DE 19806
 
 [Email us](https://web.archive.org/contact)
 
@@ -103,4 +103,4 @@ please contact us at:
 
 [ ](https://itunes.apple.com/us/app/eventzilla/id525214852?mt=8 "Available on the App Store")
 
-[ ](https://play.google.com/store/apps/details?id=com.EventzillaAndroidApp&hl=en "Android App on Google Play")
+[ ](https://play.google.com/store/apps/details?id=com.gmail.EventZillaAppStore&hl=en "Android App on Google Play")
