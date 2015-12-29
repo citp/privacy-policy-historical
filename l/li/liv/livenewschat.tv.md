@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livenewschat.tv privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608195736id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewschat.tv privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229084022id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LNC - Live News Cloud Stream
+# Privacy Policy | LNC – Live News Cloud Stream
 
 Last Update: 08.10.2012
 
