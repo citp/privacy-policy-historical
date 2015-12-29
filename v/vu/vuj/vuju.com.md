@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vuju.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408074016id_/http%3A//www.vuju.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuju.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229043711id_/http%3A//www.vuju.com/privacy.php) for the most accurate reproduction.*
 
 # Vuju Privacy Policy
 
 ## **Vuju Privacy Policy**
 
-(last updated October 2012) 
+(last updated May 2015) 
 
 Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
