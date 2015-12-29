@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocreampies.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502022235id_/http%3A//www.ocreampies.com/ocreampies-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocreampies.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229180034id_/http%3A//www.ocreampies.com/ocreampies-privacy.html) for the most accurate reproduction.*
 
 # Ocreampies.com - Privacy Statement
 
