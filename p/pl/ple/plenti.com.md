@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plenti.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620021655id_/http%3A//www.plenti.com/onlineprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plenti.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229173731id_/http%3A//www.plenti.com/onlineprivacystatement) for the most accurate reproduction.*
 
 # Online Privacy Statement | Plenti
 
@@ -6,7 +6,7 @@ Effective Date: May 4, 2015
 
 Plenti, a rewards program operated by American Express Travel Related Services Company Inc., is committed to respecting your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you.
 
-This online privacy statement applies to Plenti websites, online applications that run on smart phones, tablets, and other mobile devices (“apps”) as well as your use or access of any of our online services or content that link to this statement. It does not apply to those websites that have their own online privacy statements such as those of our [Business Partners](https://www.plenti.com/onlineprivacystatementglossary). 
+This online privacy statement applies to Plenti websites, online applications that run on smart phones, tablets, and other mobile devices (“apps”) as well as your use or access of any of our online services or content that link to this statement. It does not apply to those websites that have their own online privacy statements such as those of our [Business Partners](http://www.plenti.com/onlineprivacystatementglossary). 
 
 Our websites, web services and apps are not intended for children under 13 years of age. We do not knowingly solicit data online from, or market online to, children under 13 years of age. 
 
@@ -34,7 +34,7 @@ Do you have questions about the online privacy statement?
 
 What information does this online privacy statement cover? 
 
-This online privacy statement describes how we (and our [Service Providers](https://www.plenti.com/onlineprivacystatementglossary)) may collect, use, share, and keep information that we get about you online. We gather [Online Information](https://www.plenti.com/onlineprivacystatementglossary) if you:
+This online privacy statement describes how we (and our [Service Providers](http://www.plenti.com/onlineprivacystatementglossary)) may collect, use, share, and keep information that we get about you online. We gather [Online Information](http://www.plenti.com/onlineprivacystatementglossary) if you:
 
 • Visit or use our websites, web services or apps;
 
@@ -44,13 +44,13 @@ This online privacy statement describes how we (and our [Service Providers](http
 
 • Interact with us through social media websites and other websites and apps. 
 
-In this statement, we also explain how we may combine [Online Information](https://www.plenti.com/onlineprivacystatementglossary) with [Other Information](https://www.plenti.com/onlineprivacystatementglossary) and how we then use the combined information. 
+In this statement, we also explain how we may combine [Online Information](http://www.plenti.com/onlineprivacystatementglossary) with [Other Information](http://www.plenti.com/onlineprivacystatementglossary) and how we then use the combined information. 
 
 **What information do we collect online and how do we collect it?**
 
 The types of information we collect depends on which product or service you use.
 
-Sometimes you give information directly to us, our [Business Partners](https://www.plenti.com/onlineprivacystatementglossary), or our [Service Providers](https://www.plenti.com/onlineprivacystatementglossary). For example, you might give us your name, account number, email, mailing address, phone number, or date of birth when you:
+Sometimes you give information directly to us, our [Business Partners](http://www.plenti.com/onlineprivacystatementglossary), or our [Service Providers](http://www.plenti.com/onlineprivacystatementglossary). For example, you might give us your name, account number, email, mailing address, phone number, or date of birth when you:
 
 • fill out an online form or survey;
 
@@ -62,17 +62,17 @@ Sometimes you give information directly to us, our [Business Partners](https://w
 
 • buy something on our websites or apps.
 
-We (and our [Service Providers](https://www.plenti.com/onlineprivacystatementglossary) or [Third-Party Ad-Servers](https://www.plenti.com/onlineprivacystatementglossary)) also collect information through [Cookies and Similar Technologies](https://www.plenti.com/onlineprivacystatementglossary). Most [Cookies and Similar Technologies](https://www.plenti.com/onlineprivacystatementglossary) will only collect [De-Identified Information](https://www.plenti.com/onlineprivacystatementglossary) such as how you arrive at our website or your general location. However, certain [Cookies and Similar Technologies](https://www.plenti.com/onlineprivacystatementglossary) do collect [Personal Information](https://www.plenti.com/onlineprivacystatementglossary). For example, if you click _Remember Me_ when you log in to our website, a cookie will store your username. 
+We (and our [Service Providers](http://www.plenti.com/onlineprivacystatementglossary) or [Third-Party Ad-Servers](http://www.plenti.com/onlineprivacystatementglossary)) also collect information through [Cookies and Similar Technologies](http://www.plenti.com/onlineprivacystatementglossary). Most [Cookies and Similar Technologies](http://www.plenti.com/onlineprivacystatementglossary) will only collect [De-Identified Information](http://www.plenti.com/onlineprivacystatementglossary) such as how you arrive at our website or your general location. However, certain [Cookies and Similar Technologies](http://www.plenti.com/onlineprivacystatementglossary) do collect [Personal Information](http://www.plenti.com/onlineprivacystatementglossary). For example, if you click _Remember Me_ when you log in to our website, a cookie will store your username. 
 
-We (and our [Service Providers](https://www.plenti.com/onlineprivacystatementglossary) or [Third-Party Ad-Servers](https://www.plenti.com/onlineprivacystatementglossary)) may collect information using [Cookies and Similar Technologies](https://www.plenti.com/onlineprivacystatementglossary) about:
+We (and our [Service Providers](http://www.plenti.com/onlineprivacystatementglossary) or [Third-Party Ad-Servers](http://www.plenti.com/onlineprivacystatementglossary)) may collect information using [Cookies and Similar Technologies](http://www.plenti.com/onlineprivacystatementglossary) about:
 
 • the device you use to browse our websites or use our apps (for example, we may collect information about the operating system or the browser version and the type of device you use to open electronic communications from us);
 
-• the [IP Address](https://www.plenti.com/onlineprivacystatementglossary) and information related to that [IP Address](https://www.plenti.com/onlineprivacystatementglossary) (such as domain information, your internet provider and general geographic location);
+• the [IP Address](http://www.plenti.com/onlineprivacystatementglossary) and information related to that [IP Address](http://www.plenti.com/onlineprivacystatementglossary) (such as domain information, your internet provider and general geographic location);
 
 • browsing history on our websites or apps (such as what you search for, the pages you view, how long you stay, and how often you come back);
 
-• how you search for our websites or apps, from which website or app you came from, and which of our [Business Partners’](https://www.plenti.com/onlineprivacystatementglossary) websites you visit;
+• how you search for our websites or apps, from which website or app you came from, and which of our [Business Partners’](http://www.plenti.com/onlineprivacystatementglossary) websites you visit;
 
 • which ads or online content from us and our Business Partners you view, access, or click on;
 
@@ -80,117 +80,117 @@ We (and our [Service Providers](https://www.plenti.com/onlineprivacystatementglo
 
 • the location of your mobile device (for example, to help prevent fraud or when you register to receive location-based content on our mobile websites or apps).
 
-We (and our [Service Providers](https://www.plenti.com/onlineprivacystatementglossary) or [Third-Party Ad-Servers](https://www.plenti.com/onlineprivacystatementglossary)) may also collect information made publicly available through third-party platforms (such as online social media platforms), through online databases or directories, or that is otherwise legitimately obtained. The collection of this information is subject to the third party’s terms of use and/or privacy statement.
+We (and our [Service Providers](http://www.plenti.com/onlineprivacystatementglossary) or [Third-Party Ad-Servers](http://www.plenti.com/onlineprivacystatementglossary)) may also collect information made publicly available through third-party platforms (such as online social media platforms), through online databases or directories, or that is otherwise legitimately obtained. The collection of this information is subject to the third party’s terms of use and/or privacy statement.
 
 **How do we use the information we collect about you?**
 
-We may use [Online Information](https://www.plenti.com/onlineprivacystatementglossary) we collect about you on its own or combine it with [Other Information](https://www.plenti.com/onlineprivacystatementglossary) to: 
+We may use [Online Information](http://www.plenti.com/onlineprivacystatementglossary) we collect about you on its own or combine it with [Other Information](http://www.plenti.com/onlineprivacystatementglossary) to: 
 
 • deliver products and services, including to:
 
-o recognize you when you return to our websites or use our apps;
+• recognize you when you return to our websites or use our apps;
 
-o complete transactions; 
+• complete transactions; 
 
-o tell you about updates to your accounts, products and services; 
+• tell you about updates to your accounts, products and services; 
 
-o update you about new features, offers and benefits;
+• update you about new features, offers and benefits;
 
-o answer questions and respond to your requests made through our websites or apps and through third-party websites (including social media); 
+• answer questions and respond to your requests made through our websites or apps and through third-party websites (including social media); 
 
-o use the location of your mobile device for location-based services that you may request;
+• use the location of your mobile device for location-based services that you may request;
 
-o determine how to best provide services to you and manage your accounts, such as the best way and time to contact you;
+• determine how to best provide services to you and manage your accounts, such as the best way and time to contact you;
 
-o improve our websites or apps and make them easier to use; 
+• improve our websites or apps and make them easier to use; 
 
-• advertise and market our products and services – and those of our [Business Partners](https://www.plenti.com/onlineprivacystatementglossary) – including to:
+• advertise and market our products and services – and those of our [Business Partners](http://www.plenti.com/onlineprivacystatementglossary) – including to:
 
-o present content that is tailored to your interests, including [Targeted Advertising](https://www.plenti.com/onlineprivacystatementglossary);
+• present content that is tailored to your interests, including [Targeted Advertising](http://www.plenti.com/onlineprivacystatementglossary);
 
-o send or provide you with ads, promotions, and offers;
+• send or provide you with ads, promotions, and offers;
 
-o analyze whether our ads, promotions, and offers are effective; 
+• analyze whether our ads, promotions, and offers are effective; 
 
-o help us determine whether you may be interested in new products or services; 
+• help us determine whether you may be interested in new products or services; 
 
 • conduct research and analysis, including to:
 
-o better understand our customers and our website or app users;
+• better understand our customers and our website or app users;
 
-o allow you to give feedback by rating and reviewing our products and services and those of our [Business Partners](https://www.plenti.com/onlineprivacystatementglossary); 
+• allow you to give feedback by rating and reviewing our products and services and those of our [Business Partners](http://www.plenti.com/onlineprivacystatementglossary); 
 
-o produce data analytics, statistical research, and reports; 
+• produce data analytics, statistical research, and reports; 
 
-o review and change our products and services;
+• review and change our products and services;
 
 • manage fraud and security risk, including to: 
 
-o detect and prevent fraud or criminal activity;
+• detect and prevent fraud or criminal activity;
 
-o safeguard the security of your information;
+• safeguard the security of your information;
 
 • assess risks relating to our business, including to: 
 
-o evaluate and process your applications for our products and services and manage your existing accounts; and
+• evaluate and process your applications for our products and services and manage your existing accounts; and
 
 • use it in other ways as required or permitted by law or with your consent.
 
 **How do we share your information?**
 
-Some [Online Information](https://www.plenti.com/onlineprivacystatementglossary) is [Personal Information](https://www.plenti.com/onlineprivacystatementglossary). 
+Some [Online Information](http://www.plenti.com/onlineprivacystatementglossary) is [Personal Information](http://www.plenti.com/onlineprivacystatementglossary). 
 
 **How we treat your Personal Information**
 
-We do not share [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) with anyone except as described below. We may share [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) as required or as permitted by law, such as:
+We do not share [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) with anyone except as described below. We may share [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) as required or as permitted by law, such as:
 
-• with our [Plenti Partners](https://www.plenti.com/manage-account); (if you do not want us to share your Personal Information with our [Plenti Partners](https://www.plenti.com/manage-account) after you have enrolled, please click here)
+• with our [Plenti Partners](http://www.plenti.com/manage-account); (if you do not want us to share your Personal Information with our [Plenti Partners](http://www.plenti.com/manage-account) after you have enrolled, please click here)
 
 • with regulatory authorities, courts, and governmental agencies to comply with legal orders, legal or regulatory requirements, and government requests;
 
-• with our [Service Providers](https://www.plenti.com/onlineprivacystatementglossary), regulatory authorities, and governmental agencies to detect and prevent fraud or criminal activity, and to protect the rights of Plenti or others;
+• with our [Service Providers](http://www.plenti.com/onlineprivacystatementglossary), regulatory authorities, and governmental agencies to detect and prevent fraud or criminal activity, and to protect the rights of Plenti or others;
 
-• within the [American Express Family of Companies](https://www.plenti.com/onlineprivacystatementglossary);
+• within the [American Express Family of Companies](http://www.plenti.com/onlineprivacystatementglossary);
 
-• with our [Service Providers ](https://www.plenti.com/onlineprivacystatementglossary)who perform services for us and help us operate our business (we require [Service Providers ](https://www.plenti.com/onlineprivacystatementglossary) to safeguard [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) and only use your [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) for the purposes we specify);
+• with our [Service Providers ](http://www.plenti.com/onlineprivacystatementglossary)who perform services for us and help us operate our business (we require [Service Providers ](http://www.plenti.com/onlineprivacystatementglossary) to safeguard [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) and only use your [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) for the purposes we specify);
 
-• with financial institutions or [Co-brand Partners](https://www.plenti.com/onlineprivacystatementglossary) with whom we jointly offer or develop products and services (but they may not use your [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) \- in particular your email address - to independently market their own products or services to you unless you consent that they can do so);
+• with financial institutions or [Co-brand Partners](http://www.plenti.com/onlineprivacystatementglossary) with whom we jointly offer or develop products and services (but they may not use your [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) \- in particular your email address - to independently market their own products or services to you unless you consent that they can do so);
 
-• in the context of a sale of all or part of the [American Express Family](https://www.plenti.com/onlineprivacystatementglossary) of Companies or their assets; or
+• in the context of a sale of all or part of the [American Express Family](http://www.plenti.com/onlineprivacystatementglossary) of Companies or their assets; or
 
 • for specific products or services, when you have given your consent.
 
-We may transfer [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) to [Service Providers](https://www.plenti.com/onlineprivacystatementglossary) or companies within the [American Express Family of Companies](https://www.plenti.com/onlineprivacystatementglossary) throughout the world, for example, to process transactions and provide you with our products or services. Regardless of where we process your information, we still protect it in the manner described in this online privacy statement and according to the applicable laws.
+We may transfer [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) to [Service Providers](http://www.plenti.com/onlineprivacystatementglossary) or companies within the [American Express Family of Companies](http://www.plenti.com/onlineprivacystatementglossary) throughout the world, for example, to process transactions and provide you with our products or services. Regardless of where we process your information, we still protect it in the manner described in this online privacy statement and according to the applicable laws.
 
-**How we handle[Aggregated Information](https://www.plenti.com/onlineprivacystatementglossary) and [De-identified Information](https://www.plenti.com/onlineprivacystatementglossary)**
+**How we handle[Aggregated Information](http://www.plenti.com/onlineprivacystatementglossary) and [De-identified Information](http://www.plenti.com/onlineprivacystatementglossary)**
 
-[Aggregated Information](https://www.plenti.com/onlineprivacystatementglossary) or [De-identified Information](https://www.plenti.com/onlineprivacystatementglossary) does not identify you individually; it helps us to analyze patterns among groups of people. We may share [Aggregated Information](https://www.plenti.com/onlineprivacystatementglossary) or [De-identified Information](https://www.plenti.com/onlineprivacystatementglossary) in several ways, for example:
+[Aggregated Information](http://www.plenti.com/onlineprivacystatementglossary) or [De-identified Information](http://www.plenti.com/onlineprivacystatementglossary) does not identify you individually; it helps us to analyze patterns among groups of people. We may share [Aggregated Information](http://www.plenti.com/onlineprivacystatementglossary) or [De-identified Information](http://www.plenti.com/onlineprivacystatementglossary) in several ways, for example:
 
-• for the same reasons as we might share [Personal Information](https://www.plenti.com/onlineprivacystatementglossary);
+• for the same reasons as we might share [Personal Information](http://www.plenti.com/onlineprivacystatementglossary);
 
-• with [Business Partners](https://www.plenti.com/onlineprivacystatementglossary) to help develop and market products or services and present targeted content, including [Targeted Advertising](https://www.plenti.com/onlineprivacystatementglossary);
+• with [Business Partners](http://www.plenti.com/onlineprivacystatementglossary) to help develop and market products or services and present targeted content, including [Targeted Advertising](http://www.plenti.com/onlineprivacystatementglossary);
 
-• with [Business Partners](https://www.plenti.com/onlineprivacystatementglossary) to conduct analysis and research about customers, website and app users; or
+• with [Business Partners](http://www.plenti.com/onlineprivacystatementglossary) to conduct analysis and research about customers, website and app users; or
 
-• with [Third-Party Ad-Servers](https://www.plenti.com/onlineprivacystatementglossary) to place ads (including ads of our [Business Partners](https://www.plenti.com/onlineprivacystatementglossary)) on various websites and apps, and to analyze the effectiveness of those ads.
+• with [Third-Party Ad-Servers](http://www.plenti.com/onlineprivacystatementglossary) to place ads (including ads of our [Business Partners](http://www.plenti.com/onlineprivacystatementglossary)) on various websites and apps, and to analyze the effectiveness of those ads.
 
 **How do we keep and safeguard your information?**
 
-We use administrative technical and physical security measures to protect your [Personal Information](https://www.plenti.com/onlineprivacystatementglossary). These measures include computer safeguards and secured files and facilities. We take reasonable steps to securely destroy or permanently de-identify [Personal Information](https://www.plenti.com/onlineprivacystatementglossary) when we no longer need it.
+We use administrative technical and physical security measures to protect your [Personal Information](http://www.plenti.com/onlineprivacystatementglossary). These measures include computer safeguards and secured files and facilities. We take reasonable steps to securely destroy or permanently de-identify [Personal Information](http://www.plenti.com/onlineprivacystatementglossary) when we no longer need it.
 
-We will keep your [Online Information](https://www.plenti.com/onlineprivacystatementglossary) only as long as we must to deliver our products and services, unless we are required by law or regulation or for litigation and regulatory investigations to keep it.
+We will keep your [Online Information](http://www.plenti.com/onlineprivacystatementglossary) only as long as we must to deliver our products and services, unless we are required by law or regulation or for litigation and regulatory investigations to keep it.
 
 **What are your choices?**
 
-You will always have a right to access, update, and change or correct your [Personal Information](https://www.plenti.com/onlineprivacystatementglossary).
+You will always have a right to access, update, and change or correct your [Personal Information](http://www.plenti.com/onlineprivacystatementglossary).
 
-You have choices about how Plenti uses your information, such as how we market to you or how we manage [Cookies and Similar Technologies](https://www.plenti.com/onlineprivacystatementglossary). 
+You have choices about how Plenti uses your information, such as how we market to you or how we manage [Cookies and Similar Technologies](http://www.plenti.com/onlineprivacystatementglossary). 
 
 **What are your choices about how we market to you?**
 
-You can choose how you would like to receive marketing communications, including direct marketing - whether we send them to you through postal mail, email, SMS and/or telephone. If you choose to not receive marketing communications from us, we will honor your [choice](https://www.plenti.com/manage-account). Please be aware that if you choose not to receive such communications, certain offers attached to the products or services you have chosen may be affected. We will still communicate with you in connection with servicing your account, fulfilling your requests, or administering any promotion or any program in which you have elected to participate. 
+You can choose how you would like to receive marketing communications, including direct marketing - whether we send them to you through postal mail, email, SMS and/or telephone. If you choose to not receive marketing communications from us, we will honor your [choice](http://www.plenti.com/manage-account). Please be aware that if you choose not to receive such communications, certain offers attached to the products or services you have chosen may be affected. We will still communicate with you in connection with servicing your account, fulfilling your requests, or administering any promotion or any program in which you have elected to participate. 
 
-Please note that the choices you make with Plenti apply to Plenti and do not affect choices that you have made directly with [Business Partners](https://www.plenti.com/onlineprivacystatementglossary). If you choose to no longer receive marketing communications from one or more of our Business Partners, you must make your choices directly with [them](https://www.plenti.com/partners). 
+Please note that the choices you make with Plenti apply to Plenti and do not affect choices that you have made directly with [Business Partners](http://www.plenti.com/onlineprivacystatementglossary). If you choose to no longer receive marketing communications from one or more of our Business Partners, you must make your choices directly with [them](http://www.plenti.com/partners). 
 
 **We participate in the Digital Advertising Alliance (DAA) self regulatory program and adhere to the DAA Principles for Online Behavioral Advertising.[Click here](http://info.evidon.com/pub_info/3686?v=1 "Click here") to learn more about the DAA and your choices.**
 
