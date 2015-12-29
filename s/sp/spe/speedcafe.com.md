@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627123839id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229225656id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Speedcafe Pty Ltd Privacy Policy - Speedcafe
 
@@ -91,11 +91,11 @@ All of our electronic marketing activities will comply with the requirements of 
 
 We have a strict duty to maintain the privacy of all personal information we hold about you. However, certain exceptions do apply. For example, where disclosure of your personal information is:
 
-  * **authorised or required by law**  
+  *  **authorised or required by law**  
 e.g. disclosure to various government departments and agencies such as the Australian Taxation Office, CentreLink, Child Support Agency, or disclosure to courts under subpoena.
-  * **in the public interest**  
+  *  **in the public interest**  
 e.g. where a crime, fraud or misdemeanour is committed or suspected, and disclosure against the customer’s rights to confidentiality is justified.
-  * **with your consent**  
+  *  **with your consent**  
 Your consent may be implied or express and it may also be verbal or written.
 
 
@@ -182,4 +182,4 @@ The Australian Information Commissioner
 
 
 
-**Last Updated:** 15 April 2015
+ **Last Updated:** 15 April 2015
