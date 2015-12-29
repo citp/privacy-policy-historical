@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inventorysource.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628012936id_/http%3A//www.inventorysource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorysource.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229093234id_/http%3A//www.inventorysource.com/privacy-policy) for the most accurate reproduction.*
 
-# Inventory Source Privacy Policy
-
-##### Inventory Source Privacy Policy
+# Privacy Policy - Inventory Source
 
 **1\. PRIVACY STATEMENT**  
 Inventory Source has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.inventorysource.com.
@@ -32,6 +30,6 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Inventory Source  
-60 Ocean Blvd,  
-Atlantic Beach, FL, 32233  
-support@www.inventorysource.com
+120 Lemon St  
+Neptune Beach, FL 32266  
+support@inventorysource.com
