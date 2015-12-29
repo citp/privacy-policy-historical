@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crictime.biz privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195844id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictime.biz privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229035012id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Netfirms' Privacy Policy
 
