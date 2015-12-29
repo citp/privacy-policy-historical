@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the tendernews.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511161946id_/http%3A//www.tendernews.com/tender_government.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendernews.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229223513id_/http%3A//www.tendernews.com/tender_government.aspx) for the most accurate reproduction.*
 
 # Invitation to tender india on the web construction tenders printing tenders bids public tenders news india
 
   * you are here
-  * [Home](https://web.archive.org/web/20150511161946id_/http%3A//www.tendernews.com/index.aspx)
+  * [Home](https://web.archive.org/web/20151229223513id_/http%3A//www.tendernews.com/index.aspx)
   * Policy Statements
 
 
