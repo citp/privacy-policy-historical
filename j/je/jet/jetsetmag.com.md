@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jetsetmag.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623212207id_/http%3A//www.jetsetmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetsetmag.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229054723id_/https%3A//jetsetmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-As of January 1, 2015
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -43,7 +41,7 @@ All transactions are processed through a gateway provider and are not stored or 
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
- **We use cookies to:**
+**We use cookies to:**
 
   * Understand and save user's preferences for future visits.
   * Keep track of advertisements.
@@ -117,7 +115,7 @@ Users are able to change their personal information:
 
 We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
- **Does our site allow third party behavioral tracking?**
+**Does our site allow third party behavioral tracking?**
 
 It's also important to note that we allow third party behavioral tracking
 
@@ -131,7 +129,7 @@ We do not specifically market to children under 13.
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
   * We will notify the users via email within 7 business days
   * We will notify the users via in site notification within 7 business days
@@ -144,7 +142,7 @@ We also agree to the individual redress principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
- **We collect your email address in order to:**
+**We collect your email address in order to:**
 
   * Send information, respond to inquiries, and/or other requests or questions.
   * Process orders and to send information and updates pertaining to orders
@@ -168,8 +166,8 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 ### Contact Information
 
- **Jetset Magazine |[jetsetmag.com](https://jetsetmag.com/)**  
+**Jetset Magazine |[jetsetmag.com](https://www.jetsetmag.com/)**  
 15220 N. 75th St.   
 Scottsdale, AZ 85260  
 USA  
-[Contact Us](https://jetsetmag.com/contact "Contact Us")
+[Contact Us](https://www.jetsetmag.com/contact "Contact Us")
