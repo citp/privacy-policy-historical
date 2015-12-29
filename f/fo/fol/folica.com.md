@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424175139id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229105911id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Folica.com - The best selection of hair care, flat irons and hair styling products anywhere
 
