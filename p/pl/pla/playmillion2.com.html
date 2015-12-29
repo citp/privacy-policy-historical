@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playmillion2.com privacy policy that was archived on 2015-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624000449id_/http%3A//www.playmillion2.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playmillion2.com privacy policy that was archived on 2015-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229102614id_/http%3A//www.playmillion2.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -9,11 +9,16 @@
 <link rel="stylesheet" href="http://cdnpmuk.image-tech-storage.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.9.7" type="text/css" media="all">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://www.playmillion2.com/xmlrpc.php">
-	<link rel="icon" type="image/png" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/favicon.ico?v=31462">
+	<link rel="icon" type="image/png" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/favicon.ico?v=31122">
 
 		<link href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
-			<link href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/style.css?v=41681" rel="stylesheet" type="text/css">
+			<link href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/style.css?v=81737" rel="stylesheet" type="text/css">
+		
+		
+		
+		
+		
 		
 		
 		
@@ -70,6 +75,22 @@
 	        }
 	        return visitor_country_code_global;
 	    }
+function visitor_region_code()
+{
+  if( typeof visitor_region_code_global == 'undefined' )
+    {
+      jQuery.ajax({
+	url: '/wp-content/themes/playmillion/region.php',
+	    type: 'GET',
+	    async: false,
+	    cache: false,
+	    timeout: 3000,
+	    success: function (r) { visitor_region_code_global = r; }
+	});
+    }
+  return visitor_region_code_global;
+}
+
 	</script>
 
 	    <script>
@@ -188,9 +209,11 @@ img.emoji {
                 </div>
             </div>
         </div>
-    					
+    	
+				
 	<div class="page-wrapper english">
-			
+
+				
 		<div id="fb-root"></div>
 		<script>
 		(function(d, s, id) {
@@ -385,7 +408,8 @@ img.emoji {
             "&dreferrer="+encodeURIComponent(document.referrer),
         async: true,
         success: function(data){
-            document.getElementById('mycookie').innerHTML = data;
+	  //document.getElementById('mycookie').innerHTML = data;
+	  jQuery('#mycookie').html(data);
         }
     });
 
@@ -396,17 +420,6 @@ img.emoji {
 </script>
 
 
-
-<script>
-    $(document).click(function () {
-        if( readCookie('Aname') == 'catchzone' && typeof cl1_i == 'undefined' )
-        {
-            cl1_i=new Image();
-            cl1_i.src='http://ad.yieldmanager.com/pixel?id=2347053&t=2';
-        }
-        return true;
-    });
-</script>
 
 <script>
      
@@ -510,7 +523,8 @@ img.emoji {
         replace_in_html(".incentive", "10€", incentive);
     }
 </script>
-    <div class="container">
+    
+<div class="container">
 	<div class="popular-games">
 		<h4>most popular games</h4>
 		<div class="page-container">
@@ -680,35 +694,45 @@ img.emoji {
 		    </div>
 		</div>
 	</div>
+
+	<p class="games-availabilty">Games subject to availabilty</p>
 </div>
     <div class="footer">
         <div class="container">
-            <p id="footer-text" class="footer-text">
+            <p id="footer-text" class="footer-text license-text">
             <script>
             jQuery(document).ready( function () {
-                //restricted_countries = ['ES','IT','BE','FR','US','TR','HU','RO','RU','PL','PT','LV','CA','MX','IL','BG','NL'];
-                /*if( jQuery.inArray( visitor_country_code(),restricted_countries ) >=0 )  //Last change regard Andy's request 18.3.2015
+                if( visitor_country_code() == 'MT' || visitor_country_code() == 'CY' || visitor_country_code() == 'GI' || visitor_country_code() == 'IM' )
                 {
-                    jQuery('#footer-text').hide();
-                }*/
-                if( visitor_country_code() == 'MT' || visitor_country_code() == 'CY' )
-                {
-                    jQuery('#footer-text').html('This site is operated by SkillOnNet Ltd, Level 5, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, using the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/563/2009) issued on 17th June 2011');
+                    jQuery('.footer-text').html('This site’s operations are regulated by the Malta Gaming Authority and is operated by SkillOnNet Ltd, Office 1/5297 Level G, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/563/2009) issued on 17th June 2011');
                 }
                 else if( visitor_country_code() == 'SE' || visitor_country_code() == 'FI' )
                 {
-                    jQuery('#footer-text').html('This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus, using the gaming license issued by the Malta Gaming Authority to Skill On Net Ltd, Level 5, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta (license number MGA/CL1/563/2009) issued on 17th June 2011');
+                    jQuery('.footer-text').html('This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus, using the gaming license issued by the Malta Gaming Authority to Skill On Net Ltd, Level 5, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta (license number MGA/CL1/563/2009) issued on 17th June 2011');
                 }
-                /*else //Last change regard Andy's request 18.3.2015
+                else if( visitor_country_code() == 'DE' )
+                {
+                    jQuery('.footer-text').html('This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus, using the gaming license issued by the Malta Gaming Authority to Titanium Brace Marketing Ltd, Level 5, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta (license number MGA/CL1/1078/2015) issued on 17th September 2015');
+                }
+                /*else if( visitor_country_code() == 'DK' )
+                {
+                    jQuery('.footer-text .dk-license').add();
+                    jQuery('.footer-text .rest-license').remove();
+                }
+                else //Last change regard Andy's request 18.3.2015
                 {
                     jQuery('#footer-text').html('This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus, using the gaming license issued by the Lotteries and Gaming Authority of Malta to Skill On Net Ltd, Level 5, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta (license number LGA/CL1/563/2009) issued on 17th June 2011.');
                 }*/
                 else{
-                    jQuery('#footer-text').hide();
+                    jQuery('.footer-text').hide();
                 }
             });
         </script>
-    </p>            <script type="text/javascript">
+    </p>
+
+<p id="license-statement">
+    <a href="http://www.playmillion2.com/responsible-gaming/">Gambling can be addictive, please play responsibly</a>
+</p>            <script type="text/javascript">
     function toggleDiv(divId) {
      $("#"+divId).toggle();
     }
@@ -716,99 +740,97 @@ img.emoji {
                         <div class="footer_inner">
     <div class="footer_sprite_links">
         <ul>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="mastercard">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="visa">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="click2pay">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="moneybookers">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="neteller">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="mb">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="monetaru">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="qiwi">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="teleingreso">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="abaqood">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="euteller">&nbsp;</span></a></li>
-
-            <li><a href="http://www.playmillion2.com/payments/"><span class="fastbanktrans">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="ukash">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="boletobancario">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="nordea">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="swedbank">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="poli">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="clickandbuy">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="entropay">&nbsp;</span></a></li>
-            <li><a href="https://passport.webmoney.ru/asp/certview.asp?wmid=462153090810" target="_blank" class="external" rel="nofollow"><span class="webmoney">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="eps">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="paysafecard">&nbsp;</span></a></li>
-
-            <li><a href="http://www.playmillion2.com/payments/"><span class="instantbank">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="ideal">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="wirecard">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="wiretransfer">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="giropay">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="sporopay">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="postepay">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="lottomatica">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="mastercash">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="przelewy">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="paypal">&nbsp;</span></a></li>
-
-            <li><a href="http://www.playmillion2.com/payments/"><span class="yandexmoney">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="sofort">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="neosurf">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="dineromail">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="ekonto">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="fundsend">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="speedcard">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="ticketsurf">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="toditocash">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="baloto">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="pugglepay">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="agmo">&nbsp;</span></a></li>
-            <li><a href="http://www.playmillion2.com/payments/"><span class="trustpay">&nbsp;</span></a></li>
-            <div style="clear:both;"></div>
-        </ul>
+                                                                                    <li><a href="http://www.playmillion2.com/payments/"><span class="siru-mobile">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="pugglepay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="dineromail">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="boleto-bancario">&nbsp;</span></a></li>
+                                                                                          <li><a href="http://www.playmillion2.com/payments/"><span class="todito-cash">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="speedcard">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="yandex-money">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="webmoney">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="paypal">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="click-2-pay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="skrill-moneybookers">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="neteller">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="ewire">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="moneta-ru">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="nordea">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="click-and-buy">&nbsp;</span></a></li>
+                                                                                          <li><a href="http://www.playmillion2.com/payments/"><span class="epay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="instadebit">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="usemyservices">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="trustpay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="comgate">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="fundsend">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="ekonto">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="sofort">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="sporopay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="przelewy24">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="wire-transfer">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="ideal">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="instant-bank">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="fast-bank-transfer">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="euteller">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="abaqoos">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="teleingreso">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="multibanco">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="eps">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="giropay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="poli">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="swedbank-bank-link">&nbsp;</span></a></li>
+                                                                                          <li><a href="http://www.playmillion2.com/payments/"><span class="ticket-premium">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="baloto">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="neosurf">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="lottomaticard">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="wirecard">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="paysafecard">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="entropay">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="qiwi">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="postepay">&nbsp;</span></a></li>
+                                                                                          <li><a href="http://www.playmillion2.com/payments/"><span class="ecopayz">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="dankort">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="bancontactmister-cash">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="maestro">&nbsp;</span></a></li>
+                                                                                          <li><a href="http://www.playmillion2.com/payments/"><span class="mastercard">&nbsp;</span></a></li>
+                                          <li><a href="http://www.playmillion2.com/payments/"><span class="visa">&nbsp;</span></a></li>
+                                                  </ul>
     </div>
 </div>            <div class="partners-list">
     <ul>
-        <li class="partners">
+        <li class="partner partners">
             <a href="http://www.playmillionpartners.com/" class="external" rel="nofollow" target="_blank">
                 PlayMillion Partners
             </a>
         </li>
-        <li class="skillonnet">
+        <li class="partner skillonnet">
             <a href="http://www.skillonnet.com/" class="external" rel="nofollow" target="_blank">
                 SkillOnNet
             </a>
         </li>
-        <li class="gamecare">
-            <a href="http://www.gamcaretradeservices.com/" class="external" rel="nofollow" target="_blank">
+        <li class="partner gamecare">
+            <a href="http://www.gamcare.org.uk/" class="external" rel="nofollow" target="_blank">
                 Game Care
             </a>
         </li>
-        <li class="itechlabs">
-            <a href="http://c20e7c4c1c.image-tech-storage.com/files/RNG_Certificate_SkillOnNet_040313.pdf" class="external" rel="nofollow" target="_blank">
-                iTech Labs
-            </a>
-        </li>
-                    <li class="malta-authority">
+                    <li class="partner itechlabs">
+                <a href="http://cdnpmuk.image-tech-storage.com/files/RNG_Certificate_SkillOnNet_040313.pdf" class="external" rel="nofollow" target="_blank">
+                    iTech Labs
+                </a>
+            </li>
+        
+                    <li class="partner malta-authority">
                 <a href="https://www.authorisation.mga.org.mt/verification.aspx?lang=en&amp;company=c17b577e-3a83-4c7d-87c6-2adb8933aeec" class="external" rel="nofollow" target="_blank">
                     Malta Authority
                 </a>
             </li>   
-                <li class="adult-only">
+                <li class="partner adult-only">
             18 only
         </li>
-        <li class="secure-site">
+        <li class="partner secure-site">
             Secure Site
         </li>
-        <li class="vegasmaster-partner">
-            <a class="vegasmaster external" target="_blank" href="http://www.vegasmaster.com/" title="VegasMaster" rel="nofollow">
-                <img src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/footer-logos/vm-reccomend/blank.png" alt="VegasMaster">
-            </a>
-        </li>
-    </ul>
+            </ul>
 </div>
-        
 
 <script>
     jQuery(document).ready( function () {
@@ -819,25 +841,35 @@ img.emoji {
         }*/
         if( visitor_country_code() == 'MT' || visitor_country_code() == 'CY' || visitor_country_code() == 'SE' || visitor_country_code() == 'FI' )
         {
-            jQuery('.partners-list').add();
+            jQuery('.partners-list .partner').add();
         }
         else if( visitor_country_code() == 'GB')
         {
-            jQuery('.partners-list').add();
+            jQuery('.partners-list .partner').add();
             jQuery('.malta-authority').remove();
         }
         else if( visitor_country_code() == 'DK')
         {
-            jQuery('.partners-list').add();
+            jQuery('.partners-list .partner').add();
             jQuery('.malta-authority').remove();
         }
         else
         {
-            jQuery('.partners-list').remove();
+            jQuery('.partners-list .partner.partners').remove();
+            jQuery('.partners-list .partner.skillonnet').remove();
+            jQuery('.partners-list .partner.gamecare').remove();
+            jQuery('.partners-list .partner.itechlabs').remove();
+            jQuery('.partners-list .partner.skat-license').remove();
+            jQuery('.partners-list .partner.gambling-comission').remove();
+            jQuery('.partners-list .partner.gambleaware').remove();
+            jQuery('.partners-list .partner.malta-authority').remove();
+            jQuery('.partners-list .partner.adult-only').remove();
+            jQuery('.partners-list .partner.secure-site').remove();
+            // VM Logo Only For HP in EN only
+            jQuery('.partners-list .partner.vegasmaster-partner').add();
         }
     });
 </script>
-
             <img src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/footer-seprator.png" alt="Divider">
 
             <div class="footer-logo">
@@ -888,13 +920,12 @@ img.emoji {
     </div>
 
 
-
 <script src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
     jQuery(window).load(function(){
         var country = visitor_country_code();
-        if( country == 'FR' || country == 'ES' )
+        if( country == 'FR' || country == 'ES' || country == 'HU' || country == 'RO' )
         {
             $('#blocker_body').html( $('#blocker_'+country).html() );
             //jQuery('#country-blocker').modal('show');
@@ -904,9 +935,19 @@ img.emoji {
                 keyboard: false
             });
         }
+        // else if from Germany, ONLY THEN check what's the region and if its Schleswig-Holstein, block
+        else if( country=='DE' && visitor_region_code()=='SH' )
+        {
+            $('#blocker_body').html( $('#blocker_'+country).html() );
+            jQuery('#country-blocker').modal({
+                show: true,
+                backdrop: 'static',
+                keyboard: false
+            });
+            jQuery('#country-blocker > button').remove();
+        }
     });
 </script>
-
 
 <div id="blocker_FR" style="display:none">
     <h2>Avertissement</h2>
@@ -923,6 +964,36 @@ img.emoji {
     <p><a href="#" data-dismiss="modal" aria-hidden="true">Continuar</a> o <a href="http://es.vegasmaster.com/mejores-casinos-en-espanol/" class="external" rel="nofollow" target="_blank">vea casinos que aceptan jugadores españoles</a></p>
     <p>To comply with regulations PlayMillion.com site is not available to players residing in Spain. If you feel you are receiving this message in error click accept to continue.</p>
     <p><a href="#" data-dismiss="modal" aria-hidden="true">Accept</a> or <a href="http://es.vegasmaster.com/mejores-casinos-en-espanol/" class="external" rel="nofollow" target="_blank">View casinos accepting spanish players</a></p>
+</div>
+
+<div id="blocker_HU" style="display:none">
+    <h2>Advertencia</h2>
+    <p>Észleltük, hogy olyan országból próbál hozzáférni weboldalunkhoz, ahonnan nem fogadunk ügyfeleket (a weboldal használati feltételei szerint), ezért nem játszhat ezen az oldalon.</p>
+    <p>Ha úgy gondolja, hogy tévesen kapta ezt az üzenetet, és nem olyan országból játszik, ahonnan a weboldalunk tiltja a játekosokat (a weboldal használati feltételei szerint), tovább léphet.</p>
+    <p><a href="#" data-dismiss="modal" aria-hidden="true">Elfogadom</a></p>
+
+    <p>We have detected that you are trying to access our site from a country that we do not accept players from (as per our terms and conditions) and for this reason you cannot play on this website.</p>
+    <p>If you feel you are receiving this message in error and you are not playing from a country we do not accept players from (as per our terms and conditions) you may continue.</p>
+    <p><a href="#" data-dismiss="modal" aria-hidden="true">Accept</a></p>
+</div>
+
+<div id="blocker_RO" style="display:none">
+    <h2>Avertizare</h2>
+    <p>Am detectat că încercați să accesați site-ul nostru dintr-o țară din care nu acceptăm jucători (conform termenilor și condițiilor noastre) și din acest motiv nu puteți juca pe acest site web.</p>
+    <p>credeți că primiți acest mesaj dintr-o eroare și nu jucați dintr-o țară din care nu acceptăm jucători (conform termenilor și condițiilor noastre), puteți continua.</p>
+    <p><a href="#" data-dismiss="modal" aria-hidden="true">Accepta</a></p>
+
+    <p>We have detected that you are trying to access our site from a country that we do not accept players from (as per our terms and conditions) and for this reason you cannot play on this website.</p>
+    <p>If you feel you are receiving this message in error and you are not playing from a country we do not accept players from (as per our terms and conditions) you may continue.</p>
+    <p><a href="#" data-dismiss="modal" aria-hidden="true">Accept</a></p>
+</div>
+
+
+<div id="blocker_DE" style="display:none">
+    <p>Wir haben festgestellt, dass Sie unsere Internetseite aus dem deutschen Bundesland</p>
+    <p>Schleswig-Holstein aufgerufen haben, von wo wir aus gesetzlichen Gründen keine Spieler</p>
+    <p>zulassen können. Wenn Sie glauben, dass Sie diese Nachricht irrtümlicherweise sehen,</p>
+    <p>dann kontaktieren Sie bitte unseren Kundendienst.</p>
 </div>
  
 <!-- Modal -->
@@ -1009,47 +1080,14 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.playmillion2.co
 <script type="text/javascript" src="http://cdnpmuk.image-tech-storage.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.2.2"></script>
 <!--/excludeme-->
 
-<script>
-    var versaTag = {};
-    versaTag.id = "2744";
-    versaTag.sync = 0;
-    versaTag.dispType = "js";
-    versaTag.ptcl = "HTTP";
-    versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
-    //VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
-    versaTag.activityParams = {
-//Predefined parameters:
-        "OrderID":"","Session":"","Value":"","productid":"","productinfo":"","Quantity":"",
-//Custom parameters:
-        "unique_user_ID":""};
-    //Static retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-    versaTag.retargetParams = {};
-    //Dynamic retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-    versaTag.dynamicRetargetParams = {};
-    // Third party tags conditional parameters and mapping rule parameters. Syntax: "CondParam1":"ParamValue1", "CondParam2":"ParamValue2". ParamValue can be empty.
-    versaTag.conditionalParams = {"user_type":"","aname":readCookie('Aname'),"zone_id":readCookie('Zone_id'),"dyn_id":readCookie('Dyn_id')};
-</script>
-<script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
-<noscript>
-    <iframe src="http://bs.serving-sys.com/BurstingPipe?
-cn=ot&amp;
-onetagid=2744&amp;
-ns=1&amp;
-activityValues=$$Value=[Value]&amp;OrderID=[OrderID]&amp;Session=[Session]&amp;ProductID=[ProductID]&amp;ProductInfo=[ProductInfo]&amp;Quantity=[Quantity]$$&amp;
-retargetingValues=$$$$&amp;
-dynamicRetargetingValues=$$$$&amp;
-acp=$$$$&amp;"
-            style="display:none;width:0px;height:0px"></iframe>
-</noscript>
-
 
 
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 221/341 queries in 0.060 seconds using apc
-Object Caching 5029/5664 objects using apc
+Database Caching 394/715 queries in 0.221 seconds using apc
+Object Caching 6105/7338 objects using apc
 Content Delivery Network via cdnpmuk.image-tech-storage.com
 
- Served from: playmillion2.com @ 2015-06-23 05:56:01 by W3 Total Cache --></div></body></html>
+ Served from: playmillion2.com @ 2015-12-29 10:20:51 by W3 Total Cache --></div></body></html>
