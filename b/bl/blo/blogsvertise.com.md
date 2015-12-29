@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsvertise.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426121723id_/http%3A//www.blogsvertise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsvertise.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229225755id_/http%3A//www.blogsvertise.com/privacy.php) for the most accurate reproduction.*
 
 # Blogsvertise - Privacy for Bloggers and Advertisers
 
@@ -34,4 +34,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20150426121723id_/http%3A//www.blogsvertise.com/contact_us.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20151229225755id_/http%3A//www.blogsvertise.com/contact_us.php)
