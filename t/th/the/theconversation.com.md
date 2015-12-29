@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconversation.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629170034id_/https%3A//theconversation.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconversation.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229163419id_/http%3A//theconversation.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy at The Conversation
 
@@ -35,9 +35,9 @@ The Conversation will, from time to time, collect and use personal information. 
 
 ### Disclosure of personal information
 
-If you sign up as a contributor to The Conversation, we will publish your contributor profile, which may include personal information, on The Conversation. 
+If you sign up as a contributor to The Conversation, we will publish your contributor profile, which may include personal information, on The Conversation.
 
-If you join a conversation or comment on someone else’s article or contribution, The Conversation will publish your post, which may include personal information, on The Conversation, such as your name and position. Other than these situations, The Conversation will not disclose your personal information to third parties except: 
+If you join a conversation or comment on someone else’s article or contribution, The Conversation will publish your post, which may include personal information, on The Conversation, such as your name and position. Other than these situations, The Conversation will not disclose your personal information to third parties except:
 
   * To third parties which assist the operation of The Conversation (in which case we require these contractors to keep that personal information confidential and not to use or disclose it for any purpose other than the purpose of performing those services)
   * In exceptional circumstances, The Conversation may be required or authorised by law to disclose personal information, for example to law enforcement authorities or to prevent a serious threat to public safety
@@ -47,8 +47,8 @@ If you join a conversation or comment on someone else’s article or contributio
 
 ### Handling of personal information
 
-The Conversation will take all reasonable steps to protect all personal information held by it from misuse and loss and from unauthorised access, modification and disclosure. 
+The Conversation will take all reasonable steps to protect all personal information held by it from misuse and loss and from unauthorised access, modification and disclosure.
 
 ### Accessing your personal information
 
-Any person may seek access to personal information, which The Conversation holds about that person and we will provide access to that information upon request. There are certain exemptions, which may apply to the provision of that information. We may require that the person requesting access provide suitable identification and we may charge an administration fee for granting access to information. Requests to access personal information held by The Conversation should be addressed to [privacy@theconversation.com](mailto:privacy@theconversation.com)
+Any person may seek access to personal information, which The Conversation holds about that person and we will provide access to that information upon request. There are certain exemptions, which may apply to the provision of that information. We may require that the person requesting access provide suitable identification and we may charge an administration fee for granting access to information. Requests to access personal information held by The Conversation should be addressed to [us-privacy@theconversation.com](mailto:us-privacy@theconversation.com).
