@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpilot3d.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpilot3d.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ If you are concerned about the topic covered by this policy, you should read it 
 
 This privacy policy was last updated on 05-12-2011. 
 
-[Home](http://www.virtualpilot3d.com/) | [Features](http://www.virtualpilot3d.com/index.html#features) | [Screenshots](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/screenshots.htm) | [Videos](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/videos.htm) | [Aircraft](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/aircraft.htm) | [Order](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/orderform.htm) | [FAQ/Support](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/support.htm)
+[Home](http://www.virtualpilot3d.com/) | [Features](http://www.virtualpilot3d.com/index.html#features) | [Screenshots](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/screenshots.htm) | [Videos](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/videos.htm) | [Aircraft](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/aircraft.htm) | [Order](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/orderform.htm) | [FAQ/Support](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/support.htm)
 
 Copyright © VirtualPilot3D.com All rights reserved. Virtual Network LLC   
-[](http://1.tedsplans.pay.clickbank.net/?cbskin=445) [Privacy](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/privacy.htm) | [Disclaimer](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/disclaimer.htm) | [Anti-Spam](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/antiSpamPolicy.html) | [Affiliates Center](https://web.archive.org/web/20140213070109id_/http%3A//www.virtualpilot3d.com/affiliates.htm)
+[](http://1.tedsplans.pay.clickbank.net/?cbskin=445) [Privacy](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/privacy.htm) | [Disclaimer](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/disclaimer.htm) | [Anti-Spam](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/antiSpamPolicy.html) | [Affiliates Center](https://web.archive.org/web/20151229204428id_/http%3A//www.virtualpilot3d.com/affiliates.htm)
