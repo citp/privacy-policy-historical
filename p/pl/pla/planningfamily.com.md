@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053042id_/http%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229184549id_/http%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy Notice
 
-### This notice describes EverydayFamily, Inc.’s (EverydayFamily.com) privacy policy (“Notice”). In this privacy policy, we (EverydayFamily Inc., based in Wesley Chapel, FL) describe in detail how we use the information that is collected when visiting www.EverydayFamily.com (the “Site”). By visiting the Site you are accepting the practices described in this Notice.
+This notice describes EverydayFamily, Inc.’s (EverydayFamily.com) privacy policy (“Notice”). In this privacy policy, we (EverydayFamily Inc., based in Wesley Chapel, FL) describe in detail how we use the information that is collected when visiting www.EverydayFamily.com (the “Site”). By visiting the Site you are accepting the practices described in this Notice.
 
 Please Note: Our Privacy Policy changes from time to time and changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. If we make any material changes we will send notification to the e-mail address specified in your account or by means of a notice on this Web Site prior to the change becoming effective.
 
