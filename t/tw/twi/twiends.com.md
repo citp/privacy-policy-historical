@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195313id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229034531id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Twiends Privacy Policy
 
@@ -14,7 +14,7 @@ The following terms shall have the following meanings:
 
 “ **Data** ” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
 
-“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: Plover Lane, Eversley, Hampshire, RG27 0NR United Kingdom; Company Number 07024033
+“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: Eversley, Hampshire, United Kingdom; Company Number 07024033
 
 “ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that Webcandy makes available through twiends either now or in the future
 
