@@ -1,66 +1,60 @@
-> *The following text is extracted and transformed from the epdrama.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529195021id_/http%3A//www.epdrama.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epdrama.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229153904id_/http%3A//www.epdrama.com/legal-disclaimer-privacy-dmca) for the most accurate reproduction.*
 
-# 
+# Legal Disclaimer, Privacy & DMCA | Korean Drama | Drama Korean | Lee Drama
 
-**What information do we collect?**
+## **Legal Disclaimer**
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
+The author is not responsible for any contents linked or referred to from his pages – If any damage occurs by the use of information presented there, only the author of the respective pages might be liable, not the one who has linked to these pages. EpDrama.com doesn’t host any content
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+All EpDrama.com does is link or embed content that was uploaded to popular Online Video hosting sites like Veoh.com / Megavideo.com / Youtube.com / Google Video. All youtube/veoh/megavideo/googlevideo users signed a contract with the sites when they set up their accounts wich forces them not to upload illegal content. By clicking on any Links to videos while surfing on EpDrama.com you watch content hosted on third parties and EpDrama.com cant take the responsibility for any content hosted on other sites.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We do not upload any videos nor do we know who and where videos are coming from. We do not promote any illegal conduct of any kind. Links to the videos are submitted by users and managed by users.
 
- **What do we use your information for?**
+## DMCA Notice of Copyright Infringement
 
-Any of the information we collect from you may be used in one of the following ways: 
+**EpDrama.com is an online service provider as defined in the Digital Millennium Copyright Act.  
+**  
+We provide legal copyright owners with the ability to self-publish on the Internet by uploading, storing and displaying various types of media. We do not actively monitor, screen or otherwise review the media which is uploaded to our servers by users of the service.   
+We take copyright violation very seriously and will vigorously protect the rights of legal copyright owners.  
+If you are the copyright owner of content which appears on the EpDrama.com website and you did not authorize the use of the content you must notify us in writing in order for us to identify the allegedly infringing content and take action.
 
-â€¢ To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**We will be unable to take any action if you do not provide us with the required information** , **so please fill out all fields accurately and completely**. You may make a written notice via e-mail, facsimile or postal mail to our DMCA Agent as listed below. Your written notice must include the following:
 
-â€¢ To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * Specific identification of the copyrighted work which you are alleging to have been infringed. If you are alleging infringement of multiple copyrighted works with a single notification you must submit a representative list which specifically identifies each of the works that you allege are being infringed.
+  * Specific identification of the location and description of the material that is claimed to be infringing or to be the subject of infringing activity with enough detailed information to permit us to locate the material. You should include the specific URL or URLs of the web pages where the allegedly infringing material is located.
+  * Information reasonably sufficient to allow us to contact the complaining party which may include a name, address, telephone number and electronic mail address and signature at which the complaining party may be contacted.
+  * A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+  * A statement that the information in the notification is accurate, and under penalty of perjury that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-â€¢ To administer a contest, promotion, survey or other site feature
 
- **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+### **Privacy Policy**
 
-We use cookies to keep track of advertisements and .
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
- **Do we disclose any information to outside parties?**
+We collect the IP address and domain name and e-mail address (where possible)   
+of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
 
- **Third party links**
+With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site and Third Party cookies e.g. "Google".
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Google cookies**
 
- **California Online Privacy Protection Act Compliance**
+– When you visit EpDrama.com,
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+**Google**
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser.
 
- **Childrens Online Privacy Protection Act Compliance**
+**Google**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+use cookies to improve the quality of their service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled.
 
-**Third Party Ad Companies**
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-We (CondorMedia) allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[ www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-**Online Privacy Policy Only**
+Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Your Consent**
-
-By using our site, you consent to our websites privacy policy.
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-http://www.epdrama.com  
-
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.If you feel that this site is not following its stated information policy, you may contact us.
