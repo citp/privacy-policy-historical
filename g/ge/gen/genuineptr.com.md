@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genuineptr.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203907id_/http%3A//genuineptr.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genuineptr.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063323id_/http%3A//genuineptr.com/pages/privacy.php) for the most accurate reproduction.*
 
 # genuineptr.com
 
