@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressinn.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630032347id_/http%3A//www.dressinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressinn.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229012944id_/http%3A//www.dressinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
 # dressinn Terms & conditions. Online fashion gear and fashion equipment shop
 
@@ -170,9 +170,9 @@ For United Kingdom: Maestro - Local Bank Transfer Account
 
 9.1. Right to cancel: 
 
-The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 30 days beginning the day after the day on which you received the goods (a "cooling off period").
+The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 14 days beginning the day after the day on which you received the goods (a "cooling off period").
 
-You must notify us of your cancellation in writing or in another durable medium by e-mail to customer@tradeinn.com or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
+You must notify us of your cancellation in writing or in another durable medium by e-mail to our [contact page](http://www.dressinn.com/?action=contacto&idioma=eng&uam= "Contact page") or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
 
 9.2. Cancellation consequences:
 
@@ -198,7 +198,7 @@ While you do not need to give us any reason for cancelling your contract and nor
 
 10\. RETURNS
 
-10.1. You have the right to cancel your order, or return an already received item for refund within the 30 days “cooling off” period, explained in our refunds policy. 
+10.1. You have the right to cancel your order, or return an already received item for refund within the 14 days “cooling off” period, explained in our refunds policy. 
 
 * We will happily refund any item purchased on Tradeinn´ Websites.
 
