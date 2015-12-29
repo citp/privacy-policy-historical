@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615052444id_/https%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229164531id_/http%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy at The Conversation
 
@@ -43,6 +43,8 @@ Any person may seek access to personal information which TCMG holds about that p
   6. **Questions**
 
 If you have any questions or concerns about TCMG’s collection, use or disclosure of personal information, email TCMG at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
+
+**See also:** [our policy about when we'll remove content](https://web.archive.org/au/content-removal-policy)
 
 
 
