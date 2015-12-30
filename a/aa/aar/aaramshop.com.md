@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaramshop.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318174341id_/https%3A//www.aaramshop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaramshop.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230065810id_/https%3A//www.aaramshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # AaramShop Privacy Policy
 
