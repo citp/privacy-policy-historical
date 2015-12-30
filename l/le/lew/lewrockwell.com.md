@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lewrockwell.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003604id_/https%3A//www.lewrockwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewrockwell.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230073443id_/https%3A//www.lewrockwell.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – LewRockwell.com
+# Privacy Policy - LewRockwell
 
 This site is strongly committed to safeguarding visitor’s privacy. It operates under the following strict privacy policy:
 
