@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bombardier.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025120839id_/http%3A//www.bombardier.com/en/toolbar/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombardier.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230020708id_/http%3A//www.bombardier.com/en/toolbar/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
