@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the gigaparts.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205408id_/http%3A//www.gigaparts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaparts.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231001540id_/http%3A//www.gigaparts.com/Company-Information/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-This privacy notice discloses the privacy practices for _[www.gigaparts.com](https://web.archive.org/)_. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
-
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
-
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.   
+  
   2. What choices are available to you regarding the use of your data. 
 
   3. The security procedures in place to protect the misuse of your information. 
@@ -16,7 +14,7 @@ This privacy notice discloses the privacy practices for _[www.gigaparts.com](htt
 
 
 **Information Collection, Use, and Sharing**   
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email, order submission, or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, such as shipping your order or processing your payment. GigaParts requests your email address only so that we may contact you regarding this order. We will only share your email address with the courier (i.e., UPS, FedEx, etc.) you have requested to send your shipment with so that they may send you tracking information, but we have no control over their usage of your email address. If you would like us not to provide your email address to the courier, please note this in the _Additional Comments_ area of the check-out form. 
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email, order submission, or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, such as shipping your order or processing your payment. GigaParts requests your email address only so that we may contact you regarding this order. We will only share your email address with the courier (i.e., UPS, FedEx, etc.) you have requested to send your shipment with so that they may send you tracking information, but we have no control over their usage of your email address. If you would like us not to provide your email address to the courier, please note this in the _Additional Comments_ area of the check-out form. 
 
 From time to time we may contact you with special offers and you may opt out of being contacted with special offers by following the instructions provided on any of the offers you receive.
 
@@ -42,10 +40,10 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 **Security**   
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at   _256-535-4442_ or via email at .**   
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at _256-535-4442_ or via email at .**   
 
 
 **Third Party Vendors and Cookies**   
 Third party vendors, including Google, show our ads on other web sites and cookies are used to serve ads based on a user's prior visits to our website and partner websites. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
-If you wish to save this privacy policy for future reference please print this page. 
+If you wish to save this privacy policy for future reference please print this page. 
