@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616194202id_/http%3A//www.virginholidays.co.uk/important/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230041135id_/http%3A//www.virginholidays.co.uk/important/privacy-statement) for the most accurate reproduction.*
 
 # Privacy - Virgin Holidays
 
 ## Data Protection
 
-_‘We’ are Virgin Holidays, a member of the Virgin Holidays Family, which includes Virgin Holidays, Virgin Holidays Cruises, Virgin Holidays & Worldwide Journeys, Virgin Holidays & HIP Hotels, Travel City Direct and Bales Worldwide._
+_‘We’ are Virgin Holidays, a member of the Virgin Holidays Family, which includes Virgin Holidays, Virgin Holidays Cruises, Virgin Holidays & Worldwide Journeys, Virgin Holidays Platinum Hotels, Travel City Direct and Bales Worldwide._
 
 In order to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide such as name, address, any special needs/dietary requirements etc. We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as airlines, hotels, transport companies etc. The information may also be provided to security or credit checking companies, public authorities such as customs/immigration if required by them, or as required by law. Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your destination may not be as strong as the legal requirements in this country.
 
@@ -24,7 +24,7 @@ If you want to **change the consents** you have given to the Virgin Holidays fam
 
   * By Email to:[updatecustomerdetails@virginholidays.com](mailto:updatecustomerdetails@virginholidays.com)
   * By Post to: Customer Services, Virgin Holidays Limited, The Galleria, Station Road, Crawley, West Sussex, RH10 1WW 
-  * By Phone on: 0844 573 5922
+  * By Phone on: 0344 557 4002
 
 
 
