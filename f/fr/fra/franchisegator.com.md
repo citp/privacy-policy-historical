@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512141428id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230033900id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseGator.com
 
-### Effective March 20, 2015
+### Effective November 4, 2015
 
 [](https://privacy.truste.com/privacy-seal/Franchise-Gator,-LLC/validation?rid=1bd7a05a-9faf-4400-bf7f-4ccc3a19b3c6 "TRUSTe online privacy certification")
 
 At Franchise Gator, LLC ("Franchise Gator"), we only use personal information you provide in the way we specify when we collect it on our website: [www.franchisegator.com](https://web.archive.org/). We take your privacy seriously, and this policy covers data used in our websites, mobile apps, email and text-messaging services.
 
-Franchise Gator has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only the Web site [www.franchisegator.com](https://web.archive.org/) and does not cover information that may be collected through our mobile apps. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Franchise Gator has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only the Web site www.franchisegator.com and does not cover information that may be collected through our mobile apps.
 
 [](http://www.bbb.org/atlanta/business-reviews/franchising/franchise-gator-in-roswell-ga-10000651#bbblogo "Franchise Gator, LLC, Franchising, Roswell, GA")
 
 Franchise Gator has also received an **A+ Rating** as a **Better Business Bureau[Accredited Business](http://www.bbb.org/atlanta/business-reviews/franchising/franchise-gator-in-roswell-ga-10000651)**.
 
-We strive to maintain transparency and accountability regarding the collection and use of your personal information. If you have questions or concerns regarding this policy, please first contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with the Franchise Gator to resolve your concerns.
+We strive to maintain transparency and accountability regarding the collection and use of your personal information. If you have questions or concerns regarding this policy, please first contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 #### Our Web Site
 
@@ -44,9 +44,15 @@ A cookie is a small amount of data that a Web sites server sends to your browser
 
 Technologies such as tags and scripts are used by Franchise Gator, our advertisers, affiliates, and web analytics service providers  [Google Analytics, Adobe Marketing Cloud Analytics]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
+We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+
 #### Behavioral Targeting
 
-We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the pupose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the pupose of serving you targeted ads, you may opt-out by clicking [**here**](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+To opt-out of interest-based ads on Google, go to [www.google.com/settings/ads](https://web.archive.org/web/20151230033900id_/http%3A//www.franchisegator.com/www.google.com/settings/ads) and make a selection next to "Opt-Out Settings" to prevent targeted advertising on Google's own sites, or across the web.
+
+To opt-out of interest-based ads on Facebook, go to [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the USA, [Digital Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe and select "Facebook Inc." from the list.
 
 #### Information Sharing
 
@@ -56,7 +62,7 @@ We may, however, provide your personal information to companies that provides se
 
 #### Special cases
 
-In a limited number of cases, we may choose to share either personal or non-personal information with third-parties. Such examples are subpoenas, court orders or other requests to cooperate with other types of legal enforcement.
+In a limited number of cases, we may choose to share either personal or non-personal information with third-parties. Such examples are subpoenas, court orders, bankruptcy proceedings or other requests to cooperate with other types of legal enforcement.
 
 #### Business Transfers
 
@@ -78,6 +84,10 @@ We will retain your information for as long as your account is active or as need
 
 Our site also offers an articles section where you can leave comments which may include your personal information. You should be aware that any information you provide in these comments are publicly available to other users of the site, therefore this information may be read, collected, and used by others who access them. To request removal of your information from any of the publicly-available pages of our site, contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to do so and why.
 
+#### Testimonials
+
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com).
+
 #### Social Media Features and Widgets
 
 Our Web site includes social media features, such as the Facebook Like button and widgets. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web site. Your interactions with these features are governed by the privacy policy of the company providing it.
@@ -96,7 +106,7 @@ We reserve the right to make changes to our Privacy Policy from time to time for
 
 #### Additional information
 
-We need your assistance in keeping your information up to date. If you would like to review, correct or change your personal information or need assistance unsubscribing, please email us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com) or write to us at the address below.
+We need your assistance in keeping your information up to date. If you would like to review, correct or change your personal information or need assistance unsubscribing, please email us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com) or write to us at the address below. We will respond to your request within a reasonable timeframe.
 
 #### Frequently Asked Questions
 
