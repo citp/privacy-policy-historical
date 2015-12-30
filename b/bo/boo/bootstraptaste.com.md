@@ -1,27 +1,30 @@
-> *The following text is extracted and transformed from the bootstraptaste.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012202id_/http%3A//bootstraptaste.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstraptaste.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230214052id_/http%3A//bootstraptaste.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - BootstrapTaste
+# Privacy & Cookie Policy | BootstrapTaste
 
-**BootstrapTaste** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-## Routine Information Collection
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-## Cookies and Web Beacons
 
-Where necessary, BootstrapTaste uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+ **COOKIE POLICY**  
+To enhance your experience on our sites, many of our web pages use “cookies”. Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering at one of our sites. Once you choose to provide a web page with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
 
-## Controlling Your Privacy
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience on our web pages (e.g. to recognise you by name when you return to our site). We also may use cookies to offer you products and services.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
+Cookies save you time as they help us to remember who you are. Cookies help us to be more efficient. We can learn about what content is important to you and what is not. We can revise or remove web pages that are not of interest and focus our energies on content you want.
 
-## Special Note About Google Advertising
+If you want to control which cookies you accept. You can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server. Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. You may find that some parts of the site will not function properly if you have refused cookies.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+Please be aware that if you do not configure your browser you will accept cookies provided by this website.
 
-## Contact Information
-
-Concerns or questions about this privacy policy can be directed to hello@bootstraptaste.com for further clarification.
+How to see cookies that you have accepted. You can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server.
