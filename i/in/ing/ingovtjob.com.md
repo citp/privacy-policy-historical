@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ingovtjob.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523001906id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingovtjob.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230111546id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# latest Privacy Policy govt jobs 2016 upcoming 2015 recruitment notification
 
 **[www.ingovtjob.com](http://www.ingovtjob.com/)** Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To send periodic E-Mails
+â€“ To send periodic E-Mails
 
 The E-mail address you provide may be used to send you information, respond to inquiries, and/ or other requests or questions.
 
@@ -30,7 +30,7 @@ If we decide to change our privacy, we will update the Privacy Policy modificati
 
 This policy was last modified on 15th July 2013.
 
-If there are any questions regarding this privacy Policy you may [contact us](http://www.ingovtjob.com/contact-us/) using the information below.
+If there are any questions regarding this privacy Policy you may contact us using the information below.
 
 **[www.ingovtjob.com](http://www.ingovtjob.com/)**
 
