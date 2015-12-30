@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympusamerica.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613025050id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympusamerica.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230014317id_/http%3A//olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
