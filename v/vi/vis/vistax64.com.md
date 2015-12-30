@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vistax64.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813091657id_/http%3A//www.vistax64.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistax64.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121817id_/http%3A//www.vistax64.com/privacy) for the most accurate reproduction.*
 
-# Vista Support Forums - My Page Title
+# Vista Support Forums - Privacy Policy
 
 ****Privacy Policy****  
 
@@ -172,4 +172,4 @@
 >   
 >  This website is owned and operated by Designer Media Ltd. 
 > 
-> If you have any questions about our cookies or this cookies policy, please [contact us.](http://www.vistaforums.com/sendmessage.php)
+> If you have any questions about our cookies or this cookies policy, please [contact us.](http://www.tenforums.com/sendmessage.php)
