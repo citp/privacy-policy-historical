@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milbank.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185836id_/http%3A//www.milbank.com/privacy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milbank.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230224651id_/http%3A//www.milbank.com/privacy-and-cookies.html) for the most accurate reproduction.*
 
 # Milbank - Privacy and Cookies
 
