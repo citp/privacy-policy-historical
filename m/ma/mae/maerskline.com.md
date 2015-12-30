@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503162108id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230115238id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Maerskline Terms
 
@@ -36,11 +36,12 @@ Our websites use cookies. A cookie is a small text file, which is stored on your
 
 The following third parties store the following cookies on this website:
 
-  * Google Analytics (provided by Google Inc.) and Eloqua (provided by Eloqua Limited) to enable us a) to perform statistical analyses of e.g. number of visitors, information on gender, age, location, interests and the like to learn about our visitors and b) to improve the website friendliness and usability, e.g. on the basis of website traffic measurements
+  * Google Analytics and Google DoubleClick (provided by Google Inc.) and Eloqua (provided by Eloqua Limited) to enable us a) to perform statistical analyses of e.g. number of visitors, information on gender, age, location, interests and the like to learn about our visitors and b) to improve the website friendliness and usability, e.g. on the basis of website traffic measurements
   * Addthis (provided by AddThis, Inc.) to enable the visitors of our website to use social media features, like sharing, sending or recommending pages toothers
   * Youtube (provided by YouTube LLC.) to store session preferences (e.g. language) and suggest other content based on your previous uses (only activated when you are logged in to Youtube when visiting our website and only when clicking the YouTube button)
   * Facebook (provided by Facebook, Inc.) to identify users logged in to Facebook for the purpose of sharing content on Facebook (only when you are logged in to Facebook when visiting our website and only when clicking the Facebook button)
-  * LinkedIn (provided by LinkedIn Corp.) to enable the “follow” and “share” features of LinkedIn (only when you are logged in to LinkedIn when visiting our website and only when clicking the LinkedIn button).
+  * LinkedIn (provided by LinkedIn Corp.) and Eloqua (provided by Eloqua Limited) to enable us a) to enable the “follow” and “share” features of LinkedIn (only when you are logged in to LinkedIn when visiting our website and only when clicking the LinkedIn button), and b) to perform statistical analyses of information on business demographics to learn about our visitors
+  * Multiview (provided by Multiview, Inc.) to aggregate anonymous visitor information about the audience that visits the Maersk Line website and provide Maersk Line with insight that allows the improvement of digital marketing relevance.
 
 
 
