@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackcaps.co.nz privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043109id_/http%3A//www.blackcaps.co.nz/nzc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackcaps.co.nz privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221713id_/http%3A//www.blackcaps.co.nz/corporate/privacy-policy) for the most accurate reproduction.*
 
 # New Zealand Cricket Privacy Policy
 
@@ -20,7 +20,7 @@ We may disclose your information to organisations involved in cricket or sportin
 
 ### Opt out
 
-If you no longer wish to receive newsletters, offers or information, please [contact us](https://web.archive.org/nzc/contact/online-form "Contact") at [info@nzcricket.org.nz](mailto:info@nzcricket.org.nz) or by post to the following address, New Zealand Cricket, PO Box 958, Christchurch at any time to exercise your opt-out rights.
+If you no longer wish to receive newsletters, offers or information, please [contact us](https://web.archive.org/corporate/contact/online-form "Contact") at [info@nzcricket.org.nz](mailto:info@nzcricket.org.nz) or by post to the following address, New Zealand Cricket, PO Box 958, Christchurch at any time to exercise your opt-out rights.
 
 ### Information retention
 
@@ -38,7 +38,7 @@ When you visit our website, we may automatically download short text files calle
 
 You are entitled to obtain confirmation of whether or not we hold any personal information about you and to obtain access to that information.  You may request the correction of your personal information at any time.  We will inform you of any steps taken by us in response to your request for a correction.
 
-If you have any question about your personal information or want to amend your details you can [contact us](https://web.archive.org/nzc/contact/online-form "Contact") at:
+If you have any question about your personal information or want to amend your details you can [contact us](https://web.archive.org/corporate/contact/online-form "Contact") at:
 
 New Zealand Cricket  
 PO Box 958   
@@ -54,4 +54,4 @@ This site may contain links to third party websites The links are for your conve
 
 From time to time we make changes to our information practices or alter the functionality of our website.  We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at New Zealand Cricket.
 
-If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/nzc/contact/online-form "Contact").
+If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/corporate/contact/online-form "Contact").
