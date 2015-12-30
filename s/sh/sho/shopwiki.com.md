@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516161935id_/http%3A//www.shopwiki.com/w/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230120352id_/http%3A//www.shopwiki.com/w/Help%3APrivacy) for the most accurate reproduction.*
 
 # Shopwiki | Help:Privacy - Find it at Shopwiki
 
@@ -73,3 +73,9 @@ ShopWiki.com
 !17 West 18th Street, 8th Floor  
 !New York, NY 10011  
 !privacy@ShopWiki.com[Terms of Use](https://web.archive.org/w/:Help:Terms-and-Conditions)
+
+Join _Club Shopwiki_
+
+* New Products
+* VIP Deals
+* Exclusive Coupons
