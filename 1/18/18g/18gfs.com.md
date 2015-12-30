@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18gfs.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034916id_/http%3A//www.watchmygf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18gfs.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230040716id_/http%3A//www.watchmygf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
