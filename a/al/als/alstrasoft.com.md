@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130934id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230242id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AlstraSoft PHP Clone Script Provider
 
