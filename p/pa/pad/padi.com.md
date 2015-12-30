@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618092624id_/http%3A//www.padi.com/scuba-diving/about-padi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215929id_/http%3A//www.padi.com/scuba-diving/about-padi/privacy-policy) for the most accurate reproduction.*
 
-# PADI Scuba Diving Certification FAQ | PADI
+# PADI Consumer Privacy Policy | PADI
 
 **What information do the PADI Companies obtain?**
 
