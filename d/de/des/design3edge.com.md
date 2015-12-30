@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the design3edge.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617025327id_/http%3A//www.design3edge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the design3edge.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230135847id_/http%3A//www.design3edge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Design3edge
+# Privacy Policy | Design3edge.com
 
 Privacy Policy for www.design3edge.com
 
@@ -26,12 +26,6 @@ Informations about Google and the DoubleClick DART cookie:
 – Google, as a third party vendor, uses cookies to serve ads on this site.  
 – Google’s use of the DART cookie enables it to serve ads to www.design3edge.com users based on their visit to www.design3edge.com site and other sites on the Internet.  
 – Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-2\. Advertising.com  
-Informations about AOL Advertising privacy policy – [read here](http://advertising.aol.com/privacy).
-
-3\. BuyAds  
-Informations about BuyAds privacy policy – [read here](https://www.buyads.com/privacy).
 
 3\. BuySellAds  
 Informations about BuySellAds privacy policy – [read here](http://buysellads.com/about/privacy).
