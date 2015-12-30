@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041518id_/http%3A//www.skinet.com/ski/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230163217id_/http%3A//www.skinet.com/ski/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SKI Magazine
 
-**SKImag.com (an Active Interest Media Company)**  
-_This policy was last updated on September, 18 2013._
-
-  
 You will not collect or use information about users of the Site without their express permission. You agree not to reveal personal information about someone else. SKIMag.com will remove any post containing a personal telephone number, real name, address, or any information that might reveal someone's geographical location without his or her permission. You will not send e-mail to SKIMag.com members that would violate these Rules of Conduct. Cautionary Note: SKIMag.comcomments are public, we advise members against revealing any personal information about themselves. If you choose to display your e-mail address to other visitors, please be aware that SKIMag.comhas no control over who uses your e-mail address or for what purpose. If you believe you are the target of a cyber-stalker, please refer to <http://www.wiredpatrol.org/stalking> for more information.
 
  **ACTIVE INTEREST MEDIA PRIVACY POLICY**
@@ -48,8 +44,4 @@ We use cookies to understand site usage and to improve the content and offerings
 
 We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
 
-Our Commitment to Security We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-How to Contact Us If you have any questions or concerns about the Active Interest Media online policy for this site or its implementation please contact us at the following address:
-
-Active Interest Media 300 N. Continental Blvd., Suite 650 El Segundo, CA 90245
+**Our Commitment to Security**
