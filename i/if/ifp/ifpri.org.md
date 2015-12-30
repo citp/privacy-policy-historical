@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifpri.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093445id_/http%3A//www.ifpri.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifpri.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230011158id_/http%3A//www.ifpri.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | International Food Policy Research Institute (IFPRI)
+# Privacy Policy | IFPRI
 
 This privacy statement discloses what information we gather and how we use it. This privacy policy applies to all [IFPRI.ORG](http://ifpri.org/) and [IFPRI.INFO](http://ifpri.info/) websites.
 
