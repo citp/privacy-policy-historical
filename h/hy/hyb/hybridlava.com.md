@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hybridlava.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629090140id_/http%3A//www.hybridlava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridlava.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230053541id_/http%3A//www.hybridlava.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HybridLava
+# Privacy Policy | HybridLavaHybridLava
 
 At Hybrid Lava, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties.
 
