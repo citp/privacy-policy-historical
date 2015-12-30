@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625033445id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231004128id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
 
 # Free College Scholarships // Privacy Policy
 
-freecollegescholarships.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
+freecollegescholarships.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-Free College Scholarships, LLC. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
 
-The TRUSTe program does not cover information that may be collected through our mobile applications. The TRUSTe program covers only information that is collected through this website, freecollegescholarships.net. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
 
 [](https://privacy.truste.com/privacy-seal/Vinyl-Interactive,-LLC-/validation?rid=1a01a882-1d77-4f9b-9a2c-c472eb191c0c "TRUSTe online privacy certification")
 
@@ -33,11 +33,11 @@ freecollegescholarships.net may occasionally license, share, or otherwise disclo
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
-Additionally, freecollegescholarships.net may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of freecollegescholarships.net and its family of websites; and (c) comply with the valid legal process.
+Additionally, freecollegescholarships.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 ### Customer Testimonials/Comments/Reviews:
 
-We post customer testimonials/comments/reviews on our website which may contain personal information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review. If you wish to update your testimonial, you can contact us at a.
+We post customer testimonials/comments/reviews on our website which may contain personal information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review. If you wish to update your testimonial, you can contact us at [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net).
 
 ### Framing:
 
@@ -53,6 +53,10 @@ Technologies such as: cookies, beacons, tags and scripts are used by Free Colleg
 
 We use cookies to remember users’ settings (e.g. your prior registration information, schools you requested information from), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
+### Log Files:
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
+
 ### Widgets:
 
 Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying loan information, the news, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
@@ -67,15 +71,15 @@ By submitting your personal and/or financial information on our site, you are he
 
 ### LSOs
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Behavioral Targeting
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://web.archive.org/unsubscribe). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### Security:
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net).
 
 ### SMS Messaging:
 
@@ -99,7 +103,7 @@ Under California law, site visitors who are residents of California may request 
 
 ### Access to your information:
 
-When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. Additionally, you can contact us as described below.
+When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wanted to have your personal information removed from our public forum, directory or testimonial on our site or deactivate it, you can contact us as described below. We will respond to your request within a reasonable timeframe.
 
 ### Transfer, Sale, or Assign:
 
@@ -113,7 +117,7 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: January 5th, 2015
+Effective: July 10th, 2015
 
 ### Contact Information
 
