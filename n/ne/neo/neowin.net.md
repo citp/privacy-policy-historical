@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162438id_/http%3A//www.neowin.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230091944id_/http%3A//www.neowin.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,11 +30,15 @@ neowin.net gives children between the ages of 13 and 18 the ability to publicly 
 
 We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be [available here](http://www.neowin.net/advertising/). These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-  7. #### Enforcement
+  7. #### Measuring our visitors
+
+We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that somebody visited our site. The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better. You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html) or [opt out if you wish](https://tools.google.com/dlpage/gaoptout).
+
+  8. #### Enforcement
 
 If for some reason you believe neowin.net have not adhered to these principles, please notify us by e-mail at [privacy@neowin.net](mailto:privacy@neowin.net), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
-  8. #### Changes to this document
+  9. #### Changes to this document
 
 Changes to this document may be made any time without warning. neowin.net may or may not notify you of changes in this policy, however, we will make an effort to notify you if there are any major changes to this policy. You will not be notified about changes related to clarification and/or elaboration of parts of this policy.
 
