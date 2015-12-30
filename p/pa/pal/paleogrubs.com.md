@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paleogrubs.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511045053id_/http%3A//paleogrubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleogrubs.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230142446id_/http%3A//paleogrubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Paleo Grubs
 
-### Privacy Policy:
+## Privacy Policy:
 
 Paleo Grubs (" **Paleo Grubs** ") operates PaleoGrubs.com and may operate other websites. It is Paleo Grubs policy to respect your privacy regarding any information we may collect while operating our websites.
 
