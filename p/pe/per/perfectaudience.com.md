@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501074557id_/http%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230050554id_/http%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
 
-# Cross-Device Retargeting Made Simple | Perfect Audience
+# Privacy Policy | Perfect Audience
 
-[Platform Opt-out](http://pixel.prfct.co/coo)       [Partner Opt-out](http://ib.adnxs.com/optout)
+[Platform Opt-out](http://pixel-geo.prfct.co/coo)       [Partner Opt-out](http://ib.adnxs.com/optout)
 
 _Last updated July 27, 2012_
 
