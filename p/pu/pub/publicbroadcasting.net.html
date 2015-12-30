@@ -1,278 +1,388 @@
-<!--The following is the downloaded HTML source of the publicbroadcasting.net privacy policy that was archived on 2003-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030803121157id_/http%3A//publicinteractive.com/company/user-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the publicbroadcasting.net privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230061033id_/http%3A//digitalservices.npr.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
-<title>
-Public Interactive—Privacy Policy
-</title>
-<script language="JavaScript">
-<!--
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aaba.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta property="og:url" content="http://digitalservices.npr.org/privacy-policy">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Effective Date July 25, 2014 See related: NPR Terms of Use Summary NPR&amp;#039;s Privacy Policy is summarized here. Please scroll down to see the full Privacy">
+<meta property="og:image" content="http://mediad.publicbroadcasting.net/spacer.gif">
+<link rel="shortcut icon" href="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/favicon_1.ico" type="image/vnd.microsoft.icon">
+<meta content="Privacy Policy" about="/privacy-policy" property="dc:title">
+<meta property="twitter:site" content="@nprds">
+<meta property="twitter:card" content="summary">
+<link href="http://mediad.publicbroadcasting.net/spacer.gif" rel="image_src">
+<meta name="description" content="Effective Date July 25, 2014 See related: NPR Terms of Use Summary NPR&amp;#039;s Privacy Policy is summarized here. Please scroll down to see the full Privacy">
+<link rel="canonical" href="/privacy-policy">
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="shortlink" href="/node/1209">
+<meta name="has_audio" content="0">
+<meta name="nid" content="1209">
+<meta name="category" content="none">
+<meta name="programs" content="none">
+<link rel="shortcut icon" href="public://favicon_1.ico" type="image/vnd.microsoft.icon">
+    <title>Privacy Policy | NPR Digital Services</title>
+    <link type="text/css" rel="stylesheet" href="http://digitalservices.npr.org/sites/digitalservices.npr.org/files/css/css_zXr1pRkjUmFHX10b6Pv5_DqzyewvdLNQ8QgccGQIRQQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://digitalservices.npr.org/sites/digitalservices.npr.org/files/css/css_ZFlaYqkiQzTmlBPX4mQeT33IFQX3nR-zpGlyqFhtTNM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://digitalservices.npr.org/sites/digitalservices.npr.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://digitalservices.npr.org/sites/digitalservices.npr.org/files/css/css_lcoq-9lW96qMJS-fbtoeWGODR5PjkFgjfy8zqmboJqY.css" media="all">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.header-region-outer{background-color:#FFFFFF;}.branding .tagline{color:#ed3b23;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:white;}@media screen and (min-width:641px){.branding .trigger-nav{background:#777;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777;}}#listen-live .listen-live-toggle{background-color:#7d7d7d;}#listen-live .listen-live-btn{background-color:transparent;color:white;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#7d7d7d;}}.branding .give{background:red;}
 
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-
-function changeImages() {
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
-
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		overview_over = newImage("images/overview-over.gif");
-		manage_team_over = newImage("images/manage-team-over.gif");
-		board_over = newImage("images/board-over.gif");
-		audience_over = newImage("images/audience-over.gif");
-		preloadFlag = true;
-	}
-}
-
-// -->
-</script>
-
-
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,900,italic,regular&amp;subset=latin" media="all">
+<link type="text/css" rel="stylesheet" href="http://digitalservices.npr.org/sites/digitalservices.npr.org/files/css/css_-DT6mi0tdbZWf4uHUVbhWLCBkXYpdrg5Vxw5UzeZt6U.css" media="all">
+    <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/js/js_NSSlHy9MRgw4Q19KZtB9IXAk9uX7KZXXi6Ejn0x_e0I.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/js/js_ZcZajqjC7KCS8_A2dOG5Y53mBT4KJLE7BiKX15HUv7g.js"></script>
 <script type="text/javascript">
-<!--
-  // Determines whether Mac or PC stylesheets should be used.
-  window.onerror = null;
-  self.name = "main";
-  var uA = navigator.userAgent;
-  var aV = (navigator.appVersion);
-  var mac = (uA.indexOf('Mac') != -1 || uA.indexOf('mac') != -1);
+<!--//--><![CDATA[//><!--
+var cpTags = cpTags || {};jQuery(document).ready(function() {jQuery('a.read-more').click(function () {
+                      if (!cpTags.pushAll) {
+                        _gaq.push(['_trackEvent', 'Navigation', 'ReadMore', jQuery(this).attr("href")]);
+                      }
+                    });});
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/js/js_jnyq2G6Uc6j8lr-XlVpn6onjag67U2nGYqxWEr2S2_Q.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src="//stream.publicbroadcasting.net/analytics/aaba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"9MiQ5Zi4zXggL8K7jcfA5j4vsfw5fzoVG07p9QBM4RI","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"1":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"2":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"http:\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"chartbeat":{"uid":33583,"domain":"ds.npr.org"},"googleCSE":{"cx":"010251366440257945544:u1cmxeetrx8","language":"","resultsWidth":600,"domain":"www.google.com"},"responsive_ads":{"networkCode":"1031771","placement":{"leaderboard_1":"main#content","medium_1":".node .field-name-body","medium_2":".node p:nth-of-type(3)","medium_3":".node p:nth-of-type(3)","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"targeting":{"id":"1209","type":"page","tags":[],"category":"","programs":[]},"ads":{"leaderboard_1":{"type":"leaderboard","adUnit":"NPRDS_leaderboard_1","name":"leaderboard_1","width":728,"height":90},"medium_1":{"type":"medium","adUnit":"NPRDS_medium_1","name":"medium_1","width":300,"height":250},"medium_2":{"type":"medium","adUnit":"NPRDS_medium_2","name":"medium_2","width":300,"height":250},"medium_3":{"type":"medium","adUnit":"NPRDS_medium_3","name":"medium_3","width":300,"height":250},"tablet_1":{"type":"tablet","adUnit":"NPRDS_tablet_1","name":"tablet_1","width":728,"height":90},"mobile_1":{"type":"mobile","adUnit":"NPRDS_mobile_1","name":"mobile_1","width":320,"height":50}}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":1209},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-1209 node-type-page fixed-header","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}}});
+//--><!]]>
+</script>
+    <meta name="viewport" content="width=device-width">
+  </head>
 
-  if(!mac || uA.indexOf('MSIE 5') > 0) // PCs or Mac IE5
-  {
-    document.writeln('<LINK REL="stylesheet" TYPE="text/css" HREF="../style/pi-default-style.css">');
-  }
-  else // Non-IE5 Macs
-  {
-    document.writeln('<LINK REL="stylesheet" TYPE="text/css" HREF="../style/pi-mac-style.css">');
-  }
-//-->
-</script><link rel="stylesheet" type="text/css" href="../style/pi-default-style.css">
+  <body class="html not-front not-logged-in page-node page-node- page-node-1209 node-type-page fixed-header has-sidebar">
+    <header role="banner" class="header">
+  <div class="skiptocontent"><a href="#main-content">skip to main content</a></div>
+    <div class="region region-header">
+    <div id="block-baby-bear-baby-bear-header" class="block block-baby-bear">
 
-<script language="JavaScript"> 
-<!-- 
-                               
-                             // Fixes the infamous Netscape 4 resize bug;  
-                             // Adapted by jon stephens from an unknown source  
-                             // Copyleft 1998-99 -- use it, enjoy it, share the wealth :-)  
-                               
-                             // ... function resizeFix() ...  
-                             // This checks to see if the window's dimensions  
-                             // have actually changed (because Netscape 4 often  
-                             // fires a false Resize event when it forms  
-                             // scrollbars); if they have, the document is reloaded.  
-                             // Note that document.location is not  
-                             // supposed to be settable, but here's yet  
-                             // another case where the implementation does *not* 
-                             // match the specs!  
-                                  
-                             function resizeFix(){  
-                                if(document.resizeFix.initWidth!=window.innerWidth 
-                                   ||document.resizeFix.initHeight!=window.innerHeight) 
-                                      document.location=document.location;  
-                             }  
-                                  
-                             // ... function checkBrowser() ...  
-                             // This function checks to see if the browser  
-                             // supports the Layer object (i.e., Netscape 4.X);  
-                             // if it does, then it creates a new object with  
-                             // properties to hold the current window width &  
-                             // height and assigns the resizeFix() function to  
-                             // the window's onResize event.  
-                                  
-                             function checkBrowser(){  
-                                if(document.layers){  
-                                   if(typeof document.resizeFix=="undefined"){  
-                                      document.resizeFix=new Object();  
-                                      document.resizeFix.initWidth=window.innerWidth;  
-                                      document.resizeFix.initHeight=window.innerHeight;  
-                                   }  
-                                   window.onresize=resizeFix;  
-                                }  
-                             }  
-                                  
-                             // This calls the browser check function above  
-                                  
-                             checkBrowser(); 
-                               
-                             //--> 
-                             </script> 
+    
+  <div class="content">
+    
+<div class="header-region-outer">
+  <section class="header-region-inner row">
+    <div class="branding large-12 columns">
+      <div class="brand-inner-wrapper">
+        <a href="/" rel="home" class="logo" title="NPR Digital Services Home"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/newnprdsblog/files/201511/logo_fid.png" alt="NPR Digital Services logo" title="NPR Digital Services Home"></a>         <div class="tagline">
+          Empowering Public Media        </div>
+      </div>
+      <div class="header-utility">
+        <a class="trigger-nav" href="#">
+          <span class="icon-list"></span>
+          <span class="menu-text">Site Menu</span>
+        </a>
+        <a class="give" href="http://digitalservices.npr.org/support">
+  Help</a>
+      </div>
+    </div>
+  </section>
+</div>
+  </div>
+</div>
+  </div>
+</header>
+    <div class="nav-wrapper mobile">
+      <nav>
+        <div class="top-bar contain-to-grid" data-topbar="">
+          <ul class="title-area">
+            <li class="toggle-topbar menu-icon">
+              <a href="#">Menu</a>
+            </li>
+          </ul>
+          <section class="top-bar-section">
+            <div class="table-queue" id="table-queue-fleximenu">
+  <ul class="menu dropdown">
+<li class="dd has-dropdown not-click">
+<a href="/about-us">About</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/about-us">Overview</a>
+</li>
+<li class="left">
+<a href="/people/">People</a>
+</li>
+<li class="left">
+<a href="/careers">Careers</a>
+</li>
+<li class="left">
+<a href="/contact-us">Contact Us</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/topic/content-distribution">Content &amp; Distribution</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/topic/npr-apis">API</a>
+</li>
+<li class="left">
+<a href="/topic/core-publisher">Core Publisher</a>
+</li>
+<li class="left">
+<a href="/topic/composer-2">Composer 2</a>
+</li>
+<li class="left">
+<a href="/topic/community-calendar">Community Calendar</a>
+</li>
+<li class="left">
+<a href="/topic/npr-one">NPR One</a>
+</li>
+<li class="left">
+<a href="/topic/streaming-service">Streaming</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/topic/revenue-marketing">Revenue &amp; Marketing</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/topic/ds-marketing-forms-powered-springboard">Marketing Forms</a>
+</li>
+<li class="left">
+<a href="/topic/pulse-updates">Pulse</a>
+</li>
+<li class="left">
+<a href="/topic/salesforce-marketing-cloud">Salesforce Marketing Cloud</a>
+</li>
+<li class="left">
+<a href="/topic/soundexchange">SoundExchange</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/topic/analytics">Analytics</a>
+</li>
+<li>
+<a href="http://training.npr.org">Editorial Training</a>
+</li>
+<li>
+<a href="/support">Support</a>
+</li>
+<li>
+<a href="/search">Search</a>
+</li>
+</ul>
+</div>
+          </section>
+        </div>
+      </nav>
+    </div>
+        <div id="page-wrapper">
+            <div id="page-document" role="document" class="page">
+  <div class="nav-wrapper">
+    <nav>
+      <div class="top-bar contain-to-grid" data-topbar="">
+        <ul class="title-area">
+          <li class="toggle-topbar menu-icon">
+            <a href="#">Menu</a>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <div class="table-queue" id="table-queue-fleximenu">
+  <ul class="menu dropdown">
+<li class="dd has-dropdown not-click">
+<a href="/about-us">About</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/about-us">Overview</a>
+</li>
+<li class="left">
+<a href="/people/">People</a>
+</li>
+<li class="left">
+<a href="/careers">Careers</a>
+</li>
+<li class="left">
+<a href="/contact-us">Contact Us</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/topic/content-distribution">Content &amp; Distribution</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/topic/npr-apis">API</a>
+</li>
+<li class="left">
+<a href="/topic/core-publisher">Core Publisher</a>
+</li>
+<li class="left">
+<a href="/topic/composer-2">Composer 2</a>
+</li>
+<li class="left">
+<a href="/topic/community-calendar">Community Calendar</a>
+</li>
+<li class="left">
+<a href="/topic/npr-one">NPR One</a>
+</li>
+<li class="left">
+<a href="/topic/streaming-service">Streaming</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/topic/revenue-marketing">Revenue &amp; Marketing</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/topic/ds-marketing-forms-powered-springboard">Marketing Forms</a>
+</li>
+<li class="left">
+<a href="/topic/pulse-updates">Pulse</a>
+</li>
+<li class="left">
+<a href="/topic/salesforce-marketing-cloud">Salesforce Marketing Cloud</a>
+</li>
+<li class="left">
+<a href="/topic/soundexchange">SoundExchange</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/topic/analytics">Analytics</a>
+</li>
+<li>
+<a href="http://training.npr.org">Editorial Training</a>
+</li>
+<li>
+<a href="/support">Support</a>
+</li>
+<li>
+<a href="/search">Search</a>
+</li>
+</ul>
+</div>
+        </section>
+      </div>
+    </nav>
+  </div>
 
-</head>
-<body onload="preloadImages();" style="background: #FFFFFF url(../images/background.gif) repeat-y;" bgcolor="#FFFFFF" marginwidth="0" leftmargin="0">
-<!--table for logo and banner-->
-<table border="0" width="620" cellspacing="0" cellpadding="0">
-<tbody><tr><td><img src="../images/spacer.gif" width="15" height="1" align="top" alt=""></td>
+  <div id="player" class="player">
+      </div>
 
-<td colspan="2" align="left" valign="middle"><a href="http://www.publicinteractive.com"><img src="../images/pi-logo-blue.gif" alt="Public Interactive home" width="64" height="63" align="middle" border="0"></a></td>
-<td><img src="../images/spacer.gif" width="65" height="1" align="top" alt=""></td>
-<td><!--<IMG SRC="../images/banner-placeholder.gif" ALT="banner placeholder" WIDTH="468" HEIGHT="59" ALIGN="middle">-->
-<img src="../images/spacer.gif" align="top" border="0" height="21" width="468">
-</td></tr></tbody></table>
-<!--navigation table-->
+  
+  
+  
+  
+  <div class="row">
+    <main id="content" role="main" class="main-content small-12 columns">
+      <article class="story">
+        <a id="main-content"></a>
+                            <h1 id="page-title" class="title page-title">Privacy Policy</h1>
+                  
+                                    
+        
+                  <div class="regions-ab-outer">
+            <div class="regions-ab-inner">
+        
+        
+        
+                    </div>
+          </div>
+        
+        
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
 
-<table border="0" cellpadding="0" cellspacing="0" align="left" width="110">
-<tbody><tr>
-<td rowspan="6">
-<img src="../images/spacer.gif" width="5" height="1" align="top" alt="">
-</td>
-<td>
-<a href="../company/index.html" onmouseover="changeImages('company', '../images/side/company-over.gif'); return true;" onmouseout="changeImages('company', '../images/side/company.gif'); return true;">
-<img name="company" src="../images/side/company.gif" width="110" height="74" border="0" alt="company profile">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="../press/index.html" onmouseover="changeImages('press', '../images/side/press-over.gif'); return true;" onmouseout="changeImages('press', '../images/side/press.gif'); return true;">
-<img name="press" src="../images/side/press.gif" width="110" height="36" border="0">
-</a>
-</td>
-</tr>
-<!--<TR>
-<TD>
-<A HREF="../sponsorship/index.html" ONMOUSEOVER="changeImages('sponsor', '../images/side/sponsor-over.gif'); return true;" ONMOUSEOUT="changeImages('sponsor', '../images/side/sponsor.gif'); return true;">
-<IMG NAME="sponsor" SRC="../images/side/sponsor.gif" WIDTH="110" HEIGHT="36" BORDER="0">
-</A>
-</TD>
-</TR>-->
-<tr>
-<td>
-<a href="../content/index.html" onmouseover="changeImages('content', '../images/side/content-over.gif'); return true;" onmouseout="changeImages('content', '../images/side/content.gif'); return true;">
-<img name="content" src="../images/side/content.gif" width="110" height="44" border="0">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="../news/index.html" onmouseover="changeImages('latest', '../images/side/latest-over.gif'); return true;" onmouseout="changeImages('latest', '../images/side/latest.gif'); return true;">
-<img name="latest" src="../images/side/latest.gif" width="110" height="36" border="0">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="../contact/index.html" onmouseover="changeImages('contact', '../images/side/contact-over.gif'); return true;" onmouseout="changeImages('contact', '../images/side/contact.gif'); return true;">
-<img name="contact" src="../images/side/contact.gif" width="110" height="35" border="0">
-</a>
+    
+  <div class="content">
+    <div id="node-1209" class="node node-page node-promoted full row" about="/privacy-policy" typeof="sioc:Item foaf:Document">
+  <div class="large-12 columns">
+            
+  </div>
 
+  <div class="content">
+    <div class="medium-9 columns">
+      <div class="field field-name-field-image-gallery field-type-image field-label-hidden"><div class="field-items"></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Effective Date July 25, 2014</strong></p> <p><em>See related: <a href="http://www.npr.org/about-npr/179876898/terms-of-use">NPR Terms of Use</a></em></p> <h3 class="edTag"><strong>Summary</strong></h3> <p>NPR's Privacy Policy is summarized here. Please scroll down to see the full Privacy Policy.</p> <p><strong>Location-Based Services</strong></p> <p>NPR collects a visitor's geolocation data through the NPR Services for purposes of offering visitors relevant content, including content from nearby Member stations. Geolocation data consists of general location information based on latitude and longitude (if the visitor has enabled location services for an NPR application on the visitor's mobile device), or NPR may approximate a visitor's location based on the IP address of the visitor's computer or mobile device.</p> <p><strong>Children</strong></p> <p>Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13, please do not attempt to register for any NPR Services or provide any information about yourself.</p> <p><strong>Gathering of Information</strong></p> <p>NPR collects contact information, such as name, address, email address, and telephone number, that visitors voluntarily submit by, for example, registering for newsletters or an NPR account, signing on to the NPR Services through their social media account, creating a public profile for an NPR account, making a purchase in the NPR Shop, sharing a story, or submitting comments or materials to NPR.</p> <ul class="edTag"><li>NPR collects credit card information provided by NPR Shop customers.</li> <li>NPR's web server creates access logs for visitors to the NPR Services, recording such information as IP address, date and time of visit, path taken, browser, list of files downloaded or viewed, and time spent listening to audio.</li> <li>NPR collects information from a visitor's mobile device or app, including unique device identifier, operating system, phone model, app version and/or automobile make (for certain connected car platforms).</li> <li>In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service, NPR collects information about each visitor's listening activity, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. NPR may share this information with the Member stations localized to or associated with a visitor's account.</li> <li>NPR may collect information related to content preferences.</li> <li>NPR may collect a visitor's other personal information (such as age or gender) (a) that the visitor has chosen to associate with the visitor's social media account(s), or (b) in aggregated, non-identifying form through third-party vendors.</li> <li>NPR uses cookies and web beacons to track certain visitor activity. NPR's third-party vendors that provide analytics services, provide NPR's discussion platform, and serve sponsorship acknowledgments also may use their own cookies and web beacons to track visitor activity.</li> </ul><p><strong>Use of Information</strong></p> <p>NPR uses the personally-identifying information it gathers (a) to provide requested products and services, (b) to identify visitors when NPR publishes material they submitted, and (c) for internal purposes and for marketing, fundraising, membership and communications purposes of NPR and NPR Member stations.</p> <ul class="edTag"><li>NPR uses access logs, content preferences, information about visitor listening activity, cookies, web beacons, and third-party analytics data to analyze use of the NPR Services, offer interactive features, and personalize the NPR Services, such as by recalling visitor information so that the visitor does not have to re-enter it, offering local station content or other content that may be of interest to the visitor, and displaying more relevant sponsorship messages. NPR and the Member stations localized to or associated with a visitor's account also may use information about listening activity and content preferences for internal purposes and for marketing, fundraising, membership and communications purposes.</li> </ul><p><strong>Sharing Information with Third Parties</strong></p> <p>NPR generally does not share personally-identifying information it gathers with third parties, except with NPR Member stations, NPR service vendors (to the extent necessary for the vendor to provide the services), and other third parties when a visitor consents. When NPR shares personally-identifying information with NPR Member stations, NPR requires those Member stations to commit to the same restrictions against sharing that personally-identifying information with third parties as NPR commits to in this Privacy Policy.</p> <ul class="edTag"><li>Any information a visitor submits, posts to or shares through the NPR Services will become available to the public.</li> <li>NPR may share aggregate information about use of the NPR Services that does not identify its visitors individually.</li> <li>NPR will release visitor information when required to do so by law or when it believes it is necessary to protect NPR, NPR employees, NPR Member stations, NPR Member station employees, visitors to the NPR Services, sponsors, service providers, the public, or others.</li> <li>If you do not consent to the collection, use or sharing of your personally-identifying information as described in this Privacy Policy, please do not provide that information. By providing your personally-identifying information, you are "opting in" to the collection, use and sharing described in this Privacy Policy.</li> </ul><p><strong>Contact</strong></p> <p>If you have questions, wish to correct, update or remove any of your personal information, or wish to opt out of future communications from NPR, please <a href="http://www.npr.org/contact/">Contact Us</a>.</p> <h3 class="edTag"><strong>Full Version of Privacy Policy</strong></h3> <p>At NPR (which refers to NPR and its subsidiary organizations), we recognize the importance of privacy to visitors to NPR.org, NPR's mobile applications, any other NPR sites, applications and services, and any features of these sites, applications and services (the "NPR Services"). This Privacy Policy explains what type of information is collected from you when you visit the NPR Services and how that information may be used and shared. Please note that this Privacy Policy is separate and distinct from the privacy policies governing the websites, applications and services of NPR's Member stations, and the websites, applications and services of third parties that may link to or be linked to from the NPR Services.</p> <p>By using, registering for, or otherwise accessing the NPR Services, you agree to this Privacy Policy and the <a href="http://www.npr.org/about-npr/179876898/terms-of-use">NPR Terms of Use</a> and you give your express consent (or "opt in") to the collection, use, sharing and processing of your personal information in accordance with this Privacy Policy. If you do not agree to this Privacy Policy or the Terms of Use, please do not use, register for or otherwise access any of the NPR Services or provide personal information.</p> <p>NPR may update this Privacy Policy and our Terms of Use from time to time in its sole discretion. Any changes to the Privacy Policy will be posted to this page, with an updated Effective Date noted at the top of the Privacy Policy; visitors to the NPR Services are responsible for reviewing the Privacy Policy for any changes before using, registering for or accessing the NPR Services. Use of the NPR Services constitutes consent to and acceptance of the Privacy Policy and Terms of Use in effect at the time of such use.</p> <h3 class="edTag"><strong>Gathering of Information</strong></h3> <p>NPR collects personally-identifying information (such as your name, address, email address, telephone number, and/or credit card information) through the NPR Services for the purposes described in this Privacy Policy.</p> <p>NPR collects personally-identifying information from visitors whenever visitors provide it to NPR. NPR asks visitors to provide certain personally-identifying information as they interact with the NPR Services, for example: when they register for certain features or services (such as an NPR account, the "NPR One" service, Application Programming Interface (API) content access, and NPR email newsletters); when they create a public profile for their NPR account; when they email, send via SMS (Short Message Service) or text message, or otherwise share a story from the NPR Services; when they make a purchase from the NPR Shop; when they post, upload, transmit and/or otherwise submit ("Submit") a comment, message, story idea, essay, photo, image, or other text, content or material ("User Materials"); and when they register for an NPR tour or event or any online contest. NPR also may ask visitors to provide personally-identifying information in other limited circumstances specified at the time the information is gathered.</p> <p>Any information that visitors Submit on or through NPR's social networking features, forums and discussions, as part of story or blog comments, or that visitors otherwise Submit to the NPR Services, may become public, including the full name and nickname that visitors provide when registering for an NPR account or creating a public profile.</p> <p>NPR also may collect other personal information (such as age, gender or other demographic information) (a) that the visitor has chosen to associate with his or her own social media account(s), or (b) in aggregated, non-identifying form through third-party vendors that provide analytics services. This information may be stored on NPR's servers with other information previously received or collected from the visitor.</p> <p>In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service (collectively, "NPR Personalized Services"), when visitors use NPR Personalized Services, NPR collects information about the listening activity of each visitor, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. Within NPR's mobile sites and applications and any features of these sites and applications ("NPR Mobile Services"), NPR collects a device's unique identifier, operating system, device model, app version, automobile make (for certain connected car platforms), and/or content preferences.</p> <p>Visitors have the opportunity to select a "favorite" Member station by (a) entering a zip code, (b) authorizing NPR to use geolocation data regarding the visitor's current location, or (c) selecting from a list of Member stations. For certain of the NPR Services, including NPR Personalized Services, a Member station is automatically assigned to the visitor based on geolocation data or based on a previously-assigned "favorite" or associated Member station. Geolocation data consists of general location information based on latitude and longitude (if the visitor has enabled location services for an NPR application on the visitor's mobile device), or NPR may approximate a visitor's location based on the IP address of the visitor's computer or mobile device.</p> <p>NPR uses a third-party vendor that collects unique device identifiers and any voice-activated action taken by visitors to NPR Mobile Services in response to or in connection with interactive audio sponsorship acknowledgments transmitted through the NPR Mobile Services. This third-party vendor may use this unique device identifier and usage information to deliver targeted sponsorship acknowledgments to the visitor within the NPR Mobile Services. Any unique device identifier and usage information collected by this third-party vendor will be processed and used by this third-party vendor solely to operate its interactive audio sponsorship acknowledgement services. NPR is not responsible for, and assumes no liability for, the privacy and information collection and use practices of this or any other third-party vendor. If you do not agree to the collection and use of this information by NPR's third-party vendor, please do not engage the interactive audio sponsorship acknowledgement features.</p> <p>Like other web servers, the server used by NPR for the NPR Services automatically creates log files for each visitor who accesses the NPR Services. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, email address, credit card information, or other similar personally-identifying information. Rather, they contain some or all of the following information:</p> <ul class="edTag"><li>The Internet Protocol address (IP address) of the machine which accessed the NPR Services.</li> <li>General location information (based on IP address or latitude and longitude).</li> <li>Device type and unique device identifier (for users of NPR Mobile Services) and other technical information about your device, system and application software.</li> <li>The date and time of the visit.</li> <li>The path taken through the NPR Services, including any "favorites" selected by the visitor, as well as patterns in the paths taken by visitors.</li> <li>Other content preferences,</li> <li>The browser and operating system being used.</li> <li>A list of files downloaded or viewed.</li> <li>The amount of time spent listening to/viewing media files.</li> <li>Any errors encountered.</li> </ul><p>NPR uses a service called Bitly to provide shortened uniform resource locators ("URLs" – the "addresses" of individual web pages) so our content can be shared more easily, particularly through social media services. Bitly collects information as our shortened URLs are shared and clicked on and makes some of that information available to us.</p> <p>The information Bitly collects may include, among other things: (a) the IP address and geographic location of each device accessing our shortened URLs; (b) the websites or services where our shortened URLs are shared; (c) the time and date of each click on a shortened URL; and (d) information about how and, in some cases, by whom a shortened URL is shared on social media services, such as Facebook, Twitter, Google+. Bitly uses this information to provide statistics that help us understand how our audience reads and shares our content. Bitly may collect additional information, particularly from users with Bitly accounts who access our shortened URLs while logged in to their Bitly accounts, and it may use that information in accordance with its own policies and processes, which we do not control. We encourage you to review Bitly's privacy policy before you share our content. Bitly's privacy policy can be found <a href="https://bitly.com/pages/privacy">here</a>. If you would prefer that Bitly not collect information about the shortened URLs you share, you can copy the full URL of the story you want to share from the location bar in your browser and share the story directly by email.</p> <h3 class="edTag"><strong>Cookies and Other Technologies</strong></h3> <p>NPR also uses "cookies" to collect information. A cookie is a string of characters that can be written to a file on the visitor's hard drive when the visitor visits a website, application or service. Only the website, application or service that set the cookie can read it, and it can only be used as a record-keeping device to store visitor IDs and information that the site already has. It cannot be used to read other information from the visitor's hard drive.</p> <p>NPR uses cookies to track visitors' activity through the NPR Services, and uses information gathered through NPR and third-party vendor cookies, for purposes including improvement of the site/application/service architecture, offering the visitor interactive features that would not be possible without them, offering local station content or other content that may be of interest to the visitor, recalling specific information to save the visitor time during subsequent visits to the NPR Services, and directing more relevant sponsorship acknowledgments or underwriting credits to the visitor while the visitor is on the NPR Services. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Shop, and other interactive features also use cookies.</p> <p>Third-party vendors that measure and analyze the use of the NPR Services for NPR, provide NPR's discussion platform and serve sponsorship messages onto the NPR Services also use their own cookies. For example, NPR's third-party analytics vendors use cookies across multiple sites to collect visitor data (such as data related to age, gender and visitor interests). In addition, NPR works with third-party vendors which may serve sponsorship acknowledgments or other messages to you on other websites after you visit the NPR Services. These third-party vendors use their own cookies to recognize you as an NPR Services visitor and to serve you sponsorship or other messages on other websites that they believe you will find most relevant. This Privacy Policy does not cover the cookies used by these third-party vendors.</p> <p>NPR and its third-party vendors also may use web beacons, alone or in conjunction with cookies. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif., which can be used to recognize certain information on your computer, such as cookies, the time and date a page is viewed, or a description of where API content is placed. We may use web beacons on this site from time to time for these and other purposes.</p> <h3 class="edTag"><strong>Opting Out of Cookies and Web Beacons</strong></h3> <p>If you wish to prevent certain or all cookies from being set to your hard drive or device, or to clear existing cookies from your browser's or device's cache, you may be able to disable them in your browser's or device's preferences, although your browser or device might then be unable to accommodate certain functionalities on the NPR Services. Visitors desiring to prevent data from being collected by Google Analytics may use the <a href="https://tools.google.com/dlpage/gaoptout/">opt-out browser add-on</a> developed by Google for this purpose.</p> <p>In addition, if you wish to opt out of receiving personalized or "interest-based" sponsorship or other messages from our third-party vendors and other participating companies, please visit <strong><a href="http://networkadvertising.org/choices">http://networkadvertising.org/choices</a></strong>. Please note that if you opt out, you will still receive other types of messages that are not personalized or interest-based. Opting out is cookie-based and will only affect the specific computer and browser on which the opt out is applied. If you subsequently delete your browser cookies, you will need to opt out again.</p> <p>For more information about opting out of interest-based messages, visit <strong><a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a></strong>.</p> <h3 class="edTag"><strong>Use and Sharing of Information</strong></h3> <p>NPR's use of personally-identifying information includes the following: managing and administering the NPR Services; responding to visitor messages; providing personalized content; listing name and location (city, state and/or country) information provided by visitors when broadcasting or publishing User Materials; fulfillment of NPR Shop orders; offering access to NPR tours and events; contest management; editorial purposes such as contacting visitors for an online survey; use by NPR's third-party vendors to operate interactive audio sponsorship acknowledgment services on the NPR Mobile Services; sending NPR email newsletters and other communications, including marketing, fundraising, membership and other communications, from NPR or NPR Member stations to visitors; other internal purposes and marketing, fundraising, membership and communications purposes of NPR and NPR Member stations; and other purposes specified at the time the information is gathered. Any geolocation data and other location information collected through NPR Services is used to offer relevant content, including content from nearby Member stations to the visitor.</p> <p>Any information that you disclose when participating in the NPR social networking features, forums or discussions (including creating a profile or submitting a comment to a story or blog or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the NPR Services and on the platform of NPR's third-party discussion services vendor. In addition, NPR, its Member stations and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any User Materials, and any information contained therein, in any and all media formats or channels, whether now known or hereafter devised, including, but not limited to, the NPR Services, NPR Member station websites and services, other third-party websites and services, over the air (on radio or television), and on mobile platforms. Further, other visitors to the NPR Services may embed a widget or feed that allows your User Materials to appear on their personal, noncommercial website, blog or other application, subject to conditions set forth in the Terms of Use. You also may opt in to sharing your NPR Services profile and comments with other websites and social media platforms, but only by taking action on the website for NPR's third-party discussion services vendor. Any such action is governed by the terms and privacy policy of NPR's third-party discussion services vendor, and not of NPR.</p> <p>In addition, if you send User Materials to NPR through the NPR Services, we may print the User Materials, or an excerpt from the User Materials, on the NPR Services, read them on air, or otherwise publish them in any other medium, together with your name and location (city, state and/or country) if you provide that information to us. NPR may contact visitors regarding their submissions in certain circumstances.</p> <p>Excluding information provided by the visitor when participating in the NPR social networking features, forums or discussions, or sending User Materials to NPR, which may become public as discussed above, personally-identifying information collected by NPR is not provided to outside parties except NPR Member stations, NPR service vendors (such as NPR Shop fulfillment service, NPR's email list manager, and the provider of the tool that allows visitors to sign in using information from their account with a third-party service), and other third parties when the visitor specifically consents to such distribution (such as the disclosure of your name to a friend when you email, send via SMS or text message, or otherwise share a story with that friend). NPR may share information about a visitor's listening activity and whether visitors have donated to Member stations through the NPR Services or have requested information about or expressed interest in donating to Member stations, with the Member stations localized to or associated with the visitor's account. In these circumstances, the information is provided for the sole purpose of, and only to the extent necessary for, delivering the requested goods to the user, delivering communications from NPR or NPR Member stations to visitors, providing services for and on behalf of NPR, or serving other NPR or NPR Member station internal purposes and marketing, fundraising, membership and communications purposes. When NPR shares personally-identifying information with NPR Member stations, NPR requires those Member stations to commit to the same restrictions against sharing that information with third parties as NPR commits to in this Privacy Policy. Visitors to the NPR Mobile Services should be aware that the wireless carrier for a mobile device or the automobile manufacturer also may collect personally-identifying information and geolocation data. Visitors should check the privacy policies of their wireless carriers and automobile manufacturers for additional information.</p> <p>NPR also may disclose personally-identifying information if required to do so by law or if it believes that such action is necessary (a) to comply with the law or with legal process, (b) to protect against misuse or unauthorized use of the NPR Services, (c) to protect the personal safety, property or rights of visitors to the NPR Services, the public, NPR and its employees, officers, directors, agents and contractors, NPR Member stations and NPR Member station personnel, sponsors, service providers, and others, or (d) to enforce the Terms of Use.</p> <p>If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the NPR Services). You can also "opt out" according to the process described below in the section titled "Corrections to Registrations; Opting Out of Communications."</p> <p>NPR may share with third parties anonymous information that does not identify its visitors. The use and disclosure of such information is not subject to restrictions under this Privacy Policy.</p> <p>NPR, with the assistance from time to time of its third-party service vendors, uses non-identifying information (in aggregated and non-aggregated form), including non-identifying aggregate data regarding age, gender and/or visitor interests, to analyze use of and better design the NPR Services. It may share with third parties in aggregate, non-identifying form as appropriate. For example, we may tell a third party that a certain number or category of visitors accessed a particular audio stream on the NPR Services. We may share non-identifying aggregate information with third-party services that combine NPR's information with aggregate information from other sources to provide ratings and ranking data or other services of value to NPR. We may share non-identifying information, in aggregated or non-aggregated form, with third-party vendors to help NPR analyze and improve the NPR Services. However, we will not disclose any information that could be used to identify our visitors.</p> <p>NPR also may share information obtained from devices that visitors use to access the NPR Services with certain of its third-party vendors, including its third-party interactive audio sponsorship acknowledgment service provider, for a variety of purposes, including tracking sponsorship acknowledgment credit frequency and voice-activated actions taken in response to interactive audio sponsorship acknowledgments.</p> <h3 class="edTag"><strong>Security</strong></h3> <p>NPR has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the NPR Shop is protected by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the NPR Shop's server can decipher it. However, no Internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, SMS or text message, or other mobile transmission.</p> <h3 class="edTag"><strong>Children</strong></h3> <p>Under 13: Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or their mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p> <p>13-18: You must be at least 18 years old in order to Submit any User Materials on or through the NPR Services, register for the NPR Services, create a public profile, participate in any online contests, or place an order on the NPR Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or otherwise sending any personally-identifying information.</p> <h3 class="edTag"><strong>Corrections to Registrations; Opting Out of Communications</strong></h3> <p>Please <a href="http://www.npr.org/contact/">Contact Us</a> to (a) correct or update any registration information that you have provided to NPR, (b) opt-out of future communications from NPR, or (c) request NPR to cancel your NPR account, NPR newsletter registration and other NPR registrations.</p> <h3 class="edTag"><strong>Acceptance of Privacy Policy Terms</strong></h3> <p>NPR reserves the right to change this Privacy Policy. Any changes to this policy will be posted to this page, so please check this page periodically. Use of the NPR Services constitutes consent to any policy then in effect. Please make sure that you read NPR's <a href="http://www.npr.org/about-npr/179876898/terms-of-use">Terms of Use</a> to understand additional terms and conditions which apply to the use of the NPR Services.</p> <h3 class="edTag"><strong>Links to other Sites and Services</strong></h3> <p>It is important to note that the NPR Services contain links to other sites, applications and services maintained by third parties that may not follow the same privacy policies as the NPR Services. For instance, clicking or tapping on a sponsorship acknowledgment or some third-party logos on the NPR Services will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that the NPR Services would not. NPR is not responsible for the privacy practices of, or any information or materials on, these other sites. Please visit these sites if you wish to review their privacy policies.</p> <p>The NPR Services include a tool that allows you to sign in or share content using information from your account with a third-party service, such as Facebook, Twitter, Google+, or Disqus. Please be aware that those third-party services are unrelated to NPR, and that your use of the third-party services is subject to the terms and policies of those services.</p> <h3 class="edTag"><strong>International User Notice</strong></h3> <p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this policy. By using the NPR Services, you agree to have your information transferred to and used in the United States as set forth in this policy.</p> <h3 class="edTag"><strong>Questions</strong></h3> <p>If you have any questions or comments concerning our Privacy Policy, please <a href="http://www.npr.org/contact/">Contact Us</a>.</p> </div></div></div>    </div>  
 
-</td>
-</tr>
-</tbody></table>
-<!--logo and content-->
-<table border="0" width="510" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td rowspan="4" valign="top">
-<img src="../images/c-rule-blue.gif" alt="" width="23" height="355">
-</td>
-<td height="60" valign="top" align="LEFT">
-<!--local navigation-->
-<img src="images/ompany-title.gif" alt="company Profile" width="220" height="60">
-<table width="398" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<a href="/company/index.html" onmouseover="changeImages('overview', 'images/overview-over.gif'); return true;" onmouseout="changeImages('overview', 'images/overview.gif'); return true;">
-				<img name="overview" src="images/overview.gif" width="146" height="20" border="0"></a></td>
-		<td>
-			<a href="/company/management.html" onmouseover="changeImages('manage_team', 'images/manage-team-over.gif'); return true;" onmouseout="changeImages('manage_team', 'images/manage-team.gif'); return true;">
-				<img name="manage_team" src="images/manage-team.gif" width="89" height="20" border="0"></a></td>
-		<td>
-			<a href="/company/board.html" onmouseover="changeImages('board', 'images/board-over.gif'); return true;" onmouseout="changeImages('board', 'images/board.gif'); return true;">
-				<img name="board" src="images/board.gif" width="89" height="20" border="0"></a></td>
-		<td>
-			<a href="/company/audience.html" onmouseover="changeImages('audience', 'images/audience-over.gif'); return true;" onmouseout="changeImages('audience', 'images/audience.gif'); return true;">
-				<img name="audience" src="images/audience.gif" width="74" height="20" border="0"></a></td>
-	</tr>
-</tbody></table>
-<!--end local navigation-->
-</td>
-</tr>
-<tr>
-<td valign="TOP">&nbsp;
-</td>
-</tr>
-<tr>
-<td valign="TOP" align="left">
-<!--page-specific content begins here-->
-<br><h2>
-<b>Public Interactive®</b> Privacy Policy
-</h2>
-<p class="normal">At <b>Public Interactive,</b> we believe that protecting the private and personal 
-information of visitors to web sites is both a critical aspect of respecting our audience 
-as well as a good operational policy.  We believe that, within a context of full 
-disclosure and choice, both our audience and participating public radio stations can be served by the 
-judicious and careful use of information.</p>
- 
-<p class="normal">The following privacy policy outlines the philosophy of <b>Public Interactive</b> and our operational guidelines for the use of 
-information collected on-line:</p>
+  </div>
 
-<ol style="margin-left: 3em; list-style-position: outside;">
-<li><b>Public Interactive</b> will never disclose any personally-identifiable 
-information about our audience to any third party without first receiving 
-the user's permission.  We will not collect personally-identifiable 
-information from our visitors other than that which is supplied to us on a 
-voluntary basis.
+  
+</div>
+  </div>
+</div>
+  </div>
+              </article>
+    </main>
+  </div>
 
-</li><li>Visitors to <b>Public Interactive</b> affiliate station web sites may 
-voluntarily supply certain personally-identifiable information in 
-connection with (i) sweepstakes or contest registration, (ii) subscription 
-registration for services that may require subscription (such as email 
-newsletters), (iii) requests for membership information to local public 
-radio stations, and (iv) commerce transactions. In addition, personally-identifiable information is voluntarily provided in connection with certain 
-content submissions or community postings (i.e., chat, forums, reviews, 
-or bulletin boards), comments and suggestions, or survey polling.
+      <section class="post-content">
+      <div>
+          <div class="region region-post-content">
+    <div id="block-pi-responsive-ads-mobile-1" class="block block-pi-responsive-ads">
 
-</li><li>Each respective affiliate station in the <b>Public Interactive</b> network 
-is provided all collected information, including aggregate user statistics, 
-site reports, and individual user information where such data is 
-collected through the specific station site in an electronic format.  
-Where such information is restricted (per opt-out instructions given by 
-an individual user), participating stations are contractually bound to 
-specific ranges of data use (i.e., use of such data in aggregate format 
-only).
+    
+  <div class="content">
+      </div>
+</div>
+  </div>
+      </div>
+    </section>
+  
+  <div class="bottom-ads">
+    <div class="bottom-ads-inner"></div>
+  </div>
+</div>
 
-</li><li><b>Public Interactive</b> has a responsibility commitment to data 
-security with respect to any information collected on participating 
-station sites.  In order to protect against the loss, misuse, and alteration 
-of any information under our control, we employ industry standard 
-security measures, including SSL encryption and firewall-protected 
-database servers.
-</li></ol>
+<footer class="footer" role="contentinfo">
+  <div class="row">
+    <div class="footer-affiliate-container small-centered columns">
+                  <div class="region region-footer">
+    <div id="block-pi-table-queue-auxiliarylinksfooter" class="block block-pi-table-queue">
 
-<!--end content-->
-</td>
-</tr>
-<tr><td colspan="2" align="center">
-<!--Footer: pi remote, site-wide navigation, copyright-->
-<table width="510" align="center" border="0">
-<tbody><tr>
-<td align="center" style="margin-top: 3em;">
-<img src="/images/dottedrule-490.gif" width="490" height="12" align="top">
-<br>
-
-</td>
-</tr>
-<!--text links, create version with absolute links that can be used in all-->
-<tr><td align="center" class="small-text"><a href="/company/">Company Profile</a>&nbsp;|&nbsp;<a href="/news/">News &amp; PR</a>&nbsp;<!--|&nbsp;<a href="/sponsorship/">Sponsorship Opportunities</a>&nbsp;-->|&nbsp;<a href="/contact/">Contact Us</a>&nbsp;|&nbsp;<a href="/content/index.html">Content &amp; Services</a>&nbsp;|&nbsp;<a href="/company/user-privacy-policy.html">Privacy Policy</a>&nbsp;</td></tr>
-<tr><td align="center" class="small-text">COPYRIGHT 2003 Public Interactive®</td></tr>
-</tbody></table><!--end of footer -->
-
-
-
-</td></tr></tbody></table>
-
-
-
+    
+  <div class="content">
+    <div class="table-queue" id="table-queue-auxiliarylinksfooter">
+  <div class="item-list"><ul class="auxiliary-links"><li class="first"><span>© 2015 NPR Digital Services</span></li>
+<li><a href="http://digitalservices.npr.org/about-us" target="_self">About Us</a></li>
+<li><a href="http://digitalservices.npr.org/contact-us" target="_self">Contact Us</a></li>
+<li><a href="http://digitalservices.npr.org/support" target="_self">Help Center</a></li>
+<li><a href="http://digitalservices.npr.org/careers" target="_self">Careers</a></li>
+<li><a href="http://digitalservices.npr.org/terms-use" target="_self">Terms of Use</a></li>
+<li class="last"><a href="http://digitalservices.npr.org/privacy-policy" target="_self">Privacy Policy</a></li>
+</ul></div></div>
+  </div>
+</div>
+  </div>
+          </div>
+  </div>
+</footer>
+      <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ (function ($) { $(document).foundation({ topbar: { custom_back_text: true, back_text: 'back', mobile_show_parent_link: true } }); }(jQuery));
+//--><!]]>
+</script>
+    </div>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZNhQLSg9bVAdBGREJRg==","queueTime":0,"applicationTime":15,"ttGuid":"","agentToken":"","atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 </body></html>
