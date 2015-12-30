@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lecturebooksonline.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327133314id_/https%3A//lecturebooksonline.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecturebooksonline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230212044id_/http%3A//lecturebooksonline.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
-# Privacy Policy ― Lecture Books Online © 2012. All rights reserved.
+# Privacy Policy ― Lecture Books Online © 2014. All rights reserved.
 
 **LectureBooksOnline.com** is committed to respect the privacy rights of visitors. If you have any questions, please call toll-free **1-888-510-9535  ** or email us at [support@LectureBooksOnline.com](mailto:support@LectureBooksOnline.com)
 
