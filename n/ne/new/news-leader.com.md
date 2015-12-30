@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510005052id_/http%3A//static.news-leader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230012652id_/http%3A//static.news-leader.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Springfield News-Leader
 
