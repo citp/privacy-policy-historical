@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatimes.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231225656id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatimes.in privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230233733id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Indiatimes.com
 
@@ -29,6 +29,10 @@ B. INFORMATION AUTOMATICALLY COLLECTED/ TRACKED WHILE NAVIGATION
 **Cookies**
 
 To improve the responsiveness of the "Application" for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website, Application or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.
+
+**Opting out**
+
+If a user opts out using the [Ads Settings](http://www.google.com/ads/preferences), the unique DoubleClick cookie ID on the user's browser is overwritten with the phrase "OPT_OUT". Because there is no longer a unique cookie ID, the opt-out cookie can't be associated with a particular browser.
 
 **Log File Information**
 
@@ -74,7 +78,7 @@ a) When it is requested or required by law or by any court or governmental agenc
 
 b) The Company proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-c) The Company may present information to our advertisers - to help them understand our audience and confirm the value of advertising on our websites or Applications - however it is usually in the form of aggregated statistics on traffic to various pages within our site. 
+c) The Company may present information to our advertisers - to help them understand our audience and confirm the value of advertising on our websites or Applications – however it is usually in the form of aggregated statistics on traffic to various pages within our site. 
 
 d) The Company may share your information regarding your activities on websites or Applications with third party social websites to populate your social wall that is visible to other people however you will have an option to set your privacy settings, where you can decide what you would like to share or not to share with others.
 
@@ -94,9 +98,9 @@ The internet is an ever evolving medium. We may alter our privacy policy from ti
 
 **8\. QUESTIONS / GRIEVANCE REDRESSAL**
 
-Redressal Mechanism: Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to grievance.it@timesinternet.in or Mr. Anand Vaishnav ("Grievance Officer")
+Redressal Mechanism: Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to grievance.it@timesinternet.in or Mr. Kabeer Sharma ("Grievance Officer")
 
-Mr. Anand Vaishnav
+Mr. Kabeer Sharma
 
 Grievance Officer (Indiatimes.com)
 
@@ -104,9 +108,9 @@ Times Internet Limited
 
 Plot No. 391, Udyog Vihar, Phase - III, 
 
-Gurgaon, Haryana 122002, India 
+Gurgaon, Haryana 122016, India 
 
-Ph: 0124-4187000
+Ph: 0124-4518550
 
 We request you to please provide the following information in your complaint:-
 
