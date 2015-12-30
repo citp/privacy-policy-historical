@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivewire3d.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617011910id_/http%3A//hivewire3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivewire3d.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230105446id_/http%3A//hivewire3d.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
