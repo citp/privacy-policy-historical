@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629062123id_/http%3A//www.rhapsody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231003037id_/http%3A//www.rhapsody.com/privacy) for the most accurate reproduction.*
 
 # Rhapsody Privacy Policy : Rhapsody International
 
-## Last Updated: June 16, 2014
+[Join now](https://web.archive.org/pricing) [ Sign In ](https://web.archive.org/login)
+
+## Last Updated: December 11, 2015
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Rhapsody International Inc. and its subsidiaries and affiliated companies (collectively, "Rhapsody," "we" or "us"). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other products and services (collectively, the "Services") or when you otherwise interact with us. 
 
@@ -45,7 +47,8 @@ We may use information about you for various purposes, including to:
   * Monitor and analyze trends, usage, and activities in connection with our Services;
   * Personalize and improve the Services, and provide advertisements, content or features that match your interests and preferences;
   * Process and deliver contest or promotion entries and rewards;
-  * Link or combine with information we receive from others to help understand your needs and to provide you with better service; and
+  * Link or combine with information we receive from others to help understand your needs and to provide you with better service;
+  * Carry out the Advertising and Analytics Services (described below); and
   * Carry out any other purpose for which the information was collected.
 
 
@@ -56,13 +59,17 @@ We also may share aggregated or de-identified information, which cannot reasonab
 
 The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on the Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish through the Services and with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with such social sharing features, please visit the privacy policies of the entities that provide these features. 
 
-## Advertising and Analytics Services Provided by Others
+## Advertising and Analytics Services
 
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Rhapsody and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. 
+We may allow others to serve you advertisements across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including without limitation your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Rhapsody and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. 
 
 For example, we may use Remarketing with Google Analytics to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet. Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. We also may use Google Display Network Impression Reporting to determine the effectiveness of certain advertising and content, and Google Analytics Demographic and Interest Reporting to better understand the demographics and interests of our users. For information about how you can opt out of Google's use of cookies for interest-based advertising, please visit Google's [Ads Settings](https://www.google.com/settings/ads?hl=en&sig=ACi0TCgotBsO5ufSyy4z1sCciTEgpTytboH_IlJhjFqaHB5nO19PsCsLuM0P3CZI2-0Cvfxq38KKmTmvguFEcFXOkLXwyAabQs2581gIhX9_U2EzrBzZkLhbVFu1GTXxUBglvSKPvMk8fGx7KdgXn3kb8Uv8wghOkGPlAGW2LDsWsMVZAH6N-I4). 
 
-For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by certain companies, please visit the [DAA Consumer Opt-Out](http://www.aboutads.info/choices) and [Rhapsody Opt-Out Page](https://web.archive.org/privacy/opt-out). 
+We or a data partner we have engaged may collect, store and share a unique identifier matched to your mobile device, in order to deliver customized ads or content while you use applications or surf the internet, or to seek to identify you in a unique manner across other devices or browsers. In order to customize these ads or content, we or a data partner may connect and/or share de-identified demographic or other data about you (received from third parties) either to data you voluntarily have submitted to us, e.g., your email address, or to data collected from you, such as your device identifier or IP address. However, we will share your email address only in hashed, non-human readable form. We also may share aggregated information or other de-identified information, which cannot reasonably be used to identify you. 
+
+**Data Share Opt-Out:** In order to opt out of the data sharing described above, please visit the [Rhapsody Data Privacy Settings](https://web.archive.org/privacy/opt-out/settings) Page and enter the email address for your Rhapsody account. 
+
+For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by certain companies, please also visit the [DAA Consumer Opt-Out](http://www.aboutads.info/choices) as well as the additional links listed on the [Rhapsody Opt-Out Page](https://web.archive.org/privacy/opt-out). 
 
 ## Security
 
@@ -78,7 +85,7 @@ If you wish to deactivate your online account, please email us at [help@rhapsody
 
 ### Rhapsody Profile Privacy Settings
 
-You have the ability to customize your Rhapsody profile and control whether your profile is accessible to other users of the Services. Initially, your Rhapsody profile will be anonymous. If you choose to make your customized profile accessible to other users, the information in your profile and certain other information about your use of the Services (such as your playlists, music library and listening preferences) will be accessible to other users of the Services. If you choose not to make your customized profile accessible to other users of the Services, your profile will be completely hidden from other users. Please note that if you choose to hide your profile from other users, you may not be able to use certain features or functionalities of our Services. 
+You have the ability to customize your Rhapsody profile and control whether your profile is accessible to other users of the Services. Initially, your Rhapsody profile will be publicly accessible to other users, but it will be anonymous. You may choose to add personally identifying information, such as your name, to your profile. If you choose to leave your customized profile accessible to other users, the information in your profile and certain other information about your use of the Services (such as your playlists, music library and listening preferences) will be accessible to other users of the Services. If you choose not to make your customized profile accessible to other users of the Services, your profile will be completely hidden from other users. Please note that if you choose to hide your profile from other users, you may not be able to use certain features or functionalities of our Services. 
 
 ### Device and Location Information
 
@@ -102,7 +109,10 @@ With your consent, we may send push notifications or alerts to your mobile devic
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at: 
 
-Privacy Policy Group Rhapsody Legal Department 500 3rd St #460 San Francisco, CA 94107 
+Privacy Policy Group  
+Rhapsody Legal Department  
+701 5th Avenue, Suite 3100  
+Seattle, WA 98104 
 
 Email: [privacy@rhapsody.com](mailto:privacy@rhapsody.com)
 
@@ -110,6 +120,9 @@ Email: [privacy@rhapsody.com](mailto:privacy@rhapsody.com)
 
 If you have any questions about this Privacy Policy, please contact us at: 
 
-Privacy Policy Group Rhapsody Legal Department 500 3rd St #460 San Francisco, CA 94107 
+Privacy Policy Group  
+Rhapsody Legal Department  
+701 5th Avenue, Suite 3100  
+Seattle, WA 98104 
 
 Email: [privacy@rhapsody.com](mailto:privacy@rhapsody.com)
