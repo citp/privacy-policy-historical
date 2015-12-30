@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfforge.org privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507233447id_/http%3A//www.pdfforge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfforge.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230093707id_/http%3A//www.pdfforge.org/privacy-policy) for the most accurate reproduction.*
 
 # pdfforge | Privacy Policy
 
@@ -9,6 +9,12 @@ Using the website usually is possible without providing personal data. If person
 We stress the fact that any kind of transmission through the internet can be subject to security issues. A gapless security of this transmission can’t be accomplished.
 
 Using the information we provide in the imprint for the purpose of sending unrequested advertisement is strictly prohibited. We explicitly claim the right to take legal actions against any kind of unsolicited advertisement.
+
+**Cookies**
+
+To optimize our web presence, we use cookies. These are small text files stored in your computer's main memory. These cookies are deleted after you close the browser. Other cookies remain on your computer (long-term cookies) and permit its recognition on your next visit. This allows us to improve your access to our site.
+
+You can prevent storage of cookies by choosing a "disable cookies" option in your browser settings.
 
 **Privacy Policy for Google AdSense**
 
