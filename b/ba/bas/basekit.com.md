@@ -1,121 +1,64 @@
-> *The following text is extracted and transformed from the basekit.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812112210id_/http%3A//www.basekit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basekit.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121141id_/http%3A//www.basekit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - How we use and protect your details & information.
+# Privacy Policy
 
-This privacy policy sets out how BaseKit uses and protects any information that you give BaseKit when you use this or any related websites managed or maintained by and on behalf of BaseKit.
+### PRIVACY & COOKIE POLICY
 
-BaseKit is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+BaseKit Platform Limited (“We”, “Us” or “Our”) are committed to protecting and respecting your privacy.
 
-BaseKit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from March 2010.
+As part of Our normal business operation We collect certain personal information from Our clients. This policy sets out the basis on which We process any such personal information that We collect or that you provide to Us. Please read this policy carefully to understand Our practices regarding your personal information.
 
-### 
+By visiting www.basekit.com you are accepting and consenting to the practices described in this policy.
 
-What we collect
+For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is BaseKit Platform Limited.
 
-As a minimum, we require the following information in order for you to register for a Free Trial account with BaseKit:
+### Information We may collect from you
 
-  * A valid E-mail Address
+We may collect and process the following data about you:
 
-  * A Password
+  1. Information you give Us. You may give Us information about you by filling in forms on Our site www.basekit.com (“Our site”) or by corresponding with Us by phone, e-mail or otherwise. This includes information you provide when you register to use Our site, subscribe to Our service, place an order on Our site, transact on Our website or report a problem with Our site. The information you give Us may include your name, address, e-mail address and phone number, financial and credit information.
+  2. Information We collect about you. With regard to each of your visits to Our site We may automatically collect the following information: technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from Our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call Our customer service number.
+  3. Information We receive from other sources. We may receive information about you if you use any other websites We operate or other services We provide. This data may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 
 
+### Cookies
 
-Should you wish to upgrade your Free Trial account to a paid account, we will require additional information including:
+Our website uses cookies to distinguish you from other users of Our website. A cookie is a small file of letters and numbers that We put on your computer if you agree. These cookies allow Us to distinguish you from other users of Our website, which helps Us to provide you with a good experience when you browse Our website and also allows Us to improve Our site. Further information about the cookies used by Our site can be found below.
 
-  * Your name (forename / surname)
+### Uses made of the information
 
-  * Your address and post / zip code
+We use information held about you in the following ways:
 
-  * Payment card details (we do not hold credit card details in our database)
+  1. Information you give to Us. We will use this information: to carry out Our obligations arising from any contracts entered into between you and Us and to provide you with the information, products and services that you request from Us; to provide you with information about other products and services We offer that are similar to those that you have already purchased or enquired about; in future We (or other companies within Our group of companies) may also provide you, with information about goods or services from other sources We feel may interest you. For example, this may include marketing new or improved services or products offered by BaseKit or Our group of companies. If you are an existing customer, We will only contact you with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, We will contact you only if you have consented to this. If you do not want Us to use your data in this way, please tick the relevant box situated on the form on which We collect your data; to notify you about changes to Our service; to ensure that content from Our site is presented in the most effective manner for you and for your computer.
+  2. Information We collect about you. We will use this information: to administer Our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; to improve Our site to ensure that content is presented in the most effective manner for you and for your computer; to allow you to participate in interactive features of Our service, when you choose to do so; as part of Our efforts to keep Our site safe and secure; to measure or understand the effectiveness of advertising We serve to you and others, and to deliver relevant advertising to you; to make suggestions and recommendations to you and other users of Our site about goods or services that may interest you or them. Information We receive from other sources. We may combine this information with information you give to Us and information We collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information We receive).
+  3. Disclosure of your information We may share your information with selected third parties including: Business partners, suppliers and sub-contractors for the performance of any contract We enter into with them or you. Analytics and search engine providers that assist Us in the improvement and optimisation of Our site. Credit reference agencies for the purpose of assessing your credit score where this is a condition of Us entering into a contract with you. We will never sell your personal data without your consent. We may disclose your personal information to third parties: In the event that We sell or buy any business or assets, in which case We may disclose your personal information to the prospective seller or buyer of such business or assets. If BaseKit Platform Limited or substantially all of its assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets. If We are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply Our Terms of Use or Terms and Conditions and other agreements; or to protect the rights, property, or safety of Us, Our group companies, customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  4. Where We store your personal information The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. However, all your personal information We will be afforded a high level of protection wherever it is processed and no matter whether it is held by Us, or Our contractors or agents. All information you provide to Us is stored on Our secure servers. Any payment transactions will be encrypted. Where We have given you (or where you have chosen) a password which enables you to access certain parts of Our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although We will do Our best to protect your personal information, We cannot guarantee the security of your data transmitted to Our site; any transmission is at your own risk. Once We have received your information, We will use strict procedures and security features to try to prevent unauthorised access.
+  5. Your rights You have the right to ask Us not to process your personal information for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data. You can also exercise the right at any time by contacting Us at marketing@basekit.com. Our site may, from time to time, contain links to and from the websites of Our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
 
+### Access to information
 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet Our costs in providing you with details of the information We hold about you.
 
+### Changes to Our privacy policy
 
-Should you contact us by phone, Skype, email or post or by any other method - we may hold the contact details or any additional information you provide to us on record for future reference and use.
+Any changes We may make to Our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to Our privacy policy.
 
-### What we do with the information we gather
+### Contact
 
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [marketing@basekit.com.](mailto:marketing@basekit.com)
 
-However, we may also use your information:
+COOKIE POLICY Our site uses cookies to distinguish you from other users of Our website. This helps Us to provide you with a good experience when you browse Our website and also allows Us to improve Our site. By browsing Our site, you are agreeing to Our use of cookies.
 
-  * For internal record keeping.
+A cookie is a small file of letters and numbers that We store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive. We use the following cookies:
 
-  * For information to improve our products and services.
+    * Strictly necessary cookies. These are cookies that are required for the operation of Our website. They include, for example, cookies that enable you to log into secure areas of Our website, use a shopping cart or make use of e-billing services.
+    * Analytical/performance cookies. They allow Us to recognise and count the number of visitors and to see how visitors move around Our website when they are using it. This helps Us to improve the way Our website works, for example, by ensuring that users are finding what they are looking for easily.
+    * Functionality cookies. These are used to recognise you when you return to Our website. This enables Us to personalise Our content for you, greet you by name and remember your preferences (for example, your choice of language or region). Targeting cookies. These cookies record your visit to Our website, the pages you have visited and the links you have followed. We will use this information to make Our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-  * To send promotional email communications about special offers, news, product updates or other information which we think you may find interesting using the email address which you have provided. You may opt out of these email communications.
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which We have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-  * From time to time, we may also use your information to contact you for market research purposes.
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of Our site.
 
 
 
-
-We will not provide your details to any third parties for marketing purposes, without your prior consent.
-
-### Storing Your Personal Data
-
-We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
-
-Please note that we have the ability to retain any data that you provide on this website using VeCapture by Ve Interactive, even if you do not complete your registration/transaction by clicking submit/next. Such contact details and data may be used to contact you to enquire why you did not complete your registration/transaction and improve our online operations.
-
-Data that is provided to us is stored on our secure servers.
-
-Please note, we do not hold credit card details on our servers
-
-### Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk.
-
-Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
-
-How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-### Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-Please note, we hold no responsibility over any data or transactions which you submit or transact through sites created and published by BaseKit users or on BaseKit subdomains eg www.usersite.basekit.com.
-
-Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * when registering your account with BaseKit, you may choose to opt out of any direct marketing related email communications.
-
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us or emailing us at support@basekit.com.
-
-  * if you wish to cancel your BaseKit account at any time and would like us to delete your records, please contact us at support@basekit.com.
-
-
-
-
-###   
-Disclosing Your Information
-
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, holding company(s) and its other subsidiaries (if applicable).
-
-We may also disclose your personal information to third parties:
-
-  * Where we sell any or all of our business and/or our assets to a third party.
-
-  * Where we are legally required to disclose your information.
-
-  * To assist fraud protection and minimise credit risk. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-
-
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to BaseKit Platform Ltd, Data Control Officer, Unit GE14, Riverside Court, Beaufort Park Way, Chepstow, UK, NP16 5UH.
-
-If you believe that any personal information we are holding in relation to you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
