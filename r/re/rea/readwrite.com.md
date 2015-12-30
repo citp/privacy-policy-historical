@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the readwrite.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125034104id_/http%3A//readwrite.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readwrite.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230040917id_/http%3A//readwrite.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReadWrite
 
-**[About](https://web.archive.org/page/about) | [Events](https://web.archive.org/page/events) | [Contact](https://web.archive.org/page/contact) | [Advertise](http://www.saymedia.com/advertise-with-us) | [Privacy](https://web.archive.org/page/privacy-policy) | [Subscribe](http://readwrite.us2.list-manage.com/subscribe?u=f5a0df2d9082c86e808468c10&id=9fbeb5d667)**
+**[About](http://readwrite.com/page/about)[](http://tempest.saymedia.com/page/about) | [Events](http://readwrite.com/page/events)[](http://tempest.saymedia.com/page/events) | [Contact](http://readwrite.com/page/contact)[](http://tempest.saymedia.com/page/contact) | [Guest Posts](http://readwrite.com/page/guest-posts) | [Work At ReadWrite](http://readwrite.com/page/jobs) | ****[Advertise](http://readwrite.com/page/sales)[](http://readwrite.com/page/sales)** **|[Privacy](http://readwrite.com/page/privacy-policy)[](http://tempest.saymedia.com/page/privacy-policy) | [Subscribe](http://readwrite.us2.list-manage.com/subscribe?u=f5a0df2d9082c86e808468c10&id=9fbeb5d667)**
 
 [Learn more about opting out](http://www.saymedia.com/privacy-policy.php#optout)
 
-Last modified: September 27, 2011.
+Last modified: April 11, 2015.
+
+ReadWrite is a publication of Wearable World, Inc. SAY Media is the provider of Tempest, ReadWrite's publishing technology. In the course of providing this technology, SAY Media collects certain personally identifiable information about ReadWrite's readers. Please read this policy to understand more about how SAY collects and uses this information.
 
 SAY Media, Inc. (“SAY Media,” “we” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains how SAY Media collects and uses information at its website located at [www.saymedia.com](http://www.saymedia.com/) and at other websites and mobile services provided by SAY Media (collectively the “Network Websites”). This Privacy Policy also explains how SAY Media collects and uses information received in connection with advertisements placed by SAY Media on the Network Websites and on third party affiliate websites, as part of the SAY Media Ad Platform Online Program (the “Program”) (the Network Websites, SAY Media advertisement placements, and Program are collectively referred to as the “SAY Media Services”). This Privacy Policy also explains how you can control the collection, correction and/or deletion of certain types of information that we collect. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Further, this Privacy Policy does not apply to any websites, webpages, blogs, applications, widgets or other services operated by any third party, including our affiliates, advertisers, providers and partners.
 
@@ -147,5 +149,17 @@ SAY Media, Inc.
 180 Townsend Street
 
 San Francisco, CA 94107
+
+Attention: Data Privacy
+
+If you have questions about ReadWrite's privacy practices not addressed by Say Media's privacy policy, please contact us at [privacy@readwrite.com](mailto:privacy@readwrite.com) or send mail to:
+
+ReadWrite
+
+c/o Wearable World Inc.
+
+3601 Lyon Street
+
+San Francisco, CA 914123
 
 Attention: Data Privacy
