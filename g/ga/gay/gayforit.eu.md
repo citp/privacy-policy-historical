@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023845id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230115859id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
 
 # GayForIt.eu
 
