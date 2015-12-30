@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialspoint.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623182619id_/http%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialspoint.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230134358id_/http%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.*
 
 # Tutorials Point Privacy Policy
 
