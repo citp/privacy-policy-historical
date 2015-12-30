@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626171533id_/http%3A//www.standard.co.uk/standard-home/privacy-policy-6925316.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231000115id_/http%3A//www.standard.co.uk/service/privacy-policy-6925316.html) for the most accurate reproduction.*
 
-# Privacy Policy - Service - London Evening Standard
+# Privacy Policy | Service | London Evening Standard
+
+**Please read this carefully**
 
 Before using the Website – www.standard.co.uk - it is your responsibility to read the privacy policy.
 
@@ -14,9 +16,9 @@ Knowing something about our users is necessary to ensure that our service is con
 
  **Should I read any other information and terms?**
 
-Whenever you use the Website, information may be collected through the use of cookies so you should also read our [cookie policy](http://www.standard.co.uk/service/cookie-policy-7785319.html "cookie policy") for more information about this.
+Whenever you use the Website, information may be collected through the use of cookies so you should also read our [cookie policy](https://web.archive.org/service/cookie-policy-7785319.html "cookie policy") for more information about this.
 
-You should also read the terms of use before using the Website.  By accessing and using it you are agreeing to be legally bound by the terms of use and this [privacy policy](http://www.standard.co.uk/service/privacy-policy-6925316.html "privacy policy").
+You should also read the terms of use before using the Website.  By accessing and using it you are agreeing to be legally bound by the terms of use and this [privacy policy](https://web.archive.org/service/privacy-policy-6925316.html "privacy policy").
 
  **What information will you collect about me?**
 
@@ -30,7 +32,7 @@ If you have any financial dealings, for instance if you make purchases with our 
 
 Please do not submit your personal information to us if you do not want us to collect it.
 
-We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.  We do this using web beacons or cookies through a number of carefully selected, trusted third parties. If you would like to know more about standard.co.uk’s use of cookies and how to manage them, do read our [cookie policy](http://www.standard.co.uk/service/cookie-policy-7785319.html "cookie policy").
+We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.  We do this using web beacons or cookies through a number of carefully selected, trusted third parties. If you would like to know more about standard.co.uk’s use of cookies and how to manage them, do read our [cookie policy](https://web.archive.org/service/cookie-policy-7785319.html "cookie policy").
 
 Sometimes we obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or via a range of sources with your permission (such as surveys or where you have agreed, via opt-in, for your information to be shared with third parties).
 
@@ -111,7 +113,7 @@ You can email webteam@standard.co.uk at any time to let us know of any objection
 
  **Message boards, blogs and other public forums**
 
-The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s [terms of use](http://www.standard.co.uk/service/terms-of-use-6902768.html "terms of use") and [community guidelines](http://www.standard.co.uk/service/community-guidelines-9729850.html "community guidelines").
+The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s [terms of use](https://web.archive.org/service/terms-of-use-6902768.html "terms of use") and [community guidelines](https://web.archive.org/service/community-guidelines-9729850.html "community guidelines").
 
  **Email a friend and share this article facilities**
 
