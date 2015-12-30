@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaylordhotels.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012114id_/http%3A//www.marriott.com/marriott/privacy-us.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaylordhotels.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044713id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
 
 # Marriott Online Privacy Policy | Hotel Privacy Policy Information
 
@@ -6,23 +6,14 @@ This privacy statement (“Statement”) applies to all of the hotel brands owne
 
 We have prepared this Statement to inform you of the privacy principles that govern our use of information we obtain from our customers, including information we obtain through our websites, including Marriott.com, Ritz-Carlton.com and other websites owned or controlled by the Marriott Group (collectively, the “Websites”). As used in this Statement, the term “Authorized Licensees” means certain companies that have entered into a license or similar agreement with a Marriott Group company to sell products and services under a Marriott Group brand. Authorized Licensees are independent from the Marriott Group, and include entities such as Marriott Vacations Worldwide Corporation operator of the Marriott Vacation Club and Marriott and Ritz-Carlton Real Estate, and the issuer of the Marriott Rewards Credit Card.
 
-Our Websites are available to visitors located throughout the world, and operated for different purposes. For instance, some may be specific to a hotel brand or property, and others may enable you to shop for travel-related products. Our Websites are generally operated from the United States in accordance with laws of the United States and visitors to our Websites should be aware that the laws of the United States may differ from those of your country of residence. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our European Union and Switzerland Privacy Statement. Where we operate country-specific Websites, those Websites are operated in accordance with the laws of that specific country.
+Our Websites are available to visitors located throughout the world, and operated for different purposes. For instance, some may be specific to a hotel brand or property, and others may enable you to shop for travel-related products. Our Websites are generally operated from the United States in accordance with laws of the United States and visitors to our Websites should be aware that the laws of the United States may differ from those of your country of residence. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our [European Union and Switzerland Privacy Statement](https://web.archive.org/corporateinfo/euswissprivacy.mi). Where we operate country-specific Websites, those Websites are operated in accordance with the laws of that specific country.
 
-## NORTH AMERICA
+This Statement was last updated on **May 21, 2015** , to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
 
-## ASIA
-
-## AUSTRALIA/PACIFIC
-
-## EUROPE
-
-## LATIN AMERICA
-
-## INTERNATIONAL
-
-This Statement was last updated on **February 13, 2014** , to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
+Drawers
 
 Types of Personal Information We Collect
+    
 
 The types of personal information that we collect include:
 
@@ -45,6 +36,7 @@ Occasionally, you may be requested to provide personal information about others 
 You may always choose what personal information (if any) you wish to provide to us. If you choose not to provide certain details, however, some of your transactions with us may be impacted.
 
 How We Use Personal Information
+    
 
 We may use personal information in a variety of ways, including through personal contact, via our Websites, through emails and correspondence, and through third parties, such as travel agents and other business partners. We use personal information for the purposes we have disclosed to you, or as permitted by law. In general we use personal information in order to:
 
@@ -77,11 +69,20 @@ We may use personal information in a variety of ways, including through personal
 
 
 
+Social Media
+    
+
+An App may permit you to log in from, or connect with, social media services to which you belong so that it is easy for you to share your experiences and to see the experiences of others. If you sign up for Marriott Rewards on [www.marriott.com](https://web.archive.org/default.mi) using your social media account, link your Marriott Rewards account to your social media account, or use certain other [www.marriott.com](https://web.archive.org/default.mi) social media features, we may access information about you via that social media provider in accordance with the provider's policies.
+
+The information collected from or about you by social media networks with which you connect the App is governed by the policies of those social media networks. Depending on the privacy settings of you and your friends, we may access information that you provide to a social media provider regarding your respective locations ("Location Data") to provide you with relevant content.
+
 Click to Chat
+    
 
 We use third party software to proactively initiate or offer online chat if we believe you would benefit from assistance. All information you enter via online chat may be associated to your email address and will be stored in our systems with any other information you provide and any transaction details.
 
 Web-enabled Mobile Device
+    
 
   * You can access Marriott.com from a web-enabled mobile device to find a hotel (including clicking to call the hotel), make, view or cancel a reservation or to enroll in Marriott and/or Ritz-Carlton Rewards.
   * If you have downloaded the application to your device such as a BlackBerry, iPad or iPhone you can take advantage of finding a hotel near you that is provided via Global Positioning System (GPS) technology. No personal information is retained to deliver this service. In addition, these applications will allow you to select one touch authentication if you would like to have your Marriott Rewards number and password remembered so that you do not need to enter them every time when you are using these devices to access Marriott.com.
@@ -89,10 +90,12 @@ Web-enabled Mobile Device
 
 
 Ritz-Carlton – Gold Standard Service
+    
 
 As part our commitment to Gold Standard service at our Ritz-Carlton branded properties our staff members occasionally record details of guest preferences and other personal information about our guests in order to provide a more personalized experience on future visits. This might include your meal or pillow preferences, anniversary dates or other things that make your stay more comfortable. This information is made available to our other properties around the world. If you wish to opt out of this program or have any preferences you would like us to make note of, please let us know at any time.
 
 Disclosure of Personal Information
+    
 
 We may disclose personal information in the following ways:
 
@@ -122,6 +125,7 @@ We may disclose your personal information in relation to the reorganization, sal
 Marriott and Ritz-Carlton will disclose personal information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Marriott and Ritz-Carlton guests, visitors, associates, or property (including our Websites), or to others.
 
 Cookies and IP Addresses
+    
 
 The Marriott Group and our third party marketing partners may use cookies, invisible pixels, local shared objects (i.e., persistent cookies) and web beacons to obtain information about Websites users. Cookies are small text files that are placed on a computer or mobile device when you visit a website or use an app. Our Websites may receive and store certain information automatically based on your browser settings, which may include your browser type and operating system, the web pages viewed, IP addresses or unique device identifiers associated with mobiles devices, and sites visited before or after visiting our Websites.
 
@@ -152,20 +156,18 @@ The Marriott Group and its third-party service providers use web beacons and pix
 
 If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
 
-  * www.allaboutcookies.org
-  * www.youronlinechoices.eu
-  * http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html
-
-
-
 Do Not Track Signals:   
-Some web browsers offer a "Do Not Track" ("DNT") signal that is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. We currently do not recognize DNT signals; however, as stated above, we do allow you to exercise some choice in the information collected by adjusting your browser’s cookie settings. As stated above, we also work with third parties that use tracking technologies on our Web sites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications. If you wish for more information about this practice and to understand your options, please visit http://www.aboutads.info.
+Some web browsers offer a "Do Not Track" ("DNT") signal that is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. We currently do not recognize DNT signals; however, as stated above, we do allow you to exercise some choice in the information collected by adjusting your browser’s cookie settings. As stated above, we also work with third parties that use tracking technologies on our Web sites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications. If you wish for more information about this practice and to understand your options, please visit http://www.aboutads.info .
 
 Beacons
+    
 
 You may enroll to receive special offers by agreeing to the use of beacon technology. Beacon technology may allow us to collect information about your location within participating hotels through your mobile phone or device’s Bluetooth or similar capabilities in combination with technology implemented by our properties. We will only gather these kinds of location information if you agree to share them with us by opting-in within the Marriott App (either during your initial login or later) to receive the special offers and by enabling these capabilities on your mobile device. Once you have opted-in to receive the Marriott special offers and consented to our gathering of location information, the Marriott App will continue to collect location information until you log off (it will gather location information if it is running in the background) or use your phone’s or other device’s setting to disable your mobile device’s applicable geolocation, GPS, Bluetooth or similar capabilities for the Marriott App.
 
+Drawers
+
 Children’s Privacy
+    
 
 Our Websites are not intended for children and we do not knowingly solicit or collect personal information from children. If we are notified or discover that a child under the age of 13 has submitted personal information to any of our Websites, we will take reasonable steps to delete the information. We do present information regarding The Marriott Kids program on our Websites for the reference of adults that are interested in activities at our locations for children.
 
@@ -177,43 +179,50 @@ Attn: Information Protection and Privacy Dept. 52/995.63
 United States of America
 
 Marketing Communications
+    
 
 Our intention is that you should only receive email communications that will be useful to you and that you want to receive, so we provide you the ability to define and modify your mailing preferences online at any time including unsubscribing from all marketing communications, offers and promotions and research surveys.
 
-You can unsubscribe from any of our email programs by visiting the unsubscribe page or by following the instructions in relation to opting out of future emails in any email you receive from us.
+You can [unsubscribe](https://web.archive.org/profile/email/unsubscribeChallenge.mi) from any of our email programs by visiting the unsubscribe page or by following the instructions in relation to opting out of future emails in any email you receive from us.
 
   
 You may also opt-out online of Marriott Rewards and The Ritz-Carlton Rewards emails by updating your Rewards account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.
 
 Security of Personal Information
+    
 
 We treat the personal information you provide to us as confidential and take reasonable steps, including standard industry safeguards to protection your personal information from accidental deletion or loss and unauthorized access, disclosure or modification. When you submit personal information to us via our Websites, it is transferred over a Secured Sockets Layer (SSL) connection, provided you are using a SSL enabled browser or device.
 
 Careers at Marriott
+    
 
 Marriott uses select private label databases and tools hosted by third parties on their Websites to collect personal information from individuals that wish to be considered for potential employment. Personal information you provide to us via these private label services is accessible and confidential to Marriott. By submitting your application and providing this personal information, you understand and agree that your personal information will be transferred to the United States and may also be transferred to additional countries, other than your country of origin, for consideration for employment.
 
 Marriott will not use your personal information for any purpose other than to allow you to conduct automated job searches or determine your qualifications for potential employment with Marriott. The third-party service providers located in the United States or United Kingdom are prohibited from using your personal information for any purpose other than collecting it on our behalf.
 
 California Residents
+    
 
 If you are a customer who resides in the State of California, you have the right to request from Marriott a list of third parties with whom we share personal information about you for their own direct marketing purposes during the previous calendar year. Although Marriott/Ritz-Carlton does not share personal information with unrelated third parties for their own direct marketing purposes, many of our hotels, which are separately owned or operated by franchisees of Marriott, are permitted to use the personal information they receive from Marriott to market the Marriott hotels that they franchise. If you would like to request information about the franchisees that may have obtained personally identifiable information about you during the immediately preceding calendar year, please send an email to [privacy@marriott.com](mailto:privacy@marriott.com) or letter to Marriott International, Inc., 10400 Fernwood Road, Dept. 52/995.63, Bethesda, MD 20817.
 
 Residents of the EEA and Switzerland
+    
 
-Marriott International, Inc. and The Ritz-Carlton Hotel Company, L.L.C. are established in the United States, and the servers upon which our site is hosted and on which hotel bookings are processed are located in the United States. The laws of the United States may differ from those of your country of residence and may not offer the same level of protection for personal information. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our European Union and Switzerland Privacy Statement as well as to our safe harbor European and Switzerland Privacy Statement.
+Marriott International, Inc. and The Ritz-Carlton Hotel Company, L.L.C. are established in the United States, and the servers upon which our site is hosted and on which hotel bookings are processed are located in the United States. The laws of the United States may differ from those of your country of residence and may not offer the same level of protection for personal information. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our [European Union and Switzerland Privacy Statement](https://web.archive.org/corporateinfo/euswissprivacy.mi) as well as to our safe harbor European and Switzerland Privacy Statement.
 
-Marriott’s managed and franchised properties are located around the world. As you would expect, where you book to stay in a hotel outside the country in which you live, personal data will be transferred to Marriott’s property manager or franchisee together with other affiliates and Authorized Licensees located in the country in which you are staying so that your reservation is fulfilled.
+Marriott's managed and franchised properties are located around the world. As you would expect, where you book to stay in a hotel outside the country in which you live, personal data will be transferred to Marriott's property manager or franchisee together with other affiliates and Authorized Licensees located in the country in which you are staying so that your reservation is fulfilled.
 
-Countries located outside the EEA and Switzerland do not have laws in place which provide the same level of protection for personally identifiable information as provided for in the EEA and Switzerland although such data is covered by Marriott’s own policies and procedures which are designed to ensure an adequate level of protection.
+Countries located outside the EEA and Switzerland do not have laws in place which provide the same level of protection for personally identifiable information as provided for in the EEA and Switzerland although such data is covered by Marriott's own policies and procedures which are designed to ensure an adequate level of protection.
 
 Dubai Financial Centre
+    
 
 In relation to personal data collected out of our Ritz-Carlton property in Dubai International Financial Centre, please note that this personal data may be transferred to our other properties in the United Arab Emirates and other jurisdictions which may not be regarded as adequately protecting personal data. When you check in at this property you expressly consent to such transfer.
 
 Request for Access to Personal Information/Questions or complaints
+    
 
-If after reviewing this Statement, you have any questions or privacy concerns please or would like to submit a request, send an email to the Marriott Information Protection & Privacy department at [privacy@marriott.com](mailto:privacy@marriott.com) or [privacy@ritzcarlton.com](mailto:privacy@ritzcarlton.com) or send a letter to:
+If after reviewing this Statement, you have any questions or privacy concerns or would like to submit a request, please send an email to the Marriott Information Protection & Privacy department at [privacy@marriott.com](mailto:privacy@marriott.com) or [privacy@ritzcarlton.com](mailto:privacy@ritzcarlton.com) or send a letter to:
 
 Marriott International, Inc.  
 Attn: Information Protection and Privacy Dept. 52/995.63  
