@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modelsforfun.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013173903id_/http%3A//www.redclouds.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelsforfun.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230113019id_/http%3A//www.redclouds.com/page/privacy-policy) for the most accurate reproduction.*
 
 # RedClouds - Privacy Policy
 
