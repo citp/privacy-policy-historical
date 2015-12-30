@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibc.ca privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609171755id_/http%3A//www.ibc.ca/on/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibc.ca privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231005152id_/http%3A//www.ibc.ca/on/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy
 
 **PRINCIPLE 1: ACCOUNTABILITY**  
 IBC is responsible for the personal information under its control. The IBC Chief Privacy Officer is accountable for the organization’s compliance with the principles set out in this document and all applicable provincial and federal privacy legislation. 
