@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the donjohnsonmotors.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419041731id_/http%3A//www.donjohnsonmotors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donjohnsonmotors.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230010927id_/http%3A//www.donjohnsonmotors.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy | Rice Lake | Rice Lake Buick Chevrolet GMC Dealer | Buick Chevrolet GMC Dealer Rice Lake | Don Johnson Motors
-
-### Notice of Privacy Policy
+# Privacy Policy
 
 By explaining our privacy policy to you we trust that this notice will allow you to better understand how we keep certain information private and secure while using it to serve you better. This notice is provided to you as required by the Federal Privacy Law and refers to our policies and practices effective on and after July 1st 2001.
 
@@ -31,7 +29,7 @@ We collect and use information about you from various sources. The amount and na
 2\. Information from our experience and our affiliated companies' experiences. Information about your transactions and account experience with us or our affiliated companies, such as parties to transactions, contract or lease balances, payment history, and communications and correspondence;  
 3\. Information from the experience of other parties. Information from other outside sources regarding their employment, credit or other relationships, account experience, or transactions with you, or verifying representations made by you, such as your employment history, credit balances, or your property or liability insurance coverage.  
 4\. Information from credit reports. Information supplied by consumer reporting agencies, such as information regarding your creditworthiness or credit history;  
-5\. Other general information. Other general information we obtain about you (such as demographic information) that is not assembled for the purpose of determining your eligibility for credit, insurance, employment or other products or services. 
+5\. Other general information. Other general information we obtain about you (such as demographic information) that is not assembled for the purpose of determining your eligibility for credit, insurance, employment or other products or services.
 
 ### SHARING INFORMATION WITH AFFILIATED COMPANIES
 
@@ -41,4 +39,4 @@ We may disclose to our affiliated companies all of the information we collect ab
 
 We may disclose any of the above five types of consumer information to credit bureaus and similar organizations, and otherwise when permitted by law. For example, this may include a disclosure in connection with a subpoena of similar legal process, a fraud investigation, recording motor vehicle registration and other documents in public records, an audit or examination, or the sale of your account to another financial institution. We may also share any of the above five types of consumer information outside of our affiliated companies if we have your consent, such as when you're requested to be contacted by other companies we work with. We may also share all five types of consumer information above with companies that work for us, possibly including some of our own affiliated companies, to perform services or functions on our behalf. These companies may include financial service providers such as banks, finance companies, and non-financial companies such as automobile manufacturers and data processing companies, and other organizations, such as nonprofit organizations that might provide educational, training, or certification services to businesses such as ours. We may also share the five types of consumer information above with companies that work for us to provide marketing and other services of with financial institutions with whom we have joint marketing agreements, such as banks or financing divisions of motor vehicle manufacturers. These companies act on our behalf and, within the time required by law, will be required by law, will be required by our policy to be contractually obligated to keep the information that we provide to them confidential and to use the information that we provide to them confidential and to use the information only to provide the services we've asked them to perform for us.
 
-**Thank you for reading this notice and learning about our policy.**
+ **Thank you for reading this notice and learning about our policy.**
