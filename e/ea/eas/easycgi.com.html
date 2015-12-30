@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easycgi.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607133834id_/http%3A//www.easycgi.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easycgi.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230061249id_/http%3A//www.easycgi.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -20,6 +20,49 @@
 				mywindow.self.focus();
 			}
 			// --></script>
+
+
+<script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.easycgi.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
 <script src="/generalAppC/scriptcat/a50896bb5a9fabceb903cea4897b30a9.1"></script>
 
 
@@ -58,7 +101,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -74,7 +121,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="master_header_login"><p><img class="master_header_login_key" src="/images/icons/ez-master-key.png" alt=" " style="margin-right: 10px;"><b>Customer Login:</b>&nbsp;<a href="/controlpanel/">Control Panel</a> | <a href="/mail/">WebMail</a></p></div>
 <div id="master_header_icons">
 <p class="master_header_call"><a href="/support/contact.bml">Have a question? Call us at 1-866-327-9244</a></p>
-<p class="master_header_chat"><a href="http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">24x7 Live Support, click to chat now.</a></p>
+<p class="master_header_chat"><a class="gtm_chat" href="#chat">24x7 Live Support, click to chat now.</a></p>
 </div>
 </div></div>
 <div id="master_nav"><div id="master_nav_fix"><ul>
@@ -88,7 +135,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="master_nav_shadow"></div>
 <div id="master_content" class="master_content"><table width="900" height="300" cellspacing="0" cellpadding="0"><tbody><tr>
 <td width="170" valign="top"><div id="nav_wrapper">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
