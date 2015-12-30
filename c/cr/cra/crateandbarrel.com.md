@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616223224id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230125219id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Crate and Barrel
 
@@ -66,7 +66,7 @@ We use a Service Provider to send emails that you have agreed to receive. Web co
 
 We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. You can opt out of this Website analysis tool by clicking here. 
 
-Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
+We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our Websites and stores, and your interaction with our products and services. They also may use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Provider and its service providers, including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
 
 Back to Top
 
@@ -190,4 +190,4 @@ Customer Service Department
 1860 W. Jefferson Avenue  
 Naperville, IL 60540-3918 
 
-_Last Updated, December 13th 2013_
+_Last Updated, October 5, 2015_
