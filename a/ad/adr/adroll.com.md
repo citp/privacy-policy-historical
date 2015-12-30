@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623212226id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044233id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AdRoll
+# Privacy Notice | AdRoll
 
 Last updated June 17, 2015  
 [View archived Privacy Policy](http://www.adroll.com/content/privacy-policy-archived)
@@ -56,7 +56,7 @@ Specifically, the AdRoll cookie we serve through the AdRoll platform for this pu
 We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
 
   * **You can opt-out of receiving targeted ads served by us:** You can opt out of receiving targeted ads served by us or on our behalf by clicking on the blue icon in the corner of the ads we serve or by clicking [here](https://app.adroll.com/optout/safari). Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again. Further, if you use multiple browsers or devices you will need to execute this opt out on each browser or device. If you opt-out we may collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
-  * **You can opt-out of receiving targeted ads served by us or other advertising companies:** AdRoll is also a member of the Network Advertising Initiative (NAI). You may use the NAI opt out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
+  * **You can opt-out of receiving targeted ads served by us or other advertising companies:** AdRoll is also a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct. You may use the NAI opt out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
 
 We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
 
