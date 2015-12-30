@@ -1,67 +1,65 @@
-> *The following text is extracted and transformed from the livableworld.org privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324062507id_/https%3A//livableworld.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livableworld.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230143109id_/http%3A//livableworld.org/privacy-policy) for the most accurate reproduction.*
 
-# Council for a Livable World: Privacy Policy
+# Privacy Policy | Council for a Livable World
 
-Privacy Policy
-
-Council for a Livable World is a national leader in the fight to protect your privacy on the Internet. www.clw.org, the website for the Council for a Livable World, is a forum for sharing news, information and resources about Council for a Livable World. Its Privacy Policy reflects his strong commitment to protecting your online privacy and any information you choose to share with us when you log on (we will track people who do not log on), giving you the high quality information, service, and content you should expect from Council for a Livable World and our campaign. Our Privacy Policy explains:
-
-1\. How we use information you provide 2. How we protect information you provide 3. How we personalize www.clw.org for you 4. How to unsubscribe, opt out, or correct your information 5. How we notify you about privacy policy changes 6. How to contact us
-
-A. How We Use Information You Provide
+#### 1\. How We Use Information You Provide
 
 We collect a variety of personal information, such as a name, address, telephone number, credit card information, bank account information, email address and/or IM address, or other information about those who register or volunteer on our site, make contributions through our site or use other functions or features on the site. We may obtain information about you from outside sources and add it to or combine it with the information we collect through this site. We use this information to operate this site, support the Council for a Livable World campaign, send you news and information about Council for a Livable World, and to credit those who are organizing support for Council for a Livable World. We will not sell this information to any third party, under any circumstances. We work closely with candidates, parties and allied like-minded organizations and may disclose selected user information to other campaigns or organizations for their use in campaign activities and other purposes.
 
-Online Contributions
+##### Online Contributions
 
 We are sometimes required to disclose information regarding our contributions to comply with campaign finance laws. For example, under Federal Election law, we are required to make periodic filings that provide the Federal Election Commission with information on each contributor: name, address, amount of contribution, date of contribution, employer, and occupation. For more information on the FEC, visit their website. To make a contribution online, we also ask for your credit card number and its expiration date.
 
-"Send to a Friend" Feature www.clw.org makes it easy for you to spread the word about Council for a Livable World with its "Send to a Friend" feature. When you use "Send to a Friend", we may store email addresses or any information about the people you contact.
+##### “Send to a Friend” Feature
 
-The www.clw.org Blog
+www.LivableWorld.org makes it easy for you to spread the word about Council for a Livable World with its “Send to a Friend” feature. When you use “Send to a Friend”, we may store email addresses or any information about the people you contact.
 
-We may provide a blog on which you can post comments and messages for others to read. We may collect technical information about your post, such as the IP address from which you posted, and associate this information with your messages. Even if messages are deleted, we may retain copies and attendant information indefinitely. When you post messages to the blog, certain registration information, such as your email address, may be available to the public. Also note that any personal information you include in the body of your message will be available to the public.
+##### The Chain Reaction Blog
 
-Children's Information
+On our blog, you may post comments and messages for others to read. We may collect technical information about your post, such as the IP address from which you posted, and associate this information with your messages. Even if messages are deleted, we may retain copies and attendant information indefinitely. When you post messages to the blog, certain registration information, such as your email address, may be available to the public. Also note that any personal information you include in the body of your message will be available to the public.
 
-We believe every precaution must be taken to protect children online. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we do not ask children under 18 for any information, nor do we knowingly collect personally identifiable information from children under 18.
+##### Children’s Information
 
-B. How We Protect Information You Provide
+We believe every precaution must be taken to protect children online. In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we do not ask children under 18 for any information, nor do we knowingly collect personally identifiable information from children under 18.
 
-www.clw.org uses industry standard security measures to protect against the loss, misuse, or alteration of the information under our control. Our server is located in a locked, secure environment, with a guard posted 24 hours a day. For legal and accounting purposes, contribution records and other user information may remain in our database indefinitely. Permission to access your information is granted only to you and persons who need to know that information to provide services to you. Although we make good faith efforts to store information collected by www.clw.org in a secure operating environment, we cannot guarantee complete security.
+#### 2\. How We Protect Information You Provide
 
-Links To Other Websites
+Www.LivableWorld.org uses industry standard security measures to protect against the loss, misuse, or alteration of the information under our control. Our server is located in a locked, secure environment, with a guard posted 24 hours a day. For legal and accounting purposes, contribution records and other user information may remain in our database indefinitely. Permission to access your information is granted only to you and persons who need to know that information to provide services to you. Although we make good faith efforts to store information collected by www.clw.org in a secure operating environment, we cannot guarantee complete security.
 
-This Privacy Policy covers www.clw.org, and its subdomains. These sites may link to third-party websites. Should you choose to visit those websites, please remember that we are not responsible for their content or privacy policies. We encourage you to read the privacy policies and review the practices of all websites you visit. Other Disclosure of Your Information
+##### Links To Other Websites
+
+This Privacy Policy covers www.LivableWorld.org, and its subdomains. These sites may link to third-party websites. Should you choose to visit those websites, please remember that we are not responsible for their content or privacy policies. We encourage you to read the privacy policies and review the practices of all websites you visit. Other Disclosure of Your Information
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when we have a good-faith belief release is appropriate to comply with the law (e.g., a lawful subpoena), to protect our rights or property, or to protect our donors and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 
-C. How We Personalize www.clw.org For You
+#### 3\. How We Personalize www.LivableWorld.org For You
 
-Cookies
+##### Cookies
 
-www.clw.org uses cookies to administer our site and provide a more tailored and user-friendly service to you. The cookie — a tiny text file — does not store passwords, credit card numbers or any type of personally identifiable information whatsoever. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your email address or any other personally identifiable information.
+www.LivableWorld.org uses cookies to administer our site and provide a more tailored and user-friendly service to you. The cookie — a tiny text file — does not store passwords, credit card numbers or any type of personally identifiable information whatsoever. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your email address or any other personally identifiable information.
 
-Server Log Files www.clw.org logs standard technical information, such as your IP address and the kind of browser you use. We log this information for troubleshooting purposes and to track which pages people visit in order to improve the site. We do not use log files to track a particular individual's use of www.clw.org.
+##### Server Log Files
 
-D. How to Unsubscribe, Opt Out, Or Correct Your Information
+www.LivableWorld.org logs standard technical information, such as your IP address and the kind of browser you use. We log this information for troubleshooting purposes and to track which pages people visit in order to improve the site. We do not use log files to track a particular individual’s use of www.clw.org.
 
-If you want to unsubscribe from mailing lists or opt out, review, update, or correct your information, you can do so at any time quickly and easily by logging on to www.clw.org, or by contacting us through any of the following methods:
+#### 4\. How to Unsubscribe, Opt Out, Or Correct Your Information
+
+If you want to unsubscribe from mailing lists or opt out, review, update, or correct your information, you can do so at any time quickly and easily by logging on to www.LivableWorld.org, or by contacting us through any of the following methods:
 
 By postal mail — send a letter with your full name and email address to:
 
 Council for a Livable World ATTN: unsubscribe www.clw.org 901 15th Street NW Washington, D.C. 20005
 
-E. How We Notify You About Privacy Policy Changes
+#### 5\. How We Notify You About Privacy Policy Changes
 
 We may revise and update this Privacy Policy if we change our practices, add new site features, or change existing site features. We will notify registered users by email and post notice to www.clw.org of any substantive changes to our Privacy Policy. Your use of www.clw.org following such changes constitutes your agreement with regard to information collected from you in the past and in the future.
 
-F. How To Contact Us
+#### 6\. How To Contact Us
 
 Questions regarding this Privacy Policy should be sent via postal mail to:
 
 Council for a Livable World ATTN: Privacy 322 4th Street, NE, Washington, D.C. 20002
 
-For general questions or comments, please complete our online contact form or call 202-543-4100 between the hours of 9 A.M. and 5 P.M. EST, Monday through Friday.
+For general questions or comments, please complete our [online contact form](http://livableworld.org/contact-us/ "Contact Us") or call 202-543-4100 between the hours of 9 A.M. and 5 P.M. EST, Monday through Friday.
 
-Last Revised: 19 September 2006
+Last Revised: 13 May 2015
