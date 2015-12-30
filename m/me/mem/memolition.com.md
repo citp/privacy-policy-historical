@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memolition.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611235449id_/http%3A//memolition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolition.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230023914id_/http%3A//memolition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | memolition
 
@@ -10,7 +10,7 @@ We are committed to protecting your privacy. We will endeavour to ensure that th
 
 We are the data controller for the Site.
 
- **Information we collect**
+**Information we collect**
 
 If you use the Site just to browse the content, we will not collect, store or process any personal data of yours.
 
@@ -18,21 +18,21 @@ If you wish to post a comment, you will need to be signed into a Facebook accoun
 
 If you submit material to us as a contributor, we will store your name, email address and any other personal information that you supply, for administrative and contact purposes. However, we do not require you to submit any personal information other than your name and email address. If we reject your contribution, we will store your name and email address for a period of up to one year, for archival purposes.
 
- **Cookies**
+**Cookies**
 
 This site uses cookies to distinguish you from other users of the Site. This helps us to provide you with an enhanced user experience when you browse the Site and improve the Sites functionality. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy. If you do not consent to our using cookies, you can set your browser preferences to block them, but this will affect your use of the Site.
 
- **The Data Protection Act**
+**The Data Protection Act**
 
 We are registered as required under the Data Protection legislation, and we will only process your personal information in line with the principles set out in the Act.
 
 We will process your personal data carefully and lawfully, and will only share them within our organisation and among our employees and appointed representatives, except where we have your explicit consent.
 
- **Security**
+**Security**
 
 We will do our best to protect your personal data using appropriate technical and organisational steps, and will store it on our database within a secure network. However, we cannot absolutely guarantee the security of your personal data.
 
- **Disclosure**
+**Disclosure**
 
 If we reasonably believe that we are required by law to disclose your personal information to a third party, whether in compliance with any applicable law or regulation or by court order or in connection with legal proceedings, we may do so.
 
@@ -42,7 +42,7 @@ We may use aggregate anonymised data and share it with third parties.
 
 We will not share your personal information with advertisers. However, some of the adverts you may see will be served from locations other than our own server, for example Google Adsense ads.
 
- **Purpose and Duration**
+**Purpose and Duration**
 
 We will use your personal data to:
 
@@ -69,17 +69,17 @@ We will use your personal data to:
 
 We will hold your personal information for as long as we need to in order to comply with our legal obligations. You may request for your personal information to be deleted at any time by emailing memolitioncom@gmail.com. Deleted content may persist in backup copies for up to one year, but will not be available to third parties.
 
- **General**
+**General**
 
 If you wish to find out what data we hold for you, or to have it amended or removed from our database and website, or if you have any questions about this privacy policy, you can contact memolitioncom@gmail.com at any time and we will do so. We may charge a fee for data subject requests.
 
 We reserve the right to change this privacy policy at any time. However, we will not change the way we use your personal information without telling you in advance and giving you the chance to opt out of or prevent the new use of your information.
 
- **COOKIE POLICY**
+**COOKIE POLICY**
 
 This website uses cookies to distinguish you from other users of this website. This helps us to provide you with an enhanced user experience when you browse this website and improve this websites functionality.
 
- **What are cookies?**
+**What are cookies?**
 
 Cookies are small text files that are sent to your computer or mobile device when you visit a site or page. They help the site to recognise your device on future visits.
 
