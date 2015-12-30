@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spicebaby.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406074337id_/http%3A//www.spicebaby.com/spicebaby-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicebaby.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222340id_/http%3A//www.spicebaby.com/spicebaby-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpiceBaby
-
-[Home](http://www.spicebaby.com/) Privacy Policy
+# Privacy Policy - Spice Baby
 
 This privacy policy sets out how Spicebaby.com uses and protects any information that you give while using www.spicebaby.com
 
@@ -12,7 +10,7 @@ Spicebaby.com may change this policy from time to time by updating this page. Yo
 
 ### What we collect
 
-We may collect the following information: 
+We may collect the following information:
 
   * contact information including email address
   * demographic information such as postcode, preferences and interests
@@ -22,11 +20,13 @@ We may collect the following information:
 
 ### What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+    * We may use the information to improve our products and services.
+    * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+    * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
 
 ### Security
 
@@ -56,11 +56,10 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-    * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-    * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
-    * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+      * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+      * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+      * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-
-
