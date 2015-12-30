@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428054936id_/http%3A//www.caterer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220053id_/http%3A//www.caterer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
+
+We are updating our Privacy Policy on 1 December. To view our new Privacy Policy, please [visit this link.](http://www.caterer.com/privacy-policy-dec-2015)
+
+### Privacy Policy
 
 At Caterer.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
 
@@ -8,7 +12,7 @@ You can remove any of the information that Caterer.com stores about you, at any 
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed. 
 
-Privacy policy update (Last updated 4 Dec 2014) 
+Privacy policy update (Last updated 13 July 2015) 
 
 ### Registration details
 
@@ -22,7 +26,7 @@ When you complete your Caterer.com profile, including your CV, it can be made av
 
 Some of our customers may be located in countries outside the European Economic Area. 
 
-When you 'apply online', we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. It does not form part of our Caterer.com candidate database and cannot be searched or accessed by Caterer.com customers. You can delete your 'My Caterer' account at any time. Your CV can only be viewed by a Caterer.com customer if you have consented to this within the profile section. 
+When you 'apply online', we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. When your profile is searchable your application activity (number of applications, job titles, locations & salaries) will be visible to Caterer customers. Caterer does not verify the names of organisations you applied to. We will respect the choices you make to limit sharing or visibility settings in your “My Caterer” account. You can delete your 'My Caterer' account at any time, make your profile anonymous or choose to not make your profile searchable. Your CV can only be viewed by a Caterer.com customer if you have consented to this within the profile section.
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. 
 
