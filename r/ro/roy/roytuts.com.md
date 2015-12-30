@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roytuts.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629064010id_/http%3A//www.roytuts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roytuts.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221232id_/http%3A//www.roytuts.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Roy Tutorials
+# Privacy – Roy Tutorials
 
 At [www.roytuts.com](http://www.roytuts.com/ "Web Tutorials | One Stop Solution for Web Programming") I am committed to safeguarding and preserving the privacy of my visitors.
 
