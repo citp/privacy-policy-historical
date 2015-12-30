@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the indiacarnews.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608120936id_/http%3A//www.indiacarnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacarnews.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230122411id_/http%3A//www.indiacarnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - | India Car News
-
-##### Privacy Policy
+# Privacy Policy -
 
 IndiaCarNews.com (“Website”) values its readers and ensures to protect privacy of personal information of our readers. If in case we use personal information of our readers we make sure it has been done in a protected manner and readers are notified proactively.
 
