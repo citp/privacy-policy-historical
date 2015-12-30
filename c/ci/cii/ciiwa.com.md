@@ -1,80 +1,65 @@
-> *The following text is extracted and transformed from the ciiwa.com privacy policy that was archived on 2015-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150114051409id_/http%3A//www.ciiwa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciiwa.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230021609id_/http%3A//ciiwa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ~ Ciiwa
+# Privacy Policy | Best & Honest Reviews
 
-**PLEASE READ THIS CAREFULLY**
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by reesin.com (collectively, “Services”) (”Authorized Customers”).
 
-Ciiwa.com (the Site) provides articles, a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
+“Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
- **THE PERSONAL INFORMATION WE COLLECT**
+What Personally Identifiable Information is collected?
 
-It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: 
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-  1. Conform to the edicts of the law or comply with legal process served on us;
-  2. Protect and defend our rights or property;
-  3. Act under exigent circumstances to protect the personal safety of Users or the public;
-  4. To prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or
-  5. Fix or debug problems with our servers/software/service.
+What organizations are collecting the information?
 
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
+How does the Site use Personally Identifiable Information?
 
-When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.  
-As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
- **HOW WE USE PERSONAL INFORMATION**
+With whom may the information may be shared?
 
-Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
- **PRIVACY POLICY AND CONSUMER EDUCATION**
+How is Personally Identifiable Information stored?
 
- **Children’s Privacy**
+Personally Identifiable Information collected by reesin.com is securely stored and is not accessible to third parties or employees of reesin.com except for use as indicated above. TrafficAgentServer 1.01
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact support@ciiwa.com, titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
- **Consumer Education Related to Social Networking**
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at office (ad) reesin (dot) com
 
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
+Are Cookies Used on the Site?
 
-  * http://οnguardοnline·gοv/sοcialnetwοrking·html [[link](http://onguardonline.gov/socialnetworking.html)]
-  * http://οnguardοnline·gοv/sοcialnetwοrking_yοuth·html [[link](http://onguardonline.gov/socialnetworking_youth.html)]
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
+How does reesin.com use login information?
 
+reesin.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
- **OTHER INFORMATION/LOGGING AND COOKIES**
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+reesin.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.
 
-We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use “non-identifying information” (which will not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit Network Advertising Initiative (netwοrkadvertising·οrg) and read their article regarding [Opt Out of Behavioral Advertising](http://www.networkadvertising.org/managing/opt_out.asp "Opt Out of Behavioral Advertising").
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
- **INFORMATION SHARING AND DISCLOSURE**
+How does the Site keep Personally Identifiable Information secure?
 
- _Members/Authors._  
-In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.  
-Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
- _Aggregate Information and Non-Identifying Information._  
-We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
- _Service Providers._  
-We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your non-identifying personal information or log data (cookies) only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info (ad) ciiwa (dot) com
 
- **CHANGING OR DELETING YOUR INFORMATION**
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-All members/authors may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting info (ad) art–job (dot) com. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
- **SECURITY**
+What happens if the Privacy Policy Changes?
 
-We are concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
- **INTERNATIONAL TRANSFER**
+Links:
 
-Your “non-identifying” personal information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
- **LINKS TO OTHER SITES**
-
-The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
- **VIOLATIONS AND COMMENTS**
-
-Please report any violations of the TOS to support@ciiwa.com, titled : Abuse; or make any comments to support@ciiwa.com.
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
