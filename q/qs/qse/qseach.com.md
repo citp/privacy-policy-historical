@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qseach.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404203935id_/http%3A//www.qseach.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qseach.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121328id_/http%3A//www.tecno.im/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,7 @@ By visiting or using the Website or Services in any manner, you acknowledge that
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](https://web.archive.org/about/termsofservice). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [contact@qseach.com](mailto:contact@qseach.com).
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our [Terms of Use](https://web.archive.org/about/termsofservice). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [contact@tecno.im](mailto:contact@tecno.im).
 
 We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below.
 
@@ -20,7 +20,7 @@ We gather various types of Personal Information from our users, as explained mor
 
 We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, phone number, browser information, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us, you understand some content and/or information in those accounts ("Third Party Account Information") may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
 
-If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Services. Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by contaction us at [contact@qseach.com](mailto:contact@qseach.com). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Services. Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by contaction us at [contact@tecno.im](mailto:contact@tecno.im). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
 #### B. Information Collected Automatically:
 
@@ -81,7 +81,7 @@ Through your account settings, you may access, and, in some cases, edit or delet
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [contact@qseach.com](mailto:contact@qseach.com).
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [contact@tecno.im](mailto:contact@tecno.im).
 
 You are entitled to ask us for a notice identifying:
 
@@ -92,12 +92,12 @@ You are entitled to ask us for a notice identifying:
 
 
 
-If you a would like a copy of this notice, please submit a written request to [contact@qseach.com](mailto:contact@qseach.com) together with documentation showing that you are the person in question .
+If you a would like a copy of this notice, please submit a written request to [contact@tecno.im](mailto:contact@tecno.im) together with documentation showing that you are the person in question .
 
 #### What choices do I have?
 
   * You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
-  * You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at [contact@qseach.com](mailto:contact@qseach.com). Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
+  * You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at [contact@tecno.im](mailto:contact@tecno.im). Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
 
 
@@ -107,6 +107,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### VIII. Questions or concerns
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [contact@qseach.com](mailto:contact@qseach.com) , and we will try to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [contact@tecno.im](mailto:contact@tecno.im) , and we will try to resolve your concerns.
 
 This Privacy Policy was last modified and made effective on February 22nd 2013.
