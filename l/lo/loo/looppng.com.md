@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looppng.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629113412id_/http%3A//www.looppng.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looppng.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230232037id_/http%3A//www.looppng.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loop PNG
 
@@ -51,6 +51,6 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.  
 The Privacy Statement was updated on 14 November, 2014.
 
-  * 59 reads
+  * 273 reads
 
 
