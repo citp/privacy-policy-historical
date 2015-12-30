@@ -1,106 +1,55 @@
-> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512091605id_/http%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230122829id_/http%3A//www.screencast-o-matic.com/privacy) for the most accurate reproduction.*
 
 # Screencast-O-Matic: Privacy Policy
 
-Screencast-O-Matic and any parent companies and their affiliates (collectively, "Screencast-O-Matic") respect the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. Screencast-O-Matic has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this Screencast-O-Matic Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
+## Screencast-O-Matic Privacy Policy
 
-We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
+This Privacy Policy is a part of our Terms of Service ("TOS"), and describes how we collect, use and handle your information when you use our Services ("TOS" and other capitalized terms are used as defined in the TOS). We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our Services. 
 
-Privacy Policy
+**Information You Provide**
 
-Like many websites, we gather information about how visitors use this Website. In general, you can visit many of the web pages on this Website without telling us who you are or revealing any personal information about yourself. We, however, may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics (including, but not limited to, browser version, pages requested and pages visited), but you will remain anonymous unless you provide us with personal information during your visit to this Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.
+We collect and use the following information to provide, improve, promote, and protect our Services and to offer effective advertising, which helps us keep most of our Services free: 
 
-We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf. These companies may collect personal informationabout your visits to this Website and your interaction with our communications, including advertising.
+Account. We may ask you to provide, and if provided will associate with your account, information like your name, email address, phone number, payment info, and physical address. Some of our services let you access your accounts and your information with other service providers. You can modify your account information while logged in by clicking on your username in the global navigation bar at the top of the screen. 
 
-In addition to anonymous information, we also collect personal information from you at this Website when you voluntarily submit it to us. We request personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, and when necessary, credit card information) when you:
+Services. When you use our Services to upload Your Content, we store, process and transmit Your Content and related information (for example, title and description). Pro Users have the option to password protect their screencasts from public viewing. If you do not select the paid Pro service, Your Content may be available to and viewable by the public, including other users. We also collect anonymous usage statistics from our Software. 
 
-* Complete a registration, survey, application or other form;  
-* Purchase a product or service from us or from one of our vendors, suppliers or other agents;  
-* Sign-up to receive email newsletters or other correspondence;  
-* Participate in a promotion, contest, sweepstakes or similar promotional activity;  
-* Submit materials to our Website;  
-* Request a catalog or other materials from us; and/or  
-* Request e-mail, fax, mail, or telephone support or services.
+Email Communications: We may receive a confirmation when you open an email from us. We use this confirmation to improve our Services, including customer service. 
 
-We also collect information about your activities on and through this Website from our third party business partners, suppliers, vendors and other agents.
+Usage. We collect information from and about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, the web page you visited before coming to our sites, and identifiers associated with your devices. Your devices (depending on their settings) may also transmit location information to the Services. We may use this usage- and device-related information in order to provide and improve the Services. 
 
-You may choose not to provide us with any personal information. In such event, you can still access and use many portions of this Website; however, you will not be able to access and use those portions of this Website or the services available on or through this Website that require your personal information.
+Cookies and other technologies. We use technologies like cookies and pixel tags to provide, improve, protect and promote our Services. For example, cookies help us with things like remembering your username for your next visit, understanding how you are interacting with our Services, and improving them based on that information. You can set your browser to not accept cookies, but this may limit your ability to use the Services. 
 
-Using Information
+You may choose not to provide us with any personal information. In such event, you can still access and use many portions of the Services; however, you will not be able to access and use those portions of the Services that require your personal information. 
 
-We may use the information we collect to:
+**Information Sharing**
 
-* Customize and/or personalize your communications, surfing, viewing and/or shopping experience;  
-* Better respond to your customer service inquiries;  
-* Communicate with you about your purchase, account information, or customer service needs;  
-* Communicate with you about our products and events, and for other promotional purposes;  
-* Improve our business;  
-* Administer contests, promotions, surveys or other website features;  
-* Provide technical support to you; and  
-* Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.
+We may share information as discussed below, but we will not sell or rent your information to 3rd parties 
 
-Sharing Information
+Our ability to provide free content and services depends on advertising. We use advertising on our site, for example on pages that you use to embed uploaded videos for viewing. Some of our ads are displayed based on the page visited, but some advertisements that appear on the Screencast-O-Matic website are targeted to you based on your interests and other information we have about you. For example, we utilize interest-based advertising ("IAB") services offered by Google, Inc. You can learn more about IAB, and opt out of targeted ads offered by many IAB service providers, at the National Advertising Initiative Consumer Opt-Out webpage, located at <http://www.networkadvertising.org/choices>
 
-Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.
+Others working for Screencast-O-Matic. Screencast-O-Matic uses certain trusted third parties to help us provide, improve, protect, and promote our Services. These third parties will access your information only to perform tasks on our behalf and in compliance with this Privacy Policy. 
 
-We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Screencast-O-Matic; the due diligence in connection with a potential sale of Screencast-O-Matic; any bankruptcy, insolvency or liquidation of Screencast-O-Matic, or in other similar circumstances.
+We may disclose your information to third parties, including government officials, if we determine that such disclosure is reasonably necessary to (a) comply with the law; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of Screencast-o-matic or our users; or (d) protect Screencast-o-matic's property rights. 
 
-For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting Screencast-O-Matic in performing such services. Without limiting the foregoing, these third parties may provide Screencast-O-Matic with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it.
+We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever. 
 
-We also may provide your personal information to other Screencast-O-Matic-affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever.
+**Information Protection**
 
-We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others. rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
+Security. Screencast-O-Matic maintains reasonable security measures to help protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure. 
 
-We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.
+Chat Rooms and Forums: The Services may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. Screencast-O-Matic cannot safeguard the privacy of personal information that is disclosed online in this manner. 
 
-Protecting Your Information
+Other Websites: When using the Services, you may be directed to other third party websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Screencast-O-Matic has no control over such third party websites, nor over how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Screencast-O-Matic is not responsible or liable for the conduct, policies or actions of the owners of such third party websites or the content displayed on these websites. Any third party websites are linked to the Services only for your convenience and you access them at your own risk. 
 
-We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.
+**Where Information is Kept**
 
-We use commercially reasonable efforts to safeguard and secure the transmission of your personal information from your computer to our computers. When you place orders or access your personal information, we offer the use of a secure server. To the extent you select the secure server method and your browser supports such functionality, all credit card information you supply is transmitted via Secure Socket Layer (SSL) technology.Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
+To provide you with the Services, we may store, process and transmit information in locations around the world - including those outside your country. Information may also be stored locally on the devices you use to access the Services. 
 
-To help protect your computer and personal information, make sure you have current anti-virus and firewall software installed on your computer and update such software on a regular basis. Also, please review your credit card statement carefully and verify that all transactions are authorized and report any discrepancies immediately to your credit card company.  
-Cookies
+**Changes**
 
-This Website uses cookies. A cookie is a small, removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on this Website and allow us to enhance, facilitate and personalize your online surfing and shopping experience. For example, we use cookies to:
+We may revise this Privacy Policy from time to time, with or without notice to you, by posting a copy of the most current version on our website and/or making it available through the Services. You are responsible for reviewing the Privacy Policy, and you will be deemed to have agreed to any modification or amendment to the Privacy Policy by your decision to continue to use or access the Services after the date on which the revised Privacy Policy is posted or made available through the Services. 
 
-* Recognize you when you return to this Website;  
-* Present relevant content to you when you visit this Website;  
-* Analyze visitor behavior; and  
-* Facilitate other similar type of activities.
+**Contact**
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won't have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability. However, you can still place orders over the telephone by contacting our customer service center at feedback@screencast-o-matic.com.
-
-Children's Online Privacy
-
-We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information.
-
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so at feedback@screencast-o-matic.com.
-
-Chat Rooms and Forums
-
-This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Screencast-O-Matic cannot safeguard the privacy of personal information that is disclosed online in this manner.
-
-Other Websites
-
-When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Screencast-O-Matic may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Screencast-O-Matic is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk.
-
-Unsubscribing, Removing or Modifying Your Information
-
-You may unsubscribe from receiving emails, and other correspondence from us including, but not limited to, faxes and U.S. postal service mail, at any time by using the link, or by contacting us using the information, included at the bottom of each email communication. You may also unsubscribe by sending us an email at feedback@screencast-o-matic.com.
-
-In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement, we may retain in our files information you have requested to remove. Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
-
-We reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
-
-Terms and Conditions of Use
-
-Screencast-O-Matic has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein.
-
-Questions and Feedback
-
-We may be reached via email at feedback@screencast-o-matic.com
-
-We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Screencast-O-Matic or this Website.
-
-If you feel that we are not following our stated Privacy Policy, you may also contact state or local chapters of the Better Business Bureau, your state or local consumer protection office, or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or at http://www.ftc.gov/ftc/complaint.htm.
+Have questions or concerns about Screecast-O-Matic, our Services and privacy? Contact us at privacy@screencast-o-matic.com. 
