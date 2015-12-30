@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511234058id_/http%3A//www.birminghampost.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215027id_/http%3A//www.birminghampost.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Birmingham Post: Business news, local news, expert opinion
 
