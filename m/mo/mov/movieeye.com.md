@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050742id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215848id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contact Any Celebrity ::
 
@@ -70,3 +70,121 @@ West Hollywood, CA 90069-4507
 **Safe & Secure Online Transactions**
 
 Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place including state-of-the-art encryption to ensure that our transaction process is safe and that our customers’ information is secure.
+
+## 5-Minute Celebrity Contacts Database Demo:
+
+## **[Activate Your FREE 7-Day Trial!](http://contactanycelebrity.com/join)**
+
+Free 7-Day Full Trial 
+
+Celebrity Contacts Database 
+
+USPS-Verified Mailing Addresses 
+
+Representation Email Addresses 
+
+Unlimited Celebrity Searches 
+
+59,200+ Celebrities & Public Figures 
+
+14,000+ Representatives 
+
+Agent, Manager, Publicist & Attorney 
+
+7,300+ Entertainment Companies 
+
+Private Online Database 
+
+Dynamic Lookup Technology 
+
+Lightning-Fast Hosted by Amazon 
+
+Cross-Referenced Results 
+
+Daily Database Updates 
+
+VIP Member Concierge 
+
+Free Research Requests 
+
+Postage Refunds 
+
+Celebrity Causes Database 
+
+Free E-Books: 
+
+Celebrity Leverage 
+
+Help From Hollywood 
+
+Secrets to Contacting Celebrities 
+
+100% Satisfaction Guarantee 
+
+Monthly Insider Expert Teleseminars 
+
+Cancel Anytime 
+
+Priority VIP Service 
+
+Best Rate - No Monthly Charges
+
+Monthly (Basic)
+
+$29.97
+
+month
+
+Free 7-Day Full Trial 
+
+Celebrity Contacts Database 
+
+USPS-Verified Mailing Addresses 
+
+Representation Email Addresses 
+
+Unlimited Celebrity Searches 
+
+59,200+ Celebrities & Public Figures 
+
+14,000+ Representatives 
+
+Agent, Manager, Publicist & Attorney 
+
+7,300+ Entertainment Companies 
+
+Private Online Database 
+
+Dynamic Lookup Technology 
+
+Lightning-Fast Hosted by Amazon 
+
+Cross-Referenced Results 
+
+Daily Database Updates 
+
+Member Concierge 
+
+Free Research Requests 
+
+Postage Refunds 
+
+Celebrity Causes Database 
+
+Free E-Books: 
+
+Celebrity Leverage 
+
+Help From Hollywood 
+
+Secrets to Contacting Celebrities 
+
+100% Satisfaction Guarantee 
+
+Monthly Insider Expert Teleseminars 
+
+Basic Support 
+
+Cancel Anytime
+
+#### [Contact 59,000+ Celebrities & Public Figures Now!](http://contactanycelebrity.com/join)
