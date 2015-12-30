@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the praxised.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207172503id_/http%3A//praxised.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praxised.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230234159id_/http%3A//praxised.com/privacy) for the most accurate reproduction.*
 
 # Praxis Ed » Privacy
 
@@ -6,9 +6,9 @@
 
 ### Email Address Privacy Guidelines
 
-Praxis Education (PraxisEd.com) members sent indiscriminately to block mail from a third party posted on this website, email address, email, or other technological collection program collected by the device to be used if it rejected _criminally punishable_ offense information to confirm that.
+Westbridge Education LLC (PraxisEd.com) members sent indiscriminately to block mail from a third party posted on this website, email address, email, or other technological collection program collected by the device to be used if it rejected _criminally punishable_ offense information to confirm that.
 
-Praxis Education (weeks) to operate in the PraxisEd.com (PraxisEd.com referred to below) to protect your personal information very seriously, and users PraxisEd.com services (collectively "Praxis Services "or" Praxis "referred to) while using the online PraxisEd.com to protect the personal information you provide is committed. This Communications Privacy Act, the Telecommunications Business, Information Network Usage beopryuldeung regarding information and communication service providers to comply with applicable laws and regulations on privacy established by Ministry of Information and privacy guidelines are. Privacy Policy Through PraxisEd.com users to provide personal information for any purpose and are being used in a way to protect your privacy will be known whether any action is taken.
+Westbridge Education LLC (weeks) to operate in the PraxisEd.com (PraxisEd.com referred to below) to protect your personal information very seriously, and users PraxisEd.com services (collectively "Praxis Services "or" Praxis "referred to) while using the online PraxisEd.com to protect the personal information you provide is committed. This Communications Privacy Act, the Telecommunications Business, Information Network Usage beopryuldeung regarding information and communication service providers to comply with applicable laws and regulations on privacy established by Ministry of Information and privacy guidelines are. Privacy Policy Through PraxisEd.com users to provide personal information for any purpose and are being used in a way to protect your privacy will be known whether any action is taken.
 
 Privacy Policy PraxisEd.com on the first screen by the website users to always easier to see is action.
 
@@ -34,7 +34,7 @@ Second, it provides PraxisEd.com if you order a personalized book you need addit
 
 PraxisEd.com your payment as specified above, for your funnel, and shipping and your social security number, credit card number and address, and 3rd party (baesongeopche and billing agencies, etc.) can provide.
 
-### 3\. From Praxis Education to collect personal information items and collection methods
+### 3\. From Westbridge Education LLC to collect personal information items and collection methods
 
 Praxis is a membership service for users to sign up as members for the service provider of essential information on-line input is received. Sign up to receive essential information at the time of the name, social security number, email address, mailing address, is his number. In addition to providing quality service users can enter optional information as a denial of information or receiving mail, referral ID, and enter the mobile number has been.
 
@@ -42,7 +42,7 @@ Praxis within the statistical surveys or sweepstakes at the event or events, and
 
 Praxis advertisers to display ads on search and links to various directories of the Web site users can identify you personally about your personal information will be collected.
 
-### 4\. Praxis Education to collect and use personal information entry period
+### 4\. Westbridge Education LLC to collect and use personal information entry period
 
 As a member of Praxis users while using the services provided PraxisEd.com holds users' personal information and providing services to continue to use. However, under the "6. Users of their personal information management (access, correction, deletion, etc.) concerning "the procedures and methods described in the User to delete or modify the information yourself, if you cancel the request can not be played entirely on the disk by means of and remove the future is impossible to view or use is processed.
 
@@ -52,7 +52,7 @@ PraxisEd.com revoked or deleted by the user's request personal information for a
 
 During this period, to prevent the reactivation of the Social Security number and identity will be held.
 
-### 5\. Praxis Education to collect and share information and provide entry
+### 5\. Westbridge Education LLC to collect and share information and provide entry
 
 PraxisEd.com users' personal information "2. The purpose of the collection and use personal information "within the scope of the notified use, and users without the prior written consent of the range or in principle, the use of your personal information is not disclosed on the outside. However, with the exception of the following.
 
@@ -102,13 +102,13 @@ PraxisEd.com services to improve users' personal information can be handled by o
 
 ### 10\. Privacy Policy Suggestions and complaints concerning
 
-PraxisEd.com privacy with respect to users' opinions and complaints procedures and how to handle is making. Users listed in the bottom of the "12. Praxis Education of personal information manager and staff member - Name and Contact "section to see through the telephone or mail to report the complaint and report users' information against PraxisEd.com enough to respond quickly and will. Or government invasions of personal privacy by installing a call center in operation (http://www.cyberprivacy.or.kr/, call 02-1336, PC communications go eprivacy) may apply to the processing of complaints
+PraxisEd.com privacy with respect to users' opinions and complaints procedures and how to handle is making. Users listed in the bottom of the "12. Westbridge Education LLC of personal information manager and staff member - Name and Contact "section to see through the telephone or mail to report the complaint and report users' information against PraxisEd.com enough to respond quickly and will. Or government invasions of personal privacy by installing a call center in operation (http://www.cyberprivacy.or.kr/, call 02-1336, PC communications go eprivacy) may apply to the processing of complaints
 
 ### 11\. Concerning children's privacy
 
 An obstacle to children under the age of 14 on-line before sending personal information to others, collect and use personal information for purposes familiarize yourself with the consent of the legal representative should be. Join this PraxisEd.com Terms or terms of service and explain the above, and through the case of registration of parents to determine whether you have received consent. 10,014 children under the age of the child's personal information, the legal representative of access, correction, withdrawal of consent may be requested, if such a request PraxisEd.com will take the necessary measures without delay.
 
-### 12\. Praxis Education personal information manager and a member of staff, names and contact details
+### 12\. Westbridge Education LLC personal information manager and a member of staff, names and contact details
 
 User ID associated with your personal information (ID) maintain the security of the password of the user himself is responsible. To others, careful not to spill your password, please. In particular, "8. Privacy-related technical - administrative measures "in public places, as set forth in Section when you are connected online, pay extra attention. PraxisEd.com opinions and complaints about personal information that is responsible for handling personal information manager and staff to assign, and contacts are listed below.
 
