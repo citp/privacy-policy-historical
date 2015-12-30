@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234922id_/http%3A//www.besthealthmag.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230024103id_/http%3A//www.besthealthmag.ca/Privacy) for the most accurate reproduction.*
 
-# Privacy | Best Health
+# Privacy | besthealthmag.ca
 
 Unless otherwise indicated, the policies below are applicable to www.readersdigest.ca, www.ourcanada.ca and www.besthealthmag.ca, all of which are operated by The Reader's Digest Association (Canada) ULC. 
 
