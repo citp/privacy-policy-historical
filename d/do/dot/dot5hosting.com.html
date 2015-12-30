@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dot5hosting.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607214110id_/http%3A//www.dot5hosting.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dot5hosting.com privacy policy that was archived on 2015-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231001955id_/http%3A//www.dot5hosting.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -14,7 +14,50 @@
 <link rel="apple-touch-icon" href="http://images.dot5hosting.com/icons/apple-touch-icons/apple-touch-icon-dot5hosting.png">
 <link rel="image_src" href="http://images.dot5hosting.com/icons/favicons/facebook-dot5.jpg">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/dot5hosting_csscomponent.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
+
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+window.V = window.V || {};
+V.cart = V.cart || {
+	items: []
+};
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.dot5hosting.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 375);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
+</script>
+
+
+<script src="/generalAppC/scriptcat/87ae207201c55b84c5270851159260e1.1"></script>
 
 
 
@@ -52,7 +95,11 @@
 
 
 
-<script>dataLayer = [];</script>
+
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
 
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -64,12 +111,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div id="master_container">
 <div id="master_header">
-<form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.dot5hosting.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1433713270"><input type="hidden" name="__token_val__" value="30c7c7ec6bd4538227f6e14c893911c5">
+<form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.dot5hosting.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1451521195"><input type="hidden" name="__token_val__" value="1bf5a3e8b1028978a4e61062fa478d1b">
 <div id="top"><table width="100%" cellpadding="0" cellspacing="0" height="67"><tbody><tr>
 <td valign="middle"><a href="/"><img border="0" src="http://images.dot5hosting.com/logos/d5_logo.jpg"></a></td>
 <td align="center" background="http://images.dot5hosting.com/d5_archive/top_bg.jpg"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.dot5hosting.com"><img width="65" height="37" border="0" src="https://images.scanalert.com/meter/www.dot5hosting.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" class="hackersafe"></a></td>
 <td width="346" valign="bottom" background="http://images.dot5hosting.com/d5_archive/top_bg.jpg"><table width="100%" height="100%" cellpadding="0" cellspacing="0">
-<tbody><tr><td align="right" valign="middle" style="padding-right:5px"><a href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;" style="cursor:help"><img src="/images/d5_archive/dot5_pnum.gif" border="0"></a></td></tr>
+<tbody><tr><td align="right" valign="middle" style="padding-right:5px"><a class="gtm_chat" href="#chat" style="cursor:help"><img src="/images/d5_archive/dot5_pnum.gif" border="0"></a></td></tr>
 <tr><td height="29" align="right" background="http://images.dot5hosting.com/backgrounds/dot5_signinbg.gif"><table class="norm"><tbody><tr>
 <td align="right"><img src="/images/text/sm_name.gif"></td>
 <td><input maxlength="35" size="12" name="credential_0" class="formfield"></td>
@@ -97,7 +144,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <table width="100%" cellpadding="0" cellspacing="0" class="norm" id="master_content"><tbody><tr>
 <td width="195" style="vertical-align:top"><div id="master_navigation">
-
 <div class="navblock">
 <h3><a href="/legal/index.bml">Terms of Service</a></h3>
 <ul>
