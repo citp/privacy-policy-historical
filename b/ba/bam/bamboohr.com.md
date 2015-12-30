@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120357id_/http%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230015028id_/http%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
 
 # BambooHR Privacy Policy
 
@@ -91,4 +91,4 @@ BambooHR will retain personal data we process on behalf of our Clients for as lo
 
 Schedule Demo 
 
-](https://web.archive.org/live-demo.php)
+](https://web.archive.org/live-demo)
