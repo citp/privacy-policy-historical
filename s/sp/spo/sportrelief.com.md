@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617043835id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230074421id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sport Relief
 
@@ -173,7 +173,25 @@ We use a service called Google Analytics which collects information about how vi
 
 Google Analytics also provides high level visitor demographics and interests data taken from the Google Ads Display Network. These additional information helps us better understand our audience and improve the services we offer.
 
-For more information about these cookies, please visit: <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>  
+For more information about these cookies, please visit [this link](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html)  
+  
+ _Yieldify_  
+  
+---  
+  
+Cookie name
+
+| 
+
+Cookie description  
+  
+yieldify
+
+| 
+
+We use a web analytics tool called Yieldify, which takes an anonymous sample of users and records their actions on the website (e.g. mouse clicks). The service is anonymous and does not collect personal information. Yieldify helps us identify areas of the website in which we can improve the user journey.
+
+For more information, visit [this link](http://yieldify.com/gb).  
   
 #### Children
 
