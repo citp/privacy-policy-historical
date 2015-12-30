@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyedition.press privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010450id_/http%3A//dailyedition.press/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyedition.press privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231734id_/http%3A//dailyedition.press/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DailyEditionPress
 
@@ -80,6 +80,25 @@ The website contains links to other websites. We are not responsible for the pri
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(11) Contact**
+**(11) Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We have implemented the following:  
+• Remarketing with Google AdSense  
+• Google Display Network Impression Reporting  
+• Demographics and Interests Reporting  
+• DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**(12) Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by at: info@dailyedition.press
