@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelancer.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622153937id_/https%3A//www.freelancer.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230124641id_/https%3A//www.freelancer.com/about/privacy) for the most accurate reproduction.*
 
-# Freelancer | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
+# Privacy Policy | Freelancer
 
 Freelancer has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Freelancer site. 
 
@@ -36,10 +36,11 @@ We use hosting provider Amazon Web Services, therefore your information may be t
 
 ### 4\. Sharing your Information
 
-  1. We disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. As stated above, we do not disclosure your personal information to third parties for their marketing purposes without your explicit consent. 
+  1. We disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. As stated above, we do not disclose your personal information to third parties for their marketing purposes without your explicit consent. 
   2. We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
-  3. We may disclose your personal information to entities located outside of Australia, including our related bodies corporate, located in the Philippines, Singapore, Switzerland, Canada and the UK. 
-  4. We may share aggregate data with advertisers and other third parties. Freelancer uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
+  3. We may disclose your personal information upon a business transition; At the sale or transfer of Freelancer and/or all or part of its assets, your personal information may be among the items sold or transferred. 
+  4. We may disclose your personal information to entities located outside of Australia, including our related bodies corporate, located in the Philippines, Singapore, Switzerland, Canada and the UK. 
+  5. We may share aggregate data with advertisers and other third parties. Freelancer uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
 
 
 
@@ -63,4 +64,4 @@ There may be instances where we cannot grant you access to the personal informat
 
 We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. Please review it regularly. 
 
-This privacy policy was last updated on 20th April 2015. 
+This privacy policy was last updated on 1st July 2015. 
