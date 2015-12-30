@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003535id_/http%3A//www.rotita.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235354id_/http%3A//www.rotita.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
 # Privacy Policy | rotita.com
 
-**Rotita.com**  respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. 
+Rotita.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. 
 
 To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below.  
-  
-1.The information we collect  
+ 
+
+### 1.The information we collect
+
 We believe it’s important for you to know what types of information we collect when you use our site. The information includes your Email, 
 
 Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in 
@@ -16,8 +18,10 @@ several different ways; to begin with, we use cookies that are needed
 about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card number 
 
 and bank account numbers. The information is unique to you.   
-  
-2.The use of information  
+ 
+
+### 2.The use of information
+
 Help us make this site easier for you to use by not having to enter information more than once.  
 Helps you quickly locate information, products, and services.  
 Helps us create content on this site that is most relevant to you.  
@@ -41,25 +45,19 @@ You register for placing an order and receiving free promotional notic
 
 there great offers, you simply sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to 
 
-participate and disclose information to us.   
-  
-3. Privacy Security  
+participate and disclose information to us. 
+
+### 3. Privacy Security
+
 We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. We use the latest 
 
 in encryption technology, and all employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information
 
- to which the employee has access, to other individuals or entities.   
-  
+ to which the employee has access, to other individuals or entities. 
+
 What kind of email do you send to the customer?  
 We send email content to our customers that may include following:  
-Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,  
-  
-  
+Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,
+
 How do I unsubscribe?  
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
-
-Should you need any help please don't hestiate to contact us.  
-Our phone number:001-718-3959508 
-
-Support Center:<http://www.rotita.com/support.php>  
-Address:#17 Apartment,1248 Lane,Jingang Road,PuDong District,ShangHai,China
