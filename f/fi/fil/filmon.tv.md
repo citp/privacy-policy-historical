@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501194620id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230041015id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
 
 # Privacy Policy FILMON TV FREE LIVE TV MOVIES AND SOCIAL TELEVISION
 
@@ -57,6 +57,23 @@ If you can be identified from the information to be passed on, then we will not 
   8. 8\. You agree that we may disclose to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you.
 
 
+
+### What are cookies?
+
+Cookies are small files that our website places on your computer or mobile device in order for us to personalise our services. 
+
+### What cookies are used for on FilmOn
+
+We use cookies to enhance the user experience for the end-user, for example by remembering your preferences, keeping you logged in when you select "Remember me" and more.
+
+Cookies are also used by third-party advertisers for tracking various statistics across different websites in order to target ads on an individual basis, this is called behavioural advertising.
+
+These third-party advertisers have their own Privacy Policies. If you would prefer to Opt-Out of behavioural-based advertising then using the [ Network Advertising Initiatives Opt-Out tool ](http://www.networkadvertising.org/choices/) will automatically opt you out of all advertisers in their organisation. To Opt-Out of specific advertisers you will need to go to their individual websites and find their Opt-Out links.
+
+### Further Information
+
+There are more blanket approaches to blocking cookies involving disabling them in your web browser and installing add-ons or extensions to block them for specific websites.   
+For more information on privacy relating to online behavioural advertising click [ here](http://www.youronlinechoices.com/).
 
 ### Further information on data protection and personal privacy
 
