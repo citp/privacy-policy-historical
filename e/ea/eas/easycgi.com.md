@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycgi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607133834id_/http%3A//www.easycgi.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycgi.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230061249id_/http%3A//www.easycgi.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # EasyCGI's Privacy Policy
 
