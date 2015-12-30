@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603124713id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121046id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
 
 # Online customer support solution - forum, ticketing service, livechat and knowledgebase by UserEcho
 
