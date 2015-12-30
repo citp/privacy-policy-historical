@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052357id_/http%3A//hostgator.in/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230033334id_/http%3A//www.hostgator.in/support/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | HostGator India
 
 At Hostgator India we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us ("Endurance Web Solutions Pvt. Ltd").
 
