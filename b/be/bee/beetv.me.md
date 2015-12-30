@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beetv.me privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609001900id_/http%3A//beetv.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beetv.me privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230051819id_/http%3A//beetv.me/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Couch Tuner Free
 
