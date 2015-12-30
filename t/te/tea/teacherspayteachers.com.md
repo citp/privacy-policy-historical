@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185128id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235736id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - TeachersPayTeachers.com
+# Privacy Policy | Teachers Pay Teachers
 
 ## SUMMARY
 
@@ -52,7 +52,7 @@ Please note that we may revise our above policy without notice to users as the c
 
 We hope that you enjoy exploring and participating in our site.
 
-TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy LLC 295 Lafayette St, New York, NY 10012. You can reach us from our [Contact Us](https://support.teacherspayteachers.com/) page. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
+TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy LLC 51 Astor Place, New York, NY 10003. You can reach us from our [Contact Us](https://support.teacherspayteachers.com/) page. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
 
 The effective date of this Privacy Policy is September 20, 2014.
 
