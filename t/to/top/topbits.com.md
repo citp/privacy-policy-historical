@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbits.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601095113id_/http%3A//www.memebridge.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbits.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220819id_/http%3A//www.memebridge.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MemeBridge
 
@@ -21,6 +21,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Rating: 7.7/ **10** (78 votes cast)
+Rating: 7.5/ **10** (90 votes cast)
 
-Privacy Policy, 7.7 out of 10 based on 78 ratings 
+Privacy Policy, 7.5 out of 10 based on 90 ratings 
