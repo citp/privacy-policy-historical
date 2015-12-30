@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the avsdemo.com privacy policy that was archived on 2015-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503140246id_/http%3A//www.avsdemo.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avsdemo.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230114444id_/http%3A//www.avsdemo.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -26,6 +26,12 @@
 	var lang_sending = "Sending...";
 	var lang_share_name_empty = "Please enter your name!";
 	var lang_share_rec_empty = "Please enter at least one recipient email!";
+	var fb_signin = "1";
+	var fb_appid = "504452326382729";
+	var g_signin = "1";
+	var g_cid = "754156474715-al7i5lvtqoobet38ap3qnmkiugll145j.apps.googleusercontent.com";
+	var signup_section = false;
+	var relative = "";
 	</script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -34,9 +40,9 @@
 	<link href="/templates/frontend/dark-magenta/css/style.css" rel="stylesheet">
 	<link href="/templates/frontend/dark-magenta/css/responsive.css" rel="stylesheet">
 	<link href="/templates/frontend/dark-magenta/css/font-awesome.min.css" rel="stylesheet">		
-	<link id="main-style" href="/templates/frontend/dark-magenta/css/bright-corai-alternate.css" rel="stylesheet">
-
+	<link id="main-style" href="/templates/frontend/dark-magenta/css/dark-magenta.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="http://www.avsdemo.com/dist/switcher.core.min.css">
+	
 	
 </head>
 <body>
@@ -50,6 +56,22 @@
           <h4 class="modal-title">Member Login</h4>
         </div>
         <div class="modal-body">
+			<center>
+				<div class="m-b-5"></div>
+									<div>
+						<button id="facebook-signin" class="btn btn-facebook" disabled=""><div></div><i class="fa fa-facebook"></i> <span>Login with Facebook</span></button>
+					</div>
+					<div class="hr">
+						<div class="inner inner-login">or</div>
+					</div>
+														
+					<div>
+						<button id="google-signin" class="btn btn-google" disabled=""><div></div><i class="fa fa-google-plus"></i> <span>Login with Google</span></button>
+					</div>
+					<div class="hr">
+						<div class="inner inner-login">or</div>
+					</div>
+							</center>	
 			<div class="form-group">
 				<label for="login_username" class="control-label">Username:</label>
 				<input name="username" type="text" value="" id="login_username" class="form-control">
@@ -70,6 +92,219 @@
     </div>
 </div>
 
+	<div class="modal fade in" id="fb-signup-modal">
+	<div class="modal-dialog signup-modal">
+      <div class="modal-content">
+        <form name="fb-signup-form" method="post" action="/signup">
+		<div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title">Welcome, <span id="fb-signup-title"></span>!</h4>
+        </div>
+        <div class="modal-body">
+			<input name="fb-signup-id" id="fb-signup-id" type="hidden" value="">
+			<input name="fb-signup-picture" id="fb-signup-picture" type="hidden" value="">
+			<input name="fb-signup-email" id="fb-signup-email" type="hidden" value="">		
+			<input name="fb-signup-first-name" id="fb-signup-first-name" type="hidden" value="">
+			<input name="fb-signup-last-name" id="fb-signup-last-name" type="hidden" value="">			
+			<input name="fb-signup-gender" id="fb-signup-gender" type="hidden" value="">
+			<input name="fb-signup-age-min" id="fb-signup-age-min" type="hidden" value="">
+			
+			<div id="fb-signup-picture-block" class="form-group">
+				<div class="row">
+					<div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4">
+						<img id="fb-signup-picture-img" src="" class="img-responsive">
+					</div>
+				</div>
+				<center>
+					<div class="checkbox">
+						<label>
+							<input name="fb-signup-usepp" type="checkbox" id="fb-signup-usepp"><span> Use my profile picture</span>
+						</label>
+					</div>
+				</center>
+				<div class="clearfix"></div>
+			</div>	
+			
+			<div id="fb-signup-tabs">
+				<ul class="nav nav-tabs">
+				  <li class="active"><a data-toggle="tab" href="#fb-signup-new">I'm a new user</a></li>
+				  <li><a data-toggle="tab" href="#fb-signup-existing">I'm a returning user</a></li>
+				</ul>
+				<div class="tab-content">
+					<div id="fb-signup-new" class="tab-pane fade in active">
+						<div class="form-group m-t-20">
+							<span>Link your facebook account to a new AVS Demo account.<br>Please choose a username for your account:</span>
+						</div>
+						<div class="form-group">
+							<label class="control-label">Email:</label>							
+							<div>
+								<span id="fb-signup-email-label"></span>
+							</div>
+						</div>							
+						<div class="form-group">
+							<label for="fb-signup-username" class="control-label">Username:</label>
+							<input name="fb-signup-username" type="text" value="" id="fb-signup-username" class="form-control">
+							<div class="m-t-5">
+								<span id="fb-signup-username-check"></span>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="small">
+								<b>By clicking Create Account:</b><br>
+								You certify that you are at least 18 years old.<br>
+								You agree to the <a href="http://www.avsdemo.com/static/terms" target="_blank">Terms of Use</a> and <a href="http://www.avsdemo.com/static/privacy" target="_blank">Privacy Policy</a>.
+							</div>
+						</div>
+					</div>
+					<div id="fb-signup-existing" class="tab-pane fade">
+						<div class="form-group m-t-20">
+							<span>Link your facebook account to your existing AVS Demo account.<br>Please fill your existing account details:</span>
+						</div>		
+						<div class="form-group">
+							<label for="fb-signup-existing-username" class="control-label">Username:</label>
+							<input name="fb-signup-existing-username" type="text" value="" id="fb-signup-existing-username" class="form-control">
+						</div>
+						<div class="form-group">
+							<label for="fb-signup-existing-password" class="control-label">Password:</label>
+							<input name="fb-signup-existing-password" type="password" value="" id="fb-signup-existing-password" class="form-control">
+						</div>
+						<div class="form-group">
+							<a href="/lost" rel="nofollow">Lost Username or Password?</a>
+						</div>							
+					</div>
+				</div>
+			</div>
+			<div id="fb-signup-single">
+				<div class="form-group m-t-20">
+					<span>Link your facebook account to your existing AVS Demo account.<br>Please fill your existing account password:</span>
+				</div>		
+				<div class="form-group">
+					<label for="fb-signup-existing-username-locked" class="control-label">Username:</label>
+					<input name="fb-signup-existing-username-locked" type="text" value="" id="fb-signup-existing-username-locked" class="form-control" readonly="">
+				</div>
+				<div class="form-group">
+					<label for="fb-signup-existing-password-locked" class="control-label">Password:</label>
+					<input name="fb-signup-existing-password-locked" type="password" value="" id="fb-signup-existing-password-locked" class="form-control">
+				</div>
+				<div class="form-group">
+					<a href="/lost" rel="nofollow">Lost Username or Password?</a>
+				</div>				
+			</div>
+        </div>
+        <div class="modal-footer">
+			<button name="fb-signup-submit-new" id="fb-signup-submit-new" type="submit" class="btn btn-primary">Create Account</button>
+			<button name="fb-signup-submit-existing" id="fb-signup-submit-existing" type="submit" class="btn btn-primary">Link Account</button>		  
+        </div>
+		</form>			
+      </div>
+    </div>
+</div>	<div class="modal fade in" id="g-signup-modal">
+	<div class="modal-dialog signup-modal">
+      <div class="modal-content">
+        <form name="g-signup-form" method="post" action="/signup">
+		<div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title">Welcome, <span id="g-signup-title"></span>!</h4>
+        </div>
+        <div class="modal-body">
+			<input name="g-signup-id" id="g-signup-id" type="hidden" value="">
+			<input name="g-signup-picture" id="g-signup-picture" type="hidden" value="">
+			<input name="g-signup-email" id="g-signup-email" type="hidden" value="">		
+			<input name="g-signup-first-name" id="g-signup-first-name" type="hidden" value="">
+			<input name="g-signup-last-name" id="g-signup-last-name" type="hidden" value="">			
+			<input name="g-signup-gender" id="g-signup-gender" type="hidden" value="">
+			<input name="g-signup-age-min" id="g-signup-age-min" type="hidden" value="">
+			
+			<div id="g-signup-picture-block" class="form-group">
+				<div class="row">
+					<div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4">
+						<img id="g-signup-picture-img" src="" class="img-responsive">
+					</div>
+				</div>
+				<center>
+					<div class="checkbox">
+						<label>
+							<input name="g-signup-usepp" type="checkbox" id="g-signup-usepp"><span> Use my profile picture</span>
+						</label>
+					</div>
+				</center>
+				<div class="clearfix"></div>
+			</div>	
+			
+			<div id="g-signup-tabs">
+				<ul class="nav nav-tabs">
+				  <li class="active"><a data-toggle="tab" href="#g-signup-new">I'm a new user</a></li>
+				  <li><a data-toggle="tab" href="#g-signup-existing">I'm a returning user</a></li>
+				</ul>
+				<div class="tab-content">
+					<div id="g-signup-new" class="tab-pane fade in active">
+						<div class="form-group m-t-20">
+							<span>Link your google account to a new AVS Demo account.<br>Please choose a username for your account:</span>
+						</div>		
+						<div class="form-group">
+							<label class="control-label">Email:</label>							
+							<div>
+								<span id="g-signup-email-label"></span>
+							</div>
+						</div>						
+						<div class="form-group">
+							<label for="g-signup-username" class="control-label">Username:</label>
+							<input name="g-signup-username" type="text" value="" id="g-signup-username" class="form-control">
+							<div class="m-t-5">
+								<span id="g-signup-username-check"></span>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="small">
+								<b>By clicking Create Account:</b><br>
+								You certify that you are at least 18 years old.<br>
+								You agree to the <a href="http://www.avsdemo.com/static/terms" target="_blank">Terms of Use</a> and <a href="http://www.avsdemo.com/static/privacy" target="_blank">Privacy Policy</a>.
+							</div>
+						</div>						
+					</div>
+					<div id="g-signup-existing" class="tab-pane fade">
+						<div class="form-group m-t-20">
+							<span>Link your google account to your existing AVS Demo account.<br>Please fill your existing account details:</span>
+						</div>		
+						<div class="form-group">
+							<label for="g-signup-existing-username" class="control-label">Username:</label>
+							<input name="g-signup-existing-username" type="text" value="" id="g-signup-existing-username" class="form-control">
+						</div>
+						<div class="form-group">
+							<label for="g-signup-existing-password" class="control-label">Password:</label>
+							<input name="g-signup-existing-password" type="password" value="" id="g-signup-existing-password" class="form-control">
+						</div>
+						<div class="form-group">
+							<a href="/lost" rel="nofollow">Lost Username or Password?</a>
+						</div>							
+					</div>
+				</div>
+			</div>
+			<div id="g-signup-single">
+				<div class="form-group m-t-20">
+					<span>Link your google account to your existing AVS Demo account.<br>Please fill your existing account password:</span>
+				</div>		
+				<div class="form-group">
+					<label for="g-signup-existing-username-locked" class="control-label">Username:</label>
+					<input name="g-signup-existing-username-locked" type="text" value="" id="g-signup-existing-username-locked" class="form-control" readonly="">
+				</div>
+				<div class="form-group">
+					<label for="g-signup-existing-password-locked" class="control-label">Password:</label>
+					<input name="g-signup-existing-password-locked" type="password" value="" id="g-signup-existing-password-locked" class="form-control">
+				</div>
+				<div class="form-group">
+					<a href="/lost" rel="nofollow">Lost Username or Password?</a>
+				</div>				
+			</div>
+        </div>
+        <div class="modal-footer">
+			<button name="g-signup-submit-new" id="g-signup-submit-new" type="submit" class="btn btn-primary">Create Account</button>
+			<button name="g-signup-submit-existing" id="g-signup-submit-existing" type="submit" class="btn btn-primary">Link Account</button>		  
+        </div>
+		</form>			
+      </div>
+    </div>
+</div>
 <div class="modal fade in" id="language-modal">
 	<div class="modal-dialog language-modal">
       <div class="modal-content">
@@ -210,11 +445,11 @@
 				<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
 				<ul class="dropdown-menu search-dropdown-menu">
-					<form class="form-inline" name="search" id="search_form" method="get" action="/search">
+					<form class="form-inline" name="search" id="search_form" method="get" action="/search/videos">
 						<div class="input-group">
 						<input type="text" class="form-control" placeholder="Search" name="search_query" id="search_query" value="">
 						<span class="search-select input-group-addon">
-							<select class="form-control" name="search_type" id="search_type">
+							<select class="form-control" id="search_type">
 								<option value="videos">Videos</option>
 								<option value="photos">Photos</option>								<option value="games">Games</option>								<option value="users">Users</option>
 							</select>		
@@ -316,14 +551,14 @@
 		<div class="container">
 			<div class="hidden-xs">
 				<div class="pull-left">
-					<span>Copyright © 2008-2015</span> AVS Demo
+					<span>Copyright © 2008-2016</span> AVS Demo
 				</div>
 				<div class="pull-right">
-					Powered by <a target="_blank" href="http://www.adultvideoscript.com">AVS 3.1</a>
+					Powered by <a target="_blank" href="http://www.adultvideoscript.com">AVS</a>
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<div class="visible-xs"><span>Copyright © 2008-2015</span> AVS Demo<br>Powered by <a target="_blank" href="http://www.adultvideoscript.com">AVS 3.1</a></div>
+			<div class="visible-xs"><span>Copyright © 2008-2016</span> AVS Demo<br>Powered by <a target="_blank" href="http://www.adultvideoscript.com">AVS</a></div>
 		</div>
 	</div>
 </div>
@@ -334,8 +569,8 @@
     <script src="/templates/frontend/dark-magenta/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/templates/frontend/dark-magenta/js/jquery.rotator-0.2.js"></script>
     <script type="text/javascript" src="/templates/frontend/dark-magenta/js/jquery.avs-0.2.js"></script>
-
-	<script>
+			<script type="text/javascript" src="/templates/frontend/dark-magenta/js/jquery.load-apis.js"></script>	
+		<script>
 	
 			if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
 		  var msViewportStyle = document.createElement('style')
