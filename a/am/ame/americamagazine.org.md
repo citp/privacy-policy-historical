@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americamagazine.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628022149id_/http%3A//americamagazine.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americamagazine.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044346id_/http%3A//www.americamagazine.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | America Magazine
 
