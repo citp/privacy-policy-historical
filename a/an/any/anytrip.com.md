@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytrip.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195104id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytrip.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220049id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
 
 # Privacy - HostelBookers
 
