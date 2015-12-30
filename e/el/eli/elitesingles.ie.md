@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623071939id_/http%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230043327id_/http%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
@@ -11,7 +11,7 @@ To find a suitable partner for you requires collecting personal data to process 
 Our Privacy Policy has been drafted in compliance with the relevant European data protection law.  
 Since the contact with other ELITESINGLES users is always made via a private messaging system, at no point will your personal contact details such as email address or full name be transmitted. So only you can decide for yourself if and when you provide such information to your ELITESINGLES contacts. For this, we advise you to heed our guide to safe dating on the Internet
 
-###  **1\. The protection of your personal information at ELITESINGLES**
+### **1\. The protection of your personal information at ELITESINGLES**
 
 The website is operated by Affinitas GmbH, Kohlfurter strasse 41/43, 10999 Berlin. It is the responsible entity for the purposes of the Data Protection Act of Germany.  
 ELITESINGLES is a reputable internet site that helps you to find the right partner for you. The protection of your personal information is very important to us. We comply with the strict regulations of the German and European data protection law.  
@@ -29,12 +29,12 @@ Kohlfurter strasse 41/43
 
 E-Mail: security@elitesingles.ie
 
-###  **2\. Data security and protection**
+### **2\. Data security and protection**
 
 All information you submit at registration or login to us (e.g. contact information, profile information, payment information when ordering a paid membership) is encrypted. This encryption protects the confidentiality of data exchange between you and our web server, and helps to prevent misuse of data, e.g. by interception.  
 The encryption technique we use SSL (Secure Socket Layer). It is an accepted and widely used technology. In view of our databases all technical precautions have been taken to save your data in a secure environment. Access to your information is limited to only a few selected employees and will be granted only for purposes of quality control and review of complaints and for thwarting fraud
 
-###  **3\. Collection, processing and use of data at ELITESINGLES**
+### **3\. Collection, processing and use of data at ELITESINGLES**
 
 ELITESINGLES is a serious matchmaking service on the internet that brings people together who are looking for a long-lasting relationship via a scientifically-based matching method. To provide this service, we collect, process and use a range of personal information. In many cases, data are only used in pseudonym form or anonymously. A more detailed description on this topic can be found below.
 
@@ -154,7 +154,7 @@ Most browsers are initially set to accept cookies. However, you can configure yo
 ELITESINGLES uses session cookies, partner and affiliate cookies and permanent cookies:  
 a) Session Cookies are not stored on your hard drive and are deleted when the browser is closed. Session cookies are used for login authentication and to balance the system load. b) Partner and Affiliate Cookies are used if you access our services via an external advertising space. These cookies are used to settle accounts with the cooperation partners and do not contain personal information from you. c) Permanent cookies are used to save your personal settings. This allows for personalisation and improves the ELITESINGLES service, because you are able to find your personal settings again on subsequent visits.
 
-####  **V. Use of (Google) Universal Analytics**
+#### **V. Use of (Google) Universal Analytics**
 
 ELITESINGLES analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc. ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
 
@@ -164,13 +164,13 @@ You can object to the collection and analysis of your use of the Service (Google
 
 For more information on Terms of Use and Privacy Policy can be found at:
 
-####  **VI. Use of Google DoubleClick**
+#### **VI. Use of Google DoubleClick**
 
 ELITESINGLES uses the remarketing technology of Google (Google DoubleClick). Through this technology users who have already visited the ELITESINGLES site and have shown interest in the service, are again targeted with advertising on the pages owned by the Google partner network. These advertisements are different to those aimed at users who have not shown interest in the ELITESINGLES services. The ad overlay is done through the use of cookies, which are small text files that are stored on the user's computer. With the help of text files, user behavior can be analyzed when you visit the site and then used for targeted product recommendations and interest-based advertising.
 
 If you prefer not to receive interest-based advertising, you can disable the use of cookies by Google for these purposes by configuring the deactivation settings https://www.google.com/settings/ads/onweb/ or install the plugin available there.
 
-####  **VII. Use of Facebook Social Plugins**
+#### **VII. Use of Facebook Social Plugins**
 
 ELITESINGLES uses social plugins ("plugins") provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). These plugins are identified by a Facebook logo. If you use a social plugin on an ELITESINGLES site, your browser establishes a direct connection with the Facebook servers. Facebook then transmits the plugin content to your browser, and then integrates it into the website.
 
@@ -178,7 +178,7 @@ Thereby Facebook obtains the information that you have accessed on the correspon
 
 If you do not want Facebook to collect data of this kind, we recommend that you log out before your visit ELITESINGLES on Facebook.
 
-####  **VIII. Use of Google+ Social Plugins**
+#### **VIII. Use of Google+ Social Plugins**
 
 ELITESINGLES uses the "+1" the social network Google Plus, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA button ("Google+").
 
@@ -192,13 +192,13 @@ Information on the purpose and scope of data collection, further processing and 
 
 If you do not want Google+ to collect data about you, we advise you to log out of Google+ before your ELITESINGLES visit.
 
-####  **IX. Use of Twitter Social Plugins**
+#### **IX. Use of Twitter Social Plugins**
 
 ELITESINGLES continues to use social plugins ("plugins") from the social network twitter.com, operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. The plugins are marked with a Twitter logo. When you select an ELITESINGLES website that contains a social plugin, your browser establishes a direct connection with the Twitter servers. Twitter transmits the contents of the plugin directly to your browser, which integrates it into the website. This gives Twitter the information that you have accessed on the corresponding page ELITESINGLES. If you are currently logged into Twitter, Twitter can assign your visit to your Twitter account. If you are using the Twitter plugins to interact (eg. a tweet to an article post), the corresponding information is transmitted from your browser directly to Twitter and stored there. Purpose and scope of data collection and the further processing and use of data by Twitter as well as your rights in this respect and settings options for Protecting your privacy can be found in the Twitter Privacy Policy under https://twitter.com/privacy.
 
 If you do not want Twitter to collect data about you, we advise you to log out of Twitter before your ELITESINGLES visit.
 
-####  **X. Checking and verification of personal data**
+#### **X. Checking and verification of personal data**
 
 In order to protect our customers from people who abuse the ELITESINGLES service, we analyse the platform and consider customer input for plausibility using various automated monitoring tools in addition to the internal monitoring done by our customer care agents. However, ELITESINGLES does not assume responsibility or a legal obligation in doing this. Also, certain character strings or logins of different members, for example, those which originate from the same computer, can result in the blocking of suspicious activity.
 
@@ -206,7 +206,7 @@ ELITESINGLES reserves the right to enforce an automated filtering of messages. H
 
 Should a suspicion of abuse of the ELITESINGLES service arise from these checks, the legal consequences for members are listed in the general Terms and Conditions. ELITESINGLES can also prevent the acceptance and delivery of incoming and outgoing messages, if there is high probability that it is a message containing any illegal and / or content in defiance to the terms and conditions. A notice of rejected or non-delivered messages is not carried out.
 
-###  ****4\. Consent and right to objection****
+### ****4\. Consent and right to objection****
 
 If we use data for a purpose, which by provisions of law requires your consent, we will always ask for your explicit agreement and record your consent. You can revoke your given consent at any time and / or object to future use of your data.
 
@@ -217,11 +217,11 @@ Kohlfurter Strasse 41/43
 10999 Berlin
 
   E-Mail: security@ELITESINGLES.ie  
-Fax: 01805 – 777 449
+Fax: +49 30 991 949 5 32 
 
 Please note that in case of an objection against the use of certain data, it may be impossible to provide some or all of the services we offer on the ELITESINGLES platform. We are at your disposal for any questions about this.
 
-###  ****5\. Your right of access, rectification, cancellation****
+### ****5\. Your right of access, rectification, cancellation****
 
 You have the right at any time to receive information about the personal data and settings we store for your account, and to ask these to be corrected or deleted.  
 Your right to erase data may be limited by legal retention requirements that we need to consider. In addition, courts, law enforcement agencies or other authorities can demand by law to retrieve data or request information.  
@@ -232,10 +232,10 @@ Kohlfurter Strasse 41/43
 10999 Berlin
 
   E-Mail: security@ELITESINGLES.ie  
-Fax: 01805 – 777 449
+Fax: +49 30 991 949 5 32 
 
 Most of the information that you can see on your account you can change or delete yourself. Please only use this service if it is for information you cannot
 
-###  ****6\. Further information****
+### ****6\. Further information****
 
 Every Internet user should be aware that the information provided by them and published online can be accessed and saved worldwide by other Internet users. ELITESINGLES expressly points out to the user that the protection of data transmission in open networks like the Internet according to current technology can never be absolutely guaranteed. Therefore you always need to be aware that you are moving in a public space and please treat your private space responsibly.
