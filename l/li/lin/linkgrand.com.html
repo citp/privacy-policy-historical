@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the linkgrand.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407082557id_/http%3A//www.linkgrand.com/privacypolicy.php%3Fr%3D%26mid%3D%26s1%3D%26s2%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkgrand.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230181556id_/http%3A//www.linkgrand.com/privacypolicy.php%3Fr%3D%26mid%3D%26s1%3D%26s2%3D) for the most accurate reproduction.-->
 
 <html><head>	  
 <title>LinkGrand</title>
@@ -10,6 +10,52 @@
 <link href="../style.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="../favicon.ico">
 
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+
+</script>
+
 </head>
 
 
@@ -18,7 +64,7 @@
 
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -36,22 +82,74 @@
 		<img src="http://www.linkgrand.com/images/linkgrand_01.gif" width="447" height="85" alt="">						
 	</td>
     <td valign="top">
-		<table border="0" cellpadding="0" cellspacing="0">
+		<table border="0" cellpadding="0" cellspacing="0" class="navin">
         <tbody><tr>
-        <td valign="top">
-           <table border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tbody><tr>
-             <td valign="top"><img src="http://www.linkgrand.com/images/new-linkgrand_02.gif" width="46" height="43" alt="" border="0"></td>
-             <td valign="top"><a href="../index.php?r=&amp;mid=&amp;s1=&amp;s2="><img src="http://www.linkgrand.com/images/new-linkgrand_03.gif" width="47" height="43" alt="" border="0"></a></td>
-             <td valign="top"><a href="../signin.php?r=&amp;mid=&amp;s1=&amp;s2="><img src="http://www.linkgrand.com/images/linkgrand_04.gif" width="66" height="43" alt="" border="0"></a></td>             <td valign="top"><a href="../advertise.php?r=&amp;mid=&amp;s1=&amp;s2="><img src="http://www.linkgrand.com/images/new-linkgrand_05.gif" width="56" height="43" alt="" border="0"></a></td>
-             <td valign="top"><a href="../help.php?r=&amp;mid=&amp;s1=&amp;s2="><img src="http://www.linkgrand.com/images/linkgrand_06.gif" width="48" height="43" alt="" border="0"></a></td>
-             <td valign="top"><a href="../contactus.php?r=&amp;mid=&amp;s1=&amp;s2="><img src="http://www.linkgrand.com/images/linkgrand_07.gif" width="70" height="43" alt="" border="0"></a></td>
-             </tr>
-             </tbody></table>
+        <td valign="top" background="../images/linkgrand_top_bg.gif" height="43">
+           
+           
+           <ul id="sddm">
+    <li><a href="index.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m1')" onmouseout="mclosetime()">Home</a>
+        <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        </div>
+    </li>
+    <li><a href="signup.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m2')" onmouseout="mclosetime()">Register</a>
+        <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+            <a href="signin.php?r=&amp;mid=&amp;s1=&amp;s2=">Member Login</a>
+        </div>
+    </li>
+        <li><a href="advertise.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m5')" onmouseout="mclosetime()">Advertise</a>
+        <div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="10secads.php?r=&amp;mid=&amp;s1=&amp;s2=">10-second Ads</a>
+        <a href="advertise.php?r=&amp;mid=&amp;s1=&amp;s2=">20-second Ads</a>
+        <a href="keyword.php?r=&amp;mid=&amp;s1=&amp;s2=">Keyword Ads</a>
+        <a href="quicklink.php?r=&amp;mid=&amp;s1=&amp;s2=">Quick Links</a>
+        <a href="siteofweek.php?r=&amp;mid=&amp;s1=&amp;s2=">Site of the Week</a>
+        </div>
+    </li>
+    
+        <li><a href="help.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m3')" onmouseout="mclosetime()">FAQ</a>
+        <div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="help.php?r=&amp;mid=&amp;s1=&amp;s2=">Member FAQ</a>
+        <a href="help2.php?r=&amp;mid=&amp;s1=&amp;s2=">Advertiser FAQ</a>
+        </div>
+    </li>
+        
+        <li><a href="contactus.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m4')" onmouseout="mclosetime()">Contact</a>
+        <div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        </div>
+    </li>
+</ul>
+<div style="clear:both"></div>
+
+
+           
+           
+           
+           
+           
 		</td>
         </tr>
         <tr>
-        <td valign="top"><img src="http://www.linkgrand.com/images/linkgrand_08.gif" width="333" height="42" alt=""></td>
+        <td valign="top" background="http://www.linkgrand.com/images/linkgrand_08.gif" width="333" height="42" align="center">
+        
+<ul id="sddm2">
+    <li><a href="keyword.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m6')" onmouseout="mclosetime()">Top Keywords</a>
+        <div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+            
+            <a href="../keywclick.php?i=2" target="_blank">resumes</a> <a href="../keywclick.php?i=47" target="_blank">paidsurveys</a> <a href="../keywclick.php?i=88" target="_blank">free</a>                         
+        </div>
+    </li>
+    <li><a href="siteofweek.php?r=&amp;mid=&amp;s1=&amp;s2=" onmouseover="mopen('m7')" onmouseout="mclosetime()">Top Sites</a>
+        <div id="m7" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+            
+        <a href="../sowview.php?i=SOW-JGGH3764" target="_blank">It's Time To Buy!</a><a href="../sowview.php?i=SOW-RXWYV6856" target="_blank">Just opened - Time Sensitive</a><a href="../sowview.php?i=SOW-XJSZF8624" target="_blank">Ultimate Success Bundle</a><a href="../sowview.php?i=SOW-DGSPL568" target="_blank">GET 1 YEAR OF TRAFFIC TODAY ONLY $25!</a><a href="../sowview.php?i=SOW-QALY7217" target="_blank">Have Strong Patience To Save Big On (Bookmark Rotator And Refresh) Name Brand Products?</a>
+        </div>
+    </li>
+<div style="clear:both"></div>
+        
+        
+        
+        </ul></td>
         </tr>
         </tbody></table>
 	</td>
@@ -176,7 +274,7 @@
 				  	<table border="0" cellpadding="0" cellspacing="0" width="680" align="center">
                       <tbody><tr>
                           <td class="grytxt" width="100%" align="center">
-                           <a href="/bbclick.php?bbid=576&amp;mid=&amp;billbtk=0" target="_blank" class="sprtxt"><img src="http://www.linkgrand.com/images/bb/576.gif" width="468" height="60" border="0"></a><br>UNLIMITED BANDWIDTH!!! UNLIMITED DISKSPACE!!!!                           <br>
+                           <a href="/bbclick.php?bbid=576&amp;mid=&amp;billbtk=0" target="_blank" class="sprtxt"><img src="http://www.linkgrand.com/images/bb/576.gif" width="468" height="60" border="0"></a><br>We are so absolutely confident as one of the oldest hosting companies around, that we know what it takes to earn and keep your business, we 100% guarantee your satisfaction. Besides our “Customers First Guarantee” listed below, we guarantee that in the first 30 days, if for any reason, you're not satisfied with us we will refund 100% of your purchase.                           <br>
                            
                        <table border="0" cellpadding="0" cellspacing="0">
                         <tbody><tr> 
@@ -216,9 +314,20 @@
 				  	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="30">
                       <tbody><tr>
                           <td width="50%" class="sprtxtnb">
-                            <p style="margin-left: 12"><a href="/click.php?lid=17460&amp;url=http://www.sfi4.com/7779545.28/REAL2" target="_top" class="sprtxtnb"> Home based business working part time from your computer. Training, websites, &amp; products provided.</a></p>
+                            <p style="margin-left: 12"><a href="/click.php?lid=17856&amp;url=http://itshappeningsoon.com/prelaunch/?u=storrmin" target="_top" class="sprtxtnb">Receive $10 FREE!</a></p>
                           </td>
-                          <td width="50%" class="sprhead">(284 hits remaining, 72716 hits received)</td>
+                          <td width="50%" class="sprhead">(4587 hits remaining, 2413 hits received)</td>
+                      </tr>
+                    </tbody></table>
+				 </td>
+                </tr> <tr>
+                  <td width="100%">
+				  	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="30">
+                      <tbody><tr>
+                          <td width="50%" class="sprtxt">
+                            <p style="margin-left: 12"><a href="/click.php?lid=17839&amp;url=http://eztrkr.com/s/4996" target="_top" class="sprtxt">Split Test Mailer</a></p>
+                          </td>
+                          <td width="50%" class="sprhead">(453 hits remaining, 2547 hits received)</td>
                       </tr>
                     </tbody></table>
 				 </td>
@@ -227,9 +336,9 @@
 				  	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="30">
                       <tbody><tr>
                           <td width="50%" class="sprtxtnb">
-                            <p style="margin-left: 12"><a href="/click.php?lid=17583&amp;url=http://www.AutomatedRevenues.com/?rd=wh79vmOX" target="_top" class="sprtxtnb">Weird Trick That Makes Over $3,500 Every Month Using Paid Surveys Online</a></p>
+                            <p style="margin-left: 12"><a href="/click.php?lid=17853&amp;url=http://www.neobux.com/m/v/?rh=726C736177616E74" target="_top" class="sprtxtnb">Neo Bux  Earn Dollars for just Viewing the ads</a></p>
                           </td>
-                          <td width="50%" class="sprhead">(134 hits remaining, 866 hits received)</td>
+                          <td width="50%" class="sprhead">(33 hits remaining, 967 hits received)</td>
                       </tr>
                     </tbody></table>
 				 </td>
@@ -238,9 +347,9 @@
 				  	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="30">
                       <tbody><tr>
                           <td width="50%" class="sprtxtnb">
-                            <p style="margin-left: 12"><a href="/click.php?lid=17589&amp;url=http://websolutiontraffic.com/" target="_top" class="sprtxtnb">solutions of traffic to your site</a></p>
+                            <p style="margin-left: 12"><a href="/click.php?lid=17855&amp;url=http://marijuanahits.com/?rid=1" target="_top" class="sprtxtnb">Support It - Legalize it</a></p>
                           </td>
-                          <td width="50%" class="sprhead">(0 hits remaining, 2000 hits received)</td>
+                          <td width="50%" class="sprhead">(0 hits remaining, 1750 hits received)</td>
                       </tr>
                     </tbody></table>
 				 </td>
@@ -249,20 +358,9 @@
 				  	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="30">
                       <tbody><tr>
                           <td width="50%" class="sprtxtnb">
-                            <p style="margin-left: 12"><a href="/click.php?lid=17590&amp;url=http://www.yougetprofit.com/?ref=paultdifer" target="_top" class="sprtxtnb">Yougetprofit - Advertising with profit</a></p>
+                            <p style="margin-left: 12"><a href="/click.php?lid=17854&amp;url=http://www.swagbucks.com/refer/lsujoeylsu" target="_top" class="sprtxtnb">PAYPAL, Gift Cards, Easy Earning</a></p>
                           </td>
-                          <td width="50%" class="sprhead">(0 hits remaining, 1000 hits received)</td>
-                      </tr>
-                    </tbody></table>
-				 </td>
-                </tr> <tr>
-                  <td width="100%">
-				  	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="30">
-                      <tbody><tr>
-                          <td width="50%" class="sprtxtnb">
-                            <p style="margin-left: 12"><a href="/click.php?lid=17587&amp;url=http://instantsplash.com/splash.php?id=87801" target="_top" class="sprtxtnb">Easy Money</a></p>
-                          </td>
-                          <td width="50%" class="sprhead">(0 hits remaining, 500 hits received)</td>
+                          <td width="50%" class="sprhead">(0 hits remaining, 1750 hits received)</td>
                       </tr>
                     </tbody></table>
 				 </td>
