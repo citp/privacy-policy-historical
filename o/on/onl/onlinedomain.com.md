@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinedomain.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626130633id_/http%3A//readygraph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinedomain.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230225949id_/http%3A//readygraph.com/privacy) for the most accurate reproduction.*
 
 # ReadyGraph
 
@@ -182,7 +182,7 @@ Information you submit will be used to respond to your request. We may also use 
 
 #### Contact Information
 
-App Uprising, Inc. 20 Jay St. Brooklyn, NY 11201 support@readygraph.com +1 (862) 205-4769
+App Uprising, Inc. 20 Jay St. Brooklyn, NY 11201 support@readygraph.com +1 (929) 249-0351
 
 Last Updated: 01/2/2014
 
