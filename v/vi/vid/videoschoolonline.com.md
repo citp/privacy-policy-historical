@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the videoschoolonline.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430045733id_/http%3A//www.videoschoolonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoschoolonline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230642id_/http%3A//www.videoschoolonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & FTC Disclaimer | Video School Online
+# Privacy Policy & FTC Disclaimer - Video School Online
+
+­
 
   1. **Product disclosure:  **VideoSchoolOnline.com is an affiliate for certain products listed on this website, and may earn commissions based on some sales referred.
-  2. **Introduction:**  VideoSchoolOnline.com (this website) is owned and operated by Video School Online (we, us, our). We respect the privacy of our website users (you, your). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.
+  2. **Introduction:**  VideoSchoolOnline.com (this website) is owned and operated by Video School Online Inc. (we, us, our). We respect the privacy of our website users (you, your). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.
   3. **Terms of use:** Your use of this website is governed by our terms of use. Accordingly, this privacy policy must be read in conjunction with our terms of use.
   4. **Collecting your personal information:** We may collect personal information from you (including email address) when you use this website. You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information or products.
   5. **Automated collection:** When you visit this website, we may use automated tools and methods (such as cookies, sessions, and usage monitoring software) to collect certain information about your visit, including (without limitation). This information will be used in aggregate form to analyse how this website is being used (for example: to analyse usage patterns in order to improve this website). Except as set out in this privacy policy, we will not disclose any such information except in aggregate form.
