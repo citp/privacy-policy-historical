@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthsky.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629112758id_/http%3A//earthsky.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthsky.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230163742id_/http%3A//earthsky.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EarthSky
 
