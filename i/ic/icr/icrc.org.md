@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icrc.org privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601222221id_/https%3A//www.icrc.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrc.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230232809id_/https%3A//www.icrc.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | International Committee of the Red Cross
 
-voluntarily disclosed. There are instances where the ICRC requests information that does identify you personally for the purpose of providing you with specific services or of corresponding with you. Information that you supply in this way will not be shared with any third party except where needed to provide a requested service.
+There are instances where the ICRC requests information that does identify you personally for the purpose of providing you with specific services or of corresponding with you. Information that you supply in this way will not be shared with any third party except where needed to provide a requested service.
 
 ### How does the ICRC use the information?
 
