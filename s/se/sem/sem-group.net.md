@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091055id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230090034id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ For questions regarding this privacy policy you may call 281-727-0484 or simply 
 
 ## Testimonials
 
-Generating leads via our website is the name of the game for us. We've spent thousands on Pay per Click and Banner Ads and had other so-called "experts" help us with Search Engine Optimization. None of it turned out to be profitable. Until we found Gerald. Gerald and his team take the time to understand our business and look at the overall picture of what is required to generate leads that actually turn into profitable sales. I was sick and tired of working with different contractors - web designer, web host, SEO consultant, email marketing follow up, etc.and having no one accept responsibility for the results. I love the fact that when I talk with Gerald and his team, the conversation always begins and ends with how the project is leading to sales results.
+Since hiring Gerald to handle my SEO and link building needs, my website has taken a drastic leap upward in the search rankings. I'm now enjoying first page rankings for many of the most desirable keywords, and my website is getting more quality traffic and more conversions. I look forward to continuing the use of Search Engine Marketing Group's services!
 
-Craig Klein  
-[www.salesnexus.com](http://www.salesnexus.com/)
+Eric Brantner  
+[ericbrantner.com](http://ericbrantner.com/)
