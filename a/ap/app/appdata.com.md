@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appdata.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315053844id_/http%3A//www.appdata.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdata.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230163846id_/http%3A//www.appdata.com/privacy_policy) for the most accurate reproduction.*
 
-# AppData - App Metrics and Research
+# AppData - App Analytics, Metrics and Research
 
 This Privacy Policy (the "policy") outlines the types of personally-identifiable information ("personal information") we receive and collect when you use AppData LLC's services available through the AppData web sites located at www.appdata.com or appdata.com (the "Services"), as well as some of the steps we take to safeguard your personal information.
 
