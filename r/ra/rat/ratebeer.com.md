@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the ratebeer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608195723id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratebeer.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222008id_/http%3A//www.ratebeer.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # RateBeer.com -- Privacy Policy
-
-[](https://web.archive.org/) |   
----|---  
-  
-[ Home](https://web.archive.org/) > [About RateBeer](https://web.archive.org/About.asp) >
 
 We want you to know that it is a priority at RateBeer.com to keep all personal information in the strictest confidence.  We dislike SPAM (unsolicited email) as much as anyone else and so we don't create SPAM, we don't help other people generate SPAM, and we won't share your information in any way that might possibly result in your receiving SPAM. 
 
