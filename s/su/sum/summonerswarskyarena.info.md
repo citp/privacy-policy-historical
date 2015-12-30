@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summonerswarskyarena.info privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144857id_/http%3A//summonerswarskyarena.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summonerswarskyarena.info privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230123751id_/http%3A//summonerswarskyarena.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Summoners War Wiki Guide: Tips and Strategy
 
