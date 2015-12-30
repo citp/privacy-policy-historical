@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215112643id_/http%3A//www.meccabingo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215514id_/http%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Help | Mecca Bingo
+# Mecca Bingo - Privacy Policy
 
-### Privacy and Cookies Policy (the “Policy”)
+**Privacy and Cookies Policy (the “Policy”)**
 
 **1\. INTRODUCTION**
 
@@ -78,7 +78,7 @@ How we may use that information
 
 3.4 An indication of the types of cookies that may be placed on your devices can be found in the table below:
 
-Cookie Name or ID | Purpose of the Cookie | Information held by the Cookie | Cookie Expiry Date  
+**Cookie Name or ID** | **Purpose of the Cookie** | **Information held by the Cookie** | **Cookie Expiry Date**  
 ---|---|---|---  
 AFF_ID | Tracking | A unique tracking identification code | 30 days  
 SUB_ID | Tracking | A unique tracking identification code | 30 days  
@@ -99,6 +99,8 @@ mm_current_register_session | Test | Records if a visitor registered in that ses
 mm-t66-counter | Test & Metrics | Used to track promotional opt-in | 365 days  
 mm-t66-generated | Test & Metrics | Used to track promotional opt-in | 365 days  
 mm-t66-hompepage-active | Test & Metrics | Used to track promotional opt-in | 365 days  
+da_sid | Used to collect information on how people use the website, and help us understand how we can improve. The opt-out link can be found [here](http://www.meccabingo.com/?da_optOut) | Contains the unique ID of the session (or visit) | Session only  
+da_lid | Used to collect information on how people use the website, and help us understand how we can improve. The opt-out link can be found [here](http://www.meccabingo.com/?da_optOut) | Contains the unique ID of the lead | 24 months  
   
 3.5 You may refuse to accept cookies by activating the setting on your internet browser which allows you to refuse the setting of all or some cookies. However, if you do not accept cookies you may be unable to access the whole or part of our website or may be unable to enjoy the benefit of the full functionality of it.
 
@@ -108,7 +110,7 @@ mm-t66-hompepage-active | Test & Metrics | Used to track promotional opt-in | 36
 
 4.1 If you do not wish to receive promotional or other marketing information from us or third parties then please tick the appropriate opt-out box during the registration process.
 
-4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@meccabingo.com](mailto:support@meccabingo.com) and we will change your contact status as soon as reasonably possible.
+4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@meccabingo.com](mailto:support@meccabingo.com) and we will change your contact status as soon as reasonably possible.
 
 **5\. DISCLOSURE OF YOUR PERSONAL DATA**
 
@@ -146,6 +148,6 @@ We may make changes to this Policy at any time. We will make reasonable efforts 
 
 Telephone number: 0800 083 1988
 
-E-mail: [support@meccabingo.com](mailto:support@meccabingo.com)
+E-mail: [support@meccabingo.com](mailto:support@meccabingo.com)
 
-Last updated on: 30 September 2014
+Last updated on: 08 December 2015
