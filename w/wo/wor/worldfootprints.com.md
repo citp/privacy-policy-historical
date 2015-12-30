@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldfootprints.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627054025id_/http%3A//worldfootprints.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfootprints.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230025056id_/http%3A//worldfootprints.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Footprints – a Leading Voice in Socially Responsible Travel and Lifestyle
 
