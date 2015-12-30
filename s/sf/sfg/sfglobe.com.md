@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213921id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230021102id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ For some activities, This application may also ask you to provide other non-pers
 
 You may provide us with another person's email address or phone number to invite that person to participate in the Service, or to provide you with information for use on the Service. This application may but is not obligated to use this information to contact the person to join the Service and in all events will do so only with your express permission. In addition, we may help connect you to your friends who already use our Service based on such information.
 
-_Use of Information collected._
+_Use of Information Collected_
 
 The information you provide to This application will be used for the following reasons: 
 
@@ -37,7 +37,7 @@ No matter what method we use to collect information and no matter how we use tha
 
 Consistent with This application's Copyright and Intellectual Property Policy and in its sole discretion, we reserve the right to remove any of your personal information or content from the Service if we receive a notice of intellectual property infringement or other complaint.
 
-Warning **Note about Message Boards**  
+**Note about Message Boards**  
 Note that whenever you give out personal information in public areas such as on our message board, that information can be collected and used by people you do not know. While we strive to protect those who wish to participate in these activities, we cannot guarantee the security and privacy of any information that you post in these areas and you acknowledge this fact.
 
  _Other Disclosure of Your Personal Information_
