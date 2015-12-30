@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanarmorgear.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184651id_/http%3A//blog.urbanarmorgear.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanarmorgear.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215114id_/http%3A//blog.urbanarmorgear.com/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and Security - Urban Armor Gear
+# Privacy and Security - Urban Armor Gear Blog
 
 The website is owned and operated by Urban Armor Gear, Inc.  Our Privacy Policy was developed to help you understand the type of information we collect on our website and how this information is used.  We update this site periodically therefore our policies may change accordingly depending on the nature of these changes.
 
