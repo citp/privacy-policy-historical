@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414045516id_/http%3A//www.cinemablend.com/features/Privacy-Policy-334.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230133458id_/http%3A//www.cinemablend.com/features/Privacy-Policy-334.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-Privacy Statement for Cinema Blend LLC 
+Privacy Statement 
 
 We can be reached via e-mail using our [contact form](http://www.cinemablend.com/features/Contact-Us-367.html). 
 
@@ -26,11 +26,9 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact state or local chapters of the Better Business Bureau. 
 
-  
-
-
 Back to top
 
 | 
 
-Advertisement
+Advertisement  
+
