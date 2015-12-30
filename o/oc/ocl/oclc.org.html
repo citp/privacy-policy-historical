@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oclc.org privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627014301id_/http%3A//www.oclc.org/policies/privacy.en.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oclc.org privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230131417id_/http%3A//www.oclc.org/policies/privacy.en.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="  js canvas rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssgradients fontface generatedcontent video audio" lang="en" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="/etc/clientlibs/social/commons/scf.css" type="text/css">
 <link rel="stylesheet" href="/libs/social/tally/components/hbs/voting/clientlibs.css" type="text/css">
 <link rel="stylesheet" href="/etc/clientlibs/social/hbs/reviews.css" type="text/css">
-<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://script.crazyegg.com/pages/scripts/0020/6913.js?439588" async="" type="text/javascript"></script><script src="/etc/designs/oclc/js/jquery/jquery.easing.js"></script><script src="/etc/designs/oclc/js/jquery/jquery.hoverIntent.minified.js"></script><script src="/etc/designs/oclc/js/sitebar-functions-v0.1.js"></script><script src="/etc/designs/oclc/js/jquery/jquery-ui-1.8.10.custom.min.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://script.crazyegg.com/pages/scripts/0020/6913.js?439597" async="" type="text/javascript"></script><script src="/etc/designs/oclc/js/jquery/jquery.easing.js"></script><script src="/etc/designs/oclc/js/jquery/jquery.hoverIntent.minified.js"></script><script src="/etc/designs/oclc/js/sitebar-functions-v0.1.js"></script><script src="/etc/designs/oclc/js/jquery/jquery-ui-1.8.10.custom.min.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
@@ -33,10 +33,12 @@
 
 
 
+
 <title>OCLC Privacy policy
 </title>
 
   
+
   
                    
 	
@@ -98,6 +100,7 @@
 
 
 
+
 <script type="text/javascript">
 if(typeof String.prototype.trim !== 'function') {
       String.prototype.trim = function() {
@@ -116,10 +119,49 @@ if(typeof String.prototype.trim !== 'function') {
 <script type="text/javascript" src="/etc/clientlibs/oclc/jquery/animation.js"></script>
 
 
+
 <script type="text/javascript">
 
 (function ($) {
     $(function () {
+
+		// foresee survey code
+    	var hostname = location.hostname;
+    	if ( hostname == "www.oclc.org"  ||
+    		 hostname == "wwwtest.ent.oclc.org" ||
+    		 hostname == "wwwtest2.ent.oclc.org" || 
+    		 hostname == "localhost" ) {
+			if ( document.cookie.indexOf("OCLC_IP_ID") == -1 ) {
+				var urlString = '/apps/oclc/foresee';
+		    	var parms = "hostname=" + hostname;
+		         $.ajax( {
+		             type: "GET",
+		             url: urlString + "?" + parms, 
+		             dataType: "json",
+		             cache: false,
+		             success : function displayMsg(data) {
+		            	document.cookie = "OCLC_IP_ID="+data.internalIP+"; expires=0; path=/";
+		             }
+		        });
+			}
+		
+			var head = document.getElementsByTagName('head')[0];
+			var script = document.createElement('script');
+			script.type = 'text/javascript';
+			if ( hostname == "www.oclc.org" ) {
+				script.src = "/etc/oclc/js/foresee-prod.js";
+			} else {
+				script.src = "/etc/oclc/js/foresee-test.js"
+			}
+			head.appendChild(script);
+    	}
+       
+    });
+})(jQuery);
+
+(function ($) {
+    $(function () {   	
+    	
         yepnope([{
             load: '/etc/designs/oclc/js/jquery/jquery.easing.js'
         }, {
@@ -192,7 +234,6 @@ if(typeof String.prototype.trim !== 'function') {
     });
 }(jQuery));
 
-
 </script>
 
 <!-- TypeKit -->
@@ -220,7 +261,9 @@ if(typeof String.prototype.trim !== 'function') {
 
 
 </script>
-</head><body class="oclc"><div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
+
+
+<script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
 <script type="text/javascript">
     $CQ(function() {
@@ -230,7 +273,12 @@ if(typeof String.prototype.trim !== 'function') {
         
     });
 </script>
-</div>
+
+
+
+
+
+</head>
 
 
 
@@ -243,9 +291,7 @@ if(typeof String.prototype.trim !== 'function') {
 
 
 
-
-
-
+<body class="oclc">
 
 <noscript>
     <div class="nojs-caution">
@@ -264,6 +310,7 @@ if(typeof String.prototype.trim !== 'function') {
 
 <div class="parsys iparsys header_microbar"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys header_microbar"><div class="parbase sitebar section">
+
 
 
 
@@ -357,6 +404,8 @@ if(typeof String.prototype.trim !== 'function') {
            
             <li><a href="/support/home.en.html" title="">Support &amp; Training</a></li>
            
+            <li><a href="/content/community/en_us/home" title="">Community Center</a></li>
+           
             <li><a href="/content/developer/worldwide/en_us/home" title="">Developer Network</a></li>
            
             <li><a href="http://webjunction.org" title="">WebJunction</a></li>
@@ -385,6 +434,7 @@ if(typeof String.prototype.trim !== 'function') {
 
 
 
+
 <header>
 
 <script>
@@ -409,6 +459,7 @@ if(typeof String.prototype.trim !== 'function') {
   <div class="logo parbase globallogo">
 
 
+
     <!-- logo -->
     <div itemscope="" itemtype="http://schema.org/Organization">
     <a href="/home.en.html" itemprop="url">
@@ -427,6 +478,7 @@ if(typeof String.prototype.trim !== 'function') {
     
    
     
+
 
 
     <script>
@@ -514,6 +566,7 @@ function checkClear(input) {
   
 
 
+
     
     
 
@@ -532,6 +585,7 @@ function checkClear(input) {
  </section>
 </div>
  <div class="topnav">
+
 
 
     
@@ -617,7 +671,8 @@ function checkClear(input) {
 
 </header>
 </div>
-<div class="customjavascript section"><script>
+<div class="customjavascript section">
+<script>
 (function($){
     $(".nav-right").closest(".main-nav-item").addClass("main-nav-item-right");
 })(jQuery);
@@ -639,6 +694,7 @@ function checkClear(input) {
 
     
      
+
 
 
 
@@ -668,6 +724,7 @@ function checkClear(input) {
         </div>
 
           <div class="parbase addThis">
+
 
 
 
@@ -766,6 +823,7 @@ function checkClear(input) {
 
 
 
+
   
   
     <h1>OCLC Privacy Policy<br> </h1>
@@ -775,6 +833,7 @@ function checkClear(input) {
  
 </div>
 <div class="text parbase section">
+
 
 
 
@@ -792,6 +851,7 @@ function checkClear(input) {
  
 </div>
 <div class="parbase section reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="text parbase text_3f2d">
+
 
 
 
@@ -899,6 +959,7 @@ function checkClear(input) {
 
 
 
+
     
     
     
@@ -916,10 +977,12 @@ function checkClear(input) {
         <div class="cont-page">
             <div class="par parsys"><div class="parsyscolumncontrol section">
 
+
 <div class="parsys_column cq-colctrl-lt4">
 
 <div class="parsys_column cq-colctrl-lt4-c0">    
     <div class="parsys col0"><div class="text parbase section">
+
 
 
 
@@ -958,6 +1021,7 @@ function checkClear(input) {
 
 
 
+
   
   
     <h3>Information for</h3> 
@@ -975,6 +1039,7 @@ function checkClear(input) {
  
 </div>
 <div class="text parbase section">
+
 
 
 
@@ -1001,6 +1066,7 @@ function checkClear(input) {
 
 <div class="parsys_column cq-colctrl-lt4-c2">    
     <div class="parsys col2"><div class="text parbase section">
+
 
 
 
@@ -1036,6 +1102,7 @@ function checkClear(input) {
 
 
 
+
   
   
     <h3>Visit related sites</h3> 
@@ -1052,6 +1119,7 @@ function checkClear(input) {
  
 </div>
 <div class="text parbase section">
+
 
 
 
@@ -1080,6 +1148,7 @@ function checkClear(input) {
 
 
 
+
   
   
     <hr>
@@ -1090,10 +1159,12 @@ function checkClear(input) {
 </div>
 <div class="parsyscolumncontrol section">
 
+
 <div class="parsys_column cq-colctrl-lt6">
 
 <div class="parsys_column cq-colctrl-lt6-c0">    
     <div class="parsys col0"><div class="text parbase section">
+
 
 
 
@@ -1118,11 +1189,12 @@ function checkClear(input) {
 
 
 
+
   
   
     <div class="copyright">
    <p><a title="Read the OCLC copyright policy" href="/policies/copyright.en.html">© 2015 OCLC</a></p> 
-   <p><a target="_blank" title="View the OCLC and Affiliate Trademarks and Service Marks PDF" href="/content/dam/oclc/about/styleguide/trademarks.pdf">Domestic and international trademarks and/or service marks of OCLC Online Computer Library Center, Inc. and its affiliates</a></p> 
+   <p><a title="View the OCLC and Affiliate Trademarks and Service Marks PDF" href="/news/media-kit/trademarks.en.html">Domestic and international trademarks and/or service marks of OCLC Online Computer Library Center, Inc. and its affiliates</a></p> 
    <p>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. <a href="/policies/cookies.en.html">Find out more.</a></p> 
    <ul> 
     <li><a href="/policies/privacy.en.html">Privacy policy</a></li> 
@@ -1136,6 +1208,7 @@ function checkClear(input) {
  
 </div>
 <div class="text parbase section">
+
 
 
 
@@ -1178,6 +1251,7 @@ function checkClear(input) {
 
 
 
+
   
     
   
@@ -1203,14 +1277,16 @@ function checkClear(input) {
     
 
 </div>
-<div class="customjavascript section"><!-- Crazy Egg -->
+<div class="customjavascript section">
+<!-- Crazy Egg -->
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/6913.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script> </div>
-<div class="customjavascript section"><!--Pardot-->
+<div class="customjavascript section">
+<!--Pardot-->
 <script type="text/javascript">
 piProfileId = 302;
 piAId = '48682';
@@ -1243,6 +1319,7 @@ piCId = '9346';
 
         <!-- SiteCatalyst BEGIN -->
         
+
 
 	
 
