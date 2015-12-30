@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akashtablet.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408083656id_/http%3A//www.akashtablet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akashtablet.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230151658id_/http%3A//www.akashtablet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Datawind, Aakash Tablets India
 
