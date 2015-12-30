@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171809id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230040810id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # MNT - Privacy Policy
 
@@ -14,7 +14,7 @@ For example, our email-a-friend service uses your name and email address, as wel
 
 Please read the rest of the document to familiarize yourself with where and how we collect and use your data, as well as how our advertisers and other service providers deal with your personal data.
 
-* * *
+Please be aware that by continuing to use MNT, you consent to our useage of the methods described here.
 
 ## Our use of cookies
 
@@ -55,7 +55,7 @@ They do this in order to provide advertisements on MNT and other websites about 
 
 If you would like more information about this practice, or if you would like to know your choices about not having this information used by Google, please [see the privacy policy at Google](http://www.google.co.uk/intl/en/privacy.html "External Link - Opens in new window : Google Privacy Policy").
 
-To learn more about behavioral advertising practices by third-party advertisers or to opt out of this type of advertising, you can visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "External Link - Opens in new window : www.networkadvertising.org").
+To learn more about behavioral advertising practices by third-party advertisers or to opt out of this type of advertising, you can visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "External Link - Opens in new window : www.networkadvertising.org") and <https://www.google.com/settings/ads>
 
 You may also read our own [advertising policy here](https://web.archive.org/ad-policy "Read our advertising policy here").
 
@@ -78,9 +78,9 @@ We use this information to aid our understanding of how our readers interact wit
 
 As you can understand, this information is very useful and helps us to decide when we roll out new services and importantly, how we make sure that MNT is readable on the widest possible range of computers, tablets, mobile phones and other devices. 
 
-(At the time of writing, our reports showed that we had nearly 5,000 different types of devices accessing MNT per month.)
+(At the time of writing, our reports showed that we had nearly 5,000 _different_ types of devices accessing MNT per month.)
 
-Regardless of how useful we might find this information, you may opt out of providing this information to Google [here](https://www.google.com/settings/ads "External Link - Opens in new window : www.google.com/settings/ads").
+Regardless of how useful this information it in allowing us to provide a better service to you, our reader, you may opt out of providing this information to Google Analyitics [here](https://tools.google.com/dlpage/gaoptout?hl=None "External Link - Opens in new window").
 
   
 
