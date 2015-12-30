@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proarticlesdaily.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519230723id_/http%3A//proarticlesdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proarticlesdaily.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230011433id_/http%3A//proarticlesdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ProArticlesDaily.com
+# Privacy Policy - ProArticlesDaily.com
 
 **What information do we collect?**
 
