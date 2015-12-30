@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewloop.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521063252id_/http%3A//www.reviewloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewloop.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230083845id_/http%3A//reviewloop.com/privacy-policy) for the most accurate reproduction.*
 
 # ReviewLoop Privacy Policy
 
