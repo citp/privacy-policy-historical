@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the craftsy.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206003921id_/http%3A//www.craftsy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the craftsy.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230223953id_/http%3A//www.craftsy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -20,17 +20,8 @@
 
 
 
-
-
 <meta http-equiv="content-language" content="en-us">
 <meta property="fb:admins" content="100002056618171">
-<link rel="stylesheet" type="text/css" href="/css/1386282824982/craftsy/global.css" media="all">
-
-<link rel="stylesheet" type="text/css" href="/css/1386282824982/craftsy/columnal.css" media="all">
-<link rel="stylesheet" type="text/css" href="/css/1386282824982/craftsy/customColumnal.css" media="all">
-
-
-<link rel="stylesheet" type="text/css" href="/css/1386282824982/fonts.css" media="all">
 
 
 
@@ -41,10 +32,153 @@
 
 
 
-<script src="//cdn.linksmart.com/linksmart_2.3.0.min.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/json2.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KNTZ7G"></script><script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/lib/jquery.js"></script>
+    <!-- Script for optimizely - required for submitting conversion events to optimizely -->
+    <script src="//cdn.optimizely.com/js/2859141237.js" "=""></script>
+
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/images/craftsy/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/craftsy/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/craftsy/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/craftsy/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/craftsy/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/craftsy/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/craftsy/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/craftsy/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/craftsy/favicons/apple-touch-icon-180x180.png">
+<link rel="shortcut icon" href="/images/craftsy/favicons/favicon.ico">
+<link rel="icon" type="image/png" href="/images/craftsy/favicons/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/images/craftsy/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/images/craftsy/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/images/craftsy/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/images/craftsy/favicons/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/images/craftsy/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/images/craftsy/favicons/browserconfig.xml">
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/lib/require.js"></script>
 <script type="text/javascript">
+    
+    requirejs.config({
+        baseUrl: '//static.craftsy.com/static/855de293/jsmin',
+        waitSeconds: 60, 
+        shim: {
+            'lib/headroom': {
+                'exports': 'Headroom'
+            }
+        }
+        
+    });
+</script>
+
+<script type="text/javascript">
+    
     (function(){
+        var onTerminatedPageLoad = (function(){
+            var callback = null;
+
+            // We are going to detect if the user aborts the page load. Oh yes. This is fun.
+            if ( document.onstop !== undefined )
+            {
+                // IE makes this easy, thanks IE.
+                document.onstop = function()
+                {
+                    if ( callback != null )
+                    {
+                        callback();
+                    }
+                };
+            }
+            else
+            {
+                // Enter the realm of weirdness
+                var hasSeenInteractive = false,
+                        hasSeenComplete = false;
+
+                document.addEventListener(
+                        'readystatechange',
+                        function()
+                        {
+                            var state = document.readyState;
+                            if ( state === 'interactive' )
+                            {
+                                hasSeenInteractive = true;
+                            }
+                            else if ( state === 'complete' )
+                            {
+                                hasSeenComplete = true;
+
+                                // Chrome sets readyState to `complete` before `interactive` if pageload is aborted.
+                                if ( !hasSeenInteractive )
+                                {
+                                    if ( callback != null )
+                                    {
+                                        callback();
+                                    }
+                                }
+                            }
+                        }
+                );
+
+                window.addEventListener(
+                        'pageshow',
+                        function()
+                        {
+                            if ( !hasSeenComplete )
+                            {
+                                // Firefox doesn't set readyState to `complete` before firing onpageshow
+                                if ( callback != null )
+                                {
+                                    callback();
+                                }
+                            }
+                        }
+                );
+            }
+
+            return function( the_callback )
+            {
+                callback = the_callback;
+            }
+        })();
+
         var jselLog = {},
+            isPageTerminated = false,
+            isPageLoaded = false,
+            errorQueue = [],
             hashFunc = function( str ) {
                 var hash = 0, i, l = str.length, chr;
                 if ( l === 0 ) return hash;
@@ -55,38 +189,44 @@
                     hash = hash & hash;
                 }
                 return hash;
+            },
+            jselDetach = function()
+            {
+                isPageTerminated = true;
             };
-
-        function jselUnload()
-        {
-            if ( navigator.userAgent.indexOf( 'Firefox' ) !== -1 )
-            {
-                window.onerror = undefined;
-            }
-            else if ( window.addEventListener )
-            {
-                window.removeEventListener( 'error', jselError );
-            }
-            else if ( window.detachEvent )
-            {
-                window.detachEvent( 'onerror', jselError );
-            }
-        }
 
         window.jselError = function( error )
         {
+            if ( isPageTerminated )
+            {
+                // Pageload was terminated by user, we don't care about any of their errors
+                return;
+            }
+
             try {
+                var blacklist = ["Script error", "Script error."];
                 var errorMessage = (error && error.message) ? error.message : (window && window.event && window.event.errorMessage) ? window.event.errorMessage : "Unknown message.";
+
+                // Don't handle errors in blacklist.
+                if ( blacklist.indexOf( errorMessage ) !== -1 ) { return false; }
+
                 var fileName = (error && error.filename) ? error.filename : "No file available.";
                 var lineNumber = (error && error.lineno !== undefined) ? error.lineno : (window && window.event && window.event.errorLine) ? window.event.errorLine : "Unknown error line.";
                 var userAgent = (navigator && navigator.userAgent) ? navigator.userAgent : "Unknown User Agent.";
+                var payload = {
+                    jsp_timestamp: 1451515194071,
+                    clientIP: '207.241.231.227',
+                    stacktrace: error.error ? error.error.stack || '' : ''
+                };
                 var eObject = {
                         error: errorMessage,
                         file: fileName,
                         line: lineNumber,
-                        sessionId: document.cookie.match(/JSESSIONID=([a-zA-Z0-9\.]+)/)[1] || "Unknown",
+                        sessionId: '2EB6C401075971543A3038A1D52A4150.eagles001',
+                        sympSessionId: '1451512841469:honcspw5',
                         url: document.location.href,
-                        userAgent: userAgent
+                        userAgent: userAgent,
+                        payload: payload
                     },
                     request = null;
 
@@ -131,44 +271,40 @@
             }
             catch( e ) { if (window.console) { console.log( e ); } }
         };
+
+        onTerminatedPageLoad( jselDetach );
         if ( navigator.userAgent.indexOf( 'Firefox' ) !== -1 )
         {
-            window.onerror = function( message, file, line )
+            window.onerror = function( message, file, line, col, error )
             {
                 jselError({
                     message: message,
                     filename: file,
-                    lineno: line
+                    lineno: line,
+                    error: error
                 });
             };
-            window.addEventListener( 'beforeunload', jselUnload );
+            window.addEventListener( 'beforeunload', jselDetach );
         }
         else if ( window.addEventListener )
         {
             window.addEventListener( 'error', jselError );
-            window.addEventListener( 'beforeunload', jselUnload );
+            window.addEventListener( 'beforeunload', jselDetach );
         }
         else if ( window.attachEvent )
         {
             window.attachEvent('onerror', jselError);
-            window.attachEvent( 'onbeforeunload', jselUnload );
+            window.attachEvent( 'onbeforeunload', jselDetach );
         }
     })();
-</script>
+    
 
-<script src="//d3nslu0hdya83q.cloudfront.net/dist/1.0/raven.min.js"></script>
-<script>
-    Raven.config('https://13e107849d014a65affe6d9f2c81bb46:7e918699af1c43df9073f61b2040cf3b@app.getsentry.com/13626', {
-        ignoreErrors: ['Uncaught Error: Attempting to use a disconnected port object'],
-        whitelistUrls: [/craftsy\.com/]
-    }).install();
-</script>
-
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime();var prepopEmail='';</script>
-<script type="text/javascript">
+    var prepopEmail='';
     var isChrome = (navigator.userAgent.toLowerCase().indexOf('chrome') > -1);
     var isFF = (navigator.userAgent.indexOf("Firefox")!=-1);
+    var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
     var isWindows = (navigator.appVersion.indexOf("Win")!=-1);
+    var isHtml5 = false;
     var isIE = false;
     var isIE7 = false;
     var isIE8 = false;
@@ -178,6 +314,7 @@
     var isIE9 = false;
     var isIEgte9 = false;
     var isIE10 = false;
+    var isIE11 = false;
     var ie = '';
     var isiPad = navigator.platform.indexOf( "iPad" ) != -1;
     var isiPhone =  (
@@ -189,7 +326,9 @@
     var isTablet = false;
     var isMobile = false && !isTablet;
     //isiOS5 also tests for iOS 4 as well
+
     var isiOSLessThan6 = ( isiPhone || isiPad ) && ( navigator.userAgent.indexOf( 'OS 5' ) !== -1 || navigator.userAgent.indexOf( 'OS 4' ) !== -1 );
+    var isiOS7 = false;
 
     // This wonderful bit of code checks for IE10.
     /*@cc_on
@@ -200,7 +339,35 @@
      }
      @*/
 
+    // Check for modern versions of IE via the user agent
+    (function(){
+        var matchIE = navigator.userAgent.match(/(trident).+rv[:\s]((\d+)?[\w\.]+).+like\sgecko/i);
+        if ( matchIE )
+        {
+            var majorVersion = matchIE[3];
+            if ( majorVersion === '11' )
+            {
+                isIE = true;
+                isIEgte8 = true;
+                isIEgt8 = true;
+                isIEgte9 = true;
+                isIE11 = true;
+            }
+        }
+    })();
+
+
+    var _userVideoSettings = '{"deliverySetting":"BEST_FIT","craftsyHelp":true,"bitrate":"HIGH"}';
+    var _isProduction = true;
+    var _userEmailMD5 = '';
+    var isLoggedIn=false;
+    var userId=0;
+    if(!enrollableId){ var enrollableId=0; };
+    var enroll={};
+    if(!enrollRegType){var enrollRegType = '';}
+    if(!paymentModal){var paymentModal='payment';}
 </script>
+
 
         <!--[if IE]>
         <script type="text/javascript">
@@ -249,32 +416,60 @@
         <![endif]-->
 
 
-<link rel="stylesheet" type="text/css" href="/css/1386282824982/cobrand/sympoz.css" media="all">
-
-
 
 
 <script type="text/javascript">
-    var _gaq = _gaq || [];
-    var gaqPluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-    _gaq.push(['_require', 'inpage_linkid', gaqPluginUrl]);
-    _gaq.push(['_setAccount', 'UA-22901171-1']);
-    _gaq.push(['_setDomainName', '.craftsy.com']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    
+    
+    var loadCSS = (function(){
+        return function loadCSS( href, media, callback ) {
+            "use strict";
+            // Arguments explained:
+            // `href` is the URL for your CSS file.
+            // However, since the order in which stylesheets are referenced matters, you might need a more specific location in your document.
+            // If so, pass a different reference element to the `before` argument and it'll insert before that instead
+            var ss = window.document.createElement( "link" );
+            var sheets = window.document.styleSheets;
+            ss.rel = "stylesheet";
+            ss.type = "text/css";
+            ss.href = href;
+            // temporarily, set media to something non-matching to ensure it'll fetch without blocking render
+            ss.media = "only x";
+            ss.onload = callback || function() {};
+            // inject link
+            document.head.appendChild( ss );
+            // This function sets the link's media back to `all` so that the stylesheet applies once it loads
+            // It is designed to poll until document.styleSheets includes the new sheet.
+            function toggleMedia(){
+                var defined;
+                for( var i = 0; i < sheets.length; i++ ){
+                    if( sheets[ i ].href && sheets[ i ].href.indexOf( href ) > -1 ){
+                        defined = true;
+                    }
+                }
+                if( defined ){
+                    ss.media = media || "all";
+                }
+                else {
+                    setTimeout( toggleMedia );
+                }
+            }
+            toggleMedia();
+            return ss;
+        };
     })();
 </script>
 
-        <link rel="stylesheet" type="text/css" href="/css/1386282824982/craftsy/static.css" media="all">
+<link rel="stylesheet" type="text/css" href="//static.craftsy.com/static/855de293/css/craftsy/global.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="//static.craftsy.com/static/855de293/css/craftsy/columnal.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="//static.craftsy.com/static/855de293/css/fonts.css" media="all">
+
+        <link rel="stylesheet" type="text/css" href="//static.craftsy.com/static/855de293/css/craftsy/static.css" media="all">
     </head>
 
-
     <body id="static">
-
         <div class="container">
 
             
@@ -328,175 +523,125 @@
 
 
 
-
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNTZ7G"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNTZ7G' )</script>
 <script type="text/javascript">
-    Raven.setUser({
-        id: '0',
-        sessionId: 'B1A0470D33620F012AED695A92453032.britney'
-    });
+    (function(){
+        var generateUUID = (function() {
+            function s4() {
+                return Math.floor((1 + Math.random()) * 0x10000)
+                        .toString(16)
+                        .substring(1);
+            }
+            return function() {
+                return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+                        s4() + '-' + s4() + s4() + s4();
+            };
+        })();
+        dataLayer.push({
+            
+            session : {
+                uuid : generateUUID(),
+                sympozSessionId : '1451512841469:honcspw5',
+                ordinal : '844',
+                ext: 'other-organic'
+            },
+            event : 'CraftsyEvent.Initialize'
+        });
+    })();
 </script>
+<!-- End Google Tag Manager -->
 
 
 
 
+<!-- bottom banner for mobile only -->
+
+    
+    
 
 
 <div id="growlHolder">
     <div id="growlPositioner">
     </div>
 </div>
-<div id="craftsy_affiliate_top_cobranding"></div>
-
-
-<script type="text/javascript">
-    var _isProduction = true;
-    var isAutoGenerated=false;
-    var isLoggedIn=false;
-    var userId=0;
-    if(!enrollableId){ var enrollableId=0; };
-    var enroll={};
-    var displayModal = '';
-    if(!enrollRegType){var enrollRegType = '';}
-    if(!paymentModal){var paymentModal='payment';}
-    var snitchConfig = {
-        authToken: 'cfcd208495d565ef66e7dff9f98764da_d41d8cd98f00b204e9800998ecf8427e',
-        server: 'airwave.sympoz.com:2000'
-    };
-</script>
+<div id="craftsy_affiliate_top_cobranding" class="hidden"></div>
 
 
 
 <div class="row">
     <div id="navWrap" class="col_12">
-<div id="nav">
-            <div id="navTop">
+        <div id="nav" class="updatedDesign">
+
+            <div id="navTop" data-current="">
 
                 <ol id="utils" class="navLinks">
-                    
-                    <script id="userSubMenu" type="text/x-underscore-template">
-                        <ol id="accountMenu" class="hidden">
-                                <li><a href="/my/home?_ct=wberqbdql-kiuh-coshqvjio">My Craftsy</a></li>
-                                <li><a href="/user/whats-hot?_ct=wberqbdql-kiuh-mxqjixej">What's Hot</a></li>
-                                <li><a href="/my/settings?_ct=wberqbdql-kiuh-iujjydwi">My Settings</a></li>
-                                <li><a href="/user/{userId}/wishlist?_ct=wberqbdql-kiuh-myixbyij">My Wishlist</a></li>
-                                <li><a href="/my/order-history?_ct=wberqbdql-kiuh-ehtuhxyijeho">My Order History</a></li>
-                                
-                                <li><a href="/logout">Sign Out</a></li>
-                        </ol>
-                    </script>
                     
                     
                     
                     <li id="accountLoggedOut" class="loggedOut">
-                        <a href="/join?regType=JOIN_HOME&amp;_ct=wberqbdql-zeyd">Join</a> or <a href="/login?_ct=wberqbdql-bewyd">Sign In</a>
+                        <a data-model="topnav" data-action="join" href="/join?loginJoin=join&amp;regType=JOIN&amp;_ct=wberqbdql-zeyd&amp;forwardUrl=http://www.craftsy.com/cart?_ct=wberqbdql-sqhj">Join</a> or <a href="/login?_ct=wberqbdql-bewyd&amp;forwardUrl=http://www.craftsy.com/cart?_ct=wberqbdql-sqhj">Sign In</a>
                     </li>
                     
-                    <li class="mobile-hide">
+                    <li id="cartLink" class="mobile-hide">
                         <a href="/cart?_ct=wberqbdql-sqhj" id="cart" class="empty"> 
-                            <img src="/images/craftsy/cartOrangeHQ.png" alt="Cart">
+                            <span class="icon-cart"></span>
                             
                         </a>
                     </li>
-                </ol>
 
-                
-                <p id="accountAlt" class="loggedOut"><a href="/join?regType=JOIN_HOME&amp;_ct=wberqbdql-zeyd">Join</a> or <a href="/login?_ct=wberqbdql-bewyd">Sign In</a></p>
-                
-                <div id="PSOBanner">
-                
-                </div>
-
-            </div>
-            <div id="navMain">
-                <div id="PSOBannerMobile">
                     
-                </div>
-                <div id="navHome" itemscope="" itemtype="http://schema.org/Organization">
-                    <a href="/?_ct=wberqbdql-bewe" itemprop="url">
+                    
                         
-                        <img itemprop="logo" src="/images/craftsy/logoMed.png" alt="Craftsy.com">
                         
-                    </a>
-                </div>
-
-                <button type="button" id="mobileNavToggle" class="navBtn mobile-only"><img src="/images/clear.gif" alt="Submit" class="menuWhite"></button>
-                <button type="button" id="mobileSearchToggle" class="searchBtnMobile mobile-only"><img src="/images/clear.gif" alt="Submit" class="magnifyWhite"></button>
-
-                
-
-                
-                
-                <div class="mobile-only mobileLoggedOut"><a href="/join?regType=JOIN_HOME&amp;_ct=wberqbdql-zeyd">Join</a> or <a href="/login?_ct=wberqbdql-bewyd">Sign In</a></div>
-                
-                <ol class="navLinks">
-                    <li class="catSwitcher">
-                        <a href="#" id="selectedCat">Everything<img src="/images/clear.gif" class="arrowDownGrey"></a>
-                        <ol id="catSwitcherMenu" class="hidden">
-                            <li class="subNavHeader">Popular</li>
+                        
+                        
+                        
                             
-                            <li><a href="/cake-decorating?_ct=wberqbdql-sqjuweho&amp;_ctp=cake-decorating">Cake Decorating</a></li>
                             
-                            <li><a href="/knitting?_ct=wberqbdql-sqjuweho&amp;_ctp=knitting">Knitting</a></li>
+                                
                             
-                            <li><a href="/quilting?_ct=wberqbdql-sqjuweho&amp;_ctp=quilting">Quilting</a></li>
+                        
+                        
                             
-                            <li><a href="/sewing?_ct=wberqbdql-sqjuweho&amp;_ctp=sewing">Sewing</a></li>
                             
-                            <li><a href="/fine-art?_ct=wberqbdql-sqjuweho&amp;_ctp=fine-art">Fine Art</a></li>
-                            
-                            <li><a href="/photography?_ct=wberqbdql-sqjuweho&amp;_ctp=photography">Photography</a></li>
-                            
-                            <li><a href="/food-and-cooking?_ct=wberqbdql-sqjuweho&amp;_ctp=food-and-cooking">Food &amp; Cooking</a></li>
-                            
-                            <li class="subNavHeader">More</li>
-                            
-                            <li><a href="/crocheting?_ct=wberqbdql-sqjuweho&amp;_ctp=crocheting">Crocheting</a></li>
-                            
-                            <li><a href="/embroidery?_ct=wberqbdql-sqjuweho&amp;_ctp=embroidery">Embroidery</a></li>
-                            
-                            <li><a href="/home-and-garden?_ct=wberqbdql-sqjuweho&amp;_ctp=home-and-garden">Home &amp; Garden</a></li>
-                            
-                            <li><a href="/jewelry?_ct=wberqbdql-sqjuweho&amp;_ctp=jewelry">Jewelry</a></li>
-                            
-                            <li><a href="/paper-crafts?_ct=wberqbdql-sqjuweho&amp;_ctp=paper-crafts">Paper Crafts</a></li>
-                            
-                            <li><a href="/spinning?_ct=wberqbdql-sqjuweho&amp;_ctp=spinning">Spinning</a></li>
-                            
-                            <li><a href="/weaving?_ct=wberqbdql-sqjuweho&amp;_ctp=weaving">Weaving</a></li>
-                            
-                            <li><a class="current" href="/whats-hot?_ct=wberqbdql-sqjuweho&amp;_ctp=everything">Everything</a></li>
-                        </ol>
-                    </li>
-                    <li><a href="/classes?_ct=wberqbdql-sbqiiui">Online Classes</a></li>
-
-                    
-                    <li><a href="/patterns?_ct=wberqbdql-fqjjuhdi">Patterns</a></li>
-                    
-
-                    <li><a href="/project?_ct=wberqbdql-fhezusji">Projects</a></li>
-                    
-                    <li><a href="/supplies?_ct=wberqbdql-ikffbyui">Supplies</a></li>
-                    
-                    <li><a href="/blog?_ct=wberqbdql-rbew" class="bloggy">Blog</a></li>
-                </ol>
-
-                <ol id="utils" class="navLinks">
-                    
-                    <script id="userSubMenu" type="text/x-underscore-template">
-                        <ol id="accountMenu" class="hidden">
-                                <li><a href="/my/home?_ct=wberqbdql-kiuh-coshqvjio">My Craftsy</a></li>
-                                <li><a href="/user/whats-hot?_ct=wberqbdql-kiuh-mxqjixej">What's Hot</a></li>
-                                <li><a href="/my/settings?_ct=wberqbdql-kiuh-iujjydwi">My Settings</a></li>
-                                <li><a href="/user/{userId}/wishlist?_ct=wberqbdql-kiuh-myixbyij">My Wishlist</a></li>
-                                <li><a href="/my/order-history?_ct=wberqbdql-kiuh-ehtuhxyijeho">My Order History</a></li>
-                                <li><a href="/logout">Sign Out</a></li>
-                        </ol>
-                    </script>
-                    
+                        
                     
                 </ol>
-
+                <div id="inboxMini"></div>
+                <script type="text/javascript">
+                    document.addEventListener('DOMContentLoaded', function() {
+                        require(
+                                [
+                                    'lib/react',
+                                    'craftsy/memberHome/InboxMiniLazy'
+                                ],
+                                function (React,
+                                          InboxMiniLazy) {
+                                    React.render(
+                                            React.createElement(InboxMiniLazy),
+                                            document.getElementById('inboxMini')
+                                    );
+                                }
+                        );
+                    });
+                </script>
                 
+                    <p id="accountAlt" class="loggedOut"><a data-model="topnav" data-action="join" href="/join?loginJoin=join&amp;regType=JOIN&amp;_ct=wberqbdql-zeyd&amp;forwardUrl=http://www.craftsy.com/cart?_ct=wberqbdql-sqhj">Join</a> or <a href="/login?_ct=wberqbdql-bewyd&amp;forwardUrl=http://www.craftsy.com/cart?_ct=wberqbdql-sqhj">Sign In</a></p>
+                
+                
+                
+
+
+
+
+
 
 
 
@@ -506,8 +651,8 @@
     <input type="hidden" name="type" value="" id="universalSearchTypeValue">
     <input type="hidden" name="categoryUrl" value="" id="universalSearchCategoryUrl">
     <div id="universalSearchTextContainer">
-        <span id="universalSearchQuery" class="placeholder" contenteditable="true">Search Craftsy</span>
-        <img src="/images/clear.gif" id="universalSearchClear" class="delete">
+        <input type="text" id="universalSearchQuery" autocomplete="off" class="placeholder" value="Search Craftsy">
+        <img src="//static.craftsy.com/images/clear.gif" id="universalSearchClear" class="delete" alt="">
         <div id="universalSearchCategorySelector">
             
             <div class="universalSearchCategorySelectorOption current" data-key="All Craftsy" data-value=""><span class="universalSearchCategorySelectorHolder"></span> in All Craftsy</div>
@@ -518,75 +663,454 @@
             
             <div class="universalSearchCategorySelectorOption " data-key="Projects" data-value="project"><span class="universalSearchCategorySelectorHolder"></span> in Projects</div>
             
-            <div class="universalSearchCategorySelectorOption " data-key="Supplies" data-value="product_for_sale"><span class="universalSearchCategorySelectorHolder"></span> in Supplies</div>
+            <div class="universalSearchCategorySelectorOption " data-key="Supplies" data-value="product_for_sale"><span class="universalSearchCategorySelectorHolder"></span> in Kits &amp; Supplies</div>
             
         </div>
     </div>
-    <button><img src="/images/clear.gif" alt="Submit" class="magnifyWhite"></button>
+    <button><img src="//static.craftsy.com/images/clear.gif" alt="Submit" class="magnifyWhite"></button>
 </form>
-
-            </div>
-            
-            
-            
-            
-            
+                
+                <div id="PSOBanner">
+                    
+                </div>
+                
+                
+                
                     <ul class="socialLinks">
                         
                         
+                            <li>
+                                <a href="javascript:void(0);">
+                                        <span class="icon-facebook" id="facebookCircle" data-model="facebook" data-action="share" data-connect="true" data-link="http://www.craftsy.com" data-picture="http://cdn.craftsy.com/craftsy/logoMed.png" data-description="Welcome to Craftsy! Learn it. Make it." src="//static.craftsy.com/images/clear.gif" alt="Share on Facebook" title="Share on Facebook"></span>
+                                </a>
+                            </li>
+                        
+                        
+                        
                         <li>
-                            <a href="#">
-                                <img class="facebookCircle" data-connect="true" data-link="http://www.craftsy.com" data-name="" data-picture="http://www.craftsy.com/images/craftsy/craftsy-logo.png" data-description="Welcome to Craftsy! Learn it. Make it." data-campaign="GAME_FB_GEN" src="/images/clear.gif" alt="Share on Facebook" title="Share on Facebook">
+                            <a href="javascript:void(0);">
+                                    <span class="icon-pinterest" data-model="pinterest" data-action="share" id="pinterestCircle" data-url="http://www.craftsy.com" data-media="http://cdn.craftsy.com/craftsy/logoMed.png" data-description="Welcome to Craftsy! Learn it. Make it." src="//static.craftsy.com/images/clear.gif" alt="Pin It" title="Pin this on Pinterest"></span>
                             </a>
                         </li>
                         
                         
-                        
                         <li>
-                            <a href="#">
-                                <img class="pinterestCircle" data-url="http://www.craftsy.com" data-media="http%3A%2F%2Fwww.craftsy.com%2Fimages%2Fcraftsy%2Fcraftsy-logo.png" data-description="Welcome+to+Craftsy%21+Learn+it.+Make+it. - via @Craftsy" data-campaign="GAME_PN_GEN" src="/images/clear.gif" alt="Pin It" title="Pin this on Pinterest">
+                            <a href="javascript:void(0);">
+                                    <span class="icon-twitter" id="twitterCircle" data-model="twitter" data-action="share" data-url="http://www.craftsy.com" data-text=" via @beCraftsy" src="//static.craftsy.com/images/clear.gif" alt="Tweet This" title="Share on Twitter"></span>
                             </a>
                         </li>
                         
-
                         
                         <li>
-                            <a href="#">
-                                <img class="twitterCircle" data-url="http://www.craftsy.com" data-text="@beCraftsy - " data-campaign="GAME_TW_GEN" src="/images/clear.gif" alt="Tweet This" title="Share on Twitter">
-                            </a>
-                        </li>
-                        
-
-                        
-                        <li>
-                            <a href="#">
-                                <img class="googlePlusCircle" data-url="http://www.craftsy.com" data-media="http%3A%2F%2Fwww.craftsy.com%2Fimages%2Fcraftsy%2Fcraftsy-logo.png" data-description="Welcome+to+Craftsy%21+Learn+it.+Make+it." data-campaign="GAME_GP_GEN" src="/images/clear.gif" alt="Share on Google+" title="Share on Google+">
+                            <a href="javascript:void(0);">
+                                    <span class="icon-googleplus" id="googlePlusCircle" data-model="googleplus" data-action="share" data-url="http://www.craftsy.com" data-media="http%3A%2F%2Fcdn.craftsy.com%2Fcraftsy%2FlogoMed.png" data-description="+-+Welcome+to+Craftsy%21+Learn+it.+Make+it." src="//static.craftsy.com/images/clear.gif" alt="Share on Google+" title="Share on Google+"></span>
                             </a>
                         </li>
                         
                     </ul>
-
                     <script type="text/javascript">
-                        var _gaq = _gaq || [];
                         function trackTwitter(intent_event) {
                             if (intent_event) {
                                 var opt_pagePath;
                                 if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
                                     opt_target = extractParamFromUri(intent_event.target.src, 'url');
                                 }
-                                _gaq.push(['_trackSocial', 'Twitter', 'Tweet', opt_pagePath]);
                             }
                         }
                     </script>
                     
-            
-            
+                
+            </div>
+            <div id="navMain" class="updatedDesign ">
+                <div id="navHome" itemscope="" itemtype="http://schema.org/Organization">
+                    <a href="/?_ct=wberqbdql-bewe" itemprop="url">
+                        <img itemprop="logo" src="/images/craftsy/logoMed.png" class="logoMed" alt="Craftsy.com" onerror="this.onerror=null;this.src='/images/craftsy/logoMed.png';">
+                    </a>
+                </div>
+                <button type="button" id="mobileNavToggle" class="navBtn mobile-only"><img src="//static.craftsy.com/images/clear.gif" alt="Submit" class="menuWhite"><span>menu</span></button>
+                <button type="button" id="mobileSearchToggle" class="searchBtnMobile mobile-only"><span class="icon-search search-mobile"></span></button>
+
+                
+
+                
+                
+                    
+                        <div class="mobile-only mobileLoggedOut"><a href="/join?regType=JOIN&amp;_ct=wberqbdql-zeyd&amp;forwardUrl=http://www.craftsy.com/cart?_ct=wberqbdql-sqhj">Join</a> or <a href="/login?_ct=wberqbdql-bewyd&amp;forwardUrl=http://www.craftsy.com/cart?_ct=wberqbdql-sqhj">Sign In</a></div>
+                    
+                
+                <div class="navLinks">
+                    <ol class="mainNavLinks ">
+                        <li class="navOnlineClasses dropMenu">
+                            <a href="/classes?_ct=wberqbdql-sbqiiui">Online Classes <span class="icon-bracket-down"></span></a>
+                            <div class="mobileSubMenu mobile-only">
+                                <ol>
+                                    <li><a href="/classes">Classes Home</a></li>
+                                    
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/sewing-and-quilting?_ct=wberqbdql-sbqiiui&amp;_ctp=sewing-and-quilting/recommended">Sewing &amp; Quilting</a></li>
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/cake-and-cooking?_ct=wberqbdql-sbqiiui&amp;_ctp=cake-and-cooking/recommended">Cake &amp; Cooking</a></li>
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/yarn-and-fiber-arts?_ct=wberqbdql-sbqiiui&amp;_ctp=yarn-and-fiber-arts/recommended">Yarn &amp; Fiber Arts</a></li>
+                                        
+                                
+                                    
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/art-and-photo?_ct=wberqbdql-sbqiiui&amp;_ctp=art-and-photo/recommended">Art &amp; Photo</a></li>
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/home-and-garden?_ct=wberqbdql-sbqiiui&amp;_ctp=home-and-garden/recommended">Home &amp; Garden</a></li>
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/more?_ct=wberqbdql-sbqiiui&amp;_ctp=more/recommended">More</a></li>
+                                        
+                                
+                                </ol>
+                            </div>
+                            <div class="subMenu hidden" id="classSubMenu">
+                                
+                                    
+                                    <ol>
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/sewing-and-quilting?_ct=wberqbdql-sbqiiui&amp;_ctp=sewing-and-quilting/recommended">Sewing &amp; Quilting »</a></li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/sewing?_ct=wberqbdql-sbqiiui&amp;_ctp=sewing/recommended">
+                                                        Sewing
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/quilting?_ct=wberqbdql-sbqiiui&amp;_ctp=quilting/recommended">
+                                                        Quilting
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/embroidery?_ct=wberqbdql-sbqiiui&amp;_ctp=embroidery/recommended">
+                                                        Embroidery
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/cake-and-cooking?_ct=wberqbdql-sbqiiui&amp;_ctp=cake-and-cooking/recommended">Cake &amp; Cooking »</a></li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/cake-decorating?_ct=wberqbdql-sbqiiui&amp;_ctp=cake-decorating/recommended">
+                                                        Cake Decorating
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/food-and-cooking?_ct=wberqbdql-sbqiiui&amp;_ctp=food-and-cooking/recommended">
+                                                        Food &amp; Cooking
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/yarn-and-fiber-arts?_ct=wberqbdql-sbqiiui&amp;_ctp=yarn-and-fiber-arts/recommended">Yarn &amp; Fiber Arts »</a></li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/knitting?_ct=wberqbdql-sbqiiui&amp;_ctp=knitting/recommended">
+                                                        Knitting
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/crocheting?_ct=wberqbdql-sbqiiui&amp;_ctp=crocheting/recommended">
+                                                        Crocheting
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/spinning?_ct=wberqbdql-sbqiiui&amp;_ctp=spinning/recommended">
+                                                        Spinning
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/weaving?_ct=wberqbdql-sbqiiui&amp;_ctp=weaving/recommended">
+                                                        Weaving
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                    </ol>
+                                
+                                    
+                                    <ol>
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/art-and-photo?_ct=wberqbdql-sbqiiui&amp;_ctp=art-and-photo/recommended">Art &amp; Photo »</a></li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/drawing?_ct=wberqbdql-sbqiiui&amp;_ctp=drawing/recommended">
+                                                        Drawing
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/painting?_ct=wberqbdql-sbqiiui&amp;_ctp=painting/recommended">
+                                                        Painting
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/photography?_ct=wberqbdql-sbqiiui&amp;_ctp=photography/recommended">
+                                                        Photography
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/home-and-garden?_ct=wberqbdql-sbqiiui&amp;_ctp=home-and-garden/recommended">Home &amp; Garden »</a></li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/woodworking?_ct=wberqbdql-sbqiiui&amp;_ctp=woodworking/recommended">
+                                                        Woodworking
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/gardening?_ct=wberqbdql-sbqiiui&amp;_ctp=gardening/recommended">
+                                                        Gardening
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                            
+                                            <li class="subNavHeader"><a href="/classes/more?_ct=wberqbdql-sbqiiui&amp;_ctp=more/recommended">More »</a></li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/jewelry?_ct=wberqbdql-sbqiiui&amp;_ctp=jewelry/recommended">
+                                                        Jewelry
+                                                    </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a href="/classes/paper-crafts?_ct=wberqbdql-sbqiiui&amp;_ctp=paper-crafts/recommended">
+                                                        Paper Crafts
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                    </ol>
+                                
+                                <div class="testimony">
+                                    <div class="random">
+                                        <img src="" class="testAvatar">
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                          </li>
+
+                        
+                        <li class="navKits dropMenu" id="topNavKits">
+                            <a href="/kits?_ct=wberqbdql-ayji">Kits <span class="icon-bracket-down"></span></a>
+                            <div class="mobileSubMenu mobile-only">
+                                <ol>
+                                    <li><a href="/kits">Kits Home</a></li>
+                                    
+                                    <li><a href="/kits/quilting?_ct=wberqbdql-ayji&amp;_ctp=quilting">Quilting</a></li>
+                                    
+                                    <li><a href="/kits/sewing?_ct=wberqbdql-ayji&amp;_ctp=sewing">Sewing</a></li>
+                                    
+                                    <li><a href="/kits/knitting?_ct=wberqbdql-ayji&amp;_ctp=knitting">Knitting</a></li>
+                                    
+                                    <li><a href="/kits/crocheting?_ct=wberqbdql-ayji&amp;_ctp=crocheting">Crocheting</a></li>
+                                    
+                                </ol>
+                            </div>
+                            <div class="subMenu hidden" id="kitsSubMenu">
+                                <ol class="leftCol">
+                                    <li class="subNavHeader">Category</li>
+                                    
+                                    <li><a href="/kits/quilting?_ct=wberqbdql-ayji&amp;_ctp=quilting">Quilting</a></li>
+                                    
+                                    <li><a href="/kits/sewing?_ct=wberqbdql-ayji&amp;_ctp=sewing">Sewing</a></li>
+                                    
+                                    <li><a href="/kits/knitting?_ct=wberqbdql-ayji&amp;_ctp=knitting">Knitting</a></li>
+                                    
+                                    <li><a href="/kits/crocheting?_ct=wberqbdql-ayji&amp;_ctp=crocheting">Crocheting</a></li>
+                                    
+                                </ol>
+                                <ol class="rightCol">
+                                    <li class="subNavHeader">Popular Projects</li>
+                                    
+                                            <li><a href="/kits/quilting?projectType=throw-quilts%2C69%2C148%2C151%2C70&amp;_ct=wberqbdql-ayji&amp;_ctp=throw-quilts">Quilts</a></li>
+                                    
+                                            <li><a href="/kits/knitting?projectType=knitting-neckwear&amp;_ct=wberqbdql-ayji&amp;_ctp=knitting-scarves">Neckwear</a></li>
+                                    
+                                            <li><a href="/kits/knitting?projectType=knitting-mittens-gloves&amp;_ct=wberqbdql-ayji&amp;_ctp=knitting-mittens-gloves">Mittens &amp; Gloves</a></li>
+                                    
+                                            <li><a href="/kits/knitting?projectType=knitting-hats&amp;_ct=wberqbdql-ayji&amp;_ctp=knitting-hats">Hats</a></li>
+                                    
+                                            <li><a href="/kits/sewing?projectType=dresses&amp;_ct=wberqbdql-ayji&amp;_ctp=dresses">Dresses</a></li>
+                                    
+
+                                </ol>
+
+                                <div class="testimony">
+                                    <div class="random">
+                                        <img src="" class="testAvatar">
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        
+                        <li class="navSupplies dropMenu" id="topNavSupplies">
+                            <a href="/supplies?_ct=wberqbdql-ikffbyui">Supplies <span class="icon-bracket-down"></span></a>
+                            <div class="mobileSubMenu mobile-only">
+                                <ol>
+                                    <li><a href="/supplies">Supplies Home</a></li>
+                                    
+                                    <li><a href="/supplies/quilting-fabric?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-quilting-fabric">Quilting Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/sewing-fabric?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-sewing-fabric">Sewing Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/sewing-patterns?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-sewing-patterns">Sewing Patterns</a></li>
+                                    
+                                    <li><a href="/supplies/yarn?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-yarn">Yarn</a></li>
+                                    
+                                    <li><a href="/supplies/paper-crafts?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-paper-crafts">Paper Crafts</a></li>
+                                    
+                                    <li><a href="/supplies/art-supplies?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-art-supplies">Art Supplies</a></li>
+                                    
+                                    <li><a href="/supplies/cake-decorating?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-cake-decorating">Cake Decorating</a></li>
+                                    
+                                    <li><a href="/supplies/tools-notions?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-tools-notions">Tools &amp; Notions</a></li>
+                                    
+                                </ol>
+                            </div>
+                            <div class="subMenu hidden" id="suppliesSubMenu">
+                                <ol>
+
+
+                                    <li class="subNavHeader">Popular Items</li>
+                                    
+                                    <li><a href="/supplies/quilting-fabric?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-quilting-fabric">Quilting Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/sewing-fabric?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-sewing-fabric">Sewing Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/sewing-patterns?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-sewing-patterns">Sewing Patterns</a></li>
+                                    
+                                    <li><a href="/supplies/yarn?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-yarn">Yarn</a></li>
+                                    
+                                    <li><a href="/supplies/paper-crafts?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-paper-crafts">Paper Crafts</a></li>
+                                    
+                                    <li><a href="/supplies/art-supplies?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-art-supplies">Art Supplies</a></li>
+                                    
+                                    <li><a href="/supplies/cake-decorating?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-cake-decorating">Cake Decorating</a></li>
+                                    
+                                    <li><a href="/supplies/tools-notions?_ct=wberqbdql-ikffbyui&amp;_ctp=pop-tools-notions">Tools &amp; Notions</a></li>
+                                    
+                                </ol>
+                                <ol>
+                                    <li class="subNavHeader">Popular Brands</li>
+                                    
+                                    <li><a href="/supplies/quilting-fabric?brand=Moda&amp;_ct=wberqbdql-fefkbqh-ikffbyui&amp;_ctp=pop-moda-fabric">Moda Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/quilting-fabric?brand=Robert%20Kaufman&amp;_ct=wberqbdql-fefkbqh-ikffbyui&amp;_ctp=pop-robert-kaufman">Robert Kaufman Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/quilting-fabric?brand=RJR&amp;_ct=wberqbdql-fefkbqh-ikffbyui&amp;_ctp=pop-rjr-fabric">RJR Fabric</a></li>
+                                    
+                                    <li><a href="/supplies/yarn?brand=Cascade&amp;_ct=wberqbdql-fefkbqh-ikffbyui&amp;_ctp=pop-cascade-yarn">Cascade Yarn</a></li>
+                                    
+                                    <li><a href="/supplies/yarn?brand=Artyarns&amp;_ct=wberqbdql-fefkbqh-ikffbyui&amp;_ctp=pop-artyarns-yarn">Artyarns Yarn</a></li>
+                                    
+                                    <li><a href="/supplies/yarn?brand=MadelineTosh&amp;_ct=wberqbdql-fefkbqh-ikffbyui&amp;_ctp=pop-madelinetosh-yarn">Madelinetosh Yarn</a></li>
+                                    
+                                </ol>
+                                <div class="testimony">
+                                    <div class="random">
+                                        <img src="" class="testAvatar">
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ol>
+                    <div class="communityLinks">
+                        <label class="communityLabel">Community</label>
+                        <ol>
+                            <li><a href="/patterns?_ct=wberqbdql-fqjjuhdi"><span class="icon icon-cat-paper-crafts"></span> Patterns</a></li>
+                            <li><a href="/project?_ct=wberqbdql-fhezusji"><span class="icon icon-photos"></span> Projects</a></li>
+                            <li><a href="/blog?_ct=wberqbdql-rbew"><span class="icon icon-cat-other"></span> Blog</a></li>
+                        </ol>
+                    </div>
+
+                    <a href="https://bnc.lt/menu" class="dloadApp mobile-only secondary">Download Craftsy App</a>
+                    
+                    
+                </div>
+            </div>
             <div class="clear"></div>
+            <div id="navSub">
+                
+                    
+                    
+                    
+                
+            </div>
+            <div class="clear"></div>
+            <div class="navSpacer"></div>
+            <div class="clear"></div>
+            
+            
+                
+                
+                
+            
         </div>
-    
     </div>
     <div class="clear"></div>
 </div>
+
+
+    <div class="row">
+        <div class="col_12">
+            <div class="globalSaleBanner">
+                
+                    
+                    
+                        <div class="globalSaleBanner-img" style="background-image:url(//cdn.craftsy.com/prod/curated/sale_banner.jpg)"></div>
+                        
+                            
+                            <a class="globalSaleBanner-link" href="/supplies?_ct=iyjumytu-iqbu-rqdduh&amp;_ctp=_supplies">Supplies</a>
+                        
+                            
+                            <a class="globalSaleBanner-link" href="/kits?_ct=iyjumytu-iqbu-rqdduh&amp;_ctp=_kits">Kits</a>
+                        
+                    
+                
+            </div>
+        </div>
+    </div>
 
 
 
@@ -622,7 +1146,6 @@
                 <li>999 18th St., Suite 240</li>
                 <li>Denver, CO 80202</li>
                 <li>Toll Free: (888) 979-6769</li>
-                <li><a href="mailto:help@craftsy.com">help@craftsy.com</a></li>
             </ol>
         </div>
         <div class="clear"></div>
@@ -634,64 +1157,58 @@
                     <h1 class="mainHeading">
                         <span>Privacy Policy</span>
                     </h1>
-                    <p>Date of Last Revision – May 13, 2011</p>
-                    <p>Sympoz Inc., a Delaware corporation with its principal place of business at 1553 Platte Street, Suite 202, Denver, CO 80202 ("Sympoz") is the owner and operator of the websites <a href="http://www.sympoz.com">www.sympoz.com</a>, <a href="http://www.craftsy.com">www.craftsy.com</a> and such other URLs as may be designated in the future (the "Websites").  Sympoz is committed to protecting the online privacy of visitors to the Websites.  The privacy policy set forth below (this "Policy") applies only to the Websites and online services provided by Sympoz. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our Websites, how we may use that information, and how we may disclose it to third parties.</p>
-                    <p>The Websites are intended to serve as an online learning environment through which registered users ("Users") who subscribe will access courses of video lectures ("Courses") and associated study materials and background materials presented by Sympoz instructors ("Instructors"), interact with Instructors, Sympoz teaching assistants ("Teaching Assistants") and other Users through the Websites.  The Websites will also serve as an online social network through which Users may communicate and interact with other Users, share their own User Submissions (as defined in the Terms of Use) and view the User Submissions of other Users.  Users may also participate in Challenges (as defined in the Terms of Use).  </p>
-                    <p>BY USING THE WEBSITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY.  IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE WEBSITES.</p>
+                    <p>Date of Last Revision – September 10, 2014</p>
+                    <p>Sympoz Inc., a Delaware corporation with its principal place of business at 999 18th Street, Suite 240, Denver, CO 80202 ("Sympoz") is the owner and operator of the websites <a href="http://www.sympoz.com">www.sympoz.com</a>, <a href="http://www.craftsy.com">www.craftsy.com</a> and such other URLs as may be designated in the future (the "Websites"). Sympoz is committed to protecting the online privacy of visitors to the Websites. The privacy policy set forth below (this "Policy") applies only to the Websites and online services provided by Sympoz. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our Websites, how we may use that information, and how we may disclose it to third parties. This Policy also covers our treatment of any information about you that our third-party business partners share with us or that we share with our third-party business partners.  This Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Websites or to individuals that we do not manage or employ.  While we attempt to enable access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services.  Please make sure to review the privacy policies of any Third Party Services you access.</p>
+                    <p>The Websites are intended to serve as an online learning environment through which registered users ("Users") who subscribe will access courses of video lectures ("Courses") and associated study materials and background materials presented by Sympoz instructors ("Instructors"), interact with Instructors, Sympoz teaching assistants ("Teaching Assistants") and other Users through the Websites. The Websites will also serve as an online social network through which Users may communicate and interact with other Users, share their own User Submissions (as defined in the Terms of Use) and view the User Submissions of other Users. Users may also participate in Challenges (as defined in the Terms of Use).</p>
+                    <p>BY USING THE WEBSITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE WEBSITES.</p>
                     <p>1. Information That We Collect</p>
-                    <p>A. Personal Information – At various locations on the Websites, such as in registration forms, surveys, and polls, we may request that you supply us with "personal information" consisting of your name, telephone number, address, and credit card details. We use your personal information to send you updates and news.  You may choose not to receive updates of this type by updating the notification settings of your account.  If you do choose to give us personal information through the Websites, we will collect and retain that information.</p>
-                    <p>B. Non-Personal Information – When you use the Websites, we may also collect "non-personal information." We consider "non-personal information" to be information that, by itself, cannot be used to identify you personally, such as demographic information (your age, gender, income, education, profession, area code, zip code, etc.). Non-personal information includes information that you include in your Profile (as defined in the Terms of Use) or contribute as User Submissions (as defined in the Terms of Use) for presentation on the Websites, and may also include technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit the Websites, other anonymous data involving your use of the Websites, and other information that you provide us through your use of the Websites such as the terms you enter into the search functions of the Websites.  You may also use the privacy settings on your account to control the availability of your information to other Users.  </p>
+                    <p>A. Personal Information – At various locations on the Websites, such as in registration forms, surveys, and polls, we may request that you supply us with "personal information" consisting of your name, telephone number, address, and credit card details. We use your personal information to, among other things, send you updates, news and promotional offers. You may choose not to receive updates, news and/or promotional offers of this type by updating the notification settings of your account. If you do choose to give us personal information through the Websites, we will collect and retain that information.</p>
+                    <p>B. Non-Personal Information – When you use the Websites, we may also collect "non-personal information". We consider "non-personal information" to be information that, by itself, cannot be used to identify you personally, such as demographic information (your age, gender, income, education, profession, area code, zip code, etc.). Non-personal information includes information that you include in your Profile (as defined in the Terms of Use) or contribute as User Submissions (as defined in the Terms of Use) for presentation on the Websites, and may also include technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit the Websites, other anonymous data involving your use of the Websites, and other information that you provide us through your use of the Websites such as the terms you enter into the search functions of the Websites. You may also use the privacy settings on your account to control the availability of your information to other Users.</p>
                     <p>C. Cookies – We use "cookies" to enhance your visits to the Websites. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store non-personal information, such as what websites, pages, or advertisements your browser has accessed. We use cookies to store information and personalize your experience with the Websites. For example, cookies allow the Websites to recognize your browser as a previous visitor, and thus save and remember any preferences that may have been set while you were previously browsing the Websites. Our cookies can also store your password, personalize pages, and keep track of any selections you may make.</p>
                     <p>You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information about working with cookies, you should consult your user manual, FAQ, or "help" function of your specific browser and operating system software.</p>
-                    <p>D. Web Beacons – We also may use "web beacons" (also often referenced as "clear GIFs," "clear pixels," "1×1 GIFs," or "1×1 pixels") which are tiny graphic image files, embedded in a web page in GIF, jpeg or HTML format, that provide a presence on the web page and send back to its home server information from your browser, such as the IP address, the URL of the page on which the web beacon is located, the type of browser that is accessing the site and the ID number of any cookies on your computer previously placed by that server.  We may use web beacons to collect non-personal information about your use of the Websites and the websites of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by web beacons allows us to statistically monitor how many people are using the Websites and selected sponsors' and advertisers' sites.  Our web beacons are not used to track your activity outside of the Websites or those of our sponsors.  We do not link non-personal information from web beacons to personally identifiable information without your permission.</p>
-                    <p>E. Modification and Deletion – Users of the Websites may modify or delete any of their personal information, Profile information or User Submissions at any time by logging into their account. Information will be updated immediately.  Individuals who wish to deactivate their account may do so.  Removed information may persist in backup copies for a reasonable period of time but will not be generally available to other Users.<br>
-                        Where you make use of the social networking and online education features of the Websites to share information with other individuals on the Websites (e.g., submitting a question or an answer to your Instructor, participating in discussions with other Users or submitting an entry to a Challenge), you generally cannot remove such communications.</p>
+                    <p>D. Web Beacons – We also may use "web beacons" (also often referenced as "clear GIFs", "clear pixels", "1×1 GIFs", or "1×1 pixels") which are tiny graphic image files, embedded in a web page in GIF, jpeg or HTML format, that provide a presence on the web page and send back to its home server information from your browser, such as the IP address, the URL of the page on which the web beacon is located, the type of browser that is accessing the site and the ID number of any cookies on your computer previously placed by that server. We may use web beacons to collect non-personal information about your use of the Websites and the websites of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by web beacons allows us to statistically monitor how many people are using the Websites and selected sponsors' and advertisers' sites. Our web beacons are not used to track your activity outside of the Websites or those of our sponsors. We do not link non-personal information from web beacons to personally identifiable information without your permission.</p>
+                    <p>E. Modification and Deletion – Users of the Websites may modify or delete any of their personal information, Profile information or User Submissions at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their account may do so. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to other Users.</p>
+                    <p>Where you make use of the social networking and online education features of the Websites to share information with other individuals on the Websites (e.g., submitting a question or an answer to your Instructor, participating in discussions with other Users or submitting an entry to a Challenge), you generally cannot remove such communications.</p>
                     <p>2. Use of Information We Collect</p>
-                    <p>A. Our Services and Websites – We use your personal information to provide to you any services that you may request or require and to communicate with you and to allow you to provide User Submissions for posting on the Websites.  We may also use your personal information to analyze how the Websites are being used and to improve the content of the Websites and the Courses and other Content (as defined in the Terms of Use) which they offer.  We reserve the right to use, disclose, license, assign or otherwise transfer information which is not personal information (including User Submissions and Profiles) in any way we see fit.   </p>
-                    <p>B. Profiles and User Submissions – We store and may publicly display your Profile and User Submissions in order to provide the services that we offer. When we display your User Submissions, they will be identified by elements of your Profile (e.g., your chosen username, image and geographic location).  </p>
-                    <p>Please do not include information in your Profile or User Submissions that you expect to keep private.  </p>
+                    <p>A. Our Services and Websites – We use your personal information to provide to you any services that you may request or require and to communicate with you and to allow you to provide User Submissions for posting on the Websites. We may also use your personal information to analyze how the Websites are being used and to improve the content of the Websites and the Courses and other Content (as defined in the Terms of Use) which they offer. We may also share your personal information with our third-party business partners, including but not limited to entities or persons with whom we co-produce Courses for presentation on the Websites.  We reserve the right to use, disclose, license, assign or otherwise transfer information which is not personal information (including User Submissions and Profiles) in any way we see fit.</p>
+                    <p>B. Profiles and User Submissions – We store and may publicly display your Profile and User Submissions in order to provide the services that we offer. When we display your User Submissions, they will be identified by elements of your Profile (e.g., your chosen username, image and geographic location).</p>
+                    <p>Please do not include information in your Profile or User Submissions that you expect to keep private.</p>
                     <p>C. Enforcement – We may use the information we collect in connection with your use of the Websites (including your personal information) in order to investigate, enforce, and apply our Terms of Use, Privacy Policy and Contest Rules.</p>
                     <p>3. Disclosure of Information to Third Parties</p>
                     <p>A. Aggregate Information – Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties, including advertisers or other business partners. This aggregate information does not include your personal information.</p>
-                    <p>B. Affiliates and Non-Affiliates – We endeavor to restrict access to personal information to Sympoz's directors, officers, employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We may, however, share your personal information with certain websites that are controlled by us, or by entities under common control with us, so that they and we can offer you products and services that may be of interest to you.  </p>
-                    <p>C. Service Providers – We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may use third parties to provide advertising, marketing and promotional assistance, provide email services, or facilitate our online services. In those instances, we may need to share your personal information with them. We require these companies to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason.  </p>
-                    <p>D. Business Transactions Involving Sympoz – As Sympoz continues to develop, we may buy other entities or business assets, or sell all or part of our business or assets, or combine with other businesses.  If so, personal information as well as and non-personal information contained in Profiles and User Submissions that we have collected may be transferred as part of the transaction.  </p>
-                    <p>E. Third Parties – We may use third-party advertising companies to deliver specific advertisements to you, which appear on pages throughout the Websites. These companies collect non-personal information about your visits to the Websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. These companies may place their own cookies on your computer. If you want to prevent a third-party advertiser from collecting and using this information, you may visit each third party advertiser's website directly and opt-out.<br>
-                        We may distribute your User Submissions to third parties, as permitted pursuant to our Terms of Use. The third parties may in turn publicly display or publish your User Submissions in connection with their own websites and media platforms. When we distribute your User Submissions to third parties, we may include elements of your Profile (but not your personal information unless you include your personal information in your Profile or User Submissions).<br>
-                        Depending on your privacy settings, the Websites may aggregate the information you provide and make it available to your friends and Users with whom you communicate using the Websites. You may adjust your privacy settings at any time.<br>
-                        When you use the Websites, your Profile and User Submissions will be shared with other Users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your Profile or User Submissions, this information will become publicly available.</p>
-                    <p>F. Other Disclosures – We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Sympoz, our users, or others.<br>
-                        YOU HEREBY ACKNOWLEDGE THAT SYMPOZ IS NOT RESPONSIBLE FOR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.</p>
-                    <p>4. Children and Minors<br>
-                        The Websites are not designed for use by children and minors. We do not knowingly collect any personal information from individuals under the age of eighteen, and therefore we do not knowingly distribute such information to third parties.</p>
-                    <p>5. Links<br>
-                        The Websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other websites to which we provide links from the Websites. You should check the applicable privacy policy of the website sponsor when linking to other websites.</p>
-                    <p>6. Security of the Information We Collect<br>
-                        The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, there is always some risk in transmitting information electronically. The personal information we collect is stored within databases that we control. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, we cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.</p>
-                    <p>7. Accuracy of the Information We Collect<br>
-                        Any questions you may have regarding this Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to <a href="mailto:contact@sympoz.com">contact@sympoz.com</a> or <a href="mailto:contact@craftsy.com">contact@craftsy.com</a>, or via regular mail to:</p>
+                    <p>B. Affiliates and Non-Affiliates – We endeavor to restrict access to personal information to Sympoz's directors, officers, employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.  We may, however, also share your personal information with certain websites that are controlled by us, or by entities under common control with us, so that they and we can offer you products and services that may be of interest to you.</p>
+                    <p>C. Service Providers – We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may use third parties to provide advertising, marketing and promotional assistance, provide email services, or facilitate our online services. In those instances, we may need to share your personal information with them. We require these companies to use your personal information only to provide the particular product or service and do not authorize them to use your personal information for any other reason.</p>
+                    <p>D. Business Transactions Involving Sympoz – As Sympoz continues to develop, we may buy other entities or business assets, or sell all or part of our business or assets, or combine with other businesses. If so, personal information as well as and non-personal information contained in Profiles and User Submissions that we have collected may be transferred as part of the transaction.</p>
+                    <p>E. Third Parties – We may work with third-party business partners to co-produce Courses for presentation on the Websites.  We may also work with third-party business partners to cross-promote products and services and/or to deliver specific advertisements to you, which appear on pages throughout the Websites. These companies collect both personal and non-personal information about your visits to the Websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. These companies may place their own cookies on your computer. If you want to prevent a third-party advertiser from collecting and using this information, you may visit each third party advertiser's website directly and opt-out.</p>
+                    <p>We may distribute your User Submissions to third parties, as permitted pursuant to our Terms of Use. The third parties may in turn publicly display or publish your User Submissions in connection with their own websites and media platforms. When we distribute your User Submissions to third parties, we may include elements of your Profile (but not your personal information unless you include your personal information in your Profile or User Submissions).</p>
+                    <p>Depending on your privacy settings, the Websites may aggregate the information you provide and make it available to your friends and Users with whom you communicate using the Websites. You may adjust your privacy settings at any time.</p>
+                    <p>When you use the Websites, your Profile and User Submissions will be shared with other Users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your Profile or User Submissions, this information will become publicly available.</p>
+                    <p>F. Other Disclosures – We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Sympoz, our users, or others.</p>
+                    <p>YOU HEREBY ACKNOWLEDGE THAT SYMPOZ IS NOT RESPONSIBLE FOR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.</p>
+                    <p>4. Children Under 13</p>
+                    <p>The Websites are not designed for use by children under age 13. We do not knowingly collect any personal information from individuals under the age of 13, and therefore we do not knowingly distribute such information to third parties.</p>
+                    <p>If you learn that your child or a minor under the age of eighteen has provided us with his/her personal information, please contact us and we will disable that information.</p>
+                    <p>5. Links</p>
+                    <p>The Websites may contain links to other websites. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other websites to which we provide links from the Websites. You should check the applicable privacy policy of the website sponsor when linking to other websites.</p>
+                    <p>6. Security of the Information We Collect</p>
+                    <p>The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, there is always some risk in transmitting information electronically. The personal information we collect is stored by us or by our third-party designees within databases that we or our third-party designees control. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, we cannot guarantee the security of our or our third-party designees' databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us or our third-party designees over the Internet or that information we share with others as permitted by this Policy will always be held secure by them.</p>
+                    <p>7. Accuracy of the Information We Collect</p>
+                    <p>Any questions you may have regarding this Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to <a href="mailto:contact@sympoz.com">contact@sympoz.com</a> or <a href="mailto:contact@craftsy.com">contact@craftsy.com</a>, or via regular mail to:</p>
                     <p>Sympoz Inc. d/b/a Craftsy<br>
-                        1553 Platte Street<br>
-                        Suite 202<br>
+                        999 18th St., Suite 240<br>
                         Denver, CO 80202</p>
                     <p>After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate the Websites will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms and conditions of use. In addition, it is not technologically possible to remove each and every record of the information you have provided to us. A copy of your personal information may exist in a non-erasable form that will be difficult or impossible for us to locate.</p>
-                    <p>8. Changes in Policy<br>
-                        We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. You are bound by any minor changes to the policy when you use the Websites after those changes have been posted.  Please refer back to this Policy on a regular basis. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify Users by posting a notice on the Websites for 30 days.</p>
-                    <p>9. What If You Do Not Agree to the Terms of This Privacy Policy?</p>
+                    <p>8. Your California Privacy Rights</p>
+                    <p>Under Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties' direct marketing purposes, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at <a href="mailto:contact@sympoz.com">contact@sympoz.com</a> or <a href="mailto:contact@craftsy.com">contact@craftsy.com</a> with "Request for California Privacy Information" on the subject line and in the body of your message. Be sure to provide in the request sufficient information to properly identify you and/or the members of your family.</p>
+                    <p>9. Changes in Policy</p>
+                    <p>We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. You are bound by any minor changes to the policy when you use the Websites after those changes have been posted. Please refer back to this Policy on a regular basis. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify Users by posting a notice on the Websites for 30 days.</p>
+                    <p>10. What If You Do Not Agree to the Terms of This Privacy Policy?</p>
                     <p>As a registered User of the Websites, or otherwise by using the Websites, you signify that you agree to this Policy. If you do not agree to this Policy, please do not make any use of the Websites.</p>
                 </div>
-                <div class="clear"></div>
             </div>
         </div>
 
-
         
-
-
-
-
-
-
 
 
 
@@ -703,66 +1220,58 @@
     
     <div class="container">
         <div class="row">
-
             <div class="col_8">
-
+                <div class="supportHelpCenter"><a href="https://www.craftsyhelp.com/">Get help or contact us</a></div>
                 <div class="colContain">
-
                     <div class="col_2">
+                        <h3>About Craftsy</h3>
                         <ul id="footerNav">
-                            <li><a href="/about">About Us</a></li>
+                            <li><a href="/blog/">Blog</a></li>
                             <li><a href="/careers">Careers</a></li>
+                            <li><a href="/about">About Us</a></li>
                             <li><a href="/blog/craftsy-cares/">Craftsy Cares</a></li>
                             <li><a href="http://www.craftsy.com/blog/affiliate-program/">Our Affiliate Program</a></li>
-                            <li><a href="/terms-of-use">Terms of Use</a></li>
-                            <li><a href="/privacy-policy">Privacy Policy</a></li>
-                            <li><a href="/apps">Mobile Apps</a></li>
-                            <li><a href="/sitemap">Sitemap</a></li>
+                            <li><a href="/product/giftanyclass">Gift Craftsy Classes</a></li>
+                            
                         </ul>
                     </div>
                     
-                            <div class="col_2" id="discover">
-                                <h3>Discover</h3>
-                                <ul>
-                                    <li><a href="/cake-decorating">Cake Decorating</a></li>
-                                    <li><a href="/knitting">Knitting</a></li>
-                                    <li><a href="/quilting">Quilting</a></li>
-                                    <li><a href="/sewing">Sewing</a></li>
-                                </ul>
-                            </div>
-                            <div class="col_2" id="social">
-                                <h3>Elsewhere</h3>
-                                <ul id="socialLinks">
-                                    <li><a href="http://www.facebook.com/craftsy" target="_blank"><img src="/images/craftsy/clear.gif" alt="craftsy on facebook" class="facebook" title="Craftsy on Facebook"> Facebook</a></li>
-                                    <li><a href="http://twitter.com/beCraftsy" target="_blank"><img src="/images/craftsy/clear.gif" alt="craftsy on twitter" class="twitter" title="Craftsy on Twitter"> Twitter</a></li>
-
-                                    <li><a href="http://pinterest.com/craftsy/" target="_blank"><img src="/images/craftsy/clear.gif" alt="craftsy on pinterest" class="pinterest" title="Craftsy on Pinterest"> Pinterest</a></li>
-
-                                    <li><a href="http://youtube.com/becraftsy" target="_blank"><img src="/images/craftsy/clear.gif" alt="craftsy on youtube" class="youtube" title="Craftsy on Youtube"> Youtube</a></li>
-                                    <li><a href="https://plus.google.com/113315456650545786446" target="_blank" rel="publisher"><img src="/images/craftsy/clear.gif" alt="craftsy on google+" class="googleplus" title="Craftsy on Google+"> Google+</a></li>
-                                    <li><a href="/blog/" target="_blank"><img src="/images/craftsy/clear.gif" alt="The Craftsy blog" class="rss" title="The Craftsy Blog"> Blog RSS</a></li>
-                                </ul>
-                            </div>
+                    <div class="col_2" id="discover">
+                        <h3>Discover</h3>
+                        <ul>
+                            <li><a href="/quilting">Quilting</a></li>
+                            <li><a href="/cake-decorating">Cake Decorating</a></li>
+                            <li><a href="/knitting">Knitting</a></li>
+                            <li><a href="/sewing">Sewing</a></li>
+                            <li class="vom hidden"><a href="/apps">Mobile Apps</a></li>
+                            <li class="vom"><a href="/sitemap">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="col_2" id="social">
+                        <h3>Elsewhere</h3>
+                        <ul id="socialLinks">
+                            <li><a href="http://www.facebook.com/craftsy" target="_blank"><span class="icon-facebook"></span> Facebook</a></li>
+                            <li><a href="http://twitter.com/beCraftsy" target="_blank"><span class="icon-twitter"></span> Twitter</a></li>
+                            <li><a href="http://pinterest.com/craftsy/" target="_blank"><span class="icon-pinterest"></span> Pinterest</a></li>
+                            <li><a href="http://youtube.com/becraftsy" target="_blank"><span class="icon-youtube"></span> Youtube</a></li>
+                            <li><a href="https://plus.google.com/113315456650545786446" target="_blank" rel="publisher"><span class="icon-googleplus"></span> Google+</a></li>
+                            <li><a href="https://www.instagram.com/becraftsy/" target="_blank"><span class="icon-instagram"></span> Instagram</a></li>
+                        </ul>
+                    </div>
                     
-                </div>
-
-                <div class="footerBot">
-                    <p class="supportHelpCenter"> Need Help? <a href="https://www.craftsyhelp.com/">Visit our Help Center</a>.</p>
-                    <p class="copyright">© 2013 Craftsy and Sympoz Inc.</p>
                 </div>
             </div>
             
-                    <div class="col_4 last">
-                        <div id="iPadPromo">
-                            <div class="iPadText">
-                                <h4>Take Craftsy with you!<br>Craftsy Apps for iPad<span class="note">®</span> and iPhone<span class="note">®</span>. <a href="/apps">Read more »</a></h4>
-                                <a href="/apps"><img class="mobileImg" src="/images/craftsy/promo-mobileFooter.png" width="191" height="148"></a>
-                            </div>
-                            <div class="clear"></div>
-                        </div>
-                    </div>
+            <div class="col_4 last" id="iPadPromo">
+                <p>Take Craftsy with you!</p>
+                <p>Craftsy Apps for iOS and Android. <a href="/apps">Read&nbsp;more&nbsp;»</a></p>
+                <a href="/apps"><img class="mobileImg" data-pin-no-hover="true" src="/images/craftsy/promo-mobileFooter.png"></a>
+            </div>
             
-            <div class="clear"></div>
+            <div class="footerBot">
+                <div>© 2015 Craftsy and Sympoz Inc.<a href="/terms-of-use">Terms of Use</a><a href="/privacy-policy">Privacy Policy</a></div>
+                <div id="GTS_CONTAINER"></div>
+            </div>
         </div>
     </div>
     
@@ -791,8 +1300,118 @@
 
 
 
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/jquery.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/moment.min.js"></script>
+
+
+
+<script type="text/javascript" src="//static.craftsy.com/prod/js/base64.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/lib/underscore.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/lib/underscore/underscore-mixins.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/lib/jquery-backwards.js"></script>
+<![endif]-->
+
+
+
+
+
+
+
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+    { (i[r].q=i[r].q||[]).push(arguments)}
+            ,i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-22901171-1', 'craftsy.com');
+
+    // Optimizely Universal Analytics Integration Code
+    window.optimizely = window.optimizely || [];
+    window.optimizely.push('activateUniversalAnalytics');
+    // End Optimizely Code
+
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+
+    // Track user interaction on the page
+    // modified from http://cutroni.com/blog/2014/02/12/advanced-content-tracking-with-universal-analytics/
+    (function() {
+        if ( window.jQuery == null ) return;
+
+        // Debug flag
+        var debugMode = false;
+
+        // Default time delay before checking location
+        var callBackTime = 100;
+
+        // # px before tracking a reader
+        var readerLocation = 1000;
+
+        // Set some flags for tracking & execution
+        var timer = 0;
+        var scroller = false;
+        var endContent = false;
+
+        // Set some time variables to calculate reading time
+        var startTime = new Date();
+        var beginning = startTime.getTime();
+        var amishTime = 0;
+
+        // Get some information about the current page
+        var pageTitle = document.title;
+
+        // Check the location and track user
+        function trackLocation() {
+            bottom = $(window).height() + $(window).scrollTop();
+            height = $(document).height();
+
+            var scrollStart = new Date().getTime();
+
+            // If user starts to scroll send an event
+            if (bottom > readerLocation && !scroller) {
+                timeToScroll = Math.round((scrollStart - beginning) / 1000);
+                if (!debugMode) {
+                    ga('send', 'event', 'Reading', 'StartReading', pageTitle, timeToScroll, {'metric1' : timeToScroll});
+                } else {
+                    console.log('started reading ' + timeToScroll);
+                }
+                scroller = true;
+            }
+
+            // If user has hit the bottom of the content send an event
+            var $craftsyFooter = $('#craftsyFooter' );
+            if ($craftsyFooter.length > 0) {
+                if (bottom >= $craftsyFooter.position().top && !endContent) {
+                    contentScrollEnd = new Date().getTime();
+                    timeToContentEnd = Math.round((contentScrollEnd - scrollStart) / 1000);
+                    if (!debugMode) {
+                        if (timeToContentEnd < 60) {
+                            ga('set', 'dimension5', 'Scanner');
+                        } else {
+                            ga('set', 'dimension5', 'Reader');
+                        }
+                        ga('send', 'event', 'Reading', 'ContentBottom', pageTitle, timeToContentEnd, {'nonInteraction': 1, 'metric2' : timeToContentEnd});
+                    } else {
+                        console.log('end content section '+timeToContentEnd);
+                    }
+                    endContent = true;
+                }
+            }
+        }
+
+        // Track the scrolling and track location
+        $(window).scroll(function() {
+            if (timer) {
+                clearTimeout(timer);
+            }
+
+            // Use a buffer so we don't call trackLocation too often.
+            timer = setTimeout(trackLocation, callBackTime);
+        });
+    })();
+</script>
+
 
 <script type="text/javascript">
     jQuery.noConflict = function()
@@ -801,30 +1420,35 @@
     };
 </script>
 
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/Deferred.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/Craftsy.js" onerror="jselError({message: 'Craftsy.js failed to load', filename: location.href, lineno: -1});"></script>
+<script>
+    Craftsy.thoth = {
+        host: 'thoth.craftsy.com'
+    };
+</script>
 
 
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/craftsy/Craftsy.js"></script>
-
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/sdk.js"></script></div>
 <script type="text/javascript">
     window.fbAsyncInit = function() {
         FB.init({
             appId      : '207764379254184', // App ID
-            channelURL : '//www.craftsy.com/channel.html', // Channel File
             status     : true, // check login status
             cookie     : true, // enable cookies to allow the server to access the session
             oauth      : true, // enable OAuth 2.0
-            xfbml      : true  // parse XFBML
+            xfbml      : true,  // parse XFBML
+            version    : 'v2.2'
         });
 
         FB.Event.subscribe('edge.create', function(response) {
-            _gaq.push(['_trackSocial', 'Facebook', 'Like', 'null']);
+            //_gaq.push(['_trackSocial', 'Facebook', 'Like', 'null']);
         });
         FB.Event.subscribe('edge.remove', function(response) {
-            _gaq.push(['_trackSocial', 'Facebook', 'Unlike', 'null']);
+            //_gaq.push(['_trackSocial', 'Facebook', 'Unlike', 'null']);
         });
         FB.Event.subscribe('message.send', function(response) {
-            _gaq.push(['_trackSocial', 'Facebook', 'Share', 'null']);
+            //_gaq.push(['_trackSocial', 'Facebook', 'Share', 'null']);
         });
         FB.Event.subscribe('auth.login', function(response){
             if ( response && response.status && response.status === "connected" )
@@ -850,31 +1474,13 @@
     (function() {
         var e = document.createElement('script'); e.async = true;
         e.src = document.location.protocol +
-                '//connect.facebook.net/en_US/all.js';
+                '//connect.facebook.net/en_US/sdk.js';
         document.getElementById('fb-root').appendChild(e);
     }());
 
-    Craftsy.tmplHash = "1386282825264";
+    Craftsy.tmplHash = "1450311286330";
 </script>
 
-<script type="text/javascript">
-    var _sf_async_config={uid:12544,domain:"craftsy.com"};
-    (function(){
-        function loadChartbeat() {
-            window._sf_endpt=(new Date()).getTime();
-            var e = document.createElement('script');
-            e.setAttribute('language', 'javascript');
-            e.setAttribute('type', 'text/javascript');
-            e.setAttribute('src',
-                    (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-                            "js/chartbeat.js");
-            document.body.appendChild(e);
-        }
-        var oldonload = window.onload;
-        window.onload = (typeof window.onload != 'function') ?
-                loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
-</script>
 
 <!-- Google Code for Remarketing tag -->
 <script type="text/javascript">
@@ -891,55 +1497,27 @@
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/948562623/?value=0&label=j1P4COHW4AQQv9WnxAM&guid=ON&script=0"/>
     </div>
 </noscript>
-<!-- Google Bounce Tracking -->
-<script type="text/javascript">
-    (function() {
-        var getCookie = function(name) {
-            var cookies = document.cookie.split('; ');
-            for ( var i = 0; i < cookies.length; i++ ) {
-                var parts = cookies[i].split('=');
-                if ( parts[0] == name )
-                    return parts[1];
-            }
-        };
-        var setCookie = function(name, value) {
-            var expiration = new Date();
-            expiration.setTime(expiration.getTime() + 30 * 60 * 1000);
-            document.cookie = escape(name) + '=' + escape(value) + '; expires=' + expiration.toGMTString() + '; path=/';
-        };
-        var noBounce = function() {
-            var entry = getCookie('entry_url');
-            if ( entry != 'did_not_bounce' ) {
-                _gaq.push(['_trackEvent', 'Bounce', 'Antibounce', getCookie('entry_url') || document.location.toString(), 1, true]);
-                setCookie('entry_url', 'did_not_bounce');
-            }
-        };
-        if ( !getCookie('entry_url') ) {
-            /* first visit */
-            _gaq.push(['_trackEvent', 'Bounce', 'Entry', document.location.toString(), 1, true]);
-            setCookie('entry_url', document.location.toString());
-            setTimeout(noBounce, 30000);
-        } else if ( getCookie('entry_url') ) {
-            /* second visit, not a bounce */
-            noBounce();
-        }
-    })();
-</script>
 <!-- path:: /WEB-INF/pages/craftsy/about/privacy-policy.jsp -->
 <script type="text/javascript">
-    Craftsy.session.id = 'B1A0470D33620F012AED695A92453032.britney';
     Craftsy.user.currencySymbol = '$';
     
     Craftsy.user.id = 0;
+    Craftsy.user.email = 'null';
     Craftsy.user.isFirstSession = false;
     
+    require( [ 'craftsy/utils/SessionUtils' ], function( SessionUtils ) {
+        SessionUtils.session.id = '2EB6C401075971543A3038A1D52A4150.eagles001';
+        SessionUtils.session.sympid = '1451512841469:honcspw5';
+        SessionUtils.session.ordinal = 844;
+
+    });
+
+    
 </script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/jquery/jquery.boxy.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/jquery/jquery.tipsy.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/jquery/jquery.serializeObject.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/underscore.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/underscore/underscore-mixins.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/craftsy/Template.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/jquery/jquery.boxy.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/jquery/jquery.tipsy.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/jquery/jquery.serializeObject.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/Template.js"></script>
 
 
 
@@ -964,12 +1542,8 @@
 
 
 
-
-
-
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/craftsy/Snitch.js"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/craftsy/Annotations.js" async="async"></script>
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/craftsy/error.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/Snitch.js"></script>
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/Error.js"></script>
 
 
 
@@ -986,35 +1560,29 @@
 
 
 
-<script type="text/javascript" xml:space="preserve" src="/jsmin/1386282825264/craftsy/spontaneousOffers.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript" xml:space="preserve" src="//static.craftsy.com/static/855de293/jsmin/spontaneousOffers.js"></script>
+
 <script>
     $("#profileNavToggle").click(function () {
         $('.profileNavOptions').toggle();
     });
+
 </script>
 
-
-    <script type="text/javascript">
-    // <![CDATA[
-    var _mb_site_guid = "fac7151a07c725d523f4ad6224a29c0917f6cef44ab3f23e70cee15a51a515a2";
-    (function(d, t){
-    var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
-    mb.async = mb.src = '//cdn.linksmart.com/linksmart_2.3.0.min.js';
-    s.parentNode.insertBefore(mb, s);
-    }(document, 'script'));
-    // ]]>
-    </script>
-
-
-
-
         <!-- Begin IE Upgrade Message -->
-<!--[if lte IE 8]>
+<!--[if lte IE 9]>
 <div id="IEupgradecontainer">
     <a href="#" id="IEmessageclose">close</a>
     <div class="IEmessage">
-        <div class="IEbrowsericon"><img src="/images/clear.gif" width="35px" height="35px" /></div>
-        We notice that you are using Internet Explorer version 8 or older which no longer supports Craftsy. For the best experience we suggest <a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie" target="_blank">upgrading your browser</a> to the latest version, or optionally downloading <a href="http://www.google.com/chrome" target="_blank">Google Chrome</a> or <a href="http://www.getfirefox.com" target="_blank">Firefox</a>.
+        <div class="IEbrowsericon"><img src="/images/clear.gif" width="35" height="35" alt="" /></div>
+        We notice that you are using Internet Explorer version 9 or older which no longer supports Craftsy. For the best experience we suggest <a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie" target="_blank">upgrading your browser</a> to the latest version, or optionally downloading <a href="http://www.google.com/chrome" target="_blank">Google Chrome</a> or <a href="http://www.getfirefox.com" target="_blank">Firefox</a>.
     </div>
 </div>
 <![endif]-->
@@ -1035,20 +1603,20 @@
 
 
 
-
         <script type="text/javascript">
-
             $(document).ready(function()
             {
-              // Contact Us Mobile Toggle.
-              $('body').on('click', '#contactToggle', function(e)
-              {
-                  e.preventDefault();
-                  $("#contactCraftsy").toggleClass('mobile-hide');
-              })
+                // Contact Us Mobile Toggle.
+                $('body').on('click', '#contactToggle', function(e)
+                {
+                    e.preventDefault();
+                    $("#contactCraftsy").toggleClass('mobile-hide');
+                    $("#contactToggle img").toggleClass('arrowGreyDown');
+                    $("#contactToggle img").toggleClass('arrowGreyUp');
+                })
             });
         </script>
     
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
