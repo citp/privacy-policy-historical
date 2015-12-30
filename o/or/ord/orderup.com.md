@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orderup.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508183852id_/http%3A//policies.orderup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderup.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230204130id_/http%3A//policies.orderup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **YOUR PRIVACY MATTERS**
 
-This website is operated by OrderUp, LLC (“OrderUp”).  OrderUp is committed to respecting and protecting your privacy. Visitors may access this website while remaining anonymous and without revealing any personal information (except as referred to below under “Cookies”). Occasionally, and in order to provide products or services, and/or relevant, desired information concerning products or services, OrderUp may request personal information from you. As an OrderUp website user or registrant, you are always entitled to update your personal information if necessary or ask any questions about this Privacy Policy by e-mailing:
+This website is operated by OrderUp, Inc. (“OrderUp”).  OrderUp is committed to respecting and protecting your privacy. Visitors may access this website while remaining anonymous and without revealing any personal information (except as referred to below under “Cookies”). Occasionally, and in order to provide products or services, and/or relevant, desired information concerning products or services, OrderUp may request personal information from you. As an OrderUp website user or registrant, you are always entitled to update your personal information if necessary or ask any questions about this Privacy Policy by e-mailing:
 
 privacy@OrderUp.com   
 subject line: Privacy Request
@@ -27,7 +27,7 @@ OrderUp reserves the right to call or send registrants email communications from
 
   **HOW TO OPT-OUT**
 
-When you provide personally identifiable information through a form on a OrderUp website, you have the option to opt-in to receiving communication from OrderUp. If you opt-in and change your mind at any time, you may tell the company that you do not wish to receive these messages by sending an email at privacy@OrderUp.com, by clearly following the "unsubscribe" instructions at the bottom of any email you receive, or by contacting the privacy department at the e-mail address above to unsubscribe to mailing lists. 
+When you provide personally identifiable information through a form on an OrderUp website, you have the option to opt-in to receiving communication from OrderUp. If you opt-in and change your mind at any time, you may tell the company that you do not wish to receive these messages by sending an email at privacy@OrderUp.com, by clearly following the "unsubscribe" instructions at the bottom of any email you receive, or by contacting the privacy department at the e-mail address above to unsubscribe to mailing lists. 
 
 **WHAT INFORMATION IS SHARED**
 
