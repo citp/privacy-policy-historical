@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the m2epro.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516233922id_/http%3A//m2epro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m2epro.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230153710id_/http%3A//m2epro.com/privacy) for the most accurate reproduction.*
 
 # M2E Pro Privacy Policy - eBay / Amazon / Rakuten Magento Integration
 
 What information do we collect?
 
-We collect personally identifiable information when you submit form to get license on our site. The information collected may include any of the following: email, name, IP address, address. Any comments or questions you submit are recorded as well. As you use our services, our servers will automatically track certain information about you in log files. By using our services, you are giving us permission to use and store such information consistent with this privacy policy.
+We collect information about your company when you submit the form in order to obtain an m2e pro license(s). All correspondence, including but not limited to the technical support, is recorded as well. When you use any of our services, our systems will automatically process your data and may track some information. By using our services you are giving us permission to process, track and store relevant data in accordance with our Privacy Policy and Terms and Conditions.
 
 What do we use your information for?
 
-We use the collected information to communicate with you, fulfill your requests, customize the content, improve our services, protect our and your rights, and comply with laws and regulations.
-
-We may use your personal information to send you promotional information and updates regarding our services. The information that we collect from you may be used in aggregate form in various ways to optimize and improve services. While such information may be based on information about you, it will not identify you personally. We may use such information for the following purposes: website management, administration and security, promotional activities, and research and analysis.
+We use the collected information to communicate with you, fulfill your requests, customize the content, improve our services, protect our and your rights, and comply with laws and regulations. We may use your personal information to send you promotional information and updates regarding our services. The information that we collect from you may be used in aggregate form in various ways to optimize and improve our services. While such information may be based on information about you, it will not identify you personally. We may use such information for the following purposes: website management, administration and security, promotional activities, and research and analysis.
 
 How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology.
 
 Do we use cookies?
 
-We do not use cookies.
+We would like to advise you of the cookies which will be used while you browse our website(s). If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
+
+Do we use Google Analytics?
+
+We use Google Analytics to collect information about visitor behaviour on our website, however we do not collect or store your personal information in this respect (e.g. your name, email or address) so this information cannot be used to identify who you are.
 
 Do we disclose any information to outside parties?
 
@@ -36,7 +36,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions section](https://web.archive.org/terms/) establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms/) section establishing the use, disclaimers, and limitations of liability governing the use of our website or our services.
 
 Your Consent
 
@@ -45,3 +45,7 @@ By using our site, you consent to our online privacy policy.
 Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+Further Information
+
+Please contact us at [support@m2epro.com](mailto:support@m2epro.com) if you require further information or have any question related to our Privacy Policy.
