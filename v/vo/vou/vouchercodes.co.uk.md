@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195138id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220340id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes.co.uk Data Protection and Privacy Policy
 
@@ -22,7 +22,7 @@ We may collect and process the following data about you:
 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-  * Details of your visits to our Website or your use of the App, including, but not limited to, traffic data, location data and other communication data and the resources that you access.
+  * Details of your visits to our Website or your use of the App, including, but not limited to, traffic data, location data and other communication data, the resources that you access and the transactions you make.
 
   * Information in relation to your location, if (i) you have installed the App on a mobile device and permitted your mobile device to transmit location data in respect of this App, or (ii) you access our Website via a mobile browser and you allow the transmission of your location data when prompted by your browser. Our App may be designed to collect information even if you are not logged in. The type of location data collected includes information relating to the latitude and longitude of your mobile device, your direction of travel and / or the time the location information was recorded.
 
@@ -33,7 +33,7 @@ We may collect and process the following data about you:
 
 ## IP Addresses and Cookies
 
-We may collect information about your computer or mobile device, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our business users. This is statistical data about our users' browsing actions and patterns.
+We may collect information about your computer or mobile device, including where available your device identifier, IP address, operating system and browser type, for system administration, to report aggregate information to our business users and for marketing purposes. This is statistical data about our users' browsing actions and patterns.
 
 For the same reason, we may obtain information about your usage of the Website by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device's internal memory. They help us to improve our Website and to deliver a better and more personalised service. They enable us:
 
@@ -72,7 +72,7 @@ In compliance with the US-EU Safe Harbor Principles, We commit to resolve compla
 
 We have further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-By submitting your personal data, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App. 
+By submitting your personal data and thus agreeing to this privacy policy, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App. 
 
 All information you provide to us is stored on our (or our third party service providers’) secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website or our App, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -92,7 +92,9 @@ We use information held about you in the following ways:
 
   * To carry out our obligations arising from any contracts entered into between you and us.
 
-  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To allow you to participate in competitions and interactive features of our service, when you choose to do so.
+
+  * To provide you with marketing services.
 
   * To notify you about changes to our service.
 
@@ -104,6 +106,8 @@ We use information held about you in the following ways:
 We may also use your data to provide you with information about goods and services which may be of interest to you.
 
 We have implemented Google Analytics including Google Analytics Demographics and Interest Reporting. We use information from Google Analytics to gain understanding and insights about the nature of our audience and how they interact with our products and services (holistically not individually). You can opt out of Google Analytics when using the Website [here](https://tools.google.com/dlpage/gaoptout/).
+
+We have implemented MobileAppTracking (MAT) to provide you with marketing services when using the App. You can opt out of the MAT platform [here](https://www.optoutmobile.com/).
 
 We only disclose information about identifiable individuals to our affiliate advertisers as described in “Disclosure of Your Information” below. However, we may provide any affiliate advertisers with aggregate information about our users.
 
@@ -153,7 +157,7 @@ We may disclose your personal information to other third parties:
 
 ## Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes.
+You have the right to ask us not to process your personal data for marketing purposes.
 
 You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us.
 
@@ -171,13 +175,13 @@ The Act gives you the right to access information held about you. Your right of 
 
 Any changes we may make to our data protection and privacy policy in the future will be posted on this page.
 
-This data protection and privacy policy was last updated in July 2014.
+This data protection and privacy policy was last updated in June 2015.
 
 * * *
 
 ## Opt-out process
 
-To unsubscribe from our newsletter please sign in to your account and update your preferences on the Email Options tab. Alternatively you can reply to one of our Newsletters with 'UNSUBSCRIBE' in the subject line.
+To unsubscribe from our newsletter please sign in to your account and update your preferences on the Email Options tab. Alternatively you can reply to one of our Newsletters with 'UNSUBSCRIBE' in the subject line or by clicking the "Unsubscribe" link featured within each of our newsletters.
 
 ## Contact
 
