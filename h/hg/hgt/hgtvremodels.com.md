@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hgtvremodels.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124051939id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtvremodels.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230171906id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,7 +90,7 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 
 **E. CHILDREN**
 
-> The features, programs, promotions and other aspects of our Websites requiring personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com").  A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+> The features, programs, promotions and other aspects of our Websites requiring personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com?subject=SNI%20Privacy%20Policy).  A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 
 **F. KEEPING YOUR INFORMATION SECURE**
 
@@ -106,7 +106,7 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 
 **I. CONTACT & OPT-OUT INFORMATION**
 
-> The Websites may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com") if:  (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us  (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.   
+> The Websites may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com?subject=SNI%20Privacy%20Policy) if:  (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us  (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.   
 > We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Websites.  Also, please note that it is not always possible to completely change, remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Websites such as in forums or blogs, these communications are generally not removed by us.
 
 **J. CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES**
@@ -116,3 +116,5 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 **K. SOLE STATEMENT**
 
 > This Privacy Policy as posted is the sole statement of our privacy policy with respect to the Websites, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Websites. 
+
+​​​​​​​​
