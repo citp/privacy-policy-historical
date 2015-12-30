@@ -1,27 +1,13 @@
-> *The following text is extracted and transformed from the vssc.gov.in privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234913id_/http%3A//www.vssc.gov.in/internet/getPage.php%3Fpage%3Dprivacy%2520policy%26pageId%3D328) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vssc.gov.in privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230058id_/http%3A//www.vssc.gov.in/VSSC_V4/index.php/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# Welcome to VIKRAM SARABHAI SPACE CENTRE - Privacy Policy
 
- 
+VSSC/ISRO provides the information about Indian Space Programme to public. This Privacy Policy outlines the types of information we gather about you and how we use it.
 
-**Privacy Policy**
+When you view [http://www.vssc.gov.in](http://www.vssc.gov.in/) there is a provision for submitting feedback from the viewers. In the feedback form, you are requested to provide the name, email-id and phone number (optional). We understand that your personal information is very sensitive, and protecting the privacy of this information is a top priority for us. The contents of your personal details from computer are kept strictly confidential.
 
-Thanks for visiting website of VSSC, and reviewing our privacy policy.
+We do not rent, sell or share your personal information with any other third parties. We will not disclose your personal information with any other third parties unless:
 
-We collect no personal information, like names or addresses, when you visit our website. If you choose to provide us with personal information – like filling out a feed back form, with an e-mail address or postal address, and submitting it to us through the website- we use that information to respond to your message, and to help you get the information you have requested.
+* To help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of terms of use or to defend against legal claims.
 
-Our website never collects information or creates individual profiles for commercial
-
-marketing. While you must provide e-mail address for localized response to any
-
-incoming questions or comments to us, we recommend that you do NOT include any
-
-other personal information.
-
-**Site Security**
-
-For site security purposes and to ensure that this service remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-Except for authorised law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular deletion.
-
-Unauthorised attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Indian IT Act.
+* Special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
