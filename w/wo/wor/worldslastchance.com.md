@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315050111id_/https%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230070606id_/https%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://1888.org/pdf/1440994252-privacy-policy.pdf)
+
+Right click and Save Target As... to download file. 
 
 **WorldsLastChance** **®** **.com** (" **WorldsLastChance.com** ", "we", or, "us") is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. For that reason, we follow a privacy policy (the "Privacy Policy") that applies to our web site (the "Site") and our distribution of various newsletters.
 
@@ -29,7 +33,7 @@ You are able to opt-out or unsubscribe from any of our mail streams (Updates and
   1. Click on "Unsubscribe" in any email that you receive from World's Last Chance and you will be unsubscribed from that mail stream.
   2. If you are a member of WLC:  go to your [_Profile_](http://www.worldslastchance.com/community), select "Edit Profile & Notifications", and select "NO" for one or both options of receiving mail.
   3. Go to [_Contact Us_](http://www.worldslastchance.com/contact-us) and request to be removed from any or all mail streams.
-  4. Email us at [_abuse@worldslastchance.com_](mailto:updates@worldslastchance.com) and request to be unsubscribed from any or all mail streams. 
+  4. Email us at [_abuse@worldslastchance.com_](mailto:abuse@worldslastchance.com) and request to be unsubscribed from any or all mail streams. 
   5. Write to us at:  World's Last Chance |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis - and request to be unsubscribed from any or all mail streams .
   6. Call us at:  **+1-869-469-3728**  - and request to be unsubscribed from any or all mail streams.
 
@@ -48,7 +52,7 @@ if you need assistance with opting-out or opting-in to any mail stream.
 
 #### **How To Contact Us**
 
-Should you have any questions or concerns about the Policy, please send an e-mail to _[abuse@WorldsLastChance.com.](mailto:privacy@WorldsLastChance.com)_
+Should you have any questions or concerns about the Policy, please send an e-mail to _[abuse@WorldsLastChance.com.](mailto:abuse@WorldsLastChance.com)_
 
 **World's Last Chance ®  |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis  | +1-869-469-3728**
 
