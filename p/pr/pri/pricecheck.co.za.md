@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricecheck.co.za privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224753id_/http%3A//www.pricecheck.co.za/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricecheck.co.za privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230122204id_/http%3A//www.pricecheck.co.za/policy) for the most accurate reproduction.*
 
-# PriceCheck Shopping - Online Shop & Price Comparison in South Africa
+# Privacy Policy | PriceCheck South Africa
 
 PriceCheck (Pty) Ltd, registration number: 2007/013797/07 (hereinafter referred to as " **PriceCheck** ", " **we** ", " **us** " or " **our** ") is committed to ensuring the protection of the privacy of all of all visitors (" **Visitors** ") to our website at www.pricecheck.co.za (the " **Website** ") we well as all persons (" **Customers** ") who have subscribed to any of the services we offer (" **Services** "), whether they be registered 'Users' or registered 'Merchants'.
 
