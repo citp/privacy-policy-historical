@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdeck.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183239id_/http%3A//www.techdeck.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdeck.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230224852id_/http%3A//www.techdeck.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Teck Deck | Privacy Policy
 
