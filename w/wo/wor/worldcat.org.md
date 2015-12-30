@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115949id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230131417id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
 
 # OCLC Privacy policy
 
