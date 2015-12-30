@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the native-instruments.com privacy policy that was archived on 2015-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150524045759id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the native-instruments.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230163813id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -14,8 +14,8 @@
 <meta name="country" content="us">
 <meta content="none" property="msapplication-config">
 <meta content="1443952290,1791619710,633287099" property="fb:admins">
-<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.css?1432033911" media="all">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-92L2"></script><script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.js?1431423752" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.css?1449073259" media="all">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-92L2"></script><script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.js?1447344648" type="text/javascript"></script>
 <title>Legal Information : Privacy Policy | Company </title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="shortcut icon" href="/typo3conf/ext/ni_assets/Resources/Public/Images/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="Native Instruments News Feed english" href="/en/news/rss/">
 <link rel="alternate" type="application/rss+xml" title="Native Instruments News Feed deutsch" href="/de/news/rss/">
@@ -24,7 +24,6 @@
 <link rel="alternate" type="application/rss+xml" title="Native Instruments News Feed français" href="/fr/news/rss/">
 </head>
 <body>
-<script type="text/javascript" src="/typo3conf/ext/ni_assets/Resources/Public/Js/bugtracker.js" data-token="1c5cdd77f667468fb3807bef384e2320"></script>
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/typo3conf/ext/ni_assets/Resources/Public/Js/ie8-info.js"></script>
 <![endif]-->
@@ -35,12 +34,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-92L2');var cacheKey='556157c3df8e8';</script>
+})(window,document,'script','dataLayer','GTM-92L2');var cacheKey='58ec354145fdfff4302bf2035049eb8b';</script>
 <header id="header" class="header">
 <a href="/en/" class="header-logo"></a>
 <button id="mainMenuToggle" class="btn btn-menu menu-link" type="button">
 <span class="button-text">MENU</span>
-<span class="hamburger">
+<span class="hamburger" id="hamburgerIcon">
 <span class="hamburger-slices"></span>
 <span class="hamburger-slices"></span>
 <span class="hamburger-slices"></span>
@@ -85,13 +84,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         Util.getBasketCount()
     );
 
+	var mobileSearch = jQuery('#mobile-product-search');
+
     jQuery('#mainMenuToggle').click(function () {
-        jQuery('#top-navi').slideToggle(200, function () {
-            var mobileSearch = $('#mobile-product-search');
+        jQuery('#top-navi').slideToggle(400, function () {
             if (mobileSearch.hasClass('in')) {
-                mobileSearch.slideToggle(200).toggleClass('in');
-            };
+                mobileSearch.slideToggle(400).toggleClass('in');
+            }
         }).toggleClass('in');
+        jQuery('#hamburgerIcon').toggleClass('in');
         return false;
     });
 </script>
@@ -105,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="cart-link-icon svg-icon svg-icon-cart"></span>
 <span id="cartAmount" class="cart-link-amount">0</span>
 </a>
-<a href="/en/search/" class="search-link">
+<a href="/en/products/" class="search-link">
 <span class="search-link-icon svg-icon svg-icon-search"></span>
 <span class="search-link-text"></span>
 </a>
@@ -175,6 +176,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </div>
 <div class="content-header-navigation">
+<div>
 <ul class="nav nav-pills"><li>
 <a href="/en/company/contact-ni/">CONTACT NI</a>
 </li>
@@ -206,17 +208,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/en/company/newsletter/">NEWSLETTER</a>
 </li></ul>
 <script>
-				var tabdropTranslation = "MORE";
-				var tabdropTranslationSingle = "MENU";
-				
-				jQuery(function () {
-					jQuery('.content-header-navigation .nav').tabdrop({
-						text: tabdropTranslation, singleText: tabdropTranslationSingle,
-						reduceWidthContainer: ['.content-header-headline']
+					 Util.i18n.add({ 
+						'tabdropdown.more':"MORE",
+						'tabdropdown.menu':"MENU",
+					 }); 
+					
+					jQuery(function () {
+						jQuery('.content-header-navigation .nav').tabdrop({
+							text: Util.i18n.get('tabdropdown.more'),
+							singleText: Util.i18n.get('tabdropdown.menu'),
+							reduceWidthContainer: ['.content-header-headline']
+						});
 					});
-				});
-                jQuery('.content-header').affix({offset: {top: 60}});
+					jQuery('.content-header').affix({offset: {top: 60}});
 </script>
+</div>
 </div>
 </div>
 </div>
@@ -297,7 +303,7 @@ Reponsible Data Protection Officer: <br>
 <strong>Kai-Hendrik Weutzing</strong><br>
 mailto:privacy@native-instruments.de <br>
 <br>
-Further information can be found in our <a title="public procedures register." class=" internal-link" href="/en/company/legal-information/privacy-policy/verfahrensverzeichnis/" target="">public procedures register.</a><br>
+Further information can be found in our <a title="public procedures register." class=" internal-link" href="/en/company/legal-information/privacy-policy/verfahrensverzeichnis/" target="_self">public procedures register.</a><br>
 </div>
 </div>
 </div>
@@ -341,7 +347,7 @@ You can visit our web site without leaving personal data: When surfing without l
 <br>
 If you register as a customer we collect your data via the registration form you fill in, among others your name, your address including e-mail, the details of your desired method of payment, your credit card number if this applies, and the details on your regarding order. Different cookies will be created in this case as well (refer to chapter 5 for details on the cookies). <br>
 <br>
-We store your order data within the ordering history and send the order data to you via e-mail. The terms and conditions can be found <a title="here. " class=" internal-link" href="/en/company/legal-information/terms-and-conditions/terms-and-conditions-gmbh/" target="">here. </a><br>
+We store your order data within the ordering history and send the order data to you via e-mail. The terms and conditions can be found <a title="here. " class=" internal-link" href="/en/company/legal-information/terms-and-conditions/terms-and-conditions-gmbh/" target="_self">here. </a><br>
 <br>
 When registering a product via the Service Center or the web site, data about the registered product, your hardware and the used serial number is stored. On initial registration your e-mail address and your postal address and your preferred language are stored as well. <br>
 <br>
@@ -428,7 +434,7 @@ Google will use this information for the purpose of evaluating your use of the w
 Additionally, a so-called User-ID will be used on this website. This ID is not assigned to a particular device, but to you personally. The User-ID enables the analysis of your behavior across devices (smartphone, tablet, notebook). The allocation of the User-ID to a user ensues once we have unequivocally identified you as a user. This happens generally when you are using your user account. As soon as you have logged-in for the first time, a User-ID is allocated to you accordingly. It contains a unique, persistent, and non-personally identifiable string for a signed user. Once you log into our website the User-ID is sent to Google Analytics. As far as Google is concerned, the User-ID functions as your pseudonym. Google connects your online behavior and the User-ID to a profile. Google only receives the User-ID, not the information contained in the above-mentioned profile or other personal data of yours. A summarized version of the profile thus created is accessible to us. We do not attach any other of your personally identifiable data to the profile connected to a User-ID. <br>
 <br>
 If you do not want your activity on this website to be tracked, please opt out using this link:<br>
-<a title="tools.google.com/dlpage/gaoptout" class=" external-link" href="https://tools.google.com/dlpage/gaoptout" target="">tools.google.com/dlpage/gaoptout</a>
+<a title="tools.google.com/dlpage/gaoptout" class=" external-link" href="https://tools.google.com/dlpage/gaoptout" target="_self">tools.google.com/dlpage/gaoptout</a>
 </div>
 </div>
 </div>
@@ -447,7 +453,7 @@ If you do not want your activity on this website to be tracked, please opt out u
 <div class="">
 							Within the scope of its marketing operations NATIVE INSTRUMENTS uses Google’s program for “interest-based advertising”, so-called remarketing. In the process of this program a special browser cookie is stored on the user’s computer. It is used for serving the user special ads by Native Instruments, Google or third-party services when visiting other websites.<br>
 <br>
-Users can opt out of Google's use of these cookies by visiting the <a title="Opt out site of Google ads" class=" external-link" href="http://www.google.com/policies/technologies/ads/" target="">Opt out site of Google ads</a> and the <a title="Opt out site of DoubleClick." class=" external-link" href="http://www.google.com/doubleclick/" target="">Opt out site of DoubleClick.</a> Alternatively users can opt out third party services using these cookies through by visiting <a title="Deaktivierungsseite der Netzwerkwerbeinitiative" class=" external-link" href="http://www.networkadvertising.org/choices/" target="">Deaktivierungsseite der Netzwerkwerbeinitiative</a> the Opt out page of the Network Advertising Initiative.<br>
+Users can opt out of Google's use of these cookies by visiting the <a title="Opt out site of Google ads" class=" external-link" href="http://www.google.com/policies/technologies/ads/" target="_self">Opt out site of Google ads</a> and the <a title="Opt out site of DoubleClick." class=" external-link" href="http://www.google.com/doubleclick/" target="_self">Opt out site of DoubleClick.</a> Alternatively users can opt out third party services using these cookies through by visiting <a title="Deaktivierungsseite der Netzwerkwerbeinitiative" class=" external-link" href="http://www.networkadvertising.org/choices/" target="_self">Deaktivierungsseite der Netzwerkwerbeinitiative</a> the Opt out page of the Network Advertising Initiative.<br>
 <br>
 </div>
 </div>
@@ -465,7 +471,7 @@ Users can opt out of Google's use of these cookies by visiting the <a title="Opt
 				7.c Optimizely
 </h2>
 <div class="">
-							This website uses Optimizely, a range of website analytics services for A/B and multivariate testing purposes provided by Optimizely, Inc. This service uses cookies to identify a visitor's browser and track website usage while on this website. The cookies do not collect personal information about you. For more information on how Optimizely uses your data, please go to: <a title="http://www.optimizely.com/privacy. " class=" external-link" href="http://www.optimizely.com/privacy" target="">http://www.optimizely.com/privacy. </a> You can opt out anytime by following the instruction at <a title="http://www.optimizely.com/opt_out." class=" external-link" href="http://www.optimizely.com/opt_out" target="">http://www.optimizely.com/opt_out.</a>
+							This website uses Optimizely, a range of website analytics services for A/B and multivariate testing purposes provided by Optimizely, Inc. This service uses cookies to identify a visitor's browser and track website usage while on this website. The cookies do not collect personal information about you. For more information on how Optimizely uses your data, please go to: <a title="http://www.optimizely.com/privacy. " class=" external-link" href="http://www.optimizely.com/privacy" target="_self">http://www.optimizely.com/privacy. </a> You can opt out anytime by following the instruction at <a title="http://www.optimizely.com/opt_out." class=" external-link" href="http://www.optimizely.com/opt_out" target="_self">http://www.optimizely.com/opt_out.</a>
 </div>
 </div>
 </div>
@@ -482,7 +488,7 @@ Users can opt out of Google's use of these cookies by visiting the <a title="Opt
 				7.d Facebook
 </h2>
 <div class="">
-							Native Instruments´ website uses plug-ins of the social network Facebook (<a title="www.facebook.com" class=" external-link" href="https://www.facebook.com/" target="">www.facebook.com</a> ). The plug-ins are marked with a company logo of Facebook or the addition "Facebook Social Plug-in. When you access a website from us, which contains such a plug-in, a direct connection to servers through the browser of Facebook is set up. By integrating of the plug-in, Facebook receives the information that you have visited our website. As long as you are logged in to Facebook, Facebook can assign the visit to the site to your facebook account. The plug-in transmits any actions you perform via the plug-in, e.g. pressing the “Like”-Button, directly on to Facebook, and these data will be stored there.<br>
+							Native Instruments´ website uses plug-ins of the social network Facebook (<a title="www.facebook.com" class=" external-link" href="https://www.facebook.com/" target="_self">www.facebook.com</a> ). The plug-ins are marked with a company logo of Facebook or the addition "Facebook Social Plug-in. When you access a website from us, which contains such a plug-in, a direct connection to servers through the browser of Facebook is set up. By integrating of the plug-in, Facebook receives the information that you have visited our website. As long as you are logged in to Facebook, Facebook can assign the visit to the site to your facebook account. The plug-in transmits any actions you perform via the plug-in, e.g. pressing the “Like”-Button, directly on to Facebook, and these data will be stored there.<br>
 For the purpose and scope of data collection and further processing and use of data by Facebook, and your rights and settings taken to protect your privacy, please see the respective privacy notices from Facebook.<br>
 <br>
 To prevent such a collection of data through Facebook, you must log out on Facebook before visiting our website.<br>
@@ -499,12 +505,13 @@ To prevent such a collection of data through Facebook, you must log out on Faceb
 <div class="col-xs-12">
 <h2 class=" ">
 		
-				7.e MouseStats
+				7.e Hotjar
 </h2>
 <div class="">
-							This Website uses MouseStats web analytics service. We are using the information collected by MouseStats service to improve our website, make it more user-friendly and monitor that it is performing correctly. MouseStats uses Cookies to obtain information regarding how visitors to this website are interacting with it. In particular MouseStats may record mouse clicks, mouse movements and scrolling activity. MouseStats may also collect pseudonymized IP Address, Geographic Location, Mobile Device Information. Furthermore MouseStats may receive certain information including: Browser Information, Time of Visit, Operating System Information, Page Accessed, Referring Site, Application, or Service. MouseStats may disclose collected information to third parties, including contractual partners.<br>
+							This Website uses Hotjar web analytics service. We are using the information collected by Hotjar service to improve our website, make it more user-friendly and monitor that it is performing correctly. Hotjar uses Cookies to obtain information regarding how visitors to this website are interacting with it. In particular Hotjar may record navigation through and interacting with the content on our website. Hotjar may also collect your device’s IP address (collected and stored in an anonymized format), device screen size, device type (unique device identifiers) and browser information, geographic location (country only), preferred language used to display the webpage, referring domain, pages visited, date and time when website were accessed. Hotjar may disclose collected information to third parties, including contractual partners.<br>
 <br>
-If you do not want your activity on this website to be tracked by MouseStat, please opt out using this link: <a title="https://ssl.mousestats.com/optout" class=" external-link" href="https://ssl.mousestats.com/optout" target="">https://ssl.mousestats.com/optout</a>
+If you do not want your activity on this website to be tracked by Hotjar, please opt out using this link: https://www.hotjar.com/opt-out<br>
+<a title="https://www.hotjar.com/opt-out" class=" external-link" href="https://www.hotjar.com/opt-out" target="_self">https://www.hotjar.com/opt-out</a>
 </div>
 </div>
 </div>
@@ -574,7 +581,7 @@ Within this NATIVE INSTRUMENTS distinguishes between different product categorie
 <br>
 Regardless of this NATIVE INSTRUMENTS conducts survey on specific topics. Registered users of our software are asked by e-mail to participate in such surveys. <br>
 <br>
-You can unsubscribe form receiving both newsletters and invitations to a survey at the following <a title="Link." class=" internal-link" href="/en/company/newsletter-unsubscribe/" target="">Link.</a><br>
+You can unsubscribe form receiving both newsletters and invitations to a survey at the following <a title="Link." class=" internal-link" href="/en/company/newsletter-unsubscribe/" target="_self">Link.</a><br>
 </div>
 </div>
 </div>
@@ -857,6 +864,6 @@ var preferredLanguageTranslations = {
 </div>
 </footer>
 <div id="player-container"></div>
-<script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/footer.js?1430818671" type="text/javascript"></script>
+<script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/footer.js?1447673536" type="text/javascript"></script>
 
 </body></html>
