@@ -1,37 +1,5 @@
-> *The following text is extracted and transformed from the dabbletravel.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821053130id_/http%3A//dabbletravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabbletravel.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230013126id_/http%3A//dabbletravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Dabble Travel | Privacy Policy
+# Privacy Policy
 
-**Privacy Policy  **  
-This policy describes how and why we collect non-personally identifiable data from users and website visitors, and how that data will be used. We are committed to respecting the privacy of non-personal identifiable data gathered.
-
-**Use of Data**  
-We use non-personally identifiable data collected from users and website visitors in order to:
-
-To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.  
-To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
-
-  * To provide you with support and handle inquires.
-  * To enforce our terms of use and/or EULA.
-  * To comply with any applicable law and assist law enforcement agencies as required.
-  * To conduct surveys and market researches.
-  * We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
-
-
-
-**Cookies and Log Files**  
-Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.  
-If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.  
-In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
-
-**Age Limit**  
-To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
-
-**Changes to Policy**  
-From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
-
-**Governing Law**  
-This Privacy Policy is governed by and construed in accordance with the laws of the United States. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of United States.
-
-**Contact us**  
-Please direct all questions in connection with this Policy via the Contact Us tab.
+**You don’t like spammy and sketchy behaviors from websites. Neither do we.** We follow a very strict privacy policy and all the information that you provide is sent over an encrypted connection and securely maintained. This site does not seek, solicit, nor publish, confidential information that is known to be disclosed to us by participants in violation of his or her contractual obligations. To our knowledge, the information on this site was not provided to us by any such participants. Third-party companies are allowed to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
