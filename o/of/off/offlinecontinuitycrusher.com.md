@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlinecontinuitycrusher.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223185154id_/http%3A//offlinecontinuitycrusher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlinecontinuitycrusher.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230025930id_/http%3A//offlinecontinuitycrusher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Offline Continuity Crusher!
 
