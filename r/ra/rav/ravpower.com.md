@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravpower.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511161918id_/http%3A//www.ravpower.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravpower.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230112021id_/http%3A//www.ravpower.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ravpower Privacy Policy
 
@@ -78,5 +78,3 @@ www.ravpower.com
 [support@ravpower.com](mailto:support@ravpower.com)
 
 1-888-456-8468 (US)
-
-© 2015 RAVPower Inc. All rights reserved.
