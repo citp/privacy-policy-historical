@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springboardplatform.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607100425id_/http%3A//home.springboardplatform.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springboardplatform.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230042144id_/http%3A//home.springboardplatform.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Springboard Platform
 
