@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3jam.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607173025id_/http%3A//www.mp3jam.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3jam.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230122719id_/http%3A//www.mp3jam.org/privacy.html) for the most accurate reproduction.*
 
 # Free MP3jam Software | Privacy Policy
 
