@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195329id_/http%3A//www.valuecommerce.co.jp/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222625id_/http%3A//www.valuecommerce.co.jp/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ValueCommerce Co., Ltd.
 
@@ -21,7 +21,7 @@ Regarding the protection of personal information that may allow the identificati
 
 
 Established: November 1, 2011  
-Latest revision: January 30, 2015  
+Latest revision: June 29, 2015  
 ValueCommerce Co., Ltd.  
 Jin Kagawa, Representative Director,  
 President and CEO
@@ -185,6 +185,7 @@ To be used for the following services:
   * 9) Information about campaigns and questionnaires
   * 10) Inquiries about the Company or its services
   * 11) Payment of compensation
+  * 12) Ad distribution during login
 
 
 
