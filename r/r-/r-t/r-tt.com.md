@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r-tt.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427215912id_/http%3A//www.r-tt.com/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r-tt.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230074233id_/http%3A//www.r-tt.com/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # R-TT's privacy policy. Buy and browse with confident
 
