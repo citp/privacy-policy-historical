@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616022634id_/http%3A//www.serif.com/company/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230141235id_/http%3A//www.serif.com/company/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Serif
 
-Serif is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK - 0845 6740484 Intl.- +44 115 9145472.
+Serif is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK - 0845 345 7770 Intl.- +44 115 914 2000.
 
 This Privacy Policy and any documents it references, inform you how we collect and use the information (“Personal Data”) you provide in doing business with Serif including use of the Serif.com website and its services (the “Web Site”). Serif knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in compliance with the Data Protection Act 1998. We appreciate the trust you place in us.
 
@@ -78,8 +78,7 @@ The Internet is a global environment. Using the Internet to collect and process 
 
 Monitoring or recording of your calls, emails, and other communications may take place in accordance with UK law, and in particular for business purposes, such as for quality control and training, and in order to prevent or detect crime. Please visit the following websites for further information:
 
-  * [ico.gov.uk](http://www.ico.gov.uk/)
-  * [dti.gov.uk](http://www.dti.gov.uk/)
+  * [ico.gov.uk](http://www.ico.org.uk/)
 
 
 
