@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketinsider.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608005645id_/http%3A//www.pocketinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketinsider.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230070015id_/http%3A//www.pocketinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pocket Insider
 
