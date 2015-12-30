@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027002224id_/http%3A//insanehomefatloss.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220156id_/http%3A//sixpackshortcuts.com/desktop/ihfl/main/privacypolicy) for the most accurate reproduction.*
 
-# Insane Home Fatloss - Privacy Policy
+# INSANE HOME FAT LOSS
 
 You can opt-out of all email contact from us by using our [email unsubscribe page](http://app.icontact.com/icp/mmail-mprofile.pl?r=82992&l=106&s=GXBQ&m=59770&c=906767). We will only call you if you're a customer and there's a problem with your account or order -- but if you'd also like to opt-out of phone contact, you can do that through our [phone contact opt-out page](http://sixpackshortcuts.com/phone_optout.php). 
 
@@ -75,8 +75,9 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.insanehomefatloss.com  
-8900 SHOAL CREEK #105  
-Austin, TX 78738  
+Six Pack Shortcuts  
+9111A Research Blvd.  
+Austin, TX 78758  
 USA  
 mike@sixpackshortcuts.com
 
@@ -84,6 +85,6 @@ mike@sixpackshortcuts.com
 
 if you calling within the US or 
 
-### **512-201-4651**
+### **512-201-4646**
 
 for outside of the US.
