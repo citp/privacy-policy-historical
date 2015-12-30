@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524045759id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230163813id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Legal Information : Privacy Policy | Company
 
@@ -122,11 +122,12 @@ For the purpose and scope of data collection and further processing and use of d
 
 To prevent such a collection of data through Facebook, you must log out on Facebook before visiting our website.
 
-##  7.e MouseStats 
+##  7.e Hotjar 
 
-This Website uses MouseStats web analytics service. We are using the information collected by MouseStats service to improve our website, make it more user-friendly and monitor that it is performing correctly. MouseStats uses Cookies to obtain information regarding how visitors to this website are interacting with it. In particular MouseStats may record mouse clicks, mouse movements and scrolling activity. MouseStats may also collect pseudonymized IP Address, Geographic Location, Mobile Device Information. Furthermore MouseStats may receive certain information including: Browser Information, Time of Visit, Operating System Information, Page Accessed, Referring Site, Application, or Service. MouseStats may disclose collected information to third parties, including contractual partners.
+This Website uses Hotjar web analytics service. We are using the information collected by Hotjar service to improve our website, make it more user-friendly and monitor that it is performing correctly. Hotjar uses Cookies to obtain information regarding how visitors to this website are interacting with it. In particular Hotjar may record navigation through and interacting with the content on our website. Hotjar may also collect your device’s IP address (collected and stored in an anonymized format), device screen size, device type (unique device identifiers) and browser information, geographic location (country only), preferred language used to display the webpage, referring domain, pages visited, date and time when website were accessed. Hotjar may disclose collected information to third parties, including contractual partners.
 
-If you do not want your activity on this website to be tracked by MouseStat, please opt out using this link: <https://ssl.mousestats.com/optout>
+If you do not want your activity on this website to be tracked by Hotjar, please opt out using this link: https://www.hotjar.com/opt-out  
+<https://www.hotjar.com/opt-out>
 
 ##  8\. Data protection 
 
