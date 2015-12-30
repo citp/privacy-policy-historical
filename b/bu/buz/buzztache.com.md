@@ -1,51 +1,40 @@
-> *The following text is extracted and transformed from the buzztache.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626034413id_/http%3A//buzztache.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztache.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220509id_/http%3A//buzztache.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Buzztache
 
-Your privacy is very important to us, accordingly, we have developed thispolicy in order for you to understand how we collect, use, communicate, disclose and make use of your personal information. Our privacy policies vary according to user preferences and specific tools onBuzztache may have their specific policies that is valid only for that tool. For a better explanation we have split our privacy policy to the following categories:
+This privacy policy sets out how Buzztache.com uses and protects any information that you give us when you use this website. Buzztache is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. Buzztache may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Aug 6, 2015.
 
-## General site policy
+### What we collect
 
-For each visitor to our Web page, our Web server automatically recognises the consumer’s domain name and e-mail address (where possible).
+We may ask to collect the following information:
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address.
-
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customise the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorised use of our Website.
-
-You will not receive any marketing or occasional emails unless your subscribe to our mailing list. If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about other users.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information
-
-## Log files
-
-Like many other Web sites, Buzztache makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track users’ movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-## Cookies and web beacons
-
-Buzztache does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customise Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-## DoubleClick DART cookie
-
-  * Google, as a third party vendor, uses cookies to serve ads on Buzztache
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to Buzztache and other sites on the Internet
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
+  * E-mail address (for use to send you the daily Buzztache newsletter, which you can unsubscribe from at any time)
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Buzztache send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Additionally, we collect non-personally identifiable information for aggregation such as, among other things, visitor browser type and screen resolution.
 
-Buzztache has no access to or control over these cookies that are used by third-party advertisers.
+### Security
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Buzztache privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+Additionally, Buzztache utilizes cookies to show our advertisements to you on various websites on the Internet.
+
+You may opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads "Google Ads Settings").
+
+### Third Party Vendors
+
+  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Buzztache and/or other sites on the Internet.
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+  * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
+
+
+
+### Links to other websites
+
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
