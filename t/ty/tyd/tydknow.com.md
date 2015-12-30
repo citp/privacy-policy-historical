@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tydknow.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616221557id_/http%3A//www.tydknow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tydknow.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230160330id_/http%3A//www.tydknow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Things You Didn't Know
 
@@ -34,6 +34,14 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
  **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+
+ **Cookies**
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. TYDKNOW.COM uses cookies to help TYDKNOW.COM identify and track visitors, their usage of TYDKNOW.COM website, and their website access preferences. TYDKNOW.COM visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using TYDKNOW.COM’s website, with the drawback that certain features of TYDKNOW.COM’s website may not function properly without the aid of cookies.
+
+ **Ads**
+
+Ads appearing on any TYDKNOW.COM website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by TYDKNOW.COM and does not cover the use of cookies by any advertisers.
 
  **Do we use cookies?**
 
