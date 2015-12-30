@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarte.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209062659id_/http%3A//www.worldmarte.com/en/help/ppcc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarte.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230130018id_/http%3A//worldmarte.com/en/help/ppcc.html) for the most accurate reproduction.*
 
 # Privacy Policy final clean-Worldmarte.com
 
