@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenithbank.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416193805id_/http%3A//www.zenithbank.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenithbank.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230214427id_/http%3A//www.zenithbank.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Home » Customer Services » Privacy Policy
 
