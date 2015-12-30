@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the whalesharkmedia.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014112222id_/http%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whalesharkmedia.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230125314id_/http%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: September 26, 2014
+Effective Date: April 15, 2015
 
 This Privacy Policy (" ** _Privacy Policy_** ") explains how RetailMeNot, Inc. ("RetailMeNot", "us", "our", and "we"), collects and uses information when you interact with us. This Privacy Policy applies to all users of RetailMeNot's website published at [www.RetailMeNot.com](http://www.retailmenot.com/) (and any other websites with "RetailMeNot" branding that link to this Privacy Policy, including, without limitation, m.RetailMeNot.com) and any mobile-device applications we offer, such our iOS and Android applications, that are branded "RetailMeNot" and link or reference this Privacy Policy (collectively, the " ** _Services_** ").
 
 Please read this Privacy Policy carefully. This Privacy Policy replaces and supersedes the last version of this Privacy Policy for all users (including for those users that registered prior to the Effective Date). If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with the Services. Your use of the Services is also subject to our [Terms of Use](http://www.retailmenot.com/static/terms/).
 
-Please [Contact Us](http://www.retailmenot.com/contact/) if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via postal mail at the following address:
+Please [Contact Us](http://help.retailmenot.com/) if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via postal mail at the following address:
 
 RetailMeNot, Inc.  
 Attention: Legal Department  
@@ -70,9 +70,9 @@ RetailMeNot uses Personal Information to:
   * Evaluate eligibility of users for certain coupons, products or services;
   * Evaluate the types of coupons, products or services that may be of interest to users;
   * Track redemption of coupons and perform other analytics;
-  * Provide user support, including to our merchants or business partners;
+  * Provide user support, including to merchants or business partners;
   * Fulfill requests for RetailMeNot services;
-  * Communicate and provide additional information that may be of interest to you about RetailMeNot and our merchants and business partners, such as RetailMeNot news, special offers and coupons, announcements, and marketing materials;
+  * Communicate and provide additional information that may be of interest to you about RetailMeNot and featured merchants and business partners, such as RetailMeNot news, special offers and coupons, announcements, and marketing materials;
   * Send you reminders, technical notices, updates, security alerts and support and administrative messages service bulletins, or marketing;
   * Provide commercial notifications when you arrive at, linger near or leave places;
   * Infer the location of the places you visit most often, determine your frequency at these locations, and send notifications when you arrive at or leave those places;
@@ -96,7 +96,7 @@ We may share your Personal Information as required or permitted by law as descri
   * To effect a merger, acquisition, or otherwise; to support the sale or transfer of business assets; to enforce our rights or protect our property; to protect the rights, property or safety of others, investigate fraud, respond to a government request; or as needed to support auditing, compliance, and corporate governance functions. We may also disclose Personal Information to defend ourselves in litigation or a regulatory action, and when required or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate. If RetailMeNot is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on one or more of our Services of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information; or
   * Otherwise with your consent. We encourage RetailMeNot merchants and business partners to adopt and post privacy policies. However, the use of your Personal Information by such parties is governed by the privacy policies of such parties and is not subject to our control. When you choose to interact with a RetailMeNot merchant or business partner, we encourage you to read any privacy policy they may have posted on their website.
 
-We may also disclose information about you that is not personally identifiable. For example, we may provide our merchants, business partners, or other third parties with reports that contain aggregated and statistical data about our users.
+We may also disclose information about you that is not personally identifiable. For example, we may provide merchants, business partners, or other third parties with reports that contain aggregated and statistical data about our users.
 
 
 
@@ -153,19 +153,19 @@ You may manage the sharing of certain Personal Information when you register wit
 
 With certain coupon offers available on our websites, you may be presented with an option to send yourself an SMS message containing a link. An example of this feature is shown in the screen shot below. The link will allow you to access from your mobile device the coupon offer you have selected.
 
-By clicking "Send this offer", you authorize RetailMeNot to use an automatic telephone dialing system to send you a text message that contains a link to the coupon offer you have selected. Your agreement to receive this text is not a condition of purchase. However, message and data rates may apply. You represent and warrant that any phone number you enter belongs to you and is associated with a mobile device in your possession. You can opt out of receiving texts from RetailMeNot at any time by [Contacting Us](http://www.retailmenot.com/contact/) or by texting STOP to 42767 from your mobile device. Check your service carrier plan for your standard text messaging fees.
+By clicking "Send this offer", you authorize RetailMeNot to use an automatic telephone dialing system to send you a text message that contains a link to the coupon offer you have selected. Your agreement to receive this text is not a condition of purchase. However, message and data rates may apply. You represent and warrant that any phone number you enter belongs to you and is associated with a mobile device in your possession. You can opt out of receiving texts from RetailMeNot at any time by [Contacting Us](http://help.retailmenot.com/) or by texting STOP to 42767 from your mobile device. Check your service carrier plan for your standard text messaging fees.
 
 ## 7\. Accessing and Correcting Personal Information
 
-Keeping Personal Information about you current helps ensure that we offer you the best coupons available through our merchants and business partners. You can do several things to help keep Personal Information about you current. You can access, update and delete your Contact Information and the other information you provided us to use in your profile by logging into the Community and clicking on the "Profile" link.
+Keeping Personal Information about you current helps ensure that we offer you the best coupons available for merchants and business partners. You can do several things to help keep Personal Information about you current. You can access, update and delete your Contact Information and the other information you provided us to use in your profile by logging into the Community and clicking on the "Profile" link.
 
-If you want to close your account or have other questions or requests, or if you would like to access or request a correction to any other Personal Information we hold regarding you, please [Contact Us](http://www.retailmenot.com/contact/).
+If you want to close your account or have other questions or requests, or if you would like to access or request a correction to any other Personal Information we hold regarding you, please [Contact Us](http://help.retailmenot.com/).
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, [Contact Us](http://www.retailmenot.com/contact/). In response, we will cancel or remove your information but may retain and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, [Contact Us](http://help.retailmenot.com/). In response, we will cancel or remove your information but may retain and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 8\. Security of Personal Information
 
-RetailMeNot follows generally accepted industry standards to protect the Personal Information that you provide. For example, we regularly monitor our system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure, however. For this reason, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about our security practices, please [Contact Us](http://www.retailmenot.com/contact/).
+RetailMeNot follows generally accepted industry standards to protect the Personal Information that you provide. For example, we regularly monitor our system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure, however. For this reason, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about our security practices, please [Contact Us](http://help.retailmenot.com/).
 
 ## 9\. Notice to Residents of Countries outside the United States of America
 
@@ -175,17 +175,17 @@ RetailMeNot is headquartered in the United States of America. Personal Informati
 
 RetailMeNot complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. RetailMeNot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-In compliance with the US-EU Safe Harbor Principles, RetailMeNot commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first [Contact Us](http://www.retailmenot.com/contact/).
+In compliance with the US-EU Safe Harbor Principles, RetailMeNot commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first [Contact Us](http://help.retailmenot.com/).
 
 RetailMeNot has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## 10\. Privacy Practices of Third Parties
 
-This Privacy Policy only addresses the use and disclosure of information by RetailMeNot through your interaction with the Services. Other websites that may be accessible through links from our Services may have their own privacy statements and personal information collection, use, and disclosure practices. Our merchants and business partners may have their own privacy statements, too. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of an offer or promotion.
+This Privacy Policy only addresses the use and disclosure of information by RetailMeNot through your interaction with the Services. Other websites that may be accessible through links from our Services may have their own privacy statements and personal information collection, use, and disclosure practices. Merchants and business partners may have their own privacy statements, too. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of an offer or promotion.
 
 ## 11\. Communities
 
-Our Services may contain Communities and other areas where you may be able to publicly post information, communicate with others (such as via discussion boards or blogs), review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others in a manner we cannot control. For example, if you post your email address along with a comment explaining how to redeem a particular coupon, you may receive unsolicited messages from other parties. We are not able to control the use by third parties of Personal Information you post to public areas of the Services. Please avoid publicly posting Personal Information. If you have questions about Personal Information that you have publicly posted in our Communities, please [Contact Us](http://www.retailmenot.com/contact/).
+Our Services may contain Communities and other areas where you may be able to publicly post information, communicate with others (such as via discussion boards or blogs), review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others in a manner we cannot control. For example, if you post your email address along with a comment explaining how to redeem a particular coupon, you may receive unsolicited messages from other parties. We are not able to control the use by third parties of Personal Information you post to public areas of the Services. Please avoid publicly posting Personal Information. If you have questions about Personal Information that you have publicly posted in our Communities, please [Contact Us](http://help.retailmenot.com/).
 
 ## 12\. Changes to this Privacy Policy
 
@@ -197,7 +197,7 @@ RetailMeNot does not intend that any portion of the Services will be accessed or
 
 ## 14\. California Privacy Rights
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RetailMeNot pursuant to Section 1798.83 of the California Civil Code, please [Contact Us](http://www.retailmenot.com/contact/), or write us at the following address:
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RetailMeNot pursuant to Section 1798.83 of the California Civil Code, please [Contact Us](http://help.retailmenot.com/), or write us at the following address:
 
 RetailMeNot, Inc.  
 Attention: Legal Department  
