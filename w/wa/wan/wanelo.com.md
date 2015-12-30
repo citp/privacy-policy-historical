@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanelo.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132754id_/http%3A//wanelo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanelo.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230041133id_/https%3A//wanelo.com/about/privacy) for the most accurate reproduction.*
 
 # Wanelo - Privacy Policy
 
