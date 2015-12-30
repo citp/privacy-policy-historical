@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smosh.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630134833id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smosh.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230131805id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SMOSH
 
@@ -32,7 +32,7 @@ We and our partners may retain the anonymous user data we or our partners collec
 
 ### With whom do we share your information and for what purpose?
 
-Except as may otherwise be expressly set forth in this policy or in our [privacy policy](https://web.archive.org/web/20150630134833id_/http%3A//www.smosh.com/www.defymedia.com/privacy-policy/), Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
+Except as may otherwise be expressly set forth in this policy or in our [privacy policy](https://web.archive.org/web/20151230131805id_/http%3A//www.smosh.com/www.defymedia.com/privacy-policy/), Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 
 ### What are “cookies” and “web beacons” and how do we use them?
 
