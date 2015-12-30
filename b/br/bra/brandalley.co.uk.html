@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brandalley.co.uk privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629105319id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brandalley.co.uk privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230210928id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,8 +15,8 @@
 <link href="//fonts.googleapis.com/css?family=La+Belle+Aurore" rel="stylesheet" type="text/css">
 
 <!--christmas background animation-->
-<!--<script src=""></script>-->
-<!--<script src=""></script>-->
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVTPS3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://js.brandalley.co.uk/brandalley/ThreeCanvas.js"></script>
+<script src="http://js.brandalley.co.uk/brandalley/Snow.js"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -25,9 +25,9 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://media.brandalley.co.uk/css/a6718f52e8baae7c42b637c0415174ed.css?version=1.0.0" media="all">
+<link rel="stylesheet" type="text/css" href="http://media.brandalley.co.uk/css/c2ef6706fd37ec8eb886ab6bfbb0db79.css?version=1.0.0" media="all">
 <link rel="stylesheet" type="text/css" href="http://media.brandalley.co.uk/css/225236c8c92cdc0ca6fcd907a8208e99.css?version=1.0.0" media="print">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVTPS3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://js.brandalley.co.uk/prototype/prototype.js?version=1.0.0"></script>
+<script type="text/javascript" src="http://js.brandalley.co.uk/prototype/prototype.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/lib/ccard.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/prototype/validation.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/scriptaculous/builder.js?version=1.0.0"></script>
@@ -40,6 +40,8 @@
 <script type="text/javascript" src="http://js.brandalley.co.uk/varien/menu.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/mage/translate.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/mage/cookies.js?version=1.0.0"></script>
+<script type="text/javascript" src="http://js.brandalley.co.uk/fris/pay/braintreevzero.js?version=1.0.0"></script>
+<script type="text/javascript" src="http://js.brandalley.co.uk/fris/pay/braintree-data.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/brandalley/ie8-console-fix.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/brandalley/jquery-1.8.3.min.js?version=1.0.0"></script>
 <script type="text/javascript" src="http://js.brandalley.co.uk/brandalley/jquery.main.js?version=1.0.0"></script>
@@ -74,10 +76,16 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <!-- Universal Variable Start -->
 <script type="text/javascript">
   window.universal_variable = window.universal_variable || {};
-  window.universal_variable.page            = {"type":"content","breadcrumb":[]};
-  window.universal_variable.user            = {"customer_name":"","created_at":"1970-01-01","returning":false,"language":"en_GB"};
-      window.universal_variable.basket          = {"currency":"GBP","subtotal":0,"tax":0,"subtotal_include_tax":false,"shipping_cost":0,"shipping_method":"","total":0,"line_items":[]};
-      </script>
+    var titleArray = document.title.split('|');
+  var pagevariable = {"type":"content","breadcrumb":[],"environment":"production"};
+  pagevariable.type = titleArray[0].trim();
+  
+  window.universal_variable.page = pagevariable;
+    window.universal_variable.user            = {"created_at":"","logged_in":false,"returning":"","language":"en_GB"};
+      window.universal_variable.basket          = {"currency":"GBP","subtotal":0,"tax":0,"subtotal_include_tax":false,"vouchers":"","total_discount":0,"shipping_cost":"","shipping_method":"","total":0,"line_items":[]};
+      
+    window.universal_variable.afterAuthUrl     = 'http://www.brandalley.co.uk/privacy-and-cookies/';
+</script>
 <!-- Universal Variable End -->
 
 <!-- QuBit OpenTag Start -->
@@ -90,32 +98,18 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <body class=" cms-page-view cms-privacy-and-cookies">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-43651669-1']);
-_gaq.push(['_trackPageview']);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-43651669-1', 'auto');
 
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
-    { (i[r].q=i[r].q||[]).push(arguments)}
-    ,i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    if(typeof window.universal_variable.user.user_id !== 'undefined') {
-        ga('create', 'UA-43651669-1', 'auto');
-        ga('set', '&uid', window.universal_variable.user.user_id);
-        ga('send', 'pageview');
-     }
-//]]>
-</script>
+	if(typeof window.universal_variable.user.user_id !== 'undefined') {
+	ga('set', '&uid', window.universal_variable.user.user_id);
+ }
+ga('send', 'pageview');
+        ga('send', 'pageview', '');</script>
 <!-- END GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
     var clicky_custom = clicky_custom || {};
@@ -139,7 +133,12 @@ _gaq.push(['_trackPageview']);
 
     }
 </script>
-<script src="//static.getclicky.com/100831565.js" type="text/javascript"></script><div id="wrapper">
+<script src="//static.getclicky.com/100831565.js" type="text/javascript"></script><div class="notification" style="display:none;">
+<div class="notificationInner">
+	<h2>Our Privacy policy</h2>
+<p>We use cookies on our website to provide you with a better service. If you are happy with this continue to use the website as normal.</p>    <a class="closeBtn" href="javascript:void(0)"><img src="http://skin.brandalley.co.uk/frontend/brandalley/default/images/closeBTN.png" alt="Close"></a>
+</div>
+ </div><div id="wrapper">
 		<div class="w1">			<div id="header" class="header"><div class="print-logo"><img src="http://skin.brandalley.co.uk/frontend/brandalley/default/images/print-logo.jpg" width="226" height="77" alt="Brand Alley Print Logo"></div>
 <div class="holder xmas">
 	<div class="holder_child">
@@ -147,7 +146,7 @@ _gaq.push(['_trackPageview']);
 	<!-- Top Menu -->
 	
 	<!-- Top right links -->
-	<!--{INVENT_CACHE_FIX_LINKS_ed4a3e8971fd4220c10b3a563ced2464}--><ul class="add-nav">
+	<ul class="add-nav">
 
 	<li class="welcome"><div>&nbsp;</div></li>
 	<li class="blog"><a href="http://www.brandalley.co.uk/blog/">BLOG</a></li>
@@ -161,17 +160,18 @@ _gaq.push(['_trackPageview']);
 						</ul>
 					</div>
 						</li>
-	<li class="basketli">
-				<span class="basket">0</span><a href="#" class="btn-basket opener">BAG</a>
+	<li id="basketli" class="basketli">
+				<span class="basket">0</span><a href="http://www.brandalley.co.uk/checkout/cart/" class="btn-basket opener-selected">BAG</a><a href="#" class="btn-basket opener" style="display:none;">BAG</a>
 		<div class="drop drop-3" style="display: none;">
-			<div class="mini_cart_container">
+			
+<div class="mini_cart_container">
 <div id="mini-cart-content">
 <div class="minicart-items-empty">
 		You currently have no item(s) in your shopping bag. <br>
 		Please
-				 do  
+				 do
 		<a href="https://www.brandalley.co.uk/customer/account/login/">Login</a> or <a href="https://www.brandalley.co.uk/customer/account/create/">Register</a>
-		 to 
+		 to
 				continue shopping.
 		</div>
 		</div>
@@ -181,8 +181,7 @@ _gaq.push(['_trackPageview']);
 </ul>
 
 
-
-<!--/{INVENT_CACHE_FIX_LINKS_ed4a3e8971fd4220c10b3a563ced2464}-->	
+	
 	</div>
 </div>
 <div class="lower-menu">
@@ -190,7 +189,7 @@ _gaq.push(['_trackPageview']);
 	<ul id="nav">
 		<li>
 	<a href="http://www.brandalley.co.uk/flashsales/index/displayCategory/cattags/women/cattagsid/2"><span class="top_navigation_menu">WOMEN</span></a>
-		<div class="drop drop-4-ext">
+		<div class="drop drop-5-ext">
 		<div class="col-holder">
 		<div class="col-frame">
 		<div class="col">
@@ -200,15 +199,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/michael-kors-watches-jewellery.html" class="open">Michael Kors Watches &amp; Jewellery</a>
+					<a href="http://www.brandalley.co.uk/private-sales/premium-designer-bags.html" class="open">Premium Designer Bags</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/280615_mkwatches_ps.jpg" width="220" height="294" alt="Michael Kors Watches &amp; Jewellery">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/301215_premium_designer_bags_ps.jpg" width="220" height="294" alt="Premium Designer Bags">
 							<span class="description">
-								<span class="title">Michael Kors Watches &amp; Jewellery</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="collection">Current season styles</span>
-<span class="hover-text">Fabulous watches and jewellery from this uptown-chic US label</span></span>
+								<span class="title">Premium Designer Bags</span>
+								<span class="discount">Up to 30% off</span>
+								<span class="collection"><span class="hover-text">Super-chic designer bags from Jimmy Choo, D&amp;G and Balenciaga.</span></span>
 							</span>
 						</a>
 					</div>
@@ -217,14 +215,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/mathis-montabon.html" class="open">Mathis Montabon</a>
+					<a href="http://www.brandalley.co.uk/private-sales/new-year-new-workwear-wardrobe.html" class="open">New Year, New Workwear Wardrobe</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_mathis_montabon_ps.jpg" width="220" height="294" alt="Mathis Montabon">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/301215_new-year-new-workwear_ps.jpg" width="220" height="294" alt="New Year, New Workwear Wardrobe">
 							<span class="description">
-								<span class="title">Mathis Montabon</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">Luxury timepieces, perfect for day and evening wear</span></span>
+								<span class="title">New Year, New Workwear Wardrobe</span>
+								<span class="discount"></span>
+								<span class="collection"><span class="hover-text">From Hobbs, Joseph, Ted Baker, French Connection and many more.</span></span>
 							</span>
 						</a>
 					</div>
@@ -233,97 +231,15 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/atelier-victoire-pearls.html" class="open">Atelier Victoire Pearls</a>
+					<a href="http://www.brandalley.co.uk/private-sales/watch-box.html" class="open">Designer Watch Box</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_atelier_victoire_pearls_ps.jpg" width="220" height="294" alt="Atelier Victoire Pearls">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/111215_designerwatchbox_ps.jpg" width="220" height="294" alt="Designer Watch Box">
 							<span class="description">
-								<span class="title">Atelier Victoire Pearls</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">Beautiful freshwater and Tahiti pearl jewellery</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/joseph.html" class="open">Joseph</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_joseph_ps.jpg" width="220" height="294" alt="Joseph">
-							<span class="description">
-								<span class="title">Joseph</span>
-								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="collection">Dresses from £49</span>
-<span class="hover-text">Women’s contemporary collection with a strong core of luxury essentials.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/caromay.html" class="open">Caromay</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_caromay_ps.jpg" width="220" height="294" alt="Caromay">
-							<span class="description">
-								<span class="title">Caromay</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">Stunning embellished pieces for all this season’s special occasions</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/gucci-eyewear.html" class="open">Gucci Eyewear</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_guccieyewear_ps.jpg" width="220" height="294" alt="Gucci Eyewear">
-							<span class="description">
-								<span class="title">Gucci Eyewear</span>
-								<span class="discount">Up to 50% off</span>
-								<span class="collection"><span class="collection">Prices from £75</span>
-<span class="hover-text">Super-chic sunglasses and frames for men and women by this cult brand.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/sam-edelman.html" class="open">Sam Edelman</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_sam_edelman_ps.jpg" width="220" height="294" alt="Sam Edelman">
-							<span class="description">
-								<span class="title">Sam Edelman</span>
-								<span class="discount">Up to 55% off</span>
-								<span class="collection"><span class="hover-text">Must-have, trending footwear from this innovative, luxe brand</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/great-plains.html" class="open">Great Plains</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_greatplains_ps.jpg" width="220" height="294" alt="Great Plains">
-							<span class="description">
-								<span class="title">Great Plains</span>
+								<span class="title">Designer Watch Box</span>
 								<span class="discount">Up to 75% off</span>
-								<span class="collection"><span class="collection">All Styles Under £25</span>
-<span class="hover-text">Gorgeous, trending summer wardrobe updates for weekends and parties</span></span>
+								<span class="collection">
+<span class="hover-text">Michael Kors, Marc by Marc Jacobs, Armani and more for him and her.</span></span>
 							</span>
 						</a>
 					</div>
@@ -332,15 +248,15 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/designer-bags.html" class="open">Designer Bags</a>
+					<a href="http://www.brandalley.co.uk/private-sales/classe-regina-italian-handbags.html" class="open">Classe Regina Italian Handbags</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_designerbags_ps.jpg" width="220" height="294" alt="Designer Bags">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/301215_classe-regina_ps.jpg" width="220" height="294" alt="Classe Regina Italian Handbags">
 							<span class="description">
-								<span class="title">Designer Bags</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="collection">Current-season styles</span>
-<span class="hover-text">By Chloé, Tory Burch, Marc by Marc Jacobs, and more</span></span>
+								<span class="title">Classe Regina Italian Handbags</span>
+								<span class="discount">Up to 75% off</span>
+								<span class="collection"><span class="collection">Everything under £50</span> 
+<span class="hover-text">Must-have pieces in beautiful Italian leather. </span></span>
 							</span>
 						</a>
 					</div>
@@ -349,15 +265,97 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/summer-dressing-boutique.html" class="open">Summer Dressing Boutique</a>
+					<a href="http://www.brandalley.co.uk/private-sales/slimtess-and-body-perfection-shapewear.html" class="open">Slimtess and Body Perfection Shapewear</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_summerdressingboutique_ps.jpg" width="220" height="294" alt="Summer Dressing Boutique">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_slimtess_body_perfection_ps.jpg" width="220" height="294" alt="Slimtess and Body Perfection Shapewear">
 							<span class="description">
-								<span class="title">Summer Dressing Boutique</span>
+								<span class="title">Slimtess and Body Perfection Shapewear</span>
 								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="collection">Dresses from £17.50</span>
-<span class="hover-text">Bright, bold standout looks for every style event by Goddiva and more</span></span>
+								<span class="collection"><span class="hover-text">Skin-loving lingerie from stylish brands for that ‘new you’ feel.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/jaeger-women.html" class="open">Jaeger Women's Transitional Wardrobe</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_jaeger_ps.jpg" width="220" height="294" alt="Jaeger Women's Transitional Wardrobe">
+							<span class="description">
+								<span class="title">Jaeger Women's Transitional Wardrobe</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><p><span class="collection">an extra 20% off</span></p>
+<span class="hover-text">Separates, coats, knits and dresses in neutral tones and exciting prints.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/new-year-new-you-outlet-sale.html" class="open">New Year, New You! Outlet Sale</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_nynyou_ps.jpg" width="220" height="294" alt="New Year, New You! Outlet Sale">
+							<span class="description">
+								<span class="title">New Year, New You! Outlet Sale</span>
+								<span class="discount"></span>
+								<span class="collection"><span class="hover-text">New year style inspiration by Hobbs, Ted Baker and French Connection.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/christmas-shop-clearance.html" class="open">Christmas Shop Clearance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/171215_christmas-shop-clearance_ps.jpg" width="220" height="294" alt="Christmas Shop Clearance">
+							<span class="description">
+								<span class="title">Christmas Shop Clearance</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="hover-text">Trees, lights and decorative accessories to make your home sparkle.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/lily-chole.html" class="open">Lilly &amp; Chloe</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_lilycole_ps.jpg" width="220" height="294" alt="Lilly &amp; Chloe">
+							<span class="description">
+								<span class="title">Lilly &amp; Chloe</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="collection">From £12</span> 
+<span class="hover-text">Stunning and charming jewellery to complement your wardrobe. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/joh-rothmann.html" class="open">Joh. Rothmann</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_joh_rothman_ps.jpg" width="220" height="294" alt="Joh. Rothmann">
+							<span class="description">
+								<span class="title">Joh. Rothmann</span>
+								<span class="discount">Up to 85% off</span>
+								<span class="collection"><span class="collection">From £79</span> 
+<span class="hover-text">Luxe classic and contemporary watches for men and women. </span></span>
 							</span>
 						</a>
 					</div>
@@ -371,14 +369,15 @@ _gaq.push(['_trackPageview']);
                         <ul class="list">
  			
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/cottonreal.html" class="open">Cottonreal</a>
+					<a href="http://www.brandalley.co.uk/private-sales/neuw-men-and-women.html" class="open">Neuw Men and Women</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/280615_cottonreal_ps.jpg" width="220" height="294" alt="Cottonreal">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_neuw_ps.jpg" width="220" height="294" alt="Neuw Men and Women">
 							<span class="description">
-								<span class="title">Cottonreal</span>
+								<span class="title">Neuw Men and Women</span>
 								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="hover-text">Beautiful nightwear with floral prints and delicate details for summer</span></span>
+								<span class="collection"><span class="collection">BrandAlley debut</span> 
+<span class="hover-text">Vintage-inspired jeans and more by a renowned denim label.</span></span>
 							</span>
 						</a>
 					</div>
@@ -387,131 +386,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/bjorn-borg.html" class="open">Bjorn Borg</a>
+					<a href="http://www.brandalley.co.uk/private-sales/new-winter-wardrobe.html" class="open">New Winter Wardrobe</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/280615_bjorn_ps.jpg" width="220" height="294" alt="Bjorn Borg">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_winter_wardrobe_ps.jpg" width="220" height="294" alt="New Winter Wardrobe">
 							<span class="description">
-								<span class="title">Bjorn Borg</span>
-								<span class="discount">Up to 50% off</span>
-								<span class="collection"><span class="hover-text">Glam lingerie and workout gear in signature bright colours and prints for men and women.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/muubaa-clearance.html" class="open">Muubaa Clearance</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/250615_muuba_ps.jpg" width="220" height="294" alt="Muubaa Clearance">
-							<span class="description">
-								<span class="title">Muubaa Clearance</span>
-								<span class="discount">Up to 75% off</span>
-								<span class="collection"><span class="collection">Jackets from £89.50</span>
-<span class="hover-text">Stylish, on-trend leather jackets and clothing for women.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/sofia-palmas.html" class="open">Sophia Palmas</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_sofiapalmas_ps.jpg" width="220" height="294" alt="Sophia Palmas">
-							<span class="description">
-								<span class="title">Sophia Palmas</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="collection">BrandAlley debut</span>
-<span class="hover-text">A stunning collection of glamorous jewellery for day-to-night dressing.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/luxury-sunglasses-shop.html" class="open">Luxury Sunglasses Shop</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_luxurysunglasses_ps.jpg" width="220" height="294" alt="Luxury Sunglasses Shop">
-							<span class="description">
-								<span class="title">Luxury Sunglasses Shop</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="hover-text">His and hers styles by Alexander McQueen, Miu Miu, Céline and Prada.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/hudson.html" class="open">Hudson</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/250615_hudson_ps.jpg" width="220" height="294" alt="Hudson">
-							<span class="description">
-								<span class="title">Hudson</span>
-								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="collection">Jeans from £69.50</span>
-<span class="hover-text">Chic denim rooted in British cool, liberated by the free spirit of LA.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/british-brazilian.html" class="open">British Brazilian</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_britishbrazilan_ps.jpg" width="220" height="294" alt="British Brazilian">
-							<span class="description">
-								<span class="title">British Brazilian</span>
-								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="collection">BrandAlley debut</span>
-<span class="hover-text">A flattering edit of smart, feminine womenswear.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/menbur.html" class="open">Menbur</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_membur_ps.jpg" width="220" height="294" alt="Menbur">
-							<span class="description">
-								<span class="title">Menbur</span>
-								<span class="discount">Up to 85% off</span>
-								<span class="collection"><span class="hover-text">Elegant, sophisticated footwear for your special occasions by this history rich brand.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/isabella-rhea.html" class="open">Isabella Rhea</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_isabellarhea_ps.jpg" width="220" height="294" alt="Isabella Rhea">
-							<span class="description">
-								<span class="title">Isabella Rhea</span>
+								<span class="title">New Winter Wardrobe</span>
 								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="collection">All styles under £75</span>
-<span class="hover-text">Stylish leather totes to update your work wardrobe.</span></span>
+								<span class="collection"><span class="hover-text">Trend-led long gilets, wool-blend coats and separates with a pop of colour.</span></span>
 							</span>
 						</a>
 					</div>
@@ -520,14 +402,127 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/burgmeister.html" class="open">Burgmeister</a>
+					<a href="http://www.brandalley.co.uk/private-sales/muubaa.html" class="open">Muubaa</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/180515_burgmeister_ps.jpg" width="220" height="294" alt="Burgmeister">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_muubaa_ps.jpg" width="220" height="294" alt="Muubaa">
 							<span class="description">
-								<span class="title">Burgmeister</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">High-quality, classic timepieces for men and women to last a lifetime.</span></span>
+								<span class="title">Muubaa</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Unique, timeless leather separates with a twist, all expertly crafted.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/designer-fragrance.html" class="open">Designer Fragrance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_designer-fragrance_ps.jpg" width="220" height="294" alt="Designer Fragrance">
+							<span class="description">
+								<span class="title">Designer Fragrance</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Your favourite scents from Creed, Jean Paul Gaultier, Gucci and more</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/designer-skincare.html" class="open">Designer Skincare</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_designer-skincare_ps.jpg" width="220" height="294" alt="Designer Skincare">
+							<span class="description">
+								<span class="title">Designer Skincare</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Pampering treats by La Prairie, INA Crystals and more top beauty names.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/fever.html" class="open">Fever London</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_fever_ps.jpg" width="220" height="294" alt="Fever London">
+							<span class="description">
+								<span class="title">Fever London</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection">
+<span class="hover-text">A vibrant, feminine collection of vintage-inspired dresses and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/ugg.html" class="open">UGG Australia</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_ugg_ps.jpg" width="220" height="294" alt="UGG Australia">
+							<span class="description">
+								<span class="title">UGG Australia</span>
+								<span class="discount">Up to 30% off</span>
+								<span class="collection"><span class="hover-text">Beloved silhouettes with classic styling in luxe sheepskin by this iconic brand.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/sam-edelman.html" class="open">Sam Edelman</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_sam_edelman_ps.jpg" width="220" height="294" alt="Sam Edelman">
+							<span class="description">
+								<span class="title">Sam Edelman</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Must-have, trending footwear from this innovative, luxe brand.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/versace-collection-just-cavalli.html" class="open">Versace Collection &amp; Just Cavalli</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_versace_ps.jpg" width="220" height="294" alt="Versace Collection &amp; Just Cavalli">
+							<span class="description">
+								<span class="title">Versace Collection &amp; Just Cavalli</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Men’s essential AW separates, including tees, shirts and knitwear.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/cyberjammies.html" class="open">Cyberjammies</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/261215_cyberjammies_ps.jpg" width="220" height="294" alt="Cyberjammies">
+							<span class="description">
+								<span class="title">Cyberjammies</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Cosy-chic and classic nightwear from this much-loved brand.</span></span>
 							</span>
 						</a>
 					</div>
@@ -538,144 +533,282 @@ _gaq.push(['_trackPageview']);
 			<h2>Ending Soon</h2>
 			<ul class="list">
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/menbur.html" class="open">Menbur</a>
+					<a href="http://www.brandalley.co.uk/private-sales/slimtess-and-body-perfection-shapewear.html" class="open">Slimtess and Body Perfection Shapewear</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_membur_ps.jpg" width="220" height="294" alt="Menbur">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_slimtess_body_perfection_ps.jpg" width="220" height="294" alt="Slimtess and Body Perfection Shapewear">
 							<span class="description">
-								<span class="title">Menbur</span>
-								<span class="discount">Up to 85% off</span>
-								<span class="collection"><span class="hover-text">Elegant, sophisticated footwear for your special occasions by this history rich brand.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/isabella-rhea.html" class="open">Isabella Rhea</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_isabellarhea_ps.jpg" width="220" height="294" alt="Isabella Rhea">
-							<span class="description">
-								<span class="title">Isabella Rhea</span>
+								<span class="title">Slimtess and Body Perfection Shapewear</span>
 								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="collection">All styles under £75</span>
-<span class="hover-text">Stylish leather totes to update your work wardrobe.</span></span>
+								<span class="collection"><span class="hover-text">Skin-loving lingerie from stylish brands for that ‘new you’ feel.</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/ann-summers.html" class="open">Ann Summers</a>
+					<a href="http://www.brandalley.co.uk/private-sales/new-winter-wardrobe.html" class="open">New Winter Wardrobe</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/220615_annsummers_ps.jpg" width="220" height="294" alt="Ann Summers">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_winter_wardrobe_ps.jpg" width="220" height="294" alt="New Winter Wardrobe">
 							<span class="description">
-								<span class="title">Ann Summers</span>
-								<span class="discount">Up to 50% off</span>
-								<span class="collection"><span class="hover-text">Turn up the heat and explore your wild side, courtesy of Ann Summers.</span></span>
+								<span class="title">New Winter Wardrobe</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Trend-led long gilets, wool-blend coats and separates with a pop of colour.</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/burgmeister.html" class="open">Burgmeister</a>
+					<a href="http://www.brandalley.co.uk/private-sales/premium-designer-bags.html" class="open">Premium Designer Bags</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/180515_burgmeister_ps.jpg" width="220" height="294" alt="Burgmeister">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/301215_premium_designer_bags_ps.jpg" width="220" height="294" alt="Premium Designer Bags">
 							<span class="description">
-								<span class="title">Burgmeister</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">High-quality, classic timepieces for men and women to last a lifetime.</span></span>
+								<span class="title">Premium Designer Bags</span>
+								<span class="discount">Up to 30% off</span>
+								<span class="collection"><span class="hover-text">Super-chic designer bags from Jimmy Choo, D&amp;G and Balenciaga.</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/masquerade-by-panache.html" class="open">Masquerade by Panache</a>
+					<a href="http://www.brandalley.co.uk/private-sales/new-year-new-workwear-wardrobe.html" class="open">New Year, New Workwear Wardrobe</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_masquerade_ps.jpg" width="220" height="294" alt="Masquerade by Panache">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/301215_new-year-new-workwear_ps.jpg" width="220" height="294" alt="New Year, New Workwear Wardrobe">
 							<span class="description">
-								<span class="title">Masquerade by Panache</span>
+								<span class="title">New Year, New Workwear Wardrobe</span>
+								<span class="discount"></span>
+								<span class="collection"><span class="hover-text">From Hobbs, Joseph, Ted Baker, French Connection and many more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="http://www.brandalley.co.uk/private-sales/neuw-men-and-women.html" class="open">Neuw Men and Women</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_neuw_ps.jpg" width="220" height="294" alt="Neuw Men and Women">
+							<span class="description">
+								<span class="title">Neuw Men and Women</span>
 								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="collection">From DD-K Cup</span>
-<span class="hover-text">Gorgeous lingerie in beautiful fabrics for a touch of luxury.</span></span>
+								<span class="collection"><span class="collection">BrandAlley debut</span> 
+<span class="hover-text">Vintage-inspired jeans and more by a renowned denim label.</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/sofia-palmas.html" class="open">Sophia Palmas</a>
+					<a href="http://www.brandalley.co.uk/private-sales/scott-scott-london.html" class="open">Scott &amp; Scott London Cashmere</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_sofiapalmas_ps.jpg" width="220" height="294" alt="Sophia Palmas">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/051215_scott-and-scott_rtw_ps.jpg" width="220" height="294" alt="Scott &amp; Scott London Cashmere">
 							<span class="description">
-								<span class="title">Sophia Palmas</span>
+								<span class="title">Scott &amp; Scott London Cashmere</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><p><span class="collection">an extra 20% off</span></p>
+<span class="hover-text">Luxurious 100% cashmere, including best-selling capes, knits and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="http://www.brandalley.co.uk/private-sales/scott-scott-london-accessories.html" class="open">Scott &amp; Scott London Accessories</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/051215_scott_and_scott_accessories_ps.jpg" width="220" height="294" alt="Scott &amp; Scott London Accessories">
+							<span class="description">
+								<span class="title">Scott &amp; Scott London Accessories</span>
+								<span class="discount">Up to 65% off</span>
+								<span class="collection"><p><span class="collection">an extra 20% off</span></p>
+<span class="hover-text">Beautifully soft and snuggly, cashmere finishing touches. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="http://www.brandalley.co.uk/private-sales/christmas-shop-clearance.html" class="open">Christmas Shop Clearance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/171215_christmas-shop-clearance_ps.jpg" width="220" height="294" alt="Christmas Shop Clearance">
+							<span class="description">
+								<span class="title">Christmas Shop Clearance</span>
 								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="collection">BrandAlley debut</span>
-<span class="hover-text">A stunning collection of glamorous jewellery for day-to-night dressing.</span></span>
+								<span class="collection"><span class="hover-text">Trees, lights and decorative accessories to make your home sparkle.</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/luxury-sunglasses-shop.html" class="open">Luxury Sunglasses Shop</a>
+					<a href="http://www.brandalley.co.uk/private-sales/lily-chole.html" class="open">Lilly &amp; Chloe</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_luxurysunglasses_ps.jpg" width="220" height="294" alt="Luxury Sunglasses Shop">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_lilycole_ps.jpg" width="220" height="294" alt="Lilly &amp; Chloe">
 							<span class="description">
-								<span class="title">Luxury Sunglasses Shop</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="hover-text">His and hers styles by Alexander McQueen, Miu Miu, Céline and Prada.</span></span>
+								<span class="title">Lilly &amp; Chloe</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="collection">From £12</span> 
+<span class="hover-text">Stunning and charming jewellery to complement your wardrobe. </span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/british-brazilian.html" class="open">British Brazilian</a>
+					<a href="http://www.brandalley.co.uk/private-sales/joh-rothmann.html" class="open">Joh. Rothmann</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_britishbrazilan_ps.jpg" width="220" height="294" alt="British Brazilian">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_joh_rothman_ps.jpg" width="220" height="294" alt="Joh. Rothmann">
 							<span class="description">
-								<span class="title">British Brazilian</span>
-								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="collection">BrandAlley debut</span>
-<span class="hover-text">A flattering edit of smart, feminine womenswear.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/great-plains.html" class="open">Great Plains</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_greatplains_ps.jpg" width="220" height="294" alt="Great Plains">
-							<span class="description">
-								<span class="title">Great Plains</span>
-								<span class="discount">Up to 75% off</span>
-								<span class="collection"><span class="collection">All Styles Under £25</span>
-<span class="hover-text">Gorgeous, trending summer wardrobe updates for weekends and parties</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-							<li>
-					<a href="http://www.brandalley.co.uk/private-sales/designer-bags.html" class="open">Designer Bags</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_designerbags_ps.jpg" width="220" height="294" alt="Designer Bags">
-							<span class="description">
-								<span class="title">Designer Bags</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="collection">Current-season styles</span>
-<span class="hover-text">By Chloé, Tory Burch, Marc by Marc Jacobs, and more</span></span>
+								<span class="title">Joh. Rothmann</span>
+								<span class="discount">Up to 85% off</span>
+								<span class="collection"><span class="collection">From £79</span> 
+<span class="hover-text">Luxe classic and contemporary watches for men and women. </span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 						</ul>
 		</div>
-					<div class="box-more">
+						<div class="col">
+			<h2>Coming Soon</h2>
+			<ul class="list">
+							<li>
+					<a href="#" class="open">Shearling Boutique</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/221115_shearling_ps.jpg" width="220" height="294" alt="Shearling Boutique">
+							<span class="description">
+								<span class="title">Shearling Boutique</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection">
+<span class="collection">Up to XXL</span> 
+<span class="hover-text">stylish, chic jackets, gilets, hat and gloves </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Hindenberg</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/311215_hindenberg_ps.jpg" width="220" height="294" alt="Hindenberg">
+							<span class="description">
+								<span class="title">Hindenberg</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="collection">Includes Special Editions</span> 
+<span class="hover-text">Elegant watches with leading-edge technology. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Aldo</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/311215_aldo_ps.jpg" width="220" height="294" alt="Aldo">
+							<span class="description">
+								<span class="title">Aldo</span>
+								<span class="discount">Up to 55% off</span>
+								<span class="collection"><span class="collection">BrandAlley debut</span> 
+<span class="hover-text">His and hers footwear with iconic designs and details. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Puffa</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/300915_puffa_ps.jpg" width="220" height="294" alt="Puffa">
+							<span class="description">
+								<span class="title">Puffa</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Quality outerwear and more inspired by iconic British roots. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Carvela Kurt Geiger Clearance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/031215_carvela_ps.jpg" width="220" height="294" alt="Carvela Kurt Geiger Clearance">
+							<span class="description">
+								<span class="title">Carvela Kurt Geiger Clearance</span>
+								<span class="discount">Up to 65% off</span>
+								<span class="collection"><span class="hover-text">Signature AW15 boots, courts and flats from this much-loved brand.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Ballerina Boutique</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/020116_just_ballerina_ps.jpg" width="220" height="294" alt="Ballerina Boutique">
+							<span class="description">
+								<span class="title">Ballerina Boutique</span>
+								<span class="discount">Up to 65% off</span>
+								<span class="collection"><span class="hover-text">Everyday styles from Just Ballerinas, Las Lolas and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Going For Gold</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/020116_going_for_gold_ps.jpg" width="220" height="294" alt="Going For Gold">
+							<span class="description">
+								<span class="title">Going For Gold</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Gold-tone jewellery by US icons: Ben-Amun and Kenneth Jay Lane.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Tom Ford Sunglasses</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/190915_tomford_ps.jpg" width="220" height="294" alt="Tom Ford Sunglasses">
+							<span class="description">
+								<span class="title">Tom Ford Sunglasses</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Current-season styles for men and women by this iconic US brand. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">New Year New You Yoga/Fitness</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/041215_new-fitness_ps.jpg" width="220" height="294" alt="New Year New You Yoga/Fitness">
+							<span class="description">
+								<span class="title">New Year New You Yoga/Fitness</span>
+								<span class="discount">Up to 65% off</span>
+								<span class="collection"><span class="hover-text">Activewear by Aim High and Wellicious to start on your resolutions.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Great Plains</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/040116_greatplains_ps.jpg" width="220" height="294" alt="Great Plains">
+							<span class="description">
+								<span class="title">Great Plains</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Chic capsule wardrobe pieces, including separates, dresses, knits and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+						</ul>
+		</div>
+			<div class="box-more">
 	<a href="http://www.brandalley.co.uk/flashsales/index/displayCategory/cattags/women/cattagsid/2" class="more">View all</a>
 	</div>
     			
@@ -686,7 +819,7 @@ _gaq.push(['_trackPageview']);
 	</li>
 		<li>
 	<a href="http://www.brandalley.co.uk/flashsales/index/displayCategory/cattags/men/cattagsid/1"><span class="top_navigation_menu">MEN</span></a>
-		<div class="drop drop-2">
+		<div class="drop drop-4">
 		<div class="col-holder">
 		<div class="col-frame">
 		<div class="col">
@@ -696,14 +829,64 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/mathis-montabon.html" class="open">Mathis Montabon</a>
+					<a href="http://www.brandalley.co.uk/private-sales/watch-box.html" class="open">Designer Watch Box</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_mathis_montabon_ps.jpg" width="220" height="294" alt="Mathis Montabon">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/111215_designerwatchbox_ps.jpg" width="220" height="294" alt="Designer Watch Box">
 							<span class="description">
-								<span class="title">Mathis Montabon</span>
+								<span class="title">Designer Watch Box</span>
+								<span class="discount">Up to 75% off</span>
+								<span class="collection">
+<span class="hover-text">Michael Kors, Marc by Marc Jacobs, Armani and more for him and her.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/jaeger-men-s-formal-wear.html" class="open">Jaeger Men's Formal Wear</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_jaeger_men_formal_ps.jpg" width="220" height="294" alt="Jaeger Men's Formal Wear">
+							<span class="description">
+								<span class="title">Jaeger Men's Formal Wear</span>
+								<span class="discount">Up to 75% off</span>
+								<span class="collection"><p><span class="collection">an extra 20% off</span></p>
+<span class="hover-text">AW wardrobe updates, including smart suits, formal shirts and ties. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/new-year-new-you-outlet-sale.html" class="open">New Year, New You! Outlet Sale</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_nynyou_ps.jpg" width="220" height="294" alt="New Year, New You! Outlet Sale">
+							<span class="description">
+								<span class="title">New Year, New You! Outlet Sale</span>
+								<span class="discount"></span>
+								<span class="collection"><span class="hover-text">New year style inspiration by Hobbs, Ted Baker and French Connection.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/christmas-shop-clearance.html" class="open">Christmas Shop Clearance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/171215_christmas-shop-clearance_ps.jpg" width="220" height="294" alt="Christmas Shop Clearance">
+							<span class="description">
+								<span class="title">Christmas Shop Clearance</span>
 								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">Luxury timepieces, perfect for day and evening wear</span></span>
+								<span class="collection"><span class="hover-text">Trees, lights and decorative accessories to make your home sparkle.</span></span>
 							</span>
 						</a>
 					</div>
@@ -712,15 +895,15 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/gucci-eyewear.html" class="open">Gucci Eyewear</a>
+					<a href="http://www.brandalley.co.uk/private-sales/joh-rothmann.html" class="open">Joh. Rothmann</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_guccieyewear_ps.jpg" width="220" height="294" alt="Gucci Eyewear">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_joh_rothman_ps.jpg" width="220" height="294" alt="Joh. Rothmann">
 							<span class="description">
-								<span class="title">Gucci Eyewear</span>
-								<span class="discount">Up to 50% off</span>
-								<span class="collection"><span class="collection">Prices from £75</span>
-<span class="hover-text">Super-chic sunglasses and frames for men and women by this cult brand.</span></span>
+								<span class="title">Joh. Rothmann</span>
+								<span class="discount">Up to 85% off</span>
+								<span class="collection"><span class="collection">From £79</span> 
+<span class="hover-text">Luxe classic and contemporary watches for men and women. </span></span>
 							</span>
 						</a>
 					</div>
@@ -729,14 +912,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/bjorn-borg.html" class="open">Bjorn Borg</a>
+					<a href="http://www.brandalley.co.uk/private-sales/men-s-formal-shoe-boutique.html" class="open">Men's Formal Shoe Boutique</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/280615_bjorn_ps.jpg" width="220" height="294" alt="Bjorn Borg">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_formail-shoe-boutique_ps.jpg" width="220" height="294" alt="Men's Formal Shoe Boutique">
 							<span class="description">
-								<span class="title">Bjorn Borg</span>
-								<span class="discount">Up to 50% off</span>
-								<span class="collection"><span class="hover-text">Glam lingerie and workout gear in signature bright colours and prints for men and women.</span></span>
+								<span class="title">Men's Formal Shoe Boutique</span>
+								<span class="discount">Up to 65% off</span>
+								<span class="collection"><span class="hover-text">Work-to-evening styles by KG Kurt Geiger, Oliver Sweeney and more.</span></span>
 							</span>
 						</a>
 					</div>
@@ -745,14 +928,15 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/mens-leather-footwear-edit.html" class="open">Mens Leather Footwear Edit</a>
+					<a href="http://www.brandalley.co.uk/private-sales/neuw-men-and-women.html" class="open">Neuw Men and Women</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/280615_mensleather_ps.jpg" width="220" height="294" alt="Mens Leather Footwear Edit">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/281215_neuw_ps.jpg" width="220" height="294" alt="Neuw Men and Women">
 							<span class="description">
-								<span class="title">Mens Leather Footwear Edit</span>
+								<span class="title">Neuw Men and Women</span>
 								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="hover-text">Looks to take you from work to weekend by Spanish brand, Malatesta</span></span>
+								<span class="collection"><span class="collection">BrandAlley debut</span> 
+<span class="hover-text">Vintage-inspired jeans and more by a renowned denim label.</span></span>
 							</span>
 						</a>
 					</div>
@@ -761,70 +945,104 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/luxury-sunglasses-shop.html" class="open">Luxury Sunglasses Shop</a>
+					<a href="http://www.brandalley.co.uk/private-sales/designer-fragrance.html" class="open">Designer Fragrance</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/270615_luxurysunglasses_ps.jpg" width="220" height="294" alt="Luxury Sunglasses Shop">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_designer-fragrance_ps.jpg" width="220" height="294" alt="Designer Fragrance">
 							<span class="description">
-								<span class="title">Luxury Sunglasses Shop</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="hover-text">His and hers styles by Alexander McQueen, Miu Miu, Céline and Prada.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/anatomic.html" class="open">Anatomic</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_anatomic_ps.jpg" width="220" height="294" alt="Anatomic">
-							<span class="description">
-								<span class="title">Anatomic</span>
-								<span class="discount">Up to 55% off</span>
-								<span class="collection"><span class="collection">BrandAlley Debut</span>
-<span class="hover-text">High-quality, hand-crafted leather footwear with a British twist from Anatomic &amp; Co.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/burgmeister.html" class="open">Burgmeister</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/180515_burgmeister_ps.jpg" width="220" height="294" alt="Burgmeister">
-							<span class="description">
-								<span class="title">Burgmeister</span>
-								<span class="discount">Up to 80% off</span>
-								<span class="collection"><span class="hover-text">High-quality, classic timepieces for men and women to last a lifetime.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/hackett-men-s-underwear.html" class="open">Hackett London Underwear</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_hackettunderwear_ps.jpg" width="220" height="294" alt="Hackett London Underwear">
-							<span class="description">
-								<span class="title">Hackett London Underwear</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="hover-text">Essential underwear and nightwear from this London-born brand.</span></span>
+								<span class="title">Designer Fragrance</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Your favourite scents from Creed, Jean Paul Gaultier, Gucci and more</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 						</ul>
 		</div>
-					<div class="box-more">
+						<div class="col">
+			<h2>Coming Soon</h2>
+			<ul class="list">
+							<li>
+					<a href="#" class="open">Puffa</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/300915_puffa_ps.jpg" width="220" height="294" alt="Puffa">
+							<span class="description">
+								<span class="title">Puffa</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Quality outerwear and more inspired by iconic British roots. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Diesel</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/071215_diesel_ps.jpg" width="220" height="294" alt="Diesel">
+							<span class="description">
+								<span class="title">Diesel</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Signature men’s denim and edgy casual-chic by this cult Italian label.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Tom Ford Sunglasses</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/190915_tomford_ps.jpg" width="220" height="294" alt="Tom Ford Sunglasses">
+							<span class="description">
+								<span class="title">Tom Ford Sunglasses</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Current-season styles for men and women by this iconic US brand. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">New Year New You Yoga/Fitness</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/041215_new-fitness_ps.jpg" width="220" height="294" alt="New Year New You Yoga/Fitness">
+							<span class="description">
+								<span class="title">New Year New You Yoga/Fitness</span>
+								<span class="discount">Up to 65% off</span>
+								<span class="collection"><span class="hover-text">Activewear by Aim High and Wellicious to start on your resolutions.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Mathieu Legrand</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/240915_mathieulegrand_ps.jpg" width="220" height="294" alt="Mathieu Legrand">
+							<span class="description">
+								<span class="title">Mathieu Legrand</span>
+								<span class="discount">Up to 85% off</span>
+								<span class="collection"><span class="hover-text">Elegant, his and hers Swiss watches with first-class materials and design.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Armani Jeans</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/101115_armani_ps.jpg" width="220" height="294" alt="Armani Jeans">
+							<span class="description">
+								<span class="title">Armani Jeans</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Luxe, current-season men’s denim and casual looks for everyday style.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+						</ul>
+		</div>
+			<div class="box-more">
 	<a href="http://www.brandalley.co.uk/flashsales/index/displayCategory/cattags/men/cattagsid/1" class="more">View all</a>
 	</div>
     			
@@ -835,7 +1053,7 @@ _gaq.push(['_trackPageview']);
 	</li>
 		<li>
 	<a href="http://www.brandalley.co.uk/flashsales/index/displayCategory/cattags/home &amp; beauty/cattagsid/4"><span class="top_navigation_menu">HOME &amp; BEAUTY</span></a>
-		<div class="drop drop-2">
+		<div class="drop drop-4">
 		<div class="col-holder">
 		<div class="col-frame">
 		<div class="col">
@@ -845,14 +1063,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/kilner.html" class="open">Kilner</a>
+					<a href="http://www.brandalley.co.uk/private-sales/home-accessories-clearance.html" class="open">Home Accessories Clearance</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290615_kilner_ps.jpg" width="220" height="294" alt="Kilner">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/301215_home_accessories_ps.jpg" width="220" height="294" alt="Home Accessories Clearance">
 							<span class="description">
-								<span class="title">Kilner</span>
-								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="hover-text">Iconic kitchenware from this British heritage brand</span></span>
+								<span class="title">Home Accessories Clearance</span>
+								<span class="discount">Up to 75% off</span>
+								<span class="collection"><span class="hover-text">Gorgeous mirrors, cushions, accessories and more to refresh your home.  </span></span>
 							</span>
 						</a>
 					</div>
@@ -861,80 +1079,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/wallace-sacks.html" class="open">Wallace Sacks</a>
+					<a href="http://www.brandalley.co.uk/private-sales/home-event.html" class="open">Home Event</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_wallacesacks_ps.jpg" width="220" height="294" alt="Wallace Sacks">
-							<span class="description">
-								<span class="title">Wallace Sacks</span>
-								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="collection">Back by popular demand</span>
-<span class="hover-text">Chic garden furniture to make the most of your summer garden.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/skin-labo.html" class="open">Skin Labo</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/280615_skinlabo_ps.jpg" width="220" height="294" alt="Skin Labo">
-							<span class="description">
-								<span class="title">Skin Labo</span>
-								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="hover-text">Rejuvenating skin care, designed to pamper the face, body and soul</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/christy-towels.html" class="open">Christy Towels</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_christytowels_ps.jpg" width="220" height="294" alt="Christy Towels">
-							<span class="description">
-								<span class="title">Christy Towels</span>
-								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="hover-text">Colourful and sumptuously soft towels in the finest Egyptian cotton</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/skincare-cosmetics.html" class="open">Skincare &amp; Cosmetics</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/260615_skincareandcosmetics_ps.jpg" width="220" height="294" alt="Skincare &amp; Cosmetics">
-							<span class="description">
-								<span class="title">Skincare &amp; Cosmetics</span>
-								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="hover-text">Bellapierre, Fake Bake, New CID Cosmetics and more.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/home-event-1.html" class="open">Home Event</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/240615_homeevent_ps.jpg" width="220" height="294" alt="Home Event">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/231215_home_event_ps.jpg" width="220" height="294" alt="Home Event">
 							<span class="description">
 								<span class="title">Home Event</span>
 								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="collection">More Stock Added</span>
-<span class="hover-text">From Parks London, Dreams &amp; Drapes, Bodum, and more.</span></span>
+								<span class="collection"><span class="hover-text">Update your new year style with Tower, Bodum, Raymond Blanc &amp; more.</span></span>
 							</span>
 						</a>
 					</div>
@@ -943,14 +1095,14 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/raymond-blanc.html" class="open">Raymond Blanc</a>
+					<a href="http://www.brandalley.co.uk/private-sales/christmas-shop-clearance.html" class="open">Christmas Shop Clearance</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/230615_raymondblanc_ps.jpg" width="220" height="294" alt="Raymond Blanc">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/171215_christmas-shop-clearance_ps.jpg" width="220" height="294" alt="Christmas Shop Clearance">
 							<span class="description">
-								<span class="title">Raymond Blanc</span>
-								<span class="discount">Up to 60% off</span>
-								<span class="collection"><span class="hover-text">Everyday cookware designed for home cooks and professional chefs.</span></span>
+								<span class="title">Christmas Shop Clearance</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="hover-text">Trees, lights and decorative accessories to make your home sparkle.</span></span>
 							</span>
 						</a>
 					</div>
@@ -959,53 +1111,239 @@ _gaq.push(['_trackPageview']);
 
 				 
 				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/design-port-bed-linen.html" class="open">Design Port Bed Linen</a>
+					<a href="http://www.brandalley.co.uk/private-sales/culinary-concepts.html" class="open">Culinary Concepts</a>
 					<div class="popup">
 						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/230615_designportbedlinder_ps.jpg" width="220" height="294" alt="Design Port Bed Linen">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/291215_culinary_concepts_ps.jpg" width="220" height="294" alt="Culinary Concepts">
 							<span class="description">
-								<span class="title">Design Port Bed Linen</span>
-								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="hover-text">Soft and snuggly bedding from Portugal, the traditional home of Quality Cotton.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/sam-toft.html" class="open">Sam Toft</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/220615_samtoft_ps.jpg" width="220" height="294" alt="Sam Toft">
-							<span class="description">
-								<span class="title">Sam Toft</span>
-								<span class="discount">Up to 70% off</span>
-								<span class="collection"><span class="hover-text">Quirky prints starring Mr Mustard, his wife and portly Jack Russell.</span></span>
-							</span>
-						</a>
-					</div>
-				</li>
-			
-
-				 
-				<li>
-					<a href="http://www.brandalley.co.uk/private-sales/brabantia.html" class="open">Brabantia</a>
-					<div class="popup">
-						<a href="#" class="item">
-							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/220615_brabantia_ps.jpg" width="220" height="294" alt="Brabantia">
-							<span class="description">
-								<span class="title">Brabantia</span>
+								<span class="title">Culinary Concepts</span>
 								<span class="discount">Up to 40% off</span>
-								<span class="collection"><span class="hover-text">Top-quality, brilliantly designed accessories that are a joy to use.</span></span>
+								<span class="collection"><span class="hover-text">Innovative, beautiful yet function pieces for your tabletop and home.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/designer-fragrance.html" class="open">Designer Fragrance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_designer-fragrance_ps.jpg" width="220" height="294" alt="Designer Fragrance">
+							<span class="description">
+								<span class="title">Designer Fragrance</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Your favourite scents from Creed, Jean Paul Gaultier, Gucci and more</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/designer-skincare.html" class="open">Designer Skincare</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_designer-skincare_ps.jpg" width="220" height="294" alt="Designer Skincare">
+							<span class="description">
+								<span class="title">Designer Skincare</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Pampering treats by La Prairie, INA Crystals and more top beauty names.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/parks-london.html" class="open">Parks London</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/271215_parks_ps.jpg" width="220" height="294" alt="Parks London">
+							<span class="description">
+								<span class="title">Parks London</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">100% natural wax candles and diffusers with the finest essential oils.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/loft-living-bed-and-bath-clearance.html" class="open">Loft Living Bed &amp; Bath Clearance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/261215_loft_living_ps.jpg" width="220" height="294" alt="Loft Living Bed &amp; Bath Clearance">
+							<span class="description">
+								<span class="title">Loft Living Bed &amp; Bath Clearance</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="hover-text">100% cotton, contemporary bedlinen and towels to refresh your style.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/bed-and-bath-1.html" class="open">Bed and Bath</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/191215_bed_and_bath_ps.jpg" width="220" height="294" alt="Bed and Bath">
+							<span class="description">
+								<span class="title">Bed and Bath</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Stylish essentials from Joules, The White Room, Loft Living and more.</span></span>
 							</span>
 						</a>
 					</div>
 				</li>
 						</ul>
 		</div>
-					<div class="box-more">
+						<div class="col">
+			<h2>Coming Soon</h2>
+			<ul class="list">
+							<li>
+					<a href="#" class="open">Designer Bedding</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/311215_bed_and_bath_ps.jpg" width="220" height="294" alt="Designer Bedding">
+							<span class="description">
+								<span class="title">Designer Bedding</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Luxe styles from Kylie Minogue, Emma Bridgewater, Joules and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">The Pure Linen Company: Bed and Bath</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/020116_plc_bed_and_bath_ps.jpg" width="220" height="294" alt="The Pure Linen Company: Bed and Bath">
+							<span class="description">
+								<span class="title">The Pure Linen Company: Bed and Bath</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection">
+<span class="collection">New styles added</span> <span class="hover-text">100% cotton bedding and towels with 600-thread-counts. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">The Pure Linen Company: Duvets, Pillows &amp; Toppers</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/020116_plc_duvet_pillow_ps.jpg" width="220" height="294" alt="The Pure Linen Company: Duvets, Pillows &amp; Toppers">
+							<span class="description">
+								<span class="title">The Pure Linen Company: Duvets, Pillows &amp; Toppers</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection">
+<span class="hover-text">An edit of essentials to refresh your bedding through winter and beyond.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Cushions &amp; Throws Clearance</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/020116_cushions_throws_ps.jpg" width="220" height="294" alt="Cushions &amp; Throws Clearance">
+							<span class="description">
+								<span class="title">Cushions &amp; Throws Clearance</span>
+								<span class="discount">Up to 85% off</span>
+								<span class="collection"><span class="hover-text">Cosy-chic finishing touches to make a statement around your home.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Healthy Eating Electricals</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/030115_healthy_eating_ps.jpg" width="220" height="294" alt="Healthy Eating Electricals">
+							<span class="description">
+								<span class="title">Healthy Eating Electricals</span>
+								<span class="discount">Up to 50% off</span>
+								<span class="collection"><span class="hover-text">Kitchen essentials from Morphy Richards, Russell Hobbs and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Fitness Equipment</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/030116_fitness_equipment_ps.jpg" width="220" height="294" alt="Fitness Equipment">
+							<span class="description">
+								<span class="title">Fitness Equipment</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="hover-text">Mini bikes, steppers and yoga sets to help you stick to your resolutions.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Beauty Boutique</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/290715_beauty_boutique_ps.jpg" width="220" height="294" alt="Beauty Boutique">
+							<span class="description">
+								<span class="title">Beauty Boutique</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">From Elemis, Bellápierre, Fake Bake, Clarins, Decléor, and more.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Atelier Victoire Pearls</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/050915_classic_pearl_ps.jpg" width="220" height="294" alt="Atelier Victoire Pearls">
+							<span class="description">
+								<span class="title">Atelier Victoire Pearls</span>
+								<span class="discount">Up to 80% off</span>
+								<span class="collection"><span class="hover-text">An elegant jewellery edit, including freshwater and Tahiti pearls.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Pure Collection</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/050116_pure_collection_ps.jpg" width="220" height="294" alt="Pure Collection">
+							<span class="description">
+								<span class="title">Pure Collection</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="hover-text">Versatile cashmere and silk separates plus accessories in bold colours.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+							<li>
+					<a href="#" class="open">Luisa Vannini</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/050116_luisa_vianna_ps.jpg" width="220" height="294" alt="Luisa Vannini">
+							<span class="description">
+								<span class="title">Luisa Vannini</span>
+								<span class="discount">Up to 70% off</span>
+								<span class="collection"><span class="collection">From £45</span> 
+<span class="hover-text">Chic back-to-work styles in gorgeous textiles and colours. </span></span>
+							</span>
+						</a>
+					</div>
+				</li>
+						</ul>
+		</div>
+			<div class="box-more">
 	<a href="http://www.brandalley.co.uk/flashsales/index/displayCategory/cattags/home &amp; beauty/cattagsid/4" class="more">View all</a>
 	</div>
     			
@@ -1022,6 +1360,23 @@ _gaq.push(['_trackPageview']);
 		<div class="col">
 			<h2>Current Sales</h2>
 			<ul class="list">
+			
+
+				 
+				<li>
+					<a href="http://www.brandalley.co.uk/private-sales/petit-bateau-kids.html" class="open">Petit Bateau Kids</a>
+					<div class="popup">
+						<a href="#" class="item">
+							<img src="//media.brandalley.co.uk/clientuploads/catalog/standardimages/191215_petit-bateau_ps.jpg" width="220" height="294" alt="Petit Bateau Kids">
+							<span class="description">
+								<span class="title">Petit Bateau Kids</span>
+								<span class="discount">Up to 60% off</span>
+								<span class="collection"><span class="collection">Current season</span> 
+<span class="hover-text">Super-cute, quality clothing for little ones by the cult French label.</span></span>
+							</span>
+						</a>
+					</div>
+				</li>
 						</ul>
 		</div>
 					<div class="box-more">
@@ -1079,10 +1434,182 @@ jQuery(document).ready(function(e) {
 </div>
 <div class="panel">
 	<div class="holder holder-2 lower-menu-panel"><div><p></p><ul class="reassurance-list">
-<li><a href="#"><em></em>free p&amp;p on everything you buy - today only</a></li>
+<li><a href="#"><em></em><strong><span style="font-size: small;">TAKE AN EXTRA 20% OFF JAEGER</span></strong></a></li>
 </ul><p></p></div></div>
    <div class="lower-menu-line"></div>
 </div>
+	<script type="text/javascript">
+	//<![CDATA[
+		var get_total_product = parseInt(window.universal_variable.basket.line_items.length);
+		if( get_total_product > 0 ) {
+		var seconds = 0;
+		var countdown_flag = false;
+
+				function startCountdown() {
+			seconds = 900;
+
+			if (countdown_flag === false && seconds !== 0) {
+				countdown();
+			}
+		}
+
+				function resetTimer() {
+			jQuery.ajax({
+				url: "http://www.brandalley.co.uk/baskettimer/ajax/reset/",
+				type: 'GET',
+				success: function (res) {
+					if (res == true) {
+						seconds = 900;
+												if (countdown_flag === false) {
+							countdown();
+						}
+					} else {
+												killQuote();
+						setTimeout(function() { location.reload(true); }, 1500);
+					}
+				}
+			});
+		}
+
+				function killQuote() {
+			jQuery.ajax({
+				url: "http://www.brandalley.co.uk/baskettimer/ajax/kill/",
+				type: 'GET'
+			});
+		}
+
+				function checkTimer() {
+			jQuery.ajax({
+				url: "http://www.brandalley.co.uk/baskettimer/ajax/checker/",
+				type: 'GET',
+				success: function (res) {
+					if(res) {
+						var parsed = JSON.parse(res);
+						seconds = 0 + 900 -parsed.timeleft;
+					}
+				},
+				error: function (jqXHR, textStatus, errorThrown) {
+					//console.log('error');
+				}
+			});
+		}
+
+		function countdown() {
+			jQuery(function () {
+				var fancybox_opened = false;
+				countdown_flag = true;
+
+				setTimeout(updateCountdown, 1000);
+
+				function updateCountdown() {
+					seconds--;
+										if (seconds > 0) {
+						//console.log(seconds);
+						jQuery('#seconds').text(secondsToMinutes(seconds));
+
+						setTimeout(updateCountdown, 1000);
+					}
+										if (seconds < (0 + 300 + 1) && fancybox_opened === false) {
+						checkTimer();
+					}
+										if (seconds < 300 && fancybox_opened === false) {
+						openFancyBox();
+						jQuery('#timer-message').show();
+						jQuery('#timer-message-content').show();
+						jQuery('#timer-end-message').hide();
+						jQuery('#timer-end-message-content').hide();
+						jQuery('#timer-button').text("Yes, please give me more time");
+						fancybox_opened = true;
+					}
+										if (seconds == 3) {
+						checkTimer();
+					}
+										if (seconds <= 0) {
+						killQuote();
+						countdown_flag = false;
+						jQuery('#timer-message').hide();
+						jQuery('#timer-message-content').hide();
+						jQuery('#timer-end-message').show();
+						jQuery('#timer-end-message-content').show();
+						jQuery('#timer-button').text("Continue shopping");
+					}
+										if (seconds > 300 && fancybox_opened === true) {
+						jQuery.fancybox.close();
+						fancybox_opened = false;
+					}
+				}
+			});
+		}
+
+				function moreTimeButton() {
+			jQuery.fancybox.close();
+			resetTimer();
+		}
+
+		function secondsToMinutes(seconds) {
+			var minutes = Math.floor(seconds / 60);
+			var rem_seconds = seconds - minutes * 60;
+			var formatted_seconds = (rem_seconds < 10 ? '0' : '') + rem_seconds;
+
+			return minutes + ':' + formatted_seconds;
+		}
+
+		function openFancyBox() {
+			jQuery.fancybox.open([
+				{
+					width: '80%',
+					height: '80%',
+					autoSize: false,
+					autoCenter: true,
+					fitToView: false,
+					scrolling: "no",
+					wrapCSS: true,
+					modal: true,
+					href: '#inline'
+				}
+			]);
+		}
+
+		jQuery(document).ready(function () {
+			startCountdown();
+		});
+		}
+		//]]>
+	</script>
+
+	<div id="inline" style="display: none;">
+				<div class="timer-content">
+
+<div id="timer">
+	<span id="timer-message">Still thinking about it?</span>
+	<span id="timer-end-message">We’re sorry, but we’ve emptied your bag.</span>
+</div>
+
+<div id="timer-message-content">
+	You have  <span id="seconds" class="timing-seconds"></span>  minutes before we automatically
+put the products in your bag back on the site. 
+This is to give everyone shopping BrandAlley a fair chance.
+<br><br>
+If you’re still making up your mind, 
+click on the button below and 
+you’ll get another 15 minutes to decide.
+	<!--<p><strong>Why we time limit you.</strong></p>
+<p>Lorem ipsum dolor sit amet, convallis donec laoreet aliquam, lectus rutrum. Leo sem erat nec. Nam quis ac justo sequi, et vestibulum vivamus, morbi laoreet, nibh maecenas arcu dignissim pellentesque rhoncus. Arcu aliquet viverra, dui eget dui sed et, cras urna rutrum convallis varius, volutpat fusce a eget. Feugiat nulla mattis inceptos eu, suspendisse dui, magnis lorem, aenean aenean eget non sed, sit justo arcu. Nibh mauris tellus eget aute arcu, rutrum eget neque vestibulum, ante pede aliquam. Ut suspendisse ligula ipsum, in tellus pede saepe dictum tortor, aut eget velit, donec volutpat amet curae ipsum porttitor vestibulum, condimentum erat perferendis ligula sed sagittis. Quis consequat velit duis, enim nunc nisl turpis cursus vestibulum et, imperdiet quibusdam tortor eleifend cum massa suspendisse, varius ut in massa aliquam porttitor.</p>-->
+</div>
+
+<div id="timer-end-message-content">
+Remember, if you don’t refresh your bag every 15 minutes, we automatically empty it. This is to give everyone shopping BrandAlley a fair chance.
+<br><br>
+If you still want the items that were in your bag, 
+just go back into the site to see if they’re still available.
+
+</div>
+
+
+<div id="moretime-button">
+	<button id="timer-button" type="button" onclick="moreTimeButton();"></button>
+</div>
+</div>	</div>
 </div>
 						<div id="content" class="content-2"><!--Back to top button-->
 <a href="#" class="back-to-top">&nbsp;</a>
@@ -1118,7 +1645,7 @@ jQuery('.back-to-top').click(function(event) {
 </script>    <div class="page-title">
         <h1>Privacy &amp; cookies</h1>
     </div>
-<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<div class="std"><script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 <script type="text/javascript">// <![CDATA[
   jQuery(function() {
     jQuery( "#accordion" ).accordion({
@@ -1271,7 +1798,7 @@ jQuery('.back-to-top').click(function(event) {
 <li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <a href="mailto:customerservice@brandalley.co.uk">customerservice@brandalley.co.uk</a></li>
 </ul>
 <p>&nbsp;We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.</p>
-<p>You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: <strong>BrandAlley,&nbsp;</strong><strong>136-142 Bramley Road, London W10 6SR</strong>.</p>
+<p>You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: <strong>BrandAlley,&nbsp;2nd Floor, 120 Moorgate, London, EC2M 6UR</strong>.</p>
 <p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
 </div>
 <h3>Third Parties</h3>
@@ -1281,7 +1808,7 @@ jQuery('.back-to-top').click(function(event) {
 </div>
 <h3>Credit checks</h3>
 <div>
-<p>If you apply for credit <span style="text-decoration: line-through;">then?</span> to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.&nbsp;</p>
+<p>If you apply for credit to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.&nbsp;</p>
 </div>
 <h3>Updating or deleting your personal information</h3>
 <div>
@@ -1305,8 +1832,7 @@ jQuery('.back-to-top').click(function(event) {
 			<div class="push"></div>
 </div>
        <div id="footer">
-		        
-<div class="list-box">
+		        <div class="list-box">
 	<div class="holder">
 		<!-- Footer Links -->
 		<div class="col">
@@ -1351,9 +1877,18 @@ document.write(d.getFullYear())
 </script>2020 
 BrandAlley All Rights Reserved.	</div>
 </div>
+<script type="text/javascript">    
+	jQuery(window).load(function(){
+	var imgSize = 1;	
+	});	
+	
+</script>
+
+
+
 
 <!--christmas background animation-->
-<!--<style>
+<style>
 	.democlass{position:absolute;top:0px; left:0px; z-index: -2000;}
 </style>
 <script type="text/javascript">
@@ -1455,298 +1990,9 @@ BrandAlley All Rights Reserved.	</div>
 				init(SCREEN_WIDTH, SCREEN_HEIGHT);
 			}
 			});
-</script>-->
-        <!--{INVENT_FLASHSALES_LOGIN_CACHE_8ba060f66ec34a75c577fbf4c3bac7f2}-->
-    <script type="text/javascript">
-        var $j = jQuery.noConflict();
-        $j(function () {
-            var fancy_box_is_open = false;
-            $j(this).on('click', function (e) {
-                if (fancy_box_is_open == false) {
-                    e.preventDefault();
-                    fancy_box_is_open = true;
-                    $j.fancybox(
-                            {
-                                margin: 100,
-                                padding: 0,
-                                topRatio: 0.5,
-                                autoSize: true,
-                                autoCenter: true,
-                                fitToView: true,
-                                scrolling: "no",
-                                wrapCSS: true,
-                                href: '#inline',
-                                modal: false,
-                                closeBtn: false,
-                                onUpdate: resizePadder,
-                                keys: {
-                                    close: null
-                                },
-                                afterClose: function () {
-                                    fancy_box_is_open = false;
-                                    $j('.gray_fill').off('resizeDIV');
-                                },
-                                helpers: {
-                                    overlay: {
-                                        locked: false,
-                                        closeClick: false,
-                                        css: {
-                                            'background': 'none'
-                                        }
-                                    }
-                                }
-                            }
-                    );
-                    return false;
-                }
-            });
-
-            setTimeout(function () {
-                $j('body').trigger('click');
-            }, 3000);
-
-            $j('.button').on('click', function () {
-                $j('.gray_fill').on('resizeDIV', function () {
-                    resizePadder();
-                });
-            });
-
-            var win_resize_allowed = true;
-            function resizePadder() {
-                $j('.white_fill .padder').css('height', $j('.gray_fill').height() - 30);
-                if ($j('.gray_fill').height() > 500 && win_resize_allowed == true) {
-                    $j(window).resize();//center fancybox
-                    win_resize_allowed = false;
-                }
-            }
-
-            $j('input[type="password"]').each(function () {
-                this.type = 'text';
-
-                $j(this).focus(function () {
-                    this.type = 'password';
-                });
-
-                $j(this).blur(function () {
-                    if (this.value == '' || this.value == $j(this).attr('title')) {
-                        this.type = 'text';
-                    }
-                });
-            });
-
-            $j('input[type="text"]').each(function () {
-				if(typeof($j(this).attr('title'))!='undefined'){
-					this.value = $j(this).attr('title');
-				}
-                $j(this).addClass('text-label');
-                $j(this).focus(function () {
-                    if (!$j(this).hasClass('validate-email'))
-                    {
-                        if (this.value == $j(this).attr('title')) {
-                            this.value = '';
-                            $j(this).removeClass('text-label');
-                        }
-                    }
-                });
-                $j(this).blur(function () {
-                    if (this.value == '') {
-                        this.value = $j(this).attr('title');
-                        $j(this).addClass('text-label');
-                    }
-                });
-            });
-            var email_fun = function () {
-                if (this.value == $j(this).attr('title')) {
-                    this.value = '';
-                    $j(this).removeClass('text-label');
-                }
-            }
-            $j('.validate-email').keypress(email_fun);
-            $j('.validate-email').click(email_fun);
-            $j('.validate-email').keyup(function () {
-                if (this.value == '') {
-                    this.value = $j(this).attr('title');
-                    $j(this).addClass('text-label');
-                }
-            });
-            $j('#search').val('Search');
-        });
-
-
-    </script>
-    <div id="inline" style="display: none;">
-
-        <div class="pop-login">
-            <div class="half gray_fill">
-                <div class="padder">
-                    <div class="logo_gray"></div>
-                    <div class="form_1">
-                        <h3>Sign up free now</h3>
-<p>Join BrandAlley now to start shopping up to <strong>70% off</strong> the biggest names in fashion, beauty and home. Our exclusive designer discounts are only available to members, so sign up now to unlock fabulous savings on your favourite brands.</p>                        <form action="" method="" id="email-validate" onsubmit="emailValidate();
-                            return false;">
-                            <input type="text" name="email" id="email_address_start" value="" title="Enter your email address here*" class="input-text required-entry validate-email">
-                            <span class="required">*Required field</span><button type="submit" class="button" title="Join now"><span><span>Join now</span></span></button>
-                            <div class="clearall"></div>
-                        </form>
-                    </div>
-                    <div class="form_2">
-                    <h3>You're almost there</h3>
-<p>Simply enter your details below to stay<br>up-to-date with our latest offers.</p><form action="https://www.brandalley.co.uk/customer/account/createpost/" method="post" id="form-validate" enctype="multipart/form-data" onsubmit="dataValdiate();return false;">
-    <input type="hidden" name="success_url" value="">
-    <input type="hidden" name="error_url" value="">                    
-    <ul class="form-list">
-        <li style="display:none;">            <div class="input-box" style="display:none;">
-                <input type="text" name="tempvalid" id="tempvalid" value="" title="" class="input-text validate-email required-entry" style="display:none;">
-            </div>
-        </li>
-        <li>            
-            <div class="input-box">
-                <input type="text" name="email" id="email_address" value="" title="Enter your email address here*" class="input-text validate-email required-entry required-entry-extra">
-            </div>
-        </li>   
-                           
-        <li>
-            <div class="customer-name">
-
-    <div class="field name-firstname">
-        <div class="input-box">
-            <input type="text" id="firstname" name="firstname" value="" title="Enter your first name*" maxlength="255" class="input-text required-entry-extra required-entry required-entry">
-        </div>
-    </div>
-
-    <div class="field name-lastname">
-        <div class="input-box">
-            <input type="text" id="lastname" name="lastname" value="" title="Enter your surname*" maxlength="255" class="input-text required-entry-extra required-entry required-entry">
-        </div>
-    </div>
-
-</div>
-        </li>    
-        <li>
-            <div class="field">
-                <div class="input-box">
-                    <input type="password" name="password" id="password" title="Enter a password (min 6 characters)*" class="input-text required-entry required-entry-extra validate-password">
-                </div>
-            </div>
-            <div class="field">
-                <div class="input-box">
-                    <input type="password" name="confirmation" title="Confirm your password (min 6 characters)*" id="confirmation" class="input-text required-entry required-entry-extra validate-cpassword">
-                </div>
-            </div>
-        </li> 
-            </ul>          
-    <div class="small_text">
-        <strong>*Required field</strong><br>
-                      
-            <input type="checkbox" name="pure360_3rdp_emails" title="Sign up for relevant partners offers" value="1" id="pure360_3rdp_emails" class="checkbox" checked="">
-            <label for="pure360_3rdp_emails">Sign up for relevant partners offers</label>
-            <input type="hidden" name="is_subscribed" value="1" id="is_subscribed">
-          
-        <p>By clicking on 'Join now', you're agreeing to our <a href="http://www.brandalley.co.uk/terms-and-conditions/">terms and conditions</a> and <a href="http://www.brandalley.co.uk/privacy-and-cookies/">privacy policy</a>.</p>    </div>
-    <button type="submit" class="button absolte_bottom" title="Join now"><span><span>Join now</span></span></button>                                
-           
-    <div class="clearall"></div>
-</form> 
-
-<script type="text/javascript">
-    //<![CDATA[
-
-    var dataValidateForm = new VarienForm('form-validate', true);
-
-    Validation.add('required-entry-extra','This is a required field.', function(the_field_value){
-        var not_valid_entries = ['Enter your email address here*', 'Enter your first name*', 'Enter your surname*', 'Enter postcode*', 'Enter a password (min 6 characters)*', 'Confirm your password (min 6 characters)*', 'Enter your password'];        
-        if(not_valid_entries.include(the_field_value))
-        {
-            return false;
-        }
-        return true;
-    });
-    
-    Validation.get('validate-password').error = 'Please enter 6 or more characters.';
-    
-    function dataValdiate(){
-        if (dataValidateForm.validator.validate()) {
-            dataValidateForm.submit();
-        }         
-    } 
-    //]]>
-</script>                                            </div>
-                </div>
-            </div>
-            <div class="half white_fill">
-                <div class="padder">
-                    <div class="logo_gray bianko"></div>
-                    <div class="form_3">
-                        <h3>Already a BrandAlley member:<br>Sign in here</h3>                        <form action="https://www.brandalley.co.uk/customer/account/loginPost/" method="post" id="login-form-pop" onsubmit="logIn();">
-                            <input type="text" name="login[username]" value="" class="input-text required-entry validate-email" id="login-email" title="Enter email address">
-                            <input type="password" name="login[password]" class="input-text required-entry required-entry-extra validate-password" id="pass" value="" title="Enter your password">
-                                                        <a href="#" class="options" onclick="$$('.form_4')[0].show();
-                                $$('.form_3')[0].hide();">Forgot your password?</a>
-                            <button type="submit" class="button absolte_bottom" title="Login" name="send" id="send2"><span><span>Log in now</span></span></button>
-                            <input type="hidden" name="login[afterauthurl]" value="http://www.brandalley.co.uk/privacy-and-cookies">
-                        </form>
-                    </div>
-
-                    <div class="form_4">
-                        <form action="https://www.brandalley.co.uk/customer/account/forgotpasswordpost/" method="post" id="new-password-form" onsubmit="resetValidate()">
-                            <h3>Retrieve your password here</h3>
-                            Please enter your email address below. <br>A new password will be emailed to you.                            <div class="clearall"></div><br>
-                            <input type="text" name="email" alt="email" id="email_address" class="input-text validate-email text-label" value="" title="Your Email">
-                            <a href="#" class="options" onclick="$$('.form_3')[0].show();
-                                $$('.form_4')[0].hide();">« Login here</a>
-                            <button type="submit" title="Submit" class="button absolte_bottom"><span><span>Submit</span></span></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div style="clear: both"></div>
-        </div>
-        <script type="text/javascript">
-            //<![CDATA[
-
-            var emailValidateForm = new VarienForm('email-validate');
-            var loginForm = new VarienForm('login-form-pop');
-            var resetForm = new VarienForm('new-password-form');
-            var form2 = $$('div.form_2')[0];
-            form2.hide();
-            var form4 = $$('div.form_4')[0];
-            form4.hide();
-
-            function emailValidate() {
-                if (emailValidateForm.validator && emailValidateForm.validator.validate()) {
-                    $('email_address').value = $('email_address_start').value;
-                    $('email_address').removeClassName('text-label');
-                    $$('div.form_1')[0].hide();
-                    [form2].each(function (element) {
-                        element.show();
-                    });
-                    $$('.absolte_bottom').each(function (element) {
-                        element.setStyle({
-                            'bottom': '15px'
-                        });
-                    });
-                }
-            }
-
-            function logIn() {
-                if (loginForm.validator && loginForm.validator.validate()) {
-                    //loginForm.submit();
-                }
-            }
-
-            function resetValidate() {
-                if (resetForm.validator.validate()) {
-                    resetForm.submit();
-                }
-            }
-
-            //]]>
-        </script>
-
-
-
-    </div>
-    <!--/{INVENT_FLASHSALES_LOGIN_CACHE_8ba060f66ec34a75c577fbf4c3bac7f2}--><!--{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><!--/{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><!-- Google Tag Manager -->
+</script>
+        <script type="text/javascript" src="http://skin.brandalley.co.uk/frontend/brandalley/default/fris/pay/js/braintreevzero-checkout-v1.js?version=1.0.0"></script>
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TVTPS3"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
