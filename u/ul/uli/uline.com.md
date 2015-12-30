@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628161617id_/http%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230142217id_/http%3A//www.uline.com/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
@@ -12,4 +12,4 @@ If users provide their email or mailing address, Uline will send notifications, 
 
 In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined in this policy. These changes will be posted to the website, and users are invited to occasionally review the privacy policy.
 
-06/28/2015 11:16:17 AM- \- USWEB3\- 53647418\- 0/0\- 
+12/30/2015 08:22:17 AM; USWEB5 -0-0/0.0
