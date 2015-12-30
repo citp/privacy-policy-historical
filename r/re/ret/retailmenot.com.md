@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the retailmenot.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014126id_/http%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailmenot.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230125314id_/http%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: September 26, 2014
+Effective Date: April 15, 2015
 
 This Privacy Policy (" ** _Privacy Policy_** ") explains how RetailMeNot, Inc. ("RetailMeNot", "us", "our", and "we"), collects and uses information when you interact with us. This Privacy Policy applies to all users of RetailMeNot's website published at [www.RetailMeNot.com](http://www.retailmenot.com/) (and any other websites with "RetailMeNot" branding that link to this Privacy Policy, including, without limitation, m.RetailMeNot.com) and any mobile-device applications we offer, such our iOS and Android applications, that are branded "RetailMeNot" and link or reference this Privacy Policy (collectively, the " ** _Services_** ").
 
@@ -70,9 +70,9 @@ RetailMeNot uses Personal Information to:
   * Evaluate eligibility of users for certain coupons, products or services;
   * Evaluate the types of coupons, products or services that may be of interest to users;
   * Track redemption of coupons and perform other analytics;
-  * Provide user support, including to our merchants or business partners;
+  * Provide user support, including to merchants or business partners;
   * Fulfill requests for RetailMeNot services;
-  * Communicate and provide additional information that may be of interest to you about RetailMeNot and our merchants and business partners, such as RetailMeNot news, special offers and coupons, announcements, and marketing materials;
+  * Communicate and provide additional information that may be of interest to you about RetailMeNot and featured merchants and business partners, such as RetailMeNot news, special offers and coupons, announcements, and marketing materials;
   * Send you reminders, technical notices, updates, security alerts and support and administrative messages service bulletins, or marketing;
   * Provide commercial notifications when you arrive at, linger near or leave places;
   * Infer the location of the places you visit most often, determine your frequency at these locations, and send notifications when you arrive at or leave those places;
@@ -96,7 +96,7 @@ We may share your Personal Information as required or permitted by law as descri
   * To effect a merger, acquisition, or otherwise; to support the sale or transfer of business assets; to enforce our rights or protect our property; to protect the rights, property or safety of others, investigate fraud, respond to a government request; or as needed to support auditing, compliance, and corporate governance functions. We may also disclose Personal Information to defend ourselves in litigation or a regulatory action, and when required or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate. If RetailMeNot is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on one or more of our Services of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information; or
   * Otherwise with your consent. We encourage RetailMeNot merchants and business partners to adopt and post privacy policies. However, the use of your Personal Information by such parties is governed by the privacy policies of such parties and is not subject to our control. When you choose to interact with a RetailMeNot merchant or business partner, we encourage you to read any privacy policy they may have posted on their website.
 
-We may also disclose information about you that is not personally identifiable. For example, we may provide our merchants, business partners, or other third parties with reports that contain aggregated and statistical data about our users.
+We may also disclose information about you that is not personally identifiable. For example, we may provide merchants, business partners, or other third parties with reports that contain aggregated and statistical data about our users.
 
 
 
@@ -157,7 +157,7 @@ By clicking "Send this offer", you authorize RetailMeNot to use an automatic tel
 
 ## 7\. Accessing and Correcting Personal Information
 
-Keeping Personal Information about you current helps ensure that we offer you the best coupons available through our merchants and business partners. You can do several things to help keep Personal Information about you current. You can access, update and delete your Contact Information and the other information you provided us to use in your profile by logging into the Community and clicking on the "Profile" link.
+Keeping Personal Information about you current helps ensure that we offer you the best coupons available for merchants and business partners. You can do several things to help keep Personal Information about you current. You can access, update and delete your Contact Information and the other information you provided us to use in your profile by logging into the Community and clicking on the "Profile" link.
 
 If you want to close your account or have other questions or requests, or if you would like to access or request a correction to any other Personal Information we hold regarding you, please [Contact Us](http://help.retailmenot.com/).
 
@@ -181,7 +181,7 @@ RetailMeNot has further committed to refer unresolved privacy complaints under t
 
 ## 10\. Privacy Practices of Third Parties
 
-This Privacy Policy only addresses the use and disclosure of information by RetailMeNot through your interaction with the Services. Other websites that may be accessible through links from our Services may have their own privacy statements and personal information collection, use, and disclosure practices. Our merchants and business partners may have their own privacy statements, too. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of an offer or promotion.
+This Privacy Policy only addresses the use and disclosure of information by RetailMeNot through your interaction with the Services. Other websites that may be accessible through links from our Services may have their own privacy statements and personal information collection, use, and disclosure practices. Merchants and business partners may have their own privacy statements, too. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of an offer or promotion.
 
 ## 11\. Communities
 
