@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplechase.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080456id_/http%3A//simplechase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplechase.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230132123id_/http%3A//simplechase.com/privacy.php) for the most accurate reproduction.*
 
 # SimpleChase - privacy policy
 
