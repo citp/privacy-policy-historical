@@ -1,27 +1,31 @@
-<!--The following is the downloaded HTML source of the bonanza.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630153332id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonanza.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230221048id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
             <title>Privacy Policy  - Bonanza</title>
             <meta content="authenticity_token" name="csrf-param">
-<meta content="u8LIhzK2SMuQBlGj2b2k+tui0R3DiByUjJ1j3rUsVCs=" name="csrf-token">
+<meta content="A22j+WyaaW3OeJyAumJH0b5bbRYWtWRMWGGaMJFQ9jY=" name="csrf-token">
             <meta http-equiv="content-type" content="text/html;charset=UTF-8">
             <meta name="google-site-verification" content="IdAYMLfeXNMgeyxn8p4m6ShcrtfsKnpPMHhNst66nBw">
-<script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+<script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.7/rollbar.min.js"></script><script type="text/javascript">
   var BONZ = {
     cookie_domain: '.bonanza.com',
     environment_name: 'production',
     staticAssetHost: 'http://s3.amazonaws.com/bonanzapublic/',
     isMobile: false,
-    globalLazyJsUrl: 'http://bonanzapublic.s3.amazonaws.com/assets/global_lazy_js.js',
-    globalLazyCssUrl: 'http://bonanzapublic.s3.amazonaws.com/assets/global_lazy_css.css',
-    printCssUrl: 'http://s3.amazonaws.com/bonanzapublic/assets/print_css.css',
+    globalLazyJsUrl: 'http://s3.amazonaws.com/bonanzapublic/assets/global_lazy_js.js',
+    globalLazyCssUrl: 'http://s3.amazonaws.com/bonanzapublic/assets/global_lazy_css.css',
+    printCssUrl: 'http://bonanzapublic.s3.amazonaws.com/assets/print_css.css',
     loadedPackages: [],
     loadingPackages: []
   };
 window.jQueryLoadedRun = false;
 window.jQueryLoadedCallbacks = [];
-window.runjQueryLoaded = function() {
+window.runjQueryLoaded = function(scriptTag) {
+  if (typeof scriptTag !== "undefined" && !(scriptTag.readyState === "loaded" || scriptTag.readyState === "complete")) {
+    return
+  }
+
   if (!window.jQueryLoadedRun) {
     window.jQueryLoadedRun = true;
     window.jQueryLoaded = function(func) { func(); };
@@ -29,41 +33,38 @@ window.runjQueryLoaded = function() {
       window.jQueryLoadedCallbacks[i]();
     }
 
-    if (typeof(Rollbar) !== 'undefined') Rollbar.configure({ payload: { custom: { jQueryLoadedRun: window.jQueryLoadedRun } } });
+    if (typeof(window.Rollbar) !== "undefined" && typeof(window.Rollbar.configure) === "function") {
+      window.Rollbar.configure({ payload: { custom: { jQueryLoadedRun: window.jQueryLoadedRun } } });
+    }
   }
 };
 window.jQueryLoaded = function(func) { window.jQueryLoadedCallbacks.push(func); };
 
 window.jQuery = function(func) { window.jQueryLoadedCallbacks.push(function() { $(func); }); };
 window.$ = window.jQuery;
-var _rollbarConfig = {
+        var _rollbarConfig = {
   accessToken: "f79a2f8396f84e5eac8612b461d9e084",
   captureUncaught: true,
   verbose: false,
-  checkIgnore: function(isUncaught, args, payload) {
-    try {
-      var message = payload.data.body.trace.exception.message;
-      if (message == "Script error." ||
-          message == "Script error" ||
-          message == "Error loading script" ||
-          message == "The environment is incompatible." ||
-          message == "Unexpected token u" ||
-          message == "Can't find variable: __gCrWeb") {
-        return true;
-      }
-
-      var filename = payload.data.body.trace.frames[0].filename;
-      if (typeof(filename) === "string" && !filename.match(/bonanza/)) return true;
-    } catch (e) { }
-    return false;
-  },
-
+  hostWhiteList: [
+    "amazonaws.com",
+    "greenbeedecor.com",
+    "bonanza.com", "bonanzamarketplace.ca", "bonanzamarket.co.in", "bonanzamarket.co.uk", "bonanza.mx", "bonanzamercado.es", "bonanzamarket.de", "bonanzamarche.fr"
+  ],
+  ignoredMessages: [
+    "^Script error.?$",
+    "Error loading script",
+    "The environment is incompatible.",
+    "Unexpected token u",
+    "Can't find variable: __gCrWeb",
+    'Blocked a frame with origin "http://m.bonanza.com" from accessing a frame with origin "https://www.google.com"'
+  ],
   payload: {
     environment: "production",
     client: {
       javascript: {
         source_map_enabled: true,
-        code_version: "6ef2623cc5497609f9362240019e97f7641c1865",
+        code_version: "fe0d09651a472f77966af41b29dc6f68",
         guess_uncaught_frames: true
       }
     },
@@ -73,47 +74,51 @@ var _rollbarConfig = {
     custom: {
       packages: [],
       loading: [],
-      rails_uuid: "1584896b6f03dfa1",
-      timestamp: 1435678411,
+      rails_uuid: "e74fd4995288cc73",
+      timestamp: 1451513449,
       jQueryLoadedRun: window.jQueryLoadedRun
     }
   }
 };
-!function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){!d[4]&&a._rollbarWrappedError&&(d[4]=a._rollbarWrappedError,a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j=["EventTarget","Window","Node","ApplicationCache","AudioTrackList","ChannelMergerNode","CryptoOperation","EventSource","FileReader","HTMLUnknownElement","IDBDatabase","IDBRequest","IDBTransaction","KeyOperation","MediaController","MessagePort","ModalWindow","Notification","SVGElementInstance","Screen","TextTrack","TextTrackCue","TextTrackList","WebSocket","WebSocketWorker","Worker","XMLHttpRequest","XMLHttpRequestEventTarget","XMLHttpRequestUpload"];for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d){var e=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=f,e.parentNode.insertBefore(a,e)},this.logger),f=g(function(){if(void 0===a._rollbarPayloadQueue)for(var b,c,d,e,f=new Error("rollbar.js did not load");b=a._rollbarShimQueue.shift();)for(d=b.args,e=0;e<d.length;++e)if(c=d[e],"function"==typeof c){c(f);break}},this.logger);g(function(){c?e():a.addEventListener?a.addEventListener("load",e,!1):a.attachEvent("onload",e)},this.logger)()},c.prototype.wrap=function(b){try{if("function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var c in b)b.hasOwnProperty(c)&&(b._wrapped[c]=b[c])}return b._wrapped}catch(d){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
+
+        !function(r){function t(o){if(e[o])return e[o].exports;var n=e[o]={exports:{},id:o,loaded:!1};return r[o].call(n.exports,n,n.exports,t),n.loaded=!0,n.exports}var e={};return t.m=r,t.c=e,t.p="",t(0)}([function(r,t,e){"use strict";var o=e(1).Rollbar,n=e(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.7/rollbar.min.js";var a=o.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,t){"use strict";function e(){var r=window.console;r&&"function"==typeof r.log&&r.log.apply(r,arguments)}function o(r,t){return t=t||e,function(){try{return r.apply(this,arguments)}catch(e){t("Rollbar internal error:",e)}}}function n(r,t,e){window._rollbarWrappedError&&(e[4]||(e[4]=window._rollbarWrappedError),e[5]||(e[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,e),t&&t.apply(window,e)}function a(r){this.shimId=++u,this.notifier=null,this.parentShim=r,this.logger=e,this._rollbarOldOnError=null}function i(r){var t=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var e=this,o="scope"===r;o&&(e=new t(this));var n=Array.prototype.slice.call(arguments,0),a={shim:e,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),o?e:void 0})}function l(r,t){if(t.hasOwnProperty&&t.hasOwnProperty("addEventListener")){var e=t.addEventListener;t.addEventListener=function(t,o,n){e.call(this,t,r.wrap(o),n)};var o=t.removeEventListener;t.removeEventListener=function(r,t,e){o.call(this,r,t&&t._wrapped?t._wrapped:t,e)}}}var u=0;a.init=function(r,t){var e=t.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShimQueue=[],r._rollbarWrappedError=null,t=t||{};var i=new a;return o(function(){if(i.configure(t),t.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=function(){var r=Array.prototype.slice.call(arguments,0);n(i,i._rollbarOldOnError,r)};var o,a,u="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<u.length;++o)a=u[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return r[e]=i,i},i.logger)()},a.prototype.loadFull=function(r,t,e,n,a){var i=function(){var t;if(void 0===r._rollbarPayloadQueue){var e,o,n,i;for(t=new Error("rollbar.js did not load");e=r._rollbarShimQueue.shift();)for(n=e.args,i=0;i<n.length;++i)if(o=n[i],"function"==typeof o){o(t);break}}"function"==typeof a&&a(t)},l=!1,u=t.createElement("script"),s=t.getElementsByTagName("script")[0],c=s.parentNode;u.src=n.rollbarJsUrl,u.async=!e,u.onload=u.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){u.onload=u.onreadystatechange=null;try{c.removeChild(u)}catch(r){}l=!0,i()}},this.logger),c.insertBefore(u,s)},a.prototype.wrap=function(r,t){try{var e;if(e="function"==typeof t?t:function(){return t||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(t){throw t._rollbarContext=e()||{},t._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=t,t}},r._wrapped._isWrap=!0;for(var o in r)r.hasOwnProperty(o)&&(r._wrapped[o]=r[o])}return r._wrapped}catch(n){return r}};for(var s="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),c=0;c<s.length;++c)a.prototype[s[c]]=i(s[c]);r.exports={Rollbar:a,_rollbarWindowOnError:n}},function(r,t){"use strict";r.exports=function(r,t){return function(e){if(!e&&!window._rollbarInitialized){var o=window.RollbarNotifier,n=t||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,o.processPayloads()}}}}]);
 
 
-BONZ.run = function(fn) { try { return fn.call(); } catch(e) { Rollbar.log(e); } };
-BONZ.wrap = function(fn) {
-  return function() {
-    try { return fn.apply(undefined, arguments); } catch(e) { Rollbar.log(e); }
-  };
-};
+        BONZ.run = function(fn) { try { return fn.call(); } catch(e) { window.Rollbar.log(e); } };
+        BONZ.wrap = function(fn) {
+          return function() {
+            try { return fn.apply(undefined, arguments); } catch(e) { window.Rollbar.log(e); }
+          };
+        };
 
-BONZ.packageLoaded = function(packageName) {
-  BONZ.loadedPackages.push(packageName);
-  if (typeof(Rollbar) !== 'undefined') Rollbar.configure({ payload: { custom: { packages: BONZ.loadedPackages } } });
-};
+        BONZ.packageLoaded = function(packageName) {
+          BONZ.loadedPackages.push(packageName);
+          if (typeof(window.Rollbar) !== "undefined" && typeof(window.Rollbar.configure) === "function") {
+            window.Rollbar.configure({ payload: { custom: { packages: BONZ.loadedPackages } } });
+          }
+        };
 
-BONZ.packageLoading = function(packageName) {
-  BONZ.loadingPackages.push(packageName);
-  if (typeof(Rollbar) !== 'undefined') Rollbar.configure({ payload: { custom: { loading: BONZ.loadingPackages } } });
-};
+        BONZ.packageLoading = function(packageName) {
+          BONZ.loadingPackages.push(packageName);
+          if (typeof(window.Rollbar) !== "undefined" && typeof(window.Rollbar.configure) === "function") {
+            window.Rollbar.configure({ payload: { custom: { loading: BONZ.loadingPackages } } });
+          }
+        };
 BONZ.handleBrokenImage = function(imageEl, itemId) {
   if (typeof(BONZ.Application) !== 'undefined') BONZ.Application.handleBrokenImage(imageEl, itemId);
 };
-CKEDITOR_BASEPATH = "http://bonanzapublic.s3.amazonaws.com/scripts/ckeditor/";
+CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
 </script>
 
-	<link href="http://bonanzapublic.s3.amazonaws.com/assets/memberships_all.css?1435339624" media="screen, print" rel="stylesheet" type="text/css">
-  <link href="http://bonanzapublic.s3.amazonaws.com/assets/respond_css.css?1435265805" media="screen, print" rel="stylesheet" type="text/css">
-  <link href="http://bonanzapublic.s3.amazonaws.com/assets/global_css.css?1435339624" media="screen, print" rel="stylesheet" type="text/css">
-	<link href="http://bonanzapublic.s3.amazonaws.com/assets/siteHelp_all.css?1435339624" media="screen, print" rel="stylesheet" type="text/css">
-	
+  <link href="http://bonanzapublic.s3.amazonaws.com/assets/memberships_all-2eaacaa2d8c7eea96b2c9fbcbc246814.css" media="screen, print" rel="stylesheet" type="text/css">
+  <link href="http://bonanzapublic.s3.amazonaws.com/assets/global_css-4d8b594e0aff3932a57419721fc0aed1.css" media="screen, print" rel="stylesheet" type="text/css">
+  <link href="http://bonanzapublic.s3.amazonaws.com/assets/siteHelp_all-7968521fd04166d2d5c8abd795937852.css" media="screen, print" rel="stylesheet" type="text/css">
+  
 
-  <script crossorigin="anonymous" onload="runjQueryLoaded()" onreadystatechange="runjQueryLoaded()" src="http://s3.amazonaws.com/bonanzapublic/assets/global_js.js?1435339624" type="text/javascript"></script>
-  <script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/respond_js.js?1418749306" type="text/javascript"></script>
-  <script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/site_help_js.js?1435339624" type="text/javascript"></script>
-	<script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/ckeditor.js?1415661342" type="text/javascript"></script>
+  <script crossorigin="anonymous" onload="runjQueryLoaded()" onreadystatechange="runjQueryLoaded(this)" src="http://s3.amazonaws.com/bonanzapublic/assets/global_js-03871f99b1157a5ad78ece98422f1ed2.js" type="text/javascript"></script>
+  <script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/respond_js-6e7fdc80d36c33d1d58ca38f2d639499.js" type="text/javascript"></script>
+  <script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/site_help_js-0202ad4df65da16d55d148a6763733cb.js" type="text/javascript"></script>
+  <script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/ckeditor-a902dbf4ad7a2da47359fe6cb5e523fa.js" type="text/javascript"></script>
 
 
       <script type="text/javascript">
@@ -143,172 +148,448 @@ CKEDITOR_BASEPATH = "http://bonanzapublic.s3.amazonaws.com/scripts/ckeditor/";
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
           })();
         </script>
+        <script>
+          (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5000473"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+        </script>
 </head>
 
 <body style="">
-	
+  
 
 
+<div id="header" class="version_holiday">
+    
+<div class="header_utilities wrapper">
+    <ul class="my_bonanza header_top_level_menu">
+        <li class="sell_on_bonanza header_top_level_button_item has_children">
+          <a href="/ebay_alternative" class="link_to_sell_on_bonanza">Sell on Bonanza</a>
 
-
-<div id="site_wrapper">
-	<div id="main_wrapper" class="">
-
-    <div id="header" class="clearfix">
-        
-<div id="header_utilities">
-	<div id="left_utilities">
-			<div id="utility_sell_on_bonanza" class="utility">
-        <span class="button">
-          <table><tbody><tr><td>
-            <a href="/ebay_alternative">Sell on Bonanza</a></td><td><div class="utility_arrow"></div>
-          </td></tr></tbody></table>
-          <div class="utility_dropdown">
-              <a href="/booths/my_booth_redirect">Add or edit items</a>
-              <a href="/users/create_intro_user?key=4v80w50b22A122">Start selling in one click</a>
-                <a href="/users/create_intro_user?import_amazon_splash=true&amp;key=4v80w50b22A122">Import from Amazon</a>
-              <a href="/users/create_intro_user?import_ebay_splash=true&amp;key=4v80w50b22A122">Import from eBay</a>
-              <a href="/users/create_intro_user?import_etsy_splash=true&amp;key=4v80w50b22A122">Import from Etsy</a>
-              <a href="/users/create_intro_user?import_inventory_splash=true&amp;key=4v80w50b22A122">Import from inventory file</a>
-              <a href="/webstores">Open a Webstore</a>
+          <div class="header_subnav_menu">
+            <ul class="section">
+              <li><a href="/booths/my_booth_redirect">Add or edit items</a></li>
+              <li><a href="/users/create_intro_user?key=4v80w50b22A122">Start selling in one click</a></li>
+              <li><a href="/users/create_intro_user?import_amazon_splash=true&amp;key=4v80w50b22A122">Import from Amazon</a></li>
+              <li><a href="/users/create_intro_user?import_ebay_splash=true&amp;key=4v80w50b22A122">Import from eBay</a></li>
+              <li><a href="/users/create_intro_user?import_etsy_splash=true&amp;key=4v80w50b22A122">Import from Etsy</a></li>
+              <li><a href="/users/create_intro_user?import_inventory_splash=true&amp;key=4v80w50b22A122">Import from inventory file</a></li>
+              <li><a href="/webstores">Open a Webstore</a></li>
+            </ul>
           </div>
-        </span>
-      </div>
-			<div id="utility_community" class="utility">
-				<table><tbody><tr><td><a href="/community">Community</a></td><td><div class="utility_arrow"></div></td></tr></tbody></table>
-				<div class="utility_dropdown">
-					<a href="/hand_picked_lists">Hand picked lists</a>
-					<a href="/collections">Collections</a>
-					<a href="/coupons">Coupons and discounts</a>
-					<a href="/forums/8/topics">Promos and deals</a>
-					<a href="/blog">Bonanza Blog</a>
-          <a href="/people/participate">Participate</a>
-				</div>
-			</div>
-			<div id="utility_help" class="utility">
-				<a href="/site_help">Help</a>			</div>
-	</div>
-
-	<div id="right_utilities" class="loggedOut">
-
-      <a href="/offers/checkout" class="utility" id="utility_cart">Cart</a>
-		<div id="cart_separator" class="utility_separator">|</div>
-
-			<a href="/users/new" class="utility" id="register_link">Register</a>
-
-			<div id="register_separator" class="utility_separator">|</div>
-
-			<a href="/home/login" class="utility">Log in</a>
+        </li>
 
 
-	</div>
+      <li class="help header_top_level_menu_item has_children">
+        <a href="/site_help">Help<i class="fa fa-angle-down"></i></a>
+
+        <div class="header_subnav_menu">
+          <div class="section">
+            <form accept-charset="UTF-8" action="/site_help/search" class="header_subnav_menu_search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+              <input class="search_field" id="search_form_q" name="search_form[q]" placeholder="Search help topics" size="30" type="text">
+              <button name="button" type="submit"><i class="fa fa-search fa-flip-horizontal"></i></button>
+</form>          </div>
+
+          <ul class="section">
+            <li><a href="/site_help">Visit the help center</a></li>
+            <li><a href="/community">Ask the community</a></li>
+            <li><a href="http://feedback.bonanza.com">Submit an idea</a></li>
+            <li><a href="/site_help/contact_us">Contact support</a></li>
+            <li><a href="/blog">Read the Bonanza blog</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+
+  <ul class="account header_top_level_menu">
+    
+
+
+      <li class="log_in header_top_level_button_item"><a href="/home/login" class="link_to_login">Log in</a></li>
+      <li class="sign_up header_top_level_menu_item"><a href="/users/new">Register</a></li>
+
+    <li class="cart header_top_level_menu_item">
+      <a href="/offers/cart_summary" class="link_to_cart">Cart</a>
+    </li>
+  </ul>
 </div>
 
-        <div id="header_shopping">
-    <a href="http://www.bonanza.com/" id="logo" title="Shop for everything but the ordinary. More than 25,000 sellers offering you a vibrant collection of fashion, collectibles, home decor, and more."></a>
-
-  <div id="header_categories">
-    <div id="category_for_her" class="category">
-      <table><tbody><tr><td><a href="javascript:void(0)" id="browse_categories_link">Browse by Category</a></td><td><div class="category_arrow"></div></td></tr></tbody></table>
-      <div class="category_dropdown">
-        <div class="unexpanded_categories clearfix">
-          <div class="category_list">
-            <a href="/collectibles" class="mother">Collectibles</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11116" class="sublink link_to_search">Coins &amp; Paper Money</a>            <a href="/antiques" class="sublink">Antiques</a>            <a href="/sports_mem__cards___fan_shop" class="sublink">Sports &amp; Memorabilia</a>          </div>
-          <div class="category_list">
-            <a href="/crafts" class="mother">Crafts</a>            <a href="/art" class="sublink">Art</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=160706" class="sublink link_to_search">Needlecrafts &amp; Yarn</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=160737" class="sublink link_to_search">Sewing &amp; Fabric</a>          </div>
-          <div class="category_list">
-            <a href="/fashion" class="mother">Fashion</a>            <a href="/fashion" class="sublink">Women's Clothing</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=4251" class="sublink link_to_search">Women's Accessories</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291" class="sublink link_to_search">Handbags</a>          </div>
-          <div class="category_list">
-            <a href="/home___garden" class="mother">Home &amp; Garden</a>
-            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=10033" class="sublink link_to_search">Inside the Home</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=20625" class="sublink link_to_search">Kitchen, Dining &amp; Bath</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=159912" class="sublink link_to_search">Yard, Garden, &amp; Outdoor</a>          </div>
-          <div class="category_list">
-            <a href="/jewelry___watches" class="mother">Jewelry &amp; Watches</a>
-            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=10968" class="sublink link_to_search">Fashion</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=110633" class="sublink link_to_search">Handcrafted, Artisan</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=48579" class="sublink link_to_search">Vintage &amp; Antique</a>          </div>
-          <div class="category_list">
-            <a href="/health___beauty" class="mother">Health &amp; Beauty</a>
-            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11838" class="sublink link_to_search">Bath &amp; Body</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=31786" class="sublink link_to_search">Makeup</a>            <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11863" class="sublink link_to_search">Skin Care</a>          </div>
-          <a href="/categories">All Categories</a>        </div>
-        <div class="category_list clearfix">
-          <a href="/gift_guides">Gift ideas</a>
-          <a href="/gift_guides/14" class="sublink">Fashionista</a>
-          <a href="/gift_guides/15" class="sublink">Scrapbooker</a>
-          <a href="/gift_guides/25" class="sublink">Food/Cooking</a>
-        </div>
-        <div class="more_ways_to_shop clearfix">
-          <h4>More Ways to Shop</h4>
-          <div class="column">
-            <a href="/coupons" class="sublink">Coupons and discounts</a>            <a href="/collections" class="sublink">Collections</a>            <a href="/hand_picked_lists" class="sublink">Hand picked lists</a>          </div><div class="column">
-            <a href="http://www.bonanza.com/items/search?q%5Bis_freebie%5D=true" class="sublink link_to_search">Freebies</a>            <a href="http://www.bonanza.com/items/search?q%5Brecently_listed%5D=true" class="sublink link_to_search">New items</a>          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  
-<div class="search_container">
-  <div id="header_search_box" class="search_box">
-    <form accept-charset="UTF-8" action="/items_search/search_entry" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>      <input class="search_term" name="q[search_term]" size="30" type="text">
-      <input name="q[filter_category_id]" type="hidden">
+    <div class="header_search">
+  <div class="wrapper">
+    <a href="http://www.bonanza.com/" class="bonanza_logo" title="Shop for everything but the ordinary. More than 25,000 sellers offering you a vibrant collection of fashion, collectibles, home decor, and more.">
+        <img alt="Bonanza" data-retina="true" src="http://bonanzapublic.s3.amazonaws.com/images/header/bonanza_logo.png">
+</a>
+    
+<div class="header_search_container" id="header_search_box">
+    <form accept-charset="UTF-8" action="/items_search/search_entry" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>      <input name="q[filter_category_id]" type="hidden">
       <input name="q[catalog_id]" type="hidden">
       <input name="q[in_booth_id]" type="hidden">
       <input name="q[translate_term]" type="hidden" value="true">
       <input name="q[shipping_in_price]" type="hidden" value="0">
       <input name="q[sort_by]" type="hidden" value="relevancy">
-      <input class="search_icon" name="commit" type="submit" value="Find">
-</form>  </div> <!-- header_search_box -->
-</div>  <!-- search_container -->
+
+      <input class="search_term" name="q[search_term]" placeholder="Search..." size="30" type="text">
+      <button name="button" type="submit"><i class="fa fa-search fa-flip-horizontal"></i></button>
+</form></div>
+  </div>
+</div>
+
+    
+
+
+  <div class="header_shopping">
+    <div class="wrapper">
+      <ul class="header_top_level_menu">
+        <li class="womens_fashion header_top_level_menu_item has_children">
+          <a href="/fashion" data-short-name="Women">Women's Fashion</a>
+
+          <div class="header_subnav_menu with_hero_image">
+            <div class="col">
+              <div class="section">
+                <h5>Categories</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=15724" class="link_to_search">Clothing</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=3034" class="link_to_search">Shoes</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=4251" class="link_to_search">Accessories</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=175762" class="link_to_search">Vintage</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=3259" class="link_to_search">Formal &amp; Wedding</a></li>
+                </ul>
+              </div>
+
+              <div class="section">
+                <h5>Deals</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bmax_price%5D=99.99&amp;q%5Bmin_price%5D=50" class="link_to_search"><i class="fa fa-tags"></i>Under $100</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bmax_price%5D=49.99&amp;q%5Bmin_price%5D=0" class="link_to_search"><i class="fa fa-tags"></i>Under $50</a></li>
+                </ul>
+
+                <a href="/fashion" class="button26">Shop all Fashion</a>
+              </div>
+            </div>
+
+            <div class="col">
+              <h5>Top Brands</h5>
+
+              <ul class="secondary_level_menu">
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=anthropologie&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Anthropologie</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=ann+taylor&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Ann Taylor</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=banana+republic&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Banana Republic</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=calvin+klein&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Calvin Klein</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=the+gap&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Gap</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=j+crew&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">J. Crew</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=lululemon&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Lululemon</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=michael+kors&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Michael Kors</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bsearch_term%5D=nike+women&amp;q%5Bshipping_in_price%5D=1&amp;q%5Bsort_by%5D=relevancy&amp;q%5Btranslate_term%5D=true" class="link_to_search">Nike</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=15724&amp;q%5Bfilter_category_id%5D%5B%5D=3034&amp;q%5Bfilter_category_id%5D%5B%5D=4251&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=ralph+lauren&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Ralph Lauren</a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="mens_fashion header_top_level_menu_item has_children">
+          <a href="/fashion" data-short-name="Men">Men's Fashion</a>
+
+          <div class="header_subnav_menu with_hero_image">
+            <div class="col">
+              <div class="section">
+                <h5>Categories</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=1059" class="link_to_search">Clothing</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=93427" class="link_to_search">Shoes</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=4250" class="link_to_search">Accessories</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=175761" class="link_to_search">Vintage</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=105508" class="link_to_search">Formal &amp; Wedding</a></li>
+                </ul>
+              </div>
+
+              <div class="section">
+                <h5>Deals</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bmax_price%5D=99.99&amp;q%5Bmin_price%5D=50" class="link_to_search"><i class="fa fa-tags"></i>Under $100</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bmax_price%5D=49.99&amp;q%5Bmin_price%5D=0" class="link_to_search"><i class="fa fa-tags"></i>Under $50</a></li>
+                </ul>
+
+                <a href="/fashion" class="button26">Shop all Fashion</a>
+              </div>
+            </div>
+
+            <div class="col">
+              <h5>Top Brands</h5>
+
+              <ul class="secondary_level_menu">
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=american+eagle&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">American Eagle</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=banana+republic&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Banana Republic</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=brooks+brother&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Brooks Brothers</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=calvin+klein&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Calvin Klein</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=gap&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Gap</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=j+crew&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">J. Crew</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=levis&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Levi's</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bsearch_term%5D=nike+men&amp;q%5Bshipping_in_price%5D=1&amp;q%5Bsort_by%5D=relevancy&amp;q%5Btranslate_term%5D=true" class="link_to_search">Nike</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1059&amp;q%5Bfilter_category_id%5D%5B%5D=93427&amp;q%5Bfilter_category_id%5D%5B%5D=4250&amp;q%5Bfilter_category_id%5D%5B%5D=155184&amp;q%5Bsearch_term%5D=ralph+lauren&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Ralph Lauren</a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="home_and_garden header_top_level_menu_item has_children">
+          <a href="/home___garden" data-short-name="Home">Home &amp; Garden</a>
+
+          <div class="header_subnav_menu with_hero_image">
+            <div class="col">
+              <div class="section">
+                <h5>Categories</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26677" class="link_to_search">Bath</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=20444" class="link_to_search">Bedding</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=3197" class="link_to_search">Furniture</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=10033" class="link_to_search">Home Decor</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=159907" class="link_to_search">Home Improvement</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=20625" class="link_to_search">Kitchen &amp; Dining</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=20697" class="link_to_search">Lamps &amp; Ceiling Fans</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=159912" class="link_to_search">Yard, Garden &amp; Outdoor</a></li>
+                </ul>
+
+                <a href="/home___garden" class="button26">Shop all Home &amp; Garden</a>
+              </div>
+            </div>
+
+            <div class="col">
+              <h5>Top Brands</h5>
+
+              <ul class="secondary_level_menu">
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=11700&amp;q%5Bfilter_category_id%5D%5B%5D=12576&amp;q%5Bsearch_term%5D=craftsman&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Craftsman</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11700&amp;q%5Bsearch_term%5D=cuisinart&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Cuisinart</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=11700&amp;q%5Bfilter_category_id%5D%5B%5D=12576&amp;q%5Bsearch_term%5D=dewalt&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">DeWalt</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11700&amp;q%5Bsearch_term%5D=dyson&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Dyson</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bsearch_term%5D=keurig&amp;q%5Bshipping_in_price%5D=1&amp;q%5Bsort_by%5D=relevancy&amp;q%5Btranslate_term%5D=true" class="link_to_search">Keurig</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bsearch_term%5D=kitchenaid&amp;q%5Bshipping_in_price%5D=1&amp;q%5Bsort_by%5D=relevancy&amp;q%5Btranslate_term%5D=true" class="link_to_search">KitchenAid</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=11700&amp;q%5Bfilter_category_id%5D%5B%5D=12576&amp;q%5Bsearch_term%5D=kohler&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Kohler</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bsearch_term%5D=lenox&amp;q%5Bshipping_in_price%5D=1&amp;q%5Bsort_by%5D=relevancy&amp;q%5Btranslate_term%5D=true" class="link_to_search">Lenox</a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="health_and_beauty header_top_level_menu_item has_children">
+          <a href="/health___beauty" data-short-name="Beauty">Health &amp; Beauty</a>
+
+          <div class="header_subnav_menu with_hero_image">
+            <div class="col">
+              <div class="section">
+                <h5>Categories</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11838" class="link_to_search">Bath &amp; Body</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=19259" class="link_to_search">Dietary Supplements</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26396" class="link_to_search">Fragrances</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11854" class="link_to_search">Hair Care</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=67588" class="link_to_search">Health Care</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=31786" class="link_to_search">Makeup</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=47945" class="link_to_search">Nail Care</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=11863" class="link_to_search">Skin Care</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=31414" class="link_to_search">Vision Care</a></li>
+                </ul>
+
+                <a href="/health___beauty" class="button26">Shop all Health &amp; Beauty</a>
+              </div>
+            </div>
+            <div class="col">
+              <h5>Top Brands</h5>
+
+              <ul class="secondary_level_menu">
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=avon&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Avon</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=clinique&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Clinique</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=dove&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Dove</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=estee+lauder&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Estee Lauder</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=lancome&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Lancôme</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=loreal&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">L’Oreal</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=maybelline&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Maybelline</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=neutrogena&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Neutrogena</a></li>
+                <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=26395&amp;q%5Bsearch_term%5D=olay&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Olay</a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="collectibles_and_art header_top_level_menu_item has_children">
+          <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D%5B%5D=1&amp;q%5Bfilter_category_id%5D%5B%5D=550" class="link_to_search" data-short-name="Collectibles">Collectibles &amp; Art</a>
+
+          <div class="header_subnav_menu with_hero_image single_column">
+            <div class="col">
+              <div class="section">
+                <h5>Categories</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="/art">Art</a></li>
+                  <li><a href="/collectibles">Collectibles</a></li>
+                  <li><a href="/antiques">Antiques</a></li>
+                  <li><a href="/crafts">Crafts</a></li>
+                  <li><a href="/Coins___Paper_Money">Coins &amp; Paper Money</a></li>
+                  <li><a href="/entertainment_memorabilia">Entertainment Memorabilia</a></li>
+                  <li><a href="/Pottery___Glass">Pottery &amp; Glass</a></li>
+                  <li><a href="/sports_mem__cards___fan_shop">Sports Memorbilia</a></li>
+                  <li><a href="/Stamps">Stamps</a></li>
+                </ul>
+
+                <a href="/collectibles" class="button26">Shop all Collectibles</a>
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <li class="handbags header_top_level_menu_item has_children">
+          <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291" class="link_to_search">Handbags</a>
+
+          <div class="header_subnav_menu with_hero_image single_column">
+            <div class="col">
+              <div class="section">
+                <h5>Top Brands</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=ann+taylor&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Ann Taylor</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=coach&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Coach</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=fossil&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Fossil</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=kate+spade&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Kate Spade</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=louis+vuitton&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Louis Vuitton</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=michael+kors&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Michael Kors</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291&amp;q%5Bsearch_term%5D=vera+bradley&amp;q%5Bshipping_in_price%5D=1&amp;q%5Btranslate_term%5D=true" class="link_to_search">Vera Bradley</a></li>
+                </ul>
+
+                <a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=169291" class="button26 link_to_search">Shop all Handbags</a>
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <li class="jewelry header_top_level_menu_item has_children">
+          <a href="/jewelry___watches">Jewelry</a>
+
+          <div class="header_subnav_menu with_hero_image single_column">
+            <div class="col">
+              <div class="section">
+                <h5>Categories</h5>
+
+                <ul class="secondary_level_menu">
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=10968" class="link_to_search">Fashion Jewelry</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=4196" class="link_to_search">Fine Jewelry</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=110633" class="link_to_search">Handcrafted Jewelry</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=48579" class="link_to_search">Vintage Jewelry</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=91427" class="link_to_search">Wedding Jewelry</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=14324" class="link_to_search">Watches</a></li>
+                </ul>
+
+                <a href="/jewelry___watches" class="button26">Shop all Jewelry</a>
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <li class="more_categories header_top_level_menu_item has_children">
+          <a href="/categories" class="link_to_more_categories" data-short-name="More<i class=&quot;fa fa-plus-square-o&quot;></i>">More<i class="fa fa-plus-square-o"></i></a>
+
+          <div class="header_subnav_menu single_column">
+            <div class="col">
+              <div class="section">
+                <ul class="secondary_level_menu">
+                  <li><a href="/Books">Books</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=12576" class="link_to_search">Business &amp; Industrial</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=58058" class="link_to_search">Computers &amp; Tablets</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=293" class="link_to_search">Consumer Electronics</a></li>
+                  <li><a href="/DVDs___Movies">DVDs &amp; Movies</a></li>
+                  <li><a href="/Music">Music</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=6028" class="link_to_search">Parts &amp; Accessories</a></li>
+                  <li><a href="/sporting_goods">Sporting Goods</a></li>
+                  <li><a href="/Toys___Hobbies">Toys &amp; Hobbies</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bfilter_category_id%5D=1249" class="link_to_search">Video Games &amp; Consoles</a></li>
+                  <li><a href="/Everything_Else">Everything Else</a></li>
+                </ul>
+
+                <a href="/categories" class="button26">Shop all Categories</a>
+              </div>
+            </div>
+          </div>
+        </li>
+
+          <li class="gift_guides header_top_level_menu_item has_children">
+            <a href="#"><i class="fa fa-tree"></i> Gift Guides</a>
+
+            <div class="header_subnav_menu single_column">
+              <div class="col">
+                <div class="section">
+                  <ul class="secondary_level_menu">
+                    <li><a href="/gift_guides/14">For the fashionista</a></li>
+                    <li><a href="/gift_guides/15">For the scrapbooker</a></li>
+                    <li><a href="/gift_guides/9">For the handyman</a></li>
+                    <li><a href="/gift_guides/10">For the sports fan</a></li>
+                    <li><a href="/gift_guides/26">For the music lover</a></li>
+                  </ul>
+                </div>
+
+                <div class="section">
+                  <ul class="secondary_level_menu">
+                    <li><a href="/gift_guides/1">Gifts under $10</a></li>
+                    <li><a href="/gift_guides/2">Gifts under $25</a></li>
+                    <li><a href="/gift_guides/3">Gifts under $50</a></li>
+                    <li><a href="/gift_guides/4">Gifts under $100</a></li>
+                    <li><a href="/gift_guides/5">Luxury gifts</a></li>
+                  </ul>
+                </div>
+
+                <div class="section">
+                  <ul class="secondary_level_menu">
+                    <li><a href="/gift_cards">Bonanza gift cards</a></li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+          </li>
+
+        <li class="shop_by header_top_level_menu_item has_children">
+          <a href="#">Shop By<i class="fa fa-angle-down"></i></a>
+
+          <div class="header_subnav_menu single_column">
+            <div class="col">
+              <div class="section">
+                <ul class="secondary_level_menu">
+                  <li><a href="/hand_picked_lists">Hand-picked Lists</a></li>
+                  <li><a href="/collections">Collections</a></li>
+                  <li><a href="/gift_guides">Gift Ideas</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Brecently_listed%5D=true" class="link_to_search">New Items</a></li>
+                  <li><a href="/coupons">Coupons &amp; Deals</a></li>
+                  <li><a href="http://www.bonanza.com/items/search?q%5Bis_freebie%5D=true" class="link_to_search">Freebies</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+
+
 
 
 </div>
 
-    </div>
-
-		<div id="user_pop_text_container">
-			<p id="pop_text_target"></p>
-		</div>
+<div id="site_wrapper">
+	<div id="main_wrapper" class="">
 
 		<div id="content" class="clearfix">
-
 		  
 
+  
+  
+  
 
 
-<div id="help_body" class="">
-	
-	
-
-		
-<div id="site_help_sidebar">
-  <div class="search_help">
-    <h3>Find Help Topic</h3>
-    <div class="left_side_options">
-      <form accept-charset="UTF-8" action="/site_help/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-        <input class="search_field" id="search_form_q" name="search_form[q]" size="30" type="text">
-        <input class="button26" name="commit" type="submit" value="Search Help Pages">
-</form>    </div>
-  </div>
-
-	<div class="topic_group">
-    <h3>Help Topics</h3>
-    <table class="left_side_options" cellpadding="0" cellspacing="0">
-      <tbody><tr><td style="padding: 2px; "><a href="/site_help">General FAQ</a><br>All the basics</td></tr>      <tr><td style="padding: 2px; "><a href="/site_help/booths_setup">Selling Topics</a><br>The skinny on selling</td></tr>      <tr><td style="padding: 2px; "><a href="/site_help/offers">Buying Topics</a><br>How to make an offer and more</td></tr>      <tr><td style="padding: 2px; "><a href="/site_help/general">Assorted Topics</a><br>Various topics that don't fit into the above categories</td></tr>    </tbody></table>
-  </div>
-
-	<div class="topic_group">
-    <h3>Legal</h3>
-    <table class="left_side_options" cellpadding="0" cellspacing="0">
-      <tbody><tr><td style="padding: 2px; "><a href="/site_help/user_agreement">User Agreement</a><br>Everybody loves rules</td></tr>      <tr><td style="padding: 2px; background-color:white;"><a href="/site_help/privacy_policy">Privacy Policy</a><br>What steps Bonanza takes to protect your privacy</td></tr>    </tbody></table>
-  </div>
-
-	<div class="topic_group">
-    <h3>Talk to Us</h3>
-    <table class="left_side_options" cellpadding="0" cellspacing="0">
-      <tbody><tr><td style="padding: 2px; "><a href="/site_help/contact_us">Contact Us</a><br>It's been so long since we last spoke</td></tr>      <tr><td style="padding: 2px; "><a href="/item_trait_suggestions/choose_category_form">Suggest an Item Trait</a><br>Help build the item category catalog</td></tr>      <tr><td style="padding: 2px; "><a href="/site_help/bug_report">Report a Bug</a><br>Find something wrong?  Let us know!</td></tr>      <tr><td style="padding: 2px; "><a href="/site_help/new_feature">Request a Feature</a><br>What's your great idea?</td></tr>    </tbody></table>
-  </div>
-</div>
-		<div id="site_help_content">
-
-	
+<div id="help_body">
+  <div class="help_center_content">
+    
 
 <h1>Your privacy</h1>
 
@@ -397,95 +678,92 @@ directly on our Site. Your interactions with these Features are governed by the 
 
 <p>Effective date: 1/1/2010<br>
 Statement last updated:  October 11, 2012</p>
-
-	</div><!-- if layout closes content, if not, closes the div you see -->
+  </div>
 </div>
 
-	</div> <!-- content -->
+
+  </div> <!-- content -->
 <!-- centerJustifiedDiv -->
 </div> <!-- main_wrapper -->
 </div> <!-- site_wrapper -->
 
 <!-- footer -->
-<div id="footer" style="">
-	<div id="footer_main">
-		<div id="link_holder">
-			<div class="list_item"><a href="/blog">Blog</a></div>
-			<div class="list_item"><a href="/site_help/contact_us">Contact</a></div>
-			<div class="list_item"><a href="http://www.bonanza.com/press">Press</a></div>
-      <div class="list_item"><a href="http://www.bonanza.com/jobs">Jobs</a></div>
-			<div class="list_item"><a href="http://api.bonanza.com">API</a></div>
-			<div class="list_item"><a href="http://feedback.bonanza.com">Feedback</a></div>
-			<div class="list_item"><a href="/about_us" class="last">About</a></div>
-		</div>
+  <div id="footer">
+    <div class="footer_links">
+  <div class="wrapper">
+    <ul class="menu">
+      <li><a href="/about_us">About</a></li>
+      <li><a href="https://darwin.affiliatewindow.com/merchant-profile/6238" target="_blank">Affiliates</a></li>
+      <li><a href="http://api.bonanza.com/">API</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/site_help/contact_us">Contact</a></li>
+      <li><a href="/community">Community</a></li>
+      <li><a href="/site_help">Help</a></li>
+      <li><a href="http://feedback.bonanza.com" target="_blank">Feedback</a></li>
+      <li><a href="/jobs">Jobs</a></li>
+      <li><a href="/site_help/DMCA/Brand_Protection_Program">Legal</a></li>
+      <li><a href="/press">Press</a></li>
+      <li><a href="/webstores">Webstores</a></li>
+    </ul>
 
-		<div id="footer_credentials" class="offset">
-  <a id="footer_verisign_credential" href="https://sealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.bonanza.com&amp;lang=en" target="_blank"></a>
-  <a target="_blank" id="bbblink" class="rbhzbus" href="http://www.bbb.org/western-washington/business-reviews/internet-shopping/bonanzacom-in-seattle-wa-22476619#bbbseal" title="Bonanza.com, Internet Shopping, Seattle, WA" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;">
-    <img alt="Bonanza.com, Internet Shopping, Seattle, WA" src="http://s3.amazonaws.com/bonanzapublic/images/sprites/trust/bbb.png?1435602911" width="100">
-  </a>
-  <a id="footer_paypal_credential" href="https://www.paypal.com/my/cgi-bin/webscr?cmd=xpt/Marketing/securitycenter/buy/Protection-outside" target="_blank"></a>
-</div>
+    <ul class="social_media">
+      <li><a href="http://facebook.com/bonanzamarket" onclick="_gaq.push(['_trackEvent', 'Social share', 'Click-footer', 'Facebook']);" target="_blank"><i class="fa fa-facebook-square"></i>Facebook</a></li>
+      <li><a href="http://twitter.com/bonanzamarket" onclick="_gaq.push(['_trackEvent', 'Social share', 'Click-footer', 'Twitter']);" target="_blank"><i class="fa fa-twitter"></i>Twitter</a></li>
+      <li><a href="http://pinterest.com/bonanzamarket" onclick="_gaq.push(['_trackEvent', 'Social share', 'Click-footer', 'Pinterest']);" target="_blank"><i class="fa fa-pinterest"></i>Pinterest</a></li>
+    </ul>
 
-
-		<div id="footer_right_side">
-			<a href="http://facebook.com/bonanzamarket" id="footer_fb_link" onclick="_gaq.push(['_trackEvent', 'Social share', 'Click-footer', 'Facebook']);" popup="true"></a>
-			<a href="http://twitter.com/bonanzamarket" id="footer_twitter_link" onclick="_gaq.push(['_trackEvent', 'Social share', 'Click-footer', 'Twitter']);" popup="true"></a>
-      <a href="http://pinterest.com/bonanzamarket" id="footer_pinterest_link" onclick="_gaq.push(['_trackEvent', 'Social share', 'Click-footer', 'Pinterest']);" popup="true"></a>
-				<a href="#" id="footer_subscribe_link" onclick="$('#mini_logo').hide(); $('#footer_subscribe_container').show('fast');; return false;"></a>
-
-				<div id="footer_subscribe_container">
-					<b>Get Great Deals by Email</b>
-					<div>Exclusives from Bonanza. Real meat. No spam.</div>
-					
+    
+<div class="footer_promo_box">
+    
 <div class="email_field_container">
   <div class="email_field_container_inner">
-    	<span class="email_field_container_text"></span>
-    <form accept-charset="UTF-8" action="/marketing_email_preferences/subscribe_user" method="post" onsubmit="BONZ.Form.subscribeBefore(this); jQuery.ajax({complete:function(request){BONZ.Form.subscribeComplete(request, true, false)}, data:jQuery.param(jQuery(this).serializeArray()), dataType:'script', type:'post', url:'/marketing_email_preferences/subscribe_user?escape=false'}); return false;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="u8LIhzK2SMuQBlGj2b2k+tui0R3DiByUjJ1j3rUsVCs="></div>
-        <input class="email_field" id="email" name="email" type="text">
-				<input class="go_button email_submit" name="commit" type="submit" value="">
-			
+    <span class="email_field_container_text"><i class="fa fa-envelope"></i><span> Sign up for great deals!</span></span>
+
+    <form accept-charset="UTF-8" action="/marketing_email_preferences/subscribe_user" method="post" onsubmit="BONZ.Form.subscribeBefore(this); jQuery.ajax({complete:function(request){BONZ.Form.subscribeComplete(request, true, false)}, data:jQuery.param(jQuery(this).serializeArray()), dataType:'script', type:'post', url:'/marketing_email_preferences/subscribe_user?escape=false'}); return false;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="A22j+WyaaW3OeJyAumJH0b5bbRYWtWRMWGGaMJFQ9jY="></div>
+
+        <input class="email_field" id="email" name="email" placeholder="Email address" type="text">
+
+        <input class="button21 email_submit" name="commit" type="submit" value="Go">
 </form>  </div>
 </div>
 
 <script type="text/javascript">
 //<![CDATA[
-if (BONZ.Form) $(BONZ.Form.prepareEmailFields({'text':'email address', 'formCSS':{'color':'#404040','font-style':'normal', 'font-size':'11px'}}));
+if (BONZ.Form) $(BONZ.Form.prepareEmailFields());
 //]]>
 </script>
 
-				</div>
-		</div>
-		<input type="hidden" id="userIsActive" value="false">
-		<input type="hidden" id="userNameId" value="">
-		<input type="hidden" id="appServerId" value="app12 rendered at 08:33:31">
-		<input type="hidden" id="staticAssetServer" value="http://s3.amazonaws.com/bonanzapublic/">
-		<input type="hidden" id="appToken" value="1857190">
-		<div id="sound_element"></div>
-		<div style="clear:both"></div>
-	</div>
-
-	<div id="footer_secondary">
-    <div class="footer_left">
-      <span class="international">International:</span>
-      <a href="#set_locale" id="select_locale_link">
-        <span class="flag us">&nbsp;</span>
-        United States
-        / United States Dollar $
-      </a>
-    </div>
-
-    <div class="footer_right">
-			<span class="footer_right_links">
-				<a href="/site_help/privacy_policy" class="last">Privacy Statement</a>				&nbsp;|&nbsp;
-				<a href="/site_help/user_agreement">Terms of Use</a>				&nbsp;&nbsp;&nbsp;
-			</span>
-      © 2015 Bonanza. All Rights Reserved.
-    </div>
-	</div>
-
 </div>
 
+  </div>
+</div>
+
+    <div class="footer_bottom">
+  <div class="wrapper">
+    <div class="utilities">
+
+      <a href="#set_local" class="locale flags-us" id="select_locale_link">
+        United States
+        / United States Dollar $
+</a>    </div>
+
+    <ul class="trust">
+      <li><a href="https://sealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.bonanza.com&amp;lang=en" class="footer_verisign_credential" target="_blank"></a></li>
+      <li><a href="http://www.bbb.org/western-washington/business-reviews/internet-shopping/bonanzacom-in-seattle-wa-22476619#bbbseal" class="footer_bbb_credential" target="_blank" title="Bonanza.com, Internet Shopping, Seattle, WA"></a></li>
+      <li><a href="https://www.paypal.com/my/cgi-bin/webscr?cmd=xpt/Marketing/securitycenter/buy/Protection-outside" class="footer_paypal_credential" target="_blank"></a></li>
+    </ul>
+  </div>
+</div>
+
+    <ul class="footer_legal">
+  <li>© 2015 Bonanza. All Rights Reserved</li>
+  <li><a href="/site_help/privacy_policy">Privacy Statement</a></li>
+  <li><a href="/site_help/user_agreement">Terms of Use</a></li>
+</ul>
+
+  </div>
+
+<script crossorigin="anonymous" src="http://s3.amazonaws.com/bonanzapublic/assets/retina_js-12a337c43db77c3c7968be72c0f49881.js" type="text/javascript"></script>
 
 
 
@@ -519,18 +797,8 @@ if (BONZ.Form) $(BONZ.Form.prepareEmailFields({'text':'email address', 'formCSS'
         <script>
         //<![CDATA[
                   jQuery(BONZ.wrap(function() {
-          $('.category').hover(function() {
-  $(this).addClass('opened');
-}, function() {
-  $(this).removeClass('opened');
-});
-
-BONZ.Form.addCallToAction($('.search_box .search_term'), { text: 'Search...' });
-
-BONZ.Application.lazy(function() {
-  BONZ.Autosuggest.defineSearch('#header_search_box .search_term', null);
-});
-
+          $(BONZ.Header.initialize);
+BONZ.SiteHelp.initialize();
 
         }));
 
