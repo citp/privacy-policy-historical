@@ -1,66 +1,53 @@
-> *The following text is extracted and transformed from the findpeopleonplus.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901221344id_/http%3A//findpeopleonplus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findpeopleonplus.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221828id_/http%3A//www.80proofdigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Exponential Labs, Inc.
+# Privacy Policy | 80 Proof Digital
 
-**Exponential Labs Privacy Policy**
+This privacy policy sets out how “80 Proof Digital” uses and protects any information that you give “80 Proof Digital” when you use this website.  
+“80 Proof Digital” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+“80 Proof Digital” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from March 28, 2015.
 
-**July 22, 2011**
+**What we collect**  
+We may collect the following information:
 
-This Privacy Policy governs the collection, use, disclosure and retention of all Personal Information that you provide to Exponential Labs Inc. (“Exponential Labs,” “us” or “we”) via findpeopleonplus.com (the “Website”) or that you provide directly or indirectly by other means. This Privacy Policy will help you understand how Exponential Labs protects, collects, uses and discloses your Personal Information. We may revise this Privacy Policy at any time by updating this page.
+name and job title  
+contact information including email address  
+demographic information such as postcode, preferences and interests  
+other information relevant to customer surveys and/or offers  
+**What we do with the information we gather**  
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Personal Information means information about an identifiable individual. Most Personal Information you provide, directly or indirectly, to Exponential Labs is provided for the purpose of displaying it on the Website and, as such, is Public Personal Information. Other Personal Information you may provide directly to us for purposes other than displaying it on the Website is Private Personal Information.
+Internal record keeping.  
+We may use the information to improve our products and services.  
+We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.  
+We may use the information to customize the website according to your interests.  
+We may provide your information to our third party partners for marketing or promotional purposes.  
+We will never sell your information.  
+**Security**  
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-When you provide Private Personal Information to us, we promise to hold your Private Personal Information confidential and to distribute that information only in accordance with this Privacy Policy.
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Public Personal Information includes Personal Information about you that you have published, or authorized to be published, on other websites, such as Google+TM , so that it has become available to us, and information you provide directly to us for purposes of publishing it on the Website.
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Exponential Labs’ Privacy Policy covers Exponential Labs’ management of Personal Information that Exponential Labs collects when you are on the Website, and when you use Exponential Labs’ services, and to Public Personal Information that Exponential Labs collects from third-party websites.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-This Privacy Policy does not apply to the practices of companies or other entities that Exponential Labs does not own or control, or to people that Exponential Labs does not employ or manage. Any Personal Information you supply, or authorize us, implicitly or explicitly, to supply to any third parties, is governed by the privacy policies of those third parties.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Exponential Labs collects Personal Information you provide when you register on the Website and use the Website, such as your name, email address, Website usage data, and similar information that you voluntarily provide to us via the Website. We may also collect Public Personal information, such as your name, gender, goals and relationship status that you make publicly available to us on third-party websites.
+**Links to other websites**  
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Exponential Labs collects your Personal Information to provide the services that we offer, including the publication of Public Personal Information on the Website. We may also use your Personal Information, if applicable, to verify your identity, to make payments for services, to provide our services or support for our services, to respond to your queries, or to provide you with further information regarding our services. 
+**Controlling your personal information**  
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-As a user of the Website, you acknowledge and agree that Exponential Labs may aggregate information about you and your use of the Website with similar information collected from users to enhance and optimize the services provided through the Website.
-
-Your general use of the Website may be included in an anonymized fashion in aggregate reports. The purpose of such aggregate reports is to better understand how the Website is used, for marketing and development purposes.
-
-Cookies are small text files used by your browser to store information. The purpose of cookies is to enhance your browsing experience by allowing us to tailor our Website and to facilitate the collection of Personal and non-Personal Information. You can configure your web browser to either refuse to accept any cookies, or prompt you before a cookie is placed on your computer. Refusal of cookies may, in some cases, prevent you from visiting certain sections of the Website, or from receiving personalized information when visiting the Website. Cookies cannot be used by Exponential Labs to retrieve any Personal Information about you unless you have previously registered with the Website. Exponential Labs does not and cannot use cookies to retrieve Personal Information about you from your computer unless such information was knowingly and willingly provided by you.
-
-When you are using the Website, Exponential Labs may, from time to time, display to you advertising and promotional content that it determines may be of interest to you based on information you have provided to Exponential Labs. However, we will not provide any of your Private Personal Information to any third party without your express consent.
-
-We will only retain your Personal Information as long as it continues to serve the purposes identified above.
-
-Upon your request, made via the Website, we will permanently delete all your Personal Information that we have collected. 
-
-The length of time we keep your Personal Information will vary depending on your use of our services and the nature of the Private Personal Information. When your information is no longer required for the purposes set out above, Exponential Labs will delete any Private Personal Information that could identify you. Exponential Labs may retain non-identifying information **** such as Website usage statistics.
-
-Your Private Personal Information will not be disclosed or shared with any third party unless:
-
-    * Exponential Labs obtains your express consent to share such information; 
-
-    * We are reasonably required to disclose the information to affiliates, subsidiaries, successors or service providers in order to provide our services; 
-
-    * Exponential Labs needs to share the information with entities (partners) who work on behalf of Exponential Labs to provide a product or service to you. Whenever we share your Private Personal Information with these partners, they work under confidentiality agreements and are subject to this Privacy Policy. Unless we expressly tell you differently, these partners do not have any right to use the Private Personal Information we provide to them beyond what is necessary to provide the services; 
-
-    * Exponential Labs is required by law, regulation, court order, warrant, subpoena, or other lawful request or demand by a governmental or law enforcement authority to disclose or share your Private Personal Information; 
-
-    * Exponential Labs, in its sole judgment, believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, fraud, fraudulent misrepresentation, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law; or 
-
-    * Exponential Labs finds that your actions on our Website violate your agreement with Exponential Labs, as defined in the Terms of Service, and disclosure is required to enforce our rights. 
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@80proofdigital.com
 
 
 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Exponential Labs limits access to your Private Personal Information and stores it securely. Exponential Labs employs physical, electronic, and procedural safeguards to protect our systems and all Private Personal Information under our control against unauthorized use and access. However, no method of transmitting or storing data is completely secure.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 30 Faywood Drive, Brampton, ON, L6Y4K3.
 
-In addition to the security mechanisms we use to protect your information, we have strict security standards and practices to protect our computer systems and your Private Personal Information from unauthorized use or access. Exponential Labs insists that its employees who have access to your Private Personal Information are made aware of how to keep it confidential. 
-
-Exponential Labs ensures that its employees understand that maintaining confidentiality is a condition of employment.
-
-Access to your Private Personal Information is only given to those who require it to provide services, or where permitted or required by law.
-
-Exponential Labs and its affiliates, and other third parties to whom we disclose information under this Privacy Policy, may perform activities such as data storage and processing in various countries. As a result, your Private Personal Information may be securely used, stored or accessed in such countries and may be subject to the laws of those countries. For example, information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries.
-
-If you have questions about this Privacy Policy or require additional information about our practices, please contact our Privacy Officer via the Contact page on the Website.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
