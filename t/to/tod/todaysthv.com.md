@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630111040id_/http%3A//static.thv11.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215328id_/http%3A//static.thv11.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | THV11
 
