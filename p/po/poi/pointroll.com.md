@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003419id_/http%3A//www.pointroll.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230144431id_/http%3A//www.pointroll.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - PointRoll
 
@@ -17,9 +17,9 @@ PointRoll participates in industry self-regulatory groups and adheres to guideli
 
 opt-out
 
-If you have any questions about this privacy notice or PointRoll’s privacy practices, please contact Linda Carducci, lcarducc at [gannett.com](http://gannett.com/), Online Privacy Coordinator, PointRoll, Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
+If you have any questions about this privacy notice or PointRoll’s privacy practices, please contact Linda Carducci, lcarducc at tegna.com, Online Privacy Coordinator, PointRoll, TEGNA Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
 
-**Your California Privacy Rights.** California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits PointRoll’s customers who are California residents to request and obtain from PointRoll once a year, free of charge, information about the Personal Information (if any) PointRoll disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that were shared and the names and addresses of all third parties with which PointRoll shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request, with information about where you saw the PointRoll Ad, in writing to: Linda Carducci, lcarducc at [gannett.com](http://gannett.com/), Online Privacy Coordinator, PointRoll, Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
+**Your California Privacy Rights.** California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits PointRoll’s customers who are California residents to request and obtain from PointRoll once a year, free of charge, information about the Personal Information (if any) PointRoll disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that were shared and the names and addresses of all third parties with which PointRoll shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request, with information about where you saw the PointRoll Ad, in writing to: Linda Carducci, lcarducc at tegna.com, Online Privacy Coordinator, PointRoll, TEGNA Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
 
 **What is Personal Information or Personally Identifiable Information (PI/PII)?** For purposes of this Privacy Notice, PointRoll considers Personal Information to be information that can be used to contact or identify a natural person. Examples of PI include, but are not limited to: name, email address, postal address, telephone number, social security number, and credit card number.
 
@@ -47,7 +47,7 @@ If you have subscribed to one or more of our email newsletters, you also may cha
 
 **Sharing and Disclosing Information.** PointRoll may share and disclose information that PointRoll collects to affiliates, service providers or Publishers for the purpose of providing services requested on the Site by a user, for purposes related to Site administration and other services, including sending promotional messages. PointRoll also may release information that PointRoll collects in order to comply with law, or to protect the rights, property or safety of advertisers, publishers, users, the public or PointRoll. Also, in the event that PointRoll sells some or all of its assets, reorganizes, is liquidated, is involved in a spin-off of ownership interest or is acquired by another company, information that PointRoll collects may be transferred in connection with that transaction.
 
-**Access and Correction.  **PointRoll will provide the ability for user to have reasonable access and the ability to correct inaccurate Personal Information in response to inquiries directed to: Linda Carducci, lcarducc at [gannett.com](http://gannett.com/), Online Privacy Coordinator, PointRoll, c/o Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107
+**Access and Correction.  **PointRoll will provide the ability for user to have reasonable access and the ability to correct inaccurate Personal Information in response to inquiries directed to: Linda Carducci, lcarducc at tegna.com, Online Privacy Coordinator, PointRoll, c/o TEGNA Law Department, 7950 Jones Branch Drive, McLean, VA 22107
 
 **Security.** The security of your information is very important to us. All information we gather on the Site is stored on secure servers and our internal systems. While we implement security measures to help safeguard your data,, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
@@ -119,9 +119,9 @@ Note, however, that certain opt-out functionality may require that third-party c
 **Questions/Concerns:**
 
 If you have any questions regarding PointRoll’s privacy policy, data security practices, information collection or uses, or have any concerns or disputes regarding your information, please contact:  
-Linda Carducci, lcarducc at [gannett.com](http://gannett.com/)
+Linda Carducci, lcarducc at tegna.com
 
 Online Privacy Coordinator, PointRoll  
-c/o Gannett Law Department  
+c/o TEGNA Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107.
