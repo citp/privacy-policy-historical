@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the punchbowl.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627001121id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the punchbowl.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230044258id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
   <title>Punchbowl.com</title>
@@ -10,14 +10,14 @@
   <link href="/favicon.ico" rel="shortcut icon">
 
   
-  <link rel="stylesheet" media="screen" href="http://assets1.punchbowl.com/assets/punchbowl-js/fabricss-66942569d25ab7edb0ed5e2aa781ef11.css">
-  <link rel="stylesheet" media="screen" href="http://assets0.punchbowl.com/assets/corporate/all-3691abaa8fe782561037b79104b8ac11.css"><link rel="stylesheet" media="screen" href="http://assets0.punchbowl.com/assets/paper-ea03a97bfcf5838580eb21ad4204b757.css">    <!--[if IE 8]><meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible" /><![endif]-->
+  <link rel="stylesheet" media="screen" href="http://assets0.punchbowl.com/assets/punchbowl-js/fabricss-f95db2d1c3abd28e0835da57afc3fc04.css">
+  <link rel="stylesheet" media="screen" href="http://assets3.punchbowl.com/assets/corporate/all-6062627daf06f2525160c37971156e00.css"><link rel="stylesheet" media="screen" href="http://assets1.punchbowl.com/assets/paper-3b675d01c7f13f9bf7d3e3323668515e.css">    <!--[if IE 8]><meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible" /><![endif]-->
 
   <!--[if lte IE 9]>
-    <script src="http://assets2.punchbowl.com/assets/old_ie-9f0f202aab6142d8bcabc931686147f0.js"></script>
+    <script src="http://assets3.punchbowl.com/assets/old_ie-2483253d7eab9400b494c77dccd2dd6f.js"></script>
   <![endif]-->
       
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WMRTQ5"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/eb2b8f36695da0450eef8abc9522938c5e34ef77.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://assets0.punchbowl.com/assets/application-45e3cb0edfd6b59bff020623061ed15f.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WMRTQ5"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/eb2b8f36695da0450eef8abc9522938c5e34ef77.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://assets0.punchbowl.com/assets/application-f35ef879efd8c0b854ec699596c6b7ae.js"></script>
 
         <script>
 //<![CDATA[
@@ -39,6 +39,24 @@ if (typeof Prototype != 'undefined') { $j = jQuery.noConflict(); } else { $j = j
   })();
   PBS.Ads = {
     titles: [],
+    slots: {},
+    defineSlot: function (name, width, height) {
+      if(!PBS.Ads.slotExists(name)) {
+        googletag.cmd.push(function() {
+          PBS.Ads.slots[name] = googletag.defineSlot('/1102819/' + name, [ width, height ], name).addService(googletag.pubads());
+          PBS.Ads.addTitle(name);
+        });
+      }
+    },
+    slotExists: function(name) {
+      if (googletag.apiReady == true) {
+        return _.contains(googletag.pubads().getSlots(), function(slot) {
+          return slot.getSlotElementId() == name;
+        });
+      } else {
+        return false;
+      }
+    },
     winW: function() {
       return $j( window ).width();
     },
@@ -107,7 +125,7 @@ if (typeof Prototype != 'undefined') { $j = jQuery.noConflict(); } else { $j = j
     },
     currentAdSlots: function(){
       return _.map(this.titles, function(t){
-        return eval('window.' + t)
+        return PBS.Ads.slots[t];
       })
     },
     hideAd: function( s ) {
@@ -138,7 +156,8 @@ if (typeof Prototype != 'undefined') { $j = jQuery.noConflict(); } else { $j = j
       });
     }
   }
-</script>            <script type="text/javascript">var _kmq = _kmq || [];
+</script>
+            <script type="text/javascript">var _kmq = _kmq || [];
 var _kmk = _kmk || 'eb2b8f36695da0450eef8abc9522938c5e34ef77';
 function _kms(u){
   setTimeout(function(){
@@ -189,24 +208,23 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
   
 </script>
 
-  <!--[if lte IE 7]>
-<script type="text/javascript">
+  <script type="text/javascript">
   $(function() {
-    PBS.Widgets.OldIEFloater.init();
+    PBS.Widgets.OldBrowserFloater.init();
   });
 </script>
-<![endif]-->
+
 
     
   <div id="global_leaderboard">
     <div id="Global_leaderboard" style="width: 728px; height: 90px"><script>
 //<![CDATA[
-if( PBS.user.showAds() ) { googletag.cmd.push(function() {Global_leaderboard = googletag.defineSlot('/1102819/Global_leaderboard', [728, 90], 'Global_leaderboard').addService(googletag.pubads());});PBS.Ads.addTitle('Global_leaderboard'); }
+if( PBS.user.showAds() ) { PBS.Ads.defineSlot('Global_leaderboard', 728, 90) }
 //]]>
 </script></div>
 <div id="Global_leaderboard_mobile" style="width: 320px; height: 50px"><script>
 //<![CDATA[
-if( PBS.user.showAds() ) { googletag.cmd.push(function() {Global_leaderboard_mobile = googletag.defineSlot('/1102819/Global_leaderboard_mobile', [320, 50], 'Global_leaderboard_mobile').addService(googletag.pubads());});PBS.Ads.addTitle('Global_leaderboard_mobile'); }
+if( PBS.user.showAds() ) { PBS.Ads.defineSlot('Global_leaderboard_mobile', 320, 50) }
 //]]>
 </script></div>
 <script>
@@ -234,7 +252,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
   </li>
 
   <li class="cards">
-    <a title="Free eCards" href="http://www.punchbowl.com/ecards">Greeting Cards</a>
+    <a title="Free eCards" href="http://www.punchbowl.com/ecards">Digital Cards</a>
   </li>
 
   <li class="shopping">
@@ -264,7 +282,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
 
     <ul class="dropdown-menu pull-right" role="menu" aria-labelledby="dropdownMenu">
       <li><a href="http://www.punchbowl.com/dashboard">My Invitations  <i class="icon-angle-right"></i></a></li>
-      <li><a href="http://www.punchbowl.com/ecards/dashboard">My Greeting Cards  <i class="icon-angle-right"></i></a></li>
+      <li><a href="http://www.punchbowl.com/ecards/dashboard">My Digital Cards  <i class="icon-angle-right"></i></a></li>
       <li class="divider"></li>
       <li><a href="http://www.punchbowl.com/account">Account Settings <i class="icon-angle-right"></i></a></li>
       <li><a href="http://www.punchbowl.com/address_book">Address Book  <i class="icon-angle-right"></i></a></li>
@@ -380,7 +398,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
   <h1>Privacy Policy</h1>
 </header>
 
-<p class="effective"><strong>This policy is effective as of August 5, 2010.</strong></p>
+<p class="effective"><strong>This policy is effective as of November 12, 2015.</strong></p>
 
 <section class="text">
   <p><em>Punchbowl, Inc.</em> is committed to protecting your privacy and providing you the most powerful and safe online experience. This publication intends to help you understand how personal information you provide to <em>Punchbowl, Inc.</em> is collected and used, so you can make informed decisions when using the website located at http://www.punchbowl.com ("<span class="punchbowl">Punchbowl</span>").</p>
@@ -389,13 +407,13 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
 
   <p>If you have any questions regarding this Privacy Policy, please contact: <a href="mailto:privacy@punchbowl.com">privacy@punchbowl.com</a>.</p>
 
-  <h2>Collection of your Personal Information</h2>
+  <h2>Collection of Your Personal Information</h2>
 
   <p>In order to become a <span class="punchbowl">Punchbowl</span> member you must first register for our service. During this registration process you are required to provide personally identifiable information, such as your e-mail address and name. Once you are a member you may provide additional information for your member profile such as home address, zip code, date of birth, gender, preferences, interests and favorites. Providing additional information beyond what is required at registration is optional, but will allow you to better identify yourself and find services at <span class="punchbowl">Punchbowl</span>.</p>
 
   <p><em>Punchbowl, Inc.</em> does not solicit, or knowingly collect and store personal information from anyone under the age of 13. <em>Punchbowl, Inc.</em> will immediately remove and delete any and all information from anyone under 13 if notification is provided that a person under 13 registered at <span class="punchbowl">Punchbowl</span>. If you have a reason to believe information was collected about a child under 13, please contact <a href="mailto:privacy@punchbowl.com">privacy@punchbowl.com</a>.</p>
 
-  <p>There is also information about your computer hardware and software that is automatically collected by <em>Punchbowl, Inc.</em>. This information can include: your IP address, browser type, domain names, access times, pages visited, features used and referring Web site addresses. This information is used by <em>Punchbowl, Inc.</em> for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of <span class="punchbowl">Punchbowl</span>.</p>
+  <p>There is also information about your computer hardware and software that is automatically collected by <em>Punchbowl, Inc.</em> This information can include: your IP address, browser type, domain names, access times, pages visited, features used and referring Web site addresses. This information is used by <em>Punchbowl, Inc.</em> for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of <span class="punchbowl">Punchbowl</span>.</p>
 
   <p>In order to invite others to view your <span class="punchbowl">Punchbowl</span> page, you must provide <em>Punchbowl, Inc.</em> with their email addresses. In order to send messages to your guests through <span class="punchbowl">Punchbowl</span>, we require that you submit to <span class="punchbowl">Punchbowl</span> current, valid email addresses for your guests. When you send messages to your guests, we collect and retain the email addresses or other pertinent contact information of those persons to whom you send the message. Even though we retain contact information about your guests, <em>Punchbowl, Inc.</em> will not use these email addresses to send promotional communications, newsletters, or service announcements without your explicit permission, nor will we intentionally sell or otherwise disclose guest contact information that you submit to any third party. If a guest chooses to register with <span class="punchbowl">Punchbowl</span>, that individual will be considered a <span class="punchbowl">Punchbowl</span> member and may receive promotional communications, newsletters, and service announcements from <em>Punchbowl, Inc.</em> according to the terms and conditions of this privacy policy.</p>
 
@@ -403,7 +421,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
 
   <p><em>Punchbowl, Inc.</em> encourages you to review the privacy statements of Web sites you choose to link to from <span class="punchbowl">Punchbowl</span> so that you can understand how those Web sites collect, use and share your information. <em>Punchbowl, Inc.</em> is not responsible for the privacy statements or other content on Web sites outside of the <span class="punchbowl">Punchbowl</span> and <em>Punchbowl, Inc.</em> family of Web sites.</p>
 
-  <h2>Use of your Personal Information</h2>
+  <h2>Use of Your Personal Information</h2>
 
   <p><em>Punchbowl, Inc.</em> collects and uses your personal information to operate <span class="punchbowl">Punchbowl</span> and deliver the services you have requested. When you register with <span class="punchbowl">Punchbowl</span>, you are automatically enrolled in our monthly newsletter. This newsletter has information about upcoming holidays, new features, and useful tips about using the website. If you do not wish to receive the monthly newsletter, simply unsubscribe the first time you receive the newsletter. You can quickly and easily unsubscribe by clicking the "Unsubscribe" links in the newsletter. When you unsubscribe, you will no longer receive the monthly newsletter. However, you will continue to receive emails that are related to your usage of the <span class="punchbowl">Punchbowl</span> website. <em>Punchbowl, Inc.</em> also uses your personally identifiable information to inform you of other products or services available from <em>Punchbowl, Inc.</em> and its affiliates. <em>Punchbowl, Inc.</em> may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. <em>Punchbowl, Inc.</em> will communicate with you through emails and messages posted on <span class="punchbowl">Punchbowl</span>.</p>
 
@@ -415,7 +433,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
 
   <p><em>Punchbowl, Inc.</em> will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on <em>Punchbowl, Inc.</em> or the site; (b) protect and defend the rights or property of <em>Punchbowl, Inc.</em>; and, (c) act under exigent circumstances to protect the personal safety of users of <em>Punchbowl, Inc.</em>, or the public.</p>
 
-  <p>Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
+  <p>Notwithstanding any other provision, we may allow third parties to monitor Site activity using cookies, web beacons and similar technologies for the purpose of reporting website traffic, statistics, targeted advertisements, “click-throughs” and/or other activities. We may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system) through cookies that contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. This information is used to help select and display targeted advertisements that are believed to be of interest to you (sometimes called "online behavioral advertising" or "interest-based advertising" or "OBA"). If you would like to "opt-out" of being served OBA on the Website by our third-party advertising companies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
 
   <h2>Use of Cookies</h2>
 
@@ -423,7 +441,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
 
   <p>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, when you register with <span class="punchbowl">Punchbowl</span>, a cookie helps <em>Punchbowl, Inc.</em> to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to <span class="punchbowl">Punchbowl</span>, the information you previously provided can be retrieved. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the features of the <span class="punchbowl">Punchbowl</span> services.</p>
 
-  <h2>Security of your Personal Information</h2>
+  <h2>Security of Your Personal Information</h2>
 
   <p><em>Punchbowl, Inc.</em> secures your personal information from unauthorized access, use or disclosure. <em>Punchbowl, Inc.</em> secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
 
@@ -453,7 +471,11 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
         <a target="_blank" href="http://www.facebook.com/Punchbowl"><i class="icon-facebook-sign"></i></a>
         <a target="_blank" href="http://twitter.com/punchbowl"><i class="icon-twitter-sign"></i></a>
         <a target="_blank" href="http://pinterest.com/punchbowl"><i class="icon-pinterest-sign"></i></a>
-        <a href="https://itunes.apple.com/us/app/punchbowl/id628215241?mt=8&amp;uo=6&amp;at=&amp;ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg);}"></a>
+        <span class="mobile-badges-footer">
+          <a href="https://itunes.apple.com/us/app/punchbowl/id628215241?mt=8&amp;uo=6&amp;at=&amp;ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg);}"></a>
+                <a href="https://play.google.com/store/apps/details?id=com.punchbowl.mobile" target="google_play" style="display:inline-block;overflow:hidden;background:url(http://assets0.punchbowl.com/assets/google_play_normal_badge-a7374b3394bb6a60d626ed98230ba691.png) no-repeat;width:135px;height:40px;"></a>
+
+        </span>
       </div>
 
       <ul class="footer-grid">
@@ -513,7 +535,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
   trademarks of their respective holders.
 </div>
 
-          <div class="footer_additional_copyright"></div>
+          <div class="footer_additional_copyright">Super Bowl® is a registered trademark of National Football League. National Football League is not affiliated with and does not endorse Punchbowl.</div>
 
         <div class="footer_additional_copyright">*Amazon.com Gift Cards ("GCs") sold by Punchbowl, Inc., an authorized and independent reseller of Amazon.com Gift Cards. Except as required by law, GCs cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods on Amazon.com or certain of its affiliated websites. For complete terms and conditions, see <a target="_blank" href="http://www.amazon.com/gc-legal">http://www.amazon.com/gc-legal</a>. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. ©, ®, ™ Amazon.com Inc. and/or its affiliates, 2015.<p>Punchbowl, Inc. is not affiliated with The Home Depot®. The Home Depot® is not a sponsor of this promotion. The Home Depot® is a registered trademark of Homer TLC, Inc.</p><p class="sheknows-branding">SheKnows Media - Family</p></div>
       </div>
@@ -538,7 +560,7 @@ if (PBS.user.hideAds()) { $j('#global_leaderboard').hide(); }
   trademarks of their respective holders.
 </div>
 
-    <div class="footer_additional_copyright"></div>
+    <div class="footer_additional_copyright">Super Bowl® is a registered trademark of National Football League. National Football League is not affiliated with and does not endorse Punchbowl.</div>
 
   <div class="footer_additional_copyright">*Amazon.com Gift Cards ("GCs") sold by Punchbowl, Inc., an authorized and independent reseller of Amazon.com Gift Cards. Except as required by law, GCs cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods on Amazon.com or certain of its affiliated websites. For complete terms and conditions, see <a target="_blank" href="http://www.amazon.com/gc-legal">http://www.amazon.com/gc-legal</a>. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. ©, ®, ™ Amazon.com Inc. and/or its affiliates, 2015.<p>Punchbowl, Inc. is not affiliated with The Home Depot®. The Home Depot® is not a sponsor of this promotion. The Home Depot® is a registered trademark of Homer TLC, Inc.</p><p class="sheknows-branding">SheKnows Media - Family</p></div>
 </nav>
@@ -561,7 +583,8 @@ window.dataLayer = window.dataLayer || []
 dataLayer.push({
   'googleAnalyticsID': 'UA-529396-1',
   'ad_category':       '',
-  'segment_category':  'GENERAL'
+  'segment_category':  'GENERAL',
+  'data_keywords':     'GENERAL'
 });
 </script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WMRTQ5"
