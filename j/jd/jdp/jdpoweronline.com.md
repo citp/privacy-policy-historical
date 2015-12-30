@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jdpoweronline.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529191921id_/http%3A//www.jdpower.com/footer/privacy-and-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpoweronline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/privacy) for the most accurate reproduction.*
 
-# Footer I Privacy and Cookie Notices | J.D. Power
+# J.D. Power Privacy and Cookie Notice
 
-**English   |  [简体中文](https://web.archive.org/node/18006)  |  [Français](https://web.archive.org/node/17996)  |  [Deutsch](https://web.archive.org/node/17991)  |  [Português](https://web.archive.org/node/18001)  |  [Español](https://web.archive.org/node/17986)  |  [Italiano](https://web.archive.org/web/20150529191921id_/http://www.jdpower.com/node/17106)** **[  ](https://web.archive.org/web/20150529191921id_/http://www.jdpower.com/node/17106)****|   [日本語](https://web.archive.org/node/6126)**[ ****](https://web.archive.org/node/6126)
+**English   |  [简体中文](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/Default_ZH.htm)  |  [Français](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/Default_FR.htm)  |  [Deutsch](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/Default_DE.htm)  |  [Português](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/Default_PT.htm)  |  [Español](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/Default_ES.htm)  |  [日本語](https://web.archive.org/web/20151230231321id_/http%3A//jdpoweronline.com/Default_JA.htm)**
 
 At J.D. Power and Associates ("JDPA"), we conduct market research across a variety of industries to understand the Voice of the Customer.
 
@@ -54,12 +54,12 @@ In connection with these legitimate business purposes, your PII may potentially 
 
 If you want to limit use of your PII for marketing purposes, write to us at: [jdpowerprivacy@jdpa.com](mailto:jdpowerprivacy@jdpa.com), or:
 
- Privacy Official  
+  Privacy Official  
 J.D. Power and Associates  
 2625 Townsgate Road, Suite 100  
 Westlake Village, CA 91361
 
- J.D. Power will only use your PII as stated in this Notice, and will not share your PII for marketing purposes. No one will try to sell you anything based on your answers to our market research surveys.
+  J.D. Power will only use your PII as stated in this Notice, and will not share your PII for marketing purposes. No one will try to sell you anything based on your answers to our market research surveys.
 
 ### SECURITY
 
