@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsglassrunning.blogspot.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324104207id_/http%3A//mrsglassrunning.blogspot.com/p/privacy-policy_8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsglassrunning.blogspot.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230052107id_/http%3A//mrsglassrunning.blogspot.com/p/privacy-policy_8.html) for the most accurate reproduction.*
 
 # Will Run For Ice Cream: Privacy / Disclosure Policy
 
@@ -35,10 +35,13 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-Paid Advertising  
-Paid Advertising  
+**Paid Advertising**  
 I may generate ad income or accept ads and links on this blog.  
   
+**Affiliate Links  **
+
+Some of the links on this blog are “affiliate links.” This means if you click on the link and purchase the item, I will receive an affiliate commission. Regardless, I only recommend products or services I use personally and believe will add value to my readers. 
+
 Disclosure Policy   
 This policy is valid from 25 November 2014  
   
