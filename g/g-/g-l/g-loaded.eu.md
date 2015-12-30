@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615130130id_/http%3A//www.g-loaded.eu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230161113id_/http%3A//www.g-loaded.eu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | G-Loaded Journal
 
