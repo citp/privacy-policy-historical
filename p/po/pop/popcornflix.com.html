@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the popcornflix.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630014823id_/http%3A//www.popcornflix.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popcornflix.com privacy policy that was archived on 2015-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230225402id_/http%3A//www.popcornflix.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- <![endif]--><head>
     <meta charset="utf-8">
@@ -8,24 +8,74 @@
     <title>
         Popcornflix | Watch Free Movies Online
     </title>
-    <meta name="viewport" content="width = 828">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="apple-itunes-app" content="app-id=493605531">
     <meta name="google-play-app" content="app-id=com.curiousbrain.popcornflix">
     <!--<link rel='shortcut icon' href='favicon.ico'>-->
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" media="all" rel="stylesheet">
-    <link href="/css/style.css" media="all" rel="stylesheet">
-
+    <!--<link href="/css/style.css" media="all" rel="stylesheet">
+-->
     <link rel="stylesheet" href="/css/jquery.smartbanner.css" type="text/css">
+    <link rel="stylesheet" href="/css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/style-new.css" type="text/css">
+    <link rel="stylesheet" href="/css/slick.css" type="text/css">
+    <style>
+        .no-js #loader { display: none;  }
+        .js #loader { display: block; position: absolute; left: 100px; top: 0; }
+        .se-pre-con {
+            display: none;
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: #fff;
+        }
+        .loading-indicator{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-left: -37.5px;
+            margin-top: -37.5px;
+            height: 75px;
+            width: 75px;
+            box-shadow: ;
+            border-radius: 50%;
+            box-sizing: border-box;
+            border: 10px solid #E3460A;
+            border-left-color: #2C92D1;
+            border-right-color: #2C92D1;
+            -webkit-animation: loading-rotate 1s linear infinite;
+            animation: loading-rotate 1s linear infinite;
+        }
+        .popcornflix-logo {
+            position: absolute;
+            width: 192px;
+            height: 23px;
+            left: 50%;
+            top: 5%;
+            margin-left: -96px;
+            background: url('../images/logo-new.png') no-repeat center;
+        }
+        @-webkit-keyframes loading-rotate {
+            from {transform:rotate(0deg);}
+            to {transform:rotate(360deg);}
+        }
+        @keyframes loading-rotate {
+            from {transform:rotate(0deg);}
+            to {transform:rotate(360deg);}
+        }
+    </style>
     <!--[if lt IE 9]>
     <script src="js/ie9.js"></script>
     <![endif]-->
-    <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script src="http://cdn.jquerytools.org/1.2.6/full/jquery.tools.min.js"></script>
-    <script type="text/javascript">
-        window.jQuery || document.write("<script src='js/jquery.min.js'>\x3C/script>")
-    </script><script src="js/jquery.min.js"></script>
+    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+
+    <script src="/js/jquery.mobile.custom/jquery.mobile.custom.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="/js/slick-1.5.7/slick/slick.min.js"></script>
     <script src="/js/jquery.smartbanner.js" type="text/javascript"></script>
-    <script src="/js/script.js"></script>
+    <script src="/js/script.redesign.js"></script>
 
     <script type="text/javascript">
         var googletag = googletag || {},
@@ -42,17 +92,51 @@
         })();
     </script>
     <script type="text/javascript">
+
   googletag.cmd.push(function() {
-    googletag.defineSlot('/95113988/Website/Popcornflix/Browse/160x600', [160, 600], 'banner-1').addService(googletag.pubads());
-    googletag.defineSlot('/95113988/Website/Popcornflix/Browse/728x90', [728, 90], 'banner-0').addService(googletag.pubads());
+      var mapping = googletag.sizeMapping()
+          .addSize([768, 690], [160, 600])
+          .addSize([0, 0], [300, 250])
+          .build();
+      var mapping2 = googletag.sizeMapping()
+          .addSize([768, 690], [728, 90])
+          .addSize([0, 0], [300, 250])
+          .build();
+      
+      
+        
+          googletag
+              .defineSlot('/95113988/Website/Popcornflix/Browse/160x600', [[300, 250], [160, 600]], 'banner-1')
+              .defineSizeMapping(mapping)
+              .addService(googletag.pubads());
+            
+            
+        
+          googletag
+              .defineSlot('/95113988/Website/Popcornflix/Browse/728x90', [[300, 250], [728, 90]], 'banner-0')
+              .defineSizeMapping(mapping2)
+              .addService(googletag.pubads());
+            
+            
     
       
       
-      googletag.defineSlot('/95113988/Website/Popcornflix/Browse/BrowseLowerSkyscraper160x600', [160, 600], 'div-gpt-ad-1406129658782-0').addService(googletag.pubads());
-      googletag.defineSlot('/95113988/Website/Popcornflix/Browse/BrowseFooter728x90', [728, 90], 'div-gpt-ad-1406129482183-0').addService(googletag.pubads());
+      googletag
+          .defineSlot('/95113988/Website/Popcornflix/Browse/BrowseLowerSkyscraper160x600', [[160, 600], [300, 250]], 'div-gpt-ad-1406129658782-0')
+          .defineSizeMapping(mapping)
+          .addService(googletag.pubads());
+      googletag
+          .defineSlot('/95113988/Website/Popcornflix/Browse/BrowseFooter728x90', [[300, 250], [728, 90]], 'div-gpt-ad-1406129482183-0')
+          .defineSizeMapping(mapping2)
+          .addService(googletag.pubads());
+      googletag
+          .defineSlot('/95113988/Website/Popcornflix/Browse/728x90', [[300, 250], [728, 90]], 'div-gpt-ad-1446031673552-0')
+          .defineSizeMapping(mapping2)
+          .addService(googletag.pubads());
+
       
     
-    googletag.pubads().enableSingleRequest();
+//    googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
 </script>
@@ -107,405 +191,433 @@
     </script>
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1516990158577495&amp;ev=PixelInitialized" /></noscript>
     
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
 </head>
 
 <body data-label="default">
-<div id="wrapper">
-    <header>
-        <div class="inner">
-            <a class="logo" href="/"><img src="/images/logo.png" alt="popcornflix.com"></a>
+<div class="wrap " style="opacity: 1">
 
-            <div class="b-search">
-                <form action="/search" id="form-search">
-                    <input class="btn-search" type="button"><input class="input-text" type="text" name="query" placeholder="Search">
-                </form>
-            </div>
-            <div class="b-menu">
-                <a href="#">Menu</a>
-<div class="sub-menu">
-	<div class="inner">
-		<ul>
-			<li>
-				<h2>
-					<a href="/">Home</a>
-				</h2>
-				<ul>
-					<li>
-						<a href="/New%20Arrivals-movies">New Arrivals</a>
-					</li>
-					<li>
-						<a href="/most-popular-movies">Most Popular</a>
-					</li>
-					<li>
-						<a href="mailto:info@popcornflix.com" target="_blank">Contact Us</a>
-					</li>
-					<li>
-						<a href="/about.html">About</a>
-					</li>
-					<li>
-						<a href="/terms-service.html">Terms of Service</a>
-					</li>
-					<li>
-						<a href="/privacy.html">Privacy Policy</a>
-					</li>
-					<li>
-						<a href="http://popcornflix.us2.list-manage.com/subscribe?u=eeeb415ed6b6a78d4c31fa802&amp;id=fa309ed24f" target="_blank">Join our Mailing List</a>
-					</li>
-					<li>
-						<a href="/devices.html">Supported Devices</a>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<h2>
-					Genres
-				</h2>
-				
-					<ul>
-					
-						
-						<li>
-							<a href="/tv-shows-and-series">TV Series</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Critically%20Acclaimed-movies">Critically Acclaimed</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Extreme%20Sports-movies">Extreme Sports</a>
-						</li>
-					
-						
-						<li>
-							<a href="/NAT%20GEO%20%2F%20NAT%20GEO%20WILD-movies">NAT GEO / NAT GEO WILD</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Foreign%20Films-movies">Foreign Films</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Bros%20Movies-movies">Bros Movies</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Action-movies">Action</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Comedy-movies">Comedy</a>
-						</li>
-					
-						</ul><ul>
-						<li>
-							<a href="/Family%2FKids-movies">Family/Kids</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Kids%20Shows-movies">Kids Shows</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Romance-movies">Romance</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Horror-movies">Horror</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Thriller-movies">Thriller</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Documentaries-movies">Documentaries</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Drama-movies">Drama</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Before%20They%20Were%20Famous-movies">Before They Were Famous</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Urban-movies">Urban</a>
-						</li>
-					
-						</ul><ul>
-						<li>
-							<a href="/Sci-Fi%2FMystery-movies">Sci-Fi/Mystery</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Wild%20West-movies">Wild West</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Troma-movies">Troma</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Rockstars-movies">Rockstars</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Espanol-movies">Espanol</a>
-						</li>
-					
-						
-						<li>
-							<a href="/Trailers-movies">Trailers</a>
-						</li>
-					
-					</ul>
-				
-			</li>
-		</ul>
-		<div class="copyright">
-			© 2010 Popcornflix™ is a trademark of Screen Media Ventures, LLC. All Rights Reserved.
-		</div>
-	</div>
+    <nav class="navbar navbar-default navbar-fixed-top" data-clicked="true">
+        <div class="navbar-header">
+    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand center-block" href="/">
+        <img src="/images/logo-new.png" max-width="100%" height="19px" alt="popcornflix.com">
+    </a>
 </div>
-            </div>
+<div id="navbar" class="navbar-collapse collapse" aria-expanded="false">
+    <ul class="nav navbar-nav">
+        <li>
+            <a class="hidden-md hidden-lg" href="/">Home</a>
+        </li>
+        <li>
+            <a href="/tv-shows-and-series">TV</a>
+        </li>
+        <li class="dropdown movies">
+            <a role="button" aria-haspopup="true" href="/all-movies">Movies</a>
+            <ul class="dropdown-menu">
+                <li class="menu-item">
+                    <h2 class="sub-title">
+                        <span>Genres</span>
+                    </h2>
+                    
+                    <ul>
+                        
+                        <li>
+                            <a href="/Action-movies">Action</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Comedy-movies">Comedy</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Horror-movies">Horror</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Drama-movies">Drama</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Documentaries-movies">Documentaries</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Romance-movies">Romance</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Family-movies">Family</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Foreign%20Films-movies">Foreign Films</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/Nostalgia-movies">Nostalgia</a>
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                <li class="menu-item">
+                    <h2 class="sub-title">
+                        <span>Staff Picks</span>
+                    </h2>
+                    
+                    <ul>
+                        
+                        
+                                <li>
+                                    <a href="/all-movies">All movies</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/New%20Arrivals-movies">New Arrivals</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/most-popular-movies">Most Popular</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Happy%20Holidays%21-movies">Happy Holidays!</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/tv-shows-and-series">TV Series</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Critically%20Acclaimed-movies">Critically Acclaimed</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/NAT%20GEO%20%2F%20NAT%20GEO%20WILD-movies">NAT GEO / NAT GEO WILD</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Lloyd%20Kaufman%20Presents-movies">Lloyd Kaufman Presents</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Kids%20Shows-movies">Kids Shows</a>
+                                </li>
+                                
+                        
+                            </ul>
+                            <ul>
+                                
+                                <li>
+                                    <a href="/Family%2FKids-movies">Family/Kids</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Thriller-movies">Thriller</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Bros%20Movies-movies">Bros Movies</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Sci-Fi%2FMystery-movies">Sci-Fi/Mystery</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Troma-movies">Troma</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Wild%20West-movies">Wild West</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Rockstars-movies">Rockstars</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Extreme%20Sports-movies">Extreme Sports</a>
+                                </li>
+                                
+                        
+                                <li>
+                                    <a href="/Espanol-movies">Espanol</a>
+                                </li>
+                                
+                            </ul>
+                    
+                </li>
+            </ul>
+        </li>
+
+        <li class="dropdown about hidden-md hidden-lg">
+            <a role="button" aria-haspopup="true" href="/about.html">About</a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="mailto:info@popcornflix.com" target="_blank">Contact Us</a>
+                </li>
+                <li>
+                    <a href="/about.html">About</a>
+                </li>
+                <li>
+                    <a href="/terms-service.html">Terms of Service</a>
+                </li>
+                <li>
+                    <a href="/privacy.html">Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="http://popcornflix.us2.list-manage.com/subscribe?u=eeeb415ed6b6a78d4c31fa802&amp;id=fa309ed24f" target="_blank">Join our Mailing List</a>
+                </li>
+                <li>
+                    <a href="/devices.html">Supported Devices</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<ul class="nav navbar-nav navbar-right">
+    <li class="b-search hidden-xs">
+        <form action="/search" id="form-search">
+            <input class="input-text" type="text" name="query" placeholder="Search free tv &amp; movies...">
+            <input class="btn-search" type="submit" value="">
+        </form>
+    </li>
+</ul>
+
+    </nav>
+    <div id="content">
+        
+        
+        
+        <div class="banner-x" id="banner-0">
+            <!-- Website/Popcornflix/Featured -->
+            <script type="text/javascript">
+                googletag.cmd.push(function () {
+                    googletag.display('banner-0');
+                });
+            </script>
         </div>
-    </header>
-    
-    <div class="banner" id="banner-0">
-        <!-- Website/Popcornflix/Featured -->
-        <script type="text/javascript">
-            googletag.cmd.push(function () {
-                googletag.display('banner-0');
-            });
-        </script>
-    </div>
-    <div id="main" class="">
-        <aside class="rightside">
-            <h3>
-                Follow us!
-            </h3>
-
-
-            <ul class="b-socials">
-                <li>
+        
+        <div id="main" class="custom-row ">
+            
+                
+                    <!--Website/Popcornflix/Featured-->
+                    <div class="visible-margin hidden-xs">
+                        <div class="banner-y" id="banner-1">
+                            <script type="text/javascript">
+                                googletag.cmd.push(function () {
+                                    googletag.display('banner-1');
+                                });
+                            </script>
+                        </div>
+                    </div>
+                
+                
                     
-                    <a target="_blank" href="https://www.facebook.com/Popcornflix?ref=br_tf"><img src="/images/socials/fb.png" alt="facebook"></a>
+                     <!--Website/Popcornflix/Browse/BrowseLowerSkyscraper160x600 -->
+                    <div class="visible-margin hidden-xs">
+                        <div class="banner-y" id="div-gpt-ad-1406129658782-0">
+                            <script type="text/javascript">
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406129658782-0'); });
+                            </script>
+                        </div>
+                    </div>
                     
-                    
-                    
-                    
-                </li>
-                <li>
-                </li><li>
-                    
-                    <a target="_blank" href="https://twitter.com/Popcornflixnews"><img src="/images/socials/tw.png" alt="twitter"></a>
-                    
-                    
-                    
-                    
-                </li>
+                
+            
+            <!--<div class="banner-x">-->
+    <!--<div id="" style='width:728px; height:90; margin: 0 auto;'>-->
+        <!--<script type='text/javascript'>-->
+            <!--googletag.cmd.push(function () {-->
+                <!--googletag.display('');-->
+            <!--});-->
+        <!--</script>-->
+    <!--</div>-->
+<!--</div>-->
+<div class="row-for-static">
+  <div class="col-md-11 col-lg-10 col-md-push-1 col-lg-push-2">
+    <h1>
+      Popcornflix Privacy Policy
+    </h1>
+    <article>
+      <p>
+        Welcome to the Popcornflix online service (the "Service") operated by Popcornflix, LLC. ("Popcornflix"). Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share your personal information. Because the Service is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Service, you explicitly consent to the collection and use of your personal information as outlined in this Privacy Policy. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us. When you use the Service, you also consent to our Terms of Service.
+      </p>
+      <h3>
+        Opting Out Of Future Communications; Updating And Deleting Your Information
+      </h3>
+      <p>
+        If you have questions or concerns regarding this Privacy Policy, please feel free to contact us. or by writing to us at:
+      </p>
+      <p>
+        Popcornflix, LLC.<br>757 Third Avenue<br>New York, NY 10017<br>Attn: Customer Service<br>Info@popcornflix.com<br>fax 212 308 1791
+      </p>
+      <h3>
+        Information We Automatically Collect
+      </h3>
+      <p>
+        We automatically collect certain non-personal information to help us understand how our users use the Service (which we will refer to in this Privacy Policy collectively as "Usage Data"). For example, each time you use the Service we may collect your IP address and other information about your Internet connectivity. In addition, we use a technology called "cookies." A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our Service and make the Service easier to use. We do this by storing information (for example, settings preferences) about a particular user session in cookies in order to provide you with a seamless experience during a particular session. Certain of our Service Providers (defined below) may use cookies in connection with the services they perform on our behalf. If you choose to do so, you can configure your browser to delete existing cookies or disable cookies altogether. However, certain features of the Service may not work if you delete or disable cookies. We may contract with companies or persons to provide certain services including data management, promotional and advertising services, etc. ("Service Providers"). We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to abide by our privacy policy with respect to Usage Data or other data we share with them. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+      </p>
+      <h3>
+        Other Authorized Disclosures
+      </h3>
+      <p>
+        Notwithstanding anything in this Privacy Policy to the contrary, you understand and agree that Popcornflix may access, preserve, and disclose any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) to protect the rights and property of Popcornflix, its affiliates, or the public; (3) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with Popcornflix (in which case we will require such entities to honor this Privacy Policy); and (5) if Popcornflix is acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this Privacy Policy). In addition, Popcornflix may forward any counter notification that you submit pursuant to Popcornflix's Terms of Service, and any related communications, to third parties.
+      </p>
+      <h3>
+        Public Areas
+      </h3>
+      <p>
+        Your use of areas of the Service that are intended for interaction with other users may reveal your user name and may allow you to publish certain personal information about you. By choosing to use these areas, you understand and agree that anyone with access to those areas may access and forward any information about you that is contained in or that you post to those areas. As with any social networking service, you should use care when disclosing your personal information to strangers.
+      </p>
+      <h3>
+        Third-Party Web Sites
+      </h3>
+      <p>
+        The Service may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. Similarly, the Service may be accessed and used from third-party Websites that we do not control. Although our collection and use of information in connection with your use of the Service from such third-party Web sites will be governed by this Privacy Policy, we have no control over the privacy policies of such third-party Web sites and you access such third-party Web sites at your own risk.
+      </p>
+      <h3>
+        Security
+      </h3>
+      <p>
+        We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. We also require our Service Providers to implement and maintain reasonable security procedures and practices appropriate to the nature of the information we share with them. No data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Service, and you do so at your own risk. If you have any questions regarding which measures and techniques we use, feel free to contact us.
+      </p>
+      <h3>
+        Children's Privacy Statement
+      </h3>
+      <p>
+        We do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will delete such information from our records. Because we do not knowingly collect any personally identifiable information from children under the age of 13, we also do not knowingly distribute such information to third parties.
+      </p>
+      <h3>
+        Changes
+      </h3>
+      <p>
+        Popcornflix may, in its sole and absolute discretion, change this Privacy Policy from time to time. In case of any material change to this Privacy Policy, we will replace the "Privacy" link on our home page with a link entitled "Privacy: Updated" for no less than 30 days. All changes to the Privacy Policy or the Terms of Service will be effective when posted, and your continued use of the Service after the posting will constitute acceptance of, and agreement to be bound by, those changes. If you object to any such changes, your sole recourse shall be to cease using the Popcornflix Network. However, if we make any change that allows us to use your Personal Information in any materially different manner than we were permitted under the Privacy Policy in effect at the time you submitted such Personal Information, we will obtain your consent before making such materially different use.
+      </p>
+      <h3>
+        Additional Questions
+      </h3>
+      <p>
+        Again, feel free to contact us any time if you have further questions about the Service. Click here to contact us.<br> The effective date of this Privacy Policy is February 15, 2011
+      </p>
+    </article>
+  </div>
+</div>
+            
 
                 
-            </ul>
-
-            <!--  <a href="https://twitter.com/Popcornflixnews" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow
-                @twitterapi</a>
-            <script>!function (d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0];
-                    if (!d.getElementById(id)) {
-                        js = d.createElement(s);
-                        js.id = id;
-                        js.src = "//platform.twitter.com/widgets.js";
-                        fjs.parentNode.insertBefore(js, fjs);
-                    }
-                }(document, "script", "twitter-wjs");</script>-->
-
-            <!--
-            <div class="fb-like-box" data-href="https://www.facebook.com/Popcornflix"
-                 data-width="160"
-                 data-colorscheme="light"
-                 data-show-faces="true"
-                 data-header="true"
-                 data-stream="false"
-                 data-show-border="true">
-            </div>
-            -->
-
-
-            <div id="fb-root"></div>
-            <!---<script>
-                (function (d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0];
-                    if (d.getElementById(id)) return;
-                    js = d.createElement(s);
-                    js.id = id;
-                    js.src = "//connect.facebook.net/en_En/all.js#xfbml=1&appId=434014446636827";
-                    fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));
-            </script>-->
-
+                    <!-- Website/Popcornflix/Browse/BrowseFooter728x90 -->
+                    <div class="visible-margin">
+                        <div id="div-gpt-ad-1406129482183-0" class="banner-x">
+                            <script type="text/javascript">
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406129482183-0'); });
+                            </script>
+                        </div>
+                    </div>
+                
             
-            <!-- Website/Popcornflix/Featured -->
-            <div class="b-banner" id="banner-1">
-                <script type="text/javascript">
-                    googletag.cmd.push(function () {
-                        googletag.display('banner-1');
-                    });
-                </script>
-            </div>
-            
-            
-            <!-- Website/Popcornflix/Browse/BrowseLowerSkyscraper160x600 -->
-            <div id="div-gpt-ad-1406129658782-0" style="width:160px; height:600px;">
-                <script type="text/javascript">
-                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406129658782-0'); });
-                </script>
-            </div>
-            
-        </aside>
-        <div class="content">
-            <div class="banner">
-    <div id="" style="width:728px; height:90; margin: 0 auto;">
-        <script type="text/javascript">
-            googletag.cmd.push(function () {
-                googletag.display('');
-            });
-        </script>
+        </div>
     </div>
+    <footer class="footer">
+        <div class="b-devices-inline">
+    <h5 class="devices-inline-title">
+        Check us out on these other devices!
+    </h5>
+    <ul class="devices-inline-list">
+        <li class="devices-inline-item">
+            <a class="appstore" href="https://itunes.apple.com/us/app/popcornflix-free-movies/id493605531?mt=8"></a>
+        </li>
+        <li class="devices-inline-item">
+            <a class="googleplay" href="https://play.google.com/store/apps/details?id=com.curiousbrain.popcornflix&amp;hl=en"></a>
+        </li>
+        <li class="devices-inline-item">
+            <a class="amazon" href="http://www.amazon.com/gp/product/B00CD4EQNI"></a>
+        </li>
+        <li class="devices-inline-item">
+            <a class="roku" href="http://www.roku.com/channels/#!details/6119/popcornflix"></a>
+        </li>
+        <li class="devices-inline-item">
+            <a class="xbox" href="http://support.xbox.com/en-US/xbox-360/apps/popcornflix-setup"></a>
+        </li>
+        <li class="devices-inline-item">
+            <a class="samsung" href="http://www.samsung.com/us/appstore/app/G00006320248"></a>
+        </li>
+        <li class="devices-inline-item">
+            <a class="blackberry" href="http://appworld.blackberry.com/webstore/content/27597930/?countrycode=UA&amp;lang=en"></a>
+        </li>
+    </ul>
 </div>
-<h1>
-  Popcornflix Privacy Policy
-</h1>
-<article>
-  <p>
-	Welcome to the Popcornflix online service (the "Service") operated by Popcornflix, LLC. ("Popcornflix"). Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share your personal information. Because the Service is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Service, you explicitly consent to the collection and use of your personal information as outlined in this Privacy Policy. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us. When you use the Service, you also consent to our Terms of Service.
-  </p>
-  <h3>
-	Opting Out Of Future Communications; Updating And Deleting Your Information
-  </h3>
-  <p>
-	If you have questions or concerns regarding this Privacy Policy, please feel free to contact us. or by writing to us at:
-  </p>
-  <p>
-	Popcornflix, LLC.<br>757 Third Avenue<br>New York, NY 10017<br>Attn: Customer Service<br>Info@popcornflix.com<br>fax 212 308 1791
-  </p>
-  <h3>
-	Information We Automatically Collect
-  </h3>
-  <p>
-	We automatically collect certain non-personal information to help us understand how our users use the Service (which we will refer to in this Privacy Policy collectively as "Usage Data"). For example, each time you use the Service we may collect your IP address and other information about your Internet connectivity. In addition, we use a technology called "cookies." A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our Service and make the Service easier to use. We do this by storing information (for example, settings preferences) about a particular user session in cookies in order to provide you with a seamless experience during a particular session. Certain of our Service Providers (defined below) may use cookies in connection with the services they perform on our behalf. If you choose to do so, you can configure your browser to delete existing cookies or disable cookies altogether. However, certain features of the Service may not work if you delete or disable cookies. We may contract with companies or persons to provide certain services including data management, promotional and advertising services, etc. ("Service Providers"). We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to abide by our privacy policy with respect to Usage Data or other data we share with them. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
-  </p>
-  <h3>
-	Other Authorized Disclosures
-  </h3>
-  <p>
-	Notwithstanding anything in this Privacy Policy to the contrary, you understand and agree that Popcornflix may access, preserve, and disclose any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) to protect the rights and property of Popcornflix, its affiliates, or the public; (3) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with Popcornflix (in which case we will require such entities to honor this Privacy Policy); and (5) if Popcornflix is acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this Privacy Policy). In addition, Popcornflix may forward any counter notification that you submit pursuant to Popcornflix's Terms of Service, and any related communications, to third parties.
-  </p>
-  <h3>
-	Public Areas
-  </h3>
-  <p>
-	Your use of areas of the Service that are intended for interaction with other users may reveal your user name and may allow you to publish certain personal information about you. By choosing to use these areas, you understand and agree that anyone with access to those areas may access and forward any information about you that is contained in or that you post to those areas. As with any social networking service, you should use care when disclosing your personal information to strangers.
-  </p>
-  <h3>
-	Third-Party Web Sites
-  </h3>
-  <p>
-	The Service may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. Similarly, the Service may be accessed and used from third-party Websites that we do not control. Although our collection and use of information in connection with your use of the Service from such third-party Web sites will be governed by this Privacy Policy, we have no control over the privacy policies of such third-party Web sites and you access such third-party Web sites at your own risk.
-  </p>
-  <h3>
-	Security
-  </h3>
-  <p>
-	We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. We also require our Service Providers to implement and maintain reasonable security procedures and practices appropriate to the nature of the information we share with them. No data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Service, and you do so at your own risk. If you have any questions regarding which measures and techniques we use, feel free to contact us.
-  </p>
-  <h3>
-	Children's Privacy Statement
-  </h3>
-  <p>
-	We do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will delete such information from our records. Because we do not knowingly collect any personally identifiable information from children under the age of 13, we also do not knowingly distribute such information to third parties.
-  </p>
-  <h3>
-	Changes
-  </h3>
-  <p>
-	Popcornflix may, in its sole and absolute discretion, change this Privacy Policy from time to time. In case of any material change to this Privacy Policy, we will replace the "Privacy" link on our home page with a link entitled "Privacy: Updated" for no less than 30 days. All changes to the Privacy Policy or the Terms of Service will be effective when posted, and your continued use of the Service after the posting will constitute acceptance of, and agreement to be bound by, those changes. If you object to any such changes, your sole recourse shall be to cease using the Popcornflix Network. However, if we make any change that allows us to use your Personal Information in any materially different manner than we were permitted under the Privacy Policy in effect at the time you submitted such Personal Information, we will obtain your consent before making such materially different use.
-  </p>
-  <h3>
-	Additional Questions
-  </h3>
-  <p>
-	Again, feel free to contact us any time if you have further questions about the Service. Click here to contact us.<br> The effective date of this Privacy Policy is February 15, 2011
-  </p>
-</article>
-            <!-- Website/Popcornflix/Featured/FeaturedFooter728x90 -->
-            
-            <!-- Website/Popcornflix/Browse/BrowseFooter728x90 -->
-            <div id="div-gpt-ad-1406129482183-0" style="width:728px; height:90px; padding: 0" class="banner">
-                <script type="text/javascript">
-                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406129482183-0'); });
-                </script>
-            </div>
-            
-        </div>
-    </div>
-    <footer>
-        <div class="inner">
-            <nav class="footer-nav">
-                <ul>
-                    <li>
-                        <a href="/about.html">About</a>
-                    </li>
-                    <li>
-                        <a href="/most-popular-movies">Most Popular</a>
-                    </li>
-                    <li>
-                        <a href="/New%20Arrivals-movies">New Arrivals</a>
-                    </li>
-                    <li>
-                        <a href="/devices.html">Supported Devices</a>
-                    </li>
-                    <li>
-                        <a href="http://popcornflix.us2.list-manage.com/subscribe?u=eeeb415ed6b6a78d4c31fa802&amp;id=fa309ed24f" target="_blank">Join our Mailing List</a>
-                    </li>
-                    <li>
-                        <a href="/privacy.html">Privacy Policy</a>
-                    </li>
-                    <li>
-                        <a href="/terms-service.html">Terms of Service</a>
-                    </li>
-                </ul>
-            </nav>
-            <ul class="b-footer-socials">
-                <li>
-                    <a target="_blank" href="https://www.facebook.com/Popcornflix"><img src="/images/share/fb.png" alt="facebook">Facebook</a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://twitter.com/Popcornflixnews"><img src="/images/share/tw.png" alt="twitter">Twitter</a>
-                </li>
-            </ul>
-        </div>
+
+<div class="footer-nav">
+    <ul class="useful-links">
+        <li>
+            <a href="mailto:info@popcornflix.com" target="_blank">Contact Us</a>
+        </li>
+        <li>
+            <a href="/about.html">About</a>
+        </li>
+        <li>
+            <a href="/devices.html">Supported Devices</a>
+        </li>
+        <li>
+            <a href="http://popcornflix.us2.list-manage.com/subscribe?u=eeeb415ed6b6a78d4c31fa802&amp;id=fa309ed24f">Join our Mailing List</a>
+        </li>
+        <li>
+            <a href="/privacy.html">Privacy Policy</a>
+        </li>
+        <li>
+            <a href="/terms-service.html">Terms of Service</a>
+        </li>
+    </ul>
+    <ul class="b-footer-socials">
+        <li>
+            <a class="go-facebook" target="_blank" href="https://www.facebook.com/Popcornflix" alt="Facebook"></a>
+        </li>
+        <li>
+            <a class="go-twitter" target="_blank" href="https://twitter.com/Popcornflixnews" alt="Twitter"></a>
+        </li>
+    </ul>
+</div>
     </footer>
+</div>
+<div id="loader" class="se-pre-con">
+    <div class="popcornflix-logo"></div>
+    <div class="loading-indicator"></div>
 </div>
 <div class="popup-layout"></div>
 
@@ -660,31 +772,6 @@
     </div>
 </div>
 
-
-<!-- Quantcast Tag
-<script type="text/javascript">
-    var _qevents = _qevents || [];
-
-    (function() {
-        var elem = document.createElement('script');
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem, scpt);
-    })();
-
-    _qevents.push({
-        qacct:"p-gDKnkrrfT2uHP"
-    });
-</script>
-
-<noscript>
-    <div style="display:none;">
-        <img src="//pixel.quantserve.com/pixel/p-gDKnkrrfT2uHP.gif" border="0" height="1" width="1" alt="Quantcast"/>
-    </div>
-</noscript>
-End Quantcast tag -->
 
 
 
