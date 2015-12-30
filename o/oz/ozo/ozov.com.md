@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozov.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144239id_/http%3A//ozov.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozov.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230075907id_/http%3A//ozov.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy at ozov.com - Play free games online
 
