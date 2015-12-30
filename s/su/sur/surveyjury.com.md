@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619174634id_/http%3A//www.surveyjury.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230223533id_/http%3A//www.surveyjury.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Survey Jury
 
@@ -31,3 +31,8 @@ If you request that I send you an email. If you send me an email either asking m
 
 Regarding third party links.  
 Although Survey Jury will try not to include links to third parties who it deems to have unsatisfactory privacy policies, we cannot take responsibility for the behavior and/or policies of any third party represented on this site. We have done our best to carefully screen all survey sites listed within the directories and tried and eliminate those who we feel may not have the best intentions. Although these sites have been reviewed by Survey Jury, we cannot guarantee or take responsibility for how any third parties conduct their business or changes to their policies. It is ultimately up to you review and understand each site’s own privacy policies and terms and conditions. You will also find other third party advertising throughout Survey Jury. We have reviewed these sites to an extent, however they are not scrutinized as highly as survey site listings. Again, read through any third party’s own privacy policies, as well as, any other terms and conditions they may have.
+
+### Have you tried it?
+
+**Share your experience for a chance to win $5 in cash or gift card.**  
+As an Survey Jury user, you can submit written reviews for panels listed on surveyJury.com. We encourage you to share your opinions, both favorable and unfavorable. [read our review guideline](http://www.surveyjury.com/general-review-creation-guidelines/)
