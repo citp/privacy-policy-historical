@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekrazycouponlady.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616222620id_/http%3A//thekrazycouponlady.com/krazy-coupon-lady-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekrazycouponlady.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230123151id_/http%3A//thekrazycouponlady.com/krazy-coupon-lady-privacy-policy) for the most accurate reproduction.*
 
 # The Krazy Coupon Lady Privacy Policy - The Krazy Coupon Lady
 
@@ -42,6 +42,8 @@ We do not sell or trade your Personally Identifiable Information (PII) without p
 **Third party links**
 
 At our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+We also may be compensated in exchange for featured placement of certain sponsored products and services, or your clicking on certain links posted on this website.
 
 **California Online Privacy Protection Act Compliance**
 
