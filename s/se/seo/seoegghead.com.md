@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoegghead.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624060638id_/http%3A//www.seoegghead.com/about/privacy-policy-and-terms-of-use.seo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoegghead.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220607id_/http%3A//www.seoegghead.com/about/privacy-policy-and-terms-of-use.seo) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use » SEO Egghead
 
