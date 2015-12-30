@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenational.scot privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627124728id_/http%3A//www.thenational.scot/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenational.scot privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230214858id_/http%3A//www.thenational.scot/page/privacy) for the most accurate reproduction.*
 
 # The National
 
