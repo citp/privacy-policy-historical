@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mocpages.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507212759id_/http%3A//www.mocpages.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocpages.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230113458id_/http%3A//www.mocpages.com/about/privacy.php) for the most accurate reproduction.*
 
 # MOCpages.com : Privacy policy
 
@@ -57,7 +57,7 @@ We give you access to a broad range of information about your account and your i
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make an account or to take advantage of such MOCpages.com features as comments, voting, or other features that may be released in the future. 
   * You can add or update certain information on pages throughout your account. When you update information, we do not keep a copy of the prior version. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your [notification preferences](https://web.archive.org/web/20150507212759id_/http%3A//www.mocpages.com/notifications_FORM.php). (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MOCpages.com, and it is your responsibility to review them for changes.) 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [notification preferences](https://web.archive.org/web/20151230113458id_/http%3A//www.mocpages.com/notifications_FORM.php). (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MOCpages.com, and it is your responsibility to review them for changes.) 
   * The Help portion of the tool bar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of MOCpages.com's coolest features, and we recommend that you leave them turned on. 
   * The following are some products that offer anonymous browsing. [www.anonymizer.com](http://www.anonymizer.com/), [www.IDzap.com](http://www.idzap.com/), [www.somebody.net](http://www.somebody.net/), and [www.zeroknowledge.com](http://www.zeroknowledge.com/). We cannot vouch for the effectiveness of any of these products. 
   * In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, [Site seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html). 
