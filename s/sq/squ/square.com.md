@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152348id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121046id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
 
 # Square Privacy Policy
 
 ## Square
 
-#### Square Privacy Policy
+### Square Privacy Policy
 
  **Last Updated: 08/26/2014**
 
@@ -14,7 +14,7 @@ We may change this policy from time to time. If we make changes, we will notify 
 
 #### Collection of Information
 
-##### Information You Provide
+###### Information You Provide
 
 We collect information you provide, such as when you sign up for a Square seller or Square Cash account, when you provide information as part of our identity verification process, in the course of a transaction, or when you request a digital receipt. We may collect, but are not limited to collecting, the following: basic user information, such as your name, email address, mailing address, phone number, photograph, and birth date; financial information, including bank account and payment card numbers; and other historical, contact, and demographic information.
 
@@ -22,7 +22,7 @@ We also collect information when you upload or send information to or through th
 
 Some of our Services also allow you to connect with people you already know. For example, you may upload information from your address book through the Square Cash mobile app. We will match the information you provide to the information provided by other users of Square Cash in order to provide and improve the Service, including making it easier to find friends to whom you may send or request payments.
 
-##### Information We Collect from Your Use of the Services
+###### Information We Collect from Your Use of the Services
 
 We collect information about you when you use our Services, including as follows:
 
@@ -34,7 +34,7 @@ We collect information about you when you use our Services, including as follows
 
 
 
-##### Information We Collect From Other Sources
+###### Information We Collect From Other Sources
 
 We may also collect information about you from third parties, including but not limited to third-party verification services, credit bureaus, mailing list providers, and publicly available sources. In some circumstances, this information may include your Social Security or taxpayer identification number.
 
@@ -54,7 +54,7 @@ We may also use information about you to track and analyze trends and usage in c
 
 We may, or we may use third-party service providers to, process and store personal information in the United States and other countries.
 
-##### Digital Receipts
+###### Digital Receipts
 
 If you choose to receive receipts via email or text message, we store the email address or phone number you provide. We use your email address or phone number to send you a receipt for your purchase and to automatically send you digital receipts for future purchases you make from other Sellers. Digital receipts may contain additional messages, offers, or links that may be of interest to you. For example, you may be able to submit feedback, share your experience on social media, view your purchase history, join programs, visit websites, or take advantage of promotions. When you submit or share information through a receipt (such as submitting feedback), we may share that information with Sellers and you may receive responses. As mentioned above, this policy does not describe the practices of Sellers that may receive or collect information from you. We encourage you to ask them about their privacy practices before providing any information to them. If at any time you wish to opt out of receiving automatic digital receipts or change your preferences, you may do so by following the instructions in the “Your Choices” section of this policy.
 
@@ -79,15 +79,15 @@ We take reasonable measures, including administrative, technical, and physical s
 
 #### Your Choices
 
-##### Location Information
+###### Location Information
 
 When you first launch our mobile applications, you will be asked to consent to the application's collection of location information. We currently require this location information in order to provide our Services, so if you do not consent to this collection, you cannot use our Services. If you initially consent to our collection of location information, you can subsequently stop our collection of location information at any time by changing the preferences on your mobile device. If you do so, the Square application will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove Square applications from your device.
 
-##### Cookies
+###### Cookies
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject cookies; however, our Services may not function properly if you do so.
 
-##### Preferences
+###### Preferences
 
   * Personal Information. You may change or correct information about yourself by logging into your Square account at any time or by emailing us at privacy@squareup.com. You may also email us if you wish to deactivate your account. We may retain archived copies of information about you and your transactions for a period of time that is consistent with applicable law.
   * Digital Receipts. If at any time you wish to opt out of receiving automatic digital receipts or change your preferences, you may do so by following the instructions in your digital receipt.
@@ -95,7 +95,7 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 
 
-##### Your California Privacy Rights
+###### Your California Privacy Rights
 
 California law permits residents of California to request certain details about information we disclose to third parties for direct marketing purposes. If you are a California resident and would like to request this information, please contact us at the address listed below.
 
