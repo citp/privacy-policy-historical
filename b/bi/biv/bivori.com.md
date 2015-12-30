@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415060256id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230113458id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Bivori.com
+# Privacy Policy - Bivori
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bivorivideos@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@bivori.com.
 
 At bivori.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by bivori.com and how it is used.
 
