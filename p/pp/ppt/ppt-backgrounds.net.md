@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppt-backgrounds.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231083828id_/http%3A//www.ppt-backgrounds.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppt-backgrounds.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230080938id_/http%3A//www.ppt-backgrounds.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PPT Backgrounds - Powerpoint Backgrounds
 
