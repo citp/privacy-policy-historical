@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panamaexpoonline.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221064259id_/http%3A//www.panamaexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panamaexpoonline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230065711id_/http%3A//panamaexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
