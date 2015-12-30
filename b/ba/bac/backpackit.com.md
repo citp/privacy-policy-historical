@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpackit.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612151004id_/https%3A//basecamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpackit.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222222id_/https%3A//basecamp.com/privacy) for the most accurate reproduction.*
 
 # Basecamp privacy policy
 
@@ -24,7 +24,7 @@ Basecamp won’t hand your data over to law enforcement unless a court order say
 
 ## Encryption
 
-All data is encrypted via [SSL/TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest — you can read more about that on our [security page](https://web.archive.org/security).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest — you can read more about that on our [security page](https://web.archive.org/security).
 
 ## Deleted data
 
@@ -32,7 +32,7 @@ When you cancel your account, we'll ensure that nothing is stored on our servers
 
 ## US-EU safe harbor & US-Swiss safe harbor
 
-See our [safe harbor policy](https://web.archive.org/privacy/safe-harbor).
+See our [safe harbor policy](https://web.archive.org/privacy/safe-harbor). We have answers to some frequently asked questions about Safe Harbor [here](https://web.archive.org/privacy/safe-harbor-questions).
 
 ## Changes & questions
 
