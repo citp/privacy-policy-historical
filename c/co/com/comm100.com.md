@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053827id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220425id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
 
 # Comm100 Company Privacy Policy
 
-**Last Updated on December 3, 2014**
+**Last Updated on September 23, 2015**
 
 Comm100 Network Corporation (herein referred to as "We", "Comm100" or the "Company") is committed to protecting the privacy of your information. This Privacy Policy describes Comm100's information practices. 
 
@@ -12,13 +12,11 @@ Comm100 Network Corporation (herein referred to as "We", "Comm100" or the "Compa
   
 ---|---  
   
-Comm100 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Comm100's information practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site comm100.com and its sub-domains. 
+This Privacy Policy applies to www. comm100.com owned and operated by Comm100. This Privacy Policy describes how Comm100 collects and uses the personally identifiable information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personally identifiable information. 
 
-If you have questions or concerns regarding this statement, you should first contact Comm100 at privacy@comm100.com. If you are not satisfied with our response you can contact [ TRUSTe here](https://watchdog.truste.com/pvr.php?page=complaint).
+Comm100 has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program only covers information that is collected through this Web site: comm100.com, and does not cover information that may be collected through any software downloaded from this Web site. 
 
-TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 1\. What Does Comm100 Do?
 
@@ -26,7 +24,7 @@ The TRUSTe program only covers information that is collected through this Web si
 
 
 
-2\. Personal Information Collected
+2\. Personally Identifiable Information Collected
 
   * Comm100 offers a variety of services that are collectively referred to as the "Service". Comm100 collects information from individuals who visit the Company's Web sites (herein referred to as "Visitors") and individuals who download the Company's software or related resources, register to use the Service or register to partner with us (herein referred to as "Users"). 
   * When you express an interest in obtaining additional information about the Service, downloading the software or related resources, registering to use the Service or registering to be our partner, Comm100 requires you to provide the Company with contact information, such as name, web site URL and email address ("Required Contact Information"). Comm100 may also ask you to provide additional information, such as company address, number of employees, or industry ("Optional Information"). 
@@ -48,24 +46,19 @@ The TRUSTe program only covers information that is collected through this Web si
 
 
 
-4\. Cookies
+4\. Tracking Technologies
 
-  * Comm100 uses commonly-used information-gathering tools, such as cookies, to collect information as you navigate the Company's Web sites ("Web Site Navigational Information").
-  * Comm100 uses cookies to make interactions with the Company's Web sites easy and meaningful. When you visit one of the Company's Web sites, Comm100 servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Comm100, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a "Contact Us" Web form), you remain anonymous to the Company.
-  * We do link the information we store in cookies to the personally identifiable information you submit while on our site.
-  * Technologies such as: cookies, beacons, tags and scripts are used by Comm100 and our website analytics service providers such as Google Analytics and LandLeader. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
-  * We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
+  * Technologies such as: cookies, beacons, tags and scripts are used by Comm100 and our website analytics service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users' settings, for authentication and to track users' navigation paths. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. 
+  * We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  * We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). 
   * Widgets: Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-  * Flash LSOs: We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [ click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). 
 
 
 
+5\. Links to Third Party Websites, Public Forums, Refer a Friend, User List and User Testimonials
 
-5\. Public Forums, Refer a Friend, User List and User Testimonials
-
-  * Comm100 may provide bulletin boards or blogs on the Company's Web sites. Any personally identifiable information you choose to submit in such forums may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Comm100 is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at privacy@comm100.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * Our website includes links to other websites whose privacy practices may differ from those of Comm100. If you submit personally identifiable information to any of those websites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any website you visit.
+  * Comm100 may provide bulletin boards or blogs on the Company's Web sites. Any personally identifiable information you choose to submit in such forums may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Comm100 is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personally identifiable information from our blog or community forum, contact us at privacy@comm100.com. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
   * Users and Visitors may elect to use the Company's referral service to inform friends about the Company's Web sites. When using the referral service, the Company requests the friend's name and email address. Comm100 will automatically send the friend a one-time email inviting him or her to visit the Company's Web sites. Comm100 does not store this information.
   * Comm100 may make references to User, User's logo and Website URL in Comm100's user list located on the Comm100 web site and press releases published by Comm100. If you do not want your information to be displayed on our site, please contact us and we will reply to your request in 10 business days.
   * Comm100 posts a list of case studies and testimonials on the Company's Web sites that contain information such as Users' names and titles. Comm100 obtains the consent of each User prior to posting case studies or testimonials. If you wish to update or delete your case study or testimonial, you can contact us at [ privacy@comm100.com](mailto:privacy@comm100.com).
@@ -82,11 +75,12 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 7\. Sharing of Information Collected
 
-  * **Comm100 does NOT share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.**
+  * We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy. 
+  * We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
   * Comm100 may share information collected with the Company's agents so that these agents can contact Users and Visitors who have provided contact information on our behalf. 
   * Comm100 uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company's behalf. 
   * Comm100 may disclose personally identifiable information of the Company's Users and Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company's rights and/or to comply with a judicial proceeding, court order, or legal process. 
-  * If Comm100 is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * If Comm100 is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
 
 
@@ -98,32 +92,38 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 
 
-9\. Updating/Accessing/Amending/Correcting/Deleting Personally Identifiable Information
+9\. Updating/Accessing/Amending/Correcting/Deleting Personally Identifiable Information 
 
-  * If your personally identifiable information changes, you may correct, update or amend it by making the change on your site or user profile page after logging into your site account with your site Id, email and password. If you no longer desire our service, you may request to delete/remove your personally identifiable information by emailing [privacy@comm100.com](mailto:privacy@comm100.com). Your request will be responded in 10 business days. 
+  * If your personally identifiable information changes, you may correct, update or amend it by making the change on your site or user profile page after logging into your site account with your site Id, email and password. If you no longer desire our service, you may request to delete/remove your personally identifiable information by emailing [privacy@comm100.com](mailto:privacy@comm100.com). We will respond to your request within a reasonable timeframe.
 
 
 
-10\. User Data
+10\. Import Contacts
+
+  * You can import contacts from your Outlook or other email account address book to invite them to become members of our website. We collect the username and password for the email account from which you wish to import your contacts, and will only use your personal information for that purpose.
+
+
+
+11\. User Data
 
   * Comm100 Users use the Service to host data and information ("User Data"). Comm100 will NOT review, share, distribute, or reference any such User Data except required by law. 
-  * User Data is collected and owned by Comm100 Users, thus the use of User Data is governed by the privacy practice of Comm100 Users instead of Comm100. This privacy statement does not cover Comm100 Users' policy on information of their website visitors and clients collected through Comm100 web sites and services. Comm100 takes no responsibility for the privacy issues of Comm100 Users. 
+  * User Data is collected and owned by Comm100 Users, thus the use of User Data is governed by the privacy practice of Comm100 Users instead of Comm100. This privacy policy does not cover Comm100 Users' policy on information of their website visitors and clients collected through Comm100 web sites and services. Comm100 takes no responsibility for the privacy issues of Comm100 Users. 
   * Individual records of User Data may be viewed or accessed only for the purpose of investigating an abuse complaint in Comm100 Email Marketing, resolving a problem, support issues, or suspected violation of the Comm100 Hosted Service Agreement, or as may be required by law. To prevent spamming in Comm100 Email Marketing, the Company's customer service representatives may look into the content of your emails to decide if Comm100 Email Marketing system will send out your emails.
   * To maintain our email sending reputation, we examine the delivery data on each individual email basis for Comm100 users. The email delivery data includes, but is not limited to, if an email is delivered, reported as spam or rejected by receiving server. These delivery data may be collected from our email sending program or provided by the email receiving entity. 
   * Users are responsible for maintaining the security and confidentiality of their Comm100 usernames and passwords. 
 
 
 
-11\. Security
+12\. Security
 
-  * Comm100 uses robust security measures to protect data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of User Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer ("SSL") technology protects User Data using both server authentication and data encryption. The chat content in Comm100 Live Chat is encrypted with SSL by default. These technologies help ensure that User Data is safe, secure, and only available to the User to whom the information belongs and those to whom the User has granted access. Comm100 also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
+  * Comm100 uses robust security measures to protect data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of User Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer ("SSL") technology protects User Data using both server authentication and data encryption. The chat content in Comm100 Live Chat is encrypted with SSL by default. These technologies help ensure that User Data is safe, secure, and only available to the User to whom the information belongs and those to whom the User has granted access. Comm100 also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. We follow generally accepted standards to protect the personally identifiable information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personally identifiable information, you can contact us at [privacy@comm100.com](mailto:privacy@comm100.com). 
 
 
 
-12\. Changes to This Privacy Statement
+13\. Changes to This Privacy Policy
 
-  * If we decide to change our privacy policy, we will post those changes to this privacy statement on the home page, and in other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. 
+  * If we decide to change our privacy policy, we will post those changes to this privacy policy on the home page, and in other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. 
 
 
 
