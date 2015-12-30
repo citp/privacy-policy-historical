@@ -1,24 +1,38 @@
-> *The following text is extracted and transformed from the text2speech.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035727id_/http%3A//www.text2speech.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the text2speech.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231000159id_/http%3A//www.text2speech.org/privacy.html) for the most accurate reproduction.*
 
-# www.text2speech.org Privacy Statment
+# Privacy - Text2speech.org
 
-## Privacy Policy of www.text2speech.org
+## PRIVACY POLICY
 
-### Uploaded Data
+### Personal Data Collected by us
 
-We will not share any uploaded data with third parties. Your uploaded data will be deleted immediately from our system after we processed it. If the processing results in a downloadable file, this file will be deleted after about 10 minutes.  
-We will not look at your uploaded data. Only if users gave specific permission to allow us to use uploaded data internally to improve the quality of our services.
+In general, we collect only your IP address along with the dates and times of access, as this not avoidable due to the technical workings of a webserver. We do not link this information to any personally identifiable information. 
 
-### Third-party advertising
+If you send us a donation through PayPal, we will get your personal data about your PayPal account but we do not store it.   
+If you send us a letter via our contact form, we do not store your name and email address.   
+We use the email address only to communicate with you. We will never share or resell your email address. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
+### Storage of User Files and generated Data
 
-### Visitor tracking
+All submitted files or inputs as well as the converted output are deleted automatically after half an hour. No backups are made and only employees of t-reinhardt.ch are able to access your files. We keep the files for the sole purpose for giving you enough time to download them. We do not look at the files or mine any data from them. 
 
-Because we are a bit curious where our users come from and how the come here we use a third party visitor tracking tool.That means that we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
+### How we use Cookies
 
-### Changes to the privacy policy
+We use cookies solely for functional purposes, without storing any user information. For example, we store information like selected input options to increase the usability of our site. We do not use cookies to track you. 
 
-This Privacy Statement may be modified from time to time. Any change, update or modification we make will be effective immediately upon posting on our site(s). If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Continued access of our sites by you will constitute your acceptance of any changes or revisions to the Privacy Statement.
+However, Google Analytics, Google DoubleClick, and Google Adsense, which we are using on this site, do use cookies on our site to help analyse the web traffic or determine targeted advertisements based on your preferences, your visit on our sites and other sites on the internet. To opt out of Google’s use of cookies, please visit the Google ad and content network privacy policy. If you prefer not to use cookies at all, we recommend adjusting your browser settings accordingly. 
 
-**[<< Back](https://web.archive.org/)**
+## TERMS OF SERVICE
+
+### Responsiblities for any Damages or Troubles
+
+We are working hard to ensure that the services we offer are free of errors but we cannot guarantee that. As a user of this service you agree that t-reinhardt.ch will not be held responsible for any failure or error. 
+
+### Copyright Issues
+
+Do not use our services and intellectual property for any form of infringement. 
+
+## DATE OF MODIFICATION
+
+2015-06-21  
+Changes to this terms and conditions will be indicated by a change of this page date of modification. 
