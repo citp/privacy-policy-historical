@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629143538id_/http%3A//www.fca.org.uk/site-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235642id_/http%3A//www.fca.org.uk/site-info/privacy) for the most accurate reproduction.*
 
 # FCA privacy policy - Financial Conduct Authority
 
@@ -22,12 +22,15 @@ We use Google Analytics, a web analytics service provided by Google. Google Anal
 
 **Cookie name** | **What is it**  
 ---|---  
-_utma | Typical content: randomly generated number. Expires: 2 years  
+_utma | Typical content: randomly generated number.  
+Expires: two years.  
   
 _utmb  
-| Typical content: randomly generated number. Expires: 30 minutes  
+| Typical content: randomly generated number.  
+Expires: 30 minutes.  
   
-_utmz | Typical content: randomly generated number and information about how the page was reached (eg directly or via a link, organic search or paid search).Expires: 6 months  
+_utmz | Typical content: randomly generated number and information about how the page was reached (eg directly or via a link, organic search or paid search).  
+Expires: six months.  
   
   
 For further details on Google Analytics cookies, including those not used by fca.org.uk, visit [cookies set by Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html).
@@ -38,11 +41,51 @@ Used by the software (Vignette) which displays our website content to remember s
 
 **Cookie name** | **What is it**  
 ---|---  
-VignettePortal-NavTreeState-fca | Typical content: randomly generated number. Expires: when user exits browser.  
+VignettePortal-NavTreeState-fca | Typical content: randomly generated number.  
+Expires: when user exits browser.  
   
-JSESSIONID | Typical content: randomly generated number. Expires: when user exits browser.  
+JSESSIONID | Typical content: randomly generated number.  
+Expires: when user exits browser.  
   
-cookiesToolbar | Typical content: randomly generated number Expires: 90 days.  
+cookiesToolbar | Typical content: randomly generated number  
+Expires: 90 days.  
+  
+  
+### Search cookies
+
+Used by the search engine (Funnelback) to allow you to save results to a shortlist for later viewing.
+
+**Cookie name** | **What is it**  
+---|---  
+FBJESSIONID | Typical content: randomly generated number.  
+Expires: when user exits browser.  
+  
+user-id | Typical content: randomly generated number sequence.  
+Expires: maximum time allowed by browser.  
+  
+  
+### Firms section
+
+Our firms section uses Drupal cookies to display and remember content based on selections you have already made.
+
+**Cookie name** | **What is it**  
+---|---  
+Drupal.session_cache_popup_seen | Server pop-up to first time users  
+Typical content: boolean.  
+Expires: one week.  
+  
+Drupal.session_cache.global filter | Contextualised user journeys  
+Typical content: boolean.  
+Expires: one week.  
+  
+ShowCookieIcon | Typical content: boolean.  
+Expires: three months.  
+  
+Firms-cookiecontrol | Typical content: boolean.  
+Expires: three months.  
+  
+has.js | Typical content: boolean.  
+Expires: session (until page is closed).  
   
   
 #### Vimeo cookies
