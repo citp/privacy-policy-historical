@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the ampclicks.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512052600id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampclicks.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230133901id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace | Leading Search Advertising Marketplace
 
 adMarketplace, Inc.'s ("adMarketplace's") website, [www.adMarketplace.com](http://www.admarketplace.com/), serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace partners (Partners) can access partner-only materials.
 
-adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](https://web.archive.org/web/20150512052600id_/http%3A//www.admarketplace.com/www.adMarketplace.com) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
+adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](http://www.admarketplace.com/) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
 
-adMarketplace complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at : <http://export.gov/safeharbor>
+adMarketplace complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at <http://export.gov/safeharbor>
 
 #### Personal Information Collected on this Website
 
 No personally-identifiable information is collected on this website from consumers that browse the website for information.
 
-The only personally-identifiable information collected on this website is gathered on our "contact us" pages, where fields are provided so that you can provide your name and email address. We collect this information so that we can respond to the comments that you send us via that form.
+The only personally-identifiable information collected on this website is gathered on our "contact us" pages, where fields are provided so that you can input your name and email address. We collect this information so that we can respond to the comments that you send us via that form.
 
 We do not merge any of the personally-identifiable information collected via our contact form with other anonymous data collected on our website.
 
-We collect the following kinds of personal information from our Partners when they sign-up to use our service. :
+We collect the following kinds of personal information from our Partners when they sign-up to use our service:
 
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
@@ -146,4 +146,4 @@ Please [](https://web.archive.org/contact.php)contact us at adMarketplace, 3 Par
 
 [IP Address Opt-Out Request Form](http://www.admarketplace.com/opt-out/optout.php)
 
-**Effective Date: October 28, 2013**
+**Effective Date: September 11, 2015**
