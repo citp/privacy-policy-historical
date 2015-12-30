@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628233251id_/http%3A//congress.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230214938id_/http%3A//congress.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Look up your lawmaker. Track your lawmaker's votes in Congress., A resource for looking up your representatives in Congress and tracking their votes.
 
