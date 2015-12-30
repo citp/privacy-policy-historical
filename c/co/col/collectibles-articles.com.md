@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectibles-articles.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501114340id_/http%3A//www.collectibles-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectibles-articles.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221213id_/http%3A//www.collectibles-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Collectibles-Articles.com
 
