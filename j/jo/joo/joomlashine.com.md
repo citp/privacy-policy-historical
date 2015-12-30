@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628150757id_/https%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121955id_/http%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Joomlashine
+# Privacy & Cookie Policy | Joomlashine
 
 In today's world of shared information, we (JoomlaShine) take great care in protecting your personal information when you are using our website ([www.joomlashine.com](http://www.joomlashine.com/)) and any products or services provided on the website.
 
@@ -28,9 +28,17 @@ If you use a credit card to purchase products and/or services via the Website, i
 
 #### Cookies
 
-JoomlaShine uses "cookies" to help enhance your experience on the site. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies as the default. Cookies themselves do not contain personal information about you. They simply operate as a unique identifier which helps JoomlaShine to know what customers find interesting and useful on the website, almost like a continuing questionnaire. JoomlaShine does not store any personal information inside cookies, although the cookie may identify the user's browser. 
+**What are cookies?**
+
+A cookie is a piece of data that is placed on an internet user's computer memory. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The information the cookie contains is set by a website's server and it can be used when the user visits the website.
+
+**Cookies are not dangerous. They are not computer programs and cannot be used to circulate viruses.** Most Web browsers are set to accept cookies as the default.
+
+JoomlaShine uses "cookies" to help enhance your experience on the site. Cookies themselves do not contain personal information about you. They simply operate as a unique identifier which helps JoomlaShine to know what customers find interesting and useful on the website, almost like a continuing questionnaire. JoomlaShine does not store any personal information inside cookies, although the cookie may identify the user's browser.
 
 The use of cookies can enhance your experience on the JoomlaShine site, by remembering information that you have previously given. They can make it easier for you to fill out forms, shop online and can ensure that information provided to you is most relevant to your interests.
+
+By continuing to browse our site, you consent to our placing cookies on your computer (unless you have chosen to disable cookies via your browser - you can opt out of cookies via your browser’s privacy setting options – it will depend on the browser you’re using).
 
 #### Log files
 
