@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616230650id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230131306id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
 
-# Grammarly | Instant Grammar Check - Plagiarism Checker - Online Proofreader
+# Privacy Policy | Grammarly
 
 Grammarly values the privacy of your personal information and User Content. This Privacy Policy (this “Policy”) explains what information Grammarly, Inc., a Delaware corporation, and its subsidiaries and other affiliates (together, “Grammarly” or “we” and sometimes “us”) collect about you and why, what we may do with that information and how we handle your personal information and User Content.
 
 ### What Is The Scope Of This Privacy Policy?
 
-This Policy is incorporated into Grammarly’s Terms of Service and License Agreement located at <https://nspl.grammarly.com/terms> (the “Terms of Service”), and applies to the information obtained by us through your use of the Site, the Services, the Software (together, “Products”) and other Grammarly products and services. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
+This Policy is incorporated into Grammarly’s Terms of Service and License Agreement located at <https://grammarly.com/terms> (the “Terms of Service”), and applies to the information obtained by us through your use of the Site, the Services, the Software (together, “Products”) and other Grammarly products and services. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 
 ### Will This Privacy Policy Ever Change?
 
@@ -19,11 +19,11 @@ As Grammarly evolves, we may need to update this Policy to keep pace with ch
 We collect very little personal information about our users. A list of the “Personal Information” Grammarly may collect, and why we collect it, follows:
 
   * Your username, email address and contact preferences. This lets us create your account, provide you with convenient and personalized access to your account and deliver and support our Products. This information also helps us communicate with you about your use of our Products, product announcements and software updates, as well as respond to your requests for assistance (including providing account verification support if you’re having difficultly accessing your account). In addition, we may use your Personal Information to send you direct marketing emails and special offers. For more information, please see the section below entitled, “Will Grammarly Send Me Emails?”
-  * For paying users, your payment information required to complete a commercial transaction on the Site. We use this information to enable and fulfill your transaction. 
-  * The geographic area where you use your computer and mobile devices (as indicated by an IP address or similar identifier), and the language you select when interacting with our Products. We collect this information in order to help us deliver and support our Products, including by localizing your experience. This information also helps us improve our understanding of how our users use the Products. 
-  * The Grammarly products and services you use. This information helps us deliver and support our Products and respond to your requests for assistance. We also collect this information to improve our understanding of how our users use our Products. 
-  * Any User Content you add to your account. We don’t use this information for any purpose other than to provide the Services, make sure it is available to you when you use our Products and improve our algorithms underlying our Products. 
-  *  unique device identifier for devices that are using Grammarly software. We use this information to (i) calculate aggregate statistics on the number of unique devices using our Products, and (ii) detect and prevent misuse of our Products. Our third party fraud detection partner also uses device identifiers for the detection and prevention of fraud and malicious use of our Products. 
+  * For paying users, your payment information required to complete a commercial transaction on the Site. We use this information to enable and fulfill your transaction.
+  * The geographic area where you use your computer and mobile devices (as indicated by an IP address or similar identifier), and the language you select when interacting with our Products. We collect this information in order to help us deliver and support our Products, including by localizing your experience. This information also helps us improve our understanding of how our users use the Products.
+  * The Grammarly products and services you use. This information helps us deliver and support our Products and respond to your requests for assistance. We also collect this information to improve our understanding of how our users use our Products.
+  * Any User Content you add to your account. We don’t use this information for any purpose other than to provide the Services, make sure it is available to you when you use our Products and improve our algorithms underlying our Products.
+  * Unique device identifier for devices that are using Grammarly software. We use this information to (i) calculate aggregate statistics on the number of unique devices using our Products, and (ii) detect and prevent misuse of our Products. Our third party fraud detection partner also uses device identifiers for the detection and prevention of fraud and malicious use of our Products.
 
 
 
@@ -57,7 +57,7 @@ To opt out of  _Google Analytics for Display Advertisers_ and customized Googl
 
 ### Does Grammarly Collect Information from Children?
 
-Grammarly does not knowingly collect personal information from children under the age of 13\. If you are under the age of 13, please do not submit any personal information through the Site, Service or Software. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal through the Site, Service or Software without their permission.
+Grammarly does not knowingly collect personal information from children under the age of 13\. If you are under the age of 13, please do not submit any personal information through the Site, Service or Software. We encourage parents and legal guardians to monitor their children’sInternet usage and to help enforce this Policy by instructing their children never to provide personal through the Site, Service or Software without their permission.
 
 ## II. INFORMATION ACCESS AND DISCLOSURE
 
@@ -66,12 +66,12 @@ Grammarly does not knowingly collect personal information from children under th
 Grammarly is not in the business of selling or renting user information, and we only disclose information when:
 
   * We have your explicit consent to share the information.
-  * We need to share your information with affiliated and unaffiliated service providers who process data on our behalf, including in connection with errors analysis (also called “error dumping”) and correction. 
-  * We need to share your information with affiliated and unaffiliated service providers to fulfill your product or service requests. 
-  * We believe it is necessary to investigate potential violations of the Terms of Service, to enforce those Terms of Service or where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons, property or the systems on which we operate our Products. 
-  * We determine that the access, preservation or disclosure of information is required or permitted by law to protect the rights, property or personal safety of Grammarly and users of our Products, or is required to comply with applicable laws, including compliance with warrants, court orders or other legal process. 
-  * We need to do so in connection with the sale or reorganization of all or part of our business, as permitted by applicable law. 
-  * Some third-party applications and services that work with our Products may ask for permission to access your User Content or other information about your account. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications and services, and your permissions, carefully. 
+  * We need to share your information with affiliated and unaffiliated service providers who process data on our behalf, including in connection with errors analysis (also called “error dumping”) and correction.
+  * We need to share your information with affiliated and unaffiliated service providers to fulfill your product or service requests.
+  * We believe it is necessary to investigate potential violations of the Terms of Service, to enforce those Terms of Service or where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons, property or the systems on which we operate our Products.
+  * We determine that the access, preservation or disclosure of information is required or permitted by law to protect the rights, property or personal safety of Grammarly and users of our Products, or is required to comply with applicable laws, including compliance with warrants, court orders or other legal process.
+  * We need to do so in connection with the sale or reorganization of all or part of our business, as permitted by applicable law.
+  * Some third-party applications and services that work with our Products may ask for permission to access your User Content or other information about your account. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications and services, and your permissions, carefully.
 
 
 
@@ -121,8 +121,8 @@ If Grammarly closes your account due to your violation of the Terms of Servi
 
 ### How Can I Contact Grammarly?
 
-You may contact us with any questions relating to this Privacy Policy by email at [support] AT grammarly DOT com or by postal mail at:
+You may contact us with any questions relating to this Privacy Policy by email at [support@grammarly.com](mailto:support@grammarly.com) or by postal mail at:
 
 Grammarly, Inc.  
 548 Market Street, #35410  
-San Francisco, CA 94104 
+San Francisco, CA 94104
