@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mql5.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011229id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mql5.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121746id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,10 +44,10 @@ We use cookies to control the use of our website, collect non-personal informati
 
 Aggregate Data. We may combine personal information we collect from you with personal information provided by other users, in a non-identifiable format, thus creating aggregate data. We plan to analyze aggregate data mainly to identify group trends. We do not link aggregate user data with personal information and aggregate data can therefore not be used to contact or identify you. We will use user names instead of actual names when creating and analyzing aggregate data. For statistical purposes and tracking group trends, anonymous aggregate data may be shared with other companies with which we have relationships.
 
-### 4\. Changes to This Privacy Policy.
+### 4\. Changes to This Privacy Policy
 
 We reserve the right to revise this Privacy Policy from time to time in part or in full. We encourage you to check our Privacy Policy from time to time to keep yourselves updated with the measures we take to protect your personal information. To view the latest version of our Privacy Policy, click on the <Privacy Policy> link at the foot of our home page. Often, when changes are made to this Privacy Policy, we also revise the "last updated" date at the top of the Privacy Policy but we may not always give other notices of changes. If we make a change to this policy that, in our sole discretion, is material, we will notify you thereof by placing a prominent preliminary notice or by directly sending you a notification to the email address associated with your account. By continuing to access or use the website after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-### 5\. Contact Us.
+### 5\. Contact Us
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us by email at support@mql5.com
